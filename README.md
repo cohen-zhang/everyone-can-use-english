@@ -12,6 +12,16 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 ![Latest Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fenjoy.bot%2Fapi%2Fconfig%2Fapp_version&query=%24.version&label=Latest&link=https%3A%2F%2F1000h.org%2Fenjoy-app%2Finstall.html)
 ![Recording Duration](https://img.shields.io/endpoint?url=https%3A%2F%2Fenjoy.bot%2Fapi%2Fbadges%2Frecordings)
 
+## 本仓库个人用途说明
+
+本仓库为开源项目 [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) 的 clone，在上游代码与书籍内容之外，用于个人英文学习：
+
+- 整理笔记与摘录；
+- 编写或生成与工作、生活、亲子等场景相关的英文材料（短文、对话、聊天用语等）；
+- 长期沉淀为**自己的英文材料书**（例如 `book/MyOwnEnglishBook/`、`book/不多/` 等目录下的 Markdown）。
+
+个人内容与上游开源内容并存；若需同步上游更新，请在本地自行合并处理。
+
 ---
 
 ## 网页版
