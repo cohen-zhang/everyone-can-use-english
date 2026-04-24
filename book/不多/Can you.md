@@ -12,12 +12,14 @@
 
 **可以改用：**
 
-| English | 中文 |
-|--------|------|
-| **You got it?** | 明白了吗？ / 懂了吗？ |
-| **Did I make sense?** | 我讲清楚了吗？ |
-| **Do you get what I’m saying?** | 你懂我意思吗？ |
-| **Do you get / see / know what I mean?** | 你明白我指的是什么吗？ |
+
+| English                                  | 中文           |
+| ---------------------------------------- | ------------ |
+| **You got it?**                          | 明白了吗？ / 懂了吗？ |
+| **Did I make sense?**                    | 我讲清楚了吗？      |
+| **Do you get what I’m saying?**          | 你懂我意思吗？      |
+| **Do you get / see / know what I mean?** | 你明白我指的是什么吗？  |
+
 
 ---
 
@@ -29,9 +31,11 @@
 
 **更常见的说法：**
 
-| English | 中文 |
-|--------|------|
+
+| English                   | 中文      |
+| ------------------------- | ------- |
 | **Do you speak English?** | 你会说英语吗？ |
+
 
 ---
 
@@ -39,12 +43,14 @@
 
 听不懂时可以说：
 
-| English | 中文 |
-|--------|------|
-| **Excuse me?** | 嗯？ / 请再说一遍？ |
-| **Pardon?** | 请重复一下？ |
-| **Come again?** | 再说一遍？（口语） |
-| **Sorry, I didn’t catch that.** | 抱歉，我没听清。 |
+
+| English                         | 中文          |
+| ------------------------------- | ----------- |
+| **Excuse me?**                  | 嗯？ / 请再说一遍？ |
+| **Pardon?**                     | 请重复一下？      |
+| **Come again?**                 | 再说一遍？（口语）   |
+| **Sorry, I didn’t catch that.** | 抱歉，我没听清。    |
+
 
 ---
 
