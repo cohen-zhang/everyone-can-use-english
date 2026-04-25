@@ -1,6 +1,6 @@
 # 《摩登家庭》S01E12 — 生活场景实用英文句
 
-素材来源：`[美剧/摩登家庭 S01/摩登家庭 S01-12.txt](../../美剧/摩登家庭 S01/摩登家庭 S01-12.txt)`。
+素材来源：`[美剧/摩登家庭 S01/modern-family-s01e12-transcript.txt](../transcript/modern-family-s01e12-transcript.txt)`。
 
 **当前字幕文件为空或仅有标题，暂无可用对白行。**
 

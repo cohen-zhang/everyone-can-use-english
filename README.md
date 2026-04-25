@@ -24,9 +24,9 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 ---
 
-## 个人学习目录重构（目录名已完成）
+## 个人学习目录重构（目录名 + 文件名已完成）
 
-本次已完成“目录名重构”（未改文件名）。个人学习资料已集中到 `learning-notes/` 下。
+本次已完成两步重构：目录名迁移 + 文件名统一。个人学习资料已集中到 `learning-notes/` 下，且命名统一为 `kebab-case`。
 
 ### 当前目录树（目录改名后）
 
@@ -41,15 +41,18 @@ learning-notes/
       episode-notes/
 
   grammar-lab/
-    从娃娃抓起的漫画英语语法.md
-    英语语法之语法体系-（英语兔）.md
-    语法王国.md
+    kids-comic-grammar-foundations.md
+    english-grammar-system-overview-yingyutu.md
+    grammar-kingdom-notes.md
 
   parenting-english/
-    ...（原 book/不多 内容，待下一步按场景拆分子目录）
+    parenting-home-appliance-daily-phrases.md
+    parenting-phone-daily-phrases.md
+    learning-plan-90d-parenting-english.md
+    ...（其余文件已统一命名）
 
   personal-english-book/
-    ...（原 book/MyOwnEnglishBook 内容）
+    project-overview-design.md
     life/
     work/
     study/
@@ -76,11 +79,17 @@ learning-notes/
 | 目录迁移 | `book/MyOwnEnglishBook/` | `learning-notes/personal-english-book/` | 已完成 | 个人英语材料书目录 |
 | 目录清理 | `美剧/` | （移除） | 已完成 | 子目录迁移后空目录已删除 |
 
-### 下一步（仅文件名）
+### 文件名变更说明表（第二步）
 
-- 保持目录不变，仅重命名文件为统一 `kebab-case`
-- 优先处理 `learning-notes/parenting-english/` 与 `learning-notes/personal-english-book/`
-- 完成后统一更新内部链接
+| 变更类型 | 旧文件名 | 新文件名 | 范围 | 状态 |
+| --- | --- | --- | --- | --- |
+| 剧集转录 | `摩登家庭 S01-01.txt` | `modern-family-s01e01-transcript.txt` | `tv-series/modern-family/s01/transcript/` | 已完成（01-24） |
+| 剧集笔记 | `S01E01-生活实用英文句.md` | `modern-family-s01e01-daily-lines.md` | `tv-series/modern-family/s01/notes/` | 已完成（01-24） |
+| Jeff 系列 | `Episode 02 – Cleaning Up.txt` | `jeff-e02-cleaning-up-transcript.txt` | `tv-series/a-day-in-the-life-of-jeff/episode-notes/` | 已完成（E01-E10） |
+| 亲子资料 | `手机使用日常.md` | `parenting-phone-daily-phrases.md` | `parenting-english/` | 已完成（全量） |
+| 个人资料 | `情绪-成人版.md` | `emotions-adult-edition.md` | `personal-english-book/life/` | 已完成（全量） |
+| 语法资料 | `语法王国.md` | `grammar-kingdom-notes.md` | `grammar-lab/` | 已完成（全量） |
+| 技术文档目录 | `对冲交易平台_BOS 概要设计/` | `hedging-platform-bos-overview-design/` | `personal-english-book/` | 已完成 |
 
 ### 亲子目录内文件重命名示例
 
@@ -95,7 +104,8 @@ learning-notes/
 - `学习计划-90天-亲子英文.md` -> `learning-plan-90d-parenting-english.md`
 - `记忆曲线跟踪-亲子英文.md` -> `spaced-repetition-tracker-parenting-english.md`
 
-> 已完成第 1 步（目录名）；下一步执行第 2 步（文件名统一），最后集中更新内部链接。
+> 目录名与文件名重构均已完成，`learning-notes/` 内部 Markdown 相对链接已同步修复。
+> 后续若新增资料，请按同一命名规范直接落盘，避免再次迁移。
 
 ---
 
