@@ -24,88 +24,51 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 ---
 
-## 个人学习目录重构（目录名 + 文件名已完成）
+## 个人学习目录（最新）
 
-本次已完成两步重构：目录名迁移 + 文件名统一。个人学习资料已集中到 `learning-notes/` 下，且命名统一为 `kebab-case`。
+个人学习资料已统一收敛到 `learning-notes/`，目录与文件名采用英文 `kebab-case`，并已完成内部链接修复。
 
-### 当前目录树（目录改名后）
+### 目录树（按当前实际结构）
 
 ```text
 learning-notes/
   tv-series/
     modern-family/
       s01/
-        transcript/        # 原始字幕/台词 txt
-        notes/             # 学习笔记 md
+        transcript/   # 原始台词与转录（txt/md）
+        notes/        # 每集学习笔记（md）
     a-day-in-the-life-of-jeff/
-      episode-notes/
+      episode-notes/  # Jeff 系列逐集笔记与转录
 
-  grammar-lab/
-    kids-comic-grammar-foundations.md
-    english-grammar-system-overview-yingyutu.md
-    grammar-kingdom-notes.md
+  grammar-lab/        # 语法学习与语法体系
 
-  parenting-english/
-    parenting-home-appliance-daily-phrases.md
-    parenting-phone-daily-phrases.md
-    learning-plan-90d-parenting-english.md
-    ...（其余文件已统一命名）
+  parenting-english/  # 亲子场景英语（不多 / Celine）
 
   personal-english-book/
-    project-overview-design.md
-    life/
-    work/
-    study/
+    life/             # 生活主题英语
+    work/             # 工作与职场英语
+    study/            # 学习与技术英语
+    hedging-platform-bos-overview-design/  # 专题技术文档
 ```
 
-### 统一命名规则（文件夹 + 文件）
+### 分类说明（英文目录名对应中文）
 
-- 全部使用小写英文 + 连字符：`kebab-case`
-- 统一后缀：笔记用 `.md`，原始文本用 `.txt`
-- 集合命名：`主题-对象-用途.md`
-- 剧集命名：`modern-family-s01e01-transcript.txt`、`modern-family-s01e01-daily-lines.md`
-- 亲子命名：`parenting-<scene>-<type>.md`
-- 学习管理命名：`learning-plan-90d-parenting-english.md`、`spaced-repetition-tracker-parenting-english.md`
+| 英文目录 | 中文说明 | 典型内容 |
+| --- | --- | --- |
+| `tv-series` | 美剧与情景素材 | `modern-family`、`a-day-in-the-life-of-jeff` |
+| `grammar-lab` | 语法实验室 | 语法体系、语法笔记、语法专项材料 |
+| `parenting-english` | 亲子英语资料库 | 日常场景、词汇表、互动游戏、90天计划 |
+| `personal-english-book` | 个人英语材料书 | 生活、工作、学习三大分区 |
+| `life` | 生活场景 | 情绪、天气、社区、日常表达 |
+| `work` | 工作场景 | IM沟通、会议、出差、流程与业务表达 |
+| `study` | 学习场景 | 技术英语、学习日志、术语积累 |
 
-### 目录变更说明表
+### 命名与维护规则（简版）
 
-| 变更类型 | 旧路径 | 新路径 | 状态 | 说明 |
-| --- | --- | --- | --- | --- |
-| 目录迁移 | `语法/` | `learning-notes/grammar-lab/` | 已完成 | 语法资料已集中到 grammar-lab |
-| 目录迁移 | `美剧/摩登家庭 S01/` | `learning-notes/tv-series/modern-family/s01/transcript/` | 已完成 | 原始台词 txt 归档 |
-| 目录迁移 | `book/摩登家庭/` | `learning-notes/tv-series/modern-family/s01/notes/` | 已完成 | 摩登家庭笔记 md 归档 |
-| 目录迁移 | `book/A Day in the Life of Jeff/` | `learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/` | 已完成 | Jeff 系列内容归档 |
-| 目录迁移 | `book/不多/` | `learning-notes/parenting-english/` | 已完成 | 亲子英文资料主目录 |
-| 目录迁移 | `book/MyOwnEnglishBook/` | `learning-notes/personal-english-book/` | 已完成 | 个人英语材料书目录 |
-| 目录清理 | `美剧/` | （移除） | 已完成 | 子目录迁移后空目录已删除 |
-
-### 文件名变更说明表（第二步）
-
-| 变更类型 | 旧文件名 | 新文件名 | 范围 | 状态 |
-| --- | --- | --- | --- | --- |
-| 剧集转录 | `摩登家庭 S01-01.txt` | `modern-family-s01e01-transcript.txt` | `tv-series/modern-family/s01/transcript/` | 已完成（01-24） |
-| 剧集笔记 | `S01E01-生活实用英文句.md` | `modern-family-s01e01-daily-lines.md` | `tv-series/modern-family/s01/notes/` | 已完成（01-24） |
-| Jeff 系列 | `Episode 02 – Cleaning Up.txt` | `jeff-e02-cleaning-up-transcript.txt` | `tv-series/a-day-in-the-life-of-jeff/episode-notes/` | 已完成（E01-E10） |
-| 亲子资料 | `手机使用日常.md` | `parenting-phone-daily-phrases.md` | `parenting-english/` | 已完成（全量） |
-| 个人资料 | `情绪-成人版.md` | `emotions-adult-edition.md` | `personal-english-book/life/` | 已完成（全量） |
-| 语法资料 | `语法王国.md` | `grammar-kingdom-notes.md` | `grammar-lab/` | 已完成（全量） |
-| 技术文档目录 | `对冲交易平台_BOS 概要设计/` | `hedging-platform-bos-overview-design/` | `personal-english-book/` | 已完成 |
-
-### 亲子目录内文件重命名示例
-
-- `电器使用日常.md` -> `parenting-home-appliance-daily-phrases.md`
-- `手机使用日常.md` -> `parenting-phone-daily-phrases.md`
-- `常见符号-亲子英文.md` -> `parenting-symbols-common-vocab.md`
-- `深圳小学课程-亲子英文.md` -> `parenting-primary-school-subjects-vocab.md`
-- `日常礼貌与餐桌礼仪-亲子英文.md` -> `parenting-table-manners-daily-phrases.md`
-- `中国常见食物-亲子英文.md` -> `parenting-china-food-common-vocab.md`
-- `穿衣日常-深圳亲子英文.md` -> `parenting-shenzhen-dressing-daily-phrases.md`
-- `梳妆打扮-女孩版亲子英文.md` -> `parenting-girl-grooming-daily-phrases.md`
-- `学习计划-90天-亲子英文.md` -> `learning-plan-90d-parenting-english.md`
-- `记忆曲线跟踪-亲子英文.md` -> `spaced-repetition-tracker-parenting-english.md`
-
-> 目录名与文件名重构均已完成，`learning-notes/` 内部 Markdown 相对链接已同步修复。
-> 后续若新增资料，请按同一命名规范直接落盘，避免再次迁移。
+- 文件夹与文件统一使用 `kebab-case`
+- 学习文档优先使用 `.md`，原始文本使用 `.txt`
+- 新增文件时保持“主题-场景-用途”风格，便于检索与长期维护
+- 如新增子目录，请在本节同步补充中文说明
 
 ---
 
