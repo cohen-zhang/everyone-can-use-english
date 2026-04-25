@@ -63,9 +63,137 @@ learning-notes/
 | `work` | 工作场景 | IM沟通、会议、出差、流程与业务表达 |
 | `study` | 学习场景 | 技术英语、学习日志、术语积累 |
 
+### 文件列表与中文说明（按目录）
+
+以下清单基于当前 `learning-notes/` 实际文件遍历结果整理。
+
+#### `grammar-lab/`（语法实验室）
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `english-grammar-system-overview-yingyutu.md` | 英语语法体系总览（英语兔） |
+| `grammar-kingdom-notes.md` | 语法王国主题笔记 |
+| `kids-comic-grammar-foundations.md` | 面向儿童启蒙的漫画语法基础 |
+
+#### `parenting-english/`（亲子英语资料库）
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `learning-plan-90d-parenting-english.md` | 90天亲子英文学习计划 |
+| `parenting-actions-vocab.md` | 亲子动作类词汇 |
+| `parenting-animal-guessing-game-log.md` | 动物猜猜猜游戏记录 |
+| `parenting-animals-vocab.md` | 动物词汇表 |
+| `parenting-can-you-prompts.md` | `Can you` 句型提问模板 |
+| `parenting-can-you-questions.md` | `Can you` 句型问答练习 |
+| `parenting-celine-life-scenario-index.md` | Celine 生活场景索引 |
+| `parenting-china-food-common-vocab.md` | 中国常见食物词汇 |
+| `parenting-eating-daily-phrases.md` | 吃饭场景日常表达 |
+| `parenting-emoji-bilingual-vocab.md` | Emoji 表情中英对照词汇 |
+| `parenting-emotions-kids-edition.md` | 儿童情绪表达 |
+| `parenting-exercise-practice.md` | 亲子英语练习稿 |
+| `parenting-expression-guessing-game.md` | 表情猜猜猜互动游戏 |
+| `parenting-girl-grooming-daily-phrases.md` | 女孩梳妆打扮场景表达 |
+| `parenting-home-appliance-daily-phrases.md` | 家电使用场景表达 |
+| `parenting-jeff-demo-guide.md` | Jeff 博士讲解示范说明 |
+| `parenting-metro-scenario-phrases.md` | 地铁出行场景表达 |
+| `parenting-one-day-of-celine-part-2.md` | Celine 的一天（第二部分） |
+| `parenting-one-day-of-celine.md` | Celine 的一天（第一部分） |
+| `parenting-peppa-pig-notes.md` | 小猪佩奇相关学习笔记 |
+| `parenting-phone-daily-phrases.md` | 手机使用场景表达 |
+| `parenting-praise-and-blessings.md` | 夸奖与祝福表达 |
+| `parenting-primary-school-subjects-vocab.md` | 小学学科词汇（深圳场景） |
+| `parenting-self-talk-phrases.md` | 自我鼓励/自我暗示表达 |
+| `parenting-shenzhen-dressing-daily-phrases.md` | 穿衣日常表达（深圳场景） |
+| `parenting-symbols-common-vocab.md` | 常见符号词汇 |
+| `parenting-table-manners-daily-phrases.md` | 礼貌与餐桌礼仪表达 |
+| `parenting-tidy-up-daily-phrases.md` | 收拾整理场景表达 |
+
+#### `personal-english-book/`（个人英语材料书）
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `project-overview-design.md` | 个人项目/主题的概要设计 |
+
+**`life/`（生活）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `andy-warhol-notes.md` | 安迪沃霍尔主题笔记 |
+| `community-management-english.md` | 小区生活与物业沟通英语 |
+| `emotions-adult-edition.md` | 成人情绪表达 |
+| `fitness-daily-expressions.md` | 健身场景日常表达 |
+| `focus-notes.md` | 专注/注意力主题笔记 |
+| `introduce-myself.md` | 自我介绍表达 |
+| `personal-matters.md` | 个人事务表达 |
+| `praise-my-wife-expressions.md` | 夸奖配偶表达 |
+| `romantic-expressions.md` | 浪漫表达 |
+| `weather-daily-expressions.md` | 天气场景表达 |
+| `world-cinema-quick-notes.md` | 世界电影随记 |
+
+**`work/`（工作）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `business-trip.md` | 出差场景表达 |
+| `do-not-go-gentle-into-that-good-night.md` | 名句/诗歌表达学习笔记 |
+| `financial-system-issue-analysis.md` | 金融系统问题梳理 |
+| `organizing-a-meeting-via-feishu.md` | 飞书组织会议表达 |
+| `r-and-d-workflow.md` | 研发流程表达 |
+| `work-english-client-wechat.md` | 客户侧微信沟通英语 |
+| `work-english-instant-messaging.md` | 工作 IM 沟通表达 |
+| `work-travel-and-business-trip.md` | 工作出行与出差表达 |
+| `workplace-admin-english.md` | 行政与办公场景表达 |
+
+**`study/`（学习）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `computer-science-vocab-interesting.md` | 有趣的计算机专业词汇 |
+| `english-journal-apple-note.md` | 英文学习日志（Apple Notes） |
+| `idea-editor-intro-video-script.md` | IDEA 编辑器介绍视频脚本 |
+| `java-developer-work-diary.md` | Java 开发者工作日记 |
+| `spring-framework-notes.md` | Spring Framework 学习笔记 |
+| `stock-and-commodity-broker-notes.md` | 股票与商品经纪主题笔记 |
+
+**`hedging-platform-bos-overview-design/`（专题技术文档）**
+
+| 文件/目录 | 中文说明 |
+| --- | --- |
+| `hedging-platform-bos-overview-design.md` | 对冲交易平台 BOS 概要设计主文档 |
+| `hedging-platform-bos-overview-design.md.backup` | 主文档备份 |
+| `images/` | 文档配图目录（系统架构图、流程图、示意图） |
+
+#### `tv-series/`（美剧与情景素材）
+
+**`a-day-in-the-life-of-jeff/episode-notes/`**
+
+| 文件模式/文件 | 中文说明 |
+| --- | --- |
+| `jeff-e01-getting-up-notes.md` | Jeff 第1集起床场景学习笔记 |
+| `jeff-e01-getting-up-transcript.txt` ... `jeff-e10-ready-for-bed-transcript.txt` | Jeff 第1-10集逐集转录文本 |
+
+**`modern-family/s01/transcript/`**
+
+| 文件模式/文件 | 中文说明 |
+| --- | --- |
+| `modern-family-s01e01-transcript.txt` ... `modern-family-s01e24-transcript.txt` | 摩登家庭 S01 第1-24集转录文本 |
+| `modern-family-s01e22-daily-lines.md` | S01E22 的人工整理实用句 |
+
+**`modern-family/s01/notes/`**
+
+| 文件模式/文件 | 中文说明 |
+| --- | --- |
+| `modern-family-s01e01-daily-lines.md` ... `modern-family-s01e24-daily-lines.md` | 摩登家庭 S01 各集生活实用句笔记 |
+| `modern-family-s01e02-key-to-being-a-great-dad.md` | S01E02 亲子主题精编对话笔记 |
+| `readme.md` | 本目录索引与使用说明 |
+| `scripts/build-modern-family-s01-md.py` | 批量生成 S01 笔记的脚本 |
+
 ### 命名与维护规则（简版）
 
 - 文件夹与文件统一使用 `kebab-case`
+- `kebab-case` 含义：全部小写单词，用中划线 `-` 连接，不使用空格、下划线或中文标点
+- 示例：`parenting-phone-daily-phrases.md`、`modern-family-s01e01-transcript.txt`
+- 反例：`Parenting_Phone.md`、`parenting phone.md`、`亲子-手机.md`
 - 学习文档优先使用 `.md`，原始文本使用 `.txt`
 - 新增文件时保持“主题-场景-用途”风格，便于检索与长期维护
 - 如新增子目录，请在本节同步补充中文说明
