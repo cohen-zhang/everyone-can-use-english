@@ -24,36 +24,90 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 ---
 
-## 个人学习目录（新版命名建议）
+## 个人学习目录重构（现状 + 目标）
 
-为便于长期维护，建议把你新增的三类内容按“英文友好 + 可扩展”方式管理（可逐步迁移，不必一次改完）：
+当前个人学习资料主要分散在 `美剧/`、`语法/`、`book/`，存在重复目录与命名不统一问题。建议按下面结构逐步迁移。
 
-- `美剧/` -> `tv-series/`
-- `语法/` -> `grammar-lab/`
-- `book/` -> `learning-notes/`
+### 当前目录树（核心部分）
 
-### 文档命名规则（建议）
+```text
+美剧/
+  摩登家庭 S01/
+    摩登家庭 S01-01.txt ... 摩登家庭 S01-24.txt
 
-- 统一格式：`主题-场景-标签.md`
-- 示例：
-  - `modern-family-s01e22-daily-lines.md`
-  - `grammar-core-tense-overview.md`
-  - `parenting-phone-daily-phrases.md`
-  - `food-china-common-vocab.md`
+语法/
+  从娃娃抓起的漫画英语语法.md
+  英语语法之语法体系-（英语兔）.md
+  语法王国.md
 
-### 最近新增内容（亲子场景）
+book/
+  不多/
+  摩登家庭/
+  A Day in the Life of Jeff/
+  MyOwnEnglishBook/
+```
 
-- `book/不多/电器使用日常.md`
-- `book/不多/手机使用日常.md`
-- `book/不多/常见符号-亲子英文.md`
-- `book/不多/深圳小学课程-亲子英文.md`
-- `book/不多/日常礼貌与餐桌礼仪-亲子英文.md`
-- `book/不多/中国常见食物-亲子英文.md`
+### 目标目录结构（统一英文命名）
 
-### 学习管理文档（新建）
+```text
+learning-notes/
+  tv-series/
+    modern-family/
+      s01/
+        transcript/        # 原始字幕/台词 txt
+        notes/             # 学习笔记 md
+    a-day-in-the-life-of-jeff/
+      episode-notes/
 
-- `book/不多/学习计划-90天-亲子英文.md`
-- `book/不多/记忆曲线跟踪-亲子英文.md`
+  grammar-lab/
+    foundations/
+    kids-grammar/
+
+  parenting-english/
+    daily-life/
+    school-life/
+    games-and-activities/
+    learning-management/
+
+  personal-english-book/
+    life/
+    work/
+    study/
+```
+
+### 统一命名规则（文件夹 + 文件）
+
+- 全部使用小写英文 + 连字符：`kebab-case`
+- 统一后缀：笔记用 `.md`，原始文本用 `.txt`
+- 集合命名：`主题-对象-用途.md`
+- 剧集命名：`modern-family-s01e01-transcript.txt`、`modern-family-s01e01-daily-lines.md`
+- 亲子命名：`parenting-<scene>-<type>.md`
+- 学习管理命名：`learning-plan-90d-parenting-english.md`、`spaced-repetition-tracker-parenting-english.md`
+
+### 第一批重命名映射（建议直接执行）
+
+- `美剧/` -> `learning-notes/tv-series/`
+- `语法/` -> `learning-notes/grammar-lab/`
+- `book/不多/` -> `learning-notes/parenting-english/`
+- `book/MyOwnEnglishBook/` -> `learning-notes/personal-english-book/`
+- `book/摩登家庭/` -> `learning-notes/tv-series/modern-family/s01/notes/`
+- `美剧/摩登家庭 S01/` -> `learning-notes/tv-series/modern-family/s01/transcript/`
+- `book/A Day in the Life of Jeff/` -> `learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/`
+
+### 亲子目录内文件重命名示例
+
+- `电器使用日常.md` -> `parenting-home-appliance-daily-phrases.md`
+- `手机使用日常.md` -> `parenting-phone-daily-phrases.md`
+- `常见符号-亲子英文.md` -> `parenting-symbols-common-vocab.md`
+- `深圳小学课程-亲子英文.md` -> `parenting-primary-school-subjects-vocab.md`
+- `日常礼貌与餐桌礼仪-亲子英文.md` -> `parenting-table-manners-daily-phrases.md`
+- `中国常见食物-亲子英文.md` -> `parenting-china-food-common-vocab.md`
+- `穿衣日常-深圳亲子英文.md` -> `parenting-shenzhen-dressing-daily-phrases.md`
+- `梳妆打扮-女孩版亲子英文.md` -> `parenting-girl-grooming-daily-phrases.md`
+- `学习计划-90天-亲子英文.md` -> `learning-plan-90d-parenting-english.md`
+- `记忆曲线跟踪-亲子英文.md` -> `spaced-repetition-tracker-parenting-english.md`
+
+> 建议分两步：先改“目录名”，再改“文件名”，最后统一更新 README 与内部链接，避免一次性大改难以回滚。
 
 ---
 
