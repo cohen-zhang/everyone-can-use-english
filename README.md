@@ -24,6 +24,39 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 ---
 
+## 个人学习目录（新版命名建议）
+
+为便于长期维护，建议把你新增的三类内容按“英文友好 + 可扩展”方式管理（可逐步迁移，不必一次改完）：
+
+- `美剧/` -> `tv-series/`
+- `语法/` -> `grammar-lab/`
+- `book/` -> `learning-notes/`
+
+### 文档命名规则（建议）
+
+- 统一格式：`主题-场景-标签.md`
+- 示例：
+  - `modern-family-s01e22-daily-lines.md`
+  - `grammar-core-tense-overview.md`
+  - `parenting-phone-daily-phrases.md`
+  - `food-china-common-vocab.md`
+
+### 最近新增内容（亲子场景）
+
+- `book/不多/电器使用日常.md`
+- `book/不多/手机使用日常.md`
+- `book/不多/常见符号-亲子英文.md`
+- `book/不多/深圳小学课程-亲子英文.md`
+- `book/不多/日常礼貌与餐桌礼仪-亲子英文.md`
+- `book/不多/中国常见食物-亲子英文.md`
+
+### 学习管理文档（新建）
+
+- `book/不多/学习计划-90天-亲子英文.md`
+- `book/不多/记忆曲线跟踪-亲子英文.md`
+
+---
+
 ## 网页版
 
 Enjoy 全新版本已经上线，可访问 [https://enjoy.bot](https://enjoy.bot) 直接使用。
