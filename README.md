@@ -43,6 +43,13 @@ learning-notes/
   grammar-lab/        # 语法学习与语法体系
 
   parenting-english/  # 亲子场景英语（不多 / Celine）
+    daily-life/               # 日常生活
+    communication-patterns/   # 互动句型
+    vocabulary/               # 主题词汇
+    games-and-activities/     # 游戏与练习
+    school-life/              # 校园与课程
+    learning-management/      # 学习管理
+    reference-guides/         # 索引与说明
 
   personal-english-book/
     life/             # 生活主题英语
@@ -57,7 +64,14 @@ learning-notes/
 | --- | --- | --- |
 | `tv-series` | 美剧与情景素材 | `modern-family`、`a-day-in-the-life-of-jeff` |
 | `grammar-lab` | 语法实验室 | 语法体系、语法笔记、语法专项材料 |
-| `parenting-english` | 亲子英语资料库 | 日常场景、词汇表、互动游戏、90天计划 |
+| `parenting-english` | 亲子英语资料库 | 日常场景、词汇表、互动游戏、学习计划与索引 |
+| `daily-life` | 日常生活子类 | 吃饭、穿衣、手机、地铁、情绪、礼仪等 |
+| `communication-patterns` | 互动句型子类 | `Can you` 提问与回应句型 |
+| `vocabulary` | 词汇子类 | 动作、动物、食物、符号、表情词汇 |
+| `games-and-activities` | 游戏练习子类 | 猜词游戏、互动练习、动画笔记 |
+| `school-life` | 校园子类 | 小学课程相关词汇 |
+| `learning-management` | 学习管理子类 | 90天计划、复盘与跟踪 |
+| `reference-guides` | 参考说明子类 | 场景索引、讲解示范文档 |
 | `personal-english-book` | 个人英语材料书 | 生活、工作、学习三大分区 |
 | `life` | 生活场景 | 情绪、天气、社区、日常表达 |
 | `work` | 工作场景 | IM沟通、会议、出差、流程与业务表达 |
@@ -77,36 +91,68 @@ learning-notes/
 
 #### `parenting-english/`（亲子英语资料库）
 
+**`daily-life/`（日常生活）**
+
 | 文件 | 中文说明 |
 | --- | --- |
-| `learning-plan-90d-parenting-english.md` | 90天亲子英文学习计划 |
-| `parenting-actions-vocab.md` | 亲子动作类词汇 |
-| `parenting-animal-guessing-game-log.md` | 动物猜猜猜游戏记录 |
-| `parenting-animals-vocab.md` | 动物词汇表 |
-| `parenting-can-you-prompts.md` | `Can you` 句型提问模板 |
-| `parenting-can-you-questions.md` | `Can you` 句型问答练习 |
-| `parenting-celine-life-scenario-index.md` | Celine 生活场景索引 |
-| `parenting-china-food-common-vocab.md` | 中国常见食物词汇 |
-| `parenting-eating-daily-phrases.md` | 吃饭场景日常表达 |
-| `parenting-emoji-bilingual-vocab.md` | Emoji 表情中英对照词汇 |
-| `parenting-emotions-kids-edition.md` | 儿童情绪表达 |
-| `parenting-exercise-practice.md` | 亲子英语练习稿 |
-| `parenting-expression-guessing-game.md` | 表情猜猜猜互动游戏 |
-| `parenting-girl-grooming-daily-phrases.md` | 女孩梳妆打扮场景表达 |
-| `parenting-home-appliance-daily-phrases.md` | 家电使用场景表达 |
-| `parenting-jeff-demo-guide.md` | Jeff 博士讲解示范说明 |
-| `parenting-metro-scenario-phrases.md` | 地铁出行场景表达 |
-| `parenting-one-day-of-celine-part-2.md` | Celine 的一天（第二部分） |
-| `parenting-one-day-of-celine.md` | Celine 的一天（第一部分） |
-| `parenting-peppa-pig-notes.md` | 小猪佩奇相关学习笔记 |
-| `parenting-phone-daily-phrases.md` | 手机使用场景表达 |
-| `parenting-praise-and-blessings.md` | 夸奖与祝福表达 |
-| `parenting-primary-school-subjects-vocab.md` | 小学学科词汇（深圳场景） |
-| `parenting-self-talk-phrases.md` | 自我鼓励/自我暗示表达 |
-| `parenting-shenzhen-dressing-daily-phrases.md` | 穿衣日常表达（深圳场景） |
-| `parenting-symbols-common-vocab.md` | 常见符号词汇 |
-| `parenting-table-manners-daily-phrases.md` | 礼貌与餐桌礼仪表达 |
-| `parenting-tidy-up-daily-phrases.md` | 收拾整理场景表达 |
+| `daily-life/parenting-eating-daily-phrases.md` | 吃饭场景日常表达 |
+| `daily-life/parenting-emotions-kids-edition.md` | 儿童情绪表达 |
+| `daily-life/parenting-girl-grooming-daily-phrases.md` | 女孩梳妆打扮场景表达 |
+| `daily-life/parenting-home-appliance-daily-phrases.md` | 家电使用场景表达 |
+| `daily-life/parenting-metro-scenario-phrases.md` | 地铁出行场景表达 |
+| `daily-life/parenting-one-day-of-celine.md` | Celine 的一天（第一部分） |
+| `daily-life/parenting-one-day-of-celine-part-2.md` | Celine 的一天（第二部分） |
+| `daily-life/parenting-phone-daily-phrases.md` | 手机使用场景表达 |
+| `daily-life/parenting-praise-and-blessings.md` | 夸奖与祝福表达 |
+| `daily-life/parenting-self-talk-phrases.md` | 自我鼓励/自我暗示表达 |
+| `daily-life/parenting-shenzhen-dressing-daily-phrases.md` | 穿衣日常表达（深圳场景） |
+| `daily-life/parenting-table-manners-daily-phrases.md` | 礼貌与餐桌礼仪表达 |
+| `daily-life/parenting-tidy-up-daily-phrases.md` | 收拾整理场景表达 |
+
+**`communication-patterns/`（互动句型）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `communication-patterns/parenting-can-you-prompts.md` | `Can you` 句型提问模板 |
+| `communication-patterns/parenting-can-you-questions.md` | `Can you` 句型问答练习 |
+
+**`vocabulary/`（主题词汇）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `vocabulary/parenting-actions-vocab.md` | 亲子动作类词汇 |
+| `vocabulary/parenting-animals-vocab.md` | 动物词汇表 |
+| `vocabulary/parenting-china-food-common-vocab.md` | 中国常见食物词汇 |
+| `vocabulary/parenting-emoji-bilingual-vocab.md` | Emoji 表情中英对照词汇 |
+| `vocabulary/parenting-symbols-common-vocab.md` | 常见符号词汇 |
+
+**`games-and-activities/`（游戏与练习）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `games-and-activities/parenting-animal-guessing-game-log.md` | 动物猜猜猜游戏记录 |
+| `games-and-activities/parenting-exercise-practice.md` | 亲子英语练习稿 |
+| `games-and-activities/parenting-expression-guessing-game.md` | 表情猜猜猜互动游戏 |
+| `games-and-activities/parenting-peppa-pig-notes.md` | 小猪佩奇相关学习笔记 |
+
+**`school-life/`（校园场景）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `school-life/parenting-primary-school-subjects-vocab.md` | 小学学科词汇（深圳场景） |
+
+**`learning-management/`（学习管理）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `learning-management/learning-plan-90d-parenting-english.md` | 90天亲子英文学习计划 |
+
+**`reference-guides/`（索引与说明）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `reference-guides/parenting-celine-life-scenario-index.md` | Celine 生活场景索引 |
+| `reference-guides/parenting-jeff-demo-guide.md` | Jeff 博士讲解示范说明 |
 
 #### `personal-english-book/`（个人英语材料书）
 
