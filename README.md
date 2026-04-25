@@ -18,36 +18,17 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 
 - 整理笔记与摘录；
 - 编写或生成与工作、生活、亲子等场景相关的英文材料（短文、对话、聊天用语等）；
-- 长期沉淀为**自己的英文材料书**（例如 `book/MyOwnEnglishBook/`、`book/不多/` 等目录下的 Markdown）。
+- 长期沉淀为**自己的英文材料书**（例如 `learning-notes/personal-english-book/`、`learning-notes/parenting-english/` 等目录下的 Markdown）。
 
 个人内容与上游开源内容并存；若需同步上游更新，请在本地自行合并处理。
 
 ---
 
-## 个人学习目录重构（现状 + 目标）
+## 个人学习目录重构（目录名已完成）
 
-当前个人学习资料主要分散在 `美剧/`、`语法/`、`book/`，存在重复目录与命名不统一问题。建议按下面结构逐步迁移。
+本次已完成“目录名重构”（未改文件名）。个人学习资料已集中到 `learning-notes/` 下。
 
-### 当前目录树（核心部分）
-
-```text
-美剧/
-  摩登家庭 S01/
-    摩登家庭 S01-01.txt ... 摩登家庭 S01-24.txt
-
-语法/
-  从娃娃抓起的漫画英语语法.md
-  英语语法之语法体系-（英语兔）.md
-  语法王国.md
-
-book/
-  不多/
-  摩登家庭/
-  A Day in the Life of Jeff/
-  MyOwnEnglishBook/
-```
-
-### 目标目录结构（统一英文命名）
+### 当前目录树（目录改名后）
 
 ```text
 learning-notes/
@@ -60,16 +41,15 @@ learning-notes/
       episode-notes/
 
   grammar-lab/
-    foundations/
-    kids-grammar/
+    从娃娃抓起的漫画英语语法.md
+    英语语法之语法体系-（英语兔）.md
+    语法王国.md
 
   parenting-english/
-    daily-life/
-    school-life/
-    games-and-activities/
-    learning-management/
+    ...（原 book/不多 内容，待下一步按场景拆分子目录）
 
   personal-english-book/
+    ...（原 book/MyOwnEnglishBook 内容）
     life/
     work/
     study/
@@ -84,15 +64,23 @@ learning-notes/
 - 亲子命名：`parenting-<scene>-<type>.md`
 - 学习管理命名：`learning-plan-90d-parenting-english.md`、`spaced-repetition-tracker-parenting-english.md`
 
-### 第一批重命名映射（建议直接执行）
+### 目录变更说明表
 
-- `美剧/` -> `learning-notes/tv-series/`
-- `语法/` -> `learning-notes/grammar-lab/`
-- `book/不多/` -> `learning-notes/parenting-english/`
-- `book/MyOwnEnglishBook/` -> `learning-notes/personal-english-book/`
-- `book/摩登家庭/` -> `learning-notes/tv-series/modern-family/s01/notes/`
-- `美剧/摩登家庭 S01/` -> `learning-notes/tv-series/modern-family/s01/transcript/`
-- `book/A Day in the Life of Jeff/` -> `learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/`
+| 变更类型 | 旧路径 | 新路径 | 状态 | 说明 |
+| --- | --- | --- | --- | --- |
+| 目录迁移 | `语法/` | `learning-notes/grammar-lab/` | 已完成 | 语法资料已集中到 grammar-lab |
+| 目录迁移 | `美剧/摩登家庭 S01/` | `learning-notes/tv-series/modern-family/s01/transcript/` | 已完成 | 原始台词 txt 归档 |
+| 目录迁移 | `book/摩登家庭/` | `learning-notes/tv-series/modern-family/s01/notes/` | 已完成 | 摩登家庭笔记 md 归档 |
+| 目录迁移 | `book/A Day in the Life of Jeff/` | `learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/` | 已完成 | Jeff 系列内容归档 |
+| 目录迁移 | `book/不多/` | `learning-notes/parenting-english/` | 已完成 | 亲子英文资料主目录 |
+| 目录迁移 | `book/MyOwnEnglishBook/` | `learning-notes/personal-english-book/` | 已完成 | 个人英语材料书目录 |
+| 目录清理 | `美剧/` | （移除） | 已完成 | 子目录迁移后空目录已删除 |
+
+### 下一步（仅文件名）
+
+- 保持目录不变，仅重命名文件为统一 `kebab-case`
+- 优先处理 `learning-notes/parenting-english/` 与 `learning-notes/personal-english-book/`
+- 完成后统一更新内部链接
 
 ### 亲子目录内文件重命名示例
 
@@ -107,7 +95,7 @@ learning-notes/
 - `学习计划-90天-亲子英文.md` -> `learning-plan-90d-parenting-english.md`
 - `记忆曲线跟踪-亲子英文.md` -> `spaced-repetition-tracker-parenting-english.md`
 
-> 建议分两步：先改“目录名”，再改“文件名”，最后统一更新 README 与内部链接，避免一次性大改难以回滚。
+> 已完成第 1 步（目录名）；下一步执行第 2 步（文件名统一），最后集中更新内部链接。
 
 ---
 
