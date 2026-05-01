@@ -12,7 +12,7 @@
 
 | 顺序 | 分区 | 典型场景 |
 | --- | --- | --- |
-| ① | **玄关区** | 钥匙邮件、鞋柜、门垫、客用拖鞋 |
+| ① | **玄关区** | 鞋柜门垫、`车钥匙`、`墨镜`、`防晒霜`、`手消／酒精湿巾`、 **`口罩`**、邮件与水杯 |
 | ② | **坐具与几类** | 沙发、抱枕、茶几与遥控器 |
 | ③ | **视听与游戏** | 电视／回音壁、机顶盒、手柄 |
 | ④ | **空调与气流** | **中央空调**面板、分体挂机、风扇补风 |
@@ -28,16 +28,22 @@
 
 ### 1. 玄关区 · Entry & foyer
 
-（入门鞋帽与随手物：**console table／shoe cabinet** 常在客厅可见侧。）
+（入门鞋帽与随手物：**console table／shoe cabinet** 常在客厅可见侧；条案上也是 **出门前一把抓：`car keys`、`sunglasses`、`sunscreen`、消毒液／酒精湿巾、口罩**。）
 
 | Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
 | --- | --- | --- | --- | --- |
 | `entryway` | 英:/ˈentriweɪ/ 美:/ˈentriweɪ/ | n. 门口过渡区／玄关地带 | Dirty shoes pause on the tiled **entryway** before slippers land on wood. | 脏鞋先在瓷砖玄关停一下再换木地板拖鞋。 |
-| `console table` | 英:/kənˈsəʊl teɪbl/ 美:/kənˈsoʊl teɪbl/ | n. **玄关／走道条案**（窄台面） | Keys and mail land on the narrow **console table** minutes after we dash in from school runs. | 接娃飞奔回家第一件事钥匙信件甩在玄关条案。 |
+| `console table` | 英:/kənˈsəʊl teɪbl/ 美:/kənˈsoʊl teɪbl/ | n. **玄关／走道条案**（窄台面） | Keys and mail land on the narrow **console table** minutes after we dash in from school runs. | 接娃飞奔回家钥匙信件还是先甩玄关条案。 |
 | `shoe cabinet` | 英:/ʃuː ˈkæbɪnət/ 美:/ʃuː ˈkæbɪnət/ | n. **鞋柜** | Our **shoe cabinet** hides toddler kicks so hallway sight lines stay clean. | 鞋柜藏起来娃的球鞋，过道一眼看去不乱。 |
 | `doormat` | 英:/ˈdɔːmæt/ 美:/ˈdɔːrmæt/ | n. **门垫／入户脚垫**（刮泥） | We beat the braided **doormat** before typhoon boots track mud toward the **area rug**. | 雨靴进门前先拍门垫少把泥带到客厅地毯。 |
 | `slippers` | 英:/ˈslɪpəz/ 美:/ˈslɪpərz/ | n. **室内拖鞋（常复数）** | Guest **slippers** fan out from the drawer under the **shoe cabinet**. | 客用拖鞋从鞋柜下抽屉里一字排开自取。 |
 | `umbrella stand` | 英:/ʌmˈbrelə stænd/ 美:/ʌmˈbrelə stænd/ | n. **伞架／伞筒** | Wet umbrellas drip into the ceramic **umbrella stand** instead of the **console table** varnish. | 湿伞插陶筒里水滴不到条案漆面。 |
+| `car keys` | 英:/kɑː kiːz/ 美:/kɑːr kiːz/ | n. **车钥匙（常复数）** | **泽哥** drops **car keys** into the labeled suede valet so dawn school runs aren’t hunts. | 泽哥睡前把车钥匙投进贴签绒面置物盘省的早晨手忙脚乱。 |
+| `sunglasses` | 英:/ˈsʌnɡlɑːsɪz/ 美:/ˈsʌnɡlæsɪz/ | n. **太阳镜／墨镜（常复数）** | **Sunglasses** ride in the tray’s front row so Shenzhen noon sun never blinds stroller runs. | 墨镜摆在托盘前排晌午推车出门强光不刺眼。 |
+| `sunscreen` | 英:/ˈsʌnskriːn/ 美:/ˈsʌnskriːn/ | n. **防晒霜** | A pea-sized dab of facial **sunscreen** waits beside **car keys** for weekend pitch pickups. | 周末球场接送前条案留了黄豆大面部防晒挨车钥匙。 |
+| `hand sanitizer` | 英:/hænd ˈsænɪtaɪzə(r)/ 美:/hænd ˈsænətaɪzər/ | n. **免洗洗手液／手部消毒凝胶**（常含乙醇） | Screw **hand sanitizer** caps tight beside **mail** trays so invitations never smudge. | 泵头盖拧紧贴信件盘免得请柬洇墨。 |
+| `disinfecting wipe` | 英:/dɪˈsɪnfektɪŋ waɪp/ 美:/dɪˈsɪnfektɪŋ waɪp/ | n. **消毒湿巾**（亦常复数 **`disinfecting wipes`**；口语亦 **`alcohol wipe`**） | We fish one **disinfecting wipe** from the foyer pack before sweaty kids raid the snack bowl. | 娃从外面汗津津进屋摸零食前先抽玄关包里的消毒湿巾。 |
+| `disposable face mask` | 英:/dɪˈspəʊzəbl feɪs mɑːsk/ 美:/dɪˈspoʊzəbl feɪs mæsk/ | n. **一次性口罩（平面／外科款泛指）** | Spare **disposable face masks** stack flat beneath guest **slippers** in the **shoe cabinet** foyer drawer. | 鞋柜待客抽屉下层客拖鞋底下压平整摞备用一次性口罩。 |
 
 ---
 
@@ -207,4 +213,4 @@
 
 ---
 
-**分区统计：** 玄关 **6**；坐具茶几 **10**；视听游戏 **10**；空调气流 **5**；照明 **4**；窗帘地面 **6**；玩具 **4**；零食 **3**；健身 **4**；陈设墙面 **13**；机器人 **2**；空气智能电源 **6**；其它软装边角 **6**。**合计词条 79**。
+**分区统计：** 玄关 **12**；坐具茶几 **10**；视听游戏 **10**；空调气流 **5**；照明 **4**；窗帘地面 **6**；玩具 **4**；零食 **3**；健身 **4**；陈设墙面 **13**；机器人 **2**；空气智能电源 **6**；其它软装边角 **6**。**合计词条 85**。
