@@ -170,7 +170,7 @@
 | ---: | --- | --- | --- | --- |
 | 134 | `mole` | 英:/məʊl/ 美:/moʊl/ | n. 鼹⿏（体⼩，视⼒极差，居住在挖掘的地道）；⾊素 痣；间谍；内奸；【化】摩尔（计量物质的数量单位） | Dig dig dig underground. Tiny eyes. Velvety fur. Makes molehills! |
 | 135 | `turkey` | 英:/'tɜːki/ 美:/'tɜːrki/ | n. ⽕鸡；失败之作；笨蛋 | Big bird for Thanksgiving. Says "gobble gobble." Silly walk. |
-| 136 | `goose` | 英:/ɡuːs/ 美:/ɡuːs/ | n. 鹅；雌鹅；鹅⾁；傻⽠ vt. 突然加⼤油⻔；嘘骂 | Long neck. Honks loud. Chases people at the pond! |
+| 136 | `goose` | 英:/ɡuːs/ 美:/ɡuːs/ | n. 鹅；雌鹅；鹅⾁；傻⽠ vt. 突然加⼤油⻔；嘘骂 | Long neck. Curves toward the sky to sing. White feathers on green water. Red feet paddle the waves! (See 《咏鹅》 poem in notes.) |
 | 137 | `sparrow` | 英:/'spærəʊ/ 美:/'spæroʊ/ | n. 麻雀；矮⼩的⼈ | Little brown city bird. Pecks crumbs on the sidewalk. |
 | 138 | `crab` | 英:/kræb/ 美:/kræb/ | n. 螃蟹；蟹⾁；脾⽓乖戾的⼈；起重机 vt. 抱怨；破坏；使 偏航 | Walks sideways. Pinchy claws. Red when cooked! |
 | 139 | `lobster` | 英:/'lɒbstə(r)/ 美:/'lɑːbstər/ | n. ⻰虾 | Big red sea bug with huge claws—fancy dinner! |
@@ -314,3 +314,29 @@ crocodile tears 假慈悲；鳄⻥的眼泪
 丁世光 Puppy Love
 puppy love 早年初恋；少男少⼥间短暂的爱情（等于calf
 love）
+
+### 136. goose - 《咏鹅》(Ode to the Goose by 骆宾王)
+
+**English version (recite with 不多 / Celine):**
+
+Goose, goose, goose,  
+Curve your neck toward the sky and sing.  
+White feathers float on the green water,  
+Red palms paddle the clear waves.
+
+**简中原文：**
+
+鹅，鹅，鹅，  
+曲项向天歌。  
+白毛浮绿水，  
+红掌拨清波。
+
+**亲子玩法 (Parenting tip for English practice):**
+
+- Say the poem together while looking at goose pictures or at a pond.  
+- Break it down line by line. First line repeats "Goose" three times — fun for kids to copy!  
+- Act it out: Stretch neck up high (`curve your neck`), wave hands like paddling (`paddle the waves`).  
+- Link to vocab: Helps remember **goose** has a **long neck**, **white feathers**, **red feet** (webbed feet that "paddle"), and lives near water.  
+- Updated riddle hint for guessing game: "Long neck. It curves toward the sky to sing. White feathers on green water. Red feet paddle the waves. What bird is it?"
+
+This classic poem is perfect for **animal vocabulary** and **parent-child English time**. It makes "goose" memorable through rhythm and imagery.

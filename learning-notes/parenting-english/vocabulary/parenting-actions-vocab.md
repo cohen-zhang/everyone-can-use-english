@@ -74,6 +74,58 @@
 
 ---
 
+## 进来 / 出去 Come in / Go out
+
+- **Come in, it's cold outside.**  
+进来，外面冷。
+- **Go out and play in the garden.**  
+出去玩吧，去花园里。
+- **Come in and wash your hands.**  
+进来洗手。
+- **Let's go out for a walk.**  
+我们出去散步吧。
+
+---
+
+## 推进去 / 拉出来 Push in / Pull out
+
+- **Push the chair in.**  
+把椅子推进去。
+- **Pull out the drawer.**  
+把抽屉拉出来。
+- **Push the plug in.**  
+把插头插进去。
+- **Pull out the book from the shelf.**  
+把书从书架上抽出来。
+
+---
+
+## 打开 / 关掉 Switch on / Switch off
+
+- **Switch on the light.**  
+开灯。
+- **Switch off the TV.**  
+关掉电视。
+- **Switch on the fan, it's hot.**  
+打开风扇，太热了。
+- **Remember to switch off the tablet.**  
+记得关掉平板。
+
+---
+
+## 穿上 / 脱掉 Put on / Take off
+
+- **Put on your jacket.**  
+穿上你的外套。
+- **Take off your shoes.**  
+脱掉你的鞋子。
+- **Put on your socks.**  
+穿上你的袜子。
+- **Take off your hat indoors.**  
+进屋把帽子摘掉。
+
+---
+
 ## 组合场景练习
 
 
