@@ -153,3 +153,7 @@ I’m counting on you from here.
 
 上午我请假了，晨会你看有没空主持一下？
 I'm taking leave this morning. Could you see if you're available to host the morning meeting?
+
+下周组织复盘，我们需要给客户一个闭环。确保下次能通关
+
+We will organize a review next week, and we need to provide the client with a closed-loop process to ensure successful clearance next time.

@@ -98,45 +98,51 @@ That’s the map — **Settings** when something feels off, **Invalidate Caches*
 
 ## 一、界面相关
 
-| English | 中文 |
-| --- | --- |
-| Settings | 设置：编辑器、插件、快捷键等 |
-| Project Structure | 项目结构：模块、库、SDK |
-| File Properties | 文件属性 |
-| Local History | 本地历史：恢复与对比 |
-| Appearance & Behavior | 外观与行为：主题、字体等 |
-| Keymap | 快捷键方案 |
-| Editor | 编辑器相关设置 |
-| Plugins | 插件 |
-| Version Control | 版本控制 |
-| Build, Execution, Deployment | 构建、执行、部署 |
-| Languages & Frameworks | 语言与框架 |
-| Tools | 工具集 |
-| Other Settings | 其它配置 |
+
+| English                      | 中文             |
+| ---------------------------- | -------------- |
+| Settings                     | 设置：编辑器、插件、快捷键等 |
+| Project Structure            | 项目结构：模块、库、SDK  |
+| File Properties              | 文件属性           |
+| Local History                | 本地历史：恢复与对比     |
+| Appearance & Behavior        | 外观与行为：主题、字体等   |
+| Keymap                       | 快捷键方案          |
+| Editor                       | 编辑器相关设置        |
+| Plugins                      | 插件             |
+| Version Control              | 版本控制           |
+| Build, Execution, Deployment | 构建、执行、部署       |
+| Languages & Frameworks       | 语言与框架          |
+| Tools                        | 工具集            |
+| Other Settings               | 其它配置           |
+
 
 ## 二、操作相关
 
-| English | 中文 |
-| --- | --- |
-| Save All | 保存所有 |
-| Reload All from Disk | 从磁盘重新加载 |
-| Repair IDE | 修复 IDE |
-| Invalidate Caches | 清理缓存（常需重启） |
-| Manage IDE Settings | 导入/导出/重置设置 |
-| New Projects Setup | 新项目默认配置 |
-| Save File as Template | 文件存为模板 |
-| Export / Print | 导出 / 打印 |
-| Power Save Mode | 省电模式 |
-| Exit | 退出 |
+
+| English               | 中文         |
+| --------------------- | ---------- |
+| Save All              | 保存所有       |
+| Reload All from Disk  | 从磁盘重新加载    |
+| Repair IDE            | 修复 IDE     |
+| Invalidate Caches     | 清理缓存（常需重启） |
+| Manage IDE Settings   | 导入/导出/重置设置 |
+| New Projects Setup    | 新项目默认配置    |
+| Save File as Template | 文件存为模板     |
+| Export / Print        | 导出 / 打印    |
+| Power Save Mode       | 省电模式       |
+| Exit                  | 退出         |
+
 
 ## 三、功能特性
 
-| English | 中文 |
-| --- | --- |
-| Auto Import | 自动导入 |
-| Code Completion | 代码补全 |
-| Breadcrumbs | 面包屑导航 |
-| Code Folding | 代码折叠 |
-| Console | 控制台（如 soft wraps） |
+
+| English         | 中文                |
+| --------------- | ----------------- |
+| Auto Import     | 自动导入              |
+| Code Completion | 代码补全              |
+| Breadcrumbs     | 面包屑导航             |
+| Code Folding    | 代码折叠              |
+| Console         | 控制台（如 soft wraps） |
+
 
 **参考资料（原链）：** CSDN 等 IDEA 英文界面与配置笔记（File 菜单、Editor 配置、Version Control 等）。
