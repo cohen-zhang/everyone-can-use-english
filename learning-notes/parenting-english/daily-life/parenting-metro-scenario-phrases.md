@@ -49,6 +49,58 @@
 
 ---
 
+## 深圳地铁广播常用英语（Announcements — Shenzhen Metro）
+
+深圳地铁列车与车站的中英双语广播**句式高度固定**，听几次就能对上屏显与英文。下列为车内外**常见英文说法**（不同线路、录音版本可能略有措辞差异，以现场为准）。
+
+### 欢迎与线路
+
+| English（常见说法） | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **Welcome aboard Shenzhen Metro Line …** | 欢迎您乘坐深圳地铁……号线 | 上车后首段欢迎语 |
+| **Thank you for traveling with Shenzhen Metro.** | 感谢您乘坐深圳地铁。 | 到站或离站致谢 |
+| **This train is bound for …** / **bound for …** | 本列车开往…… | 与屏上终点站一致 |
+| **The terminating station is …** / **This train terminates at …** | 本次列车的终点站为…… / 本线终点站为…… | 有的版本更口语用 *terminates* |
+
+### 到站预告与换乘
+
+| English | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **The next station is …** | 下一站…… | 与车内屏、广播同步 |
+| **… is an interchange station for Line … and Line …** | …站可换乘……号线与……号线 | 多线换乘会念全 |
+| **Passengers going to … please prepare to get off.** | 前往……的乘客请准备下车 | 大站或枢纽前常见 |
+| **We are arriving at …** | 列车即将到达…… | 也有的用 *approaching* |
+
+### 车门与间隙（安全）
+
+| English | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **Doors will open on the left / right.** | 左侧/右侧的车门将会打开。 | 教孩子先听 **left/right** 再靠边 |
+| **Please mind the gap between the train and the platform.** | 请注意站台与列车之间的空隙。 | 与英式 *Mind the gap* 同义、更完整一句 |
+| **Please stand clear of the doors.** | 请远离车门 / 请勿靠近车门。 | 关门警示前 |
+| **Doors closing.** | 车门即将关闭。 | 常与提示音一起 |
+| **Please let passengers off before boarding.** | 请先下后上。 | 文明乘车广播 |
+
+### 爱心座与文明乘车
+
+| English | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **Please offer your seat to passengers in need.** | 请为有需要的人士让座。 | 含老人、孕妇、抱婴者等 |
+| **No eating or drinking in the trains or stations.** | 车站及列车内请勿饮食。 | 与标识一致 |
+| **Smoking is prohibited in Shenzhen Metro.** | 深圳地铁全域禁烟。 | 含站台、车厢 |
+
+### 其他车站提示（与英文屏常见对应）
+
+| English | 简中 | 备注 |
+| --- | --- | --- |
+| **Exit A / B / C …** | A/B/C……出口 | 听字母找出口屏 |
+| **Customer service center** | 客服中心 | 广播指路时 |
+| **Please keep an eye on your belongings.** | 请保管好随身物品。 | 防遗失 |
+
+**家长顺带练一句**：到站前让 Celine 先重复 **Doors open on the left or right**，再一起走，减少冲门——和深圳广播的节奏正好合拍。
+
+---
+
 ## 票务与闸机（Tickets & gates）
 
 | English | 简中 | 备注 |
@@ -94,6 +146,56 @@
 - **We’re lost. Let’s ask at customer service.** — 我们走晕了，去客服中心问一下。  
 - **I need the restroom. Where is it?** — 我要上厕所，在哪里？  
 - **Celine, stay close. Don’t let go.** — Celine，跟紧，别松手。
+
+### 主动向外国乘客提供帮助（阿泽带娃版）
+
+看到别人在指示牌、闸机口或站台前犹豫、反复看手机地图时，可以**简短、清晰地**上前问一句；带娃时先做两件事：**牵好 Celine**、别挡闸机口和扶梯口。如果对方不需要帮助，微笑着 **No problem** 退开即可。
+
+#### 友善开场（先问是否需要帮助）
+
+- **Hi, excuse me—do you need any help?** — 您好，请问需要帮忙吗？  
+- **You look a little lost. Can I help?** — 您好像有点找不到路，要我帮忙吗？（语气更轻松）  
+- **Are you trying to find a line / a station?** — 您是在找某条线或某个站吗？  
+- **Sure, no worries.** — 没问题 / 别客气。（对方致谢后）
+
+#### 辨明问题后再指路
+
+- **Where are you trying to go?** — 您要去哪儿？  
+- **Which station / which exit do you need?** — 您要到哪一站 / 哪个出口？  
+- **This is Line … You’re going the right way.** — 这里是……号线，您方向是对的。  
+- **This train doesn’t go to …. You’ll need Line … instead.** — 这趟车不去……您得改乘……号线。  
+- **You need to transfer at …. Get off at….** — 您得在……站换乘，在……站下车。  
+- **You can top up your card here / over at customer service.** — 您可以在这台机上充值 / 去客服中心充值。  
+- **Tap here to enter. Tap again when you leave.** — 在这儿刷进站，出站时再刷一次。  
+- **The restroom is near Exit … / upstairs.** — 卫生间在……出口附近 / 在楼上。（照实说）  
+
+#### 出入口、上下楼与远近（指路细化）
+
+地铁站里对方最常卡的三件事：**哪一个口出**、**要不要上楼/下楼**、**走多远**。下列句子可拼装使用，语速放慢、配合手指方向即可。
+
+- **This way to the entrance.** — 进站口往这边走。  
+- **Exit … is on your left / on your right / straight ahead.** — …出口在左侧 / 右侧 / 正前方。（照实选一种说）  
+- **That’s Exit A / B / …—right over there.** — 那就是 A/B……出口，在那边。（手指方向）  
+- **Follow the signs to Exit ….** — 顺着指示牌走到……出口。  
+- **Walk straight ahead; the exit signs are above you.** — 一直往前走，出口标识在头顶。  
+- **The escalator goes up / down.** — 这台扶梯是上 / 下的。（先确认别把人家指反）  
+- **Take the escalator upstairs / downstairs.** — 坐扶梯上楼 / 下楼。  
+- **Use the elevators if you prefer—they’re usually next to the escalators.** — 想坐电梯可以走这边，一般就在扶梯旁边。  
+- **Signs often say street level / ground level / concourse—you can point and read them out loud.** — 牌子上常有 *street level*（街面/出站地面）、*ground level*、*concourse*（站厅），指着念出来也方便对方对照手机地图。  
+- **It’s right around the corner—a two‑minute walk, maybe.** — 拐个弯就到，走过去大概两分钟。  
+- **It’s not far—just stay on this corridor.** — 不远，顺着这条通道走就行。  
+- **You’ll see it once you reach the stairs.** — 到楼梯口就能看见。（照实可把 *stairs* 换成 *ticket gates* 等）
+
+#### 指路收尾 & 引荐工作人员
+
+- **It’s easier to ask at customer service—they have a map.** — 去客服中心问会更清楚，那里有线路图。（问题太细或赶车时）  
+- **I’m heading that way—I can walk you to the escalator.** — 我正好往那边走，带您到扶梯口。（**顺路且不耽误孩子**时再开口）  
+- **Have a nice day. Enjoy your ride.** — 祝您今天愉快，乘车顺利。  
+
+#### Celine 可跟说的一两句（家长先示范音量与距离）
+
+- **Do you need help?** — 您需要帮助吗？（声音轻、别着急）  
+- **My dad can help you.** — 我爸爸可以帮您。（孩子说时阿泽应声接话，别让娃单独带路太久）  
 
 ---
 
