@@ -64,25 +64,44 @@
 - **You're just gonna have to wait.** — 你得等等
 - **No! Why would you say that?** — 怎么会呢  你咋猜那个
 
-## 其它实用表达
+## 其它实用表达（按语境细分）
+
+以下为本集零碎但好用的句子：**左英右简**，按场景归档，朗诵时可按标题跳读。
+
+### 校园八卦 / 起哄（山姆·莱利轶事）
 
 - **Today Sam Riley kicked a soccer ball...** — 今天山姆·莱利踢足球
 - **and it hit another kid so hard his eye popped out.** — 狠狠砸中某小孩  他眼珠都爆出来了
 - **Awesome!** — 帅呆了
 - **Really? His eye popped out.** — 是吗  眼珠真爆出来了吗
+
+### 作罢、收线与睡觉（*hit the sack*）
+
 - **Never mind. - Well, gotta hit the sack. Big Saturday tomorrow.** — 算了  -钻被窝咯  明天周六大日子哎
 - **That's right. It's somebody's birthday.** — 没错  某人过生日
+
+### 生日撞上新品：科技梗与碎碎念（*iPad*、*doohickey*）
+
 - **Not just that. The iPad comes out** — 不止生日  iPad要开卖了
 - **on my actual birthday.** — 就在我生日这天
 - **It's like Steve Jobs and God got together to say,** — 像是乔帮主和上帝勾肩搭背地说
 - **What is so great about that doohickey anyhow?** — 那玩意儿到底棒在哪儿
 - **"Doohickey," Elly May?** — "玩意儿"  艾丽·梅
+
+### 「老三件」说理：类比解释新玩意（*pad*）
+
 - **It's a movie theater, a library and a music store...** — 电影院  图书馆  音乐商店
 - **all rolled into one awesome pad.** — 都集成在那神奇的小本里
 - **A library is a place where people get books.** — 图书馆知道吗  是个看书的地方
 - **A movie theater is a place where people go on dates.** — 电影院知道吗  是个约会的地方
+
+### 为排队备货：车用英语（*trunk*）
+
 - **I better load the beach chair into the trunk.** — 我得把沙滩椅装到车里
 - **I'm gonna need it for the line in the morning.** — 明早好坐着排队
+
+### 「别在生日排一天」与替对方的心意
+
 - **You can't spend your birthday in line.** — 你生日怎么能排一天队呢
 - **Well, not the whole day.** — 不会排一天啦
 - **No, I know, but I want to.** — 是没必要  但我想替你
@@ -90,6 +109,9 @@
 - **you'll wake up and you'll have your brand-new toy.** — 一睁眼  面前就是新玩具啦
 - **Well, in spite of you calling it a toy,** — 你将之称作"玩具"是大不敬
 - **this is shaping up to top the best birthday I ever had.** — 但明天貌似会超过我曾过得最开心的一个生日
+
+### 童年爆笑回忆（Fun Zone / 击球笼 / 自嘲「我很搞笑」）
+
 - **about that place... - It was called the Fun Zone.** — 什么地方来着  -在欢乐地带球场
 - **I was 11.** — 那年我11岁
 - **I hit 10 straight fastballs in the batting cage.** — 连续击中10个直线快球
@@ -98,16 +120,28 @@
 - **I yelled out "Ball two!"** — 我喊道  又中两"球"
 - **Everybody laughed.** — 所有人爆笑
 - **That was when I knew I was funny.** — 那时我就知道  我很搞笑
+
+### 睡前道别与拼单词（*Believe*、*papi*）
+
 - **Good night.** — 晚安
 - **B-E-L-I-E-V-E. Believe.** — B-E-L-I-E-V-E  相信
 - **Are you sure there's not an "E-I" In the middle?** — 中间不是E-I吗  你确定吗
 - **No. It's "I-E." - Good, papi!** — 不  是I-E  -好样滴  宝贝
+
+### 家庭作业与信任一句
+
 - **I don't think they're trying to fool me.** — 老师没必要绕晕我吧
+
+### 生日礼物悬念与机上目录（*SkyMall*）
+
 - **Wait until you see what I got Phil for his birthday.** — 猜猜我给菲尔买了什么生日礼物
 - **I found it on the SkyMall catalog.** — 天维购物淘到的
 - **Ay. It's not one of those talking alarm clocks?** — 啧啧  不是那种会说话的闹钟吧
 - **"It's 6:05. It's 6:25. Wake up. Wake up."** — "6:05啦  6:25啦  醒醒啦醒醒啦"
 - **Even better. A rosewood chess set.** — 比那个棒多了  一套紫檀木棋
+
+### 拆礼物前先试一局棋（*take it for a spin*）
+
 - **As matter of fact, before I wrap this thing,** — 话说  不如我等会再包装
 - **what say we take it for a spin?** — 我们先来一局怎么样
 - **Come on, Manny. I'll teach you.** — 来吧曼尼  我教你
@@ -117,10 +151,16 @@
 - **not smuggle stuff out of the country.** — 不是用来藏毒走私的
 - **I know one Colombian piece you won't be playing with later.** — 那你也少来玩我这哥伦比亚女子
 - **You'll be surprised.** — 会让你大吃一惊的
+
+### 棋品与劝和（输不起、兜底）
+
 - **Manny's an excellent player, but Jay is a grumpy loser.** — 曼尼棋艺高超  杰的棋品可不咋滴
 - **He mopes, he makes the face, he slams the door,** — 输了就生闷气  吊脸子  还摔门
 - **then he said he didn't slam the door.** — 摔完门还不承认
 - **It's better that he wins.** — 让他赢比较好啦
+
+### 婴儿监护器乌龙（安抚→虚惊→松口气）
+
 - **Um, I got this.** — 我来
 - **Everything's gonna be okay.** — 没事的
 - **It's okay. It's okay.** — 好啦  别哭啦
@@ -135,12 +175,18 @@
 - **Thank God.** — 感谢上帝
 - **Boy, if a spider would have broken in here,** — 老天  要是有蜘蛛闯入
 - **he would have been in trouble.** — 你捏个报纸也就能吓吓它而已
+
+### 自嘲礼物与也值得排队的心路（独白）
+
 - **Light-up barbecue tongs.** — 灯光烧烤夹
 - **This was the lame gift I got Phil.** — 我就给菲尔准备了这破礼物
 - **So, was I bummed to get up at 5:00 and wait in line?** — 所以5点起床排队  我郁闷吗
 - **No. No, because I was finally getting my husband** — 不  不会  我总算能给老公
 - **something that he really, really wanted.** — 买到梦寐以求的礼物了
 - **I was every bit as excited as he was.** — 我和他一样兴奋
+
+### 下棋电子资料与谢绝 / 捧场（*I'm good*）
+
 - **I'm good. - That's the spirit.** — 我挺好  -态度不错
 - **Downloaded this for you.** — 我给你下载的
 - **It's kind of a kid's guide to chess.** — 儿童级国际象棋入门
