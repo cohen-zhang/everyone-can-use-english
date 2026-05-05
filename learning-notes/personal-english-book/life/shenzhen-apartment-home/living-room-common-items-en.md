@@ -155,7 +155,7 @@
 | `feature wall` | 英:/ˈfiːtʃə(r) wɔːl/ 美:/ˈfiːtʃər wɔːl/ | n. **背景墙／主墙面** | The stone-texture **feature wall** carries both TV mount and **wall art** hooks. | 仿石材背景墙同时挂电视支架和挂画钩。 |
 | `room divider` | 英:/ruːm dɪˈvaɪdə(r)/ 美:/ruːm dɪˈvaɪdər/ | n. **隔断（屏风／置物）** | A slatted **room divider** blocks hallway sight lines yet still breathes light. | 条形隔断挡走廊视线又透光。 |
 | `floating shelf` | 英:/ˈfləʊtɪŋ ʃelf/ 美:/ˈfloʊtɪŋ ʃelf/ | n. **壁挂搁板** | **Display figurines** line the **floating shelves** above the **Bluetooth speaker**. | 蓝牙音箱上方搁板排一列展示小摆件。 |
-| `bookshelf` | 英:/ˈbʊkʃelf/ 美:/ˈbʊkʃelf/ | n. **书架** | **张泽** keeps DevOps paperbacks on the living room **bookshelf** within arm’s reach. | 张泽把运维类平装书放手边客厅书架。 |
+| `bookshelf` | 英:/ˈbʊkʃelf/ 美:/ˈbʊkʃelf/ | n. **书架** | **阿泽** keeps DevOps paperbacks on the living room **bookshelf** within arm’s reach. | 阿泽把运维类平装书放手边客厅书架。 |
 | `photo frame` | 英:/ˈfəʊtəʊ freɪm/ 美:/ˈfoʊtoʊ freɪm/ | n. **相框**（亦可说 **`picture frame`**） | Matching **photo frames** carry grandparent portraits beside travel **canvases**. | 统一白相框装长辈肖像旁挂旅行帆布画。 |
 | `wall art` | 英:/wɔːl ɑːt/ 美:/wɔːl ɑːrt/ | n. **挂画类总称（装饰画）** | Neutral **wall art** keeps resale photos calm when agents wide-angle the room. | 素色挂画让中介广角实拍客厅显得稳。 |
 | `framed print` | 英:/freɪmd prɪnt/ 美:/freɪmd prɪnt/ | n. **装裱印刷画／有框版画** | The limited **framed print** hinges level thanks to painter’s tape guides. | 限量版装裱画靠美纹纸标线挂得水平。 |

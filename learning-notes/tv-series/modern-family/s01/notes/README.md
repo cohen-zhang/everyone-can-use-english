@@ -8,7 +8,7 @@
 | 类型                                                | 说明                                                              |
 | ------------------------------------------------- | --------------------------------------------------------------- |
 | **modern-family-s01exx-daily-lines.md**              | 从对应 `modern-family-s01exx-transcript.txt` **自动抽取**英中句对，按粗分类（出行、居家、亲子等）分组；适合快速刷句、跟读。 |
-| **modern-family-s01e02-key-to-being-a-great-dad.md** | **手工编排**的亲子对话体练习（张泽 / Celine 设定），与自动抽取版互补。                                       |
+| **modern-family-s01e02-key-to-being-a-great-dad.md** | **手工编排**的亲子对话体练习（阿泽 / Celine 设定），与自动抽取版互补。                                       |
 | **scripts/build-modern-family-s01-md.py**            | 生成「生活实用英文句」的脚本；字幕更新后可重新运行。                                                   |
 
 

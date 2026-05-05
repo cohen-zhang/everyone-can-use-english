@@ -15,7 +15,8 @@
 5. **学习桌面**：书桌、书架与 **铅笔、中性笔等文具**。  
 6. **玩乐**：地毯、玩具收纳。  
 7. **起居与环境**：闹钟、小夜灯、床头柜、加湿器与净化器等。  
-8. **照明与温控**：台灯吸顶灯、风扇、**空调及遥控器使用情景句**。
+8. **照明与温控**：台灯吸顶灯、风扇、**空调及遥控器使用情景句**。  
+9. **练习句型**：用 *What’s / There is·are / I like* 指认并描述卧室（儿童房）里的物品。
 
 ---
 
@@ -144,6 +145,55 @@
 
 ---
 
+### 9. 练习句型 · Practice sentence patterns（bedroom / kids’ room）
+
+本页词条多写 **kids’ room**；下列句型里 **bedroom** 与 **my kids’ room** 可互换（儿童房即孩子卧室）。**What’s** = **What is**。
+
+#### 句型 1：What’s in the bedroom?
+
+用来**扫一遍房间**、问孩子或自问自答。
+
+- **What’s in the bedroom?** — 卧室里有什么？  
+- **What’s in your bedroom, Celine?** — Celine，你房间里有什么？  
+- **What’s in my bedroom?** — 我房间里有什么？（自述、照镜子指认练）  
+
+**示例答法**（可接名词罗列或短句）：
+
+- **A bunk bed, a bookshelf, and a desk lamp.** — 一张双层床、一个书架和一盏台灯。  
+- **Toys, books, and a night light.** — 玩具、书，还有一盏小夜灯。  
+- **There’s a tatami bed and a toy chest.** — 有一张榻榻米床和一个玩具收纳箱。
+
+#### 句型 2：There is / There are … in the bedroom
+
+**可数单数**用 **There is**（可缩写 **There’s**）；**可数复数**用 **There are**；**不可数**（如 light、space）一般用 **There is**。
+
+- **There’s a single bed in the bedroom.** — 卧室里有一张单人床。  
+- **There’s a nightstand next to the bed.** — 床边有一个床头柜。  
+- **There are two hooks near the door.** — 门边有两个挂钩。  
+- **There are building blocks on the rug.** — 地毯上摆着积木。  
+- **There’s some space under the loft bed for a study desk.** — 高架床下面还有点空可以放书桌。
+
+#### 句型 3：I like … in my bedroom
+
+表达**偏好、习惯、情感**，把本页名词嵌进去即可。
+
+- **I like my stuffed animals toys on my bed.**   
+- **I like the blackout curtain in my bedroom.** — 我喜欢卧室里的遮光窗帘。  
+- **I like reading on the rug in my bedroom.** — 我喜欢在卧室地毯上看书。  
+- **I like having a growth chart on the wall in my kids’ room.** — 我喜欢儿童房墙上贴着身高尺。  
+
+
+- **There’s a chair in my room.**  
+I sit by the window.
+And read in the light.
+
+There's a bed in my room.
+There are toys on my bed.
+I sleep with them at night.
+
+
+---
+
 ## 深圳商品房小贴士（英文一句）
 
 - **Small kids’ rooms reward vertical storage: beds up high and shelves anchored to walls.**  
@@ -155,4 +205,4 @@
 
 ---
 
-**分区统计：** 房间整体 **2** 条；睡眠床架 **6** 条（含榻榻米与床下抽屉）；床上用品 **11** 条；衣柜 **5** 条；学习桌面 **24** 条；玩乐 **5** 条；起居与环境 **8** 条；**照明与温控 8** 条。**合计词条 69**。
+**分区统计：** 房间整体 **2** 条；睡眠床架 **6** 条（含榻榻米与床下抽屉）；床上用品 **11** 条；衣柜 **5** 条；学习桌面 **24** 条；玩乐 **5** 条；起居与环境 **8** 条；**照明与温控 8** 条；**练习句型 1** 节（三组句型 + 示例）。**合计词条 69**。

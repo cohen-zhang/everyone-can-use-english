@@ -1,6 +1,6 @@
 # Romantic Song Collection 浪漫情歌集
 
-> For 张泽 (泽哥) — A dream: singing only English songs at KTV 🎤
+> For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌
 
 ---
@@ -132,4 +132,4 @@ May life be our love paradise."**
 
 ---
 
-*Compiled for 张泽 — sing your heart out at KTV! 🎶*
+*Compiled for 阿泽 — sing your heart out at KTV! 🎶*

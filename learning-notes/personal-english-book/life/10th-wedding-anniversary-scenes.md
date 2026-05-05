@@ -1,115 +1,88 @@
 # 10th Wedding Anniversary Scenes & Expressions | 结婚十周年场景英语表达
 
-> For 张泽 (泽哥) — 用英文表达爱，比中文更容易开口 ❤️  
+> For 阿泽 (泽哥) — 用英文表达爱，比中文更容易开口 ❤️  
 > 10 years together. Time to celebrate with words, surprises, and family moments.
 
 ---
+  
 
-## Opening 开场白
+As a Chinese man—especially a science guy—I’m not exactly great with words. 
 
-**Spoken English（录视频 · 一句一行 ≈ 停顿 / breath）**
+Saying all this in Chinese might sound a bit cheesy, 
 
-I'm a Chinese guy—  
-especially the STEM type—  
-and I'm not great at putting love into words.  
-In Chinese, honestly,  
-it can feel a little cheesy.  
-So...  
-maybe English works better for me.
+so I thought… maybe English will work better.
+  
 
-作为一个中国男人，尤其是理科男生，不善于用语言表达爱，用中文说可能会觉得有点肉麻，换成英文可能会好一些。
+We started off long-distance, got married in Shenzhen, 
+then we had our daughter, and settled down together.
 
----
+Time really flies, right? 
+The other day, my wife told me our 10th anniversary is coming up.
 
-## Anniversary Milestones & Reflections | 周年里程碑与反思
+Damn, 10 years. Ten years… that’s 10 times 365 days. Crazy.
 
-**Spoken English**
+I swear, I’ve never ever gotten tired of just holding you and kissing you, not even for a second.
 
-Time flies.  
-A little while ago, my wife told me— our tenth wedding anniversary is coming up.  
-And I'm just... wow.
+If I had to count… I’m pretty sure I’ve kissed you at least once every day. 
 
-Ten years.  
-That's ten times three-sixty-five days.  
+That’s over 3,650 kisses in 10 years!
 
+Damn, you still look amazing. Even without makeup, you look fantastic.
 
-时间过的真快，前段时间我妻子和我说马上就是我们的结婚十周年；我靠。10 年了，一共是 10×365 天。
+Some people even think you’re still a student. 
 
-You still look gorgeous.  
-People still mistake you for a student.
-
-你颜值还是那么在线，很多人误以为你还是学生。
-
-Your students adore you.  
-If I were in your class— I'd adore you too.
-
-你的学生喜欢你。如果我是你的学生，我也会喜欢你。
-
-I've never, never gotten tired of holding your hand,  
-or kissing you.
-
-我从来、从来没有厌倦牵你的手、吻你。
-
-If I'm gonna pick a number— I'm pretty sure—  
-for years now, I've initiated at least one kiss a day, on average.  
-So that's...  
-well, over three thousand, six hundred and fifty kisses.  
-Ten years.
-
-如果要说一个数字，我有信心，在过去的时间里，我至少有主动平均给你每天一个吻，那 10 年就是超过 3650 个吻！
-
----
-
-## Daily Sweet Nothings & Romantic Scenes | 日常情话与浪漫场景
-
-**Spoken English**
-
-I love how your smile curves—  
-how the corners of your lips go up when you see me.
-
-我喜欢你微笑的弧度 — 当你看到我时，嘴角上扬的样子。
-
-We argue sometimes.  
-But you're always— always— the easy one to comfort.  
-Get you something tasty.  
-Give you a hug first.  
-And things get better.
-
-我们有时会吵架，但你总是、永远是好哄的那一个。给你买点好吃的、主动给你一个拥抱，一切都会好起来。
-
-I love watching you focus at work during the day.  
-At night I love holding you from behind.  
-In the morning I love waking up to your scent.
-
-我喜欢白天看着你专注工作的样子，喜欢晚上从背后抱着你睡觉，早上闻着你的香味。
-
-And yeah—  
-in your work clothes—  
-you look perfect.  
-You work so hard.  
-You're amazing at what you do.
-
-当然，当你穿上职业装也很完美，你在工作上很努力、很出色。
-
-We've grown together.  
-We've laughed together.  
-We've faced challenges together.  
-And today—  
-I choose you again.
-
-我们一起成长。我们一起欢笑。我们一起面对挑战。今天我再次选择你。
-
-For our future—  
-let's make the next ten years even better.  
-More trips.  
-More memories.  
-More love.
-
-为了我们的未来：让下一个十年更好。更多旅行。更多回忆。更多爱。
-
----
+But it’s not just your looks, it’s your kindness, your strength, and the way you make our home feel so warm. 
 
 
+Yeah, you have a lot of fans. Your students adore you. Honestly, I think I’m starting to get jealous of them!
+
+Honestly, if I were your student… I’d probably be a fan too. 
+
+Yeah, I’m one of your biggest fans.
+
+I love the way you smile, especially when you see me. 
+
+That little lift at the corners of your mouth, It gets me every time.
+
+I love our nights together. 
+
+I get to hold you while we sleep, and in the morning, I get to smell your sweet scent. 
+
+It’s the best part of my day.
+  
+You look incredible in your work uniform too. 
+
+I love watching you focus at work—you’re so good at what you do. 
+
+  
+
+You’re so independent. You don’t interrupt me when I’m on my phone, and you don’t mind working late. 
+
+You’re always there for me and the family, no matter what.
+
+  
+
+Of course, We argue sometimes, but you’re always the easy one to make up with. 
+
+Good food, a hug, and everything’s right again. 
+
+That’s just one of the many things I love about you.
+
+
+We’ve grown together. We’ve laughed together.
+
+ We’ve faced challenges together. 
+
+Let’s keep being the best damn team.
+
+
+Here’s to our future: 
+
+no matter what comes, we’ll always walk through it together, hand in hand.
+
+Let’s make the next 10 years even better. More trips. More memories. More love.
+
+I love you !
 
 ## Scenes with Our Child (不多 / Celine) | 和孩子一起的场景
 
@@ -221,6 +194,6 @@ Use these short, repeatable patterns when talking to **不多** (Celine) about t
 3. **Enrich further**: Add specific personal memories (our first trip, Celine's birth, etc.) using the same bilingual + short-sentence style.
 4. **Family activity ideas**: Zoo visit (use animal vocab), photo album review with simple English descriptions, cake baking with repetitive instructions.
 
-*Compiled and enriched for 张泽 (泽哥). Merge of child-friendly enlightenment style with romantic anniversary expressions. Continue adding more scene-specific sentences here as you practice. Speak from the heart in English! ❤️*
+*Compiled and enriched for 阿泽 (泽哥). Merge of child-friendly enlightenment style with romantic anniversary expressions. Continue adding more scene-specific sentences here as you practice. Speak from the heart in English! ❤️*
 
 *Note: This consolidates relevant content from previous notes into one focused resource for 10th wedding anniversary scenes. The referenced source documents have been superseded.*

@@ -1,6 +1,6 @@
 # A Day in the Life of Jeff — 学习方案 & E01 词汇重点
 
-> ESLPod 10 集日常英语课程 — 张泽（泽哥）的学习指南
+> ESLPod 10 集日常英语课程 — 阿泽（泽哥）的学习指南
 
 ---
 
@@ -169,4 +169,4 @@
 ---
 
 *文档基于 ESLPod.com "A Day in the Life of Jeff" Episode 1 整理*
-*Generated for 张泽（泽哥）— 软件工程师英语学习笔记*
+*Generated for 阿泽（泽哥）— 软件工程师英语学习笔记*
