@@ -8,20 +8,20 @@
 
 ### 常见情绪
 
-| 英文 | 中文 | 例句 |
-|------|------|------|
-| **happy** | 开心的 | I'm happy today! 我今天很开心！ |
-| **sad** | 难过的 | Don't be sad. 别难过。 |
-| **angry** | 生气的 | Are you angry? 你在生气吗？ |
-| **scared** | 害怕的 | I'm scared of the dark. 我怕黑。 |
-| **excited** | 兴奋的 | I'm so excited! 我太兴奋了！ |
-| **tired** | 累的 | Are you tired? 你累了吗？ |
-| **hungry** | 饿的 | I'm hungry. 我饿了。 |
-| **thirsty** | 渴的 | I'm thirsty. 我渴了。 |
-| **bored** | 无聊的 | This is boring. 这好无聊。 |
-| **worried** | 担心的 | Don't worry. 别担心。 |
-| **surprised** | 惊讶的 | What a surprise! 太惊喜了！ |
-| **shy** | 害羞的 | Don't be shy. 别害羞。 |
+| 英文            | 中文  | 例句                           |
+| ------------- | --- | ---------------------------- |
+| **happy**     | 开心的 | I'm happy today! 我今天很开心！     |
+| **sad**       | 难过的 | Don't be sad. 别难过。           |
+| **angry**     | 生气的 | Are you angry? 你在生气吗？        |
+| **scared**    | 害怕的 | I'm scared of the dark. 我怕黑。 |
+| **excited**   | 兴奋的 | I'm so excited! 我太兴奋了！       |
+| **tired**     | 累的  | Are you tired? 你累了吗？         |
+| **hungry**    | 饿的  | I'm hungry. 我饿了。             |
+| **thirsty**   | 渴的  | I'm thirsty. 我渴了。            |
+| **bored**     | 无聊的 | This is boring. 这好无聊。        |
+| **worried**   | 担心的 | Don't worry. 别担心。            |
+| **surprised** | 惊讶的 | What a surprise! 太惊喜了！       |
+| **shy**       | 害羞的 | Don't be shy. 别害羞。           |
 
 ---
 

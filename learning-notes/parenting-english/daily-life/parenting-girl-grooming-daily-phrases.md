@@ -351,11 +351,11 @@
 | **bangs** | 刘海 | Your bangs are too long. 你的刘海太长了。 |
 | **ponytail** | 马尾 | Let's make a ponytail. 我们扎个马尾。 |
 | **pigtails** | 双马尾 | Pigtails look cute on you. 双马尾你扎起来很可爱。 |
-| **braid** | 辫子 | Do you want a braid? 你想编辫子吗？ |
+| **braid** /breɪd/ | 辫子 | Do you want a braid? 你想编辫子吗？ |
 | **mirror** | 镜子 | Look in the mirror. 照照镜子。 |
 | **sunscreen** | 防晒霜 | Put on sunscreen. 涂防晒。 |
-| **lip balm** | 润唇膏 | Use some lip balm. 涂点润唇膏。 |
-| **moisturizer** | 润肤霜 | This moisturizer is gentle. 这个润肤霜很温和。 |
+| **lip balm** /lɪp bɑːm/ | 润唇膏 | Use some lip balm. 涂点润唇膏。 |
+| **moisturizer** /ˈmɔɪstʃəraɪzər/ | 润肤霜 | This moisturizer is gentle. 这个润肤霜很温和。 |
 
 ---
 
@@ -367,7 +367,7 @@
 | **comb** | 梳 | Comb your bangs. 梳刘海。 |
 | **tie** | 扎 / 系 | Tie your hair. 扎头发。 |
 | **clip** | 夹 | Clip your bangs back. 把刘海夹起来。 |
-| **untangle** | 梳开 / 解开结 | Untangle the knot slowly. 慢慢把结梳开。 |
+| **untangle** /ʌnˈtæŋɡl/ | 梳开 / 解开结 | Untangle the knot slowly. 慢慢把结梳开。 |
 | **smooth down** | 抚平 | Smooth down the flyaways. 把碎发抚平。 |
 | **wipe** | 擦 | Wipe your mouth. 擦擦嘴。 |
 | **put on** | 涂上 / 戴上 | Put on sunscreen. 涂防晒。 |

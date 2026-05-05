@@ -28,19 +28,19 @@
 
 ### 分类英名与特点速览（EN）
 
-| 块 | Category (English) | How to frame it for kids (English cues) |
-| -- | ------------------ | --------------------------------------- |
-| A | Pets & companion animals | Sounds, fur, tails, and breed contrasts; keep kid-safe synonyms (*kitten*, not adult slang). |
-| B | Poultry & farm livestock | Barnyard noises; *eggs / milk / wool* “jobs”; hen–rooster–chick vs cow–bull–calf. |
-| C | Wild birds & large waterbirds | Feathers, beaks, nests, habitats; *penguins don’t fly*; farm ducks/geese/turkeys stay in Block B. |
-| D | Insects, spiders & many-legged crawlers | Six legs vs eight; life cycles (*caterpillar → butterfly*); calm sting-safety English. |
-| E | Reptiles & amphibians | Dry scales vs wet skin; *tadpole → frog*; shells as portable homes. |
-| F | Fish, cetaceans, shellfish & cephalopods | Fins, gills, claws, tentacles; gentle note—whales & dolphins are **mammals**. |
-| G | Wild land mammals (mainly) | Stripes, spots, horns, night vs day; zoo and documentary clues. |
-| H | Prehistoric / extinct icons | *Long ago*, tusks, shaggy giants; pair with fossils or cartoons. |
-| I | Myth, fantasy & fairy-tale cast | Make-believe vs real; wings, horns, magic fire, half-human roles. |
-| J | Scientific group labels | Sorting games (*mammal or reptile?*); **Homo** is Latin biology talk for older kids. |
-| K | Satellite words: parts, homes, food, verbs, non-creatures | *Has* vs *is*: nest, claw, honey, *hop*—not the animal’s species name. |
+| 块   | Category (English)                                        | How to frame it for kids (English cues)                                                           |
+| --- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| A   | Pets & companion animals                                  | Sounds, fur, tails, and breed contrasts; <br>keep kid-safe synonyms (*kitten*, not adult slang).  |
+| B   | Poultry（家禽）& farm livestock                               | Barnyard noises; *eggs / milk / wool* “jobs”; hen–rooster–chick vs cow–bull–calf.                 |
+| C   | Wild birds & large waterbirds                             | Feathers, beaks, nests, habitats; *penguins don’t fly*; farm ducks/geese/turkeys stay in Block B. |
+| D   | Insects, spiders & many-legged crawlers                   | Six legs vs eight; life cycles (*caterpillar → butterfly*); calm sting-safety English.            |
+| E   | Reptiles & amphibians                                     | Dry scales vs wet skin; *tadpole → frog*; shells as portable homes.                               |
+| F   | Fish, cetaceans, shellfish & cephalopods                  | Fins, gills, claws, tentacles; gentle note—whales & dolphins are **mammals**.                     |
+| G   | Wild land mammals (mainly)                                | Stripes, spots, horns, night vs day; zoo and documentary clues.                                   |
+| H   | Prehistoric / extinct icons                               | *Long ago*, tusks, shaggy giants; pair with fossils or cartoons.                                  |
+| I   | Myth, fantasy & fairy-tale cast                           | Make-believe vs real; wings, horns, magic fire, half-human roles.                                 |
+| J   | Scientific group labels                                   | Sorting games (*mammal or reptile?*); **Homo** is Latin biology talk for older kids.              |
+| K   | Satellite words: parts, homes, food, verbs, non-creatures | *Has* vs *is*: nest, claw, honey, *hop*—not the animal’s species name.                            |
 
 **原表说明**：每条保留 **PDF 原始 No.**（1–175，缺 **116**），方便与文末「笔记」里的小标题 `### 49. cocoon` 等逐条对照。
 
@@ -57,21 +57,21 @@
 - **Category (English):** Pets & companion animals — dogs, cats, their young, small caged mammals, and common **breed** names.
 - **Guide (English):** Start routines here: point, name, then guess from *sound, size, fur, tail*. For breeds, use contrasts (*tiny vs big, short hair vs curly*) before introducing long names; with sensitive slang senses, stick to **kitten** / **puppy** in kid talk.
 
-| 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
-| --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 58 | `dog` | 英:/dɒɡ/ 美:/dɔːɡ/ | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随 | Woof woof! Loyal friend. Wags tail when happy. |
-| ⭐ 启蒙 | 59 | `cat` | 英:/kæt/ 美:/kæt/ | n. 猫；猫科动物 | Meow. Soft paws. Chases laser dots. Nine lives in stories. |
-| ⭐ 启蒙 | 174 | `puppy` | 英:/'pʌpi/ 美:/'pʌpi/ | n. ⼩狗，幼⽝ | Baby dog. Tiny paws. Tummy rubs! |
-| ⭐ 启蒙 | 128 | `kitty` | 英:/'kɪti/ 美:/'kɪti/ | n. ⼩猫，猫咪 | Cute word for a small cat. "Here, kitty kitty!" |
-| ⭐ 启蒙 | 143 | `hamster` | 英:/'hæmstə(r)/ 美:/'hæmstər/ | n. 仓⿏；仓⿏⽑⽪ | Puffy cheeks store food. Runs in a wheel at night. |
-| ⭐ 启蒙 | 78 | `rabbit` | 英:/'ræbɪt/ 美:/'ræbɪt/ | n. 兔⼦，野兔 vt. 让…⻅⻤去吧 | Long ears. Hops fast. Loves carrots—ask Bugs Bunny! |
-| ⭐ 启蒙 | 34 | `bunny` | 英:/'bʌni/ 美:/'bʌni/ | n. 兔⼦（特别是⼩兔⼦）；可爱⼥郎 | Soft baby rabbit word. Hops. Loves carrots in cartoons. |
-| ⭐⭐ 常见 | 53 | `Chihuahua` | 英:/tʃɪ'wɑːwə/ 美:/tʃɪ'wɑwɑ/ | n. 吉娃娃（⼀种产于墨⻄哥的狗）；奇瓦瓦（墨⻄哥北部 的州及其⾸府名称） | Tiny dog—fits in a purse. Big eyes. From Mexico. |
-| ⭐⭐ 常见 | 54 | `Labrador` | 英:/'læbrədɔː(r)/ 美:/'læbrədɔːr/ | n. 拉布拉多（加拿⼤东部⼀地区）；⼀种纽芬兰猎⽝ | Friendly big dog. Loves water. Often yellow, black, or chocolate brown. |
-| ⭐⭐ 常见 | 55 | `bulldog` | 英:/'bʊldɒɡ/ 美:/'bʊldɔːɡ/ | n. ⽜头⽝，恶⽝；短枪管⼤型⼿枪 | Wrinkly face, wide chest. Looks tough but can be sweet. |
-| ⭐⭐ 常见 | 56 | `terrier` | 英:/'teriə(r)/ 美:/'teriər/ | n. ⼀种活泼的⼩狗；地籍册；国防⾃卫队 | Small lively dog that loves to dig and chase. |
-| ⭐⭐ 常见 | 57 | `poodle` | 英:/'puːdl/ 美:/'puːdl/ | n. 狮⼦狗 vt. 剪⽑ | Curly fancy fur. Sometimes silly haircut. Very smart dog. |
-| ⭐⭐⭐ 进阶 | 173 | `pussy` | 英:/'pʊsi/ 美:/'pʊsi/ | n. 猫咪；阴⻔ adj. 多脓的 | Cute word for kitten (informal). For kids: say "kitten." |
+| 难度     | No. | Word        | IPA（英 / 美）                      | 释义                                    | 猜谜提示（简单英文 · 家长念给孩子猜）                                                    |
+| ------ | --: | ----------- | ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
+| ⭐ 启蒙   |  58 | `dog`       | 英:/dɒɡ/ 美:/dɔːɡ/                | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随    | Woof woof! Loyal friend. Wags tail when happy.                          |
+| ⭐ 启蒙   |  59 | `cat`       | 英:/kæt/ 美:/kæt/                 | n. 猫；猫科动物                             | Meow. Soft paws. Nine lives in stories.                                 |
+| ⭐ 启蒙   | 174 | `puppy`     | 英:/'pʌpi/ 美:/'pʌpi/             | n. ⼩狗，幼⽝                              | Baby dog. Tiny paws.                                                    |
+| ⭐ 启蒙   | 128 | `kitty`     | 英:/'kɪti/ 美:/'kɪti/             | n. ⼩猫，猫咪                              | Cute word for a small cat.                                              |
+| ⭐ 启蒙   | 143 | `hamster`   | 英:/'hæmstə(r)/ 美:/'hæmstər/     | n. 仓⿏；仓⿏⽑⽪                            | Puffy cheeks store food. Runs in a wheel at night.                      |
+| ⭐ 启蒙   |  78 | `rabbit`    | 英:/'ræbɪt/ 美:/'ræbɪt/           | n. 兔⼦，野兔 vt. 让…⻅⻤去吧                   | Long ears. Hops fast. Loves carrots—ask Bugs Bunny!                     |
+| ⭐ 启蒙   |  34 | `bunny`     | 英:/'bʌni/ 美:/'bʌni/             | n. 兔⼦（特别是⼩兔⼦）；可爱⼥郎                    | Soft baby rabbit word. Hops. Loves carrots in cartoons.                 |
+| ⭐⭐ 常见  |  53 | `Chihuahua` | 英:/tʃɪ'wɑːwə/ 美:/tʃɪ'wɑwɑ/      | n. 吉娃娃（⼀种产于墨⻄哥的狗）；奇瓦瓦（墨⻄哥北部 的州及其⾸府名称） | Tiny dog—fits in a purse. Big eyes. From Mexico.                        |
+| ⭐⭐ 常见  |  54 | `Labrador`  | 英:/'læbrədɔː(r)/ 美:/'læbrədɔːr/ | n. 拉布拉多（加拿⼤东部⼀地区）；⼀种纽芬兰猎⽝             | Friendly big dog. Loves water. Often yellow, black, or chocolate brown. |
+| ⭐⭐ 常见  |  55 | `bulldog`   | 英:/'bʊldɒɡ/ 美:/'bʊldɔːɡ/        | n. ⽜头⽝，恶⽝；短枪管⼤型⼿枪                     | Wrinkly face, wide chest. Looks tough but can be sweet.                 |
+| ⭐⭐ 常见  |  56 | `terrier`   | 英:/'teriə(r)/ 美:/'teriər/       | n. ⼀种活泼的⼩狗；地籍册；国防⾃卫队                  | Small lively dog that loves to dig and chase.                           |
+| ⭐⭐ 常见  |  57 | `poodle`    | 英:/'puːdl/ 美:/'puːdl/           | n. 狮⼦狗 vt. 剪⽑                         | Curly fancy fur. Sometimes silly haircut. Very smart dog.               |
+| ⭐⭐⭐ 进阶 | 173 | `pussy`     | 英:/'pʊsi/ 美:/'pʊsi/             | n. 猫咪；阴⻔ adj. 多脓的                     | Cute word for kitten (informal). For kids: say "kitten."                |
 
 <a id="cat-farm"></a>
 
@@ -233,7 +233,7 @@
 | ⭐ 启蒙 | 82 | `deer` | 英:/dɪə(r)/ 美:/dɪr/ | n. ⿅，梅花⿅ | Graceful. Antlers on the boy. Eats plants in the forest. |
 | ⭐ 启蒙 | 86 | `panda` | 英:/'pændə/ 美:/'pændə/ | n. 熊猫；猫熊 | Black and white. Eats bamboo all day. Lives in China. |
 | ⭐ 启蒙 | 123 | `zebra` | 英:/'zebrə/ 美:/'ziːbrə/ | n. 斑⻢ adj. 有斑纹的 | Horse in pajamas—black and white stripes. Africa! |
-| ⭐ 启蒙 | 144 | `squirrel` | 英:/'skwɪrəl/ 美:/'skwɜːrəl/ | n. 松⿏；松⿏⽑⽪ vt. 贮藏 | Bushy tail. Hides nuts. Runs up trees super fast! |
+| ⭐ 启蒙 | 144 | `squirrel` | 英:/'skwɪrəl/ 美:/'skwɜːrəl/ | n. 松⿏；松⿏⽑⽪ vt. 贮藏 | Brown. Bushy tail. Hides nuts. It's in the tree. Runs up trees super fast! |
 | ⭐ 启蒙 | 145 | `giraffe` | 英:/dʒə'rɑːf/ 美:/dʒə'ræf/ | n. ⻓颈⿅ | Neck so long it eats leaves from the tops of trees. |
 | ⭐ 启蒙 | 172 | `bear` | 英:/beə(r)/ 美:/ber/ | n. 熊；(在证券市场等)卖空的⼈ v. 有（某个名称）；⽀ 撑；承受；显示；忍受；开（花）；携带；承担责任；⽣ 育，⽣（孩⼦）；转向（左或北等）；举⽌；⼼怀；不适 于某事(或做某事) | Big furry hugger. Eats honey. Might sleep all winter. |
 | ⭐⭐ 常见 | 14 | `sloth` | 英:/sləʊθ/ 美:/sloʊθ/ | n. 怠惰，懒惰；[动]树懒 | Super slow. Hangs upside down in trees. Takes naps all day. |

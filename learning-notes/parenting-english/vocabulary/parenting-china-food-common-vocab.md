@@ -17,6 +17,28 @@
 - **rice noodles** 米粉  
 - **hot pot** 火锅  
 
+### 早餐（中式常见于早点摊）— Breakfast (Chinese Classics)
+
+- **stir-fried rice noodles / stir-fried fen** 炒粉（南方早点常见；国外菜单有时写拼音 *chao fen*）  
+- **fried flat rice noodles (ho fun / hor fun)** 炒河粉、炒扁粉（宽扁米条）  
+- **fried round rice noodles** 炒圆粉（粗圆米粉；各地粗细不同，现场可指指「圆的」）  
+- **rice noodle rolls / steamed rice rolls** 肠粉（菜单也常见粤语拼音 **cheung fun**）  
+- **siu mai / shumai (open-topped steamed dumplings)** 烧麦、烧卖  
+- **hot dry noodles (Wuhan-style, with sesame paste)** 热干面（芝麻酱拌的碱面「干拌」面条）  
+- **soy milk (sweet / no sugar)** 豆浆 — 加糖 / 无糖；热饮常与油条、包子同点（同档 **饮品**见 §5）  
+- **yogurt / drinkable yogurt** 酸奶 — 瓶装可吸的常标 **drinkable yogurt / drinking yogurt**（同档零食架见 §5）  
+
+#### 早点常用句
+
+- **Flat rice noodles or round rice noodles for the stir-fry?**  
+  炒粉要河粉（扁）还是圆粉？`亲子`
+- **Sweet soy milk or no sugar for you?**  
+  豆浆要加糖还是无糖？`亲子`
+- **Do you want cheung fun with egg and veggie, or plain?**  
+  肠粉要蛋菜馅还是斋肠？`亲子`
+- **Careful—it’s slippery with sesame sauce.**  
+  芝麻酱有点滑，小口试。`亲子`（热干面带娃提示）
+
 常用句：
 
 - **Do you want rice or noodles today?**  

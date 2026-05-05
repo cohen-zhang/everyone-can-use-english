@@ -38,12 +38,13 @@
 | English | 简中 | 备注 `亲子` |
 | --- | --- | --- |
 | **Mind the gap** | 注意站台与列车间隙 | 伦敦等地铁经典广播；可教孩子跟读 |
-| **Stand behind the yellow line** | 站在黄线后 | 等车安全线 |
-| **Please let passengers off first** | 请先下后上 | 排队候车礼仪 |
+| **Stand behind the yellow line and wait** | 站在黄线后 | 等车安全线 |
+| **Please let passengers off first before boarding and board the train in an orderly manner.** | 请先下后上 | 排队候车礼仪 |
 | **Train approaching** | 列车进站 | |
 | **Doors closing** | 车门即将关闭 | 带娃勿冲门 |
-| **Doors open on the right / left** | 开右侧门 / 左侧门 | 到站前广播 |
 | **Next station: …** | 下一站：…… | |
+| **Origin station** / **Starting station** | 起点站 | 始发站；与 *Terminal* 相对；屏上偶见 *Departure* |
+| **Doors open on the right / left** | 开右侧门 / 左侧门 | 到站前广播 |
 | **Terminal** / **Terminus** | 终点站 | 此线尽头 |
 | **Out of service** | 暂停服务 / 停用 | 电梯、出口等 |
 
@@ -61,6 +62,7 @@
 | **Thank you for traveling with Shenzhen Metro.** | 感谢您乘坐深圳地铁。 | 到站或离站致谢 |
 | **This train is bound for …** / **bound for …** | 本列车开往…… | 与屏上终点站一致 |
 | **The terminating station is …** / **This train terminates at …** | 本次列车的终点站为…… / 本线终点站为…… | 有的版本更口语用 *terminates* |
+| **This service starts from …** / **The train departs from …** | 本线从……站始发 / 起点站为…… | 与「起点站」屏、时刻表对应 |
 
 ### 到站预告与换乘
 
@@ -70,6 +72,17 @@
 | **… is an interchange station for Line … and Line …** | …站可换乘……号线与……号线 | 多线换乘会念全 |
 | **Passengers going to … please prepare to get off.** | 前往……的乘客请准备下车 | 大站或枢纽前常见 |
 | **We are arriving at …** | 列车即将到达…… | 也有的用 *approaching* |
+| **Next station, …. Please exit in the direction indicated above this door.** | 下一站……请按本车门上方指示方向下车。 | 报站+「门灯/箭头」提示；站名随线替换（如录播里的 *Qinghu*） |
+| **Please transfer there for Line … and Shenzhen North Railway Station.** | 可在该站换乘……号线，或前往深圳北站（铁路）。 | 枢纽站口播常合并铁路接驳；措辞以现场为准 |
+
+### 终点清客与终止服务（Terminus）
+
+| English | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **This is the end of Line …. Please exit the train.** | 本线为……号线终点站，请下车。 | 口播常见略简说法；亦可能说 *terminal station* |
+| **This train has ended service. Please leave the train and take all your belongings.** | 本次列车运营已结束，请下车并带好随身物品。 | 段场回库、临时清客等；录播原句 *stops the services* 属口语化/误用，表中用常见自然说法 |
+
+清客结束前若致谢，常与「欢迎与线路」表中 **Thank you for traveling with Shenzhen Metro.** 同句；港铁系统常为 *Thank you for travelling on the MTR.*
 
 ### 车门与间隙（安全）
 
@@ -78,14 +91,22 @@
 | **Doors will open on the left / right.** | 左侧/右侧的车门将会打开。 | 教孩子先听 **left/right** 再靠边 |
 | **Please mind the gap between the train and the platform.** | 请注意站台与列车之间的空隙。 | 与英式 *Mind the gap* 同义、更完整一句 |
 | **Please stand clear of the doors.** | 请远离车门 / 请勿靠近车门。 | 关门警示前 |
+| **Please stand back from the doors.** | 请退后，勿靠车门。 | 与 *stand clear* 同义口播变体 |
 | **Doors closing.** | 车门即将关闭。 | 常与提示音一起 |
 | **Please let passengers off before boarding.** | 请先下后上。 | 文明乘车广播 |
+
+### 扶梯与行走安全
+
+| English | 简中 | 备注 `亲子` |
+| --- | --- | --- |
+| **Please hold the handrail.** | 请抓牢扶手。 | 扶梯广播；带娃先扶好再说话 |
 
 ### 爱心座与文明乘车
 
 | English | 简中 | 备注 `亲子` |
 | --- | --- | --- |
-| **Please offer your seat to passengers in need.** | 请为有需要的人士让座。 | 含老人、孕妇、抱婴者等 |
+| **Please offer your seat to passengers / anyone in need.** | 请为有需要的人士让座。 | *anyone in need* 口播亦常见；含老人、孕妇、抱婴者等 |
+| **Please help keep a clean and healthy environment. Do not eat, drink, smoke, or litter.** | 请共同保持环境清洁卫生；请勿饮食、吸烟或乱扔废弃物。谢谢您。 | 录播偶见 *enviroment*、*too anyone*；表中为规范拼写 |
 | **No eating or drinking in the trains or stations.** | 车站及列车内请勿饮食。 | 与标识一致 |
 | **Smoking is prohibited in Shenzhen Metro.** | 深圳地铁全域禁烟。 | 含站台、车厢 |
 

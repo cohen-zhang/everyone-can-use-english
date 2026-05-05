@@ -1,6 +1,6 @@
 # 穿衣日常 — Getting Dressed in Shenzhen
 
-围绕深圳地区亲子日常的穿衣英文表达：上学、出门、雨天、空调房、运动、洗澡后换衣服等场景。
+围绕深圳地区亲子日常的穿衣英文表达：上学、出门、雨天、空调房、冷热天与场合选衣选鞋、帽子用词、运动、洗澡后换衣服等场景。
 
 ---
 
@@ -118,6 +118,40 @@
 - **Let's wear safe, comfortable shoes.**  
   我们穿安全舒服的鞋。
 
+### 天冷与阴天
+
+- **It's a little cooler today. Long pants are better.**  
+  今天稍凉，长裤更合适。
+
+- **Wear long sleeves if you feel chilly in the morning.**  
+  早上觉得凉就穿长袖。
+
+- **It's cloudy but still warm. A light top is fine.**  
+  阴天但还是热，薄上衣就行。
+
+### 天气与穿搭 — 问句（家长问 / 孩子问）
+
+- **What should I wear today?**  
+  我今天该穿什么？
+
+- **What should you wear for this weather?**  
+  这种天气你该穿什么？
+
+- **Is it okay to wear sandals today?**  
+  今天穿凉鞋可以吗？
+
+- **Do I need a jacket today?**  
+  我今天需要穿外套吗？
+
+- **Which shoes should I wear—sneakers or sandals?**  
+  我该穿哪双鞋——运动鞋还是凉鞋？
+
+- **Are rain boots enough, or do I need the raincoat too?**  
+  光穿雨靴够吗，还要不要雨衣？
+
+- **It's sunny and hot. Do we need hats?**  
+  又大又晒，要不要戴帽子？
+
 ---
 
 ## 3. 上学穿搭 — School Outfit
@@ -189,6 +223,12 @@
 - **It's sunny. Wear a hat.**  
   天很晒，戴上帽子。
 
+- **Put on your sun hat—the wide brim shades your face.**  
+  戴上遮阳帽，大帽檐能挡住脸前的太阳。
+
+- **Your baseball cap is fine for the playground.**  
+  去游乐场戴棒球帽就行。
+
 - **Put on sunscreen before we go out.**  
   出门前涂防晒。
 
@@ -211,6 +251,38 @@
 
 - **You can choose your own outfit today.**  
   今天你可以自己选衣服。
+
+### 不同场合穿什么（含问句）
+
+- **Where are we going today?**  
+  我们今天去哪儿？
+
+- **We're going to a birthday party. Let's wear something festive.**  
+  我们去生日会，穿得喜气一点吧。
+
+- **For the restaurant, wear neat shoes—not muddy sneakers.**  
+  去餐厅穿整洁的鞋，别穿沾泥的运动鞋。
+
+- **For the museum, wear quiet shoes that won't scuff the floor.**  
+  去博物馆穿走路轻的鞋，别刮花地面。
+
+- **For swimming lessons, bring flip-flops and a towel.**  
+  上游泳课要带人字拖和毛巾。
+
+- **On a school day, the uniform is the right outfit.**  
+  上学日穿校服就对了。
+
+- **It's just a playdate at home—comfy clothes are fine.**  
+  小朋友来家里玩，舒服的衣服就行。
+
+- **Do I need dress shoes today?**  
+  我今天要穿皮鞋吗？
+
+- **Can I wear this dress to grandma's house?**  
+  我能穿这条裙子去姥姥家吗？
+
+- **Are these shoes okay for climbing?**  
+  这双鞋爬坡、攀爬 OK 吗？
 
 ---
 
@@ -323,9 +395,12 @@
 
 ## 8. 常见衣物词汇 — Clothing Vocabulary
 
+### 衣裤鞋袜
+
 | English | 中文 | 亲子例句 |
 |---------|------|----------|
 | **T-shirt** | T 恤 | Put on your T-shirt. 穿上你的 T 恤。 |
+| **long-sleeved shirt** / **long sleeves** | 长袖（上衣） | Wear long sleeves on cooler mornings. 凉快的早上穿长袖。 |
 | **shorts** | 短裤 | Shorts are good for hot days. 热天穿短裤合适。 |
 | **pants** | 裤子 | These pants are too long. 这条裤子太长了。 |
 | **dress** | 连衣裙 | This dress is beautiful. 这条裙子很漂亮。 |
@@ -336,11 +411,26 @@
 | **shoes** | 鞋子 | Put on your shoes. 穿上鞋子。 |
 | **sandals** | 凉鞋 | Sandals are good for summer. 凉鞋适合夏天。 |
 | **sneakers** | 运动鞋 | Wear sneakers for PE class. 体育课穿运动鞋。 |
+| **dress shoes** | 正装皮鞋 / 小皮鞋 | Dress shoes match a neat outfit. 穿整齐一点时配小皮鞋。 |
+| **boots** | 靴子 | Boots keep feet dry in heavy rain. 大雨天靴子更护脚。 |
 | **rain boots** | 雨靴 | Wear rain boots on rainy days. 雨天穿雨靴。 |
+| **slippers** | （室内）拖鞋 | Slippers are for inside the house. 拖鞋在家里穿。 |
+| **flip-flops** | 人字拖 | Flip-flops are for the pool, not for running. 人字拖适合水池边，不适合跑步。 |
 | **jacket** | 外套 | Bring a light jacket. 带一件薄外套。 |
 | **raincoat** | 雨衣 | Put on your raincoat. 穿上雨衣。 |
-| **hat** | 帽子 | Wear a hat in the sun. 太阳下戴帽子。 |
 | **school uniform** | 校服 | Put on your school uniform. 穿上校服。 |
+
+### 帽子 · Hats
+
+| English | 中文 | 亲子例句 |
+|---------|------|----------|
+| **hat** | 帽子（泛指） | Wear a hat in the sun. 太阳下戴帽子。 |
+| **cap** / **baseball cap** |（棒球）鸭舌帽 | Your cap blocks the sun for your eyes. 鸭舌帽帮你挡太阳晒眼睛。 |
+| **sun hat** | 遮阳帽（常带大帽檐） | A sun hat covers your ears and neck better. 遮阳帽连耳朵、后颈都遮得好些。 |
+| **bucket hat** | 渔夫帽 | The bucket hat folds small in your bag. 渔夫帽可以折小塞书包。 |
+| **beanie** | 针织帽 / 冷帽 | A beanie keeps your ears warm on cold days. 天冷戴针织帽护耳朵。 |
+| **visor** | 空顶遮阳帽 | A visor is cool but your scalp still needs sunscreen. 空顶帽凉快，头皮还要涂防晒。 |
+| **hood** | （外套上的）连帽 | Pull up your hood if it drizzles. 毛毛雨就把连帽拉起来。 |
 
 ---
 
@@ -438,6 +528,12 @@ Celine：好吧，我们出去的时候我再脱掉。
 
 - **Do you need an umbrella today?**  
   今天需要带伞吗？
+
+- **Do you need a hat or cap today?**  
+  今天要不要戴帽子或鸭舌帽？
+
+- **Are your shoes okay for where we're going?**  
+  这双鞋适合咱们要去的地方吗？
 
 - **Are you comfortable?**  
   你穿得舒服吗？
