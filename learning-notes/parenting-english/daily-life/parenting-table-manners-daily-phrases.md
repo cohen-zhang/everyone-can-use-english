@@ -109,11 +109,11 @@
 
 ---
 
-## 5. 短对话（张泽、不多、Celine）
+## 5. 短对话（阿泽、不多、Celine）
 
 **场景 A：提醒坐姿**
 
-- **Dad (张泽)**: Celine, sit up straight and keep your feet down.  
+- **Dad (阿泽)**: Celine, sit up straight and keep your feet down.  
 - **Celine (不多)**: Like this?  
 - **Dad**: Yes, that’s great table posture.  
 — 用 *sit up straight* + *feet down* 组合提醒。`亲子`

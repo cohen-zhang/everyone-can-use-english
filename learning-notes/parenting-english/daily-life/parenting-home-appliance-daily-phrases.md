@@ -147,15 +147,15 @@
 
 ---
 
-## 7. 短对话（张泽、不多、Celine）
+## 7. 短对话（阿泽、不多、Celine）
 
 **场景 A：开客厅空调**
 
-- **张泽 (Dad)**: Celine, it’s stuffy. Do you want the AC?  
+- **阿泽 (Dad)**: Celine, it’s stuffy. Do you want the AC?  
 - **Celine (不多)**: Yes, please!  
 - **Dad**: Okay. I’ll set it to 26. Don’t play with the remote. If you feel cold, tell me.  
 - **Celine**: Okay. I’ll tell you.  
-— 泽哥 / 张泽和 Celine（不多）说客厅有点闷。爸爸问要不要开空调，说设 26 度，别玩遥控器，冷要说。
+— 泽哥 / 阿泽和 Celine（不多）说客厅有点闷。爸爸问要不要开空调，说设 26 度，别玩遥控器，冷要说。
 
 **场景 B：洗衣机在响**
 

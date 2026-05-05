@@ -132,11 +132,11 @@
 
 ---
 
-## 5. 短对话（张泽、不多、Celine）
+## 5. 短对话（阿泽、不多、Celine）
 
 **场景 A：检查英语造句**
 
-- **Dad (张泽)**: You used a **comma** here, but it’s a full sentence. Use a **period** instead.  
+- **Dad (阿泽)**: You used a **comma** here, but it’s a full sentence. Use a **period** instead.  
 - **Celine (不多)**: Like this?  
 - **Dad**: Yes. And questions need a **question mark**.  
 — 边改作业边说符号名。`亲子`

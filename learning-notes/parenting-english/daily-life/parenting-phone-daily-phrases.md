@@ -249,12 +249,12 @@ app 要相机 / 麦克风 / 定位权限。我来选允许或拒绝。`技术` `
 
 ---
 
-## 12. 短对话（张泽、不多、Celine）
+## 12. 短对话（阿泽、不多、Celine）
 
 **场景 A：响铃、孩子递手机**
 
 - **Celine (不多)**: Daddy, it’s beeping!  
-- **张泽 (Dad)**: That’s a call. Thank you. Don’t press anything—I’ll take it.  
+- **阿泽 (Dad)**: That’s a call. Thank you. Don’t press anything—I’ll take it.  
 - **Celine**: Okay!  
 — 教孩子：响了先叫人，自己别乱按。`亲子`
 
@@ -314,4 +314,4 @@ app 要相机 / 麦克风 / 定位权限。我来选允许或拒绝。`技术` `
 
 ---
 
-*可与 `电器使用日常.md`、出行类、收拾整理类笔记一起用；家里若把「工作机 / 家用的平板」和「孩子的设备」分清楚，可替换为 **my iPad**、**the kids’ tablet** 等，句子结构不变。对外分享时 **张泽** 可改为 Dad 等占位称呼；**不多 / Celine** 亦可改为你家娃的名字。*
+*可与 `电器使用日常.md`、出行类、收拾整理类笔记一起用；家里若把「工作机 / 家用的平板」和「孩子的设备」分清楚，可替换为 **my iPad**、**the kids’ tablet** 等，句子结构不变。对外分享时 **阿泽** 可改为 Dad 等占位称呼；**不多 / Celine** 亦可改为你家娃的名字。*

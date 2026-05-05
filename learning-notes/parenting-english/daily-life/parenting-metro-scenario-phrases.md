@@ -9,27 +9,27 @@
 
 ## 站内外常见标识（Signs）
 
-| English（常见写法） | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Entrance** | 入口 | 进站口 |
-| **Exit** / **Way out** | 出口 | 英国站里更常见 *Way out* |
-| **No entry** | 禁止入内 | 单向通道反方向 |
-| **No smoking** | 禁止吸烟 | |
-| **Ticket office** / **Tickets** | 售票处 / 售票 | |
-| **Customer service** | 客服中心 | 充值、问询 |
-| **Information** | 问询处 | |
-| **Restroom** / **Toilet** / **WC** | 卫生间 | *Restroom* 美；*WC* 欧陆/英常见 |
-| **Elevator** / **Lift** | 电梯 | *Elevator* 美；*Lift* 英 |
-| **Escalator** | 自动扶梯 | 带娃扶好、站稳 |
-| **Stairs** | 楼梯 | |
-| **Platform** | 站台 | |
-| **Track** | 轨道 / 股道 | 美铁语境多；地铁屏也会用 |
-| **Line 1** / **Line 2** | 1 号线 / 2 号线 | |
-| **Transfer** / **Interchange** | 换乘 | *Interchange* 英联邦站里更常见 |
-| **Emergency exit** | 紧急出口 | |
-| **Caution** / **Watch your step** | 当心 / 注意脚下 | 台阶、缝隙处 |
-| **Wet floor** | 地面湿滑 | |
-| **Priority seat** / **Courtesy seat** | 爱心座 / 优先座 | 给老人、孕妇等 |
+| English（常见写法）                         | 简中          | 备注 `亲子`                  |
+| ------------------------------------- | ----------- | ------------------------ |
+| **Entrance** `/ˈentrəns/`                          | 入口          | 进站口                      |
+| **Exit** `/ˈeksɪt/` / **Way out**                | 出口          | 英国站里更常见 *Way out*        |
+| **No entry**                          | 禁止入内        | 单向通道反方向                  |
+| **No smoking**                        | 禁止吸烟        |                          |
+| **Ticket office** / **Tickets**       | 售票处 / 售票    |                          |
+| **Customer service**                  | 客服中心        | 充值、问询                    |
+| **Information**                       | 问询处         |                          |
+| **Restroom** / **Toilet** / **WC**    | 卫生间         | *Restroom* 美；*WC* 欧陆/英常见 |
+| **Elevator** / **Lift**               | 电梯          | *Elevator* 美；*Lift* 英    |
+| **Escalator** `/ˈeskəleɪtə(r)/`                         | 自动扶梯        | 带娃扶好、站稳                  |
+| **Stairs**                            | 楼梯          |                          |
+| **Platform**                          | 站台          |                          |
+| **Track**                             | 轨道 / 股道     | 美铁语境多；地铁屏也会用             |
+| **Line 1** / **Line 2**               | 1 号线 / 2 号线 |                          |
+| **Transfer** / **Interchange**        | 换乘          | *Interchange* 英联邦站里更常见   |
+| **Emergency exit**                    | 紧急出口        |                          |
+| **Caution** `/ˈkɔːʃn/` / **Watch your step**     | 当心 / 注意脚下   | 台阶、缝隙处                   |
+| **Wet floor**                         | 地面湿滑        |                          |
+| **Priority seat** / **Courtesy seat** `/ˈkɜːtəsi/`（美 `/ˈkɜːrtəsi/`） | 爱心座 / 优先座   | 给老人、孕妇等                  |
 
 ---
 
@@ -45,7 +45,7 @@
 | **Next station: …** | 下一站：…… | |
 | **Origin station** / **Starting station** | 起点站 | 始发站；与 *Terminal* 相对；屏上偶见 *Departure* |
 | **Doors open on the right / left** | 开右侧门 / 左侧门 | 到站前广播 |
-| **Terminal** / **Terminus** | 终点站 | 此线尽头 |
+| **Terminal** / **Terminus** `/ˈtɜːmɪnəs/`（美 `/ˈtɜːrmɪnəs/`） | 终点站 | 此线尽头 |
 | **Out of service** | 暂停服务 / 停用 | 电梯、出口等 |
 
 ---
@@ -203,9 +203,11 @@
 - **Take the escalator upstairs / downstairs.** — 坐扶梯上楼 / 下楼。  
 - **Use the elevators if you prefer—they’re usually next to the escalators.** — 想坐电梯可以走这边，一般就在扶梯旁边。  
 - **Signs often say street level / ground level / concourse—you can point and read them out loud.** — 牌子上常有 *street level*（街面/出站地面）、*ground level*、*concourse*（站厅），指着念出来也方便对方对照手机地图。  
-- **It’s right around the corner—a two‑minute walk, maybe.** — 拐个弯就到，走过去大概两分钟。  
-- **It’s not far—just stay on this corridor.** — 不远，顺着这条通道走就行。  
-- **You’ll see it once you reach the stairs.** — 到楼梯口就能看见。（照实可把 *stairs* 换成 *ticket gates* 等）
+- **It’s right around the corner—a two‑minute walk, maybe about 50 meters.** — 拐个弯就到，走过去大概两分钟，也就五十米左右。（*50* 照实替换）  
+- **It’s not far—just stay on this corridor; it’s about 30 meters.** — 不远，顺着这条通道走就行，大概三十米。（*30* 照实替换）  
+- **You’ll see it once you reach the stairs—roughly 80 meters ahead.** — 往前大概八十米，到楼梯口就能看见。（照实可把 *stairs* / *80* 换成 *ticket gates* / 实际米数等）  
+- **It’s about 100 meters that way—straight ahead, then left at the sign.** — 往那边直走大概一百米，见指示牌再左转。（米数与转向照实说）  
+- **The exit is around 150 meters—maybe a two‑minute walk if you’re not rushing.** — 出口大概一百五十米，两三分钟能走到。（不急走的话）
 
 #### 指路收尾 & 引荐工作人员
 

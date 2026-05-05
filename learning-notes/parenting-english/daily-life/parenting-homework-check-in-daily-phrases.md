@@ -1,13 +1,13 @@
 # 家庭作业打卡 — Homework Check-In
 
-面向**亲子作业场景**：从放学回家、作业准备、各科作业、检查订正、打卡提交到睡前整理的完整流程。学习者身份：**张泽 / 阿泽**；孩子：**不多 / Celine**。`亲子`
+面向**亲子作业场景**：从放学回家、作业准备、各科作业、检查订正、打卡提交到睡前整理的完整流程。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 
 ---
 
 ## 本页在做什么
 
 **homework**：学校布置的课后作业，需按时完成并提交。  
-**check-in /打卡**：记录完成状态、拍照上传或家长签字的动作。  
+**homework check-in**：家校平台上记录完成进度、上传照片或音视频、家长确认的 routine；口语里也可说 **daily submission**。**打卡**是本页中文里对这类操作的统称。  
 下列场景覆盖：**放学回家 → 作业准备 → 分科作业 → 检查与订正 → 打卡提交 → 整理书包**，例子贴近国内小学至初中家庭常见场景。
 
 ---
@@ -42,7 +42,7 @@
 ### 朗读与背诵
 
 - **Read the text aloud twice.** — 把课文大声读两遍。  
-- **Record your reading for the打卡.** — 录下朗读，待会儿打卡用。  
+- **Record your reading—we'll upload it for today's homework check-in.** — 录下朗读，待会儿上传到今日作业打卡。  
 - **Try to recite from memory—I'll listen.** — 试着背一背，我听着。  
 - **Your tone sounds natural now.** — 现在语气自然多了。  
 
@@ -119,11 +119,11 @@
 - **Cut along the dotted line carefully.** — 沿虚线小心剪。  
 - **Glue dries clear—don't worry about the mess.** — 胶水是透明的，别担心弄脏。  
 
-### 体育与打卡
+### PE homework & homework check-ins
 
 - **Jump rope fifty times—I'll count.** — 跳绳五十下，我数着。  
 - **Record a video of your sit-ups.** — 录一段仰卧起坐的视频。  
-- **Upload the sports打卡 before dinner.** — 体育打卡晚饭前上传。  
+- **Upload your PE homework check-in before dinner.** — 体育作业的打卡／上传晚饭前要完成。  
 
 ---
 
@@ -148,12 +148,12 @@
 - **Explain your thinking—why did you choose this answer?** — 说说你的想法，为什么选这个答案？  
 - **Mistakes are how we learn—no shame in that.** — 错误是学习的方式，没什么好难为情的。  
 
-### 打卡提交
+### Submitting homework check-ins
 
 - **Open the家长通 / ClassDojo app.** — 打开家长通 / ClassDojo。  
 - **Take a clear photo of each page.** — 每页拍清楚照片。  
 - **Make sure the lighting is good—no shadows.** — 光线要好，别留影子。  
-- **Submit the打卡 before nine p.m.** — 晚上九点前提交打卡。  
+- **Submit your homework check-in before nine p.m.** — 晚上九点前提交作业打卡。  
 - **Mark as completed—green check.** — 标记完成，打绿勾。  
 - **Teacher already gave feedback—let's read it.** — 老师已经反馈了，我们看看。  
 
@@ -199,7 +199,7 @@
 |---------|------|----------|
 | **homework** | 家庭作业 | Finish your **homework** before dinner. |
 | **assignment** | 作业任务 | Today's **assignments** are in the notebook. |
-| **check-in /打卡** | 打卡（提交记录） | Submit the **check-in** photo by 9 p.m. |
+| **homework check-in** | 作业打卡（家校 app 常见） | Submit your **homework check-in** photo by 9 p.m. |
 | **worksheet** | 作业单 / 练习纸 | Complete the math **worksheet**. |
 | **workbook** | 练习册 | Write answers in the **workbook**. |
 | **textbook** | 课本 | Read page 45 in the **textbook**. |
@@ -234,9 +234,9 @@
 **Celine：** Math first—it's easiest.  
 **阿泽：** Good choice. Twenty minutes, then a break.
 
-### 场景 2：打卡拍照
+### 场景 2：作业打卡拍照（check-in photo）
 
-**阿泽：** Time to submit the打卡.  
+**阿泽：** Time to submit today's homework check-in.  
 **Celine：** The lighting is bad in my room.  
 **阿泽：** Move to the living room—near the window.  
 **Celine：** Is this clear enough?  

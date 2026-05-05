@@ -483,11 +483,11 @@
 
 ---
 
-## 10. 短对话（张泽、不多、Celine）
+## 10. 短对话（阿泽、不多、Celine）
 
 **场景 A：家里吃晚饭**
 
-- **Dad (张泽)**: We have rice, stir-fried broccoli, and steamed fish tonight.  
+- **Dad (阿泽)**: We have rice, stir-fried broccoli, and steamed fish tonight.  
 - **Celine (不多)**: I want fish and rice!  
 - **Dad**: Great. Watch out for fish bones.  
   — 把“菜名 + 做法 + 安全提醒”放在一句里。`亲子`

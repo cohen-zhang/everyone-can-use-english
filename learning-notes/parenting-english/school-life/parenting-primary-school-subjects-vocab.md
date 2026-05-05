@@ -121,12 +121,12 @@
 
 ---
 
-## 8. 短对话（张泽、不多、Celine）
+## 8. 短对话（阿泽、不多、Celine）
 
 **场景 A：问今天有什么课**
 
 - **Celine (不多)**: What did we have today?  
-- **Dad (张泽)**: You mean at school? You had **Chinese** first, then **Math**, right? You told me on the bus.  
+- **Dad (阿泽)**: You mean at school? You had **Chinese** first, then **Math**, right? You told me on the bus.  
 - **Celine**: And **PE**! I was tired!  
 - **Dad**: **PE** is fun-tiring.  
 — 复习科目名 *Chinese / Math / PE*。`亲子`
