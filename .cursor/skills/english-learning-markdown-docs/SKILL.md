@@ -1,6 +1,6 @@
 ---
 name: english-learning-markdown-docs
-description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner names 张泽 / 泽哥/阿泽 and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. Use when writing notes, journals, vocabulary sheets, dialogues, or parenting-and-work English material.
+description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner name **阿泽** (nickname **泽哥**) and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. Use when writing notes, journals, vocabulary sheets, dialogues, or parenting-and-work English material.
 ---
 
 # English-learning Markdown documents
@@ -28,7 +28,7 @@ Avoid unexplained jargon about language teaching unless the user asks for it. Pr
 ## Bilingual layout (English + 简中)
 
 - **Default**: Every meaningful English unit (phrase, sentence, or table row) appears **with** a concise **Simplified Chinese** gloss—same line (e.g. `English` — 简中) or the line directly below; in tables, use dedicated English / 中文 columns when it improves scanning.
-- **Learner identity**: 张泽；同事可能称呼 **泽哥**、**阿泽**。在自我介绍、职场对话、情景练习中可自然使用；若用户要求对外分享或全文匿名，再改为占位称呼。
+- **Learner identity**: **阿泽**；同事可能称呼 **泽哥**。在自我介绍、职场对话、情景练习中可自然使用；若用户要求对外分享或全文匿名，再改为占位称呼。
 - **Highlight (priority review)**: Terms tied to **financial-industry systems and business**, and **software development** (engineering, architecture, delivery, toolchain, roles), mark clearly: **bold** for the English term, a `术语` / `技术` tag in lists, or an extra column with 简中 + short memory hook.
 
 ## Child-focused vocabulary (不多 / Celine)
