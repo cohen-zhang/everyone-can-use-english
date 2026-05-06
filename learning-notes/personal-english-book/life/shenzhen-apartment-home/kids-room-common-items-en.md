@@ -31,14 +31,14 @@
 
 ### 2. 睡眠区（床架）· Sleep furniture
 
-| Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
-| --- | --- | --- | --- | --- |
-| `tatami bed` | 英:/təˈtɑːmi bed/ 美:/təˈtɑːmi bed/ | n. 榻榻米床（抬高地台 + 床垫区；床下常为抽屉收纳） | Board games vanish into **tatami bed** drawers before grandparents visit. | 姥姥姥爷来之前棋盘玩具塞进榻榻米床下抽屉里。 |
-| `under-bed drawer` | 英:/ˈʌndə bed drɔː(r)/ 美:/ˈʌndər bed drɔːr/ | n. 床下抽屉（榻榻米 / 地台常用） | Label each **under-bed drawer** so spare bedding doesn’t mix with LEGO bins. | 每个床下抽屉贴标签，备用床品别和乐高箱混在一起。 |
-| `bunk bed` | 英:/bʌŋk bed/ 美:/bʌŋk bed/ | n. 双层床 | The **bunk bed** frees floor space for a reading rug below. | 双层床下面腾出地面铺阅读地毯。 |
-| `loft bed` | 英:/lɒft bed/ 美:/lɔːft bed/ | n. 高架床（下床常为书桌） | A **loft bed** stacks sleep above homework in tight flats. | 高架床在小户型里把睡觉叠在学习区上方。 |
-| `single bed` | 英:/ˈsɪŋɡl bed/ 美:/ˈsɪŋɡl bed/ | n. 单人床 | Fresh bedding lands on the **single bed** for **Celine** every Sunday. | Celine 的单人床每周日换上一套干净床品。 |
-| `mattress` | 英:/ˈmætrəs/ 美:/ˈmætrəs/ | n. 床垫 | The firm **mattress** supports growing backs during sleep. | 偏硬床垫有助于孩子脊柱发育期的睡眠支撑。 |
+| Word               | IPA（英 / 美）                                 | 简中释义                         | 介绍句（English）                                                                 | 介绍句（简中）                  |
+| ------------------ | ------------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------- | ------------------------ |
+| `tatami bed`       | 英:/təˈtɑːmi bed/ 美:/təˈtɑːmi bed/          | n. 榻榻米床（抬高地台 + 床垫区；床下常为抽屉收纳） | Board games vanish into **tatami bed** drawers before grandparents visit.    | 姥姥姥爷来之前棋盘玩具塞进榻榻米床下抽屉里。   |
+| `under-bed drawer` | 英:/ˈʌndə bed drɔː(r)/ 美:/ˈʌndər bed drɔːr/ | n. 床下抽屉（榻榻米 / 地台常用）          | Label each **under-bed drawer** so spare bedding doesn’t mix with LEGO bins. | 每个床下抽屉贴标签，备用床品别和乐高箱混在一起。 |
+| `bunk bed`         | 英:/bʌŋk bed/ 美:/bʌŋk bed/                  | n. 双层床                       | The **bunk bed** frees floor space for a reading rug below.                  | 双层床下面腾出地面铺阅读地毯。          |
+| `loft bed`         | 英:/lɒft bed/ 美:/lɔːft bed/                 | n. 高架床（下床常为书桌）               | A **loft bed** stacks sleep above homework in tight flats.                   | 高架床在小户型里把睡觉叠在学习区上方。      |
+| `single bed`       | 英:/ˈsɪŋɡl bed/ 美:/ˈsɪŋɡl bed/              | n. 单人床                       | Fresh bedding lands on the **single bed** for **Celine** every Sunday.       | Celine 的单人床每周日换上一套干净床品。  |
+| `mattress`         | 英:/ˈmætrəs/ 美:/ˈmætrəs/                    | n. 床垫                        | The firm **mattress** supports growing backs during sleep.                   | 偏硬床垫有助于孩子脊柱发育期的睡眠支撑。     |
 
 ---
 
@@ -74,32 +74,32 @@
 
 ### 5. 学习与桌面 · Study zone
 
-| Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
-| --- | --- | --- | --- | --- |
-| `study desk` | 英:/ˈstʌdi desk/ 美:/ˈstʌdi desk/ | n. 书桌 | Homework happens at the height-adjustable **study desk**. | 功课在可升降书桌上完成。 |
-| `desk chair` | 英:/desk tʃeə(r)/ 美:/desk tʃer/ | n. 书桌椅 | The **desk chair** rolls smoothly but brakes when kids stand up. | 书桌椅轮滑顺，站起来时会刹住。 |
-| `bookshelf` | 英:/ˈbʊkʃelf/ 美:/ˈbʊkʃelf/ | n. 书架 | Picture books face forward on the lower **bookshelf** shelves. | 绘本朝下层书架封面朝外摆。 |
-| `bookend` | 英:/ˈbʊkend/ 美:/ˈbʊkend/ | n. 书立 | Animal-shaped **bookends** stop encyclopedias from tipping. | 动物造型书立顶住精装百科不倒。 |
-| `pencil case` | 英:/ˈpensl keɪs/ 美:/ˈpensl keɪs/ | n. 笔袋 | HB **pencils** and **gel pens** share one zippered **pencil case**. | HB 铅笔和中性笔放进同一个拉链笔袋。 |
-| `pencil` | 英:/ˈpensl/ 美:/ˈpensl/ | n. 铅笔 | Sharpen **pencils** before math drills so lines stay crisp. | 数学练习前先把铅笔削尖线条才清晰。 |
-| `mechanical pencil` | 英:/məˈkænɪkl ˈpensl/ 美:/məˈkænɪkl ˈpensl/ | n. 自动铅笔 | Lead snaps less when **mechanical pencils** use 0.7 mm refills for sketching. | 写生用 0.7 铅芯自动铅笔不那么容易断尖。 |
-| `ballpoint pen` | 英:/ˈbɔːlpɔɪnt pen/ 美:/ˈbɔːlpɔɪnt pen/ | n. 圆珠笔 | Cheap **ballpoint pens** live in the pencil cup for quick parent signatures. | 笔筒里放便宜圆珠笔方便家长随手签字。 |
-| `gel pen` | 英:/dʒel pen/ 美:/dʒel pen/ | n. 中性笔（凝胶墨水笔） | Black **gel pens** glide smoother than ballpoints on workbook glossy pages. | 练习册光面纸上黑色中性笔比圆珠笔更顺。 |
-| `eraser` | 英:/ɪˈreɪzə(r)/ 美:/ɪˈreɪsər/ | n. 橡皮 | Crumbs brush into the trash cup after every **eraser** marathon. | 擦橡皮大战结束把屑扫进桌边小垃圾筒。 |
-| `ruler` | 英:/ˈruːlə(r)/ 美:/ˈruːlər/ | n. 直尺 | A transparent **ruler** helps line up sticky spelling stickers straight. | 透明直尺贴拼写贴纸能对齐不歪。 |
-| `pencil sharpener` | 英:/ˈpensl ˈʃɑːpnə(r)/ 美:/ˈpensl ˈʃɑːrpənər/ | n. 卷笔刀（手摇 / 电动小型） | The desk-mounted **pencil sharpener** catches shavings in its tray. | 书桌固定卷笔刀屑落在托盘里不乱飞。 |
-| `highlighter` | 英:/ˈhaɪlaɪtə(r)/ 美:/ˈhaɪlaɪtər/ | n. 荧光笔 | Pastel **highlighters** mark reading homework without bleeding through pages. | 淡色荧光笔画阅读作业不透纸背。 |
-| `notebook` | 英:/ˈnəʊtbʊk/ 美:/ˈnoʊtbʊk/ | n. 笔记本 | Grid **notebooks** stay thick enough for STEM diagrams this semester. | 本学期格子厚笔记本画理科示意图够用。 |
-| `correction tape` | 英:/kəˈrekʃn teɪp/ 美:/kəˈrekʃn teɪp/ | n. 修正带 | **Celine** favors **correction tape** over liquid white-out for spelling fixes. | Celine 改错字爱用修正带不爱涂改液。 |
-| `sticky note` | 英:/ˈstɪki nəʊt/ 美:/ˈstɪki noʊt/ | n. 便利贴 | Tomorrow’s vocab list sticks on the monitor bezel as bright **sticky notes**. | 明天的单词表用亮色便利贴贴在显示器边框上。 |
-| `marker` | 英:/ˈmɑːkə(r)/ 美:/ˈmɑːrkər/ | n. 水彩笔（可说 `washable markers`） | We buy **washable markers** so drawings rinse off skin easily. | 买可水洗水彩笔，画在手上也好洗。 |
-| `crayon` | 英:/ˈkreɪən/ 美:/ˈkreɪən/ | n. 蜡笔 | Broken **crayons** still color fine inside their tin box. | 断掉的蜡笔在铁盒里照样能涂色。 |
-| `glue stick` | 英:/ɡluː stɪk/ 美:/ɡluː stɪk/ | n. 固体胶 | Crafts need a neat **glue stick** instead of messy liquid glue. | 手工课用固体胶比液体胶干净。 |
-| `scissors` | 英:/ˈsɪzəz/ 美:/ˈsɪzərz/ | n. 剪刀（复数形） | Round-tip **scissors** live in the adult-supervised craft drawer. | 圆头剪刀放在大人照看的手工抽屉里。 |
-| `whiteboard` | 英:/ˈwaɪtbɔːd/ 美:/ˈwaɪtbɔːrd/ | n. 白板 | Weekly chores appear on the magnetic **whiteboard**. | 每周家务写在磁吸白板上。 |
-| `corkboard` | 英:/ˈkɔːkbɔːd/ 美:/ˈkɔːrkbɔːrd/ | n. 软木板 | Permission slips pin to the **corkboard** above the desk. | 回条通知书钉在书桌上方软木板。 |
-| `tablet` | 英:/ˈtæblət/ 美:/ˈtæblət/ | n. 平板电脑 | Screen time rules limit evening **tablet** use beside study hours. | 屏幕时间规定限制晚间平板时长并避开作业时段。 |
-| `headphones` | 英:/ˈhedfəʊnz/ 美:/ˈhedfoʊnz/ | n. 耳机 | Kid-sized **headphones** protect hearing during online stories. | 儿童耳机听线上故事保护听力。 |
+| Word                | IPA（英 / 美）                                  | 简中释义                          | 介绍句（English）                                                                    | 介绍句（简中）                |
+| ------------------- | ------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------- | ---------------------- |
+| `study desk`        | 英:/ˈstʌdi desk/ 美:/ˈstʌdi desk/             | n. 书桌                         | Homework happens at the height-adjustable **study desk**.                       | 功课在可升降书桌上完成。           |
+| `desk chair`        | 英:/desk tʃeə(r)/ 美:/desk tʃer/              | n. 书桌椅                        | The **desk chair** rolls smoothly but brakes when kids stand up.                | 书桌椅轮滑顺，站起来时会刹住。        |
+| `bookshelf`         | 英:/ˈbʊkʃelf/ 美:/ˈbʊkʃelf/                   | n. 书架                         | Picture books face forward on the lower **bookshelf** shelves.                  | 绘本朝下层书架封面朝外摆。          |
+| `bookend`           | 英:/ˈbʊkend/ 美:/ˈbʊkend/                     | n. 书立                         | Animal-shaped **bookends** stop encyclopedias from tipping.                     | 动物造型书立顶住精装百科不倒。        |
+| `pencil case`       | 英:/ˈpensl keɪs/ 美:/ˈpensl keɪs/             | n. 笔袋                         | HB **pencils** and **gel pens** share one zippered **pencil case**.             | HB 铅笔和中性笔放进同一个拉链笔袋。    |
+| `pencil`            | 英:/ˈpensl/ 美:/ˈpensl/                       | n. 铅笔                         | Sharpen **pencils** before math drills so lines stay crisp.                     | 数学练习前先把铅笔削尖线条才清晰。      |
+| `mechanical pencil` | 英:/məˈkænɪkl ˈpensl/ 美:/məˈkænɪkl ˈpensl/   | n. 自动铅笔                       | Lead snaps less when **mechanical pencils** use 0.7 mm refills for sketching.   | 写生用 0.7 铅芯自动铅笔不那么容易断尖。 |
+| `ballpoint pen`     | 英:/ˈbɔːlpɔɪnt pen/ 美:/ˈbɔːlpɔɪnt pen/       | n. 圆珠笔                        | Cheap **ballpoint pens** live in the pencil cup for quick parent signatures.    | 笔筒里放便宜圆珠笔方便家长随手签字。     |
+| `gel pen`           | 英:/dʒel pen/ 美:/dʒel pen/                   | n. 中性笔（凝胶墨水笔）                 | Black **gel pens** glide smoother than ballpoints on workbook glossy pages.     | 练习册光面纸上黑色中性笔比圆珠笔更顺。    |
+| `eraser`            | 英:/ɪˈreɪzə(r)/ 美:/ɪˈreɪsər/                 | n. 橡皮                         | Crumbs brush into the trash cup after every **eraser** marathon.                | 擦橡皮大战结束把屑扫进桌边小垃圾筒。     |
+| `ruler`             | 英:/ˈruːlə(r)/ 美:/ˈruːlər/                   | n. 直尺                         | A transparent **ruler** helps line up sticky spelling stickers straight.        | 透明直尺贴拼写贴纸能对齐不歪。        |
+| `pencil sharpener`  | 英:/ˈpensl ˈʃɑːpnə(r)/ 美:/ˈpensl ˈʃɑːrpənər/ | n. 卷笔刀（手摇 / 电动小型）             | The desk-mounted **pencil sharpener** catches shavings in its tray.             | 书桌固定卷笔刀屑落在托盘里不乱飞。      |
+| `highlighter`       | 英:/ˈhaɪlaɪtə(r)/ 美:/ˈhaɪlaɪtər/             | n. 荧光笔                        | Pastel **highlighters** mark reading homework without bleeding through pages.   | 淡色荧光笔画阅读作业不透纸背。        |
+| `notebook`          | 英:/ˈnəʊtbʊk/ 美:/ˈnoʊtbʊk/                   | n. 笔记本                        | Grid **notebooks** stay thick enough for STEM diagrams this semester.           | 本学期格子厚笔记本画理科示意图够用。     |
+| `correction tape`   | 英:/kəˈrekʃn teɪp/ 美:/kəˈrekʃn teɪp/         | n. 修正带                        | **Celine** favors **correction tape** over liquid white-out for spelling fixes. | Celine 改错字爱用修正带不爱涂改液。  |
+| `sticky note`       | 英:/ˈstɪki nəʊt/ 美:/ˈstɪki noʊt/             | n. 便利贴                        | Tomorrow’s vocab list sticks on the monitor bezel as bright **sticky notes**.   | 明天的单词表用亮色便利贴贴在显示器边框上。  |
+| `marker`            | 英:/ˈmɑːkə(r)/ 美:/ˈmɑːrkər/                  | n. 水彩笔（可说 `washable markers`） | We buy **washable markers** so drawings rinse off skin easily.                  | 买可水洗水彩笔，画在手上也好洗。       |
+| `crayon`            | 英:/ˈkreɪən/ 美:/ˈkreɪən/                     | n. 蜡笔                         | Broken **crayons** still color fine inside their tin box.                       | 断掉的蜡笔在铁盒里照样能涂色。        |
+| `glue stick`        | 英:/ɡluː stɪk/ 美:/ɡluː stɪk/                 | n. 固体胶                        | Crafts need a neat **glue stick** instead of messy liquid glue.                 | 手工课用固体胶比液体胶干净。         |
+| `scissors`          | 英:/ˈsɪzəz/ 美:/ˈsɪzərz/                      | n. 剪刀（复数形）                    | Round-tip **scissors** live in the adult-supervised craft drawer.               | 圆头剪刀放在大人照看的手工抽屉里。      |
+| `whiteboard`        | 英:/ˈwaɪtbɔːd/ 美:/ˈwaɪtbɔːrd/                | n. 白板                         | Weekly chores appear on the magnetic **whiteboard**.                            | 每周家务写在磁吸白板上。           |
+| `corkboard`         | 英:/ˈkɔːkbɔːd/ 美:/ˈkɔːrkbɔːrd/               | n. 软木板                        | Permission slips pin to the **corkboard** above the desk.                       | 回条通知书钉在书桌上方软木板。        |
+| `tablet`/laptop     | 英:/ˈtæblət/ 美:/ˈtæblət/                     | n. 平板电脑                       | Screen time rules limit evening **tablet** use beside study hours.              | 屏幕时间规定限制晚间平板时长并避开作业时段。 |
+| `headphones`        | 英:/ˈhedfəʊnz/ 美:/ˈhedfoʊnz/                 | n. 耳机                         | Kid-sized **headphones** protect hearing during online stories.                 | 儿童耳机听线上故事保护听力。         |
 
 ---
 
