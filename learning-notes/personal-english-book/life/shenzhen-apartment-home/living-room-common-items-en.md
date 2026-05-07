@@ -2,7 +2,7 @@
 
 ## 本页在做什么
 
-面向**深圳典型商品房**里以休息、视听、会客为主的**客厅区**：按 **玄关 → 坐具茶几 → 视听 → 温控 → 照明 → 窗帘地面 → 玩具／零食／健身角 → 墙面陈设（相框挂画、小摆件、新年贴纸）→ 清洁与全屋设备** 顺序列常用英文词，配 **IPA（英 / 美）** 与介绍句。**餐厅桌椅与灯具**见同目录 [`dining-room-common-items-en.md`](dining-room-common-items-en.md)。便于自述家居、带娃指认（**不多 / Celine**）、或与物业／家政沟通。不含门牌、楼盘名等隐私。
+面向**深圳典型商品房**里以休息、视听、会客为主的**客厅区**：按 **玄关 → 坐具茶几 → 视听 → 温控 → 照明 → 窗帘地面 → 玩具／零食（含待客 **抽纸／餐巾**）／健身角 → 墙面陈设 → 清洁与全屋设备** 顺序列常用英文词，配 **IPA（英 / 美）** 与介绍句。**餐厅桌椅与灯具**见同目录 [`dining-room-common-items-en.md`](dining-room-common-items-en.md)。文末附 **纸本常用短句**（练嘴）；便于自述家居、带娃指认（**不多 / Celine**）、或与物业／家政沟通。不含门牌、楼盘名等隐私。
 
 ---
 
@@ -19,7 +19,7 @@
 | ⑤ | **照明** | 吸顶／筒灯／轨道／落地灯 |
 | ⑥ | **窗帘与地面** | 纱帘遮光帘、地毯、盖毯 |
 | ⑦ | **玩具区**（若有） | 收纳箱、地垫、散落积木 |
-| ⑧ | **零食区**（若有） | 茶几下篮、待客小食 |
+| ⑧ | **零食区**（若有） | 茶几下篮、待客小食、**抽纸／餐巾纸**、**baby wipes** |
 | ⑨ | **健身角 · 轻型器械**（若有） | 哑铃、健腹轮、体重秤 |
 | ⑩ | **陈设与墙面** | **相框**、挂画、搁板**摆件**、**新年窗贴／春联感装饰** |
 | ⑪ | **清洁与全屋设备** | **扫地机器人**、净化／除湿（若摆客厅）、路由 |
@@ -129,11 +129,19 @@
 
 ### 8. 零食区 · Snack station
 
+（随手擦嘴、擤鼻涕：**面巾纸与餐巾**常与 **茶几／边几**同框；带娃家庭常备一小包 **baby wipes**。）
+
 | Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
 | --- | --- | --- | --- | --- |
 | `snack basket` | 英:/snæk ˈbɑːskɪt/ 美:/snæk ˈbæskɪt/ | n. **零食篮／待客茶点篮** | The wicker **snack basket** sits under the **coffee table** with sealed packets only. | 藤编零食篮塞茶几下只放密封小包防潮。 |
 | `snack bowl` | 英:/snæk bəʊl/ 美:/snæk boʊl/ | n. **零食碗／坚果碗** | A lidded **snack bowl** stops pistachio shells from colonizing the **area rug**. | 带盖坚果碗防止壳屑占领地毯缝。 |
 | `treat jar` | 英:/triːt dʒɑː(r)/ 美:/triːt dʒɑːr/ | n. **糖果罐／奖励小食罐** `亲子` | High **treat jars** stay on the **floating shelf** so toddlers negotiate stairs less. | 糖果罐搁高搁板减少娃为糖爬高。 |
+| `facial tissue` | 英:/ˈfeɪʃl ˈtɪʃuː/ 美:/ˈfeɪʃl ˈtɪʃuː/ | n. **面巾纸／软抽纸（擦嘴擤鼻）** | Tear **facial tissue** softly so **Celine’s** ice-cream drips never reach **throw pillows**. | 撕面巾纸给 Celine 接住滴下来的冰淇淋别沾抱枕。 |
+| `tissue` | 英:/ˈtɪʃuː/ 美:/ˈtɪʃuː/ | n. **纸巾（可数：a／some tissue／pl. tissues）** | **Pass a tissue** when someone sniffs during movie night on the **loveseat**. | 电影夜有人在双人沙发吸鼻子就递张 tissue。 |
+| `tissue box` | 英:/ˈtɪʃuː bɒks/ 美:/ˈtɪʃuː bɑːks/ | n. **纸盒抽纸／硬盒装面纸** | Rotate the **tissue box** so the next guest always sees a clean pop-up tab. | 抽纸盒转个面让下一位客人抽到的是干净封口片。 |
+| `napkin` | 英:/ˈnæpkɪn/ 美:/ˈnæpkɪn/ | n. **餐巾**（纸：`paper napkin`；布：`cloth napkin`） | Colorful **paper napkins** perch between **snack bowls** when grandparents visit for tea. | 老人来喝茶时彩色纸餐巾插在零食碗之间不滴油。 |
+| `paper napkin` | 英:/ˈpeɪpə(r) ˈnæpkɪn/ 美:/ˈpeɪpər ˈnæpkɪn/ | n. **纸餐巾／一次性餐巾** | Folded **paper napkins** guard **coffee table** varnish from hot pastry crumbs. | 对折纸餐巾接住热酥皮碎屑别烫花茶几漆。 |
+| **`baby wipes`** | 英:/ˈbeɪbi waɪps/ 美:/ˈbeɪbi waɪps/ | n. **婴儿／儿童湿巾（常复数）** `亲子` | Keep **baby wipes** by the **console table**—post-park hands meet snacks faster that way. | **不多** 公园回来湿手先抽 baby wipes 再摸零食少抹脏沙发。 |
 
 ---
 
@@ -202,6 +210,16 @@
 
 ---
 
+#### 纸本待客 · Handy phrases（练嘴）
+
+| English（一句） | 简中 |
+| --- | --- |
+| **`Can you pass the napkins?`** | 餐巾纸递过来一下？ |
+| **`We’re almost out of tissues.`**／**`We need another box of tissues.`** | 抽纸快用完了／要再拿一盒面纸。 |
+| **`Here’s a wipe for your sticky fingers.`** | 给你张湿巾把手上的黏糊擦掉。 |
+
+---
+
 ## 深圳商品房小贴士（英文一句）
 
 - **Wall-mounted TVs plus slim consoles still win floor space when toy bins and mats share the same zone.**  
@@ -213,4 +231,4 @@
 
 ---
 
-**分区统计：** 玄关 **12**；坐具茶几 **10**；视听游戏 **10**；空调气流 **5**；照明 **4**；窗帘地面 **6**；玩具 **4**；零食 **3**；健身 **4**；陈设墙面 **13**；机器人 **2**；空气智能电源 **6**；其它软装边角 **6**。**合计词条 85**。
+**分区统计：** 玄关 **12**；坐具茶几 **10**；视听游戏 **10**；空调气流 **5**；照明 **4**；窗帘地面 **6**；玩具 **4**；零食 **9**（含抽纸与 baby wipes）；健身 **4**；陈设墙面 **13**；机器人 **2**；空气智能电源 **6**；其它软装边角 **6**。上表「练嘴」短语**不计入**。**合计词条 91**。

@@ -55,6 +55,11 @@
 - **We need to brush from the ends first.**  
   我们要先从发尾开始梳。
 
+### 若是自然卷／卷发 `亲子`
+
+- **Your curls are pretty—we'll go slow and use a wide-tooth comb first.** — 你的卷很好看，我们慢慢梳，先用宽齿梳。  
+- **A little water helps if dry brushing makes it frizzy—no towel-rubbing.** — 干梳容易毛就喷点水，别用毛巾使劲搓。  
+
 ---
 
 ## 2. 扎头发 — Tying Hair
@@ -107,6 +112,8 @@
 
 - **All done! Your ponytail looks nice.**  
   好啦！你的马尾很好看。
+
+- **If your hair is curly, don't tie the elastic too tight—we'll keep the curls fluffy.** — 若是卷发，皮筋别勒太紧，卷度还好看。  
 
 ---
 
@@ -352,6 +359,7 @@
 | **ponytail** | 马尾 | Let's make a ponytail. 我们扎个马尾。 |
 | **pigtails** | 双马尾 | Pigtails look cute on you. 双马尾你扎起来很可爱。 |
 | **braid** /breɪd/ | 辫子 | Do you want a braid? 你想编辫子吗？ |
+| **curly / natural curls** | 卷发／自然卷 | **Natural curls** look great—comb gently from the ends. |
 | **mirror** | 镜子 | Look in the mirror. 照照镜子。 |
 | **sunscreen** | 防晒霜 | Put on sunscreen. 涂防晒。 |
 | **lip balm** /lɪp bɑːm/ | 润唇膏 | Use some lip balm. 涂点润唇膏。 |

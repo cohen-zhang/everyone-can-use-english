@@ -46,123 +46,123 @@
 
 ## 按地区常见的国家英文名
 
-表中为**国语 / 最常用的英语国名**，首都、简称别称不一一展开；拼图外盒若写缩写（如 **U.S.**、**UK**），可对照「备注」念全。`亲子`
+表中为**国语 / 最常用的英语国名**，首都、简称别称不一一展开；拼图外盒若写缩写（如 **U.S.**、**UK**），可对照「备注」念全。**旗帜**列为 Unicode **国旗 Emoji**（两字母 ISO 区域指示符）；部分旧系统或未更新字体的设备可能显示为 **CN / US / GB** 等「方框字母」而非图形旗。大洲与大洋名称**没有**官方对应国旗 Emoji，故下列仅国家表有此列。`亲子`
 
 ### 东亚 East Asia
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **China** | 中国 | 可说 *We're from China.* |
-| **Japan** | 日本 | |
-| **South Korea** / **the Republic of Korea** | 韩国 | 口语多说 *South Korea* |
-| **North Korea** / **the DPRK** | 朝鲜 | *DPRK* 多见于新闻；亲子场景少用 |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **China** | 🇨🇳 | 中国 | 可说 *We're from China.* |
+| **Japan** | 🇯🇵 | 日本 | |
+| **South Korea** / **the Republic of Korea** | 🇰🇷 | 韩国 | 口语多说 *South Korea* |
+| **North Korea** / **the DPRK** | 🇰🇵 | 朝鲜 | *DPRK* 多见于新闻；亲子场景少用 |
 
 ### 东南亚 Southeast Asia
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Singapore** | 新加坡 | |
-| **Malaysia** | 马来西亚 | |
-| **Thailand** | 泰国 | |
-| **Vietnam** | 越南 | |
-| **Indonesia** | 印度尼西亚 | |
-| **the Philippines** | 菲律宾 | 国名常用复数形式的 *the …* |
-| **Myanmar** | 缅甸 | 旧英文名 *Burma* 偶见 |
-| **Cambodia** | 柬埔寨 | |
-| **Laos** | 老挝 | 英名与法语遗留拼写近似 |
-| **Brunei** | 文莱 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Singapore** | 🇸🇬 | 新加坡 | |
+| **Malaysia** | 🇲🇾 | 马来西亚 | |
+| **Thailand** | 🇹🇭 | 泰国 | |
+| **Vietnam** | 🇻🇳 | 越南 | |
+| **Indonesia** | 🇮🇩 | 印度尼西亚 | |
+| **the Philippines** | 🇵🇭 | 菲律宾 | 国名常用复数形式的 *the …* |
+| **Myanmar** | 🇲🇲 | 缅甸 | 旧英文名 *Burma* 偶见 |
+| **Cambodia** | 🇰🇭 | 柬埔寨 | |
+| **Laos** | 🇱🇦 | 老挝 | 英名与法语遗留拼写近似 |
+| **Brunei** | 🇧🇳 | 文莱 | |
 
 ### 南亚 South Asia
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **India** | 印度 | |
-| **Pakistan** | 巴基斯坦 | |
-| **Bangladesh** | 孟加拉国 | |
-| **Nepal** | 尼泊尔 | |
-| **Sri Lanka** | 斯里兰卡 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **India** | 🇮🇳 | 印度 | |
+| **Pakistan** | 🇵🇰 | 巴基斯坦 | |
+| **Bangladesh** | 🇧🇩 | 孟加拉国 | |
+| **Nepal** | 🇳🇵 | 尼泊尔 | |
+| **Sri Lanka** | 🇱🇰 | 斯里兰卡 | |
 
 ### 中亚 · 西亚 / 中东 Central & West Asia / Middle East
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Kazakhstan** | 哈萨克斯坦 | |
-| **Uzbekistan** | 乌兹别克斯坦 | |
-| **Iran** | 伊朗 | |
-| **Iraq** | 伊拉克 | |
-| **Saudi Arabia** | 沙特阿拉伯 | |
-| **the United Arab Emirates** / **the UAE** | 阿拉伯联合酋长国（阿联酋） | 口语多说 *the UAE* |
-| **Israel** | 以色列 | |
-| **Türkiye** / **Turkey** | 土耳其 | *Türkiye* 为官方英文拼写，词典仍多见 *Turkey* |
-| **Qatar** | 卡塔尔 | 语音标注意与拼写不一致，跟词典即可 |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Kazakhstan** | 🇰🇿 | 哈萨克斯坦 | |
+| **Uzbekistan** | 🇺🇿 | 乌兹别克斯坦 | |
+| **Iran** | 🇮🇷 | 伊朗 | |
+| **Iraq** | 🇮🇶 | 伊拉克 | |
+| **Saudi Arabia** | 🇸🇦 | 沙特阿拉伯 | |
+| **the United Arab Emirates** / **the UAE** | 🇦🇪 | 阿拉伯联合酋长国（阿联酋） | 口语多说 *the UAE* |
+| **Israel** | 🇮🇱 | 以色列 | |
+| **Türkiye** / **Turkey** | 🇹🇷 | 土耳其 | *Türkiye* 为官方英文拼写，词典仍多见 *Turkey* |
+| **Qatar** | 🇶🇦 | 卡塔尔 | 语音标注意与拼写不一致，跟词典即可 |
 
 ### 欧洲 Europe（选常见）
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **the United Kingdom** / **the UK** / **Britain** | 英国 | *Britain* 日常很常用；全称含北爱等信息更严谨 |
-| **France** | 法国 | |
-| **Germany** | 德国 | |
-| **Italy** | 意大利 | |
-| **Spain** | 西班牙 | |
-| **Portugal** | 葡萄牙 | |
-| **Netherlands** / **Holland**（口语常混用需谨慎） | 荷兰 | 正式多写 *Netherlands* |
-| **Belgium** | 比利时 | |
-| **Switzerland** | 瑞士 | |
-| **Austria** | 奥地利 | |
-| **Greece** | 希腊 | |
-| **Sweden** | 瑞典 | |
-| **Norway** | 挪威 | |
-| **Finland** | 芬兰 | |
-| **Denmark** | 丹麦 | |
-| **Poland** | 波兰 | |
-| **Russia** | 俄罗斯 | 地跨欧亚；亲子场景常与「欧洲国家列表」并列出现 |
-| **Ukraine** | 乌克兰 | |
-| **Ireland** | 爱尔兰 | 与 UK 不同主权国家 |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **the United Kingdom** / **the UK** / **Britain** | 🇬🇧 | 英国 | *Britain* 日常很常用；全称含北爱等信息更严谨 |
+| **France** | 🇫🇷 | 法国 | |
+| **Germany** | 🇩🇪 | 德国 | |
+| **Italy** | 🇮🇹 | 意大利 | |
+| **Spain** | 🇪🇸 | 西班牙 | |
+| **Portugal** | 🇵🇹 | 葡萄牙 | |
+| **Netherlands** / **Holland**（口语常混用需谨慎） | 🇳🇱 | 荷兰 | 正式多写 *Netherlands* |
+| **Belgium** | 🇧🇪 | 比利时 | |
+| **Switzerland** | 🇨🇭 | 瑞士 | |
+| **Austria** | 🇦🇹 | 奥地利 | |
+| **Greece** | 🇬🇷 | 希腊 | |
+| **Sweden** | 🇸🇪 | 瑞典 | |
+| **Norway** | 🇳🇴 | 挪威 | |
+| **Finland** | 🇫🇮 | 芬兰 | |
+| **Denmark** | 🇩🇰 | 丹麦 | |
+| **Poland** | 🇵🇱 | 波兰 | |
+| **Russia** | 🇷🇺 | 俄罗斯 | 地跨欧亚；亲子场景常与「欧洲国家列表」并列出现 |
+| **Ukraine** | 🇺🇦 | 乌克兰 | |
+| **Ireland** | 🇮🇪 | 爱尔兰 | 与 UK 不同主权国家 |
 
 ### 北美洲 North America
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Canada** | 加拿大 | |
-| **the United States** / **the USA** / **America** | 美国 | 教孩子指国家时用 *United States / USA* 更清楚 |
-| **Mexico** | 墨西哥 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Canada** | 🇨🇦 | 加拿大 | |
+| **the United States** / **the USA** / **America** | 🇺🇸 | 美国 | 教孩子指国家时用 *United States / USA* 更清楚 |
+| **Mexico** | 🇲🇽 | 墨西哥 | |
 
 ### 中美洲 · 加勒比（常旅行 / 绘本出现）Central America & Caribbean
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Costa Rica** | 哥斯达黎加 | |
-| **Panama** | 巴拿马 | |
-| **Cuba** | 古巴 | |
-| **Jamaica** | 牙买加 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Costa Rica** | 🇨🇷 | 哥斯达黎加 | |
+| **Panama** | 🇵🇦 | 巴拿马 | |
+| **Cuba** | 🇨🇺 | 古巴 | |
+| **Jamaica** | 🇯🇲 | 牙买加 | |
 
 ### 南美洲 South America
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Brazil** | 巴西 | |
-| **Argentina** | 阿根廷 | |
-| **Chile** | 智利 | |
-| **Colombia** | 哥伦比亚 | |
-| **Peru** | 秘鲁 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Brazil** | 🇧🇷 | 巴西 | |
+| **Argentina** | 🇦🇷 | 阿根廷 | |
+| **Chile** | 🇨🇱 | 智利 | |
+| **Colombia** | 🇨🇴 | 哥伦比亚 | |
+| **Peru** | 🇵🇪 | 秘鲁 | |
 
 ### 非洲 Africa（选常见）
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Egypt** | 埃及 | |
-| **South Africa** | 南非 | |
-| **Kenya** | 肯尼亚 | |
-| **Nigeria** | 尼日利亚 | |
-| **Morocco** | 摩洛哥 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Egypt** | 🇪🇬 | 埃及 | |
+| **South Africa** | 🇿🇦 | 南非 | |
+| **Kenya** | 🇰🇪 | 肯尼亚 | |
+| **Nigeria** | 🇳🇬 | 尼日利亚 | |
+| **Morocco** | 🇲🇦 | 摩洛哥 | |
 
 ### 大洋洲 Oceania / Australasia
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **Australia**（国家） | 澳大利亚 | 与「大洋洲陆地」同名；语境区分 |
-| **New Zealand** | 新西兰 | |
+| English | 旗帜（Emoji） | 简中 | 备注 `亲子` |
+| --- | :---: | --- | --- |
+| **Australia**（国家） | 🇦🇺 | 澳大利亚 | 与「大洋洲陆地」同名；语境区分 |
+| **New Zealand** | 🇳🇿 | 新西兰 | |
 
 ---
 

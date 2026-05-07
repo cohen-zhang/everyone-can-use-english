@@ -2,7 +2,7 @@
 
 ## 本页在做什么
 
-面向深圳商品房常见 **干湿分区**（淋浴玻璃隔断 / 浴帘、浴室柜 + 镜柜、排气与热水器）：按 **先干后湿、先洗漱再如厕再洗澡** 的阅读顺序整理英文词，配 **IPA（英 / 美）** 与介绍句。**浴室柜 / 镜柜**单列洗脸巾与护肤品；**湿区**单列沐浴露、洗发水等沐浴用品。便于自述户型、报修或与家政沟通。不含隐私细节。
+面向深圳商品房常见 **干湿分区**（淋浴玻璃隔断 / 浴帘、浴室柜 + 镜柜、排气与热水器）：按 **先干后湿、先洗漱再如厕再洗澡** 的阅读顺序整理英文词，配 **IPA（英 / 美）** 与介绍句。**浴室柜 / 镜柜**单列洗脸巾与护肤品；**干区**另列 **抽纸／卷纸／厕纸架** 等纸本；**湿区**单列沐浴露、洗发水等沐浴用品。文末附 **纸巾相关口语短句**。便于自述户型、报修或与家政沟通。不含隐私细节。
 
 ---
 
@@ -12,9 +12,9 @@
 
 | 顺序 | 分区 | 场景 |
 | --- | --- | --- |
-| ① | **干区** | 洗漱（洗手盆周边） |
+| ① | **干区** | 洗漱（洗手盆周边、**抽纸／擦手纸**） |
 | ② | **干区** | 浴室柜 / 镜柜（洗脸巾、护肤品收纳） |
-| ③ | **干区** | 如厕（马桶） |
+| ③ | **干区** | 如厕（马桶、**厕纸／卷纸**） |
 | ④ | **干区** | 其他（脏衣篓等） |
 | ⑤ | **湿区** | 淋浴空间（隔断、花洒、置物） |
 | ⑥ | **湿区** | 沐浴洗护用品 |
@@ -39,6 +39,9 @@
 | `towel rack` | 英:/ˈtaʊəl ræk/ 美:/ˈtaʊəl ræk/ | n. 毛巾杆（浴巾多在干区晾干） | Bath towels finish drying on the wall **towel rack** outside the wet enclosure. | 浴巾在湿区外的毛巾杆上晾干。 |
 | `hair dryer` | 英:/heə(r) ˈdraɪə(r)/ 美:/her ˈdraɪər/ | n. 吹风机 | A hook keeps the **hair dryer** cord tidy beside the **mirror cabinet**. | 镜柜旁挂钩把吹风机电线收整齐。 |
 | `scale` | 英:/skeɪl/ 美:/skeɪl/ | n. 体重秤 | The digital **scale** slides under the **vanity** skirt between weigh-ins. | 电子秤称完体重推进浴室柜裙板下不占过道。 |
+| `facial tissue` | 英:/ˈfeɪʃl ˈtɪʃuː/ 美:/ˈfeɪʃl ˈtɪʃuː/ | n. **面巾纸／软抽（擦鼻涕、印干水）** | **Pass the facial tissue** before **Celine** sneezes on the **mirror cabinet** glass. | Celine 打喷嚏前先把面巾纸递过去别喷到镜柜玻璃。 |
+| `tissue` | 英:/ˈtɪʃuː/ 美:/ˈtɪʃuː/ | n. **纸巾（一张纸常可数：a／some tissue／tissues）** | **Dry your hands with a tissue** when guest towels are still spinning in the washer. | 客用毛巾还在洗衣机打转时擦干手可抽一张纸巾。 |
+| `tissue box` | 英:/ˈtɪʃuː bɒks/ 美:/ˈtɪʃuː bɑːks/ | n. **抽纸盒／纸巾盒（硬盒装）** | The weighted **tissue box** stays put on shallow **floating shelves**. | 带配重的纸盒抽纸摆在浅置物板上不容易被肘碰翻。 |
 
 ---
 
@@ -79,6 +82,9 @@
 | `toilet brush` | 英:/ˈtɔɪlət brʌʃ/ 美:/ˈtɔɪlət brʌʃ/ | n. 马桶刷 | The **toilet brush** hides in a slim holder that seals odors. | 马桶刷藏在窄底座里盖子密封挡异味。 |
 | `plunger` | 英:/ˈplʌndʒə(r)/ 美:/ˈplʌndʒər/ | n. 皮搋子 | Keep a **plunger** behind the **toilet** for sudden pipe clogs. | 皮搋子藏马桶后突发堵塞好拿。 |
 | `trash bin` | 英:/træʃ bɪn/ 美:/træʃ bɪn/ | n. 垃圾桶 | A lidded **trash bin** wedges between **toilet** and glass partition. | 带盖垃圾桶卡在马桶与玻璃隔断之间。 |
+| `toilet paper` | 英:/ˈtɔɪlət ˈpeɪpə(r)/ 美:/ˈtɔɪlət ˈpeɪpər/ | n. **卫生纸／厕纸**（近义 **`toilet tissue`**） | **We’re out of toilet paper**—who forgot to **restock the spare rolls**? | 厕纸用完了谁忘了补备用卷？ |
+| `toilet roll` | 英:/ˈtɔɪlət rəʊl/ 美:/ˈtɔɪlət roʊl/ | n. **卷纸／厕纸卷**（英式口语尤常用） | Swap the empty **toilet roll** tube before guests queue for the shared bath. | 客人排队用客卫前先把空纸芯换上新卷。 |
+| `toilet paper holder` | 英:/ˈtɔɪlət ˈpeɪpə(r) ˈhəʊldə(r)/ 美:/ˈtɔɪlət ˈpeɪpər ˈhoʊldər/ | n. **卫生纸架／厕纸盒（杆／挂钩式）** | **Over or under**—which direction should spare rolls feed from this **toilet paper holder**? | 正装还是反装—备用卷应该从纸架哪个方向往外抽？ |
 
 ---
 
@@ -87,6 +93,7 @@
 | Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
 | --- | --- | --- | --- | --- |
 | `laundry hamper` | 英:/ˈlɔːndri ˈhæmpə(r)/ 美:/ˈlɔːndri ˈhæmpər/ | n. 脏衣篓 | Towels used outside the wet zone still land in the wicker **laundry hamper**. | 不进淋浴间的浴巾也扔进藤编脏衣篓。 |
+| `paper towel` | 英:/ˈpeɪpə(r) ˈtaʊəl/ 美:/ˈpeɪpər ˈtaʊəl/ | n. **厨房纸／擦手纸（一次性厚纸；常复数 `paper towels`）** | Rip one **paper towel** to blot mascara smudges before water hits the **washbasin**. | 水冲面盆前撕一张厨房纸先按掉睫毛膏晕痕。 |
 
 ---
 
@@ -136,6 +143,17 @@
 
 ---
 
+#### 纸本相关 · Handy phrases（练嘴）
+
+| English（一句） | 简中 |
+| --- | --- |
+| **`We’re out of toilet paper.`** | 厕纸／卫生纸用完了。 |
+| **`Can you pass me a tissue?`**／**`Can I have a tissue?`** | 递我一张纸巾？／能给我张 tissue 吗？ |
+| **`I need more toilet paper.`**（向同住说 / 酒店亦可） | 要再补点厕纸／请再给我卷纸。 |
+| **`Don’t flush wipes—they clog pipes.`** | 别把湿巾冲马桶——会堵管子。 |
+
+---
+
 ## 深圳商品房小贴士（英文一句）
 
 - **Dry–wet separation with a glass partition is a typical upgrade in newer Shenzhen bathrooms.**  
@@ -147,4 +165,4 @@
 
 ---
 
-**分区统计：** 干区 洗漱 **11** 条；浴室柜护肤 **15** 条；如厕 **9** 条；干区其他 **1** 条；湿区淋浴 **8** 条；沐浴用品 **10** 条；共用设施 **5** 条。**合计词条 59**。
+**分区统计：** 干区 洗漱 **14** 条（含面巾纸／抽纸盒）；浴室柜护肤 **15** 条；如厕 **12** 条（含厕纸卷与纸架）；干区其他 **2** 条（含擦手纸）；湿区淋浴 **8** 条；沐浴用品 **10** 条；共用设施 **5** 条。上表「练嘴」短语**不计入**。**合计词条 66**。
