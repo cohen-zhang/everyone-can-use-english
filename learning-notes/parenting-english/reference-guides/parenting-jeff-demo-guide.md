@@ -12,13 +12,15 @@
 
 ### 讲解结构
 
-| 步骤 | 内容 | 示范 |
-|------|------|------|
-| **定义** | 是什么东西 | A waffle is something that is made from batter. |
-| **原料** | 用什么做的 | made usually with eggs, and flower, and perhaps milk |
-| **工具** | 制作工具 | a special cooking machine, which we call a waffle iron |
-| **过程** | 如何制作 | you put the batter in, you close the top... cook it from both sides |
-| **形状** | 外观特征 | it has little squares in it, usually it's square |
+
+| 步骤     | 内容    | 示范                                                                  |
+| ------ | ----- | ------------------------------------------------------------------- |
+| **定义** | 是什么东西 | A waffle is something that is made from batter.                     |
+| **原料** | 用什么做的 | made usually with eggs, and flower, and perhaps milk                |
+| **工具** | 制作工具  | a special cooking machine, which we call a waffle iron              |
+| **过程** | 如何制作  | you put the batter in, you close the top... cook it from both sides |
+| **形状** | 外观特征  | it has little squares in it, usually it's square                    |
+
 
 ---
 
@@ -32,13 +34,15 @@
 
 ### 讲解结构
 
-| 步骤 | 内容 | 示范 |
-|------|------|------|
-| **位置** | 在哪里 | in your bathroom |
-| **外观** | 长什么样 | a small box, sometimes with a mirror on it |
-| **定义** | 是什么 | a small box where you put things |
-| **安装方式** | 如何放置 | hangs on the wall—it is attached to the wall |
-| **用途** | 放什么东西 | a place where you have medicine... mouthwash, shaving cream, razors |
+
+| 步骤       | 内容    | 示范                                                                  |
+| -------- | ----- | ------------------------------------------------------------------- |
+| **位置**   | 在哪里   | in your bathroom                                                    |
+| **外观**   | 长什么样  | a small box, sometimes with a mirror on it                          |
+| **定义**   | 是什么   | a small box where you put things                                    |
+| **安装方式** | 如何放置  | hangs on the wall—it is attached to the wall                        |
+| **用途**   | 放什么东西 | a place where you have medicine... mouthwash, shaving cream, razors |
+
 
 ---
 
@@ -50,13 +54,15 @@
 
 ### 讲解结构
 
-| 步骤 | 内容 | 示范 |
-|------|------|------|
+
+| 步骤     | 内容   | 示范                                                          |
+| ------ | ---- | ----------------------------------------------------------- |
 | **词源** | 词形分析 | looks like the word "cup" and the word "board" put together |
-| **类比** | 类似什么 | is like a cabinet |
-| **功能** | 做什么用 | a place where you store things |
-| **位置** | 在哪里 | the cabinets that are in the kitchen |
-| **构造** | 内部结构 | wooden boxes that have doors on them... different shelves |
+| **类比** | 类似什么 | is like a cabinet                                           |
+| **功能** | 做什么用 | a place where you store things                              |
+| **位置** | 在哪里  | the cabinets that are in the kitchen                        |
+| **构造** | 内部结构 | wooden boxes that have doors on them... different shelves   |
+
 
 ---
 
@@ -68,12 +74,14 @@
 
 ### 讲解结构
 
-| 步骤 | 内容 | 示范 |
-|------|------|------|
-| **用途** | 用来做什么 | you usually put some special type of liquid sugar |
-| **成分** | 是什么做的 | comes from trees |
-| **具体来源** | 具体出处 | comes from maple leaf trees |
-| **名称** | 叫什么 | It's called maple syrup |
+
+| 步骤       | 内容    | 示范                                                |
+| -------- | ----- | ------------------------------------------------- |
+| **用途**   | 用来做什么 | you usually put some special type of liquid sugar |
+| **成分**   | 是什么做的 | comes from trees                                  |
+| **具体来源** | 具体出处  | comes from maple leaf trees                       |
+| **名称**   | 叫什么   | It's called maple syrup                           |
+
 
 ---
 
@@ -129,11 +137,13 @@ Jeff 博士常用反例来帮助理解，通过对比加深印象。
 
 ### 讲解结构
 
-| 步骤 | 内容 | 示范 |
-|------|------|------|
-| **定义 A** | 先解释主要概念 | A comforter is a very thick blanket—a very heavy blanket. |
-| **定义 B** | 解释反例 | The opposite of a comforter would be a light blanket. |
-| **对比差异** | 说明具体区别 | A light blanket... if it gets very cold, it might not keep you warm |
+
+| 步骤       | 内容      | 示范                                                                  |
+| -------- | ------- | ------------------------------------------------------------------- |
+| **定义 A** | 先解释主要概念 | A comforter is a very thick blanket—a very heavy blanket.           |
+| **定义 B** | 解释反例    | The opposite of a comforter would be a light blanket.               |
+| **对比差异** | 说明具体区别  | A light blanket... if it gets very cold, it might not keep you warm |
+
 
 ### 原文示范 2：Dress Shirt vs Casual Shirt
 
@@ -244,3 +254,221 @@ Jeff 博士经常解释单词的来源或发音特点。
 ### 示例：解释保温杯
 
 > A thermos is like a special bottle that keeps hot drinks hot and cold drinks cold. It has two walls inside with empty space between them, so the heat can't get out or in. You put tea or water in it, close the lid tight, and your drink stays the same temperature for a long time.
+
+---
+
+## 12. 讲解辅助句式 — Parenting Helper Phrases `亲子`
+
+"我讲她听"阶段常用的引导语、互动语和确认语，帮助家长自然流畅地带领孩子理解内容。
+
+---
+
+### 12.1 开场与引入 — Opening & Introduction
+
+
+| 句式                                         | 使用场景   | 中文对照             |
+| ------------------------------------------ | ------ | ---------------- |
+| **Today, let's talk about [topic].**       | 开始新主题  | 今天，我们来聊聊[某个主题]。  |
+| **Let's learn a new word today.**          | 引入新单词  | 今天我们来学一个新词。      |
+| **Do you know what [item] is?**            | 引发好奇心  | 你知道[某个东西]是什么吗？   |
+| **Have you ever seen a [item]?**           | 联系生活经验 | 你见过[某个东西]吗？      |
+| **Look at this picture.**                  | 视觉引入   | 看这张图片。           |
+| **Let me show you something interesting.** | 制造期待   | 我给你看点有趣的东西。      |
+| **This is something we use every day.**    | 强调日常性  | 这是我们每天都用的东西。     |
+| **I want to tell you about [topic].**      | 直接引入   | 我想跟你说说[某个主题]。    |
+| **Remember when we [did something]?**      | 关联过往经历 | 还记得我们[做过某事]的时候吗？ |
+
+
+---
+
+### 12.2 单词教学 — Vocabulary Teaching
+
+
+| 句式                                        | 使用场景 | 中文对照            |
+| ----------------------------------------- | ---- | --------------- |
+| **Repeat after me: [word].**              | 跟读练习 | 跟我念：[单词]。       |
+| **Say it with me: [word].**               | 一起朗读 | 跟我一起说：[单词]。     |
+| **This word is [word].**                  | 单词介绍 | 这个词是[单词]。       |
+| **Listen carefully: [word].**             | 强调聆听 | 仔细听：[单词]。       |
+| **Can you say [word]?**                   | 邀请尝试 | 你能说出[单词]吗？      |
+| **One more time: [word].**                | 再次重复 | 再来一遍：[单词]。      |
+| **Louder, please: [word].**               | 鼓励大声 | 请大声一点：[单词]。     |
+| **Try again: [word].**                    | 鼓励再试 | 再试一次：[单词]。      |
+| **The word [A] sounds like [B].**         | 发音类比 | [单词A]听起来像[单词B]。 |
+| **This is how you pronounce it: [word].** | 发音示范 | 它的发音是这样的：[单词]。  |
+
+
+---
+
+### 12.3 确认理解 — Checking Understanding
+
+
+| 句式                                  | 使用场景   | 中文对照          |
+| ----------------------------------- | ------ | ------------- |
+| **Do you get it?**                  | 简单确认   | 你明白了吗？        |
+| **Can you get it?**                 | 询问理解   | 你能理解吗？        |
+| **Do you understand?**              | 正式确认   | 你理解了吗？        |
+| **Is that clear?**                  | 确认清晰度  | 清楚了吗？         |
+| **Are you with me?**                | 跟进式确认  | 跟上了吗？         |
+| **Do you follow?**                  | 确认跟上思路 | 你跟上了吗？        |
+| **Any questions?**                  | 开放提问   | 有什么问题吗？       |
+| **What do you think [word] means?** | 猜测含义   | 你觉得[单词]是什么意思？ |
+| **Can you guess?**                  | 鼓励猜测   | 你能猜一猜吗？       |
+| **Does that make sense?**           | 确认合理性  | 这样讲得通吗？       |
+
+
+---
+
+### 12.4 互动提问 — Interactive Questions
+
+
+| 句式                               | 使用场景  | 中文对照         |
+| -------------------------------- | ----- | ------------ |
+| **What is this?**                | 指向询问  | 这是什么？        |
+| **What do we call this?**        | 名称询问  | 我们管这个叫什么？    |
+| **Where do we put [item]?**      | 位置询问  | 我们把[东西]放在哪里？ |
+| **When do we use [item]?**       | 时间询问  | 我们什么时候用[东西]？ |
+| **Why do we need [item]?**       | 原因询问  | 我们为什么需要[东西]？ |
+| **How does [item] work?**        | 原理询问  | [东西]是怎么工作的？  |
+| **Can you point to the [item]?** | 指令互动  | 你能指着[东西]吗？   |
+| **What color is it?**            | 特征询问  | 它是什么颜色的？     |
+| **What shape is it?**            | 形状询问  | 它是什么形状的？     |
+| **Is it big or small?**          | 二选一询问 | 它是大的还是小的？    |
+| **Is it hot or cold?**           | 属性对比  | 它是热的还是冷的？    |
+
+
+---
+
+### 12.5 鼓励与反馈 — Encouragement & Feedback
+
+
+| 句式                    | 使用场景  | 中文对照   |
+| --------------------- | ----- | ------ |
+| **Good job!**         | 简单表扬  | 做得好！   |
+| **Well done!**        | 正式表扬  | 干得好！   |
+| **That's right!**     | 确认正确  | 对了！    |
+| **Exactly!**          | 强调准确  | 完全正确！  |
+| **You got it!**       | 理解到位  | 你懂了！   |
+| **Perfect!**          | 完美评价  | 完美！    |
+| **Very good!**        | 鼓励性评价 | 非常好！   |
+| **Nice try!**         | 鼓励尝试  | 尝试得不错！ |
+| **Almost!**           | 接近正确  | 差不多了！  |
+| **Close!**            | 接近答案  | 很接近了！  |
+| **That's okay.**      | 安慰容错  | 没关系。   |
+| **Don't worry.**      | 消除焦虑  | 别担心。   |
+| **You can do it!**    | 加油鼓励  | 你能行的！  |
+| **I'm proud of you.** | 表达骄傲  | 我为你骄傲。 |
+| **Give me five!**     | 击掌庆祝  | 击个掌！   |
+
+
+---
+
+### 12.6 过渡与衔接 — Transitions & Connections
+
+
+| 句式                                    | 使用场景  | 中文对照          |
+| ------------------------------------- | ----- | ------------- |
+| **Now, let's look at...**             | 转入新内容 | 现在，我们来看看……    |
+| **Next, I want to tell you about...** | 顺序过渡  | 接下来，我想告诉你关于…… |
+| **After that...**                     | 时间顺序  | 在那之后……        |
+| **Also...**                           | 补充信息  | 还有……          |
+| **Another thing...**                  | 追加说明  | 另一件事……        |
+| **By the way...**                     | 顺便提及  | 顺便说一下……       |
+| **Remember...**                       | 唤起记忆  | 记住……          |
+| **Don't forget...**                   | 强调要点  | 别忘了……         |
+| **So...**                             | 总结承接  | 所以……          |
+| **That means...**                     | 解释含义  | 这意味着……        |
+| **In other words...**                 | 换种说法  | 换句话说……        |
+| **For example...**                    | 举例说明  | 比如……          |
+| **Let's take a break.**               | 建议休息  | 我们休息一下吧。      |
+| **That's all for today.**             | 结束讲解  | 今天就讲到这里。      |
+
+
+---
+
+### 12.7 重点强调 — Emphasis & Focus
+
+
+| 句式                                    | 使用场景  | 中文对照         |
+| ------------------------------------- | ----- | ------------ |
+| **Pay attention to [word].**          | 提示重点  | 注意[这个词]。     |
+| **This is important.**                | 强调重要性 | 这很重要。        |
+| **Listen carefully.**                 | 要求专注  | 仔细听好。        |
+| **Look at this.**                     | 视觉聚焦  | 看这个。         |
+| **The important thing is...**         | 核心要点  | 重要的是……       |
+| **What I want you to remember is...** | 记忆提示  | 我希望你记住的是……   |
+| **The key word here is [word].**      | 关键词提示 | 这里的关键词是[单词]。 |
+| **Notice that...**                    | 引导注意  | 注意到……        |
+| **Keep in mind...**                   | 提醒牢记  | 记住……         |
+
+
+---
+
+### 12.8 场景对话示例 — Sample Dialogues
+
+#### 场景 1：讲解微波炉
+
+**家长：** Today, let's talk about the microwave. Do you know what a microwave is?  
+**孩子：** Is it the thing that makes food hot?  
+**家长：** Exactly! That's right! A microwave is a machine that heats up food quickly. Look at this picture. You put the food inside, press the buttons, and it gets warm. Do you get it?  
+**孩子：** Yes!  
+**家长：** Good job! Now, repeat after me: "microwave".  
+**孩子：** Microwave!  
+**家长：** Perfect! Give me five!
+
+---
+
+#### 场景 2：讲解雨伞（对比教学）
+
+**家长：** Let's learn a new word today. This is an umbrella. Say it with me: "umbrella".  
+**孩子：** Umbrella!  
+**家长：** Very good! An umbrella is something we use when it rains. The opposite of an umbrella would be... what do you think?  
+**孩子：** When it's sunny?  
+**家长：** Nice try! When it's sunny, we might use a sun hat or sunglasses. But the opposite of an umbrella—a thing that keeps rain off—would be something that keeps sun off. We call that a parasol. Can you say "parasol"?  
+**孩子：** Parasol!  
+**家长：** Well done! So, umbrella for rain, parasol for sun. Is that clear?  
+**孩子：** Yes!
+
+---
+
+#### 场景 3：讲解鞋子（互动提问）
+
+**家长：** I want to tell you about different shoes. Look at this picture. What is this?  
+**孩子：** Shoes!  
+**家长：** Yes, but what kind? These are sneakers. Repeat after me: "sneakers".  
+**孩子：** Sneakers!  
+**家长：** Good! We wear sneakers when we run or play sports. Now, when do we wear boots?  
+**孩子：** When it's raining?  
+**家长：** That's right! Or when it snows. You got it! What color are these sneakers?  
+**孩子：** White!  
+**家长：** Perfect! You are doing great!
+
+---
+
+### 12.9 核心句式速查表 — Quick Reference
+
+**最常用 15 句（建议优先掌握）：**
+
+
+| No. | 英文                         | 中文         | 使用频率 |
+| --- | -------------------------- | ---------- | ---- |
+| 1   | Today, let's talk about... | 今天，我们来聊聊…… | ⭐⭐⭐  |
+| 2   | Repeat after me...         | 跟我念……      | ⭐⭐⭐  |
+| 3   | Do you get it?             | 你明白了吗？     | ⭐⭐⭐  |
+| 4   | Good job!                  | 做得好！       | ⭐⭐⭐  |
+| 5   | What is this?              | 这是什么？      | ⭐⭐⭐  |
+| 6   | That's right!              | 对了！        | ⭐⭐⭐  |
+| 7   | Say it with me...          | 跟我一起说……    | ⭐⭐⭐  |
+| 8   | Well done!                 | 干得好！       | ⭐⭐⭐  |
+| 9   | Do you understand?         | 你理解了吗？     | ⭐⭐   |
+| 10  | You got it!                | 你懂了！       | ⭐⭐   |
+| 11  | Look at this...            | 看这个……      | ⭐⭐   |
+| 12  | Any questions?             | 有什么问题吗？    | ⭐⭐   |
+| 13  | Perfect!                   | 完美！        | ⭐⭐   |
+| 14  | Give me five!              | 击个掌！       | ⭐⭐   |
+| 15  | That's all for today.      | 今天就讲到这里。   | ⭐⭐   |
+
+
+---
+
+*Happy teaching!* — 教学愉快！
