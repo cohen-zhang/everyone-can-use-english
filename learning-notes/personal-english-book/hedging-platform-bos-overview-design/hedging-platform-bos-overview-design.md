@@ -23,14 +23,14 @@
 
 **Revision History**
 
-| **日期**<br />**Date** | **版本**<br />**Version** | **作者**<br />**Author**             | **修订说明**<br />**Revision Note**                                                                                                            | **审核人**<br />**Reviewer** |
-| -------------------- | ----------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [日期]           | V1.0                    | [人名A]、[人名B]<br />[Name A], [Name B] | 创建文档模板<br />Create Document Template                                                                                                       |                           |
-| [日期]            | V1.0.1                  | [人名A]、[人名B]<br />[Name A], [Name B] |   一户两地<br /> One household in two locations                                                                                                |                           |
-| [日期]<br />     | V1.1                    | [人名A]、[人名B]<br />[Name A], [Name B] | 算法母单、召回任务 、交易簿记、虚拟成交、错误码改造<br />Algorithm maiden order, recall task, transaction bookkeeping, virtual execution, error code transformation |                           |
-| [日期]           | V1.1                    | [人名C]、[人名A]<br />[Name C], [Name A] | 对冲台账户持仓、柜台账户持仓、 一键撤单<br />Hedging Desk Account Positions, Counter Account Positions, One-Click Order Cancellation                          |                           |
-| [日期]<br />        | V1.2                    |                                    | 指定成交<br />Designated Transaction                                                                                                           |                           |
-| [日期]           | V1.2.1                  |                                    | 质量加固<br />Quality reinforcement                                                                                                            |                           |
+| **日期**<br />**Date** | **版本**<br />**Version** | **作者**<br />**Author**              | **修订说明**<br />**Revision Note**                                                                                                            | **审核人**<br />**Reviewer** |
+| -------------------- | ----------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [日期]                 | V1.0                    | [人名A]、[人名B]<br />[Name A], [Name B] | 创建文档模板<br />Create Document Template                                                                                                       |                           |
+| [日期]                 | V1.0.1                  | [人名A]、[人名B]<br />[Name A], [Name B] | 一户两地<br /> One household in two locations                                                                                                  |                           |
+| [日期]<br />           | V1.1                    | [人名A]、[人名B]<br />[Name A], [Name B] | 算法母单、召回任务 、交易簿记、虚拟成交、错误码改造<br />Algorithm maiden order, recall task, transaction bookkeeping, virtual execution, error code transformation |                           |
+| [日期]                 | V1.1                    | [人名C]、[人名A]<br />[Name C], [Name A] | 对冲台账户持仓、柜台账户持仓、 一键撤单<br />Hedging Desk Account Positions, Counter Account Positions, One-Click Order Cancellation                          |                           |
+| [日期]<br />           | V1.2                    |                                     | 指定成交<br />Designated Transaction                                                                                                           |                           |
+| [日期]                 | V1.2.1                  |                                     | 质量加固<br />Quality reinforcement                                                                                                            |                           |
 
 # 1. **引言**
 
@@ -295,7 +295,7 @@ Database Version: V8.x
 
 * 支持信创：内网 Confluence 的 OSS 标准研发团队空间的《[公司名称] SQL开发规范》
 
-* Support Xinchuang: \<Hua Rui SQL Development Specification> in the OSS Standard R\&D Team Space of the Intranet Confluence&#x20;
+* Support Xinchuang: \<[Company Name] SQL Development Specification> in the OSS Standard R\&D Team Space of the Intranet Confluence&#x20;
 
 **其它原则**
 
@@ -1043,7 +1043,7 @@ The latest interface can be found on the intranet YApi&#x20;
 | 接口功能<br />Interface Function                                                                                          | 接口路径<br />Interface Path                                                         | 接口类型<br />Interface Type | 关键逻辑&&校验说明<br />Key Logic && Validation Instructions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 查询（字段调整 V1.1）<br />Query(Field Adjustment V1.1)                                                                       | 最新接口见内网 YApi <br />The latest interface can be found on the intranet YApi <br /> | POST                     | **新增字段**<br />**New Field**<br /> lockedUpQty:限售股数量<br /> lockedUpQty: Quantity of restricted shares <br /> restricedQty:受限锁定数量&#xA; csdcFrozenQty:中登冻结数量&#xA; initRestrictedQty:日初受限锁定数量&#xA; initSystemForzenQty:日初系统冻结数量<br /> restrictedQty: Restricted Locked Quantity&#xA;csdcFrozenQty: China Securities Depository and Clearing Corporation Limited (CSDC) Frozen Quantity&#xA;initRestrictedQty: Beginning-of-Day  Restricted Locked Quantity&#xA;initSystemFrozenQty: Beginning-of-Day System Frozen Quantity<br />**字段含义修改：**<br />**Field Meaning Modification:&#x20;**<br />当前持仓量（current\_qty） -> 持仓总量<br />Current Position Quantity (current\_qty) -> Total Position Quantity<br />当前可用持仓量（current\_available\_qty） -> 可用数量<br />Current Available Quantity (current\_available\_qty) -> Available Quantity<br />当前冻结数量（current\_frozen\_qty）-> 交易冻结数量<br />Current Frozen Quantity (current\_frozen\_qty) -> Transaction Frozen Quantity |
-| 持仓实时调整（调增、调减 V1.0 、&#xA;冻结、解冻 V1.1）<br />PositionReal-timeAdjustment (Increase, Decrease V1.0, Freeze, Unfreeze V1.1) |                                                                                  | POST<br />               | ~~可调减数量要小于当前可用持仓~~<br />~~The adjustable reduction quantity must be less than the current available position ~~<br />[组件A] 不做校验判断<br />[组件A] does not perform verification and judgment <br />**接口:**<br />**Interface:**&#x65B0;增接口：根据对冲账户查询柜台持仓 `@[人名C]`<br />New Interface: Query Counter Positions Based on Hedging Account `@[人名C]`<br />**同步模式**<br />**Synchronization Mode&#x20;**<br />方案A: <br />Option A: 方案B:<br />Option B:和柜台的人工冻结持仓<br />and manual freezing of positions by counter staff <br />                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 持仓实时调整（调增、调减 V1.0 、&#xA;冻结、解冻 V1.1）<br />PositionReal-timeAdjustment (Increase, Decrease V1.0, Freeze, Unfreeze V1.1) |                                                                                  | POST<br />               | ~~可调减数量要小于当前可用持仓~~<br />~~The adjustable reduction quantity must be less than the current available position ~~<br />[组件A] 不做校验判断<br />[组件A] does not perform verification and judgment <br />**接口:**<br />**Interface:**&#x65B0;增接口：根据对冲账户查询柜台持仓 `@[人名C]`<br />New Interface: Query Counter Positions Based on Hedging Account `@[人名C]`<br />**同步模式**<br />**Synchronization Mode&#x20;**<br />方案A: <br />Option A: 方案B:<br />Option B:和柜台的人工冻结持仓<br />and manual freezing of positions by counter staff <br />                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 详情（字段调整 V1.1）<br />Details(Field Adjustment V1.1)                                                                     |                                                                                  | POST                     | **新增字段**<br />**New Field**<br /> locakdUpQty:限售股数量<br /> locakdUpQty: Quantity of restricted stocks<br /> restricedQty:受限锁定数量&#xA; csdcFrozenQty:中登冻结数量&#xA; initRestrictedQty:日出受限锁定数量&#xA; initSystemForzenQty:日初系统冻结数量<br /> restricedQty: Restricted Locked Quantity&#xA; csdcFrozenQty: CSDC Frozen Quantity&#xA; initRestrictedQty: Sunrise Restricted Locked Quantity&#xA; initSystemForzenQty: Beginning-of-Day System Frozen Quantity <br />**字段含义修改：**<br />**Field Meaning Modification:&#x20;**<br />当前持仓量（current\_qty） -> 持仓总量<br />Current Position Quantity (current\_qty) -> Total Position Quantity<br />当前可用持仓量（current\_available\_qty） -> 可用数量<br />Current Available Quantity (current\_available\_qty) -> Available Quantity<br />当前冻结数量（current\_frozen\_qty）-> 交易冻结数量<br />Current Frozen Quantity (current\_frozen\_qty) -> Transaction Frozen Quantity                                                                        |
 
 #### copy.copy.copy.NaN 柜台账户持仓管理
@@ -1341,9 +1341,9 @@ If the node number or trade\_node\_id\_range changes, recalculate \[(node number
 
 #### copy.copy.copy.copy One-click order cancellation (V1.2)
 
-详细设计见飞书文档： [ HMS一键撤单概要设计]([链接])
+详细设计见[协作平台]文档： [ HMS一键撤单概要设计]([链接])
 
-Detailed design can be found in Feishu Docs: [ Overview Design of HMS One-Click Order Cancellation]([链接])
+Detailed design can be found in [Collaboration Platform] Docs: [ Overview Design of HMS One-Click Order Cancellation]([链接])
 
 
 
@@ -1905,7 +1905,7 @@ One Account, Two Locations: Single-account, dual-node deployment capability; sup
 
 目前支持[公司名称]自营柜台
 
-Currently supports Huarui's self-operated counter
+Currently supports [Company Name]'s self-operated counter
 
 注意：柜台账户在每个市场对应唯一的通道。当柜台通道不指定市场时，说明该通道可用于全部市场
 
@@ -2724,9 +2724,9 @@ Not available yet
 
 ## copy.copy Performance
 
-广发V1.2的大规模展业生产数据预估
+[券商名称]V1.2的大规模展业生产数据预估
 
-Estimation of large-scale business expansion production data for GF V1.2
+Estimation of large-scale business expansion production data for [Broker] V1.2
 
 **1、账户数据:**
 
