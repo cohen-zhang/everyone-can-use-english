@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/reference
+---
+
 # 不多时刻（第 71 篇）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 不多现在 2 岁 2 个月。现在给她营造学习英语的环境，比我预想的迟很多，不能「不劳而获」地把英语学到。
 

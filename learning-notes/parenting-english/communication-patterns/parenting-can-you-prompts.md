@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/communication
+---
+
 # 提问句 — Can you / Are you / Will you
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 亲子日常中高频使用的三种问句开头，区分它们的用法和场景。
 

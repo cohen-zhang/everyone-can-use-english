@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/communication
+---
+
 # Why Chinese students can’t speak English properly
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 学习笔记：口语里 **Can you** 的误用、问语言能力的说法，以及「翻译式英语」问题。
 

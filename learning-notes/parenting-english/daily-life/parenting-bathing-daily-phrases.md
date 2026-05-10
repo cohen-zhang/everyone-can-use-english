@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 洗澡日常 — Bath & Shower Time
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 面向**亲子洗澡场景**：从放水、调试水温、洗头洗澡、擦干到出浴室的完整流程。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 

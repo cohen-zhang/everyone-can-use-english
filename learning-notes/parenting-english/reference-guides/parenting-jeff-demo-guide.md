@@ -1,4 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/reference
+---
+
 # Jeff 博士的讲解示范说明
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
+**学习计划（相向互链）：** [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|学习计划（90天）— 亲子英文]]
 
 《A Day in the Life of Jeff》中解释物品、地方和物品作用的示范模式总结。
 

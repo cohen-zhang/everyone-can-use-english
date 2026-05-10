@@ -1,6 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # 中国常见食物（蔬菜/肉类/水果/零食）— 亲子英文
 
 按中国家庭高频食材整理，兼顾买菜、做饭、点外卖、孩子表达口味。`亲子`
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关（Obsidian · 相向互链）：** 美剧台词向「吃饭」亲子句 — [[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat（摩登家庭 S01）]]。
 

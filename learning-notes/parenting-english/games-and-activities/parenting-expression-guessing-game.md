@@ -1,6 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/games
+---
+
 # 表情猜猜猜 — Emoji Guessing Game
 
 亲子互动游戏，通过表情学习英文词汇。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关：** 情绪词的更多例句与亲子对话见 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]；形容词反义配对见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「情绪类」表）— 与此页 **相向互链**。
 

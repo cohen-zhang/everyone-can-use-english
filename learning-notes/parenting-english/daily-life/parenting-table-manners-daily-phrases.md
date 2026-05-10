@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 日常礼貌与餐桌礼仪（含坐姿）— 亲子英文
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 家庭高频礼貌表达 + 吃饭场景规则，句子尽量短，方便不多 / Celine 跟读。`亲子`
 

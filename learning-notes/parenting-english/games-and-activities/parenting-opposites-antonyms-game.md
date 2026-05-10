@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/games
+---
+
 # 正反义词游戏 — Opposites Game `亲子`
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 通过正反义词游戏帮助孩子扩展词汇量、理解对比概念，同时增进亲子互动。
 

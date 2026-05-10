@@ -1,6 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 收拾整理日常 — Clean Up & Organize
 
 亲子日常整理场景的英文表达，帮助培养孩子收拾习惯。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）
 

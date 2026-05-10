@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # Emoji 表情 · 中英对照学习
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 > 亲子互动表情词汇表 | Parent-Child Emoji Vocabulary
 > 按「面部 → 手势 → 爱心 → 物品 → 动物」分类，便于对照学习

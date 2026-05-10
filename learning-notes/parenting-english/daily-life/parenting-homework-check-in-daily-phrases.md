@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 家庭作业打卡 — Homework Check-In
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 面向**亲子作业场景**：从放学回家、作业准备、各科作业、检查订正、打卡提交到睡前整理的完整流程。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 

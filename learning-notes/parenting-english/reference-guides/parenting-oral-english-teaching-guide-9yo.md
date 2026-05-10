@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/reference
+---
+
 # 9 岁少儿英语口语教学指南 `亲子`
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 针对 **9 岁左右儿童**（小学 2-3 年级）的英语口语教学方法、课前准备与儿童心理发展特点综合指南。
 

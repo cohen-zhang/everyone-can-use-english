@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 手机使用日常 — Phone & Daily Life
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 亲子与手机、平板类设备相关的日常英文表达：拿来放下、开关机与重启、屏幕手势与 App 操作、接打电话、消息、拍照、屏幕与规则、网络与充电、安全边界。`亲子`
 

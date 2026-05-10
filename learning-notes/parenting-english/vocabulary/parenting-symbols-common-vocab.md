@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # 常见符号 — 亲子英文（句子 · 数学 · 中文与排版）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 读书、作业、看屏幕时，如何用英文说「句号、加号、书名号」等；含中英符号习惯差异的极简提示。`亲子`
 

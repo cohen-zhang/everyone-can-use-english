@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 地铁场景（Metro / Subway）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 ## 本页在做什么
 

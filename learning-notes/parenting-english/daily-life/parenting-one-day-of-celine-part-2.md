@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # One day of Celine（2）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 这是 **不多** 第 77 篇学习记录的续篇，接上一篇 *One day of Celine*。内容来自「叽哩呱啦」中的 **word / song / game**，写完回看时只整理了一段对话，其余为场景句与儿歌片段。
 

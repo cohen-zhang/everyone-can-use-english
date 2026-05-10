@@ -1,6 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # 职业与角色 — Jobs, Roles & Pretend Play `亲子`
 
 面向**亲子口语**：常见**职业**、**家庭／社交角色**，以及**扮装游戏**里用到的说法。可与动画、绘本、过家家对照，不必追求「最全职位表」。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关（Obsidian · 相向互链）：**
 

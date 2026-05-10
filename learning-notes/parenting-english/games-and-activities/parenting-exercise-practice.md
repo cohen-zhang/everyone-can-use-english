@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/games
+---
+
 # 运动与体育课 — Exercise & PE Class
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 关于运动喜好、运动好处以及体育课内容的日常表达。
 

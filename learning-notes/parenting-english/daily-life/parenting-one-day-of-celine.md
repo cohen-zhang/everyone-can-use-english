@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # One day of Celine
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 这是 **不多** 第 76 篇学习记录。上一篇谈「摆脱哑巴英语」时提到：未必有一本完全合你口的口语书，真正合适的往往要**自己写**出来；想整理「自己的口语书」，只能靠自己从简单的开始。本篇尝试把 **不多** 最近学的单词揉进对话里。
 

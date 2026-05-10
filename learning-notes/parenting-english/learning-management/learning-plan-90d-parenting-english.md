@@ -1,5 +1,15 @@
+---
+tags:
+  - parenting-english
+  - parenting/learning-management
+---
+
 # 学习计划（90天）— 亲子英文
-[[parenting-jeff-demo-guide]]
+
+**跟读材料入口：** [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 演示风格指南]]（与此计划 **相向互链**）。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 面向阿泽与不多（Celine）的家庭英语计划：每天短时、高频、可复用。`亲子`
 

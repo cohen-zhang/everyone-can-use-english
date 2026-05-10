@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 电器使用日常 — Appliances & Home Electronics
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 亲子在家使用各类电器时的高频英文表达，含安全提醒、简单指令与可复读句式。`亲子`
 

@@ -1,6 +1,14 @@
+---
+tags:
+  - parenting-english
+  - parenting/daily-life
+---
+
 # 梳妆打扮 — Girl Version
 
 女孩版亲子日常英文：梳头、扎头发、发夹、照镜子、防晒、出门前整理仪容等场景。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关：**
 

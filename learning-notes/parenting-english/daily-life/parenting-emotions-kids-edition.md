@@ -3,6 +3,8 @@ tags:
   - topic/emotions
   - english-learning
   - audience/parent-child
+  - parenting-english
+  - parenting/daily-life
 aliases:
   - 情绪亲子英文
 ---
@@ -10,6 +12,8 @@ aliases:
 # 情绪 — 亲子英文表达
 
 帮助家长和孩子用英文表达和讨论情绪的日常用语。
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关：**
 

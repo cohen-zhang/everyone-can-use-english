@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # 大洲 · 大洋 · 常见国家（Continents, oceans & countries）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 ## 本页在做什么
 

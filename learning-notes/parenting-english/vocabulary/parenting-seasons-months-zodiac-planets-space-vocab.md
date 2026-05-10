@@ -1,4 +1,13 @@
+---
+tags:
+  - parenting-english
+  - parenting/vocabulary
+---
+
 # 季节 · 月份 · 星座 · 行星与地球在太空中的「位置」（Seasons, months, signs, planets & where Earth sits）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 ## 本页在做什么
 

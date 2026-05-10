@@ -1,4 +1,12 @@
+---
+tags:
+  - parenting-english
+  - parenting/games
+---
+
 # 动物猜猜猜游戏记录（Guess-Guess Animals）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **相关（Obsidian · 相向互链）：** 总词表与猜谜提示列 — [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词（Animal vocabulary）]]。
 

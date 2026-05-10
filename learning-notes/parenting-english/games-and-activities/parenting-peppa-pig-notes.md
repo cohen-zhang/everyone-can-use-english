@@ -4,9 +4,13 @@ aliases:
 tags:
   - parenting-english
   - peppa-pig/link
+  - parenting/games
 ---
 
 # Peppa Pig 与几则笔记（第 82 篇）
+
+**索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
 
 这是 **不多** 第 82 篇学习记录。
 
