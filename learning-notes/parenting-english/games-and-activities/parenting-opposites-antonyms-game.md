@@ -102,6 +102,17 @@
 | **early**  | 早的  | **late**  | 晚的      | You're early! / Don't be late. — 你来得很早！/ 别迟到                      |
 
 
+### 味觉与口味类 `亲子`
+
+
+| 英文                | 中文    | 反义词（英文） | 反义词（中文） | 亲子场景例句                                                                 |
+| ----------------- | ----- | ------- | ------- | -------------------------------------------------------------------- |
+| **sweet**         | 甜的    | **bitter** | 苦的      | Candy is sweet. / This medicine is bitter — one big gulp! — 糖甜 / 药苦，一口咽下！     |
+| **sour**          | 酸的    | **sweet** | 甜的      | The lemon is sour. / Add sugar if it's too sour. — 柠檬好酸 / 太酸就加点糖。          |
+| **salty**         | 咸的    | **sweet** | 甜的（相对而言） | Soup is salty. / These cookies taste sweet. — 汤咸 / 饼干甜。（也可说 **bland**「淡」配对 **salty**，进阶再教。） |
+| **spicy** / **hot** | 辣的（刺激的） | **mild**  | 不辣／温和的  | Too spicy for me! / This one is mild. — 对我而言太辣了 / 这碗很温和。                |
+
+
 ### 情绪类
 
 
@@ -113,6 +124,16 @@
 | **quiet**   | 安静的 | **noisy**     | 吵闹的     | Be quiet in the library. / It's too noisy. — 在图书馆要安静 / 太吵了 |
 | **excited** | 兴奋的 | **bored**     | 无聊的     | I'm so excited! / This is boring. — 我太兴奋了！/ 这好无聊           |
 | **patient** | 耐心的 | **impatient** | 不耐烦的    | Please be patient. / Don't be impatient. — 请耐心点 / 别不耐烦     |
+
+
+### 年龄与辈分（指人）
+
+
+| 英文          | 中文      | 反义词（英文）              | 反义词（中文）        | 亲子场景例句                                                                                     |
+| ----------- | ------- | -------------------- | -------------- | ------------------------------------------------------------------------------------------ |
+| **young**   | 年轻的／年幼的 | **old**              | （指人）年长／上了年纪的   | You are young. / Grandpa is old. — 你还年轻／爷爷上了年纪。（当众夸长辈更常用 **older**「年纪更大」，比直接说 *old* 温和。）       |
+| **younger** | 更小岁数的   | **older**            | 更大岁数的／更年长的      | You're younger than Mommy. Mommy is older. — 你比妈妈岁数小／妈妈岁数更大。（游戏练对比即可）                        |
+| **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**（大人感） | 大的／长大成人了的      | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（配对 **kids↔grown-ups** 也可口头玩） |
 
 
 ### 位置类
@@ -143,6 +164,20 @@
 | **first**   | 第一  | **last**     | 最后      | First, brush your teeth. / You're the last one. — 首先刷牙 / 你是最后一个 |
 
 
+### 上课、游戏与活动的「开始／结束」 `亲子`
+
+
+| 英文／常用说法                    | 中文    | 反义词（英文）                         | 反义词（中文）     | 亲子场景例句                                                                                            |
+| --------------------------- | ----- | ------------------------------- | ----------- | ------------------------------------------------------------------------------------------------- |
+| **begin**                   | （较正式）开始 | **end**                         | 结束／到头       | Let's begin the story. / The story ends. — 故事开始啦 / 故事结束啦。                                                     |
+| **start**                   | 开始／开跑 | **finish**／**end**               | 做完／结束／停下来  | Ready—start running! / Finish your turn. — 预备—开跑！/ 轮到你这一轮做完。                                                      |
+| **It's time for class.**    | 该上课啦  | **Class is over.**              | （学校）下课啦     | Shh—time for class. / Yay, class is over! — 嘘，要上课咯 / 耶下课啦。（亦常说 *The bell rang.*「铃响了／打铃了」，口语因校而异）                |
+| **School starts.**／**begins** | 开学／到校上课 | **School is over.**／**School lets out.** | 放学／一天课结束啦   | Monday—school starts. / School's over—coming to pick you up! — 周一开学喽 / 放学啦，来接你回家！                                           |
+| **The game begins.**／**starts** | 游戏开始啦 | **The game is over.**／**Time's up!**   | 游戏结束啦／计时结束啦 | Let's start this round! / Time's up—game over! — 这一轮开始！/ 时间到了——这轮结束。（**pause**／**resume**「暂停／继续」也可顺带玩） |
+
+**bonus（输赢）：** **win（赢）** ↔ **lose（输）** — *We won! / Sorry, we lost today.*  
+
+
 ---
 
 ## 游戏对话模板
@@ -152,12 +187,15 @@
 - **Let's play the opposites game!** — 我们来玩正反义词游戏吧！
 - **I'll say a word, and you say the opposite.** — 我说一个词，你说它的反义词。
 - **Ready? Here we go!** — 准备好了吗？开始啦！
+- **The game begins now! We'll stop when Mum says it's over.** — 游戏现在开始！妈妈说结束就收尾。
 
 ### 游戏中互动
 
 - **What's the opposite of "big"?** — "big" 的反义词是什么？
+- **What's the opposite of "sweet"?** — "sweet"（甜）的反义词经常是 **bitter**（苦）。
 - **Can you show me "small" with your hands?** — 你能用手比划"小"吗？
 - **Can you act out "open"?** — 你能表演"打开"吗？
+- **Say "begin" … now say "end"!** — 说「开始」——再说「结束」!
 
 ### 回答反馈
 
@@ -169,6 +207,8 @@
 
 - **Now use both words in a sentence.** — 现在用这两个词造个句子。
 - **When do we open the door? When do we close it?** — 我们什么时候开门？什么时候关门？
+- **When does class begin? When is class over?** — 什么时候算「上课」？什么时候「下课／放学」？（中英文说法都可练。）
+- **Who is younger? Who is older?** — 谁年纪更小？谁更大？（只练对比别嘲笑。）
 - **Can you think of another word for "big"?** — 你能想出"big"的另一个说法吗？
 
 ---
@@ -252,6 +292,23 @@
 | 28  | good    | bad              | 好 / 坏   |
 | 29  | easy    | hard / difficult | 容易 / 困难 |
 | 30  | stop    | go               | 停 / 走   |
+
+
+### 扩展对（味觉·年龄·起止等，任选加进游戏里）
+
+
+| No. | 词组 A        | 词组 B                                         | 中文对照                         |
+| --- | ----------- | -------------------------------------------- | ---------------------------- |
+| 31  | sweet       | bitter                                       | 甜 / 苦                        |
+| 32  | sour        | sweet                                        | 酸 / 甜                        |
+| 33  | salty（相对描述） | sweet                                        | 咸 / 甜                        |
+| 34  | spicy       | mild                                         | 辣 / 不辣／温和                   |
+| 35  | young／younger | old／older（指人时注意礼貌用语）                             | 年轻／年幼 ↔ 年长（更常说 *older*）      |
+| 36  | begin       | end                                          | 开始 / 到头                      |
+| 37  | start       | finish                                       | （活动）开始 / 做完                |
+| 38  | time for class／class begins | class is over／school's over／school lets out | 该上课／上课了 ↔ 下课／放学            |
+| 39  | the game begins／starts | the game is over／time's up                  | 游戏开始 ↔ 结束／到时                |
+| 40  | win         | lose                                         | 赢 / 输                        |
 
 
 ---
