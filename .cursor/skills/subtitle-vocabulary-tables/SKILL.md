@@ -36,7 +36,7 @@ Assume the reader already knows **very high-frequency** English (e.g. *go, make,
 
 | Gate | Keep when… | 标签示例 |
 |------|------------|----------|
-| **低频** | The headword is rare, technical in general life, or specialized in the scene (not “rare” just because WordNet dumped a weird sense). | `低频` |
+| **低频** | The headword is **still a stretch point for an adult engineer in general English** (uncommon in news/books, technical, scene-specific, or easy to misread)—**not** “it only appears a few times in this episode.” | `低频` |
 | **拼写** | Spelling is easy to miss (length, doubling, **-ise/-ize**, confusing pairs) **or** the source text has a **字幕/OCR 笔误** worth fixing. | `拼写` |
 | **易读错** | Stress, vowel quality, or reduction pattern is commonly wrong for 简中母语者; say **how not to read it** in 简中义项 when useful. | `易读错` |
 | **有难度** | Polysemy or collocation matters **in this document** and the gloss adds real value for an adult (otherwise omit “多义 junk”). | `多义`（慎用） |
@@ -51,7 +51,7 @@ Assume the reader already knows **very high-frequency** English (e.g. *go, make,
 
 One italic line under the `##` heading, e.g.:
 
-*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；其余日常高频词已删。*
+*成人向精简：面向已具备工作英语基础的读者；「低频」指**通用英语里相对少遇或仍有收束价值**的词，并非「在本集台词里出现得少」。收录笔误对照、拼写/读音难点、术语；剔除超高频中小学词汇、纯拟声、无价值字幕碎片。*
 
 ## Audience: child / beginner tables（亲子或低阶）
 

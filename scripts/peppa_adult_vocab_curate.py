@@ -18,10 +18,216 @@ from peppa_lemma_zh_data import zh_for_lemma
 REPO = Path(__file__).resolve().parent.parent
 DEFAULT_DIR = REPO / "learning-notes/tv-series/Peppa Pig S01.英文剧本"
 VOCAB_HEADER = "## Episode vocabulary（本集词汇）"
+EMPTY_ADULT_VOCAB_NOTE = "*本集无符合成人向收束标准的词条（剔除后无表内行）。*"
 ADULT_NOTE = (
-    "*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；"
-    "拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*"
+    "*成人向精简：面向已具备工作英语基础的读者；**「低频」指在通用英语里相对少遇、或对简中母语者仍有收束价值的词**，"
+    "并非「在本集台词里出现得少」。"
+    "收录：字幕笔误对照、拼写/读音难点、术语与易混表达；"
+    "剔除：中小学阶段即已掌握的超高频词（代词、*there/here*、*car* 类基础名词等）、纯拟声/叫声、迟疑音、无检索价值的字幕碎片。*"
 )
+
+# Very-high-frequency lemmas an adult engineer is assumed to already know (CEFR A1–early A2 band).
+# Matches `.cursor/skills/subtitle-vocabulary-tables/SKILL.md` "Exclude trivial tokens".
+ADULT_VOCAB_EXCLUDE_CORE_LEMMAS: frozenset[str] = frozenset(
+    {
+        # pronouns & pointers
+        "he",
+        "she",
+        "it",
+        "we",
+        "they",
+        "you",
+        "i",
+        "me",
+        "him",
+        "her",
+        "us",
+        "them",
+        "my",
+        "your",
+        "his",
+        "our",
+        "their",
+        "this",
+        "that",
+        "these",
+        "those",
+        "there",
+        "here",
+         # common WH / polarity (if they ever surface as headwords)
+        "what",
+        "who",
+        "where",
+        "when",
+        "why",
+        "how",
+        "yes",
+        "no",
+        "not",
+        "and",
+        "or",
+        "but",
+        # user-called-out examples + same band
+        "car",
+        "bus",
+        "petals",
+        "petal",
+        # core aux / modals
+        "should",
+        "could",
+        "can",
+        "will",
+        "would",
+        "shall",
+        "may",
+        "might",
+        "must",
+        "am",
+        "is",
+        "are",
+        "was",
+        "were",
+        "be",
+        "been",
+        "being",
+        "have",
+        "has",
+        "had",
+        "having",
+        "do",
+        "does",
+        "did",
+        "doing",
+        "done",
+        # people / counting (when they appear as lone headwords)
+        "children",
+        "child",
+        # skill examples + same tier verbs/adjectives
+        "go",
+        "goes",
+        "went",
+        "going",
+        "gone",
+        "come",
+        "comes",
+        "came",
+        "coming",
+        "get",
+        "gets",
+        "got",
+        "getting",
+        "make",
+        "makes",
+        "made",
+        "making",
+        "look",
+        "looks",
+        "looked",
+        "looking",
+        "see",
+        "sees",
+        "seen",
+        "seeing",
+        "know",
+        "knows",
+        "knew",
+        "known",
+        "knowing",
+        "want",
+        "wants",
+        "wanted",
+        "wanting",
+        "like",
+        "likes",
+        "liked",
+        "liking",
+        "good",
+        "bad",
+        "big",
+        "small",
+        "new",
+        "old",
+        "play",
+        "plays",
+        "played",
+        "playing",
+        "eat",
+        "eats",
+        "ate",
+        "eating",
+        "drink",
+        "drinks",
+        "drank",
+        "drinking",
+        "sleep",
+        "sleeps",
+        "slept",
+        "sleeping",
+        "house",
+        "home",
+        "school",
+        "day",
+        "today",
+        "now",
+        "time",
+        "water",
+        "food",
+        "dog",
+        "cat",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "one",
+        "two",
+        "three",
+        "listen",
+        "listens",
+        "listened",
+        "listening",
+        "cookie",
+        "cookies",
+        "muddy",
+        "grandpa",
+        "grandma",
+        "granddad",
+        "rabbit",
+    }
+)
+
+# Lemmas (normalized lower) excluded from adult vocab: subtitle glitches + onomatopoeia / interjections.
+ADULT_VOCAB_DROP_LEMMAS: frozenset[str] = frozenset(
+    {
+        "goodbye bye",
+        "erm",
+    }
+)
+
+ADULT_VOCAB_SOUND_OR_NONLEX_LEMMAS: frozenset[str] = frozenset(
+    {
+        "argh",
+        "baa",
+        "mew",
+        "purr",
+        "splish",
+        "splosh",
+        "ha-ha",
+        "burp",
+    }
+)
+
+
+def should_drop_adult_vocab_row(display: str, zh: str) -> bool:
+    """Remove OCR phrase garbage, pure onomatopoeia, hesitation fillers, and CEFR-trivial headwords."""
+    k = re.sub(r"\s+", " ", display.strip().lower())
+    if k in ADULT_VOCAB_EXCLUDE_CORE_LEMMAS:
+        return True
+    if k in ADULT_VOCAB_DROP_LEMMAS or k in ADULT_VOCAB_SOUND_OR_NONLEX_LEMMAS:
+        return True
+    z = (zh or "").strip()
+    if any(x in z for x in ("字幕碎片", "字幕粘连", "连写碎片")):
+        return True
+    return False
 
 ROW_RE = re.compile(
     r"^\| (\*\*[^*|]+\*\*) \| ([^|]*) \| ([^|]*) \| ([^|]*) \|$"
@@ -341,6 +547,8 @@ def lemma_zh_normalize_body(body: List[str], il_map: dict[str, str]) -> List[str
         display = resolve_display_lemma(tok, il_map)
         ipa_new = ipa_for_lemma(display)
         zh = zh_for_lemma(display, gloss)
+        if should_drop_adult_vocab_row(display, zh):
+            continue
         tag_s = tags.strip()
         k = re.sub(r"\s+", " ", display.strip().lower())
         if k not in merged:
@@ -363,6 +571,21 @@ def lemma_zh_normalize_body(body: List[str], il_map: dict[str, str]) -> List[str
     return out
 
 
+def normalize_preamble_adult_note(preamble: List[str]) -> List[str]:
+    """Keep Episode vocabulary preamble in sync with ADULT_NOTE policy text."""
+    out: List[str] = []
+    replaced = False
+    for pl in preamble:
+        if (not replaced) and ("成人向精简" in pl):
+            out.append(ADULT_NOTE)
+            replaced = True
+            continue
+        if replaced and ("成人向精简" in pl):
+            continue
+        out.append(pl)
+    return out
+
+
 def lemma_zh_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> Tuple[bool, str]:
     """Replace typo surfaces with canonical lemmas + 简中 glosses; merge duplicate lemmas."""
     all_lines = path.read_text(encoding="utf-8").splitlines(keepends=False)
@@ -377,18 +600,30 @@ def lemma_zh_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> 
         k += 1
     if k >= len(all_lines):
         return False, "no table"
-    preamble = all_lines[vidx + 1 : k]
+    preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : k])
     body, end_idx = parse_vocab_block(all_lines, k)
     if len(body) < 2:
         return False, "empty table"
     new_body = lemma_zh_normalize_body(body, il_map)
-    new_all = all_lines[: vidx + 1] + preamble + new_body + all_lines[end_idx:]
+    if len(new_body) <= 2:
+        new_all = (
+            all_lines[: vidx + 1]
+            + preamble
+            + ["", EMPTY_ADULT_VOCAB_NOTE, ""]
+            + all_lines[end_idx:]
+        )
+        nrows = 0
+    else:
+        new_all = all_lines[: vidx + 1] + preamble + new_body + all_lines[end_idx:]
+        nrows = len(new_body) - 2
+
     new_text = "\n".join(new_all)
     if not new_text.endswith("\n"):
         new_text += "\n"
     if not dry_run:
         path.write_text(new_text, encoding="utf-8")
-    return True, f"lemma+zh rows {len(new_body) - 2}"
+    return True, f"lemma+zh rows {nrows}"
+
 
 def try_ipa(lemma: str) -> Optional[str]:
     low = lemma.strip().lower()
@@ -509,6 +744,10 @@ def curate_table_rows(
         if is_noise_token(tok):
             continue
         word_c, ipa, gloss, tags_s = refine_row(word_c, ipa, gloss, tags_s, il_map)
+        disp = resolve_display_lemma(tok, il_map)
+        zh_row = zh_for_lemma(disp, gloss)
+        if should_drop_adult_vocab_row(disp, zh_row):
+            continue
         rows_out.append(f"| {word_c} | {ipa} | {gloss} | {tags_s} |")
     return header + rows_out
 
@@ -574,7 +813,7 @@ def refine_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> Tu
         k += 1
     if k >= len(all_lines):
         return False, "no table"
-    preamble = all_lines[vidx + 1 : k]
+    preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : k])
     body, end_idx = parse_vocab_block(all_lines, k)
     if len(body) < 2:
         return False, "empty table"
@@ -588,6 +827,9 @@ def refine_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> Tu
             continue
         w, i, g, t = mo.groups()
         w, i, g, t = refine_row(w, i, g, t, il_map)
+        disp = resolve_display_lemma(word_cell_token(w), il_map)
+        if should_drop_adult_vocab_row(disp, zh_for_lemma(disp, g)):
+            continue
         new_body.append(f"| {w} | {i} | {g} | {t} |")
     new_all = all_lines[: vidx + 1] + preamble + new_body + all_lines[end_idx:]
     new_text = "\n".join(new_all)
