@@ -41,20 +41,20 @@ aliases:
 
 （入门鞋帽与随手物：**console table／shoe cabinet** 常在客厅可见侧；条案上也是 **出门前一把抓：`car keys`、`sunglasses`、`sunscreen`、消毒液／酒精湿巾、口罩**。）
 
-| Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
-| --- | --- | --- | --- | --- |
-| `entryway` | 英:/ˈentriweɪ/ 美:/ˈentriweɪ/ | n. 门口过渡区／玄关地带 | Dirty shoes pause on the tiled **entryway** before slippers land on wood. | 脏鞋先在瓷砖玄关停一下再换木地板拖鞋。 |
-| `console table` | 英:/kənˈsəʊl teɪbl/ 美:/kənˈsoʊl teɪbl/ | n. **玄关／走道条案**（窄台面） | Keys and mail land on the narrow **console table** minutes after we dash in from school runs. | 接娃飞奔回家钥匙信件还是先甩玄关条案。 |
-| `shoe cabinet` | 英:/ʃuː ˈkæbɪnət/ 美:/ʃuː ˈkæbɪnət/ | n. **鞋柜** | Our **shoe cabinet** hides toddler kicks so hallway sight lines stay clean. | 鞋柜藏起来娃的球鞋，过道一眼看去不乱。 |
-| `doormat` | 英:/ˈdɔːmæt/ 美:/ˈdɔːrmæt/ | n. **门垫／入户脚垫**（刮泥） | We beat the braided **doormat** before typhoon boots track mud toward the **area rug**. | 雨靴进门前先拍门垫少把泥带到客厅地毯。 |
-| `slippers` | 英:/ˈslɪpəz/ 美:/ˈslɪpərz/ | n. **室内拖鞋（常复数）** | Guest **slippers** fan out from the drawer under the **shoe cabinet**. | 客用拖鞋从鞋柜下抽屉里一字排开自取。 |
-| `umbrella stand` | 英:/ʌmˈbrelə stænd/ 美:/ʌmˈbrelə stænd/ | n. **伞架／伞筒** | Wet umbrellas drip into the ceramic **umbrella stand** instead of the **console table** varnish. | 湿伞插陶筒里水滴不到条案漆面。 |
-| `car keys` | 英:/kɑː kiːz/ 美:/kɑːr kiːz/ | n. **车钥匙（常复数）** | **泽哥** drops **car keys** into the labeled suede valet so dawn school runs aren’t hunts. | 泽哥睡前把车钥匙投进贴签绒面置物盘省的早晨手忙脚乱。 |
-| `sunglasses` | 英:/ˈsʌnɡlɑːsɪz/ 美:/ˈsʌnɡlæsɪz/ | n. **太阳镜／墨镜（常复数）** | **Sunglasses** ride in the tray’s front row so Shenzhen noon sun never blinds stroller runs. | 墨镜摆在托盘前排晌午推车出门强光不刺眼。 |
-| `sunscreen` | 英:/ˈsʌnskriːn/ 美:/ˈsʌnskriːn/ | n. **防晒霜** | A pea-sized dab of facial **sunscreen** waits beside **car keys** for weekend pitch pickups. | 周末球场接送前条案留了黄豆大面部防晒挨车钥匙。 |
-| `hand sanitizer` | 英:/hænd ˈsænɪtaɪzə(r)/ 美:/hænd ˈsænətaɪzər/ | n. **免洗洗手液／手部消毒凝胶**（常含乙醇） | Screw **hand sanitizer** caps tight beside **mail** trays so invitations never smudge. | 泵头盖拧紧贴信件盘免得请柬洇墨。 |
-| `disinfecting wipe` | 英:/dɪˈsɪnfektɪŋ waɪp/ 美:/dɪˈsɪnfektɪŋ waɪp/ | n. **消毒湿巾**（亦常复数 **`disinfecting wipes`**；口语亦 **`alcohol wipe`**） | We fish one **disinfecting wipe** from the foyer pack before sweaty kids raid the snack bowl. | 娃从外面汗津津进屋摸零食前先抽玄关包里的消毒湿巾。 |
-| `disposable face mask` | 英:/dɪˈspəʊzəbl feɪs mɑːsk/ 美:/dɪˈspoʊzəbl feɪs mæsk/ | n. **一次性口罩（平面／外科款泛指）** | Spare **disposable face masks** stack flat beneath guest **slippers** in the **shoe cabinet** foyer drawer. | 鞋柜待客抽屉下层客拖鞋底下压平整摞备用一次性口罩。 |
+| Word                   | IPA（英 / 美）                                           | 简中释义                                                              | 介绍句（English）                                                                                                | 介绍句（简中）                    |
+| ---------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------- |
+| `entryway`             | 英:/ˈentriweɪ/ 美:/ˈentriweɪ/                          | n. 门口过渡区／玄关地带                                                     | Dirty shoes pause on the tiled **entryway** before slippers land on wood.                                   | 脏鞋先在瓷砖玄关停一下再换木地板拖鞋。        |
+| `console table`        | 英:/kənˈsəʊl teɪbl/ 美:/kənˈsoʊl teɪbl/                | n. **玄关／走道条案**（窄台面）                                               | Keys and mail land on the narrow **console table** minutes after we dash in from school runs.               | 接娃飞奔回家钥匙信件还是先甩玄关条案。        |
+| `shoe cabinet`         | 英:/ʃuː ˈkæbɪnət/ 美:/ʃuː ˈkæbɪnət/                    | n. **鞋柜**                                                         | Our **shoe cabinet** hides toddler kicks so hallway sight lines stay clean.                                 | 鞋柜藏起来娃的球鞋，过道一眼看去不乱。        |
+| `doormat`              | 英:/ˈdɔːmæt/ 美:/ˈdɔːrmæt/                             | n. **门垫／入户脚垫**（刮泥）                                                | We beat the braided **doormat** before typhoon boots track mud toward the **area rug**.                     | 雨靴进门前先拍门垫少把泥带到客厅地毯。        |
+| `slippers`             | 英:/ˈslɪpəz/ 美:/ˈslɪpərz/                             | n. **室内拖鞋（常复数）**                                                  | Guest **slippers** fan out from the drawer under the **shoe cabinet**.                                      | 客用拖鞋从鞋柜下抽屉里一字排开自取。         |
+| `umbrella stand`       | 英:/ʌmˈbrelə stænd/ 美:/ʌmˈbrelə stænd/                | n. **伞架／伞筒**                                                      | Wet umbrellas drip into the ceramic **umbrella stand** instead of the **console table** varnish.            | 湿伞插陶筒里水滴不到条案漆面。            |
+| `car keys`             | 英:/kɑː kiːz/ 美:/kɑːr kiːz/                           | n. **车钥匙（常复数）**                                                   | **泽哥** drops **car keys** into the labeled suede valet so dawn school runs aren’t hunts.                    | 泽哥睡前把车钥匙投进贴签绒面置物盘省的早晨手忙脚乱。 |
+| `sunglasses`           | 英:/ˈsʌnɡlɑːsɪz/ 美:/ˈsʌnɡlæsɪz/                       | n. **太阳镜／墨镜（常复数）**                                                | **Sunglasses** ride in the tray’s front row so Shenzhen noon sun never blinds stroller runs.                | 墨镜摆在托盘前排晌午推车出门强光不刺眼。       |
+| `sunscreen`            | 英:/ˈsʌnskriːn/ 美:/ˈsʌnskriːn/                        | n. **防晒霜**                                                        | A pea-sized dab of facial **sunscreen** waits beside **car keys** for weekend pitch pickups.                | 周末球场接送前条案留了黄豆大面部防晒挨车钥匙。    |
+| `hand sanitizer`       | 英:/hænd ˈsænɪtaɪzə(r)/ 美:/hænd ˈsænətaɪzər/          | n. **免洗洗手液／手部消毒凝胶**（常含乙醇）                                         | Screw **hand sanitizer** caps tight beside **mail** trays so invitations never smudge.                      | 泵头盖拧紧贴信件盘免得请柬洇墨。           |
+| `disinfecting wipe`    | 英:/dɪˈsɪnfektɪŋ waɪp/ 美:/dɪˈsɪnfektɪŋ waɪp/          | n. **消毒湿巾**（亦常复数 **`disinfecting wipes`**；口语亦 **`alcohol wipe`**） | We fish one **disinfecting wipe** from the foyer pack before sweaty kids raid the snack bowl.               | 娃从外面汗津津进屋摸零食前先抽玄关包里的消毒湿巾。  |
+| `disposable face mask` | 英:/dɪˈspəʊzəbl feɪs mɑːsk/ 美:/dɪˈspoʊzəbl feɪs mæsk/ | n. **一次性口罩（平面／外科款泛指）**                                            | Spare **disposable face masks** stack flat beneath guest **slippers** in the **shoe cabinet** foyer drawer. | 鞋柜待客抽屉下层客拖鞋底下压平整摞备用一次性口罩。  |
 
 ---
 
@@ -70,7 +70,6 @@ aliases:
 | `gaming chair` | 英:/ˈɡeɪmɪŋ tʃeə(r)/ 美:/ˈɡeɪmɪŋ tʃer/ | n. **电竞椅** `技术` | **阿泽** adjusts lumbar support on the **gaming chair** before long sessions. | 阿泽开长会前先拧电竞椅腰托。 |
 | `ottoman` | 英:/ˈɒtəmən/ 美:/ˈɑːtəmən/ | n. **矮脚蹬／储物脚凳** | We stash spare **throw blankets** inside the upholstered **ottoman** before Lunar visits. | 过年访客来前先把备用盖毯塞进软包脚凳里。 |
 | `coffee table` | 英:/ˈkɒfi teɪbl/ 美:/ˈkɔːfi teɪbl/ | n. **茶几** | Drinks, the snack tray, and the remote share the **coffee table** top politely. | 水杯、待客零食盘与遥控器在茶几上分地盘。 |
-| `nest of tables` | 英:/nest əv ˈteɪblz/ 美:/nest əv ˈteɪblz/ | n. **组合套几** | Smaller tiers slide free from the **nest of tables** when guests need extra surfaces. | 客人多就从套几里抽小台面加位。 |
 | `side table` | 英:/saɪd teɪbl/ 美:/saɪd teɪbl/ | n. **沙发边几** | A cordless lamp charges on the **side table** while kids finish homework snacks. | 娃啃完作业的饼干屑顺手擦，边几上无线充电灯还亮着。 |
 
 ---
@@ -93,13 +92,13 @@ aliases:
 
 ### 4. 空调与气流 · Climate & airflow
 
-| Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
-| --- | --- | --- | --- | --- |
-| **`central air conditioning`** | 英:/ˈsentrəl eə(r) kənˈdɪʃənɪŋ/ 美:/ˈsentrəl er kənˈdɪʃənɪŋ/ | n. **中央空调（全屋风管／多风口）** | **Central air conditioning** pours from ceiling diffusers, so toddlers need light cotton layers indoors on scorching afternoons. | 夏天中央空调从顶上散风口送凉娃在室内也别光膀子套件薄衫。 |
-| `thermostat` | 英:/ˈθɜːməstæt/ 美:/ˈθɜːrməstæt/ | n. **温控器／墙面面板（中央空调常用）** | We pin the foyer **thermostat** to 26 °C when relatives camp on the **sofa** all week. | 亲戚住满一周沙发区时玄关温控锁 26℃ 省电又体面。 |
-| `split AC` | 英:/splɪt eɪˈsiː/ 美:/splɪt eɪˈsiː/ | n. **分体空调（室内挂机）** | The living room **split AC** louver aims upward so cold streaks miss **不多** LEGO walls. | 挂机导风板朝上吹冷气别直扑地上的乐高墙。 |
-| `ceiling fan` | 英:/ˈsiːlɪŋ fæn/ 美:/ˈsiːlɪŋ fæn/ | n. **吊扇** | The **ceiling fan** stirs air gently when **central air** feels too sharp on shoulders. | 中央空调直吹肩太硬时开低档吊扇匀一匀。 |
-| `pedestal fan` | 英:/ˈpedɪstl fæn/ 美:/ˈpedɪstl fæn/ | n. **落地扇** | A quiet **pedestal fan** parks behind the **sofa** during humid south-China nights. | 华南潮夜沙发后立一台静音落地扇补风。 |
+| Word                           | IPA（英 / 美）                                                 | 简中释义                    | 介绍句（English）                                                                                                                     | 介绍句（简中）                      |
+| ------------------------------ | ---------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| **`central air conditioning`** | 英:/ˈsentrəl eə(r) kənˈdɪʃənɪŋ/ 美:/ˈsentrəl er kənˈdɪʃənɪŋ/ | n. **中央空调（全屋风管／多风口）**   | **Central air conditioning** pours from ceiling diffusers, so toddlers need light cotton layers indoors on scorching afternoons. | 夏天中央空调从顶上散风口送凉娃在室内也别光膀子套件薄衫。 |
+| `thermostat`                   | 英:/ˈθɜːməstæt/ 美:/ˈθɜːrməstæt/                             | n. **温控器／墙面面板（中央空调常用）** | We pin the foyer **thermostat** to 26 °C when relatives camp on the **sofa** all week.                                           | 亲戚住满一周沙发区时玄关温控锁 26℃ 省电又体面。   |
+| `split AC`                     | 英:/splɪt eɪˈsiː/ 美:/splɪt eɪˈsiː/                          | n. **分体空调（室内挂机）**       | The living room **split AC** louver aims upward so cold streaks miss **不多** LEGO walls.                                          | 挂机导风板朝上吹冷气别直扑地上的乐高墙。         |
+| `ceiling fan`                  | 英:/ˈsiːlɪŋ fæn/ 美:/ˈsiːlɪŋ fæn/                            | n. **吊扇**               | The **ceiling fan** stirs air gently when **central air** feels too sharp on shoulders.                                          | 中央空调直吹肩太硬时开低档吊扇匀一匀。          |
+| `pedestal fan`                 | 英:/ˈpedɪstl fæn/ 美:/ˈpedɪstl fæn/                          | n. **落地扇**              | A quiet **pedestal fan** parks behind the **sofa** during humid south-China nights.                                              | 华南潮夜沙发后立一台静音落地扇补风。           |
 
 ---
 

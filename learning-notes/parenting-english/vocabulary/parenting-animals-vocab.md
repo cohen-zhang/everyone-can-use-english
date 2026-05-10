@@ -75,7 +75,7 @@ tags:
 | ⭐ 启蒙   | 174 | `puppy`     | 英:/'pʌpi/ 美:/'pʌpi/             | n. ⼩狗，幼⽝                              | Baby dog. Tiny paws.                                                    |
 | ⭐ 启蒙   | 128 | `kitty`     | 英:/'kɪti/ 美:/'kɪti/             | n. ⼩猫，猫咪                              | Cute word for a small cat.                                              |
 | ⭐ 启蒙   | 143 | `hamster`   | 英:/'hæmstə(r)/ 美:/'hæmstər/     | n. 仓⿏；仓⿏⽑⽪                            | Puffy cheeks store food. Runs in a wheel at night.                      |
-| ⭐ 启蒙   |  78 | `rabbit`    | 英:/'ræbɪt/ 美:/'ræbɪt/           | n. 兔⼦，野兔 vt. 让…⻅⻤去吧                   | Long ears. Hops fast. Loves carrots—ask Bugs Bunny!                     |
+| ⭐ 启蒙   |  78 | `rabbit`    | 英:/'ræbɪt/ 美:/'ræbɪt/           | n. 兔⼦，野兔 vt. 让…⻅⻤去吧                   | Long ears. Hops fast. Loves carrots                                     |
 | ⭐ 启蒙   |  34 | `bunny`     | 英:/'bʌni/ 美:/'bʌni/             | n. 兔⼦（特别是⼩兔⼦）；可爱⼥郎                    | Soft baby rabbit word. Hops. Loves carrots in cartoons.                 |
 | ⭐⭐ 常见  |  53 | `Chihuahua` | 英:/tʃɪ'wɑːwə/ 美:/tʃɪ'wɑwɑ/      | n. 吉娃娃（⼀种产于墨⻄哥的狗）；奇瓦瓦（墨⻄哥北部 的州及其⾸府名称） | Tiny dog—fits in a purse. Big eyes. From Mexico.                        |
 | ⭐⭐ 常见  |  54 | `Labrador`  | 英:/'læbrədɔː(r)/ 美:/'læbrədɔːr/ | n. 拉布拉多（加拿⼤东部⼀地区）；⼀种纽芬兰猎⽝             | Friendly big dog. Loves water. Often yellow, black, or chocolate brown. |
@@ -93,27 +93,27 @@ tags:
 - **Category (English):** Poultry & farm livestock — barnyard birds, grazing animals, and the **herd / flock** words behind eggs, milk, meat, and wool.
 - **Guide (English):** “Old MacDonald” ground: practice animal sounds (*cluck, moo, baa, quack, neigh*) and simple jobs (*gives milk, lays eggs, pulls a cart*). Contrast **hen / rooster / chick** and **cow / bull / calf** when children are ready.
 
-| 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
-| --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 4 | `chicken` | 英:/'tʃɪkɪn/ 美:/'tʃɪkɪn/ | n. ⼩鸡；鸡⾁；胆⼩⻤，懦夫 adj. 鸡⾁的；幼⼩的；胆怯 的 | Farm bird. We eat its eggs. It says "cluck cluck," not "quack." |
-| ⭐ 启蒙 | 22 | `hen` | 英:/hen/ 美:/hen/ | n. ⺟鸡；雌禽 | Mom chicken—the lady that lays eggs. |
-| ⭐ 启蒙 | 24 | `rooster` | 英:/'ruːstə(r)/ 美:/'ruːstər/ | n. 公鸡；狂妄⾃负的⼈ | Dad chicken. Big comb on head. Wakes you up: "cock-a-doodle-doo!" |
-| ⭐ 启蒙 | 61 | `cow` | 英:/kaʊ/ 美:/kaʊ/ | n. 奶⽜，⺟⽜；⺟兽 vt. 威胁，恐吓 | Black and white spots. Says "moo." Gives us milk. |
-| ⭐ 启蒙 | 68 | `duck` | 英:/dʌk/ 美:/dʌk/ | n. 鸭⼦；鸭⾁；（英）宝⻉⼉；[版]零分 vi. 闪避；没⼊⽔ 中 | Says "quack." Webbed feet. Yellow babies follow mom in a line. |
-| ⭐ 启蒙 | 84 | `horse` | 英:/hɔːs/ 美:/hɔːrs/ | n. ⻢；骑兵；脚架；[俚]海洛因 vt. 使骑⻢；系⻢于；[⼝] 捉弄 | Ride it! Neigh! Runs fast. Cowboy’s best friend. |
-| ⭐ 启蒙 | 85 | `goat` | 英:/ɡəʊt/ 美:/ɡoʊt/ | n. ⼭⽺；替罪⽺（美俚）；⾊⻤（美俚） | Beard on chin. Climbs rocks. Says "maa" and eats anything! |
-| ⭐ 启蒙 | 87 | `sheep` | 英:/ʃiːp/ 美:/ʃiːp/ | n. ⽺，绵⽺；胆⼩⻤ | Fluffy cloud on legs. Gives wool. Says "baa." |
-| ⭐⭐ 常见 | 28 | `bull` | 英:/bʊl/ 美:/bʊl/ | n. 公⽜；看好股市者；粗壮如⽜的⼈；[俚]胡说⼋道；印玺 adj. 公⽜似的；雄性的；⼤型的 | Dad cow. Strong horns. Red cape in cartoons! |
-| ⭐⭐ 常见 | 60 | `cattle` | 英:/'kætl/ 美:/'kætl/ | n. [总称]⽜；家畜；牲畜（骂⼈的话）；⽆价值的⼈ | Many cows together—on a farm for milk or beef. |
-| ⭐⭐ 常见 | 62 | `buffalo` | 英:/'bʌfələʊ/ 美:/'bʌfəloʊ/ | n. ⽔⽜；野⽜（产于北美）；⽔陆两⽤坦克 | Big shaggy ox. Or the American bison with a huge head. |
-| ⭐⭐ 常见 | 81 | `boar` | 英:/bɔː(r)/ 美:/bɔːr/ | n. 野猪；（未阉的）公猪 | Wild pig with tusks. Strong and hairy. |
-| ⭐⭐ 常见 | 83 | `mule` | 英:/mjuːl/ 美:/mjuːl/ | n. 骡⼦；固执的⼈；⾛私毒品者 n. 拖鞋 | Mom is a horse, dad is a donkey—strong and stubborn! |
-| ⭐⭐ 常见 | 88 | `donkey` | 英:/'dɒŋki/ 美:/'dɑːŋki/ | n. 驴⼦；傻⽠；顽固的⼈ | Long ears. Stubborn but helpful. Eeyore in Winnie-the-Pooh! |
-| ⭐⭐ 常见 | 100 | `oxen` | 英:/'ɒksn/ 美:/ɑksn/ | n. ⽜（ox的复数） | Strong working cows—pull plows in old farms. |
-| ⭐⭐ 常见 | 105 | `lamb` | 英:/læm/ 美:/læm/ | n. 羔⽺，⼩⽺；羔⽺⾁ vt. ⽣⼩⽺，产羔⽺ | Baby sheep. Soft and white. Says gentle "baa." |
-| ⭐⭐ 常见 | 135 | `turkey` | 英:/'tɜːki/ 美:/'tɜːrki/ | n. ⽕鸡；失败之作；笨蛋 | Big bird for Thanksgiving. Says "gobble gobble." Silly walk. |
-| ⭐⭐ 常见 | 136 | `goose` | 英:/ɡuːs/ 美:/ɡuːs/ | n. 鹅；雌鹅；鹅⾁；傻⽠ vt. 突然加⼤油⻔；嘘骂 | Long neck. Curves toward the sky to sing. White feathers on green water. Red feet paddle the waves! (See 《咏鹅》 poem in notes.) |
-| ⭐⭐ 常见 | 169 | `cock` | 英:/kɒk/ 美:/kɑːk/ | n. 公鸡；雄⻦；⻰头；头⽬ vt. 使竖起；使耸⽴；使朝上 | Another word for rooster—dad chicken that crows. |
+| 难度    | No. | Word      | IPA（英 / 美）                  | 释义                                              | 猜谜提示（简单英文 · 家长念给孩子猜）                                                                                                          |
+| ----- | --: | --------- | --------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ⭐ 启蒙  |   4 | `chicken` | 英:/'tʃɪkɪn/ 美:/'tʃɪkɪn/     | n. ⼩鸡；鸡⾁；胆⼩⻤，懦夫 adj. 鸡⾁的；幼⼩的；胆怯 的               | Farm bird. We eat its eggs. It says "cluck cluck," not "quack."                                                               |
+| ⭐ 启蒙  |  22 | `hen`     | 英:/hen/ 美:/hen/             | n. ⺟鸡；雌禽                                        | Mom chicken—the lady that lays eggs.                                                                                          |
+| ⭐ 启蒙  |  24 | `rooster` | 英:/'ruːstə(r)/ 美:/'ruːstər/ | n. 公鸡；狂妄⾃负的⼈                                    | Dad chicken. Big comb on head. Wakes you up: "cock-a-doodle-doo!"                                                             |
+| ⭐ 启蒙  |  61 | `cow`     | 英:/kaʊ/ 美:/kaʊ/             | n. 奶⽜，⺟⽜；⺟兽 vt. 威胁，恐吓                           | Black and white spots. Says "moo." Gives us milk.                                                                             |
+| ⭐ 启蒙  |  68 | `duck`    | 英:/dʌk/ 美:/dʌk/             | n. 鸭⼦；鸭⾁；（英）宝⻉⼉；[版]零分 vi. 闪避；没⼊⽔ 中              | Says "quack." Webbed feet. Yellow babies follow mom in a line.                                                                |
+| ⭐ 启蒙  |  84 | `horse`   | 英:/hɔːs/ 美:/hɔːrs/          | n. ⻢；骑兵；脚架；[俚]海洛因 vt. 使骑⻢；系⻢于；[⼝] 捉弄            | Ride it! Neigh! Runs fast. Cowboy’s best friend.                                                                              |
+| ⭐ 启蒙  |  85 | `goat`    | 英:/ɡəʊt/ 美:/ɡoʊt/           | n. ⼭⽺；替罪⽺（美俚）；⾊⻤（美俚）                            | Beard on chin. Climbs rocks. Says "maa" and eats anything!                                                                    |
+| ⭐ 启蒙  |  87 | `sheep`   | 英:/ʃiːp/ 美:/ʃiːp/           | n. ⽺，绵⽺；胆⼩⻤                                     | Fluffy cloud on legs. Gives wool. Says "baa."                                                                                 |
+| ⭐⭐ 常见 |  28 | `bull`    | 英:/bʊl/ 美:/bʊl/             | n. 公⽜；看好股市者；粗壮如⽜的⼈；[俚]胡说⼋道；印玺 adj. 公⽜似的；雄性的；⼤型的 | Dad cow. Strong horns. Red cape in cartoons!                                                                                  |
+| ⭐⭐ 常见 |  60 | `cattle`  | 英:/'kætl/ 美:/'kætl/         | n. [总称]⽜；家畜；牲畜（骂⼈的话）；⽆价值的⼈                      | Many cows together—on a farm for milk or beef.                                                                                |
+| ⭐⭐ 常见 |  62 | `buffalo` | 英:/'bʌfələʊ/ 美:/'bʌfəloʊ/   | n. ⽔⽜；野⽜（产于北美）；⽔陆两⽤坦克                           | Big shaggy ox. Or the American bison with a huge head.                                                                        |
+| ⭐⭐ 常见 |  81 | `boar`    | 英:/bɔː(r)/ 美:/bɔːr/         | n. 野猪；（未阉的）公猪                                   | Wild pig with tusks. Strong and hairy.                                                                                        |
+| ⭐⭐ 常见 |  83 | `mule`    | 英:/mjuːl/ 美:/mjuːl/         | n. 骡⼦；固执的⼈；⾛私毒品者 n. 拖鞋                          | Mom is a horse, dad is a donkey—strong and stubborn!                                                                          |
+| ⭐⭐ 常见 |  88 | `donkey`  | 英:/'dɒŋki/ 美:/'dɑːŋki/      | n. 驴⼦；傻⽠；顽固的⼈                                   | Long ears. Stubborn but helpful. Eeyore in Winnie-the-Pooh!                                                                   |
+| ⭐⭐ 常见 | 100 | `oxen`    | 英:/'ɒksn/ 美:/ɑksn/          | n. ⽜（ox的复数）                                     | Strong working cows—pull plows in old farms.                                                                                  |
+| ⭐⭐ 常见 | 105 | `lamb`    | 英:/læm/ 美:/læm/             | n. 羔⽺，⼩⽺；羔⽺⾁ vt. ⽣⼩⽺，产羔⽺                        | Baby sheep. Soft and white. Says gentle "baa."                                                                                |
+| ⭐⭐ 常见 | 135 | `turkey`  | 英:/'tɜːki/ 美:/'tɜːrki/      | n. ⽕鸡；失败之作；笨蛋                                   | Big bird for Thanksgiving. Says "gobble gobble." Silly walk.                                                                  |
+| ⭐⭐ 常见 | 136 | `goose`   | 英:/ɡuːs/ 美:/ɡuːs/           | n. 鹅；雌鹅；鹅⾁；傻⽠ vt. 突然加⼤油⻔；嘘骂                     | Long neck. Curves toward the sky to sing. White feathers on green water. Red feet paddle the waves! (See 《咏鹅》 poem in notes.) |
+| ⭐⭐ 常见 | 169 | `cock`    | 英:/kɒk/ 美:/kɑːk/            | n. 公鸡；雄⻦；⻰头；头⽬ vt. 使竖起；使耸⽴；使朝上                  | Another word for rooster—dad chicken that crows.                                                                              |
 
 <a id="cat-birds"></a>
 
@@ -124,24 +124,24 @@ tags:
 - **Category (English):** Wild birds & large waterbirds — passerines, raptors, seabirds, and **flightless** specials like the penguin (*farm ducks / geese / turkeys are in Block B*).
 - **Guide (English):** Clues that travel well: **feathers, beak, wings, nest**, can it **fly or not**, day vs night (*owl*), habitat (*sea, tree, city sidewalk*). Remind kids that *swallow* also has a verb meaning—context decides.
 
-| 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
-| --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 52 | `bird` | 英:/bɜːd/ 美:/bɜːrd/ | n. ⻦；家伙；⽻⽑球 vt. 向…喝倒彩；起哄 | Has feathers and wings. Most can fly. Lays eggs in a nest. |
-| ⭐ 启蒙 | 71 | `owl` | 英:/aʊl/ 美:/aʊl/ | n. [动]猫头鹰；枭；惯于晚上活动的⼈ | Big eyes. Turns head all around. "Hoo hoo" at night. |
-| ⭐ 启蒙 | 110 | `dove` | 英:/dʌv/ 美:/dʌv/ | n. 鸽⼦；鸽派⼈⼠ v. 潜⽔（dive的过去式） | White peaceful bird. Symbol of love. "Coo coo." |
-| ⭐ 启蒙 | 141 | `penguin` | 英:/'peŋɡwɪn/ 美:/'peŋɡwɪn/ | n. 企鹅；[美俚]空军地勤⼈员 | Cannot fly. Tuxedo suit. Waddles on ice. Slides on belly! |
-| ⭐ 启蒙 | 146 | `parrot` | 英:/'pærət/ 美:/'pærət/ | n. 鹦鹉；学⾆者，应声⾍；机械模仿别⼈的⼈ vt. 机械地模 仿 | Colorful bird that can copy your words! "Polly wants a cracker." |
-| ⭐ 启蒙 | 157 | `pigeon` | 英:/'pɪdʒɪn/ 美:/'pɪdʒɪn/ | n. 鸽⼦ | Gray city bird. Bobbles head when it walks. Eats crumbs. |
-| ⭐ 启蒙 | 158 | `eagle` | 英:/'iːɡl/ 美:/'iːɡl/ | n. 鹰；鹰状标饰 | Huge sharp eyes. National bird of USA. Flies very high! |
-| ⭐ 启蒙 | 161 | `swan` | 英:/swɒn/ 美:/swɑːn/ | n. 天鹅；天鹅星座 vi. 游荡，闲荡 | Elegant white bird. Long neck. Curved beak. Ballet story! |
-| ⭐⭐ 常见 | 1 | `seagull` | /'siːɡʌl/ | n. 海鸥 | It lives by the sea. It flies and cries like a loud bird. French fries? It wants them! |
-| ⭐⭐ 常见 | 2 | `swallow` | 英:/'swɒləʊ/ 美:/'swɑːloʊ/ | n. 燕⼦；吞咽；⼀次吞咽的量 v. 忍受；吞下；咽下；轻 信；不流露感情；收回 | Think BIRD: small and fast in the sky. (Also a verb: food goes down your throat.) |
-| ⭐⭐ 常见 | 3 | `crow` | 英:/krəʊ/ 美:/kroʊ/ | n. 乌鸦；啼叫；欢叫 v. 报晓；啼叫；欢叫；夸⼝；洋洋⾃ 得 | Black bird. "Caw! Caw!" Sometimes it steals shiny things. |
-| ⭐⭐ 常见 | 69 | `robin` | 英:/'rɒbɪn/ 美:/'rɑːbɪn/ | n. 知更⻦ | Red breast. Cute songbird—often on Christmas cards. |
-| ⭐⭐ 常见 | 70 | `jay` | 英:/dʒeɪ/ 美:/dʒeɪ/ | n. ⻦；松鸡；喋喋不休的⼈ | Blue noisy bird. Hides acorns for winter. |
-| ⭐⭐ 常见 | 72 | `peacock` | 英:/'piːkɒk/ 美:/'piːkɑːk/ | n. 孔雀；爱虚荣的⼈；雄孔雀 vi. 炫耀；神⽓活现地⾛ | Boy bird with huge colorful tail—opens like a fan! |
-| ⭐⭐ 常见 | 137 | `sparrow` | 英:/'spærəʊ/ 美:/'spæroʊ/ | n. 麻雀；矮⼩的⼈ | Little brown city bird. Pecks crumbs on the sidewalk. |
-| ⭐⭐⭐ 进阶 | 67 | `martin` | 英:/'mɑːtɪn/ 美:/ˈmɑrtn../ | n. [⻦]紫崖燕 | Small fast bird—swallow family. Dark blue and white. |
+| 难度     | No. | Word      | IPA（英 / 美）                | 释义                                       | 猜谜提示（简单英文 · 家长念给孩子猜）                                                                   |
+| ------ | --: | --------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
+| ⭐ 启蒙   |  52 | `bird`    | 英:/bɜːd/ 美:/bɜːrd/        | n. ⻦；家伙；⽻⽑球 vt. 向…喝倒彩；起哄                 | Has feathers and wings. Most can fly. Lays eggs in a nest.                             |
+| ⭐ 启蒙   |  71 | `owl`     | 英:/aʊl/ 美:/aʊl/           | n. [动]猫头鹰；枭；惯于晚上活动的⼈                     | Big eyes. Turns head all around. "Hoo hoo" at night.                                   |
+| ⭐ 启蒙   | 110 | `dove`    | 英:/dʌv/ 美:/dʌv/           | n. 鸽⼦；鸽派⼈⼠ v. 潜⽔（dive的过去式）               | White peaceful bird. Symbol of love. "Coo coo."                                        |
+| ⭐ 启蒙   | 141 | `penguin` | 英:/'peŋɡwɪn/ 美:/'peŋɡwɪn/ | n. 企鹅；[美俚]空军地勤⼈员                         | Cannot fly. Tuxedo suit. Waddles on ice. Slides on belly!                              |
+| ⭐ 启蒙   | 146 | `parrot`  | 英:/'pærət/ 美:/'pærət/     | n. 鹦鹉；学⾆者，应声⾍；机械模仿别⼈的⼈ vt. 机械地模 仿        | Colorful bird that can copy your words! "Polly wants a cracker."                       |
+| ⭐ 启蒙   | 157 | `pigeon`  | 英:/'pɪdʒɪn/ 美:/'pɪdʒɪn/   | n. 鸽⼦                                    | Gray city bird. Bobbles head when it walks. Eats crumbs.                               |
+| ⭐ 启蒙   | 158 | `eagle`   | 英:/'iːɡl/ 美:/'iːɡl/       | n. 鹰；鹰状标饰                                | Huge sharp eyes. National bird of USA. Flies very high!                                |
+| ⭐ 启蒙   | 161 | `swan`    | 英:/swɒn/ 美:/swɑːn/        | n. 天鹅；天鹅星座 vi. 游荡，闲荡                     | Elegant white bird. Long neck. Curved beak. Ballet story!                              |
+| ⭐⭐ 常见  |   1 | `seagull` | /'siːɡʌl/                 | n. 海鸥                                    | It lives by the sea. It flies and cries like a loud bird. French fries? It wants them! |
+| ⭐⭐ 常见  |   2 | `swallow` | 英:/'swɒləʊ/ 美:/'swɑːloʊ/  | n. 燕⼦；吞咽；⼀次吞咽的量 v. 忍受；吞下；咽下；轻 信；不流露感情；收回 | Think BIRD: small and fast in the sky. (Also a verb: food goes down your throat.)      |
+| ⭐⭐ 常见  |   3 | `crow`    | 英:/krəʊ/ 美:/kroʊ/         | n. 乌鸦；啼叫；欢叫 v. 报晓；啼叫；欢叫；夸⼝；洋洋⾃ 得         | Black bird. "Caw! Caw!" Sometimes it steals shiny things.                              |
+| ⭐⭐ 常见  |  69 | `robin`   | 英:/'rɒbɪn/ 美:/'rɑːbɪn/    | n. 知更⻦                                   | Red breast. Cute songbird—often on Christmas cards.                                    |
+| ⭐⭐ 常见  |  70 | `jay`     | 英:/dʒeɪ/ 美:/dʒeɪ/         | n. ⻦；松鸡；喋喋不休的⼈                           | Blue noisy bird. Hides acorns for winter.                                              |
+| ⭐⭐ 常见  |  72 | `peacock` | 英:/'piːkɒk/ 美:/'piːkɑːk/  | n. 孔雀；爱虚荣的⼈；雄孔雀 vi. 炫耀；神⽓活现地⾛            | Boy bird with huge colorful tail—opens like a fan!                                     |
+| ⭐⭐ 常见  | 137 | `sparrow` | 英:/'spærəʊ/ 美:/'spæroʊ/   | n. 麻雀；矮⼩的⼈                               | Little brown city bird. Pecks crumbs on the sidewalk.                                  |
+| ⭐⭐⭐ 进阶 |  67 | `martin`  | 英:/'mɑːtɪn/ 美:/ˈmɑrtn../  | n. [⻦]紫崖燕                                | Small fast bird—swallow family. Dark blue and white.                                   |
 
 <a id="cat-bugs"></a>
 

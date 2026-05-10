@@ -95,7 +95,39 @@ tags:
 
 ---
 
-## 5. 讲解模板总结
+## 5. 种类表达 — Type of / Kind of（鞋子与动作）
+
+用 **type of** / **kind of** 说明「某一种」物品，常用于：**这是哪一种鞋？做哪一种动作时穿？** 和孩子讲解时，可先点出 **category（哪一类）**，再连到 **action（什么时候穿、用来干什么）**。
+
+### Jeff 式原文示范（改编自糖浆里的 *type of* 用法）
+
+> Shoes are things you wear on your feet. There are many **types of** shoes. **Sneakers** are a **type of** shoe for running and playing—when you **run** or **jump**, sneakers are good. **Boots** are another **type of** shoe; we often **wear** boots when it **rains** or **snows** because they keep your feet dry. **Sandals** are a **light** **type of** shoe—with open tops—people **wear** them when it's hot. **Dance shoes** are a special **kind of** shoe for when you **dance**; they help you **move** on the floor.
+
+### 讲解结构
+
+
+| 步骤 | 内容 | 示范 |
+| --- | --- | --- |
+| **总类** | 先说什么大类 | shoes / things you wear on your feet |
+| **种类** | 哪一种 | a **type of** shoe / another **type of** / a special **kind of** |
+| **典型动作** | 和什么动作绑定 | when you **run**, **jump**, **wear** boots when it **rains** |
+| **功能** | 为什么用这种 | keep your feet dry / good for running |
+
+### 亲子可套用的短句 `亲子`
+
+- **There are many types of shoes.** — 鞋子有很多种类。
+- **Sneakers are a type of shoe for running.** — 运动鞋是一种用来跑步的鞋。
+- **Boots are a type of shoe for rain or snow.** — 靴子是一种雨天或雪天穿的鞋。
+- **What type of shoes do you wear when you dance?** — 你跳舞的时候穿哪种鞋？
+- **This is the right type of shoe for hiking.** — 这种鞋适合徒步（hiking）。
+
+### 与「场景 3：鞋子」呼应
+
+家长可用 **what kind?** / **what type?** 追问具体种类，再连动作：*We wear sneakers when we **run**; we wear boots when we **walk** in the snow.*
+
+---
+
+## 6. 讲解模板总结
 
 ### 解释一个物品时，可以按以下顺序：
 
@@ -137,7 +169,7 @@ tags:
 
 ---
 
-## 6. 反例说明 — The Opposite Of
+## 7. 反例说明 — The Opposite Of
 
 Jeff 博士常用反例来帮助理解，通过对比加深印象。
 
@@ -169,7 +201,7 @@ Jeff 博士常用反例来帮助理解，通过对比加深印象。
 
 ---
 
-## 7. 词源与发音解释
+## 8. 词源与发音解释
 
 Jeff 博士经常解释单词的来源或发音特点。
 
@@ -191,7 +223,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 8. 功能与用途说明
+## 9. 功能与用途说明
 
 解释物品的具体用途和使用方式。
 
@@ -209,7 +241,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 9. 类比说明 — Is Like
+## 10. 类比说明 — Is Like
 
 用熟悉的事物来类比解释新物品。
 
@@ -227,7 +259,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 10. 过程步骤说明
+## 11. 过程步骤说明
 
 解释如何做某事的具体步骤。
 
@@ -245,7 +277,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 11. 亲子应用示例
+## 12. 亲子应用示例
 
 用 Jeff 博士的方式向不多解释日常物品：
 
@@ -267,13 +299,13 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 12. 讲解辅助句式 — Parenting Helper Phrases `亲子`
+## 13. 讲解辅助句式 — Parenting Helper Phrases `亲子`
 
 "我讲她听"阶段常用的引导语、互动语和确认语，帮助家长自然流畅地带领孩子理解内容。
 
 ---
 
-### 12.1 开场与引入 — Opening & Introduction
+### 13.1 开场与引入 — Opening & Introduction
 
 
 | 句式                                         | 使用场景   | 中文对照             |
@@ -291,7 +323,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.2 单词教学 — Vocabulary Teaching
+### 13.2 单词教学 — Vocabulary Teaching
 
 
 | 句式                                        | 使用场景 | 中文对照            |
@@ -310,7 +342,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.3 确认理解 — Checking Understanding
+### 13.3 确认理解 — Checking Understanding
 
 
 | 句式                                  | 使用场景   | 中文对照          |
@@ -329,7 +361,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.4 互动提问 — Interactive Questions
+### 13.4 互动提问 — Interactive Questions
 
 
 | 句式                               | 使用场景  | 中文对照         |
@@ -349,7 +381,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.5 鼓励与反馈 — Encouragement & Feedback
+### 13.5 鼓励与反馈 — Encouragement & Feedback
 
 
 | 句式                    | 使用场景  | 中文对照   |
@@ -373,7 +405,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.6 过渡与衔接 — Transitions & Connections
+### 13.6 过渡与衔接 — Transitions & Connections
 
 
 | 句式                                    | 使用场景  | 中文对照          |
@@ -396,7 +428,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.7 重点强调 — Emphasis & Focus
+### 13.7 重点强调 — Emphasis & Focus
 
 
 | 句式                                    | 使用场景  | 中文对照         |
@@ -414,7 +446,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-### 12.8 场景对话示例 — Sample Dialogues
+### 13.8 场景对话示例 — Sample Dialogues
 
 #### 场景 1：讲解微波炉
 
@@ -441,21 +473,21 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-#### 场景 3：讲解鞋子（互动提问）
+#### 场景 3：讲解鞋子（互动提问 + type / kind）
 
 **家长：** I want to tell you about different shoes. Look at this picture. What is this?  
 **孩子：** Shoes!  
-**家长：** Yes, but what kind? These are sneakers. Repeat after me: "sneakers".  
+**家长：** Yes, but **what kind** are they? **What type of** shoe is this? These are sneakers. **Sneakers are a type of shoe** for running and playing. Repeat after me: "sneakers".  
 **孩子：** Sneakers!  
-**家长：** Good! We wear sneakers when we run or play sports. Now, when do we wear boots?  
+**家长：** Good! We **wear** sneakers when we **run** or **play** sports. Now, **boots** are **another type of** shoe. When do we **wear** boots?  
 **孩子：** When it's raining?  
-**家长：** That's right! Or when it snows. You got it! What color are these sneakers?  
+**家长：** That's right! Or when it **snows**. You **walk** in boots so your feet stay dry. You got it! What color are these sneakers?  
 **孩子：** White!  
 **家长：** Perfect! You are doing great!
 
 ---
 
-### 12.9 核心句式速查表 — Quick Reference
+### 13.9 核心句式速查表 — Quick Reference
 
 **最常用 15 句（建议优先掌握）：**
 

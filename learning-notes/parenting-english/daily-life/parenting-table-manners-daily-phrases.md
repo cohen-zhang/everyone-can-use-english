@@ -89,6 +89,14 @@ tags:
 勺子 / 筷子轻一点用。`亲子`
 - **No playing with your food.**  
 不要拿食物玩。`亲子`
+- **Don’t zone out. Focus on your meal.**  
+别发呆，专心吃饭。`亲子`
+- **No daydreaming at the table.**  
+吃饭时别走神 / 别光发呆想别的。`亲子`
+- **You’re spacing out. Come back and take a bite.**  
+你走神啦，回神吃一口。`亲子`
+- **Please pay attention—you’ve barely eaten.**  
+注意一下，你几乎没怎么吃。`亲子`
 
 ### 礼貌请求与拒绝
 
@@ -142,6 +150,13 @@ tags:
 - **Dad**: Yes, after you clear your bowl.  
 — 把 “离席前收碗” 说成固定规则句。`亲子`
 
+**场景 D：别发呆、专心吃**
+
+- **Dad (阿泽)**: Hey, you’re zoning out. Focus on your food, okay?  
+- **Celine (不多)**: Okay… I’m eating.  
+- **Dad**: Good. Small bites.  
+— 用 *zone out* / *focus on your food* 提醒吃饭时走神。`亲子`
+
 ---
 
 ## 6. 小词表
@@ -158,6 +173,10 @@ tags:
 | **napkin**                              | 餐巾           |            |
 | **chew**                                | 咀嚼           |            |
 | **mouth closed**                        | 闭嘴（状态）       | 与 chew 搭配  |
+| **zone out**                            | 走神、发呆        | 口语常说       |
+| **space out**                           | 走神（与 zone out 近义） | 美口语        |
+| **daydream**                            | 做白日梦、发呆想别的   | 可作动名词 at the table |
+| **focus on your meal**                  | 专心吃饭         | 提醒用        |
 | **serving chopsticks**                  | 公筷           | 中式餐桌高频     |
 | **May I leave the table?**              | 我可以离席吗？      | 固定句        |
 
