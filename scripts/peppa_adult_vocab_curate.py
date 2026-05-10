@@ -20,10 +20,8 @@ DEFAULT_DIR = REPO / "learning-notes/tv-series/Peppa Pig S01.英文剧本"
 VOCAB_HEADER = "## Episode vocabulary（本集词汇）"
 EMPTY_ADULT_VOCAB_NOTE = "*本集无符合成人向收束标准的词条（剔除后无表内行）。*"
 ADULT_NOTE = (
-    "*成人向精简：面向已具备工作英语基础的读者；**「低频」指在通用英语里相对少遇、或对简中母语者仍有收束价值的词**，"
-    "并非「在本集台词里出现得少」。"
-    "收录：字幕笔误对照、拼写/读音难点、术语与易混表达；"
-    "剔除：中小学阶段即已掌握的超高频词（代词、*there/here*、*car* 类基础名词等）、纯拟声/叫声、迟疑音、无检索价值的字幕碎片。*"
+    "*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。"
+    "收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*"
 )
 
 # Very-high-frequency lemmas an adult engineer is assumed to already know (CEFR A1–early A2 band).
@@ -467,13 +465,13 @@ def passes_inclusion_gate(tags: str) -> bool:
     if not t or t in ("—", "-"):
         return False
     if "多义" in t and not any(
-        x in t for x in ("低频", "拼写", "易读错", "术语", "技术", "亲子")
+        x in t for x in ("低频", "拼写", "易读错", "有难度", "术语", "技术", "亲子")
     ):
         return False
-    return any(x in t for x in ("低频", "拼写", "易读错", "术语", "技术", "亲子"))
+    return any(x in t for x in ("低频", "拼写", "易读错", "有难度", "术语", "技术", "亲子"))
 
 
-TAG_ORDER = ["低频", "拼写", "易读错", "多义", "术语", "技术", "亲子"]
+TAG_ORDER = ["低频", "拼写", "易读错", "有难度", "多义", "术语", "技术", "亲子"]
 
 
 def resolve_display_lemma(token: str, il_map: dict[str, str]) -> str:
@@ -599,7 +597,20 @@ def lemma_zh_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> 
     while k < len(all_lines) and not all_lines[k].strip().startswith("| Word |"):
         k += 1
     if k >= len(all_lines):
-        return False, "no table"
+        # Curated block with no markdown table (e.g. only ADULT_NOTE + empty-vocab line).
+        end_idx = len(all_lines)
+        for i in range(vidx + 1, len(all_lines)):
+            if all_lines[i].startswith("## ") and all_lines[i].strip() != VOCAB_HEADER:
+                end_idx = i
+                break
+        preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : end_idx])
+        new_all = all_lines[: vidx + 1] + preamble + all_lines[end_idx:]
+        new_text = "\n".join(new_all)
+        if not new_text.endswith("\n"):
+            new_text += "\n"
+        if not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        return True, "preamble only (no table)"
     preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : k])
     body, end_idx = parse_vocab_block(all_lines, k)
     if len(body) < 2:
@@ -812,7 +823,20 @@ def refine_curated_file(path: Path, il_map: dict[str, str], dry_run: bool) -> Tu
     while k < len(all_lines) and not all_lines[k].strip().startswith("| Word |"):
         k += 1
     if k >= len(all_lines):
-        return False, "no table"
+        # Curated block with no markdown table (e.g. only ADULT_NOTE + empty-vocab line).
+        end_idx = len(all_lines)
+        for i in range(vidx + 1, len(all_lines)):
+            if all_lines[i].startswith("## ") and all_lines[i].strip() != VOCAB_HEADER:
+                end_idx = i
+                break
+        preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : end_idx])
+        new_all = all_lines[: vidx + 1] + preamble + all_lines[end_idx:]
+        new_text = "\n".join(new_all)
+        if not new_text.endswith("\n"):
+            new_text += "\n"
+        if not dry_run:
+            path.write_text(new_text, encoding="utf-8")
+        return True, "preamble only (no table)"
     preamble = normalize_preamble_adult_note(all_lines[vidx + 1 : k])
     body, end_idx = parse_vocab_block(all_lines, k)
     if len(body) < 2:

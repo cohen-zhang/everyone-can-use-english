@@ -1,6 +1,6 @@
 ---
 name: english-learning-markdown-docs
-description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner name **阿泽** (nickname **泽哥**) and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. After new or finished notes under learning-notes/, search related docs and add bidirectional Obsidian wikilinks (see skill body). Use when writing notes, journals, vocabulary sheets, dialogues, parenting-and-work English material. For subtitle/episode **word tables** (本集词汇, Episode vocabulary), use **subtitle-vocabulary-tables** instead or in addition.
+description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner name **阿泽** (nickname **泽哥**) and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. After new or finished notes under learning-notes/, search related docs and add bidirectional Obsidian wikilinks (see skill body). Includes a **fixed AI-coach prompt** for Chinese→English *rewrite* (not literal translation) in the **AI coach: Chinese → English rewrite** section. Use when writing notes, journals, vocabulary sheets, dialogues, parenting-and-work English material. For subtitle/episode **word tables** (本集词汇, Episode vocabulary), use **subtitle-vocabulary-tables** instead or in addition.
 ---
 
 # English-learning Markdown documents
@@ -8,6 +8,8 @@ description: Produces English-learning materials as Markdown with fixed English 
 ## When to apply
 
 Use this skill whenever the user asks for **documents, notes, or exports** related to English learning (personal study, parenting, or teaching helpers), not only when they say “Markdown.” Default to **Markdown** unless they explicitly request another format.
+
+If the task is **Chinese → English rewrite** of the user’s own wording (coach style, not literal translation), start from the fixed prompt in **AI coach: Chinese → English rewrite (translation scenario)** before formatting output as Markdown below.
 
 ## Output format
 
@@ -55,6 +57,27 @@ If the user pastes raw material, **redact in the delivered document** and do not
 - **Unified style**: Same heading style, list style, and terminology across the file.
 - **Scannable**: Headings and first lines of sections should orient the reader quickly.
 - **Honest level**: If a phrase is idiomatic or region-specific, note it briefly when it matters for learners.
+
+## AI coach: Chinese → English rewrite (translation scenario)
+
+When the user needs **their own Chinese** turned into **spoken-oriented English** for notes, dialogues, or draft sections—and **not** literal word-for-word translation—use this **fixed prompt** as the model’s **role / system** or **first turn**, then paste the Chinese source in the **next** message.
+
+- **Adjust** the line about *American / New York* if the user asks for another dialect or register (e.g. neutral US, UK, or written formal); keep the rest unless they explicitly change constraints.
+- **After** the model returns English: fold the text into Markdown per **Bilingual layout** and **Output format** above (e.g. add 简中 glosses where this skill requires them).
+
+**Prompt (verbatim template):**
+
+```prompt
+你是我的英语教练。
+请将我的话改写成英文。
+不需要逐字翻译。
+请分析清楚我的内容，而后用英文重新逻辑清晰地组织它。
+请使用地道的美式英语，纽约腔调。
+请尽量使用日常词汇，尽量优先使用短语动词或者习惯用语。
+每个句子最长不应该超过 20 个单词。
+```
+
+**Repo reference:** `new-edition-drafts/第一轮讲解/02-说己想说.md`（同一模板见于该章「翻译 / 改写场景」Skill）。
 
 ## Obsidian cross-links after new docs（新文档后的互链检查）
 
