@@ -157,14 +157,13 @@ Bri-y-ant!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **piaygroup** | /piaygroup*/ | 字幕笔误；正字 **playgroup** | 低频 |
-| **briyant** | /ˈbrɪljənt/ | 字幕笔误；正字 **brilliant** | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **thereii** | /ðɛr/ | 字幕笔误；正字 **there** | 低频 |
-| **petais** | /ˈpɛtəlz/ | 字幕笔误；正字 **petals** | 低频 |
-| **staik** | /stɔk/ | 字幕笔误；正字 **stalk** | 低频 |
-| **heii** | /hi/ | 字幕笔误；正字 **he** | 低频 |
-| **gazelle** | /gəˈzɛl/ | 瞪羚 | 低频 |
-| **baa** | /ˌbiˌeɪˈeɪ/ | the cry made by sheep | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **playgroup** | /playgroup*/ |  | 低频 |
+| **playgroup** | /ˈpleɪˌɡruːp/ | 幼儿园游戏小组（幼儿集体游戏班） | 低频 |
+| **brilliant** | /ˈbrɪljənt/ | 太棒了；出色的 | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **there** | /ðɛr/ | 那里；那边 | 低频 |
+| **petals** | /ˈpɛtəlz/ | 花瓣 | 低频 |
+| **stalk** | /stɔk/ | （花草的）茎；柄 | 低频 |
+| **he** | /hi/ | 他 | 低频 |
+| **gazelle** | /gəˈzɛl/ | 羚羊（瞪羚一类） | 低频 |
+| **baa** | /bɑː/ | 羊叫声（咩） | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |

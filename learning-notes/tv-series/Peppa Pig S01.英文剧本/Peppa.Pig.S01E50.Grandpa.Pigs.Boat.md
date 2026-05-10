@@ -204,12 +204,12 @@ George loves sitting in the trolley.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **waterhog** | /ˈwɔtərˌhɔɡ/ |  | 低频 |
-| **afioat** | /əˈfloʊt/ | 字幕笔误；正字 **afloat** | 低频 |
-| **ayeaye** | /ˈaɪˌaɪ/ | 字幕笔误；正字 **aye-aye** | 低频 |
-| **seadog** | /si dɔg/ | 字幕笔误；正字 **sea dog** | 低频 |
-| **lifejackets** | /laɪf ˈʤækɪts/ | 字幕笔误；正字 **life jackets** | 低频、拼写 |
-| **hearties** | /ˈhɑrtiz/ | 字幕笔误；正字 **hearties** | 低频 |
-| **granddad** | /ˈgrænˌdæd/ | 外公 | 低频 |
-| **ahoy** | /əˈhɔɪ/ |  | 低频 |
-| **grandpa** | /ˈgrændˌpɑ/ | 外公 | 低频 |
+| **waterhog** | /ˈwɔtərˌhɔɡ/ | （戏称）水老虎；本集海盗梗 | 低频 |
+| **afloat** | /əˈfloʊt/ | 漂浮 | 低频 |
+| **aye-aye** | — | （航海）遵命 | 低频 |
+| **sea dog** | /si dɔg/ | 老水手（戏称） | 低频 |
+| **life jackets** | /laɪf ˈʤækɪts/ | 救生衣 | 低频、拼写 |
+| **hearties** | /ˈhɑrtiz/ | （海盗口吻）兄弟们；伙计们 | 低频 |
+| **granddad** | /ˈgrænˌdæd/ | 爷爷；外公 | 低频 |
+| **ahoy** | /əˈhɔɪ/ | 喂！（船上招呼） | 低频 |
+| **grandpa** | /ˈgrændˌpɑ/ | 爷爷；外公 | 低频 |

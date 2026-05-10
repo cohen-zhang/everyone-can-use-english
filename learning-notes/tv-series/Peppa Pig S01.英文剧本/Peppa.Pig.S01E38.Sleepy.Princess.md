@@ -169,7 +169,6 @@ And our Little prince and princess enjoyed it, too!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
-| **youii** | /youii*/ |  | 低频 |
-| **sleepy** | /sˈlipi/ | ready to fall asleep | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **sleepy** | /sˈlipi/ | 困的 | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |

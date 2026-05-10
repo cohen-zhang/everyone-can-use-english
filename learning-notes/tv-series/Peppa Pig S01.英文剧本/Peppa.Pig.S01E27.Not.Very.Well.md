@@ -202,4 +202,4 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **brownbear** | /braʊn bɛr/ | 字幕笔误；正字 **brown bear** | 低频 |
+| **brown bear** | /braʊn bɛr/ | 棕熊 | 低频 |

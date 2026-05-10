@@ -250,7 +250,7 @@ What is that? It Looks Like a horrible monster!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **pressups** | /pressups*/ | 字幕笔误；正字 **press-ups** | 低频 |
-| **pedais** | /ˈpɛdəlz/ | 字幕笔误；正字 **pedals** | 低频 |
-| **pedai** | /ˈpɛdəl/ | 字幕笔误；正字 **pedal** | 低频 |
-| **youii** | /youii*/ |  | 低频 |
+| **press-ups** | — | 俯卧撑（英式） | 低频 |
+| **pedals** | /ˈpɛdəlz/ | 脚踏板（复数） | 低频 |
+| **pedal** | /ˈpɛdəl/ | 脚踏板 | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |

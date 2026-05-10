@@ -159,7 +159,7 @@ You really had us fooied!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **iipstick** | /ˈlɪpˌstɪk/ | 字幕笔误；正字 **lipstick** | 低频 |
-| **fooied** | /fuld/ | 字幕笔误；正字 **fooled** | 低频 |
-| **snort** | /snɔrt/ | a disrespectful laugh | 低频、多义 |
-| **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
+| **lipstick** | /ˈlɪpˌstɪk/ | 口红 | 低频 |
+| **fooled** | /fuld/ | 骗了；上当 | 低频 |
+| **snort** | /snɔrt/ | （猪等）鼻息声；鼻哼一声 | 低频、多义 |
+| **muddy** | /ˈmədi/ | 满是泥的 | 低频、多义 |

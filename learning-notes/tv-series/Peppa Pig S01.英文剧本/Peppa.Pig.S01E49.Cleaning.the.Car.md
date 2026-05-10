@@ -170,8 +170,8 @@ Naughty, messy Mummy.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **poiishing** | /ˈpɑlɪʃɪŋ/ | 字幕笔误；正字 **polishing** | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **pigthis** | /pɪg ðɪs/ | 字幕笔误；正字 **pig this** | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **soapy** | /ˈsoʊpi/ | 圆滑的 | 低频 |
+| **polishing** | /ˈpɑlɪʃɪŋ/ | 擦亮；上光 | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **pig this** | /pɪg ðɪs/ | 这头猪（字幕碎片） | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **soapy** | /ˈsoʊpi/ | 多肥皂泡的 | 低频 |

@@ -158,8 +158,8 @@ Peppa loves fancy dress parties. Everyone loves fancy dress parties.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **shiver** | /ˈʃɪvər/ | a reflex motion caused by cold or fear or excitement | 低频 |
-| **mew** | /mju/ | the sound made by a cat (or any sound resembling this) | 低频 |
-| **goodie** | /ˈgʊdi/ |  | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **reflection** | /rɪˈflɛkʃən/ | a calm, lengthy, intent consideration | 多义、拼写 |
+| **shiver** | /ˈʃɪvər/ | 发抖；打哆嗦 | 低频 |
+| **mew** | /mju/ | （猫）喵喵叫 | 低频 |
+| **goodie** | /ˈgʊdi/ | 好东西；奖品（儿语） | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **reflection** | /rɪˈflɛkʃən/ | 倒影；反射 | 多义、拼写 |

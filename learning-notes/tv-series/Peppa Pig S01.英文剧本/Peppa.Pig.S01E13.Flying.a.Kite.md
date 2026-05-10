@@ -164,6 +164,6 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **muddier** | /ˈmədiər/ | 似沼泽的 | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
+| **muddier** | /ˈmədiər/ | 更脏、更多泥的 | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |

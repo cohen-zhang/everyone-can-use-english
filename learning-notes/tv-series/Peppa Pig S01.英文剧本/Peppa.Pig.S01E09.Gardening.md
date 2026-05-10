@@ -183,5 +183,5 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **gardening** | /ˈgɑrdənɪŋ/ | the cultivation of plants | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **gardening** | /ˈgɑrdənɪŋ/ | 园艺；打理花园 | 低频 |

@@ -180,12 +180,6 @@ Dinedine Sawsaw.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **sawtechdine** | /sawtechdine*/ |  | 低频、拼写 |
-| **dinedine** | /dinedine*/ |  | 低频 |
-| **welldine** | /welldine*/ |  | 低频 |
-| **sawdone** | /sawdone*/ |  | 低频 |
-| **sawtiff** | /sawtiff*/ |  | 低频 |
-| **dedine** | /dedine*/ |  | 低频 |
-| **sawsaw** | /sawsaw*/ |  | 低频 |
-| **suppertime** | /suppertime*/ | 晚餐时间 | 低频、拼写 |
-| **dinosaur** | /ˈdaɪnəˌsɔr/ | any of numerous extinct terrestrial reptiles of the Mesozo… | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频、拼写 |
+| **saw** | /sɔ/ | 看见（see 的过去式）；锯子 | 低频 |
+| **suppertime** | — | 晚饭时间 | 低频、拼写 |

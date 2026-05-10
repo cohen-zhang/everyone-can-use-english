@@ -202,10 +202,10 @@ This is the best school fete, ever!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **pussycat** | /ˈpʊsiˌkæt/ | a person who is regarded as easygoing and agreeable | 低频 |
-| **fete** | /feɪt/ | an elaborate party (often outdoors) | 低频 |
-| **purr** | /pər/ | a low vibrating sound typical of a contented cat | 低频 |
-| **gazelle** | /gəˈzɛl/ | 瞪羚 | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **bouncy** | /ˈbaʊnsi/ | elastic; rebounds readily | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **pussycat** | /ˈpʊsiˌkæt/ | 小猫咪（昵称） | 低频 |
+| **fete** | /feɪt/ | （户外）游园会；义卖会 | 低频 |
+| **purr** | /pər/ | （猫）呼噜声 | 低频 |
+| **gazelle** | /gəˈzɛl/ | 羚羊（瞪羚一类） | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **bouncy** | /ˈbaʊnsi/ | 有弹性；蹦跳的 | 低频 |

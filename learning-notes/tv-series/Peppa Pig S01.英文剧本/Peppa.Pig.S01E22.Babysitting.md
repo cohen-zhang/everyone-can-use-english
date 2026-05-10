@@ -160,11 +160,11 @@ And so are the big piggies!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **horticuiturist** | /ˌhɔrtɪˈkəlʧərɪst/ | 字幕笔误；正字 **horticulturist** | 低频、拼写 |
-| **gavesgate** | /gavesgate*/ |  | 低频 |
-| **iceiandic** | /aɪsˈlændɪk/ | 字幕笔误；正字 **Icelandic** | 低频 |
-| **dariings** | /ˈdɑrlɪŋz/ | 字幕笔误；正字 **darlings** | 低频 |
-| **iobbing** | /ˈlɑbɪŋ/ | 字幕笔误；正字 **lobbing** | 低频 |
-| **iopping** | /ˈlɑpɪŋ/ | 字幕笔误；正字 **lopping** | 低频 |
-| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
-| **babysitting** | /ˈbeɪbiˌsɪtɪŋ/ | the work of a baby sitter; caring for children when their … | 低频、拼写 |
+| **horticulturist** | /ˌhɔrtɪˈkəlʧərɪst/ | 园艺家 | 低频、拼写 |
+| **Gavesgate** | — | 加夫斯盖特（本集虚构／综艺式玫瑰品种名） | 低频 |
+| **Icelandic** | /aɪsˈlændɪk/ | 冰岛的；冰岛语 | 低频 |
+| **darlings** | /ˈdɑrlɪŋz/ | 亲爱的们 | 低频 |
+| **lobbing** | /ˈlɑbɪŋ/ | 高高甩出 | 低频 |
+| **lopping** | /ˈlɑpɪŋ/ | 砍剪 | 低频 |
+| **sleepy** | /sˈlipi/ | 困的 | 低频 |
+| **babysitting** | /ˈbeɪbiˌsɪtɪŋ/ | 临时照看小孩 | 低频、拼写 |

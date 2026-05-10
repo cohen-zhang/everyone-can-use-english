@@ -146,11 +146,11 @@ And I think our old car likes us,too.Don’t you?
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **doggoodbye** | /dɔg ˌgʊdˈbaɪ/ | 字幕笔误；正字 **dog goodbye** | 低频、拼写 |
-| **goodbyebye** | /ˌgʊdˈbaɪ baɪ/ | 字幕笔误；正字 **goodbye bye** | 低频、拼写 |
-| **garagehe** | /garagehe*/ |  | 低频 |
-| **pigyour** | /pɪg jʊr/ | 字幕笔误；正字 **pig your** | 低频 |
-| **carcan** | /carcan*/ |  | 低频 |
-| **toodon** | /toodon*/ |  | 低频 |
-| **yesbut** | /yesbut*/ |  | 低频 |
-| **arrhg** | /arrhg*/ |  | 低频 |
+| **dog goodbye** | /dɔg ˌgʊdˈbaɪ/ | 跟狗说再见（字幕碎片） | 低频、拼写 |
+| **goodbye bye** | /ˌgʊdˈbaɪ baɪ/ | 再见再见（儿语） | 低频、拼写 |
+| **garage** | /gərɑʒ/ | 车库；修车铺 | 低频 |
+| **pig your** | /pɪg jʊr/ | 你的猪（字幕碎片） | 低频 |
+| **car** | /kɑr/ | 汽车 | 低频 |
+| **too, don't you** | /tu, doʊnt ju/ | ……是吧？……对吗？（too, don't you 连写碎片） | 低频 |
+| **yes, but** | /jɛs, bət/ | 是的，但是（字幕碎片） | 低频 |
+| **argh** | /ɑrg/ | 啊！唉哟！（疼痛、懊恼叫声） | 低频 |

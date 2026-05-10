@@ -181,8 +181,8 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **fiipping** | /ˈflɪpɪŋ/ | 字幕笔误；正字 **flipping** | 低频 |
-| **hoopia** | /ˈhuˌplɑ/ | 字幕笔误；正字 **hoopla** | 低频 |
-| **teatime** | /teatime*/ | a light midafternoon meal of tea and sandwiches or cakes | 低频 |
-| **stirring** | /stərɪŋ/ | agitating a liquid with an implement | 低频、多义 |
-| **pancakes** | /ˈpænˌkeɪks/ | a flat cake of thin batter fried on both sides on a griddl… | 低频 |
+| **flipping** | /ˈflɪpɪŋ/ | 翻面；侧翻（语境：煎饼） | 低频 |
+| **hoopla** | /ˈhuˌplɑ/ | 喧闹；小题大作 | 低频 |
+| **teatime** | /ˈtiːˌtaɪm/ | 下午茶时间 | 低频 |
+| **stirring** | /stərɪŋ/ | 搅拌 | 低频、多义 |
+| **pancakes** | /ˈpænˌkeɪks/ | 煎饼；薄饼（复数） | 低频 |

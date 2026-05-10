@@ -152,8 +152,8 @@ I'm Peppa Pig This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **piggyinthemiddle** | /ˈpɪgi ɪn ðə ˈmɪdəl/ | 字幕笔误；正字 **piggy in the middle** | 低频、拼写 |
-| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
-| **tease** | /tiz/ | someone given to teasing (as by mocking or stirring curios… | 低频、多义 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **piggy** | /ˈpɪgi/ | 小猪 | 低频 |
+| **piggy in the middle** | /ˈpɪgi ɪn ðə ˈmɪdəl/ | 中间的小猪（游戏名） | 低频、拼写 |
+| **should** | /ʃʊd/ | 应该 | 低频 |
+| **tease** | /tiz/ | 逗弄；取笑；招惹 | 低频、多义 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **piggy** | /ˈpɪgi/ | 小猪（昵称） | 低频 |

@@ -210,6 +210,6 @@ I love muddy puddles.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **imago** | /imago*/ | (psychoanalysis) an idealized image of someone (usually a … | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **imago** | — | 成虫；（心理）理想化形象 | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |

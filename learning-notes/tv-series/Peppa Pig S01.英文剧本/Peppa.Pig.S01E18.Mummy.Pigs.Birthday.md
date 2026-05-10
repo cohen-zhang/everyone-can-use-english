@@ -197,6 +197,6 @@ And the most beautiful!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **iuckiest** | /ˈləkiəst/ | 字幕笔误；正字 **luckiest** | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **decorate** | /ˈdɛkərˌeɪt/ | make more attractive by adding ornament, colour, etc. | 低频 |
+| **luckiest** | /ˈləkiəst/ | 最幸运 | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **decorate** | /ˈdɛkərˌeɪt/ | 装饰 | 低频 |

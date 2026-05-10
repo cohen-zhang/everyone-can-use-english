@@ -159,5 +159,5 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **heii** | /hi/ | 字幕笔误；正字 **he** | 低频 |
-| **erm** | /erm*/ |  | 低频 |
+| **he** | /hi/ | 他 | 低频 |
+| **erm** | — | 呃……（迟疑） | 低频 |

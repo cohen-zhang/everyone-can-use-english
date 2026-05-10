@@ -165,9 +165,9 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **piaster** | /piaster*/ | a fractional monetary unit in Egypt and Lebanon and Sudan … | 低频 |
-| **rumbiing** | /ˈrəmbəlɪŋ/ | 字幕笔误；正字 **rumbling** | 低频 |
-| **iistens** | /ˈlɪsənz/ | 字幕笔误；正字 **listens** | 低频 |
-| **tickies** | /tickies*/ |  | 低频 |
-| **youii** | /youii*/ |  | 低频 |
-| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
+| **plaster** | /ˈplæstər/ | 灰泥；腻子（装修） | 低频 |
+| **rumbling** | /ˈrəmbəlɪŋ/ | 隆隆响 | 低频 |
+| **listens** | /ˈlɪsənz/ | 听（第三人称） | 低频 |
+| **tickles** | /ˈtɪkəlz/ | 挠痒痒；（第三人称）发痒 | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |
+| **cookie** | /ˈkʊki/ | 小甜饼；曲奇 | 低频 |

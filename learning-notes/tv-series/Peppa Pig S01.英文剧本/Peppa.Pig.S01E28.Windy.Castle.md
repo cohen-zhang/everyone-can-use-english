@@ -216,8 +216,7 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **mapreading** | /mæp ˈrɛdɪŋ/ | 字幕笔误；正字 **map reading** | 低频、拼写 |
-| **casties** | /ˈkæsəlz/ | 字幕笔误；正字 **castles** | 低频 |
-| **mapread** | /mæp ˈrɛdɪŋ/ | 字幕笔误；正字 **map reading** | 低频 |
-| **youii** | /youii*/ |  | 低频 |
-| **windy** | /ˈwɪndi/ | abounding in or exposed to the wind or breezes | 低频 |
+| **map reading** | /mæp ˈrɛdɪŋ/ | 读地图 | 低频、拼写 |
+| **castles** | /ˈkæsəlz/ | 城堡（复数） | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |
+| **windy** | /ˈwɪndi/ | 风大的；多风的 | 低频 |

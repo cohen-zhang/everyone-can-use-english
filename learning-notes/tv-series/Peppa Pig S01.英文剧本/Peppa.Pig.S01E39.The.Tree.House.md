@@ -186,6 +186,6 @@ Well, I still think that those are very silly secret Words.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
+| **cookie** | /ˈkʊki/ | 小甜饼；曲奇 | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **muddy** | /ˈmədi/ | 满是泥的 | 低频、多义 |

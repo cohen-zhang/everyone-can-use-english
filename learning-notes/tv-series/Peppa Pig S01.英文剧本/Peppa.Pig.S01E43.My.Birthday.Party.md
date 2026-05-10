@@ -228,11 +228,11 @@ Look! I just got a parcei in the post!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **heiper** | /ˈhɛlpər/ | 字幕笔误；正字 **helper** | 低频 |
-| **mistyo** | /ˈmɪsti/ | 字幕笔误；正字 **misty** | 低频 |
-| **parcei** | /ˈpɑrsəl/ | 字幕笔误；正字 **parcel** | 低频 |
-| **mazy** | /mazy*/ | 字幕笔误；正字 **mazy** | 低频 |
-| **abracadabra** | /ˌæbrəkəˈdæbrə/ | 胡言乱语 | 低频、拼写 |
-| **oclock** | /əˈklɑk/ | 字幕笔误；正字 **o'clock** | 低频 |
-| **mysterio** | /mysterio*/ |  | 低频 |
-| **shush** | /shush*/ | 用“嘘”声要求静下来 | 低频 |
+| **helper** | /ˈhɛlpər/ | 帮手 | 低频 |
+| **misty** | /ˈmɪsti/ | 有小雾的；朦胧的 | 低频 |
+| **parcel** | /ˈpɑrsəl/ | 包裹 | 低频 |
+| **mazy** | — | 迷宫似的；曲折的 | 低频 |
+| **abracadabra** | /ˌæbrəkəˈdæbrə/ | 变魔术时的咒语腔 | 低频、拼写 |
+| **o'clock** | /əˈklɑk/ | ……点钟 | 低频 |
+| **mysterious** | /mɪˈstɪriəs/ | 神秘的 | 低频 |
+| **shush** | — | 嘘！（让别人安静） | 低频 |

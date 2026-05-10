@@ -233,12 +233,11 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **booksheif** | /ˈbʊkˌʃɛlf/ | 字幕笔误；正字 **bookshelf** | 低频 |
-| **trycytops** | /ˌtraɪˈsɛrəˌtɔps/ | 字幕笔误；正字 **triceratops** | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **youii** | /youii*/ |  | 低频 |
-| **brontosaurus** | /ˌbrɔnəˈsɔrəs/ | 虚幻龙 | 低频、拼写 |
-| **triceratops** | /ˌtraɪˈsɛrəˌtɔps/ | huge ceratopsian dinosaur having three horns and the neck … | 低频、拼写 |
-| **tyrannosaurus** | /tɪrænəˈsɔrəs/ | large carnivorous bipedal dinosaur having enormous teeth w… | 低频、拼写 |
-| **untidy** | /ənˈtaɪdi/ | 不整洁的 | 低频 |
-| **tidying** | /tidying*/ | put (things or places) in order | 低频 |
+| **bookshelf** | /ˈbʊkˌʃɛlf/ | 书架 | 低频 |
+| **triceratops** | /ˌtraɪˈsɛrəˌtɔps/ | 三角龙 | 低频、拼写 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |
+| **brontosaurus** | /ˌbrɔnəˈsɔrəs/ | 雷龙（蜥脚类恐龙） | 低频、拼写 |
+| **tyrannosaurus** | /tɪrænəˈsɔrəs/ | 霸王龙 | 低频、拼写 |
+| **untidy** | /ənˈtaɪdi/ | 不整洁 | 低频 |
+| **tidying** | — | 收拾；整理 | 低频 |

@@ -192,8 +192,8 @@ And this is the real Daddy Pig.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **parcei** | /ˈpɑrsəl/ | 字幕笔误；正字 **parcel** | 低频 |
-| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
-| **frighten** | /ˈfraɪtən/ | 使害怕 | 低频 |
-| **daddys** | /ˈdædiz/ | 字幕笔误；正字 **daddy's** | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **parcel** | /ˈpɑrsəl/ | 包裹 | 低频 |
+| **cookie** | /ˈkʊki/ | 小甜饼；曲奇 | 低频 |
+| **frighten** | /ˈfraɪtən/ | 使害怕；吓到 | 低频 |
+| **daddy's** | /ˈdædiz/ | 爸爸的（所有格） | 低频 |

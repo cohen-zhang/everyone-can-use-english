@@ -32,12 +32,11 @@ Peppa, would you like tomatoes?** **P: Yes, Grandpa Pig.** **GPP: George, do you
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **garandpa** | /garandpa*/ |  | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **georgeg** | /ʤɔrʤ/ | 字幕笔误；正字 **George** | 低频 |
-| **hahhah** | /hahhah*/ |  | 低频 |
-| **peppap** | /peppap*/ |  | 低频 |
-| **tuckin** | /tuckin*/ |  | 低频 |
-| **granpa** | /granpa*/ |  | 低频 |
-| **gpp** | /gpp*/ |  | 低频 |
-| **gnp** | /gnp*/ | 国民生产总值 | 低频 |
+| **grandpa** | /ˈgrændˌpɑ/ | 爷爷；外公 | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **George** | /ʤɔrʤ/ | 乔治（角色名） | 低频 |
+| **ha-ha** | /ˌhɑˈhɑ/ | 哈哈（笑声） | 低频 |
+| **Peppa** | /ˈpɛpə/ | 佩奇（角色名） | 低频 |
+| **tuck in** | /tək ɪn/ | 开动吧；尽情吃（开餐用语） | 低频 |
+| **Grandpa Pig** | /ˈgrændˌpɑ pɪg/ | 猪爷爷（角色） | 低频 |
+| **Granny Pig** | /ˈgræni pɪg/ | 猪奶奶（角色） | 低频 |

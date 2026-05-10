@@ -199,12 +199,12 @@ You can be the children.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **sandcastie** | /ˈsændˌkæsəl/ | 字幕笔误；正字 **sandcastle** | 低频、拼写 |
-| **skinnylegs** | /ˈskɪni lɛgz/ | 字幕笔误；正字 **skinny legs** | 低频、拼写 |
-| **waterwings** | /ˈwɔtər wɪŋz/ | 字幕笔误；正字 **water wings** | 低频、拼写 |
-| **spiashing** | /ˈsplæʃɪŋ/ | 字幕笔误；正字 **splashing** | 低频 |
-| **beachbag** | /biʧ bæg/ | 字幕笔误；正字 **beach bag** | 低频 |
-| **casties** | /ˈkæsəlz/ | 字幕笔误；正字 **castles** | 低频 |
-| **toweis** | /taʊəlz/ | 字幕笔误；正字 **towels** | 低频 |
-| **paddie** | /ˈpædəlɪŋ/ | 字幕笔误；正字 **paddling** | 低频 |
-| **sunshade** | /ˈsʌnˌʃeɪd/ | 遮篷 | 低频 |
+| **sandcastle** | /ˈsændˌkæsəl/ | 沙堡 | 低频、拼写 |
+| **skinny legs** | /ˈskɪni lɛgz/ | 细腿儿（本集蜘蛛梗） | 低频、拼写 |
+| **water wings** | /ˈwɔtər wɪŋz/ | （学游泳用的）臂圈；浮力袖 | 低频、拼写 |
+| **splashing** | /ˈsplæʃɪŋ/ | 拍水；溅水 | 低频 |
+| **beach bag** | /biʧ bæg/ | 沙滩包 | 低频 |
+| **castles** | /ˈkæsəlz/ | 城堡（复数） | 低频 |
+| **towels** | /taʊəlz/ | 毛巾（复数） | 低频 |
+| **paddling** | /ˈpædəlɪŋ/ | （在浅水）蹬水玩；划水 | 低频 |
+| **sunshade** | /ˈsʌnˌʃeɪd/ | 遮阳伞；遮篷 | 低频 |

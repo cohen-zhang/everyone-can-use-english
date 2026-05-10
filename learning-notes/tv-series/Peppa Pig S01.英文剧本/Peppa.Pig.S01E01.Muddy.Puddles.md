@@ -129,6 +129,6 @@ This is Mummy Pig.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **puddles** | /ˈpədəlz/ | 水坑、泥坑（复数）；本集主题词 | 低频、多义 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **muddy** | /ˈmədi/ | 满是泥的 | 低频、多义 |
+| **puddles** | /ˈpədəlz/ | 水坑、泥坑（复数） | 低频、多义 |

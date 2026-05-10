@@ -226,10 +226,10 @@ I'm going to have a party!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **goodthat** | /gʊd ðət/ | 字幕笔误；正字 **good that** | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **pigetty** | /ˈpɪgi/ | 字幕笔误；正字 **piggy** | 低频 |
-| **meion** | /ˈmɛlən/ | 字幕笔误；正字 **melon** | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **crisp** | /krɪsp/ | 炸土豆片 | 低频、多义 |
-| **goody** | /ˈgʊdi/ | something considered choice to eat | 低频 |
+| **good that** | /gʊd ðət/ | 那样很好（字幕碎片） | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **piggy** | /ˈpɪgi/ | 小猪（昵称） | 低频 |
+| **melon** | /ˈmɛlən/ | 瓜；甜瓜 | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **crisp** | /krɪsp/ | （英式）炸薯片；脆的 | 低频、多义 |
+| **goody** | /ˈgʊdi/ | 糖果；好东西（儿语） | 低频 |

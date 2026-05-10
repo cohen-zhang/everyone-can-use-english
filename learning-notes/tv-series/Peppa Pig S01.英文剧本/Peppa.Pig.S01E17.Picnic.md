@@ -184,8 +184,8 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **picnicblanket** | /ˈpɪkˌnɪk ˈblæŋkɪt/ | 字幕笔误；正字 **picnic blanket** | 低频、拼写 |
-| **iemonade** | /ˈlɛməˈneɪd/ | 字幕笔误；正字 **lemonade** | 低频 |
-| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
+| **picnic blanket** | /ˈpɪkˌnɪk ˈblæŋkɪt/ | 野餐垫 | 低频、拼写 |
+| **lemonade** | /ˈlɛməˈneɪd/ | 柠檬水 | 低频 |
+| **sleepy** | /sˈlipi/ | 困的 | 低频 |
 | **scram** | /skræm/ | 滚开 | 低频 |
-| **picnic** | /ˈpɪkˌnɪk/ | a day devoted to an outdoor social gathering | 低频 |
+| **picnic** | /ˈpɪkˌnɪk/ | 野餐 | 低频 |

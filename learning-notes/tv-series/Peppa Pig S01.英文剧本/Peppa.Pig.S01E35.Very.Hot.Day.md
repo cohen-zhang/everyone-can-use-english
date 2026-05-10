@@ -216,11 +216,11 @@ But it's true!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **iceiolly** | /aɪs ˈlɑli/ | 字幕笔误；正字 **ice lolly** | 低频 |
-| **paddiing** | /ˈpædəlɪŋ/ | 字幕笔误；正字 **paddling** | 低频 |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
-| **meits** | /mɛlts/ | 字幕笔误；正字 **melts** | 低频 |
-| **oiiy** | /ˈɔɪli/ | 字幕笔误；正字 **oily** | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **yucky** | /ˈjəki/ | highly offensive; arousing aversion or disgust | 低频 |
+| **ice lolly** | /aɪs ˈlɑli/ | 冰棍（英式） | 低频 |
+| **paddling** | /ˈpædəlɪŋ/ | （在浅水）蹬水玩；划水 | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **should** | /ʃʊd/ | 应该 | 低频 |
+| **melts** | /mɛlts/ | 融化（动词第三人称/复数） | 低频 |
+| **oily** | /ˈɔɪli/ | 油乎乎的 | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **yucky** | /ˈjəki/ | 难吃；恶心（儿语） | 低频 |

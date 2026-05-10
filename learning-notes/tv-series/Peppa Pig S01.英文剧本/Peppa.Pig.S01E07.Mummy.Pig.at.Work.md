@@ -125,6 +125,6 @@ I'm Peppa Pig. This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **mend** | /mɛnd/ | 补丁 | 低频 |
-| **disturb** | /dɪˈstərb/ | 使不适 | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **mend** | /mɛnd/ | 修补；缝补 | 低频 |
+| **disturb** | /dɪˈstərb/ | 打扰 | 低频 |

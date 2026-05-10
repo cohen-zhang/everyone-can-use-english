@@ -125,7 +125,7 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **hiccupping** | /hiccupping*/ | 打嗝 | 低频、拼写 |
-| **beaker** | /ˈbikər/ | a flatbottomed jar made of glass or plastic; used for chem… | 低频 |
-| **hiccup** | /ˈhɪkəp/ | 呃逆 | 低频 |
-| **hiccups** | /ˈhɪkəps/ | 呃逆 | 低频 |
+| **hiccupping** | /ˈhɪkəpɪŋ/ | 打嗝（动词 -ing） | 低频、拼写 |
+| **beaker** | /ˈbikər/ | 烧杯；大口杯 | 低频 |
+| **hiccup** | /ˈhɪkəp/ | 打嗝 | 低频 |
+| **hiccups** | /ˈhɪkəps/ | 打嗝（名/动复） | 低频 |

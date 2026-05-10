@@ -153,9 +153,8 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **spolly** | /spolly*/ |  | 低频 |
-| **teatime** | /teatime*/ | a light midafternoon meal of tea and sandwiches or cakes | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **parrot** | /ˈpɛrət/ | usually brightly colored zygodactyl tropical birds with sh… | 低频 |
-| **polly** | /ˈpɑli/ |  | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **Polly** | /ˈpɑli/ | 波莉（鹦鹉名） | 低频 |
+| **teatime** | /ˈtiːˌtaɪm/ | 下午茶时间 | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **parrot** | /ˈpɛrət/ | 鹦鹉 | 低频 |

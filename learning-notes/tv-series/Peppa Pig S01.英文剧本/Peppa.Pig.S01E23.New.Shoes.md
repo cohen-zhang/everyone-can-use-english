@@ -168,10 +168,10 @@ If you jump in muddy puddles, you must wear your boots!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **wheeibarrow** | /ˈwilˌbɛroʊ/ | 字幕笔误；正字 **wheelbarrow** | 低频、拼写 |
-| **fiowerpots** | /flaʊər pɑts/ | 字幕笔误；正字 **flower pots** | 低频、拼写 |
-| **fiowerbed** | /flaʊər bɛd/ | 字幕笔误；正字 **flower bed** | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **draught** | /dræft/ | a serving of drink (usually alcoholic) drawn from a keg | 低频、多义 |
-| **pajama** | /pəˈʤɑmə/ | a pair of loose trousers tied by a drawstring around the w… | 低频 |
-| **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
+| **wheelbarrow** | /ˈwilˌbɛroʊ/ | 独轮手推车 | 低频、拼写 |
+| **flower pots** | /flaʊər pɑts/ | 花盆（复数） | 低频、拼写 |
+| **flower bed** | /flaʊər bɛd/ | 花坛 | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **draught** | /dræft/ | 穿堂风；通风气流（英式拼写） | 低频、多义 |
+| **pajama** | /pəˈʤɑmə/ | 睡衣（口语单数，常作 pajamas） | 低频 |
+| **muddy** | /ˈmədi/ | 满是泥的 | 低频、多义 |

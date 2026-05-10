@@ -74,7 +74,7 @@ P: Maybe I fell asleep just for a little bit, next time I will stay awake, and I
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **foodspaghetti** | /foodspaghetti*/ |  | 低频、拼写 |
-| **horray** | /hʊˈreɪ/ | 字幕笔误；正字 **hooray** | 低频 |
-| **snore** | /snɔr/ | the rattling noise produced when snoring | 低频 |
-| **shining** | /ˈʃaɪnɪŋ/ | the work of making something smooth and shiny by rubbing o… | 低频、多义 |
+| **food spaghetti** | /fud spəˈgɛti/ | 吃的意大利面（字幕粘连碎片） | 低频、拼写 |
+| **hooray** | /hʊˈreɪ/ | 好哇；万岁 | 低频 |
+| **snore** | /snɔr/ | 打鼾 | 低频 |
+| **shining** | /ˈʃaɪnɪŋ/ | 闪亮；发光；光辉 | 低频、多义 |

@@ -192,8 +192,8 @@ Hurray!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **bicycies** | /ˈbaɪsɪkəlz/ | 字幕笔误；正字 **bicycles**（自行车复数） | 低频、拼写 |
-| **peddiing** | /ˈpɛdəlɪŋ/ | 字幕笔误；正字 **pedaling**（美）/ **pedalling**（英，本剧更常用） | 低频、拼写 |
-| **tricycie** | /ˈtraɪsɪkəl/ | 字幕笔误；正字 **tricycle**（三轮车） | 低频、拼写 |
-| **stabilizer** | /ˈsteɪbəˌlaɪzər/ | （儿童车）辅助轮；英式拼写常作 **stabiliser** | 低频、拼写 |
-| **hurray** | /həˈreɪ/ | 好哇、万岁；忌读成首音节重读的 **/ˈhʌreɪ/** | 低频、易读错 |
+| **bicycles** | /ˈbaɪsɪkəlz/ | 自行车（复数） | 低频、拼写 |
+| **pedalling** | — | 蹬车；踩踏板（英式拼写，= pedaling） | 低频、拼写 |
+| **tricycle** | /ˈtrɪsɪkəl/ | 三轮车 | 低频、拼写 |
+| **stabilizer** | /ˈsteɪbəˌlaɪzər/ | （童车）辅助轮 | 低频、拼写 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频、易读错 |

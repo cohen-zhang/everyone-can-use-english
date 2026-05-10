@@ -178,14 +178,14 @@ SpIish, splash, spiosh, spiish!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **spiish** | /spiish*/ |  | 低频 |
-| **spiosh** | /spiosh*/ |  | 低频 |
-| **heii** | /hi/ | 字幕笔误；正字 **he** | 低频 |
-| **welldone** | /welldone*/ |  | 低频 |
-| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **splash** | /splæʃ/ | the sound like water splashing | 低频、多义 |
-| **soak** | /soʊk/ | 浸泡 | 低频、多义 |
-| **frighten** | /ˈfraɪtən/ | 使害怕 | 低频 |
-| **thunderstorm** | /ˈθəndərˌstɔrm/ | a storm resulting from strong rising air currents; heavy r… | 低频、拼写 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **splish** | — | （拟声）扑哧水声 | 低频 |
+| **splosh** | — | （拟声）哗啦 | 低频 |
+| **he** | /hi/ | 他 | 低频 |
+| **well done** | /wɛl dən/ | 干得好；（肉）全熟 | 低频 |
+| **cookie** | /ˈkʊki/ | 小甜饼；曲奇 | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **splash** | /splæʃ/ | 溅水；哗啦声 | 低频、多义 |
+| **soak** | /soʊk/ | 浸透；泡透 | 低频、多义 |
+| **frighten** | /ˈfraɪtən/ | 使害怕；吓到 | 低频 |
+| **thunderstorm** | /ˈθəndərˌstɔrm/ | 雷暴；雷雨 | 低频、拼写 |

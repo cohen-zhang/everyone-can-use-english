@@ -117,14 +117,13 @@ I am a beautiful swan!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **demipliernow** | /demipliernow*/ |  | 低频、拼写 |
-| **demiplier** | /demiplier*/ | 字幕笔误；正字 **demi-plié** | 低频 |
-| **jumppetit** | /jumppetit*/ |  | 低频 |
-| **hograce** | /hograce*/ |  | 低频 |
-| **daning** | /daning*/ |  | 低频 |
-| **jete** | /jete*/ | 字幕笔误；正字 **jeté** | 低频 |
-| **childen** | /ˈʧɪldrən/ | 字幕笔误；正字 **children** | 低频 |
-| **goodnow** | /ˈgʊdnoʊ/ |  | 低频 |
-| **byebye** | /byebye*/ |  | 低频 |
-| **hoopla** | /ˈhuˌplɑ/ | blatant or sensational promotion | 低频 |
+| **demi-plié** | — | （芭蕾）半蹲 | 低频、拼写 |
+| **petit saut** | — | （芭蕾）小跳 | 低频 |
+| **arms graceful** | /ɑrmz ˈgreɪsfəl/ | 双臂舒展、姿态优雅（芭蕾字幕碎片） | 低频 |
+| **dancing** | /ˈdænsɪŋ/ | 跳舞 | 低频 |
+| **jeté** | — | （芭蕾）小跳 | 低频 |
+| **children** | /ˈʧɪldrən/ | 孩子们 | 低频 |
+| **good now** | /gʊd naʊ/ | 这就对了；现在好了（字幕碎片） | 低频 |
+| **bye-bye** | /ˈbaɪˈbaɪ/ | 拜拜；再见 | 低频 |
+| **hoopla** | /ˈhuˌplɑ/ | 喧闹；小题大作 | 低频 |
 | **ballet** | /bæˈleɪ/ | 舞剧 | 低频 |

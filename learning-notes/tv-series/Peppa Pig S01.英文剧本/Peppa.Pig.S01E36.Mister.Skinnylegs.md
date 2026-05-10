@@ -209,9 +209,9 @@ On this boat, I'm the captain.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **skinnylegs** | /ˈskɪni lɛgz/ | 字幕笔误；正字 **skinny legs** | 低频、拼写 |
-| **lifejackets** | /laɪf ˈʤækɪts/ | 字幕笔误；正字 **life jackets** | 低频、拼写 |
-| **hearties** | /ˈhɑrtiz/ | 字幕笔误；正字 **hearties** | 低频 |
-| **braver** | /ˈbreɪvər/ | 勇敢的 | 低频 |
-| **teapot** | /ˈtiˌpɑt/ | pot for brewing tea; usually has a spout and handle | 低频 |
-| **mister** | /ˈmɪstər/ | a form of address for a man | 低频 |
+| **skinny legs** | /ˈskɪni lɛgz/ | 细腿儿（本集蜘蛛梗） | 低频、拼写 |
+| **life jackets** | /laɪf ˈʤækɪts/ | 救生衣 | 低频、拼写 |
+| **hearties** | /ˈhɑrtiz/ | （海盗口吻）兄弟们；伙计们 | 低频 |
+| **braver** | /ˈbreɪvər/ | 更勇敢 | 低频 |
+| **teapot** | /ˈtiˌpɑt/ | 茶壶 | 低频 |
+| **mister** | /ˈmɪstər/ | 先生（称呼） | 低频 |

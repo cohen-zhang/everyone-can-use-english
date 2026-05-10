@@ -154,4 +154,4 @@ I'm Peppa Pig. This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **siippers** | /sˈlɪpərz/ | 字幕笔误；正字 **slippers** | 低频 |
+| **slippers** | /sˈlɪpərz/ | 拖鞋 | 低频 |

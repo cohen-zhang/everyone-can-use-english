@@ -165,8 +165,7 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **acrodion** | /əˈkɔrdiən/ | 字幕笔误；正字 **accordion** | 低频 |
-| **couid** | /kʊd/ | 字幕笔误；正字 **could** | 低频 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
 | **accordion** | /əˈkɔrdiən/ | 手风琴 | 低频 |
+| **could** | /kʊd/ | 能（can 的过去式） | 低频 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
 | **instruments** | /ˈɪnstrəmənts/ | 仪器 | 多义、拼写 |

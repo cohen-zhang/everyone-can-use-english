@@ -163,13 +163,12 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **wriggie** | /wriggie*/ | 字幕笔误；正字 **wriggly** | 低频 |
-| **froggies** | /froggies*/ |  | 低频 |
-| **wriggly** | /wriggly*/ | moving in a twisting or snake-like or wormlike fashion | 低频 |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **froggy** | /froggy*/ |  | 低频 |
-| **burp** | /bərp/ | a reflex that expels gas noisily from the stomach through … | 低频 |
-| **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **frogs** | /frɑgz/ | 疥蛤蟆 | 低频 |
-| **worms** | /wərmz/ | 虫 | 低频 |
-| **butterflies** | /ˈbətərˌflaɪz/ | 蝴蝶 | 低频、拼写 |
+| **wriggly** | — | 扭来扭去的 | 低频 |
+| **froggies** | — | 小青蛙（昵称，复数） | 低频 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
+| **froggy** | — | 小青蛙（昵称） | 低频 |
+| **burp** | /bərp/ | 打嗝（儿语） | 低频 |
+| **muddy** | /ˈmədi/ | 满是泥的 | 低频、多义 |
+| **frogs** | /frɑgz/ | 青蛙（复数） | 低频 |
+| **worms** | /wərmz/ | 虫子（复数） | 低频 |
+| **butterflies** | /ˈbətərˌflaɪz/ | 蝴蝶（复数） | 低频、拼写 |

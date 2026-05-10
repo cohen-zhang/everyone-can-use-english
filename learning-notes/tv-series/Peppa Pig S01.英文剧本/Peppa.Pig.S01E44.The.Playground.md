@@ -216,4 +216,4 @@ I am the DIY expert of the house.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **playground** | /ˈpleɪˌgraʊnd/ | an area where many people go for recreation | 低频、拼写 |
+| **playground** | /ˈpleɪˌgraʊnd/ | 游乐场；操场 | 低频、拼写 |

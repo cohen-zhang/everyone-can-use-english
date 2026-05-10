@@ -140,6 +140,6 @@ P: Granny, Grandp, this is the best treasure hunt ever.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **mihateeze** | /mihateeze*/ |  | 低频 |
-| **huray** | /huray*/ |  | 低频 |
-| **ohayo** | /ohayo*/ |  | 低频 |
+| **might as well** | /maɪt ɛz wɛl/ | 倒不如；不妨 | 低频 |
+| **hooray** | /hʊˈreɪ/ | 好哇；万岁 | 低频 |
+| **ohayo** | — | 你好／早（日语腔，非规范拼写） | 低频 |

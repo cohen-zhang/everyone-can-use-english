@@ -207,7 +207,7 @@ I love camping!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **rumbiing** | /ˈrəmbəlɪŋ/ | 字幕笔误；正字 **rumbling** | 低频 |
-| **snore** | /snɔr/ | the rattling noise produced when snoring | 低频 |
-| **chirp** | /ʧərp/ | a sharp sound made by small birds or insects | 低频 |
-| **peg** | /pɛg/ | a wooden pin pushed or driven into a surface | 低频、多义 |
+| **rumbling** | /ˈrəmbəlɪŋ/ | 隆隆响 | 低频 |
+| **snore** | /snɔr/ | 打鼾 | 低频 |
+| **chirp** | /ʧərp/ | （鸟）啁啾；叽喳叫 | 低频 |
+| **peg** | /pɛg/ | 木栓；钉；（帐篷）地钉 | 低频、多义 |

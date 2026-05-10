@@ -127,6 +127,5 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **snowbaii** | /sˈnoʊˌbɔl/ | 字幕笔误；正字 **snowball** | 低频 |
-| **snowball** | /sˈnoʊˌbɔl/ | plant having heads of fragrant white trumpet-shaped flower… | 低频、多义 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
+| **snowball** | /sˈnoʊˌbɔl/ | 雪球 | 低频、多义 |
+| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |

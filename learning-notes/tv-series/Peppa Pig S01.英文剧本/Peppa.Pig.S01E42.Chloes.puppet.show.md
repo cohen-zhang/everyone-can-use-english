@@ -235,9 +235,9 @@ and one and two
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
-| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
-| **everyway** | /ˈɛvəri weɪ/ | 字幕笔误；正字 **every way** | 低频 |
-| **snore** | /snɔr/ | the rattling noise produced when snoring | 低频 |
-| **chloes** | /kloʊiz/ | 字幕笔误；正字 **Chloe's** | 低频 |
-| **puppet** | /ˈpəpɪt/ | a small figure of a person operated from above with string… | 低频 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
+| **should** | /ʃʊd/ | 应该 | 低频 |
+| **every way** | /ˈɛvəri weɪ/ | 各方面 | 低频 |
+| **snore** | /snɔr/ | 打鼾 | 低频 |
+| **Chloe's** | /kloʊiz/ | 克洛伊的（所有格） | 低频 |
+| **puppet** | /ˈpəpɪt/ | 木偶 | 低频 |

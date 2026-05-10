@@ -116,6 +116,6 @@ N: Peppa and Chloe love jumping up and down in muddy puddles. Everyone loves jum
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
+| **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
 | **grownup** | /ˈgroʊˌnəp/ | 大人 | 低频 |
-| **chloe** | /kloʊi/ |  | 低频 |
+| **chloe** | /kloʊi/ | 克洛伊（角色名） | 低频 |

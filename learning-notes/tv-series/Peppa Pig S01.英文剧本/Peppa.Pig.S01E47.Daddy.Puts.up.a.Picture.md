@@ -178,6 +178,6 @@ Shhhhh! Peppa, don't tell anyone!
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **piaster** | /piaster*/ | a fractional monetary unit in Egypt and Lebanon and Sudan … | 低频 |
-| **youii** | /youii*/ |  | 低频 |
-| **craftsman** | /ˈkræftsmən/ | a professional whose work is consistently of high quality | 低频 |
+| **plaster** | /ˈplæstər/ | 灰泥；腻子（装修） | 低频 |
+| **you** | /ju/ | 你；你们 | 低频 |
+| **craftsman** | /ˈkræftsmən/ | 工匠 | 低频 |

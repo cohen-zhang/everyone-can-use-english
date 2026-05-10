@@ -100,10 +100,10 @@ Grandma is at home. (Dingdong, the doorbell rings.) But who is it visit her?** *
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **gazzelle** | /gəˈzɛl/ | 字幕笔误；正字 **gazelle** | 低频 |
-| **rabbitrr** | /ˈræbɪt/ | 字幕笔误；正字 **rabbit** | 低频 |
-| **scarrier** | /ˈskɛriər/ | 字幕笔误；正字 **scarier** | 低频 |
-| **georgeg** | /ʤɔrʤ/ | 字幕笔误；正字 **George** | 低频 |
-| **peppap** | /peppap*/ |  | 低频 |
-| **photoes** | /ˈfoʊˌtoʊz/ | 字幕笔误；正字 **photos** | 低频 |
-| **goona** | /ˈgɑnə/ | 字幕笔误；正字 **gonna** | 低频 |
+| **gazelle** | /gəˈzɛl/ | 羚羊（瞪羚一类） | 低频 |
+| **rabbit** | /ˈræbɪt/ | 兔子 | 低频 |
+| **scarier** | /ˈskɛriər/ | 更吓人 | 低频 |
+| **George** | /ʤɔrʤ/ | 乔治（角色名） | 低频 |
+| **Peppa** | /ˈpɛpə/ | 佩奇（角色名） | 低频 |
+| **photos** | /ˈfoʊˌtoʊz/ | 照片（复数） | 低频 |
+| **gonna** | /ˈgɑnə/ | 将要（口语，= going to） | 低频 |
