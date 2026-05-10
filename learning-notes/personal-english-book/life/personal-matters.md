@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 个人事务表达
+---
 # 个人工作事务 Personal Work Matters
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 1) 近期要点 Recent Key Points
 

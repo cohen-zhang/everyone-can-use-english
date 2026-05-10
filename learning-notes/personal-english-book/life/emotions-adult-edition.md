@@ -3,11 +3,15 @@ tags:
   - topic/emotions
   - english-learning
   - audience/adult
+  - personal-english-book
+  - peb/life
 aliases:
+  - 情绪 — 成人版
   - 情绪成人版
 ---
-
 # 情绪 — 成人版
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 参考 Apple Health 情绪追踪分类，覆盖工作与夫妻生活场景的情绪表达。
 

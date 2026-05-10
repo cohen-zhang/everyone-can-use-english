@@ -1,4 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 音标工程师速查
+---
 # 音标速查手册 —— Engineer Phonetics Quick Reference
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**相关：** [[learning-notes/personal-english-book/study/phonetics-input-guide|音标输入指南]] — 输入与排版说明；与此篇 **相向互链**。
 
 #phonetics #english-learning #engineer-reference #pronunciation #音标 #发音 #英语学习
 

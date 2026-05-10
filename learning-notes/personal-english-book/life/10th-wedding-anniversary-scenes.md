@@ -1,4 +1,17 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 结婚十周年场景英语
+---
 # 10th Wedding Anniversary Scenes & Expressions | 结婚十周年场景英语表达
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**相关（情歌用语 · 相向互链）：** [[learning-notes/personal-english-book/life/romantic-expressions|浪漫情歌集]] — 约会叙事与歌词体英语。
+
+**相关（夸奖与祝福 · 相向互链）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 剧中原句：**外貌、能力、品格**类夸奖与**节日祝福**；可与本文纪念场景、情话表达**对照练习**。
 
 > For 阿泽 (泽哥) — 用英文表达爱，比中文更容易开口 ❤️  
 > 10 years together. Time to celebrate with words, surprises, and family moments.

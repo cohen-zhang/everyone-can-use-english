@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 小区生活与物业沟通英语
+---
 # 小区生活管家 · 英文文案备忘
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 物业 / 管家微信群常用语的中英对照，便于复制或改写成正式英文通知。
 

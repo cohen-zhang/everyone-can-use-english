@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 安迪·沃霍尔主题笔记
+---
 # Andy Warhol（安迪·沃霍尔）
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 中英文简介
 

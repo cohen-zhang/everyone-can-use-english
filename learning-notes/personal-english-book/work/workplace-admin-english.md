@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 行政与办公场景表达
+---
 # Jeff 的一天
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 即将到上班时间，请及时打卡呦！
 It's almost time to start work, please punch in promptly!

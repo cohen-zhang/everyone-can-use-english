@@ -5,6 +5,10 @@
 
 **Obsidian：** [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 学习索引]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]。
 
+**日常句库（扩展）：** [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases|夸奖、赞美小朋友 — 亲子日常英文]] — 按 **日常行为 / 学习 / 礼貌 / 外貌衣着 / 内心** 分块的实用句；本篇为剧台词摘录，彼篇为跨场景句式，**相向互链** 对照用。
+
+**夫妻 / 纪念日（成人 · 相向互链）：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 长期关系中**爱、赞美与纪念**的口语/书面句，可与本篇「外貌/能力/品格」夸奖及祝福**对照**。
+
 ---
 
 ## 一、夸奖、赞美 / Compliments

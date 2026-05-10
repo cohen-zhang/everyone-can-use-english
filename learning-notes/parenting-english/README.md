@@ -25,6 +25,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 地铁出行
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine.md|不多的一天（上）]] — 一日流记录
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2.md|不多的一天（下）]] — 一日流记录续
+- [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心
 - [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases.md|手机日常]] — 手机、专注相关
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]] — 穿衣、天气
 - [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|餐桌礼仪]] — 吃饭规矩
@@ -80,10 +81,9 @@ aliases:
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md|Jeff 演示风格指南]] — 跟读材料
 - [[learning-notes/parenting-english/reference-guides/parenting-oral-english-teaching-guide-9yo.md|口语教学参考（9 岁）]] — 教学对比
 
----
-
 ## 跨文件夹主题入口
 
+- **个人英文材料书（成人主题 MOC）：** [[learning-notes/personal-english-book/README|个人英文材料书索引]] — 生活 / 工作 / 学习分区与 `peb/*` tags。
 - **情绪（成人版对照）**：[[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ 本目录 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|亲子情绪]]
 - **美剧「吃饭」亲子句**：[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|摩登家庭 · 吃 / Eat]] ↔ [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]]
 - **Peppa 第一季剧本**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README.md|Peppa Pig S01 README]]

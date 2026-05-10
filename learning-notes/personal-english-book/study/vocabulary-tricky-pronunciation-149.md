@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 易读错词汇 149
+---
 # 注意读音词汇表 —— Tricky Pronunciation Vocabulary (149 Words)
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 #phonetics #vocabulary #pronunciation #tricky-words #word-list #音标 #易错读音
 

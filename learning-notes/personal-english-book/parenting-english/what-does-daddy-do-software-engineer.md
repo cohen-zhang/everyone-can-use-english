@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/parenting
+aliases:
+  - 爸爸是软件工程师（亲子说明）
+---
 # 爸爸是做什么的？What Does Daddy Do?
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 给 不多 / Celine 的温馨解释 A Warm Explanation for Celine
 

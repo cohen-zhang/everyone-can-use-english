@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 有趣的计算机专业词汇
+---
 # 有趣的计算机专业单词 Interesting Computer Science Vocabulary
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 基础工具篇 Basic Tools
 

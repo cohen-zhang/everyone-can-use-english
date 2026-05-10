@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - IDEA 编辑器介绍视频脚本
+---
 # IntelliJ IDEA — Video script (developer voice, English)
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > **Use:** Read aloud or teleprompter. Pauses marked with `/`. Casual, not a manual.
 

@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 出差场景表达
+---
 # 出差 · Business trip
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 工作群、出差与宿舍相关的口语/书面语备忘。**中文为原文大意，英文为参考译文**（已按自然商务英语略作润色；若与你们公司固定说法不一致，以内部用语为准）。
 

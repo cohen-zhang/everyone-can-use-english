@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 天气场景表达
+---
 # Weather — 天气
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 日常聊天气、看 **Weather**（天气）应用、带娃出门前的几句英文，都在这里对照练习。
 

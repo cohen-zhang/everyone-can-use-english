@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 金融系统问题梳理
+---
 # 金融英语 · 并行清算问题梳理（工作 IM）
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ---
 

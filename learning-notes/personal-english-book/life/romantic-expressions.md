@@ -1,4 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 浪漫情歌集
+---
 # Romantic Song Collection 浪漫情歌集
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**相关：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 纪念日与长期关系口语（与此篇 **相向互链**）。
 
 > For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌

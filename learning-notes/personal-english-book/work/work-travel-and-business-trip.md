@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 工作出行与出差表达
+---
+# 工作出行与出差表达
 
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 司机已接单
 灰色 比亚迪·秦PLUS 粤BCH2557，司机正在全力前往XX花园-西南门接驾

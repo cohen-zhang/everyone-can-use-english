@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 股票与商品经纪笔记
+---
 # A Stock and Commodity Broker — Interview notes (English)
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > 证券从业者的简短访谈整理；原文为口语实录，已按问答分行排版。
 

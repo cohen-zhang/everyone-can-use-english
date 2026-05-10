@@ -1,4 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+  - topic/shenzhen-home
+aliases:
+  - 主卧套间常见物品（英）
+---
 # 主卧（夫妻）· Master bedroom with en-suite（深圳商品房）
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 本页在做什么
 

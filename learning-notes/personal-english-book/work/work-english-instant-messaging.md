@@ -1,3 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 工作 IM 沟通英语
+---
+# 工作 IM 沟通英语
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+
 ## 研发流程周期
 
 14:30–16:30 **vX.Y.Z** 需求内部宣讲  

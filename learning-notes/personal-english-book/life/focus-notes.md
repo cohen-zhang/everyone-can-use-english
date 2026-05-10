@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 专注与注意力笔记
+---
 # 如何拥有更多专注时间 How to Have More Focused Hours in Your Day
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 文章来源 Source
 

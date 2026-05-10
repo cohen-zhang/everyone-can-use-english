@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 自我介绍学习笔记
+---
 # 自我介绍学习笔记 Self-Introduction Notes
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 参考资源 Reference
 

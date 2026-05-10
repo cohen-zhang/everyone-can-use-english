@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/system-design
+aliases:
+  - 对冲交易平台 BOS 概要设计
+---
 # Summary Design of [Hedging Trading System]\_[系统名称]
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 
 
@@ -3009,6 +3019,3 @@ To be confirmed
 5. t\_securities是否弃用
 
 6. Whether \<t\_securities> is deprecated
-
-
-

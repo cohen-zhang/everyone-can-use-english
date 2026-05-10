@@ -1,3 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 研发流程表达
+---
+# 研发流程表达
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+
 ## 研发流程检查清单（演示日）
 
 ### 1) 环境准备 Environment Setup
@@ -62,4 +74,3 @@ Verify forced-cancellation marker field displays correctly.
 Verify the "next designated transaction" flow.
   我搞个初稿出来
    I'll come up with a first draft.
-

@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+aliases:
+  - 健身场景表达
+---
 # Fitness — 健身
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；术语表与器材表放在后半部分作查阅。**泽哥**带娃去公园或看 iPhone 上的健康数据时，可以直接念英文句。
 

@@ -39,6 +39,6 @@ python3 learning-notes/tv-series/modern-family/s01/notes/scripts/build-modern-fa
 
 ## 另见
 
-- 主题向亲子摘录：**[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat]]** · **[[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|夸奖与祝福]]**（均链回本索引与 [[learning-notes/tv-series/modern-family/s01/transcript/README.md|字幕目录]]）。
+- 主题向亲子摘录：**[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat]]** · **[[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|夸奖与祝福]]**（均链回本索引与 [[learning-notes/tv-series/modern-family/s01/transcript/README.md|字幕目录]]）；夸奖主题另见日常扩展 **[[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友 — 亲子日常英文]]**。
 - 手写精编（夏威夷机场主题示例）：[[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-daily-lines.md|S01E22 精编版]]（可与同集 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e22-daily-lines.md|自动抽取版]] 对照）。
 

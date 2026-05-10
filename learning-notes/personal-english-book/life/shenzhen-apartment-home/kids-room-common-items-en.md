@@ -1,4 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/life
+  - topic/shenzhen-home
+aliases:
+  - 儿童房常见物品（英）
+---
 # 儿童房常见物品 · Kids’ room（深圳商品房）
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 本页在做什么
 

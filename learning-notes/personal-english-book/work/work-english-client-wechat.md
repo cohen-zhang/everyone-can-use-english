@@ -1,3 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 客户侧微信沟通英语
+---
+# 客户侧微信沟通英语
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+
 约定个时间点，更新后，龙哥在群里通知下
 Let's set a time point. After the update, Brother Long should notify in the group
 

@@ -1,3 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - 飞书组织会议表达
+---
+# 飞书组织会议表达
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 Organizing a Meeting via Feishu
 

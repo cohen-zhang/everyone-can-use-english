@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/work
+aliases:
+  - Do not go gentle into that good night
+---
 # Do Not Go Gentle Into That Good Night — 《不要温顺地走进那个良夜》
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > **Note** — 狄兰·托马斯（Dylan Thomas, 1914–1953）写于父亲病重期间；常被引用为「不向终结低头」的宣言。下面副标题可作你个人的阅读锚点：  
 > **致步入 AI 时代的工程师** — 别在巨变面前只做温顺的旁观者。

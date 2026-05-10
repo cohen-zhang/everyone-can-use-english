@@ -1,4 +1,15 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 音标输入指南
+---
 # 音标输入指南 —— Phonetics Input Guide for Engineers
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**相关：** [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference|音标工程师速查]] — 速查表与此篇 **相向互链**。
 
 #phonetics #input-method #tools #markdown #音标输入 #工程师工具
 

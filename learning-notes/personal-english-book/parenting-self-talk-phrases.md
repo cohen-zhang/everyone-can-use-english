@@ -1,5 +1,14 @@
-
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/parenting
+aliases:
+  - 家长自说自话用语
+---
 # Self Talk (咒语)
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 概念来源 Concept Origins
 
@@ -44,5 +53,3 @@ I always sit and stand properly, because if I slouch or sit crookedly, I’ll lo
 
 
 我是每天起床都要锻炼 3 分钟的人
-
-

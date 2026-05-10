@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - Java 开发者工作日记
+---
 # A Java Developer’s Work Diary — Video script (English)
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > **Tone:** One dev talking to the camera — not a novel. Pauses: `/`
 

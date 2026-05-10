@@ -1,4 +1,14 @@
+---
+tags:
+  - personal-english-book
+  - english-learning
+  - peb/study
+aliases:
+  - 英文学习日志
+---
 # English Journal - 英语学习日记 / Positive Feedback Record
+
+**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > **核心理念 Core Philosophy**: 输出！输出！输出！ Output! Output! Output!
 
