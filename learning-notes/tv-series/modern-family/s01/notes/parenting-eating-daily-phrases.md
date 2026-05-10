@@ -3,7 +3,7 @@
 > 来源：《摩登家庭》第一季  
 > 适合场景：与 不多/Celine 讨论吃饭相关话题
 
-**Obsidian：** [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 学习索引]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]。
+**Obsidian：** [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物 — 亲子英文]]（与此页 **相向互链**）· [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 学习索引]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]。
 
 ---
 

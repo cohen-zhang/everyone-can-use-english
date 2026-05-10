@@ -1,5 +1,7 @@
 # 动物猜猜猜游戏记录（Guess-Guess Animals）
 
+**相关（Obsidian · 相向互链）：** 总词表与猜谜提示列 — [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词（Animal vocabulary）]]。
+
 ## 游戏英文名
 
 **Guess-Guess Animals** — 亲子「你说我猜」动物版；名字里的 *guess-guess* 对应中文「猜猜猜」的叠字感，好记、好念。

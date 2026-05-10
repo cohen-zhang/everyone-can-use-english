@@ -2,6 +2,8 @@
 
 按中国家庭高频食材整理，兼顾买菜、做饭、点外卖、孩子表达口味。`亲子`
 
+**相关（Obsidian · 相向互链）：** 美剧台词向「吃饭」亲子句 — [[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat（摩登家庭 S01）]]。
+
 ---
 
 ## 1. 主食与常见正餐 — Staples & Common Meals
@@ -62,6 +64,7 @@
 - **eggplant / aubergine (UK)** 茄子  
 - **potato** 土豆  
 - **carrot** 胡萝卜  
+- **corn (sweet corn) / maize** 玉米（甜玉米、玉米粒；整根常说 **corn on the cob** 玉米棒）  
 - **onion** 洋葱  
 - **garlic** 大蒜  
 - **ginger** 生姜  
@@ -77,6 +80,10 @@
   请尝一口西兰花。`亲子`
 - **This dish has carrot and egg.**  
   这道菜有胡萝卜和鸡蛋。`亲子`
+- **We can boil corn on the cob, or cut the kernels off for fried rice.**  
+  玉米可以整根煮，也可以切粒做炒饭。`亲子`
+- **The corn on the cob is hot. Blow on it first.**  
+  玉米棒很烫，先吹一吹再吃。`亲子`
 
 ---
 
@@ -135,6 +142,7 @@
 - **persimmon** 柿子  
 - **pomelo** 柚子  
 - **pineapple** 菠萝  
+- **durian** 榴莲  
 
 常用句：
 
@@ -144,6 +152,8 @@
   苹果要切片吗？`亲子`
 - **Too much lychee can make you feel hot. Let’s have just a few.**  
   荔枝吃多了容易上火，我们少吃一点。`亲子`
+- **Durian smells strong. Try a tiny bite if you’re curious.**  
+  榴莲气味很重，好奇的话只试一小口。`亲子`
 
 ---
 

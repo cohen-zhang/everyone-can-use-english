@@ -24,18 +24,18 @@
 
 ## 1. 不发音字母 Silent Letters
 
-| 序号 | 单词 | 音标 | 释义 | 不发音字母 | 发音提示 |
-|-----|------|------|------|-----------|---------|
-| 1 | **comb** | /koʊm/ | n. 梳子；梳理 v. 梳，梳理 | **b** | Silent `b` — 词尾 mb 组合 |
-| 2 | **debt** | /det/ | n. 债务；借款 | **b** | Silent `b` — 源自拉丁语 debitum |
-| 3 | **dumb** | /dʌm/ | adj. 哑的，无说话能力的 | **b** | Silent `b` — 词尾 mb 组合 |
-| 4 | **foreigner** | /ˈfɔːrənər/ | n. 外国人；外人 | **g** | Silent `g` — foreign + er |
-| 5 | **psychology** | /saɪˈkɑːlədʒi/ | n. 心理；心理学 | **p** | Silent `p` — 希腊词源 ps- |
-| 6 | **knapsack** | /ˈnæpsæk/ | n. 背包 | **k** | Silent `k` — 词首 kn- 组合 |
-| 7 | **cupboard** | /ˈkʌbərd/ | n. 食橱；碗柜 | **p** | Silent `p` — 注意读作 /ˈkʌbərd/ |
-| 8 | **mortgage** | /ˈmɔːrɡɪdʒ/ | n./vt. 抵押 | **t** | Silent `t` — 法语借词 |
-| 9 | **vehicle** | /ˈviːəkl/ | n. 车辆；交通工具 | **h** | Silent `h` — 读作 /ˈviːəkl/ |
-| 10 | **rhyme** | /raɪm/ | n. 韵脚；韵律 | **h** | Silent `h` — 同 rime |
+| 序号  | 单词             | 音标             | 释义               | 不发音字母 | 发音提示                        |
+| --- | -------------- | -------------- | ---------------- | ----- | --------------------------- |
+| 1   | **comb**       | /koʊm/         | n. 梳子；梳理 v. 梳，梳理 | **b** | Silent `b` — 词尾 mb 组合       |
+| 2   | **debt**       | /det/          | n. 债务；借款         | **b** | Silent `b` — 源自拉丁语 debitum  |
+| 3   | **dumb**       | /dʌm/          | adj. 哑的，无说话能力的   | **b** | Silent `b` — 词尾 mb 组合       |
+| 4   | **foreigner**  | /ˈfɔːrənər/    | n. 外国人；外人        | **g** | Silent `g` — foreign + er   |
+| 5   | **psychology** | /saɪˈkɑːlədʒi/ | n. 心理；心理学        | **p** | Silent `p` — 希腊词源 ps-       |
+| 6   | **knapsack**   | /ˈnæpsæk/      | n. 背包            | **k** | Silent `k` — 词首 kn- 组合      |
+| 7   | **cupboard**   | /ˈkʌbərd/      | n. 食橱；碗柜         | **p** | Silent `p` — 注意读作 /ˈkʌbərd/ |
+| 8   | **mortgage**   | /ˈmɔːrɡɪdʒ/    | n./vt. 抵押        | **t** | Silent `t` — 法语借词           |
+| 9   | **vehicle**    | /ˈviːəkl/      | n. 车辆；交通工具       | **h** | Silent `h` — 读作 /ˈviːəkl/   |
+| 10  | **rhyme**      | /raɪm/         | n. 韵脚；韵律         | **h** | Silent `h` — 同 rime         |
 
 ---
 
