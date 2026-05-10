@@ -402,7 +402,9 @@
 | **T-shirt** | T 恤 | Put on your T-shirt. 穿上你的 T 恤。 |
 | **long-sleeved shirt** / **long sleeves** | 长袖（上衣） | Wear long sleeves on cooler mornings. 凉快的早上穿长袖。 |
 | **shorts** | 短裤 | Shorts are good for hot days. 热天穿短裤合适。 |
-| **pants** | 裤子 | These pants are too long. 这条裤子太长了。 |
+| **pants** / **trousers** | 裤子（外裤；英式日常更常说 *trousers*，美式多用 *pants*） | These pants are too long. / These trousers are too long. 这条裤子太长了。 |
+| **jeans** | 牛仔裤 | Your jeans have a hole in the knee. 牛仔裤膝盖那儿破了个洞。 |
+| **slacks** | 正装长裤 / 西裤式样长裤（略正式；口语也常叫 *dress pants*） | These slacks are neat for photo day. 拍证件照／活动照这条长裤穿起来很体面。 |
 | **dress** | 连衣裙 | This dress is beautiful. 这条裙子很漂亮。 |
 | **skirt** | 半身裙 | Do you want to wear a skirt? 你想穿裙子吗？ |
 | **underwear** | 内衣裤 | Put on clean underwear. 穿干净内衣裤。 |

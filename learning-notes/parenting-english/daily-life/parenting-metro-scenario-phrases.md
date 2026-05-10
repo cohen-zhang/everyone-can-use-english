@@ -45,7 +45,7 @@
 | **Next station: …** | 下一站：…… | |
 | **Origin station** / **Starting station** | 起点站 | 始发站；与 *Terminal* 相对；屏上偶见 *Departure* |
 | **Doors open on the right / left** | 开右侧门 / 左侧门 | 到站前广播 |
-| **Terminal** / **Terminus** `/ˈtɜːmɪnəs/`（美 `/ˈtɜːrmɪnəs/`） | 终点站 | 此线尽头 |
+| **Terminus** `/ˈtɜːmɪnəs/`（美 `/ˈtɜːrmɪnəs/`）/ **Terminal**  | 终点站 | 此线尽头 |
 | **Out of service** | 暂停服务 / 停用 | 电梯、出口等 |
 
 ---
@@ -58,28 +58,28 @@
 
 | English（常见说法） | 简中 | 备注 `亲子` |
 | --- | --- | --- |
-| **Welcome aboard Shenzhen Metro Line …** | 欢迎您乘坐深圳地铁……号线 | 上车后首段欢迎语 |
+| **Welcome aboard Shenzhen Metro Line …** | 欢迎您乘坐深圳地铁……号线 | 上车后首段欢迎语；例：*Welcome aboard Shenzhen Metro Line 14* |
 | **Thank you for traveling with Shenzhen Metro.** | 感谢您乘坐深圳地铁。 | 到站或离站致谢 |
-| **This train is bound for …** / **bound for …** | 本列车开往…… | 与屏上终点站一致 |
-| **The terminating station is …** / **This train terminates at …** | 本次列车的终点站为…… / 本线终点站为…… | 有的版本更口语用 *terminates* |
-| **This service starts from …** / **The train departs from …** | 本线从……站始发 / 起点站为…… | 与「起点站」屏、时刻表对应 |
+| **This train is bound for …** / **bound for …** | 本列车开往…… | 与屏上终点站一致；14号线例：*bound for Shatian*（开往沙田） |
+| **The terminating station is …** / **This train terminates at …** | 本次列车的终点站为…… / 本线终点站为…… | 有的版本更口语用 *terminates*；14号线两端：*Gangxia North* / *Shatian* |
+| **This service starts from …** / **The train departs from …** | 本线从……站始发 / 起点站为…… | 与「起点站」屏、时刻表对应；14号线始发：*Gangxia North*（岗厦北） |
 
 ### 到站预告与换乘
 
 | English | 简中 | 备注 `亲子` |
 | --- | --- | --- |
-| **The next station is …** | 下一站…… | 与车内屏、广播同步 |
-| **… is an interchange station for Line … and Line …** | …站可换乘……号线与……号线 | 多线换乘会念全 |
-| **Passengers going to … please prepare to get off.** | 前往……的乘客请准备下车 | 大站或枢纽前常见 |
-| **We are arriving at …** | 列车即将到达…… | 也有的用 *approaching* |
-| **Next station, …. Please exit in the direction indicated above this door.** | 下一站……请按本车门上方指示方向下车。 | 报站+「门灯/箭头」提示；站名随线替换（如录播里的 *Qinghu*） |
-| **Please transfer there for Line … and Shenzhen North Railway Station.** | 可在该站换乘……号线，或前往深圳北站（铁路）。 | 枢纽站口播常合并铁路接驳；措辞以现场为准 |
+| **The next station is …** | 下一站…… | 与车内屏、广播同步；14号线例：*The next station is Huangmugang*（黄木岗） |
+| **… is an interchange station for Line … and Line …** | …站可换乘……号线与……号线 | 多线换乘会念全；14号线例：*Buji* is an interchange station for Line 3, Line 5 and Line 14（布吉站可换3、5、14号线） |
+| **Passengers going to … please prepare to get off.** | 前往……的乘客请准备下车 | 大站或枢纽前常见；14号线例：*Passengers going to Shenzhen North Railway Station please prepare to get off at Buji* |
+| **We are arriving at …** | 列车即将到达…… | 也有的用 *approaching*；14号线例：*We are arriving at Luohu North*（罗湖北） |
+| **Next station, …. Please exit in the direction indicated above this door.** | 下一站……请按本车门上方指示方向下车。 | 报站+「门灯/箭头」提示；站名随线替换；14号线例：*Next station, Shiyaling...*（石芽岭） |
+| **Please transfer there for Line … and Shenzhen North Railway Station.** | 可在该站换乘……号线，或前往深圳北站（铁路）。 | 枢纽站口播常合并铁路接驳；14号线在*Gangxia North*可换2、10、11号线 |
 
 ### 终点清客与终止服务（Terminus）
 
 | English | 简中 | 备注 `亲子` |
 | --- | --- | --- |
-| **This is the end of Line …. Please exit the train.** | 本线为……号线终点站，请下车。 | 口播常见略简说法；亦可能说 *terminal station* |
+| **This is the end of Line …. Please exit the train.** | 本线为……号线终点站，请下车。 | 口播常见略简说法；亦可能说 *terminal station*；14号线例：*This is the end of Line 14. Please exit the train at Shatian*（沙田）或 *Gangxia North*（岗厦北） |
 | **This train has ended service. Please leave the train and take all your belongings.** | 本次列车运营已结束，请下车并带好随身物品。 | 段场回库、临时清客等；录播原句 *stops the services* 属口语化/误用，表中用常见自然说法 |
 
 清客结束前若致谢，常与「欢迎与线路」表中 **Thank you for traveling with Shenzhen Metro.** 同句；港铁系统常为 *Thank you for travelling on the MTR.*
@@ -128,6 +128,7 @@
 | --- | --- | --- |
 | **Tap in / Tap out** | 进站刷 / 出站刷 | 交通卡感应 |
 | **Swipe** | 刷卡 | 磁条卡 |
+| **Scan the QR code** | 扫二维码 | 微信/支付宝乘车码 |
 | **Insert your ticket** | 插入车票 | 回收型单程票 |
 | **Invalid ticket** | 车票无效 | 闸机红灯提示 |
 | **Peak hours** / **Off‑peak** | 高峰 / 非高峰 | 票价或拥挤度 |
@@ -142,10 +143,13 @@
 
 ### 进站与刷卡
 
-- **Let’s go to the metro.** — 我们去坐地铁吧。  
+- **Let’s go to the metro.** / **Let’s take the subway.** — 我们去坐地铁吧。  
+- **We’re taking Line 14 to Gangxia North.** — 我们坐14号线去岗厦北站。  
 - **Hold my hand on the escalator.** — 扶梯上牵好我的手。  
 - **Stand on the right, walk on the left.** — 靠右站，左边给要赶路的人。（若当地习惯相反，以现场标识为准。）  
 - **Tap your card here.** — 在这里刷卡。  
+- **Scan the QR code at the gate.** — 在闸机口扫乘车码。  
+- **Open your metro QR code on WeChat / Alipay.** — 打开微信/支付宝的地铁乘车码。  
 - **Wait for the green light.** — 等绿灯（开了再走）。
 
 ### 候车与上下车
