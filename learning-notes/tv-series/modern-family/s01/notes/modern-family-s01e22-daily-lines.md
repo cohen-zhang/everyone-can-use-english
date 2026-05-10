@@ -2,6 +2,10 @@
 
 素材来源（英中字幕行）：`[美剧/摩登家庭 S01/modern-family-s01e22-transcript.txt](../transcript/modern-family-s01e22-transcript.txt)`。
 
+**Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-transcript.txt|S01E22 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
+
+**同集手工精编（夏威夷／机场线）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-daily-lines.md|S01E22 生活场景实用英文句（精编）]] — 与本页 **相向互链**。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

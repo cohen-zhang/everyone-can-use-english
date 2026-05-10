@@ -1,5 +1,7 @@
 # 《摩登家庭》S01E22 — 生活场景实用英文句
 
+**Obsidian（相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-transcript.txt|S01E22 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e22-daily-lines.md|S01E22 生活场景句（脚本自动抽取）]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
+
 素材来源：`摩登家庭 S01-22.txt`。下列句子按**日常可复用场景**整理；**英文为主**，**—** 后为简中。部分台词在剧中带玩笑或讽刺，文中会标注 **语境**，避免误用。
 
 ---

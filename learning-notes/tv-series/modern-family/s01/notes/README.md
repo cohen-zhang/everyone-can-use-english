@@ -2,6 +2,11 @@
 
 本目录收录 **第一季（S01）** 与《摩登家庭》相关的英文学习笔记，字幕源文件在 `../transcript/`。
 
+## Obsidian 双向跳转（Vault 根 = 本仓库根目录时）
+
+- **字幕目录总表（互链另一方）：** [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]] — `*.txt` 与本目录 `*-daily-lines.md` 在该页 **对查**；各单文件文首另有 **相向** 链到配对笔记或字幕。
+- 成人向 **本集词汇表** 栏位规范见 Cursor 技能 **subtitle-vocabulary-tables**；笔记体例与互链习惯见 **english-learning-markdown-docs**。
+
 ## 文件类型
 
 
@@ -34,5 +39,6 @@ python3 learning-notes/tv-series/modern-family/s01/notes/scripts/build-modern-fa
 
 ## 另见
 
-- 手写精编（夏威夷机场主题示例）：`../transcript/modern-family-s01e22-daily-lines.md`（可与 `modern-family-s01e22-daily-lines.md` 同时对照：前者偏人工场景归纳，后者为全量自动抽取子集）。
+- 主题向亲子摘录：**[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat]]** · **[[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|夸奖与祝福]]**（均链回本索引与 [[learning-notes/tv-series/modern-family/s01/transcript/README.md|字幕目录]]）。
+- 手写精编（夏威夷机场主题示例）：[[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-daily-lines.md|S01E22 精编版]]（可与同集 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e22-daily-lines.md|自动抽取版]] 对照）。
 

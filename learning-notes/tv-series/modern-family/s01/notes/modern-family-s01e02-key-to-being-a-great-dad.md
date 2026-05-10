@@ -2,6 +2,8 @@
 
 亲子主题练习：对话与自述，用语尽量来自《摩登家庭》S01E02 字幕（同一集里的开场问答、卢克新车、夫妻“我们是整体”、教责任与“当坏人”等）。
 
+**Obsidian（同一集 · 素材）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e02-transcript.txt|S01E02 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-daily-lines.md|S01E02 生活场景实用英文句]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
+
 ---
 
 ## 场景设定

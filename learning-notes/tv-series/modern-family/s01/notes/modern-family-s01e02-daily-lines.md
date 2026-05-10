@@ -2,6 +2,8 @@
 
 素材来源（英中字幕行）：`[美剧/摩登家庭 S01/modern-family-s01e02-transcript.txt](../transcript/modern-family-s01e02-transcript.txt)`。
 
+**Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e02-transcript.txt|S01E02 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---
@@ -151,5 +153,6 @@
 
 - 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
 - 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- **台词里 *painter / poet / pilot / president* 的职业扩展与 *a / an* 用法：** [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（与此页相向互链）。
 
 *自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*

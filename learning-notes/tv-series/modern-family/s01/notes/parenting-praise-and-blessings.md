@@ -3,6 +3,8 @@
 > 来源：《摩登家庭》第一季  
 > 适合场景：与 不多/Celine 互相夸奖、表达祝福
 
+**Obsidian：** [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 学习索引]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]。
+
 ---
 
 ## 一、夸奖、赞美 / Compliments

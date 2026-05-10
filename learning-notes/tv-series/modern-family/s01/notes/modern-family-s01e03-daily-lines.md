@@ -2,6 +2,8 @@
 
 素材来源（英中字幕行）：`[美剧/摩登家庭 S01/modern-family-s01e03-transcript.txt](../transcript/modern-family-s01e03-transcript.txt)`。
 
+**Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e03-transcript.txt|S01E03 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

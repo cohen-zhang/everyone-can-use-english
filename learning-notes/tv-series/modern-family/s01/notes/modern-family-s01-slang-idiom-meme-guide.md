@@ -3,6 +3,8 @@
 > 说明：本页仅整理在 `learning-notes/tv-series/modern-family/s01/transcript/` 中实际出现的表达。  
 > 侧重点是美式口语里的 **俚语感 / 口头梗 / 高频口头禅**，不等于严格语法意义上的“谚语”。
 
+**Obsidian：** 台词与学习笔记对查 → [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]] · [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes 索引]]。
+
 ## 1) `Come on!` — 拜托 / 快点 / 别这样
 
 - **转录示例**：`- Come on!`
