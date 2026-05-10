@@ -63,7 +63,7 @@ tags: [tv-series/peppa-pig, peppa/s01]
 1. **剧标头**（可选）：一行粗体，如 `**S1-04 best friend**`。
 2. **场景段落**：`### Cold open · Intro（…）` / `### Scene · …` 等，下面是**单行或短行**英文台词（已从 OCR 拆行合并过，便于阅读）。
 3. **词汇区**（`## Episode vocabulary（本集词汇）`）  
-   - 一段 *成人向精简* 说明（收录 / 剔除规则）。  
+   - 一段 *成人向精简* 说明；**与** `.cursor/skills/subtitle-vocabulary-tables/SKILL.md` **及** `scripts/peppa_adult_vocab_curate.py` **中的** `ADULT_NOTE` **保持同一套标准**（默认**简中成人**读者视角，不以英美语料高频为唯一删词依据）。  
    - Markdown 表格：`| Word | IPA (GA) | 简中义项 | 标签 |`  
    - **Word 列**：字幕笔误已尽量规范为**正确词形**；极度高频词、纯拟声、无意义碎片会被脚本剔除，故**有些集无表格行**，仅保留说明句。
 
@@ -85,7 +85,7 @@ tags: [tv-series/peppa-pig, peppa/s01]
 
 | 路径 | 作用 |
 | --- | --- |
-| `scripts/peppa_adult_vocab_curate.py` | 成人向词表：`--lemma-zh` 合并正字、简中义项、去重；内置剔除「超高频 / 拟声 / 字幕碎片」等规则。 |
+| `scripts/peppa_adult_vocab_curate.py` | 成人向词表：`ADULT_NOTE` 与上列技能对齐；`--lemma-zh` 合并正字、简中义项、去重；内置剔除「超高频 / 拟声 / 字幕碎片」等规则。 |
 | `scripts/peppa_lemma_zh_data.py` | 词头 → 简中义项数据（供上者引用）。 |
 | `scripts/peppa_s01_ocr_il.tsv` | 字幕纠错 / 映射表（若存在未覆盖的 OCR，可在此增补）。 |
 | `.cursor/skills/subtitle-vocabulary-tables/SKILL.md` | 本系列词汇表格列、标签与成人向收录原则说明。 |
