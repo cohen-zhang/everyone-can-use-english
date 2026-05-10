@@ -1,6 +1,6 @@
 ---
 name: english-learning-markdown-docs
-description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner name **阿泽** (nickname **泽哥**) and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. Use when writing notes, journals, vocabulary sheets, dialogues, or parenting-and-work English material.
+description: Produces English-learning materials as Markdown with fixed English plus Simplified Chinese glosses, emphasized finance/tech and child-scene vocabulary, and readable layout. Uses learner name **阿泽** (nickname **泽哥**) and child labels 不多 / Celine when appropriate. Redacts unrelated private identifiers for shareable output. Use when writing notes, journals, vocabulary sheets, dialogues, parenting-and-work English material. For subtitle/episode **word tables** (本集词汇, Episode vocabulary), use **subtitle-vocabulary-tables** instead or in addition.
 ---
 
 # English-learning Markdown documents
@@ -13,6 +13,7 @@ Use this skill whenever the user asks for **documents, notes, or exports** relat
 
 - **Default**: GitHub-flavored Markdown (`.md`). One topic per logical section; use `##` / `###` hierarchy consistently; avoid skipping heading levels.
 - **Readability**: Short paragraphs; blank line between blocks; use bullet or numbered lists for steps and vocabulary; use tables only when they improve scanning (e.g. word / IPA / meaning / example).
+- **Vocabulary tables**: When building **subtitle or episode word lists** (`Episode vocabulary`, 本集词汇), follow project skill **subtitle-vocabulary-tables** (`/.cursor/skills/subtitle-vocabulary-tables/SKILL.md`).
 - **Bilingual layout**: Follow **「英 + 简中」对照** throughout (see section **Bilingual layout (English + 简中)** below). English stays primary for lines meant to be spoken aloud.
 - **Code and tools**: Fenced code blocks with language tags when showing snippets; inline backticks for commands, keys, and file names.
 
