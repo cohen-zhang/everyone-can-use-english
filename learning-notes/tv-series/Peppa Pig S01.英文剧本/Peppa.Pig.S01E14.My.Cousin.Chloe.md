@@ -112,37 +112,10 @@ N: Peppa and Chloe love jumping up and down in muddy puddles. Everyone loves jum
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **whoaao** | /whoaao*/ |  | 低频 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **got** | /gɑt/ | 取得 | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **saw** | /sɔ/ | a condensed but memorable saying embodying some important … | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **move** | /muv/ | the act of deciding to do something | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
 | **grownup** | /ˈgroʊˌnəp/ | 大人 | 低频 |
-| **yippee** | /ˌjɪˈpi/ |  | 低频 |
-| **rule** | /rul/ | 准则 | 多义 |
-| **jumping** | /ˈʤəmpɪŋ/ | 跳跃的比赛 | 多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **fair** | /fɛr/ | 游艺会 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **stay** | /steɪ/ | continuing or remaining in a place or state | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **cousin** | /ˈkəzən/ | 堂兄 | — |
 | **chloe** | /kloʊi/ |  | 低频 |

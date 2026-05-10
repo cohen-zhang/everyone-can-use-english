@@ -224,37 +224,15 @@ Look! I just got a parcei in the post!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **heiper** | /heiper*/ |  | 低频 |
-| **mistyo** | /mistyo*/ |  | 低频 |
-| **parcei** | /parcei*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **baaa** | /baaa*/ |  | 低频 |
-| **blow** | /bloʊ/ | 一击 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **mazy** | /mazy*/ | 迷宫的 | 低频 |
-| **whoooo** | /whoooo*/ |  | 低频 |
+| **heiper** | /ˈhɛlpər/ | 字幕笔误；正字 **helper** | 低频 |
+| **mistyo** | /ˈmɪsti/ | 字幕笔误；正字 **misty** | 低频 |
+| **parcei** | /ˈpɑrsəl/ | 字幕笔误；正字 **parcel** | 低频 |
+| **mazy** | /mazy*/ | 字幕笔误；正字 **mazy** | 低频 |
 | **abracadabra** | /ˌæbrəkəˈdæbrə/ | 胡言乱语 | 低频、拼写 |
-| **oclock** | /oclock*/ |  | 低频 |
-| **post** | /poʊst/ | 岗位 | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **yippee** | /ˌjɪˈpi/ |  | 低频 |
+| **oclock** | /əˈklɑk/ | 字幕笔误；正字 **o'clock** | 低频 |
 | **mysterio** | /mysterio*/ |  | 低频 |
-| **present** | /ˈprɛzənt/ | 当今 | 多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
 | **shush** | /shush*/ | 用“嘘”声要求静下来 | 低频 |
-| **blue** | /blu/ | 蓝色 | 多义 |
-| **birthday** | /ˈbərθˌdeɪ/ | 生日 | — |
-| **party** | /ˈpɑrti/ | 党 | 多义 |

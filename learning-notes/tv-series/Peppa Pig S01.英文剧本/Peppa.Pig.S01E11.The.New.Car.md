@@ -142,35 +142,15 @@ And I think our old car likes us,too.Don’t you?
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **run** | /rən/ | a score in baseball made by a runner touching all four bas… | 多义 |
-| **doggoodbye** | /doggoodbye*/ |  | 低频、拼写 |
-| **goodbyebye** | /goodbyebye*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
+| **doggoodbye** | /dɔg ˌgʊdˈbaɪ/ | 字幕笔误；正字 **dog goodbye** | 低频、拼写 |
+| **goodbyebye** | /ˌgʊdˈbaɪ baɪ/ | 字幕笔误；正字 **goodbye bye** | 低频、拼写 |
 | **garagehe** | /garagehe*/ |  | 低频 |
-| **ooopsnot** | /ooopsnot*/ |  | 低频 |
-| **pigyour** | /pigyour*/ |  | 低频 |
+| **pigyour** | /pɪg jʊr/ | 字幕笔误；正字 **pig your** | 低频 |
 | **carcan** | /carcan*/ |  | 低频 |
 | **toodon** | /toodon*/ |  | 低频 |
 | **yesbut** | /yesbut*/ |  | 低频 |
 | **arrhg** | /arrhg*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **drive** | /draɪv/ | the act of applying force to propel something | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **press** | /prɛs/ | 急迫 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **change** | /ʧeɪnʤ/ | 修改 | 多义 |

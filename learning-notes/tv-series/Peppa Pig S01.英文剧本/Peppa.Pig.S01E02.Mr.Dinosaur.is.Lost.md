@@ -176,36 +176,16 @@ Dinedine Sawsaw.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **grrrrrrrrrrrrrrrrrrrr** | /grrrrrrrrrrrrrrrrrrrr*/ |  | 低频、拼写 |
-| **grrrrrrrrrrrrrrrr** | /grrrrrrrrrrrrrrrr*/ |  | 低频、拼写 |
-| **whhhhaaaaaaaaaaa** | /whhhhaaaaaaaaaaa*/ |  | 低频、拼写 |
-| **grrrrrrrrrrrrr** | /grrrrrrrrrrrrr*/ |  | 低频、拼写 |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **whaaaaaaaaaa** | /whaaaaaaaaaa*/ |  | 低频、拼写 |
-| **wheeeeeeeeee** | /wheeeeeeeeee*/ |  | 低频、拼写 |
-| **grrrrrrrrrr** | /grrrrrrrrrr*/ |  | 低频、拼写 |
 | **sawtechdine** | /sawtechdine*/ |  | 低频、拼写 |
-| **whaaaaaaaaa** | /whaaaaaaaaa*/ |  | 低频、拼写 |
-| **wheeeeeeeee** | /wheeeeeeeee*/ |  | 低频、拼写 |
-| **grrrrrrrrr** | /grrrrrrrrr*/ |  | 低频、拼写 |
-| **wheeeeeee** | /wheeeeeee*/ |  | 低频 |
 | **dinedine** | /dinedine*/ |  | 低频 |
 | **welldine** | /welldine*/ |  | 低频 |
 | **sawdone** | /sawdone*/ |  | 低频 |
 | **sawtiff** | /sawtiff*/ |  | 低频 |
 | **dedine** | /dedine*/ |  | 低频 |
 | **sawsaw** | /sawsaw*/ |  | 低频 |
-| **fall** | /fɔl/ | 秋 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
 | **suppertime** | /suppertime*/ | 晚餐时间 | 低频、拼写 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **saw** | /sɔ/ | a condensed but memorable saying embodying some important … | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **eeek** | /eeek*/ |  | 低频 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
 | **dinosaur** | /ˈdaɪnəˌsɔr/ | any of numerous extinct terrestrial reptiles of the Mesozo… | 低频 |

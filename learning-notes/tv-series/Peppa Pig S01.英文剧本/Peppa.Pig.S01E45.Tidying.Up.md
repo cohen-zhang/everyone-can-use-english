@@ -229,36 +229,16 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **booksheif** | /booksheif*/ |  | 低频 |
-| **trycytops** | /trycytops*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **wooooah** | /wooooah*/ |  | 低频 |
-| **heeeip** | /heeeip*/ |  | 低频 |
-| **raaaaa** | /raaaaa*/ |  | 低频 |
-| **raarrr** | /raarrr*/ |  | 低频 |
+| **booksheif** | /ˈbʊkˌʃɛlf/ | 字幕笔误；正字 **bookshelf** | 低频 |
+| **trycytops** | /ˌtraɪˈsɛrəˌtɔps/ | 字幕笔误；正字 **triceratops** | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **youii** | /youii*/ |  | 低频 |
-| **carry** | /ˈkɛri/ | the act of carrying something | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **arrrgh** | /arrrgh*/ |  | 低频 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
 | **brontosaurus** | /ˌbrɔnəˈsɔrəs/ | 虚幻龙 | 低频、拼写 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **grrrrr** | /grrrrr*/ |  | 低频 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
 | **triceratops** | /ˌtraɪˈsɛrəˌtɔps/ | huge ceratopsian dinosaur having three horns and the neck … | 低频、拼写 |
 | **tyrannosaurus** | /tɪrænəˈsɔrəs/ | large carnivorous bipedal dinosaur having enormous teeth w… | 低频、拼写 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **yippee** | /ˌjɪˈpi/ |  | 低频 |
 | **untidy** | /ənˈtaɪdi/ | 不整洁的 | 低频 |
-| **frame** | /freɪm/ | the framework for a pair of eyeglasses | 多义 |
 | **tidying** | /tidying*/ | put (things or places) in order | 低频 |

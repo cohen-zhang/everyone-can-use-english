@@ -96,36 +96,14 @@ Grandma is at home. (Dingdong, the doorbell rings.) But who is it visit her?** *
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **gazzellemg** | /gazzellemg*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **huhhuhhhh** | /huhhuhhhh*/ |  | 低频 |
-| **gazzelle** | /gazzelle*/ |  | 低频 |
-| **rabbitmr** | /rabbitmr*/ |  | 低频 |
-| **rabbitrr** | /rabbitrr*/ |  | 低频 |
-| **scarrier** | /scarrier*/ |  | 低频 |
-| **georgeg** | /georgeg*/ |  | 低频 |
-| **doggdd** | /doggdd*/ |  | 低频 |
-| **huhhhh** | /huhhhh*/ |  | 低频 |
+| **gazzelle** | /gəˈzɛl/ | 字幕笔误；正字 **gazelle** | 低频 |
+| **rabbitrr** | /ˈræbɪt/ | 字幕笔误；正字 **rabbit** | 低频 |
+| **scarrier** | /ˈskɛriər/ | 字幕笔误；正字 **scarier** | 低频 |
+| **georgeg** | /ʤɔrʤ/ | 字幕笔误；正字 **George** | 低频 |
 | **peppap** | /peppap*/ |  | 低频 |
-| **piggnp** | /piggnp*/ |  | 低频 |
-| **piggpp** | /piggpp*/ |  | 低频 |
-| **ponymp** | /ponymp*/ |  | 低频 |
-| **ponypp** | /ponypp*/ |  | 低频 |
-| **uhmmmm** | /uhmmmm*/ |  | 低频 |
-| **dogdd** | /dogdd*/ |  | 低频 |
-| **dogmd** | /dogmd*/ |  | 低频 |
-| **pigdp** | /pigdp*/ |  | 低频 |
-| **pigmp** | /pigmp*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **carry** | /ˈkɛri/ | the act of carrying something | 多义 |
-| **photoes** | /photoes*/ |  | 低频 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **goona** | /goona*/ |  | 低频 |
-| **school** | /skul/ | an educational institution | 多义 |
+| **photoes** | /ˈfoʊˌtoʊz/ | 字幕笔误；正字 **photos** | 低频 |
+| **goona** | /ˈgɑnə/ | 字幕笔误；正字 **gonna** | 低频 |

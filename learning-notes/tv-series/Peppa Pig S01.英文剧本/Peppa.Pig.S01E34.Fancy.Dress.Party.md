@@ -154,37 +154,12 @@ Peppa loves fancy dress parties. Everyone loves fancy dress parties.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **pick** | /pɪk/ | the person or thing chosen or selected | 多义 |
-| **fair** | /fɛr/ | 游艺会 | 多义 |
 | **shiver** | /ˈʃɪvər/ | a reflex motion caused by cold or fear or excitement | 低频 |
 | **mew** | /mju/ | the sound made by a cat (or any sound resembling this) | 低频 |
 | **goodie** | /ˈgʊdi/ |  | 低频 |
-| **meet** | /mit/ | a meeting at which a number of athletic contests are held | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **bow** | /boʊ/ | 蝴蝶结 | 多义 |
-| **real** | /ril/ | 实数 | 多义 |
-| **wear** | /wɛr/ | 磨损 | 多义 |
-| **cry** | /kraɪ/ | 叫喊 | 多义 |
-| **say** | /seɪ/ | 决定权 | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **like** | /laɪk/ | a similar kind; , | 多义 |
 | **reflection** | /rɪˈflɛkʃən/ | a calm, lengthy, intent consideration | 多义、拼写 |
-| **fancy** | /ˈfænsi/ | 幻想 | 多义 |
-| **party** | /ˈpɑrti/ | 党 | 多义 |

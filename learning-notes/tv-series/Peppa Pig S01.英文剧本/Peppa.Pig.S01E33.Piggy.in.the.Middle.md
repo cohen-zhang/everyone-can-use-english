@@ -148,37 +148,12 @@ I'm Peppa Pig This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **piggyinthemiddle** | /piggyinthemiddle*/ |  | 低频、拼写 |
-| **waaaaaaaaaaaaaa** | /waaaaaaaaaaaaaa*/ |  | 低频、拼写 |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **weeeeeeeeeee** | /weeeeeeeeeee*/ |  | 低频、拼写 |
-| **shouid** | /shouid*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **stand** | /stænd/ | 基座 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
+| **piggyinthemiddle** | /ˈpɪgi ɪn ðə ˈmɪdəl/ | 字幕笔误；正字 **piggy in the middle** | 低频、拼写 |
+| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
 | **tease** | /tiz/ | someone given to teasing (as by mocking or stirring curios… | 低频、多义 |
-| **fair** | /fɛr/ | 游艺会 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **hand** | /hænd/ | 前足 | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **game** | /geɪm/ | 比赛 | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **watch** | /wɔʧ/ | 怀表 | 多义 |
-| **wrong** | /rɔŋ/ | that which is contrary to the principles of justice or law | 多义 |
 | **piggy** | /ˈpɪgi/ | 小猪 | 低频 |
-| **middle** | /ˈmɪdəl/ | 中央 | 多义 |

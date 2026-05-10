@@ -193,36 +193,10 @@ And the most beautiful!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **iuckiest** | /iuckiest*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **blow** | /bloʊ/ | 一击 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **present** | /ˈprɛzənt/ | 当今 | 多义 |
-| **number** | /ˈnəmbər/ | 数 | 多义 |
-| **sitting** | /ˈsɪtɪŋ/ | 姿势 | 多义 |
-| **walk** | /wɔk/ | the act of traveling by foot | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **secret** | /ˈsikrɪt/ | 机密 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
+| **iuckiest** | /ˈləkiəst/ | 字幕笔误；正字 **luckiest** | 低频 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
 | **decorate** | /ˈdɛkərˌeɪt/ | make more attractive by adding ornament, colour, etc. | 低频 |
-| **birthday** | /ˈbərθˌdeɪ/ | 生日 | — |

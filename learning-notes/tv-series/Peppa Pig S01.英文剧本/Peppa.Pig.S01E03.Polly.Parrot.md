@@ -149,36 +149,13 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **spolly** | /spolly*/ |  | 低频 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **coming** | /ˈkəmɪŋ/ | the act of drawing spatially closer to something | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
 | **teatime** | /teatime*/ | a light midafternoon meal of tea and sandwiches or cakes | 低频 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **sweet** | /swit/ | English phonetician; one of the founders of modern phoneti… | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **visit** | /ˈvɪzɪt/ | 作客 | 多义 |
-| **new** | /nu/ | 新的 | 多义 |
-| **say** | /seɪ/ | 决定权 | 多义 |
-| **inside** | /ˌɪnˈsaɪd/ | 内部 | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **word** | /wərd/ | 单词 | 多义 |
 | **parrot** | /ˈpɛrət/ | usually brightly colored zygodactyl tropical birds with sh… | 低频 |
-| **love** | /ləv/ | a strong positive emotion of regard and affection | 多义 |
-| **sure** | /ʃʊr/ | 一定的 | 多义 |
-| **pretend** | /priˈtɛnd/ | the enactment of a pretense | 多义 |
-| **family** | /ˈfæməli/ | 人家 | 多义 |
 | **polly** | /ˈpɑli/ |  | 低频 |

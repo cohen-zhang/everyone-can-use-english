@@ -125,36 +125,10 @@ This is Mummy Pig.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **run** | /rən/ | a score in baseball made by a runner touching all four bas… | 多义 |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **check** | /ʧɛk/ | 支票 | 多义 |
-| **clean** | /klin/ | a weightlift in which the barbell is lifted to shoulder he… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **outside** | /ˈaʊtˈsaɪd/ | the region that is outside of something | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **stopped** | /stɑpt/ | 停 | 多义 |
-| **watch** | /wɔʧ/ | 怀表 | 多义 |
 | **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **know** | /noʊ/ | the fact of being aware of information that is known to fe… | 多义 |
-| **wear** | /wɛr/ | 磨损 | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **like** | /laɪk/ | a similar kind; , | 多义 |
-| **love** | /ləv/ | a strong positive emotion of regard and affection | 多义 |
-| **boot** | /but/ | 皮靴 | 多义 |
-| **want** | /wɔnt/ | 穷困 | 多义 |
-| **puddles** | /ˈpədəlz/ | 胶土 | 低频、多义 |
+| **puddles** | /ˈpədəlz/ | 水坑、泥坑（复数）；本集主题词 | 低频、多义 |

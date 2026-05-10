@@ -206,36 +206,10 @@ I love muddy puddles.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **rrroooaaarrr** | /rrroooaaarrr*/ |  | 低频、拼写 |
-| **roooaaarrr** | /roooaaarrr*/ |  | 低频、拼写 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **place** | /pleɪs/ | 地方 | 多义 |
-| **coming** | /ˈkəmɪŋ/ | the act of drawing spatially closer to something | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **imago** | /imago*/ | (psychoanalysis) an idealized image of someone (usually a … | 低频 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **grrrr** | /grrrr*/ |  | 低频 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **ooooo** | /ooooo*/ |  | 低频 |
-| **hot** | /hɑt/ | 气温高的 | 多义 |
-| **mmmmm** | /mmmmm*/ |  | 低频 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **crown** | /kraʊn/ | the Crown (or the reigning monarch) as the symbol of the p… | 多义 |
-| **grrr** | /grrr*/ |  | 低频 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **even** | /ˈivɪn/ | 傍晚 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **bow** | /boʊ/ | 蝴蝶结 | 多义 |
-| **small** | /smɔl/ | the slender part of the back | 多义 |
-| **full** | /fʊl/ | 月圆期 | 多义 |
-| **real** | /ril/ | 实数 | 多义 |
-| **museum** | /mˈjuziəm/ | 博物馆 | — |

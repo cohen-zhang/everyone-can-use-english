@@ -123,35 +123,10 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **snowbaii** | /snowbaii*/ |  | 低频 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **face** | /feɪs/ | 人类的脸 | 多义 |
-| **rough** | /rəf/ | the part of a golf course bordering the fairway where the … | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
+| **snowbaii** | /sˈnoʊˌbɔl/ | 字幕笔误；正字 **snowball** | 低频 |
 | **snowball** | /sˈnoʊˌbɔl/ | plant having heads of fragrant white trumpet-shaped flower… | 低频、多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **stone** | /stoʊn/ | 岩石 | 多义 |
-| **cold** | /koʊld/ | 伤风 | 多义 |
-| **outside** | /ˈaʊtˈsaɪd/ | the region that is outside of something | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **game** | /geɪm/ | 比赛 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **nose** | /noʊz/ | 鼻子 | 多义 |
-| **excited** | /ɪkˈsaɪtɪd/ | arouse or elicit a feeling | 多义 |
-| **warm** | /wɔrm/ | 使变暖 | 多义 |

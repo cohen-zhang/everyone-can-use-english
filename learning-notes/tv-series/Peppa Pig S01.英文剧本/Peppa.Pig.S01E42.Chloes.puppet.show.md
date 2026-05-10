@@ -231,37 +231,13 @@ and one and two
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **grrrrrrrrrr** | /grrrrrrrrrr*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **grrrrrrrr** | /grrrrrrrr*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **shouid** | /shouid*/ |  | 低频 |
-| **fall** | /fɔl/ | 秋 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **everyway** | /everyway*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **eeek** | /eeek*/ |  | 低频 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stretch** | /strɛʧ/ | a large and unbroken expanse or distance | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
+| **everyway** | /ˈɛvəri weɪ/ | 字幕笔误；正字 **every way** | 低频 |
 | **snore** | /snɔr/ | the rattling noise produced when snoring | 低频 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **mean** | /min/ | an average of n numbers computed by adding some function o… | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **fit** | /fɪt/ | 发脾气 | 多义 |
-| **name** | /neɪm/ | 名 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **true** | /tru/ | proper alignment; the property possessed by something that… | 多义 |
-| **chloes** | /chloes*/ |  | 低频 |
+| **chloes** | /kloʊiz/ | 字幕笔误；正字 **Chloe's** | 低频 |
 | **puppet** | /ˈpəpɪt/ | a small figure of a person operated from above with string… | 低频 |

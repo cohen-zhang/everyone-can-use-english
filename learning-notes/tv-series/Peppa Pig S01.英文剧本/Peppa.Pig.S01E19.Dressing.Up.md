@@ -155,36 +155,11 @@ You really had us fooied!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **iipstick** | /iipstick*/ |  | 低频 |
-| **fooied** | /fooied*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **deep** | /dip/ | 最强烈的部分 | 多义 |
+| **iipstick** | /ˈlɪpˌstɪk/ | 字幕笔误；正字 **lipstick** | 低频 |
+| **fooied** | /fuld/ | 字幕笔误；正字 **fooled** | 低频 |
 | **snort** | /snɔrt/ | a disrespectful laugh | 低频、多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **box** | /bɑks/ | 盒子 | 多义 |
-| **dig** | /dɪg/ | 发掘 | 多义 |
 | **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **know** | /noʊ/ | the fact of being aware of information that is known to fe… | 多义 |
-| **say** | /seɪ/ | 决定权 | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **dressing** | /ˈdrɛsɪŋ/ | savory dressings for salads; basically of two kinds: eithe… | 多义 |

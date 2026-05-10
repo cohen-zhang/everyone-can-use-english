@@ -161,36 +161,13 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
 | **piaster** | /piaster*/ | a fractional monetary unit in Egypt and Lebanon and Sudan … | 低频 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **rumbiing** | /rumbiing*/ |  | 低频 |
-| **iistens** | /iistens*/ |  | 低频 |
+| **rumbiing** | /ˈrəmbəlɪŋ/ | 字幕笔误；正字 **rumbling** | 低频 |
+| **iistens** | /ˈlɪsənz/ | 字幕笔误；正字 **listens** | 低频 |
 | **tickies** | /tickies*/ |  | 低频 |
 | **youii** | /youii*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **playing** | /pleɪɪŋ/ | the act of playing a musical instrument | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **baaaa** | /baaaa*/ |  | 低频 |
-| **cooky** | /cooky*/ | the cook on a ranch or at a camp | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **hot** | /hɑt/ | 气温高的 | 多义 |
-| **loose** | /lus/ | 使自由 | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **feel** | /fil/ | an intuitive awareness;  or | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **stay** | /steɪ/ | continuing or remaining in a place or state | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **friend** | /frɛnd/ | a person you know well and regard with affection and trust | — |
+| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |

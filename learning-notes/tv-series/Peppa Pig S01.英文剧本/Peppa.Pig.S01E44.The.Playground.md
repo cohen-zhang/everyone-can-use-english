@@ -212,36 +212,8 @@ I am the DIY expert of the house.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **waaaaa** | /waaaaa*/ |  | 低频 |
-| **wheeeee** | /wheeeee*/ |  | 低频 |
-| **oooof** | /oooof*/ |  | 低频 |
-| **waaaa** | /waaaa*/ |  | 低频 |
-| **wheeee** | /wheeee*/ |  | 低频 |
-| **weeee** | /weeee*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **wheee** | /wheee*/ |  | 低频 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **stand** | /stænd/ | 基座 | 多义 |
-| **pull** | /pʊl/ | the act of pulling; applying force to move something towar… | 多义 |
-| **swing** | /swɪŋ/ | a state of steady vigorous action that is characteristic o… | 多义 |
-| **free** | /fri/ | people who are free | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **whee** | /whee*/ |  | 低频 |
-| **step** | /stɛp/ | 措施 | 多义 |
-| **fly** | /flaɪ/ | 苍蝇 | 多义 |
-| **high** | /haɪ/ | a lofty level or position or degree | 多义 |
-| **frame** | /freɪm/ | the framework for a pair of eyeglasses | 多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **tight** | /taɪt/ | 不松动的 | 多义 |
-| **push** | /pʊʃ/ | the act of applying force in order to move something away | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **playground** | /ˈpleɪˌgraʊnd/ | an area where many people go for recreation | 低频、拼写 |

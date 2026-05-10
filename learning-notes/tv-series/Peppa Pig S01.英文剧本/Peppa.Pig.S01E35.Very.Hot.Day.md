@@ -212,35 +212,15 @@ But it's true!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **iceiolly** | /iceiolly*/ |  | 低频 |
-| **paddiing** | /paddiing*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **shouid** | /shouid*/ |  | 低频 |
-| **meits** | /meits*/ |  | 低频 |
-| **oiiy** | /oiiy*/ |  | 低频 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **fall** | /fɔl/ | 秋 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **ground** | /graʊnd/ | 土地 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **wahhh** | /wahhh*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
+| **iceiolly** | /aɪs ˈlɑli/ | 字幕笔误；正字 **ice lolly** | 低频 |
+| **paddiing** | /ˈpædəlɪŋ/ | 字幕笔误；正字 **paddling** | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **shouid** | /ʃʊd/ | 字幕笔误；正字 **should** | 低频 |
+| **meits** | /mɛlts/ | 字幕笔误；正字 **melts** | 低频 |
+| **oiiy** | /ˈɔɪli/ | 字幕笔误；正字 **oily** | 低频 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **grrrr** | /grrrr*/ |  | 低频 |
-| **change** | /ʧeɪnʤ/ | 修改 | 多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **hot** | /hɑt/ | 气温高的 | 多义 |
 | **yucky** | /ˈjəki/ | highly offensive; arousing aversion or disgust | 低频 |
-| **dry** | /draɪ/ | a reformer who opposes the use of intoxicating beverages | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |

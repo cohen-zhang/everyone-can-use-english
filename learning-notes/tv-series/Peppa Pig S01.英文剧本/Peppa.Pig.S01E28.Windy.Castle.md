@@ -212,37 +212,12 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **mapreading** | /mapreading*/ |  | 低频、拼写 |
-| **casties** | /casties*/ |  | 低频 |
-| **mapread** | /mapread*/ |  | 低频 |
+| **mapreading** | /mæp ˈrɛdɪŋ/ | 字幕笔误；正字 **map reading** | 低频、拼写 |
+| **casties** | /ˈkæsəlz/ | 字幕笔误；正字 **castles** | 低频 |
+| **mapread** | /mæp ˈrɛdɪŋ/ | 字幕笔误；正字 **map reading** | 低频 |
 | **youii** | /youii*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **drive** | /draɪv/ | the act of applying force to propel something | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **follow** | /ˈfɑloʊ/ | 跟着 | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **dress** | /drɛs/ | 女服 | 多义 |
-| **top** | /tɔp/ | the upper part of anything | 多义 |
-| **lost** | /lɔst/ | people who are destined to die soon | 多义 |
-| **high** | /haɪ/ | a lofty level or position or degree | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **blue** | /blu/ | 蓝色 | 多义 |
-| **color** | /ˈkələr/ | a visual attribute of things that results from the light t… | 多义 |
-| **ring** | /rɪŋ/ | 铃声 | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **windy** | /ˈwɪndi/ | abounding in or exposed to the wind or breezes | 低频 |
-| **castle** | /ˈkæsəl/ | a large and stately mansion | — |

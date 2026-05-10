@@ -177,36 +177,12 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **fiipping** | /fiipping*/ |  | 低频 |
-| **hoopia** | /hoopia*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **drop** | /drɔp/ | 小滴 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **mmmmmm** | /mmmmmm*/ |  | 低频 |
+| **fiipping** | /ˈflɪpɪŋ/ | 字幕笔误；正字 **flipping** | 低频 |
+| **hoopia** | /ˈhuˌplɑ/ | 字幕笔误；正字 **hoopla** | 低频 |
 | **teatime** | /teatime*/ | a light midafternoon meal of tea and sandwiches or cakes | 低频 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **last** | /læst/ | 完结 | 多义 |
-| **ooooo** | /ooooo*/ |  | 低频 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **flip** | /flɪp/ | 空翻 | 多义 |
-| **high** | /haɪ/ | a lofty level or position or degree | 多义 |
 | **stirring** | /stərɪŋ/ | agitating a liquid with an implement | 低频、多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **secret** | /ˈsikrɪt/ | 机密 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **air** | /ɛr/ | 大气 | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **pancakes** | /ˈpænˌkeɪks/ | a flat cake of thin batter fried on both sides on a griddl… | 低频 |

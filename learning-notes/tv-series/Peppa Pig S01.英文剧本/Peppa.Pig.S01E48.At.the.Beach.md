@@ -195,36 +195,16 @@ You can be the children.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **sandcastie** | /sandcastie*/ |  | 低频、拼写 |
-| **skinnylegs** | /skinnylegs*/ |  | 低频、拼写 |
-| **waterwings** | /waterwings*/ |  | 低频、拼写 |
-| **spiashing** | /spiashing*/ |  | 低频 |
-| **beachbag** | /beachbag*/ |  | 低频 |
-| **casties** | /casties*/ |  | 低频 |
-| **toweis** | /toweis*/ |  | 低频 |
-| **whaaoo** | /whaaoo*/ |  | 低频 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **check** | /ʧɛk/ | 支票 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **lift** | /lɪft/ | the act of giving temporary assistance | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **paddie** | /paddie*/ |  | 低频 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **sunshade** | /sunshade*/ | 遮篷 | 低频 |
-| **wheee** | /wheee*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **hot** | /hɑt/ | 气温高的 | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
-| **yippee** | /ˌjɪˈpi/ |  | 低频 |
-| **tap** | /tæp/ | the sound made by a gentle blow | 多义 |
-| **beach** | /biʧ/ | 海滩 | — |
+| **sandcastie** | /ˈsændˌkæsəl/ | 字幕笔误；正字 **sandcastle** | 低频、拼写 |
+| **skinnylegs** | /ˈskɪni lɛgz/ | 字幕笔误；正字 **skinny legs** | 低频、拼写 |
+| **waterwings** | /ˈwɔtər wɪŋz/ | 字幕笔误；正字 **water wings** | 低频、拼写 |
+| **spiashing** | /ˈsplæʃɪŋ/ | 字幕笔误；正字 **splashing** | 低频 |
+| **beachbag** | /biʧ bæg/ | 字幕笔误；正字 **beach bag** | 低频 |
+| **casties** | /ˈkæsəlz/ | 字幕笔误；正字 **castles** | 低频 |
+| **toweis** | /taʊəlz/ | 字幕笔误；正字 **towels** | 低频 |
+| **paddie** | /ˈpædəlɪŋ/ | 字幕笔误；正字 **paddling** | 低频 |
+| **sunshade** | /ˈsʌnˌʃeɪd/ | 遮篷 | 低频 |

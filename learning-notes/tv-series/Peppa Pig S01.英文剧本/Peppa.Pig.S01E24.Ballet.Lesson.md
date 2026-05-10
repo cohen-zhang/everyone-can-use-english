@@ -113,37 +113,18 @@ I am a beautiful swan!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **run** | /rən/ | a score in baseball made by a runner touching all four bas… | 多义 |
 | **demipliernow** | /demipliernow*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **demiplier** | /demiplier*/ |  | 低频 |
+| **demiplier** | /demiplier*/ | 字幕笔误；正字 **demi-plié** | 低频 |
 | **jumppetit** | /jumppetit*/ |  | 低频 |
 | **hograce** | /hograce*/ |  | 低频 |
-| **oooffff** | /oooffff*/ |  | 低频 |
 | **daning** | /daning*/ |  | 低频 |
-| **dddy** | /dddy*/ |  | 低频 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **jete** | /jete*/ |  | 低频 |
-| **childen** | /childen*/ |  | 低频 |
-| **raise** | /reɪz/ | 加薪 | 多义 |
+| **jete** | /jete*/ | 字幕笔误；正字 **jeté** | 低频 |
+| **childen** | /ˈʧɪldrən/ | 字幕笔误；正字 **children** | 低频 |
 | **goodnow** | /ˈgʊdnoʊ/ |  | 低频 |
 | **byebye** | /byebye*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **pick** | /pɪk/ | the person or thing chosen or selected | 多义 |
 | **hoopla** | /ˈhuˌplɑ/ | blatant or sensational promotion | 低频 |
-| **jumping** | /ˈʤəmpɪŋ/ | 跳跃的比赛 | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **home** | /hoʊm/ | where you live at a particular time | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **sweet** | /swit/ | English phonetician; one of the founders of modern phoneti… | 多义 |
 | **ballet** | /bæˈleɪ/ | 舞剧 | 低频 |
-| **lesson** | /ˈlɛsən/ | 一堂课 | — |

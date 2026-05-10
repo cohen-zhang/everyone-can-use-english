@@ -136,36 +136,10 @@ P: Granny, Grandp, this is the best treasure hunt ever.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
 | **mihateeze** | /mihateeze*/ |  | 低频 |
-| **grandp** | /grandp*/ |  | 低频 |
 | **huray** | /huray*/ |  | 低频 |
-| **draw** | /drɔ/ | a gully that is shallower than a ravine | 多义 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **point** | /pɔɪnt/ | a geometric element that has position but no extension | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
 | **ohayo** | /ohayo*/ |  | 低频 |
-| **place** | /pleɪs/ | 地方 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **follow** | /ˈfɑloʊ/ | 跟着 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **key** | /ki/ | 钥匙 | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **hang** | /hæŋ/ | a special way of doing something | 多义 |
-| **bad** | /bæd/ | that which is below standard or expectations as of ethics … | 多义 |
-| **cross** | /krɔs/ | 十字架 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **second** | /ˈsɛkənd/ | 秒 | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **easy** | /ˈizi/ | 容易的 | 多义 |
-| **treasure** | /ˈtrɛʒər/ | 财富 | 多义 |

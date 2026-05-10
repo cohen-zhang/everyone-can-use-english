@@ -198,36 +198,14 @@ This is the best school fete, ever!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **grrrrrrrr** | /grrrrrrrr*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **clean** | /klin/ | a weightlift in which the barbell is lifted to shoulder he… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **face** | /feɪs/ | 人类的脸 | 多义 |
-| **grrrr** | /grrrr*/ |  | 低频 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **pussycat** | /ˈpʊsiˌkæt/ | a person who is regarded as easygoing and agreeable | 低频 |
 | **fete** | /feɪt/ | an elaborate party (often outdoors) | 低频 |
-| **find** | /faɪnd/ | 发现 | 多义 |
 | **purr** | /pər/ | a low vibrating sound typical of a contented cat | 低频 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **grrr** | /grrr*/ |  | 低频 |
 | **gazelle** | /gəˈzɛl/ | 瞪羚 | 低频 |
-| **grr** | /grr*/ |  | 低频 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **watch** | /wɔʧ/ | 怀表 | 多义 |
 | **bouncy** | /ˈbaʊnsi/ | elastic; rebounds readily | 低频 |
-| **later** | /ˈleɪtər/ | coming at a subsequent time or stage | 多义 |
-| **school** | /skul/ | an educational institution | 多义 |

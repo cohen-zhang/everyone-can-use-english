@@ -198,35 +198,8 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **brownbear** | /brownbear*/ |  | 低频 |
-| **eeuuurgh** | /eeuuurgh*/ |  | 低频 |
-| **clear** | /klɪr/ | 无辜 | 多义 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **check** | /ʧɛk/ | 支票 | 多义 |
-| **cover** | /ˈkəvər/ | 掩蔽物 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **round** | /raʊnd/ | a charge of ammunition for a single shot | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **straight** | /streɪt/ | a heterosexual person; someone having a sexual orientation… | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **face** | /feɪs/ | 人类的脸 | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **spot** | /spɑt/ | 地方 | 多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **feel** | /fil/ | an intuitive awareness;  or | 多义 |
-| **stay** | /steɪ/ | continuing or remaining in a place or state | 多义 |
-| **bear** | /bɛr/ | 熊 | 多义 |
+| **brownbear** | /braʊn bɛr/ | 字幕笔误；正字 **brown bear** | 低频 |

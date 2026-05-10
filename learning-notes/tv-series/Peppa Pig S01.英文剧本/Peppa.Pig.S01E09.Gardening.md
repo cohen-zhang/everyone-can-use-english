@@ -179,36 +179,9 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **cover** | /ˈkəvər/ | 掩蔽物 | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **grrrrr** | /grrrrr*/ |  | 低频 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **home** | /hoʊm/ | where you live at a particular time | 多义 |
-| **oooo** | /oooo*/ |  | 低频 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **house** | /haʊs/ | 住宅 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **even** | /ˈivɪn/ | 傍晚 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **seed** | /sid/ | 籽 | 多义 |
-| **long** | /lɔŋ/ | 渴望 | 多义 |
-| **special** | /ˈspɛʃəl/ | a special offering (usually temporary and at a reduced pri… | 多义 |
-| **mmmm** | /mmmm*/ |  | 低频 |
-| **inside** | /ˌɪnˈsaɪd/ | 内部 | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **like** | /laɪk/ | a similar kind; , | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **gardening** | /ˈgɑrdənɪŋ/ | the cultivation of plants | 低频 |

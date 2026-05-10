@@ -188,36 +188,12 @@ Hurray!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **break** | /breɪk/ | some abrupt occurrence that interrupts an ongoing activity | 多义 |
-| **broken** | /ˈbroʊkən/ | 中断 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **bicycies** | /bicycies*/ |  | 低频 |
-| **peddiing** | /peddiing*/ |  | 低频 |
-| **tricycie** | /tricycie*/ |  | 低频 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **wheeeee** | /wheeeee*/ |  | 低频 |
-| **wahhhh** | /wahhhh*/ |  | 低频 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **stabilizer** | /ˈsteɪbəˌlaɪzər/ | 稳定剂 | 低频、拼写 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **ride** | /raɪd/ | 乘车 | 多义 |
-| **stay** | /steɪ/ | continuing or remaining in a place or state | 多义 |
-| **easy** | /ˈizi/ | 容易的 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **hurray** | /həˈreɪ/ |  | 低频 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **watch** | /wɔʧ/ | 怀表 | 多义 |
-| **bicycles** | /ˈbaɪsɪkəlz/ | 单车 | 低频 |
+| **bicycies** | /ˈbaɪsɪkəlz/ | 字幕笔误；正字 **bicycles**（自行车复数） | 低频、拼写 |
+| **peddiing** | /ˈpɛdəlɪŋ/ | 字幕笔误；正字 **pedaling**（美）/ **pedalling**（英，本剧更常用） | 低频、拼写 |
+| **tricycie** | /ˈtraɪsɪkəl/ | 字幕笔误；正字 **tricycle**（三轮车） | 低频、拼写 |
+| **stabilizer** | /ˈsteɪbəˌlaɪzər/ | （儿童车）辅助轮；英式拼写常作 **stabiliser** | 低频、拼写 |
+| **hurray** | /həˈreɪ/ | 好哇、万岁；忌读成首音节重读的 **/ˈhʌreɪ/** | 低频、易读错 |

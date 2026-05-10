@@ -161,37 +161,12 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **acrodion** | /acrodion*/ |  | 低频 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **couid** | /couid*/ |  | 低频 |
-| **blow** | /bloʊ/ | 一击 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **mean** | /min/ | an average of n numbers computed by adding some function o… | 多义 |
-| **meet** | /mit/ | a meeting at which a number of athletic contests are held | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **house** | /haʊs/ | 住宅 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
+| **acrodion** | /əˈkɔrdiən/ | 字幕笔误；正字 **accordion** | 低频 |
+| **couid** | /kʊd/ | 字幕笔误；正字 **could** | 低频 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
 | **accordion** | /əˈkɔrdiən/ | 手风琴 | 低频 |
-| **even** | /ˈivɪn/ | 傍晚 | 多义 |
-| **full** | /fʊl/ | 月圆期 | 多义 |
-| **mind** | /maɪnd/ | 头 | 多义 |
-| **box** | /bɑks/ | 盒子 | 多义 |
-| **use** | /juz/ | the act of using | 多义 |
-| **horn** | /hɔrn/ | 号角 | 多义 |
-| **musical** | /mˈjuzɪkəl/ | a play or film whose action and dialogue is interspersed w… | — |
 | **instruments** | /ˈɪnstrəmənts/ | 仪器 | 多义、拼写 |

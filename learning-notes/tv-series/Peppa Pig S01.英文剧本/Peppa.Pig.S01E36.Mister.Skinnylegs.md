@@ -205,36 +205,13 @@ On this boat, I'm the captain.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **skinnylegs** | /skinnylegs*/ |  | 低频、拼写 |
-| **ooofff** | /ooofff*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **lifejackets** | /lifejackets*/ |  | 低频、拼写 |
-| **hearties** | /hearties*/ |  | 低频 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **wash** | /wɑʃ/ | a thin coat of water-base paint | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
+| **skinnylegs** | /ˈskɪni lɛgz/ | 字幕笔误；正字 **skinny legs** | 低频、拼写 |
+| **lifejackets** | /laɪf ˈʤækɪts/ | 字幕笔误；正字 **life jackets** | 低频、拼写 |
+| **hearties** | /ˈhɑrtiz/ | 字幕笔误；正字 **hearties** | 低频 |
 | **braver** | /ˈbreɪvər/ | 勇敢的 | 低频 |
-| **feel** | /fil/ | an intuitive awareness;  or | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **hand** | /hænd/ | 前足 | 多义 |
 | **teapot** | /ˈtiˌpɑt/ | pot for brewing tea; usually has a spout and handle | 低频 |
-| **name** | /neɪm/ | 名 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **house** | /haʊs/ | 住宅 | 多义 |
-| **away** | /əˈweɪ/ | not present; having left | 多义 |
-| **hurt** | /hərt/ | 伤害 | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **small** | /smɔl/ | the slender part of the back | 多义 |
 | **mister** | /ˈmɪstər/ | a form of address for a man | 低频 |

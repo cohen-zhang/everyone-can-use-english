@@ -121,35 +121,10 @@ I'm Peppa Pig. This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **yippeeee** | /yippeeee*/ |  | 低频 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **touch** | /təʧ/ | the event of something coming in contact with the body | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **mean** | /min/ | an average of n numbers computed by adding some function o… | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **switch** | /swɪʧ/ | 开关 | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **game** | /geɪm/ | 比赛 | 多义 |
-| **watch** | /wɔʧ/ | 怀表 | 多义 |
-| **later** | /ˈleɪtər/ | coming at a subsequent time or stage | 多义 |
-| **thing** | /θɪŋ/ | 局面 | 多义 |
 | **mend** | /mɛnd/ | 补丁 | 低频 |
-| **help** | /hɛlp/ | 帮 | 多义 |
-| **know** | /noʊ/ | the fact of being aware of information that is known to fe… | 多义 |
-| **long** | /lɔŋ/ | 渴望 | 多义 |
 | **disturb** | /dɪˈstərb/ | 使不适 | 低频 |
-| **say** | /seɪ/ | 决定权 | 多义 |

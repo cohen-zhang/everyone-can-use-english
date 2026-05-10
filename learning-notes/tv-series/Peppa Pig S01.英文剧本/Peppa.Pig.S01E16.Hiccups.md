@@ -121,36 +121,11 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **waaaaaaaaaaaaaaaaah** | /waaaaaaaaaaaaaaaaah*/ |  | 低频、拼写 |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **spoiiing** | /spoiiing*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
 | **hiccupping** | /hiccupping*/ | 打嗝 | 低频、拼写 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **work** | /wərk/ | activity directed toward making or doing something | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **top** | /tɔp/ | the upper part of anything | 多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **shock** | /ʃɑk/ | 休克 | 多义 |
 | **beaker** | /ˈbikər/ | a flatbottomed jar made of glass or plastic; used for chem… | 低频 |
-| **first** | /fərst/ | 头等 | 多义 |
 | **hiccup** | /ˈhɪkəp/ | 呃逆 | 低频 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **game** | /geɪm/ | 比赛 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
 | **hiccups** | /ˈhɪkəps/ | 呃逆 | 低频 |

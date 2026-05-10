@@ -155,35 +155,9 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **heii** | /heii*/ |  | 低频 |
-| **place** | /pleɪs/ | 地方 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **found** | /faʊnd/ | food and lodging provided in addition to money | 多义 |
-| **whee** | /whee*/ |  | 低频 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **finish** | /ˈfɪnɪʃ/ | a decorative texture or appearance of a surface (or the su… | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **bed** | /bɛd/ | 床 | 多义 |
-| **count** | /kaʊnt/ | 总数 | 多义 |
-| **counting** | /ˈkaʊntɪŋ/ | the act of counting; reciting numbers in ascending order | 多义 |
-| **help** | /hɛlp/ | 帮 | 多义 |
-| **know** | /noʊ/ | the fact of being aware of information that is known to fe… | 多义 |
-| **little** | /ˈlɪtəl/ | 少量 | 多义 |
-| **sure** | /ʃʊr/ | 一定的 | 多义 |
+| **heii** | /hi/ | 字幕笔误；正字 **he** | 低频 |
 | **erm** | /erm*/ |  | 低频 |
-| **one** | /wən/ | 数目1 | 多义 |
-| **ready** | /ˈrɛdi/ | 预备好的状态 | 多义 |

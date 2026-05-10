@@ -164,36 +164,14 @@ If you jump in muddy puddles, you must wear your boots!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **wheeibarrow** | /wheeibarrow*/ |  | 低频、拼写 |
-| **fiowerpots** | /fiowerpots*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **fiowerbed** | /fiowerbed*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **wheeeeee** | /wheeeeee*/ |  | 低频 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
+| **wheeibarrow** | /ˈwilˌbɛroʊ/ | 字幕笔误；正字 **wheelbarrow** | 低频、拼写 |
+| **fiowerpots** | /flaʊər pɑts/ | 字幕笔误；正字 **flower pots** | 低频、拼写 |
+| **fiowerbed** | /flaʊər bɛd/ | 字幕笔误；正字 **flower bed** | 低频 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
 | **draught** | /dræft/ | a serving of drink (usually alcoholic) drawn from a keg | 低频、多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
 | **pajama** | /pəˈʤɑmə/ | a pair of loose trousers tied by a drawstring around the w… | 低频 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **even** | /ˈivɪn/ | 傍晚 | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **bed** | /bɛd/ | 床 | 多义 |
 | **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **miss** | /mɪs/ | a young woman | 多义 |
-| **wear** | /wɛr/ | 磨损 | 多义 |
-| **grass** | /græs/ | 牧草 | 多义 |
-| **new** | /nu/ | 新的 | 多义 |
-| **shoes** | /ʃuz/ | 特定场合 | 多义 |

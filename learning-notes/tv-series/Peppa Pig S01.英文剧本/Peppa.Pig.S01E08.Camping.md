@@ -203,36 +203,11 @@ I love camping!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **rumbiing** | /rumbiing*/ |  | 低频 |
-| **light** | /laɪt/ | (physics) electromagnetic radiation that can produce a vis… | 多义 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **best** | /bɛst/ | the supreme effort one can make | 多义 |
-| **carry** | /ˈkɛri/ | the act of carrying something | 多义 |
-| **brrrrrr** | /brrrrrr*/ |  | 低频 |
-| **open** | /ˈoʊpən/ | a clear or unobstructed space or expanse of land or water | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **yipee** | /yipee*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **stick** | /stɪk/ | 木条 | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **move** | /muv/ | the act of deciding to do something | 多义 |
-| **pick** | /pɪk/ | the person or thing chosen or selected | 多义 |
-| **match** | /mæʧ/ | 火柴 | 多义 |
+| **rumbiing** | /ˈrəmbəlɪŋ/ | 字幕笔误；正字 **rumbling** | 低频 |
 | **snore** | /snɔr/ | the rattling noise produced when snoring | 低频 |
 | **chirp** | /ʧərp/ | a sharp sound made by small birds or insects | 低频 |
-| **fire** | /faɪər/ | the event of something burning (often destructive) | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **cold** | /koʊld/ | 伤风 | 多义 |
-| **mean** | /min/ | an average of n numbers computed by adding some function o… | 多义 |
 | **peg** | /pɛg/ | a wooden pin pushed or driven into a surface | 低频、多义 |
-| **outside** | /ˈaʊtˈsaɪd/ | the region that is outside of something | 多义 |
-| **fit** | /fɪt/ | 发脾气 | 多义 |
-| **easy** | /ˈizi/ | 容易的 | 多义 |
-| **camping** | /ˈkæmpɪŋ/ | the act of encamping and living in tents in a camp | — |

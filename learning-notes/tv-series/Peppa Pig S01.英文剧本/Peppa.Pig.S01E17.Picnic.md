@@ -180,36 +180,12 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **run** | /rən/ | a score in baseball made by a runner touching all four bas… | 多义 |
-| **picnicblanket** | /picnicblanket*/ |  | 低频、拼写 |
-| **whooooaaa** | /whooooaaa*/ |  | 低频 |
-| **iemonade** | /iemonade*/ |  | 低频 |
-| **shooooo** | /shooooo*/ |  | 低频 |
-| **shhooo** | /shhooo*/ |  | 低频 |
-| **sieepy** | /sieepy*/ |  | 低频 |
-| **shooo** | /shooo*/ |  | 低频 |
-| **give** | /gɪv/ | the elasticity of something that can be stretched and retu… | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **whooa** | /whooa*/ |  | 低频 |
-| **whoooa** | /whoooa*/ |  | 低频 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **eeek** | /eeek*/ |  | 低频 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **left** | /lɛft/ | 左边 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
+| **picnicblanket** | /ˈpɪkˌnɪk ˈblæŋkɪt/ | 字幕笔误；正字 **picnic blanket** | 低频、拼写 |
+| **iemonade** | /ˈlɛməˈneɪd/ | 字幕笔误；正字 **lemonade** | 低频 |
+| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
 | **scram** | /skræm/ | 滚开 | 低频 |
-| **last** | /læst/ | 完结 | 多义 |
-| **spot** | /spɑt/ | 地方 | 多义 |
-| **fly** | /flaɪ/ | 苍蝇 | 多义 |
-| **ahhhhh** | /ahhhhh*/ |  | 低频 |
 | **picnic** | /ˈpɪkˌnɪk/ | a day devoted to an outdoor social gathering | 低频 |

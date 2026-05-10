@@ -188,38 +188,12 @@ And this is the real Daddy Pig.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **grrrrrrrrrrrrrr** | /grrrrrrrrrrrrrr*/ |  | 低频、拼写 |
-| **grrrrrrrrrr** | /grrrrrrrrrr*/ |  | 低频、拼写 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **parcei** | /parcei*/ |  | 低频 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **close** | /kloʊz/ | 完结 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **cooky** | /cooky*/ | the cook on a ranch or at a camp | 低频 |
-| **grrrrr** | /grrrrr*/ |  | 低频 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **press** | /prɛs/ | 急迫 | 多义 |
-| **post** | /poʊst/ | 岗位 | 多义 |
-| **shoot** | /ʃut/ | 嫩枝 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **hard** | /hɑrd/ | 困难的 | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **sweet** | /swit/ | English phonetician; one of the founders of modern phoneti… | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **parcei** | /ˈpɑrsəl/ | 字幕笔误；正字 **parcel** | 低频 |
+| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
 | **frighten** | /ˈfraɪtən/ | 使害怕 | 低频 |
-| **secret** | /ˈsikrɪt/ | 机密 | 多义 |
-| **switch** | /swɪʧ/ | 开关 | 多义 |
-| **true** | /tru/ | proper alignment; the property possessed by something that… | 多义 |
-| **daddys** | /daddys*/ | 爸 | 低频 |
-| **movie** | /ˈmuvi/ | 影片 | — |
-| **camera** | /ˈkæmərə/ | 照相机 | — |
+| **daddys** | /ˈdædiz/ | 字幕笔误；正字 **daddy's** | 低频 |

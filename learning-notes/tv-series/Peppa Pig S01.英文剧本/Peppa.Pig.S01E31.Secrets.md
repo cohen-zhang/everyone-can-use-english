@@ -196,36 +196,9 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **place** | /pleɪs/ | 地方 | 多义 |
-| **clean** | /klin/ | a weightlift in which the barbell is lifted to shoulder he… | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **mmmmmm** | /mmmmmm*/ |  | 低频 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **show** | /ʃoʊ/ | the act of publicly exhibiting or entertaining | 多义 |
-| **outside** | /ˈaʊtˈsaɪd/ | the region that is outside of something | 多义 |
-| **fit** | /fɪt/ | 发脾气 | 多义 |
-| **secret** | /ˈsikrɪt/ | 机密 | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **doughnut** | /ˈdoʊˌnət/ | 环 | 低频 |
-| **picture** | /ˈpɪkʧər/ | a visual representation (of an object or scene or person o… | 多义 |
-| **full** | /fʊl/ | 月圆期 | 多义 |
-| **box** | /bɑks/ | 盒子 | 多义 |
-| **count** | /kaʊnt/ | 总数 | 多义 |
-| **secrets** | /ˈsikrɪts/ | 机密 | — |

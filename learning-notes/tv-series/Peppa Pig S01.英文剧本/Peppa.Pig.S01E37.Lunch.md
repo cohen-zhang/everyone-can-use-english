@@ -28,36 +28,16 @@ Peppa, would you like tomatoes?** **P: Yes, Grandpa Pig.** **GPP: George, do you
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
 | **garandpa** | /garandpa*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **georgeg** | /georgeg*/ |  | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **georgeg** | /ʤɔrʤ/ | 字幕笔误；正字 **George** | 低频 |
 | **hahhah** | /hahhah*/ |  | 低频 |
 | **peppap** | /peppap*/ |  | 低频 |
-| **piggnp** | /piggnp*/ |  | 低频 |
-| **piggpp** | /piggpp*/ |  | 低频 |
 | **tuckin** | /tuckin*/ |  | 低频 |
-| **pigdp** | /pigdp*/ |  | 低频 |
-| **pigmp** | /pigmp*/ |  | 低频 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **weeeee** | /weeeee*/ |  | 低频 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
 | **granpa** | /granpa*/ |  | 低频 |
-| **errrr** | /errrr*/ |  | 低频 |
-| **grrrrr** | /grrrrr*/ |  | 低频 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
 | **gpp** | /gpp*/ |  | 低频 |
-| **pick** | /pɪk/ | the person or thing chosen or selected | 多义 |
-| **wash** | /wɑʃ/ | a thin coat of water-base paint | 多义 |
 | **gnp** | /gnp*/ | 国民生产总值 | 低频 |
-| **piece** | /pis/ | 一片 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
-| **house** | /haʊs/ | 住宅 | 多义 |
-| **lunch** | /lənʧ/ | 午餐 | — |

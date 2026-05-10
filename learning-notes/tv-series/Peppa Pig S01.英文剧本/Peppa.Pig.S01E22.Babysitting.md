@@ -156,36 +156,15 @@ And so are the big piggies!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **horticuiturist** | /horticuiturist*/ |  | 低频、拼写 |
-| **play** | /pleɪ/ | 剧本 | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
+| **horticuiturist** | /ˌhɔrtɪˈkəlʧərɪst/ | 字幕笔误；正字 **horticulturist** | 低频、拼写 |
 | **gavesgate** | /gavesgate*/ |  | 低频 |
-| **iceiandic** | /iceiandic*/ |  | 低频 |
-| **dariings** | /dariings*/ |  | 低频 |
-| **iobbing** | /iobbing*/ |  | 低频 |
-| **iopping** | /iopping*/ |  | 低频 |
-| **sieepy** | /sieepy*/ |  | 低频 |
-| **fall** | /fɔl/ | 秋 | 多义 |
-| **head** | /hɛd/ | 头 | 多义 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **fell** | /fɛl/ | 兽皮 | 多义 |
-| **check** | /ʧɛk/ | 支票 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **wheeeee** | /wheeeee*/ |  | 低频 |
-| **wheeee** | /wheeee*/ |  | 低频 |
-| **heavy** | /ˈhɛvi/ | an actor who plays villainous roles | 多义 |
-| **back** | /bæk/ | the posterior part of a human (or animal) body from the ne… | 多义 |
-| **wheee** | /wheee*/ |  | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **rise** | /raɪz/ | a growth in strength or number or importance | 多义 |
-| **shoot** | /ʃut/ | 嫩枝 | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **rose** | /roʊz/ | 月季 | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
+| **iceiandic** | /aɪsˈlændɪk/ | 字幕笔误；正字 **Icelandic** | 低频 |
+| **dariings** | /ˈdɑrlɪŋz/ | 字幕笔误；正字 **darlings** | 低频 |
+| **iobbing** | /ˈlɑbɪŋ/ | 字幕笔误；正字 **lobbing** | 低频 |
+| **iopping** | /ˈlɑpɪŋ/ | 字幕笔误；正字 **lopping** | 低频 |
+| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
 | **babysitting** | /ˈbeɪbiˌsɪtɪŋ/ | the work of a baby sitter; caring for children when their … | 低频、拼写 |

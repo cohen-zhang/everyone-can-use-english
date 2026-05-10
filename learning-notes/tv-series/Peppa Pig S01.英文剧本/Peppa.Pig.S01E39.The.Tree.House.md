@@ -182,35 +182,10 @@ Well, I still think that those are very silly secret Words.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **coookies** | /coookies*/ |  | 低频 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **cooky** | /cooky*/ | the cook on a ranch or at a camp | 低频 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **case** | /keɪs/ | 事例 | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **top** | /tɔp/ | the upper part of anything | 多义 |
-| **ooooo** | /ooooo*/ |  | 低频 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **first** | /fərst/ | 头等 | 多义 |
-| **fit** | /fɪt/ | 发脾气 | 多义 |
-| **easy** | /ˈizi/ | 容易的 | 多义 |
-| **name** | /neɪm/ | 名 | 多义 |
-| **secret** | /ˈsikrɪt/ | 机密 | 多义 |
-| **house** | /haʊs/ | 住宅 | 多义 |
-| **think** | /θɪŋk/ | an instance of deliberate thinking | 多义 |
-| **young** | /jəŋ/ | 崽 | 多义 |
+| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
 | **hurray** | /həˈreɪ/ |  | 低频 |
-| **look** | /lʊk/ | the feelings expressed on a person's face | 多义 |
-| **course** | /kɔrs/ | 课 | 多义 |
-| **visit** | /ˈvɪzɪt/ | 作客 | 多义 |
-| **hmmmm** | /hmmmm*/ |  | 低频 |
 | **muddy** | /ˈmədi/ | dirty with mud | 低频、多义 |
-| **know** | /noʊ/ | the fact of being aware of information that is known to fe… | 多义 |

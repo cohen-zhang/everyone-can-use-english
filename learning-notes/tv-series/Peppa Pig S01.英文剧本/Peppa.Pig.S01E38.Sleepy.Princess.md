@@ -165,37 +165,11 @@ And our Little prince and princess enjoyed it, too!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **whaaaaaaaaaaaaa** | /whaaaaaaaaaaaaa*/ |  | 低频、拼写 |
-| **rooooaaaarr** | /rooooaaaarr*/ |  | 低频、拼写 |
-| **rooooaaarr** | /rooooaaarr*/ |  | 低频、拼写 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **sieepy** | /sieepy*/ |  | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **sieepy** | /sˈlipi/ | 字幕笔误；正字 **sleepy** | 低频 |
 | **youii** | /youii*/ |  | 低频 |
-| **set** | /sɛt/ | 一套 | 多义 |
-| **fall** | /fɔl/ | 秋 | 多义 |
-| **carry** | /ˈkɛri/ | the act of carrying something | 多义 |
-| **call** | /kɔl/ | 电话 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
-| **live** | /lɪv/ | 住 | 多义 |
-| **living** | /ˈlɪvɪŋ/ | the experience of being alive; the course of human events … | 多义 |
-| **end** | /ɛnd/ | either extremity of something that has length | 多义 |
-| **big** | /bɪg/ | 大的 | 多义 |
-| **outside** | /ˈaʊtˈsaɪd/ | the region that is outside of something | 多义 |
-| **fast** | /fæst/ | abstaining from food | 多义 |
-| **time** | /taɪm/ | an instance or single occasion for some event | 多义 |
-| **bit** | /bɪt/ | 一点 | 多义 |
 | **sleepy** | /sˈlipi/ | ready to fall asleep | 低频 |
-| **princess** | /ˈprɪnsɛs/ | 公主 | — |

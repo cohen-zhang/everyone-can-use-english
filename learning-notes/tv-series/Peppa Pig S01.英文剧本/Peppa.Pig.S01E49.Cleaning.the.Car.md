@@ -166,36 +166,12 @@ Naughty, messy Mummy.
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **poiishing** | /poiishing*/ |  | 低频 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
-| **pigthis** | /pigthis*/ |  | 低频 |
-| **hold** | /hoʊld/ | the act of grasping | 多义 |
-| **take** | /teɪk/ | 利润 | 多义 |
-| **turn** | /tərn/ | 弯 | 多义 |
-| **right** | /raɪt/ | an abstract idea of that which is due to a person or gover… | 多义 |
-| **drive** | /draɪv/ | the act of applying force to propel something | 多义 |
-| **drop** | /drɔp/ | 小滴 | 多义 |
-| **clean** | /klin/ | a weightlift in which the barbell is lifted to shoulder he… | 多义 |
-| **arrgh** | /arrgh*/ |  | 低频 |
-| **wahhh** | /wahhh*/ |  | 低频 |
-| **keep** | /kip/ | 生计 | 多义 |
-| **see** | /si/ | the seat within a bishop's diocese where his cathedral is … | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
-| **face** | /feɪs/ | 人类的脸 | 多义 |
-| **stop** | /stɑp/ | the event of something ending | 多义 |
-| **well** | /wɛl/ | 井 | 多义 |
+| **poiishing** | /ˈpɑlɪʃɪŋ/ | 字幕笔误；正字 **polishing** | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
+| **pigthis** | /pɪg ðɪs/ | 字幕笔误；正字 **pig this** | 低频 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **grrrr** | /grrrr*/ |  | 低频 |
-| **wash** | /wɑʃ/ | a thin coat of water-base paint | 多义 |
-| **throw** | /θroʊ/ | the act of throwing (propelling something with a rapid mov… | 多义 |
-| **dry** | /draɪ/ | a reformer who opposes the use of intoxicating beverages | 多义 |
 | **soapy** | /ˈsoʊpi/ | 圆滑的 | 低频 |
-| **bad** | /bæd/ | that which is below standard or expectations as of ethics … | 多义 |
-| **sweet** | /swit/ | English phonetician; one of the founders of modern phoneti… | 多义 |
-| **washed** | /wɑʃt/ | clean with some chemical process | 多义 |
-| **cleaning** | /ˈklinɪŋ/ | the act of making something clean | 多义 |

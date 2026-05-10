@@ -174,35 +174,17 @@ SpIish, splash, spiosh, spiish!
 
 ## Episode vocabulary（本集词汇）
 
-*词频 zipf 小于 4 标「低频」；义项数不少于 6 标「多义」；IPA 为 eng-to-ipa（GA）；中文优先 OMW，否则英文释义截断。*
+*成人向精简：仅保留本集低频词、字幕笔误（对照正字）、拼写难点或容易读错/读不准的音节；拟声词与无学习价值的 OCR 碎片已删；其余日常高频词已删。*
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **grrrrrrrrrrr** | /grrrrrrrrrrr*/ |  | 低频、拼写 |
-| **better** | /ˈbɛtər/ | something superior in quality or condition or effect | 多义 |
-| **make** | /meɪk/ | 品牌 | 多义 |
-| **dinesaw** | /dinesaw*/ |  | 低频 |
+| **dinesaw** | /ˈdaɪnəˌsɔr/ | 字幕笔误；正字 **dinosaur** | 低频 |
 | **spiish** | /spiish*/ |  | 低频 |
 | **spiosh** | /spiosh*/ |  | 低频 |
-| **catch** | /kæʧ/ | 不利因素 | 多义 |
-| **get** | /gɪt/ | a return on a shot that seemed impossible to reach and wou… | 多义 |
-| **heii** | /heii*/ |  | 低频 |
-| **go** | /goʊ/ | 工作时间 | 多义 |
+| **heii** | /hi/ | 字幕笔误；正字 **he** | 低频 |
 | **welldone** | /welldone*/ |  | 低频 |
-| **cooky** | /cooky*/ | the cook on a ranch or at a camp | 低频 |
-| **good** | /gʊd/ | benefit | 多义 |
-| **sound** | /saʊnd/ | the particular auditory effect produced by a given cause | 多义 |
-| **start** | /stɑrt/ | the beginning of anything | 多义 |
-| **come** | /kəm/ | the thick white fluid containing spermatozoa that is ejacu… | 多义 |
+| **cooky** | /ˈkʊki/ | the cook on a ranch or at a camp | 低频 |
 | **puddle** | /ˈpədəl/ | 胶土 | 低频、多义 |
-| **jump** | /ʤəmp/ | 上涨 | 多义 |
-| **flash** | /flæʃ/ | a sudden intense burst of radiant energy | 多义 |
-| **dry** | /draɪ/ | a reformer who opposes the use of intoxicating beverages | 多义 |
-| **still** | /stɪl/ | a static photograph (especially one taken from a movie and… | 多义 |
-| **find** | /faɪnd/ | 发现 | 多义 |
-| **high** | /haɪ/ | a lofty level or position or degree | 多义 |
-| **leave** | /liv/ | 休假 | 多义 |
-| **mean** | /min/ | an average of n numbers computed by adding some function o… | 多义 |
 | **splash** | /splæʃ/ | the sound like water splashing | 低频、多义 |
 | **soak** | /soʊk/ | 浸泡 | 低频、多义 |
 | **frighten** | /ˈfraɪtən/ | 使害怕 | 低频 |
