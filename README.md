@@ -156,8 +156,11 @@ learning-notes/
 
 #### `personal-english-book/`（个人英语材料书）
 
+**Obsidian：** 全量笔记列表、`tags`（含 `peb/*` 分区）与主题互链见 **`learning-notes/personal-english-book/README.md`**（个人英文材料书 MOC）。
+
 | 文件 | 中文说明 |
 | --- | --- |
+| `README.md` | 材料书索引（MOC、wikilink、主题互链） |
 | `project-overview-design.md` | 个人项目/主题的概要设计 |
 
 **`life/`（生活）**

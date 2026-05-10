@@ -34,24 +34,28 @@ Use this skill when the task is **only** building or editing a **tabular word li
 
 Assume the reader already knows **very high-frequency** English (e.g. *go, make, get, look, good, big, see, come, well*). **Default rule: only keep rows that pass at least one inclusion gate.**
 
+**Primary referee:** treat readers as **L1 简中** adults (engineers or similar) whose output target is **work + daily/parenting spoken English**. Do **not** treat “high frequency in native / kid-media corpora” or a bare **zipf** score as a **sufficient** reason to **drop** a headword—if the word is still **weak in passive or spoken use** for this cohort, it can stay (usually tagged **`低频`** or **`有难度`** with a gloss that says why).
+
 | Gate | Keep when… | 标签示例 |
 |------|------------|----------|
-| **低频** | The headword is **still a stretch point for an adult engineer in general English** (uncommon in news/books, technical, scene-specific, or easy to misread)—**not** “it only appears a few times in this episode.” | `低频` |
+| **低频** | (1) Uncommon or still a stretch in **general English** (news/books/technical, scene-specific, easy to misread)—**not** “it only appears a few times in this episode.” **Or** (2) **简中成人学习者** still needs it **consolidated** (教材/职场口语里不稳固、听得出但说不出), even when **native everyday** usage is fairly common. | `低频` |
 | **拼写** | Spelling is easy to miss (length, doubling, **-ise/-ize**, confusing pairs) **or** the source text has a **字幕/OCR 笔误** worth fixing. | `拼写` |
 | **易读错** | Stress, vowel quality, or reduction pattern is commonly wrong for 简中母语者; say **how not to read it** in 简中义项 when useful. | `易读错` |
-| **有难度** | Polysemy or collocation matters **in this document** and the gloss adds real value for an adult (otherwise omit “多义 junk”). | `多义`（慎用） |
+| **有难度** | Collocation, register, or **scene-specific high-value chunks** matter **in this document** for 简中成人学习者 (e.g. *be/get grumpy*); the gloss must earn the row—avoid empty “多义” padding. | `有难度` |
+| **多义** | Truly distinct senses matter **here**; use **sparingly** and pair with another gate when possible. | `多义`（慎用） |
 
 ### Exclude by default from adult tables
 
 - **Fully trivial tokens** for adults: basic adjectives/adverbs/verbs from kid textbooks unless the **current line** has a non-obvious sense, phrasal use, or pronunciation trap.
+- **Do not** drop a word **only because** it is **common in native/kid TV** or has a **high zipf** in English—re-check from a **简中成人学习者** angle (recognition, productive use, collocations).
 - **Pure onomatopoeia / stretched spellings** with **no stable pronunciation or lexicon entry** (e.g. *wheeeee, wahhhh, arrgh*): **do not** add unless the user explicitly wants sound-effects trivia.
 - **Duplicate rows**: If a typo row already teaches correct spelling and IPA, **do not** repeat the clean lemma on a separate line unless the user asks.
 
 ### Lead-in note (curated lists)
 
-One italic line under the `##` heading, e.g.:
+One italic line under the `##` heading, e.g. (keep in sync with `scripts/peppa_adult_vocab_curate.py` `ADULT_NOTE` when maintaining Peppa):
 
-*成人向精简：面向已具备工作英语基础的读者；「低频」指**通用英语里相对少遇或仍有收束价值**的词，并非「在本集台词里出现得少」。收录笔误对照、拼写/读音难点、术语；剔除超高频中小学词汇、纯拟声、无价值字幕碎片。*
+*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
 
 ## Audience: child / beginner tables（亲子或低阶）
 
@@ -59,7 +63,7 @@ When the user targets **儿童或初学者**, widen inclusion: short concrete no
 
 ## Controlled 标签 vocabulary
 
-Use **简中** tags only; prefer: `低频`, `拼写`, `易读错`, `多义`, `术语`, `技术`, `亲子`. Combine with `、` (e.g. `低频、拼写`).
+Use **简中** tags only; prefer: `低频`, `拼写`, `易读错`, `有难度`, `多义`, `术语`, `技术`, `亲子`. Combine with `、` (e.g. `低频、拼写`).
 
 ## Quality checks before shipping a table
 
