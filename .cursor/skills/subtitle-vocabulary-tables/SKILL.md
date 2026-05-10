@@ -69,4 +69,6 @@ Use **简中** tags only; prefer: `低频`, `拼写`, `易读错`, `多义`, `�
 
 ## Optional reference
 
+When a **raw transcript** (e.g. `.txt`) ships alongside **per-episode Markdown** (study lines or `## Episode vocabulary（本集词汇）`), add a **hub README** that tables the pairs for Obsidian—example: [[learning-notes/tv-series/modern-family/s01/transcript/README.md]] ↔ study notes index in the same season folder. **Regenerate scripts** should preserve or re-append transcript header wikilinks if they touch file tops.
+
 Keep this `SKILL.md` focused; long examples can live in `reference.md` in this folder if needed.

@@ -66,8 +66,9 @@ When adding or substantially finishing a **new** learning note under `learning-n
      `[[learning-notes/parenting-english/.../file-name|短标题或节名]]`  
      (Same pattern as in `parenting-peppa-pig-notes.md` and `Peppa Pig S01.英文剧本/README.md`.)
    - **相向互链**: the new file links to the related note **and** that note gains a **相关** / **（扩展）** line (or list item) linking back—briefly state which **section or table** the reader should open.
-3. **Avoid**: Linking only one direction; stuffing unrelated links for “coverage.” Skip or defer if the overlap is vague (e.g. a methodological note vs. a phrase list) unless the user asks to wire the graph anyway.
-4. **Vault root**: Remind the user (if relevant) that wikilinks resolve cleanly when the Obsidian vault root includes `learning-notes/` (or the same tree used in those full paths).
+3. **Hub README (optional):** When many episodes pair **raw transcript** (e.g. `.txt`) with **Markdown notes**, add a small **MOC** file—e.g. modern-family pairs [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]] with [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes README]]; use **bare** `[[path]]` wikilinks inside Markdown **tables** if the display alias would break `|` cell separators.
+4. **Avoid**: Linking only one direction; stuffing unrelated links for “coverage.” Skip or defer if the overlap is vague (e.g. a methodological note vs. a phrase list) unless the user asks to wire the graph anyway.
+5. **Vault root**: Remind the user (if relevant) that wikilinks resolve cleanly when the Obsidian vault root includes `learning-notes/` (or the same tree used in those full paths).
 
 ## Optional reference
 
