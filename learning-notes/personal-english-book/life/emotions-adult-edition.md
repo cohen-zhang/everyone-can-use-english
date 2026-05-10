@@ -1,6 +1,17 @@
+---
+tags:
+  - topic/emotions
+  - english-learning
+  - audience/adult
+aliases:
+  - 情绪成人版
+---
+
 # 情绪 — 成人版
 
 参考 Apple Health 情绪追踪分类，覆盖工作与夫妻生活场景的情绪表达。
+
+**相关（相向互链）：** 带娃日常简表达 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]（问感受、儿童高频形容词）。
 
 ---
 

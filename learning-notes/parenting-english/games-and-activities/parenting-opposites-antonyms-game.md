@@ -164,7 +164,7 @@
 | ----------- | ------- | -------------------- | -------------- | ------------------------------------------------------------------------------------------ |
 | **young**   | 年轻的／年幼的 | **old**              | （指人）年长／上了年纪的   | You are young. / Grandpa is old. — 你还年轻／爷爷上了年纪。（当众夸长辈更常用 **older**「年纪更大」，比直接说 *old* 温和。）       |
 | **younger** | 更小岁数的   | **older**            | 更大岁数的／更年长的      | You're younger than Mommy. Mommy is older. — 你比妈妈岁数小／妈妈岁数更大。（游戏练对比即可）                        |
-| **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**（大人感） | 大的／长大成人了的      | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（配对 **kids↔grown-ups** 也可口头玩） |
+| **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**／**adult**（大人／成人） | 大的／长大成人了的／成人（的） | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（**kids↔grown-ups** 外，也可口头玩 **kid↔adult**：*Are you a kid or an adult?* 你算小孩还是大人？— *adult* 作名词更顺口；作形容词常说 **adult size**「成人尺码」。） |
 
 
 ### 位置类

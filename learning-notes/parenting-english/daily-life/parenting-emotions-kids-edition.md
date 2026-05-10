@@ -1,9 +1,19 @@
+---
+tags:
+  - topic/emotions
+  - english-learning
+  - audience/parent-child
+aliases:
+  - 情绪亲子英文
+---
+
 # 情绪 — 亲子英文表达
 
 帮助家长和孩子用英文表达和讨论情绪的日常用语。
 
 **相关：**
 
+- 成人向进阶（工作/夫妻场景、Apple Health 式分类）— [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（与此页 **相向互链**。）
 - 情绪形容词的反义配对 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「情绪类」表；与此页相向互链。）
 - 用表情互动的词汇游戏 — [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜 — Emoji Guessing Game]]（与此页相向互链。）
 
