@@ -1,0 +1,9 @@
+# Optional per-episode scene split overrides.
+# Example:
+# "Muddy Puddles":
+#   extra_breaks_after_lines:  # 0-based index in file after cold-open block removed
+#     - 42
+#   titles:  # optional explicit titles (en_label, zh_short) per segment index
+#     - ["After the rain", "雨停之后"]
+
+{}
