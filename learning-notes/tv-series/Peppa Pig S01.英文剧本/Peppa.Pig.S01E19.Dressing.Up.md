@@ -162,3 +162,9 @@ You really had us fooied!
 | **lipstick** | /ˈlɪpˌstɪk/ | 口红 | 低频 |
 | **fooled** | /fuld/ | 骗了；上当 | 低频 |
 | **snort** | /snɔrt/ | （猪等）鼻息声；鼻哼一声 | 低频、多义 |
+
+---
+
+## Related（Obsidian · 亲子扩展）
+
+- **职业、角色与扮装游戏用语**（含本集「扮爸／扮妈」对照表）：[[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]] — 与此页 **相向互链**。
