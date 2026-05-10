@@ -2,6 +2,8 @@
 
 女孩版亲子日常英文：梳头、扎头发、发夹、照镜子、防晒、出门前整理仪容等场景。
 
+**相关：** *Look up*／*look down* 等可与反义词配对练 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「动作类 — 亲子日常指令」表；与此页相向互链。）
+
 ---
 
 ## 1. 早上梳头 — Brushing Hair in the Morning
@@ -347,23 +349,23 @@
 
 ## 9. 常见梳妆词汇 — Grooming Vocabulary
 
-| English | 中文 | 亲子例句 |
-|---------|------|----------|
-| **comb** | 梳子 | Use the comb gently. 轻轻用梳子梳。 |
-| **hairbrush** | 发刷 | Where is your hairbrush? 你的发刷在哪里？ |
-| **hair tie** | 皮筋 / 发圈 | I need a hair tie. 我需要一个发圈。 |
-| **hair clip** | 发夹 | This hair clip is cute. 这个发夹很可爱。 |
-| **headband** | 发带 | The headband matches your dress. 这个发带和你的裙子很搭。 |
-| **bow** | 蝴蝶结 | Do you want a bow today? 今天想戴蝴蝶结吗？ |
-| **bangs** | 刘海 | Your bangs are too long. 你的刘海太长了。 |
-| **ponytail** | 马尾 | Let's make a ponytail. 我们扎个马尾。 |
-| **pigtails** | 双马尾 | Pigtails look cute on you. 双马尾你扎起来很可爱。 |
-| **braid** /breɪd/ | 辫子 | Do you want a braid? 你想编辫子吗？ |
-| **curly / natural curls** | 卷发／自然卷 | **Natural curls** look great—comb gently from the ends. |
-| **mirror** | 镜子 | Look in the mirror. 照照镜子。 |
-| **sunscreen** | 防晒霜 | Put on sunscreen. 涂防晒。 |
-| **lip balm** /lɪp bɑːm/ | 润唇膏 | Use some lip balm. 涂点润唇膏。 |
-| **moisturizer** /ˈmɔɪstʃəraɪzər/ | 润肤霜 | This moisturizer is gentle. 这个润肤霜很温和。 |
+| English                          | 中文      | 亲子例句                                                    |
+| -------------------------------- | ------- | ------------------------------------------------------- |
+| **comb**                         | 梳子      | Use the comb gently. 轻轻用梳子梳。                            |
+| **hairbrush**                    | 发刷      | Where is your hairbrush? 你的发刷在哪里？                       |
+| **hair tie**                     | 皮筋 / 发圈 | I need a hair tie. 我需要一个发圈。                             |
+| **hair clip**                    | 发夹      | This hair clip is cute. 这个发夹很可爱。                        |
+| **headband**                     | 发带      | The headband matches your dress. 这个发带和你的裙子很搭。           |
+| **bow**                          | 蝴蝶结     | Do you want a bow today? 今天想戴蝴蝶结吗？                      |
+| **bangs**                        | 刘海      | Your bangs are too long. 你的刘海太长了。                       |
+| **ponytail**                     | 马尾      | Let's make a ponytail. 我们扎个马尾。                          |
+| **pigtails**                     | 双马尾     | Pigtails look cute on you. 双马尾你扎起来很可爱。                  |
+| **braid** /breɪd/                | 辫子      | Do you want a braid? 你想编辫子吗？                            |
+| **curly / natural curls**        | 卷发／自然卷  | **Natural curls** look great—comb gently from the ends. |
+| **mirror**                       | 镜子      | Look in the mirror. 照照镜子。                               |
+| **sunscreen**                    | 防晒霜     | Put on sunscreen. 涂防晒。                                  |
+| **lip balm** /lɪp bɑːm/          | 润唇膏     | Use some lip balm. 涂点润唇膏。                               |
+| **moisturizer** /ˈmɔɪstʃəraɪzər/ | 润肤霜     | This moisturizer is gentle. 这个润肤霜很温和。                   |
 
 ---
 

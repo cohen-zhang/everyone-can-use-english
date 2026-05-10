@@ -2,6 +2,8 @@
 
 亲子日常整理场景的英文表达，帮助培养孩子收拾习惯。
 
+**相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）
+
 ---
 
 ## 1. 收拾玩具 — Put Away Toys

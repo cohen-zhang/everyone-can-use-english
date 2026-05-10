@@ -73,6 +73,7 @@
 
 ### 动作类 — 亲子日常指令
 
+**（扩展练习）** 同一批动词／指令的整句跟读与组合场景见：[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]；梳头、照镜子时常用到的 *look up*／*look down* 等见 [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]] — 上两处与此小节 **相向各放一条链接**，在图谱与反向链接面板中会互显。
 
 | 英文           | 中文     | 反义词（英文）         | 反义词（中文） | 亲子场景例句                                                       |
 | ------------ | ------ | --------------- | ------- | ------------------------------------------------------------ |
@@ -88,8 +89,37 @@
 | **look up**  | 抬头     | **look down**   | 低头      | Look up a little. / Look down at your book. — 稍微抬头 / 低头看书    |
 
 
+### 口令与指别：Do this／Do that／Don't … `亲子`
+
+下面多是**整条指令**对照，帮孩子分清 **this（眼前／我刚示范的这个）** 与 **that（那个／远一点／你先别碰的那个）**，以及 **准许做 ↔ 叫停别做**。玩「正反」时也可用 **say yes ↔ say no**，或 **go ahead ↔ stop / don't**。
+
+| 英文句式（整句说出口）                | 简中                               | 「对照这一句」／反着说                        | 简中／说明                          | 亲子场景例句                                                                                   |
+| --------------------------- | -------------------------------- | ---------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Do this.**                | （照）这样做；做这个（面前的动作／步骤）。              | **Do that.**                       | （照）那样做／做那个（稍远／对方指的那件事）。           | Mommy does **this**. Can you copy **that**? — 妈妈做**这个**。你能照样做**那个**吗？                        |
+| **Do this, not that.**        | 要**这样**，不要**那样**。                 | （一句里已正反）                             | **this**／**that** 同上，顺带练听力辨位。               | Shake **like this**. **Not** like **that**. — **这样**甩。**别**那样甩。                                             |
+| **Do that.**                | 去做那件／就那样做。                       | **Don't do that.**                 | **别那样做**。（制止不安全、粗鲁、会破坏东西等做法。）         | Okay—**do that** with both hands. / **Hey, don't do that** with the crayon. — 好—**两只手那样做**。／诶，蜡笔**别那样**。 |
+| **Don't do that.**            | **别那样干**。                         | （与让对方 **Do that**／**Try it**）   | 「去做试试」vs「别这么做」是一套日常对照。                   | **Don't do that!** You'll spill it. Later you may try again. — **别那样！**会洒。等一下再让你试一次。                                      |
+| **Don't.**／**Don't!**／**Stop.** | 「别。」「住手。」最短制止。（语气可大可小。）                   | （与刚才的 **Go on.**／**Do it.**／**Try.**） | 许可推进 ↔ 立刻踩刹车的口气，娃很熟悉。                     | **Stop.** Not now. **Do ask** nicely first. — **停**，现在不行。**先要**礼貌地问。                                                       |
+
+
+#### 进阶：准许 ↔ 不许（can／may／allowed／supposed）
+
+口语里常以 **can't**／**don't**／**stop** 收束上一格；下面这些更偏「**规矩感**」，和 **Do／Don't** 可接着玩：**能力上能不能**、**准许不准许**与**按理说该不该**，要靠整句上下文听语气（家长解释一次即可）。
+
+| A（许可／获准／按理说该……）                                                              | 简中                                                                   | B（反面：不许／没获准／按理说别……）                                                                              | 简中                                                                     | 亲子场景例句                                                                                                                                      |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **You can.**／**You can …**（能力／规则里「准许」两重义靠上下文分辨） | 「你可以」（做得到或规则允许）。 | **You can't.**／**You cannot.**／**You're not allowed to.**（最后一句常为场馆／告示／校规口吻） | 「（你）没法／不许／没被允许」…… | Dad nods—you **can** open it. Signs say **you cannot** litter. — 爸爸点头—**你可以**打开。指示牌写「禁止乱扔」。 |
+| **You're allowed** to … | 「（规定／大人）准许你……」 | **You're not allowed** to … | 「（规定／大人）不许你……」 | You're **allowed** one sticker. You're **not allowed** snacks before dinner. — 贴纸只准贴一张；饭前**不准**先吃零食。（可与 **can't**／**don't** 换着说） |
+| **You may …** | 「可以」（比 *can* 稍正式；家长／老师式许可也常听） | **You may not.**／口语里多读成 **can't**／**don't** | 「不可以」（书面 *may not*；家里嘴快常直接说 *can't*） | **May I** go outside? — **You may.** / Not now—you **can't.** — 「能出去吗？」／「可以。／现在不行。」 |
+| **You're supposed** to … | 「按理／按规矩你该……」（像讲公德或流程，不必当训斥） | **You're not supposed** to … | 「按理／按规矩你别……」（语感偏公事公办，不一定比 *don't* 更凶） | You're **supposed to** wash hands first. You're **not supposed to** yell in banks. — 先洗手再吃饭；在银行里按规矩不该大喊。（**shouldn't** 口语里常可和 *not supposed to* 对照讲） |
+
+**口袋句（许可问答）**：**May I …?** — **Yes, you may.**／**No, you can't.** · **Can I …?** — **Yes, you can.**／**No, you cannot / can't.** 四句轮换跟读。**cannot** 是 **can't** 的完整写法。**mustn't** 表示「禁止、千万别」（比 *don't* 更强），可先只做听力输入。
+
+顺带：`like this / like that`「像这样／像那样」与 **how**／**why**／**please**／**sorry** 可继续编进下一轮；和本格一并练时用 **please, may I …?**／**sorry, you can't**。不必一次背全。
+
 ### 状态与描述类
 
+**（扩展）** 收拾、整洁相关整句指令见：[[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常 — Clean Up & Organize]] — 与此小节相向互链。
 
 | 英文         | 中文  | 反义词（英文）   | 反义词（中文） | 亲子场景例句                                                            |
 | ---------- | --- | --------- | ------- | ----------------------------------------------------------------- |
@@ -115,6 +145,7 @@
 
 ### 情绪类
 
+**（扩展）** 更多情绪词汇与「问感受」句式见：[[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]；表情互动练词见：[[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜 — Emoji Guessing Game]] — 与此小节相向互链。
 
 | 英文          | 中文  | 反义词（英文）       | 反义词（中文） | 亲子场景例句                                                     |
 | ----------- | --- | ------------- | ------- | ---------------------------------------------------------- |
@@ -196,6 +227,10 @@
 - **Can you show me "small" with your hands?** — 你能用手比划"小"吗？
 - **Can you act out "open"?** — 你能表演"打开"吗？
 - **Say "begin" … now say "end"!** — 说「开始」——再说「结束」!
+- **Listen: "Do this!" … now switch: "Do that!"** — 听：「这样做！」——换：「那样做！」（配合手指近／远）
+- **I say "Do that"—you mime it. I say "Don't do that"—freeze!** — 我说 *Do that* ——你做动作；我说 *Don't do that* ——定住别动！
+- **You can nod. Now you can't—freeze!** — 许可时点头；轮到 *you can't* 就定格！
+- **Pretend the sign says "You're not supposed to …" What's the opposite phrase?** — 假装牌子上写「按理说不要……」，反过来说一句准许的话（允许用 *You're allowed …*／*you can …*）。
 
 ### 回答反馈
 
@@ -210,6 +245,10 @@
 - **When does class begin? When is class over?** — 什么时候算「上课」？什么时候「下课／放学」？（中英文说法都可练。）
 - **Who is younger? Who is older?** — 谁年纪更小？谁更大？（只练对比别嘲笑。）
 - **Can you think of another word for "big"?** — 你能想出"big"的另一个说法吗？
+- **When do we say "Do this"? When do we say "Do that"?** — 什么时候说「做这个」？什么时候说「做那个」？（近指／远指）
+- **Is "Don't do that" the opposite of "Do that"?** — *Don't do that* 算 *Do that* 的反面吗？（否定指令↔允许去做，可接 **yes/no**／**okay/stop**。）
+- **When do grown-ups say "you may"? When do they say "you can't"?** — 大人什么时候说 *you may*？什么时候说 *you can't*？（可不追求唯一答案；感受「客气许可」vs「规矩不许」。）
+- **You're supposed to line up—you're NOT supposed to cut in line.** — 该排队／不该插队；用中英文各说一遍，体会 *supposed* 的规矩味。
 
 ---
 
@@ -294,7 +333,7 @@
 | 30  | stop    | go               | 停 / 走   |
 
 
-### 扩展对（味觉·年龄·起止等，任选加进游戏里）
+### 扩展对（味觉·年龄·起止·口令进阶等，任选加进游戏里）
 
 
 | No. | 词组 A        | 词组 B                                         | 中文对照                         |
@@ -309,7 +348,12 @@
 | 38  | time for class／class begins | class is over／school's over／school lets out | 该上课／上课了 ↔ 下课／放学            |
 | 39  | the game begins／starts | the game is over／time's up                  | 游戏开始 ↔ 结束／到时                |
 | 40  | win         | lose                                         | 赢 / 输                        |
-
+| 41  | do this（近）   | do that（远／对方指的那份）                                   | （照）做这个 ↔ （照）做那个／那样做 |
+| 42  | do that／可以做那样 | don't do that                                      | （许可）就那样做 ↔ 别那样做／住手 |
+| 43  | go on／try／do it（许可推进） | don't／stop／don't!（叫停）                                         | 「继续试试看」 ↔ 「别」「停」 |
+| 44  | you can／You're allowed（许可／可以做） | you can't／cannot／You're not allowed（不许／没被准许）                 | 「可以／获准」 ↔ 「没办法／不许」       |
+| 45  | You may …（获准，偏正式）／May I …?           | May not／口语常改 can't／don't                           | 「允许」 ↔ 「不允许」（家里嘴快多听 *can't*） |
+| 46  | You're supposed to …（按理说该……）           | You're not supposed to …（按理说别……）；亦可口述 **you shouldn't** 对比 | 「按规矩应该怎样」 ↔ 「按规矩不应该」      |
 
 ---
 

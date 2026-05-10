@@ -2,6 +2,8 @@
 
 亲子互动游戏，通过表情学习英文词汇。
 
+**相关：** 情绪词的更多例句与亲子对话见 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]；形容词反义配对见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「情绪类」表）— 与此页 **相向互链**。
+
 ---
 
 ## 游戏玩法
