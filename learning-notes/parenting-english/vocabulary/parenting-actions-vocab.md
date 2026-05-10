@@ -2,7 +2,7 @@
 
 亲子日常中围绕具体东西的动作表达。
 
-**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）
+**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）**脱下泥衣服、去上班**等整句角色扮演扩展 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]。
 
 ---
 

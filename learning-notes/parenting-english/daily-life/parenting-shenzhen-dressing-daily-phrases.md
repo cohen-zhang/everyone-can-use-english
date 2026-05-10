@@ -2,6 +2,8 @@
 
 围绕深圳地区亲子日常的穿衣英文表达：上学、出门、雨天、空调房、冷热天与场合选衣选鞋、帽子用词、运动、洗澡后换衣服等场景。
 
+**相关：** **扮装／假装当某人**（*dress up*, *pretend to be*）与「认真穿好衣服」不同 → [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（例：[[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]；与此页相向互链）。
+
 ---
 
 ## 1. 早上穿衣 — Getting Dressed in the Morning

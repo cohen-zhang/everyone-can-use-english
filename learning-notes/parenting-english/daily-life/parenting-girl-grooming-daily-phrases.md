@@ -2,7 +2,10 @@
 
 女孩版亲子日常英文：梳头、扎头发、发夹、照镜子、防晒、出门前整理仪容等场景。
 
-**相关：** *Look up*／*look down* 等可与反义词配对练 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「动作类 — 亲子日常指令」表；与此页相向互链。）
+**相关：**
+
+- *Look up*／*look down* 等可与反义词配对练 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「动作类 — 亲子日常指令」表；与此页相向互链）。
+- 动画里**玩化妆品扮妈妈**可与真实梳妆流程对比 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（Peppa **[[Peppa.Pig.S01E19.Dressing.Up|S01E19]]**；与此页相向互链）。
 
 ---
 
