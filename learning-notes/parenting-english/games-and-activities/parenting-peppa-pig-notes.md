@@ -1,3 +1,11 @@
+---
+aliases:
+  - 不多 Peppa Pig 手记
+tags:
+  - parenting-english
+  - peppa-pig/link
+---
+
 # Peppa Pig 与几则笔记（第 82 篇）
 
 这是 **不多** 第 82 篇学习记录。
@@ -9,6 +17,11 @@
 ## Peppa Pig `亲子`
 
 **不多** 喜欢看 *Peppa Pig*，从她最熟悉的动画入手。
+
+### Obsidian 双向跳转（Vault 根 = 本仓库根目录时）
+
+- **第一季剧本总索引（互链另一端）：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 README]] — 手记与此 README **相向各放一条链接**，图谱与 backlinks（反向链接面板）中会互显。
+- **和下文例句常对应的集：** 泥坑 → [[Peppa.Pig.S01E01.Muddy.Puddles|S01E01 Muddy Puddles]]　·　苏茜／挚友 → [[Peppa.Pig.S01E04.Best.Friend|S01E04 Best Friend]]。其余剧集同 README 所列目录，`[[Peppa.Pig.S01ENN.…]]` 短文件名在库内一般可直接解析（仍以 README「Obsidian」表为准）。
 
 | English | 中文 |
 |--------|------|
