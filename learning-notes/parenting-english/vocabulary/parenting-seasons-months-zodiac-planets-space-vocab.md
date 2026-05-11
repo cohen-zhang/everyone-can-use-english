@@ -48,20 +48,20 @@ tags:
 
 首字母**大写**；口语可带缩写 **Jan. / Feb. / …**（美式句点可有可无，以学校教材为准）。`亲子`
 
-| English | 简中 | 缩写（常见） |
-| --- | --- | --- |
-| **January** | 一月 | Jan. |
-| **February** | 二月 | Feb. |
-| **March** | 三月 | Mar. |
-| **April** | 四月 | Apr. |
-| **May** | 五月 | May（一般不缩写） |
-| **June** | 六月 | Jun. |
-| **July** | 七月 | Jul. |
-| **August** | 八月 | Aug. |
-| **September** | 九月 | Sept. / Sep. |
-| **October** | 十月 | Oct. |
-| **November** | 十一月 | Nov. |
-| **December** | 十二月 | Dec. |
+| English | IPA (GA) | 简中 | 缩写（常见） |
+| --- | --- | --- | --- |
+| **January** | /ˈdʒænjueri/ | 一月 | Jan. |
+| **February** | /ˈfebjueri/ | 二月 | Feb. |
+| **March** | /mɑːrtʃ/ | 三月 | Mar. |
+| **April** | /ˈeɪprəl/ | 四月 | Apr. |
+| **May** | /meɪ/ | 五月 | May（一般不缩写） |
+| **June** | /dʒuːn/ | 六月 | Jun. |
+| **July** | /dʒuˈlaɪ/ | 七月 | Jul. |
+| **August** | /ˈɔːɡəst/ | 八月 | Aug. |
+| **September** | /sepˈtembər/ | 九月 | Sept. / Sep. |
+| **October** | /ɑːkˈtoʊbər/ | 十月 | Oct. |
+| **November** | /noʊˈvembər/ | 十一月 | Nov. |
+| **December** | /dɪˈsembər/ | 十二月 | Dec. |
 
 **顺带一句**：**月份前**介词常用 **in** — *in July*；若说具体日期用 **on** — *on July 4*。
 
@@ -71,15 +71,15 @@ tags:
 
 与月份一样：**星期英文专名首字母习惯大写**；日历上有的国家把一周**排头格**印在周日（**Sunday**）、有的印在周一（英欧工作历常见 **Monday**），**不影响**短语 *on Monday / this Friday*。**weekday（平日）** 常指周一至周五；**weekend** 指周六日（英式口语偶把周五晚也算进来，不必一次讲全）。**缩写**多用于表格与日程：**Mon. / Tue. / Wed.** 等——**Tue.** 亦作 **Tues.**（少用），**Thu.**／**Thur.**／**Thurs.** 都有人写，以校内教材为准。`亲子`
 
-| English | 简中 | 缩写（常见） |
-| --- | --- | --- |
-| **Monday** | 星期一／周一 | Mon. |
-| **Tuesday** | 星期二／周二 | Tue.／Tues. |
-| **Wednesday** | 星期三／周三 | Wed. |
-| **Thursday** | 星期四／周四 | Thu.／Thur.／Thurs. |
-| **Friday** | 星期五／周五 | Fri. |
-| **Saturday** | 星期六／周六 | Sat. |
-| **Sunday** | 星期日／周日／星期天 | Sun. |
+| English | IPA (GA) | 简中 | 缩写（常见） |
+| --- | --- | --- | --- |
+| **Monday** | /ˈmʌndeɪ/ | 星期一／周一 | Mon. |
+| **Tuesday** | /ˈtuːzdeɪ/ | 星期二／周二 | Tue.／Tues. |
+| **Wednesday** | /ˈwenzdeɪ/ | 星期三／周三 | Wed. |
+| **Thursday** | /ˈθɜːrzdeɪ/ | 星期四／周四 | Thu.／Thur.／Thurs. |
+| **Friday** | /ˈfraɪdeɪ/ | 星期五／周五 | Fri. |
+| **Saturday** | /ˈsætərdeɪ/ | 星期六／周六 | Sat. |
+| **Sunday** | /ˈsʌndeɪ/ | 星期日／周日／星期天 | Sun. |
 
 **三个时间词拆开讲**：**today**（今天）、**tomorrow**（明天）、**yesterday**（昨天）在口语里多数是**副词**，一般**不再叠加**多余介词——说 *today*，不说 *at today*；可说 *tomorrow afternoon*／*yesterday evening*。
 

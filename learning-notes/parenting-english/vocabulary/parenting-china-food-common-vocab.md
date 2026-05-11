@@ -81,6 +81,7 @@ tags:
 - **lotus root** 莲藕  
 - **celery** 芹菜  
 - **bell pepper** 彩椒、甜椒  
+- **chili pepper / hot pepper / chile** 🌶辣椒（鲜辣椒；干辣可另说 **dried chili**）  
 
 常用句：
 
@@ -106,6 +107,7 @@ tags:
 - **lamb / mutton** 羊肉  
 - **egg** 鸡蛋  
 - **tofu** 豆腐  
+- **ham sausage (Chinese-style stick; often starch / surimi heavy—different from sliced ham)** 火腿肠（常作零食或配泡面；「淀粉肠」语境）  
 
 ### 海鲜类
 

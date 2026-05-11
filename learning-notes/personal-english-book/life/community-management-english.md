@@ -146,7 +146,95 @@ For help, contact your housekeeper or the **24-hour control center: 0755-8462297
 
 ---
 
-## 6. 电梯例行保养
+## 6. 生活水管维修 · 停水通知（产业园）
+
+### 中文
+
+**【新一代产业园关于 4 栋生活水管维修的温馨提示】**
+
+尊敬的客户：
+
+您好！园区将对 **4 栋**生活水管进行维修，期间将暂停供水，具体信息如下：
+
+- ⚠ **维修时间：** 5 月 11 日（周一）19:00 至 5 月 12 日（周二）02:00  
+- ⚠ **维修内容：** 4 栋生活水管维修  
+- ⚠ **停水范围：**  
+  1. **3–5 栋**：4–23 层  
+  2. **6 栋**：4–17 层  
+
+**温馨提示：**  
+维修期间上述区域将**全面停水**，请提前做好储水准备，并关闭直饮水机等用水设备。维修期间如需使用卫生间，请移步至**未停水楼层**的公共卫生间。
+
+如需帮助，可随时联系**楼栋管家**或 **24 小时服务热线：0755-88376666**。感谢您的理解与支持。[玫瑰][爱心]
+
+### English
+
+**[Warm Reminder: Domestic Water Supply Maintenance in Building 4 — New Generation Industrial Park]**
+
+Dear residents and tenants,
+
+We will **repair the domestic water supply piping** serving **Building 4**. **Water service will be temporarily suspended** during the work. Details are as follows:
+
+- ⚠ **Maintenance window:** **19:00 Monday, May 11** through **02:00 Tuesday, May 12**  
+- ⚠ **Scope of work:** Domestic water supply line maintenance in **Building 4**  
+- ⚠ **Affected area:**  
+  1. **Buildings 3–5:** floors **4–23**  
+  2. **Building 6:** floors **4–17**  
+
+**Please note:**  
+There will be **a full water outage** in the areas above. **Store water in advance** and **switch off** equipment that uses water, such as **drinking-water dispensers** (bottle fillers / in-line dispensers). If you need a **restroom** during the outage, please use the **public restrooms on floors where water service remains available**.
+
+For assistance, contact your **building housekeeper** or the **24-hour service hotline: 0755-88376666**. Thank you for your understanding and support.[玫瑰][爱心]
+
+*英译说明（对照「english-learning-markdown-docs」）：用 **residents and tenants** 涵盖园区写字楼 / 商住客户场景；**domestic water supply piping** 对应「生活水管」；原稿英译 *Buildings 1.3-5* 为条目编号误读，已按中文改正为 **Buildings 3–5** 与 **Building 6**；时间用 **through** 标明跨夜时段。*
+
+---
+
+## 7. 周六工作日 · 闹钟提醒
+
+### 中文
+
+**【管家播报】** 本周六（**5 月 9 日**）为工作日，大家记得调好闹钟哦～⏰
+
+### English
+
+**[Housekeeper’s reminder]** **This Saturday, May 9, is a working day**—**don’t forget to set your alarm** (or double-check your weekday alarm). ⏰
+
+*口语地还可说：**Reminder: May 9 (Saturday) counts as a workday—set those alarms.***
+
+---
+
+## 8. 新一代小程序与门禁 · 升级恢复指引
+
+### 中文
+
+**【关于新一代小程序及门禁系统升级恢复的温馨提示】**
+
+尊敬的客户：
+
+您好！**新一代小程序**系统升级已完成。如遇到小程序加载异常、功能无法使用等情况，可按以下步骤操作：
+
+1. 打开**微信**，在**聊天主页**向**下滑动**，调出**最近使用的小程序**列表，点击右上角 **🔍**，搜索「**新一代产业园**」小程序。  
+2. **长按**「新一代产业园」小程序图标，**下拉拖动**至「**删除**」。  
+3. **重新搜索**「新一代产业园」并进入小程序，即可正常使用所有功能。
+
+### English
+
+**[Warm Reminder: New Generation Industrial Park Mini Program & Access Control — Post-Upgrade Tips]**
+
+Dear residents and tenants,
+
+The **system upgrade** for the **New Generation Industrial Park WeChat mini program** is **complete** (updates may also affect **access-control features** linked to the app). If the program **won’t load**, **hangs**, or **some functions don’t work**, try the following:
+
+1. Open **WeChat**. On the **Chats** screen, **swipe down** to open your **recent mini programs**. Tap the **search** icon (🔍) in the **top-right corner** and search for **New Generation Industrial Park** (*新一代产业园*).  
+2. **Press and hold** the mini program icon, then **drag** it to **Remove** / **Delete** to clear the old shortcut (wording may vary by WeChat version).  
+3. **Search again** for **New Generation Industrial Park**, open the mini program, and **all features should work normally**.
+
+*WeChat 界面文案因版本可能显示为「移除」「删除」等，步骤等价。*
+
+---
+
+## 9. 电梯例行保养
 
 ### 中文
 

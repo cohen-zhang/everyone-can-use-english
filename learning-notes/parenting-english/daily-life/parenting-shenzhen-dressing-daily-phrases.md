@@ -448,6 +448,8 @@ tags:
 
 ## 9. 常用动作词 — Dressing Verbs
 
+**（游戏·反义词）** 下列成对动词可当「正反说」玩：**put on ↔ take off**、**zip up ↔ unzip**、**button up ↔ unbutton** — 与 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]] 中小节 **「穿衣动作：拉链与扣子」** 相向互链。
+
 | English | 中文 | 例句 |
 |---------|------|------|
 | **put on** | 穿上 | Put on your shoes. 穿上鞋子。 |

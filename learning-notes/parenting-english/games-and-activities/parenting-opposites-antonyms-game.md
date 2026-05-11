@@ -98,6 +98,16 @@ tags:
 | **look up**  | 抬头     | **look down**   | 低头      | Look up a little. / Look down at your book. — 稍微抬头 / 低头看书    |
 
 
+### 穿衣动作：拉链与扣子 `亲子`
+
+**put on** ↔ **take off**（穿上 ↔ 脱下）已在上一小节「动作类」表格中；本节补 **拉链**、**扣子** 两对。整句跟读、深圳穿衣场景与 **tie ↔ untie** 等更多动词见：[[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Getting Dressed]]（**9. 常用动作词 — Dressing Verbs**）— 与此小节相向互链。
+
+| 英文            | 中文     | 反义词（英文）   | 反义词（中文） | 亲子场景例句                                                                 |
+| ------------- | ------ | ---------- | ------- | ---------------------------------------------------------------------- |
+| **zip up**    | 拉上拉链   | **unzip**  | 拉开拉链   | Zip up your jacket. / Unzip your bag. — 拉上外套拉链 / 拉开书包拉链                      |
+| **button up** | 扣好扣子   | **unbutton** | 解开扣子   | Button up your shirt. / Unbutton your coat. — 扣好衬衫扣子 / 解开外套扣子                |
+
+
 ### 口令与指别：Do this／Do that／Don't … `亲子`
 
 下面多是**整条指令**对照，帮孩子分清 **this（眼前／我刚示范的这个）** 与 **that（那个／远一点／你先别碰的那个）**，以及 **准许做 ↔ 叫停别做**。玩「正反」时也可用 **say yes ↔ say no**，或 **go ahead ↔ stop / don't**。
@@ -164,6 +174,47 @@ tags:
 | **quiet**   | 安静的 | **noisy**     | 吵闹的     | Be quiet in the library. / It's too noisy. — 在图书馆要安静 / 太吵了 |
 | **excited** | 兴奋的 | **bored**     | 无聊的     | I'm so excited! / This is boring. — 我太兴奋了！/ 这好无聊           |
 | **patient** | 耐心的 | **impatient** | 不耐烦的    | Please be patient. / Don't be impatient. — 请耐心点 / 别不耐烦     |
+
+
+### 档位与级别：低 · 中 · 高 `亲子`
+
+与「心情」无关，练的是 **难易、年级档位、音量大小**等：玩正反说时常用 **low ↔ high**、**basic ↔ advanced**。**中级／中间／中等**在英语里不止一个词，靠句子里的意思选词。
+
+#### 一端对另一端（反着说）
+
+| 英文                    | 中文（档位感）        | 反义词（英文）                   | 反义词（中文）       | 亲子场景例句                                                                                                                                      |
+| --------------------- | -------------- | ------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **low**               | 低／弱／小（档）      | **high**                  | 高／强／大（档）     | **Low** speed first, then **high** speed. — 先低速再高速。（亦常说 **turn it down**／**turn it up** 调小／调大。）                                                         |
+| **basic**             | 基础的／入门的       | **advanced**              | 进阶的／高阶的      | This is the **basic** level. / That mode is **advanced**. — 这是基础关／那个模式是进阶的。                                                                                |
+| **beginner**          | 初学者／新手级       | **advanced**（水平）／**expert**（很熟的人） | 进阶水平／高手（名词常指人） | **Beginner** class here—**advanced** swimmers go to that lane. — 初学者在这边泳池—高手去那条泳道。（也可说 **pro**「高手」，略口语。）                                                     |
+| **elementary**        | （尤其美）小学的／很基础的 | **advanced**／**secondary**（学制语境） | 进阶的／（英制常指）中学的 | You're in **elementary** school—big sister is older. — 你还在小学—姐姐年级更高。（校内「低年级／高年级」英文见下 **「低年级」↔「高年级」**；**junior↔senior** 更常指球队梯队或**高中届别**，别与小学 **grades** 笼统混用。**Senior High** 多指高中段。）                            |
+| **easy**（难度档位）       | 容易模式／简单这一关    | **hard**／**difficult**     | 难的那一关／困难模式   | Choose **easy** mode first. Too **hard**? Switch back. — 先选简单模式；太难了再切回去。（若说 **lower difficulty**／**higher difficulty** 也很自然。）                            |
+| **lower**（年级／楼层／段位） | 较低的／低段的       | **upper**／**higher**       | 较高的／高段的       | **Lower** lockers for kids—**upper** ones for taller students. — 矮柜给孩子—高柜子给比较高的同学。（**ground floor↔upper floor**：地面层／楼上楼层，因地而异。） |
+
+#### 「低年级」↔「高年级」（在校说法）
+
+家校沟通里泛指「低到高几个年级」最常用：**the lower grades** ↔ **the upper grades**，也可以说 **younger grades** ↔ **older grades**。美国语境里拆分小学段时常听 **lower elementary** ↔ **upper elementary**（各学区几年级算「低／高段」不一致；国内学段若用英语介绍，可把「二年级」说成 **second grade** 等让读者自行对应）。
+
+| 英文                        | 中文（年级感）              | 反义词（英文）                  | 反义词（中文）        | 亲子场景例句                                                                                                                                       |
+| ------------------------- | -------------------- | ------------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **the lower grades**      | 低年级                   | **the upper grades**     | 高年级            | Assembly: **Lower grades** sit in front—**upper grades** in the back. — 集会：低年级坐前面—高年级坐后面。（**the younger grades**／**the older grades** 同义很常见。）                                              |
+| **younger grades**        | 年段偏小／低年级那几届           | **older grades**         | 年段偏大／高年级那几届    | Sixth graders are **older grades**—they mentor **younger grades**. — 六年级算高年级孩子—他们会带低年级。（亦会说 **younger classes**／**older classes**。）                                                                   |
+| **early grades**          | 学段里偏前／低的几届（说法柔，非唯一）  | **later grades**         | 偏后／高的几届        | Stories in **early grades** get longer in **later grades**. — 低段故事短—高段书越来越长。（与 **Grade 1, Grade 2** 具体点数并用更清楚。）                                                                                    |
+| **lower elementary**      | （常美式）小学**低段**         | **upper elementary**     | 小学**高段**       | You're **lower elementary**—sister's **upper elementary**. — 你还在小学低段—姐姐在高段。**primary**／**Grade school**（非正式）可作「小学的」总称。                                                            |
+
+**辨析：**英美高中常说的 **freshman／sophomore／junior／senior**（九至十二年级等）是本学段的「届别」，**junior／senior** 不宜直接当一个人人口中的「低年级／高年级」总称来形容整所小学——说 **grades**／**elementary** 更稳。**Key Stage**（英式课段）可作听力拓展，家校句子优先用上面的 **grades** 说法。
+
+
+#### 「中级／中间／中等」怎么说（多半是第三档，不是某词的「反面」）
+
+| English            | 简中                                  | 典型亲子／生活语境                                                                 |
+| ------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
+| **intermediate**   | 中级（课、水平、班次）                         | Swim **beginner**, **intermediate**, **advanced**—you're intermediate now. — 泳班分初级、中级、高级—你现在是中级。 |
+| **middle**         | 中间；当中（顺序、一排里正中）                     | You're in the **middle**—not first, not last. — 你排在中间—不是第一个也不是最后一个。**middle child**「中间的老二」。            |
+| **medium**         | 中等（多指尺寸、份量、火候、屏幕上「中选」那一个）           | **Medium** fries, please? / **Medium** on the heat knob. — 要中薯条吗？／旋钮拨到中等火候。（衣服 **M** = **Medium**「中号」，常跟 **S／L** 一起认。）     |
+| **mid-level**      | 中层／中档（游戏关卡、抽象「级别不高不低」）                | We'll try a **mid-level** puzzle—**not baby easy**, **not crazy hard**. — 来玩中档拼图—不过于简单也不过于难。（**average**「中等水平／普普通通」可先听力输入：**an average grade**。） |
+
+**顺带一对（位置低档↔高档，非骂人）：****bottom**（底下那一档／末位） ↔ **top**（最上一档／首位）；说「中等成绩」也可用 **middle of the pack**「夹在中间一群人里」，进阶再展开。
 
 
 ### 年龄与辈分（指人）
