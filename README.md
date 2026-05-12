@@ -20,6 +20,16 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 - 编写或生成与工作、生活、亲子等场景相关的英文材料（短文、对话、聊天用语等）；
 - 长期沉淀为**自己的英文材料书**（例如 `learning-notes/personal-english-book/`、`learning-notes/parenting-english/` 等目录下的 Markdown）。
 
+### 在线阅读（GitHub Pages）
+
+`learning-notes/` 会通过 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 构建为静态站点，并由工作流 [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml) 发布到 **GitHub Pages**（地址形如 `https://<GitHub 用户名>.github.io/<仓库名>/`，与当前仓库的 owner、name 一致）。
+
+1. 在仓库 **Settings → Pages → Build and deployment** 中，将 **Source** 设为 **GitHub Actions**（首次部署后可在同一页看到站点 URL）。
+2. 将 `main` 推送到 GitHub，或手动运行该 workflow；之后只要改动 `learning-notes/`、`mkdocs.yml`、`mkdocs_hooks.py` 或 `requirements-docs.txt` 即会重新构建。
+3. 本地预览：`pip install -r requirements-docs.txt && mkdocs serve`，浏览器打开 `http://127.0.0.1:8000/`。
+
+若你使用 **fork**，可将 `mkdocs.yml` 中的 `repo_url` / `edit_uri` 改成自己的仓库地址，便于「编辑此页」跳转正确。
+
 个人内容与上游开源内容并存；若需同步上游更新，请在本地自行合并处理。
 
 ---

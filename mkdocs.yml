@@ -1,0 +1,64 @@
+# MkDocs site for learning-notes/ — deployed to GitHub Pages via Actions.
+# Local preview: pip install -r requirements-docs.txt && mkdocs serve
+
+site_name: 个人英文学习笔记
+site_description: learning-notes（亲子 / 美剧 / 个人材料书等 Markdown）
+# CI sets GITHUB_PAGES_SITE_URL; local default keeps search sane for mkdocs serve.
+site_url: !ENV [GITHUB_PAGES_SITE_URL, http://127.0.0.1:8000/]
+
+repo_url: https://github.com/ZuodaoTech/everyone-can-use-english
+edit_uri: edit/main/learning-notes/
+
+docs_dir: learning-notes
+site_dir: site
+
+exclude_docs: |
+  *.pdf
+  *.backup
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+hooks:
+  - mkdocs_hooks.py
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+
+extra:
+  generator: false

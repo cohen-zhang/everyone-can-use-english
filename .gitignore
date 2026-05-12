@@ -142,3 +142,7 @@ public/jupyter-notebooks/*.mp3
 .obsidian/core-plugins.json
 .obsidian/graph.json
 .obsidian/workspace.json
+
+# MkDocs (learning-notes → GitHub Pages)
+site/
+.venv-mkdocs/
