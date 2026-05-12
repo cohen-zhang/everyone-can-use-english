@@ -2,7 +2,11 @@
 
 *A Day in the Life of Jeff* — ESLPod.com, 10-episode course. Host: Dr. Jeff McQuillan, Center for Educational Development, Los Angeles, California.
 
-**完整逐字稿（含 GLOSSARY、COMPLETE TRANSCRIPT）见同目录：** `Episode 01 – Getting Up.txt`
+**索引：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]
+
+**相关（相向互链）：**
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/study-plan-and-e01-vocabulary|Jeff 学习方案 & E01 词汇重点]]
+- [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解示范说明]]
 
 ---
 
@@ -222,4 +226,4 @@ Contributors to this series are Jeff McQuillan, Lucy Tse, and Jessica Brown.
 ---
 
 
-*Source: ESLPod.com “A Day in the Life of Jeff,” Episode 1. Markdown layout merges line breaks from the transcript for readability; authoritative wording and glossary entries are in `Episode 01 – Getting Up.txt`.*
+*Source: ESLPod.com “A Day in the Life of Jeff,” Episode 1. Markdown layout merges line breaks from the transcript for readability; glossary and full-course navigation are maintained in this notes set.*

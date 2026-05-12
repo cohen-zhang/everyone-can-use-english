@@ -2,6 +2,8 @@
 
 > ESLPod 10 集日常英语课程 — 阿泽（泽哥）的学习指南
 
+**相关（相向互链）：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]（E01-E10 全集学习笔记）
+
 ---
 
 ## 课程概览 · Course Overview
