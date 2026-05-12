@@ -174,6 +174,7 @@ learning-notes/
 | `focus-notes.md` | 专注/注意力主题笔记 |
 | `introduce-myself.md` | 自我介绍表达 |
 | `personal-matters.md` | 个人事务表达 |
+| `spoken-catchphrases-reduplicatives-adverbs.md` | 口头禅、叠词与口语副词 |
 | `praise-my-wife-expressions.md` | 夸奖配偶表达 |
 | `romantic-expressions.md` | 浪漫表达 |
 | `weather-daily-expressions.md` | 天气场景表达 |

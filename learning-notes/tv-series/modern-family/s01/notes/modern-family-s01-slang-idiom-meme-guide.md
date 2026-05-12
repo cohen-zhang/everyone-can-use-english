@@ -5,6 +5,8 @@
 
 **Obsidian：** 台词与学习笔记对查 → [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]] · [[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes 索引]]。
 
+**相关：** 押韵、重复、态度副词等口语表达扩展 → [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]]。
+
 ## 1) `Come on!` — 拜托 / 快点 / 别这样
 
 - **转录示例**：`- Come on!`
