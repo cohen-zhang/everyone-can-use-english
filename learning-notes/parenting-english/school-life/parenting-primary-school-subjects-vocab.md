@@ -14,6 +14,8 @@ tags:
 
 **相关：** 泛化的**职业与角色**、扮装游戏用词 → [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（与此页相向互链；此处侧重**在校与老师**，彼处侧重**职位与过家家**）。
 
+**相关：** 电动两轮车**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]。（与此页相向互链：课表与时间用语见本节，路口安全与停泊寒暄见其「骑行 / 校门」段落。）
+
 ---
 
 ## 1. 学年与学期 — The School Year

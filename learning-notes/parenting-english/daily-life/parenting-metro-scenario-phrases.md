@@ -239,3 +239,9 @@ tags:
 
 **Mind the gap. Stand behind the line. Hold hands on the escalator.**  
 — 注意缝隙、站在线后、扶梯牵好手；三句覆盖地铁带娃最高频安全提示。
+
+---
+
+## 相关（扩展）
+
+- 电动两轮**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]
