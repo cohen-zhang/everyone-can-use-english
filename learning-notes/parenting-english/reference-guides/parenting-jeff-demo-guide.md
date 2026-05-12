@@ -9,6 +9,7 @@ tags:
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **学习计划（相向互链）：** [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|学习计划（90天）— 亲子英文]]
+**相关（相向互链）：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]（可直接跳到各集 `Explanation` 章节做讲解模仿）
 
 《A Day in the Life of Jeff》中解释物品、地方和物品作用的示范模式总结。
 

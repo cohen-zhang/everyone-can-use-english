@@ -11,6 +11,10 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（相向互链）：**
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e03-eating-breakfast-notes.md|Jeff E03 早餐]]
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e08-dinner-and-washing-up-notes.md|Jeff E08 晚餐与收拾]]
+
 ## 本页在做什么
 
 面向深圳商品房常见 **L 形 / U 形整体橱柜**：按 **冰箱区 → 储物区 → 备菜区 → 调料区 → 煮饭炒菜区 → 洗菜洗碗区** 分区列常用英文词，配 **IPA（英 / 美）** 与口头介绍句。**冰箱区**单独扩充（含冰箱贴、门架、抽屉分层等），并附少量 **冰箱场景句** 便于跟读。**钢丝球、抹布**归入洗菜洗碗区；**削皮刀**归入备菜区；**围裙**归入煮饭炒菜区。便于自述厨房、采购或与家政沟通。不含品牌与隐私。
