@@ -306,3 +306,92 @@ aliases:
 | **relaxed** | 放松的 | Are you feeling relaxed now? 你现在感觉放松了吗？ |
 | **grumpy** | 脾气坏的 | Are you grumpy today? 你今天脾气不好吗？ |
 | **silly** | 傻的/淘气的 | Don't be silly! 别傻了！ |
+
+---
+
+## 重点单词故事（互链版）
+
+### 单词导航（点击可跳转）
+
+- [happy](#kw-happy)
+- [sad](#kw-sad)
+- [angry](#kw-angry)
+- [scared](#kw-scared)
+- [excited](#kw-excited)
+- [worried](#kw-worried)
+- [brave](#kw-brave)
+- [calm down](#kw-calm-down)
+- [cheer up](#kw-cheer-up)
+- [patient](#kw-patient)
+- [grumpy](#kw-grumpy)
+- [silly](#kw-silly)
+
+<a id="story-emotion-mission"></a>
+### A Tiny Emotion Mission with Celine（Celine 的情绪小任务）
+
+This morning, Celine looked [grumpy](#kw-grumpy), not [happy](#kw-happy).  
+今天早上，Celine 看起来有点[脾气坏](#kw-grumpy)，不太[开心](#kw-happy)。
+
+She said she was [sad](#kw-sad) because her toy rocket was broken.  
+她说自己很[难过](#kw-sad)，因为她的玩具火箭坏了。
+
+Then she got [angry](#kw-angry), and a little [silly](#kw-silly), kicking a pillow like a tiny dragon.  
+然后她变得[生气](#kw-angry)，还有点[淘气](#kw-silly)，像小龙一样踢枕头。
+
+When the room went quiet, she felt [scared](#kw-scared) and [worried](#kw-worried).  
+房间安静下来后，她又开始[害怕](#kw-scared)、[担心](#kw-worried)。
+
+Mom said, "Let's [calm down](#kw-calm-down) first. Breathe in, breathe out."  
+妈妈说：“我们先[冷静下来](#kw-calm-down)，吸气，呼气。”
+
+"You are [brave](#kw-brave), and we can fix it together."  
+“你很[勇敢](#kw-brave)，我们可以一起修好它。”
+
+After three deep breaths, Celine became more [patient](#kw-patient).  
+做了三次深呼吸后，Celine 变得更[有耐心](#kw-patient)了。
+
+They found one loose button, fixed the rocket, and she felt [excited](#kw-excited) again.  
+她们找到了一个松掉的按钮，修好了火箭，她又重新[兴奋](#kw-excited)起来。
+
+Mom smiled and said, "When feelings get big, we can always [cheer up](#kw-cheer-up) step by step."  
+妈妈笑着说：“当情绪变大时，我们总能一步步[振作起来](#kw-cheer-up)。”
+
+---
+
+### 重点词回看卡（可跳回故事）
+
+<a id="kw-happy"></a>
+- **happy** — 开心的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-sad"></a>
+- **sad** — 难过的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-angry"></a>
+- **angry** — 生气的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-scared"></a>
+- **scared** — 害怕的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-excited"></a>
+- **excited** — 兴奋的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-worried"></a>
+- **worried** — 担心的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-brave"></a>
+- **brave** — 勇敢的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-calm-down"></a>
+- **calm down** — 冷静下来；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-cheer-up"></a>
+- **cheer up** — 振作起来；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-patient"></a>
+- **patient** — 耐心的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-grumpy"></a>
+- **grumpy** — 脾气坏的；[[#story-emotion-mission|回到故事]]
+
+<a id="kw-silly"></a>
+- **silly** — 傻的/淘气的；[[#story-emotion-mission|回到故事]]

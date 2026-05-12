@@ -463,3 +463,95 @@ Date: ___________
 5. 一句话总结 (One Sentence Summary):
    Today I feel _______________________________
 ```
+
+---
+
+## 六、重点单词故事（互链版）
+
+### 单词导航（点击可跳转）
+
+- [stressed](#kw-stressed)
+- [overwhelmed](#kw-overwhelmed)
+- [frustrated](#kw-frustrated)
+- [anxious](#kw-anxious)
+- [calm](#kw-calm)
+- [brave](#kw-brave)
+- [confident](#kw-confident)
+- [grateful](#kw-grateful)
+- [relieved](#kw-relieved)
+- [hopeful](#kw-hopeful)
+- [connected](#kw-connected)
+- [supported](#kw-supported)
+
+<a id="story-adult-emotion-shift"></a>
+### From Pressure to Peace（从压力到平静的一天）
+
+At 9 a.m., 泽哥 felt [stressed](#kw-stressed) before a client review.  
+早上九点，泽哥在客户评审前感到很[有压力](#kw-stressed)。
+
+By 10 a.m., ten new messages made him [overwhelmed](#kw-overwhelmed) and [anxious](#kw-anxious).  
+到十点时，十条新消息让他[应接不暇](#kw-overwhelmed)，也更[焦虑](#kw-anxious)。
+
+When the demo tool crashed, he got [frustrated](#kw-frustrated).  
+演示工具崩掉后，他变得很[沮丧](#kw-frustrated)。
+
+He paused, took three breaths, and chose to stay [calm](#kw-calm).  
+他停下来，做了三次呼吸，决定先保持[平静](#kw-calm)。
+
+Then he spoke up in the meeting and asked for a reset plan, which felt [brave](#kw-brave).  
+随后他在会上主动发言，提出重置方案，这让他觉得自己很[勇敢](#kw-brave)。
+
+The team aligned quickly, and he sounded more [confident](#kw-confident).  
+团队很快达成一致，他说话也更[自信](#kw-confident)了。
+
+After work, his partner listened without judging, and he felt deeply [supported](#kw-supported).  
+下班后，伴侣不带评判地听他说完，他感到被深深[支持](#kw-supported)。
+
+Over dinner, they felt [connected](#kw-connected) again.  
+晚饭时，他们再次感到彼此[连接](#kw-connected)。
+
+He said, "I'm [grateful](#kw-grateful) you're with me today."  
+他说：“今天有你在，我真的很[感恩](#kw-grateful)。”
+
+By bedtime, he was [relieved](#kw-relieved) and quietly [hopeful](#kw-hopeful) about tomorrow.  
+到睡前，他已经[如释重负](#kw-relieved)，并对明天保持安静的[希望](#kw-hopeful)。
+
+---
+
+### 重点词回看卡（可跳回故事）
+
+<a id="kw-stressed"></a>
+- **stressed** — 有压力的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-overwhelmed"></a>
+- **overwhelmed** — 应接不暇的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-frustrated"></a>
+- **frustrated** — 沮丧的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-anxious"></a>
+- **anxious** — 焦虑的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-calm"></a>
+- **calm** — 平静的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-brave"></a>
+- **brave** — 勇敢的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-confident"></a>
+- **confident** — 自信的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-grateful"></a>
+- **grateful** — 感恩的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-relieved"></a>
+- **relieved** — 如释重负的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-hopeful"></a>
+- **hopeful** — 充满希望的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-connected"></a>
+- **connected** — 有连接感的；[[#story-adult-emotion-shift|回到故事]]
+
+<a id="kw-supported"></a>
+- **supported** — 被支持的；[[#story-adult-emotion-shift|回到故事]]
