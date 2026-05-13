@@ -92,7 +92,7 @@ aliases:
 | `measuring cup` | 英:/ˈmeʒərɪŋ kʌp/ 美:/ˈmeʒərɪŋ kʌp/ | n. 量杯 | Baking recipes need an accurate **measuring cup**. | 烘焙配方要靠量杯量准。 |
 | `blender` | 英:/ˈblendə(r)/ 美:/ˈblendər/ | n. 搅拌机 | Morning smoothies come from a powerful **blender**. | 早晨奶昔用马力大的搅拌机打。 |
 | `food container` | 英:/fuːd kənˈteɪnə(r)/ 美:/fuːd kənˈteɪnər/ | n. 保鲜盒 | Leftovers go into labeled **food containers** for the fridge. | 剩菜装进贴好标签的保鲜盒再放冰箱。 |
-| `cling film` | 英:/klɪŋ fɪlm/ 美:/klɪŋ fɪlm/ | n. 保鲜膜（美式常说 `plastic wrap`） | **Cling film** covers bowls before microwaving soup. | 微波热汤前先用保鲜膜松松盖住碗口。 |
+| `plastic wrap` | 英:/ˈplæstɪk ræp/ 美:/ˈplæstɪk ræp/ | n. 保鲜膜（英式常说 `cling film`） | **Plastic wrap** covers bowls before microwaving soup. | 微波热汤前先用保鲜膜松松盖住碗口。 |
 | `aluminum foil` | 英:/əˈljuːmɪnəm fɔɪl/ 美:/əˈluːmɪnəm fɔɪl/ | n. 锡纸 / 铝箔纸（英式 aluminium） | **Aluminum foil** lines the baking tray for easy cleanup. | 烤盘垫锡纸好收拾。 |
 | `kitchen island` | 英:/ˈkɪtʃɪn ˈaɪlənd/ 美:/ˈkɪtʃɪn ˈaɪlənd/ | n. 中岛操作台（大户型或开放式厨房） | An optional **kitchen island** adds prep space when the wall is opened. | 打通墙面后可选中岛增加备餐台面。 |
 
