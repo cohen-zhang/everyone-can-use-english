@@ -29,6 +29,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心
 - [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases.md|手机日常]] — 手机、专注相关
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]] — 穿衣、天气
+- [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]] — 儿童游乐设施、户外健身器材、进园安全
 - [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|餐桌礼仪]] — 吃饭规矩
 - [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases.md|收拾整理日常]] — clean up
 

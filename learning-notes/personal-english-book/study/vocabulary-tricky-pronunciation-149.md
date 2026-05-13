@@ -28,7 +28,7 @@ aliases:
 | **特殊元音** | 18 | pull, toe, own, queue, rare, though, recipe, coupon, cuisine, anxiety |
 | **技术词汇** | 15 | daemon, encrypt, algorithm, recursive, integer, array, protocol, variable, compiler, parse, stack, sync, alias, feature, repository |
 | **清浊变化** | 8 | effect, accept, success, exhaust, anxiety, example, exercise, executive |
-| **易混淆词** | 12 | effect/affect, pull/pool, though/through, rare/bare, rather/father, taught/taut |
+| **易混淆词** | 13 | effect/affect, pull/pool, though/through, rare/bare, rather/father, taught/taut, love/laugh |
 
 ---
 
@@ -172,6 +172,7 @@ aliases:
 | **taught** /tɔːt/ | v. 教（过去式）| **taut** /tɔːt/ | adj. 绷紧的 | 同音异义 |
 | **rather** /ˈræðər/ | adv. 宁可 | **father** /ˈfɑːðər/ | n. 父亲 | æ vs ɑː，重音相同 |
 | **rare** /rer/ | adj. 稀有的 | **bare** /ber/ | adj. 赤裸的 | 同音 /er/ |
+| **love** /lʌv/ | n./v. 爱；喜爱 | **laugh** /læf/ | v./n. 笑；笑声 | 元音 /ʌ/ vs /æ/；*laugh* 中 **gh** 发 /f/，勿拼成 *laught* |
 
 ---
 

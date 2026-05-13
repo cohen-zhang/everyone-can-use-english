@@ -14,6 +14,8 @@ tags:
 
 **相关：** **骑电动自行车接送学时**刮风下雨怎么喊穿戴 → [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]（相向互链；雨披、拉链、挡风等与此页雨季段落叠用）。
 
+**相关：** **市政公园**儿童区与户外健身路径用语 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]（与此页「去公园」穿搭叠用）。
+
 ---
 
 ## 1. 早上穿衣 — Getting Dressed in the Morning
@@ -281,6 +283,9 @@ tags:
 - **For swimming lessons, bring flip-flops and a towel.**  
   上游泳课要带人字拖和毛巾。
 
+- **Put on your swimsuit before we leave for the pool.**  
+  我们去泳池前先穿好泳衣。
+
 - **On a school day, the uniform is the right outfit.**  
   上学日穿校服就对了。
 
@@ -430,6 +435,7 @@ tags:
 | **rain boots** | 雨靴 | Wear rain boots on rainy days. 雨天穿雨靴。 |
 | **slippers** | （室内）拖鞋 | Slippers are for inside the house. 拖鞋在家里穿。 |
 | **flip-flops** | 人字拖 | Flip-flops are for the pool, not for running. 人字拖适合水池边，不适合跑步。 |
+| **swimsuit** / **swimming costume** (UK) | 泳衣（连体／分体泛称；英式常说 *swimming costume*） | Put on your swimsuit. 穿上你的泳衣。 |
 | **jacket** | 外套 | Bring a light jacket. 带一件薄外套。 |
 | **raincoat** | 雨衣 | Put on your raincoat. 穿上雨衣。 |
 | **school uniform** | 校服 | Put on your school uniform. 穿上校服。 |

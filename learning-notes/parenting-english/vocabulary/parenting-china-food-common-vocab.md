@@ -81,6 +81,9 @@ tags:
 - **winter melon** /ˈwɪntər ˈmelən/ 冬瓜  
 - **white radish / daikon** /waɪt ˈrædɪʃ; ˈdaɪkən/ 白萝卜  
 - **lotus root** /ˈloʊtəs ruːt/ 莲藕  
+- **shiitake mushroom** /ʃɪˈtɑːki ˈmʌʃruːm/ 香菇  
+- **wood ear mushroom / black fungus** /wʊd ɪr ˈmʌʃruːm; blæk ˈfʌŋɡəs/ 木耳（干货泡发常见）  
+- **enoki mushroom** /ɪˈnoʊki ˈmʌʃruːm/ 金针菇（菜单亦见日语借名 *enokitake*）  
 - **celery** /ˈseləri/ 芹菜  
 - **bell pepper** /bel ˈpepər/ 彩椒、甜椒  
 - **chili pepper / hot pepper / chile** /ˈtʃɪli ˈpepər; hɑːt ˈpepər; ˈtʃiːleɪ, ˈtʃɪ-/ 🌶辣椒（鲜辣椒；干辣可另说 **dried chili**）  

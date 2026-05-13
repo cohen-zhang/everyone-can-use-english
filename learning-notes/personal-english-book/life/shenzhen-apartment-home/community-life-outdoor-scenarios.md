@@ -15,6 +15,8 @@ aliases:
 
 面向**深圳典型商品房小区**的**户外生活场景**：按 **下楼出门 → 大堂 Lobby → 小区内游乐场 → 与小伙伴游戏 → 游泳池 → 取快递 → 丢垃圾 → 小区外河边散步／跑步** 顺序列常用英文词，配 **IPA（英 / 美）** 与场景对话。便于带娃（**不多 / Celine**）日常户外活动、与邻居／物业／快递沟通。不含具体小区名、门牌号等隐私。
 
+**市政公园、滨水大公园**（组合滑梯、滑索、戏水区、全民健身路径等更全说法）→ [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]（亲子英文；与此页相向互链）。
+
 ---
 
 ## 阅读顺序（建议出门动线）
@@ -102,6 +104,8 @@ aliases:
 ---
 
 ## 5. 游乐场 · Playground `亲子`
+
+公园级大型设施、户外健身路径等更全说法见 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]（亲子英文）。
 
 | Word | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
 |------|---------------|---------|-------------------|---------------|
