@@ -8,6 +8,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**相关：** 家庭总规矩、作息和“说到做到”见 [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases.md|家庭守则与作息 — Family Rules & Daily Routine]]（与本页相向互链）。
+
 
 家庭高频礼貌表达 + 吃饭场景规则，句子尽量短，方便不多 / Celine 跟读。`亲子`
 

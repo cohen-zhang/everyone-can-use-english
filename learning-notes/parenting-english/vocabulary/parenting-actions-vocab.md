@@ -110,6 +110,37 @@ tags:
 
 ---
 
+## 手和脚的动作 — Hand & Foot Actions `亲子`
+
+- **Swing your arms.**  
+摆动你的手臂。
+- **Shake your hands.**  
+摇晃你的手（双手）。
+- **Shake your hands gently.**  
+轻轻摇晃你的手。
+- **Swing your legs gently.**  
+轻轻摆动你的腿。
+- **Don't swing your arms near other kids.**  
+在别的小朋友旁边不要乱甩手。
+
+- **Hit**（打）vs **pat**（轻拍）  
+  亲子里更常教：**No hitting. Use gentle hands.**  
+  不可以打人。用温柔的小手。
+- **Don't hit people.**  
+不可以打人。
+- **Please don't hit. Use words.**  
+不要动手，用语言表达。
+
+- **Kick**（踢）vs **tap**（轻碰）  
+  **No kicking. Keep your feet to yourself.**  
+  不可以踢人。把脚收好，不踢别人。
+- **Don't kick people.**  
+不可以踢人。
+- **Kick the ball, not people.**  
+踢球可以，不可以踢人。
+
+---
+
 ## 打开 / 关掉 Switch on / Switch off
 
 - **Switch on the light.**  

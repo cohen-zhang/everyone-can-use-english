@@ -14,11 +14,10 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** 美剧口语梗补充 → [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗汇总]]。
+**相关：** 美剧口语梗补充 → [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗汇总]]；冲突/骂人表达识别 → [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases|骂人专辑 / 口头禅]]。
 
 本页收集两类很适合开口练的口语材料：一类是带押韵、重复、玩笑感的 **catchphrases / reduplicatives**；另一类是能放在句首或回答里的 **spoken adverbs / stance words**，比如 **Actually**, **Honestly**, **Probably**, **Usually**。前者让语气更轻松，后者让表达更像自然聊天。
 
-> **拼写提醒：** 常见拼法是 **holy moly**，不是 *holy molly*。**Molly** 是人名或其他含义，写成两个 `l` 容易跑偏。
 
 ---
 

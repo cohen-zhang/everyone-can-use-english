@@ -151,6 +151,16 @@ tags:
 | **early**  | 早的  | **late**  | 晚的      | You're early! / Don't be late. — 你来得很早！/ 别迟到                      |
 
 
+### 外貌与体型类 `亲子`
+
+| 英文 | 中文 | 反义词（英文） | 反义词（中文） | 亲子场景例句 |
+|------|------|----------------|----------------|--------------|
+| **fat** | 胖的 | **thin** | 瘦的 | The teddy is fat, and the rabbit is thin. — 小熊胖胖的，小兔瘦瘦的。（描述玩偶更自然） |
+| **ugly** | 丑的 | **beautiful** | 美的 | In stories, the duckling feels ugly, then becomes beautiful. — 故事里小鸭子觉得自己丑，后来变得很美。 |
+
+> 口语提醒：对真人更常用 **chubby / slim**、**pretty / handsome**，语气更礼貌。  
+
+
 ### 味觉与口味类 `亲子`
 
 
@@ -414,6 +424,8 @@ tags:
 | 44  | you can／You're allowed（许可／可以做） | you can't／cannot／You're not allowed（不许／没被准许）                 | 「可以／获准」 ↔ 「没办法／不许」       |
 | 45  | You may …（获准，偏正式）／May I …?           | May not／口语常改 can't／don't                           | 「允许」 ↔ 「不允许」（家里嘴快多听 *can't*） |
 | 46  | You're supposed to …（按理说该……）           | You're not supposed to …（按理说别……）；亦可口述 **you shouldn't** 对比 | 「按规矩应该怎样」 ↔ 「按规矩不应该」      |
+| 47  | fat         | thin                                         | 胖 / 瘦 |
+| 48  | ugly        | beautiful                                    | 丑 / 美 |
 
 ---
 

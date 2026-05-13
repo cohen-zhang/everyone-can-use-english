@@ -30,6 +30,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
 - [[learning-notes/personal-english-book/life/community-management-english.md|小区物业与邻里]] — 社区沟通
 - [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] — playful reduplication、押韵口头表达、态度副词
+- [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]] — 冲突语气识别、骂人词与降火替代表达
 - [[learning-notes/personal-english-book/life/andy-warhol-notes.md|安迪·沃霍尔笔记]] — 艺术主题摘录
 - [[learning-notes/personal-english-book/life/world-cinema-quick-notes.md|世界电影随记]] — 电影史短文练习
 
@@ -95,6 +96,7 @@ cssclasses:
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
 - **音标输入 ↔ 速查：** [[learning-notes/personal-english-book/study/phonetics-input-guide.md|音标输入指南]] ↔ [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference.md|音标工程师速查]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗]]。
+- **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
 
 ---
 
