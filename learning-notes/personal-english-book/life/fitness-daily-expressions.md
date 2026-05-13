@@ -10,6 +10,9 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（扩展）：**
+- [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]]（看 Health / Sleep / Reminders 常用介绍句）
+
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；术语表与器材表放在后半部分作查阅。**泽哥**带娃去公园或看 iPhone 上的健康数据时，可以直接念英文句。
 
 > **提示**：以下为一般性健康与运动常识，不替代医生或康复师针对伤病、慢性病、孕产期的个体建议。iPhone **Health**（健康）应用界面会随 **iOS** 版本与地区略有差异，以下英文名以常见版本为准。
@@ -73,11 +76,39 @@ aliases:
 
 ---
 
-## 5. iPhone「健康」**Health** 应用 — 英文界面与分类介绍
+## 5. 英文句子示例 — 成人睡眠（Sleep）`成人`
+
+- **I’m trying to go to bed before 11 p.m. on weekdays.** — 我工作日尽量在晚上 11 点前上床。
+- **I was in bed for eight hours, but I only slept for six and a half.** — 我在床上待了八小时，但只睡了六个半小时。
+- **I woke up twice last night and had trouble falling back asleep.** — 我昨晚醒了两次，而且很难再睡着。
+- **I need a wind-down routine: no screens, dim lights, and a warm shower.** — 我需要固定的睡前放松流程：不看屏幕、调暗灯光、洗个温水澡。
+- **I slept like a log after leg day.** — 练腿日后我睡得特别沉。
+- **My sleep schedule is off because I stayed up too late.** — 我睡眠作息乱了，因为我熬夜太晚。
+- **I feel groggy this morning; maybe my sleep quality was poor.** — 我今天早上有点昏沉，可能睡眠质量不太好。
+- **I set a sleep goal of seven and a half hours in the Health app.** — 我在健康 App 里把睡眠目标设成了七个半小时。
+
+### 5.1 Apple Health 关于睡眠的说明（原文）
+
+> Sleep provides insight into your sleep habits. Sleep trackers and monitors can help you determine the amount of time you are in bed and asleep. These devices estimate your time in bed and your time asleep by analyzing changes in physical activity, including movement during the night. You can also keep track of your sleep by entering your own estimation of your bed time and sleep time manually.
+>
+> The "In Bed" period reflects the time period you are lying in bed with the intention to sleep. For most people it starts when you turn the lights off and it ends when you get out of bed. The "Asleep" period reflects the period(s) you are asleep.
+
+### 5.2 Apple Health 睡眠说明（简中理解）
+
+- **Sleep provides insight into your sleep habits.** — Sleep 能帮助你了解自己的睡眠习惯。
+- **Sleep trackers and monitors can help you determine the amount of time you are in bed and asleep.** — 睡眠追踪设备可帮助估算你“在床时间”和“实际睡着时间”。
+- **These devices estimate your time in bed and your time asleep by analyzing changes in physical activity, including movement during the night.** — 设备会通过分析身体活动变化（包括夜间翻动）来估算这两段时间。
+- **You can also keep track of your sleep by entering your own estimation of your bed time and sleep time manually.** — 你也可以手动录入自己估计的上床与睡眠时长。
+- **"In Bed" period** — 指你“有睡觉意图地躺在床上”的时段（通常从关灯准备睡觉，到起床离床）。
+- **"Asleep" period** — 指你“真正处于睡着状态”的时段（可能是一个或多个片段）。
+
+---
+
+## 6. iPhone「健康」**Health** 应用 — 英文界面与分类介绍
 
 打开应用：**Open the Health app.** — 打开「健康」应用。
 
-### 5.1 底部与顶部常见入口
+### 6.1 底部与顶部常见入口
 
 
 | English (as shown)        | 简中                         |
@@ -92,7 +123,7 @@ aliases:
 | **Privacy**               | 隐私说明                       |
 
 
-### 5.2 **Browse** 中的大类（健康数据分类）
+### 6.2 **Browse** 中的大类（健康数据分类）
 
 在 **Browse** 里，苹果按主题把数据类型归到不同 **category**（类别）。下表为常见英文分类名与简中对照（子项如心率、步数会出现在对应类下）。
 
@@ -117,7 +148,7 @@ aliases:
 | **Mental Wellbeing**                          | 心理健康 / 情绪健康（较新系统可能出现，与心情记录等相关）           |
 
 
-### 5.3 常见数据类型英文名（摘要里常出现）
+### 6.3 常见数据类型英文名（摘要里常出现）
 
 
 | English                             | 简中                            |
@@ -138,7 +169,7 @@ aliases:
 | **Mindful Minutes**                 | 正念分钟                          |
 
 
-### 5.4 看健康数据时的英文短句
+### 6.4 看健康数据时的英文短句
 
 - **My step count synced from my Apple Watch.** — 步数是从 Apple Watch 同步过来的。
 - **I added sleep to my Summary favorites.** — 我把睡眠加到摘要的个人收藏里了。
@@ -148,7 +179,7 @@ aliases:
 
 ---
 
-## 6. 附录 — 公园器材名称（英 / 简中）
+## 7. 附录 — 公园器材名称（英 / 简中）
 
 
 | English                                     | 简中         |
@@ -168,7 +199,7 @@ aliases:
 
 ---
 
-## 7. 附录 — 跑步与力量术语（英 / 简中）
+## 8. 附录 — 跑步与力量术语（英 / 简中）
 
 
 | English                                | 简中           |

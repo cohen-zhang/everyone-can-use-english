@@ -10,6 +10,9 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（扩展）：**
+- [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]]（看 Apps 总览与高频操作词）
+
 日常聊天气、看 **Weather**（天气）应用、带娃出门前的几句英文，都在这里对照练习。
 
 ---
