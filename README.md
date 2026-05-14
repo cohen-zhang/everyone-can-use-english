@@ -17,6 +17,7 @@ AI 是当今世界上最好的外语老师，Enjoy 做 AI 最好的助教。
 本仓库为开源项目 [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) 的 clone，在上游代码与书籍内容之外，用于个人英文学习：
 
 - 整理笔记与摘录；
+- 从 Eudic 词典 APP 中导出单词表（序号、单词、音标、解释（包含笔记））PDF 文件，使用 MicroSoft Markitdown 命令行工具转为 markdown 格式
 - 编写或生成与工作、生活、亲子等场景相关的英文材料（短文、对话、聊天用语等）；
 - 长期沉淀为**自己的英文材料书**（例如 `learning-notes/personal-english-book/`、`learning-notes/parenting-english/` 等目录下的 Markdown）。
 

@@ -9,6 +9,8 @@ aliases:
 # 金融英语 · 并行清算问题梳理（工作 IM）
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**相关词表：** [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表（149，含笔记）]]
+**拓展阅读：** [[learning-notes/personal-english-book/work/finance-business-stories|金融和商务主题故事集（8个情景故事）]]
 
 ---
 

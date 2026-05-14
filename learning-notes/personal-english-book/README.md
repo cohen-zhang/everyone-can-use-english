@@ -22,6 +22,8 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年场景英语]] — 纪念日、情话与长期关系表达
 - [[learning-notes/personal-english-book/life/romantic-expressions.md|浪漫情歌集]] — 情歌、恋爱叙事句
 - [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] — 成人情绪表达（与亲子版对照）
+- [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]] — 身体部位/内脏/症状词汇分类复习
+- [[learning-notes/personal-english-book/life/body-part-stories.md|Body Part 主题故事集]] — 按分类词表生成的主题故事（英 + 简中）
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
@@ -57,6 +59,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/work/business-trip.md|出差]]
 - [[learning-notes/personal-english-book/work/work-travel-and-business-trip.md|工作出行与出差]]
 - [[learning-notes/personal-english-book/work/financial-system-issue-analysis.md|金融系统问题梳理]]
+- [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表（149，含笔记）]]
 - [[learning-notes/personal-english-book/work/do-not-go-gentle-into-that-good-night.md|Do not go gentle…]]
 
 ---
