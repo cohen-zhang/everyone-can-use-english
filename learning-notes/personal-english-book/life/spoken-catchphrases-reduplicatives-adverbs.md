@@ -43,6 +43,23 @@ aliases:
 
 ---
 
+## X is X：重复词成语（“一诺千金”这类）
+
+这类句型靠重复同一个词来强调“原则不变 / 立场很硬”。语气通常简短、有边界感。
+
+| Expression | 中文感觉 | 使用场景 | Example |
+| --- | --- | --- | --- |
+| **A promise is a promise.** | 一诺千金 / 说到做到 | 承诺与信用 | **I know I am tired, but a promise is a promise.** — 我知道我很累，但说到就要做到。 |
+| **Rules are rules.** | 规矩就是规矩 | 强调制度、无特例 | **I like you, but rules are rules.** — 我喜欢你，但规矩就是规矩。 |
+| **Enough is enough.** | 够了就是够了 / 忍无可忍-适可而止 | 设边界、制止行为 | **Enough is enough. Stop yelling at me.** — 够了，别再对我吼了。 |
+| **A game is a game.** | 游戏就是游戏（别上纲上线） | 比赛、玩闹后降温 | **Relax, a game is a game.** — 放轻松，游戏就是游戏。 |
+| **Tomorrow is tomorrow.** | 明天的事明天再说-来日方才 | 推迟焦虑、暂缓结论 | **Do today's part first; tomorrow is tomorrow.** — 先把今天做完，明天再说。 |
+| **Boys will be boys.** | 男孩子嘛（常这样）-本性难移 | 对男孩淘气行为的宽松评价 | **They broke another toy. Boys will be boys.** — 他们又弄坏了一个玩具，男孩子嘛。 |
+
+> 注意：**Tomorrow is tomorrow** 在口语里能懂，但没有 **Enough is enough** 那么固定高频；更常见替代是 **Tomorrow is another day.**
+
+---
+
 ## 口语副词：一句话的语气开关
 
 这些词不只是“副词意思”，更像说话时的**态度按钮**。放在句首时，后面常接逗号；当作简短回答时，可以单独成句。
