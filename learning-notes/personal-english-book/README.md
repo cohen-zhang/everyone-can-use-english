@@ -20,6 +20,7 @@ cssclasses:
 ## life — 生活
 
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年场景英语]] — 纪念日、情话与长期关系表达
+- [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] — 过节用语、祝福短句、贺卡级名言（含母亲节金句）
 - [[learning-notes/personal-english-book/life/romantic-expressions.md|浪漫情歌集]] — 情歌、恋爱叙事句
 - [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] — 成人情绪表达（与亲子版对照）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]] — 身体部位/内脏/症状词汇分类复习
@@ -71,6 +72,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/study/vocabulary-tricky-pronunciation-149.md|易读错词汇 149]]
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting.md|有趣计科词汇]]
 - [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]]
+- [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]
 - [[learning-notes/personal-english-book/study/spring-framework-notes.md|Spring 笔记]]
 - [[learning-notes/personal-english-book/study/stock-and-commodity-broker-notes.md|证券商品经纪笔记]]
 - [[learning-notes/personal-english-book/study/english-journal-apple-note.md|英文学习日志]]
@@ -96,8 +98,10 @@ cssclasses:
 
 - **纪念日 ↔ 情歌：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年]] ↔ [[learning-notes/personal-english-book/life/romantic-expressions.md|浪漫情歌集]]。
 - **夸奖（剧摘 ↔ 纪念场景）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年]]。
+- **节日（活动 + 祝福 + 名言 ↔ 剧摘祝福）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]]。
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
 - **音标输入 ↔ 速查：** [[learning-notes/personal-english-book/study/phonetics-input-guide.md|音标输入指南]] ↔ [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference.md|音标工程师速查]]。
+- **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗]]。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
 

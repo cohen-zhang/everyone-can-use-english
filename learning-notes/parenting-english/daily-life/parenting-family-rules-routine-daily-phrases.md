@@ -107,7 +107,58 @@ tags:
 
 ---
 
-## 6. 小词表
+## 6. 亲戚朋友长辈老师的称呼 — Relatives, Friends, Elders & Teachers
+
+英语里**不像中文**那样有「大伯、二舅、表姑」等一长串专用称谓，多数场合用 **Grandma / Grandpa、Aunt、Uncle、cousin** 加上名字或姓氏区分；老师常用 **Mr. / Ms. / Mrs. + 姓**。带孩子见客时，可先教一句固定开场，再说明「你可以叫他……」。
+
+### 6.1 家里长辈（祖父母）
+
+- **Say hi to Grandma and Grandpa.**  
+  跟爷爷奶奶问个好。`亲子`
+- **We call her Nana; we call him Pop.**  
+  我们叫她 Nana，叫他 Pop。（口语昵称，各家可自定）`亲子`
+- **Give Great-grandma a gentle hug.**  
+  轻轻抱一下太奶奶。`亲子`
+
+### 6.2 父母辈亲戚（姑姑、舅舅、叔叔阿姨）
+
+- **This is Aunt Lily. She's Dad's sister.**  
+  这是 Lily 姑姑，是爸爸的妹妹。`亲子`
+- **Say thank you to Uncle Ben.**  
+  谢谢 Ben 舅舅 / Ben 叔叔。（**Aunt / Uncle** 可指父母的兄弟姐妹，也可指父母让你这么称呼的亲友）`亲子`
+- **Your cousin Emma is here.**  
+  你表姐 / 表妹 Emma 来了。（**cousin** 不分堂表，若要细说可加 *on my mom's side*）`亲子`
+
+### 6.3 父母的朋友（叔叔阿姨、伯伯）
+
+- **This is Mommy's friend. You can call her Aunt May.**  
+  这是妈妈的朋友，你可以叫她 May 阿姨。（英语里常用 **Aunt / Uncle** 表示亲近，对方未必真是亲戚）`亲子`
+- **Mr. and Mrs. Green are our neighbors.**  
+  Green 先生和 Green 太太是我们的邻居。（已婚夫妇常用 **Mr. + Mrs. + 同一姓氏**）`亲子`
+
+### 6.4 老师与学校里的长辈
+
+- **Good morning, Ms. Lee.**  
+  早上好，李老师。（女老师不确定婚否时用 **Ms.** 最稳妥）`亲子`
+- **Good morning, Mr. Patel.**  
+  早上好，Patel 老师。（男老师用 **Mr. + 姓**）`亲子`
+- **Mrs. Brown is the music teacher.**  
+  Brown 太太是音乐老师。（**Mrs.** 用于对方习惯用此称谓或已知已婚随夫姓时）`亲子`
+- **Listen when the teacher speaks.**  
+  老师说话时要认真听。`亲子`
+
+### 6.5 见面礼貌（泛称长辈）
+
+- **Please say hello to our guests.**  
+  跟客人们问好。`亲子`
+- **Look at them and use a clear voice.**  
+  看着他们，声音清楚一点。`亲子`
+- **Elders go first. You can hold the door.**  
+  长辈先走，你可以帮忙扶门。`亲子`
+
+---
+
+## 7. 小词表
 
 | English | 简中 | 备注 |
 |---|---|---|
@@ -121,6 +172,13 @@ tags:
 | **promise** | 承诺；答应 | 说到做到 |
 | **keep a promise** | 信守承诺 | |
 | **follow the rules** | 遵守规则 | 高频指令 |
+| **Grandma / Grandpa** | 奶奶、爷爷 / 外婆、外公 | 也可用 *Grandmother / Grandfather*；昵称如 Nana、Pop 因家庭而异 |
+| **Aunt / Uncle** | 姑姑、舅舅、叔叔阿姨等 | 英语覆盖宽；亲友也可称 Aunt/Uncle |
+| **cousin** | 堂/表兄弟姐妹 | 不分男女；细分可加 *older / younger* 或说明父母是哪一方 |
+| **Mr. / Ms. / Mrs. + last name** | 某老师 / 某先生、太太 | **Ms.** 女老师最通用；**Mrs.** 随对方习惯 |
+| **neighbor(s)** | 邻居 | 见面介绍常用 |
+| **guest(s)** | 客人 | 与 *say hello to* 搭配 |
+| **elder(s)** | 长辈 | 泛称礼貌场景 |
 
 ---
 

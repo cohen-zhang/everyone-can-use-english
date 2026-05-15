@@ -9,6 +9,8 @@
 
 **夫妻 / 纪念日（成人 · 相向互链）：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 长期关系中**爱、赞美与纪念**的口语/书面句，可与本篇「外貌/能力/品格」夸奖及祝福**对照**。
 
+**节日活动与名言（成人 · 相向互链）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes|节日活动、祝福语与经典名言]] — 过节**活动句**、祝福扩展与**贺卡级名言**（含母亲节 *make leaning unnecessary* 一句）；本篇第二节「节日祝福」为剧中原句，可与此篇**对照**。
+
 ---
 
 ## 一、夸奖、赞美 / Compliments

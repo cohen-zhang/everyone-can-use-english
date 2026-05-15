@@ -90,6 +90,7 @@ aliases:
 - **情绪（成人版对照）**：[[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ 本目录 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|亲子情绪]]
 - **美剧「吃饭」亲子句**：[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|摩登家庭 · 吃 / Eat]] ↔ [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]]
 - **Peppa 第一季剧本**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README.md|Peppa Pig S01 README]]
+- **节日（活动 + 祝福 + 名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|剧摘 · 夸奖与祝福]]
 
 ---
 

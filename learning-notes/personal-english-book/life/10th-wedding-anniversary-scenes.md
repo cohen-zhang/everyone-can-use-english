@@ -13,6 +13,8 @@ aliases:
 
 **相关（夸奖与祝福 · 相向互链）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 剧中原句：**外貌、能力、品格**类夸奖与**节日祝福**；可与本文纪念场景、情话表达**对照练习**。
 
+**相关（节日总表 · 扩展）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes|节日活动、祝福语与经典名言]] — 各类节日英文名、聚会活动句与书面名言；纪念日口语可与其中「情人节 / 纪念日」祝福短句互参。
+
 > For 阿泽 (泽哥) — 用英文表达爱，比中文更容易开口 ❤️  
 > 10 years together. Time to celebrate with words, surprises, and family moments.
 
@@ -30,7 +32,7 @@ We started off long-distance, got married in Shenzhen,
 then we had our daughter, and settled down together.
 
 Time really flies, right? 
-The other day, my wife told me our 10th anniversary is coming up.
+The other day, you told me our 10th anniversary is coming up.
 
 Damn, 10 years. Ten years… that’s 10 times 365 days. Crazy.
 
