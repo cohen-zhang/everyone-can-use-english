@@ -10,6 +10,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（成人向 · 开发设备口语）：** [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro 工作伙伴（Java）]]
+
 ## 给 不多 / Celine 的温馨解释 A Warm Explanation for Celine
 
 ---

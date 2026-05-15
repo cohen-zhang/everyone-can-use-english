@@ -10,6 +10,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（设备 / setup）：** [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]
+
 > **Tone:** One dev talking to the camera — not a novel. Pauses: `/`
 
 ---
