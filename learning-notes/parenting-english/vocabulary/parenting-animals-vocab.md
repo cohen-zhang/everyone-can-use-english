@@ -70,8 +70,8 @@ tags:
 
 | 难度     | No. | Word        | IPA（英 / 美）                      | 释义                                    | 猜谜提示（简单英文 · 家长念给孩子猜）                                                    |
 | ------ | --: | ----------- | ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
-| ⭐ 启蒙   |  58 | `dog`       | 英:/dɒɡ/ 美:/dɔːɡ/                | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随    | Woof woof! Loyal friend. Wags tail when happy.                          |
-| ⭐ 启蒙   |  59 | `cat`       | 英:/kæt/ 美:/kæt/                 | n. 猫；猫科动物                             | Meow. Soft paws. Nine lives in stories.                                 |
+| ⭐ 启蒙   |  58 | `dog`       | 英:/dɒɡ/ 美:/dɔːɡ/                | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随    | Loyal friend. Wags tail when happy. Loves to play fetch.                |
+| ⭐ 启蒙   |  59 | `cat`       | 英:/kæt/ 美:/kæt/                 | n. 猫；猫科动物                             | Soft paws. Likes to nap in warm places.                                 |
 | ⭐ 启蒙   | 174 | `puppy`     | 英:/'pʌpi/ 美:/'pʌpi/             | n. ⼩狗，幼⽝                              | Baby dog. Tiny paws.                                                    |
 | ⭐ 启蒙   | 128 | `kitty`     | 英:/'kɪti/ 美:/'kɪti/             | n. ⼩猫，猫咪                              | Cute word for a small cat.                                              |
 | ⭐ 启蒙   | 143 | `hamster`   | 英:/'hæmstə(r)/ 美:/'hæmstər/     | n. 仓⿏；仓⿏⽑⽪                            | Puffy cheeks store food. Runs in a wheel at night.                      |
@@ -91,18 +91,18 @@ tags:
 *绘本、农家乐、郊区很容易见到；与日常生活吃食（蛋奶）强相关。*
 
 - **Category (English):** Poultry & farm livestock — barnyard birds, grazing animals, and the **herd / flock** words behind eggs, milk, meat, and wool.
-- **Guide (English):** “Old MacDonald” ground: practice animal sounds (*cluck, moo, baa, quack, neigh*) and simple jobs (*gives milk, lays eggs, pulls a cart*). Contrast **hen / rooster / chick** and **cow / bull / calf** when children are ready.
+- **Guide (English):** “Old MacDonald” ground: practice simple traits and jobs (*gives milk, lays eggs, pulls a cart, climbs rocks*). Contrast **hen / rooster / chick** and **cow / bull / calf** when children are ready.
 
 | 难度    | No. | Word      | IPA（英 / 美）                  | 释义                                              | 猜谜提示（简单英文 · 家长念给孩子猜）                                                                                                          |
 | ----- | --: | --------- | --------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ⭐ 启蒙  |   4 | `chicken` | 英:/'tʃɪkɪn/ 美:/'tʃɪkɪn/     | n. ⼩鸡；鸡⾁；胆⼩⻤，懦夫 adj. 鸡⾁的；幼⼩的；胆怯 的               | Farm bird. We eat its eggs. It says "cluck cluck," not "quack."                                                               |
+| ⭐ 启蒙  |   4 | `chicken` | 英:/'tʃɪkɪn/ 美:/'tʃɪkɪn/     | n. ⼩鸡；鸡⾁；胆⼩⻤，懦夫 adj. 鸡⾁的；幼⼩的；胆怯 的               | Farm bird. We eat its eggs. It has a red comb on the head.                                                                     |
 | ⭐ 启蒙  |  22 | `hen`     | 英:/hen/ 美:/hen/             | n. ⺟鸡；雌禽                                        | Mom chicken—the lady that lays eggs.                                                                                          |
-| ⭐ 启蒙  |  24 | `rooster` | 英:/'ruːstə(r)/ 美:/'ruːstər/ | n. 公鸡；狂妄⾃负的⼈                                    | Dad chicken. Big comb on head. Wakes you up: "cock-a-doodle-doo!"                                                             |
-| ⭐ 启蒙  |  61 | `cow`     | 英:/kaʊ/ 美:/kaʊ/             | n. 奶⽜，⺟⽜；⺟兽 vt. 威胁，恐吓                           | Black and white spots. Says "moo." Gives us milk.                                                                             |
-| ⭐ 启蒙  |  68 | `duck`    | 英:/dʌk/ 美:/dʌk/             | n. 鸭⼦；鸭⾁；（英）宝⻉⼉；[版]零分 vi. 闪避；没⼊⽔ 中              | Says "quack." Webbed feet. Yellow babies follow mom in a line.                                                                |
-| ⭐ 启蒙  |  84 | `horse`   | 英:/hɔːs/ 美:/hɔːrs/          | n. ⻢；骑兵；脚架；[俚]海洛因 vt. 使骑⻢；系⻢于；[⼝] 捉弄            | Ride it! Neigh! Runs fast. Cowboy’s best friend.                                                                              |
-| ⭐ 启蒙  |  85 | `goat`    | 英:/ɡəʊt/ 美:/ɡoʊt/           | n. ⼭⽺；替罪⽺（美俚）；⾊⻤（美俚）                            | Beard on chin. Climbs rocks. Says "maa" and eats anything!                                                                    |
-| ⭐ 启蒙  |  87 | `sheep`   | 英:/ʃiːp/ 美:/ʃiːp/           | n. ⽺，绵⽺；胆⼩⻤                                     | Fluffy cloud on legs. Gives wool. Says "baa."                                                                                 |
+| ⭐ 启蒙  |  24 | `rooster` | 英:/'ruːstə(r)/ 美:/'ruːstər/ | n. 公鸡；狂妄⾃负的⼈                                    | Dad chicken. Big comb on head. Often stands tall on the farm fence.                                                           |
+| ⭐ 启蒙  |  61 | `cow`     | 英:/kaʊ/ 美:/kaʊ/             | n. 奶⽜，⺟⽜；⺟兽 vt. 威胁，恐吓                           | Black and white spots. Gives us milk. Eats grass all day.                                                                      |
+| ⭐ 启蒙  |  68 | `duck`    | 英:/dʌk/ 美:/dʌk/             | n. 鸭⼦；鸭⾁；（英）宝⻉⼉；[版]零分 vi. 闪避；没⼊⽔ 中              | Webbed feet. Yellow babies follow mom in a line.                                                                               |
+| ⭐ 启蒙  |  84 | `horse`   | 英:/hɔːs/ 美:/hɔːrs/          | n. ⻢；骑兵；脚架；[俚]海洛因 vt. 使骑⻢；系⻢于；[⼝] 捉弄            | Ride it! Runs fast. Cowboy’s best friend.                                                                                      |
+| ⭐ 启蒙  |  85 | `goat`    | 英:/ɡəʊt/ 美:/ɡoʊt/           | n. ⼭⽺；替罪⽺（美俚）；⾊⻤（美俚）                            | Beard on chin. Climbs rocks. Eats leaves and grass.                                                                            |
+| ⭐ 启蒙  |  87 | `sheep`   | 英:/ʃiːp/ 美:/ʃiːp/           | n. ⽺，绵⽺；胆⼩⻤                                     | Fluffy cloud on legs. Gives wool for sweaters.                                                                                 |
 | ⭐⭐ 常见 |  28 | `bull`    | 英:/bʊl/ 美:/bʊl/             | n. 公⽜；看好股市者；粗壮如⽜的⼈；[俚]胡说⼋道；印玺 adj. 公⽜似的；雄性的；⼤型的 | Dad cow. Strong horns. Red cape in cartoons!                                                                                  |
 | ⭐⭐ 常见 |  60 | `cattle`  | 英:/'kætl/ 美:/'kætl/         | n. [总称]⽜；家畜；牲畜（骂⼈的话）；⽆价值的⼈                      | Many cows together—on a farm for milk or beef.                                                                                |
 | ⭐⭐ 常见 |  62 | `buffalo` | 英:/'bʌfələʊ/ 美:/'bʌfəloʊ/   | n. ⽔⽜；野⽜（产于北美）；⽔陆两⽤坦克                           | Big shaggy ox. Or the American bison with a huge head.                                                                        |
@@ -110,10 +110,10 @@ tags:
 | ⭐⭐ 常见 |  83 | `mule`    | 英:/mjuːl/ 美:/mjuːl/         | n. 骡⼦；固执的⼈；⾛私毒品者 n. 拖鞋                          | Mom is a horse, dad is a donkey—strong and stubborn!                                                                          |
 | ⭐⭐ 常见 |  88 | `donkey`  | 英:/'dɒŋki/ 美:/'dɑːŋki/      | n. 驴⼦；傻⽠；顽固的⼈                                   | Long ears. Stubborn but helpful. Eeyore in Winnie-the-Pooh!                                                                   |
 | ⭐⭐ 常见 | 100 | `oxen`    | 英:/'ɒksn/ 美:/ɑksn/          | n. ⽜（ox的复数）                                     | Strong working cows—pull plows in old farms.                                                                                  |
-| ⭐⭐ 常见 | 105 | `lamb`    | 英:/læm/ 美:/læm/             | n. 羔⽺，⼩⽺；羔⽺⾁ vt. ⽣⼩⽺，产羔⽺                        | Baby sheep. Soft and white. Says gentle "baa."                                                                                |
-| ⭐⭐ 常见 | 135 | `turkey`  | 英:/'tɜːki/ 美:/'tɜːrki/      | n. ⽕鸡；失败之作；笨蛋                                   | Big bird for Thanksgiving. Says "gobble gobble." Silly walk.                                                                  |
+| ⭐⭐ 常见 | 105 | `lamb`    | 英:/læm/ 美:/læm/             | n. 羔⽺，⼩⽺；羔⽺⾁ vt. ⽣⼩⽺，产羔⽺                        | Baby sheep. Soft and white. Stays close to its mom.                                                                            |
+| ⭐⭐ 常见 | 135 | `turkey`  | 英:/'tɜːki/ 美:/'tɜːrki/      | n. ⽕鸡；失败之作；笨蛋                                   | Big bird for Thanksgiving. Has a fan tail and silly walk.                                                                      |
 | ⭐⭐ 常见 | 136 | `goose`   | 英:/ɡuːs/ 美:/ɡuːs/           | n. 鹅；雌鹅；鹅⾁；傻⽠ vt. 突然加⼤油⻔；嘘骂                     | Long neck. Curves toward the sky to sing. White feathers on green water. Red feet paddle the waves! (See 《咏鹅》 poem in notes.) |
-| ⭐⭐ 常见 | 169 | `cock`    | 英:/kɒk/ 美:/kɑːk/            | n. 公鸡；雄⻦；⻰头；头⽬ vt. 使竖起；使耸⽴；使朝上                  | Another word for rooster—dad chicken that crows.                                                                              |
+| ⭐⭐ 常见 | 169 | `cock`    | 英:/kɒk/ 美:/kɑːk/            | n. 公鸡；雄⻦；⻰头；头⽬ vt. 使竖起；使耸⽴；使朝上                  | Another word for rooster—dad chicken with a big comb.                                                                         |
 
 <a id="cat-birds"></a>
 
@@ -127,16 +127,16 @@ tags:
 | 难度     | No. | Word      | IPA（英 / 美）                | 释义                                       | 猜谜提示（简单英文 · 家长念给孩子猜）                                                                   |
 | ------ | --: | --------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 | ⭐ 启蒙   |  52 | `bird`    | 英:/bɜːd/ 美:/bɜːrd/        | n. ⻦；家伙；⽻⽑球 vt. 向…喝倒彩；起哄                 | Has feathers and wings. Most can fly. Lays eggs in a nest.                             |
-| ⭐ 启蒙   |  71 | `owl`     | 英:/aʊl/ 美:/aʊl/           | n. [动]猫头鹰；枭；惯于晚上活动的⼈                     | Big eyes. Turns head all around. "Hoo hoo" at night.                                   |
-| ⭐ 启蒙   | 110 | `dove`    | 英:/dʌv/ 美:/dʌv/           | n. 鸽⼦；鸽派⼈⼠ v. 潜⽔（dive的过去式）               | White peaceful bird. Symbol of love. "Coo coo."                                        |
+| ⭐ 启蒙   |  71 | `owl`     | 英:/aʊl/ 美:/aʊl/           | n. [动]猫头鹰；枭；惯于晚上活动的⼈                     | Big eyes. Turns head all around. Active at night.                                     |
+| ⭐ 启蒙   | 110 | `dove`    | 英:/dʌv/ 美:/dʌv/           | n. 鸽⼦；鸽派⼈⼠ v. 潜⽔（dive的过去式）               | White peaceful bird. Symbol of love.                                                   |
 | ⭐ 启蒙   | 141 | `penguin` | 英:/'peŋɡwɪn/ 美:/'peŋɡwɪn/ | n. 企鹅；[美俚]空军地勤⼈员                         | Cannot fly. Tuxedo suit. Waddles on ice. Slides on belly!                              |
 | ⭐ 启蒙   | 146 | `parrot`  | 英:/'pærət/ 美:/'pærət/     | n. 鹦鹉；学⾆者，应声⾍；机械模仿别⼈的⼈ vt. 机械地模 仿        | Colorful bird that can copy your words! "Polly wants a cracker."                       |
 | ⭐ 启蒙   | 157 | `pigeon`  | 英:/'pɪdʒɪn/ 美:/'pɪdʒɪn/   | n. 鸽⼦                                    | Gray city bird. Bobbles head when it walks. Eats crumbs.                               |
 | ⭐ 启蒙   | 158 | `eagle`   | 英:/'iːɡl/ 美:/'iːɡl/       | n. 鹰；鹰状标饰                                | Huge sharp eyes. National bird of USA. Flies very high!                                |
 | ⭐ 启蒙   | 161 | `swan`    | 英:/swɒn/ 美:/swɑːn/        | n. 天鹅；天鹅星座 vi. 游荡，闲荡                     | Elegant white bird. Long neck. Curved beak. Ballet story!                              |
-| ⭐⭐ 常见  |   1 | `seagull` | /'siːɡʌl/                 | n. 海鸥                                    | It lives by the sea. It flies and cries like a loud bird. French fries? It wants them! |
+| ⭐⭐ 常见  |   1 | `seagull` | /'siːɡʌl/                 | n. 海鸥                                    | It lives by the sea. It flies over beaches and looks for food.                        |
 | ⭐⭐ 常见  |   2 | `swallow` | 英:/'swɒləʊ/ 美:/'swɑːloʊ/  | n. 燕⼦；吞咽；⼀次吞咽的量 v. 忍受；吞下；咽下；轻 信；不流露感情；收回 | Think BIRD: small and fast in the sky. (Also a verb: food goes down your throat.)      |
-| ⭐⭐ 常见  |   3 | `crow`    | 英:/krəʊ/ 美:/kroʊ/         | n. 乌鸦；啼叫；欢叫 v. 报晓；啼叫；欢叫；夸⼝；洋洋⾃ 得         | Black bird. "Caw! Caw!" Sometimes it steals shiny things.                              |
+| ⭐⭐ 常见  |   3 | `crow`    | 英:/krəʊ/ 美:/kroʊ/         | n. 乌鸦；啼叫；欢叫 v. 报晓；啼叫；欢叫；夸⼝；洋洋⾃ 得         | Black bird. Very smart. Sometimes it steals shiny things.                              |
 | ⭐⭐ 常见  |  69 | `robin`   | 英:/'rɒbɪn/ 美:/'rɑːbɪn/    | n. 知更⻦                                   | Red breast. Cute songbird—often on Christmas cards.                                    |
 | ⭐⭐ 常见  |  70 | `jay`     | 英:/dʒeɪ/ 美:/dʒeɪ/         | n. ⻦；松鸡；喋喋不休的⼈                           | Blue noisy bird. Hides acorns for winter.                                              |
 | ⭐⭐ 常见  |  72 | `peacock` | 英:/'piːkɒk/ 美:/'piːkɑːk/  | n. 孔雀；爱虚荣的⼈；雄孔雀 vi. 炫耀；神⽓活现地⾛            | Boy bird with huge colorful tail—opens like a fan!                                     |
@@ -150,11 +150,11 @@ tags:
 *户外观察、数腿、区分「蜘蛛不是昆虫」；部分会蜇人要会避险词汇。*
 
 - **Category (English):** Insects, spiders & many-legged crawlers — **six legs** vs **eight legs**, plus worms and casual **bug** talk.
-- **Guide (English):** Outdoors, count legs and body parts; link **caterpillar → cocoon → butterfly/moth**. For bees, wasps, and hornets, use calm safety English (*stay back, don’t touch, tell a grown-up*) while naming stripes and buzz sounds.
+- **Guide (English):** Outdoors, count legs and body parts; link **caterpillar → cocoon → butterfly/moth**. For bees, wasps, and hornets, use calm safety English (*stay back, don’t touch, tell a grown-up*) while naming stripes and nest places.
 
 | 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
 | --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 45 | `bee` | 英:/biː/ 美:/biː/ | n. 蜜蜂，蜂；勤劳的⼈ | Yellow and black. Makes honey. Buzz buzz! |
+| ⭐ 启蒙 | 45 | `bee` | 英:/biː/ 美:/biː/ | n. 蜜蜂，蜂；勤劳的⼈ | Yellow and black. Makes honey. Flies from flower to flower. |
 | ⭐ 启蒙 | 46 | `ant` | 英:/ænt/ 美:/ænt/ | n. 蚂蚁 | Super strong for its size. Lives in a hill with thousands of friends. |
 | ⭐ 启蒙 | 48 | `butterfly` | 英:/'bʌtəflaɪ/ 美:/'bʌtərflaɪ/ | n. 蝴蝶 蝶式游泳 游⼿好闲的⼈, 轻浮的⼈ | Colorful wings. Used to be a caterpillar. Flutters by flowers. |
 | ⭐ 启蒙 | 147 | `ladybird` | 英:/'leɪdibɜːd/ 美:/'leɪdibɜːrd/ | n. 瓢⾍ | UK word: little red bug with black spots—ladybug! |
@@ -163,7 +163,7 @@ tags:
 | ⭐⭐ 常见 | 43 | `moth` | 英:/mɒθ/美:/mɔːθ/ | n. 蛾；蛀⾍ | Like a butterfly but night-time. Flies toward lights. |
 | ⭐⭐ 常见 | 44 | `wasp` | 英:/wɒsp/ 美:/wɑːsp/ | n. ⻩蜂；胡蜂；易怒的⼈ vi. ⻩蜂似的直扑 | Thin waist, yellow and black—careful, it can sting! |
 | ⭐⭐ 常见 | 47 | `pest` | 英:/pest/ 美:/pest/ | n. 害⾍；有害之物；讨厌的⼈ | Not one bug—any annoying insect or mouse in your house. |
-| ⭐⭐ 常见 | 90 | `crickets` | /'krikit/ | n. 蟋蟀（cricket的复数形式） | Chirp chirp at night. Small jumping bugs on grass. |
+| ⭐⭐ 常见 | 90 | `crickets` | /'krikit/ | n. 蟋蟀（cricket的复数形式） | Small jumping bugs on grass. Active at night. |
 | ⭐⭐ 常见 | 107 | `worm` | 英:/wɜːm/ 美:/wɜːrm/ | n. ⾍，蠕⾍；蜗杆；螺纹；⼩⼈物 vt. 给除⾍；使缓慢前 进；使蠕动 | Long pink squiggle underground. Birds love to eat them. |
 | ⭐⭐ 常见 | 108 | `beetle` | 英:/'biːtl/ 美:/'biːtl/ | n. 甲⾍ | Hard shell on back. Six legs. Ladybug is one kind! |
 | ⭐⭐ 常见 | 130 | `hornet` | 英:/'hɔːnɪt/ 美:/'hɔːrnɪt/ | n. ⼤⻩蜂 | Big angry wasp. Don’t poke the nest! |
@@ -171,8 +171,8 @@ tags:
 | ⭐⭐ 常见 | 148 | `dragonfly` | 英:/'dræɡənflaɪ/ 美:/'dræɡənflaɪ/ | n. 蜻蜓 | Big eyes, two pairs of wings. Hovers over ponds. |
 | ⭐⭐ 常见 | 149 | `cricket` | 英:/'krɪkɪt/ 美:/'krɪkɪt/ | n. 蟋蟀；板球，板球运动 | Chirps at night—or the sport with bats in England! |
 | ⭐⭐ 常见 | 150 | `grasshopper` | 英:/'ɡrɑːshɒpə(r)/ 美:/'ɡræshɑːpər/ | n. 蚱蜢；蝗⾍；轻型⻜机；蚱蜢鸡尾酒 | Big back legs—boing boing! Green jumper in grass. |
-| ⭐⭐ 常见 | 151 | `cicada` | 英:/sɪ'kɑːdə/ 美:/sɪ'keɪdə/ | n. [动]蝉 | Buzzes loudly in summer trees. Sheds a shell on the bark. |
-| ⭐⭐ 常见 | 171 | `mosquito` | 英:/mə'skiːtəʊ/ 美:/mə'skiːtoʊ/ | n. 蚊⼦ | Tiny vampire bug. Buzzes in your ear. Itchy bite! |
+| ⭐⭐ 常见 | 151 | `cicada` | 英:/sɪ'kɑːdə/ 美:/sɪ'keɪdə/ | n. [动]蝉 | Summer tree insect. Sheds a shell on the bark. |
+| ⭐⭐ 常见 | 171 | `mosquito` | 英:/mə'skiːtəʊ/ 美:/mə'skiːtoʊ/ | n. 蚊⼦ | Tiny bug with a long mouth. Itchy bite! |
 | ⭐⭐⭐ 进阶 | 106 | `centipede` | 英:/'sentɪpiːd/ 美:/'sentɪpiːd/ | n. 蜈蚣 | So many legs! Like a train with legs—creepy crawlies. |
 
 <a id="cat-reptile"></a>
@@ -186,7 +186,7 @@ tags:
 
 | 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
 | --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 41 | `frog` | 英:/frɒɡ/ 美:/frɑːɡ/ | n. ⻘蛙；饰扣；辙叉 vi. 捕蛙 | Hop hop! Wet skin. Says "ribbit." Starts life as a tadpole. |
+| ⭐ 启蒙 | 41 | `frog` | 英:/frɒɡ/ 美:/frɑːɡ/ | n. ⻘蛙；饰扣；辙叉 vi. 捕蛙 | Hop hop! Wet skin. Starts life as a tadpole. |
 | ⭐ 启蒙 | 74 | `snake` | 英:/sneɪk/ 美:/sneɪk/ | n. 蛇；阴险的⼈ vi. 迂回前进 | No legs. Slithers. Forked tongue. Some are dangerous. |
 | ⭐ 启蒙 | 140 | `turtle` | 英:/'tɜːtl/ 美:/'tɜːrtl/ | n. 海⻳；⻳，甲⻥ | Hard shell home. Slow. Sea or pond—hides head inside. |
 | ⭐⭐ 常见 | 32 | `lizard` | 英:/'lɪzəd/ 美:/'lɪzərd/ | n. 蜥蜴；类蜥蜴爬⾏动物 | Dry scaly skin. Four legs. Might lose its tail and grow a new one! |
@@ -208,7 +208,7 @@ tags:
 
 | 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
 | --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 89 | `dolphin` | 英:/'dɒlfɪn/ 美:/'dɑːlfɪn/ | n. 海豚 | Smart sea mammal. Jumps high. Clicks and talks to friends. |
+| ⭐ 启蒙 | 89 | `dolphin` | 英:/'dɒlfɪn/ 美:/'dɑːlfɪn/ | n. 海豚 | Smart sea mammal. Jumps high. Lives in groups. |
 | ⭐ 启蒙 | 138 | `crab` | 英:/kræb/ 美:/kræb/ | n. 螃蟹；蟹⾁；脾⽓乖戾的⼈；起重机 vt. 抱怨；破坏；使 偏航 | Walks sideways. Pinchy claws. Red when cooked! |
 | ⭐ 启蒙 | 153 | `whale` | 英:/weɪl/ 美:/weɪl/ | n. 鲸 vi. 捕鲸 v. 打击 | Biggest animal ever. Lives in ocean. Spouts water from head! |
 | ⭐ 启蒙 | 170 | `seal` | 英:/siːl/ 美:/siːl/ | n. 密封；封条；印章；海豹；标志 vt. 密封；盖章 | Animal: blubbery, claps ball at zoo. Or: closes a door tight! |
@@ -237,10 +237,10 @@ tags:
 
 | 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） |
 | --- | ---: | --- | --- | --- | --- |
-| ⭐ 启蒙 | 6 | `lion` | 英:/'laɪən/ 美:/'laɪən/ | n. 狮⼦；名⼈；勇猛的⼈；社交场合的名流 | Big cat with a mane. King of the jungle in stories. It roars! |
-| ⭐ 启蒙 | 39 | `mouse` | 英:/maʊs/ 美:/maʊs/ | n. ⿏标；⽼⿏；胆⼩羞怯的⼈ vt. 探出 | Tiny and squeaky. Cat chases it. Loves cheese in stories. |
-| ⭐ 启蒙 | 79 | `fox` | 英:/fɒks/ 美:/fɑːks/ | vt. [⼝]欺骗；使变酸 n. 狐狸；狡猾的⼈ | Orange fur, fluffy tail. Clever in stories: "What does the fox say?" |
-| ⭐ 启蒙 | 80 | `wolf` | 英:/wʊlf/ 美:/wʊlf/ | n. 狼；残忍贪婪之⼈；⾊狼 vt. ⼤吃；狼吞⻁咽地吃 | Wild dog that howls at the moon. Lives in a pack. |
+| ⭐ 启蒙 | 6 | `lion` | 英:/'laɪən/ 美:/'laɪən/ | n. 狮⼦；名⼈；勇猛的⼈；社交场合的名流 | Big cat with a mane. King of the jungle in stories. |
+| ⭐ 启蒙 | 39 | `mouse` | 英:/maʊs/ 美:/maʊs/ | n. ⿏标；⽼⿏；胆⼩羞怯的⼈ vt. 探出 | Tiny animal. Cat chases it. Loves cheese in stories. |
+| ⭐ 启蒙 | 79 | `fox` | 英:/fɒks/ 美:/fɑːks/ | vt. [⼝]欺骗；使变酸 n. 狐狸；狡猾的⼈ | Orange fur, fluffy tail. Clever in many stories. |
+| ⭐ 启蒙 | 80 | `wolf` | 英:/wʊlf/ 美:/wʊlf/ | n. 狼；残忍贪婪之⼈；⾊狼 vt. ⼤吃；狼吞⻁咽地吃 | Wild dog. Lives in a pack. Hunts together. |
 | ⭐ 启蒙 | 82 | `deer` | 英:/dɪə(r)/ 美:/dɪr/ | n. ⿅，梅花⿅ | Graceful. Antlers on the boy. Eats plants in the forest. |
 | ⭐ 启蒙 | 86 | `panda` | 英:/'pændə/ 美:/'pændə/ | n. 熊猫；猫熊 | Black and white. Eats bamboo all day. Lives in China. |
 | ⭐ 启蒙 | 123 | `zebra` | 英:/'zebrə/ 美:/'ziːbrə/ | n. 斑⻢ adj. 有斑纹的 | Horse in pajamas—black and white stripes. Africa! |

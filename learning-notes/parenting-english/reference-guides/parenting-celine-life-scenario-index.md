@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 1.8
 tags:
   - parenting-english
   - parenting/reference

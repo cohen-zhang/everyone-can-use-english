@@ -262,7 +262,11 @@ tags:
 | **now**     | 现在  | **later**    | 稍后      | Do it now. / We'll do it later. — 现在就做 / 我们稍后做                  |
 | **before**  | 之前  | **after**    | 之后      | Before dinner. / After school. — 晚饭前 / 放学后                      |
 | **today**   | 今天  | **tomorrow** | 明天      | Today is sunny. / Tomorrow we can go. — 今天晴天 / 明天我们可以去          |
-| **first**   | 第一  | **last**     | 最后      | First, brush your teeth. / You're the last one. — 首先刷牙 / 你是最后一个 |
+| **last week** | 上个星期 | **next week** | 下个星期 | We went to the park **last week**. / **Next week** Grandma visits. — 上星期我们去公园了 / 下星期姥姥要来 |
+| **first**   | 第一  | **last**     | 最后      | First, brush your teeth. / You're the **last one** in line. / You're the **final one**—we're done! — 首先刷牙 / 你排队尾 / 你是最后一个，结束啦 |
+| **previous** | 上一个 | **next**     | 下一个    | The previous turn was mine. / You're next! — 上一轮是我 / 下一个到你啦 |
+
+**顺序辨析：** **first**／**last** = 整排或整场的**头一个／最后一个**（队首、队尾）。排队常说 *You're the **last one** in line.*；强调「收尾、不再有下一个」可说 *You're the **final one**.* 或 *This is the **final** round.* — 你是队里**最后一个**；**最后一轮**啦。**previous**／**next** = 紧挨着的**上一个／下一个**（轮流、翻卡片）。不说 *You're the previous one*（不自然）；可说 *The previous turn was yours*、*You were before me*，或 *Who's next?*「下一个是谁？」**last week**／**next week** = 日历上的**上星期／下星期**（不是 *previous week*）。
 
 
 ### 上课、游戏与活动的「开始／结束」 `亲子`
