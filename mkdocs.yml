@@ -47,6 +47,8 @@ plugins:
       lang:
         - zh
         - en
+      # Build-time Chinese segmentation (requires jieba in requirements-docs.txt).
+      jieba_dict_user: jieba_user_dict.txt
 
 hooks:
   - mkdocs_hooks.py
