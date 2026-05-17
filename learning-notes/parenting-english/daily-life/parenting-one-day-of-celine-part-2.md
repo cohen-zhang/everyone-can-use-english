@@ -43,6 +43,8 @@ tags:
 
 ## Potty time `亲子`
 
+**扩展：** 小便／大便更多说法（含正式词、number one/two）见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/bathroom-common-items-en#如厕场景--toilet-area|卫生间常见物品 · 如厕场景]]。
+
 | English | 中文 |
 |--------|------|
 | **Let’s go pee pee.** | 我们去尿尿吧。 |

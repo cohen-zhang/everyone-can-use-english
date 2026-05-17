@@ -329,6 +329,10 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 | 句式                                        | 使用场景 | 中文对照            |
 | ----------------------------------------- | ---- | --------------- |
+| **Do you know this word?**                | 是否认识 | 你知道这个词吗？        |
+| **Do you know the word [word]?**          | 点名某词 | 你知道[单词]这个词吗？    |
+| **Have you heard this word before?**      | 联系既往 | 你以前听过这个词吗？      |
+| **Do you know what [word] means?**        | 是否懂义 | 你知道[单词]是什么意思吗？ |
 | **Repeat after me: [word].**              | 跟读练习 | 跟我念：[单词]。       |
 | **Say it with me: [word].**               | 一起朗读 | 跟我一起说：[单词]。     |
 | **This word is [word].**                  | 单词介绍 | 这个词是[单词]。       |
