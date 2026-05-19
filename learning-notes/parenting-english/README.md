@@ -23,6 +23,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases.md|梳妆打扮 — Girl Version]] — 梳头、仪容
 - [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases.md|爱好 — 国内常见场景]] — 兴趣班、运动等
 - [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases.md|家电日常]] — 家电相关表达
+- [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases.md|亲子 Hiking 场景]] — 带娃徒步口语、边界提醒与鼓励句
 - [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases.md|作业检查日常]] — 作业、学习跟进
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 地铁出行
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动自行车接送 — 校门通勤]] — school run、e‑bike 安全口令
