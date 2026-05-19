@@ -42,11 +42,13 @@ aliases:
 ## vocabulary — 词汇表
 
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab.md|动作 — 日常物品场景]] — 拿起、穿上等
+- [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines.md|动作 — 家庭与作业指令扩展]] — 转圈、不要碰、递给我、擦嘴、连线配对、收书包等
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词]] — 动物 + 猜谜提示
 - [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 蔬果肉主食零食
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]] — 工作、扮装
+- [[learning-notes/parenting-english/vocabulary/parenting-materials-vocab.md|物体材质词汇]] — 塑料、铁、不锈钢、木头、玻璃、陶瓷、橡胶等
 - [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab.md|季节月份星座太空]] — 时间天文
 - [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab.md|常见符号]] — 符号读音
 
@@ -58,6 +60,7 @@ aliases:
 - [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice.md|运动练习]] — 运动亲子句
 - [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game.md|表情猜猜猜]] — emoji 游戏
 - [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game.md|正反义词游戏]] — opposites
+- [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game.md|广义对举词游戏]] — 不止反义词（诗词对举、问答对、进出与新旧等）
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md|Peppa Pig 手记]] — 佩奇 + 外链剧本
 
 ---

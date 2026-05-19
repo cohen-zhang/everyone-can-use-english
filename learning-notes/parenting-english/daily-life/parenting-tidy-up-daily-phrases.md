@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）
+**相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）；乱丢乱扔、收拾书包、挂毛巾等动作口令见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作 — 家庭与作业指令扩展]]（与此页相向互链）。
 
 ---
 

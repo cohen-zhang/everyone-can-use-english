@@ -8,6 +8,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]。
+
 
 通过正反义词游戏帮助孩子扩展词汇量、理解对比概念，同时增进亲子互动。
 
@@ -35,43 +37,44 @@ tags:
 
 ### 大小与多少
 
+玩「正反说」时可用一句里两个词对照，或各说半句；例句偏家里常见物品与吃饭场景。
 
-| 英文        | 中文  | 反义词（英文）     | 反义词（中文） |
-| --------- | --- | ----------- | ------- |
-| **big**   | 大的  | **small**   | 小的      |
-| **large** | 大的  | **tiny**    | 微小的     |
-| **many**  | 许多  | **few**     | 很少      |
-| **more**  | 更多  | **less**    | 更少      |
-| **all**   | 全部  | **none**    | 没有      |
-| **some**  | 一些  | **nothing** | 什么也没有   |
-| **full**  | 满的  | **empty**   | 空的      |
-| **huge**  | 巨大的 | **little**  | 小的      |
+| 英文        | 中文  | 反义词（英文）     | 反义词（中文） | 亲子场景例句 |
+| --------- | --- | ----------- | ------- | -------- |
+| **big**   | 大的  | **small**   | 小的      | This bear is **big**. That chick is **small**. — 这只熊很大 / 那只小鸡很小 |
+| **large** | 大的  | **tiny**    | 微小的     | A **large** watermelon. A **tiny** seed. — 大西瓜 / 一粒小种子 |
+| **many**  | 许多  | **few**     | 很少      | **Many** ducks on the pond. **Few** fish today. — 池塘里很多鸭子 / 今天鱼很少 |
+| **more**  | 更多  | **less**    | 更少      | **More** rice, please. **Less** sugar. — 请再多一点饭 / 糖少放一点 |
+| **all**   | 全部  | **none**    | 没有      | **All** gone! **None** left in the box. — 全吃完了！盒子里一点也没了 |
+| **some**  | 一些  | **nothing** | 什么也没有   | **Some** juice left. **Nothing** in your cup. — 还剩一点果汁 / 你杯子里什么都没有 |
+| **full**  | 满的  | **empty**   | 空的      | The cup is **full**. The bottle is **empty**. — 杯子满了 / 瓶子空了 |
+| **huge**  | 巨大的 | **little**  | 小的      | A **huge** dinosaur toy. A **little** ladybug. — 巨大的恐龙玩具 / 小小的瓢虫 |
 
 
 ### 高矮与长短
 
 
-| 英文        | 中文  | 反义词（英文）     | 反义词（中文） |
-| --------- | --- | ----------- | ------- |
-| **tall**  | 高的  | **short**   | 矮的      |
-| **high**  | 高的  | **low**     | 低的      |
-| **long**  | 长的  | **short**   | 短的      |
-| **deep**  | 深的  | **shallow** | 浅的      |
-| **thick** | 厚的  | **thin**    | 薄的      |
-| **wide**  | 宽的  | **narrow**  | 窄的      |
+| 英文        | 中文  | 反义词（英文）     | 反义词（中文） | 亲子场景例句 |
+| --------- | --- | ----------- | ------- | -------- |
+| **tall**  | 高的  | **short**   | 矮的      | Dad is **tall**. Celine is **short**. — 爸爸很高 / Celine 比较矮 |
+| **high**  | 高的  | **low**     | 低的      | The shelf is **high**. The step is **low**. — 架子很高 / 台阶很低 |
+| **long**  | 长的  | **short**   | 短的      | **Long** hair today. **Short** bangs. — 今天头发很长 / 刘海很短 |
+| **deep**  | 深的  | **shallow** | 浅的      | The pool is **deep**. The puddle is **shallow**. — 游泳池很深 / 水坑很浅 |
+| **thick** | 厚的  | **thin**    | 薄的      | A **thick** book. A **thin** notebook. — 厚厚的书 / 薄薄的笔记本 |
+| **wide**  | 宽的  | **narrow**  | 窄的      | A **wide** road. A **narrow** path. — 宽马路 / 窄小路 |
 
 
 ### 快慢与轻重
 
 
-| 英文         | 中文  | 反义词（英文）                  | 反义词（中文） |
-| ---------- | --- | ------------------------ | ------- |
-| **fast**   | 快的  | **slow**                 | 慢的      |
-| **quick**  | 迅速的 | **slow**                 | 缓慢的     |
-| **heavy**  | 重的  | **light**                | 轻的      |
-| **strong** | 强壮的 | **weak**                 | 虚弱的     |
-| **hard**   | 硬的  | **soft**                 | 软的      |
-| **easy**   | 容易的 | **difficult** / **hard** | 困难的     |
+| 英文         | 中文  | 反义词（英文）                  | 反义词（中文） | 亲子场景例句 |
+| ---------- | --- | ------------------------ | ------- | -------- |
+| **fast**   | 快的  | **slow**                 | 慢的      | Run **fast**! Walk **slow**. — 跑快点！走慢点 |
+| **quick**  | 迅速的 | **slow**                 | 缓慢的     | Be **quick**! Don't go so **slow**. — 快点！别那么慢 |
+| **heavy**  | 重的  | **light**                | 轻的      | This bag is **heavy**. The balloon is **light**. — 包很重 / 气球很轻 |
+| **strong** | 强壮的 | **weak**                 | 虚弱的     | You're **strong**! This tape is **weak**. — 你好有力气！这胶带粘不住 |
+| **hard**   | 硬的  | **soft**                 | 软的      | **Hard** shell. **Soft** pillow. — 硬壳 / 软枕头 |
+| **easy**   | 容易的 | **difficult** / **hard** | 困难的     | This puzzle is **easy**. That one is **hard**. — 这个拼图简单 / 那个难 |
 
 
 ---
@@ -125,6 +128,8 @@ tags:
 
 口语里常以 **can't**／**don't**／**stop** 收束上一格；下面这些更偏「**规矩感**」，和 **Do／Don't** 可接着玩：**能力上能不能**、**准许不准许**与**按理说该不该**，要靠整句上下文听语气（家长解释一次即可）。
 
+**（扩展）** 问句 **Can you …?**／**May I …?** 的整句提示与 *Can you*／*Are you*／*Will you* 对比见：[[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts|提问句 — Can you / Are you / Will you]]（**Can you** 表能力或礼貌请求；与本节 **You can.**／**You can't.** 许可口吻不同，可对照讲清「问能不能做」vs「准许／不准许做」）— 与此小节 **相向互链**。
+
 | A（许可／获准／按理说该……）                                                              | 简中                                                                   | B（反面：不许／没获准／按理说别……）                                                                              | 简中                                                                     | 亲子场景例句                                                                                                                                      |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **You can.**／**You can …**（能力／规则里「准许」两重义靠上下文分辨） | 「你可以」（做得到或规则允许）。 | **You can't.**／**You cannot.**／**You're not allowed to.**（最后一句常为场馆／告示／校规口吻） | 「（你）没法／不许／没被允许」…… | Dad nods—you **can** open it. Signs say **you cannot** litter. — 爸爸点头—**你可以**打开。指示牌写「禁止乱扔」。 |
@@ -132,7 +137,7 @@ tags:
 | **You may …** | 「可以」（比 *can* 稍正式；家长／老师式许可也常听） | **You may not.**／口语里多读成 **can't**／**don't** | 「不可以」（书面 *may not*；家里嘴快常直接说 *can't*） | **May I** go outside? — **You may.** / Not now—you **can't.** — 「能出去吗？」／「可以。／现在不行。」 |
 | **You're supposed** to … | 「按理／按规矩你该……」（像讲公德或流程，不必当训斥） | **You're not supposed** to … | 「按理／按规矩你别……」（语感偏公事公办，不一定比 *don't* 更凶） | You're **supposed to** wash hands first. You're **not supposed to** yell in banks. — 先洗手再吃饭；在银行里按规矩不该大喊。（**shouldn't** 口语里常可和 *not supposed to* 对照讲） |
 
-**口袋句（许可问答）**：**May I …?** — **Yes, you may.**／**No, you can't.** · **Can I …?** — **Yes, you can.**／**No, you cannot / can't.** 四句轮换跟读。**cannot** 是 **can't** 的完整写法。**mustn't** 表示「禁止、千万别」（比 *don't* 更强），可先只做听力输入。
+**口袋句（许可问答）**：**May I …?** — **Yes, you may.**／**No, you can't.** · **Can I …?** — **Yes, you can.**／**No, you cannot / can't.** 四句轮换跟读；更多 *Can you …?* 请求句见 [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts|提问句 — Can you / Are you / Will you]]。**cannot** 是 **can't** 的完整写法。**mustn't** 表示「禁止、千万别」（比 *don't* 更强），可先只做听力输入。
 
 顺带：`like this / like that`「像这样／像那样」与 **how**／**why**／**please**／**sorry** 可继续编进下一轮；和本格一并练时用 **please, may I …?**／**sorry, you can't**。不必一次背全。
 
