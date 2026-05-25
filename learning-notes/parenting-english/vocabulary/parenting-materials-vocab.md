@@ -33,6 +33,7 @@ tags:
 | Material | 中文 | 常见搭配 | 例句（English + 简中） |
 | --- | --- | --- | --- |
 | **plastic** | 塑料 | plastic bottle, plastic toy | **This toy is made of plastic.** — 这个玩具是塑料做的。 |
+| **metal** | 金属 | metal spoon, metal lid | **Some toys are made of metal.** — 有些玩具是金属做的。 |
 | **iron** | 铁 | iron gate, iron pan | **The gate is made of iron.** — 这个大门是铁做的。 |
 | **stainless steel** | 不锈钢 | stainless-steel cup, stainless-steel spoon | **This bottle is stainless steel.** — 这个水壶是不锈钢的。 |
 | **wood** | 木头 | wooden table, wooden chair | **The table is made of wood.** — 这张桌子是木头做的。 |

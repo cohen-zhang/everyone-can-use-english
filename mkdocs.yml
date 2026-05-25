@@ -35,12 +35,14 @@ theme:
         icon: material/brightness-4
         name: 切换至浅色
   features:
-    - navigation.expand
     - navigation.indexes
     - toc.follow
     - content.code.copy
     - search.suggest
     - search.highlight
+
+extra_css:
+  - stylesheets/navigation.css
 
 plugins:
   - search:
