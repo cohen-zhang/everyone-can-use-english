@@ -15,7 +15,7 @@ tags:
 
 - **认词与兴趣**：用表里的词指认绘本、动物园、纪录片里的动物，把单词和画面、故事绑在一起，比孤立背诵更容易让孩子有兴趣。
 - **猜动物小游戏**：家长用英语说**颜色、大小、几条腿、住哪里、吃什么、会不会飞**等特征，让孩子猜是哪种动物；猜对后再一起念单词、看音标，巩固印象。
-- **猜谜提示列**：总表最右一列是**简单英文描述**（特征、类比、趣味场景），**故意不写单词本身**，家长可照读或改写给娃猜；非动物条（如 *grain、honey*）列里会说明「不是动物」或提示词性。
+- **猜谜提示列**：总表最右一列是**简单英文描述**（特征、类比、趣味场景），**故意不写单词本身**，家长可照读或改写给娃猜；每格**先保留原短语，再用 `<br>` 换行补上完整短句**（*It is… / It has… / It lives…*），方便孩子跟读；非动物条（如 *grain、honey、aquarium*）列里会说明「不是动物」或提示词性。
 - **启蒙句式**：描述时尽量用**短句、重复结构**（例如 *It is big. It lives in Africa. It has a long nose.*），孩子听得懂、跟得上，就是在对话里做英语启蒙；本表后的释义与音标可作为你备课时的提示。
 - **分类与难度**：词表按场景分组（宠物、农场、鸟类、昆虫、两栖与爬行、海洋、野生哺乳、史前、神话、科技术语、周边词等），每一组内按 **⭐ 启蒙 → 📚 术语** 排序；**No.** 仍为 PDF 原始序号（缺 **116**），可与文末「笔记」逐条对照。
 
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-共 **174** 条（原表题称 175 词；序号 **1–175**，**116** 在 PDF 中缺号，未补行）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
+共 **176** 条（原表题称 175 词；序号 **1–175**，**116** 在 PDF 中缺号，未补行；另增 **canary、aquarium** 两行，无 PDF 序号）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
 
 ---
 
@@ -65,24 +65,33 @@ tags:
 
 *家里、小区里最常见，适合**最先**玩指认与猜谜。*
 
-- **Category (English):** Pets & companion animals — dogs, cats, their young, small caged mammals, and common **breed** names.
-- **Guide (English):** Start routines here: point, name, then guess from *sound, size, fur, tail*. For breeds, use contrasts (*tiny vs big, short hair vs curly*) before introducing long names; with sensitive slang senses, stick to **kitten** / **puppy** in kid talk.
+- **Category (English):** Pets & companion animals — dogs, cats, their young, small caged mammals, pet birds, and the **aquarium** where fish live at home.
+- **Guide (English):** Start routines here: point, name, then guess from *sound, size, fur, tail*. **Dog breed names** are in a separate optional table below—use contrasts (*tiny vs big, short hair vs curly*) before long breed names; with sensitive slang senses, stick to **kitten** / **puppy** in kid talk.
 
 | 难度     | No. | Word        | IPA（英 / 美）                      | 释义                                    | 猜谜提示（简单英文 · 家长念给孩子猜）                                                    |
 | ------ | --: | ----------- | ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
-| ⭐ 启蒙   |  58 | `dog`       | 英:/dɒɡ/ 美:/dɔːɡ/                | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随    | Loyal friend. Wags tail when happy. Loves to play fetch.                |
-| ⭐ 启蒙   |  59 | `cat`       | 英:/kæt/ 美:/kæt/                 | n. 猫；猫科动物                             | Soft paws. Likes to nap in warm places.                                 |
-| ⭐ 启蒙   | 174 | `puppy`     | 英:/'pʌpi/ 美:/'pʌpi/             | n. ⼩狗，幼⽝                              | Baby dog. Tiny paws.                                                    |
-| ⭐ 启蒙   | 128 | `kitty`     | 英:/'kɪti/ 美:/'kɪti/             | n. ⼩猫，猫咪                              | Cute word for a small cat.                                              |
-| ⭐ 启蒙   | 143 | `hamster`   | 英:/'hæmstə(r)/ 美:/'hæmstər/     | n. 仓⿏；仓⿏⽑⽪                            | Puffy cheeks store food. Runs in a wheel at night.                      |
-| ⭐ 启蒙   |  78 | `rabbit`    | 英:/'ræbɪt/ 美:/'ræbɪt/           | n. 兔⼦，野兔 vt. 让…⻅⻤去吧                   | Long ears. Hops fast. Loves carrots                                     |
-| ⭐ 启蒙   |  34 | `bunny`     | 英:/'bʌni/ 美:/'bʌni/             | n. 兔⼦（特别是⼩兔⼦）；可爱⼥郎                    | Soft baby rabbit word. Hops. Loves carrots in cartoons.                 |
-| ⭐⭐ 常见  |  53 | `Chihuahua` | 英:/tʃɪ'wɑːwə/ 美:/tʃɪ'wɑwɑ/      | n. 吉娃娃（⼀种产于墨⻄哥的狗）；奇瓦瓦（墨⻄哥北部 的州及其⾸府名称） | Tiny dog—fits in a purse. Big eyes. From Mexico.                        |
-| ⭐⭐ 常见  |  54 | `Labrador`  | 英:/'læbrədɔː(r)/ 美:/'læbrədɔːr/ | n. 拉布拉多（加拿⼤东部⼀地区）；⼀种纽芬兰猎⽝             | Friendly big dog. Loves water. Often yellow, black, or chocolate brown. |
-| ⭐⭐ 常见  |  55 | `bulldog`   | 英:/'bʊldɒɡ/ 美:/'bʊldɔːɡ/        | n. ⽜头⽝，恶⽝；短枪管⼤型⼿枪                     | Wrinkly face, wide chest. Looks tough but can be sweet.                 |
-| ⭐⭐ 常见  |  56 | `terrier`   | 英:/'teriə(r)/ 美:/'teriər/       | n. ⼀种活泼的⼩狗；地籍册；国防⾃卫队                  | Small lively dog that loves to dig and chase.                           |
-| ⭐⭐ 常见  |  57 | `poodle`    | 英:/'puːdl/ 美:/'puːdl/           | n. 狮⼦狗 vt. 剪⽑                         | Curly fancy fur. Sometimes silly haircut. Very smart dog.               |
-| ⭐⭐⭐ 进阶 | 173 | `pussy`     | 英:/'pʊsi/ 美:/'pʊsi/             | n. 猫咪；阴⻔ adj. 多脓的                     | Cute word for kitten (informal). For kids: say "kitten."                |
+| ⭐ 启蒙   |  58 | `dog`       | 英:/dɒɡ/ 美:/dɔːɡ/                | n. 狗；[美俚]丑⼥⼈；卑鄙的⼈；（俚）朋友 vt. 跟踪；尾 随    | Loyal friend. Wags tail when happy. Loves to play fetch.<br>It is a loyal friend. It wags its tail when it is happy. It loves to play fetch.                |
+| ⭐ 启蒙   |  59 | `cat`       | 英:/kæt/ 美:/kæt/                 | n. 猫；猫科动物                             | Soft paws. Likes to nap in warm places.<br>It has soft paws. It likes to nap in warm places.                                 |
+| ⭐ 启蒙   | 174 | `puppy`     | 英:/'pʌpi/ 美:/'pʌpi/             | n. ⼩狗，幼⽝                              | Baby dog. Tiny paws.<br>It is a baby dog. It has tiny paws.                                                    |
+| ⭐ 启蒙   | 128 | `kitty`     | 英:/'kɪti/ 美:/'kɪti/             | n. ⼩猫，猫咪                              | Cute word for a small cat.<br>It is a cute word for a small cat.                                              |
+| ⭐ 启蒙   | 143 | `hamster`   | 英:/'hæmstə(r)/ 美:/'hæmstər/     | n. 仓⿏；仓⿏⽑⽪                            | Puffy cheeks store food. Runs in a wheel at night.<br>It has puffy cheeks that store food. It runs in a wheel at night.                      |
+| ⭐ 启蒙   |  78 | `rabbit`    | 英:/'ræbɪt/ 美:/'ræbɪt/           | n. 兔⼦，野兔 vt. 让…⻅⻤去吧                   | Long ears. Hops fast. Loves carrots.<br>It has long ears. It hops fast. It loves carrots.                                     |
+| ⭐ 启蒙   |  34 | `bunny`     | 英:/'bʌni/ 美:/'bʌni/             | n. 兔⼦（特别是⼩兔⼦）；可爱⼥郎                    | Soft baby rabbit word. Hops. Loves carrots in cartoons.<br>It is a soft word for a baby rabbit. It hops. It loves carrots in cartoons.                 |
+| ⭐ 启蒙   |   — | `canary`    | 英:/kə'neəri/ 美:/kə'neri/        | n. 金丝雀；金丝雀⾊                          | Small yellow bird. Sings in a cage.<br>It is a small yellow bird. People keep it in a cage at home. It can sing beautiful songs. |
+| ⭐ 启蒙   |   — | `aquarium`  | 英:/ə'kweəriəm/ 美:/ə'kweəriəm/   | n. 水族馆；鱼缸                             | Glass tank with water. Fish swim inside.<br>It is not an animal—it is a glass tank with water. Fish swim inside it. You can have one at home or visit a big one at the zoo. |
+| ⭐⭐⭐ 进阶 | 173 | `pussy`     | 英:/'pʊsi/ 美:/'pʊsi/             | n. 猫咪；阴⻔ adj. 多脓的                     | Cute word for kitten (informal). For kids: say "kitten."<br>It is a cute informal word for a kitten. For kids, say "kitten."                |
+
+#### 狗品种名（可选 · Optional dog breeds）
+
+*具体品种偏识记，启蒙阶段可先略过；大一点的孩子做「大狗还是小狗狗？」对比时再用。*
+
+| 难度    | No. | Word        | IPA（英 / 美）                      | 释义                                    | 猜谜提示（简单英文 · 家长念给孩子猜）                                                    |
+| ----- | --: | ----------- | ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------- |
+| ⭐⭐ 常见 |  53 | `Chihuahua` | 英:/tʃɪ'wɑːwə/ 美:/tʃɪ'wɑwɑ/      | n. 吉娃娃（⼀种产于墨⻄哥的狗）；奇瓦瓦（墨⻄哥北部 的州及其⾸府名称） | Tiny dog—fits in a purse. Big eyes. From Mexico.<br>It is a tiny dog—it fits in a purse. It has big eyes. It comes from Mexico.                        |
+| ⭐⭐ 常见 |  54 | `Labrador`  | 英:/'læbrədɔː(r)/ 美:/'læbrədɔːr/ | n. 拉布拉多（加拿⼤东部⼀地区）；⼀种纽芬兰猎⽝             | Friendly big dog. Loves water. Often yellow, black, or chocolate brown.<br>It is a friendly big dog. It loves water. It is often yellow, black, or chocolate brown. |
+| ⭐⭐ 常见 |  55 | `bulldog`   | 英:/'bʊldɒɡ/ 美:/'bʊldɔːɡ/        | n. ⽜头⽝，恶⽝；短枪管⼤型⼿枪                     | Wrinkly face, wide chest. Looks tough but can be sweet.<br>It has a wrinkly face and a wide chest. It looks tough but it can be sweet.                 |
+| ⭐⭐ 常见 |  56 | `terrier`   | 英:/'teriə(r)/ 美:/'teriər/       | n. ⼀种活泼的⼩狗；地籍册；国防⾃卫队                  | Small lively dog that loves to dig and chase.<br>It is a small lively dog. It loves to dig and chase.                           |
+| ⭐⭐ 常见 |  57 | `poodle`    | 英:/'puːdl/ 美:/'puːdl/           | n. 狮⼦狗 vt. 剪⽑                         | Curly fancy fur. Sometimes silly haircut. Very smart dog.<br>It has curly fancy fur. Sometimes it has a silly haircut. It is a very smart dog.               |
 
 <a id="cat-farm"></a>
 
