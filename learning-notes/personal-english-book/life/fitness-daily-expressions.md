@@ -13,6 +13,7 @@ aliases:
 **相关（扩展）：**
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]]（看 Health / Sleep / Reminders 常用介绍句）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]]（查身体部位/内脏/症状词，配合本页动作句复习）
+- [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 练完出汗、补水、拿瓶喝光的一分钟叙事
 
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；术语表与器材表放在后半部分作查阅。**泽哥**带娃去公园或看 iPhone 上的健康数据时，可以直接念英文句。
 

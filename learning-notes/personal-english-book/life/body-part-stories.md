@@ -9,7 +9,8 @@ tags:
 # Body Part 主题故事集（Body Part Stories）
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]  
-**词表来源：** [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表（197，含笔记）]]
+**词表来源：** [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表（197，含笔记）]]  
+**相关（扩展）：** [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 喉咙、吞咽等动作句
 
 **用途：** 按分类词表生成不同主题故事，用场景记忆身体部位和健康词汇。  
 **风格约束：** 使用 `english-learning-markdown-docs` 的 Prompt 规则（地道美式口语、短句、优先短语动词/习惯用语）。

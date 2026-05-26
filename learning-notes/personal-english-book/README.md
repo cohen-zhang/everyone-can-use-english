@@ -29,6 +29,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
 - [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]] — 健身场景
+- [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
 - [[learning-notes/personal-english-book/life/community-management-english.md|小区物业与邻里]] — 社区沟通
