@@ -8,6 +8,9 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**相关：** [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语（Celine 爱太空）]]（与此页 **相向互链**；本页偏词表与尺度，该页偏**顺着兴趣聊天**的场景句。）
+
+---
 
 ## 本页在做什么
 

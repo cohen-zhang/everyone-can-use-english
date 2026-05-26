@@ -9,6 +9,7 @@ on:
       - "learning-notes/**"
       - "mkdocs.yml"
       - "mkdocs_hooks.py"
+      - "jieba_user_dict.txt"
       - "requirements-docs.txt"
       - ".github/workflows/github-pages.yml"
   workflow_dispatch:

@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 2
 tags:
   - moc
   - personal-english-book
@@ -46,6 +48,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/bathroom-common-items-en.md|卫浴常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/balcony-common-items-en.md|阳台常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en.md|儿童房常见物品]]
+- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/study-room-common-items-en.md|书房常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en.md|主卧套间常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/community-life-outdoor-scenarios.md|小区户外与邻里场景]]
 

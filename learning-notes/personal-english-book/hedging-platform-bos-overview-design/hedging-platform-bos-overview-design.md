@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 0.25
 tags:
   - personal-english-book
   - english-learning

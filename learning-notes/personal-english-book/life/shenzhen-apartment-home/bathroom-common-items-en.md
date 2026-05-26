@@ -97,6 +97,22 @@ aliases:
 | `toilet roll` | 英:/ˈtɔɪlət rəʊl/ 美:/ˈtɔɪlət roʊl/ | n. **卷纸／厕纸卷**（英式口语尤常用） | Swap the empty **toilet roll** tube before guests queue for the shared bath. | 客人排队用客卫前先把空纸芯换上新卷。 |
 | `toilet paper holder` | 英:/ˈtɔɪlət ˈpeɪpə(r) ˈhəʊldə(r)/ 美:/ˈtɔɪlət ˈpeɪpər ˈhoʊldər/ | n. **卫生纸架／厕纸盒（杆／挂钩式）** | **Over or under**—which direction should spare rolls feed from this **toilet paper holder**? | 正装还是反装—备用卷应该从纸架哪个方向往外抽？ |
 
+**小便与大便（说法）** — 居家／带娃常用；与 [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2#potty-time-亲子|Potty time（Celine 一日）]] 可对照练嘴。
+
+| Word / phrase | IPA（英 / 美） | 简中释义 | 介绍句（English） | 介绍句（简中） |
+| --- | --- | --- | --- | --- |
+| `pee` | 英:/piː/ 美:/piː/ | v./n. **小便（口语；带娃常说 **pee pee**）** | **I need to pee**—**Celine** taps the **toilet** door after juice. | Celine 喝完果汁会敲马桶门说「我要尿尿」。 |
+| `pee pee` | 英:/piː piː/ 美:/piː piː/ | **小便（幼儿叠词，语气柔和）** | **Let’s go pee pee** before we buckle the car seat. | 上车系安全带前先去尿尿。 |
+| `urinate` | 英:/ˈjʊərɪneɪt/ 美:/ˈjʊrəneɪt/ | v. **排尿（较正式；告示、医护）** | Signs ask you not to **urinate** in the elevator lobby. | 告示要求勿在电梯厅随地小便。 |
+| `urine` | 英:/ˈjʊərɪn/ 美:/ˈjʊrən/ | n. **尿（名词；偏书面／医学）** | Wipe up **urine** spills on tile with paper towels, then disinfect. | 瓷砖上的尿渍先用厨房纸吸干再消毒。 |
+| `number one` | 英:/ˌnʌmbə ˈwʌn/ 美:/ˌnʌmbər ˈwʌn/ | **小便（儿向委婉；常作 **go number one**）** | **Do you need to go number one** before the movie starts? | 电影开始前要不要先去尿一下？ |
+| `poop` | 英:/puːp/ 美:/puːp/ | v./n. **大便（口语；亦作 **poo**）** | **I need to poop**—give **不多** a minute on the **toilet**. | 「我要拉臭臭」—给不多一分钟坐马桶。 |
+| `poo poo` | 英:/puː puː/ 美:/puː puː/ | **大便（幼儿叠词；亦拼 **poo-poo**）** | **Did you poo poo**? We’ll **flush** and wash hands. | 拉臭臭了吗？冲水再洗手。 |
+| `defecate` | 英:/ˈdefəkeɪt/ 美:/ˈdefəkeɪt/ | v. **排便（正式；物业英文告示常见）** | **No urinating or defecating** in common areas—use the restroom. | 公共区域禁止随地大小便—请用卫生间。 |
+| `stool` | 英:/stuːl/ 美:/stuːl/ | n. **粪便（医学／护理用语；勿与「凳子」混淆）** | Hard **stool** after travel—drink water and fiber at home. | 出门回来大便干硬—回家多喝水多吃纤维。 |
+| `bowel movement` | 英:/ˈbaʊəl ˈmuːvmənt/ 美:/ˈbaʊəl ˈmuːvmənt/ | n. **排便／一次大便（礼貌、问诊）** | The doctor asked, **How many bowel movements today?** | 医生问：今天大便几次？ |
+| `number two` | 英:/ˌnʌmbə ˈtuː/ 美:/ˌnʌmbər ˈtuː/ | **大便（儿向委婉；常作 **go number two**）** | **She needs to go number two**—line up for the guest **toilet**. | 她要拉臭臭—客卫要排队等一下。 |
+
 ---
 
 #### ④ 干区其他 · Laundry & misc.
@@ -162,6 +178,9 @@ aliases:
 | **`Can you pass me a tissue?`**／**`Can I have a tissue?`** | 递我一张纸巾？／能给我张 tissue 吗？ |
 | **`I need more toilet paper.`**（向同住说 / 酒店亦可） | 要再补点厕纸／请再给我卷纸。 |
 | **`Don’t flush wipes—they clog pipes.`** | 别把湿巾冲马桶——会堵管子。 |
+| **`I need to pee.`**／**`I need to poop.`** | 我要尿尿。／我要拉臭臭。 |
+| **`Let’s go pee pee.`**／**`Do you need to go number two?`** | 我们去尿尿吧。／你要不要大便？ |
+| **`Flush the toilet, please.`** | 请冲一下马桶。 |
 
 ---
 
@@ -176,4 +195,4 @@ aliases:
 
 ---
 
-**分区统计：** 干区 洗漱 **14** 条（含面巾纸／抽纸盒）；浴室柜护肤 **15** 条；如厕 **12** 条（含厕纸卷与纸架）；干区其他 **2** 条（含擦手纸）；湿区淋浴 **8** 条；沐浴用品 **10** 条；共用设施 **5** 条。上表「练嘴」短语**不计入**。**合计词条 66**。
+**分区统计：** 干区 洗漱 **14** 条（含面巾纸／抽纸盒）；浴室柜护肤 **15** 条；如厕 **12** 条（含厕纸卷与纸架）+ **小便／大便说法 11** 条；干区其他 **2** 条（含擦手纸）；湿区淋浴 **8** 条；沐浴用品 **10** 条；共用设施 **5** 条。上表「练嘴」短语**不计入**。**合计词条 77**。

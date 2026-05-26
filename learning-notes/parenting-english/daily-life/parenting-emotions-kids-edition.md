@@ -20,6 +20,7 @@ aliases:
 - 成人向进阶（工作/夫妻场景、Apple Health 式分类）— [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（与此页 **相向互链**。）
 - 情绪形容词的反义配对 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「情绪类」表；与此页相向互链。）
 - 用表情互动的词汇游戏 — [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜 — Emoji Guessing Game]]（与此页相向互链。）
+- 太空话题聊得太兴奋、要收束睡觉时 — [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]]（§8 *When to pause*；与此页相向互链。）
 
 ---
 

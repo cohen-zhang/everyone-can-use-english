@@ -1,4 +1,6 @@
 ---
+search:
+  boost: 2
 tags:
   - moc
   - parenting-english
@@ -21,6 +23,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases.md|梳妆打扮 — Girl Version]] — 梳头、仪容
 - [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases.md|爱好 — 国内常见场景]] — 兴趣班、运动等
 - [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases.md|家电日常]] — 家电相关表达
+- [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases.md|亲子 Hiking 场景]] — 带娃徒步口语、边界提醒与鼓励句
 - [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases.md|作业检查日常]] — 作业、学习跟进
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 地铁出行
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动自行车接送 — 校门通勤]] — school run、e‑bike 安全口令
@@ -33,17 +36,20 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]] — 儿童游乐设施、户外健身器材、进园安全
 - [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|餐桌礼仪]] — 吃饭规矩
 - [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases.md|收拾整理日常]] — clean up
+- [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]] — 不多（Celine）爱太空时的顺兴趣句与词表
 
 ---
 
 ## vocabulary — 词汇表
 
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab.md|动作 — 日常物品场景]] — 拿起、穿上等
+- [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines.md|动作 — 家庭与作业指令扩展]] — 转圈、不要碰、递给我、擦嘴、连线配对、收书包等
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词]] — 动物 + 猜谜提示
 - [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 蔬果肉主食零食
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]] — 工作、扮装
+- [[learning-notes/parenting-english/vocabulary/parenting-materials-vocab.md|物体材质词汇]] — 塑料、铁、不锈钢、木头、玻璃、陶瓷、橡胶等
 - [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab.md|季节月份星座太空]] — 时间天文
 - [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab.md|常见符号]] — 符号读音
 
@@ -55,6 +61,7 @@ aliases:
 - [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice.md|运动练习]] — 运动亲子句
 - [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game.md|表情猜猜猜]] — emoji 游戏
 - [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game.md|正反义词游戏]] — opposites
+- [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game.md|广义对举词游戏]] — 不止反义词（诗词对举、问答对、进出与新旧等）
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md|Peppa Pig 手记]] — 佩奇 + 外链剧本
 
 ---

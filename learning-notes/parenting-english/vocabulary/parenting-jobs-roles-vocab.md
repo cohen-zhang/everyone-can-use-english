@@ -20,6 +20,7 @@ tags:
 - **梳妆**（本集中有玩 *make-up*，可与真实仪容习惯对比）：**[[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]]**。
 - **拿起／穿上／脱下** 等动作句：**[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]**。
 - **《摩登家庭》S01E02**（*painter / poet / pilot / president* 台词笔记，与此页相向互链）：**[[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-daily-lines|S01E02 生活场景实用英文句]]**。
+- **astronaut** 等太空亲子口语（**Celine** 喜欢宇宙航天时）：**[[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]]**（与此页相向互链）。
 
 ---
 

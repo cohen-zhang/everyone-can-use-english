@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2.5
+---
+
 # 学习笔记站点
 
 本站由 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 从本仓库 `learning-notes/` 构建，便于在浏览器中阅读、搜索与目录导航。

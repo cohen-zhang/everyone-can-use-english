@@ -29,6 +29,8 @@ tags:
 
 询问能力或礼貌请求。
 
+**（游戏·许可反义）** 陈述句 **You can.**／**You can't.**、**May I …?** — **You may.** 等「准许 ↔ 不许」成对口令，可与反义词游戏一起练 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（**口令与指别** → **进阶：准许 ↔ 不许**；与此页 **相向互链**）。*Can you …?* 是**问对方**能不能／愿不愿意；*You can …* 是**告诉对方**可以——语气与功能不同，可各练一轮再混玩。
+
 ### 询问能力
 
 - **Can you reach the shelf?**  

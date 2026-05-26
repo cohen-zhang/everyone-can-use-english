@@ -35,18 +35,22 @@ theme:
         icon: material/brightness-4
         name: 切换至浅色
   features:
-    - navigation.expand
     - navigation.indexes
     - toc.follow
     - content.code.copy
     - search.suggest
     - search.highlight
 
+extra_css:
+  - stylesheets/navigation.css
+
 plugins:
   - search:
       lang:
         - zh
         - en
+      # Build-time Chinese segmentation (requires jieba in requirements-docs.txt).
+      jieba_dict_user: jieba_user_dict.txt
 
 hooks:
   - mkdocs_hooks.py

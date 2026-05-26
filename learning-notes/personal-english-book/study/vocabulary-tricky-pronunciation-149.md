@@ -147,6 +147,10 @@ aliases:
 
 ## 6. 清浊变化与特殊发音 Voicing & Special Pronunciation
 
+清浦音 unvoiced/voiceless consonant
+浊化 voicing
+浊浦音 voiced 
+
 | 序号 | 单词 | 音标 | 释义 | 发音变化 | 发音提示 |
 |-----|------|------|------|---------|---------|
 | 1 | **effect** | /ɪˈfekt/ | n./v. 效果；影响 | 与 affect 区分 | effect n./v. vs affect v. |
