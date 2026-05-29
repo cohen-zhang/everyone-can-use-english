@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e08-transcript.txt|S01E08 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+全家迎来孩子的重要日子，父母们都想把“仪式感”做到完美，却把压力传到了孩子身上。Jay、Claire、Phil 等人各自带着期待与焦虑介入，反而制造更多混乱。最终大家意识到，比起结果是否体面，孩子被理解和被支持才是关键。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

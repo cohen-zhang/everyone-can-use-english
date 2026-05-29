@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e16-transcript.txt|S01E16 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+本集把角色们的“小恐惧”集中爆发：有人怕公开演讲，有人怕失败出丑，也有人怕在家人面前失去面子。三条线并行展示“硬撑”如何让问题变大，直到每个人都不得不承认自己的脆弱。结尾在互相打气中落地，强调了家人提供安全感的价值。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

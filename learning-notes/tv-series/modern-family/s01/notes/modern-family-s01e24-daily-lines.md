@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e24-transcript.txt|S01E24 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+季终集以一张全家福为主线：看似简单的拍照任务因为时间、情绪和性格差异彻底失控。每个人都在争取自己的位置，也在不经意间伤害彼此。最终全家在一连串狼狈之后重新站到一起，收束了本季“混乱但彼此相爱”的核心气质。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

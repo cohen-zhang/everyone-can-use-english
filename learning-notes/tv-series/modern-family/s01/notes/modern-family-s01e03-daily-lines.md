@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e03-transcript.txt|S01E03 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+这一集的核心是“放手与成长”：Jay 想让 Manny 更像传统男孩，安排了许多“男子气概”活动；Claire 和 Phil 在是否让 Haley 开始约会上摇摆不定。与此同时，Mitchell 与 Cameron 也在家庭边界和角色分工上不断磨合，大家都在学习“爱不等于控制”。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

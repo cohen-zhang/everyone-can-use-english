@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e02-transcript.txt|S01E02 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+本集围绕“逞强与误会”展开：Phil 想向邻居证明自己，结果卷入“被偷自行车”的风波；Jay 试图和 Manny 建立男性同盟，却总在方式上用力过猛。另一边，Mitchell 和 Cameron 因育儿分工产生摩擦，最后都在尴尬中学会更诚实地沟通。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt|S01E09 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+万圣节让 Cameron 进入“导演模式”，他把家庭活动做成了大型沉浸式现场，也把 Mitchell 和大家逼到崩溃边缘。另一边，Claire 与邻里关系、Jay 与 Gloria 的日常摩擦都在节日氛围里被放大。最后大家在混乱与笑场中达成默契：允许彼此“夸张”，也要记得照顾边界。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

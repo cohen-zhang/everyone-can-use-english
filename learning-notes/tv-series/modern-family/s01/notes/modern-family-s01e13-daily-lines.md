@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e13-transcript.txt|S01E13 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+Jay 无意间得知家人可能对 Mitchell 性向“早有察觉”，于是想证明自己当年并不迟钝，结果越解释越尴尬。另一边，Phil 与 Claire 在家庭沟通中也不断踩中对方敏感点。这一集通过连环社死现场，讨论了“被理解、被接纳”在家庭中的分量。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

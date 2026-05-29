@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e17-transcript.txt|S01E17 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+几位大人尝试用“善意谎言”维持家庭和谐，却让误会像滚雪球一样越滚越大。随着真相逐步揭开，大家意识到“好听的话”不等于有效沟通。整集在连环补锅中强调：坦诚虽然难堪，但比拐弯抹角更能保护关系。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e19-transcript.txt|S01E19 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+Jay 迎来重要的生日节点，却在“是否接受年龄变化”上表现得格外别扭；家人们各自用不太高明的方式帮他庆祝，反而不断踩雷。与此同时，其他家庭线也都在讨论“变化”与“被需要”的焦虑。最后大家用更真诚的方式表达爱，把庆祝拉回到关系本身。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

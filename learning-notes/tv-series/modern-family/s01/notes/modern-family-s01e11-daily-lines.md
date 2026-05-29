@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e11-transcript.txt|S01E11 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+熬夜照顾婴儿让 Cameron 与 Mitchell 身心俱疲，小事也会迅速升级成争吵；Claire 和 Phil 这边也在深夜育儿中体验“谁更辛苦”的拉锯。与此同时，Jay 与 Gloria 在精力与节奏差异中不断磨合。全集用疲惫状态下的失控，呈现亲密关系里“理解比输赢更重要”。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

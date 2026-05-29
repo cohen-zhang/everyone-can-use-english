@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e01-transcript.txt|S01E01 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+首集通过纪录片式视角介绍三个家庭：Jay 与 Gloria 的再婚家庭、Claire 与 Phil 的三娃家庭、以及 Mitchell 与 Cameron 这对伴侣。全家在晚餐聚会中逐步揭开彼此的生活状态与冲突，最后以 Mitchell 和 Cameron 抱着领养回来的女婴登场，把“多元但相连”的家庭主题立住。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

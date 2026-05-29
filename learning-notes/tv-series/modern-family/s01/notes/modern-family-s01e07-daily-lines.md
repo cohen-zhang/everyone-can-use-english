@@ -4,6 +4,23 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e07-transcript.txt|S01E07 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+本集围绕“父母对孩子成就的期待”展开：Jay 因 Manny 击剑表现出色而格外兴奋，甚至把自己的荣誉感投射到比赛结果上；Manny 一度因为“不能和女生对决”的偏见想退赛，最后在 Gloria 的引导下学会真正尊重对手。另一边，Mitchell 对童年花滑搭档 Claire 的旧怨被重新点燃，两人终于说开当年退赛的真相，也修复了手足关系。与此同时，Phil 和 Claire 为了给 Luke 找“天赋赛道”折腾一圈，最终意识到比起强推“冠军路线”，更重要的是接纳孩子的节奏与特质。
+
+**English version:** This episode centers on parents' expectations of their children's success. Jay gets overly excited about Manny's fencing wins and starts tying his own pride to the results, while Manny briefly wants to quit because he thinks fighting a girl would be dishonorable, until Gloria helps him rethink what respect really means. Meanwhile, Mitchell's old resentment toward Claire over their childhood figure-skating partnership resurfaces, and the siblings finally clear the air and reconnect. At the same time, Phil and Claire scramble to find Luke's "special talent," only to realize that accepting a child's own pace matters more than forcing a champion narrative.
+
+### 剧情关键词
+
+- **parental expectations** — 父母期待
+- **fencing tournament** — 击剑比赛
+- **gender bias** — 性别偏见
+- **sibling resentment** — 手足旧怨
+- **family reconciliation** — 家庭和解
+- **childhood rivalry** — 童年竞争
+- **finding one's talent** — 寻找天赋
+- **respect and pride** — 尊重与自豪
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---
@@ -95,16 +112,16 @@
 - **You brought a wind machine.** — 你带了台鼓风机去
 - **To be fair, - Cameron,** — 老实说  -卡梅隆
 - **my vision was-  - you brought a wind machine.** — 我本来是要  -那可是鼓风机呀
-- **Who puts wheels on cribs?** — 谁会在婴儿床上装轮子
-- **That's okay.** — 尽管抱
+
 - **No biggie. Your battery probably just statically defracticated.** — 没什么  大概是你手机电池没静电了
 - **It means you can recharge it with static electricity.** — 你给它充点静电就行了
 - **Just rub it on your hair.** — 在你头发上蹭蹭就好了
+
 - **You know, I used to go to the houses of my friends,** — 我以前去朋友家
 - **and it used to bug me, you know,** — 心里都特别不舒服
 - **because there was never a trophy in my house.** — 因为我家从来没得过奖杯
 - **Not until this one.** — 直到她的出现
-- **Oh, that's a good grip.** — 你的手劲真大
+
 - **Can we switch seats?** — 和我换换位置吧
 - **Cam, people are staring.** — 小卡  别人在看你呢
 - **I know you're not supposed to care,** — 我知道父母不该在意这些事

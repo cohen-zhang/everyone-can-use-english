@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e04-transcript.txt|S01E04 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+过去的一次家庭冲突被重新提起，所有人都想弄清当年“谁冒犯了谁”。在不同视角的回忆里，每个人都觉得自己有理，最终才意识到真正的问题是长期积累的误解与面子。全家在争执后重新校准边界，也更懂得给彼此留台阶。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

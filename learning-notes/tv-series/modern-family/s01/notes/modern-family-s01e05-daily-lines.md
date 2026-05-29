@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e05-transcript.txt|S01E05 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育”带来反效果；与此同时，Claire 和 Phil 也在子女教育中不断碰撞价值观。几条故事线共同讨论了“身份标签、偏见与自我认同”，最后回到家庭支持比刻板印象更重要。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

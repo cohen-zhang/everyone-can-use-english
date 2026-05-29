@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e23-transcript.txt|S01E23 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+夏威夷行程进入情绪高点：Jay 计划中的关键仪式遭遇连续意外，Claire 与 Phil 也在家庭与伴侣身份之间左右为难。与此同时，孩子们在“被安排”与“自主选择”间不断试探。故事在风景与闹剧并行中推进，最终让各组关系都更靠近一步。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e20-transcript.txt|S01E20 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+这一集围绕“被冷落感”展开：有人成了替补、有人失去舞台中心，连日常互动都变得敏感。家人们一边争取存在感，一边又不得不承认彼此依赖。闹腾之后大家逐渐学会在团队里重新定位自己，而不是把注意力当作唯一价值证明。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e15-transcript.txt|S01E15 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+情人节当天，三对伴侣都试图制造惊喜，却因期待错位把浪漫搞成灾难。Claire 与 Phil 的角色扮演翻车，Jay 与 Gloria 在代际表达差异里互相误解，Mitchell 和 Cameron 也在“谁更用心”上较劲。最终大家发现，关系中的真诚修复比“完美仪式”更打动人。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

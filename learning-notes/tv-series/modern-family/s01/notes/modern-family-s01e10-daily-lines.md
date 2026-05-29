@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e10-transcript.txt|S01E10 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+圣诞节前夜，全家一边准备节日一边处理突发事故：Phil 想守住“完美家庭形象”，Claire 在混乱中疲于收拾，Jay 与 Manny 也在礼物和期待上产生拉扯。几条线最终都指向同一个主题：家庭节日不可能完美，但彼此愿意回头道歉和补位，就是最真实的团圆感。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

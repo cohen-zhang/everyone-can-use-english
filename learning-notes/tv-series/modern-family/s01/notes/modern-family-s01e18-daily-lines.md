@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e18-transcript.txt|S01E18 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+一次观星之夜把三组家庭都拉进了“理想计划 vs 现实落差”的拉扯：有人想证明自己仍有掌控力，有人想在孩子面前树立榜样，也有人只想被理解。夜色中的对话让角色们暂时放下逞强，重新看到彼此真实的需求与脆弱。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

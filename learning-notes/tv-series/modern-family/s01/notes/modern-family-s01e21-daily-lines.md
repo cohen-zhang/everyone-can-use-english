@@ -4,6 +4,10 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e21-transcript.txt|S01E21 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+## 本集剧情简介
+
+Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在执行中不断翻车；Claire 则在“放手”与“担心”之间来回拉扯。Jay 和 Gloria 线也延续了代际教育观的冲突。最终每个人都发现，陪伴质量往往比安排本身更重要。
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---
