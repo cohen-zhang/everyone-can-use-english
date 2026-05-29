@@ -76,6 +76,7 @@ aliases:
 
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md|Can you 提示句]] — 提示集
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-questions.md|Can you 误用笔记]] — 方法论
+- [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category.md|亲子问句分类清单]] — 按沟通意图提取高频问句
 
 ---
 

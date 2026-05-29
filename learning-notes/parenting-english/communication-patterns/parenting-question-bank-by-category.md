@@ -20,7 +20,6 @@ tags:
 | --- | --- | --- |
 | **Can you help me, please?** | 你能帮我一下吗？ | [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md|Can you 提示句]] |
 | **Can you close the door?** | 你能把门关上吗？ | [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md|Can you 提示句]] |
-| **Can I use my hands too?** | 我可以用手一起爬吗？ | [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases.md|亲子 Hiking 场景]] |
 | **May I have some water, please?** | 我可以喝点水吗？ | [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|餐桌礼仪]] |
 | **Can you point to the [item]?** | 你能指一下这个东西吗？ | [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md|Jeff 演示风格指南]] |
 | **Can you try again?** | 你能再试一次吗？ | [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md|Can you 提示句]] |
@@ -96,19 +95,25 @@ tags:
 
 ## 7) 时态分类（按提问时间框架）`亲子`
 
-| 时态/框架 | English question | 中文 | 说明 |
-| --- | --- | --- | --- |
-| **一般现在时** | **Do you have any homework?** | 你有作业吗？ | 问日常事实、常规情况 |
-| **一般现在时** | **Where does this toy go?** | 这个玩具该放哪里？ | 问固定规则/归类位置 |
-| **现在进行/当前状态** | **Are you ready?** | 你准备好了吗？ | 问此刻状态 |
-| **现在进行/当前状态** | **How are you feeling?** | 你现在感觉怎么样？ | 问当下感受 |
-| **一般过去时** | **Did you pack your lunch box?** | 你装饭盒了吗？ | 问刚完成/已发生动作 |
-| **一般过去时** | **Did you bring a jacket for the classroom?** | 你带教室里穿的外套了吗？ | 问出门前是否做了某事 |
-| **一般将来倾向（will）** | **Will you stop that?** | 你能停下来吗？ | 期待接下来发生的动作 |
-| **一般将来倾向（will）** | **Will you finish your homework?** | 你会完成作业吗？ | 询问未来意愿/结果 |
+| 时态/框架 | English question | 中文 | 可替换槽位 | 说明 |
+| --- | --- | --- | --- | --- |
+| **一般现在时** | **Do you have any homework?** | 你有作业吗？ | `Do you have any ___?` | 问日常事实、常规情况 |
+| **一般现在时** | **Where does this toy go?** | 这个玩具该放哪里？ | `Where does this ___ go?` | 问固定规则/归类位置 |
+| **现在进行/当前状态** | **Are you ready?** | 你准备好了吗？ | `Are you ___?` | 问此刻状态 |
+| **现在进行/当前状态** | **How are you feeling?** | 你现在感觉怎么样？ | `How are you feeling (now)?` | 问当下感受 |
+| **一般过去时** | **Did you pack your lunch box?** | 你装饭盒了吗？ | `Did you ___?` | 问刚完成/已发生动作 |
+| **一般过去时** | **Did you bring a jacket for the classroom?** | 你带教室里穿的外套了吗？ | `Did you bring ___?` | 问出门前是否做了某事 |
+| **一般将来倾向（will）** | **Will you stop that?** | 你能停下来吗？ | `Will you ___?` | 期待接下来发生的动作 |
+| **一般将来倾向（will）** | **Will you finish your homework?** | 你会完成作业吗？ | `Will you ___ (later/tomorrow)?` | 询问未来意愿/结果 |
 
 > 小提示：亲子口语里最常用的是 **一般现在时 + 当前状态 + 一般过去时**。  
 > 先把这三类问熟，再加 `will`（将来意愿）与 `can/may`（能力与许可）会更稳。
+
+**时态造句微模板（直接替换）：**
+- **一般现在时：** `Do you ___ every day?` / `Where do we put ___?`
+- **当前状态：** `Are you ___ now?` / `How are you feeling?`
+- **一般过去时：** `Did you ___ today?` / `What did you ___?`
+- **将来倾向：** `Will you ___ later?` / `Will you ___ tomorrow?`
 
 ---
 
