@@ -10,6 +10,19 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+## 立项
+
+132这个版本要立项一下
+
+Version 132 needs to be initiated as a project
+
+要今天立项吗，什么送测及发布时间有预期吗？需要额外拉会沟通吗？
+
+Do we need to initiate the project today? Is there an expected time for submission for testing and release?
+
+Do we need to schedule an additional meeting for communication?
+
+
 ## 研发流程检查清单（演示日）
 
 ### 1) 环境准备 Environment Setup
@@ -74,3 +87,14 @@ Verify forced-cancellation marker field displays correctly.
 Verify the "next designated transaction" flow.
   我搞个初稿出来
    I'll come up with a first draft.
+
+
+## 发布
+
+这几个缺陷的影响域补充一下，今天要做发布件评审
+
+Please supplement the impact scope of these defects, as we need to conduct a review of the release package today
+
+我这边刚刚更新了一版，规划缺陷都包含了
+
+I just updated a version, which includes all the planned defects.

@@ -25,7 +25,7 @@ aliases:
 4. **衣柜**：推拉衣柜 / 斗柜 / 衣架与挂钩。  
 5. **学习桌面**：书桌、书架与 **铅笔、中性笔等文具**。  
 6. **玩乐**：地毯、玩具收纳。  
-7. **起居与环境**：闹钟、小夜灯、床头柜、加湿器与净化器等。  
+7. **起居与环境**：闹钟、**clock / timer / stopwatch 场景辨析**、小夜灯、床头柜、加湿器与净化器等。  
 8. **照明与温控**：台灯吸顶灯、风扇、**空调及遥控器使用情景句**。  
 9. **练习句型**：用 *What’s / There is·are / I like* 指认并描述卧室（儿童房）里的物品。
 
@@ -132,12 +132,61 @@ aliases:
 | --- | --- | --- | --- | --- |
 | `alarm clock` | 英:/əˈlɑːm klɒk/ 美:/əˈlɑːrm klɑːk/ | n. 闹钟 | **Celine** taps snooze once but the second **alarm clock** ring means shoes on. | Celine 闹钟按一次贪睡，第二声铃就得穿鞋出门。 |
 | `digital alarm clock` | 英:/ˈdɪdʒɪtl əˈlɑːm klɒk/ 美:/ˈdɪdʒɪtl əˈlɑːrm klɑːk/ | n. 电子闹钟（显示大字时间） | Glow-dimmed **digital alarm clocks** face away from the pillow at night. | 电子闹钟夜里调暗亮度并侧向避免直射枕头。 |
+| `clock` | 英:/klɒk/ 美:/klɑːk/ | n. 钟（看时间用，不一定响铃） | The bedside **clock** shows 7:15—still ten minutes before the **alarm**. | 床头钟显示 7:15，离闹钟响还有十分钟。 |
+| `timer` | 英:/ˈtaɪmə(r)/ 美:/ˈtaɪmər/ | n. 计时器（倒数） | Set a five-minute **timer** for screen time—when it beeps, tablets go back on the shelf. | 屏幕时间设五分钟计时器，响铃就把平板收回架子。 |
+| `stopwatch` | 英:/ˈstɒpwɒtʃ/ 美:/ˈstɑːpwɑːtʃ/ | n. 秒表（正数计时） | **Celine** starts the **stopwatch** to see how fast she can tidy LEGO into the **toy chest**. | Celine 开秒表看自己多快把乐高收进玩具箱。 |
 | `night light` | 英:/naɪt laɪt/ 美:/naɪt laɪt/ | n. 小夜灯 | The soft **night light** stays on dim after bedtime stories. | 讲完绘本小夜灯调成微亮留着。 |
 | `nightstand` | 英:/ˈnaɪtstænd/ 美:/ˈnaɪtstænd/ | n. 床头柜 | The **alarm clock** and water cup share the narrow **nightstand** top. | 闹钟和水杯共用窄窄的床头柜台面。 |
 | `step stool` | 英:/step stuːl/ 美:/step stuːl/ | n. 垫脚凳 | A sturdy **step stool** lets kids reach the upper **wardrobe** shelf safely. | 结实垫脚凳帮孩子安全够衣柜上层搁板。 |
 | `humidifier` | 英:/hjuːˈmɪdɪfaɪə(r)/ 美:/hjuːˈmɪdɪfaɪər/ | n. 加湿器 | The quiet **humidifier** runs on dry AC nights in summer. | 夏天开空调的干燥夜晚开静音加湿器。 |
 | `air purifier` | 英:/peə(r) ˈpjʊərɪfaɪə(r)/ 美:/per ˈpjʊrɪfaɪər/ | n. 空气净化器 | **泽哥** moves the small **air purifier** beside the bed during haze. | 雾霾天泽哥把小净化器推到床边。 |
 | `growth chart` | 英:/ɡrəʊθ tʃɑːt/ 美:/ɡroʊθ tʃɑːrt/ | n. 身高尺墙贴 | Height marks climb each birthday on the wall **growth chart**. | 每年生日在身高墙贴上画道新线。 |
+
+#### Clock · Alarm · Timer · Stopwatch — 场景辨析 `亲子`
+
+四个词都跟「时间」有关，但**功能不同**：**clock** 主要看几点；**alarm** 到点叫醒你；**timer** 倒数「还剩多久」；**stopwatch** 正数「已经多久」。
+
+| 词 | 核心功能 | 儿童房典型场景 | 亲子口语例句 |
+| --- | --- | --- | --- |
+| **clock** | 显示当前时间 | 床头看几点、睡前知道离关灯还有多久 | **What time is it on the clock?** — 钟上几点了？ |
+| **alarm** / **alarm clock** | 到设定时刻响铃提醒 | 上学日起床、午睡结束、周末练琴提醒 | **Set your alarm for 6:40.** — 把闹钟设到 6:40。 |
+| **timer** | 倒数（countdown） | 屏幕时间、刷牙 2 分钟、作业休息 10 分钟 | **Set a timer for two minutes.** — 设两分钟计时器。 |
+| **stopwatch** | 正数（count up） | 收拾玩具竞速、跳绳计数、朗读速度练习 | **Start the stopwatch—let’s see how fast you can tidy up.** — 开秒表，看你多快收完。 |
+
+**一句话区分：**
+
+- **Clock** — *What time is it now?*（现在几点？）
+- **Alarm** — *Wake me up at seven.*（七点叫我起床。）
+- **Timer** — *You have five minutes left.*（你还剩五分钟。）
+- **Stopwatch** — *How long did that take?*（刚才花了多久？）
+
+**常见搭配（可直接跟娃说）：**
+
+| English | 中文 | 场景 |
+| --- | --- | --- |
+| **Check the clock.** | 看一下钟。 | 睡前、出门前确认时间 |
+| **The alarm is ringing.** | 闹钟在响。 | 起床铃响了 |
+| **Hit snooze.** / **Tap snooze once.** | 按一下贪睡。 | 再睡五分钟（只按一次） |
+| **Turn off the alarm.** | 关掉闹钟。 | 起床后记得关，别一直响 |
+| **Set a timer for ___ minutes.** | 设 ___ 分钟计时器。 | 限时活动（平板、刷牙、休息） |
+| **When the timer goes off, stop.** | 计时器响了就停。 | 规则边界句 |
+| **Start the stopwatch.** | 开始秒表。 | 竞速游戏、运动计时 |
+| **Stop the stopwatch.** | 停秒表。 | 看成绩、记录用时 |
+
+**设备来源（家里常见）：**
+
+- **Dedicated alarm clock** — 床头实体闹钟（大字、贪睡键、夜光屏）
+- **Phone alarm** — 手机闹钟（震动 + 铃声；主卧也常用，见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en|主卧套间常见物品]]）
+- **Kitchen timer** — 厨房计时器（有时拿来限屏幕时间）
+- **Tablet / smart speaker timer** — 平板或音箱语音：*Hey Siri, set a timer for five minutes.*
+- **Stopwatch app** — 手机秒表 App，或运动手环上的 **stopwatch** 功能
+
+**亲子场景示例（bedtime → morning）：**
+
+1. **Bedtime** — *The **clock** says eight. Story time is over.* — 钟上八点了，故事时间结束。
+2. **Screen limit** — *I set a ten-minute **timer** for cartoons.* — 动画片设了十分钟计时器。
+3. **Morning** — *Your **alarm** rings at 6:40. Shoes on after the second ring.* — 闹钟 6:40 响，第二声铃就得穿鞋。
+4. **Cleanup race** — *Start the **stopwatch**. Can you beat yesterday?* — 开秒表，能打破昨天的记录吗？
 
 ---
 
@@ -216,4 +265,4 @@ I sleep with them at night.
 
 ---
 
-**分区统计：** 房间整体 **2** 条；睡眠床架 **6** 条（含榻榻米与床下抽屉）；床上用品 **11** 条；衣柜 **5** 条；学习桌面 **24** 条；玩乐 **5** 条；起居与环境 **8** 条；**照明与温控 8** 条；**练习句型 1** 节（三组句型 + 示例）。**合计词条 69**。
+**分区统计：** 房间整体 **2** 条；睡眠床架 **6** 条（含榻榻米与床下抽屉）；床上用品 **11** 条；衣柜 **5** 条；学习桌面 **24** 条；玩乐 **5** 条；起居与环境 **11** 条（含 clock / timer / stopwatch）；**照明与温控 8** 条；**练习句型 1** 节（三组句型 + 示例）；**Clock·Alarm·Timer·Stopwatch 场景辨析 1** 节。**合计词条 72**。

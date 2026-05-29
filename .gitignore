@@ -146,3 +146,4 @@ public/jupyter-notebooks/*.mp3
 # MkDocs (learning-notes → GitHub Pages)
 site/
 .venv-mkdocs/
+.venv-docs/

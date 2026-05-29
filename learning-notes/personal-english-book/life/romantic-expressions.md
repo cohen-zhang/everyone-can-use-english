@@ -127,6 +127,60 @@ May life be our love paradise."**
 
 ---
 
+## Kiss — 亲嘴的不同说法
+
+> 同一动作，英语里可按**轻重、部位、场合**换说法。情歌和纪念日口语里最常见的是 **kiss** 本身；日常里 **peck**、**blow a kiss** 更生活化。
+
+### 核心词
+
+| English | 中文 | 语感 / 用法 |
+| --- | --- | --- |
+| **kiss** (n./v.) | 吻；亲吻 | 最通用，情歌、情话、纪念日都适用 |
+| **a kiss** | 一个吻 | Give me a kiss. / Steal a kiss. |
+| **kiss you** | 亲你 | I never get tired of kissing you. — 见 [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景]] |
+
+### 按轻重与方式
+
+| English | 中文 | 例句 |
+| --- | --- | --- |
+| **peck** | 轻啄一下（短、快） | She gave me a quick **peck** on the cheek before I left. — 出门前在我脸颊轻啄一下。 |
+| **smooch** | 亲一口（口语，略俏皮） | Come here—one little **smooch**. — 过来，亲一下。（偏轻松） |
+| **French kiss** | 法式接吻（舌吻） | 偏亲密、成人语境；公开场合一般不说。 |
+| **make out** | 亲热接吻（持续较久） | 口语里指「接一阵吻」，比 *kiss* 更强调时长与亲密感。 |
+| **blow a kiss** | 飞吻 | I **blew her a kiss** from across the room. — 我在房间那头对她飞了个吻。 |
+| **steal a kiss** | 偷亲一口 | He **stole a kiss** when she wasn't looking. — 趁她没注意偷亲了一下。 |
+
+### 按部位
+
+| English | 中文 | 例句 |
+| --- | --- | --- |
+| **kiss on the lips** | 亲嘴唇 | **Kiss on the lips** — 最直接、最浪漫。 |
+| **kiss on the cheek** | 亲脸颊 | A **kiss on the cheek** — 温柔、日常，也常见于告别。 |
+| **kiss on the forehead** | 亲额头 | A **kiss on the forehead** — 疼惜、保护感。 |
+| **kiss on the hand** | 吻手 | Old-school romantic — 老式浪漫礼节。 |
+
+### 高频搭配（可直接开口）
+
+| English | 中文 |
+| --- | --- |
+| **Give me a kiss.** | 亲我一下。 |
+| **Kiss me.** | 吻我。（情歌里很常见） |
+| **Kiss me goodnight.** | 晚安吻。 |
+| **Kiss me goodbye.** | 告别吻。 |
+| **Kiss and make up.** | 亲一下就和好吧。（吵架后和好的固定说法） |
+| **Seal it with a kiss.** | 用一个吻盖章定情。（承诺、许愿时常用） |
+
+### 情歌 / 浪漫句里常见
+
+- **I could kiss you all night.** — 我可以吻你一整夜。
+- **Kiss me like you mean it.** — 认真地吻我。（歌词里常见）
+- **Kissing in the rain** — 雨中接吻（经典浪漫意象）
+- **Our first kiss** — 我们的初吻
+
+> **口语提醒：** 对伴侣日常说 **kiss**、**peck**、**blow a kiss** 最自然；**French kiss** / **make out** 偏私密场合。公开或对孩子在场时，用 **a kiss on the cheek** 更得体。
+
+---
+
 ## Vocabulary for KTV 唱歌必备词汇
 
 | English | 中文 | Usage |
@@ -140,6 +194,10 @@ May life be our love paradise."**
 | **paradise** | 天堂 | ultimate compliment |
 | **pray** | 祈祷 | sincere wish |
 | **rainbow** | 彩虹 | happiness symbol `亲子` |
+| **kiss** | 吻；亲吻 | Give me a kiss. / Kiss me goodnight. |
+| **peck** | 轻啄（短吻） | a quick peck on the cheek |
+| **blow a kiss** | 飞吻 | I blew her a kiss. |
+| **steal a kiss** | 偷亲 | He stole a kiss. |
 
 ---
 
