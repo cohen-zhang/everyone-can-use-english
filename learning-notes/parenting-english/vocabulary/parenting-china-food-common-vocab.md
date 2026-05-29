@@ -21,6 +21,7 @@ tags:
 - **rice** /raɪs/ 米饭  
 - **porridge / congee** /ˈpɔːrɪdʒ, ˈkɑːndʒi/ 粥  
 - **noodles** /ˈnuːdəlz/ 面条  
+- **spaghetti** /spəˈɡɛti/ 意大利面（细直面；番茄酱意面常说 **spaghetti with tomato sauce**）  
 - **dumplings** /ˈdʌmplɪŋz/ 饺子  
 - **steamed buns (baozi)** /stiːmd bʌnz; baʊˈziː/ 包子  
 - **wontons** /ˈwɑːntənz/ 馄饨  

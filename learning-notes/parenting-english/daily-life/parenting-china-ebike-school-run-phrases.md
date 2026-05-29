@@ -22,21 +22,21 @@ tags:
 
 ## 车与人的装备（Bike & Rider Gear）
 
-| English | 简中 | 备注 `亲子` |
-| --- | --- | --- |
-| **electric bike** / **e‑bike** | 电动自行车（口语泛称也常叫电动车） | 对外解释「电瓶车」时优先用词 |
-| **battery** `/ˈbætri/` | 电池 / 电瓶 | 口语亦常说 *bike battery pack* |
-| **charger** / **charging plug** | 充电器 / 充电插头 | |
-| **helmet** `/ˈhelmɪt/` | 头盔 | 尺寸要合头；系带 **chin strap**「下巴扣带」要说紧 |
-| **rear seat / child seat (on the back)** | 后座 / 后座儿童坐垫 | |
-| **backrest / seat back** | （坐垫）靠背 | |
-| **footrest / foot pegs** | 脚踏（放脚的小踏板 / 踏杆） | 娃脚别悬空甩着 |
-| **handle / grab bar / rail** | （让孩子抓的）横杆、扶手 | 有的后座自带小扶手 |
-| **kickstand** | 撑脚 | 靠边停时架起 |
-| **lock** / **U‑lock / chain lock** | 车锁 / U 锁 / 链条锁 | 校门口常速停时用 |
-| **rain cover** / **poncho（一次性或骑行用）** | 雨披 | 雨衣亦常说 *raincoat*；防风防雨穿法见[[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常]] |
-| **canopy（口语）rain shield / windshield cover（说法不一）** | 雨篷 / 防风罩（若车上装了） | 海外无完全对应统称，描述「头上那层壳」时用 *plastic canopy* 也行 |
-| **reflective stripe / sticker** | 反光条 | 天黑强调 **be visible** |
+| English | 简中 | 亲子例句 | 备注 `亲子` |
+| --- | --- | --- | --- |
+| **electric bike** / **e‑bike** | 电动自行车（口语泛称也常叫电动车） | We take the **electric bike** to school every morning. 我们每天早上骑电动车去学校。 | 对外解释「电瓶车」时优先用词 |
+| **battery** `/ˈbætri/` | 电池 / 电瓶 | The **battery** is low—let's charge it tonight. 电瓶快没电了，今晚充一下。 | 口语亦常说 *bike battery pack* |
+| **charger** / **charging plug** | 充电器 / 充电插头 | Plug the **charger** in after dinner. 晚饭后把充电器插上。 | |
+| **helmet** `/ˈhelmɪt/` | 头盔 | Put your **helmet** on before we ride. 骑车前先戴上头盔。 | 尺寸要合头；系带 **chin strap**「下巴扣带」要说紧 |
+| **rear seat / child seat (on the back)** | 后座 / 后座儿童坐垫 | Sit on the **rear seat**—feet on the footrests. 坐后座，脚踩稳踏脚。 | |
+| **backrest / seat back** | （坐垫）靠背 | Lean against the **backrest**, not sideways. 靠着靠背坐，别歪着。 | |
+| **footrest / foot pegs** | 脚踏（放脚的小踏板 / 踏杆） | Both feet on the **footrests**, please. 两只脚都放在踏脚上。 | 娃脚别悬空甩着 |
+| **handle / grab bar / rail** | （让孩子抓的）横杆、扶手 | Hold the **grab bar** with both hands. 两只手抓住后座扶手。 | 有的后座自带小扶手 |
+| **kickstand** | 撑脚 | Kick up the **kickstand**—we're ready to go. 踢起撑脚，准备出发。 | 靠边停时架起 |
+| **lock** / **U‑lock / chain lock** | 车锁 / U 锁 / 链条锁 | **Lock** the bike in the bicycle area. 把车锁在非机动车停放区。 | 校门口常速停时用 |
+| **rain cover** / **poncho（一次性或骑行用）** | 雨披 | Put on your **rain poncho**—it's drizzling. 披上雨披，毛毛雨了。 | 雨衣亦常说 *raincoat*；防风防雨穿法见[[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常]] |
+| **canopy（口语）rain shield / windshield cover（说法不一）** | 雨篷 / 防风罩（若车上装了） | The plastic **canopy** keeps rain off your face. 头上雨篷能挡住脸上的雨。 | 海外无完全对应统称，描述「头上那层壳」时用 *plastic canopy* 也行 |
+| **reflective stripe / sticker** | 反光条 | **Reflective stripes** help drivers see us at night. 反光条让司机晚上更容易看见我们。 | 天黑强调 **be visible** |
 
 ---
 

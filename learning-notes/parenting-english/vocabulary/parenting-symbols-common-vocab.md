@@ -8,6 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**相关：** 实物认形状（circle / cube / 2D·3D）见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]。
 
 读书、作业、看屏幕时，如何用英文说「句号、加号、书名号」等；含中英符号习惯差异的极简提示。`亲子`
 

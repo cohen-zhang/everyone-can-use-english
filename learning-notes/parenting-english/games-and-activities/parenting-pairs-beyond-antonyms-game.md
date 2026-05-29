@@ -70,6 +70,9 @@ Help kids notice relationships between words, not just opposite meaning. — 帮
 | **enter** ↔ **leave** | 进入 ↔ 离开 | 动作方向对 | We enter the room quietly and leave quietly. — 我们安静地进房间，也安静地离开。 |
 | **entrance** ↔ **exit** | 入口 ↔ 出口 | 场所结构对 | The entrance is here; the exit is over there. — 入口在这里，出口在那边。 |
 | **in** ↔ **out** | 在里面 ↔ 在外面 | 位置对 | Put the toy in, then take it out. — 先把玩具放进去，再拿出来。 |
+| **upstairs** ↔ **downstairs** | 楼上 ↔ 楼下 | 楼层方向对 | Go **upstairs** to your room. Come **downstairs** when you're ready. — 上楼回房间，准备好了就下楼。 |
+
+**（扩展）** 更多位置反义词（含 **upside down** ↔ **right side up**）见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（**位置类**）— 与此小节相向互链。
 
 ### 4) 程度与状态对（明暗、同异、新旧）`亲子`
 
@@ -91,18 +94,22 @@ Help kids notice relationships between words, not just opposite meaning. — 帮
   Child: **answer**
 - Parent: **entrance**  
   Child: **exit**
+- Parent: **upstairs**  
+  Child: **downstairs**
 
 ### Round 2: 判断类型
 
 - **hot ↔ cold** → opposite（反义）
 - **question ↔ answer** → matching pair（功能对应）
 - **mountain ↔ water** → poetic pair（诗词对举）
+- **upstairs ↔ downstairs** → opposite / directional pair（楼层方向对）
 
 ### Round 3: 句子输出
 
 - We **enter** from the **entrance** and **leave** from the **exit**. — 我们从入口进入，从出口离开。
 - Are these the **same** or **different**? — 这些是一样还是不一样？
 - Is this toy **new** or **used**? — 这个玩具是新的还是用过的？
+- Go **upstairs** and brush your teeth. Then come **downstairs** for breakfast. — 上楼刷牙，然后下楼吃早饭。
 
 ---
 

@@ -48,7 +48,7 @@ tags:
 | **Do you want rice or noodles today?** | 今天想吃米饭还是面条？ | [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] |
 | **Do you want steamed egg or scrambled egg?** | 想吃蒸蛋还是炒蛋？ | [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] |
 | **Do you want a ponytail or pigtails?** | 你想扎马尾还是双马尾？ | [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases.md|梳妆打扮]] |
-| **Do you want the plastic cup or the glass cup?** | 你想要塑料杯还是玻璃杯？ | [[learning-notes/parenting-english/vocabulary/parenting-materials-vocab.md|物体材质词汇]] |
+| **Do you want the plastic cup or the glass cup?** | 你想要塑料杯还是玻璃杯？ | [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab.md|材质 · 形状 · 维度]] |
 
 ---
 

@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]。
+**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]（**方向与空间对** 含 **upstairs ↔ downstairs** 等楼层方向练习）。
 
 
 通过正反义词游戏帮助孩子扩展词汇量、理解对比概念，同时增进亲子互动。
@@ -111,6 +111,17 @@ tags:
 | **button up** | 扣好扣子   | **unbutton** | 解开扣子   | Button up your shirt. / Unbutton your coat. — 扣好衬衫扣子 / 解开外套扣子                |
 
 
+### 穿衣方向与正反面 `亲子`
+
+这组更偏“穿对/穿反”的日常纠正，不是最标准词典反义，但在亲子口语里非常高频。
+
+| 英文 | 中文 | 对照说法（英文） | 对照说法（中文） | 亲子场景例句 |
+| --- | --- | --- | --- | --- |
+| **inside out** | 里外穿反 | **right side out** | 正面朝外（穿对） | Your shirt is **inside out**. Turn it **right side out**. — 你的衣服里外穿反了，翻回正面。 |
+| **backwards** | 前后穿反 | **the right way around** | 前后方向正确 | Your pants are **backwards**. Put them on **the right way around**. — 你的裤子前后穿反了，换成正确方向。 |
+| **front** | 前面 | **back** | 后面 | The tag goes in the **back**. — 标签在后面。 |
+
+
 ### 口令与指别：Do this／Do that／Don't … `亲子`
 
 下面多是**整条指令**对照，帮孩子分清 **this（眼前／我刚示范的这个）** 与 **that（那个／远一点／你先别碰的那个）**，以及 **准许做 ↔ 叫停别做**。玩「正反」时也可用 **say yes ↔ say no**，或 **go ahead ↔ stop / don't**。
@@ -162,6 +173,7 @@ tags:
 |------|------|----------------|----------------|--------------|
 | **fat** | 胖的 | **thin** | 瘦的 | The teddy is fat, and the rabbit is thin. — 小熊胖胖的，小兔瘦瘦的。（描述玩偶更自然） |
 | **ugly** | 丑的 | **beautiful** | 美的 | In stories, the duckling feels ugly, then becomes beautiful. — 故事里小鸭子觉得自己丑，后来变得很美。 |
+| **curly**（hair） | 卷的（头发） | **straight**（hair） | 直的（头发） | Your hair is curly today. Mine is straight. — 你今天是卷发，我是直发。 |
 
 > 口语提醒：对真人更常用 **chubby / slim**、**pretty / handsome**，语气更礼貌。  
 
@@ -240,6 +252,7 @@ tags:
 | **young**   | 年轻的／年幼的 | **old**              | （指人）年长／上了年纪的   | You are young. / Grandpa is old. — 你还年轻／爷爷上了年纪。（当众夸长辈更常用 **older**「年纪更大」，比直接说 *old* 温和。）       |
 | **younger** | 更小岁数的   | **older**            | 更大岁数的／更年长的      | You're younger than Mommy. Mommy is older. — 你比妈妈岁数小／妈妈岁数更大。（游戏练对比即可）                        |
 | **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**／**adult**（大人／成人） | 大的／长大成人了的／成人（的） | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（**kids↔grown-ups** 外，也可口头玩 **kid↔adult**：*Are you a kid or an adult?* 你算小孩还是大人？— *adult* 作名词更顺口；作形容词常说 **adult size**「成人尺码」。） |
+| **grown-up / adult** | 大人／成年人 | **child / kid** | 小孩 | Grown-ups wait in line, and kids wait too. — 大人要排队，小朋友也要排队。（口语里常说 **grown-ups and kids**） |
 
 
 ### 位置类
@@ -255,6 +268,7 @@ tags:
 | **front**    | 前面   | **back**       | 后面      | The front pocket. / The back door. — 前袋 / 后门    |
 | **near**     | 近的   | **far**        | 远的      | Come near. / It's far away. — 过来近一点 / 它很远       |
 | **upstairs** | 楼上   | **downstairs** | 楼下      | Go upstairs. / Come downstairs. — 上楼 / 下楼       |
+| **upside down** | 倒过来（上下颠倒） | **right side up** | 正放（上下正确） | Turn the cup **upside down** to dry. Store it **right side up** later. — 先把杯子倒过来晾干，收起来再正放。 |
 
 
 ### 时间类
