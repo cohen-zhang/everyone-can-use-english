@@ -8,6 +8,19 @@
 
 “登月”这一共同记忆触发了三组家庭的怀旧与现实对照：有人想重温浪漫，有人想证明自己仍有勇气，也有人想在孩子面前维持权威。随着计划不断偏航，角色们逐渐承认自己对衰老、失败和被忽视的焦虑。最后大家在不完美里重新找到彼此的连接感。
 
+**English version:** A shared "moon landing" memory triggers nostalgia across all three households and forces each person to compare old dreams with present reality. Some try to revive romance, some try to prove they still have courage, and others try to protect authority in front of their kids. As plans drift off course, everyone admits fears about aging, failure, and being overlooked, then reconnects through imperfection.
+
+### 剧情关键词
+
+- **nostalgia** — 怀旧
+- **dream vs reality** — 理想与现实
+- **aging anxiety** — 衰老焦虑
+- **fear of failure** — 失败恐惧
+- **being overlooked** — 被忽视感
+- **family authority** — 家庭权威
+- **reconnection** — 重新连接
+- **imperfect growth** — 不完美成长
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

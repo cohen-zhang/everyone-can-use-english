@@ -8,6 +8,19 @@
 
 Jay 无意间得知家人可能对 Mitchell 性向“早有察觉”，于是想证明自己当年并不迟钝，结果越解释越尴尬。另一边，Phil 与 Claire 在家庭沟通中也不断踩中对方敏感点。这一集通过连环社死现场，讨论了“被理解、被接纳”在家庭中的分量。
 
+**English version:** Jay accidentally learns that the family may have recognized Mitchell's orientation long ago, and he tries to prove he was not clueless back then. His attempts only make things more awkward. At the same time, Phil and Claire keep hitting each other's sensitive spots, and the episode uses a chain of cringe moments to show how deeply people want to be understood and accepted at home.
+
+### 剧情关键词
+
+- **family acceptance** — 家庭接纳
+- **awkward honesty** — 尴尬的坦白
+- **identity conversation** — 身份话题
+- **emotional sensitivity** — 情绪敏感点
+- **cringe moments** — 社死时刻
+- **understanding** — 被理解
+- **communication friction** — 沟通摩擦
+- **belonging** — 归属感
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

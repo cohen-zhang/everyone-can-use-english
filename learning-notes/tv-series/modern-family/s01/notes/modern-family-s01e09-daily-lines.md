@@ -8,6 +8,19 @@
 
 万圣节让 Cameron 进入“导演模式”，他把家庭活动做成了大型沉浸式现场，也把 Mitchell 和大家逼到崩溃边缘。另一边，Claire 与邻里关系、Jay 与 Gloria 的日常摩擦都在节日氛围里被放大。最后大家在混乱与笑场中达成默契：允许彼此“夸张”，也要记得照顾边界。
 
+**English version:** Halloween pushes Cameron into full director mode, turning family fun into an immersive production that nearly drives Mitchell and everyone else over the edge. Meanwhile, Claire's neighborhood tensions and Jay-Gloria friction are amplified by the holiday atmosphere. Through the chaos and laughter, they agree that big personalities are fine as long as boundaries are respected.
+
+### 剧情关键词
+
+- **Halloween chaos** — 万圣节混乱
+- **overplanning** — 过度策划
+- **relationship boundaries** — 关系边界
+- **neighborhood tension** — 邻里紧张
+- **holiday stress** — 节日压力
+- **big personalities** — 强势个性
+- **comic breakdown** — 喜剧性崩盘
+- **mutual compromise** — 彼此让步
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

@@ -8,6 +8,19 @@
 
 本集围绕“家庭规则与边界”展开：一次生活中的小失物事件引发了追责与怀疑，三组家庭都暴露出各自的控制欲与不安全感。大家在反复试探后逐渐明白，家规可以严格，但信任和尊重才是关系稳定的底层条件。
 
+**English version:** This episode revolves around family rules and boundaries. A small missing-item incident leads to blame and suspicion, exposing each household's need for control and hidden insecurity. After repeated tests and reactions, everyone realizes that strict rules alone are not enough; trust and respect are what keep relationships stable.
+
+### 剧情关键词
+
+- **family rules** — 家庭规则
+- **boundaries** — 边界意识
+- **blame and suspicion** — 追责与怀疑
+- **control issues** — 控制欲
+- **insecurity** — 不安全感
+- **trust** — 信任
+- **respect** — 尊重
+- **relationship stability** — 关系稳定
+
 **当前字幕文件为空或仅有标题，暂无可用对白行。**
 
 可在补齐字幕后重新运行 `book/摩登家庭/scripts/build_modern_family_s01_md.py` 生成句子列表。

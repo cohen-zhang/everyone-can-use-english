@@ -8,6 +8,19 @@
 
 一次观星之夜把三组家庭都拉进了“理想计划 vs 现实落差”的拉扯：有人想证明自己仍有掌控力，有人想在孩子面前树立榜样，也有人只想被理解。夜色中的对话让角色们暂时放下逞强，重新看到彼此真实的需求与脆弱。
 
+**English version:** A stargazing night pulls all three families into the tension between ideal plans and real-life disappointment. Some want to prove they are still in control, some want to model strength for their kids, and some simply want to feel understood. In the quiet night conversations, people drop their defensive pride and reconnect with each other's real needs and vulnerability.
+
+### 剧情关键词
+
+- **stargazing night** — 观星之夜
+- **ideal vs reality** — 理想与现实
+- **need for control** — 掌控欲
+- **role model pressure** — 榜样压力
+- **need to be understood** — 渴望被理解
+- **defensive pride** — 逞强心理
+- **vulnerability** — 脆弱表达
+- **emotional reconnection** — 情感重连
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

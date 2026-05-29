@@ -8,6 +8,19 @@
 
 几位大人尝试用“善意谎言”维持家庭和谐，却让误会像滚雪球一样越滚越大。随着真相逐步揭开，大家意识到“好听的话”不等于有效沟通。整集在连环补锅中强调：坦诚虽然难堪，但比拐弯抹角更能保护关系。
 
+**English version:** Several adults use "white lies" to keep family peace, but the misunderstandings grow like a snowball. As the truth comes out piece by piece, everyone realizes that pleasant words are not the same as real communication. Through repeated damage control, the episode argues that honesty may be uncomfortable, but it protects relationships better than indirect talk.
+
+### 剧情关键词
+
+- **white lies** — 善意谎言
+- **snowball effect** — 滚雪球效应
+- **truth reveal** — 真相揭开
+- **communication failure** — 沟通失效
+- **damage control** — 补锅处理
+- **indirect talk** — 拐弯表达
+- **honesty** — 坦诚
+- **relationship protection** — 关系保护
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

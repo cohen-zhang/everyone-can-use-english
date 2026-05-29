@@ -8,6 +8,19 @@
 
 全家迎来孩子的重要日子，父母们都想把“仪式感”做到完美，却把压力传到了孩子身上。Jay、Claire、Phil 等人各自带着期待与焦虑介入，反而制造更多混乱。最终大家意识到，比起结果是否体面，孩子被理解和被支持才是关键。
 
+**English version:** The family gathers for an important day for the kids, and the adults try so hard to make it perfect that they pass their stress down to the children. Jay, Claire, and Phil all step in with good intentions but create more chaos. In the end, the episode shows that being understood and supported matters more than delivering a perfect outcome.
+
+### 剧情关键词
+
+- **family ceremony** — 家庭仪式
+- **performance pressure** — 表现压力
+- **parental anxiety** — 父母焦虑
+- **good intentions** — 善意初衷
+- **chaos** — 混乱局面
+- **child support** — 对孩子的支持
+- **emotional validation** — 情绪被理解
+- **imperfect but loving** — 不完美但有爱
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

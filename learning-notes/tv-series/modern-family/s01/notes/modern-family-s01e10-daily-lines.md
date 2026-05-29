@@ -8,6 +8,19 @@
 
 圣诞节前夜，全家一边准备节日一边处理突发事故：Phil 想守住“完美家庭形象”，Claire 在混乱中疲于收拾，Jay 与 Manny 也在礼物和期待上产生拉扯。几条线最终都指向同一个主题：家庭节日不可能完美，但彼此愿意回头道歉和补位，就是最真实的团圆感。
 
+**English version:** On Christmas Eve, the whole family juggles holiday prep and sudden mishaps. Phil tries to protect a perfect-family image, Claire gets exhausted cleaning up the chaos, and Jay and Manny clash over gifts and expectations. The episode lands on a simple truth: family holidays are never perfect, but reunion feels real when people apologize and show up for each other.
+
+### 剧情关键词
+
+- **Christmas Eve** — 平安夜
+- **holiday pressure** — 节日压力
+- **perfect image** — 完美形象
+- **family mishaps** — 家庭意外
+- **gift expectations** — 礼物期待
+- **apology** — 道歉
+- **showing up** — 及时补位
+- **reunion** — 团圆感
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

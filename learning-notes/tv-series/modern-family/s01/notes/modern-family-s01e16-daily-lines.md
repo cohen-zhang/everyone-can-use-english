@@ -8,6 +8,19 @@
 
 本集把角色们的“小恐惧”集中爆发：有人怕公开演讲，有人怕失败出丑，也有人怕在家人面前失去面子。三条线并行展示“硬撑”如何让问题变大，直到每个人都不得不承认自己的脆弱。结尾在互相打气中落地，强调了家人提供安全感的价值。
 
+**English version:** This episode gathers everyone's "small fears" into one big emotional explosion. Some fear public speaking, some fear public failure, and others fear losing face in front of family. The parallel storylines show how pretending to be strong can worsen problems, until each person finally admits vulnerability and finds safety in family encouragement.
+
+### 剧情关键词
+
+- **small fears** — 小恐惧
+- **fear of embarrassment** — 害怕出丑
+- **public speaking anxiety** — 公开表达焦虑
+- **saving face** — 保全面子
+- **pretending to be strong** — 硬撑
+- **vulnerability** — 脆弱感
+- **family encouragement** — 家人打气
+- **emotional safety** — 情绪安全感
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

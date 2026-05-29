@@ -8,6 +8,19 @@
 
 Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在执行中不断翻车；Claire 则在“放手”与“担心”之间来回拉扯。Jay 和 Gloria 线也延续了代际教育观的冲突。最终每个人都发现，陪伴质量往往比安排本身更重要。
 
+**English version:** Phil tries to prove he is a great, kid-savvy dad through planned parent-child activities, but things keep going wrong in execution. Claire swings between letting go and worrying too much, while Jay and Gloria continue to clash over generational parenting values. By the end, everyone sees that the quality of presence matters more than the quality of the plan.
+
+### 剧情关键词
+
+- **parent-child activities** — 亲子活动
+- **good dad image** — 好爸爸形象
+- **execution failure** — 执行翻车
+- **letting go vs worrying** — 放手与担心
+- **generational parenting gap** — 代际育儿差异
+- **quality time** — 高质量陪伴
+- **presence over planning** — 陪伴重于安排
+- **family learning** — 家庭共同学习
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

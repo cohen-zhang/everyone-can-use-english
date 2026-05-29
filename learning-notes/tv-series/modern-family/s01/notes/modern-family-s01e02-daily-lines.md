@@ -8,6 +8,19 @@
 
 本集围绕“逞强与误会”展开：Phil 想向邻居证明自己，结果卷入“被偷自行车”的风波；Jay 试图和 Manny 建立男性同盟，却总在方式上用力过猛。另一边，Mitchell 和 Cameron 因育儿分工产生摩擦，最后都在尴尬中学会更诚实地沟通。
 
+**English version:** This episode focuses on pride and misunderstanding. Phil tries to prove himself to the neighbors and ends up trapped in a bike-theft mess, while Jay pushes too hard to bond with Manny in a traditional "guy" way. At the same time, Mitchell and Cameron clash over parenting responsibilities, then learn to communicate more honestly after a series of awkward moments.
+
+### 剧情关键词
+
+- **pride and ego** — 面子与自尊
+- **misunderstanding** — 误会
+- **father-son bonding** — 父子建立关系
+- **parenting roles** — 育儿分工
+- **awkward moments** — 尴尬时刻
+- **honest communication** — 坦诚沟通
+- **family conflict** — 家庭冲突
+- **repairing relationships** — 修复关系
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

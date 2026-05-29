@@ -10,6 +10,19 @@
 
 全家踏上夏威夷之旅后，表面上是度假放松，实际每个人都带着各自的小算盘：有人想求婚、有人想重燃浪漫、有人想摆脱家庭角色压力。机场与酒店场景里误会频发，旅行计划不断跑偏。笑闹之外，这一集重点展现了“同一段旅程，不同情感任务”。
 
+**English version:** Once the family arrives in Hawaii, the trip looks relaxing on the surface, but everyone carries a private agenda. One person plans a proposal, another wants to revive romance, and someone else wants temporary freedom from family roles. With constant misunderstandings in airport and hotel scenes, the episode highlights how one shared trip can hold very different emotional missions.
+
+### 剧情关键词
+
+- **family vacation** — 家庭旅行
+- **private agenda** — 各自盘算
+- **proposal plan** — 求婚计划
+- **romance reboot** — 浪漫重启
+- **role pressure** — 角色压力
+- **travel misunderstandings** — 旅行误会
+- **airport and hotel drama** — 机场酒店戏剧
+- **different emotional missions** — 不同情感任务
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

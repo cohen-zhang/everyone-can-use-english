@@ -8,6 +8,19 @@
 
 夏威夷行程进入情绪高点：Jay 计划中的关键仪式遭遇连续意外，Claire 与 Phil 也在家庭与伴侣身份之间左右为难。与此同时，孩子们在“被安排”与“自主选择”间不断试探。故事在风景与闹剧并行中推进，最终让各组关系都更靠近一步。
 
+**English version:** The Hawaii arc reaches an emotional peak as Jay's key ceremony plan runs into one unexpected setback after another. Claire and Phil feel torn between being parents and being partners, while the kids keep testing the line between being guided and making their own choices. The story moves through scenic beauty and comic chaos, bringing each relationship a little closer by the end.
+
+### 剧情关键词
+
+- **emotional peak** — 情绪高点
+- **ceremony setbacks** — 仪式受挫
+- **parent vs partner role** — 父母与伴侣角色冲突
+- **guided vs independent choices** — 安排与自主选择
+- **family tension** — 家庭拉扯
+- **travel chaos** — 旅行混乱
+- **relationship progress** — 关系推进
+- **shared experience** — 共同经历
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

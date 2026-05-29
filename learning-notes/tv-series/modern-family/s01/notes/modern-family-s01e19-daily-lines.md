@@ -8,6 +8,19 @@
 
 Jay 迎来重要的生日节点，却在“是否接受年龄变化”上表现得格外别扭；家人们各自用不太高明的方式帮他庆祝，反而不断踩雷。与此同时，其他家庭线也都在讨论“变化”与“被需要”的焦虑。最后大家用更真诚的方式表达爱，把庆祝拉回到关系本身。
 
+**English version:** Jay reaches a major birthday milestone but reacts awkwardly to the idea of aging. Family members try to celebrate him in their own clumsy ways and keep stepping on emotional landmines. Other storylines echo the same anxiety about change and usefulness, and the episode resolves when everyone expresses love more directly instead of performing the perfect celebration.
+
+### 剧情关键词
+
+- **birthday milestone** — 生日节点
+- **aging discomfort** — 年龄焦虑
+- **clumsy celebration** — 笨拙庆祝
+- **fear of change** — 对变化的焦虑
+- **need to feel needed** — 被需要感
+- **emotional landmines** — 情绪雷区
+- **direct affection** — 直接表达爱
+- **family warmth** — 家庭温度
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

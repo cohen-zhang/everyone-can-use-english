@@ -8,6 +8,19 @@
 
 熬夜照顾婴儿让 Cameron 与 Mitchell 身心俱疲，小事也会迅速升级成争吵；Claire 和 Phil 这边也在深夜育儿中体验“谁更辛苦”的拉锯。与此同时，Jay 与 Gloria 在精力与节奏差异中不断磨合。全集用疲惫状态下的失控，呈现亲密关系里“理解比输赢更重要”。
 
+**English version:** Sleepless nights with a baby leave Cameron and Mitchell physically and emotionally drained, so even tiny issues become arguments. Claire and Phil also get pulled into the same "who has it harder" tug-of-war during late-night parenting. As Jay and Gloria adjust to different energy levels and rhythms, the episode shows that in close relationships, understanding matters more than winning.
+
+### 剧情关键词
+
+- **sleep deprivation** — 睡眠不足
+- **newborn stress** — 婴儿照护压力
+- **small fights escalate** — 小事升级
+- **who has it harder** — 谁更辛苦
+- **emotional fatigue** — 情绪疲劳
+- **couple adjustment** — 伴侣磨合
+- **understanding over winning** — 理解大于输赢
+- **domestic reality** — 育儿现实
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

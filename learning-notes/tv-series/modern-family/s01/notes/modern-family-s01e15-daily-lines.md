@@ -8,6 +8,19 @@
 
 情人节当天，三对伴侣都试图制造惊喜，却因期待错位把浪漫搞成灾难。Claire 与 Phil 的角色扮演翻车，Jay 与 Gloria 在代际表达差异里互相误解，Mitchell 和 Cameron 也在“谁更用心”上较劲。最终大家发现，关系中的真诚修复比“完美仪式”更打动人。
 
+**English version:** On Valentine's Day, all three couples try to create romantic surprises, but mismatched expectations turn romance into disaster. Claire and Phil's role-play crashes, Jay and Gloria misread each other through generational differences, and Mitchell and Cameron compete over who cares more. The episode ends by showing that sincere repair matters more than a perfect romantic performance.
+
+### 剧情关键词
+
+- **Valentine's Day** — 情人节
+- **mismatched expectations** — 期待错位
+- **romantic disaster** — 浪漫翻车
+- **generational gap** — 代际差异
+- **relationship competition** — 关系较劲
+- **emotional repair** — 情感修复
+- **sincerity** — 真诚
+- **imperfect romance** — 不完美浪漫
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

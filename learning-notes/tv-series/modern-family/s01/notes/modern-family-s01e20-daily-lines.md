@@ -8,6 +8,19 @@
 
 这一集围绕“被冷落感”展开：有人成了替补、有人失去舞台中心，连日常互动都变得敏感。家人们一边争取存在感，一边又不得不承认彼此依赖。闹腾之后大家逐渐学会在团队里重新定位自己，而不是把注意力当作唯一价值证明。
 
+**English version:** This episode revolves around feeling sidelined. Some become the backup option, others lose center stage, and even ordinary interactions turn sensitive. Family members fight for attention while also admitting how much they depend on one another, and eventually learn to redefine their place in the group instead of treating attention as proof of worth.
+
+### 剧情关键词
+
+- **feeling sidelined** — 被冷落感
+- **backup role** — 替补角色
+- **attention seeking** — 争取关注
+- **sensitivity** — 情绪敏感
+- **interdependence** — 相互依赖
+- **role redefinition** — 角色重定位
+- **self-worth** — 自我价值
+- **team mindset** — 团队心态
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

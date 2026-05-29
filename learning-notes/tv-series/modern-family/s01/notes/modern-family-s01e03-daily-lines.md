@@ -8,6 +8,19 @@
 
 这一集的核心是“放手与成长”：Jay 想让 Manny 更像传统男孩，安排了许多“男子气概”活动；Claire 和 Phil 在是否让 Haley 开始约会上摇摆不定。与此同时，Mitchell 与 Cameron 也在家庭边界和角色分工上不断磨合，大家都在学习“爱不等于控制”。
 
+**English version:** The core of this episode is letting go and growing up. Jay pushes Manny toward a more traditional version of boyhood, while Claire and Phil struggle with whether Haley is ready to start dating. Mitchell and Cameron also keep negotiating boundaries and roles at home, and the episode ultimately shows that love is not the same as control.
+
+### 剧情关键词
+
+- **letting go** — 学会放手
+- **growing up** — 成长阶段
+- **traditional masculinity** — 传统男子气概
+- **dating boundaries** — 约会边界
+- **family roles** — 家庭角色
+- **control vs love** — 控制与爱
+- **parenting anxiety** — 育儿焦虑
+- **mutual adjustment** — 相互磨合
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

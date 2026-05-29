@@ -8,6 +8,19 @@
 
 季终集以一张全家福为主线：看似简单的拍照任务因为时间、情绪和性格差异彻底失控。每个人都在争取自己的位置，也在不经意间伤害彼此。最终全家在一连串狼狈之后重新站到一起，收束了本季“混乱但彼此相爱”的核心气质。
 
+**English version:** The season finale revolves around taking one family portrait. What looks like a simple task falls apart because of timing problems, emotional triggers, and clashing personalities. Everyone fights for space and accidentally hurts one another, but after a long, messy spiral, the family comes back together and captures the season's core spirit: chaotic, but deeply loving.
+
+### 剧情关键词
+
+- **season finale** — 季终集
+- **family portrait** — 全家福
+- **timing chaos** — 时间混乱
+- **personality clash** — 性格冲突
+- **emotional trigger** — 情绪触发点
+- **fighting for space** — 争取位置
+- **messy reconciliation** — 狼狈和解
+- **chaotic love** — 混乱中的爱
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

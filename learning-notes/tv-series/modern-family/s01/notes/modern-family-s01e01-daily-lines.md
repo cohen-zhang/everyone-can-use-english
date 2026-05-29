@@ -8,6 +8,19 @@
 
 首集通过纪录片式视角介绍三个家庭：Jay 与 Gloria 的再婚家庭、Claire 与 Phil 的三娃家庭、以及 Mitchell 与 Cameron 这对伴侣。全家在晚餐聚会中逐步揭开彼此的生活状态与冲突，最后以 Mitchell 和 Cameron 抱着领养回来的女婴登场，把“多元但相连”的家庭主题立住。
 
+**English version:** The pilot introduces three connected households in a mock-documentary style: Jay and Gloria's blended family, Claire and Phil's busy home with three kids, and Mitchell and Cameron as a couple preparing for parenthood. A family dinner gradually reveals each household's tensions and personalities. The episode closes with Mitchell and Cameron bringing home their adopted baby, establishing the show's theme of diverse but deeply connected family life.
+
+### 剧情关键词
+
+- **blended family** — 重组家庭
+- **family dinner** — 家庭聚餐
+- **new parenthood** — 初为父母
+- **different parenting styles** — 不同育儿方式
+- **identity and acceptance** — 身份与接纳
+- **family tension** — 家庭张力
+- **emotional honesty** — 情感坦诚
+- **connection** — 家庭连接
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

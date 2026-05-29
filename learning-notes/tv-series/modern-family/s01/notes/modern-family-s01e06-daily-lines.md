@@ -8,6 +8,19 @@
 
 本集聚焦“婚姻里的信任测试”：Jay 和 Gloria 分别用不同方式试探对方是否忠诚，Claire 和 Phil 也因生活细节触发连锁误会。Mitchell 与 Cameron 在家庭角色里互相较劲又互相兜底，最终三对伴侣都在闹剧中重新确认彼此的安全感。
 
+**English version:** This episode centers on trust tests in marriage. Jay and Gloria check each other's loyalty in different ways, while Claire and Phil trigger a chain of misunderstandings over everyday details. Mitchell and Cameron compete and cover for each other at the same time, and all three couples eventually rebuild a sense of security through the chaos.
+
+### 剧情关键词
+
+- **trust test** — 信任测试
+- **marital insecurity** — 婚姻不安
+- **chain misunderstandings** — 连锁误会
+- **couple dynamics** — 伴侣互动
+- **emotional reassurance** — 情感安抚
+- **domestic conflict** — 家庭摩擦
+- **loyalty** — 忠诚感
+- **relationship repair** — 关系修复
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

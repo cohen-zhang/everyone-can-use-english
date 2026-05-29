@@ -8,6 +8,19 @@
 
 Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育”带来反效果；与此同时，Claire 和 Phil 也在子女教育中不断碰撞价值观。几条故事线共同讨论了“身份标签、偏见与自我认同”，最后回到家庭支持比刻板印象更重要。
 
+**English version:** After learning that Manny had a conflict at school, Jay worries that his tough-guy influence may be backfiring. At the same time, Claire and Phil keep clashing over parenting values. Across all storylines, the episode explores labels, bias, and self-identity, and lands on the idea that family support matters more than stereotypes.
+
+### 剧情关键词
+
+- **school conflict** — 校园冲突
+- **tough-guy influence** — 硬汉影响
+- **parenting values** — 育儿价值观
+- **identity labels** — 身份标签
+- **bias and stereotypes** — 偏见与刻板印象
+- **self-identity** — 自我认同
+- **family support** — 家庭支持
+- **acceptance** — 接纳
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---

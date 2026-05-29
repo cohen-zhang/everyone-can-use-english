@@ -8,6 +8,19 @@
 
 过去的一次家庭冲突被重新提起，所有人都想弄清当年“谁冒犯了谁”。在不同视角的回忆里，每个人都觉得自己有理，最终才意识到真正的问题是长期积累的误解与面子。全家在争执后重新校准边界，也更懂得给彼此留台阶。
 
+**English version:** An old family argument comes back, and everyone wants to prove who offended whom. As each person retells the event from a different perspective, it becomes clear that long-term misunderstanding and pride are the real problems. After the conflict escalates, the family resets boundaries and learns to leave each other room to recover.
+
+### 剧情关键词
+
+- **old conflict** — 旧冲突
+- **different perspectives** — 不同视角
+- **pride** — 面子心理
+- **family argument** — 家庭争执
+- **miscommunication** — 沟通错位
+- **boundary reset** — 边界重设
+- **emotional repair** — 情绪修复
+- **mutual respect** — 相互尊重
+
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
 ---
