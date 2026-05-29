@@ -11,6 +11,8 @@ tags:
 
 亲子日常中高频使用的三种问句开头，区分它们的用法和场景。
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category.md|亲子问句分类清单]]
+
 ---
 
 ## 用法区分

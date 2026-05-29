@@ -11,6 +11,8 @@ tags:
 
 学习笔记：口语里 **Can you** 的误用、问语言能力的说法，以及「翻译式英语」问题。
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category.md|亲子问句分类清单]]
+
 ---
 
 ## 1. 想确认对方是否听懂时，别乱用 *Can you…?* `术语`
