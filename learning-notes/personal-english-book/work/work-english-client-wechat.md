@@ -36,3 +36,18 @@ I have requested access; please grant it.
 
 我这边没收到唉，您再申请下
 I haven’t received anything yet. Please reapply.
+
+
+是否影响策略交易
+Does this affect strategic trading?
+
+如果影响交易，先把钱加上，应急处理是第一位的
+
+If it affects transactions, add the money first. Emergency handling takes priority. 
+
+其他项目 要做共性知会 通知客户
+Other projects require a shared awareness notice to be sent to customers.
+
+收到，程序化流控的场景请产研补充测试和优化，记录缺陷
+Received. For the scenario of automated flow control, please have R&D conduct additional testing and optimization, and document any defects.
+

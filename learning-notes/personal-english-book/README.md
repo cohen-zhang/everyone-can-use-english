@@ -30,7 +30,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
-- [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]] — 健身场景
+- [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]] — 健身场景（见 [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] 理论页）
 - [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
@@ -51,6 +51,12 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/study-room-common-items-en.md|书房常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en.md|主卧套间常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/community-life-outdoor-scenarios.md|小区户外与邻里场景]]
+
+---
+
+## fitness — 健身（理论与营养）
+
+- [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] — 宏量营养素、餐盘占比、进食顺序、自主性
 
 ---
 
@@ -108,6 +114,7 @@ cssclasses:
 - **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗]]。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
+- **健身理论 ↔ 健身场景：** [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] ↔ [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]]。
 
 ---
 

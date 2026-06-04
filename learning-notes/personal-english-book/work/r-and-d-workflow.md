@@ -10,6 +10,15 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+明天上午版本启动会，请各位提前评估版本计划。
+There will be a version launch meeting tomorrow morning. Please evaluate the version plan in advance.
+
+我下午才有时间更新，上午要准备客户演示事项
+I won't have time to update until this afternoon.I need to prepare for client presentation matters this morning.
+
+ 工作量 是直接写到这个表格里吗
+  Do I directly write the workload into this table?
+
 ## 立项
 
 132这个版本要立项一下
@@ -89,6 +98,22 @@ Verify the "next designated transaction" flow.
    I'll come up with a first draft.
 
 
+
+## Bug 修复和客户沟通
+
+有变动可以再沟通，但我理解132不修200也要修的吧，是不是差别不大
+We can communicate further if there are changes, but I understand that even if 132 is not repaired, 200 still needs to be repaired, right? Isn't the difference not significant?
+
+这里后面三个哪个是不好修的
+Which of the last three here is difficult to repair?
+
+你判断一下吧，还有哪个132放不进来的我们再找客户沟通即可
+You make the judgment. For any 132s that can't fit in, we can just communicate with the client again.
+
+好的，那这个可以再找客户聊一下
+Okay, then we can talk to the client about this again.
+
+
 ## 发布
 
 这几个缺陷的影响域补充一下，今天要做发布件评审
@@ -98,3 +123,6 @@ Please supplement the impact scope of these defects, as we need to conduct a rev
 我这边刚刚更新了一版，规划缺陷都包含了
 
 I just updated a version, which includes all the planned defects.
+
+结论就是不通过
+the conclusion is that it fails.
