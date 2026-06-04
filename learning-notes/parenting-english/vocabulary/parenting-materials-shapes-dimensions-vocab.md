@@ -31,6 +31,10 @@ aliases:
 这个杯子是不锈钢做的。
 - **These chopsticks are made of wood.**  
 这双筷子是木头做的。
+- **Daddy's belt is made of leather.**  
+爸爸的皮带是皮质的。
+- **My teddy bear is made of soft plush.**  
+我的泰迪熊是软软的毛绒做的。
 
 ### 形状 Shape
 
@@ -66,6 +70,25 @@ aliases:
 | **paper** | 纸 | paper bag, paper cup | **Use a paper bag for recycling.** — 用纸袋做回收分类。 |
 | **cotton** | 棉 | cotton T-shirt, cotton towel | **This shirt is 100% cotton.** — 这件衬衫是纯棉的。 |
 | **fabric / cloth** | 布料 | fabric sofa, cloth bag | **The sofa is covered with fabric.** — 这个沙发是布面的。 |
+
+### 皮质 · 牛皮 · 毛绒玩具 — Leather, Cowhide & Plush `亲子`
+
+日常里娃会问「这是真皮的吗」「小熊是什么做的」。**leather** 泛指皮革；**cowhide / cow leather** 专指牛皮；玩具外层的 **plush** 是短绒布面料，里面常填 **stuffing / fiber fill**（填充棉）。与动物身上的 **fur**（真毛皮）不同，玩具多用 **plush** 或 **faux fur**（人造毛）。儿童房间实物对照 → [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en|儿童房常见物品]]（*stuffed animal*）；收拾毛绒玩具 → [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]。
+
+| Material | 中文 | 常见搭配 | 例句（English + 简中） |
+| --- | --- | --- | --- |
+| **leather** | 皮质；皮革（泛指） | leather belt, leather shoes, leather sofa | **Dad's belt is made of leather.** — 爸爸的皮带是皮质的。 |
+| **genuine leather / real leather** | 真皮 | genuine leather wallet, real leather bag | **Is this real leather or fake?** — 这是真皮还是仿的？ |
+| **cowhide / cow leather** | 牛皮 | cowhide belt, cow leather sofa | **Grandpa's chair is cow leather.** — 爷爷的椅子是牛皮的。 |
+| **faux leather / synthetic leather** | 仿皮；人造皮 | faux leather jacket, synthetic leather bag | **It looks like leather, but it's synthetic.** — 看着像皮，其实是人造的。 |
+| **PU leather** | PU 皮（聚氨酯仿皮，常可擦） | PU leather chair, PU leather desk mat | **The dining chairs are PU leather—easy to wipe.** — 餐椅是 PU 皮，好擦。 |
+| **plush (fabric)** | 毛绒（短绒布面料） | plush toy, plush blanket, plush fabric | **The bear feels soft—it's made of plush.** — 小熊摸起来软，是毛绒面料的。 |
+| **stuffed animal / plush toy** | 毛绒玩具 | stuffed bear, plush dinosaur | **Put your stuffed animals on the shelf.** — 把毛绒玩具放到架子上。 |
+| **stuffing / fiber fill / polyester fill** | （玩具里）填充棉；聚酯纤维填充 | toy stuffing, polyester fiber fill | **Don't pull the stuffing out of your toy.** — 别把玩具里的填充棉掏出来。 |
+| **faux fur** | 人造毛；仿毛（长绒感，外套或玩具装饰） | faux fur trim, faux fur collar | **The coat has faux fur around the hood.** — 外套帽檐一圈是人造毛。 |
+| **velvet** | 丝绒（部分玩具耳朵、鼻子用） | velvet teddy ears | **The teddy's ears are velvet—extra soft.** — 泰迪熊耳朵是丝绒的，特别软。 |
+
+> **fur**（动物身上的毛）≠ **plush / faux fur**（玩具、衣服用的布面毛感）。亲子口语说玩具材质，优先 **plush** 或 **stuffed animal**；说皮带、沙发，用 **leather** / **cow leather**。
 
 ---
 
@@ -142,6 +165,8 @@ aliases:
 | 说明原因 | **Let's take the plastic cup. It's lighter.** | 我们拿塑料杯吧，更轻。 |
 | 家具描述 | **Our dining table is wood, but the top is glass.** | 我们的餐桌是木头的，但台面是玻璃的。 |
 | 餐具区分 | **This plate is ceramic, and that one is stainless steel.** | 这个盘子是陶瓷的，那个是不锈钢的。 |
+| 皮质 vs 仿皮 | **Real leather lasts longer, but PU leather is easier to clean.** | 真皮更耐用，PU 皮更好擦。 |
+| 毛绒玩具 | **The dinosaur is plastic. The bear is plush.** | 恐龙是塑料的，小熊是毛绒的。 |
 | 认形状 | **What shape is this? A circle or a square?** | 这是什么形状？圆的还是方的？ |
 | 积木分类 | **Sort the flat pieces and the 3D blocks.** | 把平面片和立体积木分开收。 |
 | 描述盒子 | **The box is rectangular—long, wide, and a little tall.** | 盒子是长方形的——长、宽、还有一点高。 |

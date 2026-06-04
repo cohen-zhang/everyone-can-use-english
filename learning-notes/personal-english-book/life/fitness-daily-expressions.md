@@ -11,6 +11,7 @@ aliases:
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（扩展）：**
+- [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics|饮食与体重管理基础]] — 宏量营养素、餐盘占比、先菜后碳、进食自主性（理论 ↔ 本页场景句）
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]]（看 Health / Sleep / Reminders 常用介绍句）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]]（查身体部位/内脏/症状词，配合本页动作句复习）
 - [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 练完出汗、补水、拿瓶喝光的一分钟叙事
