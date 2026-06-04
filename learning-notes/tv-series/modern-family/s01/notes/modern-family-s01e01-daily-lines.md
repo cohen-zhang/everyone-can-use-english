@@ -40,10 +40,8 @@
 ## 亲子与学校
 
 - **Kids? Get down here!** — 孩子们  快下来
-- **to your daughter about her skirt? - Sorry.** — 有什么意见吗  -不好意思
 - **I got it. Where's the baby oil?** — 我去吧  婴儿油在哪儿
-- **I-I just don't want my kids...** — 我只是不想让我的孩子
-- **Honey, honey. - Why don't you worry about your son?** — 亲爱的  -你还是操心你的儿子吧
+- **I just don't want my kids to make the same bad mistakes I made** — 我只是不想让我的孩子重蹈我的覆辙
 - **And, uh, we just- we decided we really wanted to have a baby.** — 我们非常想要一个孩子
 - **Look at that baby with those cream puffs. - Okay. Excuse me.** — 你看那个拿着泡芙的宝宝  -好吧  够了
 - **This baby would have grown up in a crowded orphanage** — 这宝宝原本可能会在人满为患的孤儿院里成长
@@ -63,7 +61,7 @@
 
 ## 约会与恋爱
 
-- **Honey, do you have anything to say** — 亲爱的  对你女儿这条裙子
+- **Honey, do you have anything to say to your daughter about her skirt? - Sorry.** — 亲爱的  对你女儿这条裙子有什么意见吗  -不好意思
 - **Oh, yeah. That looks really cute, sweetheart. - Thanks.** — 挺可爱的嘛  宝贝  -谢了
 
 ## 情绪与道歉
@@ -82,8 +80,7 @@
 - **Hi, I'm Gloria Pritchett. Manny's mother.** — 我叫歌洛莉亚·普里契特  曼尼的妈妈
 - **Oh, she's adorable. - Oh, thank you.** — 她真可爱  -谢谢
 - **Hi, precious. Hello.** — 你好  小公主
-- **No, thank you. Ick.** — 还是算了吧  想想就怕
-- **Excuse me.** — 不好意思
+
 - **Hey, watch it. - I wanna go to the mall where she works.** — 嘿  说话注意点  -我要去她上班的商场
 
 ## 请求与建议
@@ -111,18 +108,19 @@
 - **Luke got his head stuck in the banister again.** — 卢克又把头卡在栏杆里了
 - **It's on our bedside tab- I don't know. Find it.** — 在我们床头的  我不知道  你自己找
 - **Come on!** — 拜托
+
+## 自己的成长和对孩子的期望
 - **I was out of control growing up.** — 我在成长期间简直无法无天
 - **There, you know? I said it.** — 你看  我坦白了
 - **to make the same bad mistakes I made.** — 重蹈我的覆辙
 - **I-If Haley never wakes up on a beach in Florida, half-naked,** — 只要海莉没有半裸着在佛罗里达沙滩上醒来
 - **Our job. - Right.** — 我俩的任务  -对
 - **I've done our job.** — 我就算完成了我俩的任务
-- **Vamos, Manny! Kick it! Kick it!** — 加油  曼尼  踢球啊  踢啊
-- **Don't let him- Kick it!** — 别让他  踢啊
-- **Manny, go! A la derecha! A la derecha!** — 曼尼  加油  往右跑  往右
-- **No! No, no.** — 不  不  不要啊
-- **He tripped him, Jay. Where's the penalty?** — 他下绊子  杰  怎么没人吹犯规
-- **Gloria, they're 0 and 6.** — 歌洛莉亚  他们已经落后了6个球
+
+
+
+## 
+
 - **We're very different.** — 我们是不同世界的人
 - **Jay's from the city.** — 杰来自城市
 - **I come from a small village.** — 我来自一个小山村
@@ -131,19 +129,25 @@
 - **What's the word?** — 那个词怎么说来着
 - **Murders.** — 凶杀案
 - **Yes. The murders.** — 没错  凶杀案
+
+## 动作
+- **Vamos, Manny! Kick it! Kick it!** — 加油  曼尼  踢球啊  踢啊
+- **Don't let him- Kick it!** — 别让他  踢啊
 - **Manny, stop him!** — 曼尼  拦住他
 - **Stop him! You can do it!** — 拦住他  你可以的
 - **Damn it, Manny!** — 你真烂  曼尼
 - **Come on, coach. You gotta take that kid out.** — 教练  该让那孩子下场了
 - **You wanna take him out? How about I take you out?** — 你想让他下场吗  不如我让你"下场"如何
 - **He spent the first half with his hand in his pants!** — 他整个上半场光忙着抓裤裆了
-- **I've wanted to tell her off for the last six weeks.** — 那话我6周来一直想对她说来着
-- **I'm Josh. Ryan's dad.** — 我叫乔希  莱恩的爸爸
-- **Oh, and this must be your dad. - Her dad?** — 这位是你父亲吧  -她父亲?
+
+
 - **Yeah. - No, no. That's funny.** — 是啊  -不  不是  真搞笑
 - **Actually, no, I'm her husband.** — 怎么可能  我是她老公
 - **Don't be fooled by the, uh** — 别被外表给骗了
 - **Give me a second here.** — 稍等片刻
+
+
+## identity and acceptance — 身份与接纳
 - **Who is a good girl? Who's that?** — 谁是乖宝宝啊  是谁啊
 - **Who's that?** — 是谁啊
 - **Uh, we just, uh- We just adopted her from Vietnam.** — 我们刚从越南领养了她
@@ -154,12 +158,12 @@
 - **So, we had initially asked one of our** — 一开始  我们想找一个
 - **lesbian friends to be a surrogate, but** — 女同性恋朋友做代孕母亲
 - **Then we figured, they're already mean enough.** — 后来又想  她们平时就够刻薄了
+
+## 
 - **You saw that, right? Everybody fawning over Lily,** — 你看到没  大家本来在逗莉莉玩
 - **and then you walk on and suddenly it's all,** — 你一走进来  他们就装作
-- **"Ooh, SkyMall.** — 看机上购物杂志
 - **I gotta buy a motorized tie rack."** — 考虑买个电动领带架什么的
 - **All right, you know, I'm gonna give the speech.** — 我得教育一下这帮人
-- **You are not giving the speech.** — 千万别这么做
 - **You're gonna be stuck with these people for the next five hours.** — 你还得和他们一起呆上5小时呢
 - **if it wasn't for us "Cream puffs."** — 多亏我们这些娘娘腔收养呢
 - **And you know what? Note to all of you who judge- - Mitchell!** — 你们这些搞歧视的人  -米奇尔
@@ -169,25 +173,86 @@
 - **you small-minded, ignorant few - Mitchell!** — 你们这些狭隘愚昧的  -米奇尔
 - **What? -She's got the cream puffs.** — 干嘛  -人家说的是泡芙
 - **We would like to pay for everyone's headsets.** — 各位的耳机费我们请了
+
 - **Buddy. Why do you keep getting stuck like this?** — 兄弟  你怎么老是卡在这里面
 - **I thought I could get out this time.** — 我以为这次能拔出来呢
 - **I'm just gonna say it. He needs to be checked by a specialist.** — 我直说了吧  他得去检查一下智商
 - **There. Be free.** — 好了  你自由了
-- **Excalibur.** — 亚瑟王之剑拔出来了
 - **I'm having a friend over today. - Who?** — 今天我有朋友来家里玩  -谁啊
 - **Uh, you don't know him. - Him? Him?** — 你不认识他  -是个男生吗
 - **Ooh, a boy. You gonna kiss him?** — 哇  男生  你会和他亲嘴吗
 - **Shut up. - Easy. Easy.** — 闭嘴  -别激动  别激动
 - **Yeah, shut up! - No, you shut up!** — 闭嘴  -你才闭嘴
-- **And do what?** — 怎么解决
+
 - **Fight in the sun. It'll be a nice change. - Haley.** — 在太阳下决斗  不错吧  -海莉
-- **I'm kidding. - Who's the boy?** — 我逗你们玩呢  -是谁要来
+- **Deal with this. - Buddy, uncool.** — 你看着办吧。——老弟，这样不对哦 / 太不酷了（Luke 用 BB 枪射中 Alex 后，Claire 让 Phil 管教；Phil 对 Luke 说 *uncool*）— 台词约 [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e01-transcript.txt|S01E01 字幕]] 405 行附近
+
+---
+
+## 常用词组（本集精选）
+
+### **Deal with (this)** — 你来处理 / 你看着办
+
+- **台词：** *Deal with this.* — Claire 对 Phil：Luke 闯祸了，**你来管教 / 你来处理**。
+- **不是** meme 里 dismissive 的 *Deal with it!*（爱咋咋地）；这里是 **把烂摊子交给你**。
+- **通用用法：**
+  - **Can you deal with the delivery while I'm on a call?** — 我打电话这会儿你能处理一下快递吗？
+  - **I'll deal with the kids; you finish cooking.** — 孩子我来管，你把饭做完。
+  - **This is your mess — deal with it.** — 这是你搞出来的，你自己收拾。
+- **近义：** **handle this**, **take care of this**, **sort this out**
+
+### **uncool** — 不酷 / 不得体 / 这样不对
+
+- **台词：** *Buddy, uncool.* — Phil 对 Luke：叫一声 **Buddy**（老弟/伙计），再说 **uncool** = 你这行为 **很掉价 / 不体面 / 不该这样**。
+- **语气：** 比 *wrong* 或 *bad* 更口语、更「酷爸」腔；带点 **social judgment**（社交上不合适），不是严肃道德审判。
+- **通用用法：**
+  - **Making fun of her in front of everyone was uncool.** — 当着大家面取笑她，太不得体了。
+  - **That's kind of uncool, dude.** — 老兄，这样有点过分哦。
+  - **Uncool to leave without saying goodbye.** — 不告而别挺没品的。
+- **反义 / 对照：** **cool**（酷、没问题、够意思）；**not cool** 与 **uncool** 日常几乎可互换，**uncool** 更偏青少年/口语。
+- **扩展：** 同集 Phil 自称 *I'm the cool dad* / *I'm hip* — 和 **uncool** 形成对照，可一起记。
+
+---
+
+## 难词表（本集 · IPA GA）
+
+*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录拼写/读音/搭配难点、本集场景词；剔除无教学价值的超高频碎片。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **banister** | /ˈbænɪstər/ | 楼梯扶手；栏杆（Luke 头卡 banister） | 低频、拼写 |
+| **surrogate** | /ˈsɜːrəɡət/ | 代孕者；代理人（*surrogate mother*） | 低频、有难度 |
+| **orphanage** | /ˈɔːrfənɪdʒ/ | 孤儿院 | 低频 |
+| **fawning** | /ˈfɔːnɪŋ/ | 谄媚的；过分讨好地（*fawn over* 围着…献殷勤） | 低频、易读错 |
+| **creed** | /kriːd/ | 信条；信仰（*Love knows no race, creed or gender*） | 低频、多义 |
+| **small-minded** | /ˌsmɔːl ˈmaɪndɪd/ | 心胸狭隘的；气量小的 | 有难度 |
+| **follow through** | /ˌfɑːloʊ ˈθruː/ | 按约定执行到底；贯彻（Phil 须 *follow through* 射 Luke 的「家法」） | 有难度 |
+| **uncool** | /ʌnˈkuːl/ | 不酷；不得体；这样不对（见上节） | 有难度 |
+| **deal with** | /diːl wɪð/ | 处理；对付；管教（*Deal with this* = 你来处理这事） | 有难度 |
+| **specialist** | /ˈspɛʃəlɪst/ | 专科医生；专家（Phil 说 Luke 需 *checked by a specialist*，讽刺智商） | 低频 |
+| **camcorder** | /ˈkæmˌkoʊrdər/ | 摄像机（Phil 玩笑说要 *charge the camcorder*） | 低频、拼写 |
+| **blowup** | /ˈbloʊˌʌp/ | 激烈争吵；爆发（*a little blowup with that other mom*） | 低频、多义 |
+| **flagpole** | /ˈflæɡˌpoʊl/ | 旗杆（Jay 威胁 *swinging from the flagpole*） | 低频 |
+| **puffy** | /ˈpʌfi/ | 蓬松的；鼓起来的（*puffy white shirt / underpants*） | 低频、易读错 |
+| **stepdad** | /ˈstɛpˌdæd/ | 继父（*evil stepdad* 刻板印象梗） | 低频 |
+| **passionate** | /ˈpæʃənət/ | 多情的；热烈的（*Manny's very passionate*） | 易读错 |
+| **primal** | /ˈpraɪməl/ | 原始的；本能的（*primal thing* 指母性本能） | 低频 |
+| **physiology** | /ˌfɪziˈɑːlədʒi/ | 生理学（Cam 自嘲 *molecular physiology thing*） | 低频、术语 |
+| **penalty** | /ˈpɛnəlti/ | 判罚；点球；处罚（Manny 被绊倒 *Where's the penalty?*） | 易读错 |
+| **tripped** | /trɪpt/ | 绊倒（*He tripped him* = 伸脚绊人） | 有难度 |
+| **tell off** | /tɛl ˈɔf/ | 训斥；当面数落（*tell her off for six weeks*） | 有难度 |
+| **half-naked** | /ˌhæf ˈneɪkɪd/ | 半裸的（Claire 的 parenting 底线梗） | 有难度 |
+| **headset** | /ˈhɛdˌsɛt/ | 耳机（机上 *everyone's headsets*） | 低频 |
+| **Excalibur** | /ɛkˈskæləbər/ | 亚瑟王传说之剑（Luke 拔出 banister 后喊） | 低频 |
+| **wide awake** | /waɪd əˈweɪk/ | 完全醒着的；毫无睡意的 | 有难度 |
 
 ---
 
 ## 使用提示
 
 - 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
+- **常用词组**（*Deal with this* / *uncool*）与文末 **难词表** 可单独朗读；IPA 为美式 **GA**。
 - 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 俚语/口头禅扩展 → [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗汇总]]
 
 *自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*

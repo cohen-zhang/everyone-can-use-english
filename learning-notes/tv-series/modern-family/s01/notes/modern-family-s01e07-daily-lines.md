@@ -36,6 +36,7 @@
 - **I'd see their kids' trophies,** — 看见他们小孩得的奖杯
 - **Yeah, our kids are great. - They're the greatest.** — 我家小孩都很棒  -他们是最棒的
 - **When Mitchell and Claire were kids.** — 米奇尔和克莱尔小时候
+
 - **But I don't think that a parent can just force that.** — 可我不喜欢揠苗助长
 - **Besides, Luke already is the best at something- being my son.** — 再说  能成为我儿子  已经够卢克骄傲了
 - **Come on, baby. Show them.** — 来吧  宝贝  给他们瞧瞧
@@ -84,8 +85,8 @@
 ## 其它实用表达
 
 - **Bravo! Bravo!** — 太棒啦  太厉害啦
-- **Bravo!** — 好样的
 - **Bravo, Manny! Bravo!** — 太厉害了  曼尼  厉害
+
 - **Well, when I heard Manny wanted to fence, I was, like,** — 当我听说曼尼想学击剑时  我心想
 - **"Sure. Uncoordinated kid, lethal weapon.** — 笨手笨脚的孩子  配上致命的利器
 - **How can this go wrong?"** — 能有比这还糟的吗
@@ -96,6 +97,7 @@
 - **He was an artist with his sword.** — 堪称剑道里的艺术家
 - **I mean, the way he throws the sword.** — 他英姿焕发  挥剑抬足的样子
 - **I mean, he was legendary.** — 他就是传奇
+
 - **Did you know that fencing goes back to the 12th century?** — 你们知道剑术起源于12世纪吗
 - **You know what's even nerdier than fencing?** — 你知道什么比击剑还呆吗
 - **Knowing when it began.** — 了解它的起源
@@ -139,6 +141,7 @@
 - **And then, uh, I guess that leaves Luke.** — 然后  还剩下卢克
 - **We dropped the ball a little bit on that one.** — 他是有点输在起跑线上了
 - **Yeah, a little bit.** — 的确  有那么一点
+
 - **How about a nice round of applause for our winner, Manny Delgado.** — 请为我们的胜利者曼尼·迪尔加多鼓掌
 - **Manny now moves on to the championship,** — 曼尼晋级了总冠军争夺赛
 - **where he'll be competing against Caroline Markum.** — 他将对阵卡罗琳·马可
@@ -158,6 +161,7 @@
 - **She's been asleep for 20 minutes.** — 她20分钟前就睡着了
 - **It just took me some time to sneak out without waking her up.** — 为了不弄醒她  我不得不悄悄溜走
 - **Kind of like the first time you slept over here.** — 就像你第一次在这里过夜那样
+
 - **What's up with you and your sister?** — 你和你姐之间到底怎么了
 - **Nothing is up. - Mm-hmm.** — 什么都没有  -是吗
 - **Or could this have something to do with... ice skating?** — 是不是和滑冰那事有关呀
