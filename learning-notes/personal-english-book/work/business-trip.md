@@ -18,7 +18,7 @@ aliases:
 
 | 中文 | English（参考） |
 |------|------------------|
-| 各位好，**某券商客户**对冲台项目我按当前资源情况排了现场驻场排班表，各位看一下，如有调整可以和同组内的人协商进行换班。 | **Hello everyone,** for the **hedging desk project for a brokerage client**, I’ve put together the **on-site duty roster** based on our **current staffing**. **Please review it.** If you need changes, **coordinate with your teammates** to **swap shifts.** |
+| 各位好，**某券商客户**hedging desk项目我按当前资源情况排了现场驻场排班表，各位看一下，如有调整可以和同组内的人协商进行换班。 | **Hello everyone,** for the **hedging desk project for a brokerage client**, I’ve put together the **on-site duty roster** based on our **current staffing**. **Please review it.** If you need changes, **coordinate with your teammates** to **swap shifts.** |
 
 ---
 

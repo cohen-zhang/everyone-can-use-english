@@ -271,4 +271,24 @@ In order to avoid frequent changes to passwords, please refrain from sharing you
 
 **At least one elevator will stay in service.** Please plan your trips, queue in order, and ride safely. If one side of the hall call panel goes dark during maintenance, it is **normal**—no need to worry.[玫瑰][玫瑰][玫瑰]
 
+【今晚我值班】
+尊敬的的业主们：
+       晚上好[玫瑰]我是xxx监控中心夜间值班人员：xxx，如您需要帮助可致电24小时值班电话：我们将第一时间为您提供服务 ！
+[月亮]夜深人静，烦请家人们👇
+✔脚步慢慢  说话轻轻 [嘘]
+✖ 请勿产生扰民噪音 ！[玫瑰]
+您的安全，我来守护[玫瑰][玫瑰]
+贴心服务，真诚相伴[玫瑰]
+愿家人们晚安好梦[月亮][月亮][月亮]
+
+[I’ll be on duty tonight.]
+Dear Property Owners:
+Good evening![玫瑰]I am , a night shift staff member at the monitoring center of Phase 3 of xxx Impression Homes. If you need assistance, please call our 24-hour hotline: 0755-84622975. We will provide service to you immediately!
+[月亮] It’s late at night and quite quiet. Please be considerate, everyone. 👇
+✔ Move slowly, speak softly.[嘘]
+✖ Please refrain from making disruptive noise![玫瑰]
+I will safeguard your safety.[玫瑰][玫瑰]
+Thoughtful service, genuine companionship.[玫瑰]
+Wishing all my loved ones sweet dreams tonight.[月亮][月亮][月亮]
+
 *原稿英译 “Seats 2E / Phase 4 of Building 2” 易误解；此处按「四期 / 座」改为 **Phase IV, Tower 2D & 2E**。*

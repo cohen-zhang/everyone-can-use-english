@@ -12,11 +12,11 @@ aliases:
 
 ## 1) 近期要点 Recent Key Points
 
-- **持续跟进客户方对冲台 121 版本测试问题对齐工作**  
+- **持续跟进客户方hedging desk 121 版本测试问题对齐工作**  
   Continuously follow up on the alignment work of testing issues for version 121 of the client hedging desk.
 
-- **参与 HMS_V1.3 监控管理需求内审评审**  
-  Participated in the internal audit review of HMS_V1.3 Monitoring and Management Requirements.
+- **参与 hedging desk_V1.3 监控管理需求内审评审**  
+  Participated in the internal audit review of hedging desk_V1.3 Monitoring and Management Requirements.
 
 - **参与组内工作分组讨论，确认后续工作安排**  
   Participated in the in-group work group discussion to confirm the subsequent work arrangements.
@@ -50,11 +50,11 @@ aliases:
 
 | 中文名称 Chinese | 英文名称 English |
 |-----------------|-----------------|
-| 监控技术方案 - 对冲台监控体系和应急机制 | Monitoring Technical Solution - Hedging Desk Monitoring System and Emergency Mechanism |
+| 监控技术方案 - hedging desk监控体系和应急机制 | Monitoring Technical Solution - Hedging Desk Monitoring System and Emergency Mechanism |
 | 客户问题支持记录 | Customer Issue Support Record |
 | OSS 配置指南 | OSS Configuration Guide |
 | OSS 交接文档 | OSS Handover Document |
-| 【对冲台】个人看板 Wiki | [Hedging Desk] Personal Dashboard Wiki |
+| 【hedging desk】个人看板 Wiki | [Hedging Desk] Personal Dashboard Wiki |
 
 ---
 
