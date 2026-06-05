@@ -145,5 +145,8 @@ public/jupyter-notebooks/*.mp3
 
 # MkDocs (learning-notes → GitHub Pages)
 site/
+
+# MkDocs build mirror of repo book/ (see mkdocs_hooks.on_startup)
+learning-notes/book/
 .venv-mkdocs/
 .venv-docs/
