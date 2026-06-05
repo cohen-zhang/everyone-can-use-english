@@ -14,6 +14,7 @@ tags:
 
 - *Look up*／*look down* 等可与反义词配对练 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「动作类 — 亲子日常指令」表；与此页相向互链）。
 - 动画里**玩化妆品扮妈妈**可与真实梳妆流程对比 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（Peppa **[[Peppa.Pig.S01E19.Dressing.Up|S01E19]]**；与此页相向互链）。
+- 梳头、照镜子相关动作动词（comb, brush, look in the mirror 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#8-梳洗与卫生--grooming--hygiene|动作动词 — 分类总表 §8 梳洗与卫生]]（与此页相向互链）。
 
 ---
 

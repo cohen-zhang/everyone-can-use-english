@@ -7,7 +7,10 @@ import re
 import shutil
 from pathlib import Path, PurePosixPath
 
-WIKI_LINK = re.compile(r"(?<!!)\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+# Allow \| inside table cells; path may include #fragment before |title.
+WIKI_LINK = re.compile(
+    r"(?<!!)\[\[((?:[^\]\\]|\\.)+?)(?:\\?\|((?:[^\]\\]|\\.)+?))?\]\]"
+)
 MD_LEARNING_NOTES = re.compile(r"\]\(([^)]*learning-notes/[^)]+)\)")
 
 _stem_to_paths: dict[str, list[str]] | None = None
@@ -95,6 +98,11 @@ def _wiki_replacer(markdown: str, page, files):
     def repl(m: re.Match) -> str:
         raw = m.group(1).strip()
         title = (m.group(2) or "").strip() or PurePosixPath(raw.replace("\\", "/")).name
+        frag = ""
+        if "#" in raw:
+            raw, _, frag_part = raw.partition("#")
+            raw = raw.strip()
+            frag = "#" + frag_part.strip()
         if raw.startswith("!"):
             return m.group(0)
         stem = _resolve_target_stem(raw, files, page)
@@ -103,7 +111,7 @@ def _wiki_replacer(markdown: str, page, files):
         target_md = stem + ".md"
         if not any(f.src_path.replace("\\", "/") == target_md for f in files.documentation_pages()):
             return m.group(0)
-        return f"[{title}]({_rel_url(cur, target_md)})"
+        return f"[{title}]({_rel_url(cur, target_md)}{frag})"
 
     return WIKI_LINK.sub(repl, markdown)
 

@@ -65,7 +65,7 @@ aliases:
 
 ---
 
-<a id="animals"></a>
+<a id="animals"></a><a id="1-动物--animals"></a>
 
 ## 1. 动物 — Animals
 
@@ -89,7 +89,7 @@ aliases:
 
 ---
 
-<a id="clothing"></a>
+<a id="clothing"></a><a id="2-衣服--clothing"></a>
 
 ## 2. 衣服 — Clothing
 
@@ -110,7 +110,7 @@ aliases:
 
 ---
 
-<a id="rooms"></a>
+<a id="rooms"></a><a id="3-房间与居家区域--rooms--home"></a>
 
 ## 3. 房间与居家区域 — Rooms & Home
 
@@ -134,7 +134,7 @@ aliases:
 
 ---
 
-<a id="emotions"></a>
+<a id="emotions"></a><a id="4-情绪--emotions"></a>
 
 ## 4. 情绪 — Emotions
 
@@ -153,7 +153,7 @@ aliases:
 
 ---
 
-<a id="subjects"></a>
+<a id="subjects"></a><a id="5-学科与在校--school-subjects"></a>
 
 ## 5. 学科与在校 — School Subjects
 
@@ -276,7 +276,7 @@ aliases:
 
 ---
 
-<a id="food"></a>
+<a id="food"></a><a id="6-食物--food"></a>
 
 ## 6. 食物 — Food
 
@@ -314,7 +314,7 @@ aliases:
 
 ---
 
-<a id="jobs"></a>
+<a id="jobs"></a><a id="8-职业与角色--jobs--roles"></a>
 
 ## 8. 职业与角色 — Jobs & Roles
 
@@ -440,14 +440,23 @@ aliases:
 
 ## 9. 动作 — Actions
 
+**总表入口：** [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]] — 手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭指令分节；与本表 **相向互链**。
+
 | 分类（EN） | 中文 | 举例 | 详表 |
 | --- | --- | --- | --- |
-| **Pick & place** | 拿放 | pick up, put down, give, take | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab\|动作词汇]] |
+| **Pick & place** | 拿放 | pick up, put down, give, pass | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab\|动作词汇]] |
 | **Open & close** | 开关 | open, close, turn on, turn off | 同上 + 正反义词游戏 |
+| **Hands, feet & body** | 手脚与肢体 | wave, stomp, stretch, balance | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#2-手脚与肢体--hands-feet--body\|分类总表 §2]] |
+| **Face & expressions** | 头面与表情 | smile, nod, blink, blow | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#3-头面与表情--face-head--expressions\|分类总表 §3]] · [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab\|表情符号]] |
+| **Animal actions** | 动物动作 | hop, bark, swim, fly, crawl | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#4-动物动作--animal-actions\|分类总表 §4]] · [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab\|动物词表]] |
+| **Sports & PE** | 运动与体育 | run, jump, throw, kick, swim | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#5-运动与体育--sports--pe\|分类总表 §5]] · [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice\|运动练习]] |
+| **Riding & transport** | 骑行与代步 | ride, pedal, hold on, get on/off | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#6-骑行与代步--riding--transport\|分类总表 §6]] · [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases\|电动车接送]] |
+| **Climb & outdoor** | 攀爬与户外 | climb, hike, slide, watch your step | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#7-攀爬与户外--climbing--hiking--playground\|分类总表 §7]] · [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases\|亲子 Hiking]] |
 | **Dressing** | 穿衣 | put on, take off, zip, button | [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases#9-常用动作词--dressing-verbs\|穿衣动作]] |
+| **Grooming & hygiene** | 梳洗与卫生 | wash, rinse, brush, wipe, comb | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#8-梳洗与卫生--grooming--hygiene\|分类总表 §8]] · [[learning-notes/parenting-english/daily-life/parenting-bathing-daily-phrases\|洗澡日常]] · [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases\|梳妆打扮]] |
 | **Tidy & clean** | 收拾 | sort, stack, wipe, throw away | [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases\|收拾整理]] |
-| **Grooming** | 梳洗 | brush hair, wash face, look in the mirror | [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases\|梳妆打扮]] |
-| **Study routines** | 作业流程 | pack bag, line up, circle the answer | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines\|动作扩展]] |
+| **Study routines** | 作业流程 | pack bag, match, hang up, circle | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines\|分类总表 §9]] |
+| **Meals & care** | 餐桌与护理 | wipe mouth, blow, try a bite, share | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#10-餐桌与护理--meals--care\|分类总表 §10]] · [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases\|餐桌礼仪]] |
 
 ---
 
@@ -700,7 +709,7 @@ aliases:
 
 ---
 
-<a id="parts-of-speech"></a>
+<a id="parts-of-speech"></a><a id="21-词类--parts-of-speech"></a>
 
 ## 21. 词类 — Parts of Speech
 
@@ -773,7 +782,7 @@ aliases:
 
 ---
 
-<a id="sentence-components"></a>
+<a id="sentence-components"></a><a id="22-句子成分--sentence-components"></a>
 
 ## 22. 句子成分 — Sentence Components
 

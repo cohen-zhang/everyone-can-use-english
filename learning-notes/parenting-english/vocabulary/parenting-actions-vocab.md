@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）**脱下泥衣服、去上班**等整句角色扮演扩展 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]。家庭整理、作业检查、擦嘴、连线配对等动作补充见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作 — 家庭与作业指令扩展]]（与此页相向互链）。和材质、形状搭配表达（glass / wood / circle / 3D 等）见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]。
+**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）**脱下泥衣服、去上班**等整句角色扮演扩展 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]。手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭作业等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]（与此页相向互链；本页侧重拿放、开关、穿衣等**日常物品操控**）。和材质、形状搭配表达（glass / wood / circle / 3D 等）见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]。
 
 ---
 

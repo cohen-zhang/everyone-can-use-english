@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 公园户外健身器、儿童游乐设施用词 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]
+**相关：** 跑跳、球类、游泳等运动动词速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#5-运动与体育--sports--pe|动作动词 — 分类总表 §5 运动与体育]]（与本页相向互链）。公园户外健身器、儿童游乐设施用词 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]
 
 关于运动喜好、运动好处以及体育课内容的日常表达。
 

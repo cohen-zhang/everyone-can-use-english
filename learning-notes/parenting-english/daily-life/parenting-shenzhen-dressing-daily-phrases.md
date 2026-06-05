@@ -412,6 +412,8 @@ tags:
 
 ---
 
+<a id="8-常见衣物词汇--clothing-vocabulary"></a>
+
 ## 8. 常见衣物词汇 — Clothing Vocabulary
 
 ### 衣裤鞋袜
@@ -455,6 +457,8 @@ tags:
 | **hood** | （外套上的）连帽 | Pull up your hood if it drizzles. 毛毛雨就把连帽拉起来。 |
 
 ---
+
+<a id="9-常用动作词--dressing-verbs"></a>
 
 ## 9. 常用动作词 — Dressing Verbs
 

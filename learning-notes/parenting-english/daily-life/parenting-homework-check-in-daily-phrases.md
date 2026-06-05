@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 连线配对、递给我、把作业拿过来检查、收拾书包等动作口令可搭配使用 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作 — 家庭与作业指令扩展]]（与此页相向互链）。
+**相关：** 连线配对、递给我、把作业拿过来检查、收拾书包等动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 — 分类总表 §9 家庭与作业]]（与此页相向互链）。
 
 
 面向**亲子作业场景**：从放学回家、作业准备、各科作业、检查订正、打卡提交到睡前整理的完整流程。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`

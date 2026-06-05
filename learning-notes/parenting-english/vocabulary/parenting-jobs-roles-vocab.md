@@ -60,6 +60,8 @@ tags:
 
 口语里说「一种职业」常用 **a / an + 单数可数名词**（如 **a teacher**），不必说 *a teacher person*。表中给**课堂／过家家**够用的一批；可按孩子兴趣加减。
 
+<a id="摩登家庭s01e02--四个-p-职业台词节奏"></a>
+
 ### 《摩登家庭》S01E02 · 四个 *P* 职业（台词节奏）
 
 剧中谈「让孩子做自己」时出现：**Whether that's a painter, a poet, a pilot, a president** — *of a company or of a country.* **President** 既可指**一国元首**，也可指**公司总裁／董事长**（*president of a company*）。四个词同为 **P** 开头是**台词修辞**；自己和孩子接龙时**不必**硬押 *P*。

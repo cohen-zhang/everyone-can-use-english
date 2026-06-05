@@ -35,6 +35,8 @@ tags:
 
 ## 常见基础反义词
 
+<a id="大小与多少"></a>
+
 ### 大小与多少
 
 玩「正反说」时可用一句里两个词对照，或各说半句；例句偏家里常见物品与吃饭场景。
@@ -85,7 +87,7 @@ tags:
 
 ### 动作类 — 亲子日常指令
 
-**（扩展练习）** 同一批动词／指令的整句跟读与组合场景见：[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]；梳头、照镜子时常用到的 *look up*／*look down* 等见 [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]] — 上两处与此小节 **相向各放一条链接**，在图谱与反向链接面板中会互显。
+**（扩展练习）** 同一批动词／指令的整句跟读与组合场景见：[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]；手脚、表情、动物、运动等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]；梳头、照镜子时常用到的 *look up*／*look down* 等见 [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]] — 与此小节 **相向互链**。
 
 | 英文           | 中文     | 反义词（英文）         | 反义词（中文） | 亲子场景例句                                                       |
 | ------------ | ------ | --------------- | ------- | ------------------------------------------------------------ |
@@ -178,6 +180,8 @@ tags:
 > 口语提醒：对真人更常用 **chubby / slim**、**pretty / handsome**，语气更礼貌。  
 
 
+<a id="味觉与口味类-亲子"></a>
+
 ### 味觉与口味类 `亲子`
 
 
@@ -188,6 +192,8 @@ tags:
 | **salty**         | 咸的    | **sweet** | 甜的（相对而言） | Soup is salty. / These cookies taste sweet. — 汤咸 / 饼干甜。（也可说 **bland**「淡」配对 **salty**，进阶再教。） |
 | **spicy** / **hot** | 辣的（刺激的） | **mild**  | 不辣／温和的  | Too spicy for me! / This one is mild. — 对我而言太辣了 / 这碗很温和。                |
 
+
+<a id="情绪类"></a>
 
 ### 情绪类
 
@@ -244,6 +250,8 @@ tags:
 **顺带一对（位置低档↔高档，非骂人）：****bottom**（底下那一档／末位） ↔ **top**（最上一档／首位）；说「中等成绩」也可用 **middle of the pack**「夹在中间一群人里」，进阶再展开。
 
 
+<a id="年龄与辈分指人"></a>
+
 ### 年龄与辈分（指人）
 
 
@@ -254,6 +262,8 @@ tags:
 | **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**／**adult**（大人／成人） | 大的／长大成人了的／成人（的） | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（**kids↔grown-ups** 外，也可口头玩 **kid↔adult**：*Are you a kid or an adult?* 你算小孩还是大人？— *adult* 作名词更顺口；作形容词常说 **adult size**「成人尺码」。） |
 | **grown-up / adult** | 大人／成年人 | **child / kid** | 小孩 | Grown-ups wait in line, and kids wait too. — 大人要排队，小朋友也要排队。（口语里常说 **grown-ups and kids**） |
 
+
+<a id="性别与人称-亲子"></a>
 
 ### 性别与人称 `亲子`
 
@@ -292,6 +302,8 @@ tags:
 | **upstairs** | 楼上   | **downstairs** | 楼下      | Go upstairs. / Come downstairs. — 上楼 / 下楼       |
 | **upside down** | 倒过来（上下颠倒） | **right side up** | 正放（上下正确） | Turn the cup **upside down** to dry. Store it **right side up** later. — 先把杯子倒过来晾干，收起来再正放。 |
 
+
+<a id="时间类"></a>
 
 ### 时间类
 

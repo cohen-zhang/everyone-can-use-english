@@ -40,6 +40,8 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/andy-warhol-notes.md|安迪·沃霍尔笔记]] — 艺术主题摘录
 - [[learning-notes/personal-english-book/life/world-cinema-quick-notes.md|世界电影随记]] — 电影史短文练习
 
+<a id="life--shenzhen-apartment-home居家物品与场景"></a>
+
 ### life / shenzhen-apartment-home（居家物品与场景）
 
 **亲子玩法：** 各房间物品可按「分篮归类」练 — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]。

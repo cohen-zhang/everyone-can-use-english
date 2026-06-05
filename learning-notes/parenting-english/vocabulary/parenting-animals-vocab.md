@@ -20,7 +20,7 @@ tags:
 - **启蒙句式**：描述时尽量用**短句、重复结构**（例如 *It is big. It lives in Africa. It has a long nose.*），孩子听得懂、跟得上，就是在对话里做英语启蒙；本表后的释义与音标可作为你备课时的提示。
 - **分类与难度**：词表按场景分组（宠物、农场、鸟类、昆虫、两栖与爬行、海洋、野生哺乳、史前、神话、科技术语、周边词等），每一组内按 **⭐ 启蒙 → 📚 术语** 排序；**No.** 仍为 PDF 原始序号（缺 **116**），可与文末「笔记」逐条对照。
 
-**游戏实录（相向互链）：** [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log.md|动物猜猜猜游戏记录（Guess-Guess Animals）]] — 单场猜过的动物与示例描述，可对照本页「猜动物小游戏」玩法。**按类分篮**（宠物／农场／海洋等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#1-动物--animals|分类归类游戏 · 动物]]。
+**游戏实录（相向互链）：** [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log.md|动物猜猜猜游戏记录（Guess-Guess Animals）]] — 单场猜过的动物与示例描述，可对照本页「猜动物小游戏」玩法。**按类分篮**（宠物／农场／海洋等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#1-动物--animals|分类归类游戏 · 动物]]。**动物动作动词**（hop, bark, swim, fly 等）速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#4-动物动作--animal-actions|动作动词 — 分类总表 §4]]（与本页相向互链）。
 
 ---
 
