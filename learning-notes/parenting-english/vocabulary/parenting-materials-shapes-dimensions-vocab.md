@@ -15,7 +15,7 @@ aliases:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 搭配动作指令练习可看 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]（例如 *Pick it up carefully. It's made of glass.*）。家电实物场景可结合 [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases|家电日常]] 一起练。数学符号里的 **square / cube** 等见 [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]。
+**相关：** 搭配动作指令练习可看 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]（例如 *Pick it up carefully. It's made of glass.*）。家电实物场景可结合 [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases|家电日常]] 一起练。数学符号里的 **square / cube** 等见 [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]。户外捡石头、步道碎石 → [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases|亲子 Hiking 场景]]。
 
 ---
 
@@ -35,6 +35,10 @@ aliases:
 爸爸的皮带是皮质的。
 - **My teddy bear is made of soft plush.**  
 我的泰迪熊是软软的毛绒做的。
+- **The kitchen counter is made of granite.**  
+厨房台面是花岗岩做的。
+- **She found a smooth pebble by the stream.**  
+她在小溪边捡到一颗光滑的鹅卵石。
 
 ### 形状 Shape
 
@@ -70,6 +74,26 @@ aliases:
 | **paper** | 纸 | paper bag, paper cup | **Use a paper bag for recycling.** — 用纸袋做回收分类。 |
 | **cotton** | 棉 | cotton T-shirt, cotton towel | **This shirt is 100% cotton.** — 这件衬衫是纯棉的。 |
 | **fabric / cloth** | 布料 | fabric sofa, cloth bag | **The sofa is covered with fabric.** — 这个沙发是布面的。 |
+
+### 石头分类 — Stone Types `亲子`
+
+公园里捡 **pebble**、厨房台面是 **granite**、大厅地面是 **marble**——娃问「这是什么石头」时，**stone** 泛指石头，**rock** 户外更常说（大块、山壁）；**pebble** 指光滑小圆石，**gravel** 是碎砾铺的路。**marble** 和 **granite** 是家装最常见的两种石材。
+
+| Stone type | 中文 | 常见搭配 | 例句（English + 简中） |
+| --- | --- | --- | --- |
+| **stone** | 石头（泛指） | stone path, stepping stone | **Don't throw stones.** — 不要扔石头。 |
+| **rock** | 岩石；石块（户外口语） | loose rock, rock wall | **Watch your step—the rocks are loose.** — 注意脚下，石头有点松。 |
+| **pebble** | 鹅卵石；小圆石 | smooth pebble, pebble beach | **She collected five smooth pebbles.** — 她捡了五颗光滑的小圆石。 |
+| **gravel** | 砾石；碎石 | gravel path, gravel driveway | **The playground path is gravel.** — 游乐场小路是碎石铺的。 |
+| **cobblestone** | 鹅卵石（铺路块） | cobblestone street, cobblestone path | **The old street has cobblestones.** — 那条老街是鹅卵石路面。 |
+| **marble** | 大理石 | marble floor, marble countertop | **The lobby floor is marble.** — 大厅地面是大理石的。 |
+| **granite** | 花岗岩 | granite countertop, granite tile | **Our kitchen counter is granite.** — 我们家厨房台面是花岗岩的。 |
+| **slate** | 板岩；石板 | slate tile, slate roof | **These dark tiles are slate.** — 这些深色地砖是板岩的。 |
+| **sandstone** | 砂岩 | sandstone wall, sandstone steps | **The garden steps are sandstone.** — 花园台阶是砂岩的。 |
+| **limestone** | 石灰石 | limestone cliff, limestone rock | **White cliffs are often limestone.** — 白色崖壁常常是石灰石。 |
+| **quartz** | 石英 | quartz crystal, white quartz stone | **This shiny white stone is quartz.** — 这块亮晶晶的白石头是石英。 |
+
+> **stone** vs **rock**：亲子口语两者常混用；户外提醒脚下、山壁大块用 **rock** 更自然，桌上小石头、铺路石用 **stone** 也常见。**pebble** 强调「小、圆、光滑」；**gravel** 是很多小碎粒铺成的路，不是一颗一颗捡的那种。
 
 ### 皮质 · 牛皮 · 毛绒玩具 — Leather, Cowhide & Plush `亲子`
 
@@ -154,6 +178,8 @@ aliases:
 陶瓷碗很烫，用双手拿。
 - **This is stainless steel, so it won't rust easily.**  
 这是不锈钢的，不容易生锈。
+- **Don't throw rocks. Someone could get hurt.**  
+不要扔石头，会伤到人。
 
 ---
 
@@ -170,6 +196,9 @@ aliases:
 | 认形状 | **What shape is this? A circle or a square?** | 这是什么形状？圆的还是方的？ |
 | 积木分类 | **Sort the flat pieces and the 3D blocks.** | 把平面片和立体积木分开收。 |
 | 描述盒子 | **The box is rectangular—long, wide, and a little tall.** | 盒子是长方形的——长、宽、还有一点高。 |
+| 认石头 | **Is this a pebble or a piece of gravel?** | 这是鹅卵石还是碎石粒？ |
+| 家装石材 | **The floor is marble, but the counter is granite.** | 地面是大理石，台面是花岗岩。 |
+| 户外碎石路 | **Walk on the gravel path, not on the loose rocks.** | 走碎石小路，别踩松动的石块。 |
 
 ---
 

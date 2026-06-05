@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 去公园和游乐区表达可参考 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]]。运动指令补充见 [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]。
+**相关：** 去公园和游乐区表达可参考 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]]。运动指令补充见 [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]。路上 **rock / pebble / gravel** 等石头分类见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab#石头分类--stone-types-亲子|材质 · 形状 · 维度 — 石头分类]]。
 
 ---
 

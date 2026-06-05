@@ -49,7 +49,7 @@ aliases:
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]] — 工作、扮装
-- [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab.md|材质 · 形状 · 维度]] — 塑料、木头、玻璃等材质；圆/方/三角等图形；2D/3D 与长宽高
+- [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab.md|材质 · 形状 · 维度]] — 塑料、木头、玻璃、石头（大理石/花岗岩/鹅卵石等）等材质；圆/方/三角等图形；2D/3D 与长宽高
 - [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab.md|季节月份星座太空]] — 时间天文
 - [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab.md|常见符号]] — 符号读音
 

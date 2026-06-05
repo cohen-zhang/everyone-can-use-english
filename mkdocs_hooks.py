@@ -15,6 +15,17 @@ _repo_root: Path | None = None
 _docs_dir: Path | None = None
 
 
+def _mirror_book_into_docs(docs_dir: Path, repo_root: Path) -> None:
+    """Mirror repo ``book/`` into ``learning-notes/book/`` so GHP can serve 人人都能用英语."""
+    src = repo_root / "book"
+    target = docs_dir / "book"
+    if not src.is_dir():
+        return
+    if target.exists():
+        shutil.rmtree(target)
+    shutil.copytree(src, target)
+
+
 def on_config(config, **kwargs):
     global _stem_to_paths, _repo_root, _docs_dir
     _stem_to_paths = None
@@ -22,20 +33,8 @@ def on_config(config, **kwargs):
     _docs_dir = Path(config.docs_dir)
     if not _docs_dir.is_absolute():
         _docs_dir = _repo_root / _docs_dir
+    _mirror_book_into_docs(_docs_dir, _repo_root)
     return config
-
-
-def on_startup(command, dirty, **kwargs):
-    """Mirror repo ``book/`` into ``learning-notes/book/`` so GHP can serve 人人都能用英语."""
-    if _repo_root is None or _docs_dir is None:
-        return
-    src = _repo_root / "book"
-    target = _docs_dir / "book"
-    if not src.is_dir():
-        return
-    if target.exists():
-        shutil.rmtree(target)
-    shutil.copytree(src, target)
 
 
 def _index(files) -> dict[str, list[str]]:
