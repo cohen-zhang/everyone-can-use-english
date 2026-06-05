@@ -16,6 +16,8 @@ tags:
 
 **相关：** **市政公园**儿童区与户外健身路径用语 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]（与此页「去公园」穿搭叠用）。
 
+**相关：** **衣服分类分篮**（上装／下装／鞋帽等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#2-衣服--clothing|分类归类游戏 · 衣服]]（与此页相向互链）。
+
 ---
 
 ## 1. 早上穿衣 — Getting Dressed in the Morning

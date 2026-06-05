@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]（**方向与空间对** 含 **upstairs ↔ downstairs** 等楼层方向练习）。
+**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]（**方向与空间对** 含 **upstairs ↔ downstairs** 等楼层方向练习）。**按主题归类**（动物、衣服、房间、学科等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类归类游戏 — Category Sorting]] — 与此页相向互链。
 
 
 通过正反义词游戏帮助孩子扩展词汇量、理解对比概念，同时增进亲子互动。
@@ -191,7 +191,7 @@ tags:
 
 ### 情绪类
 
-**（扩展）** 更多情绪词汇与「问感受」句式见：[[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]；表情互动练词见：[[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜 — Emoji Guessing Game]] — 与此小节相向互链。
+**（扩展）** 更多情绪词汇与「问感受」句式见：[[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]；表情互动练词见：[[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜 — Emoji Guessing Game]]；**情绪分篮**见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]] — 与此小节相向互链。
 
 | 英文          | 中文  | 反义词（英文）       | 反义词（中文） | 亲子场景例句                                                     |
 | ----------- | --- | ------------- | ------- | ---------------------------------------------------------- |
@@ -253,6 +253,28 @@ tags:
 | **younger** | 更小岁数的   | **older**            | 更大岁数的／更年长的      | You're younger than Mommy. Mommy is older. — 你比妈妈岁数小／妈妈岁数更大。（游戏练对比即可）                        |
 | **little**（年龄感／个子） | 小的／小娃娃  | **big**／**grown-up**／**adult**（大人／成人） | 大的／长大成人了的／成人（的） | You're still little now. You'll be big someday. — 你现在还小／有一天会长成大孩子。（**kids↔grown-ups** 外，也可口头玩 **kid↔adult**：*Are you a kid or an adult?* 你算小孩还是大人？— *adult* 作名词更顺口；作形容词常说 **adult size**「成人尺码」。） |
 | **grown-up / adult** | 大人／成年人 | **child / kid** | 小孩 | Grown-ups wait in line, and kids wait too. — 大人要排队，小朋友也要排队。（口语里常说 **grown-ups and kids**） |
+
+
+### 性别与人称 `亲子`
+
+严格说 **boy ↔ girl**、**male ↔ female** 是「互补对应」而不一定是词典反义词，但亲子口语里常和大小、老少一样玩「你说男我说女」。指真人时注意礼貌：当众少用 *fat*／直接评判外貌；性别词只描述角色（玩偶、绘本人物、家庭成员）即可。
+
+| 英文 | 中文 | 对照（英文） | 对照（中文） | 亲子场景例句 |
+| --- | --- | --- | --- | --- |
+| **boy** | 男孩 | **girl** | 女孩 | The **boy** doll wears blue. The **girl** doll wears pink. — 男娃娃穿蓝 / 女娃娃穿粉。（颜色不必刻板，练词即可。） |
+| **male** | 男性的；公的（动物） | **female** | 女性的；母的（动物） | Is this a **male** or **female** duck? — 这是公鸭还是母鸭？（动物园标牌常见。） |
+| **man** | 男人 | **woman** | 女人 | The **man** is Dad. The **woman** is Mom. — 这位男士是爸爸 / 这位女士是妈妈。 |
+| **son** | 儿子 | **daughter** | 女儿 | Their **son** is seven. Their **daughter** is five. — 儿子七岁 / 女儿五岁。 |
+| **father** / **dad** | 父亲／爸爸 | **mother** / **mom** | 母亲／妈妈 | **Dad** reads stories. **Mom** packs lunch. — 爸爸讲故事 / 妈妈装便当。 |
+| **brother** | 哥哥／弟弟 | **sister** | 姐姐／妹妹 | Your **brother** is older. Your **sister** is younger. — 哥哥年纪大 / 妹妹年纪小。 |
+| **he** | 他 | **she** | 她 | **He** is a tiger. **She** is a cat. — 他是老虎 / 她是猫。（练代词，指玩偶即可。） |
+| **Mr.** | 先生 | **Ms.** / **Mrs.** | 女士／夫人 | **Mr.** Wang is our neighbor. **Ms.** Li teaches art. — 王先生是邻居 / 李女士教美术。（*`Miss`* 多指未婚女性／对年轻女老师的称呼，视校规。） |
+| **uncle** | 叔叔／舅舅／伯伯 | **aunt** | 阿姨／姑姑／舅妈 | **Uncle** visits on Sunday. **Aunt** sends stickers. — 星期天叔叔来 / 阿姨寄贴纸。 |
+| **grandfather** / **grandpa** | 爷爷／外公 | **grandmother** / **grandma** | 奶奶／外婆 | **Grandpa** tells jokes. **Grandma** bakes cookies. — 爷爷讲笑话 / 奶奶烤饼干。 |
+| **king** | 国王 | **queen** | 王后 | The **king** and **queen** live in the castle story. — 国王和王后住在城堡故事里。 |
+| **prince** | 王子 | **princess** | 公主 | The **prince** helps the **princess** in the fairy tale. — 童话里王子帮公主。 |
+
+> **农场动物雌雄：** **rooster**（公鸡）↔ **hen**（母鸡）；**bull**（公牛）↔ **cow**（母牛）— 见 [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab#cat-farm|动物单词 · 农场]]。**分类归类**（宠物／农场／海洋等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类归类游戏]]。
 
 
 ### 位置类
@@ -337,6 +359,8 @@ tags:
 - **When do we open the door? When do we close it?** — 我们什么时候开门？什么时候关门？
 - **When does class begin? When is class over?** — 什么时候算「上课」？什么时候「下课／放学」？（中英文说法都可练。）
 - **Who is younger? Who is older?** — 谁年纪更小？谁更大？（只练对比别嘲笑。）
+- **Boy or girl? He or she?** — 男孩还是女孩？用 he 还是 she？（指玩偶、绘本人物练代词。）
+- **Is it a rooster or a hen? A bull or a cow?** — 公鸡还是母鸡？公牛还是母牛？（农场分类顺带练。）
 - **Can you think of another word for "big"?** — 你能想出"big"的另一个说法吗？
 - **When do we say "Do this"? When do we say "Do that"?** — 什么时候说「做这个」？什么时候说「做那个」？（近指／远指）
 - **Is "Don't do that" the opposite of "Do that"?** — *Don't do that* 算 *Do that* 的反面吗？（否定指令↔允许去做，可接 **yes/no**／**okay/stop**。）
@@ -449,6 +473,15 @@ tags:
 | 46  | You're supposed to …（按理说该……）           | You're not supposed to …（按理说别……）；亦可口述 **you shouldn't** 对比 | 「按规矩应该怎样」 ↔ 「按规矩不应该」      |
 | 47  | fat         | thin                                         | 胖 / 瘦 |
 | 48  | ugly        | beautiful                                    | 丑 / 美 |
+| 49  | boy         | girl                                         | 男孩 / 女孩 |
+| 50  | male        | female                                       | 男（性）/ 女（性） |
+| 51  | man         | woman                                        | 男人 / 女人 |
+| 52  | son         | daughter                                     | 儿子 / 女儿 |
+| 53  | father／dad  | mother／mom                                   | 爸爸 / 妈妈 |
+| 54  | brother     | sister                                       | 兄弟 / 姐妹 |
+| 55  | he          | she                                          | 他 / 她 |
+| 56  | rooster     | hen                                          | 公鸡 / 母鸡 |
+| 57  | bull        | cow                                          | 公牛 / 母牛 |
 
 ---
 

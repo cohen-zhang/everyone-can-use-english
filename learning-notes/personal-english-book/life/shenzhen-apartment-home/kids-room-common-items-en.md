@@ -11,6 +11,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关：** **房间分篮归类**（客厅／厨房／儿童房等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]（与此页相向互链）。
+
 ## 本页在做什么
 
 面向深圳商品房 **小户型儿童房**：按 **房间整体 → 睡眠（床架）→ 床上用品 → 衣柜收纳 → 学习桌面（文具）→ 玩乐 → 起居与环境 → 照明与温控（灯具 / 风扇 / 空调）** 的顺序分类列常用英文词，配 **IPA（英 / 美）** 与介绍句。便于家长带 **不多 / Celine** 指认物品、练习自述；句子温和、可操作。**爸爸独立书房**（敲门、视频会议、作业辅导时段）见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/study-room-common-items-en#9-亲子进门规则--parentchild-routines-亲子|书房 · 亲子进门规则]]。不含学校名称与隐私。

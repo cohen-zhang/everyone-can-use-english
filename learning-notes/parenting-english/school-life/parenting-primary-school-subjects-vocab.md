@@ -16,6 +16,8 @@ tags:
 
 **相关：** 电动两轮车**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]。（与此页相向互链：课表与时间用语见本节，路口安全与停泊寒暄见其「骑行 / 校门」段落。）
 
+**相关：** **学科分篮归类**（含小学科目、自然科学 physics/chemistry/biology、人文社科 philosophy/economics/psychology、大学门类）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#5-学科与在校--school-subjects|分类归类游戏 · 学科]]（与此页相向互链）。
+
 ---
 
 ## 1. 学年与学期 — The School Year

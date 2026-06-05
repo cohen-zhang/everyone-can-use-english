@@ -15,7 +15,7 @@ aliases:
 
 参考 Apple Health 情绪追踪分类，覆盖工作与夫妻生活场景的情绪表达。
 
-**相关（相向互链）：** 带娃日常简表达 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]（问感受、儿童高频形容词）。
+**相关（相向互链）：** 带娃日常简表达 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]（问感受、儿童高频形容词）。**情绪档位分篮**（Very Pleasant ↔ Very Unpleasant 等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]。
 
 ---
 

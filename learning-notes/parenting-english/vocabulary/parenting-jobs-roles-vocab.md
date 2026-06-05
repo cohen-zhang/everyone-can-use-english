@@ -21,6 +21,7 @@ tags:
 - **拿起／穿上／脱下** 等动作句：**[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]**。
 - **《摩登家庭》S01E02**（*painter / poet / pilot / president* 台词笔记，与此页相向互链）：**[[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-daily-lines|S01E02 生活场景实用英文句]]**。
 - **astronaut** 等太空亲子口语（**Celine** 喜欢宇宙航天时）：**[[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]]**（与此页相向互链）。
+- **职业大类分篮**（总统／CEO·CTO／小说家／律师／证券分析师／自由职业者等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#8-职业与角色--jobs--roles|分类归类游戏 · 职业]]（与此页相向互链）。
 
 ---
 

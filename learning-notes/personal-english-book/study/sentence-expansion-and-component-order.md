@@ -11,7 +11,7 @@ aliases:
 # 句子扩写 · 主谓宾状补换序示范
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关：** [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]] · [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（主谓宾换序实例）]] · [[learning-notes/parenting-english/README|亲子英文材料索引]]
+**相关：** [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]] · [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（主谓宾换序实例）]] · [[learning-notes/parenting-english/README|亲子英文材料索引]] · **词类与成分分篮游戏** — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]]（与此页相向互链）
 
 ---
 

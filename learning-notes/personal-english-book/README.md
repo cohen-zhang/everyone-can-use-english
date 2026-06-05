@@ -42,6 +42,8 @@ cssclasses:
 
 ### life / shenzhen-apartment-home（居家物品与场景）
 
+**亲子玩法：** 各房间物品可按「分篮归类」练 — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]。
+
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/living-room-common-items-en.md|客厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/dining-room-common-items-en.md|餐厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kitchen-common-items-en.md|厨房常见物品]]

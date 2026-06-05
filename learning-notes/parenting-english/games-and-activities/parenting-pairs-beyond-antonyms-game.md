@@ -9,7 +9,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 基础反义词（大/小、快/慢等）见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]。
+**相关：** 基础反义词（大/小、快/慢等）见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]。**按主题分篮归类**（动物、衣服、房间等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类归类游戏 — Category Sorting]]。
 
 这篇是“反义词游戏”的扩展版：不只练严格反义词，也练“成对出现”的对应词。  
 This note extends the opposites game to broader pair words, not only strict antonyms. — 这份笔记把“正反义词”扩展到更广义的“成对词”。

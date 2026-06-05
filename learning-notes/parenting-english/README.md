@@ -60,8 +60,9 @@ aliases:
 - [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log.md|动物猜猜猜记录]] — 游戏实录
 - [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice.md|运动练习]] — 运动亲子句
 - [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game.md|表情猜猜猜]] — emoji 游戏
-- [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game.md|正反义词游戏]] — opposites
+- [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game.md|正反义词游戏]] — opposites（含男↔女等人称对）
 - [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game.md|广义对举词游戏]] — 不止反义词（诗词对举、问答对、进出与新旧等）
+- [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game.md|分类归类游戏]] — 动物/衣服/房间/情绪/学科/电商/词类/句子成分等主题分篮与详表入口
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md|Peppa Pig 手记]] — 佩奇 + 外链剧本
 
 ---
