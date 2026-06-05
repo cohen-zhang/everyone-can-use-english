@@ -134,6 +134,34 @@ aliases:
   — **Calvin Coolidge**（美国前总统）。  
   — **简中大意**：圣诞不是一种时段或季节，而是一种心境。
 
+
+---
+
+## 9. 附录 — APEC 活动口号（备忘）
+
+*公司 / 大型活动宣传用语，便于对照朗读；与健身主题无关，仅作备忘。*
+
+### APEC China Year
+
+| 英文 | 简中 |
+| --- | --- |
+| **APEC China Year** | APEC 中国年 |
+| **Here Comes the Year of Miracles** | 奇迹之年即将到来 |
+
+### APEC 2026 · 深圳
+
+| 中文 | 英文 |
+| --- | --- |
+| **APEC 2026 · 相约深圳 · 见证奇迹** | **APEC 2026 — Gather in Shenzhen, witness the miracles.** |
+| **心有所悦 · 业有所成 · 万事皆可期** | **May you enjoy life to the fullest and achieve every success! May all your dreams come true!** |
+
+**可连读（致辞 / 海报）**
+
+> **APEC 2026** — Gather in **Shenzhen**, witness the miracles.  
+> May you enjoy life to the fullest and achieve every success! May all your dreams come true!  
+> APEC 2026 — 相约深圳，见证奇迹。心有所悦，业有所成，万事皆可期。
+
+
 ---
 
 ## 5. 一句话复习 — One-line recap

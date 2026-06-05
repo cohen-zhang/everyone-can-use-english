@@ -79,6 +79,7 @@ cssclasses:
 
 ## study — 学习与泛技术英语
 
+- [[learning-notes/personal-english-book/study/sentence-expansion-and-component-order.md|句子扩写与成分换序示范]] — 主谓宾状补、扩写阶梯、同一画面换序
 - [[learning-notes/personal-english-book/study/phonetics-input-guide.md|音标输入指南]]
 - [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference.md|音标工程师速查]]
 - [[learning-notes/personal-english-book/study/vocabulary-tricky-pronunciation-149.md|易读错词汇 149]]

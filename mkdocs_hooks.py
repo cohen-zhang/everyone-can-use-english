@@ -4,18 +4,38 @@ from __future__ import annotations
 
 import os
 import re
-from pathlib import PurePosixPath
+import shutil
+from pathlib import Path, PurePosixPath
 
 WIKI_LINK = re.compile(r"(?<!!)\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 MD_LEARNING_NOTES = re.compile(r"\]\(([^)]*learning-notes/[^)]+)\)")
 
 _stem_to_paths: dict[str, list[str]] | None = None
+_repo_root: Path | None = None
+_docs_dir: Path | None = None
 
 
 def on_config(config, **kwargs):
-    global _stem_to_paths
+    global _stem_to_paths, _repo_root, _docs_dir
     _stem_to_paths = None
+    _repo_root = Path(config.config_file_path).resolve().parent
+    _docs_dir = Path(config.docs_dir)
+    if not _docs_dir.is_absolute():
+        _docs_dir = _repo_root / _docs_dir
     return config
+
+
+def on_startup(command, dirty, **kwargs):
+    """Mirror repo ``book/`` into ``learning-notes/book/`` so GHP can serve 人人都能用英语."""
+    if _repo_root is None or _docs_dir is None:
+        return
+    src = _repo_root / "book"
+    target = _docs_dir / "book"
+    if not src.is_dir():
+        return
+    if target.exists():
+        shutil.rmtree(target)
+    shutil.copytree(src, target)
 
 
 def _index(files) -> dict[str, list[str]]:

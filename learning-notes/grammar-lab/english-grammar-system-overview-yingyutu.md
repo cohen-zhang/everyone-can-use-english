@@ -23,6 +23,8 @@
 - 区分：`原视频观点` vs `我的整理补充`
 - 对争议点加“待核验”标记
 
+**句式练习（扩写 / 换序）：** [[learning-notes/personal-english-book/study/sentence-expansion-and-component-order|句子扩写与成分换序示范]]
+
 ## 1) 先看全局：Grammar = Form + Meaning + Use
 
 - **Form（形式）**：句子长什么样，结构是否正确。  
