@@ -6,7 +6,7 @@ tags:
 
 # 动作动词 — 分类总表（亲子）
 
-按**身体部位、动物、运动、出行、梳洗、家庭指令**等主题整理亲子高频**动作动词**；各节附口令例句，并链到仓库里已有的场景句库，避免同一动词在多处重复堆表。
+按**身体部位、动物、运动、出行、梳洗、家庭指令、设备操作**等主题整理亲子高频**动作动词**；各节附口令例句，并链到仓库里已有的场景句库，避免同一动词在多处重复堆表。
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
@@ -39,6 +39,7 @@ tags:
 3. **动物与运动** → [§4 动物动作](#4-动物动作--animal-actions) · [§5 运动与体育](#5-运动与体育--sports--pe)
 4. **出行与户外** → [§6 骑行与代步](#6-骑行与代步--riding--transport) · [§7 攀爬与户外](#7-攀爬与户外--climbing--hiking--playground)
 5. **生活流程** → [§8 梳洗与卫生](#8-梳洗与卫生--grooming--hygiene) · [§9 家庭与作业](#9-家庭整理与作业指令--home--study-routines) · [§10 餐桌与护理](#10-餐桌与护理--meals--care)
+6. **设备操作** → [§11 手机与平板](#11-手机与平板操作--phone--tablet-gestures)
 
 ---
 
@@ -57,6 +58,7 @@ tags:
 | **Grooming & hygiene** | 梳洗与卫生 | wash, brush, rinse, wipe, comb | 本节 §8 · [[learning-notes/parenting-english/daily-life/parenting-bathing-daily-phrases\|洗澡日常]] |
 | **Home & study** | 家庭与作业 | pack, match, hang up, spin | 本节 §9 |
 | **Meals & care** | 餐桌与护理 | wipe, blow, chew, sip | 本节 §10 · [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases\|餐桌礼仪]] |
+| **Phone & device** | 手机与平板操作 | tap, swipe, scroll, pinch, long press | 本节 §11 · [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases\|手机使用日常]] |
 
 ---
 
@@ -417,6 +419,63 @@ tags:
 
 ---
 
+<a id="phone-device"></a>
+
+## 11. 手机与平板操作 — Phone & Tablet Gestures `亲子` `技术`
+
+接打电话、消息、屏幕规则、充电与安全边界的**整句场景**见 [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases|手机使用日常]]；本节只收**可当口令的操作动词**，方便指着屏幕教手势。
+
+### 11.1 屏幕手势 — Screen gestures
+
+| 英文动作 | 中文 | 常用口令（English — 中文） |
+| --- | --- | --- |
+| **tap** | 点一下 | Tap the icon once. — 点一下图标。 |
+| **double-tap** | 双击 | Double-tap to zoom in. — 双击放大。 |
+| **swipe** | 滑动 | Swipe left to see more. — 向左滑看更多。 |
+| **scroll** | 滚动浏览 | Scroll up and down the page. — 上下滑浏览整页。 |
+| **pinch** | 双指捏合（缩小） | Pinch to zoom out. — 双指捏合缩小。 |
+| **spread** | 双指张开（放大） | Spread your fingers to zoom in. — 双指张开放大。 |
+| **long press** / **press and hold** | 长按 | Long press the app until it jiggles. — 长按 app 直到图标晃动。 |
+| **drag** | 拖动 | Drag the app into the folder. — 把 app 拖进文件夹。 |
+
+**边界提醒：** **One finger. Don't tap too fast.** — 一根手指，别点太快。 · **Slow swipe—not too hard.** — 轻一点滑，别太猛。
+
+### 11.2 解锁与导航 — Unlock & navigate
+
+| 英文动作 | 中文 | 常用口令（English — 中文） |
+| --- | --- | --- |
+| **wake** / **unlock** | 唤醒 / 解锁 | Swipe up to unlock. — 上滑解锁。 |
+| **go back** | 返回 | Tap the back arrow to go back. — 点返回箭头返回。 |
+| **go to the home screen** | 回主屏 | Press the home bar to go home. — 按底部 Home 条回主屏。 |
+| **switch apps** | 切换应用 | Swipe up and pause to switch apps. — 上滑停一下切换应用。 |
+| **open** / **close**（an app） | 打开 / 关闭（app） | Open the app. Swipe up to close it. — 打开 app。上滑关掉。 |
+| **type** | 打字 / 输入 | Type your name here. — 在这里输入名字。 |
+| **search** | 搜索 | Search for the song. — 搜一下这首歌。 |
+
+### 11.3 开关机与电话 — Power & calls
+
+| 英文动作 | 中文 | 常用口令（English — 中文） |
+| --- | --- | --- |
+| **turn on** / **turn off** | 开机 / 关机 | Press and hold to turn it on. — 长按开机。 |
+| **restart** | 重启 | Let's restart the phone. — 我们重启一下手机。 |
+| **answer** / **pick up** | 接（电话） | The phone's ringing—answer it. — 手机响了，接一下。 |
+| **hang up** | 挂断 | Say bye and hang up. — 说再见挂断。 |
+| **call back** | 回拨 | I'll call them back later. — 我晚点回拨。 |
+| **put on speaker** | 开免提 | I'll put you on speaker. — 我开免提。 |
+
+### 11.4 充电与拍照 — Charge & camera
+
+| 英文动作 | 中文 | 常用口令（English — 中文） |
+| --- | --- | --- |
+| **charge** | 充电 | The phone needs charging. — 手机要充电。 |
+| **plug in** / **unplug** | 插上 / 拔下 | Plug in the cable. Unplug it gently. — 插上线。轻轻拔下。 |
+| **take a photo** | 拍照 | Hold still—I'll take a photo. — 别动，我拍张照。 |
+| **download** / **install** / **update** / **delete** | 下载 / 安装 / 更新 / 删（app） | Download the app on Wi-Fi. — 用 Wi-Fi 下载 app。 |
+
+**详表：** 手势区分（乱点 ↔ 边缘滑返回 ↔ 上滑关 app）、接打电话、屏幕时间规则、充电安全等整句见 [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases|手机使用日常]]。
+
+---
+
 ## 迷你口令回合（30 秒）
 
 按当天主题选 5 条；家长发令，孩子做动作并复述关键词。
@@ -426,6 +485,8 @@ tags:
 **动物日：** hop like a bunny · flap like a bird · waddle like a duck · roar like a lion · swim like a fish
 
 **户外日：** climb · slide · watch your step · hold on · take a break
+
+**设备日：** tap · swipe · scroll · long press · go back
 
 **通用模板：**
 

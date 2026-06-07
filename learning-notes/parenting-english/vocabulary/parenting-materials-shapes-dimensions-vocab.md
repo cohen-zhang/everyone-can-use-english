@@ -64,16 +64,16 @@ aliases:
 
 | Material | 中文 | 常见搭配 | 例句（English + 简中） |
 | --- | --- | --- | --- |
-| **plastic** | 塑料 | plastic bottle, plastic toy | **This toy is made of plastic.** — 这个玩具是塑料做的。 |
-| **iron** | 铁 | iron gate, iron pan | **The gate is made of iron.** — 这个大门是铁做的。 |
-| **stainless steel** | 不锈钢 | stainless-steel cup, stainless-steel spoon | **This bottle is stainless steel.** — 这个水壶是不锈钢的。 |
+| **plastic** /ˈplæstɪk/ | 塑料 | plastic bottle, plastic toy | **This toy is made of plastic.** — 这个玩具是塑料做的。 |
+| **iron** /ˈaɪərn/ | 铁 | iron gate, iron pan | **The gate is made of iron.** — 这个大门是铁做的。 |
+| **stainless steel** /ˈsteɪnləs stiːl/ | 不锈钢 | stainless-steel cup, stainless-steel spoon | **This bottle is stainless steel.** — 这个水壶是不锈钢的。 |
 | **wood** | 木头 | wooden table, wooden chair | **The table is made of wood.** — 这张桌子是木头做的。 |
 | **glass** | 玻璃 | glass cup, glass window | **Be careful. It's made of glass.** — 小心，它是玻璃做的。 |
-| **ceramic** | 陶瓷 | ceramic bowl, ceramic plate | **We use ceramic bowls at dinner.** — 我们晚饭用陶瓷碗。 |
-| **rubber** | 橡胶 | rubber band, rubber sole | **These boots have rubber soles.** — 这双靴子是橡胶底。 |
+| **ceramic** /səˈræmɪk/ | 陶瓷 | ceramic bowl, ceramic plate | **We use ceramic bowls at dinner.** — 我们晚饭用陶瓷碗。 |
+| **rubber** /ˈrʌbər/ | 橡胶 | rubber band, rubber sole | **These boots have rubber soles.** — 这双靴子是橡胶底。 |
 | **paper** | 纸 | paper bag, paper cup | **Use a paper bag for recycling.** — 用纸袋做回收分类。 |
-| **cotton** | 棉 | cotton T-shirt, cotton towel | **This shirt is 100% cotton.** — 这件衬衫是纯棉的。 |
-| **fabric / cloth** | 布料 | fabric sofa, cloth bag | **The sofa is covered with fabric.** — 这个沙发是布面的。 |
+| **cotton** /ˈkɑːtən/ | 棉 | cotton T-shirt, cotton towel | **This shirt is 100% cotton.** — 这件衬衫是纯棉的。 |
+| **fabric** /ˈfæbrɪk/ **/ cloth** /klɔːθ/ | 布料 | fabric sofa, cloth bag | **The sofa is covered with fabric.** — 这个沙发是布面的。 |
 
 ### 石头分类 — Stone Types `亲子`
 
@@ -83,15 +83,15 @@ aliases:
 | --- | --- | --- | --- |
 | **stone** | 石头（泛指） | stone path, stepping stone | **Don't throw stones.** — 不要扔石头。 |
 | **rock** | 岩石；石块（户外口语） | loose rock, rock wall | **Watch your step—the rocks are loose.** — 注意脚下，石头有点松。 |
-| **pebble** | 鹅卵石；小圆石 | smooth pebble, pebble beach | **She collected five smooth pebbles.** — 她捡了五颗光滑的小圆石。 |
-| **gravel** | 砾石；碎石 | gravel path, gravel driveway | **The playground path is gravel.** — 游乐场小路是碎石铺的。 |
-| **cobblestone** | 鹅卵石（铺路块） | cobblestone street, cobblestone path | **The old street has cobblestones.** — 那条老街是鹅卵石路面。 |
-| **marble** | 大理石 | marble floor, marble countertop | **The lobby floor is marble.** — 大厅地面是大理石的。 |
-| **granite** | 花岗岩 | granite countertop, granite tile | **Our kitchen counter is granite.** — 我们家厨房台面是花岗岩的。 |
-| **slate** | 板岩；石板 | slate tile, slate roof | **These dark tiles are slate.** — 这些深色地砖是板岩的。 |
-| **sandstone** | 砂岩 | sandstone wall, sandstone steps | **The garden steps are sandstone.** — 花园台阶是砂岩的。 |
-| **limestone** | 石灰石 | limestone cliff, limestone rock | **White cliffs are often limestone.** — 白色崖壁常常是石灰石。 |
-| **quartz** | 石英 | quartz crystal, white quartz stone | **This shiny white stone is quartz.** — 这块亮晶晶的白石头是石英。 |
+| **pebble** /ˈpebəl/ | 鹅卵石；小圆石 | smooth pebble, pebble beach | **She collected five smooth pebbles.** — 她捡了五颗光滑的小圆石。 |
+| **gravel** /ˈɡrævəl/ | 砾石；碎石 | gravel path, gravel driveway | **The playground path is gravel.** — 游乐场小路是碎石铺的。 |
+| **cobblestone** /ˈkɑːbəlstoʊn/ | 鹅卵石（铺路块） | cobblestone street, cobblestone path | **The old street has cobblestones.** — 那条老街是鹅卵石路面。 |
+| **marble** /ˈmɑːrbəl/ | 大理石 | marble floor, marble countertop | **The lobby floor is marble.** — 大厅地面是大理石的。 |
+| **granite** /ˈɡrænɪt/ | 花岗岩 | granite countertop, granite tile | **Our kitchen counter is granite.** — 我们家厨房台面是花岗岩的。 |
+| **slate** /sleɪt/ | 板岩；石板 | slate tile, slate roof | **These dark tiles are slate.** — 这些深色地砖是板岩的。 |
+| **sandstone** /ˈsændstoʊn/ | 砂岩 | sandstone wall, sandstone steps | **The garden steps are sandstone.** — 花园台阶是砂岩的。 |
+| **limestone** /ˈlaɪmstoʊn/ | 石灰石 | limestone cliff, limestone rock | **White cliffs are often limestone.** — 白色崖壁常常是石灰石。 |
+| **quartz** /kwɔːrts/ | 石英 | quartz crystal, white quartz stone | **This shiny white stone is quartz.** — 这块亮晶晶的白石头是石英。 |
 
 > **stone** vs **rock**：亲子口语两者常混用；户外提醒脚下、山壁大块用 **rock** 更自然，桌上小石头、铺路石用 **stone** 也常见。**pebble** 强调「小、圆、光滑」；**gravel** 是很多小碎粒铺成的路，不是一颗一颗捡的那种。
 
@@ -101,16 +101,16 @@ aliases:
 
 | Material | 中文 | 常见搭配 | 例句（English + 简中） |
 | --- | --- | --- | --- |
-| **leather** | 皮质；皮革（泛指） | leather belt, leather shoes, leather sofa | **Dad's belt is made of leather.** — 爸爸的皮带是皮质的。 |
-| **genuine leather / real leather** | 真皮 | genuine leather wallet, real leather bag | **Is this real leather or fake?** — 这是真皮还是仿的？ |
-| **cowhide / cow leather** | 牛皮 | cowhide belt, cow leather sofa | **Grandpa's chair is cow leather.** — 爷爷的椅子是牛皮的。 |
-| **faux leather / synthetic leather** | 仿皮；人造皮 | faux leather jacket, synthetic leather bag | **It looks like leather, but it's synthetic.** — 看着像皮，其实是人造的。 |
+| **leather** /ˈleðər/ | 皮质；皮革（泛指） | leather belt, leather shoes, leather sofa | **Dad's belt is made of leather.** — 爸爸的皮带是皮质的。 |
+| **genuine** /ˈdʒenjuɪn/ **leather / real leather** | 真皮 | genuine leather wallet, real leather bag | **Is this real leather or fake?** — 这是真皮还是仿的？ |
+| **cowhide** /ˈkaʊhaɪd/ **/ cow leather** | 牛皮 | cowhide belt, cow leather sofa | **Grandpa's chair is cow leather.** — 爷爷的椅子是牛皮的。 |
+| **faux** /foʊ/ **leather / synthetic** /sɪnˈθetɪk/ **leather** | 仿皮；人造皮 | faux leather jacket, synthetic leather bag | **It looks like leather, but it's synthetic.** — 看着像皮，其实是人造的。 |
 | **PU leather** | PU 皮（聚氨酯仿皮，常可擦） | PU leather chair, PU leather desk mat | **The dining chairs are PU leather—easy to wipe.** — 餐椅是 PU 皮，好擦。 |
-| **plush (fabric)** | 毛绒（短绒布面料） | plush toy, plush blanket, plush fabric | **The bear feels soft—it's made of plush.** — 小熊摸起来软，是毛绒面料的。 |
+| **plush** /plʌʃ/ **(fabric)** | 毛绒（短绒布面料） | plush toy, plush blanket, plush fabric | **The bear feels soft—it's made of plush.** — 小熊摸起来软，是毛绒面料的。 |
 | **stuffed animal / plush toy** | 毛绒玩具 | stuffed bear, plush dinosaur | **Put your stuffed animals on the shelf.** — 把毛绒玩具放到架子上。 |
-| **stuffing / fiber fill / polyester fill** | （玩具里）填充棉；聚酯纤维填充 | toy stuffing, polyester fiber fill | **Don't pull the stuffing out of your toy.** — 别把玩具里的填充棉掏出来。 |
-| **faux fur** | 人造毛；仿毛（长绒感，外套或玩具装饰） | faux fur trim, faux fur collar | **The coat has faux fur around the hood.** — 外套帽檐一圈是人造毛。 |
-| **velvet** | 丝绒（部分玩具耳朵、鼻子用） | velvet teddy ears | **The teddy's ears are velvet—extra soft.** — 泰迪熊耳朵是丝绒的，特别软。 |
+| **stuffing / fiber** /ˈfaɪbər/ **fill / polyester** /ˌpɑːliˈestər/ **fill** | （玩具里）填充棉；聚酯纤维填充 | toy stuffing, polyester fiber fill | **Don't pull the stuffing out of your toy.** — 别把玩具里的填充棉掏出来。 |
+| **faux fur** /foʊ fɜːr/ | 人造毛；仿毛（长绒感，外套或玩具装饰） | faux fur trim, faux fur collar | **The coat has faux fur around the hood.** — 外套帽檐一圈是人造毛。 |
+| **velvet** /ˈvelvɪt/ | 丝绒（部分玩具耳朵、鼻子用） | velvet teddy ears | **The teddy's ears are velvet—extra soft.** — 泰迪熊耳朵是丝绒的，特别软。 |
 
 > **fur**（动物身上的毛）≠ **plush / faux fur**（玩具、衣服用的布面毛感）。亲子口语说玩具材质，优先 **plush** 或 **stuffed animal**；说皮带、沙发，用 **leather** / **cow leather**。
 
@@ -120,14 +120,14 @@ aliases:
 
 | Shape | 中文 | 常见实物 | 例句（English + 简中） |
 | --- | --- | --- | --- |
-| **circle** | 圆形 | 硬币、盘子、车轮 | **The plate is a circle.** — 盘子是圆的。 |
-| **oval** | 椭圆形 | 鸡蛋、橄榄球（俯视） | **The mirror is an oval.** — 镜子是椭圆形的。 |
-| **square** | 正方形 | 便利贴、方格本一格 | **Each tile is a square.** — 每块地砖是正方形。 |
-| **rectangle** | 长方形 | 门、手机屏、书本封面 | **The door is a rectangle.** — 门是长方形的。 |
-| **triangle** | 三角形 | 三明治切角、路标 | **Cut it into triangles.** — 把它切成三角形。 |
+| **circle** /ˈsɜːrkəl/ | 圆形 | 硬币、盘子、车轮 | **The plate is a circle.** — 盘子是圆的。 |
+| **oval** /ˈoʊvəl/ | 椭圆形 | 鸡蛋、橄榄球（俯视） | **The mirror is an oval.** — 镜子是椭圆形的。 |
+| **square** /skwer/ | 正方形 | 便利贴、方格本一格 | **Each tile is a square.** — 每块地砖是正方形。 |
+| **rectangle** /ˈrektæŋɡəl/ | 长方形 | 门、手机屏、书本封面 | **The door is a rectangle.** — 门是长方形的。 |
+| **triangle** /ˈtraɪæŋɡəl/ | 三角形 | 三明治切角、路标 | **Cut it into triangles.** — 把它切成三角形。 |
 | **star** | 星形 | 贴纸、饼干模具 | **It's shaped like a star.** — 它是星星形状的。 |
 | **heart** | 心形 | 巧克力、发卡 | **A heart-shaped cookie** — 心形饼干 |
-| **diamond** | 菱形 | 扑克牌方块、风筝（常说 **kite shape**） | **The kite is a diamond shape.** — 风筝是菱形。 |
+| **diamond** /ˈdaɪəmənd/ | 菱形 | 扑克牌方块、风筝（常说 **kite shape**） | **The kite is a diamond shape.** — 风筝是菱形。 |
 
 > **round** = 圆的（形容词）；**circle** = 圆形（名词）。可说 *It's round.* 或 *It's a circle.*
 
@@ -137,12 +137,12 @@ aliases:
 
 | Shape | 中文 | 常见实物 | 例句（English + 简中） |
 | --- | --- | --- | --- |
-| **cube** | 正方体 | 骰子、部分积木 | **A dice is a cube.** — 骰子是正方体。 |
-| **box / rectangular prism** | 长方体 | 鞋盒、牛奶盒 | **The shoe box is a rectangular prism.** — 鞋盒是长方体。（亲子口语常说 **box shape**） |
-| **sphere** | 球体 | 皮球、地球仪 | **The ball is a sphere.** — 球是球体。（日常更常说 **ball** / **round**） |
-| **cylinder** | 圆柱体 | 易拉罐、卷纸筒 | **The can is a cylinder.** — 罐头是圆柱形。 |
-| **cone** | 圆锥体 | 甜筒冰淇淋、派对帽 | **Your ice cream cone is shaped like a cone.** — 甜筒是圆锥形。 |
-| **pyramid** | 金字塔形 / 四角锥 | 部分积木、埃及金字塔模型 | **Look—a pyramid shape!** — 看，金字塔形！ |
+| **cube** /kjuːb/ | 正方体 | 骰子、部分积木 | **A dice is a cube.** — 骰子是正方体。 |
+| **box / rectangular prism** /rekˈtæŋɡjələr ˈprɪzəm/ | 长方体 | 鞋盒、牛奶盒 | **The shoe box is a rectangular prism.** — 鞋盒是长方体。（亲子口语常说 **box shape**） |
+| **sphere** /sfɪr/ | 球体 | 皮球、地球仪 | **The ball is a sphere.** — 球是球体。（日常更常说 **ball** / **round**） |
+| **cylinder** /ˈsɪlɪndər/ | 圆柱体 | 易拉罐、卷纸筒 | **The can is a cylinder.** — 罐头是圆柱形。 |
+| **cone** /koʊn/ | 圆锥体 | 甜筒冰淇淋、派对帽 | **Your ice cream cone is shaped like a cone.** — 甜筒是圆锥形。 |
+| **pyramid** /ˈpɪrəmɪd/ | 金字塔形 / 四角锥 | 部分积木、埃及金字塔模型 | **Look—a pyramid shape!** — 看，金字塔形！ |
 
 ---
 

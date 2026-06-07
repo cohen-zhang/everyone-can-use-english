@@ -38,6 +38,7 @@ cssclasses:
 | --- | --- |
 | **图谱 / 反向链接** | 将本仓库或 `learning-notes/` 作为库根时，可用 `[[Peppa.Pig.S01E01.Muddy.Puddles]]` 等形式链到单集（文件名在库内唯一时最省事）。若有多套副本，请用**完整相对路径**链到本文件夹下的文件。 |
 | **亲子手记（与本页双向跳转）** | **[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则笔记（不多的 Peppa Pig 手记）]]**：该手记内已链回本说明页 **`[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 README]]`**，图谱与 outgoing / incoming backlinks 会互显；从手记仍可短链跳入各集 **`[[Peppa.Pig.S01ENN…]]`**。 |
+| **问句清单（按沟通意图分类）** | **[[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]**：从全 52 集台词精选高频可复用问句，按请求/许可、意愿/邀请、状态/确认、Wh- 探询等归类，每条标注来源集；与 **[[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单]]** 同文风、可对照复用。 |
 | **亲子词汇扩展（职业／扮装）** | **[[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]** 以 **[[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]** 为示例集；单集文末 **Related** 节与此页 **相向互链**。 |
 | **标签** | 本 README 已设 frontmatter `tags`；若你希望按集打标签，可在单集笔记顶部增加 YAML（示例见下节）。 |
 | **搜索** | 全文搜 `Episode vocabulary` 可列出所有含词表的集；搜 `本集无符合成人向收束标准` 可找到词表被脚本清空后的集。 |

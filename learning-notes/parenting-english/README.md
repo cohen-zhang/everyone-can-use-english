@@ -21,6 +21,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-bathing-daily-phrases.md|洗澡日常]] — 洗浴、洗护用语
 - [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子英文表达]] — 情绪词汇与问感受
 - [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases.md|梳妆打扮 — Girl Version]] — 梳头、仪容
+- [[learning-notes/parenting-english/daily-life/parenting-haircut-daily-phrases.md|理发 — Haircut (男生/女生)]] — 理发店、发型沟通、过程安抚
 - [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases.md|爱好 — 国内常见场景]] — 兴趣班、运动等
 - [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases.md|家电日常]] — 家电相关表达
 - [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases.md|亲子 Hiking 场景]] — 带娃徒步口语、边界提醒与鼓励句

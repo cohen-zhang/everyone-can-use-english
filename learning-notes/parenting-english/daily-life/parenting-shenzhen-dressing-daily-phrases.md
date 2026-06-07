@@ -18,6 +18,8 @@ tags:
 
 **相关：** **衣服分类分篮**（上装／下装／鞋帽等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#2-衣服--clothing|分类归类游戏 · 衣服]]（与此页相向互链）。
 
+**相关：** **理发**（出门去理发店、发型沟通、过程安抚）— [[learning-notes/parenting-english/daily-life/parenting-haircut-daily-phrases.md|理发 — Haircut (Boys & Girls)]]（与此页相向互链）。
+
 ---
 
 ## 1. 早上穿衣 — Getting Dressed in the Morning

@@ -133,3 +133,4 @@ tags:
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-questions.md|Can you 误用笔记]]
 - [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases.md|作业检查日常]]
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md|Jeff 演示风格指南]]
+- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（同款分类，取自动画台词）]]

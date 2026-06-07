@@ -13,6 +13,8 @@ tags:
 
 *口语里 **cell phone**（美式）、**mobile (phone)**（英式 / 国际场合）都常见；下文默认用 **phone**，需要区分时再写。`技术`*
 
+**相关：** 手势、解锁导航、开关机、接打电话、充电等**操作动词**速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#11-手机与平板操作--phone--tablet-gestures|动作动词总表 · §11 手机与平板操作]]（与此页相向互链）。
+
 ---
 
 ## 1. 拿放与注意 — Handle With Care
