@@ -96,18 +96,22 @@ tags:
 | **clap** |  | 拍手 | Clap your hands three times. — 拍三下手。 |
 | **snap** | /snæp/ | 弹指 | Snap your fingers. — 打个响指。 |
 | **point** |  | 指 | Point to the red block. — 指一指红色积木。 |
+| **touch** | /tʌtʃ/ | 触碰 | Touch it with one finger—is it soft? — 用一个手指碰一下，软吗？ |
 | **grab** / **hold** |  | 抓 / 握住 | Hold my hand. — 握住我的手。 |
 | **let go** |  | 松开 | Let go of the rope. — 松开绳子。 |
 | **swing**（arms） |  | 甩手臂 | Swing your arms like a windmill. — 像风车一样甩手臂。 |
 | **shake**（hands） |  | 摇手 | Shake your hands dry. — 把手甩干。 |
-| **pat** |  | 轻拍 | Pat the dog gently. — 轻轻拍拍小狗。 |
+| **pat** | /pæt/ | 轻拍 | Pat the dog gently. — 轻轻拍拍小狗。 |
+| **stroke** / **pet** | /stroʊk/ · /pɛt/ | 抚摸 | Stroke the cat's back slowly. Pet the bunny with gentle hands. — 慢慢抚摸猫的背。用温柔的手摸摸小兔子。 |
 | **rub** |  | 搓 / 揉 | Rub your hands together. — 两只手搓一搓。 |
 | **scratch** | /skrætʃ/ | 挠 | Don't scratch your mosquito bite. — 蚊子包别挠。 |
 | **pinch** | /pɪntʃ/ | 捏 | Pinch a little playdough. — 捏一点橡皮泥。 |
 | **squeeze** | /skwiːz/ | 挤 / 捏紧 | Squeeze the sponge. — 挤一挤海绵。 |
 | **high-five** |  | 击掌 | High-five! You did it. — 击掌！你做到了。 |
 
-**边界提醒：** **No hitting. Use gentle hands.** — 不可以打人，用温柔的小手。 · **Don't grab. Ask nicely.** — 别抢，好好说。
+**边界提醒：** **No hitting. Use gentle hands.** — 不可以打人，用温柔的小手。 · **Don't grab. Ask nicely.** — 别抢，好好说。 · **Ask before you touch people or pets.** — 碰别人或动物前先问一下。
+
+**touch · pat · stroke 怎么分：** **touch** = 碰一下、接触；**pat** = 轻拍（短、一下一下）；**stroke** / **pet** = 抚摸（手顺毛或皮肤慢慢滑过去）。例：*Touch the leaf.* 碰一下叶子 · *Pat my shoulder.* 拍拍肩 · *Stroke the cat.* 抚摸猫。
 
 ### 2.2 腿与脚 — Legs & feet
 
@@ -374,7 +378,7 @@ tags:
 
 | 英文动作 | IPA（美） | 中文 | 常用口令（English — 中文） |
 | --- | --- | --- | --- |
-| **touch** / **don't touch** |  | 触碰 / 不要碰 | You can touch this. Don't touch that. — 这个可以碰，那个不要碰。 |
+| **touch** / **don't touch** | /tʌtʃ/ | 触碰 / 不要碰（规则） | You can touch this. Don't touch that. — 这个可以碰，那个不要碰。（动作细节见 [[#2-手脚与肢体--hands-feet--body|§2.1 · touch / stroke / pet]]） |
 | **pass me …** |  | 递给我…… | Pass me the glue, please. — 请把胶水递给我。 |
 | **match** / **connect the pairs** |  | 连线配对 | Match the pictures and words. — 把图片和单词连线配对。 |
 | **flatten** / **squash** | /ˈflætn/ · /skwɑːʃ/ | 压扁 | Flatten the clay gently. — 轻轻把黏土压扁。 |

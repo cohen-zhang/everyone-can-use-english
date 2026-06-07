@@ -15,7 +15,7 @@ aliases:
 
 参考 Apple Health 情绪追踪分类，覆盖工作与夫妻生活场景的情绪表达。
 
-**相关（相向互链）：** 带娃日常简表达 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]（问感受、儿童高频形容词）。**情绪档位分篮**（Very Pleasant ↔ Very Unpleasant 等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]。
+**相关（相向互链）：** 带娃日常简表达 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]（问感受、儿童高频形容词）。**情绪档位分篮**（Very Pleasant ↔ Very Unpleasant 等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]。**Peppa S01 儿童剧简化表达** ↔ 成人档位对照 — [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]]（见该页 **Cross-reference** 节）。
 
 ---
 
