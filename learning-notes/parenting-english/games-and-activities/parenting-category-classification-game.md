@@ -151,6 +151,8 @@ aliases:
 
 **emoji 练分类：** [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜]]
 
+**Peppa S01 台词语料（按上表分篮，可跟读）：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]]
+
 ---
 
 <a id="subjects"></a><a id="5-学科与在校--school-subjects"></a>

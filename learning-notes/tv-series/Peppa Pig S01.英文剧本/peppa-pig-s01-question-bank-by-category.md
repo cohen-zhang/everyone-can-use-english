@@ -140,6 +140,7 @@ tags:
 
 ## 相关
 
+- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子（按分类）]]
 - [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
 - [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子英文问句分类清单（沟通意图）]]
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts|提问句 — Can you / Are you / Will you]]

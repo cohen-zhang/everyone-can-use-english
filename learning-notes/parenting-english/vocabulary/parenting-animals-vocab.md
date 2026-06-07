@@ -18,13 +18,13 @@ tags:
 - **猜谜提示列**：总表倒数第二列是**简单英文描述**（特征、类比、趣味场景），**故意不写单词本身**，家长可照读或改写给娃猜；每格为**完整短句**（*It is… / It has… / It lives…*），方便孩子跟读；句中**较难词**附美式音标（如 `comb` /kɑːm/）；非动物条（如 *grain、honey、aquarium*）列里会说明「不是动物」或提示词性。
 - **美国文化隐喻列**：总表最右列收录该动物在**美式英语**里常见的**习语、比喻、童谣或文化符号**（如 *silly goose*、*scapegoat*）；无常见说法的填 **—**。亲子场景优先**亲昵、可对孩子讲的**表达；粗俗或成人向俚语只在释义列提示，本列不展开。
 - **启蒙句式**：描述时尽量用**短句、重复结构**（例如 *It is big. It lives in Africa. It has a long nose.*），孩子听得懂、跟得上，就是在对话里做英语启蒙；本表后的释义与音标可作为你备课时的提示。
-- **分类与难度**：词表按场景分组（宠物、农场、鸟类、昆虫、两栖与爬行、海洋、野生哺乳、史前、神话、科技术语、周边词等），每一组内按 **⭐ 启蒙 → 📚 术语** 排序；**No.** 仍为 PDF 原始序号（缺 **116**），可与文末「笔记」逐条对照。
+- **分类与难度**：词表按场景分组（宠物、农场、鸟类、昆虫、两栖与爬行、海洋、野生哺乳、史前、神话、科技术语、周边词等），每一组内按 **⭐ 启蒙 → 📚 术语** 排序；**No.** 仍为 PDF 原始序号（**116** 已补为 `pig`），可与文末「笔记」逐条对照。
 
 **游戏实录（相向互链）：** [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log.md|动物猜猜猜游戏记录（Guess-Guess Animals）]] — 单场猜过的动物与示例描述，可对照本页「猜动物小游戏」玩法。**按类分篮**（宠物／农场／海洋等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#1-动物--animals|分类归类游戏 · 动物]]。**动物动作动词**（hop, bark, swim, fly 等）速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#4-动物动作--animal-actions|动作动词 — 分类总表 §4]]（与本页相向互链）。
 
 ---
 
-共 **176** 条（原表题称 175 词；序号 **1–175**，**116** 在 PDF 中缺号，未补行；另增 **canary、aquarium** 两行，无 PDF 序号）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
+共 **178** 条（原表题称 175 词；序号 **1–175**，**116** 已补 `pig`；另增 **canary、aquarium、flamingo** 三行，无 PDF 序号）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 | J   | Scientific group labels                                   | Sorting games (*mammal or reptile?*); **Homo** is Latin biology talk for older kids.              |
 | K   | Satellite words: parts, homes, food, verbs, non-creatures | *Has* vs *is*: nest, claw, honey, *hop*—not the animal’s species name.                            |
 
-**原表说明**：每条保留 **PDF 原始 No.**（1–175，缺 **116**），方便与文末「笔记」里的小标题 `### 49. cocoon` 等逐条对照。
+**原表说明**：每条保留 **PDF 原始 No.**（1–175，**116** 已补 `pig`），方便与文末「笔记」里的小标题 `### 49. cocoon` 等逐条对照。
 
 ---
 
@@ -112,6 +112,7 @@ tags:
 | ⭐ 启蒙  |  68 | `duck`    | 英:/dʌk/ 美:/dʌk/             | n. 鸭⼦；鸭⾁；（英）宝⻉⼉；[版]零分 vi. 闪避；没⼊⽔ 中              | It has webbed /webd/ feet. Yellow babies follow mom in a line. | `sitting duck` 活靶子；`like water off a duck's back` 毫不在意；*`ugly duckling`* 丑小鸭变天鹅 |
 | ⭐ 启蒙  |  84 | `horse`   | 英:/hɔːs/ 美:/hɔːrs/          | n. ⻢；骑兵；脚架；[俚]海洛因 vt. 使骑⻢；系⻢于；[⼝] 捉弄            | You can ride it. It runs fast. It is a cowboy’s /ˈkaʊbɔɪz/ best friend. | `hold your horses` 别急；`dark horse` 黑马；`horse around` 瞎闹 |
 | ⭐ 启蒙  |  85 | `goat`    | 英:/ɡəʊt/ 美:/ɡoʊt/           | n. ⼭⽺；替罪⽺（美俚）；⾊⻤（美俚）                            | It has a beard on its chin. It climbs rocks. It eats leaves and grass. | `scapegoat` 替罪羊；`get someone's goat` 惹毛某人 |
+| ⭐ 启蒙  | 116 | `pig`     | 英:/pɪɡ/ 美:/pɪɡ/             | n. 猪；猪肉；贪吃的人；难伺候的事（习语） vi. 贪婪地吃                  | It is a pink farm animal. It says oink /ɔɪŋk/. It has a curly tail and a flat nose. It loves mud. | `when pigs fly` 绝不可能；`pig out` 大吃大喝；**Peppa Pig** 文化符号 |
 | ⭐ 启蒙  |  87 | `sheep`   | 英:/ʃiːp/ 美:/ʃiːp/           | n. ⽺，绵⽺；胆⼩⻤                                     | It looks like a fluffy cloud on legs. It gives us wool /wʊl/ for sweaters. | `black sheep` 家族害群之马；`count sheep` 数羊助眠 |
 | ⭐⭐ 常见 |  28 | `bull`    | 英:/bʊl/ 美:/bʊl/             | n. 公⽜；看好股市者；粗壮如⽜的⼈；[俚]胡说⼋道；印玺 adj. 公⽜似的；雄性的；⼤型的 | It is the dad cow. It has strong horns /hɔːrnz/. A red cape /keɪp/ shows up in cartoons(bullfight). | `bull in a china shop` 笨手笨脚；`take the bull by the horns` 迎难而上；*`bull market`* 牛市 |
 | ⭐⭐ 常见 |  60 | `cattle`  | 英:/'kætl/ 美:/'kætl/         | n. [总称]⽜；家畜；牲畜（骂⼈的话）；⽆价值的⼈                      | It means many cows together. They live on a farm for milk or beef. | `herd mentality` 从众（牧群思维） |
@@ -144,6 +145,7 @@ tags:
 | ⭐ 启蒙   | 157 | `pigeon`  | 英:/'pɪdʒɪn/ 美:/'pɪdʒɪn/   | n. 鸽⼦                                    | It is a gray city bird. It bobbles its head when it walks. It eats crumbs. | `stool pigeon` 眼线、告密者（犯罪俚语） |
 | ⭐ 启蒙   | 158 | `eagle`   | 英:/'iːɡl/ 美:/'iːɡl/       | n. 鹰；鹰状标饰                                | It has huge sharp eyes. It is the national bird of the USA. It flies very high. | **bald eagle** 美国国鸟；`eagle eye` 目光锐利 |
 | ⭐ 启蒙   | 161 | `swan`    | 英:/swɒn/ 美:/swɑːn/        | n. 天鹅；天鹅星座 vi. 游荡，闲荡                     | It is an elegant white bird. It has a long neck and a curved beak /biːk/. You see it in a ballet /ˈbæleɪ/ story. | `swan song` 绝唱、谢幕之作；*`black swan`* 黑天鹅（突发巨变） |
+| ⭐ 启蒙   |   — | `flamingo` | 英:/fləˈmɪŋɡəʊ/ 美:/fləˈmɪŋɡoʊ/ | n. 火烈鸟                                  | It is a tall pink bird. It has long thin legs. It stands on one leg in shallow water. Its beak is bent. | 美式草坪 **plastic pink flamingo** 装饰；*`flamingo pose`* 单腿站立（瑜伽/拍照梗） |
 | ⭐⭐ 常见  |   1 | `seagull` | /'siːɡʌl/                 | n. 海鸥                                    | It lives by the sea. It flies over beaches and looks for food. | —（海边度假意象；*`seagull manager`* 管理俚语：瞎插手） |
 | ⭐⭐ 常见  |   2 | `swallow` | 英:/'swɒləʊ/ 美:/'swɑːloʊ/  | n. 燕⼦；吞咽；⼀次吞咽的量 v. 忍受；吞下；咽下；轻 信；不流露感情；收回 | Think BIRD: it is small and fast in the sky. (Also a verb: food goes down your throat /θroʊt/.) | 动词 *swallow* 吞下；*`one swallow doesn't make a summer`* 一例不足为凭 |
 | ⭐⭐ 常见  |   3 | `crow`    | 英:/krəʊ/ 美:/kroʊ/         | n. 乌鸦；啼叫；欢叫 v. 报晓；啼叫；欢叫；夸⼝；洋洋⾃ 得         | It is a black bird. It is very smart. Sometimes it steals shiny things. | `eat crow` 公开认错；`as the crow flies` 直线距离 |
