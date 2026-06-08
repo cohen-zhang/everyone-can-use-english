@@ -23,7 +23,22 @@ tags:
 - **Grab your towel and clean clothes.** — 拿好毛巾和干净衣服。  
 - **Take off your dirty clothes first.** — 先把脏衣服脱掉。  
 - **Put your dirty clothes in the hamper.** — 脏衣服放进洗衣篮。  
-- **Take out your bath toys.** — 把洗澡玩具拿出来。  
+
+### 孩子拖沓 / 家长催促
+
+- **Come on, Celine—bath time!** — 快点，Celine，该洗澡了！  
+- **Stop playing and head to the bathroom.** — 别玩了，去浴室。  
+- **I've asked you three times already.** — 我都叫你三遍了。  
+- **We're running late. Hurry up, please.** — 要来不及了，快点吧。  
+- **Put the toy down—we'll play after your bath.** — 玩具先放下，洗完澡再玩。  
+- **No more TV. Time to get cleaned up.** — 电视关啦，该洗澡了。  
+- **You can have five more minutes, then it's bath time.** — 再给你五分钟，然后必须洗澡。  
+- **Almost bedtime—we need to wash up first.** — 快睡觉了，得先洗干净。  
+- **I can hear you still playing in your room.** — 我听见你还在房间玩呢。  
+- **Last warning—bath starts now.** — 最后一次提醒，现在洗澡。  
+- **If you come now, you still get story time.** — 现在来洗，讲完故事照旧。  
+- **You're stalling again. Let's move.** — 又在磨蹭了，动起来。  
+- **Quick shower, then pajamas and bed.** — 快速冲一下，然后睡衣睡觉。  
 
 ### 调水温与放水
 

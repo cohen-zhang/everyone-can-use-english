@@ -16,7 +16,9 @@ tags:
 
 聚焦**中国城市**里最常见的：**家长骑电动两轮车后座（或踏板）送孩子上学 / 放学接回**，一路上的**口令、寒暄、停泊与谦让**。英文名里 **school run** 泛指「接送学的一段路」，不一定要开车。`亲子`
 
-**用词说明：** 普通话里「电瓶车」「电动车」「小电驴」多指这种**电动两轮**。英文里说 **electric bike / e‑bike / e‑scooter** 都可能被对方理解成不同车型；带娃场景里若怕歧义，优先用 **electric bike**，必要再加 **with a kid seat on the back**。**Moped（轻摩）** 常暗示排量、证照与城市规则都不同，本节默认**踏板/自行车的合规非机动车说法**，最终以当地法规与本车行驶证为准。**Helmet rule** — 头盔要求各地在变，表中只给出**英语口语**，不替你判断「要不要戴」「戴哪种合规」。`技术`
+**用词说明：** 普通话里「电瓶车」「电动车」「小电驴」多指这种**电动两轮**。英文里说 **electric bike / e‑bike / e‑scooter** 都可能被对方理解成不同车型；带娃场景里若怕歧义，优先用 **electric bike**，必要再加 **with a kid seat on the back**。本节默认**踏板/自行车的合规非机动车说法**。
+
+**Helmet rule** — 头盔要求各地在变，表中只给出**英语口语**。`技术`
 
 ---
 
@@ -45,7 +47,6 @@ tags:
 | English | 简中 | 备注 `亲子` |
 | --- | --- | --- |
 | **The tire looks a bit flat. We’d better pump it.** | 胎压有点瘪，最好先打气。 | **pump** 打气；便携气筒常叫 **mini pump** |
-| **The brake feels soft. Let’s fix it tonight.** | 刹车有点绵，今晚得修一下。 | 行前别夸大承诺，只描述现象即可 |
 | **Turn the key.** / **Turn on / power on the bike.** | 拧钥匙 / 通电开机 | 与家长内部口令统一 |
 | **Kick up the kickstand.** | 踢起撑脚准备走 | |
 | **Swing your leg over** | （大人）抬腿跨过座垫 | |
@@ -74,7 +75,6 @@ tags:
 | **Bump ahead—micro‑bend your knees.** | 前面有个坎，膝盖稍微弯一点点缓冲。（高级一点可少说） |
 | **Red light. Hold still.** | 红灯，坐下别乱动。 |
 | **Green—we’re crossing. Look both ways with me.** | 绿灯过街，跟妈妈/爸爸一起看看左右。（示范左右看） |
-| **Car turning—watch the wheels.** | 有车转弯，看准车轮怎么走。（「内轮差」不必讲术语，指路感） |
 
 ---
 
@@ -84,8 +84,6 @@ tags:
 | --- | --- | --- |
 | **We’ll pull over here—no blocking the sidewalk.** | 靠边停这儿，别把人行道堵死。 | |
 | **Let’s hop off safely—curb side first.** | 先安全下车—靠人行道那侧下来。 | 若单侧上下习惯固定，反复强调 |
-| **Line up quietly. Teachers are greeting everyone.** | 安静排队；老师在门口问好。 | |
-| **Don’t squeeze through the bikes—wait for space.** | 别从缝里硬挤电动车，等空隙。 | |
 | **We’re parked in the bicycle area / scooter zone—not in the roadway.** | 停在非机动车划线区—别占道中间。 | 各地划线叫法不一，泛指 *parking lanes* |
 
 | **It’s raining—hold the hood / hold your bag against your chest.** | 下雨了兜好帽檐 / 把书包挡在胸前挡风。（短句保命） |
