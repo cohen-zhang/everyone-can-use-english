@@ -181,7 +181,6 @@ learning-notes/
 | `andy-warhol-notes.md` | 安迪沃霍尔主题笔记 |
 | `community-management-english.md` | 小区生活与物业沟通英语 |
 | `emotions-adult-edition.md` | 成人情绪表达 |
-| `fitness-daily-expressions.md` | 健身场景日常表达 |
 | `focus-notes.md` | 专注/注意力主题笔记 |
 | `introduce-myself.md` | 自我介绍表达 |
 | `personal-matters.md` | 个人事务表达 |
@@ -190,6 +189,15 @@ learning-notes/
 | `romantic-expressions.md` | 浪漫表达 |
 | `weather-daily-expressions.md` | 天气场景表达 |
 | `world-cinema-quick-notes.md` | 世界电影随记 |
+
+**`mind-body-brain-health/`（身心健康与脑科学）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `README.md` | 身心健康与脑科学索引（运动、营养、快乐激素） |
+| `fitness-daily-expressions.md` | 健身场景日常表达 |
+| `nutrition-weight-management-basics.md` | 饮食与体重管理基础 |
+| `brain-happy-hormones.md` | 大脑快乐激素（多巴胺、血清素等） |
 
 **`work/`（工作）**
 
@@ -214,7 +222,15 @@ learning-notes/
 | `idea-editor-intro-video-script.md` | IDEA 编辑器介绍视频脚本 |
 | `java-developer-work-diary.md` | Java 开发者工作日记 |
 | `spring-framework-notes.md` | Spring Framework 学习笔记 |
-| `stock-and-commodity-broker-notes.md` | 股票与商品经纪主题笔记 |
+
+**`investing/`（投资英语场景）**
+
+| 文件 | 中文说明 |
+| --- | --- |
+| `README.md` | 投资英语场景索引（个人投资者视角） |
+| `stock-trading-investor-essentials.md` | 股票交易 — 投资者必备词汇与例句 |
+| `crypto-exchange-app-scenarios.md` | 加密货币 — 交易所 APP 常用场景 |
+| `stock-and-commodity-broker-notes.md` | 证券与商品经纪访谈实录 |
 
 **`hedging-platform-bos-overview-design/`（专题技术文档）**
 

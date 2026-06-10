@@ -502,4 +502,18 @@ HashSet 使用 **hashCode()** 方法确定元素的桶，并使用 **equals()** 
 - [Baeldung: Guide to Java Collections](https://www.baeldung.com/java-collections)
 - Related: **`Generics`**, **`Streams`**, **`Comparable` vs `Comparator`** — 相关：`泛型`、`流`、`Comparable` 与 `Comparator`
 
+---
+
+## Runnable demos — 可运行图式（awesome-java-demo）
+
+**Bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]
+
+| Topic | Demo class | Run (repo root) |
+|-------|------------|-----------------|
+| fail-fast / ArrayList | `collection.ArrayListFailFastExample` | `mvn -pl java-base -q compile` · `java -cp java-base/target/classes collection.ArrayListFailFastExample` |
+| String intern | `string.StringInternExample` | `java -cp java-base/target/classes string.StringInternExample` |
+| HashMap basics | `HashMapTest` | `java -cp java-base/target/classes HashMapTest` |
+
+**English README:** https://github.com/zhangze2/awesome-demo/blob/master/java-base/README.en.md
+
 **Tags**: `技术`, `Java`, `集合`, `数据结构`, `算法`

@@ -258,4 +258,17 @@ CompletableFuture.supplyAsync(() -> longRunningTask())
 - [Guide to CompletableFuture in Baeldung](https://www.baeldung.com/java-completable-future)
 - Related: **`Future`**, **`ExecutorService`**, **`Stream` API** — 相关：`Future`、`ExecutorService`、`Stream` API
 
+---
+
+## Runnable demos — 可运行图式（awesome-java-demo）
+
+**Bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]
+
+| Topic | Demo class | Run (repo root) |
+|-------|------------|-----------------|
+| CompletableFuture chain | `concurrency.juc.executor.CompletableFutureExample` | `mvn -pl concurrency -q compile` · `java -cp concurrency/target/classes concurrency.juc.executor.CompletableFutureExample` |
+| JUC menu | `concurrency.juc.JUCDemoRunner` | `mvn -pl concurrency -q compile exec:java` |
+
+**English README:** https://github.com/zhangze2/awesome-demo/blob/master/concurrency/README.en.md
+
 **Tags**: `技术`, `Java`, `异步编程`, `并发`

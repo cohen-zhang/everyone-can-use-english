@@ -12,7 +12,7 @@ aliases:
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（相向互链）：**
-- [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]]（看 Health / Sleep 相关表达）
+- [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions.md|健身日常]]（看 Health / Sleep 相关表达）
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]]（看 Weather 应用词汇与句子）
 
 这篇给 **阿泽（泽哥）** 做日常口语输入：按 iPhone 常用 APP 分组，整理 **重点单词** + **介绍句子**。  

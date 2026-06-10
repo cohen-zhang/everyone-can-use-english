@@ -30,7 +30,6 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
-- [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]] — 健身场景（见 [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] 理论页）
 - [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
@@ -46,6 +45,7 @@ cssclasses:
 
 **亲子玩法：** 各房间物品可按「分篮归类」练 — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]。
 
+- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合.md|各房间场景短文（生活 / 工作 / 学习 · 约 2 分钟/篇）]] — 汇总 8 个房间跟读短文，与下列词表相向互链
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/living-room-common-items-en.md|客厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/dining-room-common-items-en.md|餐厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kitchen-common-items-en.md|厨房常见物品]]
@@ -58,9 +58,23 @@ cssclasses:
 
 ---
 
-## fitness — 健身（理论与营养）
+## mind-body-brain-health — 身心健康与脑科学
 
-- [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] — 宏量营养素、餐盘占比、进食顺序、自主性
+**子索引：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 身体健康（运动、营养）、心理健康、脑健康（神经递质、脑科学）
+
+- [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions.md|健身日常]] — 公园器材、跑步、力量训练、晒太阳
+- [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics.md|饮食与体重管理基础]] — 宏量营养素、餐盘占比、进食顺序、自主性
+- [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]] — 多巴胺 / 血清素 / 催产素 / 内啡肽与日常做法（英 + 简中）
+
+---
+
+## investing — 投资英语场景
+
+**子索引：** [[learning-notes/personal-english-book/investing/README|投资英语场景索引]] — 个人投资者实操口语；与 work/ 金融从业词表分工
+
+- [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] — 账户、下单、盘口、盈亏、行情、风控（英 + 简中）
+- [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、闪兑、P2P、合约、理财
+- [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] — 证券从业者口语实录
 
 ---
 
@@ -88,10 +102,12 @@ cssclasses:
 - [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference.md|音标工程师速查]]
 - [[learning-notes/personal-english-book/study/vocabulary-tricky-pronunciation-149.md|易读错词汇 149]]
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting.md|有趣计科词汇]]
+- [[learning-notes/personal-english-book/study/java-collections-framework.md|Java Collections Framework]]
+- [[learning-notes/personal-english-book/study/completablefuture-java-guide.md|CompletableFuture 指南]]
+- [[learning-notes/personal-english-book/study/awesome-java-demo-bridge.md|awesome-java-demo 可运行图式桥接]]
 - [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]]
 - [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]
 - [[learning-notes/personal-english-book/study/spring-framework-notes.md|Spring 笔记]]
-- [[learning-notes/personal-english-book/study/stock-and-commodity-broker-notes.md|证券商品经纪笔记]]
 - [[learning-notes/personal-english-book/study/english-journal-apple-note.md|英文学习日志]]
 - [[learning-notes/personal-english-book/study/idea-editor-intro-video-script.md|IDEA 介绍脚本]]
 
@@ -121,7 +137,9 @@ cssclasses:
 - **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗]]。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
-- **健身理论 ↔ 健身场景：** [[learning-notes/personal-english-book/fitness/nutrition-weight-management-basics.md|饮食与体重管理基础]] ↔ [[learning-notes/personal-english-book/life/fitness-daily-expressions.md|健身日常]]。
+- **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
+- **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
+- **投资者必备 ↔ 经纪访谈 ↔ 金融词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]]。
 
 ---
 

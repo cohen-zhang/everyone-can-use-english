@@ -16,18 +16,20 @@ aliases:
 - **核心结构**: Name → Family → Education → Work Experience → Hobbies → Future Hopes/Dreams
 - **学习目标**: 掌握简单清晰的自我介绍格式，便于日后实际使用
 
+> **隐私说明：** 下文学校、公司、项目名已替换为通用表述，便于对外分享练习稿。
+
 ---
 
 ## 1) 基本介绍 Basic Introduction
 
-> **Hi, my name is Mark, Mark Chang and I'm from China.**
-> 你好，我叫 Mark，Mark Chang，来自中国。
+> **Hi, my name is Zege. I'm from China.**
+> 你好，我叫阿泽（Zege），来自中国。
 
-> **I and my family live in Shenzhen. It's a great city and I love it here. I'm having a great time.**
-> 我和家人住在深圳。这是座很棒的城市，我很喜欢这里，过得很愉快。
+> **My family and I live in a major city in southern China. It's a great place and I love it here. I'm having a great time.**
+> 我和家人住在南方一座大城市。这里很棒，我很喜欢，过得很愉快。
 
-> **I am a software development engineer. I'm also a father—I have a two-year-old daughter.**
-> 我是一名软件开发工程师，也是一位父亲，有一个两岁的女儿。
+> **I am a software development engineer. I'm also a father—I have a two-year-old daughter, Celine.**
+> 我是一名软件开发工程师，也是一位父亲，有一个两岁的女儿 Celine。
 
 > **She is a very cute girl. She is my angel, my sweet, and my sunshine.**
 > 她是一个非常可爱的女孩。她是我的天使、我的甜心、我的阳光。
@@ -36,20 +38,20 @@ aliases:
 
 ## 2) 教育背景与工作经验 Education & Work Background
 
-> **I went to the University of Shaoyang and I graduated in 2013.**
-> 我就读于邵阳学院，2013 年毕业。
+> **I went to a provincial university and I graduated in 2013.**
+> 我就读于一所省属大学，2013 年毕业。
 
 > **My major was Computer Science and Technology.**
 > 我的专业是计算机科学与技术。
 
-> **In 2012, I joined Guangzhou LianYi Technology Co., Ltd. through campus recruitment.**
-> 2012 年，我通过校招加入了广州联奕科技有限公司。
+> **In 2012, I joined a tech company in southern China through campus recruitment.**
+> 2012 年，我通过校招加入了一家南方科技公司（Company A）。
 
-> **Since then, I have been doing software development work for 3 years in Guangzhou.**
-> 从那时起，我在广州做了 3 年软件开发工作。
+> **Since then, I spent about three years doing software development work there.**
+> 从那时起，我在那里做了大约三年软件开发工作。
 
-> **In this job, I mainly engaged in developing University Human Resources Management System.**
-> 在这份工作中，我主要负责开发高校人力资源管理系统。
+> **In that job, I mainly worked on an HR management system for higher education (Project X).**
+> 在那份工作中，我主要负责开发一套高校人力资源管理系统（Project X）。
 
 > **I participated in all the procedures including needs analysis, prototype designing, database designing, coding and case presenting.**
 > 我参与了全流程，包括需求分析、原型设计、数据库设计、编码和案例演示。

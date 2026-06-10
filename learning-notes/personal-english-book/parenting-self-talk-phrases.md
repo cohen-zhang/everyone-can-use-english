@@ -26,6 +26,8 @@ aliases:
 
 ## 脑科学研究支持 Neuroscience Evidence
 
+**相关（扩展）：** [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]] — 多巴胺、血清素、催产素、内啡肽的日常做法（与本节神经可塑性、皮质醇对照）。
+
 **1. 神经可塑性 (Neuroplasticity)**  
 重复的自我对话能重塑大脑神经回路。The brain's neural pathways strengthen with repetition—what you repeat, you believe.
 

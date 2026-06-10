@@ -513,3 +513,17 @@ grep "bug" myfile.txt
 ---
 
 *Happy Coding! 🚀*
+
+---
+
+## Runnable demos — awesome-java-demo
+
+**Bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]
+
+| Term in this page | Demo (GitHub) |
+|-------------------|---------------|
+| socket, port | `io.demo.network.SocketEchoExample` |
+| thread | `concurrency.juc.lock.ReentrantLockExample` |
+| pipe / stream | `io.demo.byteflow.StreamCopyExample` |
+
+**Vocabulary hub:** https://github.com/zhangze2/awesome-demo/blob/master/docs/english/vocab-java-core.md（各模块见 `VOCAB.md`）

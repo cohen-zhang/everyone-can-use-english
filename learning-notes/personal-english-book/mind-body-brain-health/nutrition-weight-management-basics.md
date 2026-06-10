@@ -2,17 +2,18 @@
 tags:
   - personal-english-book
   - english-learning
-  - peb/fitness
+  - peb/mind-body-brain-health
 aliases:
   - 饮食健身健康基础理论
   - Nutrition basics
 ---
 # Nutrition & Weight Management — Basics
 
-**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**索引：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（扩展）：**
-- [[learning-notes/personal-english-book/life/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、Health 应用等场景句
+- [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、Health 应用等场景句
+- [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]] — 健康饮食与血清素相关做法
 - [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（1 分钟练习）]] — 运动后补水叙事
 
 **本文以可朗读的英文为主**，每条下面用 **—** 给出简中意思；表格放在后半部分作查阅。**泽哥**想理清「吃什么、怎么吃、怎么长期管住体重」时，可以直接念英文句。
