@@ -11,6 +11,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**场景短文（约 2 分钟跟读）：** [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#7-主卧--master-bedroom|整合 · 主卧篇]]（与此页相向互链）
+
 ## 本页在做什么
 
 面向深圳商品房 **夫妻主卧 + 套内卫生间**：先按 **区域** 列常用英文词，再在每区内用 **场景**（就寝、更衣、学习、办公、**书架取阅与窗边垫上拉伸**、洗漱淋浴等）串介绍句；配 **IPA（英 / 美）** 与简中对照。**学习 / 办公区** 单列 **升降桌（电动 sit-stand）、`Wi‑Fi` 短文句、书桌全家福 `picture frame` 等**，**书架区** 单列取书、辞典与 **瑜伽垫、毛毯打坐冥想** 场景。**独立书房**（推拉门、双屏、文件柜、会议勿扰等）见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/study-room-common-items-en|书房常见物品]]。**坐垫、加湿器、电热蚊香液、落地扇、床头 HomePod** 归入对应分区。更细的卫生间通用品可对照同目录 `bathroom-common-items-en.md`。不含门牌与隐私细节。

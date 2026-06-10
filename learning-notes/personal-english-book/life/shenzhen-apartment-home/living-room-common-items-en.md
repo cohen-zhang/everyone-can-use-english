@@ -11,6 +11,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**场景短文（约 2 分钟跟读）：** [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#1-客厅--living-room|整合 · 客厅篇]]（与此页相向互链）
+
 ## 本页在做什么
 
 面向**深圳典型商品房**里以休息、视听、会客为主的**客厅区**：按 **玄关 → 坐具茶几 → 视听 → 温控 → 照明 → 窗帘地面 → 玩具／零食（含待客 **抽纸／餐巾**）／健身角 → 墙面陈设 → 清洁与全屋设备** 顺序列常用英文词，配 **IPA（英 / 美）** 与介绍句。**餐厅桌椅与灯具**见同目录 [`dining-room-common-items-en.md`](dining-room-common-items-en.md)。文末附 **纸本常用短句**（练嘴）；便于自述家居、带娃指认（**不多 / Celine**）、或与物业／家政沟通。不含门牌、楼盘名等隐私。

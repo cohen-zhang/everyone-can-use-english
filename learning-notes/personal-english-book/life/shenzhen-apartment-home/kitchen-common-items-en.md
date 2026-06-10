@@ -12,6 +12,7 @@ aliases:
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（相向互链）：**
+- **场景短文** — [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#3-厨房--kitchen|整合 · 厨房篇]]（约 2 分钟跟读）
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e03-eating-breakfast-notes.md|Jeff E03 早餐]]
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e08-dinner-and-washing-up-notes.md|Jeff E08 晚餐与收拾]]
 

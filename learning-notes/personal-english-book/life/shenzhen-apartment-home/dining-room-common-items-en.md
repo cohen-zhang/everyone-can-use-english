@@ -11,6 +11,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**场景短文（约 2 分钟跟读）：** [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#4-餐厅--dining-area|整合 · 餐厅篇]]（与此页相向互链）
+
 ## 本页在做什么
 
 面向**深圳典型商品房**里「餐客一体」或**独立餐厅**：餐桌、餐椅、餐边收纳与桌面摆设的英文词，配 **IPA（英 / 美）** 和简短**介绍句**；文末补充**准备就餐 → 就餐互动 → 餐后收拾**整句练习。与客厅词汇互补；自述户型、请客摆桌或选购家具时用得上。不含门牌与隐私。客厅休闲区用语见同目录 [living-room-common-items-en.md](living-room-common-items-en.md)。

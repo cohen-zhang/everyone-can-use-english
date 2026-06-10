@@ -11,7 +11,7 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** 主卧套间里「床边升降桌」见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en#4-学习--办公区升降桌study--wfh-zone|主卧 · 学习／办公区]]；儿童房书桌文具见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en#5-学习与桌面--study-zone|儿童房 · 学习桌面]]；职场设备口语见 [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro 工作伙伴（Java）]]。
+**相关：** **场景短文** — [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#2-书房--study-room|整合 · 书房篇]]（约 2 分钟跟读）。主卧套间里「床边升降桌」见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en#4-学习--办公区升降桌study--wfh-zone|主卧 · 学习／办公区]]；儿童房书桌文具见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en#5-学习与桌面--study-zone|儿童房 · 学习桌面]]；职场设备口语见 [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro 工作伙伴（Java）]]。
 
 ## 本页在做什么
 
