@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 面部表情与头部动作动词（smile, wink, nod, blow 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#3-头面与表情--face-head--expressions|动作动词 — 分类总表 §3]]（与本页相向互链）。情绪形容词与问感受见 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]。
+**相关：** 面部表情与头部动作动词（smile, wink, nod, blow 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#3-头面与表情--face-head--expressions|动作动词 — 分类总表 §3]]（与本页相向互链）。情绪形容词与问感受见 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 — 亲子英文表达]]。手游 **蛋仔派对** 里复用本节 **Your turn! / You win!** 等口令 — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases#3-局内常用句--in-game-phrases|蛋仔派对 · 局内常用句]]（与本页相向互链）。
 
 > 亲子互动表情词汇表 | Parent-Child Emoji Vocabulary
 > 按「面部 → 手势 → 爱心 → 物品 → 动物」分类，便于对照学习

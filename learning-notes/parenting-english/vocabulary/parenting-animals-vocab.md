@@ -24,7 +24,7 @@ tags:
 
 ---
 
-共 **178** 条（原表题称 175 词；序号 **1–175**，**116** 已补 `pig`；另增 **canary、aquarium、flamingo** 三行，无 PDF 序号）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
+共 **179** 条（原表题称 175 词；序号 **1–175**，**116** 已补 `pig`；另增 **canary、aquarium、flamingo、scorpion** 四行，无 PDF 序号）。音标自 PDF 整理，`ǝ` 已统一为 IPA **ə**；`clownfish` 原表无音标，已按词典补全。
 
 ---
 
@@ -162,7 +162,7 @@ tags:
 *户外观察、数腿、区分「蜘蛛不是昆虫」；部分会蜇人要会避险词汇。*
 
 - **Category (English):** Insects, spiders & many-legged crawlers — **six legs** vs **eight legs**, plus worms and casual **bug** talk.
-- **Guide (English):** Outdoors, count legs and body parts; link **caterpillar → cocoon → butterfly/moth**. For bees, wasps, and hornets, use calm safety English (*stay back, don’t touch, tell a grown-up*) while naming stripes and nest places.
+- **Guide (English):** Outdoors, count legs and body parts; link **caterpillar → cocoon → butterfly/moth**. Pair **spider** with **scorpion** (both eight legs, not insects). For bees, wasps, hornets, and scorpions, use calm safety English (*stay back, don’t touch, tell a grown-up*) while naming stripes, nests, or curled tails.
 
 | 难度 | No. | Word | IPA（英 / 美） | 释义 | 猜谜提示（简单英文 · 家长念给孩子猜） | 美国文化隐喻 · 习语 / 比喻（US idiom & metaphor） |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -171,6 +171,7 @@ tags:
 | ⭐ 启蒙 | 48 | `butterfly` | 英:/'bʌtəflaɪ/ 美:/'bʌtərflaɪ/ | n. 蝴蝶 蝶式游泳 游⼿好闲的⼈, 轻浮的⼈ | It has colorful wings. It used to be a caterpillar /ˈkætərpɪlər/. It flutters by flowers. | `social butterfly` 社交达人；*`butterflies in your stomach`* 紧张心慌 |
 | ⭐ 启蒙 | 147 | `ladybird` | 英:/'leɪdibɜːd/ 美:/'leɪdibɜːrd/ | n. 瓢⾍ | It is a UK word for a little red bug with black spots. Americans say ladybug /ˈleɪdibʌɡ/. | —（美式常说 *ladybug*，*`ladybug, ladybug, fly away home`* 童谣） |
 | ⭐⭐ 常见 | 30 | `spider` | 英:/'spaɪdə(r)/ 美:/'spaɪdər/ | n. 蜘蛛；设圈套者；三脚架 | It has eight legs. It makes webs. It is not an insect /ˈɪnsekt/. | *`spider sense`*（蜘蛛侠文化）；*`Charlotte's Web`* 美国童书经典 |
+| ⭐⭐⭐ 进阶 | — | `scorpion` | 英:/ˈskɔːpiən/ 美:/ˈskɔːrpiən/ | n. 蝎子 | It has eight legs like a spider. Its tail curls up with a stinger /ˈstɪŋər/. It lives in hot dry places. Stay back—tell a grown-up. | —（星座 **Scorpio** /ˈskɔːrpioʊ/；沙漠/动物园常见） |
 | ⭐⭐ 常见 | 42 | `caterpillar` | 英:/'kætəpɪlə(r)/ 美:/'kætərpɪlər/ | n. ⽑⾍ 履带 | It is a baby butterfly. It has many legs. It eats leaves, then makes a cocoon /kəˈkuːn/. | 蜕变隐喻（*`caterpillar to butterfly`*） |
 | ⭐⭐ 常见 | 43 | `moth` | 英:/mɒθ/美:/mɔːθ/ | n. 蛾；蛀⾍ | It is like a butterfly but it comes out at night. It flies toward lights. | `like a moth to a flame` 飞蛾扑火 |
 | ⭐⭐ 常见 | 44 | `wasp` | 英:/wɒsp/ 美:/wɑːsp/ | n. ⻩蜂；胡蜂；易怒的⼈ vi. ⻩蜂似的直扑 | It has a thin waist. It is yellow and black. Be careful—it can sting /stɪŋ/. | —（*`WASP`* = White Anglo-Saxon Protestant，社会学术语） |

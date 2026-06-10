@@ -65,6 +65,7 @@ aliases:
 - [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game.md|广义对举词游戏]] — 不止反义词（诗词对举、问答对、进出与新旧等）
 - [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game.md|分类归类游戏]] — 动物/衣服/房间/情绪/学科/电商/词类/句子成分等主题分篮与详表入口
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md|Peppa Pig 手记]] — 佩奇 + 外链剧本
+- [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases.md|蛋仔派对]] — 手游闯关亲子句
 
 ---
 

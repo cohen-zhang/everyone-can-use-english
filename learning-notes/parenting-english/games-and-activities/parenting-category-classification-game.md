@@ -19,6 +19,7 @@ aliases:
 - **反义词 / 男女 / 老少** — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（含 **boy ↔ girl**、**rooster ↔ hen** 等；与此页相向互链）
 - **成对词（不只反义）** — [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]
 - **猜动物** — [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|动物单词]] ↔ [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|动物猜猜猜记录]]
+- **手游蛋仔派对** — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对 — Eggy Party]]（平板游戏、屏幕时间；与此页相向互链）
 
 ---
 
@@ -640,7 +641,7 @@ aliases:
 | **Food & grocery** | 食品饮料 | rice, noodles, snacks, juice, milk | **Rice and soy sauce—food & grocery.** — 米和酱油—食品饮料。 | [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab\|中国常见食物]] · [§6](#6-食物--food) |
 | **Fresh food & produce** | 生鲜 | vegetables, fruit, meat, eggs, frozen dumplings | **Strawberries—fresh produce.** — 草莓—生鲜。 | 中国常见食物 |
 | **Baby & maternity** | 母婴 | diapers, baby wipes, formula, stroller | **Diapers—baby & maternity.** — 纸尿裤—母婴。（娃大了可只听力输入。） | 母婴拓展 |
-| **Toys & games** | 玩具乐器／玩具文娱 | blocks, doll, puzzle, board game, LEGO | **Your LEGO—toys & games!** — 你的乐高—玩具类！ | 儿童房 · 游戏目录 |
+| **Toys & games** | 玩具乐器／玩具文娱 | blocks, doll, puzzle, board game, LEGO, **Eggy Party** (tablet) | **Your LEGO—toys & games!** — 你的乐高—玩具类！ | 儿童房 · [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases\|蛋仔派对]] |
 | **Sports & outdoors** | 运动户外 | ball, jump rope, tent, swim goggles, yoga mat | **Jump rope—sports & outdoors.** — 跳绳—运动户外。 | [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice\|运动练习]] |
 | **Books, media & education** | 图书文娱／教育 | picture book, workbook, stickers, CDs | **Your storybook—books & media.** — 绘本—图书文娱。 | 作业检查 · 在校 |
 | **Health & wellness** | 医药保健／营养保健 | vitamins, band-aids, thermometer, mask | **Band-aid—health & wellness.** — 创可贴—医药保健。 | 洗澡 · 身体 [§16](#16-身体与健康--body--health) |

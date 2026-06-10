@@ -11,6 +11,8 @@ tags:
 
 面向**国内城市亲子日常**：用英语聊「喜欢做什么、上什么兴趣班、周末玩什么」，涵盖中国家庭里**常见但不说教**的表达。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 
+**相关：** 平板手游 **蛋仔派对（Eggy Party）** 的开玩、过关、组队与屏幕时间句 — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对 — Eggy Party]]（与此页相向互链）。
+
 ---
 
 ## 本页在做什么
@@ -192,6 +194,7 @@ tags:
 - **Watching shows is fun, but it isn’t really a hobby unless we make something afterward.** — 看片开心，但若不动手做点什么就很难算真正意义上的爱好。（引导讨论）  
 - **How about twenty minutes of a show, then twenty minutes drawing?** — 看二十分钟，再画二十分钟？  
 - **No hobby on the tablet during meals.** — 吃饭时间平板上不培养「爱好」。`亲子`
+- **Eggy Party counts as screen time—timer first, then play.** — 蛋仔派对也算屏幕时间—先定闹钟再开玩。（详句见 [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对场景]]。）`亲子`
 
 ---
 
