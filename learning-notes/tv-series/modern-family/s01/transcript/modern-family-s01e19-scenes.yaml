@@ -1,0 +1,181 @@
+# Scene markers for modern-family-s01e19-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E19
+episode_arc: Phil 生日 / iPad 与棋盘
+timeline_note: 多线平行（排队、监控串线、象棋、自卫术、惊喜派对）
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家 · 片头
+    summary: 足球冷开；Phil 盼 iPad 生日
+  - scenes: "03–05"
+    place: Jay 家
+    summary: 拼字；紫檀棋；Jay 教曼尼下棋
+  - scenes: "06–07"
+    place: Mitch & Cam 家
+    summary: 婴儿监控串线；克莱尔排队买 iPad
+  - scenes: "08–10"
+    place: Jay 家 / 监控剧情
+    summary: 象棋再战；Jake & Debbie 狗血
+  - scenes: "11–13"
+    place: 邓菲家
+    summary: 生日早餐；烫伤；克莱尔没买到 iPad
+  - scenes: "14–16"
+    place: Jay 家 / 邓菲家
+    summary: Mitch 学自卫；全家找 iPad
+  - scenes: "17–19"
+    place: 公园野餐区 / 派对
+    summary: 惊喜派对；干预 Jake 出轨
+  - scenes: "20–22"
+    place: Jay 家 / 排队 / 邻居
+    summary: 柔术；曼尼骗表；救婚姻
+  - scenes: "23–24"
+    place: 邓菲家 · 收尾
+    summary: 低预期独白；Luke 骗来 iPad
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 片头冷开
+    plot: Luke 讲 Sam Riley 踢球眼珠弹出；Phil 盼 iPad 生日。
+    characters: Phil, Luke, Haley
+    timeline: 生日前夜
+    anchor: Today Sam Riley kicked a soccer ball...
+  - id: "02"
+    place: 邓菲家 · 卧室
+    plot: Phil 要早起排队；克莱尔主动替排；Fun Zone 童年故事。
+    characters: Phil, Claire
+    timeline: 生日前夜
+    anchor: Never mind. - Well, gotta hit the sack. Big Saturday tomorrow.
+  - id: "03"
+    place: Jay 家 · 拼字
+    plot: Gloria 帮 Manny 拼 believe；准备 Phil 生日礼物。
+    characters: Gloria, Manny, Jay
+    timeline: 同日夜晚
+    anchor: B-E-L-I-E-V-E. Believe.
+  - id: "04"
+    place: Jay 家 · 礼物
+    plot: Jay 送紫檀象棋；要教 Manny「正经」下法。
+    characters: Jay, Gloria, Manny
+    timeline: 同日夜晚
+    anchor: Wait until you see what I got Phil for his birthday.
+  - id: "05"
+    place: Jay 家 · 棋局
+    plot: Gloria 旁白：曼尼棋艺高，Jay 输棋脾气差。
+    characters: Jay, Manny, Gloria
+    timeline: 同日夜晚
+    anchor: Manny's an excellent player, but Jay is a grumpy loser.
+  - id: "06"
+    place: Mitch & Cam 家 · 婴儿房
+    plot: 监控串线以为有入侵；Cam「走起」冲进去是误报。
+    characters: Mitchell, Cameron
+    timeline: 深夜
+    anchor: Cam! - Leave me alone.
+  - id: "07"
+    place: 苹果店外 · 清晨（旁白）
+    plot: 克莱尔 5 点排队；Phil 的 lame 烧烤夹礼物。
+    characters: Claire
+    timeline: 生日当天清晨
+    anchor: Light-up barbecue tongs.
+  - id: "08"
+    place: Jay 家 · 象棋再战
+    plot: Jay 再约棋；下载儿童教程；赌 Jay 的手表。
+    characters: Jay, Manny
+    timeline: 生日当天
+    anchor: Hey, buddy.
+  - id: "09"
+    place: Mitch & Cam 家 · 监控剧
+    plot: Jake 谎称加班；Debbie 要离婚；Mitch 昨晚吓呆。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: You will not believe what's going on
+  - id: "10"
+    place: Mitch & Cam 家
+    plot: Mitch 自责不是保护型爸爸；Cam 觉得他生气时可爱。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: I-I'm s- Cam, I froze last night.
+  - id: "11"
+    place: 邓菲家 · 生日早晨
+    plot: 孩子气球惊喜；法式华夫蛋糕；Phil 被烫伤。
+    characters: Phil, Haley, Alex, Luke
+    timeline: 生日早晨
+    anchor: Think he's coming.
+  - id: "12"
+    place: 邓菲家
+    plot: 克莱尔坦白没买到 iPad；Phil 去「重视生日的地方」。
+    characters: Phil, Claire
+    timeline: 生日上午
+    anchor: I didn't get you the iPad.
+  - id: "13"
+    place: Jay 家门口
+    plot: Manny 来还工具带；Mitch 借故学自卫术。
+    characters: Mitchell, Jay
+    timeline: 下午
+    anchor: I'll get that.
+  - id: "14"
+    place: Jay 家 · 车库顶
+    plot: Jay 教拳；Mitch 跳不够高；Alex 被拦。
+    characters: Jay, Mitchell, Alex
+    timeline: 下午
+    anchor: Right now? - Yeah.
+  - id: "15"
+    place: 邓菲家
+    plot: 克莱尔动员孩子全网找 iPad；Luke 吸氢气被识破。
+    characters: Claire, Haley, Alex, Luke
+    timeline: 下午
+    anchor: Listen, guys, I need your help.
+  - id: "16"
+    place: 公园 · 野餐区广播
+    plot: 广播 Phil 生日派对；Phil 发现克莱尔办惊喜。
+    characters: Phil, 陌生人
+    timeline: 下午
+    anchor: Attention. If you're here for Phil's birthday party,
+  - id: "17"
+    place: 公园 · 惊喜派对
+    plot: 全家朋友庆生；冰激凌蛋糕。
+    characters: Phil, 全家, 朋友
+    timeline: 派对开始
+    anchor: Howdy-do!
+  - id: "18"
+    place: 派对 / 监控线
+    plot: 听到 Jake 出轨电话；决定帮 Jake & Debbie。
+    characters: Mitchell, Cameron, Lily
+    timeline: 派对中
+    anchor: Hello?
+  - id: "19"
+    place: Jay 家 · 柔术
+    plot: Jay 教巴西柔术；曼尼骗走 Jay 手表。
+    characters: Jay, Mitchell, Gloria
+    timeline: 派对前后
+    anchor: Okay, Mitchell, I'm gonna teach you
+  - id: "20"
+    place: 苹果店 / Jay 家
+    plot: 海莉报 Grove 有货；Gloria 揭穿曼尼骗棋。
+    characters: Claire, Haley, Jay, Gloria, Manny
+    timeline: 并行
+    anchor: Haley, I just struck out again.
+  - id: "21"
+    place: 邓菲家 / 邻居
+    plot: Luke 偷吃蛋糕；Mitch 向邮差打听 Jake 地址。
+    characters: Claire, Luke, Mitchell
+    timeline: 下午
+    anchor: Sir! Sir! Sir, hi. Excuse me.
+  - id: "22"
+    place: 苹果店排队
+    plot: Claire 插队纠纷；Mitch 锁喉；三人被赶出队。
+    characters: Claire, Mitchell, 插队者
+    timeline: 傍晚
+    anchor: Calm down, gingerbread.
+  - id: "23"
+    place: 邓菲家 · 派对后段
+    plot: Phil 低预期独白；蛋糕落地；披萨未到。
+    characters: Phil, Luke, Cam
+    timeline: 派对后段
+    anchor: Key to a good birthday? Low expectations.
+  - id: "24"
+    place: 邓菲家 · 收尾
+    plot: 象棋决战克莱尔放水；Luke 谎报 Phil 垂死骗来 iPad。
+    characters: Phil, Claire, Jay, Luke, 全家
+    timeline: 生日夜 tag
+    anchor: Hey, did you get it? - No.

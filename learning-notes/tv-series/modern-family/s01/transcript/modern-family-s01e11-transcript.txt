@@ -2,6 +2,31 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E11 
+
+## 场景分段索引（S01E11 · 哈维尔来访 / 菲尔肾结石）
+
+字幕正文按镜头插入 `【场景 xx / 30】`；邓菲家与 Jay 家平行剪辑；片尾呼应片头「大人样」。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 | 片头吐槽父母；水鼬鼠；菲尔背伤 |
+| 04–07 | Jay 家 | 红花餐厅计划；哈维尔带龙虾；杰不满 |
+| 08 | Mitch & Cam 家 | 费伯睡眠法；疤面煞星 |
+| 09–10 | 邓菲家 | 肾结石发作；全家慌乱 |
+| 11–12 | Jay 家 · 台球室 | 杰与哈维尔深夜谈心 |
+| 13–16 | 邓菲家 | 住院前；茶几真相；消防员；克莱尔换装 |
+| 17–19 | Jay 家 | 杰与哈维尔棒球；摩托夜；科学作业 |
+| 20 | Mitch & Cam 家 | 费伯法争吵升级 |
+| 21–24 | 医院 / Jay 家 | 探病；克莱尔换装；摩托早晨；哈维尔离开 |
+| 25–27 | Mitch & Cam / Jay 家 / 邓菲家 | 费伯法再战；哈维尔爽约；菲尔回家 |
+| 28–29 | 邓菲家 / Mitch & Cam | 愧疚筹码；好坏警察分工 |
+| 30 | 尾声 | 海莉问「大人样」；纸牌魔术 |
+
+----------------------
+【场景 01 / 30】邓菲家 · 片头（孩子卧谈）
+★ 剧情：兄妹吐槽父母常说的话；回嘴、古龙水、大人样。
+★ 人物：Haley, Alex, Luke
+★ 时间线：当晚（片头）
 ----------------------
 - What's the most irritating thing my parents say to me?
  父母对我说过最气人的话? 
@@ -33,6 +58,12 @@ S01E11
 - What does "Act more like an adult" even mean?
  什么叫有点大人样  大人该是什么样 
 
+----------------------
+【场景 02 / 30】邓菲家 · 后院
+★ 剧情：菲尔与卢克玩水鼬鼠；卢克湿身；窗玻璃溅水。
+★ 人物：Phil, Luke, Haley, Alex
+★ 时间线：片头同日
+----------------------
 - Look at you, you're soaked! That is so lame.
  看看你  都湿透了  逊死了 
 
@@ -63,6 +94,12 @@ S01E11
 -  He totally did. - Dork!
  绝对是真的  -傻蛋 
 
+----------------------
+【场景 03 / 30】邓菲家 · 卧室/客厅
+★ 剧情：菲尔背抽筋；要打 911；消防员梗。
+★ 人物：Phil, Claire, kids
+★ 时间线：片头同日
+----------------------
 - Is there a reason why my window's wet?
  为什么我的窗子都湿了 
 
@@ -108,6 +145,12 @@ S01E11
 - Coming.
  来了 
 
+----------------------
+【场景 04 / 30】Jay 家 · 客厅
+★ 剧情：曼尼暗恋老师；杰订了 Benihana 惊喜。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：哈维尔到访前
+----------------------
 - Manny, it's inappropriate because it's your teacher.
  曼尼  她是你老师所以不合适 
 
@@ -129,6 +172,12 @@ S01E11
 - They got a chef there that can flip a shrimp into his own hat.
  那有个厨师可以把虾翻进自己的帽子里 
 
+----------------------
+【场景 05 / 30】Jay 家 · 门口
+★ 剧情：哈维尔突然出现；打断晚餐计划。
+★ 人物：Jay, Gloria, Javier, Manny
+★ 时间线：当晚
+----------------------
 - What the hell?
  搞什么鬼 
 
@@ -189,6 +238,12 @@ S01E11
 - What, you think I show up empty-handed?
  你以为我空手来的 
 
+----------------------
+【场景 06 / 30】Jay 家 · 厨房/客厅
+★ 剧情：哈维尔带龙虾、送曼尼手机；要跳舞过夜。
+★ 人物：Javier, Jay, Gloria, Manny
+★ 时间线：当晚
+----------------------
 - I brought dinner- lobsters!
  我带晚餐了  龙虾 
 
@@ -270,6 +325,12 @@ S01E11
 - and I got a stolen boat in my driveway.
  车位上还停了艘偷来的船 
 
+----------------------
+【场景 07 / 30】Jay 家 · 客厅
+★ 剧情：杰抱怨哈维尔；歌洛莉亚讲哥伦比亚人；只住一晚。
+★ 人物：Jay, Gloria
+★ 时间线：当晚
+----------------------
 - If it was for me, he'd be out of my life.
  如果是为我  早将他踹得一干二净了 
 
@@ -303,6 +364,12 @@ S01E11
 - Wait, what?
  等等  什么 
 
+----------------------
+【场景 08 / 30】Mitch & Cam 家 · 卧室
+★ 剧情：卡姆破坏费伯训练；给莉莉看疤面煞星。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：平行线 · 深夜
+----------------------
 - Don't be mad. I just got up to change her.
  别生气  我只是起来帮她换个尿布 
 
@@ -369,6 +436,12 @@ S01E11
 - It's so cute. They get so heavy.
  都快睁不开了  真可爱 
 
+----------------------
+【场景 09 / 30】邓菲家 · 卧室
+★ 剧情：克莱尔误判癌症；实为肾结石剧痛。
+★ 人物：Phil, Claire, kids
+★ 时间线：深夜
+----------------------
 - Oh, that's bad.
  好疼 
 
@@ -405,6 +478,12 @@ S01E11
 - and a piece of gravel from the driveway and see how she likes it.
  再从车道上捡颗石子  看她觉得滋味如何 
 
+----------------------
+【场景 10 / 30】邓菲家 · 客厅
+★ 剧情：全家围聚；决定送医；菲尔「外星人」自嘲。
+★ 人物：Phil, Claire, Haley, Alex, Luke
+★ 时间线：深夜
+----------------------
 - Why is everybody yelling?
  大家在吵什么 
 
@@ -459,6 +538,12 @@ S01E11
 - All systems down. All systems down.
  系统全面衰竭  系统全面衰竭 
 
+----------------------
+【场景 11 / 30】Jay 家 · 台球室
+★ 剧情：杰听见哈维尔玩台球；下楼对峙。
+★ 人物：Jay, Javier
+★ 时间线：平行剪辑 · 深夜
+----------------------
 -  Son of a bitch. - What's the matter?
  混蛋  -怎么了 
 
@@ -480,6 +565,12 @@ S01E11
 - You can't hear that from here!
  这么远你怎么听得见 
 
+----------------------
+【场景 12 / 30】Jay 家 · 台球室
+★ 剧情：杰与哈维尔谈缺席曼尼；「used to be」。
+★ 人物：Jay, Javier
+★ 时间线：平行剪辑 · 深夜
+----------------------
 - Hey, there.
  嘿  老弟 
 
@@ -576,6 +667,12 @@ S01E11
 - Because of you.
  因为你 
 
+----------------------
+【场景 13 / 30】邓菲家 · 客厅
+★ 剧情：卡姆赶到；菲尔与子女告别；卢克坦白打碎茶几。
+★ 人物：Phil, Claire, kids, Cameron
+★ 时间线：送医前
+----------------------
 - Cam!
  小卡 
 
@@ -654,6 +751,12 @@ S01E11
 - Luke broke the
  卢克打碎了 
 
+----------------------
+【场景 14 / 30】邓菲家 · 门口
+★ 剧情：克莱尔换装；菲尔嫉妒消防员；夫妻斗嘴。
+★ 人物：Phil, Claire
+★ 时间线：消防员到达前
+----------------------
 - Hey, you changed your clothes.
  你换衣服了 
 
@@ -702,6 +805,12 @@ S01E11
 -  He meant me! - All right.
  他是说我  -好吧 
 
+----------------------
+【场景 15 / 30】Jay 家 · 台球室
+★ 剧情：卡姆加入；杰与哈维尔谈曼尼需要两个父亲。
+★ 人物：Jay, Javier, Cameron, Manny
+★ 时间线：平行 · 深夜
+----------------------
 - Cameron!
  卡梅隆 
 
@@ -810,6 +919,12 @@ S01E11
 - I have a better idea for the three of us. Vamos.
  我有个更好的主意  走 
 
+----------------------
+【场景 16 / 30】Jay 家 / 户外
+★ 剧情：三人外出打球；曲线球；曼尼做科学作业。
+★ 人物：Jay, Javier, Manny
+★ 时间线：通宵
+----------------------
 - So, how do you know this guy? 
  你怎么认识那家伙的 
 
@@ -822,6 +937,12 @@ S01E11
 - Now, let's see about that curve ball.
  我们来试试曲线球 
 
+----------------------
+【场景 17 / 30】Mitch & Cam 家 · 卧室
+★ 剧情：枕头人形；费伯法再吵；「女孩子那样丧命」回调。
+★ 人物：Mitchell, Cameron
+★ 时间线：黎明前
+----------------------
 -  Out. - I thought you were
  出去  -我还以为你在床上 
 
@@ -867,6 +988,12 @@ S01E11
 - Because that's how girls end up dead.
  因为女孩子就是那样丧命的 
 
+----------------------
+【场景 18 / 30】医院 · 候诊/病房
+★ 剧情：亲友探病；菲尔提消防员换装；术前镇静。
+★ 人物：Phil, Claire, Cameron, kids
+★ 时间线：手术日
+----------------------
 -  Hey, honey. - Hey, guys.
  亲爱的  -大伙儿都来啦 
 
@@ -906,6 +1033,12 @@ S01E11
 -  You put on heels? - Let's drop it.
  你还穿高跟  -话题结束 
 
+----------------------
+【场景 19 / 30】医院 · 病房
+★ 剧情：菲尔与子女谈手术；蜘蛛网/Ouija 板往事。
+★ 人物：Phil, Luke, Haley, Alex
+★ 时间线：手术日
+----------------------
 - What are they doing to you, Dad?
  他们要对你做什么啊老爸 
 
@@ -951,6 +1084,12 @@ S01E11
 -  Love you. - Luke, buddy, hold back a sec.
  爱你  -卢克  老弟  等会儿 
 
+----------------------
+【场景 20 / 30】医院 · 病房
+★ 剧情：菲尔交代 PIN；「别黑嘴」；克莱尔安抚。
+★ 人物：Phil, Luke, Claire
+★ 时间线：手术日
+----------------------
 - This is not gonna happen, okay,
  我不会死的  好吗 
 
@@ -975,6 +1114,12 @@ S01E11
 - Why don't you wait out in the hall. He'll be fine, okay?
  去外面等我吧  他会没事的  好吗 
 
+----------------------
+【场景 21 / 30】医院 · 病房
+★ 剧情：克莱尔送孩子上学；菲尔追问是否打扮；克莱尔承认。
+★ 人物：Phil, Claire
+★ 时间线：手术日
+----------------------
 - Honey, I'm just gonna run them to school.
  亲爱的  我得赶紧送他们上学 
 
@@ -1008,6 +1153,12 @@ S01E11
 -  I knew it. - Oh, damn it!
  我就知道  -该死 
 
+----------------------
+【场景 22 / 30】Jay 家 · 清晨
+★ 剧情：曼尼迟到；杰通宵打球；歌洛莉亚质问。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：次日早晨
+----------------------
 - Manny, we're gonna be late for school.
  曼尼  上学要迟到了啊 
 
@@ -1089,6 +1240,12 @@ S01E11
 - Wait a minute.
  等一下 
 
+----------------------
+【场景 23 / 30】Jay 家 · 门口
+★ 剧情：哈维尔要走；杰送摩托；歌洛莉亚拦曼尼。
+★ 人物：Jay, Gloria, Javier, Manny
+★ 时间线：次日早晨
+----------------------
 -  You're not leaving, are you? - I've got school.
  你们该不是要走了吧  -我得去上学 
 
@@ -1104,6 +1261,12 @@ S01E11
 -  He told her? - He's weak.
  他招了吗  -他弱爆了 
 
+----------------------
+【场景 24 / 30】户外 · 摩托车
+★ 剧情：杰带曼尼骑车；歌洛莉亚放话不再管。
+★ 人物：Jay, Manny, Gloria
+★ 时间线：次日早晨
+----------------------
 - Well, listen, you said you used to like riding motorcycles, right?
  听着  你说你曾经喜欢骑摩托车  对吧   
 
@@ -1146,6 +1309,12 @@ S01E11
 - So I don't know what the hell I'm talking about! Manny!
  我也不知道自己在说神马  曼尼 
 
+----------------------
+【场景 25 / 30】Mitch & Cam 家
+★ 剧情：卡姆午休擅归；费伯法与浣熊梗争吵。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - You didn't need to come home during nap time.
  你没必要在她午睡时回来的 
 
@@ -1251,6 +1420,12 @@ S01E11
 - so I'm not gonna take that away from you.
  我怎么能驾车归西  让你愿望落空呢 
 
+----------------------
+【场景 26 / 30】Jay 家 · 客厅
+★ 剧情：哈维尔又爽约；杰被拉去酒吧见球友。
+★ 人物：Jay, Gloria
+★ 时间线：傍晚
+----------------------
 - Hey, did Javier call you?
  那个  哈维尔打给你了没 
 
@@ -1311,6 +1486,12 @@ S01E11
 - Geez, it's almost 6:00.
  天呐  眨眼就6点了 
 
+----------------------
+【场景 27 / 30】邓菲家
+★ 剧情：菲尔出院回家；夫妻谈消防员事件道歉。
+★ 人物：Phil, Claire
+★ 时间线：菲尔回家后
+----------------------
 - The kids are so excited for you to come home.
  孩子们都盼着你回家呢 
 
@@ -1362,6 +1543,12 @@ S01E11
 - I was already fine with it.
  我早就想开了 
 
+----------------------
+【场景 28 / 30】邓菲家 · 旁白
+★ 剧情：菲尔「愧疚金牌」独白；邻居魔术打断巴黎梦。
+★ 人物：Phil
+★ 时间线：同日
+----------------------
 - Here's the deal: Claire messed up.
  哥在下一盘很大的棋  克莱尔搞砸了 
 
@@ -1440,6 +1627,12 @@ S01E11
 - You're fine.
  你没事的 
 
+----------------------
+【场景 29 / 30】Mitch & Cam 家
+★ 剧情：卡姆脚伤；好坏警察分工；伴走红毯。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 -  How's your ankle? - It's cold.
  脚踝还疼吗  -拔凉的 
 
@@ -1512,6 +1705,12 @@ S01E11
 - Yeah, you call, and I'm gonna change my shirt.
  快打电话  我换件衣服去 
 
+----------------------
+【场景 30 / 30】邓菲家 · 片尾
+★ 剧情：海莉问该学哪种大人；全家各怀鬼胎；纸牌魔术。
+★ 人物：Haley, Phil, family
+★ 时间线：片尾 tag
+----------------------
 - So, if I'm supposed to act like an adult,
  那么  如果要我有点大人样 
 
@@ -1583,4 +1782,3 @@ S01E11
 
 - Are you kidding me?
  拿我当猴耍呢 
-

@@ -2,6 +2,27 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E03 
+
+## 场景分段索引（S01E03 · 遥控飞机 / 菲尔与杰的「铁哥们」）
+
+字幕正文按镜头插入 `【场景 xx / 24】`；邓菲家、Jay 家、Costco 三线平行；片尾 Jay 向 Phil 示好。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 · 客厅 | 棒球冷开场；迪兰上门；垒包恋爱隐喻 |
+| 04–05 | Jay 家 / 邓菲家 | 模型飞机；曼尼赴卢克家；艾丽克斯拒穿裙 |
+| 06–07 | Costco / 旁白 | 好市多采买；米奇「势利」回溯 |
+| 08–09 | 邓菲家 | 帝国桌游；克莱尔逼海莉打招呼 |
+| 10–13 | Jay 家 / 商场 | 菲尔旁白；杰教迪兰；艾丽克斯跟歌洛莉亚逛街 |
+| 14–17 | 后院 / Costco / 餐厅 | 穿针引线；母女争执；棺材尿布；闺蜜谈心 |
+| 18–20 | 邓菲家 | 购物归来；克莱尔让步；菲尔坠机回家 |
+| 21–24 | 邓菲家 · 收尾 | 杰克莱尔对峙；Jay 道歉；全家拥抱；片尾 tag |
+
+----------------------
+【场景 01 / 24】邓菲家 · 客厅（冷开场）
+★ 剧情：电视棒球赛；菲尔拖延倒垃圾。
+★ 人物：Phil, Claire
+★ 时间线：当日午后
 ----------------------
 - Riley Morton coming up now.
  赖利·莫顿上场 
@@ -27,6 +48,12 @@ S01E03
 -  Dylan. - Hey, Mrs. Dunphy.
  迪兰  -你好  邓菲太太 
 
+----------------------
+【场景 02 / 24】邓菲家 · 门厅
+★ 剧情：迪兰候海莉；菲尔邀其看球。
+★ 人物：Phil, Dylan
+★ 时间线：同日
+----------------------
 - Um, I'm just waiting for Haley.
  我在等海莉 
 
@@ -93,12 +120,24 @@ S01E03
 - which is just a terrible, terrible idea.
  我觉得这是个馊主意 
 
+----------------------
+【场景 03 / 24】邓菲家 · 客厅
+★ 剧情：菲尔用棒球垒包隐喻盘问迪兰与海莉。
+★ 人物：Phil, Dylan
+★ 时间线：同日
+----------------------
 - How are you and Haley doing?
  你跟海莉上到几垒了 
 
 - I wish I could stay home with you and fly toy airplanes.
  我真希望能跟你一起宅在家玩玩具飞机 
 
+----------------------
+【场景 04 / 24】Jay 家 · 客厅
+★ 剧情：杰教曼尼航模；非玩具飞机。
+★ 人物：Jay, Manny, Gloria
+★ 时间线：平行线
+----------------------
 - These aren't toy airplanes, Manny.
  这可不是玩具飞机  曼尼 
 
@@ -123,6 +162,12 @@ S01E03
 - You can fly toy planes with Jay next time.
  下次你再跟杰一起玩飞机 
 
+----------------------
+【场景 05 / 24】邓菲家 · 厨房
+★ 剧情：曼尼被派去陪卢克；艾丽克斯拒穿婚礼裙。
+★ 人物：Gloria, Manny, Claire, Alex, Luke
+★ 时间线：同日
+----------------------
 -  Today you have to spend time with Luke. - Why?
  今天你得跟卢克待在一起  -为啥啊 
 
@@ -180,6 +225,12 @@ S01E03
 - or flying little planes from a safe distance.
  或是离得远远地玩小飞机都一样 
 
+----------------------
+【场景 06 / 24】Costco 停车场
+★ 剧情：米奇卡姆突拐好市多买尿布。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：平行线
+----------------------
 - Wait, wait, wait. What are you doing?
  等等  这是要去哪儿 
 
@@ -198,6 +249,12 @@ S01E03
 - Since then.
  就从那时起 
 
+----------------------
+【场景 07 / 24】Costco · 旁白闪回
+★ 剧情：卡姆述说米奇「势利」与相识经过。
+★ 人物：Mitchell, Cameron
+★ 时间线：闪回 + 当日
+----------------------
 - Mitchell is a snob.
  米奇尔是个势利小人 
 
@@ -285,6 +342,12 @@ S01E03
 - That's
  就是... 
 
+----------------------
+【场景 08 / 24】邓菲家 · 客厅/后院
+★ 剧情：曼尼带帝国桌游；卢克光屁股。
+★ 人物：Manny, Luke, Claire
+★ 时间线：同日
+----------------------
 - Manny brought his favorite game to play with Luke.
  曼尼把他最喜欢的桌游带来跟卢克一起玩 
 
@@ -306,6 +369,12 @@ S01E03
 - Okay. What about this?
  你看  这样如何 
 
+----------------------
+【场景 09 / 24】邓菲家 · 门口
+★ 剧情：克莱尔逼海莉穿裙；无视歌洛莉亚曼尼。
+★ 人物：Claire, Haley, Gloria, Manny
+★ 时间线：同日
+----------------------
 - You don't even say "Hello" To Gloria and Manny?
  你都不跟歌洛莉亚和曼尼打招呼的吗 
 
@@ -345,6 +414,12 @@ S01E03
 - Pants! Come on!
  拜托  快穿裤子 
 
+----------------------
+【场景 10 / 24】邓菲家 · 旁白
+★ 剧情：菲尔自述与杰「铁哥们」及银背猩猩隐喻。
+★ 人物：Phil
+★ 时间线：同日
+----------------------
 - Jay and I are buds, for sure
  我跟杰真是铁哥们儿  真的 
 
@@ -366,6 +441,12 @@ S01E03
 - but basically we're-we're buds.
  但基本上我们绝对是铁哥们儿 
 
+----------------------
+【场景 11 / 24】Jay 家 · 车道/后院
+★ 剧情：杰让迪兰扶机翼；开始航模教学。
+★ 人物：Jay, Dylan, Phil
+★ 时间线：同日
+----------------------
 - Do you have to just stand there?
  你非得在那傻站着吗 
 
@@ -387,6 +468,12 @@ S01E03
 - Not too hard.
  不要太用力 
 
+----------------------
+【场景 12 / 24】商场 / 邓菲家
+★ 剧情：歌洛莉亚邀艾丽克斯逛街；克莱尔意外。
+★ 人物：Gloria, Alex, Claire
+★ 时间线：同日午后
+----------------------
 - Alex, why don't you come shopping with me?
  艾丽克斯  何不跟我购物去呢 
 
@@ -708,6 +795,12 @@ S01E03
 -  I remember this one summer- - I'll tell you what.
  我还记得有年夏天  -我跟你说 
 
+----------------------
+【场景 13 / 24】Jay 家 · 后院
+★ 剧情：杰示范「穿针引线」；把迪兰支到远处。
+★ 人物：Jay, Dylan, Phil
+★ 时间线：同日
+----------------------
 - There's another trick called "Threading the needle."
  我还会个绝招  叫"穿针引线" 
 
@@ -774,6 +867,12 @@ S01E03
 - I want to make sure nothing's broken.
  我先检查一下飞机有没有坏 
 
+----------------------
+【场景 14 / 24】邓菲家 · 厨房
+★ 剧情：克莱尔与艾丽克斯关于裙子争执升级。
+★ 人物：Claire, Alex, Gloria
+★ 时间线：同日
+----------------------
 - Alex and I can't just disagree.
  我跟艾丽克斯不止是意见不能统一 
 
@@ -828,6 +927,12 @@ S01E03
 - You got it.
  那我给你带了啊 
 
+----------------------
+【场景 15 / 24】Costco
+★ 剧情：发现棺材与尿布；囤货计划。
+★ 人物：Mitchell, Cameron
+★ 时间线：平行线
+----------------------
 - Mitchell, I found the diapers. They're over here.
  米奇尔  我找到尿布在哪了  就在那 
 
@@ -912,6 +1017,12 @@ S01E03
 - I-I misjudged him.
  我对他的第一印象完全不靠谱 
 
+----------------------
+【场景 16 / 24】Costco · 旁白
+★ 剧情：卡姆自比 Costco；米奇自比卡萨布兰卡小店。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - Yeah, I'm sort of like Costco.
  没错  我就跟好市多卖场一样 
 
@@ -930,6 +1041,12 @@ S01E03
 - Casablanca.
  卡萨布兰卡 
 
+----------------------
+【场景 17 / 24】餐厅 · 闺蜜谈心
+★ 剧情：艾丽克斯盘问歌洛莉亚纹身与情史；为何不穿裙。
+★ 人物：Gloria, Alex
+★ 时间线：购物午后
+----------------------
 - I have a small flower on my ankle...
  我脚脖子上纹了朵小花 
 
@@ -1038,6 +1155,12 @@ S01E03
 - They didn't understand
  她们都不明白... 
 
+----------------------
+【场景 18 / 24】邓菲家 · 归来
+★ 剧情：歌洛莉亚艾丽克斯购物归来；卢克曼尼相处。
+★ 人物：Gloria, Alex, Claire, Manny, Luke
+★ 时间线：傍晚
+----------------------
 -  Hola! We're back. - Hello.
  我们回来了哟  -好啊 
 
@@ -1050,6 +1173,12 @@ S01E03
 - We had a great time.
  我们姐弟俩谈得很开心 
 
+----------------------
+【场景 19 / 24】邓菲家 · 客厅
+★ 剧情：克莱尔同意艾丽克斯不穿裙；艾丽克斯却买了裙子。
+★ 人物：Claire, Alex
+★ 时间线：傍晚
+----------------------
 - Alex, I've been thinking, and...
  艾丽克斯  我想过了 
 
@@ -1071,6 +1200,12 @@ S01E03
 - Claire!
  克莱尔 
 
+----------------------
+【场景 20 / 24】邓菲家 · 门口/客厅
+★ 剧情：菲尔被航模撞脸送回家；全家混乱。
+★ 人物：Phil, Jay, Claire, Gloria, Alex
+★ 时间线：傍晚
+----------------------
 - Clear the way. Coming through. Ow!
  让开道  进来 
 
@@ -1158,6 +1293,12 @@ S01E03
 - Wasn't my fault.
  不是我的错 
 
+----------------------
+【场景 21 / 24】邓菲家 · 客厅
+★ 剧情：克莱尔揭穿杰故意撞菲尔；杰否认不喜欢菲尔。
+★ 人物：Claire, Jay, Gloria, Phil
+★ 时间线：傍晚
+----------------------
 - I have seen you thread the needle a million times.
  我见你玩过无数次"穿针引线"那一招 
 
@@ -1242,6 +1383,12 @@ S01E03
 - Bye, Dad.
  爸  请你离开 
 
+----------------------
+【场景 22 / 24】邓菲家 · 客厅
+★ 剧情：Jay 向 Phil 道歉并说「我喜欢你」。
+★ 人物：Jay, Phil, Claire
+★ 时间线：傍晚
+----------------------
 -  Hey, Phil. - Jay.
  菲尔  -杰 
 
@@ -1308,6 +1455,12 @@ S01E03
 -  Let it go. - No, it's not okay.
  别提了  -不行  我气不过 
 
+----------------------
+【场景 23 / 24】邓菲家 · 客厅
+★ 剧情：米奇逼 Jay 也抱卡姆；全家福。
+★ 人物：Mitchell, Cameron, Jay, Phil, Manny
+★ 时间线：片尾
+----------------------
 - No, Mitch is right. Go in there too, Cam. Come on.
  不  米奇说的对  小卡  你也去抱抱 
 
@@ -1392,9 +1545,14 @@ S01E03
 - I didn't want to mess with his head.
  我可不想让他对自己的性别产生困惑 
 
+----------------------
+【场景 24 / 24】片尾 · Jay 家旁白
+★ 剧情：歌洛莉亚曾把曼尼扮成女孩；双胞胎姐姐谎言。
+★ 人物：Gloria, Manny
+★ 时间线：片尾 tag
+----------------------
 - When he found the pictures,
  当他看到他小时候的照片 
 
 - I told him that it was his twin sister who died.
  我告诉他那是他已经死了的双胞胎姐姐 
-

@@ -2,6 +2,26 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E22 
+
+## 场景分段索引（S01E22 · Jay 生日夏威夷 · 机场混乱）
+
+字幕正文按镜头插入 `【场景 xx / 20】`；Gloria 惊喜变全家游；机场赶机/禁飞/最终二人世界 reveal。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | Jay 家 / 机场 | Jay 以为二人 Maui；全家惊喜；Mitch 忘钱包 |
+| 04–06 | 邓菲家 / Cam 家 | Jasper  playdate；Phil 载 Mitch 取钱包；Claire 独自紧张 |
+| 07–09 | 机场 / 机上 | 登山鞋；每日 hiking；生日汇演；Dylan 留宿 |
+| 10–12 | 机场 | 钥匙锁内；Phil  ninja 入室；Jasper 消防梯 |
+| 13–15 | 机场候机 | Dylan 短信；Manny 禁飞；TSA 审 Gloria |
+| 16–18 | 机场 / 酒吧 | Claire–Cam 谈心；Jay–Phil 酒吧；Gloria 六日后 reveal |
+| 19–20 | 登机 · 收尾 | 登机 zombie 搞怪； whale 口误 tag |
+
+----------------------
+【场景 01 / 20】Jay 家 · 清晨（旁白）
+★ 剧情：Gloria 旁白：Jay 生日 Maui 二人行；Manny 交给 Phil 带。
+★ 人物：Gloria, Jay, Manny
+★ 时间线：出发日清晨
 ----------------------
 - Oh, I forgot to ask- Did it hurt?
  忘了问了  当时疼吗 
@@ -60,6 +80,12 @@ S01E22
 - Wh- What the heck?
  这  这是搞什么 
 
+----------------------
+【场景 02 / 20】Jay 家 · 惊喜
+★ 剧情：全家跳出「跟我们一起去」；Gloria 只买经济舱。
+★ 人物：Jay, Gloria, 全家
+★ 时间线：出发日
+----------------------
 -  Surprise, Dad. - The whole family's coming with us!
  惊喜  爸爸  -全家都会跟我们一起去 
 
@@ -111,6 +137,12 @@ S01E22
 -  Helicopter. Helicopter. - Mm-hmm. Yes!
  直升飞机  -没错 
 
+----------------------
+【场景 03 / 20】Jay 旁白 / 计划
+★ 剧情：Jay 旁白：不爱活动只想读 Ludlum；luau、海豚、直升机。
+★ 人物：Jay
+★ 时间线：出发前
+----------------------
 - I don't like activities.
  我不爱参加活动 
 
@@ -180,6 +212,12 @@ S01E22
 -  Hey, Lily! Hi. - Oh, no! Oh, n
  嘿  莉莉  嗨 -噢不 
 
+----------------------
+【场景 04 / 20】机场 · Mitch & Cam
+★ 剧情：Mitch 忘钱包不能登机；怪 Cam 没帮打包；Jasper playdate coup。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：机场
+----------------------
 - I forgot my wallet.
  我忘带钱包了 
 
@@ -261,6 +299,12 @@ S01E22
 - We still have a million things to do.
  还有一堆事要忙活呢 
 
+----------------------
+【场景 05 / 20】Cam 家 · Jasper 来访
+★ 剧情：为 Jasper 换装耽误；Phil 答应飞车送 Mitch 回家取钱包。
+★ 人物：Mitchell, Cameron, Jasper
+★ 时间线：出发前一小时
+----------------------
 - Would you relax? You always worry. It always gets done.
  能放松点吗  你总爱瞎操心  没事的 
 
@@ -330,6 +374,12 @@ S01E22
 - but I think it's gonna be close.
  要我看悬啊 
 
+----------------------
+【场景 06 / 20】邓菲家 / 机场
+★ 剧情：Claire 独自紧张带娃；Phil 载 Mitch 离开；她越来越慌。
+★ 人物：Claire, Phil, kids
+★ 时间线：并行
+----------------------
 - So he left me here.
  他就把我扔这儿了 
 
@@ -450,6 +500,12 @@ S01E22
 - Something wrong there, Cam?
  哪里不对劲吗  小卡 
 
+----------------------
+【场景 07 / 20】机场 / 机上
+★ 剧情：Cam 穿登山鞋；Gloria 宣布每日 hiking 登顶火山。
+★ 人物：Cameron, Gloria, Jay, 全家
+★ 时间线：飞行中
+----------------------
 - Well, I'm just breaking in a new pair of hiking shoes.
  新买的登山鞋磨得我脚生疼啊 
 
@@ -645,6 +701,12 @@ S01E22
 - What song?
  什么歌 
 
+----------------------
+【场景 08 / 20】机上
+★ 剧情：全家为 Jay 生日汇演；Jay 想跳进火山；Haley 催起床。
+★ 人物：Gloria, Jay, Phil, Haley
+★ 时间线：飞行中
+----------------------
 -  Didn't Mom tell you? - Surprise!
  老妈没告诉你吗  -惊喜 
 
@@ -696,6 +758,12 @@ S01E22
 -  Oh, my God! - Oh, no. Is it tomorrow?
  我的天啊  -不会吧  已经是第二天了 
 
+----------------------
+【场景 09 / 20】邓菲家 · 重复蒙太奇
+★ 剧情：Dylan 偷留看 Haley；Claire 重复「我讨厌这感觉」段落。
+★ 人物：Haley, Dylan, Claire, Phil, kids
+★ 时间线：出发清晨（蒙太奇）
+----------------------
 - Dylan! What are you doing here?
  迪兰  你在这儿干嘛 
 
@@ -786,6 +854,12 @@ S01E22
 -  Oh, no! - What?
  我去  -怎么了 
 
+----------------------
+【场景 10 / 20】邓菲家
+★ 剧情：Claire 发现钥匙锁屋里；Phil  realtor ninja 翻窗入室。
+★ 人物：Claire, Phil, kids
+★ 时间线：出发清晨
+----------------------
 - My keys!
  我的钥匙 
 
@@ -795,6 +869,12 @@ S01E22
 - Whee! Oh, no.
  瞧  噢不 
 
+----------------------
+【场景 11 / 20】邓菲家 · 入室
+★ 剧情：Phil 抱 Claire 翻窗；Jasper 消防梯；Cam 卖过 Jasper 父母房。
+★ 人物：Phil, Claire, Cameron, Mitchell
+★ 时间线：紧接
+----------------------
 - This is where your Realtor training comes in handy.
  房产经纪人培训就是用来对付这个的 
 
@@ -897,6 +977,12 @@ S01E22
 - Yeah. "Us."
  是啊  我"俩" 
 
+----------------------
+【场景 12 / 20】机场 · 候机
+★ 剧情：海莉 crush 素描男；Dylan「囚徒」短信；Phil 迟到。
+★ 人物：Haley, Claire, Phil
+★ 时间线：候机
+----------------------
 - Check-in for the 5:30 flight to Boston may board at this time.
  于5点30分飞波士顿的航班现在开始登机 
 
@@ -927,6 +1013,12 @@ S01E22
 - Your attention, please.
  请注意 
 
+----------------------
+【场景 13 / 20】机场 · TSA
+★ 剧情：Manny 被广播；同名禁飞名单；全家被分开问话。
+★ 人物：Manny, Gloria, Jay, TSA
+★ 时间线：登机前
+----------------------
 - Will Manny Delgado please report to Gate 22-A?
  请曼尼·迪尔加多到22A登机口 
 
@@ -1119,6 +1211,12 @@ S01E22
 - That's all.
  就这样 
 
+----------------------
+【场景 14 / 20】机场 · 候机区
+★ 剧情：Claire 与 Cam 互诉「没帮打包」；Claire 教 Cam 直接说 Help me。
+★ 人物：Claire, Cameron
+★ 时间线：并行
+----------------------
 - What's frustrating is I would do anything for Mitchell,
  最难受的是我明明愿意为他付出所有 
 
@@ -1173,6 +1271,12 @@ S01E22
 - What you drinking?
  你在喝什么 
 
+----------------------
+【场景 15 / 20】机场 · 酒吧
+★ 剧情：Jay 近年恐飞；Phil 暂停 vacation；Jay 觉 Gloria 避独处。
+★ 人物：Jay, Phil
+★ 时间线：登机前
+----------------------
 - Dad. Hey.
  爸  好啊 
 
@@ -1260,6 +1364,12 @@ S01E22
 - Okay. Where does everybody think Gloria's money comes from?
  好吧  你们以为歌洛莉亚的钱哪里来的啊 
 
+----------------------
+【场景 16 / 20】机场 · TSA
+★ 剧情：Gloria 哥伦比亚式安检知识；Jay 与 Manny 分开返程日引疑。
+★ 人物：Gloria, Jay, Manny, TSA
+★ 时间线：审讯后
+----------------------
 - So, what kind of business did you have in Japan?
  你之前在日本从事什么活动 
 
@@ -1317,6 +1427,12 @@ S01E22
 - Now make the airport stop spinning.
  能不能让机场也别再转了 
 
+----------------------
+【场景 17 / 20】机场 · 团聚
+★ 剧情：Phil 赶到；Claire–Mitch 和解；Claire 微醺。
+★ 人物：Claire, Phil, Mitchell, Cameron
+★ 时间线：末班登机前
+----------------------
 - We made it! Claire!
  我们做到啦  克莱尔 
 
@@ -1350,6 +1466,12 @@ S01E22
 -  So you and your son are traveling together? - Yes.
  你和你的儿子计划一同旅行是吗  -是的 
 
+----------------------
+【场景 18 / 20】机场 · Gloria reveal
+★ 剧情：Gloria 透露家人只留六天；之后二人 Maui 独处+ topless beach。
+★ 人物：Gloria, Jay, 全家
+★ 时间线：放行后
+----------------------
 - Then why are you departing Maui on different dates?
  那为什么你们离开茂伊岛的时间不同 
 
@@ -1407,9 +1529,21 @@ S01E22
 -  Washing. - That's close enough.
  "浣赏"  -差不多了 
 
+----------------------
+【场景 19 / 20】候机 · whale 口误
+★ 剧情：海莉 crush 艺术家；whale washing vs watching；登机祝福。
+★ 人物：Haley, Manny, Gloria, 全家
+★ 时间线：末段候机
+----------------------
 - Have a good flight, sir.
  旅途愉快  先生 
 
+----------------------
+【场景 20 / 20】机上 · 终 tag
+★ 剧情：Phil 教 Lily zombie / Frankenstein 搞怪收尾。
+★ 人物：Phil, Lily, 全家
+★ 时间线：起飞后 tag
+----------------------
 - Quick, do your zombie impression.
  快  扮个僵尸给人看看 
 
@@ -1421,4 +1555,3 @@ S01E22
 
 - It's so, so good.
  真是太  太逼真了 
-

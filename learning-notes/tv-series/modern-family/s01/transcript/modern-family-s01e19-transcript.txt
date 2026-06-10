@@ -2,6 +2,28 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E19 
+
+## 场景分段索引（S01E19 · Phil 生日 / iPad 与棋盘）
+
+字幕正文按镜头插入 `【场景 xx / 24】`；多线平行（排队、监控串线、象棋、自卫术、惊喜派对）。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–02 | 邓菲家 · 片头 | 足球冷开；Phil 盼 iPad 生日 |
+| 03–05 | Jay 家 | 拼字；紫檀棋；Jay 教曼尼下棋 |
+| 06–07 | Mitch & Cam 家 | 婴儿监控串线；克莱尔排队买 iPad |
+| 08–10 | Jay 家 / 监控剧情 | 象棋再战；Jake & Debbie 狗血 |
+| 11–13 | 邓菲家 | 生日早餐；烫伤；克莱尔没买到 iPad |
+| 14–16 | Jay 家 / 邓菲家 | Mitch 学自卫；全家找 iPad |
+| 17–19 | 公园野餐区 / 派对 | 惊喜派对；干预 Jake 出轨 |
+| 20–22 | Jay 家 / 排队 / 邻居 | 柔术；曼尼骗表；救婚姻 |
+| 23–24 | 邓菲家 · 收尾 | 低预期独白；Luke 骗来 iPad |
+
+----------------------
+【场景 01 / 24】邓菲家 · 片头冷开
+★ 剧情：Luke 讲 Sam Riley 踢球眼珠弹出；Phil 盼 iPad 生日。
+★ 人物：Phil, Luke, Haley
+★ 时间线：生日前夜
 ----------------------
 - Today Sam Riley kicked a soccer ball...
  今天山姆·莱利踢足球 
@@ -15,6 +37,12 @@ S01E19
 - Really? His eye popped out.
  是吗  眼珠真爆出来了吗 
 
+----------------------
+【场景 02 / 24】邓菲家 · 卧室
+★ 剧情：Phil 要早起排队；克莱尔主动替排；Fun Zone 童年故事。
+★ 人物：Phil, Claire
+★ 时间线：生日前夜
+----------------------
 -  Never mind. - Well, gotta hit the sack. Big Saturday tomorrow.
  算了  -钻被窝咯  明天周六大日子哎 
 
@@ -123,6 +151,12 @@ S01E19
 - Good night.
  晚安 
 
+----------------------
+【场景 03 / 24】Jay 家 · 拼字
+★ 剧情：Gloria 帮 Manny 拼 believe；准备 Phil 生日礼物。
+★ 人物：Gloria, Manny, Jay
+★ 时间线：同日夜晚
+----------------------
 - B-E-L-I-E-V-E. Believe.
  B-E-L-I-E-V-E  相信 
 
@@ -138,6 +172,12 @@ S01E19
 - I don't think they're trying to fool me.
  老师没必要绕晕我吧 
 
+----------------------
+【场景 04 / 24】Jay 家 · 礼物
+★ 剧情：Jay 送紫檀象棋；要教 Manny「正经」下法。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同日夜晚
+----------------------
 - Wait until you see what I got Phil for his birthday.
  猜猜我给菲尔买了什么生日礼物 
 
@@ -183,6 +223,12 @@ S01E19
 - You'll be surprised.
  会让你大吃一惊的 
 
+----------------------
+【场景 05 / 24】Jay 家 · 棋局
+★ 剧情：Gloria 旁白：曼尼棋艺高，Jay 输棋脾气差。
+★ 人物：Jay, Manny, Gloria
+★ 时间线：同日夜晚
+----------------------
 - Manny's an excellent player, but Jay is a grumpy loser.
  曼尼棋艺高超  杰的棋品可不咋滴 
 
@@ -204,6 +250,12 @@ S01E19
 - It's okay. It's okay.
  好啦  别哭啦 
 
+----------------------
+【场景 06 / 24】Mitch & Cam 家 · 婴儿房
+★ 剧情：监控串线以为有入侵；Cam「走起」冲进去是误报。
+★ 人物：Mitchell, Cameron
+★ 时间线：深夜
+----------------------
 -  Cam! - Leave me alone.
  小卡  -别吵我 
 
@@ -237,6 +289,12 @@ S01E19
 - he would have been in trouble.
  你捏个报纸也就能吓吓它而已 
 
+----------------------
+【场景 07 / 24】苹果店外 · 清晨（旁白）
+★ 剧情：克莱尔 5 点排队；Phil 的 lame 烧烤夹礼物。
+★ 人物：Claire
+★ 时间线：生日当天清晨
+----------------------
 - Light-up barbecue tongs.
  灯光烧烤夹 
 
@@ -258,6 +316,12 @@ S01E19
 - No.
  不行 
 
+----------------------
+【场景 08 / 24】Jay 家 · 象棋再战
+★ 剧情：Jay 再约棋；下载儿童教程；赌 Jay 的手表。
+★ 人物：Jay, Manny
+★ 时间线：生日当天
+----------------------
 - Hey, buddy.
  嘿  哥们 
 
@@ -330,6 +394,12 @@ S01E19
 - How'd you do that?
  怎么将的 
 
+----------------------
+【场景 09 / 24】Mitch & Cam 家 · 监控剧
+★ 剧情：Jake 谎称加班；Debbie 要离婚；Mitch 昨晚吓呆。
+★ 人物：Mitchell, Cameron
+★ 时间线：平行线
+----------------------
 - You will not believe what's going on
  你肯定猜不到 
 
@@ -369,6 +439,12 @@ S01E19
 - and all you give me is a "Huh"?
  你就只"哈"一声吗 
 
+----------------------
+【场景 10 / 24】Mitch & Cam 家
+★ 剧情：Mitch 自责不是保护型爸爸；Cam 觉得他生气时可爱。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - I-I'm s- Cam, I froze last night.
  对不起小卡  昨晚我吓呆了 
 
@@ -405,6 +481,12 @@ S01E19
 - Just wanna put you in my pocket.
  真想把你装进口袋里 
 
+----------------------
+【场景 11 / 24】邓菲家 · 生日早晨
+★ 剧情：孩子气球惊喜；法式华夫蛋糕；Phil 被烫伤。
+★ 人物：Phil, Haley, Alex, Luke
+★ 时间线：生日早晨
+----------------------
 - Think he's coming.
  老爸下楼了 
 
@@ -516,6 +598,12 @@ S01E19
 - You are the best wife ever!
  史上最棒  绝对的 
 
+----------------------
+【场景 12 / 24】邓菲家
+★ 剧情：克莱尔坦白没买到 iPad；Phil 去「重视生日的地方」。
+★ 人物：Phil, Claire
+★ 时间线：生日上午
+----------------------
 - I didn't get you the iPad.
  我没买到iPad 
 
@@ -570,6 +658,12 @@ S01E19
 - To a place where birthdays still mean something.
  去找个重视别人生日的地方 
 
+----------------------
+【场景 13 / 24】Jay 家门口
+★ 剧情：Manny 来还工具带；Mitch 借故学自卫术。
+★ 人物：Mitchell, Jay
+★ 时间线：下午
+----------------------
 - I'll get that.
  我去开门 
 
@@ -660,6 +754,12 @@ S01E19
 - Show me what you remember.
  还记得哪招  耍来看看 
 
+----------------------
+【场景 14 / 24】Jay 家 · 车库顶
+★ 剧情：Jay 教拳；Mitch 跳不够高；Alex 被拦。
+★ 人物：Jay, Mitchell, Alex
+★ 时间线：下午
+----------------------
 -  Right now? - Yeah.
  现  现在吗  -来吧 
 
@@ -696,6 +796,12 @@ S01E19
 - Alex, stop trying to kill your brother.
  艾丽克斯  别害你小弟了 
 
+----------------------
+【场景 15 / 24】邓菲家
+★ 剧情：克莱尔动员孩子全网找 iPad；Luke 吸氢气被识破。
+★ 人物：Claire, Haley, Alex, Luke
+★ 时间线：下午
+----------------------
 - Listen, guys, I need your help.
  各位  妈妈要求助你们 
 
@@ -750,6 +856,12 @@ S01E19
 - What's that supposed to mean?
  你瞎嚷嚷啥呢 
 
+----------------------
+【场景 16 / 24】公园 · 野餐区广播
+★ 剧情：广播 Phil 生日派对；Phil 发现克莱尔办惊喜。
+★ 人物：Phil, 陌生人
+★ 时间线：下午
+----------------------
 - Attention. If you're here for Phil's birthday party,
  请注意  参加菲尔生日派对的朋友们 
 
@@ -774,6 +886,12 @@ S01E19
 - See you, fellas.
  拜啦各位 
 
+----------------------
+【场景 17 / 24】公园 · 惊喜派对
+★ 剧情：全家朋友庆生；冰激凌蛋糕。
+★ 人物：Phil, 全家, 朋友
+★ 时间线：派对开始
+----------------------
 - Howdy-do!
  侬好呀 
 
@@ -810,6 +928,12 @@ S01E19
 -  Did you see the cake? - Oh, yeah. It's great.
  看到蛋糕了吗  -超棒的 
 
+----------------------
+【场景 18 / 24】派对 / 监控线
+★ 剧情：听到 Jake 出轨电话；决定帮 Jake & Debbie。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：派对中
+----------------------
 - Hello?
  喂 
 
@@ -864,6 +988,12 @@ S01E19
 - We have to fix this.
  得帮帮他们啊 
 
+----------------------
+【场景 19 / 24】Jay 家 · 柔术
+★ 剧情：Jay 教巴西柔术；曼尼骗走 Jay 手表。
+★ 人物：Jay, Mitchell, Gloria
+★ 时间线：派对前后
+----------------------
 - Okay, Mitchell, I'm gonna teach you
  米奇尔  我就教你几招 
 
@@ -942,6 +1072,12 @@ S01E19
 -  Why am I on the floor?-  Come on, Mitchell.
  我怎么趴地上了  -醒过来  米奇尔 
 
+----------------------
+【场景 20 / 24】苹果店 / Jay 家
+★ 剧情：海莉报 Grove 有货；Gloria 揭穿曼尼骗棋。
+★ 人物：Claire, Haley, Jay, Gloria, Manny
+★ 时间线：并行
+----------------------
 - Haley, I just struck out again.
  海莉  我又没买着 
 
@@ -1074,6 +1210,12 @@ S01E19
 - I got no place else to go.
  反正我也没地儿去 
 
+----------------------
+【场景 21 / 24】邓菲家 / 邻居
+★ 剧情：Luke 偷吃蛋糕；Mitch 向邮差打听 Jake 地址。
+★ 人物：Claire, Luke, Mitchell
+★ 时间线：下午
+----------------------
 - Sir! Sir! Sir, hi. Excuse me.
  先生  先生  打扰你了 
 
@@ -1158,6 +1300,12 @@ S01E19
 - You're not getting in front of us.
  你不可以插队的 
 
+----------------------
+【场景 22 / 24】苹果店排队
+★ 剧情：Claire 插队纠纷；Mitch 锁喉；三人被赶出队。
+★ 人物：Claire, Mitchell, 插队者
+★ 时间线：傍晚
+----------------------
 - Calm down, gingerbread.
  淡定点啦  红毛小子 
 
@@ -1221,6 +1369,12 @@ S01E19
 - I've gotta get my husband an iPad!
  我要给我老公买iPad啊 
 
+----------------------
+【场景 23 / 24】邓菲家 · 派对后段
+★ 剧情：Phil 低预期独白；蛋糕落地；披萨未到。
+★ 人物：Phil, Luke, Cam
+★ 时间线：派对后段
+----------------------
 - Key to a good birthday? Low expectations.
  生日快乐的秘诀就是  别期待太多 
 
@@ -1353,6 +1507,12 @@ S01E19
 - But I'm a better wife.
  但我更是个好老婆 
 
+----------------------
+【场景 24 / 24】邓菲家 · 收尾
+★ 剧情：象棋决战克莱尔放水；Luke 谎报 Phil 垂死骗来 iPad。
+★ 人物：Phil, Claire, Jay, Luke, 全家
+★ 时间线：生日夜 tag
+----------------------
 -  Hey, did you get it? - No.
  买到了吗  -没有 
 
@@ -1487,4 +1647,3 @@ S01E19
 
 -  I love you too, honey. - Oh. Okay.
  我也爱你  亲爱的  -好吧 
-

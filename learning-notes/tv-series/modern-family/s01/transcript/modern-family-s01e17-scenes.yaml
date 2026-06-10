@@ -1,0 +1,127 @@
+# Scene markers for modern-family-s01e17-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E17
+episode_arc: 真相与谎言 / Shel 之死 / 米奇辞职 / 丹妮丝
+timeline_note: 杰杀龟浣熊谎言；米奇骂老板辞职；菲尔前女友丹妮丝上门（与追悼会交叉剪辑）
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家 / Jay 家
+    summary: 电影计划与 Denise；曼尼试镜失利
+  - scenes: "03–05"
+    place: 公园 / Mitch & Cam 家
+    summary: 喂鸭；Facebook 吃醋；重现骂老板
+  - scenes: "06–09"
+    place: Jay 家
+    summary: 浣熊杀龟谎言；歌洛莉亚坦白；脚印；追悼会
+  - scenes: "10–14"
+    place: 邓菲家 / 律所
+    summary: 丹妮丝到访；米奇辞职；勾引与旧情曝光
+  - scenes: "15–17"
+    place: Mitch & Cam / Jay 家
+    summary: 辞职恐慌；夜谈坦白；送蛇缸 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨
+    plot: 计划看休·格兰特电影；菲尔要与前女友丹妮丝喝酒。
+    characters: Phil, Claire, Haley, Alex
+    timeline: 周六早晨
+    anchor: Hey, honey, Hugh Grant has a
+  - id: "02"
+    place: Jay 家 · 清晨
+    plot: 曼尼痛失特维角色；歌洛莉亚买励志海报。
+    characters: Jay, Gloria, Manny
+    timeline: 同日早晨（平行线）
+    anchor: Ay, good morning, papi.
+  - id: "03"
+    place: 公园 / Mitch & Cam 家
+    plot: 喂鸭子；米奇周六加班；小鸭子亲莉莉。
+    characters: Mitchell, Cameron, Lily
+    timeline: 周六
+    anchor: Did you pack the bread for the ducks?
+  - id: "04"
+    place: 邓菲家
+    plot: 克莱尔吃醋丹妮丝 Facebook；菲尔邀她来家喝酒证清白。
+    characters: Phil, Claire
+    timeline: 周六白天
+    anchor: When are you getting together with your gal pal?
+  - id: "05"
+    place: Mitch & Cam 家 / 街头
+    plot: 卡姆帮重现骂老板是否被听见；车窗实验失败。
+    characters: Mitchell, Cameron
+    timeline: 周六中午
+    anchor: Has he been acting weird around you?
+  - id: "06"
+    place: Jay 家 · 曼尼房间
+    plot: 杰编造浣熊杀 Shel 的假犯罪现场。
+    characters: Jay, Manny, Gloria
+    timeline: 周六
+    anchor: Manny? Manny, come here a second, pal.
+  - id: "07"
+    place: Jay 家
+    plot: 歌洛莉亚识破骗局；坦白海报砸死乌龟；弗莱莎·米奈丽往事。
+    characters: Gloria, Jay
+    timeline: 紧接上场景
+    anchor: You lie.
+  - id: "08"
+    place: 邓菲家
+    plot: 艾丽克斯恶作剧说卢克是领养的；海莉回击菲尔。
+    characters: Alex, Luke, Haley
+    timeline: 周六下午
+    anchor: Hey, Luke.
+  - id: "09"
+    place: Jay 家
+    plot: 曼尼查脚印只有四趾；杰提议追悼会了结此事。
+    characters: Jay, Manny, Gloria
+    timeline: 周六下午
+    anchor: Raccoons have five toes.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: 丹妮丝到访；孩子们围观；菲尔高中霹雳舞往事。
+    characters: Phil, Claire, Denise, Haley, Alex, Luke
+    timeline: 傍晚
+    anchor: Hi. Oh, careful. There's a thing.
+  - id: "11"
+    place: 律所外 / 电话（交叉剪辑）
+    plot: 米奇对老板摊牌；为家人拒绝周日加班；递证章走人。
+    characters: Mitchell, boss
+    timeline: 与邓菲家平行
+    anchor: Funny?
+  - id: "12"
+    place: Jay 家 · Shel 追悼会
+    plot: 曼尼念悼词；卢克承认薯片引浣熊；杰被原谅。
+    characters: Jay, Manny, Gloria, Luke
+    timeline: 傍晚
+    anchor: Turtle, reptile, pet.
+  - id: "13"
+    place: 邓菲家 · 浴室/客厅
+    plot: 丹妮丝勾引菲尔；酒店房卡；克莱尔在场对峙。
+    characters: Phil, Claire, Denise
+    timeline: 夜晚
+    anchor: Touch me.
+  - id: "14"
+    place: 邓菲家
+    plot: 克莱尔发现照片重叠约会；圣达菲谎言；丹妮丝离去。
+    characters: Phil, Claire, Denise
+    timeline: 夜晚高潮
+    anchor: Do you remember when you broke your arm
+  - id: "15"
+    place: Mitch & Cam 家
+    plot: 米奇宣布辞职；兴奋后恐慌；卡姆劝冷静。
+    characters: Mitchell, Cameron
+    timeline: 夜晚
+    anchor: You quit?
+  - id: "16"
+    place: Jay 家 · 深夜
+    plot: 曼尼逼杰坦白杀龟；杰道歉；刮痕也是浣熊谎言。
+    characters: Jay, Manny
+    timeline: 深夜
+    anchor: Hello, Jay.
+  - id: "17"
+    place: Jay 家 · tag
+    plot: 杰送扎扎·戈波娃蛇缸；米奇辞职创业旁白。
+    characters: Jay, Gloria, Mitchell
+    timeline: 翌日 tag
+    anchor: Best thing I ever did

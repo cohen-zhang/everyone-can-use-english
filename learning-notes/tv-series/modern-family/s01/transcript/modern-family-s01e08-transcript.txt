@@ -2,13 +2,40 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E08 
-----------------------
+
+## 场景分段索引（S01E08 · 结婚纪念日 / Sal 夜生活 / Jay 之夜）
+
+字幕正文按镜头插入 `【场景 xx / 25】`；三线并行：Phil 惊喜、Mitch/Cam+Sal、Jay 留孙辈。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 · 清晨 | 纪念日；View-Master 与手镯；拥抱券 |
+| 04–05 | Mitch & Cam / Jay 家 | 约 Sal  babysitting；Jay's Night 传统 |
+| 06–08 | 邓菲家 | 海莉想派对；菲尔误以为只有券 |
+| 09–14 | 酒吧 / Jay 家 | Sal 重逢；Jay 留海莉；Phil 请 Izzy |
+| 15–17 | 酒吧 / Jay 家 / 邓菲家 | 克莱尔查岗；Izzy 开唱；Sal 谈 Lily |
+| 18–21 | Jay 家 | Jay 困海莉；Dylan 现身；sloppy jays 西部片 |
+| 22–24 | 邓菲家 · 夜 | 克莱尔纪念日；Phil 揭穿假粉丝 |
+| 25 | Mitch & Cam 家 · tag | Sal 抱 Lily 入睡 |
+
 - Ah- Fix that step.
  噢  要修下楼梯 
 
+----------------------
+【场景 01 / 25】邓菲家 · 卧室
+★ 剧情：结婚纪念日清晨；菲尔吵醒克莱尔。
+★ 人物：Phil, Claire
+★ 时间线：纪念日当天
+----------------------
 -  Morning! - I'm still sleeping.
  早上好  -人家还在睡觉呢 
 
+----------------------
+【场景 02 / 25】邓菲家 · 卧室
+★ 剧情：View-Master 回忆；惊喜手镯。
+★ 人物：Phil, Claire
+★ 时间线：同上
+----------------------
 -  Happy anniversary. - Hmm.
  结婚纪念日快乐  -嗯 
 
@@ -78,6 +105,12 @@ S01E08
 - I am so excited.
  我开始亢奋了 
 
+----------------------
+【场景 03 / 25】邓菲家 · 卧室
+★ 剧情：克莱尔回赠五张拥抱券；菲尔内心吐槽礼物。
+★ 人物：Phil, Claire
+★ 时间线：同上
+----------------------
 - Hey. Coupons for...
  嘿  优惠券 
 
@@ -144,6 +177,12 @@ S01E08
 - No gapping or chapping.
  严丝合缝  绝无渗漏 
 
+----------------------
+【场景 04 / 25】Mitch & Cam 家
+★ 剧情：夫妻需要 night out；决定叫 Sal、歌洛莉亚 babysit。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：同日
+----------------------
 - Cam, do you think that maybe we need a- 
  小卡  你觉得我们是不是需要一晚 
 
@@ -207,6 +246,12 @@ S01E08
 - Any day of the week.
  哪天都不行 
 
+----------------------
+【场景 05 / 25】Jay 家 · 电话
+★ 剧情：歌洛莉亚答应照看 Lily；Jay's Night 传统。
+★ 人物：Gloria, Jay, Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - Of course we would love to have the baby.
  我们当然愿意照看宝宝 
 
@@ -246,6 +291,12 @@ S01E08
 - which they don't really care for, but hey, it's Jay's Night.
  他们不喜欢没关系  因为今夜以杰为中心 
 
+----------------------
+【场景 06 / 25】邓菲家 · 早餐
+★ 剧情：海莉想改去 Andrew 派对；克莱尔坚持 Jay's Night。
+★ 人物：Haley, Claire, Alex, Luke
+★ 时间线：同日
+----------------------
 - So, Mom, there's a party tonight at Andrew Adler's,
  妈  安德鲁·艾德勒家里晚上有派对 
 
@@ -342,6 +393,12 @@ S01E08
 - about your little... coupons.
  只准备了优惠券  心存愧疚 
 
+----------------------
+【场景 07 / 25】邓菲家
+★ 剧情：菲尔以为拥抱券是克莱尔唯一礼物。
+★ 人物：Phil, Claire
+★ 时间线：同日
+----------------------
 - Wait a minute. You- You
  等等  你是不是 
 
@@ -372,12 +429,24 @@ S01E08
 - Cool.
  好耶 
 
+----------------------
+【场景 08 / 25】邓菲家 · 内心
+★ 剧情：菲尔 panic：纪念日礼物未准备。
+★ 人物：Phil
+★ 时间线：同日
+----------------------
 - I got nothing.
  我什么都没准备 
 
 - I'm so screwed.
  我完蛋了 
 
+----------------------
+【场景 09 / 25】酒吧
+★ 剧情：Sal 重逢；隆胸后的 Sal 熊抱。
+★ 人物：Mitchell, Cameron, Sal
+★ 时间线：当晚
+----------------------
 - Oh, this place brings back so many memories.
  真是个充满回忆的地方 
 
@@ -432,6 +501,12 @@ S01E08
 - So Lily's deaf.
  莉莉肯定是聋子 
 
+----------------------
+【场景 10 / 25】Jay 家 · 客厅
+★ 剧情：孙辈到 Jay's Night；海莉求换派对。
+★ 人物：Jay, Haley, Alex, Luke, Manny
+★ 时间线：当晚
+----------------------
 - There are my little stinkers.
  小捣蛋们来了 
 
@@ -492,6 +567,12 @@ S01E08
 - but it's kind of an important party, and I- 
  但是这次派对很重要  我 
 
+----------------------
+【场景 11 / 25】Jay 家 · 客厅
+★ 剧情：Jay 用「别侮辱主人」话术留海莉穿睡衣。
+★ 人物：Jay, Haley
+★ 时间线：当晚
+----------------------
 - Somebody invites you over,
  别人请你去他家 
 
@@ -522,6 +603,12 @@ S01E08
 - Nothing. I just know that there's someone at the door.
  没什么啊  我只知道门口有个人 
 
+----------------------
+【场景 12 / 25】邓菲家 · 门口
+★ 剧情：菲尔请来 Spandau Ballet 的 Izzy LaFontaine。
+★ 人物：Phil, Claire, Izzy
+★ 时间线：当晚
+----------------------
 - Rock on, Phil Dunphy. 
  摇滚吧   菲尔·邓菲   
 
@@ -597,6 +684,12 @@ S01E08
 -  So, so much. To us. - Yeah.
  想死了  敬我们  -好的 
 
+----------------------
+【场景 13 / 25】酒吧
+★ 剧情：三人火枪手干杯；计划 Cabo 需找人看 Lily。
+★ 人物：Mitchell, Cameron, Sal
+★ 时间线：与 Phil 线平行
+----------------------
 -  To us. - To us, the Three Musketeers.
  敬我们  -敬我们  三个火枪手 
 
@@ -657,6 +750,12 @@ S01E08
 -  It'll just take a second. - Real fast.
  就一小下  -很快的 
 
+----------------------
+【场景 14 / 25】酒吧
+★ 剧情：Sal 说「kill the baby」；扑克局。
+★ 人物：Mitchell, Cameron, Sal
+★ 时间线：同上
+----------------------
 - You should kill that baby.
  你们应该"弄死"宝宝 
 
@@ -702,6 +801,12 @@ S01E08
 - You know, she deserves it.
  她应得的 
 
+----------------------
+【场景 15 / 25】Jay 家 · 楼上
+★ 剧情：克莱尔回家换灯泡；看穿海莉小花招。
+★ 人物：Claire, Jay
+★ 时间线：当晚
+----------------------
 - Hi, honey.
  嗨  亲爱的 
 
@@ -732,6 +837,12 @@ S01E08
 - But nobody gets off The Rock.
  可惜没人能逃得出我的手掌 
 
+----------------------
+【场景 16 / 25】邓菲家 · 客厅
+★ 剧情：Izzy 表演；Phil 被要求吻 Claire。
+★ 人物：Phil, Claire, Izzy
+★ 时间线：当晚
+----------------------
 - Right. Here's a track. Wasn't so popular in America.
  好了  这首歌  在美国不怎么流行 
 
@@ -1005,6 +1116,12 @@ S01E08
 - 'cause this going back and forth to the bathroom is a fool's game.
  来来回回地跑厕所  太他妈傻逼了 
 
+----------------------
+【场景 17 / 25】酒吧
+★ 剧情：夫妻与 Sal 谈 Lily 嫉妒；Sal 缺陪伴。
+★ 人物：Mitchell, Cameron, Sal
+★ 时间线：与 Phil 线交叉剪辑
+----------------------
 -  Okay, let's get more drinks. - Sal, we got to talk.
  行  继续喝吧  -萨尔  我们得谈谈 
 
@@ -1119,6 +1236,12 @@ S01E08
 - You looking for these?
  你在找这个吗 
 
+----------------------
+【场景 18 / 25】Jay 家 · 楼上
+★ 剧情：Jay 藏鞋禁足海莉；歌洛莉亚介入。
+★ 人物：Jay, Haley, Gloria
+★ 时间线：当晚
+----------------------
 -  You took my shoes? - No, I took your freedom.
  你偷走了我的鞋  -不  我剥夺了你的自由 
 
@@ -1137,6 +1260,12 @@ S01E08
 - She's just like her mother.
  真是虎母无犬女 
 
+----------------------
+【场景 19 / 25】Jay 家 · 厨房
+★ 剧情：歌洛莉亚劝 Jay 别 personal；Jay 想多留孩子。
+★ 人物：Gloria, Jay
+★ 时间线：当晚
+----------------------
 - Why are you treating Haley like this?
  你干嘛这么折磨海莉 
 
@@ -1188,6 +1317,12 @@ S01E08
 -  She's upstairs. - I know.
  她在楼上  -我知道 
 
+----------------------
+【场景 20 / 25】Jay 家 · 窗外
+★ 剧情：Jay 发现 Dylan 躲树后；放行派对 11 点回。
+★ 人物：Jay, Dylan, Haley
+★ 时间线：当晚
+----------------------
 - Dylan!
  迪兰 
 
@@ -1206,12 +1341,24 @@ S01E08
 - This is how I first met Phil.
  我第一次见菲尔就是在那儿 
 
+----------------------
+【场景 21 / 25】Jay 家 · 门廊
+★ 剧情：海莉谢 Jay；Dylan 闻 sloppy jays。
+★ 人物：Jay, Haley, Dylan
+★ 时间线：当晚
+----------------------
 - Thanks again, Grandpa. We'll be back by 11:00.
  多谢了  外公  我们11点就回来 
 
 -  I will track you down. - I believe that.
  我会去找你的  -我想也是 
 
+----------------------
+【场景 22 / 25】Jay 家 · 客厅
+★ 剧情：Dylan 被 sloppy jays 和《Gunfighter》留住。
+★ 人物：Jay, Dylan, Haley, 孩子们
+★ 时间线：当晚
+----------------------
 -  What's that smell? - Sloppy jays. Help yourself.
  那是什么味道  -炒牛肉"杰"  去尝尝吧 
 
@@ -1260,6 +1407,12 @@ S01E08
 - Two, three, four.
  二  三  四 
 
+----------------------
+【场景 23 / 25】邓菲家 · 客厅
+★ 剧情：克莱尔幻灯片纪念日；Izzy 被要求唱 True。
+★ 人物：Claire, Phil, Izzy
+★ 时间线：当晚
+----------------------
 - The year was 1991.
  当时正值1991年 
 
@@ -1341,6 +1494,12 @@ S01E08
 - You love this song. Tell him this is our song.
  你爱这首歌  快和他说 
 
+----------------------
+【场景 24 / 25】邓菲家 · 客厅
+★ 剧情：Phil 坦白定情曲是 OMD《If You Leave》；Izzy 崩溃又和好。
+★ 人物：Phil, Claire, Izzy
+★ 时间线：高潮
+----------------------
 -  Right. Tell him, Phil. - It's not our song, Claire.
  对  你说啊  菲尔  -这不是我们的定情之歌 
 
@@ -1425,6 +1584,12 @@ S01E08
 - *Much is true*
  *爱很真实* 
 
+----------------------
+【场景 25 / 25】Mitch & Cam 家 · tag
+★ 剧情：Sal 抱 Lily；夫妻如释重负。
+★ 人物：Mitchell, Cameron, Sal, Lily
+★ 时间线：片尾
+----------------------
 -  She is so sweet. - Isn't she?
  她太可爱了  -可不是嘛 
 
@@ -1436,4 +1601,3 @@ S01E08
 
 - Oh, thank God.
  谢天谢地 
-

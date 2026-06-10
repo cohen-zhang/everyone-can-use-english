@@ -2,6 +2,24 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E05 
+
+## 场景分段索引（S01E05 · 橄榄球烧烤 / 卢克曼尼打架 / Gold digger）
+
+字幕正文按镜头插入 `【场景 xx / 23】`；俄亥俄州赛贯穿；克莱尔歌洛莉亚心结；片尾父子传球 tag。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–04 | Jay 家 / 邓菲家 | 赛前晨间；海莉撒谎；卢克穿衣；菲尔幻想触地 |
+| 05–09 | 学校 / 电话 | 米奇插花；卢克曼尼打架；老师偏见 |
+| 10–14 | Jay 家 → 烧烤 | 是否取消聚会；卡姆学球；菲尔挑明矛盾 |
+| 15–19 | Jay 家 · 客厅/餐厅 | 看球闹剧；孩子互揭短；gold digger 引爆 |
+| 20–23 | Jay 家 · 泳池/片尾 | 菲尔调解；跳池和解；传球 tag |
+
+----------------------
+【场景 01 / 23】Jay 家 · 清晨
+★ 剧情：杰送曼尼上学；歌洛莉亚安排烧烤；俄亥俄州赛。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：比赛日清晨
 ----------------------
 - Let's go, buddy. Schooltime.
  走吧  伙计  该上学了 
@@ -72,6 +90,12 @@ S01E05
 -  Hey, Mom. - Yeah?
  妈妈  -怎么了 
 
+----------------------
+【场景 02 / 23】邓菲家 · 厨房
+★ 剧情：海莉要钱买裙；撒谎被拆穿。
+★ 人物：Claire, Haley, Phil
+★ 时间线：同日早晨
+----------------------
 - Can I have $40 for lunch?
  能给我40块钱吃午饭吗 
 
@@ -93,6 +117,12 @@ S01E05
 - she couldn't come up with a single book title.
  她连一本书的名字都想不出来 
 
+----------------------
+【场景 03 / 23】邓菲家 · 门厅
+★ 剧情：卢克内外反穿；科学怪小孩旁白。
+★ 人物：Claire, Phil, Luke
+★ 时间线：同日
+----------------------
 - Luke, come on. We're late.
  卢克  快点  我们要迟到了 
 
@@ -132,6 +162,12 @@ S01E05
 - I ask "Why?" a lot.
  我经常问"为什么" 
 
+----------------------
+【场景 04 / 23】邓菲家 · 幻想
+★ 剧情：菲尔幻想与克莱尔触地得分；是否去杰家。
+★ 人物：Phil, Claire
+★ 时间线：同日
+----------------------
 - We're at the ten. We're at the five.
  我们在十码区  现在是五码区  
 
@@ -153,6 +189,12 @@ S01E05
 - Are you kidding me? We're playing Ohio State.
  你在开玩笑吗  今晚是俄亥俄州赛 
 
+----------------------
+【场景 05 / 23】Mitch & Cam 家
+★ 剧情：卡姆要去看球；米奇列爱好装懂球。
+★ 人物：Mitchell, Cameron
+★ 时间线：平行线
+----------------------
 - I collect antique fountain pens.
  我收集古董钢笔 
 
@@ -234,6 +276,12 @@ S01E05
 - Hey, honey. What's up?
  亲爱的  怎么了 
 
+----------------------
+【场景 06 / 23】邓菲家 · 电话
+★ 剧情：学校来电：卢克打架；菲尔撒谎打高尔夫。
+★ 人物：Claire, Phil
+★ 时间线：上午
+----------------------
 - The school just called. Luke got in a fight.
  学校刚刚来电话了  卢克打架了 
 
@@ -279,6 +327,12 @@ S01E05
 - Come on.
  走吧 
 
+----------------------
+【场景 07 / 23】学校 · 办公室
+★ 剧情：双方家长相遇；卢克坐曼尼胸口。
+★ 人物：Claire, Phil, Gloria, Jay, 老师
+★ 时间线：上午
+----------------------
 - What are you doing here?
  你们在这里干嘛 
 
@@ -330,6 +384,12 @@ S01E05
 - Stop saying that or I'll sit on your chest again.
  你要再敢这么说  我还会坐到你的胸上 
 
+----------------------
+【场景 08 / 23】学校 · 办公室
+★ 剧情：揭开「外甥」称呼是打架起因。
+★ 人物：Luke, Manny, Jay, Gloria
+★ 时间线：紧接上一场景
+----------------------
 - Ho! Wait a second. Is that what this was all about?
  等一下  打架就是因为这个吗 
 
@@ -369,6 +429,12 @@ S01E05
 -  Yes. - Yes.
  是的  -是的 
 
+----------------------
+【场景 09 / 23】学校外 / 车内
+★ 剧情：老师暗示卢克怪；克莱尔欲取消烧烤。
+★ 人物：Claire, Phil, Jay
+★ 时间线：离校后
+----------------------
 - You heard how she said that, right?
  你听到她那么说了  对吗 
 
@@ -396,6 +462,12 @@ S01E05
 - and dresses like a count.
  而且打扮得像个伯爵 
 
+----------------------
+【场景 10 / 23】Jay 家 / 车内
+★ 剧情：克莱尔提议取消；杰劝谈开；仍办聚会。
+★ 人物：Claire, Jay, Phil
+★ 时间线：中午
+----------------------
 - I think we should cancel with them for the barbecue.
  我想我们别请他们过来烧烤了 
 
@@ -519,12 +591,24 @@ S01E05
 - Okay.
  好吧 
 
+----------------------
+【场景 11 / 23】Mitch & Cam 家
+★ 剧情：卡姆决定学橄榄球； mascots 误会。
+★ 人物：Mitchell, Cameron
+★ 时间线：下午
+----------------------
 - Am I straight?
  直吗 
 
 - I'm not sure what you are right now.
  我也不知道你是直男还是什么 
 
+----------------------
+【场景 12 / 23】Jay 家 · 烧烤
+★ 剧情：亲友到场；菲尔两次拥抱歌洛莉亚。
+★ 人物：Jay, Gloria, Phil, Claire, Mitch, Cam
+★ 时间线：比赛开始
+----------------------
 - How ya doin'?
  你们好吗 
 
@@ -561,6 +645,12 @@ S01E05
 -  I'll be in here. - Hold on, Jay.
  我进屋去了  -等等  杰 
 
+----------------------
+【场景 13 / 23】Jay 家 · 客厅
+★ 剧情：菲尔点破克莱尔歌洛莉亚 tension；卢曼 huddle。
+★ 人物：Phil, Claire, Gloria, Luke, Manny
+★ 时间线：烧烤中段
+----------------------
 - I think we should address the elephant in the room.
  我觉得我们不该忽视明显存在的一个问题 
 
@@ -672,6 +762,12 @@ S01E05
 - Let's go! Right now!
  冲啊  快冲 
 
+----------------------
+【场景 14 / 23】Jay 家 · 电视房
+★ 剧情：看球；迪克·布特库斯；海莉吐槽。
+★ 人物：Jay, Mitchell, Haley, Phil
+★ 时间线：比赛进行中
+----------------------
 - Looks like I gotta watch the game with Dick Butkus.
  看来我要和迪克·布特库斯一起看比赛了 
 
@@ -756,6 +852,12 @@ S01E05
 - Oh, gosh. Blitzing.
  天呐  闪电战 
 
+----------------------
+【场景 15 / 23】Jay 家 · 电视房
+★ 剧情：卡姆放弃足球；改口音乐剧迷。
+★ 人物：Cameron, Mitchell
+★ 时间线：比赛进行中
+----------------------
 - So, my interest in football ended as suddenly and dramatically...
  于是  我对橄榄球的兴趣突然消失殆尽 
 
@@ -768,6 +870,12 @@ S01E05
 - Surprise.
  惊讶吧 
 
+----------------------
+【场景 16 / 23】Jay 家 · 客厅
+★ 剧情：克莱尔歌洛莉亚坦白；菲尔乱入调解。
+★ 人物：Claire, Gloria, Phil
+★ 时间线：烧烤中段
+----------------------
 - Okay. The truth?
  好吧  说实话吗 
 
@@ -915,6 +1023,12 @@ S01E05
 - what you were even fighting about, huh?
  是不是觉得当时很蠢啊 
 
+----------------------
+【场景 17 / 23】Jay 家 · 餐厅
+★ 剧情：孩子互揭打架真相；口音、午餐、挖煤。
+★ 人物：Luke, Manny, Claire, Gloria, Jay
+★ 时间线：烧烤后段
+----------------------
 -  I made fun of his accent. - What accent?
  我笑他的口音  -什么口音 
 
@@ -978,6 +1092,12 @@ S01E05
 - like, a year ago, before I knew you.
  都是一年前的事了  那时我还不了解你呢 
 
+----------------------
+【场景 18 / 23】Jay 家 · 餐厅
+★ 剧情：「coal digger」引爆；克莱尔歌洛莉亚吵。
+★ 人物：Claire, Gloria, Phil, Jay
+★ 时间线：紧接上一场景
+----------------------
 - Nice going. 
  你真行啊 
 
@@ -1053,6 +1173,12 @@ S01E05
 - Boy, you can go a really long time without blinking.
  岳父大人  你可以好长时间不眨眼啊 
 
+----------------------
+【场景 19 / 23】Jay 家 · 楼上/厨房
+★ 剧情：菲尔找歌洛莉亚谈 gold digger 与接纳。
+★ 人物：Phil, Gloria
+★ 时间线：傍晚
+----------------------
 - Gloria? It's Phil.
  歌洛莉亚  我是菲尔 
 
@@ -1182,6 +1308,12 @@ S01E05
 -  So we're torn. - Let me ask you something.
  我们深受折磨  -我问你们点事 
 
+----------------------
+【场景 20 / 23】Jay 家 · 泳池边
+★ 剧情：杰问米奇卡姆自己是否性感；9 分评价。
+★ 人物：Jay, Mitchell, Cameron
+★ 时间线：傍晚
+----------------------
 - Your sister said that Gloria
  你姐姐说歌洛莉亚 
 
@@ -1377,6 +1509,12 @@ S01E05
 - Oh, you mean go jump in a lake. Right.
  是让我离你远点  是吧 
 
+----------------------
+【场景 21 / 23】Jay 家 · 泳池
+★ 剧情：歌洛莉亚要克莱尔穿衣跳池谢罪。
+★ 人物：Gloria, Claire, Phil, Jay
+★ 时间线：傍晚
+----------------------
 - Go jump in the pool with your clothes on.
  我是让你穿着衣服跳进泳池 
 
@@ -1395,6 +1533,12 @@ S01E05
 - Hey, you guys work that out?
  你们俩和好了吗 
 
+----------------------
+【场景 22 / 23】Jay 家 · 泳池
+★ 剧情：菲尔代跳；歌洛莉亚原谅；比赛绝杀。
+★ 人物：Phil, Gloria, Claire, Jay, 全家
+★ 时间线：比赛尾声
+----------------------
 - Almost. Gloria just wants me to jump in the pool.
  差不多了  歌洛莉亚想让我跳进泳池 
 
@@ -1461,6 +1605,12 @@ S01E05
 - Cannonball!
  大炸弹来啦 
 
+----------------------
+【场景 23 / 23】Jay 家 · 片尾
+★ 剧情：父子传球 blame game；父母只上过两次床。
+★ 人物：Jay, Mitchell, Claire, Phil
+★ 时间线：片尾 tag
+----------------------
 - The snap! Fumble!
  向后传球  失误了 
 
@@ -1532,4 +1682,3 @@ S01E05
 
 - Perfect. That one kinda hurt.
  完美  就是有点疼 
-

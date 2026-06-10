@@ -1,0 +1,142 @@
+# Scene markers for modern-family-s01e15-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E15
+episode_arc: 情人节 / 角色扮演 / 曼尼追回菲奥娜
+timeline_note: Jay 喜剧 vs 莎莎舞；菲尔克莱尔酒店角色扮演；米奇帮曼尼对美奶昔
+
+index_groups:
+  - scenes: "01–02"
+    place: Jay 家
+    summary: 情人节礼物；代沟旁白
+  - scenes: "03–04"
+    place: Mitch & Cam / 邓菲家
+    summary: 莉莉装扮；迪兰画作胜过菲尔
+  - scenes: "05–07"
+    place: 邓菲家 / Mitch & Cam
+    summary: 酒店角色扮演；结案和解；曼尼失恋
+  - scenes: "08–09"
+    place: 拉斯维加斯 / 酒店酒吧
+    summary: David Brenner 喜剧；克里夫与朱莉安娜
+  - scenes: "10–12"
+    place: 美奶昔 / 喜剧俱乐部
+    summary: 监视菲奥娜；恶作剧电话；对峙德卡斯
+  - scenes: "13–14"
+    place: 酒店
+    summary: 角色扮演；外套卡电梯
+  - scenes: "15–16"
+    place: 喜剧俱乐部外 / 酒店电梯
+    summary: 歌洛莉亚质问杰；谎称维修解围
+  - scenes: "17–18"
+    place: 酒店 / 塞纳车 · 尾声
+    summary: 角色扮演收尾；蓝牙乌龙 tag
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 情人节清晨
+    plot: 互赠礼物；歌洛莉亚想要莎莎舞，杰订 David Brenner 喜剧。
+    characters: Jay, Gloria
+    timeline: 情人节早晨
+    anchor: Happy Valentine's Day.
+  - id: "02"
+    place: Jay 家 · 旁白
+    plot: 杰旁白代沟；西蒙与加芬克尔笑话；木槌梗。
+    characters: Jay, Gloria
+    timeline: 同日早晨
+    anchor: Gloria and I are from different generations.
+  - id: "03"
+    place: Mitch & Cam 家 · 情人节
+    plot: 莉莉羽毛装扮；米奇为结案陈词紧张。
+    characters: Mitchell, Cameron, Lily
+    timeline: 情人节早晨（平行线）
+    anchor: Happy Valentine's Day, Daddy. - Happy Valentine's Day, Lily.
+  - id: "04"
+    place: 邓菲家 · 门口
+    plot: 迪兰送海莉巨幅画作；菲尔被比下去。
+    characters: Claire, Haley, Dylan, Phil
+    timeline: 情人节早晨
+    anchor: Hi, Dylan.
+  - id: "05"
+    place: 邓菲家 · 厨房
+    plot: 菲尔改计划订酒店；克莱尔提议角色扮演。
+    characters: Phil, Claire
+    timeline: 情人节白天
+    anchor: Phil? Sweetie.
+  - id: "06"
+    place: Mitch & Cam 家 · 傍晚
+    plot: 委托人和解；米奇失落；曼尼失恋上门。
+    characters: Mitchell, Cameron, Manny
+    timeline: 情人节傍晚
+    anchor: I had to settle.
+  - id: "07"
+    place: Mitch & Cam 家
+    plot: 决定带曼尼去美奶昔夺回菲奥娜；奶昔计划。
+    characters: Mitchell, Cameron, Manny
+    timeline: 情人节傍晚
+    anchor: This is what we're gonna do.
+  - id: "08"
+    place: 拉斯维加斯 · 喜剧俱乐部
+    plot: David Brenner 表演；歌洛莉亚勉强捧场。
+    characters: Jay, Gloria, David Brenner
+    timeline: 情人节夜晚（平行线）
+    anchor: Scientists- They don't know why this is true,
+  - id: "09"
+    place: 酒店酒吧 · 角色扮演
+    plot: 菲尔扮克里夫搭讪朱莉安娜（克莱尔）；已婚男人梗。
+    characters: Phil(Clive), Claire(Juliana)
+    timeline: 情人节夜晚
+    anchor: Mind if I join you?
+  - id: "10"
+    place: 美奶昔餐厅
+    plot: 米奇卡姆就位；卡姆为忽略伴侣道歉；曼尼出击。
+    characters: Mitchell, Cameron, Manny
+    timeline: 情人节夜晚
+    anchor: Do you have eyes on her? Is she here?
+  - id: "11"
+    place: 喜剧俱乐部
+    plot: 俄勒冈兽交法案笑话；杰被当成歌洛莉亚父亲。
+    characters: Jay, Gloria, David Brenner, Dave
+    timeline: 与派对平行
+    anchor: In Oregon,
+  - id: "12"
+    place: 美奶昔 / 电话恶作剧
+    plot: 唐·卓立调查骗走德卡斯；曼尼对质；米奇「可耻」演说。
+    characters: Mitchell, Cameron, Manny, Fiona, Ted Durkas
+    timeline: 情人节夜晚高潮
+    anchor: Phone call. Over there.
+  - id: "13"
+    place: 酒店房间
+    plot: 角色扮演升温；朱莉安娜脱衣；比大蒜面包好。
+    characters: Phil(Clive), Claire(Juliana)
+    timeline: 情人节深夜
+    anchor: This is so much better than cheesy garlic bread.
+  - id: "14"
+    place: 酒店电梯
+    plot: 外套卡进电梯门；同事、校长、老师接连出现。
+    characters: Phil, Claire, Tom, Principal Balaban, Ms. Passwater
+    timeline: 情人节深夜
+    anchor: Phil! Phil, my coat is stuck.
+  - id: "15"
+    place: 喜剧俱乐部外
+    plot: 歌洛莉亚质问杰是否嫌弃她年老；决定改去莎莎舞。
+    characters: Jay, Gloria
+    timeline: 深夜（与酒店平行）
+    anchor: Ah, Jay, papi, don't pay attention to what he's saying.
+  - id: "16"
+    place: 酒店电梯 / 大堂
+    plot: 谎称维修部；克莱尔当众脱外套解围。
+    characters: Phil, Claire, neighbors
+    timeline: 深夜
+    anchor: We're good! We're good! I talked to Maintenance.
+  - id: "17"
+    place: 酒店 · 清晨收尾
+    plot: 角色扮演收尾；互道晚安；电梯重逢。
+    characters: Phil, Claire
+    timeline: 翌日凌晨
+    anchor: Take it down a notch, Clive.
+  - id: "18"
+    place: 丰田塞纳 · 尾声 tag
+    plot: 克莱尔蓝牙听到车内「炸薯条」暧昧对话。
+    characters: Phil, Claire, kids
+    timeline: 翌日早晨 tag
+    anchor: Hi, honey.

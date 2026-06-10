@@ -2,6 +2,27 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E16 
+
+## 场景分段索引（S01E16 · 恐惧 / 海莉路考 / 房下寻宝 / Lily 叫妈咪）
+
+字幕正文按镜头插入 `【场景 xx / 18】`；全家恐惧主题；海莉第三次路考；菲尔卢克钻房底；莉莉第一次说 Mommy。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–02 | 邓菲家 | 恐惧冷开场；海莉路考压力 |
+| 03–04 | 邓菲家 / Mitch & Cam | 房下寻宝；儿科医生早午餐 |
+| 05–06 | Jay 家 / 邓菲房底 | 曼尼装病；菲尔卢克探险 |
+| 07–08 | Mitch & Cam 家 / Jay 家 | 早午餐 Lily 叫妈咪；带曼尼去码头 |
+| 09–11 | 路考 / 邓菲房底 | 海莉路考失败；遥控车探路；妈咪危机 |
+| 12–13 | 游乐场 / 路考 | 过山车对峙；海莉重考通过 |
+| 14–16 | 邓菲房底 / Mitch & Cam | 菲尔被困；缪拉医生坦白；杰救卢克 |
+| 17–18 | 旁白收尾 / Mitch & Cam | 恐惧旁白；娃娃说 Mommy tag |
+
+----------------------
+【场景 01 / 18】邓菲家 · 冷开场
+★ 剧情：全家列举最害怕的事；海莉第三次路考在即。
+★ 人物：Haley, Alex, Claire, Phil
+★ 时间线：路考当天早晨
 ----------------------
 - What am I most afraid of? Hmm. Let's see.
  我最怕什么  让我想想 
@@ -45,6 +66,12 @@ S01E16
 - Dying alone.
  孤独终老 
 
+----------------------
+【场景 02 / 18】邓菲家 · 厨房
+★ 剧情：克莱尔催海莉找鞋；海莉崩溃；舞会鞋争论。
+★ 人物：Claire, Haley, Alex
+★ 时间线：同日早晨
+----------------------
 - Oh, Haley, sweetie, did you find your shoes?
  海莉  亲爱的  找到你的鞋了吗 
 
@@ -135,6 +162,12 @@ S01E16
 - What are you doing? 
  你们要干什么 
 
+----------------------
+【场景 03 / 18】邓菲家 · 房底寻宝
+★ 剧情：有线电视工暗示房下有藏品；菲尔卢克兴奋猜测。
+★ 人物：Phil, Luke, Haley
+★ 时间线：数日前闪回框 + 当日
+----------------------
 - Treasure hunting.
  寻宝 
 
@@ -180,6 +213,12 @@ S01E16
 - For God sakes, why don't you go under the house and look?
  神啊  你们为什么不直接去下面看看 
 
+----------------------
+【场景 04 / 18】Mitch & Cam 家
+★ 剧情：蕾丝边邻居送娃娃；邀请儿科医生缪拉早午餐。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：周六早晨（平行线）
+----------------------
 - Hey, Cam. Cam, where did we get this dolly from?
  小卡  这个娃娃从哪来的 
 
@@ -270,6 +309,12 @@ S01E16
 -  Mom? - Hmm?
  妈妈  -怎么了 
 
+----------------------
+【场景 05 / 18】Jay 家 · 厨房
+★ 剧情：曼尼装发烧逃避游乐场派对；歌洛莉亚识破。
+★ 人物：Gloria, Manny, Jay
+★ 时间线：派对前一日
+----------------------
 - I have a fever. 
  我发烧了 
 
@@ -333,6 +378,12 @@ S01E16
 -  Excited? - Yeah.
  兴奋吗  -是啊 
 
+----------------------
+【场景 06 / 18】邓菲家 · 房底入口
+★ 剧情：菲尔卢克准备钻进房底；菲尔旁白不愿在孩子面前露怯。
+★ 人物：Phil, Luke
+★ 时间线：同日
+----------------------
 - We're like Ponce de Leon and his son, Little Ponce.
  我们就像庞塞·德莱昂和他儿子小庞塞 
 
@@ -411,6 +462,12 @@ S01E16
 -  Yeah. Let's do that. - All right.
  就这么干  -好的 
 
+----------------------
+【场景 07 / 18】Mitch & Cam 家 · 早午餐
+★ 剧情：招待缪拉医生；莉莉安静；突然叫「妈咪」。
+★ 人物：Mitchell, Cameron, Lily, Dr. Miura
+★ 时间线：周六中午
+----------------------
 - Can I just say that is a lovely outfit.
  我想说你这身衣服真好看 
 
@@ -480,6 +537,12 @@ S01E16
 -  "Mommy." - Oh.
  "妈咪"  -心绞痛 
 
+----------------------
+【场景 08 / 18】Jay 家
+★ 剧情：歌洛莉亚要带曼尼钓鱼散心；实则计划过山车。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：派对当日
+----------------------
 - Jay, he won't admit it,
  杰  他不承认 
 
@@ -531,6 +594,12 @@ S01E16
 -  where I'm more at one with  - just get your coat.
  能让我更加...  -滚去拿你的外套吧 
 
+----------------------
+【场景 09 / 18】路考场地
+★ 剧情：刻薄考官再现；克莱尔鼓励；海莉想吐。
+★ 人物：Haley, Claire, Alex, examiner
+★ 时间线：路考当日
+----------------------
 -  Are you nervous? - Shut up, Alex.
  你紧张吗  -闭嘴艾丽克斯 
 
@@ -588,6 +657,12 @@ S01E16
 - That's more than three breaths, honey.
  这不止三下深呼吸了  亲爱的 
 
+----------------------
+【场景 10 / 18】邓菲家 · 房底外
+★ 剧情：遥控车探房底；卢克质疑菲尔害怕；卡车丢失。
+★ 人物：Phil, Luke
+★ 时间线：路考同时
+----------------------
 - See how much better this is?
  这次好多了吧 
 
@@ -687,6 +762,12 @@ S01E16
 - Yeah, I wouldn't be too concerned about that.
  那个  我觉得你不必太放在心上 
 
+----------------------
+【场景 11 / 18】Mitch & Cam 家
+★ 剧情：父母恐慌莉莉要妈妈；亚洲妈妈刻板印象争论。
+★ 人物：Mitchell, Cameron, Dr. Miura, Lily
+★ 时间线：早午餐后段
+----------------------
 - You- You know it's because you're Asian, right?
  你知道这是因为你是亚洲人  对吧 
 
@@ -828,6 +909,12 @@ S01E16
 - Just go.
  开车吧 
 
+----------------------
+【场景 12 / 18】游乐场码头
+★ 剧情：曼尼发现过山车陷阱；歌洛莉亚杰逼他面对恐惧。
+★ 人物：Gloria, Jay, Manny
+★ 时间线：下午
+----------------------
 - Today feels like a good day for halibut.
  今天是捕大比目鱼的好日子 
 
@@ -1032,6 +1119,12 @@ S01E16
 - Even the advice I get is a hand-me-down.
  我连收到的建议都是二手货 
 
+----------------------
+【场景 13 / 18】路考场地 · 重考
+★ 剧情：考官心软重考；海莉通过拿到驾照。
+★ 人物：Haley, examiner, Claire
+★ 时间线：下午
+----------------------
 - Mom, I did it! I passed!
  妈  我成功了  我考过了 
 
@@ -1074,6 +1167,12 @@ S01E16
 - I'm a hundred percent sure it's possible.
  我敢肯定是有可能的 
 
+----------------------
+【场景 14 / 18】邓菲房底
+★ 剧情：菲尔钻进房底救卢克；皮带挂烫管；蜘蛛。
+★ 人物：Phil, Luke
+★ 时间线：下午
+----------------------
 -  All right. I'm going in. - What?
  好吧  我进去  -什么 
 
@@ -1110,6 +1209,12 @@ S01E16
 - Coming!
  就来了 
 
+----------------------
+【场景 15 / 18】Mitch & Cam 家
+★ 剧情：缪拉坦白与母亲关系；两个爸爸足够好。
+★ 人物：Mitchell, Cameron, Dr. Miura
+★ 时间线：午后
+----------------------
 - I'm sorry if we got all weird in there.
  抱歉给你带来不快 
 
@@ -1179,6 +1284,12 @@ S01E16
 - I didn't see those!
  我不知道后面有垃圾桶 
 
+----------------------
+【场景 16 / 18】邓菲房底 / 户外
+★ 剧情：杰救卢克；发现万圣节假尸；兄弟探险收尾。
+★ 人物：Phil, Luke
+★ 时间线：傍晚
+----------------------
 -  I'm coming, buddy. - Over here.
  我来了  伙计  -我在这 
 
@@ -1269,6 +1380,12 @@ S01E16
 - Least I thought it was.
  至少我是这么觉得 
 
+----------------------
+【场景 17 / 18】旁白 · 尾声前
+★ 剧情：恐惧旁白：孩子之惧永不消散；海莉驾车离开。
+★ 人物：Phil(旁白), Haley, family
+★ 时间线：傍晚
+----------------------
 - Everybody's afraid of something, right?
  每个人都有怕的东西  不是吗 
 
@@ -1317,6 +1434,12 @@ S01E16
 - I mean, things don't always work out.
  我是说  人不可能事事顺心 
 
+----------------------
+【场景 18 / 18】Mitch & Cam 家 · tag
+★ 剧情：发现娃娃一捏就说 Mommy；误会解除。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：夜晚 tag
+----------------------
 - Oh. Cam, I think she wants her doll.
  小卡  她应该是想要娃娃了 
 
@@ -1391,4 +1514,3 @@ S01E16
 
 -  Or an indoor pool. - Or a two-man submarine.
  或者室内泳池  -或者双人潜水艇 
-

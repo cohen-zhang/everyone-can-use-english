@@ -1,0 +1,184 @@
+# Scene markers for modern-family-s01e08-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E08
+episode_arc: 结婚纪念日 / Sal 夜生活 / Jay 之夜
+timeline_note: 三线并行：Phil 惊喜、Mitch/Cam+Sal、Jay 留孙辈
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 · 清晨
+    summary: 纪念日；View-Master 与手镯；拥抱券
+  - scenes: "04–05"
+    place: Mitch & Cam / Jay 家
+    summary: 约 Sal  babysitting；Jay's Night 传统
+  - scenes: "06–08"
+    place: 邓菲家
+    summary: 海莉想派对；菲尔误以为只有券
+  - scenes: "09–14"
+    place: 酒吧 / Jay 家
+    summary: Sal 重逢；Jay 留海莉；Phil 请 Izzy
+  - scenes: "15–17"
+    place: 酒吧 / Jay 家 / 邓菲家
+    summary: 克莱尔查岗；Izzy 开唱；Sal 谈 Lily
+  - scenes: "18–21"
+    place: Jay 家
+    summary: Jay 困海莉；Dylan 现身；sloppy jays 西部片
+  - scenes: "22–24"
+    place: 邓菲家 · 夜
+    summary: 克莱尔纪念日；Phil 揭穿假粉丝
+  - scenes: "25"
+    place: Mitch & Cam 家 · tag
+    summary: Sal 抱 Lily 入睡
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 卧室
+    plot: 结婚纪念日清晨；菲尔吵醒克莱尔。
+    characters: Phil, Claire
+    timeline: 纪念日当天
+    anchor: Morning! - I'm still sleeping.
+  - id: "02"
+    place: 邓菲家 · 卧室
+    plot: View-Master 回忆；惊喜手镯。
+    characters: Phil, Claire
+    timeline: 同上
+    anchor: Happy anniversary.
+  - id: "03"
+    place: 邓菲家 · 卧室
+    plot: 克莱尔回赠五张拥抱券；菲尔内心吐槽礼物。
+    characters: Phil, Claire
+    timeline: 同上
+    anchor: Hey. Coupons for...
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 夫妻需要 night out；决定叫 Sal、歌洛莉亚 babysit。
+    characters: Mitchell, Cameron, Lily
+    timeline: 同日
+    anchor: Cam, do you think that maybe we need a-
+  - id: "05"
+    place: Jay 家 · 电话
+    plot: 歌洛莉亚答应照看 Lily；Jay's Night 传统。
+    characters: Gloria, Jay, Mitchell, Cameron
+    timeline: 同日
+    anchor: Of course we would love to have the baby.
+  - id: "06"
+    place: 邓菲家 · 早餐
+    plot: 海莉想改去 Andrew 派对；克莱尔坚持 Jay's Night。
+    characters: Haley, Claire, Alex, Luke
+    timeline: 同日
+    anchor: So, Mom, there's a party tonight at Andrew Adler's,
+  - id: "07"
+    place: 邓菲家
+    plot: 菲尔以为拥抱券是克莱尔唯一礼物。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: Wait a minute. You- You
+  - id: "08"
+    place: 邓菲家 · 内心
+    plot: 菲尔 panic：纪念日礼物未准备。
+    characters: Phil
+    timeline: 同日
+    anchor: I got nothing.
+  - id: "09"
+    place: 酒吧
+    plot: Sal 重逢；隆胸后的 Sal 熊抱。
+    characters: Mitchell, Cameron, Sal
+    timeline: 当晚
+    anchor: Oh, this place brings back so many memories.
+  - id: "10"
+    place: Jay 家 · 客厅
+    plot: 孙辈到 Jay's Night；海莉求换派对。
+    characters: Jay, Haley, Alex, Luke, Manny
+    timeline: 当晚
+    anchor: There are my little stinkers.
+  - id: "11"
+    place: Jay 家 · 客厅
+    plot: Jay 用「别侮辱主人」话术留海莉穿睡衣。
+    characters: Jay, Haley
+    timeline: 当晚
+    anchor: Somebody invites you over,
+  - id: "12"
+    place: 邓菲家 · 门口
+    plot: 菲尔请来 Spandau Ballet 的 Izzy LaFontaine。
+    characters: Phil, Claire, Izzy
+    timeline: 当晚
+    anchor: Rock on, Phil Dunphy.
+  - id: "13"
+    place: 酒吧
+    plot: 三人火枪手干杯；计划 Cabo 需找人看 Lily。
+    characters: Mitchell, Cameron, Sal
+    timeline: 与 Phil 线平行
+    anchor: To us. - To us, the Three Musketeers.
+  - id: "14"
+    place: 酒吧
+    plot: Sal 说「kill the baby」；扑克局。
+    characters: Mitchell, Cameron, Sal
+    timeline: 同上
+    anchor: You should kill that baby.
+  - id: "15"
+    place: Jay 家 · 楼上
+    plot: 克莱尔回家换灯泡；看穿海莉小花招。
+    characters: Claire, Jay
+    timeline: 当晚
+    anchor: Hi, honey.
+  - id: "16"
+    place: 邓菲家 · 客厅
+    plot: Izzy 表演；Phil 被要求吻 Claire。
+    characters: Phil, Claire, Izzy
+    timeline: 当晚
+    anchor: Right. Here's a track.
+  - id: "17"
+    place: 酒吧
+    plot: 夫妻与 Sal 谈 Lily 嫉妒；Sal 缺陪伴。
+    characters: Mitchell, Cameron, Sal
+    timeline: 与 Phil 线交叉剪辑
+    anchor: Okay, let's get more drinks. - Sal, we got to talk.
+  - id: "18"
+    place: Jay 家 · 楼上
+    plot: Jay 藏鞋禁足海莉；歌洛莉亚介入。
+    characters: Jay, Haley, Gloria
+    timeline: 当晚
+    anchor: You took my shoes?
+  - id: "19"
+    place: Jay 家 · 厨房
+    plot: 歌洛莉亚劝 Jay 别 personal；Jay 想多留孩子。
+    characters: Gloria, Jay
+    timeline: 当晚
+    anchor: Why are you treating Haley like this?
+  - id: "20"
+    place: Jay 家 · 窗外
+    plot: Jay 发现 Dylan 躲树后；放行派对 11 点回。
+    characters: Jay, Dylan, Haley
+    timeline: 当晚
+    anchor: Dylan!
+  - id: "21"
+    place: Jay 家 · 门廊
+    plot: 海莉谢 Jay；Dylan 闻 sloppy jays。
+    characters: Jay, Haley, Dylan
+    timeline: 当晚
+    anchor: Thanks again, Grandpa. We'll be back by 11:00.
+  - id: "22"
+    place: Jay 家 · 客厅
+    plot: Dylan 被 sloppy jays 和《Gunfighter》留住。
+    characters: Jay, Dylan, Haley, 孩子们
+    timeline: 当晚
+    anchor: What's that smell?
+  - id: "23"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔幻灯片纪念日；Izzy 被要求唱 True。
+    characters: Claire, Phil, Izzy
+    timeline: 当晚
+    anchor: The year was 1991.
+  - id: "24"
+    place: 邓菲家 · 客厅
+    plot: Phil 坦白定情曲是 OMD《If You Leave》；Izzy 崩溃又和好。
+    characters: Phil, Claire, Izzy
+    timeline: 高潮
+    anchor: Right. Tell him, Phil. - It's not our song, Claire.
+  - id: "25"
+    place: Mitch & Cam 家 · tag
+    plot: Sal 抱 Lily；夫妻如释重负。
+    characters: Mitchell, Cameron, Sal, Lily
+    timeline: 片尾
+    anchor: She is so sweet.

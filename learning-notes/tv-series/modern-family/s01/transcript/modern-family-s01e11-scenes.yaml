@@ -1,0 +1,226 @@
+# Scene markers for modern-family-s01e11-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E11
+episode_arc: 哈维尔来访 / 菲尔肾结石
+timeline_note: 邓菲家与 Jay 家平行剪辑；片尾呼应片头「大人样」
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家
+    summary: 片头吐槽父母；水鼬鼠；菲尔背伤
+  - scenes: "04–07"
+    place: Jay 家
+    summary: 红花餐厅计划；哈维尔带龙虾；杰不满
+  - scenes: "08"
+    place: Mitch & Cam 家
+    summary: 费伯睡眠法；疤面煞星
+  - scenes: "09–10"
+    place: 邓菲家
+    summary: 肾结石发作；全家慌乱
+  - scenes: "11–12"
+    place: Jay 家 · 台球室
+    summary: 杰与哈维尔深夜谈心
+  - scenes: "13–16"
+    place: 邓菲家
+    summary: 住院前；茶几真相；消防员；克莱尔换装
+  - scenes: "17–19"
+    place: Jay 家
+    summary: 杰与哈维尔棒球；摩托夜；科学作业
+  - scenes: "20"
+    place: Mitch & Cam 家
+    summary: 费伯法争吵升级
+  - scenes: "21–24"
+    place: 医院 / Jay 家
+    summary: 探病；克莱尔换装；摩托早晨；哈维尔离开
+  - scenes: "25–27"
+    place: Mitch & Cam / Jay 家 / 邓菲家
+    summary: 费伯法再战；哈维尔爽约；菲尔回家
+  - scenes: "28–29"
+    place: 邓菲家 / Mitch & Cam
+    summary: 愧疚筹码；好坏警察分工
+  - scenes: "30"
+    place: 尾声
+    summary: 海莉问「大人样」；纸牌魔术
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 片头（孩子卧谈）
+    plot: 兄妹吐槽父母常说的话；回嘴、古龙水、大人样。
+    characters: Haley, Alex, Luke
+    timeline: 当晚（片头）
+    anchor: What's the most irritating thing my parents say to me?
+  - id: "02"
+    place: 邓菲家 · 后院
+    plot: 菲尔与卢克玩水鼬鼠；卢克湿身；窗玻璃溅水。
+    characters: Phil, Luke, Haley, Alex
+    timeline: 片头同日
+    anchor: Look at you, you're soaked! That is so lame.
+  - id: "03"
+    place: 邓菲家 · 卧室/客厅
+    plot: 菲尔背抽筋；要打 911；消防员梗。
+    characters: Phil, Claire, kids
+    timeline: 片头同日
+    anchor: Is there a reason why my window's wet?
+  - id: "04"
+    place: Jay 家 · 客厅
+    plot: 曼尼暗恋老师；杰订了 Benihana 惊喜。
+    characters: Jay, Gloria, Manny
+    timeline: 哈维尔到访前
+    anchor: Manny, it's inappropriate because it's your teacher.
+  - id: "05"
+    place: Jay 家 · 门口
+    plot: 哈维尔突然出现；打断晚餐计划。
+    characters: Jay, Gloria, Javier, Manny
+    timeline: 当晚
+    anchor: What the hell?
+  - id: "06"
+    place: Jay 家 · 厨房/客厅
+    plot: 哈维尔带龙虾、送曼尼手机；要跳舞过夜。
+    characters: Javier, Jay, Gloria, Manny
+    timeline: 当晚
+    anchor: I brought dinner- lobsters!
+  - id: "07"
+    place: Jay 家 · 客厅
+    plot: 杰抱怨哈维尔；歌洛莉亚讲哥伦比亚人；只住一晚。
+    characters: Jay, Gloria
+    timeline: 当晚
+    anchor: If it was for me, he'd be out of my life.
+  - id: "08"
+    place: Mitch & Cam 家 · 卧室
+    plot: 卡姆破坏费伯训练；给莉莉看疤面煞星。
+    characters: Mitchell, Cameron, Lily
+    timeline: 平行线 · 深夜
+    anchor: Don't be mad. I just got up to change her.
+  - id: "09"
+    place: 邓菲家 · 卧室
+    plot: 克莱尔误判癌症；实为肾结石剧痛。
+    characters: Phil, Claire, kids
+    timeline: 深夜
+    anchor: Oh, that's bad.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: 全家围聚；决定送医；菲尔「外星人」自嘲。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 深夜
+    anchor: Why is everybody yelling?
+  - id: "11"
+    place: Jay 家 · 台球室
+    plot: 杰听见哈维尔玩台球；下楼对峙。
+    characters: Jay, Javier
+    timeline: 平行剪辑 · 深夜
+    anchor: Son of a bitch.
+  - id: "12"
+    place: Jay 家 · 台球室
+    plot: 杰与哈维尔谈缺席曼尼；「used to be」。
+    characters: Jay, Javier
+    timeline: 平行剪辑 · 深夜
+    anchor: Hey, there.
+  - id: "13"
+    place: 邓菲家 · 客厅
+    plot: 卡姆赶到；菲尔与子女告别；卢克坦白打碎茶几。
+    characters: Phil, Claire, kids, Cameron
+    timeline: 送医前
+    anchor: Cam!
+  - id: "14"
+    place: 邓菲家 · 门口
+    plot: 克莱尔换装；菲尔嫉妒消防员；夫妻斗嘴。
+    characters: Phil, Claire
+    timeline: 消防员到达前
+    anchor: Hey, you changed your clothes.
+  - id: "15"
+    place: Jay 家 · 台球室
+    plot: 卡姆加入；杰与哈维尔谈曼尼需要两个父亲。
+    characters: Jay, Javier, Cameron, Manny
+    timeline: 平行 · 深夜
+    anchor: Cameron!
+  - id: "16"
+    place: Jay 家 / 户外
+    plot: 三人外出打球；曲线球；曼尼做科学作业。
+    characters: Jay, Javier, Manny
+    timeline: 通宵
+    anchor: So, how do you know this guy?
+  - id: "17"
+    place: Mitch & Cam 家 · 卧室
+    plot: 枕头人形；费伯法再吵；「女孩子那样丧命」回调。
+    characters: Mitchell, Cameron
+    timeline: 黎明前
+    anchor: Out.
+  - id: "18"
+    place: 医院 · 候诊/病房
+    plot: 亲友探病；菲尔提消防员换装；术前镇静。
+    characters: Phil, Claire, Cameron, kids
+    timeline: 手术日
+    anchor: Hey, honey.
+  - id: "19"
+    place: 医院 · 病房
+    plot: 菲尔与子女谈手术；蜘蛛网/Ouija 板往事。
+    characters: Phil, Luke, Haley, Alex
+    timeline: 手术日
+    anchor: What are they doing to you, Dad?
+  - id: "20"
+    place: 医院 · 病房
+    plot: 菲尔交代 PIN；「别黑嘴」；克莱尔安抚。
+    characters: Phil, Luke, Claire
+    timeline: 手术日
+    anchor: This is not gonna happen, okay,
+  - id: "21"
+    place: 医院 · 病房
+    plot: 克莱尔送孩子上学；菲尔追问是否打扮；克莱尔承认。
+    characters: Phil, Claire
+    timeline: 手术日
+    anchor: Honey, I'm just gonna run them to school.
+  - id: "22"
+    place: Jay 家 · 清晨
+    plot: 曼尼迟到；杰通宵打球；歌洛莉亚质问。
+    characters: Jay, Gloria, Manny
+    timeline: 次日早晨
+    anchor: Manny, we're gonna be late for school.
+  - id: "23"
+    place: Jay 家 · 门口
+    plot: 哈维尔要走；杰送摩托；歌洛莉亚拦曼尼。
+    characters: Jay, Gloria, Javier, Manny
+    timeline: 次日早晨
+    anchor: You're not leaving, are you?
+  - id: "24"
+    place: 户外 · 摩托车
+    plot: 杰带曼尼骑车；歌洛莉亚放话不再管。
+    characters: Jay, Manny, Gloria
+    timeline: 次日早晨
+    anchor: Well, listen, you said you used to like riding motorcycles, right?
+  - id: "25"
+    place: Mitch & Cam 家
+    plot: 卡姆午休擅归；费伯法与浣熊梗争吵。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: You didn't need to come home during nap time.
+  - id: "26"
+    place: Jay 家 · 客厅
+    plot: 哈维尔又爽约；杰被拉去酒吧见球友。
+    characters: Jay, Gloria
+    timeline: 傍晚
+    anchor: Hey, did Javier call you?
+  - id: "27"
+    place: 邓菲家
+    plot: 菲尔出院回家；夫妻谈消防员事件道歉。
+    characters: Phil, Claire
+    timeline: 菲尔回家后
+    anchor: The kids are so excited for you to come home.
+  - id: "28"
+    place: 邓菲家 · 旁白
+    plot: 菲尔「愧疚金牌」独白；邻居魔术打断巴黎梦。
+    characters: Phil
+    timeline: 同日
+    anchor: "Here's the deal: Claire messed up."
+  - id: "29"
+    place: Mitch & Cam 家
+    plot: 卡姆脚伤；好坏警察分工；伴走红毯。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: How's your ankle?
+  - id: "30"
+    place: 邓菲家 · 片尾
+    plot: 海莉问该学哪种大人；全家各怀鬼胎；纸牌魔术。
+    characters: Haley, Phil, family
+    timeline: 片尾 tag
+    anchor: So, if I'm supposed to act like an adult,

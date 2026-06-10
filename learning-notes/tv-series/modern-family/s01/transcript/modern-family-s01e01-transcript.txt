@@ -2,6 +2,28 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E01 
+
+## 场景分段索引（S01E01 · 三家庭纪录片式首集 / 领养晚宴揭晓）
+
+字幕正文按镜头插入 `【场景 xx / 29】`；邓菲家、Jay 家、Mitch & Cam 三线平行交叉剪辑，汇聚领养晚宴。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–08 | 邓菲家 / 足球场 / 飞机 | 清晨闹剧；足球 Jay 线；飞机上领养归国 |
+| 09–11 | 邓菲家 | Dylan 预告；BB 枪；家法日程 |
+| 12–14 | Jay 家 / 车内 | Gloria 争吵；曼尼告白；白衬衫警告 |
+| 15–17 | Mitch & Cam 家 | Lily 哄睡；天使壁画；晚宴摊牌 |
+| 18–19 | 邓菲家 | Dylan 上门；Phil「震慑」与婴儿油 |
+| 20–21 | 商场 | 曼尼情诗；Gloria 劝 Jay；告白被拒 |
+| 22–25 | 邓菲家 | Alex 监视；厨房八卦；射卢克；Claire 闯房 |
+| 26–28 | Mitch & Cam 家 · 晚宴 | Jay 敲门习惯；全家聚餐；领养揭晓与和解 |
+| 29 | 尾声 | 曼尼歌；Phil 与 Luke 篮球 |
+
+----------------------
+【场景 01 / 29】邓菲家 · 清晨客厅
+★ 剧情：叫孩子吃早饭；海莉短裙之争；卢克卡栏杆；菲尔育儿旁白。
+★ 人物：Phil, Claire, Haley, Luke, Alex
+★ 时间线：首集开场（当日早晨）
 ----------------------
 - Kids, breakfast!
  孩子们  吃早饭了 
@@ -90,6 +112,12 @@ S01E01
 - I've done our job.
  我就算完成了我俩的任务 
 
+----------------------
+【场景 02 / 29】足球场 · 曼尼比赛
+★ 剧情：歌洛莉亚场边加油；杰劝她冷静；曼尼踢球受挫。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同日早晨（平行线 A）
+----------------------
 - Vamos, Manny! Kick it! Kick it!
  加油  曼尼  踢球啊  踢啊 
 
@@ -102,6 +130,12 @@ S01E01
 - No! No, no.
  不  不  不要啊 
 
+----------------------
+【场景 03 / 29】足球场 · 场边冲突
+★ 剧情：对方球员绊倒曼尼；歌洛莉亚与莱恩妈妈起冲突。
+★ 人物：Gloria, Jay, Manny, Ryan's mom
+★ 时间线：比赛上半场
+----------------------
 - He tripped him, Jay. Where's the penalty?
  他下绊子  杰  怎么没人吹犯规 
 
@@ -111,6 +145,12 @@ S01E01
 - Let's take it down a notch.
  你小点声叫喊 
 
+----------------------
+【场景 04 / 29】纪录片旁白 · Jay & Gloria
+★ 剧情：交代两人背景差异：城市商人 vs 哥伦比亚山村。
+★ 人物：Gloria (VO), Jay
+★ 时间线：比赛间隙（旁白框）
+----------------------
 - We're very different.
  我们是不同世界的人 
 
@@ -159,6 +199,12 @@ S01E01
 - He spent the first half with his hand in his pants!
  他整个上半场光忙着抓裤裆了 
 
+----------------------
+【场景 05 / 29】足球场 · Josh 误会
+★ 剧情：歌洛莉亚忍六周终于回怼；乔希误以为杰是歌洛莉亚父亲。
+★ 人物：Gloria, Jay, Josh, Ryan's dad
+★ 时间线：比赛结束后
+----------------------
 - I've wanted to tell her off for the last six weeks.
  那话我6周来一直想对她说来着 
 
@@ -204,6 +250,12 @@ S01E01
 - She's an angel. You and your wife must be thrilled.
  她像个小天使  你们夫妻俩一定很激动 
 
+----------------------
+【场景 06 / 29】飞机上 · 领养归国
+★ 剧情：米奇尔与卡梅隆带莉莉从越南回家；介绍领养经过。
+★ 人物：Mitchell, Cameron, Lily, 乘客
+★ 时间线：同日（平行线 B）
+----------------------
 - Sorry, sorry, sorry. Daddy needed snacks.
  抱歉  我来晚了  老爹去买点心了 
 
@@ -231,6 +283,12 @@ S01E01
 - No, thank you. Ick.
  还是算了吧  想想就怕 
 
+----------------------
+【场景 07 / 29】飞机上 · 「泡芙」演讲
+★ 剧情：米奇尔因被忽视欲演讲；被卡梅隆打断后请客赔礼。
+★ 人物：Mitchell, Cameron
+★ 时间线：落地前
+----------------------
 - You saw that, right? Everybody fawning over Lily,
  你看到没  大家本来在逗莉莉玩 
 
@@ -288,6 +346,12 @@ S01E01
 - We would like to pay for everyone's headsets.
  各位的耳机费我们请了 
 
+----------------------
+【场景 08 / 29】邓菲家 · 客厅
+★ 剧情：卢克再卡栏杆；菲尔解救「亚瑟王之剑」。
+★ 人物：Phil, Luke, Claire
+★ 时间线：交叉切回邓菲线
+----------------------
 - Buddy. Why do you keep getting stuck like this?
  兄弟  你怎么老是卡在这里面 
 
@@ -303,6 +367,12 @@ S01E01
 - Excalibur.
  亚瑟王之剑拔出来了 
 
+----------------------
+【场景 09 / 29】邓菲家 · Dylan 预告
+★ 剧情：海莉首次带男生回家；菲尔自封酷爸爸大秀《歌舞青春》。
+★ 人物：Haley, Phil, Claire, Luke, Alex
+★ 时间线：同日白天
+----------------------
 -  I'm having a friend over today. - Who?
  今天我有朋友来家里玩  -谁啊  
 
@@ -399,6 +469,12 @@ S01E01
 -  Language!  They're only plastic BBs. It was an accident.
  别说脏话  -只是塑料枪  这是意外 
 
+----------------------
+【场景 10 / 29】邓菲家 · BB 枪事故
+★ 剧情：卢克用气枪射中海莉；克莱尔要菲尔兑现家法。
+★ 人物：Haley, Luke, Phil, Claire
+★ 时间线：同日白天
+----------------------
 - What did I tell you would happen if you got him a gun?
  早就告诉你  给他枪就会出事 
 
@@ -408,6 +484,12 @@ S01E01
 - That's it? That's- No, no, no, no.
  这就完了吗  不行  不行 
 
+----------------------
+【场景 11 / 29】邓菲家 · 家法日程
+★ 剧情：夫妻认真讨论「射卢克」的预约时间；排进日程。
+★ 人物：Phil, Claire, Luke
+★ 时间线：事故后不久
+----------------------
 - The agreement was that if he shoots someone, you shoot him.
  我们说好他用枪射了别人  你就得射他的 
 
@@ -453,6 +535,12 @@ S01E01
 - Oh, come on!
  别这样啊 
 
+----------------------
+【场景 12 / 29】Jay 家 / 足球场余波
+★ 剧情：曼尼要quit足球；歌洛莉亚与杰吵情绪问题。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同日（平行线 A 续）
+----------------------
 - I'm quitting soccer. It is a game for children.
  我不想踢足球了  那是小孩儿玩的 
 
@@ -495,6 +583,12 @@ S01E01
 - Manny, you're with me on this, right?
  曼尼  你也这么觉得吧 
 
+----------------------
+【场景 13 / 29】Jay 家 · 曼尼告白计划
+★ 剧情：曼尼要向布兰达·费德曼表白；要去商场。
+★ 人物：Manny, Jay, Gloria
+★ 时间线：午后
+----------------------
 - I wanna tell Brenda Feldman I love her.
  我要告诉布兰达·费德曼我爱她 
 
@@ -513,6 +607,12 @@ S01E01
 - Okay. If that's what you really want to do.
  好吧  如果你真想这么做的话 
 
+----------------------
+【场景 14 / 29】车内 → 路边
+★ 剧情：杰警告白衬衫告白后果；曼尼下车采花；歌洛莉亚讲前夫。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：去商场途中
+----------------------
 - Seriously. Not to be the evil stepdad,
  说真的  不是我要当恶毒的后爹 
 
@@ -564,6 +664,12 @@ S01E01
 - This doesn't worry you?
  你不担心吗 
 
+----------------------
+【场景 15 / 29】Mitch & Cam 家 · 婴儿房
+★ 剧情：莉莉不肯睡；卡梅隆与米奇尔为体型玩笑起争执后和好。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：同日傍晚前（平行线 B 续）
+----------------------
 - She barely slept on the plane and she's still wide awake.
  她在飞机上就没怎么睡  现在还很清醒 
 
@@ -624,6 +730,12 @@ S01E01
 - Yes, I
  当然  我 
 
+----------------------
+【场景 16 / 29】Mitch & Cam 家 · 壁画
+★ 剧情：Andre 画了天使守护壁画；米奇尔嫌太 gay。
+★ 人物：Mitchell, Cameron
+★ 时间线：傍晚
+----------------------
 - What the hell is that?
  这是什么玩意 
 
@@ -708,6 +820,12 @@ S01E01
 - I'm so- I'm so relieved you understand.
  你能理解我  真是让我松了一口气 
 
+----------------------
+【场景 17 / 29】Mitch & Cam 家 · 晚宴摊牌
+★ 剧情：米奇尔瞒着家人领养；卡梅隆已邀全家今晚吃饭逼坦白。
+★ 人物：Mitchell, Cameron
+★ 时间线：晚宴前
+----------------------
 - I invited them over for dinner tonight.
  所以我邀请了他们今晚来吃饭 
 
@@ -732,6 +850,12 @@ S01E01
 - Are- Are you really not hearing these names?
  你自己听听  这些名字有多娘 
 
+----------------------
+【场景 18 / 29】邓菲家 · 门口
+★ 剧情：迪兰上门；克莱尔催菲尔给下马威。
+★ 人物：Haley, Dylan, Claire, Phil
+★ 时间线：与海莉约会平行
+----------------------
 - Don't answer it! I'll get it!
  你们别管了  我来开门 
 
@@ -759,6 +883,12 @@ S01E01
 - You have to scare him.
  你得给他个下马威 
 
+----------------------
+【场景 19 / 29】邓菲家 · 客厅
+★ 剧情：菲尔「嘻哈」震慑失败；踩婴儿油滑倒；硬撑强壮。
+★ 人物：Phil, Dylan, Haley, Claire
+★ 时间线：迪兰到访中段
+----------------------
 - Let me meet this "Playa."
  让我瞧瞧这个花心大少 
 
@@ -840,6 +970,12 @@ S01E01
 - and we should be fine. So
  就没事了 
 
+----------------------
+【场景 20 / 29】商场 · 曼尼告白
+★ 剧情：曼尼念情诗准备表白；杰想花钱阻止。
+★ 人物：Manny, Jay, Gloria
+★ 时间线：平行线 A 高潮
+----------------------
 - Brenda Feldman.
  布兰达·费尔曼 
 
@@ -897,6 +1033,12 @@ S01E01
 - You should only care what I think.
  你只要在乎我的想法就行了 
 
+----------------------
+【场景 21 / 29】商场 · Gloria 劝 Jay
+★ 剧情：歌洛莉亚安抚杰的年龄焦虑；曼尼被拒得「警长」画像。
+★ 人物：Gloria, Jay, Manny, Brenda Feldman
+★ 时间线：商场同日
+----------------------
 - I love you, and I don't care how old you are.
  我爱你  我不在意你的年纪 
 
@@ -960,6 +1102,12 @@ S01E01
 - We ask that all mall-walkers stay to the right.
  在商场散步锻炼的人必须靠右边走 
 
+----------------------
+【场景 22 / 29】邓菲家 · 楼上
+★ 剧情：艾丽克斯打扰海莉与迪兰；被克莱尔制止。
+★ 人物：Alex, Haley, Dylan, Claire
+★ 时间线：约会进行中
+----------------------
 - Alex, get out! Mom!
  艾丽克斯  出去  妈妈你看她 
 
@@ -981,6 +1129,12 @@ S01E01
 - Okay. Okay.
  很好  很好 
 
+----------------------
+【场景 23 / 29】邓菲家 · 厨房
+★ 剧情：克莱尔做晚宴蛋糕；艾丽克斯八卦同学假病怀孕。
+★ 人物：Claire, Alex, Luke
+★ 时间线：傍晚
+----------------------
 - Um, I'm making a cake for tonight.
  我在为今晚的聚餐准备蛋糕 
 
@@ -1053,6 +1207,12 @@ S01E01
 - I know. I was just like her when I was
  我明白  因为她和我当年一模一... 
 
+----------------------
+【场景 24 / 29】邓菲家 · 后院/射击
+★ 剧情：菲尔按约「射」卢克教训；下不了手但达到震慑。
+★ 人物：Phil, Luke, Claire
+★ 时间线：下午 4:15 前后
+----------------------
 - I want you to know, I'm not enjoying this.
  要知道  我也不想这么做 
 
@@ -1077,6 +1237,12 @@ S01E01
 - The point is you're scared. I think you've learned your lesson.
  就是要让你害怕  你已经学到教训了 
 
+----------------------
+【场景 25 / 29】邓菲家 · 海莉卧室
+★ 剧情：克莱尔送洗衣闯房；坚持开门监视；海莉崩溃。
+★ 人物：Claire, Haley, Dylan, Phil
+★ 时间线：约会后段
+----------------------
 - Mom! What are you doing?
  妈  你干什么啊 
 
@@ -1137,6 +1303,12 @@ S01E01
 - My dad.
  我爸 
 
+----------------------
+【场景 26 / 29】Mitch & Cam 家 · 聚餐前
+★ 剧情：杰进门先喊防亲嘴；米奇尔仍郁闷被 Cam 逼坦白。
+★ 人物：Mitchell, Cameron, Jay (VO)
+★ 时间线：晚宴即将开始
+----------------------
 - Uh, my dad still isn't completely comfortable with this.
  我爸对这事还是不太习惯 
 
@@ -1188,6 +1360,12 @@ S01E01
 - Sorry.
  抱歉 
 
+----------------------
+【场景 27 / 29】Mitch & Cam 家 · 晚宴开门
+★ 剧情：邓菲家与 Jay 家到齐；互赠礼物；铺垫重大消息。
+★ 人物：Phil, Claire, Jay, Gloria, Mitchell, Cameron
+★ 时间线：当晚
+----------------------
 -  How are you? - Hi, guys. Hey.
  你好啊  -大家好啊 
 
@@ -1329,6 +1507,12 @@ S01E01
 - who, by the way, is not that dramatic
  而且他才没有小题大做 
 
+----------------------
+【场景 28 / 29】Mitch & Cam 家 · 领养揭晓
+★ 剧情：米奇尔宣布领养莉莉；全家争执后 Jay 送上「背后春风」。
+★ 人物：Mitchell, Cameron, Jay, Gloria, Phil, Claire, 全家
+★ 时间线：晚宴高潮
+----------------------
 - We adopted a baby.
  我们领养了一个宝宝 
 
@@ -1449,6 +1633,12 @@ S01E01
 - Feldman comma Brenda."
  布兰达·费尔曼 
 
+----------------------
+【场景 29 / 29】尾声 · 各线收束
+★ 剧情：曼尼对布兰达的歌；菲尔与卢克篮球；多元家庭主题落点。
+★ 人物：Manny, Phil, Luke, Jay, Mitchell, Lily
+★ 时间线：片尾 tag
+----------------------
 - I mean, seriously.
  不是吧我靠 
 
@@ -1490,4 +1680,3 @@ S01E01
 
 - two out of three and just see what happens there, but
  三局两胜才算赢  再来一局什么的 
-

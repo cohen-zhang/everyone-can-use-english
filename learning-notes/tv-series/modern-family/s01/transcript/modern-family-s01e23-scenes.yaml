@@ -1,0 +1,169 @@
+# Scene markers for modern-family-s01e23-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E23
+episode_arc: 茂宜度假 / 补办婚礼
+timeline_note: 酒店多线 + Phil–Claire 沙滩婚礼 flash-forward 收尾
+
+index_groups:
+  - scenes: "01–03"
+    place: 茂宜 · 酒店
+    summary: 拍照重拍；蜜月未遂；入住四季
+  - scenes: "04–06"
+    place: 酒店泳池 / 健身
+    summary: tween 搭讪；榕树游；Jay 弟电话
+  - scenes: "07–09"
+    place: 酒店
+    summary: Phil 扔手机；Jay 拉练；Manny 室友
+  - scenes: "10–12"
+    place: 酒店
+    summary: 薰衣草分歧；Jay 划艇；Haley 刨冰
+  - scenes: "13–15"
+    place: 酒店
+    summary: Elton John 谎言；Manny 被赶；Haley 醉酒
+  - scenes: "16–18"
+    place: 酒店
+    summary: 寻 Lily；Jay 卡吊床；生日夜谈心
+  - scenes: "19–23"
+    place: 酒店 / 沙滩 / 航班
+    summary: 假期收尾；沙滩婚礼；回程 tag
+
+scenes:
+  - id: "01"
+    place: 茂宜 · 片头拍照
+    plot: Cam 坚持重拍 Lily aloha；Claire 本想来 Hawaii 蜜月。
+    characters: Cameron, Mitchell, Phil, Claire
+    timeline: 抵达日
+    anchor: Aloha, Lily. - Aloha.
+  - id: "02"
+    place: 酒店外
+    plot: Phil 公主抱 Claire 被拒；Claire：带娃是出差不是 vacation。
+    characters: Phil, Claire
+    timeline: 抵达日
+    anchor: Honey, come on.
+  - id: "03"
+    place: 四季酒店 · 大堂
+    plot: 入住；Manny 宾至如归；Luke 发现熨斗。
+    characters: 全家, staff
+    timeline: 抵达日
+    anchor: Hi! Welcome to the Four Seasons Maui.
+  - id: "04"
+    place: 酒店 · 泳池区
+    plot: Manny 想搭讪 tween；Claire 盯孩子涂防晒。
+    characters: Manny, Mitchell, Claire, Haley
+    timeline: 首日
+    anchor: I noticed some lovely tweens down by the kids' club.
+  - id: "05"
+    place: 酒店
+    plot: Cam 邀看 banyan tree；Jay 拒绝离开 paradise；Cam 旁白 Elunga。
+    characters: Cameron, Jay, Mitchell
+    timeline: 首日
+    anchor: We're on our way to see the world's largest banyan tree.
+  - id: "06"
+    place: 酒店 · Jay 房间
+    plot: Jay 弟 Don 电话：63 岁与亡父同龄；Jay 去健身房。
+    characters: Jay, Gloria, Don (phone)
+    timeline: Jay 生日前日
+    anchor: My brother.
+  - id: "07"
+    place: 酒店 · 无限泳池
+    plot: Phil 为 woo Claire 扔手机进池；Claire 又气又爽。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: Claire, consider this a grand gesture of my love.
+  - id: "08"
+    place: 酒店 · Jay 房间
+    plot: Phil 旁白：父亲吃幼崽换 honeymoon；Jay 拉 Gloria 起床划艇。
+    characters: Phil, Jay, Gloria
+    timeline: Jay 生日当日
+    anchor: In nature, fathers are known to eat their young.
+  - id: "09"
+    place: Mitch & Cam 房间
+    plot: Manny 折一切/fire drill；Cam 邀 lavender ranch。
+    characters: Mitchell, Cameron, Manny
+    timeline: 次日
+    anchor: Manny is the worst roommate ever.
+  - id: "10"
+    place: 酒店
+    plot: 孩子不愿跟 Cam 去 ranch；Cam 坦白不爱每分每秒探险。
+    characters: Mitchell, Cameron, kids
+    timeline: 次日
+    anchor: So, what's today's big adventure?
+  - id: "11"
+    place: 酒店 · 儿童池
+    plot: Cam 独自 off；Jay 划 outrigger 撞人；Gloria 订网球场。
+    characters: Jay, Gloria, Mitchell, Cameron
+    timeline: 次日
+    anchor: I can't. - What?
+  - id: "12"
+    place: 酒店 · 儿童池
+    plot: Jay 划 outrigger 太猛；Gloria 订网球场。
+    characters: Jay, Gloria, kids
+    timeline: 次日
+    anchor: Hey, Jay! Be careful!
+  - id: "13"
+    place: 酒店 · 泳池
+    plot: Haley 要去隔壁刨冰；Claire 学放手；Phil 猛虎之眼。
+    characters: Claire, Phil, Haley
+    timeline: 同日
+    anchor: I'm gonna go get some shaved ice at the hotel
+  - id: "14"
+    place: 酒店 · Mitch 归来
+    plot: Mitch 编造 Elton John 弹 lavender piano 报复 Cam。
+    characters: Mitchell, Cameron
+    timeline: 傍晚
+    anchor: Ah! Cameron, it was the most incredible thing
+  - id: "15"
+    place: Mitch & Cam 房间
+    plot: Manny 被 Gloria 赶出；熨斗烤奶酪；亚麻夹克大战。
+    characters: Manny, Gloria, Mitchell
+    timeline: 夜晚
+    anchor: I want you out! This isn't working!
+  - id: "16"
+    place: 酒店
+    plot: Jay 失踪；Haley 醉酒呕吐；Claire 自责放手。
+    characters: Claire, Phil, Haley, Gloria
+    timeline: 生日晚宴前
+    anchor: And where is your sister? - She is in our bathroom throwing up.
+  - id: "17"
+    place: 酒店 · 寻 Lily
+    plot: Mitch–Cam 又丢 Lily；Claire 教育 Haley 酒后危险。
+    characters: Mitchell, Cameron, Claire, Haley
+    timeline: 晚宴前后
+    anchor: Oh, my God! Lily! Where is the elevator?
+  - id: "18"
+    place: 酒店 · 吊床
+    plot: Jay 腰闪卡在吊床；Phil「 hurricane」帮忙反更糟。
+    characters: Jay, Phil, Gloria
+    timeline: 并行
+    anchor: Jay?
+  - id: "19"
+    place: 酒店 · Jay 生日夜
+    plot: Gloria 谈 Jay 亡父；Jay 练太狠；二人调情收尾。
+    characters: Jay, Gloria
+    timeline: 生日夜
+    anchor: My back seized up.
+  - id: "20"
+    place: 酒店 · 早餐 · 旁白
+    plot: 旁白：假期余下更好；Jay 得所愿；Cam 丢 Lily 在香蕉园。
+    characters: narrators, 全家
+    timeline: 假期后段
+    anchor: The rest of the trip went better.
+  - id: "21"
+    place: 酒店 · Phil–Claire
+    plot: 仍没蜜月；Claire 期望过高；Phil 仍 sweet。
+    characters: Phil, Claire
+    timeline: 倒数日
+    anchor: But we never did get that honeymoon.
+  - id: "22"
+    place: 茂宜沙滩 · 婚礼
+    plot: Phil 意识到缺婚礼；现场补办 vows；Phil 走 Claire down aisle。
+    characters: Phil, Claire, Jay, 全家
+    timeline: 度假末（闪前）
+    anchor: I figured out why we couldn't have a honeymoon.
+  - id: "23"
+    place: 回程航班 · tag
+    plot: Phil 要 Claire 再婚选 Vicky；Haley 插话；Phil 被怼。
+    characters: Phil, Claire, Haley
+    timeline: 回程 tag
+    anchor: You know, honey,

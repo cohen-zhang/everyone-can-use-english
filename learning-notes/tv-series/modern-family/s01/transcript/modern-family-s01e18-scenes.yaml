@@ -1,0 +1,142 @@
+# Scene markers for modern-family-s01e18-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E18
+episode_arc: 管教之争 / 梵高课题 / 流星雨 / Cam 歌洛莉亚之夜
+timeline_note: 克莱尔菲尔管教卢克；米奇杰看流星；卡姆歌洛莉亚拉丁餐馆；卢克完成展板
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家
+    summary: 自然频道旁白；纸杯蛋糕与梵高分工
+  - scenes: "03–05"
+    place: 邓菲家外 / 车内
+    summary: 流星雨等待；卡姆紧张；帕莱索改拉丁餐
+  - scenes: "06–08"
+    place: 邓菲家 / 车内
+    summary: 鸡蛋陷阱；梵高引导；杰曼尼米奇兄弟相处
+  - scenes: "09–11"
+    place: 野外 / 餐馆
+    summary: 黄鼠狼臭液；卡姆吃辣；克莱尔接管
+  - scenes: "12–15"
+    place: 餐馆 / 街头
+    summary: 裙子秘密；杰安慰米奇；旧街区车轮被盗
+  - scenes: "16–19"
+    place: 邓菲家
+    summary: 卢克完成展板；克莱尔放手；流星尾声
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 旁白冷开场
+    plot: 菲尔自然频道放松；海龟转暴力旁白。
+    characters: Phil(旁白)
+    timeline: 课题截止前夜
+    anchor: What's my favorite way to relax?
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔分配纸杯蛋糕与梵高课题；夫妻管教之争。
+    characters: Claire, Phil, Haley, Luke, Alex
+    timeline: 截止前夜傍晚
+    anchor: Because you are acting very irresponsibly- all of you.
+  - id: "03"
+    place: 邓菲家外 · 路边
+    plot: 海莉等流星；米奇与父亲数年一度观星传统。
+    characters: Haley, Gloria, Mitchell
+    timeline: 同日晚间
+    anchor: You out here on the curb with your little telescope,
+  - id: "04"
+    place: 车内 · Cam & Gloria
+    plot: 卡姆紧张邀约；布朗大学口误阴影。
+    characters: Cameron, Gloria
+    timeline: 同日晚间（平行线）
+    anchor: Cameron, are you okay? You seem nervous.
+  - id: "05"
+    place: 车内 → 帕莱索 / 拉丁餐馆
+    plot: 预订帕莱索；歌洛莉亚改简陋拉丁小馆。
+    characters: Cameron, Gloria
+    timeline: 晚间
+    anchor: because I got us into Palaiseau!
+  - id: "06"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔鸡蛋教学；菲尔旁白「奶酪陷阱」。
+    characters: Claire, Haley, Phil(旁白)
+    timeline: 晚间
+    anchor: Okay. It's egg-crackin' time.
+  - id: "07"
+    place: 邓菲家 · 卢克房间
+    plot: 菲尔新方法引导梵高展板；分两面；跑题铅笔。
+    characters: Phil, Luke
+    timeline: 晚间
+    anchor: We are going to try a new approach this time.
+  - id: "08"
+    place: Jay 的车 · 去看流星
+    plot: 父子天文玩笑；杰教曼尼兄弟相处；抢副驾驶。
+    characters: Jay, Manny, Mitchell
+    timeline: 晚间
+    anchor: Hey, Jay. Look who thinks
+  - id: "09"
+    place: 野外观星点
+    plot: 曼尼被黄鼠狼喷；只穿裙子毯子。
+    characters: Jay, Manny, Mitchell
+    timeline: 晚间
+    anchor: I got sprayed by a skunk!
+  - id: "10"
+    place: 拉丁小餐馆
+    plot: 卡姆点辣得跳逞强；汗如雨下；米奇劝阻喝水。
+    characters: Cameron, Gloria, Mitchell
+    timeline: 晚间
+    anchor: Mi amigo Cameron.
+  - id: "11"
+    place: 邓菲家
+    plot: 艾丽克斯读 ADHD 症状；菲尔摔楼梯找墨镜。
+    characters: Alex, Claire, Phil
+    timeline: 晚间
+    anchor: Listen to these symptoms of A.D.H.D.
+  - id: "12"
+    place: 邓菲家
+    plot: 克莱尔不满菲尔失职；亲自严管卢克。
+    characters: Claire, Phil, Luke
+    timeline: 晚间
+    anchor: I asked you to do one thing- stay on top of Luke.
+  - id: "13"
+    place: 拉丁餐馆 / 后巷
+    plot: 歌洛莉亚坦白买贵裙子藏车里；卡姆帽子故事；闺蜜和解。
+    characters: Cameron, Gloria
+    timeline: 晚间
+    anchor: I bought a dress.
+  - id: "14"
+    place: 野外观星点
+    plot: 杰向米奇解释邀他原因；曼尼没被邀请派对。
+    characters: Jay, Mitchell, Manny
+    timeline: 晚间
+    anchor: I'm sorry if things got a little out of hand back there,
+  - id: "15"
+    place: 歌洛莉亚旧街区
+    plot: 回忆哈维尔后廉价公寓；车轮被卸；歌洛莉亚追凶。
+    characters: Cameron, Gloria
+    timeline: 深夜
+    anchor: I used to live down here, you know.
+  - id: "16"
+    place: 邓菲家 · 卢克房间
+    plot: 卢克完成梵高展板；土豆耳朵与钞票；父母骄傲。
+    characters: Luke, Phil, Claire
+    timeline: 深夜
+    anchor: I did it.
+  - id: "17"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔对海莉反向放手；700度烤箱纸杯蛋糕灾难。
+    characters: Claire, Haley, Alex
+    timeline: 深夜
+    anchor: I showed you how to make 'em,
+  - id: "18"
+    place: 野外观星点
+    plot: 米奇与曼尼谈「怪」与成长；兄弟不必听杰的。
+    characters: Mitchell, Manny, Jay
+    timeline: 深夜
+    anchor: So, I know you'd never, um
+  - id: "19"
+    place: 邓菲家 · 尾声
+    plot: 全家看流星；卢克外星人解说；纸杯蛋糕焦糊。
+    characters: 全家, Luke
+    timeline: 深夜 tag
+    anchor: Why did he paint The Starry Night?

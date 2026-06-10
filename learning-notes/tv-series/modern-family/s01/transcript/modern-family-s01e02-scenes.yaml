@@ -1,0 +1,193 @@
+# Scene markers for modern-family-s01e02-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E02
+episode_arc: 卢克新车 / 偷车教训 / 亲子课
+timeline_note: 邓菲、Jay、Mitch & Cam 三线平行，菲尔「假偷真偷」自行车闹剧
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 · 街区
+    summary: 伟大父亲冷开场；德希蕾邻居；女式车与新车
+  - scenes: "04–05"
+    place: Mitch & Cam / Jay 家
+    summary: 亲子课着装；纳帕酒庄之旅
+  - scenes: "06–07"
+    place: 自行车店 / Jay 家
+    summary: 卢克提车；曼尼与杰装吊扇
+  - scenes: "08–10"
+    place: 亲子课
+    summary: 入园紧张；菲尔假偷策划；新家庭亮相
+  - scenes: "11–13"
+    place: 德希蕾家 / 自行车店
+    summary: 爬窗帮忙；真被偷；再买一辆
+  - scenes: "14–17"
+    place: Jay 家 / 邓菲家
+    summary: 吊扇争吵；卢克刮花；菲尔还车计划
+  - scenes: "18–20"
+    place: Jay 家 / 邓菲家
+    summary: 曼尼与杰决裂；克莱尔揭穿；德希蕾还车
+  - scenes: "21–24"
+    place: 亲子课
+    summary: 积木攀比；莉莉字母歌；偷录像；父母舞
+  - scenes: "25–26"
+    place: 赌场 / 邓菲家 · 尾声
+    summary: 哈维尔爽约； limo 迪士尼；偷车贼与苏菲抉择 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨（冷开场）
+    plot: 菲尔旁白：成为伟大父亲的秘诀；与克莱尔斗嘴。
+    characters: Phil, Claire
+    timeline: 当日早晨
+    anchor: "What's the key to being a great dad?"
+  - id: "02"
+    place: 邓菲家 · 门口
+    plot: 遇见新邻居德希蕾；菲尔房产中介职业病；克莱尔警惕。
+    characters: Phil, Claire, Luke, Desiree
+    timeline: 同日早晨
+    anchor: Hi, Claire. - Hey.
+  - id: "03"
+    place: 邓菲家 · 车道
+    plot: 卢克骑姐姐旧车；菲尔决定下午买新车；旁白担心霸凌。
+    characters: Phil, Claire, Luke
+    timeline: 同日早晨
+    anchor: "My son has been riding his sister's old bike."
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 赶亲子课；卡姆花哨着装；米切尔求低调。
+    characters: Mitchell, Cameron
+    timeline: 亲子课前（平行线）
+    anchor: "Cam, come on. Hurry up. We're gonna be late."
+  - id: "05"
+    place: Jay 家 · 客厅
+    plot: 纳帕酒庄升级套房；曼尼去迪士尼；杰与歌洛莉亚二人世界。
+    characters: Jay, Gloria
+    timeline: 同日（平行线 B）
+    anchor: Hey, I called that place in Napa and
+  - id: "06"
+    place: 自行车店
+    plot: 卢克喜提酷车；菲尔强调责任；约定三点前回家。
+    characters: Phil, Luke
+    timeline: 下午
+    anchor: Dad, this is the coolest bike ever. - Awesome.
+  - id: "07"
+    place: Jay 家 · 曼尼卧室
+    plot: 装吊扇；曼尼夸父亲超人；杰旁白吐槽前夫。
+    characters: Jay, Manny
+    timeline: 下午（平行线 B）
+    anchor: "In Colombia there's a saying:"
+  - id: "08"
+    place: 亲子课 · 教室外
+    plot: 米切尔紧张第一印象；卡姆承诺收敛。
+    characters: Mitchell, Cameron, Lily
+    timeline: 亲子课时段
+    anchor: "I can't believe I'm so nervous."
+  - id: "09"
+    place: 邓菲家 · 旁白 / 车道
+    plot: 菲尔发现卢克没锁车；决定假偷教训；旁白 Tough Guy。
+    characters: Phil
+    timeline: 卢克骑车离开后
+    anchor: Ten minutes after making a promise to me,
+  - id: "10"
+    place: 亲子课 · 教室
+    plot: 新家庭自我介绍；Hello Dance；莉莉月龄攀比。
+    characters: Mitchell, Cameron, Lily, 其他家长
+    timeline: 亲子课进行中
+    anchor: Everyone, we have a new family joining us today.
+  - id: "11"
+    place: 德希蕾家 · 窗外
+    plot: 德希蕾锁门外求助；菲尔爬窗；内心独白克制欲望。
+    characters: Phil, Desiree
+    timeline: 下午
+    anchor: 0h, hey. - Hey! Hi.
+  - id: "12"
+    place: 邓菲车道
+    plot: 菲尔发现车真被偷；德希蕾提议帮忙找。
+    characters: Phil, Desiree
+    timeline: 紧接上一场景
+    anchor: "Uh-oh. - What's wrong?"
+  - id: "13"
+    place: 自行车店
+    plot: 菲尔 narration 真偷；议价再买；保险反被坑。
+    characters: Phil, 店员
+    timeline: 下午
+    anchor: So, to teach him a lesson, I took his bike,
+  - id: "14"
+    place: Jay 家 · 曼尼卧室
+    plot: 歌洛莉亚出门采购；杰与曼尼装扇受挫；曼尼帮倒忙。
+    characters: Jay, Gloria, Manny
+    timeline: 下午
+    anchor: "What's going on in there?"
+  - id: "15"
+    place: 邓菲家 · 卢克房间
+    plot: 菲尔质问卢克；卢克承认刮花车道；非失窃。
+    characters: Phil, Luke
+    timeline: 傍晚
+    anchor: You blew it. You made me look bad.
+  - id: "16"
+    place: 邓菲家 · 旁白
+    plot: 菲尔计划把新车放回偷车处；德希蕾爬窗旧事。
+    characters: Phil
+    timeline: 傍晚
+    anchor: The good news is, Luke has his bike.
+  - id: "17"
+    place: Jay 家
+    plot: 曼尼与杰工具争吵；曼尼赌气等亲生父亲。
+    characters: Jay, Manny
+    timeline: 傍晚
+    anchor: Ah, son of a- You gave me the wrong screwdriver.
+  - id: "18"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔揭穿菲尔偷车闹剧；夫妻和解拥抱。
+    characters: Phil, Claire
+    timeline: 傍晚
+    anchor: I mean, I don't understand.
+  - id: "19"
+    place: 德希蕾家 / 邓菲家
+    plot: 德希蕾送还自行车；「Classic me」再打脸。
+    characters: Phil, Claire, Desiree
+    timeline: 傍晚
+    anchor: Hi again. - Oh, hi.
+  - id: "20"
+    place: 亲子课 · 教室
+    plot: 家长聊 Mamma Mia；卡姆为 Meryl Streep 辩护；积木攀比。
+    characters: Mitchell, Cameron, 家长们
+    timeline: 亲子课后段
+    anchor: You gotta grab it like him. - So, seen any movies lately?
+  - id: "21"
+    place: 亲子课 · 教室
+    plot: 莉莉唱字母歌站起；老师录像；卡姆想要拷贝。
+    characters: Mitchell, Cameron, Lily, 老师
+    timeline: 亲子课后段
+    anchor: Q-R-S T-U-V
+  - id: "22"
+    place: 亲子课 · 教室
+    plot: 卡姆偷婴儿知识产权； Anton & Scott 迟到；父母舞。
+    characters: Mitchell, Cameron
+    timeline: 亲子课尾声
+    anchor: I don't know what's happened to me,
+  - id: "23"
+    place: 亲子课 · 舞池
+    plot: 米切尔放卡姆跳 Straight Guy 舞；卡姆受伤。
+    characters: Mitchell, Cameron
+    timeline: 亲子课尾声
+    anchor: Okay, it's time for Parents Dance.
+  - id: "24"
+    place: 赌场 / 电话
+    plot: 哈维尔赌桌爽约；杰撒谎编 limo 迪士尼。
+    characters: Jay, Javier(电话), Manny
+    timeline: 傍晚
+    anchor: Hello. Hey, Javier.
+  - id: "25"
+    place: 邓菲家 · 车道（尾声）
+    plot: 菲尔旁白收尾：90% 是做对在场；真偷车贼出现。
+    characters: Phil, 偷车男孩
+    timeline: 片尾 tag
+    anchor: Okay. The key to being a good dad?
+  - id: "26"
+    place: 邓菲家 · 客厅（tag）
+    plot: 卡姆看 Sophie's Choice 哭到崩溃。
+    characters: Mitchell, Cameron
+    timeline: 片尾 tag
+    anchor: She couldn't forgive herself.

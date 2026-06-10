@@ -1,0 +1,202 @@
+# Scene markers for modern-family-s01e09-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E09
+episode_arc: Luke 生日派对 / Fizbo
+timeline_note: 片头/尾医院 + 中段派对闪回与交叉剪辑
+
+index_groups:
+  - scenes: "01"
+    place: 医院
+    summary: 片头：卢克受伤候诊
+  - scenes: "02–04"
+    place: 邓菲家
+    summary: 生日愿望、策划派对、借设备
+  - scenes: "05"
+    place: Mitch & Cam
+    summary: 小丑 / 礼物之争
+  - scenes: "06–07"
+    place: Jay 家
+    summary: 十字弓；曼尼恋爱建议
+  - scenes: "08–09"
+    place: 宠物店 / Cam 家
+    summary: 租爬宠；Fizbo 上妆
+  - scenes: "10–14"
+    place: 邓菲后院
+    summary: 攀岩墙、Dylan、Fizbo 摊牌、滑索、梳套
+  - scenes: "15–16"
+    place: 加油站 / Jay 家
+    summary: Fizbo 护曼尼；歌洛莉亚安慰
+  - scenes: "17–19"
+    place: 邓菲后院
+    summary: 爬宠吃醋、绳降、曼尼真情
+  - scenes: "20–21"
+    place: 邓菲后院
+    summary: 海莉吃醋；毒蝎出逃
+  - scenes: "22"
+    place: 医院
+    summary: 交叉剪辑
+  - scenes: "23–24"
+    place: 邓菲后院
+    summary: 梳套翻红；十字弓/蝎子/城堡灾难
+  - scenes: "25–26"
+    place: 医院 / 尾声
+    summary: 打石膏；Fizbo 蛋糕；角色收尾
+
+scenes:
+  - id: "01"
+    place: 医院候诊区 · 片头（闪回框）
+    plot: 卢克受伤送医；家人门外等医生。
+    characters: Phil, Claire
+    timeline: 派对事故之后（全集切入点，后文大量闪回）
+    anchor: Do we know anything?
+  - id: "02"
+    place: 邓菲家 · 清晨客厅
+    plot: 菲尔问卢克生日想要什么；感恩节常冲淡生日。
+    characters: Phil, Claire, Luke
+    timeline: 派对当天早晨（闪回主线）
+    anchor: There he is. Big day's coming up.
+  - id: "03"
+    place: 邓菲家 · 客厅（旁白 + 策划）
+    plot: 往年生日被忽视；决定办「史上最棒」生日派对。
+    characters: Phil, Claire
+    timeline: 同日早晨
+    anchor: Every year, Luke's birthday falls right around Thanksgiving,
+  - id: "04"
+    place: 邓菲家 · 门口 / 借物
+    plot: 否决无聊手工桌；借卡拉 OK；邻居问小丑。
+    characters: Phil, Claire, 邻居
+    timeline: 派对前数小时
+    anchor: I feel terrible. We gotta do something. - Oh, yeah.
+  - id: "05"
+    place: Mitch & Cam 家
+    plot: 卡姆坚持要小丑；米切尔反对；讨论礼物卡。
+    characters: Mitchell, Cameron
+    timeline: 派对前（平行线）
+    anchor: Hey, Phil. Are, uh, you getting a clown for today?
+  - id: "06"
+    place: Jay 家 · 客厅
+    plot: Jay 送十字弓；歌洛莉亚反对。
+    characters: Jay, Gloria
+    timeline: 派对前
+    anchor: Hey, Gloria,
+  - id: "07"
+    place: Jay 家 · 客厅
+    plot: 曼尼求恋爱建议；暗恋 Bianca 将出席派对。
+    characters: Jay, Gloria, Manny
+    timeline: 派对前
+    anchor: Hey, pal, how's it going?
+  - id: "08"
+    place: 宠物店 · Jungle Tanya
+    plot: 菲尔租派对恐怖爬宠，嫌不够吓人。
+    characters: Phil, Jungle Tanya
+    timeline: 派对前采买
+    anchor: No, no, no. I want the most dangerous reptile you've got.
+  - id: "09"
+    place: Cam 家 · 化妆 / 旁白
+    plot: 卡姆决定让 Fizbo 出场，取小丑妆。
+    characters: Cameron
+    timeline: 派对即将开始
+    anchor: I couldn't get Luke out of my mind.
+  - id: "10"
+    place: 邓菲后院 · 攀岩墙布置
+    plot: 菲尔瞒克莱尔搭攀岩墙；签免责书、雪葩机。
+    characters: Phil, Claire
+    timeline: 派对开始前
+    anchor: It all happened so fast.
+  - id: "11"
+    place: 邓菲家 / 后院 · 派对前
+    plot: Dylan 忌蛋黄酱；comb sheath 手工桌；菲尔送数学游戏。
+    characters: Claire, Haley, Phil
+    timeline: 派对早段
+    anchor: Mom, just so you know, Dylan cannot have mayonnaise.
+  - id: "12"
+    place: Mitch & Cam 家 · Fizbo 摊牌
+    plot: 卡姆已扮 Fizbo；解释四类小丑；米切尔崩溃。
+    characters: Mitchell, Cameron(Fizbo)
+    timeline: 派对进行中
+    anchor: I'm home.
+  - id: "13"
+    place: 邓菲后院 · 滑索事故
+    plot: 卢克 zip-line 撞树；封锁区域。
+    characters: Phil, Luke
+    timeline: 派对早段
+    anchor: If this tape is found in the future,
+  - id: "14"
+    place: 邓菲后院 · 手工桌
+    plot: 克莱尔邀做梳套；卢克去玩攀岩墙。
+    characters: Claire, Luke
+    timeline: 派对中段
+    anchor: Hey, buddy, you having fun?
+  - id: "15"
+    place: 车内 → 加油站
+    plot: 小丑坐车尴尬；曼尼讲笑话失败；Fizbo 护男友。
+    characters: Mitchell, Cameron(Fizbo), Manny, Bianca
+    timeline: 派对中段
+    anchor: Did you remember to switch the whites to the dryer?
+  - id: "16"
+    place: Jay 家 · 客厅
+    plot: 曼尼受挫；歌洛莉亚：做真实的自己。
+    characters: Gloria, Manny
+    timeline: 派对中段
+    anchor: Mind if I come in?
+  - id: "17"
+    place: 邓菲后院 · 派对 A 线
+    plot: 雪葩、鬣蜥 Lizzy、Dylan 与爬宠女、歌洛莉亚蹦床。
+    characters: Claire, Phil, Gloria, Haley, Dylan, Jungle Tanya
+    timeline: 派对高潮前
+    anchor: Hey, Manny, wanna make a sweet comb sheath?
+  - id: "18"
+    place: 邓菲后院 · 绳降 / Phil 旁白
+    plot: 菲尔鼓励绳降；旁白怕小丑；Fizbo 见卢克。
+    characters: Phil, Luke, Cameron(Fizbo)
+    timeline: 派对高潮前
+    anchor: Now comes the fun part. Rappel down.
+  - id: "19"
+    place: 邓菲后院 · 曼尼 & Bianca
+    plot: 曼尼放弃笑话套路，真诚相处；Jay 恶作剧。
+    characters: Manny, Bianca, Jay, Fizbo
+    timeline: 派对高潮
+    anchor: Look, I came on strong with that whole funny guy bit.
+  - id: "20"
+    place: 邓菲后院 · 海莉 & Jungle Tanya
+    plot: 海莉吃醋；爬宠女与 Dylan 搭讪。
+    characters: Haley, Dylan, Jungle Tanya, Phil
+    timeline: 派对高潮
+    anchor: So, do you keep these at a zoo or something?
+  - id: "21"
+    place: 邓菲后院 · 蝎子出逃
+    plot: 毒蝎丢失；让孩子塞裤腿、小心脚下。
+    characters: Phil, Jungle Tanya, kids
+    timeline: 派对高潮
+    anchor: Hey, jungle lady?
+  - id: "22"
+    place: 医院 · 交叉剪辑
+    plot: 插切候诊；与片头呼应；十字弓礼物再现。
+    characters: Phil, Claire, Jay, Luke
+    timeline: 与派对平行剪辑
+    anchor: Is he okay? - Can we see him?
+  - id: "23"
+    place: 邓菲后院 · 梳套翻红
+    plot: 十字弓教学；comb sheath 意外受欢迎；姐弟谈心。
+    characters: Claire, Phil, Mitchell, Cameron
+    timeline: 派对后段
+    anchor: Come on. Ready?
+  - id: "24"
+    place: 邓菲后院 · 连锁灾难
+    plot: 蝎子！十字弓射充气城堡；曼尼冲进去「救美」。
+    characters: 全家, Fizbo, Manny, Bianca
+    timeline: 派对高潮
+    anchor: Scorpion! Scorpion! Scorpion!
+  - id: "25"
+    place: 医院 · 收尾
+    plot: 卢克踩珠子骨折；打石膏；「最棒的生日」。
+    characters: 全家, Luke
+    timeline: 事故后，呼应片头
+    anchor: Sweetie? Luke?
+  - id: "26"
+    place: 尾声 · 蛋糕与各角色收尾
+    plot: Fizbo 送蛋糕；菲尔恐小丑逃走；曼尼/海莉收尾。
+    characters: Phil, Cameron(Fizbo), Manny, Haley, Luke
+    timeline: 片尾 tag
+    anchor: Fizbo delivery! I brought the cake!

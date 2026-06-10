@@ -1,0 +1,211 @@
+# Scene markers for modern-family-s01e01-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E01
+episode_arc: 三家庭纪录片式首集 / 领养晚宴揭晓
+timeline_note: 邓菲家、Jay 家、Mitch & Cam 三线平行交叉剪辑，汇聚领养晚宴
+
+index_groups:
+  - scenes: "01–08"
+    place: 邓菲家 / 足球场 / 飞机
+    summary: 清晨闹剧；足球 Jay 线；飞机上领养归国
+  - scenes: "09–11"
+    place: 邓菲家
+    summary: Dylan 预告；BB 枪；家法日程
+  - scenes: "12–14"
+    place: Jay 家 / 车内
+    summary: Gloria 争吵；曼尼告白；白衬衫警告
+  - scenes: "15–17"
+    place: Mitch & Cam 家
+    summary: Lily 哄睡；天使壁画；晚宴摊牌
+  - scenes: "18–19"
+    place: 邓菲家
+    summary: Dylan 上门；Phil「震慑」与婴儿油
+  - scenes: "20–21"
+    place: 商场
+    summary: 曼尼情诗；Gloria 劝 Jay；告白被拒
+  - scenes: "22–25"
+    place: 邓菲家
+    summary: Alex 监视；厨房八卦；射卢克；Claire 闯房
+  - scenes: "26–28"
+    place: Mitch & Cam 家 · 晚宴
+    summary: Jay 敲门习惯；全家聚餐；领养揭晓与和解
+  - scenes: "29"
+    place: 尾声
+    summary: 曼尼歌；Phil 与 Luke 篮球
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨客厅
+    plot: 叫孩子吃早饭；海莉短裙之争；卢克卡栏杆；菲尔育儿旁白。
+    characters: Phil, Claire, Haley, Luke, Alex
+    timeline: 首集开场（当日早晨）
+    anchor: Kids, breakfast!
+  - id: "02"
+    place: 足球场 · 曼尼比赛
+    plot: 歌洛莉亚场边加油；杰劝她冷静；曼尼踢球受挫。
+    characters: Jay, Gloria, Manny
+    timeline: 同日早晨（平行线 A）
+    anchor: Vamos, Manny! Kick it! Kick it!
+  - id: "03"
+    place: 足球场 · 场边冲突
+    plot: 对方球员绊倒曼尼；歌洛莉亚与莱恩妈妈起冲突。
+    characters: Gloria, Jay, Manny, Ryan's mom
+    timeline: 比赛上半场
+    anchor: He tripped him, Jay. Where's the penalty?
+  - id: "04"
+    place: 纪录片旁白 · Jay & Gloria
+    plot: 交代两人背景差异：城市商人 vs 哥伦比亚山村。
+    characters: Gloria (VO), Jay
+    timeline: 比赛间隙（旁白框）
+    anchor: We're very different.
+  - id: "05"
+    place: 足球场 · Josh 误会
+    plot: 歌洛莉亚忍六周终于回怼；乔希误以为杰是歌洛莉亚父亲。
+    characters: Gloria, Jay, Josh, Ryan's dad
+    timeline: 比赛结束后
+    anchor: I've wanted to tell her off for the last six weeks.
+  - id: "06"
+    place: 飞机上 · 领养归国
+    plot: 米奇尔与卡梅隆带莉莉从越南回家；介绍领养经过。
+    characters: Mitchell, Cameron, Lily, 乘客
+    timeline: 同日（平行线 B）
+    anchor: Sorry, sorry, sorry. Daddy needed snacks.
+  - id: "07"
+    place: 飞机上 · 「泡芙」演讲
+    plot: 米奇尔因被忽视欲演讲；被卡梅隆打断后请客赔礼。
+    characters: Mitchell, Cameron
+    timeline: 落地前
+    anchor: You saw that, right? Everybody fawning over Lily,
+  - id: "08"
+    place: 邓菲家 · 客厅
+    plot: 卢克再卡栏杆；菲尔解救「亚瑟王之剑」。
+    characters: Phil, Luke, Claire
+    timeline: 交叉切回邓菲线
+    anchor: Buddy. Why do you keep getting stuck like this?
+  - id: "09"
+    place: 邓菲家 · Dylan 预告
+    plot: 海莉首次带男生回家；菲尔自封酷爸爸大秀《歌舞青春》。
+    characters: Haley, Phil, Claire, Luke, Alex
+    timeline: 同日白天
+    anchor: I'm having a friend over today. - Who?
+  - id: "10"
+    place: 邓菲家 · BB 枪事故
+    plot: 卢克用气枪射中海莉；克莱尔要菲尔兑现家法。
+    characters: Haley, Luke, Phil, Claire
+    timeline: 同日白天
+    anchor: What did I tell you would happen if you got him a gun?
+  - id: "11"
+    place: 邓菲家 · 家法日程
+    plot: 夫妻认真讨论「射卢克」的预约时间；排进日程。
+    characters: Phil, Claire, Luke
+    timeline: 事故后不久
+    anchor: The agreement was that if he shoots someone, you shoot him.
+  - id: "12"
+    place: Jay 家 / 足球场余波
+    plot: 曼尼要quit足球；歌洛莉亚与杰吵情绪问题。
+    characters: Jay, Gloria, Manny
+    timeline: 同日（平行线 A 续）
+    anchor: I'm quitting soccer. It is a game for children.
+  - id: "13"
+    place: Jay 家 · 曼尼告白计划
+    plot: 曼尼要向布兰达·费德曼表白；要去商场。
+    characters: Manny, Jay, Gloria
+    timeline: 午后
+    anchor: I wanna tell Brenda Feldman I love her.
+  - id: "14"
+    place: 车内 → 路边
+    plot: 杰警告白衬衫告白后果；曼尼下车采花；歌洛莉亚讲前夫。
+    characters: Jay, Gloria, Manny
+    timeline: 去商场途中
+    anchor: Seriously. Not to be the evil stepdad,
+  - id: "15"
+    place: Mitch & Cam 家 · 婴儿房
+    plot: 莉莉不肯睡；卡梅隆与米奇尔为体型玩笑起争执后和好。
+    characters: Mitchell, Cameron, Lily
+    timeline: 同日傍晚前（平行线 B 续）
+    anchor: She barely slept on the plane and she's still wide awake.
+  - id: "16"
+    place: Mitch & Cam 家 · 壁画
+    plot: Andre 画了天使守护壁画；米奇尔嫌太 gay。
+    characters: Mitchell, Cameron
+    timeline: 傍晚
+    anchor: What the hell is that?
+  - id: "17"
+    place: Mitch & Cam 家 · 晚宴摊牌
+    plot: 米奇尔瞒着家人领养；卡梅隆已邀全家今晚吃饭逼坦白。
+    characters: Mitchell, Cameron
+    timeline: 晚宴前
+    anchor: I invited them over for dinner tonight.
+  - id: "18"
+    place: 邓菲家 · 门口
+    plot: 迪兰上门；克莱尔催菲尔给下马威。
+    characters: Haley, Dylan, Claire, Phil
+    timeline: 与海莉约会平行
+    anchor: Don't answer it! I'll get it!
+  - id: "19"
+    place: 邓菲家 · 客厅
+    plot: 菲尔「嘻哈」震慑失败；踩婴儿油滑倒；硬撑强壮。
+    characters: Phil, Dylan, Haley, Claire
+    timeline: 迪兰到访中段
+    anchor: Let me meet this "Playa."
+  - id: "20"
+    place: 商场 · 曼尼告白
+    plot: 曼尼念情诗准备表白；杰想花钱阻止。
+    characters: Manny, Jay, Gloria
+    timeline: 平行线 A 高潮
+    anchor: Brenda Feldman.
+  - id: "21"
+    place: 商场 · Gloria 劝 Jay
+    plot: 歌洛莉亚安抚杰的年龄焦虑；曼尼被拒得「警长」画像。
+    characters: Gloria, Jay, Manny, Brenda Feldman
+    timeline: 商场同日
+    anchor: I love you, and I don't care how old you are.
+  - id: "22"
+    place: 邓菲家 · 楼上
+    plot: 艾丽克斯打扰海莉与迪兰；被克莱尔制止。
+    characters: Alex, Haley, Dylan, Claire
+    timeline: 约会进行中
+    anchor: Alex, get out! Mom!
+  - id: "23"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔做晚宴蛋糕；艾丽克斯八卦同学假病怀孕。
+    characters: Claire, Alex, Luke
+    timeline: 傍晚
+    anchor: Um, I'm making a cake for tonight.
+  - id: "24"
+    place: 邓菲家 · 后院/射击
+    plot: 菲尔按约「射」卢克教训；下不了手但达到震慑。
+    characters: Phil, Luke, Claire
+    timeline: 下午 4:15 前后
+    anchor: I want you to know, I'm not enjoying this.
+  - id: "25"
+    place: 邓菲家 · 海莉卧室
+    plot: 克莱尔送洗衣闯房；坚持开门监视；海莉崩溃。
+    characters: Claire, Haley, Dylan, Phil
+    timeline: 约会后段
+    anchor: Mom! What are you doing?
+  - id: "26"
+    place: Mitch & Cam 家 · 聚餐前
+    plot: 杰进门先喊防亲嘴；米奇尔仍郁闷被 Cam 逼坦白。
+    characters: Mitchell, Cameron, Jay (VO)
+    timeline: 晚宴即将开始
+    anchor: Uh, my dad still isn't completely comfortable with this.
+  - id: "27"
+    place: Mitch & Cam 家 · 晚宴开门
+    plot: 邓菲家与 Jay 家到齐；互赠礼物；铺垫重大消息。
+    characters: Phil, Claire, Jay, Gloria, Mitchell, Cameron
+    timeline: 当晚
+    anchor: How are you? - Hi, guys. Hey.
+  - id: "28"
+    place: Mitch & Cam 家 · 领养揭晓
+    plot: 米奇尔宣布领养莉莉；全家争执后 Jay 送上「背后春风」。
+    characters: Mitchell, Cameron, Jay, Gloria, Phil, Claire, 全家
+    timeline: 晚宴高潮
+    anchor: We adopted a baby.
+  - id: "29"
+    place: 尾声 · 各线收束
+    plot: 曼尼对布兰达的歌；菲尔与卢克篮球；多元家庭主题落点。
+    characters: Manny, Phil, Luke, Jay, Mitchell, Lily
+    timeline: 片尾 tag
+    anchor: I mean, seriously.

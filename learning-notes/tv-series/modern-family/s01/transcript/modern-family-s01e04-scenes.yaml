@@ -1,0 +1,181 @@
+# Scene markers for modern-family-s01e04-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E04
+episode_arc: 婚礼「那件事」/ 迪迪道歉 / 演唱会
+timeline_note: 大量闪回「The incident」+ 周日聚餐 Dede 突袭
+
+index_groups:
+  - scenes: "01–02"
+    place: Jay 家 / 邓菲家
+    summary: 曼尼睡衣派对；孩子们拍手歌
+  - scenes: "03–04"
+    place: Mitch & Cam / 闪回
+    summary: 迪迪突访；婚礼闹剧回溯
+  - scenes: "05–08"
+    place: 邓菲家 / Jay 家
+    summary: 海莉演唱会之争；曼尼被恶作剧
+  - scenes: "09–11"
+    place: Mitch & Cam / 邓菲家
+    summary: 迪迪求原谅与 Chas；菲尔「友父」
+  - scenes: "12–17"
+    place: 各家走访
+    summary: 米奇传话；瑞奇往事；杰曼尼纵火
+  - scenes: "18–21"
+    place: 邓菲家 · 晚宴
+    summary: 迪兰上门；迪迪现身；假和解
+  - scenes: "22–25"
+    place: 邓菲家 · 高潮与 tag
+    summary: 歌洛莉亚发飙；迪兰情歌；演唱会泡汤
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 门厅
+    plot: 歌洛莉亚担心曼尼睡衣派对；杰不以为意。
+    characters: Jay, Gloria
+    timeline: 当日早晨
+    anchor: Jay, I'm home.
+  - id: "02"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔女儿们玩拍手歌；突然和好令人不安。
+    characters: Claire, Haley, Alex
+    timeline: 平行线
+    anchor: Miss Mary Mack, Mack, Mack.
+  - id: "03"
+    place: Mitch & Cam 家
+    plot: 迪迪突然到访看莉莉；太极拽腿。
+    characters: Mitchell, Cameron, Dede, Lily
+    timeline: 同日
+    anchor: Surprise! - Mom!
+  - id: "04"
+    place: 闪回 · Jay/Gloria 婚礼
+    plot: 迪迪祝酒失控；「The incident」全貌。
+    characters: Dede, Jay, Gloria, Mitchell, Claire
+    timeline: 婚礼闪回
+    anchor: I would like to congratulate Jay and the lovely Gloria.
+  - id: "05"
+    place: 邓菲家 · 厨房
+    plot: 海莉求去演唱会过夜；父母坚决反对。
+    characters: Claire, Phil, Haley
+    timeline: 闪回框架内当日
+    anchor: Everybody is going to be there, Mom!
+  - id: "06"
+    place: Jay 家 · 门厅
+    plot: 曼尼睡衣派对归来；自称第一个睡着。
+    characters: Jay, Gloria, Manny
+    timeline: 翌日早晨
+    anchor: Mom, I'm home!
+  - id: "07"
+    place: Jay 家 · 浴室
+    plot: 曼尼脸上被画胡；杰教「以牙还牙」。
+    characters: Jay, Gloria, Manny
+    timeline: 紧接上一场景
+    anchor: What's on your face?
+  - id: "08"
+    place: Jay 家 · 客厅
+    plot: 杰鼓励曼尼报复恶作剧。
+    characters: Jay, Manny
+    timeline: 同日
+    anchor: Revenge.
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: 迪迪想忘掉 incident；米奇建议压抑。
+    characters: Mitchell, Cameron, Dede
+    timeline: 同日
+    anchor: Well, Mom, instead of dredging up the whole incident,
+  - id: "10"
+    place: Mitch & Cam 家
+    plot: 迪迪结识 Chas；要搬去法语加拿大。
+    characters: Dede, Mitchell, Cameron
+    timeline: 同日
+    anchor: I met a man.
+  - id: "11"
+    place: 邓菲家 · 海莉房间
+    plot: 菲尔「Peerenting」假装马库斯谈 Dylan。
+    characters: Phil, Haley
+    timeline: 同日
+    anchor: Act like a parent, talk like a peer.
+  - id: "12"
+    place: 邓菲家 · 门厅
+    plot: 米奇来访传话：迪迪想道歉。
+    characters: Mitchell, Claire
+    timeline: 同日
+    anchor: Hey, Mitchell. What's up?
+  - id: "13"
+    place: 邓菲家 · 厨房
+    plot: 米奇转达迪迪歉意；克莱尔讽刺伤米奇。
+    characters: Mitchell, Claire, Dede(电话/旁白)
+    timeline: 同日
+    anchor: Claire?
+  - id: "14"
+    place: 邓菲家 · 客厅
+    plot: 外婆讲克莱尔 teenage 男友瑞奇；逼克莱尔请 Dylan 吃饭。
+    characters: Dede, Haley, Claire
+    timeline: 同日
+    anchor: Hey, Nanna.
+  - id: "15"
+    place: Jay 家
+    plot: 米奇找杰谈迪迪赴晚宴；歌洛莉亚外出处理曼尼。
+    characters: Mitchell, Jay
+    timeline: 同日
+    anchor: Hey, Dad.
+  - id: "16"
+    place: Jay 家 · 车道
+    plot: 曼尼按杰教唆烧同学自行车；杰背锅。
+    characters: Jay, Mitchell, Manny(提及)
+    timeline: 同日
+    anchor: He set a kid's bike on fire.
+  - id: "17"
+    place: Jay 家 · 客厅
+    plot: 杰要米奇瞒着歌洛莉亚请迪迪；「跑腿小子」。
+    characters: Jay, Mitchell
+    timeline: 同日
+    anchor: Still her little errand boy, I see.
+  - id: "18"
+    place: 邓菲家 · 晚宴
+    plot: 迪兰赴约；邓菲家周日餐。
+    characters: Phil, Haley, Dylan, Claire
+    timeline: 傍晚
+    anchor: D-Money! There he is.
+  - id: "19"
+    place: 邓菲家 · 门厅
+    plot: 米奇紧张；歌洛莉亚曼尼抵达。
+    characters: Mitchell, Cameron, Jay, Gloria, Manny, Phil
+    timeline: 晚宴前
+    anchor: Oh, Mitchell.
+  - id: "20"
+    place: 邓菲家 · 客厅
+    plot: 迪迪不请自来；歌洛莉亚震怒。
+    characters: Dede, Jay, Gloria, Mitchell, Claire, Phil
+    timeline: 晚宴
+    anchor: Dede.
+  - id: "21"
+    place: 邓菲家 · 客厅
+    plot: 迪迪道歉；歌洛莉亚「原谅」后情绪崩溃。
+    characters: Dede, Gloria, Jay, Mitchell
+    timeline: 晚宴高潮前
+    anchor: I forgive you.
+  - id: "22"
+    place: 邓菲家 · 客厅
+    plot: 歌洛莉亚掐迪迪；全家拉扯。
+    characters: Gloria, Dede, Jay, Mitchell, Phil
+    timeline: 晚宴高潮
+    anchor: I am not prepared for this.
+  - id: "23"
+    place: 邓菲家 · 客厅
+    plot: 迪兰谈大家庭；众人为海莉说情。
+    characters: Dylan, Phil, Claire, Haley, Jay
+    timeline: 晚宴后段
+    anchor: Um, maybe- maybe you shouldn't...
+  - id: "24"
+    place: 邓菲家 · 客厅
+    plot: 迪兰弹《In the Moonlight》；露骨歌词。
+    characters: Dylan, 全家
+    timeline: 晚宴尾声
+    anchor: "*The stars are falling from the sky*"
+  - id: "25"
+    place: 邓菲家 · tag
+    plot: 演唱会彻底没戏；父母震怒。
+    characters: Claire, Phil, Haley
+    timeline: 片尾
+    anchor: She's so not going.

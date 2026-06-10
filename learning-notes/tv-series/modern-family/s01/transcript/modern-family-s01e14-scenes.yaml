@@ -1,0 +1,193 @@
+# Scene markers for modern-family-s01e14-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E14
+episode_arc: 克莱尔旧友瓦莱丽 / Gloria 车祸
+timeline_note: A/B 线交叉：邓菲家接待旧友 vs Gloria 车祸与 Jay/Cam 健身房
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家
+    summary: 回收计划；海莉分手；克莱尔职场往事
+  - scenes: "04–06"
+    place: Jay 家 / 健身房 / 街头
+    summary: 米奇当律师；健身房；菲尔广告牌
+  - scenes: "07–09"
+    place: 健身房 / 邓菲家
+    summary: 更衣室尴尬；迪兰照片；菲尔试胡子
+  - scenes: "10–12"
+    place: 邓菲家 / 餐厅
+    summary: 停水；瓦莱丽到访；嫉妒误判
+  - scenes: "13–16"
+    place: 车祸回忆 / 蛋糕店 / 球场
+    summary: 事故真相；曼尼爆料；壁球 moon landing
+  - scenes: "17–19"
+    place: 餐厅 / 邓菲家
+    summary: 杰甩锅米奇；瓦莱丽情史；克莱尔求职
+  - scenes: "20–22"
+    place: 邓菲家 / 树上
+    summary: 野格酒回收；迪兰爬树；菲尔成交
+  - scenes: "23–25"
+    place: 邓菲家 / 健身房 / 蛋糕店
+    summary: Gloria 解雇米奇；瓦莱丽目睹 chaos；杰 rematch
+  - scenes: "26"
+    place: 尾声
+    summary: 克莱尔回家；迪兰 Say Anything
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨厨房
+    plot: 薄饼；卢克回收瓶建非洲学校。
+    characters: Claire, Luke, Haley, Alex
+    timeline: 主线日
+    anchor: Those pancakes smell great.
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: 海莉与 Dylan 分手；撞车库梗。
+    characters: Haley, Claire, Phil, kids
+    timeline: 同日早晨
+    anchor: Okay, nobody make a big deal about it,
+  - id: "03"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔 Starcrest 职场回忆；《上班女郎》。
+    characters: Claire, Haley, Phil, kids
+    timeline: 同日早晨
+    anchor: Well, Haley, call me old-fashioned,
+  - id: "04"
+    place: Jay 家 / Mitch 旁白
+    plot: Gloria 小车祸；杰首次向米奇求法律意见。
+    characters: Mitchell, Jay, Gloria
+    timeline: 平行 · 事故后
+    anchor: There's my lawyer.
+  - id: "05"
+    place: Jay 家 · 旁白 / 健身房
+    plot: Jay 与 Cam 健身；Cam 怕 locker room  day。
+    characters: Jay, Cameron
+    timeline: 健身房日
+    anchor: Jay and I are both gym rats.
+  - id: "06"
+    place: 街头 · 菲尔车内
+    plot: 菲尔销售旁白；公交亭胡子被破坏。
+    characters: Phil
+    timeline: 菲尔上班路
+    anchor: What the hell?
+  - id: "07"
+    place: 电话 / 健身房更衣室
+    plot: 帕特森客户要退单；Jay/Cam 更衣室 butt bump。
+    characters: Phil, Barbara; Jay, Cameron
+    timeline: 平行
+    anchor: Phil, it's Barbara.
+  - id: "08"
+    place: 健身房 · 更衣室
+    plot: moon landing 梗；Cam 换 stall 更衣。
+    characters: Jay, Cameron
+    timeline: 健身前
+    anchor: It's a terrific gym, Jay.
+  - id: "09"
+    place: 邓菲家 · 门口
+    plot: 海莉见 Dylan 与女生照片再分手。
+    characters: Haley, Dylan
+    timeline: 平行
+    anchor: I saw the picture, Dylan.
+  - id: "10"
+    place: 邓菲家 · 门口/办公室
+    plot: 菲尔试八字胡卖屋；水管工停水。
+    characters: Phil, worker
+    timeline: 同日
+    anchor: Just, uh, test-driving my new soup strainer.
+  - id: "11"
+    place: 邓菲家 · 门外
+    plot: 流动厕所；克莱尔见旧同事 Valerie。
+    characters: Phil, Claire, Valerie
+    timeline: 接待日
+    anchor: Sorry to bother you, sir.
+  - id: "12"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔介绍子女；误判 Valerie 嫉妒自己。
+    characters: Claire, Valerie
+    timeline: 接待日
+    anchor: Haley-She's the oldest. Fifteen.
+  - id: "13"
+    place: 餐厅 · 午餐
+    plot: Valerie 升欧洲区总监；克莱尔悟出被 pity。
+    characters: Claire, Valerie
+    timeline: 午餐
+    anchor: And just then, it hit me.
+  - id: "14"
+    place: 餐厅 · 午餐
+    plot: Valerie 23 楼高管；四人情人等八卦。
+    characters: Claire, Valerie
+    timeline: 午餐续
+    anchor: So how's life in the trenches?
+  - id: "15"
+    place: 车祸现场（回忆）/ 蛋糕店
+    plot: Gloria 口述被撞；米奇拍照写陈述。
+    characters: Mitchell, Gloria, Manny
+    timeline: 事故处理
+    anchor: I was driving along this street.
+  - id: "16"
+    place: 蛋糕店
+    plot: 曼尼悄悄告诉米奇：其实是 Gloria 全责。
+    characters: Mitchell, Manny, Gloria
+    timeline: 写陈述前
+    anchor: Mitchell.
+  - id: "17"
+    place: 健身房 · 壁球场
+    plot: Jay/Cam 壁球；locker room 分心；要求 rematch。
+    characters: Jay, Cameron
+    timeline: 平行
+    anchor: Aw, that's
+  - id: "18"
+    place: 电话
+    plot: 米奇告知杰 Gloria 全责；杰让他去说。
+    characters: Mitchell, Jay
+    timeline: 平行
+    anchor: Hey, Dad. Uh, did you know that the accident was Gloria's fault?
+  - id: "19"
+    place: 餐厅
+    plot: Valerie 谈 Paris job 与 lovers；旧金山第四个。
+    characters: Claire, Valerie
+    timeline: 午餐后
+    anchor: What about you? Do you ever get serious with anyone?
+  - id: "20"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔等求职电话；Valerie 得欧洲职位。
+    characters: Claire, Valerie (phone)
+    timeline: 下午
+    anchor: Last night I vacuumed the radiator thingy under the fridge.
+  - id: "21"
+    place: 邓菲家 · 车库/厨房
+    plot: 卢克野格酒回收；老鼠；海莉 Dylan 树头对峙。
+    characters: Luke, Haley, Dylan, Alex
+    timeline: 下午 chaos
+    anchor: Dad, look.
+  - id: "22"
+    place: 邓菲家 · 树上/楼梯
+    plot: 菲尔树上谈成卖房；海莉扔 Dylan 物品。
+    characters: Phil, Haley, Dylan, Mrs. Patterson
+    timeline: 下午 chaos
+    anchor: Gross! A rat!
+  - id: "23"
+    place: 蛋糕店 / 门外
+    plot: 米奇追问 Gloria；被解雇；走回家。
+    characters: Mitchell, Gloria, Manny
+    timeline: 傍晚
+    anchor: Chao.
+  - id: "24"
+    place: 邓菲家 · 客厅
+    plot: Valerie 目睹全家 chaos；菲尔成交；隔车拥抱。
+    characters: Claire, Valerie, Phil, kids, Dylan
+    timeline: 傍晚
+    anchor: Here it is.
+  - id: "25"
+    place: 健身房 · 淋浴/桑拿
+    plot: Jay rematch 15-7；Cam splashdown 免疫；桑拿。
+    characters: Jay, Cameron
+    timeline: 傍晚
+    anchor: I told you I'd win.
+  - id: "26"
+    place: 蛋糕店 / 邓菲家 · 片尾
+    plot: Gloria  cupcake 招牌事故；克莱尔回家道歉；迪兰 Say Anything。
+    characters: Gloria, Mitchell, Manny; Claire, Phil, Dylan
+    timeline: 片尾
+    anchor: Well, if you're going to be stranded,

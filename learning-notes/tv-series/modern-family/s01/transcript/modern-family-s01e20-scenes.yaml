@@ -1,0 +1,178 @@
+# Scene markers for modern-family-s01e20-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E20
+episode_arc: 少年篮球 / Mitch 求职
+timeline_note: Jay–Phil 执教之争与 Mitch–Cam 海滩面试平行线
+
+index_groups:
+  - scenes: "01–03"
+    place: Jay 家 · 烧烤
+    summary: 牛排；Luke/Manny 被教练骂；Jay 要出手
+  - scenes: "04–06"
+    place: Mitch & Cam 家 / 网上
+    summary: 贺卡店；Charlie Bingham；Mitch 待业焦虑
+  - scenes: "07–09"
+    place: 篮球场
+    summary: 恶毒教练；Jay 赶走教练；Phil 当助理
+  - scenes: "10–12"
+    place: 球场 / 商场
+    summary:  Phil 被贬；Gloria 加油伤 Manny；海莉躲妈
+  - scenes: "13–16"
+    place: Charlie 海滩别墅
+    summary: 面试社交；Cam 紧张；Charlie 邀 Mitch 入职
+  - scenes: "17–19"
+    place: 商场 / 球场
+    summary: Gloria 买鞋；Cam 劝 Mitch 接 job；Jay–Phil 争教练
+  - scenes: "20–22"
+    place: Charlie 家外 / 球场
+    summary: 被困门外；撞坏旋转台；Phil 接手终场战术
+  - scenes: "23–24"
+    place: 球场 / 商场 · 收尾
+    summary: 曼尼首投；海莉骗 40 块；Cam 带 Lily 买裙
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 后院烧烤
+    plot: Jay 嫌 Phil 毁牛排；Luke/Manny 要去练上篮。
+    characters: Jay, Gloria, Phil, Luke, Manny
+    timeline: 傍晚
+    anchor: Steaks will be ready in five minutes.
+  - id: "02"
+    place: Jay 家
+    plot: 父母抱怨教练辱骂孩子；Jay 要「左将军右元帅」。
+    characters: Phil, Claire, Gloria, Jay
+    timeline: 同日
+    anchor: Phil, help me out here. - He's a mean man.
+  - id: "03"
+    place: Mitch & Cam 家 · 到访
+    plot: Mitch 贺卡店兼职；Jay 介绍 Charlie Bingham 工作机会。
+    characters: Mitchell, Cameron, Jay, Gloria
+    timeline: 同日
+    anchor: Sorry we're late. I was at work.
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 贺卡「省钱数学」；Mitch 拒绝立刻求职。
+    characters: Mitchell, Cameron, Jay
+    timeline: 同日
+    anchor: How is spending a ton of money on greeting cards saving us a fortune?
+  - id: "05"
+    place: Mitch & Cam 家 · 私下
+    plot: Cam Google Charlie；Mitch 享受休假却快疯；Cam 想他上班。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: God, I feel like such a slacker.
+  - id: "06"
+    place: 篮球场 · 训练
+    plot: 教练辱骂「乌龟」；Gloria 想烧了他。
+    characters: Coach, Luke, Manny, Gloria, Claire
+    timeline: 训练日
+    anchor: Guys, come on!
+  - id: "07"
+    place: 篮球场 · 对峙
+    plot: Phil 劝教练少吼；Jay 脱鞋威胁；教练撂挑子。
+    characters: Phil, Jay, Coach
+    timeline: 训练日
+    anchor: Hey, Coach. - Yeah?
+  - id: "08"
+    place: 篮球场
+    plot: Jay 谎称教练病危；自封主教练；Phil 只能当助理带水。
+    characters: Jay, Phil, boys
+    timeline: 赛前
+    anchor: Okay. So, your old coach had to leave for a little while.
+  - id: "09"
+    place: 篮球场 · Phil 旁白
+    plot: Phil 旁白：岳父难搞；他会走钢丝。
+    characters: Phil
+    timeline: 赛前
+    anchor: Father-in-laws are tough,
+  - id: "10"
+    place: 邓菲家 / 球场
+    plot: Claire 去买 Alex 衣服；Phil 因 Jay 教过橄榄球只能辅助。
+    characters: Claire, Phil
+    timeline: 赛前
+    anchor: Honey, I'm gonna take off.
+  - id: "11"
+    place: 篮球场 · 场边
+    plot: Manny 嫌 Gloria 加油让他被嘲笑；请她下一场别来。
+    characters: Manny, Gloria
+    timeline: 比赛中场
+    anchor: Mom, I love you,
+  - id: "12"
+    place: 商场
+    plot: Claire 遇 Lily；海莉躲同学被 Claire 追上。
+    characters: Claire, Haley, Mitchell, Cameron, Lily
+    timeline: 平行
+    anchor: I hate our house. - I know.
+  - id: "13"
+    place: Charlie 海滩别墅 · 抵达
+    plot: 转盘停车；Cam 穿橡胶衣像 Batman；Margarita 派对。
+    characters: Mitchell, Cameron, Charlie, Jenny, Jolie
+    timeline: 下午
+    anchor: Hey, Mitchell! - Yes.
+  - id: "14"
+    place: Charlie 别墅 · 社交
+    plot: Cam 紧张说错「生意伙伴」；Charlie 夸 Mitch 履历。
+    characters: Mitchell, Cameron, Charlie, guests
+    timeline: 面试派对
+    anchor: When things are relaxed, I'm great in social situations.
+  - id: "15"
+    place: 商场 · 青少年区
+    plot: Claire 见同学；旁白：女儿进入尴尬青春期。
+    characters: Claire, Haley, Jenna
+    timeline: 平行
+    anchor: Oh, no. It's them.
+  - id: "16"
+    place: Charlie 别墅
+    plot: Charlie 谈太阳能监管；邀 Mitch 当公益法律顾问。
+    characters: Charlie, Mitchell, Cameron
+    timeline: 面试
+    anchor: What are the regulatory challenges of a solar farm?
+  - id: "17"
+    place: 商场
+    plot: Gloria 给 Lily 狂买裙鞋；Alex 要钱；Manny 被拒观赛。
+    characters: Gloria, Claire, Alex, Manny
+    timeline: 平行
+    anchor: Okay, Lily, it's time to buy you beautiful shoes.
+  - id: "18"
+    place: Charlie 别墅外
+    plot: Cam 劝 Mitch 接工作；两人被困门外；乱按开门撞坏旋转台。
+    characters: Mitchell, Cameron
+    timeline: 傍晚
+    anchor: Cam- Cam, you have got to relax.
+  - id: "19"
+    place: 篮球场 · 终场
+    plot: 队友互抢球；Phil 崩溃请 Jay 接手。
+    characters: Jay, Phil, boys
+    timeline: 比赛末段
+    anchor: Guys, you're on the same team!
+  - id: "20"
+    place: 篮球场 · Jay–Phil
+    plot: 父子教练互怼；Jay 道歉并夸 Phil 牛排；Phil 设计绝杀。
+    characters: Jay, Phil
+    timeline: 暂停
+    anchor: You talkin' to me? - Yeah, I'm talkin' to you.
+  - id: "21"
+    place: 篮球场 · 最后一攻
+    plot: Phil 战术：传给整季未投篮的 Manny；「给孩子翅膀」旁白。
+    characters: Phil, Jay, Luke, Manny
+    timeline: 终场
+    anchor: Hey, hey. Guys. Who wants to go out like a champ?
+  - id: "22"
+    place: 商场 · 停车场
+    plot: 海莉迟到 20 分钟撒娇要钱；Claire 给 40 块。
+    characters: Haley, Claire
+    timeline: 赛后
+    anchor: Mom.
+  - id: "23"
+    place: 邓菲家 · 夜
+    plot: Manny 讲述 pick-and-roll 几乎进球；Jay 带 Lily 吃纸杯蛋糕。
+    characters: Manny, Jay, Gloria, Cam
+    timeline: 当晚
+    anchor: I set a pick and then rolled towards the basket.
+  - id: "24"
+    place: Jay 家 · tag
+    plot: Manny 邀 Gloria 看下周六比赛；她婉拒并建议耳环。
+    characters: Manny, Gloria
+    timeline: tag
+    anchor: I have a game next Saturday. You could come.

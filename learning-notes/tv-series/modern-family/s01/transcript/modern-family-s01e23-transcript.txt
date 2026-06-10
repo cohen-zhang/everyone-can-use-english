@@ -2,6 +2,26 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E23 
+
+## 场景分段索引（S01E23 · 茂宜度假 / 补办婚礼）
+
+字幕正文按镜头插入 `【场景 xx / 23】`；酒店多线 + Phil–Claire 沙滩婚礼 flash-forward 收尾。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 茂宜 · 酒店 | 拍照重拍；蜜月未遂；入住四季 |
+| 04–06 | 酒店泳池 / 健身 | tween 搭讪；榕树游；Jay 弟电话 |
+| 07–09 | 酒店 | Phil 扔手机；Jay 拉练；Manny 室友 |
+| 10–12 | 酒店 | 薰衣草分歧；Jay 划艇；Haley 刨冰 |
+| 13–15 | 酒店 | Elton John 谎言；Manny 被赶；Haley 醉酒 |
+| 16–18 | 酒店 | 寻 Lily；Jay 卡吊床；生日夜谈心 |
+| 19–23 | 酒店 / 沙滩 / 航班 | 假期收尾；沙滩婚礼；回程 tag |
+
+----------------------
+【场景 01 / 23】茂宜 · 片头拍照
+★ 剧情：Cam 坚持重拍 Lily aloha；Claire 本想来 Hawaii 蜜月。
+★ 人物：Cameron, Mitchell, Phil, Claire
+★ 时间线：抵达日
 ----------------------
 -  Aloha, Lily. - Aloha. 
  你好啊  莉莉  -你好啊 
@@ -60,6 +80,12 @@ S01E23
 - Sweetie, put me down. Go on. Okay.
  亲爱的  快放我下来  慢慢来  好了 
 
+----------------------
+【场景 02 / 23】酒店外
+★ 剧情：Phil 公主抱 Claire 被拒；Claire：带娃是出差不是 vacation。
+★ 人物：Phil, Claire
+★ 时间线：抵达日
+----------------------
 - Honey, come on. 
  亲爱的  别这样 
 
@@ -81,6 +107,12 @@ S01E23
 -  It's beautiful. - Aloha!
  太漂亮了  -大家好啊 
 
+----------------------
+【场景 03 / 23】四季酒店 · 大堂
+★ 剧情：入住；Manny 宾至如归；Luke 发现熨斗。
+★ 人物：全家, staff
+★ 时间线：抵达日
+----------------------
 - Hi! Welcome to the Four Seasons Maui.
  欢迎入住四季酒店茂伊店 
 
@@ -105,6 +137,12 @@ S01E23
 - Who would we entertain?
  谁会来啊 
 
+----------------------
+【场景 04 / 23】酒店 · 泳池区
+★ 剧情：Manny 想搭讪 tween；Claire 盯孩子涂防晒。
+★ 人物：Manny, Mitchell, Claire, Haley
+★ 时间线：首日
+----------------------
 - I noticed some lovely tweens down by the kids' club.
  我看到儿童俱乐部里有好多可爱的小姑娘 
 
@@ -162,6 +200,12 @@ S01E23
 - Hey, everybody.
  嘿  大家好啊 
 
+----------------------
+【场景 05 / 23】酒店
+★ 剧情：Cam 邀看 banyan tree；Jay 拒绝离开 paradise；Cam 旁白 Elunga。
+★ 人物：Cameron, Jay, Mitchell
+★ 时间线：首日
+----------------------
 - We're on our way to see the world's largest banyan tree.
  我们正要去看世界上最大的榕树 
 
@@ -222,6 +266,12 @@ S01E23
 - Ah, look at this.
  猜猜谁来电 
 
+----------------------
+【场景 06 / 23】酒店 · Jay 房间
+★ 剧情：Jay 弟 Don 电话：63 岁与亡父同龄；Jay 去健身房。
+★ 人物：Jay, Gloria, Don (phone)
+★ 时间线：Jay 生日前日
+----------------------
 - My brother.
  我弟弟 
 
@@ -282,6 +332,12 @@ S01E23
 - No way. Keira got her hair straightened?
  不是吧  凯拉把她的头发拉直了 
 
+----------------------
+【场景 07 / 23】酒店 · 无限泳池
+★ 剧情：Phil 为 woo Claire 扔手机进池；Claire 又气又爽。
+★ 人物：Phil, Claire
+★ 时间线：同日
+----------------------
 - Claire, consider this a grand gesture of my love.
  克莱尔  为表达对你的爱  我决定这么做 
 
@@ -303,6 +359,12 @@ S01E23
 - Buckle your seat belt, lady. You're being wooed.
  做好准备吧  我要向你展开攻势了 
 
+----------------------
+【场景 08 / 23】酒店 · Jay 房间
+★ 剧情：Phil 旁白：父亲吃幼崽换 honeymoon；Jay 拉 Gloria 起床划艇。
+★ 人物：Phil, Jay, Gloria
+★ 时间线：Jay 生日当日
+----------------------
 - In nature, fathers are known to eat their young.
  在自然界中  雄性通常会吃掉幼崽 
 
@@ -372,6 +434,12 @@ S01E23
 - refusing service to hippies who came into his store.
  拒绝向来店里的嬉皮士提供服务 
 
+----------------------
+【场景 09 / 23】Mitch & Cam 房间
+★ 剧情：Manny 折一切/fire drill；Cam 邀 lavender ranch。
+★ 人物：Mitchell, Cameron, Manny
+★ 时间线：次日
+----------------------
 - Manny is the worst roommate ever.
  曼尼是有史以来最差的室友 
 
@@ -390,6 +458,12 @@ S01E23
 -  Hi, guys. - Hey.
  你们好啊  -你们好 
 
+----------------------
+【场景 10 / 23】酒店
+★ 剧情：孩子不愿跟 Cam 去 ranch；Cam 坦白不爱每分每秒探险。
+★ 人物：Mitchell, Cameron, kids
+★ 时间线：次日
+----------------------
 - So, what's today's big adventure?
  今天准备去哪探险呢 
 
@@ -498,6 +572,12 @@ S01E23
 - Okay.
  很好 
 
+----------------------
+【场景 11 / 23】酒店 · 儿童池
+★ 剧情：Cam 独自 off；Jay 划 outrigger 撞人；Gloria 订网球场。
+★ 人物：Jay, Gloria, Mitchell, Cameron
+★ 时间线：次日
+----------------------
 -  I can't. - What?
  我不行  -什么 
 
@@ -561,6 +641,12 @@ S01E23
 - I thought you were one of ours!
  我以为你是我们家的小孩 
 
+----------------------
+【场景 12 / 23】酒店 · 儿童池
+★ 剧情：Jay 划 outrigger 太猛；Gloria 订网球场。
+★ 人物：Jay, Gloria, kids
+★ 时间线：次日
+----------------------
 - Hey, Jay! Be careful!
  杰  当心点 
 
@@ -621,6 +707,12 @@ S01E23
 - Yes, Haley, honey? What is it?
  海莉  亲爱的  怎么了 
 
+----------------------
+【场景 13 / 23】酒店 · 泳池
+★ 剧情：Haley 要去隔壁刨冰；Claire 学放手；Phil 猛虎之眼。
+★ 人物：Claire, Phil, Haley
+★ 时间线：同日
+----------------------
 - I'm gonna go get some shaved ice at the hotel
  我去和隔壁的一些孩子 
 
@@ -678,6 +770,12 @@ S01E23
 -  Hey. - Hey, you're back. How was it?
  嘿  -你回来啦  感觉怎样 
 
+----------------------
+【场景 14 / 23】酒店 · Mitch 归来
+★ 剧情：Mitch 编造 Elton John 弹 lavender piano 报复 Cam。
+★ 人物：Mitchell, Cameron
+★ 时间线：傍晚
+----------------------
 - Ah! Cameron, it was the most incredible thing 
  卡梅隆  那真是我这辈子 
 
@@ -804,6 +902,12 @@ S01E23
 - Ooh! You know what? Out!
  这是你逼我的  滚出去 
 
+----------------------
+【场景 15 / 23】Mitch & Cam 房间
+★ 剧情：Manny 被 Gloria 赶出；熨斗烤奶酪；亚麻夹克大战。
+★ 人物：Manny, Gloria, Mitchell
+★ 时间线：夜晚
+----------------------
 - I want you out! This isn't working!
  给我滚出去  这样不行 
 
@@ -924,6 +1028,12 @@ S01E23
 - Well, look who decided to join us.
  看看谁来了 
 
+----------------------
+【场景 16 / 23】酒店
+★ 剧情：Jay 失踪；Haley 醉酒呕吐；Claire 自责放手。
+★ 人物：Claire, Phil, Haley, Gloria
+★ 时间线：生日晚宴前
+----------------------
 -  And where is your sister? - She is in our bathroom throwing up.
  你姐呢  -她在浴室狂吐呢 
 
@@ -945,6 +1055,12 @@ S01E23
 - Guarantee our bathroom is still messier.
  我敢保证我们的浴室肯定更恶心 
 
+----------------------
+【场景 17 / 23】酒店 · 寻 Lily
+★ 剧情：Mitch–Cam 又丢 Lily；Claire 教育 Haley 酒后危险。
+★ 人物：Mitchell, Cameron, Claire, Haley
+★ 时间线：晚宴前后
+----------------------
 - Oh, my God! Lily! Where is the elevator?
  我的天呐  莉莉  电梯到哪去了 
 
@@ -1086,6 +1202,12 @@ S01E23
 - Yes, it does.
  是的 
 
+----------------------
+【场景 18 / 23】酒店 · 吊床
+★ 剧情：Jay 腰闪卡在吊床；Phil「 hurricane」帮忙反更糟。
+★ 人物：Jay, Phil, Gloria
+★ 时间线：并行
+----------------------
 - Jay?
  杰 
 
@@ -1212,6 +1334,12 @@ S01E23
 - Good night. Honey.
  晚安  亲爱的 
 
+----------------------
+【场景 19 / 23】酒店 · Jay 生日夜
+★ 剧情：Gloria 谈 Jay 亡父；Jay 练太狠；二人调情收尾。
+★ 人物：Jay, Gloria
+★ 时间线：生日夜
+----------------------
 - My back seized up.
  我的背疼发作了 
 
@@ -1284,6 +1412,12 @@ S01E23
 - Come here. Come here.
  过来  过来 
 
+----------------------
+【场景 20 / 23】酒店 · 早餐 · 旁白
+★ 剧情：旁白：假期余下更好；Jay 得所愿；Cam 丢 Lily 在香蕉园。
+★ 人物：narrators, 全家
+★ 时间线：假期后段
+----------------------
 - The rest of the trip went better. 
  剩下的假期过的很愉快 
 
@@ -1335,6 +1469,12 @@ S01E23
 - we had a great time.
  我们度过了一段美好时光 
 
+----------------------
+【场景 21 / 23】酒店 · Phil–Claire
+★ 剧情：仍没蜜月；Claire 期望过高；Phil 仍 sweet。
+★ 人物：Phil, Claire
+★ 时间线：倒数日
+----------------------
 - But we never did get that honeymoon.
  但我们仍没能度成蜜月 
 
@@ -1362,6 +1502,12 @@ S01E23
 - Oh, my God.
  我的天呐 
 
+----------------------
+【场景 22 / 23】茂宜沙滩 · 婚礼
+★ 剧情：Phil 意识到缺婚礼；现场补办 vows；Phil 走 Claire down aisle。
+★ 人物：Phil, Claire, Jay, 全家
+★ 时间线：度假末（闪前）
+----------------------
 - I figured out why we couldn't have a honeymoon.
  我搞明白为什么我们不能有个像样的蜜月了 
 
@@ -1413,6 +1559,12 @@ S01E23
 - Thank you.
  谢谢你 
 
+----------------------
+【场景 23 / 23】回程航班 · tag
+★ 剧情：Phil 要 Claire 再婚选 Vicky；Haley 插话；Phil 被怼。
+★ 人物：Phil, Claire, Haley
+★ 时间线：回程 tag
+----------------------
 - You know, honey,
  亲爱的 
 
@@ -1454,4 +1606,3 @@ S01E23
 
 - Something's gonna happen to you, all right.
  你不会发生不测的  别乱说 
-

@@ -1,0 +1,151 @@
+# Scene markers for modern-family-s01e22-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E22
+episode_arc: Jay 生日夏威夷 · 机场混乱
+timeline_note: Gloria 惊喜变全家游；机场赶机/禁飞/最终二人世界 reveal
+
+index_groups:
+  - scenes: "01–03"
+    place: Jay 家 / 机场
+    summary: Jay 以为二人 Maui；全家惊喜；Mitch 忘钱包
+  - scenes: "04–06"
+    place: 邓菲家 / Cam 家
+    summary: Jasper  playdate；Phil 载 Mitch 取钱包；Claire 独自紧张
+  - scenes: "07–09"
+    place: 机场 / 机上
+    summary: 登山鞋；每日 hiking；生日汇演；Dylan 留宿
+  - scenes: "10–12"
+    place: 机场
+    summary: 钥匙锁内；Phil  ninja 入室；Jasper 消防梯
+  - scenes: "13–15"
+    place: 机场候机
+    summary: Dylan 短信；Manny 禁飞；TSA 审 Gloria
+  - scenes: "16–18"
+    place: 机场 / 酒吧
+    summary:  Claire–Cam 谈心；Jay–Phil 酒吧；Gloria 六日后 reveal
+  - scenes: "19–20"
+    place: 登机 · 收尾
+    summary: 登机 zombie 搞怪； whale 口误 tag
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 清晨（旁白）
+    plot: Gloria 旁白：Jay 生日 Maui 二人行；Manny 交给 Phil 带。
+    characters: Gloria, Jay, Manny
+    timeline: 出发日清晨
+    anchor: Oh, I forgot to ask- Did it hurt?
+  - id: "02"
+    place: Jay 家 · 惊喜
+    plot: 全家跳出「跟我们一起去」；Gloria 只买经济舱。
+    characters: Jay, Gloria, 全家
+    timeline: 出发日
+    anchor: Surprise, Dad. - The whole family's coming with us!
+  - id: "03"
+    place: Jay 旁白 / 计划
+    plot: Jay 旁白：不爱活动只想读 Ludlum；luau、海豚、直升机。
+    characters: Jay
+    timeline: 出发前
+    anchor: I don't like activities.
+  - id: "04"
+    place: 机场 · Mitch & Cam
+    plot: Mitch 忘钱包不能登机；怪 Cam 没帮打包；Jasper playdate coup。
+    characters: Mitchell, Cameron, Lily
+    timeline: 机场
+    anchor: I forgot my wallet.
+  - id: "05"
+    place: Cam 家 · Jasper 来访
+    plot: 为 Jasper 换装耽误；Phil 答应飞车送 Mitch 回家取钱包。
+    characters: Mitchell, Cameron, Jasper
+    timeline: 出发前一小时
+    anchor: Would you relax? You always worry. It always gets done.
+  - id: "06"
+    place: 邓菲家 / 机场
+    plot: Claire 独自紧张带娃；Phil 载 Mitch 离开；她越来越慌。
+    characters: Claire, Phil, kids
+    timeline: 并行
+    anchor: So he left me here.
+  - id: "07"
+    place: 机场 / 机上
+    plot: Cam 穿登山鞋；Gloria 宣布每日 hiking 登顶火山。
+    characters: Cameron, Gloria, Jay, 全家
+    timeline: 飞行中
+    anchor: Well, I'm just breaking in a new pair of hiking shoes.
+  - id: "08"
+    place: 机上
+    plot: 全家为 Jay 生日汇演；Jay 想跳进火山；Haley 催起床。
+    characters: Gloria, Jay, Phil, Haley
+    timeline: 飞行中
+    anchor: Didn't Mom tell you? - Surprise!
+  - id: "09"
+    place: 邓菲家 · 重复蒙太奇
+    plot: Dylan 偷留看 Haley；Claire 重复「我讨厌这感觉」段落。
+    characters: Haley, Dylan, Claire, Phil, kids
+    timeline: 出发清晨（蒙太奇）
+    anchor: Dylan! What are you doing here?
+  - id: "10"
+    place: 邓菲家
+    plot: Claire 发现钥匙锁屋里；Phil  realtor ninja 翻窗入室。
+    characters: Claire, Phil, kids
+    timeline: 出发清晨
+    anchor: My keys!
+  - id: "11"
+    place: 邓菲家 · 入室
+    plot: Phil 抱 Claire 翻窗；Jasper 消防梯；Cam 卖过 Jasper 父母房。
+    characters: Phil, Claire, Cameron, Mitchell
+    timeline: 紧接
+    anchor: This is where your Realtor training comes in handy.
+  - id: "12"
+    place: 机场 · 候机
+    plot: 海莉 crush 素描男；Dylan「囚徒」短信；Phil 迟到。
+    characters: Haley, Claire, Phil
+    timeline: 候机
+    anchor: Check-in for the 5:30 flight to Boston may board at this time.
+  - id: "13"
+    place: 机场 · TSA
+    plot: Manny 被广播；同名禁飞名单；全家被分开问话。
+    characters: Manny, Gloria, Jay, TSA
+    timeline: 登机前
+    anchor: Will Manny Delgado please report to Gate 22-A?
+  - id: "14"
+    place: 机场 · 候机区
+    plot: Claire 与 Cam 互诉「没帮打包」；Claire 教 Cam 直接说 Help me。
+    characters: Claire, Cameron
+    timeline: 并行
+    anchor: What's frustrating is I would do anything for Mitchell,
+  - id: "15"
+    place: 机场 · 酒吧
+    plot: Jay 近年恐飞；Phil 暂停 vacation；Jay 觉 Gloria 避独处。
+    characters: Jay, Phil
+    timeline: 登机前
+    anchor: Dad. Hey.
+  - id: "16"
+    place: 机场 · TSA
+    plot: Gloria 哥伦比亚式安检知识；Jay 与 Manny 分开返程日引疑。
+    characters: Gloria, Jay, Manny, TSA
+    timeline: 审讯后
+    anchor: So, what kind of business did you have in Japan?
+  - id: "17"
+    place: 机场 · 团聚
+    plot: Phil 赶到；Claire–Mitch 和解；Claire 微醺。
+    characters: Claire, Phil, Mitchell, Cameron
+    timeline: 末班登机前
+    anchor: We made it! Claire!
+  - id: "18"
+    place: 机场 · Gloria reveal
+    plot: Gloria 透露家人只留六天；之后二人 Maui 独处+ topless beach。
+    characters: Gloria, Jay, 全家
+    timeline: 放行后
+    anchor: Then why are you departing Maui on different dates?
+  - id: "19"
+    place: 候机 · whale 口误
+    plot: 海莉 crush 艺术家；whale washing vs watching；登机祝福。
+    characters: Haley, Manny, Gloria, 全家
+    timeline: 末段候机
+    anchor: Have a good flight, sir.
+  - id: "20"
+    place: 机上 · 终 tag
+    plot: Phil 教 Lily zombie / Frankenstein 搞怪收尾。
+    characters: Phil, Lily, 全家
+    timeline: 起飞后 tag
+    anchor: Quick, do your zombie impression.

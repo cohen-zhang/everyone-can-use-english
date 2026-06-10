@@ -2,6 +2,27 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E13 
+
+## 场景分段索引（S01E13 · 人会变吗 / 家庭影院）
+
+字幕正文按镜头插入 `【场景 xx / 25】`；片头「人会变吗」哲学框；片尾海莉教克莱尔与 15% 回调。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 | 人会变吗；家庭影院；克莱尔 vs 遥控 |
+| 04–07 | 花店 / Jay 家 | 买花偶遇；曼尼吸血鬼约会；惠特妮到场 |
+| 08–11 | 车内 / 午餐 | 声控车；出柜往事；米奇对峙杰 |
+| 12–14 | 邓菲家 / Jay 家 | 菲尔帮妈妈调 DVD；曼尼失恋；卡姆与花 |
+| 15–17 | Jay 家 | makeover；小短流言；杰约高尔夫 |
+| 18–19 | 邓菲家 / 高尔夫球场 | 遥控大战；卡姆微波花；杰教挥杆 |
+| 20–22 | 邓菲家 / 球场 | 教海莉遥控；小短欠债；海莉成功 |
+| 23–25 | Jay 家 / 邓菲家 | 杰赔两万；惠特妮变身；吸血鬼 tag |
+
+----------------------
+【场景 01 / 25】邓菲家 · 片头（旁白框）
+★ 剧情：「人会变吗」；克莱尔反驳菲尔。
+★ 人物：Phil, Claire
+★ 时间线：片头哲学框
 ----------------------
 - Can people change?
  人会变吗 
@@ -24,6 +45,12 @@ S01E13
 - Come on.
  拜托 
 
+----------------------
+【场景 02 / 25】邓菲家 · 家庭影院
+★ 剧情：菲尔装影院；音量爆表；克莱尔科技无能。
+★ 人物：Phil, Claire
+★ 时间线：主线当日
+----------------------
 - Phil!
  菲尔 
 
@@ -45,6 +72,12 @@ S01E13
 - I mean, remotes, cell phones, computers.
  像是遥控器  手机  电脑 
 
+----------------------
+【场景 03 / 25】邓菲家 · 门厅
+★ 剧情：迪兰来访；克莱尔对不准遥控；人体比喻。
+★ 人物：Claire, Dylan, Phil
+★ 时间线：同日
+----------------------
 - Haley, have you seen my blue
  海莉  你看到我那件蓝色 
 
@@ -108,6 +141,12 @@ S01E13
 -  Hey! Look who it is. - Hey. There he is.
  嗨  看看这是谁  -嗨  是你啊 
 
+----------------------
+【场景 04 / 25】花店
+★ 剧情：杰买花谢 Gloria；偶遇 Mitch/Cam；介绍「儿子的朋友」。
+★ 人物：Jay, Mitchell, Cameron, Shorty 等
+★ 时间线：平行线
+----------------------
 - What a coinkydink.
  好巧哟 
 
@@ -159,6 +198,12 @@ S01E13
 -  Ay! So handsome! - Thank you.
  哎呀你看上去真帅  -谢谢 
 
+----------------------
+【场景 05 / 25】Jay 家 · 客厅
+★ 剧情：曼尼涂须后水；吸血鬼午餐菜单；等 Whitney。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：约会日
+----------------------
 - Manny, are you wearing aftershave? 
  曼尼  你涂了须后水吗 
 
@@ -207,6 +252,12 @@ S01E13
 - you don't need to stick around.
  你可以提前撤了 
 
+----------------------
+【场景 06 / 25】Jay 家 · 门厅
+★ 剧情：Whitney 到场；比曼尼大；卡姆迟到。
+★ 人物：Manny, Whitney, Cameron, Lily
+★ 时间线：约会日
+----------------------
 - Hi. I'm Whitney. I'm here for Manny.
  你好  我是惠特妮  我是来见曼尼的 
 
@@ -225,6 +276,12 @@ S01E13
 - to figure out how to use the car's voice-command thingy.
  研究这个车的声控系统怎么用 
 
+----------------------
+【场景 07 / 25】车内
+★ 剧情：研究声控；卡姆转述杰的介绍；决定找杰理论。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：约会途中
+----------------------
 - Oh. Here. Check it out. Watch.
  来  瞧好了  你看 
 
@@ -249,6 +306,12 @@ S01E13
 - It's a good thing Lily doesn't have an ejector seat.
  幸好莉莉没有弹射座椅 
 
+----------------------
+【场景 08 / 25】车内 → 旁白
+★ 剧情：卡姆坚持要杰道歉；米奇出柜三次往事。
+★ 人物：Mitchell, Cameron
+★ 时间线：赴 Jay 午餐
+----------------------
 - Oh, guess what. I ran into your dad and some of his friends.
  对了你知道吗  我碰到你爸和他朋友 
 
@@ -312,6 +375,12 @@ S01E13
 - because I came out of the womb like this- "Hello!"
  因为从她肚子出来时我就像这样  你好 
 
+----------------------
+【场景 09 / 25】餐厅 / 午餐
+★ 剧情：米奇当面质问「a friend of my son」；杰辩称老派朋友。
+★ 人物：Mitchell, Jay, Shorty, Hugo 等
+★ 时间线：午餐
+----------------------
 -  I gotta lay off these cannolis. - Hey, dad.
  我不该再吃煎饼卷了  -嗨  老爸 
 
@@ -426,6 +495,12 @@ S01E13
 - Ping!
  叮铃 
 
+----------------------
+【场景 10 / 25】邓菲家 · 电话
+★ 剧情：克莱尔请菲尔调 DVD；菲尔得意于复杂设备。
+★ 人物：Phil, Claire (phone), moms
+★ 时间线：平行
+----------------------
 -  Phil Dunphy. - Hey, it's me.
  菲尔·邓菲  -嗨  是我 
 
@@ -498,6 +573,12 @@ S01E13
 - You see what I mean?
  你明白我的意思了吧 
 
+----------------------
+【场景 11 / 25】Jay 家 · 客厅
+★ 剧情：Whitney 线上成熟假象破灭；曼尼手帕安慰。
+★ 人物：Manny, Whitney, Gloria
+★ 时间线：约会失败
+----------------------
 - I'll just be alone for the rest of my life.
  我会孤老终死的 
 
@@ -549,6 +630,12 @@ S01E13
 - Manny, go play.
  曼尼  自己去玩 
 
+----------------------
+【场景 12 / 25】Mitch & Cam 家 / 花
+★ 剧情：卡姆为花蔫了抓狂；米奇讲周六电话往事。
+★ 人物：Mitchell, Cameron
+★ 时间线：午后
+----------------------
 - Mitchell, how do these look to you?
  米奇尔  这花看上去怎么样 
 
@@ -609,6 +696,12 @@ S01E13
 - I'm not crying.
  我没在哭 
 
+----------------------
+【场景 13 / 25】Jay 家 · 客厅
+★ 剧情：Gloria 给 Whitney makeover；曼尼十年之约玩笑。
+★ 人物：Gloria, Whitney, Manny, Jay
+★ 时间线：午后
+----------------------
 -  I'm home! - We're here.
  我回家了  -我们在这儿 
 
@@ -657,6 +750,12 @@ S01E13
 - But maybe.
  不过可以试试 
 
+----------------------
+【场景 14 / 25】Jay 家 · 厨房
+★ 剧情：杰听 Shorty 可能 gay；Gloria 催杰谈心。
+★ 人物：Jay, Gloria
+★ 时间线：午后
+----------------------
 -  How was your lunch with the boys? - Good.
  你们的午餐吃的怎么样  -很好 
 
@@ -732,6 +831,12 @@ S01E13
 -  Yes. I'm getting that. - Okay, okay.
  好  我懂了  -好  好 
 
+----------------------
+【场景 15 / 25】邓菲家 · 客厅
+★ 剧情：克莱尔砸遥控；菲尔要教海莉证明她错了。
+★ 人物：Phil, Claire, Haley, Luke
+★ 时间线：平行
+----------------------
 - Hey, hey! Daddy in the hizzouse!
  哈喽  爸爸回到自己的领地了 
 
@@ -861,6 +966,12 @@ S01E13
 - Come on!
  拜托 
 
+----------------------
+【场景 16 / 25】电话 / 高尔夫球场
+★ 剧情：杰约 Shorty 练球；卡姆微波炉毁花。
+★ 人物：Jay, Shorty; Mitchell, Cameron
+★ 时间线：平行
+----------------------
 - Hey, Shorty, it's me.
  嘿  小短  是我 
 
@@ -909,6 +1020,12 @@ S01E13
 - And I used my cowboy voice, so
  用的还是我的牛仔音  所以... 
 
+----------------------
+【场景 17 / 25】Mitch & Cam 家 · 厨房
+★ 剧情：花商上门；卡姆脸被微波炉烫伤。
+★ 人物：Cameron, Mitchell, florist
+★ 时间线：平行
+----------------------
 - What are you doing?
  你在干嘛 
 
@@ -957,6 +1074,12 @@ S01E13
 - Damn it!
  该死 
 
+----------------------
+【场景 18 / 25】高尔夫球场
+★ 剧情：杰教 Shorty 转胯；气氛暧昧；改去喝咖啡。
+★ 人物：Jay, Shorty
+★ 时间线：下午
+----------------------
 -  You know what the problem is. - What?
  你知道你问题在哪吗  -在哪 
 
@@ -999,6 +1122,12 @@ S01E13
 -  Let's get a coffee. - Sure.
  走  喝咖啡去  -行 
 
+----------------------
+【场景 19 / 25】邓菲家 · 家庭影院
+★ 剧情：菲尔 20 分钟教海莉；商场关门梗。
+★ 人物：Phil, Haley, Claire
+★ 时间线：下午
+----------------------
 - Now press the button labeled "Activities."
  按下"功能"键 
 
@@ -1062,6 +1191,12 @@ S01E13
 - Sure. Why not?
  有什么撑不起来的 
 
+----------------------
+【场景 20 / 25】高尔夫球场 · 谈心
+★ 剧情：杰以为 Shorty 要出柜；实为欠赌债两万。
+★ 人物：Jay, Shorty
+★ 时间线：下午
+----------------------
 - Listen, Shorty, uh, we know each other a long time, right?
  小短  我们是老交情了 
 
@@ -1167,6 +1302,12 @@ S01E13
 - Cash would be better.
  现金更好 
 
+----------------------
+【场景 21 / 25】邓菲家 · 家庭影院
+★ 剧情：海莉搞定 HDMI；克莱尔认输；菲尔得意。
+★ 人物：Phil, Haley, Claire
+★ 时间线：傍晚
+----------------------
 - Haley. You ready?
  海莉  准备好了吗 
 
@@ -1263,6 +1404,12 @@ S01E13
 - See what I'm saying?
  瞧见了吗 
 
+----------------------
+【场景 22 / 25】Jay 家 · 门厅
+★ 剧情：米奇告知 Shorty 直；杰赔两万；米奇为杰成长骄傲。
+★ 人物：Mitchell, Jay
+★ 时间线：傍晚
+----------------------
 - Mitchell, it's me!
  米奇尔  是我 
 
@@ -1335,6 +1482,12 @@ S01E13
 - Don't worry, Dad. Not growing too much.
  别急  老爸  你也没长进多少 
 
+----------------------
+【场景 23 / 25】Jay 家 · 客厅
+★ 剧情：Whitney makeover 完成；卡姆送花；众赞造型。
+★ 人物：Gloria, Whitney, Manny, Cameron
+★ 时间线：傍晚
+----------------------
 - I'm a little nervous.
  我有点紧张 
 
@@ -1398,6 +1551,12 @@ S01E13
 -  One of my favorites. - Me too.
  我的最爱之一  -我也是 
 
+----------------------
+【场景 24 / 25】Jay 家 · 片尾
+★ 剧情：Whitney 迷上卡姆；15% 人会变；Shorty 演唱会邀约。
+★ 人物：Whitney, Cameron, Jay, Shorty
+★ 时间线：片尾 tag
+----------------------
 - Okay, who is reading The Forevers?
  好吧  是谁在读永恒系列 
 
@@ -1428,6 +1587,12 @@ S01E13
 -  Well, I'll see you when I see you. - Yeah, thanks for
  那有机会再见了  再见  -恩 谢谢 
 
+----------------------
+【场景 25 / 25】邓菲家 · 片尾
+★ 剧情：海莉教克莱尔用电视；「15% 有时就够」。
+★ 人物：Haley, Claire, Phil
+★ 时间线：片尾 tag
+----------------------
 - Haley, sweetie, wake up.
  海莉  甜心  醒醒 
 
@@ -1511,4 +1676,3 @@ S01E13
 
 - Yo, handsome. Who does your hair?
  嘿  帅哥  谁帮你剪的头发 
-

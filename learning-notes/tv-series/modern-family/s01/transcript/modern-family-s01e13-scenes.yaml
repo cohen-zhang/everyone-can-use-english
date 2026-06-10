@@ -1,0 +1,184 @@
+# Scene markers for modern-family-s01e13-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E13
+episode_arc: 人会变吗 / 家庭影院
+timeline_note: 片头「人会变吗」哲学框；片尾海莉教克莱尔与 15% 回调
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家
+    summary: 人会变吗；家庭影院；克莱尔 vs 遥控
+  - scenes: "04–07"
+    place: 花店 / Jay 家
+    summary: 买花偶遇；曼尼吸血鬼约会；惠特妮到场
+  - scenes: "08–11"
+    place: 车内 / 午餐
+    summary: 声控车；出柜往事；米奇对峙杰
+  - scenes: "12–14"
+    place: 邓菲家 / Jay 家
+    summary: 菲尔帮妈妈调 DVD；曼尼失恋；卡姆与花
+  - scenes: "15–17"
+    place: Jay 家
+    summary:  makeover；小短流言；杰约高尔夫
+  - scenes: "18–19"
+    place: 邓菲家 / 高尔夫球场
+    summary: 遥控大战；卡姆微波花；杰教挥杆
+  - scenes: "20–22"
+    place: 邓菲家 / 球场
+    summary: 教海莉遥控；小短欠债；海莉成功
+  - scenes: "23–25"
+    place: Jay 家 / 邓菲家
+    summary: 杰赔两万；惠特妮变身；吸血鬼 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 片头（旁白框）
+    plot: 「人会变吗」；克莱尔反驳菲尔。
+    characters: Phil, Claire
+    timeline: 片头哲学框
+    anchor: Can people change?
+  - id: "02"
+    place: 邓菲家 · 家庭影院
+    plot: 菲尔装影院；音量爆表；克莱尔科技无能。
+    characters: Phil, Claire
+    timeline: 主线当日
+    anchor: Phil!
+  - id: "03"
+    place: 邓菲家 · 门厅
+    plot: 迪兰来访；克莱尔对不准遥控；人体比喻。
+    characters: Claire, Dylan, Phil
+    timeline: 同日
+    anchor: Haley, have you seen my blue
+  - id: "04"
+    place: 花店
+    plot: 杰买花谢 Gloria；偶遇 Mitch/Cam；介绍「儿子的朋友」。
+    characters: Jay, Mitchell, Cameron, Shorty 等
+    timeline: 平行线
+    anchor: What a coinkydink.
+  - id: "05"
+    place: Jay 家 · 客厅
+    plot: 曼尼涂须后水；吸血鬼午餐菜单；等 Whitney。
+    characters: Jay, Gloria, Manny
+    timeline: 约会日
+    anchor: Manny, are you wearing aftershave?
+  - id: "06"
+    place: Jay 家 · 门厅
+    plot: Whitney 到场；比曼尼大；卡姆迟到。
+    characters: Manny, Whitney, Cameron, Lily
+    timeline: 约会日
+    anchor: Hi. I'm Whitney. I'm here for Manny.
+  - id: "07"
+    place: 车内
+    plot: 研究声控；卡姆转述杰的介绍；决定找杰理论。
+    characters: Mitchell, Cameron, Lily
+    timeline: 约会途中
+    anchor: Oh. Here. Check it out. Watch.
+  - id: "08"
+    place: 车内 → 旁白
+    plot: 卡姆坚持要杰道歉；米奇出柜三次往事。
+    characters: Mitchell, Cameron
+    timeline: 赴 Jay 午餐
+    anchor: Oh, guess what. I ran into your dad and some of his friends.
+  - id: "09"
+    place: 餐厅 / 午餐
+    plot: 米奇当面质问「a friend of my son」；杰辩称老派朋友。
+    characters: Mitchell, Jay, Shorty, Hugo 等
+    timeline: 午餐
+    anchor: I gotta lay off these cannolis.
+  - id: "10"
+    place: 邓菲家 · 电话
+    plot: 克莱尔请菲尔调 DVD；菲尔得意于复杂设备。
+    characters: Phil, Claire (phone), moms
+    timeline: 平行
+    anchor: Phil Dunphy.
+  - id: "11"
+    place: Jay 家 · 客厅
+    plot: Whitney 线上成熟假象破灭；曼尼手帕安慰。
+    characters: Manny, Whitney, Gloria
+    timeline: 约会失败
+    anchor: I'll just be alone for the rest of my life.
+  - id: "12"
+    place: Mitch & Cam 家 / 花
+    plot: 卡姆为花蔫了抓狂；米奇讲周六电话往事。
+    characters: Mitchell, Cameron
+    timeline: 午后
+    anchor: Mitchell, how do these look to you?
+  - id: "13"
+    place: Jay 家 · 客厅
+    plot: Gloria 给 Whitney makeover；曼尼十年之约玩笑。
+    characters: Gloria, Whitney, Manny, Jay
+    timeline: 午后
+    anchor: I'm home!
+  - id: "14"
+    place: Jay 家 · 厨房
+    plot: 杰听 Shorty 可能 gay；Gloria 催杰谈心。
+    characters: Jay, Gloria
+    timeline: 午后
+    anchor: How was your lunch with the boys?
+  - id: "15"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔砸遥控；菲尔要教海莉证明她错了。
+    characters: Phil, Claire, Haley, Luke
+    timeline: 平行
+    anchor: Hey, hey! Daddy in the hizzouse!
+  - id: "16"
+    place: 电话 / 高尔夫球场
+    plot: 杰约 Shorty 练球；卡姆微波炉毁花。
+    characters: Jay, Shorty; Mitchell, Cameron
+    timeline: 平行
+    anchor: Hey, Shorty, it's me.
+  - id: "17"
+    place: Mitch & Cam 家 · 厨房
+    plot: 花商上门；卡姆脸被微波炉烫伤。
+    characters: Cameron, Mitchell, florist
+    timeline: 平行
+    anchor: What are you doing?
+  - id: "18"
+    place: 高尔夫球场
+    plot: 杰教 Shorty 转胯；气氛暧昧；改去喝咖啡。
+    characters: Jay, Shorty
+    timeline: 下午
+    anchor: You know what the problem is.
+  - id: "19"
+    place: 邓菲家 · 家庭影院
+    plot: 菲尔 20 分钟教海莉；商场关门梗。
+    characters: Phil, Haley, Claire
+    timeline: 下午
+    anchor: Now press the button labeled "Activities."
+  - id: "20"
+    place: 高尔夫球场 · 谈心
+    plot: 杰以为 Shorty 要出柜；实为欠赌债两万。
+    characters: Jay, Shorty
+    timeline: 下午
+    anchor: Listen, Shorty, uh, we know each other a long time, right?
+  - id: "21"
+    place: 邓菲家 · 家庭影院
+    plot: 海莉搞定 HDMI；克莱尔认输；菲尔得意。
+    characters: Phil, Haley, Claire
+    timeline: 傍晚
+    anchor: Haley. You ready?
+  - id: "22"
+    place: Jay 家 · 门厅
+    plot: 米奇告知 Shorty 直；杰赔两万；米奇为杰成长骄傲。
+    characters: Mitchell, Jay
+    timeline: 傍晚
+    anchor: Mitchell, it's me!
+  - id: "23"
+    place: Jay 家 · 客厅
+    plot: Whitney makeover 完成；卡姆送花；众赞造型。
+    characters: Gloria, Whitney, Manny, Cameron
+    timeline: 傍晚
+    anchor: I'm a little nervous.
+  - id: "24"
+    place: Jay 家 · 片尾
+    plot: Whitney 迷上卡姆；15% 人会变；Shorty 演唱会邀约。
+    characters: Whitney, Cameron, Jay, Shorty
+    timeline: 片尾 tag
+    anchor: Okay, who is reading The Forevers?
+  - id: "25"
+    place: 邓菲家 · 片尾
+    plot: 海莉教克莱尔用电视；「15% 有时就够」。
+    characters: Haley, Claire, Phil
+    timeline: 片尾 tag
+    anchor: Haley, sweetie, wake up.

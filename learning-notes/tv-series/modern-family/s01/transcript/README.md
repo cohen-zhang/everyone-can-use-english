@@ -6,6 +6,8 @@
 
 若需维护 **成人向本集词汇表**（`Word | IPA (GA) | 简中义项 | 标签`），见 Cursor 技能 **subtitle-vocabulary-tables**；全文笔记体例（互链、亲子标签等）见 **english-learning-markdown-docs**。
 
+**镜头场景分段**（`【场景 xx / N】`、文首索引表、不拆开英中字幕对）：见 Cursor 技能 **tv-transcript-scene-markers**。每集配套 `modern-family-s01eXX-scenes.yaml`（配置）↔ `modern-family-s01eXX-transcript.txt`（已插入标记）。示例 [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-scenes.yaml|S01E09 scenes.yaml]] ↔ [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt|S01E09 字幕全文]]。**E01–E11、E13–E24** 已完成；**E12** 字幕正文尚空，待补齐后再分段。
+
 **亲子主题摘录**（吃饭、夸奖等，非整集台词）入口：**[[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes 索引]]**。
 
 ---

@@ -2,6 +2,32 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E06 
+
+## 场景分段索引（S01E06 · 开学第一天 / 菲尔与克莱尔赛跑）
+
+字幕正文按镜头插入 `【场景 xx / 28】`；多线平行（邓菲晨间、Jay/歌洛莉亚、Mitch/Cam 育儿、赛跑 tag）。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 · 清晨 | 午餐、卢克日记、晨间旁白 |
+| 04 | Jay 家 | 曼尼五年级与哥伦比亚斗篷 |
+| 05 | Mitch & Cam 家 | 幼儿防护与莉莉偶像写真 |
+| 06–07 | 邓菲家 / 车内 | 菲尔裸奔、海莉学车灾难 |
+| 08 | Jay 家 / 车内 | Jay 打击曼尼自信；歌洛莉亚反驳 |
+| 09–11 | Mitch & Cam 家 | 跳舞撞头、狗狗笑话、致电克莱尔 |
+| 12–15 | Jay 家 / 邓菲家 | 二人世界；Jay 陪菲尔；赛跑赌约 |
+| 16–18 | Jay 家 → 学校 | 斗篷风波；米奇尔回忆；送斗篷到校 |
+| 19 | 邓菲家 | 菲尔与克莱尔赛跑约定 |
+| 20 | 医院 | 缪拉医生检查撞头 |
+| 21–23 | 学校 / 车内 | 送斗篷；排箫；锁婴儿在车里 |
+| 24–27 | 邓菲家 / 社区 | 孩子回家赛跑；紧急开锁；克莱尔放水 |
+| 28 | 车内 · tag | 海莉遇警察；菲尔怂恿逃跑 |
+
+----------------------
+【场景 01 / 28】邓菲家 · 厨房
+★ 剧情：开学晨：装午餐、催孩子出门。
+★ 人物：Claire, Luke, Alex
+★ 时间线：开学第一天早晨
 ----------------------
 - Okay, your brother's lunch is packed.
  你弟弟的午餐装好了 
@@ -21,6 +47,12 @@ S01E06
 - Come on. We're only halfway done.
  继续啊  我们只做了一半 
 
+----------------------
+【场景 02 / 28】邓菲家 · 客厅
+★ 剧情：卢克暑假日记几乎空白；全家帮忙。
+★ 人物：Luke, Phil, Claire, Alex
+★ 时间线：同日早晨
+----------------------
 - I need help.
  我需要帮忙 
 
@@ -51,6 +83,12 @@ S01E06
 - He's right. It looked like a snake.
  他说的没错  长得就跟蛇一样 
 
+----------------------
+【场景 03 / 28】邓菲家 · 旁白
+★ 剧情：菲尔旁白：送出门的疯狂早晨。
+★ 人物：Phil, Claire
+★ 时间线：同日早晨
+----------------------
 - Getting everybody out of the house in the morning
  每天早上送大家出门 
 
@@ -78,6 +116,12 @@ S01E06
 - That's you? I thought we had a raccoon.
  原来是你啊  我还以为是浣熊进来了呢 
 
+----------------------
+【场景 04 / 28】Jay 家 · 门口
+★ 剧情：曼尼穿哥伦比亚传统斗篷上学；Jay 调侃。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：开学早晨（平行线）
+----------------------
 - I can't believe my little boy is going into the fifth grade.
  真不敢相信我的宝贝都上5年级了 
 
@@ -129,6 +173,12 @@ S01E06
 - *You are a cutie pie*
  *你是个可爱派* 
 
+----------------------
+【场景 05 / 28】Mitch & Cam 家
+★ 剧情：卡姆给莉莉拍流行偶像写真；米奇尔无奈。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：开学早晨（平行线）
+----------------------
 - Are you still baby-proofing?
  你还在装那些幼儿防护设备吗 
 
@@ -213,6 +263,12 @@ S01E06
 -  Here, I'll help you carry it out to the curb. - Okay. Here.
  来  我帮你提到路边去吧  -给 
 
+----------------------
+【场景 06 / 28】邓菲家 · 门口
+★ 剧情：菲尔没穿裤子；海莉驾校教练来接。
+★ 人物：Phil, Claire, Haley
+★ 时间线：送孩子出门
+----------------------
 - Phil, put on some pants.
  菲尔  把裤子穿上 
 
@@ -258,6 +314,12 @@ S01E06
 -  Okay, merge. - I
  好  并道  -我 
 
+----------------------
+【场景 07 / 28】车内 · 海莉练车
+★ 剧情：并道、导航失灵、冲进公园。
+★ 人物：Phil, Claire, Haley
+★ 时间线：送学路上
+----------------------
 - Merge. Merge! Merge! Merge! Merge!
  并道  并道  并道并道快并道 
 
@@ -282,6 +344,12 @@ S01E06
 - Makes you realize we're all just hanging by a thread.
  我们夫妻俩真是命悬一线啊 
 
+----------------------
+【场景 08 / 28】车内 → Jay 家
+★ 剧情：Jay「打击」曼尼自信；歌洛莉亚教穿斗篷要有自信。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：送曼尼上学后
+----------------------
 - The last thing Manny needs on his first day of school...
  开学第一天  曼尼最不需要的 
 
@@ -327,6 +395,12 @@ S01E06
 - My idea.
  就是我的主意 
 
+----------------------
+【场景 09 / 28】Mitch & Cam 家 · 客厅
+★ 剧情：卡姆逼米奇尔放松跳舞；莉莉撞头。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：上午
+----------------------
 - Ever since we brought Lily home, you've been tense.
  自从带莉莉回来后你就紧张得要死 
 
@@ -420,6 +494,12 @@ S01E06
 -  Why? - 'Cause that's how we'll know she's okay.
  为什么  -那样我们就知道她没事了 
 
+----------------------
+【场景 10 / 28】Mitch & Cam 家
+★ 剧情：用「狗狗」笑话测莉莉；米奇尔拒打给克莱尔。
+★ 人物：Mitchell, Cameron
+★ 时间线：撞头后
+----------------------
 - Where's... uh... where's Doggy?
  那个  狗狗在哪里 
 
@@ -459,6 +539,12 @@ S01E06
 - Of course she's gonna be judgmental and condescending.
  她当然会盛气凌人说三道四了 
 
+----------------------
+【场景 11 / 28】电话 · 克莱尔
+★ 剧情：克莱尔安慰：撞头常有；米奇尔仍 panic。
+★ 人物：Mitchell, Cameron, Claire
+★ 时间线：上午
+----------------------
 - Hello?
  喂 
 
@@ -498,6 +584,12 @@ S01E06
 - We gotta take her to the doctor. Load up the car.
  我们得带她去看医生  把车开出来 
 
+----------------------
+【场景 12 / 28】Jay 家
+★ 剧情：Jay 送完曼尼；提议俱乐部、按摩过二人世界。
+★ 人物：Jay, Gloria
+★ 时间线：上午
+----------------------
 -  Gloria? - I'm here.
  歌洛莉亚  -我在这儿 
 
@@ -555,6 +647,12 @@ S01E06
 - Yeah, that one's gonna cost me.
  得  待会儿就得为此付出代价了 
 
+----------------------
+【场景 13 / 28】邓菲家 · 客厅
+★ 剧情：Jay 突然来访陪读；改期 open house。
+★ 人物：Jay, Phil
+★ 时间线：上午
+----------------------
 - What ya reading there? A book?
  你在看什么书呢 
 
@@ -582,6 +680,12 @@ S01E06
 - for stay-at-home moms.
  开学第一天肯定无聊至极吧 
 
+----------------------
+【场景 14 / 28】邓菲家 · 旁白
+★ 剧情：菲尔旁白「用心聆听」；克莱尔想安静一天。
+★ 人物：Phil, Claire
+★ 时间线：上午
+----------------------
 - Now, you have to understand,
  因为你不得不适应 
 
@@ -624,6 +728,12 @@ S01E06
 - Thought I'd just read, maybe go for a run later, that's it.
  读读书  出去跑跑步之类的 
 
+----------------------
+【场景 15 / 28】邓菲家 · 客厅
+★ 剧情：Jay 坚持一起跑步；菲尔赌谁更快。
+★ 人物：Phil, Jay, Claire
+★ 时间线：上午
+----------------------
 - Great. We'll run together.
  好啊  我们一起去跑步吧 
 
@@ -702,6 +812,12 @@ S01E06
 - Reuben.
  鲁儿宾 
 
+----------------------
+【场景 16 / 28】Jay 家 · 车库
+★ 剧情：发现曼尼斗篷；Jay 讲笑话惹怒歌洛莉亚。
+★ 人物：Jay, Gloria
+★ 时间线：中午前
+----------------------
 -  Jay, what is this? - Oh, looks like my old car cover.
  杰  这是什么  -可能是旧盖车布吧 
 
@@ -747,6 +863,12 @@ S01E06
 - He got his jaunty butt kicked.
  结果他被踢得屁股了开花 
 
+----------------------
+【场景 17 / 28】Jay 家 · 回忆
+★ 剧情：米奇尔旁白：围巾事件与保护曼尼天性之争。
+★ 人物：Jay, Gloria, Mitchell(VO)
+★ 时间线：同上
+----------------------
 - My dad has this perception that I was very flamboyant as a kid,
  我爸总觉得我从小就挺花枝招展的 
 
@@ -795,6 +917,12 @@ S01E06
 - Manny can't make it to the top bunk.
  曼尼连上铺都爬不上去 
 
+----------------------
+【场景 18 / 28】车内 → 学校
+★ 剧情：夫妻送斗篷到校支持曼尼。
+★ 人物：Jay, Gloria
+★ 时间线：中午
+----------------------
 - We're taking this poncho to Manny at school.
  我们要去学校把斗篷给曼尼 
 
@@ -813,6 +941,12 @@ S01E06
 - The regular way would seem weird.
  普通人爬楼梯简直弱爆了 
 
+----------------------
+【场景 19 / 28】邓菲家 · 楼梯
+★ 剧情：菲尔与克莱尔赛跑赌约；下午比。
+★ 人物：Phil, Claire
+★ 时间线：下午前
+----------------------
 - Phil, let it go. I'm faster than you.
  菲尔  省省吧  我就是比你快 
 
@@ -849,6 +983,12 @@ S01E06
 - Two at a time! Already at the top, so
  两阶一步  顺利登顶 
 
+----------------------
+【场景 20 / 28】医院 · 候诊
+★ 剧情：缪拉医生检查；假发与亚洲文化尬聊。
+★ 人物：Mitchell, Cameron, Dr. Miura, Lily
+★ 时间线：下午
+----------------------
 - Hi, I'm Dr. Miura. I'm on call today.
  我是缪拉医生  今天由我值班 
 
@@ -999,6 +1139,12 @@ S01E06
 - Denver.
  我是丹佛人 
 
+----------------------
+【场景 21 / 28】学校 · 走廊
+★ 剧情：找曼尼；哥伦比亚认尸文化；送斗篷。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：下午
+----------------------
 - I don't see any ponchos,
  我没看到哪儿有斗篷 
 
@@ -1038,6 +1184,12 @@ S01E06
 - It's why hotel windows don't open anymore.
  正因此  酒店的窗户都不敢开了 
 
+----------------------
+【场景 22 / 28】学校 · 办公室外
+★ 剧情：曼尼掏出排箫；Jay 踩碎；夫妻和好。
+★ 人物：Jay, Gloria, Manny, Mitchell, Cameron
+★ 时间线：下午
+----------------------
 - Is something wrong? Who's died?
  发生什么事了吗  谁死了 
 
@@ -1197,6 +1349,12 @@ S01E06
 -  Don't you forget it. - Okay.
  可别忘了  -好啦 
 
+----------------------
+【场景 23 / 28】医院 / 停车场
+★ 剧情：米奇尔自我怀疑；钥匙锁 Lily 在车里。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：离开医院
+----------------------
 - Did we just lock our baby in the car?
  我们是不是把宝宝锁在车里了 
 
@@ -1242,6 +1400,12 @@ S01E06
 - Couldn't hear ya. I'm cranking one of my mash-ups.
  我听不到你讲话  我在享受混搭专辑 
 
+----------------------
+【场景 24 / 28】邓菲家 · 车道
+★ 剧情：孩子放学回家；菲尔与克莱尔赛跑开始。
+★ 人物：Phil, Claire, Luke, Alex, Haley
+★ 时间线：下午
+----------------------
 - There they are.
  他们回来了 
 
@@ -1302,6 +1466,12 @@ S01E06
 - I'm breaking the window!
  我来打碎玻璃 
 
+----------------------
+【场景 25 / 28】停车场 · 紧急
+★ 剧情：911 远程开锁失败；路人围观。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：与赛跑平行
+----------------------
 - Emergency assistance. This is Trina.
  紧急援助中心  我叫崔娜 
 
@@ -1350,6 +1520,12 @@ S01E06
 -  Thank you. - Did that come from space?
  谢谢  -难不成是天外来客 
 
+----------------------
+【场景 26 / 28】社区 · 赛跑
+★ 剧情：菲尔与克莱尔 mailbox 往返赛。
+★ 人物：Phil, Claire
+★ 时间线：下午
+----------------------
 - I run five miles a day.
  我每天跑5英里 
 
@@ -1419,6 +1595,12 @@ S01E06
 - You're getting better, sweetheart.
  你有进步哦  宝贝 
 
+----------------------
+【场景 27 / 28】社区 · 旁白
+★ 剧情：克莱尔旁白：故意输掉让菲尔赢。
+★ 人物：Claire, Phil
+★ 时间线：赛跑后
+----------------------
 - Did I lose the race to make him feel better?
  我是故意输掉让他开心点的吗 
 
@@ -1446,6 +1628,12 @@ S01E06
 - Kind of the best job in the world.
  但却是世上最甜蜜的负担 
 
+----------------------
+【场景 28 / 28】车内 · tag
+★ 剧情：海莉被警察拦；菲尔怂恿别停车。
+★ 人物：Haley, Phil, Claire
+★ 时间线：片尾
+----------------------
 -  What are you doing? - Turn your eyes on the road!
  你在干嘛  -好好看路 
 
@@ -1502,4 +1690,3 @@ S01E06
 
 - It's not a movie, Hayley, and pull over!
  你以为拍电影啊海莉  停车 
-

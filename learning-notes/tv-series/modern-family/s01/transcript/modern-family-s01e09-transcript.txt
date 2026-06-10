@@ -1,7 +1,33 @@
 Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e09-daily-lines.md|S01E09 生活场景实用英文句]]
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
+场景配置（YAML）：[[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-scenes.yaml|S01E09 场景分段配置]]
 
 S01E09 
+
+## 场景分段索引（S01E09 · Luke 生日派对 / Fizbo）
+
+字幕正文按镜头插入 `【场景 xx / 26】`；片头/尾医院 + 中段派对闪回与交叉剪辑。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01 | 医院 | 片头：卢克受伤候诊 |
+| 02–04 | 邓菲家 | 生日愿望、策划派对、借设备 |
+| 05 | Mitch & Cam | 小丑 / 礼物之争 |
+| 06–07 | Jay 家 | 十字弓；曼尼恋爱建议 |
+| 08–09 | 宠物店 / Cam 家 | 租爬宠；Fizbo 上妆 |
+| 10–14 | 邓菲后院 | 攀岩墙、Dylan、Fizbo 摊牌、滑索、梳套 |
+| 15–16 | 加油站 / Jay 家 | Fizbo 护曼尼；歌洛莉亚安慰 |
+| 17–19 | 邓菲后院 | 爬宠吃醋、绳降、曼尼真情 |
+| 20–21 | 邓菲后院 | 海莉吃醋；毒蝎出逃 |
+| 22 | 医院 | 交叉剪辑 |
+| 23–24 | 邓菲后院 | 梳套翻红；十字弓/蝎子/城堡灾难 |
+| 25–26 | 医院 / 尾声 | 打石膏；Fizbo 蛋糕；角色收尾 |
+
+----------------------
+【场景 01 / 26】医院候诊区 · 片头（闪回框）
+★ 剧情：卢克受伤送医；家人门外等医生。
+★ 人物：Phil, Claire
+★ 时间线：派对事故之后（全集切入点，后文大量闪回）
 ----------------------
 - Do we know anything?
  有消息了吗 
@@ -18,6 +44,12 @@ S01E09
 - My God, how did this even happen?
  老天  怎么会发生这种事 
 
+----------------------
+【场景 02 / 26】邓菲家 · 清晨客厅
+★ 剧情：菲尔问卢克生日想要什么；感恩节常冲淡生日。
+★ 人物：Phil, Claire, Luke
+★ 时间线：派对当天早晨（闪回主线）
+----------------------
 - There he is. Big day's coming up.
  儿子来了  大日子快到了哦 
 
@@ -42,6 +74,12 @@ S01E09
 - Extension cord works pretty good.
  天线延长线用着也挺顺手的 
 
+----------------------
+【场景 03 / 26】邓菲家 · 客厅（旁白 + 策划）
+★ 剧情：往年生日被忽视；决定办「史上最棒」生日派对。
+★ 人物：Phil, Claire
+★ 时间线：同日早晨
+----------------------
 - Every year, Luke's birthday falls right around Thanksgiving,
  每年卢克的生日都在感恩节附近 
 
@@ -78,6 +116,12 @@ S01E09
 -  We can't get it right. - No.
  我们怎么都做不对  -做不对 
 
+----------------------
+【场景 04 / 26】邓菲家 · 门口 / 借物
+★ 剧情：否决无聊手工桌；借卡拉 OK；邻居问小丑。
+★ 人物：Phil, Claire, 邻居
+★ 时间线：派对前数小时
+----------------------
 -  I feel terrible. We gotta do something. - Oh, yeah.
  我觉得很愧疚  我们得做点什么  -是啊 
 
@@ -135,6 +179,12 @@ S01E09
 -  Don't bring it back. - Okay.
  千万别送回来  -好的 
 
+----------------------
+【场景 05 / 26】Mitch & Cam 家
+★ 剧情：卡姆坚持要小丑；米切尔反对；讨论礼物卡。
+★ 人物：Mitchell, Cameron
+★ 时间线：派对前（平行线）
+----------------------
 - Hey, Phil. Are, uh, you getting a clown for today?
  嘿  菲尔  你今天的派对有请小丑吗 
 
@@ -201,6 +251,12 @@ S01E09
 - Who hurt you?
  你被谁摧残过 
 
+----------------------
+【场景 06 / 26】Jay 家 · 客厅
+★ 剧情：Jay 送十字弓；歌洛莉亚反对。
+★ 人物：Jay, Gloria
+★ 时间线：派对前
+----------------------
 - Hey, Gloria,
  嘿  歌洛莉亚   
 
@@ -234,6 +290,12 @@ S01E09
 - I'll teach him how to use it.
  我会教他怎么用的 
 
+----------------------
+【场景 07 / 26】Jay 家 · 客厅
+★ 剧情：曼尼求恋爱建议；暗恋 Bianca 将出席派对。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：派对前
+----------------------
 - Hey, pal, how's it going?
  嘿  老弟  过得怎么样 
 
@@ -288,6 +350,12 @@ S01E09
 - you're gonna be the funny guy.
  那你就得做个风趣幽默的男人 
 
+----------------------
+【场景 08 / 26】宠物店 · Jungle Tanya
+★ 剧情：菲尔租派对恐怖爬宠，嫌不够吓人。
+★ 人物：Phil, Jungle Tanya
+★ 时间线：派对前采买
+----------------------
 - No, no, no. I want the most dangerous reptile you've got.
  不不不  我想要你养的最危险的爬虫 
 
@@ -315,6 +383,12 @@ S01E09
 - Well, then we're back to square one, aren't we?
  那说来说去又说回去了  是吧 
 
+----------------------
+【场景 09 / 26】Cam 家 · 化妆 / 旁白
+★ 剧情：卡姆决定让 Fizbo 出场，取小丑妆。
+★ 人物：Cameron
+★ 时间线：派对即将开始
+----------------------
 - I couldn't get Luke out of my mind.
  我脑子里一直想着卢克的生日会 
 
@@ -330,6 +404,12 @@ S01E09
 - Hello, old friend.
  你好啊  老朋友 
 
+----------------------
+【场景 10 / 26】邓菲后院 · 攀岩墙布置
+★ 剧情：菲尔瞒克莱尔搭攀岩墙；签免责书、雪葩机。
+★ 人物：Phil, Claire
+★ 时间线：派对开始前
+----------------------
 - It all happened so fast.
  一切都发生在眨眼之间 
 
@@ -381,6 +461,12 @@ S01E09
 -  There's a snow cone machine? - Yeah.
  你弄来了冰霜卷机器吗  -是啊 
 
+----------------------
+【场景 11 / 26】邓菲家 / 后院 · 派对前
+★ 剧情：Dylan 忌蛋黄酱；comb sheath 手工桌；菲尔送数学游戏。
+★ 人物：Claire, Haley, Phil
+★ 时间线：派对早段
+----------------------
 - Mom, just so you know, Dylan cannot have mayonnaise.
  妈  记住  迪兰不能吃蛋黄酱 
 
@@ -468,6 +554,12 @@ S01E09
 - Hole in one.
  一举夺魁 
 
+----------------------
+【场景 12 / 26】Mitch & Cam 家 · Fizbo 摊牌
+★ 剧情：卡姆已扮 Fizbo；解释四类小丑；米切尔崩溃。
+★ 人物：Mitchell, Cameron(Fizbo)
+★ 时间线：派对进行中
+----------------------
 - I'm home.
  我回家了 
 
@@ -561,6 +653,12 @@ S01E09
 - Oh, okay. Well, at least we agree on something.
  好吧  至少我们都认为你这装扮让人性趣全无   
 
+----------------------
+【场景 13 / 26】邓菲后院 · 滑索事故
+★ 剧情：卢克 zip-line 撞树；封锁区域。
+★ 人物：Phil, Luke
+★ 时间线：派对早段
+----------------------
 - If this tape is found in the future,
  如果未来有人发现这盘带子 
 
@@ -582,6 +680,12 @@ S01E09
 - Excellent. Thank you.
  很好  谢谢你们 
 
+----------------------
+【场景 14 / 26】邓菲后院 · 手工桌
+★ 剧情：克莱尔邀做梳套；卢克去玩攀岩墙。
+★ 人物：Claire, Luke
+★ 时间线：派对中段
+----------------------
 - Hey, buddy, you having fun?
  嘿  小老弟  玩得开心吗 
 
@@ -624,6 +728,12 @@ S01E09
 - Seriously, zip-line guys, use some ropes.
  说真的  负责滑索的人  用绳子圈一下 
 
+----------------------
+【场景 15 / 26】车内 → 加油站
+★ 剧情：小丑坐车尴尬；曼尼讲笑话失败；Fizbo 护男友。
+★ 人物：Mitchell, Cameron(Fizbo), Manny, Bianca
+★ 时间线：派对中段
+----------------------
 - Did you remember to switch the whites to the dryer?
  你记得把白色衣服放进烘干机了吗 
 
@@ -777,6 +887,12 @@ S01E09
 - Let's go. We're gonna be late.
  快走吧  要迟到了 
 
+----------------------
+【场景 16 / 26】Jay 家 · 客厅
+★ 剧情：曼尼受挫；歌洛莉亚：做真实的自己。
+★ 人物：Gloria, Manny
+★ 时间线：派对中段
+----------------------
 - Mind if I come in?
  介意我也进来吗 
 
@@ -822,6 +938,12 @@ S01E09
 -  She won't know what hit her. - Vaya para all!
  她会被我迷得神魂颠倒的  -加油加油 
 
+----------------------
+【场景 17 / 26】邓菲后院 · 派对 A 线
+★ 剧情：雪葩、鬣蜥 Lizzy、Dylan 与爬宠女、歌洛莉亚蹦床。
+★ 人物：Claire, Phil, Gloria, Haley, Dylan, Jungle Tanya
+★ 时间线：派对高潮前
+----------------------
 - Hey, Manny, wanna make a sweet comb sheath?
  嘿  曼尼  想做过可爱的梳套吗 
 
@@ -933,6 +1055,12 @@ S01E09
 - Great job, buddy.
  真棒啊  小老弟 
 
+----------------------
+【场景 18 / 26】邓菲后院 · 绳降 / Phil 旁白
+★ 剧情：菲尔鼓励绳降；旁白怕小丑；Fizbo 见卢克。
+★ 人物：Phil, Luke, Cameron(Fizbo)
+★ 时间线：派对高潮前
+----------------------
 - Now comes the fun part. Rappel down.
  现在有趣的部分到啦  快滑下来吧 
 
@@ -1020,6 +1148,12 @@ S01E09
 - Well, join the club.
  彼此彼此 
 
+----------------------
+【场景 19 / 26】邓菲后院 · 曼尼 & Bianca
+★ 剧情：曼尼放弃笑话套路，真诚相处；Jay 恶作剧。
+★ 人物：Manny, Bianca, Jay, Fizbo
+★ 时间线：派对高潮
+----------------------
 - Look, I came on strong with that whole funny guy bit.
  听着  我之前太刻意勉强自己装成搞笑的人 
 
@@ -1062,6 +1196,12 @@ S01E09
 - We're done here.
  适可而止 
 
+----------------------
+【场景 20 / 26】邓菲后院 · 海莉 & Jungle Tanya
+★ 剧情：海莉吃醋；爬宠女与 Dylan 搭讪。
+★ 人物：Haley, Dylan, Jungle Tanya, Phil
+★ 时间线：派对高潮
+----------------------
 - So, do you keep these at a zoo or something?
  你把这些动物都关在动物园还是哪里 
 
@@ -1098,6 +1238,12 @@ S01E09
 - Anyway, this is probably my favorite.
  反正  这只大概是我的最爱了   
 
+----------------------
+【场景 21 / 26】邓菲后院 · 蝎子出逃
+★ 剧情：毒蝎丢失；让孩子塞裤腿、小心脚下。
+★ 人物：Phil, Jungle Tanya, kids
+★ 时间线：派对高潮
+----------------------
 - Hey, jungle lady?
  嘿  丛林女郎 
 
@@ -1125,6 +1271,12 @@ S01E09
 - and let's make a game of looking where we step.
  我们来玩个游戏  叫做"当心脚下" 
 
+----------------------
+【场景 22 / 26】医院 · 交叉剪辑
+★ 剧情：插切候诊；与片头呼应；十字弓礼物再现。
+★ 人物：Phil, Claire, Jay, Luke
+★ 时间线：与派对平行剪辑
+----------------------
 -  Is he okay? - Can we see him?
  他没事吧  -我们现在能探望他吗 
 
@@ -1149,6 +1301,12 @@ S01E09
 - That's what... I'm afraid of.
  那正是  我担心的地方 
 
+----------------------
+【场景 23 / 26】邓菲后院 · 梳套翻红
+★ 剧情：十字弓教学；comb sheath 意外受欢迎；姐弟谈心。
+★ 人物：Claire, Phil, Mitchell, Cameron
+★ 时间线：派对后段
+----------------------
 - Come on. Ready?
  快过来  准备好了吗 
 
@@ -1209,6 +1367,12 @@ S01E09
 -  Sorry? - Turns out Fizbo is a real bad-ass.
  什么  -菲茨宝可是个不好惹的大坏蛋哟 
 
+----------------------
+【场景 24 / 26】邓菲后院 · 连锁灾难
+★ 剧情：蝎子！十字弓射充气城堡；曼尼冲进去「救美」。
+★ 人物：全家, Fizbo, Manny, Bianca
+★ 时间线：派对高潮
+----------------------
 - Scorpion! Scorpion! Scorpion!
  蝎子  有蝎子  有蝎子 
 
@@ -1263,6 +1427,12 @@ S01E09
 - Ow! My arm!
  噢  我的胳膊 
 
+----------------------
+【场景 25 / 26】医院 · 收尾
+★ 剧情：卢克踩珠子骨折；打石膏；「最棒的生日」。
+★ 人物：全家, Luke
+★ 时间线：事故后，呼应片头
+----------------------
 - Sweetie? Luke?
  小宝贝  卢克 
 
@@ -1356,6 +1526,12 @@ S01E09
 - just the way it should be.
  那正是家庭生日会该有的样子 
 
+----------------------
+【场景 26 / 26】尾声 · 蛋糕与各角色收尾
+★ 剧情：Fizbo 送蛋糕；菲尔恐小丑逃走；曼尼/海莉收尾。
+★ 人物：Phil, Cameron(Fizbo), Manny, Haley, Luke
+★ 时间线：片尾 tag
+----------------------
 - Fizbo delivery! I brought the cake!
  菲茨宝快递  我带蛋糕来啦 
 
@@ -1409,4 +1585,3 @@ S01E09
 
 - girlfriend's gonna get stung.
  我就不择手段坑死你 
-

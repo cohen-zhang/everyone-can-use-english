@@ -2,6 +2,27 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E21 
+
+## 场景分段索引（S01E21 · 爷爷来访 / 斯科特与乐队）
+
+字幕正文按镜头插入 `【场景 xx / 24】`；Phil–Frank 情感线 + Cam 代打鼓 + Jay 帮曼尼克服恐怖片。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–04 | 邓菲家 · 片头 | Frank 房车载狗；Claire 震怒；新规矩 |
+| 05–07 | Jay 家 / 牙医 | Ben Dugan；Jay 带 Manny 逃课 |
+| 08–10 | 邓菲家 | 狗过敏；Frank 到访；全家见 Scott |
+| 11–13 | 邓菲家 / 排练 | 布莱恩退队；Cam 代鼓；传统家庭话术 |
+| 14–16 | 邓菲家 | Frank 可能哭；Phil 谈父亲；Scott 闯祸 |
+| 17–19 | 邓菲家 / 厨房 | 乐队排练；Pepper 派对冲突；Frank 要走 |
+| 20–22 | 演出 / Jay 家 | Cam 演出；Ben 吓曼尼反效果；Brian 回归 |
+| 23–24 | 邓菲车道 · 收尾 | Phil 看穿 Frank 爱狗；Scott 跟 Frank 走 |
+
+----------------------
+【场景 01 / 24】邓菲家 · 片头
+★ 剧情：Phil 得知 Frank 开 RV 从 Cocoa Beach 来。
+★ 人物：Phil, Claire
+★ 时间线：某日早晨
 ----------------------
 - Honeydew! What's up?
  宝贝儿  找我什么事 
@@ -33,6 +54,12 @@ S01E21
 - He wasn't supposed to show up for a few more days.
  他本该过几天才到的 
 
+----------------------
+【场景 02 / 24】邓菲家
+★ 剧情：Frank 提早到；带来要领养的狗 Scott。
+★ 人物：Phil, Claire, Frank
+★ 时间线：同日
+----------------------
 - Well, guess what he brought us.
  猜猜他给我们带了什么来 
 
@@ -42,6 +69,12 @@ S01E21
 - Yes! Yes.
  没错  没错 
 
+----------------------
+【场景 03 / 24】邓菲家 · 旁白
+★ 剧情：Phil 旁白：早该告诉 Claire 养狗；错过时机。
+★ 人物：Phil
+★ 时间线：闪回框
+----------------------
 - Yes, I should have told Claire about the dog,
  没错  我早该把狗的事告诉克莱尔 
 
@@ -57,6 +90,12 @@ S01E21
 - but I cashed that in for something else.
  可我用那晚"干"了其他的事 
 
+----------------------
+【场景 04 / 24】邓菲家
+★ 剧情：Claire 新规矩：不准进卧室；Phil 麻烦很大。
+★ 人物：Claire, Phil
+★ 时间线：同日
+----------------------
 -  Am I in trouble? - Oh, really, really big.
  我是不是有大麻烦了  -非常非常大 
 
@@ -66,6 +105,12 @@ S01E21
 - Oh, well we have a new rule- no sleeping in the bedroom.
  我们家立了新规矩  不许进卧室 
 
+----------------------
+【场景 05 / 24】Jay 办公室外
+★ 剧情：Mitch 高中戏剧社同学 Ben Dugan；新片 Maple Drive。
+★ 人物：Jay, Ben, Mitchell
+★ 时间线：平行
+----------------------
 - Mr. Pritchett. Uh, Ben- Ben Dugan.
  普里契特先生  我是本  本·杜根 
 
@@ -126,6 +171,12 @@ S01E21
 - And I got a free toothbrush.
  我还得了把免费牙刷   
 
+----------------------
+【场景 06 / 24】牙医 / 逃学
+★ 剧情：Jay 带 Manny「看牙」实则逃课；回忆父亲带自己去赛道。
+★ 人物：Jay, Manny
+★ 时间线：同日
+----------------------
 - Hey, you want to go to the movies?
  嘿  你想去看电影吗 
 
@@ -165,6 +216,12 @@ S01E21
 - I wonder if that's why my old man did it.
  我老爹当年莫非也是为了这个 
 
+----------------------
+【场景 07 / 24】Jay 家 · 电话
+★ 剧情：Gloria 对狗过敏；Jay 旁白：车道上的「房子」RV。
+★ 人物：Jay, Gloria
+★ 时间线：同日
+----------------------
 - Oh, crap.
  靠  毁了 
 
@@ -189,6 +246,12 @@ S01E21
 - 'Cause there's a house in my driveway.
  不然怎么把房子刮到我家车道上了 
 
+----------------------
+【场景 08 / 24】邓菲家 · Frank 到访
+★ 剧情：Frank 与 Phil 兄弟情；Scott 掉毛；Claire 礼物在途。
+★ 人物：Frank, Phil, Claire, kids
+★ 时间线：同日
+----------------------
 - Welcome home, Mr. Dunphy.
  欢迎回家  邓菲先生 
 
@@ -255,6 +318,12 @@ S01E21
 -  Bye! - Will do!
  慢走  -没问题 
 
+----------------------
+【场景 09 / 24】邓菲家
+★ 剧情：Claire 批 Phil 擅自养狗；全家分工负责。
+★ 人物：Claire, Phil, kids, Dylan
+★ 时间线：同日
+----------------------
 - I cannot believe you got a dog without consulting me.
  真不敢相信你没和我商量就领来了只狗 
 
@@ -300,6 +369,12 @@ S01E21
 - It's just a movie.
  只是电影罢了 
 
+----------------------
+【场景 10 / 24】邓菲家 · 客厅
+★ 剧情：孩子们爱 Scott；Cam/Frank 互赞衬衫；Haley 要走。
+★ 人物：全家, Cameron, Frank, Scott
+★ 时间线：同日
+----------------------
 -  Oh, he's so cute. - Look at his little face.
  它好可爱啊  -瞧它那小脸   
 
@@ -369,6 +444,12 @@ S01E21
 -  What's wrong? - That was Brian. He just quit the band.
  怎么了  -是布莱恩  他要退出乐队 
 
+----------------------
+【场景 11 / 24】邓菲家
+★ 剧情：布莱恩搬 Portland 乐队缺鼓；Cam 自愿代打。
+★ 人物：Haley, Dylan, Cameron
+★ 时间线：同日
+----------------------
 - What? Why?
  什么  为什么啊   
 
@@ -549,6 +630,12 @@ S01E21
 - Okay.
  好 
 
+----------------------
+【场景 12 / 24】邓菲家 · 排练
+★ 剧情：Cam 拿反鼓槌；门铃闹鬼；Luke 看恐怖片后惊魂。
+★ 人物：Cameron, band, Luke
+★ 时间线：傍晚
+----------------------
 - Should I just play a little something?
  我是不是先露一小手 
 
@@ -606,6 +693,12 @@ S01E21
 - What were you thinking?
  你脑子里想什么呢 
 
+----------------------
+【场景 13 / 24】邓菲家
+★ 剧情：Jay 辩称恐怖片有助成长；Gloria 守夜；Manny 怕恶魔。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：夜晚
+----------------------
 - Who takes a little boy to a horror movie?
  带这么小的孩子去看恐怖片 
 
@@ -654,6 +747,12 @@ S01E21
 - Character.
  有个性吧 
 
+----------------------
+【场景 14 / 24】邓菲家 · Phil 找 Frank
+★ 剧情：Phil 问 Frank 是否因狗为难；Claire 要 Frank 穿裤 breakfast。
+★ 人物：Phil, Frank
+★ 时间线：深夜
+----------------------
 - Dad?
  爸 
 
@@ -723,6 +822,12 @@ S01E21
 - Dog. Look at this.
  坏狗狗  你看这个 
 
+----------------------
+【场景 15 / 24】邓菲家
+★ 剧情：Scott 咬 Haley 胸罩；Phil 两分钟对话断定 Frank 没事。
+★ 人物：Phil, Claire, Scott, Haley
+★ 时间线：同日
+----------------------
 - How did he get ahold of your bra?
  他怎么会有你的胸罩 
 
@@ -798,6 +903,12 @@ S01E21
 - I'll always remember him as the stranger holding my baby.
  我会记得他是抱着我女儿的陌生人 
 
+----------------------
+【场景 16 / 24】邓菲家 · 厨房
+★ 剧情：乐队 jam；Mitch 要 Cam 推 Pepper 奶酪派对。
+★ 人物：Mitchell, Cameron, band
+★ 时间线：傍晚
+----------------------
 - Can I talk to you in the kitchen for a second?
  你能到厨房来一下吗 
 
@@ -852,6 +963,12 @@ S01E21
 - I almost went face down in the gruyere.
  差点晕死在奶酪上 
 
+----------------------
+【场景 17 / 24】邓菲家
+★ 剧情：Cam 要履行乐队承诺；Mitch 理解他闷坏了。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - So I'm going by myself, is that what you're saying?
  所以你是想让我一个人去吗 
 
@@ -909,6 +1026,12 @@ S01E21
 - And the dog was looking at it like it was a giant sausage.
  那狗看沙发的眼神就跟那是巨型香肠一样 
 
+----------------------
+【场景 18 / 24】邓菲家
+★ 剧情：Frank 宣布明早继续「随风游荡」不回家；Phil 察觉异常。
+★ 人物：Phil, Frank, Gloria
+★ 时间线：夜晚
+----------------------
 - Good news, you two. You're getting your driveway back.
  孩子们  好消息  你的车道要腾空了 
 
@@ -951,6 +1074,12 @@ S01E21
 - It's a miracle I didn't end up a stripper.
  我没沦落成脱衣舞男真是奇迹 
 
+----------------------
+【场景 19 / 24】少年俱乐部 · 演出
+★ 剧情：Cam 代鼓大获成功；本想溜去 Pepper 派对却留全程。
+★ 人物：Cameron, Haley, Dylan, band
+★ 时间线：翌晚
+----------------------
 - Thanks, everybody, for coming out.
  谢谢各位来观看演出 
 
@@ -1026,6 +1155,12 @@ S01E21
 -  Mmm, only 10 minutes. - Okay.
  只能看十分钟哦  -好 
 
+----------------------
+【场景 20 / 24】Jay 家
+★ 剧情：Jay 请 Ben 带假 machete 帮 Manny 脱敏；反更吓人。
+★ 人物：Jay, Gloria, Ben, Manny
+★ 时间线：平行
+----------------------
 - Hey, Jay, it's Ben Dugan.
  你好  杰  我是本·杜根 
 
@@ -1116,6 +1251,12 @@ S01E21
 - Hey, guys.
  大伙儿好啊   
 
+----------------------
+【场景 21 / 24】少年俱乐部 · 后台
+★ 剧情：Brian 父母又分手不搬走；Cam 尴尬「Ringo」。
+★ 人物：Cameron, Brian, band
+★ 时间线：演出后
+----------------------
 - Hey. I thought you were in Portland.
  嘿  你不是去波特兰了吗 
 
@@ -1140,6 +1281,12 @@ S01E21
 - I believe this belongs to you.
  这是你们的电线 
 
+----------------------
+【场景 22 / 24】邓菲车道 · Frank 告别
+★ 剧情：Frank 拔 RV 电线；Phil 追问 Frank 是否有事。
+★ 人物：Frank, Phil, kids
+★ 时间线：翌晨
+----------------------
 - I don't want to drag the house along with me.
  我也不想拖着一房子在后面跑 
 
@@ -1173,6 +1320,12 @@ S01E21
 - Guys. Come on.
  宝贝们  我们走吧 
 
+----------------------
+【场景 23 / 24】邓菲车道
+★ 剧情：Frank 承认「坠入爱河」——对象是 Scott；Phil 劝告诉 Mom。
+★ 人物：Phil, Frank
+★ 时间线：告别
+----------------------
 - I don't think you're being honest with me.
  我觉得你没跟我说实话 
 
@@ -1308,6 +1461,12 @@ S01E21
 - but I think I might have actually gotten even closer with my dad.
  不过我好像和我爸更加亲近了 
 
+----------------------
+【场景 24 / 24】邓菲家 · tag
+★ 剧情：Luke 不舍 Scott；Frank 带走狗；Phil 与父更亲近。
+★ 人物：Phil, Frank, Luke, Claire, Jay, Gloria
+★ 时间线：tag
+----------------------
 - I can't believe he took my dog.
  真不敢相信他把我的狗带走了 
 
@@ -1364,4 +1523,3 @@ S01E21
 
 -  Did I go too far? - Not you, Frank. No.
  我太过火了吗  -不  没事  弗兰克 
-

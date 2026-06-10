@@ -2,6 +2,28 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E02 
+
+## 场景分段索引（S01E02 · 卢克新车 / 偷车教训 / 亲子课）
+
+字幕正文按镜头插入 `【场景 xx / 26】`；邓菲、Jay、Mitch & Cam 三线平行，菲尔「假偷真偷」自行车闹剧。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 · 街区 | 伟大父亲冷开场；德希蕾邻居；女式车与新车 |
+| 04–05 | Mitch & Cam / Jay 家 | 亲子课着装；纳帕酒庄之旅 |
+| 06–07 | 自行车店 / Jay 家 | 卢克提车；曼尼与杰装吊扇 |
+| 08–10 | 亲子课 | 入园紧张；菲尔假偷策划；新家庭亮相 |
+| 11–13 | 德希蕾家 / 自行车店 | 爬窗帮忙；真被偷；再买一辆 |
+| 14–17 | Jay 家 / 邓菲家 | 吊扇争吵；卢克刮花；菲尔还车计划 |
+| 18–20 | Jay 家 / 邓菲家 | 曼尼与杰决裂；克莱尔揭穿；德希蕾还车 |
+| 21–24 | 亲子课 | 积木攀比；莉莉字母歌；偷录像；父母舞 |
+| 25–26 | 赌场 / 邓菲家 · 尾声 | 哈维尔爽约； limo 迪士尼；偷车贼与苏菲抉择 tag |
+
+----------------------
+【场景 01 / 26】邓菲家 · 清晨（冷开场）
+★ 剧情：菲尔旁白：成为伟大父亲的秘诀；与克莱尔斗嘴。
+★ 人物：Phil, Claire
+★ 时间线：当日早晨
 ----------------------
 - What's the key to being a great dad?
  成为伟大父亲的秘诀是什么 
@@ -45,6 +67,12 @@ S01E02
 - Still thinking.
  我再想想 
 
+----------------------
+【场景 02 / 26】邓菲家 · 门口
+★ 剧情：遇见新邻居德希蕾；菲尔房产中介职业病；克莱尔警惕。
+★ 人物：Phil, Claire, Luke, Desiree
+★ 时间线：同日早晨
+----------------------
 -  Hi, Claire. - Hey.
  嗨  克莱尔  -嘿 
 
@@ -132,6 +160,12 @@ S01E02
 - We'll add more black tape.
  我们再绑点黑胶带 
 
+----------------------
+【场景 03 / 26】邓菲家 · 车道
+★ 剧情：卢克骑姐姐旧车；菲尔决定下午买新车；旁白担心霸凌。
+★ 人物：Phil, Claire, Luke
+★ 时间线：同日早晨
+----------------------
 - My son has been riding his sister's old bike.
  我儿子一直在骑他姐姐的旧车 
 
@@ -189,6 +223,12 @@ S01E02
 - Yes. Who's excited, huh?
  没错  激不激动 
 
+----------------------
+【场景 04 / 26】Mitch & Cam 家
+★ 剧情：赶亲子课；卡姆花哨着装；米切尔求低调。
+★ 人物：Mitchell, Cameron
+★ 时间线：亲子课前（平行线）
+----------------------
 - Cam, come on. Hurry up. We're gonna be late.
  小卡  快点  要迟到了 
 
@@ -249,6 +289,12 @@ S01E02
 - who just decided to have a kid together.
  碰巧决定一起养个娃 
 
+----------------------
+【场景 05 / 26】Jay 家 · 客厅
+★ 剧情：纳帕酒庄升级套房；曼尼去迪士尼；杰与歌洛莉亚二人世界。
+★ 人物：Jay, Gloria
+★ 时间线：同日（平行线 B）
+----------------------
 - Hey, I called that place in Napa and
  我给纳巴那边打电话了 
 
@@ -321,6 +367,12 @@ S01E02
 - when we're spending all your money.
  我就给他讲这个笑话 
 
+----------------------
+【场景 06 / 26】自行车店
+★ 剧情：卢克喜提酷车；菲尔强调责任；约定三点前回家。
+★ 人物：Phil, Luke
+★ 时间线：下午
+----------------------
 -  Dad, this is the coolest bike ever. - Awesome.
  爸爸  这是全世界最酷的车  -必须的 
 
@@ -372,6 +424,12 @@ S01E02
 - I'm gonna tie a noose on this thing.
  我就直接吊死 
 
+----------------------
+【场景 07 / 26】Jay 家 · 曼尼卧室
+★ 剧情：装吊扇；曼尼夸父亲超人；杰旁白吐槽前夫。
+★ 人物：Jay, Manny
+★ 时间线：下午（平行线 B）
+----------------------
 - In Colombia there's a saying:
  在哥伦比亚有句谚语 
 
@@ -441,6 +499,12 @@ S01E02
 - is that they both landed in this country illegally.
  就是他们都是非法移民 
 
+----------------------
+【场景 08 / 26】亲子课 · 教室外
+★ 剧情：米切尔紧张第一印象；卡姆承诺收敛。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：亲子课时段
+----------------------
 - I can't believe I'm so nervous.
  我怎么这么紧张呀 
 
@@ -486,6 +550,12 @@ S01E02
 - This is gonna be really difficult.
  恐怕我会招架不住啊 
 
+----------------------
+【场景 09 / 26】邓菲家 · 旁白 / 车道
+★ 剧情：菲尔发现卢克没锁车；决定假偷教训；旁白 Tough Guy。
+★ 人物：Phil
+★ 时间线：卢克骑车离开后
+----------------------
 - Ten minutes after making a promise to me,
  才跟我保证  过了不到10分钟 
 
@@ -522,6 +592,12 @@ S01E02
 - On your left! My left. Your right!
  左边  我的左边  你右边 
 
+----------------------
+【场景 10 / 26】亲子课 · 教室
+★ 剧情：新家庭自我介绍；Hello Dance；莉莉月龄攀比。
+★ 人物：Mitchell, Cameron, Lily, 其他家长
+★ 时间线：亲子课进行中
+----------------------
 - Everyone, we have a new family joining us today.
  大家好  今天有个新家庭加入我们 
 
@@ -621,6 +697,12 @@ S01E02
 - I feel dirty.
  感觉很卑鄙 
 
+----------------------
+【场景 11 / 26】德希蕾家 · 窗外
+★ 剧情：德希蕾锁门外求助；菲尔爬窗；内心独白克制欲望。
+★ 人物：Phil, Desiree
+★ 时间线：下午
+----------------------
 -  0h, hey. - Hey! Hi.
  你好  -嘿  你好 
 
@@ -693,6 +775,12 @@ S01E02
 - Yeah, it's a candle.
  其实  是香烛 
 
+----------------------
+【场景 12 / 26】邓菲车道
+★ 剧情：菲尔发现车真被偷；德希蕾提议帮忙找。
+★ 人物：Phil, Desiree
+★ 时间线：紧接上一场景
+----------------------
 -  Uh-oh. - What's wrong?
  完了  -怎么了 
 
@@ -705,6 +793,12 @@ S01E02
 - 0kay. Thank you!
  好吧  谢谢你哦 
 
+----------------------
+【场景 13 / 26】自行车店
+★ 剧情：菲尔 narration 真偷；议价再买；保险反被坑。
+★ 人物：Phil, 店员
+★ 时间线：下午
+----------------------
 - So, to teach him a lesson, I took his bike,
  为了教育他  我藏起了他的车 
 
@@ -744,6 +838,12 @@ S01E02
 - I will take some insurance. Thank you.
  这次买保险  谢谢 
 
+----------------------
+【场景 14 / 26】Jay 家 · 曼尼卧室
+★ 剧情：歌洛莉亚出门采购；杰与曼尼装扇受挫；曼尼帮倒忙。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：下午
+----------------------
 - What's going on in there?
  在搞什么啊 
 
@@ -798,6 +898,12 @@ S01E02
 - They make you laugh, but they also make you think.
  他们不仅逗人笑  也让人深思 
 
+----------------------
+【场景 15 / 26】邓菲家 · 卢克房间
+★ 剧情：菲尔质问卢克；卢克承认刮花车道；非失窃。
+★ 人物：Phil, Luke
+★ 时间线：傍晚
+----------------------
 - You blew it. You made me look bad.
  你搞砸了  让我很没面子 
 
@@ -876,6 +982,12 @@ S01E02
 - unless it itches. That's different.
  痒的话可以挠挠  那个不一样 
 
+----------------------
+【场景 16 / 26】邓菲家 · 旁白
+★ 剧情：菲尔计划把新车放回偷车处；德希蕾爬窗旧事。
+★ 人物：Phil
+★ 时间线：傍晚
+----------------------
 - The good news is, Luke has his bike.
  好消息是  卢克的车还在 
 
@@ -909,6 +1021,12 @@ S01E02
 - So, everybody's happy.
  就那样  皆大欢喜 
 
+----------------------
+【场景 17 / 26】Jay 家
+★ 剧情：曼尼与杰工具争吵；曼尼赌气等亲生父亲。
+★ 人物：Jay, Manny
+★ 时间线：傍晚
+----------------------
 - Ah, son of a- You gave me the wrong screwdriver.
  狗娘养...你给我的螺丝刀不对 
 
@@ -957,6 +1075,12 @@ S01E02
 - I got a two-seater parked in the driveway!
  我有两辆跑车闲置在车道上 
 
+----------------------
+【场景 18 / 26】邓菲家 · 厨房
+★ 剧情：克莱尔揭穿菲尔偷车闹剧；夫妻和解拥抱。
+★ 人物：Phil, Claire
+★ 时间线：傍晚
+----------------------
 - I mean, I don't understand.
  我真不理解 
 
@@ -1035,6 +1159,12 @@ S01E02
 -  This is a hot one. - Hello! Hi there!
  性感熊抱  -嗨  你们好啊 
 
+----------------------
+【场景 19 / 26】德希蕾家 / 邓菲家
+★ 剧情：德希蕾送还自行车；「Classic me」再打脸。
+★ 人物：Phil, Claire, Desiree
+★ 时间线：傍晚
+----------------------
 -  Hi again. - Oh, hi.
  又见面了  -你好 
 
@@ -1062,6 +1192,12 @@ S01E02
 - See, like he did. You gotta do that.
  看  就像他那样  加油啊 
 
+----------------------
+【场景 20 / 26】亲子课 · 教室
+★ 剧情：家长聊 Mamma Mia；卡姆为 Meryl Streep 辩护；积木攀比。
+★ 人物：Mitchell, Cameron, 家长们
+★ 时间线：亲子课后段
+----------------------
 -  You gotta grab it like him. - So, seen any movies lately?
  像他那样拿起来  -最近看电影了吗 
 
@@ -1119,6 +1255,12 @@ S01E02
 - Good job!
  做得好 
 
+----------------------
+【场景 21 / 26】亲子课 · 教室
+★ 剧情：莉莉唱字母歌站起；老师录像；卡姆想要拷贝。
+★ 人物：Mitchell, Cameron, Lily, 老师
+★ 时间线：亲子课后段
+----------------------
 - Q-R-S T-U-V
  Q  R  S  T  U  V 
 
@@ -1164,6 +1306,12 @@ S01E02
 - Cam. Cam, let's go.
  小卡  小卡  快走 
 
+----------------------
+【场景 22 / 26】亲子课 · 教室
+★ 剧情：卡姆偷婴儿知识产权； Anton & Scott 迟到；父母舞。
+★ 人物：Mitchell, Cameron
+★ 时间线：亲子课尾声
+----------------------
 - I don't know what's happened to me,
  我不知道我怎么了 
 
@@ -1209,6 +1357,12 @@ S01E02
 - I'm- I'm just- I'll make it up to you. Let's just go.
  我  我只是  我会补偿你的  走吧好不 
 
+----------------------
+【场景 23 / 26】亲子课 · 舞池
+★ 剧情：米切尔放卡姆跳 Straight Guy 舞；卡姆受伤。
+★ 人物：Mitchell, Cameron
+★ 时间线：亲子课尾声
+----------------------
 - Okay, it's time for Parents Dance.
  好了  亲子舞时间到 
 
@@ -1236,6 +1390,12 @@ S01E02
 - 0h, I think I hurt myself.
  我想我受伤了 
 
+----------------------
+【场景 24 / 26】赌场 / 电话
+★ 剧情：哈维尔赌桌爽约；杰撒谎编 limo 迪士尼。
+★ 人物：Jay, Javier(电话), Manny
+★ 时间线：傍晚
+----------------------
 - Hello. Hey, Javier.
  你好啊  哈维尔 
 
@@ -1299,6 +1459,12 @@ S01E02
 -  I told you he was an awesome dad. - Yeah, he's a prince.
  我跟你说我爸爸超赞的  -是啊  他是个王子 
 
+----------------------
+【场景 25 / 26】邓菲家 · 车道（尾声）
+★ 剧情：菲尔旁白收尾：90% 是做对在场；真偷车贼出现。
+★ 人物：Phil, 偷车男孩
+★ 时间线：片尾 tag
+----------------------
 - Okay. The key to being a good dad?
  那么  成为好父亲的秘诀是什么 
 
@@ -1338,6 +1504,12 @@ S01E02
 -  You- - I was giving it back!
  你  -我是来还你的 
 
+----------------------
+【场景 26 / 26】邓菲家 · 客厅（tag）
+★ 剧情：卡姆看 Sophie's Choice 哭到崩溃。
+★ 人物：Mitchell, Cameron
+★ 时间线：片尾 tag
+----------------------
 - She couldn't forgive herself.
  她无法原谅自己 
 
@@ -1373,4 +1545,3 @@ S01E02
 
 - I don't know!
  我不知道 
-

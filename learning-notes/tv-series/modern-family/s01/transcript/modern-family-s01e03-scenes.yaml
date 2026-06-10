@@ -1,0 +1,178 @@
+# Scene markers for modern-family-s01e03-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E03
+episode_arc: 遥控飞机 / 菲尔与杰的「铁哥们」
+timeline_note: 邓菲家、Jay 家、Costco 三线平行；片尾 Jay 向 Phil 示好
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 · 客厅
+    summary: 棒球冷开场；迪兰上门；垒包恋爱隐喻
+  - scenes: "04–05"
+    place: Jay 家 / 邓菲家
+    summary: 模型飞机；曼尼赴卢克家；艾丽克斯拒穿裙
+  - scenes: "06–07"
+    place: Costco / 旁白
+    summary: 好市多采买；米奇「势利」回溯
+  - scenes: "08–09"
+    place: 邓菲家
+    summary: 帝国桌游；克莱尔逼海莉打招呼
+  - scenes: "10–13"
+    place: Jay 家 / 商场
+    summary: 菲尔旁白；杰教迪兰；艾丽克斯跟歌洛莉亚逛街
+  - scenes: "14–17"
+    place: 后院 / Costco / 餐厅
+    summary: 穿针引线；母女争执；棺材尿布；闺蜜谈心
+  - scenes: "18–20"
+    place: 邓菲家
+    summary: 购物归来；克莱尔让步；菲尔坠机回家
+  - scenes: "21–24"
+    place: 邓菲家 · 收尾
+    summary: 杰克莱尔对峙；Jay 道歉；全家拥抱；片尾 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 客厅（冷开场）
+    plot: 电视棒球赛；菲尔拖延倒垃圾。
+    characters: Phil, Claire
+    timeline: 当日午后
+    anchor: Riley Morton coming up now.
+  - id: "02"
+    place: 邓菲家 · 门厅
+    plot: 迪兰候海莉；菲尔邀其看球。
+    characters: Phil, Dylan
+    timeline: 同日
+    anchor: Um, I'm just waiting for Haley.
+  - id: "03"
+    place: 邓菲家 · 客厅
+    plot: 菲尔用棒球垒包隐喻盘问迪兰与海莉。
+    characters: Phil, Dylan
+    timeline: 同日
+    anchor: How are you and Haley doing?
+  - id: "04"
+    place: Jay 家 · 客厅
+    plot: 杰教曼尼航模；非玩具飞机。
+    characters: Jay, Manny, Gloria
+    timeline: 平行线
+    anchor: These aren't toy airplanes, Manny.
+  - id: "05"
+    place: 邓菲家 · 厨房
+    plot: 曼尼被派去陪卢克；艾丽克斯拒穿婚礼裙。
+    characters: Gloria, Manny, Claire, Alex, Luke
+    timeline: 同日
+    anchor: Today you have to spend time with Luke. - Why?
+  - id: "06"
+    place: Costco 停车场
+    plot: 米奇卡姆突拐好市多买尿布。
+    characters: Mitchell, Cameron, Lily
+    timeline: 平行线
+    anchor: Wait, wait, wait. What are you doing?
+  - id: "07"
+    place: Costco · 旁白闪回
+    plot: 卡姆述说米奇「势利」与相识经过。
+    characters: Mitchell, Cameron
+    timeline: 闪回 + 当日
+    anchor: Mitchell is a snob.
+  - id: "08"
+    place: 邓菲家 · 客厅/后院
+    plot: 曼尼带帝国桌游；卢克光屁股。
+    characters: Manny, Luke, Claire
+    timeline: 同日
+    anchor: Manny brought his favorite game to play with Luke.
+  - id: "09"
+    place: 邓菲家 · 门口
+    plot: 克莱尔逼海莉穿裙；无视歌洛莉亚曼尼。
+    characters: Claire, Haley, Gloria, Manny
+    timeline: 同日
+    anchor: You don't even say "Hello" To Gloria and Manny?
+  - id: "10"
+    place: 邓菲家 · 旁白
+    plot: 菲尔自述与杰「铁哥们」及银背猩猩隐喻。
+    characters: Phil
+    timeline: 同日
+    anchor: Jay and I are buds, for sure
+  - id: "11"
+    place: Jay 家 · 车道/后院
+    plot: 杰让迪兰扶机翼；开始航模教学。
+    characters: Jay, Dylan, Phil
+    timeline: 同日
+    anchor: Do you have to just stand there?
+  - id: "12"
+    place: 商场 / 邓菲家
+    plot: 歌洛莉亚邀艾丽克斯逛街；克莱尔意外。
+    characters: Gloria, Alex, Claire
+    timeline: 同日午后
+    anchor: Alex, why don't you come shopping with me?
+  - id: "13"
+    place: Jay 家 · 后院
+    plot: 杰示范「穿针引线」；把迪兰支到远处。
+    characters: Jay, Dylan, Phil
+    timeline: 同日
+    anchor: There's another trick called "Threading the needle."
+  - id: "14"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔与艾丽克斯关于裙子争执升级。
+    characters: Claire, Alex, Gloria
+    timeline: 同日
+    anchor: Alex and I can't just disagree.
+  - id: "15"
+    place: Costco
+    plot: 发现棺材与尿布；囤货计划。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Mitchell, I found the diapers. They're over here.
+  - id: "16"
+    place: Costco · 旁白
+    plot: 卡姆自比 Costco；米奇自比卡萨布兰卡小店。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: Yeah, I'm sort of like Costco.
+  - id: "17"
+    place: 餐厅 · 闺蜜谈心
+    plot: 艾丽克斯盘问歌洛莉亚纹身与情史；为何不穿裙。
+    characters: Gloria, Alex
+    timeline: 购物午后
+    anchor: I have a small flower on my ankle...
+  - id: "18"
+    place: 邓菲家 · 归来
+    plot: 歌洛莉亚艾丽克斯购物归来；卢克曼尼相处。
+    characters: Gloria, Alex, Claire, Manny, Luke
+    timeline: 傍晚
+    anchor: Hola! We're back.
+  - id: "19"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔同意艾丽克斯不穿裙；艾丽克斯却买了裙子。
+    characters: Claire, Alex
+    timeline: 傍晚
+    anchor: Alex, I've been thinking, and...
+  - id: "20"
+    place: 邓菲家 · 门口/客厅
+    plot: 菲尔被航模撞脸送回家；全家混乱。
+    characters: Phil, Jay, Claire, Gloria, Alex
+    timeline: 傍晚
+    anchor: Clear the way. Coming through. Ow!
+  - id: "21"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔揭穿杰故意撞菲尔；杰否认不喜欢菲尔。
+    characters: Claire, Jay, Gloria, Phil
+    timeline: 傍晚
+    anchor: I have seen you thread the needle a million times.
+  - id: "22"
+    place: 邓菲家 · 客厅
+    plot: Jay 向 Phil 道歉并说「我喜欢你」。
+    characters: Jay, Phil, Claire
+    timeline: 傍晚
+    anchor: Hey, Phil. - Jay.
+  - id: "23"
+    place: 邓菲家 · 客厅
+    plot: 米奇逼 Jay 也抱卡姆；全家福。
+    characters: Mitchell, Cameron, Jay, Phil, Manny
+    timeline: 片尾
+    anchor: No, Mitch is right. Go in there too, Cam. Come on.
+  - id: "24"
+    place: 片尾 · Jay 家旁白
+    plot: 歌洛莉亚曾把曼尼扮成女孩；双胞胎姐姐谎言。
+    characters: Gloria, Manny
+    timeline: 片尾 tag
+    anchor: When he found the pictures,

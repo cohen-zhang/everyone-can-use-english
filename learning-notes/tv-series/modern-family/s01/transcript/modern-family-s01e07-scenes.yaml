@@ -1,0 +1,220 @@
+# Scene markers for modern-family-s01e07-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E07
+episode_arc: 曼尼击剑赛 / Fire and Nice 心结
+timeline_note: 击剑赛为主线；邓菲练球、Phil 卖房、姐妹和解交叉剪辑
+
+index_groups:
+  - scenes: "01–02"
+    place: 击剑馆
+    summary: 曼尼获胜；Jay 骄傲小佐罗
+  - scenes: "03–04"
+    place: 车内 / 击剑馆
+    summary: 卡姆家庭电影；奖杯心结
+  - scenes: "05"
+    place: 击剑馆
+    summary: 晋级总决赛
+  - scenes: "06–09"
+    place: Mitch & Cam 家 / 车内
+    summary: 米奇尔嫉妒；Fire and Nice；承认 resent
+  - scenes: "10"
+    place: 邓菲家
+    summary: 艾丽克斯/Haley 斗嘴；手机静电
+  - scenes: "11–13"
+    place: 邓菲家 · 后院
+    summary: 卢克棒球一万小时；全垒打进屋
+  - scenes: "14–16"
+    place: Jay 家
+    summary: 纪念 T 恤；曼尼退役；歌洛莉亚激励
+  - scenes: "17–19"
+    place: 待售豪宅 / 邓菲家
+    summary: Phil 卖房；卢克助攻；推销天才
+  - scenes: "20–21"
+    place: 击剑馆 / 更衣室
+    summary: 卡姆逼姐妹和解；滑冰真相
+  - scenes: "22–24"
+    place: 击剑馆
+    summary: 曼尼备战；卡罗琳背景；Phil 脚伤
+  - scenes: "25–27"
+    place: 击剑馆 · 屋顶
+    summary: 欲阻止对决；米奇尔克莱尔谈心；举高高
+  - scenes: "28–29"
+    place: 击剑馆 / 场外
+    summary: 曼尼夺冠；片尾 tag
+
+scenes:
+  - id: "01"
+    place: 击剑馆 · 比赛
+    plot: 曼尼获胜；全家鼓掌。
+    characters: Manny, Jay, Gloria, 全家
+    timeline: 片头
+    anchor: Bravo! Bravo!
+  - id: "02"
+    place: 击剑馆 · 旁白
+    plot: Jay 旁白：从不看好到骄傲小佐罗。
+    characters: Jay, Gloria, Manny
+    timeline: 同日
+    anchor: Well, when I heard Manny wanted to fence, I was, like,
+  - id: "03"
+    place: 车内 / 回忆
+    plot: 卡姆家庭电影过火；鼓风机与婴儿床轮子。
+    characters: Mitchell, Cameron, 家人
+    timeline: 去击剑馆路上
+    anchor: Any monkey can shoot a home movie.
+  - id: "04"
+    place: 车内
+    plot: 米奇尔羡慕别人家奖杯；讨论孩子特长。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: You know, I used to go to the houses of my friends,
+  - id: "05"
+    place: 击剑馆 · 颁奖
+    plot: 曼尼晋级总决赛；对阵 Caroline Markum。
+    characters: Manny, 裁判, 观众
+    timeline: 半决赛后
+    anchor: How about a nice round of applause for our winner, Manny Delgado.
+  - id: "06"
+    place: 击剑馆外 / 车内
+    plot: 米奇尔察觉 Jay 更宠曼尼；Claire 被牵连。
+    characters: Mitchell, Cameron, Claire
+    timeline: 赛后
+    anchor: Wow. This means more to Dad than it does to Manny.
+  - id: "07"
+    place: Mitch & Cam 家 · 卧室
+    plot: 卡姆追问米奇尔与克莱尔；溜出门无 meeting。
+    characters: Mitchell, Cameron
+    timeline: 当晚
+    anchor: That took a while.
+  - id: "08"
+    place: Mitch & Cam 家
+    plot: Fire and Nice 滑冰往事；地区赛 quit 心结。
+    characters: Mitchell, Cameron, Gloria
+    timeline: 回忆框
+    anchor: Or could this have something to do with... ice skating?
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: 米奇尔承认 resent；黄色衬衫爆发。
+    characters: Mitchell, Cameron
+    timeline: 当晚
+    anchor: Okay, you know what? Yes. All right, listen.
+  - id: "10"
+    place: 邓菲家
+    plot: 艾丽克斯/Haley 互怼；手机静电摩擦。
+    characters: Alex, Haley, Claire
+    timeline: 次日早晨
+    anchor: There must be something wrong with this phone.
+  - id: "11"
+    place: 邓菲家 · 后院
+    plot: 菲尔带卢克练棒球；一万小时理论。
+    characters: Phil, Luke, Claire
+    timeline: 平行线
+    anchor: This feels right, buddy. I'm telling you, this feels right.
+  - id: "12"
+    place: 邓菲家 · 后院
+    plot: 克莱尔反对揠苗助长；「做我儿子最好」。
+    characters: Claire, Phil
+    timeline: 同上
+    anchor: Yeah, of course I want Luke to be successful.
+  - id: "13"
+    place: 邓菲家 · 后院
+    plot: 卢克全垒打 ball 进窗；Phil 没穿护裆。
+    characters: Phil, Luke
+    timeline: 练球第一小时
+    anchor: I have got a good feeling about this.
+  - id: "14"
+    place: Jay 家 · 客厅
+    plot: Jay 定制 T 恤；歌洛莉亚为曼尼骄傲。
+    characters: Jay, Gloria
+    timeline: 决赛前
+    anchor: Here. Check this out.
+  - id: "15"
+    place: Jay 家 · 客厅
+    plot: 曼尼宣布退役；不想和女孩对决。
+    characters: Jay, Gloria, Manny
+    timeline: 决赛前
+    anchor: I will not be needing it anymore.
+  - id: "16"
+    place: Jay 家 · 客厅
+    plot: 歌洛莉亚激励曼尼尊重女性、拿回剑。
+    characters: Gloria, Manny, Jay
+    timeline: 决赛前
+    anchor: Manny, you always call yourself the lover of women,
+  - id: "17"
+    place: 待售豪宅 · 带看
+    plot: Phil 推销 ABC；买家嫌不适合孩子。
+    characters: Phil, 买家
+    timeline: 平行线
+    anchor: What does it take to make a great salesman?
+  - id: "18"
+    place: 待售豪宅
+    plot: 卢克意外助攻；买家心动。
+    characters: Phil, Luke, 买家
+    timeline: 带看中
+    anchor: Dad, this place is awesome.
+  - id: "19"
+    place: 邓菲家 · 门口
+    plot: 克莱尔回家；卢克是推销天才。
+    characters: Claire, Phil, Luke
+    timeline: 带看后
+    anchor: There you are.
+  - id: "20"
+    place: 击剑馆 · 场边
+    plot: 卡姆逼克莱尔与米奇尔和解。
+    characters: Cameron, Mitchell, Claire
+    timeline: 决赛日
+    anchor: So, there's no part of you
+  - id: "21"
+    place: 击剑馆 · 更衣室
+    plot: 姐妹摊牌：quit 是为保护米奇尔；从未爱滑冰。
+    characters: Claire, Mitchell
+    timeline: 决赛前
+    anchor: Claire, Mitchell still resents you
+  - id: "22"
+    place: 击剑馆 · 备战区
+    plot: Jay 给曼尼加油；举剑问答。
+    characters: Jay, Manny
+    timeline: 决赛前
+    anchor: Stay focused, stay loose and stay angry.
+  - id: "23"
+    place: 击剑馆 · 观众席
+    plot: 卡罗琳「护士」背景；Phil 脚扭伤继续卖房。
+    characters: Gloria, Caroline's nurse, Phil, 买家
+    timeline: 决赛进行中
+    anchor: Excuse me. Is this seat taken?
+  - id: "24"
+    place: 待售豪宅 / 击剑馆
+    plot: Phil 脚伤； orphan 父亲阿富汗；全家要阻止曼尼。
+    characters: Phil, Gloria, Jay, 全家
+    timeline: 交叉剪辑
+    anchor: She's our little miracle.
+  - id: "25"
+    place: 击剑馆 · 场边
+    plot: 米奇尔克莱尔屋顶谈心；怀念组队时光。
+    characters: Mitchell, Claire
+    timeline: 决赛前
+    anchor: I'm-I'm glad Dad's proud of Manny. I am.
+  - id: "26"
+    place: 击剑馆 · 冰面？
+    plot: 克莱尔举起米奇尔；Mitchell 阻止对决。
+    characters: Claire, Mitchell, Jay
+    timeline: 决赛
+    anchor: Claire, where are you going?
+  - id: "27"
+    place: 击剑馆 · 决赛
+    plot: 曼尼夺冠；全家欢呼。
+    characters: Manny, 全家
+    timeline: 高潮
+    anchor: A round of applause for our winner, Manny Delgado.
+  - id: "28"
+    place: 击剑馆 · 旁白 / 收尾
+    plot: 旁白：赢的感觉；愧疚 vs 奖牌。
+    characters: Phil(VO), 全家
+    timeline: 赛后
+    anchor: We tell our kids it doesn't matter if you win or lose,
+  - id: "29"
+    place: 击剑馆外 · tag
+    plot: 卡姆要举克莱尔；米奇尔拒绝。
+    characters: Cameron, Mitchell, Claire
+    timeline: 片尾 tag
+    anchor: All right, come on. We'll do one. Stay there.

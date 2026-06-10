@@ -1,0 +1,142 @@
+# Scene markers for modern-family-s01e16-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E16
+episode_arc: 恐惧 / 海莉路考 / 房下寻宝 / Lily 叫妈咪
+timeline_note: 全家恐惧主题；海莉第三次路考；菲尔卢克钻房底；莉莉第一次说 Mommy
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家
+    summary: 恐惧冷开场；海莉路考压力
+  - scenes: "03–04"
+    place: 邓菲家 / Mitch & Cam
+    summary: 房下寻宝；儿科医生早午餐
+  - scenes: "05–06"
+    place: Jay 家 / 邓菲房底
+    summary: 曼尼装病；菲尔卢克探险
+  - scenes: "07–08"
+    place: Mitch & Cam 家 / Jay 家
+    summary: 早午餐 Lily 叫妈咪；带曼尼去码头
+  - scenes: "09–11"
+    place: 路考 / 邓菲房底
+    summary: 海莉路考失败；遥控车探路；妈咪危机
+  - scenes: "12–13"
+    place: 游乐场 / 路考
+    summary: 过山车对峙；海莉重考通过
+  - scenes: "14–16"
+    place: 邓菲房底 / Mitch & Cam
+    summary: 菲尔被困；缪拉医生坦白；杰救卢克
+  - scenes: "17–18"
+    place: 旁白收尾 / Mitch & Cam
+    summary: 恐惧旁白；娃娃说 Mommy tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 冷开场
+    plot: 全家列举最害怕的事；海莉第三次路考在即。
+    characters: Haley, Alex, Claire, Phil
+    timeline: 路考当天早晨
+    anchor: What am I most afraid of? Hmm. Let's see.
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: 克莱尔催海莉找鞋；海莉崩溃；舞会鞋争论。
+    characters: Claire, Haley, Alex
+    timeline: 同日早晨
+    anchor: Oh, Haley, sweetie, did you find your shoes?
+  - id: "03"
+    place: 邓菲家 · 房底寻宝
+    plot: 有线电视工暗示房下有藏品；菲尔卢克兴奋猜测。
+    characters: Phil, Luke, Haley
+    timeline: 数日前闪回框 + 当日
+    anchor: Treasure hunting.
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 蕾丝边邻居送娃娃；邀请儿科医生缪拉早午餐。
+    characters: Mitchell, Cameron, Lily
+    timeline: 周六早晨（平行线）
+    anchor: Hey, Cam. Cam, where did we get this dolly from?
+  - id: "05"
+    place: Jay 家 · 厨房
+    plot: 曼尼装发烧逃避游乐场派对；歌洛莉亚识破。
+    characters: Gloria, Manny, Jay
+    timeline: 派对前一日
+    anchor: I have a fever.
+  - id: "06"
+    place: 邓菲家 · 房底入口
+    plot: 菲尔卢克准备钻进房底；菲尔旁白不愿在孩子面前露怯。
+    characters: Phil, Luke
+    timeline: 同日
+    anchor: We're like Ponce de Leon and his son, Little Ponce.
+  - id: "07"
+    place: Mitch & Cam 家 · 早午餐
+    plot: 招待缪拉医生；莉莉安静；突然叫「妈咪」。
+    characters: Mitchell, Cameron, Lily, Dr. Miura
+    timeline: 周六中午
+    anchor: Can I just say that is a lovely outfit.
+  - id: "08"
+    place: Jay 家
+    plot: 歌洛莉亚要带曼尼钓鱼散心；实则计划过山车。
+    characters: Jay, Gloria, Manny
+    timeline: 派对当日
+    anchor: Jay, he won't admit it,
+  - id: "09"
+    place: 路考场地
+    plot: 刻薄考官再现；克莱尔鼓励；海莉想吐。
+    characters: Haley, Claire, Alex, examiner
+    timeline: 路考当日
+    anchor: Are you nervous?
+  - id: "10"
+    place: 邓菲家 · 房底外
+    plot: 遥控车探房底；卢克质疑菲尔害怕；卡车丢失。
+    characters: Phil, Luke
+    timeline: 路考同时
+    anchor: See how much better this is?
+  - id: "11"
+    place: Mitch & Cam 家
+    plot: 父母恐慌莉莉要妈妈；亚洲妈妈刻板印象争论。
+    characters: Mitchell, Cameron, Dr. Miura, Lily
+    timeline: 早午餐后段
+    anchor: You- You know it's because you're Asian, right?
+  - id: "12"
+    place: 游乐场码头
+    plot: 曼尼发现过山车陷阱；歌洛莉亚杰逼他面对恐惧。
+    characters: Gloria, Jay, Manny
+    timeline: 下午
+    anchor: Today feels like a good day for halibut.
+  - id: "13"
+    place: 路考场地 · 重考
+    plot: 考官心软重考；海莉通过拿到驾照。
+    characters: Haley, examiner, Claire
+    timeline: 下午
+    anchor: Mom, I did it! I passed!
+  - id: "14"
+    place: 邓菲房底
+    plot: 菲尔钻进房底救卢克；皮带挂烫管；蜘蛛。
+    characters: Phil, Luke
+    timeline: 下午
+    anchor: All right. I'm going in.
+  - id: "15"
+    place: Mitch & Cam 家
+    plot: 缪拉坦白与母亲关系；两个爸爸足够好。
+    characters: Mitchell, Cameron, Dr. Miura
+    timeline: 午后
+    anchor: I'm sorry if we got all weird in there.
+  - id: "16"
+    place: 邓菲房底 / 户外
+    plot: 杰救卢克；发现万圣节假尸；兄弟探险收尾。
+    characters: Phil, Luke
+    timeline: 傍晚
+    anchor: I'm coming, buddy.
+  - id: "17"
+    place: 旁白 · 尾声前
+    plot: 恐惧旁白：孩子之惧永不消散；海莉驾车离开。
+    characters: Phil(旁白), Haley, family
+    timeline: 傍晚
+    anchor: Everybody's afraid of something, right?
+  - id: "18"
+    place: Mitch & Cam 家 · tag
+    plot: 发现娃娃一捏就说 Mommy；误会解除。
+    characters: Mitchell, Cameron, Lily
+    timeline: 夜晚 tag
+    anchor: Oh. Cam, I think she wants her doll.

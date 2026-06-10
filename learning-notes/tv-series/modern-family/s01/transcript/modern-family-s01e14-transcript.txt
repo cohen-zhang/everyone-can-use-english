@@ -2,6 +2,28 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E14 
+
+## 场景分段索引（S01E14 · 克莱尔旧友瓦莱丽 / Gloria 车祸）
+
+字幕正文按镜头插入 `【场景 xx / 26】`；A/B 线交叉：邓菲家接待旧友 vs Gloria 车祸与 Jay/Cam 健身房。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | 邓菲家 | 回收计划；海莉分手；克莱尔职场往事 |
+| 04–06 | Jay 家 / 健身房 / 街头 | 米奇当律师；健身房；菲尔广告牌 |
+| 07–09 | 健身房 / 邓菲家 | 更衣室尴尬；迪兰照片；菲尔试胡子 |
+| 10–12 | 邓菲家 / 餐厅 | 停水；瓦莱丽到访；嫉妒误判 |
+| 13–16 | 车祸回忆 / 蛋糕店 / 球场 | 事故真相；曼尼爆料；壁球 moon landing |
+| 17–19 | 餐厅 / 邓菲家 | 杰甩锅米奇；瓦莱丽情史；克莱尔求职 |
+| 20–22 | 邓菲家 / 树上 | 野格酒回收；迪兰爬树；菲尔成交 |
+| 23–25 | 邓菲家 / 健身房 / 蛋糕店 | Gloria 解雇米奇；瓦莱丽目睹 chaos；杰 rematch |
+| 26 | 尾声 | 克莱尔回家；迪兰 Say Anything |
+
+----------------------
+【场景 01 / 26】邓菲家 · 清晨厨房
+★ 剧情：薄饼；卢克回收瓶建非洲学校。
+★ 人物：Claire, Luke, Haley, Alex
+★ 时间线：主线日
 ----------------------
 - Those pancakes smell great.
  嗯  薄饼闻起来不错哟 
@@ -33,6 +55,12 @@ S01E14
 - "Special school"?
  "特殊学校" 
 
+----------------------
+【场景 02 / 26】邓菲家 · 厨房
+★ 剧情：海莉与 Dylan 分手；撞车库梗。
+★ 人物：Haley, Claire, Phil, kids
+★ 时间线：同日早晨
+----------------------
 - Okay, nobody make a big deal about it,
  好吧  大家先别太大反应 
 
@@ -126,6 +154,12 @@ S01E14
 - Well, then, why'd you quit?
  那你为什么不干了呢 
 
+----------------------
+【场景 03 / 26】邓菲家 · 厨房
+★ 剧情：克莱尔 Starcrest 职场回忆；《上班女郎》。
+★ 人物：Claire, Haley, Phil, kids
+★ 时间线：同日早晨
+----------------------
 - Well, Haley, call me old-fashioned,
  海莉  你可以说我守旧 
 
@@ -144,6 +178,12 @@ S01E14
 - Mm-hmm.
  嗯嗯 
 
+----------------------
+【场景 04 / 26】Jay 家 / Mitch 旁白
+★ 剧情：Gloria 小车祸；杰首次向米奇求法律意见。
+★ 人物：Mitchell, Jay, Gloria
+★ 时间线：平行 · 事故后
+----------------------
 - There's my lawyer.
  我家大律师驾到 
 
@@ -192,6 +232,12 @@ S01E14
 - Brute force versus  -Let's just do this.
  野性战...  -直接办正事儿吧 
 
+----------------------
+【场景 05 / 26】Jay 家 · 旁白 / 健身房
+★ 剧情：Jay 与 Cam 健身；Cam 怕 locker room  day。
+★ 人物：Jay, Cameron
+★ 时间线：健身房日
+----------------------
 - Jay and I are both gym rats.
  杰和我都喜欢健身 
 
@@ -243,6 +289,12 @@ S01E14
 - *I'll let you see my scar*
  *给你看我的伤疤* 
 
+----------------------
+【场景 06 / 26】街头 · 菲尔车内
+★ 剧情：菲尔销售旁白；公交亭胡子被破坏。
+★ 人物：Phil
+★ 时间线：菲尔上班路
+----------------------
 - What the hell? 
  搞毛啊 
 
@@ -264,6 +316,12 @@ S01E14
 - Phil Dunphy.
  我是菲尔·邓菲 
 
+----------------------
+【场景 07 / 26】电话 / 健身房更衣室
+★ 剧情：帕特森客户要退单；Jay/Cam 更衣室 butt bump。
+★ 人物：Phil, Barbara; Jay, Cameron
+★ 时间线：平行
+----------------------
 - Phil, it's Barbara.
  菲尔  我是芭芭拉 
 
@@ -291,6 +349,12 @@ S01E14
 - I saw it, Barbara.
  我看见了  芭芭拉 
 
+----------------------
+【场景 08 / 26】健身房 · 更衣室
+★ 剧情：moon landing 梗；Cam 换 stall 更衣。
+★ 人物：Jay, Cameron
+★ 时间线：健身前
+----------------------
 - It's a terrific gym, Jay.
  健身房不错嘛  杰 
 
@@ -366,6 +430,12 @@ S01E14
 - That's it. I'm changing in the stall. Excuse me!
  够了  我去外面换  借过 
 
+----------------------
+【场景 09 / 26】邓菲家 · 门口
+★ 剧情：海莉见 Dylan 与女生照片再分手。
+★ 人物：Haley, Dylan
+★ 时间线：平行
+----------------------
 - I saw the picture, Dylan.
  我看见那照片了  迪兰 
 
@@ -402,6 +472,12 @@ S01E14
 - Dad, what are you doing? -Oh, right.
  爸  你干啥呢  -噢  对了 
 
+----------------------
+【场景 10 / 26】邓菲家 · 门口/办公室
+★ 剧情：菲尔试八字胡卖屋；水管工停水。
+★ 人物：Phil, worker
+★ 时间线：同日
+----------------------
 - Just, uh, test-driving my new soup strainer.
  就是试试我的"滤汤器"[胡子] 
 
@@ -426,6 +502,12 @@ S01E14
 - People are gonna see this and say, "That guy's high."
  大家肯定都会说  他可是"高"人[嗑药过量] 
 
+----------------------
+【场景 11 / 26】邓菲家 · 门外
+★ 剧情：流动厕所；克莱尔见旧同事 Valerie。
+★ 人物：Phil, Claire, Valerie
+★ 时间线：接待日
+----------------------
 - Sorry to bother you, sir.
  抱歉打扰了  先生 
 
@@ -456,6 +538,12 @@ S01E14
 - "You too, brother."
  你的也挺好  兄弟 
 
+----------------------
+【场景 12 / 26】邓菲家 · 客厅
+★ 剧情：克莱尔介绍子女；误判 Valerie 嫉妒自己。
+★ 人物：Claire, Valerie
+★ 时间线：接待日
+----------------------
 - Haley-She's the oldest. Fifteen.
  海莉  她是长女  15岁了 
 
@@ -504,6 +592,12 @@ S01E14
 - A little. -I'm so sorry.
  有点  -不好意思啊 
 
+----------------------
+【场景 13 / 26】餐厅 · 午餐
+★ 剧情：Valerie 升欧洲区总监；克莱尔悟出被 pity。
+★ 人物：Claire, Valerie
+★ 时间线：午餐
+----------------------
 - And just then, it hit me. She was jealous of me.
  然后我突然意识到  她在嫉妒我 
 
@@ -519,6 +613,12 @@ S01E14
 - that she'd always wanted, but never had.
  是她一直想要  却没得到的 
 
+----------------------
+【场景 14 / 26】餐厅 · 午餐
+★ 剧情：Valerie 23 楼高管；四人情人等八卦。
+★ 人物：Claire, Valerie
+★ 时间线：午餐续
+----------------------
 - So how's life in the trenches?
  谈谈你的职场生活啊 
 
@@ -543,6 +643,12 @@ S01E14
 - I mean, if you hadn't left, it probably would have been you.
  如果你没离职  上去的也许会是你 
 
+----------------------
+【场景 15 / 26】车祸现场（回忆）/ 蛋糕店
+★ 剧情：Gloria 口述被撞；米奇拍照写陈述。
+★ 人物：Mitchell, Gloria, Manny
+★ 时间线：事故处理
+----------------------
 - I was driving along this street.
  我就在路上开车啊 
 
@@ -600,6 +706,12 @@ S01E14
 - Uh, just a minute, Mom. I need to tie my shoe. -Okay.
  稍等  老妈  我鞋带散了  -好的 
 
+----------------------
+【场景 16 / 26】蛋糕店
+★ 剧情：曼尼悄悄告诉米奇：其实是 Gloria 全责。
+★ 人物：Mitchell, Manny, Gloria
+★ 时间线：写陈述前
+----------------------
 - Mitchell. -Yeah?
  米奇尔  -什么 
 
@@ -657,6 +769,12 @@ S01E14
 - Are you hearing this?
  你听见了吗 
 
+----------------------
+【场景 17 / 26】健身房 · 壁球场
+★ 剧情：Jay/Cam 壁球；locker room 分心；要求 rematch。
+★ 人物：Jay, Cameron
+★ 时间线：平行
+----------------------
 -  Aw, that's  - Point.
  我靠  -得分 
 
@@ -717,6 +835,12 @@ S01E14
 - Hello!
  喂 
 
+----------------------
+【场景 18 / 26】电话
+★ 剧情：米奇告知杰 Gloria 全责；杰让他去说。
+★ 人物：Mitchell, Jay
+★ 时间线：平行
+----------------------
 - Hey, Dad. Uh, did you know that the accident was Gloria's fault?
  爸  你知道那车祸责任在歌洛莉亚吗 
 
@@ -768,6 +892,12 @@ S01E14
 - What's the matter with you?
  你有病啊 
 
+----------------------
+【场景 19 / 26】餐厅
+★ 剧情：Valerie 谈 Paris job 与 lovers；旧金山第四个。
+★ 人物：Claire, Valerie
+★ 时间线：午餐后
+----------------------
 - What about you? Do you ever get serious with anyone?
  你呢  有没有在处对象啊 
 
@@ -819,6 +949,12 @@ S01E14
 - I'm forgetting one lover. I'm forgetting one lover. -Mmm.
  我都忘了我的情夫了  真要命  -嗯 
 
+----------------------
+【场景 20 / 26】邓菲家 · 厨房
+★ 剧情：克莱尔等求职电话；Valerie 得欧洲职位。
+★ 人物：Claire, Valerie (phone)
+★ 时间线：下午
+----------------------
 - Last night I vacuumed the radiator thingy under the fridge.
  昨晚我把冰箱下面的散热器打扫了下 
 
@@ -921,6 +1057,12 @@ S01E14
 -  It would have kept me up all night. - Yeah.
  想不起来我今晚肯定睡不着  -嗯 
 
+----------------------
+【场景 21 / 26】邓菲家 · 车库/厨房
+★ 剧情：卢克野格酒回收；老鼠；海莉 Dylan 树头对峙。
+★ 人物：Luke, Haley, Dylan, Alex
+★ 时间线：下午 chaos
+----------------------
 - Dad, look.
  老爸  快看 
 
@@ -960,6 +1102,12 @@ S01E14
 - God
  天 
 
+----------------------
+【场景 22 / 26】邓菲家 · 树上/楼梯
+★ 剧情：菲尔树上谈成卖房；海莉扔 Dylan 物品。
+★ 人物：Phil, Haley, Dylan, Mrs. Patterson
+★ 时间线：下午 chaos
+----------------------
 - Gross! A rat!
  耗子  好恶心 
 
@@ -1113,9 +1261,21 @@ S01E14
 - you're safer walking home.
  你们走回家好了 
 
+----------------------
+【场景 23 / 26】蛋糕店 / 门外
+★ 剧情：米奇追问 Gloria；被解雇；走回家。
+★ 人物：Mitchell, Gloria, Manny
+★ 时间线：傍晚
+----------------------
 - Chao.
  拜拜 
 
+----------------------
+【场景 24 / 26】邓菲家 · 客厅
+★ 剧情：Valerie 目睹全家 chaos；菲尔成交；隔车拥抱。
+★ 人物：Claire, Valerie, Phil, kids, Dylan
+★ 时间线：傍晚
+----------------------
 -  Here it is. - It's really cute.
  就这儿了 -真好 
 
@@ -1308,6 +1468,12 @@ S01E14
 - Thank you all.
  谢谢你们 
 
+----------------------
+【场景 25 / 26】健身房 · 淋浴/桑拿
+★ 剧情：Jay rematch 15-7；Cam splashdown 免疫；桑拿。
+★ 人物：Jay, Cameron
+★ 时间线：傍晚
+----------------------
 - I told you I'd win.
  早说了你打不过我 
 
@@ -1353,6 +1519,12 @@ S01E14
 - 'Scuse me. 'Scuse me.
  借过  借过 
 
+----------------------
+【场景 26 / 26】蛋糕店 / 邓菲家 · 片尾
+★ 剧情：Gloria  cupcake 招牌事故；克莱尔回家道歉；迪兰 Say Anything。
+★ 人物：Gloria, Mitchell, Manny; Claire, Phil, Dylan
+★ 时间线：片尾
+----------------------
 - Well, if you're going to be stranded,
  如果注定了要被困住[进退两难] 
 
@@ -1511,4 +1683,3 @@ S01E14
 
 - It's okay. It's not that heavy.
  没事  手机没多重 
-

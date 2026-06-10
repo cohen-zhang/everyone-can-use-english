@@ -2,6 +2,31 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E07 
+
+## 场景分段索引（S01E07 · 曼尼击剑赛 / Fire and Nice 心结）
+
+字幕正文按镜头插入 `【场景 xx / 29】`；击剑赛为主线；邓菲练球、Phil 卖房、姐妹和解交叉剪辑。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–02 | 击剑馆 | 曼尼获胜；Jay 骄傲小佐罗 |
+| 03–04 | 车内 / 击剑馆 | 卡姆家庭电影；奖杯心结 |
+| 05 | 击剑馆 | 晋级总决赛 |
+| 06–09 | Mitch & Cam 家 / 车内 | 米奇尔嫉妒；Fire and Nice；承认 resent |
+| 10 | 邓菲家 | 艾丽克斯/Haley 斗嘴；手机静电 |
+| 11–13 | 邓菲家 · 后院 | 卢克棒球一万小时；全垒打进屋 |
+| 14–16 | Jay 家 | 纪念 T 恤；曼尼退役；歌洛莉亚激励 |
+| 17–19 | 待售豪宅 / 邓菲家 | Phil 卖房；卢克助攻；推销天才 |
+| 20–21 | 击剑馆 / 更衣室 | 卡姆逼姐妹和解；滑冰真相 |
+| 22–24 | 击剑馆 | 曼尼备战；卡罗琳背景；Phil 脚伤 |
+| 25–27 | 击剑馆 · 屋顶 | 欲阻止对决；米奇尔克莱尔谈心；举高高 |
+| 28–29 | 击剑馆 / 场外 | 曼尼夺冠；片尾 tag |
+
+----------------------
+【场景 01 / 29】击剑馆 · 比赛
+★ 剧情：曼尼获胜；全家鼓掌。
+★ 人物：Manny, Jay, Gloria, 全家
+★ 时间线：片头
 ----------------------
 - Bravo! Bravo!
  太棒啦  太厉害啦 
@@ -15,6 +40,12 @@ S01E07
 - Bravo, Manny! Bravo!
  太厉害了  曼尼  厉害 
 
+----------------------
+【场景 02 / 29】击剑馆 · 旁白
+★ 剧情：Jay 旁白：从不看好到骄傲小佐罗。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同日
+----------------------
 - Well, when I heard Manny wanted to fence, I was, like,
  当我听说曼尼想学击剑时  我心想 
 
@@ -75,6 +106,12 @@ S01E07
 - if we suspended you from a crane?
  把这玩意吊起来吧 
 
+----------------------
+【场景 03 / 29】车内 / 回忆
+★ 剧情：卡姆家庭电影过火；鼓风机与婴儿床轮子。
+★ 人物：Mitchell, Cameron, 家人
+★ 时间线：去击剑馆路上
+----------------------
 - Any monkey can shoot a home movie.
  家庭录像谁都会拍 
 
@@ -126,6 +163,12 @@ S01E07
 - Yes!
  太棒了 
 
+----------------------
+【场景 04 / 29】车内
+★ 剧情：米奇尔羡慕别人家奖杯；讨论孩子特长。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - You know, I used to go to the houses of my friends,
  我以前去朋友家  
 
@@ -207,6 +250,12 @@ S01E07
 - Bravo!
  厉害 
 
+----------------------
+【场景 05 / 29】击剑馆 · 颁奖
+★ 剧情：曼尼晋级总决赛；对阵 Caroline Markum。
+★ 人物：Manny, 裁判, 观众
+★ 时间线：半决赛后
+----------------------
 - How about a nice round of applause for our winner, Manny Delgado.
  请为我们的胜利者曼尼·迪尔加多鼓掌 
 
@@ -225,6 +274,12 @@ S01E07
 - What she said.
  我想说的和她一样 
 
+----------------------
+【场景 06 / 29】击剑馆外 / 车内
+★ 剧情：米奇尔察觉 Jay 更宠曼尼；Claire 被牵连。
+★ 人物：Mitchell, Cameron, Claire
+★ 时间线：赛后
+----------------------
 - Wow. This means more to Dad than it does to Manny.
  老爸比曼尼还激动啊 
 
@@ -258,6 +313,12 @@ S01E07
 - Really?
  不是吧你 
 
+----------------------
+【场景 07 / 29】Mitch & Cam 家 · 卧室
+★ 剧情：卡姆追问米奇尔与克莱尔；溜出门无 meeting。
+★ 人物：Mitchell, Cameron
+★ 时间线：当晚
+----------------------
 - That took a while.
  你怎么去了那么久 
 
@@ -282,6 +343,12 @@ S01E07
 -  Nothing is up. - Mm-hmm.
  什么都没有  -是吗 
 
+----------------------
+【场景 08 / 29】Mitch & Cam 家
+★ 剧情：Fire and Nice 滑冰往事；地区赛 quit 心结。
+★ 人物：Mitchell, Cameron, Gloria
+★ 时间线：回忆框
+----------------------
 - Or could this have something to do with... ice skating?
  是不是和滑冰那事有关呀 
 
@@ -354,6 +421,12 @@ S01E07
 - and then they bubble up later in hurtful ways.
  等到某一刻再伤人地爆发 
 
+----------------------
+【场景 09 / 29】Mitch & Cam 家
+★ 剧情：米奇尔承认 resent；黄色衬衫爆发。
+★ 人物：Mitchell, Cameron
+★ 时间线：当晚
+----------------------
 - Okay, you know what? Yes. All right, listen.
  好啦  你说对了 听着   
 
@@ -384,6 +457,12 @@ S01E07
 - I knew you didn't have a meeting, Cam. I knew it.
  我就知道你不是开会  小卡  我就知道 
 
+----------------------
+【场景 10 / 29】邓菲家
+★ 剧情：艾丽克斯/Haley 互怼；手机静电摩擦。
+★ 人物：Alex, Haley, Claire
+★ 时间线：次日早晨
+----------------------
 - There must be something wrong with this phone.
  这手机肯定出了什么毛病 
 
@@ -408,6 +487,12 @@ S01E07
 - Haley, stop making yourself such an easy target.
  海莉  你也别那么容易掉入陷阱 
 
+----------------------
+【场景 11 / 29】邓菲家 · 后院
+★ 剧情：菲尔带卢克练棒球；一万小时理论。
+★ 人物：Phil, Luke, Claire
+★ 时间线：平行线
+----------------------
 - This feels right, buddy. I'm telling you, this feels right.
  就是这样  老弟  就是这样 
 
@@ -432,6 +517,12 @@ S01E07
 - Yeah. I can see why you ruled out math.
  怪不得你们没选数学 
 
+----------------------
+【场景 12 / 29】邓菲家 · 后院
+★ 剧情：克莱尔反对揠苗助长；「做我儿子最好」。
+★ 人物：Claire, Phil
+★ 时间线：同上
+----------------------
 - Yeah, of course I want Luke to be successful.
  我当然想要卢克成功 
 
@@ -450,6 +541,12 @@ S01E07
 - It sounded a lot less lame in my head.
  这话说出口来就弱掉了 
 
+----------------------
+【场景 13 / 29】邓菲家 · 后院
+★ 剧情：卢克全垒打 ball 进窗；Phil 没穿护裆。
+★ 人物：Phil, Luke
+★ 时间线：练球第一小时
+----------------------
 - I have got a good feeling about this.
  我预感这将会进展顺利 
 
@@ -531,6 +628,12 @@ S01E07
 - why there's so much conflict on your continent.
  为啥你们南美那么多暴力冲突了 
 
+----------------------
+【场景 14 / 29】Jay 家 · 客厅
+★ 剧情：Jay 定制 T 恤；歌洛莉亚为曼尼骄傲。
+★ 人物：Jay, Gloria
+★ 时间线：决赛前
+----------------------
 - Here. Check this out.
  来  看看这个 
 
@@ -573,6 +676,12 @@ S01E07
 - And I have something for you. Here.
  我也正要给你个东西  拿着 
 
+----------------------
+【场景 15 / 29】Jay 家 · 客厅
+★ 剧情：曼尼宣布退役；不想和女孩对决。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：决赛前
+----------------------
 - I will not be needing it anymore.
  我不再需要它了 
 
@@ -627,6 +736,12 @@ S01E07
 - Dude.
  老弟 
 
+----------------------
+【场景 16 / 29】Jay 家 · 客厅
+★ 剧情：歌洛莉亚激励曼尼尊重女性、拿回剑。
+★ 人物：Gloria, Manny, Jay
+★ 时间线：决赛前
+----------------------
 - Manny, you always call yourself the lover of women,
  曼尼  你常称自己为女人的贴心小情人 
 
@@ -651,6 +766,12 @@ S01E07
 -  I can't hear you! - That's really as loud as I can go.
  再大声点  -那真是我最大嗓门了 
 
+----------------------
+【场景 17 / 29】待售豪宅 · 带看
+★ 剧情：Phil 推销 ABC；买家嫌不适合孩子。
+★ 人物：Phil, 买家
+★ 时间线：平行线
+----------------------
 - What does it take to make a great salesman?
  如何成为一名好的推销员 
 
@@ -726,6 +847,12 @@ S01E07
 - I mean, these stairs alone.
  光是这些楼梯  
 
+----------------------
+【场景 18 / 29】待售豪宅
+★ 剧情：卢克意外助攻；买家心动。
+★ 人物：Phil, Luke, 买家
+★ 时间线：带看中
+----------------------
 - Dad, this place is awesome.
  老爸  这地方酷毙了 
 
@@ -750,6 +877,12 @@ S01E07
 - It really does.
  确实差太多 
 
+----------------------
+【场景 19 / 29】邓菲家 · 门口
+★ 剧情：克莱尔回家；卢克是推销天才。
+★ 人物：Claire, Phil, Luke
+★ 时间线：带看后
+----------------------
 - There you are.
  你们回来啦 
 
@@ -813,6 +946,12 @@ S01E07
 - Alex. Alex!
  艾丽克斯  艾丽克斯 
 
+----------------------
+【场景 20 / 29】击剑馆 · 场边
+★ 剧情：卡姆逼克莱尔与米奇尔和解。
+★ 人物：Cameron, Mitchell, Claire
+★ 时间线：决赛日
+----------------------
 - So, there's no part of you
  难道你一点也不想 
 
@@ -840,6 +979,12 @@ S01E07
 - Okay, you know what? I can't bear this.
  好吧  我受不了了 
 
+----------------------
+【场景 21 / 29】击剑馆 · 更衣室
+★ 剧情：姐妹摊牌：quit 是为保护米奇尔；从未爱滑冰。
+★ 人物：Claire, Mitchell
+★ 时间线：决赛前
+----------------------
 - Claire, Mitchell still resents you
  克莱尔  米奇尔仍然对你小时候 
 
@@ -936,6 +1081,12 @@ S01E07
 - Are you trying to lift me? You are. You're trying to lift me. Oh!
  你是在举我吗  你真的是想把我举起来 
 
+----------------------
+【场景 22 / 29】击剑馆 · 备战区
+★ 剧情：Jay 给曼尼加油；举剑问答。
+★ 人物：Jay, Manny
+★ 时间线：决赛前
+----------------------
 - Stay focused, stay loose and stay angry.
  保持专注  保持冷静  保持怒气 
 
@@ -963,6 +1114,12 @@ S01E07
 - Okay, go get 'em. Good luck.
  好嘞  加油  好运哦 
 
+----------------------
+【场景 23 / 29】击剑馆 · 观众席
+★ 剧情：卡罗琳「护士」背景；Phil 脚扭伤继续卖房。
+★ 人物：Gloria, Caroline's nurse, Phil, 买家
+★ 时间线：决赛进行中
+----------------------
 -  Excuse me. Is this seat taken? - No. Sit.
  请问这有人坐吗  -没有  坐吧 
 
@@ -1035,6 +1192,12 @@ S01E07
 - our shoes off for this part of the tour. Follow me.
  再上楼参观  跟我来 
 
+----------------------
+【场景 24 / 29】待售豪宅 / 击剑馆
+★ 剧情：Phil 脚伤； orphan 父亲阿富汗；全家要阻止曼尼。
+★ 人物：Phil, Gloria, Jay, 全家
+★ 时间线：交叉剪辑
+----------------------
 - She's our little miracle.
  她是我们的奇迹 
 
@@ -1062,6 +1225,12 @@ S01E07
 - Bring it on, big boy.
  放马过来吧  小子 
 
+----------------------
+【场景 25 / 29】击剑馆 · 场边
+★ 剧情：米奇尔克莱尔屋顶谈心；怀念组队时光。
+★ 人物：Mitchell, Claire
+★ 时间线：决赛前
+----------------------
 - I'm-I'm glad Dad's proud of Manny. I am.
  我很高兴爸爸为曼尼骄傲  真的 
 
@@ -1134,6 +1303,12 @@ S01E07
 -  a little gay. - There we go.
  是有点娘  -看吧 
 
+----------------------
+【场景 26 / 29】击剑馆 · 冰面？
+★ 剧情：克莱尔举起米奇尔；Mitchell 阻止对决。
+★ 人物：Claire, Mitchell, Jay
+★ 时间线：决赛
+----------------------
 - Claire, where are you going?
  克莱尔  你要去哪 
 
@@ -1170,6 +1345,12 @@ S01E07
 - Of course she is.
  猜都猜到了 
 
+----------------------
+【场景 27 / 29】击剑馆 · 决赛
+★ 剧情：曼尼夺冠；全家欢呼。
+★ 人物：Manny, 全家
+★ 时间线：高潮
+----------------------
 - A round of applause for our winner, Manny Delgado.
  掌声祝贺我们的冠军  曼尼·迪尔加多 
 
@@ -1182,6 +1363,12 @@ S01E07
 - How about now?
  那现在呢 
 
+----------------------
+【场景 28 / 29】击剑馆 · 旁白 / 收尾
+★ 剧情：旁白：赢的感觉；愧疚 vs 奖牌。
+★ 人物：Phil(VO), 全家
+★ 时间线：赛后
+----------------------
 - We tell our kids it doesn't matter if you win or lose,
  我们教育孩子们说  输赢无所谓 
 
@@ -1227,6 +1414,12 @@ S01E07
 -  You're a little jealous. - I'm happy for the two of you.
  你有点嫉妒  -我为你俩感到高兴 
 
+----------------------
+【场景 29 / 29】击剑馆外 · tag
+★ 剧情：卡姆要举克莱尔；米奇尔拒绝。
+★ 人物：Cameron, Mitchell, Claire
+★ 时间线：片尾 tag
+----------------------
 - All right, come on. We'll do one. Stay there.
  好吧  我们也来一次  站在那 
 
@@ -1244,4 +1437,3 @@ S01E07
 
 - Cam, no.
  小卡  别 
-

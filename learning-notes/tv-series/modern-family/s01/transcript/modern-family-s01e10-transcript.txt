@@ -2,6 +2,29 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E10 
+
+## 场景分段索引（S01E10 · 平安夜 / 沙发烫洞 / 取消圣诞节）
+
+字幕正文按镜头插入 `【场景 xx / 25】`；多线：视频拜年、Santa 村、Phil 惩罚、Scott 做客、真凶 ornament。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–02 | 邓菲家 · 客厅 | 丑毛衣视频；父母发现烫洞 |
+| 03–04 | Jay 家 | 《34 街奇迹》；哥伦比亚 inocente 恶作剧 |
+| 05–07 | Santa 村 | 排队；绿袖子政变；等胖 Santa |
+| 08–10 | 邓菲家 | 审问抽烟；取消圣诞；Phil 夸海口 |
+| 11–12 | 停车场 / 邓菲家 | 被炒 thin Santa；邀请 Scott 晚餐 |
+| 13–14 | Jay 家 | Gloria 圣诞规矩；哥伦比亚传统之争 |
+| 15–17 | 邓菲家 | Spartacus 计划；卢克招供；兄弟姐妹搅局 |
+| 18–19 | 邓菲家 · 晚餐 | Scott 做客；Jay 送 pajama；婴儿摇椅 |
+| 20–22 | Jay 家 / 邓菲家 | Gloria 劝曼尼；艾丽克斯顶罪；圣诞恢复 |
+| 23–25 | 邓菲家 · 收尾 | Scott 离开；Cam 宽恕唱诗班； ornament 真凶 |
+
+----------------------
+【场景 01 / 25】邓菲家 · 客厅
+★ 剧情：穿奶奶寄的丑毛衣；视频连线佛罗里达父母。
+★ 人物：Phil, Claire, Haley, Luke, Alex
+★ 时间线：平安夜
 ----------------------
 - Do we really have to wear these ugly sweaters?
  我们真的非得穿这些难看的毛衣吗 
@@ -90,6 +113,12 @@ S01E10
 - Ah! Still funny, Son.
  你还是那么搞笑啊  儿子 
 
+----------------------
+【场景 02 / 25】视频 · 邓菲家
+★ 剧情：父母发现沙发香烟烫洞；质问谁抽烟。
+★ 人物：Phil, Claire, 孩子, Phil's parents
+★ 时间线：同上
+----------------------
 -  What the hell is that? - Still funny.
  那是什么  -还那么搞笑 
 
@@ -123,6 +152,12 @@ S01E10
 - Anyway, merry Christmas!
  总之  圣诞快乐 
 
+----------------------
+【场景 03 / 25】Jay 家 · 客厅
+★ 剧情：看《34 街奇迹》；曼尼从未在美国过圣诞。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：平行线
+----------------------
 - No, no, it isn't that kind of a trial.
  不  不  不是那种审判 
 
@@ -183,6 +218,12 @@ S01E10
 - What the hell is that?
  那是什么玩意啊 
 
+----------------------
+【场景 04 / 25】Jay 家 · 客厅
+★ 剧情：Gloria 恶作剧版 inocente 电影；解释哥伦比亚传统。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同上
+----------------------
 -  Inocente! - What the hell?
  傻冒  -什么玩意 
 
@@ -219,6 +260,12 @@ S01E10
 - Does it do it again? Ah, it's ruined.
  还会出现吗  搞得我兴致全无 
 
+----------------------
+【场景 05 / 25】Santa 村 · 排队
+★ 剧情：Mitch/Cam 带 Lily 排队见 Santa；一年前也在队首。
+★ 人物：Mitchell, Cameron, Lily
+★ 时间线：平行线
+----------------------
 - Are you kidding me with this line?
  开什么玩笑  要排这么长的队   
 
@@ -246,6 +293,12 @@ S01E10
 - It's them.
  就是他们 
 
+----------------------
+【场景 06 / 25】Santa 村
+★ 剧情：Cam 被 Greensleevers 踢出；新唱诗班出现。
+★ 人物：Cameron, Mitchell, New Greensleevers
+★ 时间线：同上
+----------------------
 - Three years ago, I formed a caroling group.
  3年前  我组织了一个唱诗班 
 
@@ -294,6 +347,12 @@ S01E10
 -  Okay, next. - Ah, finally.
  好的  下一个  -终于啊 
 
+----------------------
+【场景 07 / 25】Santa 村 · 拍照区
+★ 剧情：坚持等「胖 Santa」；Cam 与 elf 起冲突。
+★ 人物：Mitchell, Cameron, Lily, Santa
+★ 时间线：同上
+----------------------
 - Whoa! I'm- I'm sorry. Can I- Could you
  抱歉  我能  你能 
 
@@ -339,6 +398,12 @@ S01E10
 - I hate you!
  我恨你们 
 
+----------------------
+【场景 08 / 25】邓菲家 · 客厅
+★ 剧情：Phil 审问抽烟；无人认罪。
+★ 人物：Phil, Claire, Haley, Luke, Alex
+★ 时间线：午后
+----------------------
 - This is unacceptable, and I want to know who did this.
  我绝对不能接受你们吸烟  到底是谁 
 
@@ -381,6 +446,12 @@ S01E10
 - That's fine, 'cause you know what happens next?
  没关系  知道接下来会怎样吗 
 
+----------------------
+【场景 09 / 25】邓菲家 · 客厅
+★ 剧情：Phil 宣布取消圣诞节；孩子震惊。
+★ 人物：Phil, Claire, 孩子们
+★ 时间线：同上
+----------------------
 - We cancel Christmas!
  我们取消圣诞节 
 
@@ -390,6 +461,12 @@ S01E10
 - Okay, Dad, sure.
  好吧  老爸 
 
+----------------------
+【场景 10 / 25】邓菲家 · 旁白
+★ 剧情：克莱尔旁白：Phil 夸海口难兑现（脏碗床）。
+★ 人物：Claire(VO), Phil
+★ 时间线：同上
+----------------------
 - Phil has a habit of making big pronouncements to the kids.
  菲尔喜欢在孩子面前夸海口 
 
@@ -459,6 +536,12 @@ S01E10
 - made that clear when you tossed them back.
  把糖又扔回去  已经表明了你的反感 
 
+----------------------
+【场景 11 / 25】停车场
+★ 剧情：被炒 thin Santa 帮装车；自曝住车里。
+★ 人物：Mitchell, Cameron, Scott(Santa)
+★ 时间线：离开 Santa 村
+----------------------
 - How am I supposed to get all this in the car?
  我怎样才能把这些东西都放进车里啊 
 
@@ -513,6 +596,12 @@ S01E10
 - It's pretty roomy since the wife moved out.
  我妻子搬出去后  就宽敞多了 
 
+----------------------
+【场景 12 / 25】停车场 → 邓菲家
+★ 剧情：邀请 Scott 平安夜晚餐；Cam 同意。
+★ 人物：Mitchell, Cameron, Scott
+★ 时间线：同上
+----------------------
 - Why don't you come over to our place for dinner tonight?
  不如你今晚到我们家来共进晚餐吧 
 
@@ -546,6 +635,12 @@ S01E10
 -  Cameron. - What?
  卡梅隆  -怎么了 
 
+----------------------
+【场景 13 / 25】Jay 家
+★ 剧情：Gloria 定圣诞流程；曼尼要哥伦比亚传统。
+★ 人物：Gloria, Jay, Manny
+★ 时间线：傍晚
+----------------------
 - Okay. Tonight, 9:00 sharp,
  万事俱备  今晚9点整   
 
@@ -564,6 +659,12 @@ S01E10
 - Then we open presents.
  然后我们打开礼物 
 
+----------------------
+【场景 14 / 25】Jay 家 · 厨房
+★ 剧情：婴儿 Jesus vs Santa；Jay 拒绝混合传统。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同上
+----------------------
 - In Colombia, 
  在哥伦比亚   
 
@@ -672,6 +773,12 @@ S01E10
 - Okay. Look, I have an idea.
  好吧  我有个主意 
 
+----------------------
+【场景 15 / 25】邓菲家 · 孩子房间
+★ 剧情：海莉 Spartacus 计划：三人轮流顶罪。
+★ 人物：Haley, Alex, Luke
+★ 时间线：傍晚
+----------------------
 - Do you remember the movie Spartacus?
  你们记得斯巴达克斯那部电影吗 
 
@@ -750,6 +857,12 @@ S01E10
 - Hey, Luke. What, uh- What can we do for you?
  卢克  有什么事吗 
 
+----------------------
+【场景 16 / 25】邓菲家 · 客厅
+★ 剧情：卢克独自招供；父母失望。
+★ 人物：Luke, Phil, Claire
+★ 时间线：同上
+----------------------
 - I did it.
  是我做的 
 
@@ -798,6 +911,12 @@ S01E10
 -  Uh, I take it back! - What is going on?
  我收回刚才的招供  -怎么回事 
 
+----------------------
+【场景 17 / 25】邓菲家 · 客厅
+★ 剧情：姐妹也要顶罪；计划失败；圣诞仍取消。
+★ 人物：Haley, Alex, Luke, Phil, Claire
+★ 时间线：同上
+----------------------
 - These guys were gonna say they did it too,
  她们俩原本也应该招工的 
 
@@ -840,6 +959,12 @@ S01E10
 - Watch your back!
  小心点 
 
+----------------------
+【场景 18 / 25】邓菲家 · 晚餐
+★ 剧情：Scott 讲海军退役流浪；Mitch 没清 lint tray。
+★ 人物：Scott, Mitchell, Cameron, 邓菲家
+★ 时间线：夜晚
+----------------------
 - So, after I left the marines, I just kinda traveled the world.
  我从海军退役后  算是开始环游世界了 
 
@@ -915,6 +1040,12 @@ S01E10
 - It's like something astronauts train in.
  简直像是给宇航员训练用的 
 
+----------------------
+【场景 19 / 25】邓菲家 / Mitch & Cam 家
+★ 剧情：Jay 送平安夜 pajama；Cam 试婴儿摇椅；Phil 扮 Santa。
+★ 人物：Jay, Gloria, Cameron, Mitchell, Phil
+★ 时间线：交叉剪辑
+----------------------
 - Ho, ho, ho! It's me! Ho, ho, ho! It's me!
  嚯嚯嚯  我来了  嚯嚯嚯  我来了 
 
@@ -1035,6 +1166,12 @@ S01E10
 - Jay is messing everything up.
  杰把事情都搞砸了 
 
+----------------------
+【场景 20 / 25】Jay 家 · 曼尼房间
+★ 剧情：Gloria 劝曼尼理解 Jay 想重现旧日圣诞。
+★ 人物：Gloria, Manny
+★ 时间线：夜晚
+----------------------
 - Manny, try to understand.
  曼尼  理解下他吧 
 
@@ -1104,6 +1241,12 @@ S01E10
 - Hey, guys.
  老爸老妈 
 
+----------------------
+【场景 21 / 25】邓菲家 · 客厅
+★ 剧情：艾丽克斯为保全家圣诞顶罪抽烟。
+★ 人物：Alex, Phil, Claire
+★ 时间线：夜晚
+----------------------
 - It- it was me.
  是我干的 
 
@@ -1158,6 +1301,12 @@ S01E10
 - Everybody!
  各位 
 
+----------------------
+【场景 22 / 25】邓菲家 · 客厅
+★ 剧情：圣诞恢复；艾丽克斯禁足；全家装饰。
+★ 人物：Phil, Claire, 孩子们
+★ 时间线：高潮
+----------------------
 - It's official! Christmas is back on!
  正式宣布  圣诞节回来啦 
 
@@ -1200,6 +1349,12 @@ S01E10
 - You're good people.
  你们都是好人 
 
+----------------------
+【场景 23 / 25】邓菲家 · 门廊
+★ 剧情：Scott 离开；Cam 宽恕唱诗班；仍开洒水器。
+★ 人物：Scott, Cameron, Mitchell, New Greensleevers
+★ 时间线：深夜
+----------------------
 - Scott. Wait, wait.
  斯科特  等等  等等 
 
@@ -1356,6 +1511,12 @@ S01E10
 - All righty. Here's another one for Luke.
  好的  又是一份给卢克的礼物 
 
+----------------------
+【场景 24 / 25】邓菲家 · 客厅
+★ 剧情：ornament 放大镜烧洞；真凶是阳光不是 Alex。
+★ 人物：Phil, Claire, Alex, Haley, Luke
+★ 时间线：片尾 tag
+----------------------
 -  Looks like a book. - I have a book already.
  看起来像一本书  -我已经有一本书了 
 
@@ -1443,6 +1604,12 @@ S01E10
 - Who wants some dark meat?
  谁想来点鸡腿肉 
 
+----------------------
+【场景 25 / 25】邓菲家 · 旁白
+★ 剧情：旁白：非传统圣诞最难忘；Inocente 再响。
+★ 人物：Alex(VO), 全家
+★ 时间线：片尾
+----------------------
 - We talk a lot about tradition this time of year.
  每年的这个时候  我们就会经常谈论传统 
 
@@ -1478,4 +1645,3 @@ S01E10
 
 - You got me again.
  又被你整了 
-

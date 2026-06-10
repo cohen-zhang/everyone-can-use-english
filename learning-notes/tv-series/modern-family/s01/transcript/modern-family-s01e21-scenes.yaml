@@ -1,0 +1,178 @@
+# Scene markers for modern-family-s01e21-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E21
+episode_arc: 爷爷来访 / 斯科特与乐队
+timeline_note: Phil–Frank 情感线 + Cam 代打鼓 + Jay 帮曼尼克服恐怖片
+
+index_groups:
+  - scenes: "01–04"
+    place: 邓菲家 · 片头
+    summary: Frank 房车载狗；Claire 震怒；新规矩
+  - scenes: "05–07"
+    place: Jay 家 / 牙医
+    summary: Ben Dugan；Jay 带 Manny 逃课
+  - scenes: "08–10"
+    place: 邓菲家
+    summary: 狗过敏；Frank 到访；全家见 Scott
+  - scenes: "11–13"
+    place: 邓菲家 / 排练
+    summary: 布莱恩退队；Cam 代鼓；传统家庭话术
+  - scenes: "14–16"
+    place: 邓菲家
+    summary: Frank 可能哭；Phil 谈父亲；Scott 闯祸
+  - scenes: "17–19"
+    place: 邓菲家 / 厨房
+    summary: 乐队排练；Pepper 派对冲突；Frank 要走
+  - scenes: "20–22"
+    place: 演出 / Jay 家
+    summary: Cam 演出；Ben 吓曼尼反效果；Brian 回归
+  - scenes: "23–24"
+    place: 邓菲车道 · 收尾
+    summary: Phil 看穿 Frank 爱狗；Scott 跟 Frank 走
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 片头
+    plot: Phil 得知 Frank 开 RV 从 Cocoa Beach 来。
+    characters: Phil, Claire
+    timeline: 某日早晨
+    anchor: Honeydew! What's up?
+  - id: "02"
+    place: 邓菲家
+    plot: Frank 提早到；带来要领养的狗 Scott。
+    characters: Phil, Claire, Frank
+    timeline: 同日
+    anchor: Well, guess what he brought us.
+  - id: "03"
+    place: 邓菲家 · 旁白
+    plot: Phil 旁白：早该告诉 Claire 养狗；错过时机。
+    characters: Phil
+    timeline: 闪回框
+    anchor: Yes, I should have told Claire about the dog,
+  - id: "04"
+    place: 邓菲家
+    plot: Claire 新规矩：不准进卧室；Phil 麻烦很大。
+    characters: Claire, Phil
+    timeline: 同日
+    anchor: Am I in trouble? - Oh, really, really big.
+  - id: "05"
+    place: Jay 办公室外
+    plot: Mitch 高中戏剧社同学 Ben Dugan；新片 Maple Drive。
+    characters: Jay, Ben, Mitchell
+    timeline: 平行
+    anchor: Mr. Pritchett. Uh, Ben- Ben Dugan.
+  - id: "06"
+    place: 牙医 / 逃学
+    plot: Jay 带 Manny「看牙」实则逃课；回忆父亲带自己去赛道。
+    characters: Jay, Manny
+    timeline: 同日
+    anchor: Hey, you want to go to the movies?
+  - id: "07"
+    place: Jay 家 · 电话
+    plot: Gloria 对狗过敏；Jay 旁白：车道上的「房子」RV。
+    characters: Jay, Gloria
+    timeline: 同日
+    anchor: Oh, crap.
+  - id: "08"
+    place: 邓菲家 · Frank 到访
+    plot: Frank 与 Phil 兄弟情；Scott 掉毛；Claire 礼物在途。
+    characters: Frank, Phil, Claire, kids
+    timeline: 同日
+    anchor: Welcome home, Mr. Dunphy.
+  - id: "09"
+    place: 邓菲家
+    plot: Claire 批 Phil 擅自养狗；全家分工负责。
+    characters: Claire, Phil, kids, Dylan
+    timeline: 同日
+    anchor: I cannot believe you got a dog without consulting me.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: 孩子们爱 Scott；Cam/Frank 互赞衬衫；Haley 要走。
+    characters: 全家, Cameron, Frank, Scott
+    timeline: 同日
+    anchor: Oh, he's so cute. - Look at his little face.
+  - id: "11"
+    place: 邓菲家
+    plot: 布莱恩搬 Portland 乐队缺鼓；Cam 自愿代打。
+    characters: Haley, Dylan, Cameron
+    timeline: 同日
+    anchor: What? Why?
+  - id: "12"
+    place: 邓菲家 · 排练
+    plot: Cam 拿反鼓槌；门铃闹鬼；Luke 看恐怖片后惊魂。
+    characters: Cameron, band, Luke
+    timeline: 傍晚
+    anchor: Should I just play a little something?
+  - id: "13"
+    place: 邓菲家
+    plot: Jay 辩称恐怖片有助成长；Gloria 守夜；Manny 怕恶魔。
+    characters: Jay, Gloria, Manny
+    timeline: 夜晚
+    anchor: Who takes a little boy to a horror movie?
+  - id: "14"
+    place: 邓菲家 · Phil 找 Frank
+    plot: Phil 问 Frank 是否因狗为难；Claire 要 Frank 穿裤 breakfast。
+    characters: Phil, Frank
+    timeline: 深夜
+    anchor: Dad?
+  - id: "15"
+    place: 邓菲家
+    plot: Scott 咬 Haley 胸罩；Phil 两分钟对话断定 Frank 没事。
+    characters: Phil, Claire, Scott, Haley
+    timeline: 同日
+    anchor: How did he get ahold of your bra?
+  - id: "16"
+    place: 邓菲家 · 厨房
+    plot: 乐队 jam；Mitch 要 Cam 推 Pepper 奶酪派对。
+    characters: Mitchell, Cameron, band
+    timeline: 傍晚
+    anchor: Can I talk to you in the kitchen for a second?
+  - id: "17"
+    place: 邓菲家
+    plot: Cam 要履行乐队承诺；Mitch 理解他闷坏了。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: So I'm going by myself, is that what you're saying?
+  - id: "18"
+    place: 邓菲家
+    plot: Frank 宣布明早继续「随风游荡」不回家；Phil 察觉异常。
+    characters: Phil, Frank, Gloria
+    timeline: 夜晚
+    anchor: Good news, you two. You're getting your driveway back.
+  - id: "19"
+    place: 少年俱乐部 · 演出
+    plot: Cam 代鼓大获成功；本想溜去 Pepper 派对却留全程。
+    characters: Cameron, Haley, Dylan, band
+    timeline: 翌晚
+    anchor: Thanks, everybody, for coming out.
+  - id: "20"
+    place: Jay 家
+    plot: Jay 请 Ben 带假 machete 帮 Manny 脱敏；反更吓人。
+    characters: Jay, Gloria, Ben, Manny
+    timeline: 平行
+    anchor: Hey, Jay, it's Ben Dugan.
+  - id: "21"
+    place: 少年俱乐部 · 后台
+    plot: Brian 父母又分手不搬走；Cam 尴尬「Ringo」。
+    characters: Cameron, Brian, band
+    timeline: 演出后
+    anchor: Hey. I thought you were in Portland.
+  - id: "22"
+    place: 邓菲车道 · Frank 告别
+    plot: Frank 拔 RV 电线；Phil 追问 Frank 是否有事。
+    characters: Frank, Phil, kids
+    timeline: 翌晨
+    anchor: I don't want to drag the house along with me.
+  - id: "23"
+    place: 邓菲车道
+    plot: Frank 承认「坠入爱河」——对象是 Scott；Phil 劝告诉 Mom。
+    characters: Phil, Frank
+    timeline: 告别
+    anchor: I don't think you're being honest with me.
+  - id: "24"
+    place: 邓菲家 · tag
+    plot: Luke 不舍 Scott；Frank 带走狗；Phil 与父更亲近。
+    characters: Phil, Frank, Luke, Claire, Jay, Gloria
+    timeline: tag
+    anchor: I can't believe he took my dog.

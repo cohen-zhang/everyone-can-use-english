@@ -2,6 +2,27 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E20 
+
+## 场景分段索引（S01E20 · 少年篮球 / Mitch 求职）
+
+字幕正文按镜头插入 `【场景 xx / 24】`；Jay–Phil 执教之争与 Mitch–Cam 海滩面试平行线。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–03 | Jay 家 · 烧烤 | 牛排；Luke/Manny 被教练骂；Jay 要出手 |
+| 04–06 | Mitch & Cam 家 / 网上 | 贺卡店；Charlie Bingham；Mitch 待业焦虑 |
+| 07–09 | 篮球场 | 恶毒教练；Jay 赶走教练；Phil 当助理 |
+| 10–12 | 球场 / 商场 | Phil 被贬；Gloria 加油伤 Manny；海莉躲妈 |
+| 13–16 | Charlie 海滩别墅 | 面试社交；Cam 紧张；Charlie 邀 Mitch 入职 |
+| 17–19 | 商场 / 球场 | Gloria 买鞋；Cam 劝 Mitch 接 job；Jay–Phil 争教练 |
+| 20–22 | Charlie 家外 / 球场 | 被困门外；撞坏旋转台；Phil 接手终场战术 |
+| 23–24 | 球场 / 商场 · 收尾 | 曼尼首投；海莉骗 40 块；Cam 带 Lily 买裙 |
+
+----------------------
+【场景 01 / 24】Jay 家 · 后院烧烤
+★ 剧情：Jay 嫌 Phil 毁牛排；Luke/Manny 要去练上篮。
+★ 人物：Jay, Gloria, Phil, Luke, Manny
+★ 时间线：傍晚
 ----------------------
 - Steaks will be ready in five minutes.
  牛排五分钟后就好 
@@ -51,6 +72,12 @@ S01E20
 - A coach is supposed to ride the kids hard.
  教练本就该严格要求他们 
 
+----------------------
+【场景 02 / 24】Jay 家
+★ 剧情：父母抱怨教练辱骂孩子；Jay 要「左将军右元帅」。
+★ 人物：Phil, Claire, Gloria, Jay
+★ 时间线：同日
+----------------------
 -  Phil, help me out here. - He's a mean man.
  菲尔  你说句话  -那家伙过分了 
 
@@ -72,6 +99,12 @@ S01E20
 - or I'm gonna introduce him to the Captain and Tennille.
  否则就别怪左将军和右元帅出手了 
 
+----------------------
+【场景 03 / 24】Mitch & Cam 家 · 到访
+★ 剧情：Mitch 贺卡店兼职；Jay 介绍 Charlie Bingham 工作机会。
+★ 人物：Mitchell, Cameron, Jay, Gloria
+★ 时间线：同日
+----------------------
 - Sorry we're late. I was at work.
  不好意思  迟了  我工作缠身 
 
@@ -93,6 +126,12 @@ S01E20
 - we're saving a fortune.
  我们可省下了一笔 
 
+----------------------
+【场景 04 / 24】Mitch & Cam 家
+★ 剧情：贺卡「省钱数学」；Mitch 拒绝立刻求职。
+★ 人物：Mitchell, Cameron, Jay
+★ 时间线：同日
+----------------------
 - How is spending a ton of money on greeting cards saving us a fortune?
  花一大笔钱去买贺卡  哪里算省钱了 
 
@@ -198,6 +237,12 @@ S01E20
 - I have cargo pants and I don't work at the docks.
  我有好几件工装裤  我也没在码头上班呀 
 
+----------------------
+【场景 05 / 24】Mitch & Cam 家 · 私下
+★ 剧情：Cam Google Charlie；Mitch 享受休假却快疯；Cam 想他上班。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - God, I feel like such a slacker.
  天啊  真是让我自惭形秽 
 
@@ -285,6 +330,12 @@ S01E20
 - so I can go back to being a stay-at-home dad/trophy wife!
  这样我又能做回居家奶爸兼贤妻了 
 
+----------------------
+【场景 06 / 24】篮球场 · 训练
+★ 剧情：教练辱骂「乌龟」；Gloria 想烧了他。
+★ 人物：Coach, Luke, Manny, Gloria, Claire
+★ 时间线：训练日
+----------------------
 - Guys, come on!
  小子  加油 
 
@@ -399,6 +450,12 @@ S01E20
 -  Okay.  - Wait for me.
  好  -等等我 
 
+----------------------
+【场景 07 / 24】篮球场 · 对峙
+★ 剧情：Phil 劝教练少吼；Jay 脱鞋威胁；教练撂挑子。
+★ 人物：Phil, Jay, Coach
+★ 时间线：训练日
+----------------------
 -  Hey, Coach. - Yeah?
  教练  -什么 
 
@@ -453,6 +510,12 @@ S01E20
 - It's the Captain and
  是左将军和 
 
+----------------------
+【场景 08 / 24】篮球场
+★ 剧情：Jay 谎称教练病危；自封主教练；Phil 只能当助理带水。
+★ 人物：Jay, Phil, boys
+★ 时间线：赛前
+----------------------
 - Okay. So, your old coach had to leave for a little while.
  听着  你们之前的教练要离开一段时间 
 
@@ -507,6 +570,12 @@ S01E20
 - I want you to hit 'em, and I want you to hit 'em hard.
  我要你们把他们打败  打得落花流水 
 
+----------------------
+【场景 09 / 24】篮球场 · Phil 旁白
+★ 剧情：Phil 旁白：岳父难搞；他会走钢丝。
+★ 人物：Phil
+★ 时间线：赛前
+----------------------
 - Father-in-laws are tough,
  跟岳父相处真不易 
 
@@ -528,6 +597,12 @@ S01E20
 - All right, when you back into- 
  好的  当你进入 
 
+----------------------
+【场景 10 / 24】邓菲家 / 球场
+★ 剧情：Claire 去买 Alex 衣服；Phil 因 Jay 教过橄榄球只能辅助。
+★ 人物：Claire, Phil
+★ 时间线：赛前
+----------------------
 - Honey, I'm gonna take off.
  亲爱的  我要走了 
 
@@ -591,6 +666,12 @@ S01E20
 -  We need to talk.  - Okay. What happened?
  我们得谈谈  -好  怎么了 
 
+----------------------
+【场景 11 / 24】篮球场 · 场边
+★ 剧情：Manny 嫌 Gloria 加油让他被嘲笑；请她下一场别来。
+★ 人物：Manny, Gloria
+★ 时间线：比赛中场
+----------------------
 - Mom, I love you,
  妈  我爱你 
 
@@ -615,6 +696,12 @@ S01E20
 - I know.
  我就知道 
 
+----------------------
+【场景 12 / 24】商场
+★ 剧情：Claire 遇 Lily；海莉躲同学被 Claire 追上。
+★ 人物：Claire, Haley, Mitchell, Cameron, Lily
+★ 时间线：平行
+----------------------
 -  I hate our house.  - I know.
  我们家简直就像贫民窟  -就是 
 
@@ -630,6 +717,12 @@ S01E20
 - Just- Don't break it.
  别  别弄坏了 
 
+----------------------
+【场景 13 / 24】Charlie 海滩别墅 · 抵达
+★ 剧情：转盘停车；Cam 穿橡胶衣像 Batman；Margarita 派对。
+★ 人物：Mitchell, Cameron, Charlie, Jenny, Jolie
+★ 时间线：下午
+----------------------
 -  Hey, Mitchell!  - Yes.
  米奇尔  -是的 
 
@@ -711,6 +804,12 @@ S01E20
 -  I'm kidding. We're gay.  - Stop talking.
  开玩笑啦  我们是同志  -别多话 
 
+----------------------
+【场景 14 / 24】Charlie 别墅 · 社交
+★ 剧情：Cam 紧张说错「生意伙伴」；Charlie 夸 Mitch 履历。
+★ 人物：Mitchell, Cameron, Charlie, guests
+★ 时间线：面试派对
+----------------------
 - When things are relaxed, I'm great in social situations.
  没压力的时候  我是社交场上的好手 
 
@@ -744,6 +843,12 @@ S01E20
 - Oh. All right. 
  好吧 
 
+----------------------
+【场景 15 / 24】商场 · 青少年区
+★ 剧情：Claire 见同学；旁白：女儿进入尴尬青春期。
+★ 人物：Claire, Haley, Jenna
+★ 时间线：平行
+----------------------
 - Oh, no. It's them.
  不好  是她们 
 
@@ -939,6 +1044,12 @@ S01E20
 - So, tell me this.
  跟我说说 
 
+----------------------
+【场景 16 / 24】Charlie 别墅
+★ 剧情：Charlie 谈太阳能监管；邀 Mitch 当公益法律顾问。
+★ 人物：Charlie, Mitchell, Cameron
+★ 时间线：面试
+----------------------
 - What are the regulatory challenges of a solar farm?
  太阳能电厂会有哪方面的阻力 
 
@@ -1008,6 +1119,12 @@ S01E20
 - Hey, Jenny! The beard is on!
  嘿  珍妮  胡子我留定了 
 
+----------------------
+【场景 17 / 24】商场
+★ 剧情：Gloria 给 Lily 狂买裙鞋；Alex 要钱；Manny 被拒观赛。
+★ 人物：Gloria, Claire, Alex, Manny
+★ 时间线：平行
+----------------------
 - Okay, Lily, it's time to buy you beautiful shoes.
  莉莉  该给你买美美的鞋子了 
 
@@ -1107,6 +1224,12 @@ S01E20
 - Come here. You- You
  到这来  你  你 
 
+----------------------
+【场景 18 / 24】Charlie 别墅外
+★ 剧情：Cam 劝 Mitch 接工作；两人被困门外；乱按开门撞坏旋转台。
+★ 人物：Mitchell, Cameron
+★ 时间线：傍晚
+----------------------
 - Cam- Cam, you have got to relax.
  小卡  小卡  你得放轻松 
 
@@ -1212,6 +1335,12 @@ S01E20
 -  Kinda think you have to now.  - Yeah.
  不然你哪来钱修车  -对 
 
+----------------------
+【场景 19 / 24】篮球场 · 终场
+★ 剧情：队友互抢球；Phil 崩溃请 Jay 接手。
+★ 人物：Jay, Phil, boys
+★ 时间线：比赛末段
+----------------------
 - Guys, you're on the same team!
  小伙子  你们一个队的 
 
@@ -1236,6 +1365,12 @@ S01E20
 - You gotta coach. I can't take it.
  得你来教  我干不了 
 
+----------------------
+【场景 20 / 24】篮球场 · Jay–Phil
+★ 剧情：父子教练互怼；Jay 道歉并夸 Phil 牛排；Phil 设计绝杀。
+★ 人物：Jay, Phil
+★ 时间线：暂停
+----------------------
 -  You talkin' to me?   - Yeah, I'm talkin' to you.
  你是在跟我说吗  -是  是跟你说 
 
@@ -1299,6 +1434,12 @@ S01E20
 - No, no, no, no. I'm good. I'm good.
  不不不不  我来  我来 
 
+----------------------
+【场景 21 / 24】篮球场 · 最后一攻
+★ 剧情：Phil 战术：传给整季未投篮的 Manny；「给孩子翅膀」旁白。
+★ 人物：Phil, Jay, Luke, Manny
+★ 时间线：终场
+----------------------
 - Hey, hey. Guys. Who wants to go out like a champ?
  队员们  想不想以赢家的身份走出去 
 
@@ -1368,6 +1509,12 @@ S01E20
 - Okay, I support you.
  没事  我相信你 
 
+----------------------
+【场景 22 / 24】商场 · 停车场
+★ 剧情：海莉迟到 20 分钟撒娇要钱；Claire 给 40 块。
+★ 人物：Haley, Claire
+★ 时间线：赛后
+----------------------
 - Mom.
  妈 
 
@@ -1437,6 +1584,12 @@ S01E20
 - Teach her to screw with me.
  看你还敢耍我 
 
+----------------------
+【场景 23 / 24】邓菲家 · 夜
+★ 剧情：Manny 讲述 pick-and-roll 几乎进球；Jay 带 Lily 吃纸杯蛋糕。
+★ 人物：Manny, Jay, Gloria, Cam
+★ 时间线：当晚
+----------------------
 - I set a pick and then rolled towards the basket.
  我阻断了防守  然后跑到球篮下 
 
@@ -1461,6 +1614,12 @@ S01E20
 - That girl's so sweet.
  那小姑娘萌翻了 
 
+----------------------
+【场景 24 / 24】Jay 家 · tag
+★ 剧情：Manny 邀 Gloria 看下周六比赛；她婉拒并建议耳环。
+★ 人物：Manny, Gloria
+★ 时间线：tag
+----------------------
 - I have a game next Saturday. You could come.
  我下周六有比赛  你来看吧 
 
@@ -1478,4 +1637,3 @@ S01E20
 
 - I usually go with earrings.
  我一般用耳环哄她开心 
-

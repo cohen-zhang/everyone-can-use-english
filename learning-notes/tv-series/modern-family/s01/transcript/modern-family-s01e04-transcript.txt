@@ -2,6 +2,26 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E04 
+
+## 场景分段索引（S01E04 · 婚礼「那件事」/ 迪迪道歉 / 演唱会）
+
+字幕正文按镜头插入 `【场景 xx / 25】`；大量闪回「The incident」+ 周日聚餐 Dede 突袭。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–02 | Jay 家 / 邓菲家 | 曼尼睡衣派对；孩子们拍手歌 |
+| 03–04 | Mitch & Cam / 闪回 | 迪迪突访；婚礼闹剧回溯 |
+| 05–08 | 邓菲家 / Jay 家 | 海莉演唱会之争；曼尼被恶作剧 |
+| 09–11 | Mitch & Cam / 邓菲家 | 迪迪求原谅与 Chas；菲尔「友父」 |
+| 12–17 | 各家走访 | 米奇传话；瑞奇往事；杰曼尼纵火 |
+| 18–21 | 邓菲家 · 晚宴 | 迪兰上门；迪迪现身；假和解 |
+| 22–25 | 邓菲家 · 高潮与 tag | 歌洛莉亚发飙；迪兰情歌；演唱会泡汤 |
+
+----------------------
+【场景 01 / 25】Jay 家 · 门厅
+★ 剧情：歌洛莉亚担心曼尼睡衣派对；杰不以为意。
+★ 人物：Jay, Gloria
+★ 时间线：当日早晨
 ----------------------
 - Jay, I'm home.
  杰  我回来了 
@@ -30,6 +50,12 @@ S01E04
 - I want you to use it on me.
  你直接一枪打死我吧 
 
+----------------------
+【场景 02 / 25】邓菲家 · 客厅
+★ 剧情：克莱尔女儿们玩拍手歌；突然和好令人不安。
+★ 人物：Claire, Haley, Alex
+★ 时间线：平行线
+----------------------
 - Miss Mary Mack, Mack, Mack.
  玛丽·马克小姐  马克马克 
 
@@ -69,6 +95,12 @@ S01E04
 - I'm gonna go check on Lily.
  我去看看莉莉 
 
+----------------------
+【场景 03 / 25】Mitch & Cam 家
+★ 剧情：迪迪突然到访看莉莉；太极拽腿。
+★ 人物：Mitchell, Cameron, Dede, Lily
+★ 时间线：同日
+----------------------
 -  Surprise! - Mom!
  惊喜哦  -妈 
 
@@ -186,6 +218,12 @@ S01E04
 - Oh, boy.
  不堪回首啊 
 
+----------------------
+【场景 04 / 25】闪回 · Jay/Gloria 婚礼
+★ 剧情：迪迪祝酒失控；「The incident」全貌。
+★ 人物：Dede, Jay, Gloria, Mitchell, Claire
+★ 时间线：婚礼闪回
+----------------------
 - I would like to congratulate Jay and the lovely Gloria.
  我想恭喜杰和可爱的歌洛莉亚 
 
@@ -330,6 +368,12 @@ S01E04
 - It's too soon, I guess.
  可能有点太快了 
 
+----------------------
+【场景 05 / 25】邓菲家 · 厨房
+★ 剧情：海莉求去演唱会过夜；父母坚决反对。
+★ 人物：Claire, Phil, Haley
+★ 时间线：闪回框架内当日
+----------------------
 - Everybody is going to be there, Mom!
  妈  所有人都会去的 
 
@@ -414,6 +458,12 @@ S01E04
 - What's wrong with Spencer's arm?
  斯宾塞手里带什么家伙了 
 
+----------------------
+【场景 06 / 25】Jay 家 · 门厅
+★ 剧情：曼尼睡衣派对归来；自称第一个睡着。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：翌日早晨
+----------------------
 - Mom, I'm home!
  妈  我回来了 
 
@@ -429,6 +479,12 @@ S01E04
 - I was the first one to fall asleep.
  我是第一个睡着的 
 
+----------------------
+【场景 07 / 25】Jay 家 · 浴室
+★ 剧情：曼尼脸上被画胡；杰教「以牙还牙」。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：紧接上一场景
+----------------------
 - What's on your face?
  你脸上是什么 
 
@@ -468,12 +524,24 @@ S01E04
 - What do you think?
  你想什么呢 
 
+----------------------
+【场景 08 / 25】Jay 家 · 客厅
+★ 剧情：杰鼓励曼尼报复恶作剧。
+★ 人物：Jay, Manny
+★ 时间线：同日
+----------------------
 - Revenge.
  报仇 
 
 - I like it.
  我还挺喜欢的 
 
+----------------------
+【场景 09 / 25】Mitch & Cam 家
+★ 剧情：迪迪想忘掉 incident；米奇建议压抑。
+★ 人物：Mitchell, Cameron, Dede
+★ 时间线：同日
+----------------------
 - Well, Mom, instead of dredging up the whole incident,
  妈妈  也许我们不该旧事重提 
 
@@ -489,6 +557,12 @@ S01E04
 - I'm about to embark on a new journey.
  我的人生即将开始新的旅程了 
 
+----------------------
+【场景 10 / 25】Mitch & Cam 家
+★ 剧情：迪迪结识 Chas；要搬去法语加拿大。
+★ 人物：Dede, Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - I met a man.
  我认识了个男人 
 
@@ -618,6 +692,12 @@ S01E04
 - All like East Coast-West Coast. You feelin' me?
  好比是水火不容  你明白我的意思吗 
 
+----------------------
+【场景 11 / 25】邓菲家 · 海莉房间
+★ 剧情：菲尔「Peerenting」假装马库斯谈 Dylan。
+★ 人物：Phil, Haley
+★ 时间线：同日
+----------------------
 - Act like a parent, talk like a peer.
  父亲般的威严  朋友般的关爱 
 
@@ -705,6 +785,12 @@ S01E04
 - Just talking to some dork I met in a malt shop.
  在和茶餐厅里碰到的一个傻子聊天呢 
 
+----------------------
+【场景 12 / 25】邓菲家 · 门厅
+★ 剧情：米奇来访传话：迪迪想道歉。
+★ 人物：Mitchell, Claire
+★ 时间线：同日
+----------------------
 - Hey, Mitchell. What's up?
  你好  米奇尔  有事吗 
 
@@ -720,6 +806,12 @@ S01E04
 - Oh, God.
  天呐 
 
+----------------------
+【场景 13 / 25】邓菲家 · 厨房
+★ 剧情：米奇转达迪迪歉意；克莱尔讽刺伤米奇。
+★ 人物：Mitchell, Claire, Dede(电话/旁白)
+★ 时间线：同日
+----------------------
 - Claire?
  克莱尔 
 
@@ -822,6 +914,12 @@ S01E04
 -  We use our hands. - Oh, my Lord.
  是用手来做的  -老天啊 
 
+----------------------
+【场景 14 / 25】邓菲家 · 客厅
+★ 剧情：外婆讲克莱尔 teenage 男友瑞奇；逼克莱尔请 Dylan 吃饭。
+★ 人物：Dede, Haley, Claire
+★ 时间线：同日
+----------------------
 - Hey, Nanna.
  你好  外婆 
 
@@ -984,6 +1082,12 @@ S01E04
 -  I did not say "Daddy." - You said "Daddy."
  我没叫"爹地"  -你叫了"爹地" 
 
+----------------------
+【场景 15 / 25】Jay 家
+★ 剧情：米奇找杰谈迪迪赴晚宴；歌洛莉亚外出处理曼尼。
+★ 人物：Mitchell, Jay
+★ 时间线：同日
+----------------------
 - Hey, Dad.
  嗨  老爸 
 
@@ -999,6 +1103,12 @@ S01E04
 - She's out dealing with a Manny situation.
  她出去解决曼尼的事儿了 
 
+----------------------
+【场景 16 / 25】Jay 家 · 车道
+★ 剧情：曼尼按杰教唆烧同学自行车；杰背锅。
+★ 人物：Jay, Mitchell, Manny(提及)
+★ 时间线：同日
+----------------------
 - He set a kid's bike on fire.
  他把一个小孩的单车给烧了 
 
@@ -1038,6 +1148,12 @@ S01E04
 - and she wants to come to dinner tonight to apologize to everyone.
  所以她想今晚一起去吃饭  向大家道歉 
 
+----------------------
+【场景 17 / 25】Jay 家 · 客厅
+★ 剧情：杰要米奇瞒着歌洛莉亚请迪迪；「跑腿小子」。
+★ 人物：Jay, Mitchell
+★ 时间线：同日
+----------------------
 - Still her little errand boy, I see.
  你还是她的狗腿子啊 
 
@@ -1110,6 +1226,12 @@ S01E04
 - I can't hear you because you're back home, and I'm taking a nap.
  我听不见你  因为你在家里  而我在打瞌睡 
 
+----------------------
+【场景 18 / 25】邓菲家 · 晚宴
+★ 剧情：迪兰赴约；邓菲家周日餐。
+★ 人物：Phil, Haley, Dylan, Claire
+★ 时间线：傍晚
+----------------------
 -  D-Money! There he is. - Hey.
  小迪迪  你可算来啦  -你好 
 
@@ -1161,6 +1283,12 @@ S01E04
 - Oh, that's gonna be Dad and Gloria.
  肯定是爸爸和歌洛莉亚来了 
 
+----------------------
+【场景 19 / 25】邓菲家 · 门厅
+★ 剧情：米奇紧张；歌洛莉亚曼尼抵达。
+★ 人物：Mitchell, Cameron, Jay, Gloria, Manny, Phil
+★ 时间线：晚宴前
+----------------------
 - Oh, Mitchell.
  米奇 
 
@@ -1188,6 +1316,12 @@ S01E04
 - Oh, boy.
  老天 
 
+----------------------
+【场景 20 / 25】邓菲家 · 客厅
+★ 剧情：迪迪不请自来；歌洛莉亚震怒。
+★ 人物：Dede, Jay, Gloria, Mitchell, Claire, Phil
+★ 时间线：晚宴
+----------------------
 - Dede.
  迪迪 
 
@@ -1281,9 +1415,21 @@ S01E04
 - It's not a good color on you.
  你真心不适合王婆自夸 
 
+----------------------
+【场景 21 / 25】邓菲家 · 客厅
+★ 剧情：迪迪道歉；歌洛莉亚「原谅」后情绪崩溃。
+★ 人物：Dede, Gloria, Jay, Mitchell
+★ 时间线：晚宴高潮前
+----------------------
 - I forgive you.
  我原谅你 
 
+----------------------
+【场景 22 / 25】邓菲家 · 客厅
+★ 剧情：歌洛莉亚掐迪迪；全家拉扯。
+★ 人物：Gloria, Dede, Jay, Mitchell, Phil
+★ 时间线：晚宴高潮
+----------------------
 - I am not prepared for this.
  我没料到会这样 
 
@@ -1359,6 +1505,12 @@ S01E04
 - You're reaching out, trying to hold on to something awesome.
  你们都极力想护住些美好的东西 
 
+----------------------
+【场景 23 / 25】邓菲家 · 客厅
+★ 剧情：迪兰谈大家庭；众人为海莉说情。
+★ 人物：Dylan, Phil, Claire, Haley, Jay
+★ 时间线：晚宴后段
+----------------------
 - Um, maybe- maybe you shouldn't...
  这个  或许你不该... 
 
@@ -1440,6 +1592,12 @@ S01E04
 -  Lovely title, Dylan. - Thanks.
  歌名真有爱  -谢谢 
 
+----------------------
+【场景 24 / 25】邓菲家 · 客厅
+★ 剧情：迪兰弹《In the Moonlight》；露骨歌词。
+★ 人物：Dylan, 全家
+★ 时间线：晚宴尾声
+----------------------
 - *The stars are falling from the sky*
  *星星从天边划过* 
 
@@ -1482,6 +1640,12 @@ S01E04
 - *On the inside*
  *从你身体里* 
 
+----------------------
+【场景 25 / 25】邓菲家 · tag
+★ 剧情：演唱会彻底没戏；父母震怒。
+★ 人物：Claire, Phil, Haley
+★ 时间线：片尾
+----------------------
 - She's so not going.
  她不能跟他去 
 
@@ -1529,4 +1693,3 @@ S01E04
 
 - That was good.
  唱得挺好的 
-

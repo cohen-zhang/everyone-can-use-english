@@ -1,0 +1,217 @@
+# Scene markers for modern-family-s01e06-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E06
+episode_arc: 开学第一天 / 菲尔与克莱尔赛跑
+timeline_note: 多线平行（邓菲晨间、Jay/歌洛莉亚、Mitch/Cam 育儿、赛跑 tag）
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 · 清晨
+    summary: 午餐、卢克日记、晨间旁白
+  - scenes: "04"
+    place: Jay 家
+    summary: 曼尼五年级与哥伦比亚斗篷
+  - scenes: "05"
+    place: Mitch & Cam 家
+    summary: 幼儿防护与莉莉偶像写真
+  - scenes: "06–07"
+    place: 邓菲家 / 车内
+    summary: 菲尔裸奔、海莉学车灾难
+  - scenes: "08"
+    place: Jay 家 / 车内
+    summary: Jay 打击曼尼自信；歌洛莉亚反驳
+  - scenes: "09–11"
+    place: Mitch & Cam 家
+    summary: 跳舞撞头、狗狗笑话、致电克莱尔
+  - scenes: "12–15"
+    place: Jay 家 / 邓菲家
+    summary: 二人世界；Jay 陪菲尔；赛跑赌约
+  - scenes: "16–18"
+    place: Jay 家 → 学校
+    summary: 斗篷风波；米奇尔回忆；送斗篷到校
+  - scenes: "19"
+    place: 邓菲家
+    summary: 菲尔与克莱尔赛跑约定
+  - scenes: "20"
+    place: 医院
+    summary: 缪拉医生检查撞头
+  - scenes: "21–23"
+    place: 学校 / 车内
+    summary: 送斗篷；排箫；锁婴儿在车里
+  - scenes: "24–27"
+    place: 邓菲家 / 社区
+    summary: 孩子回家赛跑；紧急开锁；克莱尔放水
+  - scenes: "28"
+    place: 车内 · tag
+    summary: 海莉遇警察；菲尔怂恿逃跑
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 厨房
+    plot: 开学晨：装午餐、催孩子出门。
+    characters: Claire, Luke, Alex
+    timeline: 开学第一天早晨
+    anchor: Okay, your brother's lunch is packed.
+  - id: "02"
+    place: 邓菲家 · 客厅
+    plot: 卢克暑假日记几乎空白；全家帮忙。
+    characters: Luke, Phil, Claire, Alex
+    timeline: 同日早晨
+    anchor: I need help.
+  - id: "03"
+    place: 邓菲家 · 旁白
+    plot: 菲尔旁白：送出门的疯狂早晨。
+    characters: Phil, Claire
+    timeline: 同日早晨
+    anchor: Getting everybody out of the house in the morning
+  - id: "04"
+    place: Jay 家 · 门口
+    plot: 曼尼穿哥伦比亚传统斗篷上学；Jay 调侃。
+    characters: Jay, Gloria, Manny
+    timeline: 开学早晨（平行线）
+    anchor: I can't believe my little boy is going into the fifth grade.
+  - id: "05"
+    place: Mitch & Cam 家
+    plot: 卡姆给莉莉拍流行偶像写真；米奇尔无奈。
+    characters: Mitchell, Cameron, Lily
+    timeline: 开学早晨（平行线）
+    anchor: Are you still baby-proofing?
+  - id: "06"
+    place: 邓菲家 · 门口
+    plot: 菲尔没穿裤子；海莉驾校教练来接。
+    characters: Phil, Claire, Haley
+    timeline: 送孩子出门
+    anchor: Phil, put on some pants.
+  - id: "07"
+    place: 车内 · 海莉练车
+    plot: 并道、导航失灵、冲进公园。
+    characters: Phil, Claire, Haley
+    timeline: 送学路上
+    anchor: Merge. Merge! Merge! Merge! Merge!
+  - id: "08"
+    place: 车内 → Jay 家
+    plot: Jay「打击」曼尼自信；歌洛莉亚教穿斗篷要有自信。
+    characters: Jay, Gloria, Manny
+    timeline: 送曼尼上学后
+    anchor: The last thing Manny needs on his first day of school...
+  - id: "09"
+    place: Mitch & Cam 家 · 客厅
+    plot: 卡姆逼米奇尔放松跳舞；莉莉撞头。
+    characters: Mitchell, Cameron, Lily
+    timeline: 上午
+    anchor: Ever since we brought Lily home, you've been tense.
+  - id: "10"
+    place: Mitch & Cam 家
+    plot: 用「狗狗」笑话测莉莉；米奇尔拒打给克莱尔。
+    characters: Mitchell, Cameron
+    timeline: 撞头后
+    anchor: Where's... uh... where's Doggy?
+  - id: "11"
+    place: 电话 · 克莱尔
+    plot: 克莱尔安慰：撞头常有；米奇尔仍 panic。
+    characters: Mitchell, Cameron, Claire
+    timeline: 上午
+    anchor: Hello?
+  - id: "12"
+    place: Jay 家
+    plot: Jay 送完曼尼；提议俱乐部、按摩过二人世界。
+    characters: Jay, Gloria
+    timeline: 上午
+    anchor: Gloria? - I'm here.
+  - id: "13"
+    place: 邓菲家 · 客厅
+    plot: Jay 突然来访陪读；改期 open house。
+    characters: Jay, Phil
+    timeline: 上午
+    anchor: What ya reading there? A book?
+  - id: "14"
+    place: 邓菲家 · 旁白
+    plot: 菲尔旁白「用心聆听」；克莱尔想安静一天。
+    characters: Phil, Claire
+    timeline: 上午
+    anchor: Now, you have to understand,
+  - id: "15"
+    place: 邓菲家 · 客厅
+    plot: Jay 坚持一起跑步；菲尔赌谁更快。
+    characters: Phil, Jay, Claire
+    timeline: 上午
+    anchor: Great. We'll run together.
+  - id: "16"
+    place: Jay 家 · 车库
+    plot: 发现曼尼斗篷；Jay 讲笑话惹怒歌洛莉亚。
+    characters: Jay, Gloria
+    timeline: 中午前
+    anchor: Jay, what is this?
+  - id: "17"
+    place: Jay 家 · 回忆
+    plot: 米奇尔旁白：围巾事件与保护曼尼天性之争。
+    characters: Jay, Gloria, Mitchell(VO)
+    timeline: 同上
+    anchor: My dad has this perception that I was very flamboyant as a kid,
+  - id: "18"
+    place: 车内 → 学校
+    plot: 夫妻送斗篷到校支持曼尼。
+    characters: Jay, Gloria
+    timeline: 中午
+    anchor: We're taking this poncho to Manny at school.
+  - id: "19"
+    place: 邓菲家 · 楼梯
+    plot: 菲尔与克莱尔赛跑赌约；下午比。
+    characters: Phil, Claire
+    timeline: 下午前
+    anchor: Phil, let it go. I'm faster than you.
+  - id: "20"
+    place: 医院 · 候诊
+    plot: 缪拉医生检查；假发与亚洲文化尬聊。
+    characters: Mitchell, Cameron, Dr. Miura, Lily
+    timeline: 下午
+    anchor: Hi, I'm Dr. Miura. I'm on call today.
+  - id: "21"
+    place: 学校 · 走廊
+    plot: 找曼尼；哥伦比亚认尸文化；送斗篷。
+    characters: Jay, Gloria, Manny
+    timeline: 下午
+    anchor: I don't see any ponchos,
+  - id: "22"
+    place: 学校 · 办公室外
+    plot: 曼尼掏出排箫；Jay 踩碎；夫妻和好。
+    characters: Jay, Gloria, Manny, Mitchell, Cameron
+    timeline: 下午
+    anchor: Is something wrong? Who's died?
+  - id: "23"
+    place: 医院 / 停车场
+    plot: 米奇尔自我怀疑；钥匙锁 Lily 在车里。
+    characters: Mitchell, Cameron, Lily
+    timeline: 离开医院
+    anchor: Did we just lock our baby in the car?
+  - id: "24"
+    place: 邓菲家 · 车道
+    plot: 孩子放学回家；菲尔与克莱尔赛跑开始。
+    characters: Phil, Claire, Luke, Alex, Haley
+    timeline: 下午
+    anchor: There they are.
+  - id: "25"
+    place: 停车场 · 紧急
+    plot: 911 远程开锁失败；路人围观。
+    characters: Mitchell, Cameron, Lily
+    timeline: 与赛跑平行
+    anchor: Emergency assistance. This is Trina.
+  - id: "26"
+    place: 社区 · 赛跑
+    plot: 菲尔与克莱尔 mailbox 往返赛。
+    characters: Phil, Claire
+    timeline: 下午
+    anchor: I run five miles a day.
+  - id: "27"
+    place: 社区 · 旁白
+    plot: 克莱尔旁白：故意输掉让菲尔赢。
+    characters: Claire, Phil
+    timeline: 赛跑后
+    anchor: Did I lose the race to make him feel better?
+  - id: "28"
+    place: 车内 · tag
+    plot: 海莉被警察拦；菲尔怂恿别停车。
+    characters: Haley, Phil, Claire
+    timeline: 片尾
+    anchor: What are you doing?

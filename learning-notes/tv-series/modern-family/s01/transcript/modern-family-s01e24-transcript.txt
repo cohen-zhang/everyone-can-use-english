@@ -2,6 +2,26 @@ Obsidian 互链（生活场景句 · 笔记）：[[learning-notes/tv-series/mode
 本目录索引：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]
 
 S01E24 
+
+## 场景分段索引（S01E24 · 全家福 / 赛季 finale）
+
+字幕正文按镜头插入 `【场景 xx / 22】`；多线同日（湖人赛、鸽子、肖像、Jay 理发故事）。
+
+| 场景 | 地点 | 剧情要点 |
+| ---: | --- | --- |
+| 01–04 | 邓菲家 · 晨 | Claire 叮嘱肖像；Jay 内裤；Luke 采访 Jay |
+| 05–07 | 邓菲家 / 湖人馆 | Cam 婚礼歌单；Claire 修台阶；斯台普斯偷藏零食 |
+| 08–10 | 邓菲家 / 球馆 | 鸽子入侵；kiss cam；Jay 理发 60 年代故事 |
+| 11–13 | 邓菲家 | Cam Ave Maria 取奶；肖像地点争论；Claire 绑 Phil |
+| 14–16 | 邓菲家 · 肖像日 | 家人陆续回家；油漆家具洒水器；Jay 和事佬 |
+| 17–19 | 邓菲家 · 后院 | 泥巴大战；摄影师抓拍；Jay 旁白感恩 |
+| 20–22 | 邓菲家 · tag | Luke 选 Elvis 故事；挂照片；Claire 仍挑相框 |
+
+----------------------
+【场景 01 / 22】邓菲家 · 清晨
+★ 剧情：Claire 叮嘱 Phil 球赛后赶肖像；Phil 藏零食哲学 rant。
+★ 人物：Claire, Phil
+★ 时间线：肖像日
 ----------------------
 -  Oh, hey, honey. Have a great time at the game. - Thanks.
  亲爱的  好好享受比赛哦  -谢谢 
@@ -105,6 +125,12 @@ S01E24
 -  I love you. - Bye.
  我爱你  -拜拜 
 
+----------------------
+【场景 02 / 22】Jay 家 · 晨
+★ 剧情：Jay 找不到好内裤；maid 混 Manny 的；Gloria 要 Jay 去说。
+★ 人物：Jay, Gloria, Manny
+★ 时间线：同日
+----------------------
 - Where's my good underwear?
  我的好内裤哪去了 
 
@@ -147,6 +173,12 @@ S01E24
 -  Where's Luke? - I'm going instead.
  卢克呢  -我代替他去 
 
+----------------------
+【场景 03 / 22】Jay 家
+★ 剧情：Gloria 带 Manny 去看湖人；Luke 改采访 Jay 60 年代。
+★ 人物：Gloria, Jay, Manny, Luke
+★ 时间线：同日
+----------------------
 - Luke suddenly remembered a school project due tomorrow.
  卢克有个家庭作业明天就要交了 
 
@@ -201,6 +233,12 @@ S01E24
 - Oh, so delicious. Yes.
  好吃  来 
 
+----------------------
+【场景 04 / 22】Mitch & Cam 家
+★ 剧情：Cam 周末婚礼献唱；Mitch 理解他不善闲聊。
+★ 人物：Mitchell, Cameron
+★ 时间线：同日
+----------------------
 - Hey, you're okay with me not going with you today, right?
  今天不和你去没关系吧 
 
@@ -249,6 +287,12 @@ S01E24
 - I feel tension.
  我看他是压力巨大 
 
+----------------------
+【场景 05 / 22】斯台普斯中心
+★ 剧情：Manny 问 Kobe；湖人入场；Gloria 发现 Phil 藏零食。
+★ 人物：Gloria, Manny, Jay, Phil
+★ 时间线：比赛日
+----------------------
 - Kobe! Kobe, over here!
  科比  科比  这边 
 
@@ -282,6 +326,12 @@ S01E24
 -  What's wrong? - That broken step.
  怎么了  -楼梯坏了 
 
+----------------------
+【场景 06 / 22】邓菲家
+★ 剧情：Claire 要全家白裤楼梯肖像；Haley 不解；Claire 要定格此刻。
+★ 人物：Claire, Haley, Alex
+★ 时间线：并行
+----------------------
 - It's gonna ruin our whole family portrait.
  全家福会因此被毁的 
 
@@ -378,6 +428,12 @@ S01E24
 - but this family's still the most important thing
  但是这个家庭对我来说很重 
 
+----------------------
+【场景 07 / 22】邓菲家 · 楼梯
+★ 剧情：Claire 亲自修 broken step；越修越糟。
+★ 人物：Claire, Haley
+★ 时间线：并行
+----------------------
 - Screw it.
  管它呢 
 
@@ -435,6 +491,12 @@ S01E24
 - I'm gonna call your dad, and he's gonna tell me how to fix this.
  我打电话给你爸  问他怎么修 
 
+----------------------
+【场景 08 / 22】斯台普斯 · 包厢
+★ 剧情：电视看到 Phil 在 Kobe 身后；Claire 电话 Phil  voicemail。
+★ 人物：Gloria, Manny, Jay, Claire (phone)
+★ 时间线：比赛中
+----------------------
 -  Oh, my God! It's Dad. - Where?
  天啊  是老爸  -哪儿 
 
@@ -483,6 +545,12 @@ S01E24
 - Hello?
  喂 
 
+----------------------
+【场景 09 / 22】Mitch & Cam 家
+★ 剧情：鸽子闯入；Cam 挂电话去看球；Mitch 独自对峙鸽。
+★ 人物：Mitchell, Cameron
+★ 时间线：并行
+----------------------
 - There is a pigeon in our house.
  家里进来一只鸽子 
 
@@ -531,6 +599,12 @@ S01E24
 - As long as I don't- Oh, God!
  只要我不怎么  我的个娘亲 
 
+----------------------
+【场景 10 / 22】斯台普斯 · kiss cam
+★ 剧情：Gloria 误解 kiss cam 亲了 Phil；Jay 拒接 Claire 电话。
+★ 人物：Gloria, Jay, Phil, Manny
+★ 时间线：比赛中
+----------------------
 - Cool. The kiss cam.
  酷  接吻镜头来了 
 
@@ -600,6 +674,12 @@ S01E24
 - should be their own business.
  是他们的自由 
 
+----------------------
+【场景 11 / 22】Jay 家 · 采访
+★ 剧情：Luke 嫌 Jay 理发店故事无聊；Jay 升级成给 MLK 理发。
+★ 人物：Jay, Luke
+★ 时间线：比赛间隙
+----------------------
 - So in '66, I worked in my grandfather's office supply business
  66年的时候我在我爷爷的办公品公司打工 
 
@@ -678,6 +758,12 @@ S01E24
 - *We don't need any milk*
  *要不要牛奶无所谓* 
 
+----------------------
+【场景 12 / 22】Mitch & Cam 家
+★ 剧情：Cam 唱 Ave Maria 取奶；Jay 继续 Elvis/Wilt 理发传奇。
+★ 人物：Mitchell, Cameron, Jay, Luke
+★ 时间线：并行
+----------------------
 - Okay, you know what, Lily? I am a man.
  好了  莉莉  你老爸是铁血真汉子 
 
@@ -744,6 +830,12 @@ S01E24
 - Why does everything have to suck?
  干嘛什么都跟我过不去 
 
+----------------------
+【场景 13 / 22】邓菲家
+★ 剧情：肖像一再推迟；Claire 绑 Phil 保白裤；摄影师赶 bar mitzvah。
+★ 人物：Claire, Phil, Alex, Haley, photographer
+★ 时间线：下午
+----------------------
 - Let's just do the picture another day.
  我们还是改天照相吧 
 
@@ -834,6 +926,12 @@ S01E24
 - But his clothes will stay white.
  只要他的衣服是白色的就行 
 
+----------------------
+【场景 14 / 22】邓菲家 · 家人归来
+★ 剧情：Gloria 回家；Phil 泡沫手指；Jay 要「亲台阶」修台阶。
+★ 人物：Gloria, Phil, Claire, Jay
+★ 时间线：傍晚
+----------------------
 -  We're home! - Oh, thank God.
  我们回来咯  -谢天谢地 
 
@@ -876,6 +974,12 @@ S01E24
 - Oh, you're acting like I wanted to destroy the house.
  你说的好像我是故意把家里弄得一团糟一样 
 
+----------------------
+【场景 15 / 22】Mitch & Cam 家
+★ 剧情：Mitch 指控 Cam 毁岳母礼物；Cam 反呛婚礼与闲聊恐惧。
+★ 人物：Mitchell, Cameron
+★ 时间线：傍晚
+----------------------
 - No. I just think it's odd
  不  我只是觉得奇怪 
 
@@ -999,6 +1103,12 @@ S01E24
 - Okay. Okay, we got it. Now we're gonna go out here.
  很好很好  大家都过来了  现在站这边 
 
+----------------------
+【场景 16 / 22】邓菲家 · 准备拍摄
+★ 剧情：洒水器湿 yard；Luke 拆弹关水；Claire 接管摄影师。
+★ 人物：Claire, Phil, Jay, Gloria, 全家
+★ 时间线：黄金时刻
+----------------------
 - Oh, my God! Are you kidding me?
  老天啊  你在耍我吗 
 
@@ -1080,6 +1190,12 @@ S01E24
 -  Listen. - Uh-huh?
  听我说  -怎么 
 
+----------------------
+【场景 17 / 22】邓菲家 · 肖像前
+★ 剧情：Phil 要现在道歉；Claire 追问 kiss cam；全家互怼。
+★ 人物：Claire, Phil, Gloria, Cam, Mitchell, Jay
+★ 时间线：拍摄前
+----------------------
 - Honey, I screwed up, but if ever you're in my arms again
  亲爱的  我错了  如果你再次投入我怀抱 
 
@@ -1200,6 +1316,12 @@ S01E24
 - Ah, this is ridiculous. You're both uptight about everything.
  太荒唐了  你们两个对每件事都那么纠结 
 
+----------------------
+【场景 18 / 22】邓菲家 · Jay 演讲
+★ 剧情：Jay 训话：生活不完美；Gloria 泼 Phil 泥；泥巴大战。
+★ 人物：Jay, Claire, Phil, Gloria, 全家
+★ 时间线：拍摄崩溃
+----------------------
 - You didn't want to go to a wedding with him
  你不想陪他去参加婚礼 
 
@@ -1287,6 +1409,12 @@ S01E24
 - Excuse me.
  不好意思 
 
+----------------------
+【场景 19 / 22】邓菲家 · 肖像
+★ 剧情：摄影师问还拍吗；diving save 抓拍成功；Jay 旁白感恩 imperfect 家。
+★ 人物：全家, photographer, Jay
+★ 时间线：日落
+----------------------
 - Are we still doing this?
  你们到底拍不拍了 
 
@@ -1323,6 +1451,12 @@ S01E24
 - Well, most days.
  大部分时候吧 
 
+----------------------
+【场景 20 / 22】Jay 家 · 夜
+★ 剧情：Luke 决定只讲 Elvis；Jay 帮挂肖像；Phil 说 lucky。
+★ 人物：Jay, Luke, Phil, Claire
+★ 时间线：当晚
+----------------------
 - I think I'm just gonna go with the Elvis stuff.
  我还是就提猫王艾维斯的事好了 
 
@@ -1353,26 +1487,23 @@ S01E24
 - I love you.
  爱你 
 
+----------------------
+【场景 21 / 22】邓菲家 · 挂照片
+★ 剧情：挂全家福；Claire 仍见相框 chip。
+★ 人物：Phil, Claire
+★ 时间线：tag
+----------------------
 -  I love that picture. - Yeah.
  我喜欢这张照片  -是啊 
 
+----------------------
+【场景 22 / 22】邓菲家 · 终 tag
+★ 剧情：Claire 发现相框缺口；完美主义到最后一秒。
+★ 人物：Claire, Phil
+★ 时间线：终 tag
+----------------------
 -  Is that a chip on the frame right there? - No. No.
  相框那里是有个缺口吗  -没有没有 
 
 -  I can see it. - Honey.
  我看得到  -亲爱的 
-
----
-
-附录
-
-感谢人人字幕组，所有的荣誉属于字幕组成员。
-
-基于字幕创建完成了中英剧本，包含 txt 与 mobi 两种格式。创建过程中所用到的字幕内容(均转为 Utf-8 格式)和代码参见 [https://github.com/Allianzcortex/code_collection/tree/master/ModernFamily]，经过适当修正后也可以用于其他美剧的剧本生成。
-
-最新修正的版本始终参见 release 页面：[https://github.com/Allianzcortex/code_collection/releases/]，推荐从这个页面下载；同时维护百度云与 Google Drive 地址方便大家分流下载。
-
-Google 上搜索 "Modern Family episode scripts" 所出现的首个链接提供的剧本链接格式如下：https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=modern-family&episode=s05e10，
-仍然没有包含每一句话对应的剧中人物关系。希望未来有可靠渠道得到对应信息。
-
-作者：@Allianzcortex，联系邮箱：iamwanghz@gmail.com。

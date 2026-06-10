@@ -1,0 +1,163 @@
+# Scene markers for modern-family-s01e05-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E05
+episode_arc: 橄榄球烧烤 / 卢克曼尼打架 / Gold digger
+timeline_note: 俄亥俄州赛贯穿；克莱尔歌洛莉亚心结；片尾父子传球 tag
+
+index_groups:
+  - scenes: "01–04"
+    place: Jay 家 / 邓菲家
+    summary: 赛前晨间；海莉撒谎；卢克穿衣；菲尔幻想触地
+  - scenes: "05–09"
+    place: 学校 / 电话
+    summary: 米奇插花；卢克曼尼打架；老师偏见
+  - scenes: "10–14"
+    place: Jay 家 → 烧烤
+    summary: 是否取消聚会；卡姆学球；菲尔挑明矛盾
+  - scenes: "15–19"
+    place: Jay 家 · 客厅/餐厅
+    summary: 看球闹剧；孩子互揭短；gold digger 引爆
+  - scenes: "20–23"
+    place: Jay 家 · 泳池/片尾
+    summary: 菲尔调解；跳池和解；传球 tag
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 清晨
+    plot: 杰送曼尼上学；歌洛莉亚安排烧烤；俄亥俄州赛。
+    characters: Jay, Gloria, Manny
+    timeline: 比赛日清晨
+    anchor: Let's go, buddy. Schooltime.
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: 海莉要钱买裙；撒谎被拆穿。
+    characters: Claire, Haley, Phil
+    timeline: 同日早晨
+    anchor: Can I have $40 for lunch?
+  - id: "03"
+    place: 邓菲家 · 门厅
+    plot: 卢克内外反穿；科学怪小孩旁白。
+    characters: Claire, Phil, Luke
+    timeline: 同日
+    anchor: Luke, come on. We're late.
+  - id: "04"
+    place: 邓菲家 · 幻想
+    plot: 菲尔幻想与克莱尔触地得分；是否去杰家。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: We're at the ten. We're at the five.
+  - id: "05"
+    place: Mitch & Cam 家
+    plot: 卡姆要去看球；米奇列爱好装懂球。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: I collect antique fountain pens.
+  - id: "06"
+    place: 邓菲家 · 电话
+    plot: 学校来电：卢克打架；菲尔撒谎打高尔夫。
+    characters: Claire, Phil
+    timeline: 上午
+    anchor: The school just called. Luke got in a fight.
+  - id: "07"
+    place: 学校 · 办公室
+    plot: 双方家长相遇；卢克坐曼尼胸口。
+    characters: Claire, Phil, Gloria, Jay, 老师
+    timeline: 上午
+    anchor: What are you doing here?
+  - id: "08"
+    place: 学校 · 办公室
+    plot: 揭开「外甥」称呼是打架起因。
+    characters: Luke, Manny, Jay, Gloria
+    timeline: 紧接上一场景
+    anchor: Ho! Wait a second. Is that what this was all about?
+  - id: "09"
+    place: 学校外 / 车内
+    plot: 老师暗示卢克怪；克莱尔欲取消烧烤。
+    characters: Claire, Phil, Jay
+    timeline: 离校后
+    anchor: You heard how she said that, right?
+  - id: "10"
+    place: Jay 家 / 车内
+    plot: 克莱尔提议取消；杰劝谈开；仍办聚会。
+    characters: Claire, Jay, Phil
+    timeline: 中午
+    anchor: I think we should cancel with them for the barbecue.
+  - id: "11"
+    place: Mitch & Cam 家
+    plot: 卡姆决定学橄榄球； mascots 误会。
+    characters: Mitchell, Cameron
+    timeline: 下午
+    anchor: Am I straight?
+  - id: "12"
+    place: Jay 家 · 烧烤
+    plot: 亲友到场；菲尔两次拥抱歌洛莉亚。
+    characters: Jay, Gloria, Phil, Claire, Mitch, Cam
+    timeline: 比赛开始
+    anchor: How ya doin'?
+  - id: "13"
+    place: Jay 家 · 客厅
+    plot: 菲尔点破克莱尔歌洛莉亚 tension；卢曼 huddle。
+    characters: Phil, Claire, Gloria, Luke, Manny
+    timeline: 烧烤中段
+    anchor: I think we should address the elephant in the room.
+  - id: "14"
+    place: Jay 家 · 电视房
+    plot: 看球；迪克·布特库斯；海莉吐槽。
+    characters: Jay, Mitchell, Haley, Phil
+    timeline: 比赛进行中
+    anchor: Looks like I gotta watch the game with Dick Butkus.
+  - id: "15"
+    place: Jay 家 · 电视房
+    plot: 卡姆放弃足球；改口音乐剧迷。
+    characters: Cameron, Mitchell
+    timeline: 比赛进行中
+    anchor: So, my interest in football ended as suddenly and dramatically...
+  - id: "16"
+    place: Jay 家 · 客厅
+    plot: 克莱尔歌洛莉亚坦白；菲尔乱入调解。
+    characters: Claire, Gloria, Phil
+    timeline: 烧烤中段
+    anchor: Okay. The truth?
+  - id: "17"
+    place: Jay 家 · 餐厅
+    plot: 孩子互揭打架真相；口音、午餐、挖煤。
+    characters: Luke, Manny, Claire, Gloria, Jay
+    timeline: 烧烤后段
+    anchor: I made fun of his accent.
+  - id: "18"
+    place: Jay 家 · 餐厅
+    plot: 「coal digger」引爆；克莱尔歌洛莉亚吵。
+    characters: Claire, Gloria, Phil, Jay
+    timeline: 紧接上一场景
+    anchor: Nice going.
+  - id: "19"
+    place: Jay 家 · 楼上/厨房
+    plot: 菲尔找歌洛莉亚谈 gold digger 与接纳。
+    characters: Phil, Gloria
+    timeline: 傍晚
+    anchor: Gloria? It's Phil.
+  - id: "20"
+    place: Jay 家 · 泳池边
+    plot: 杰问米奇卡姆自己是否性感；9 分评价。
+    characters: Jay, Mitchell, Cameron
+    timeline: 傍晚
+    anchor: Your sister said that Gloria
+  - id: "21"
+    place: Jay 家 · 泳池
+    plot: 歌洛莉亚要克莱尔穿衣跳池谢罪。
+    characters: Gloria, Claire, Phil, Jay
+    timeline: 傍晚
+    anchor: Go jump in the pool with your clothes on.
+  - id: "22"
+    place: Jay 家 · 泳池
+    plot: 菲尔代跳；歌洛莉亚原谅；比赛绝杀。
+    characters: Phil, Gloria, Claire, Jay, 全家
+    timeline: 比赛尾声
+    anchor: Almost. Gloria just wants me to jump in the pool.
+  - id: "23"
+    place: Jay 家 · 片尾
+    plot: 父子传球 blame game；父母只上过两次床。
+    characters: Jay, Mitchell, Claire, Phil
+    timeline: 片尾 tag
+    anchor: The snap! Fumble!

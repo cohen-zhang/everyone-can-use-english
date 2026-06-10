@@ -1,0 +1,163 @@
+# Scene markers for modern-family-s01e24-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S01E24
+episode_arc: 全家福 / 赛季 finale
+timeline_note: 多线同日（湖人赛、鸽子、肖像、Jay 理发故事）
+
+index_groups:
+  - scenes: "01–04"
+    place: 邓菲家 · 晨
+    summary: Claire 叮嘱肖像；Jay 内裤；Luke 采访 Jay
+  - scenes: "05–07"
+    place: 邓菲家 / 湖人馆
+    summary: Cam 婚礼歌单；Claire 修台阶；斯台普斯偷藏零食
+  - scenes: "08–10"
+    place: 邓菲家 / 球馆
+    summary: 鸽子入侵；kiss cam；Jay 理发 60 年代故事
+  - scenes: "11–13"
+    place: 邓菲家
+    summary: Cam Ave Maria 取奶；肖像地点争论；Claire 绑 Phil
+  - scenes: "14–16"
+    place: 邓菲家 · 肖像日
+    summary: 家人陆续回家；油漆家具洒水器；Jay 和事佬
+  - scenes: "17–19"
+    place: 邓菲家 · 后院
+    summary: 泥巴大战；摄影师抓拍；Jay 旁白感恩
+  - scenes: "20–22"
+    place: 邓菲家 · tag
+    summary: Luke 选 Elvis 故事；挂照片；Claire 仍挑相框
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨
+    plot: Claire 叮嘱 Phil 球赛后赶肖像；Phil 藏零食哲学 rant。
+    characters: Claire, Phil
+    timeline: 肖像日
+    anchor: Oh, hey, honey. Have a great time at the game. - Thanks.
+  - id: "02"
+    place: Jay 家 · 晨
+    plot: Jay 找不到好内裤；maid 混 Manny 的；Gloria 要 Jay 去说。
+    characters: Jay, Gloria, Manny
+    timeline: 同日
+    anchor: Where's my good underwear?
+  - id: "03"
+    place: Jay 家
+    plot: Gloria 带 Manny 去看湖人；Luke 改采访 Jay 60 年代。
+    characters: Gloria, Jay, Manny, Luke
+    timeline: 同日
+    anchor: Luke suddenly remembered a school project due tomorrow.
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: Cam 周末婚礼献唱；Mitch 理解他不善闲聊。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: Hey, you're okay with me not going with you today, right?
+  - id: "05"
+    place: 斯台普斯中心
+    plot: Manny 问 Kobe；湖人入场；Gloria 发现 Phil 藏零食。
+    characters: Gloria, Manny, Jay, Phil
+    timeline: 比赛日
+    anchor: Kobe! Kobe, over here!
+  - id: "06"
+    place: 邓菲家
+    plot: Claire 要全家白裤楼梯肖像；Haley 不解；Claire 要定格此刻。
+    characters: Claire, Haley, Alex
+    timeline: 并行
+    anchor: It's gonna ruin our whole family portrait.
+  - id: "07"
+    place: 邓菲家 · 楼梯
+    plot: Claire 亲自修 broken step；越修越糟。
+    characters: Claire, Haley
+    timeline: 并行
+    anchor: Screw it.
+  - id: "08"
+    place: 斯台普斯 · 包厢
+    plot: 电视看到 Phil 在 Kobe 身后；Claire 电话 Phil  voicemail。
+    characters: Gloria, Manny, Jay, Claire (phone)
+    timeline: 比赛中
+    anchor: Oh, my God! It's Dad. - Where?
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: 鸽子闯入；Cam 挂电话去看球；Mitch 独自对峙鸽。
+    characters: Mitchell, Cameron
+    timeline: 并行
+    anchor: There is a pigeon in our house.
+  - id: "10"
+    place: 斯台普斯 · kiss cam
+    plot: Gloria 误解 kiss cam 亲了 Phil；Jay 拒接 Claire 电话。
+    characters: Gloria, Jay, Phil, Manny
+    timeline: 比赛中
+    anchor: Cool. The kiss cam.
+  - id: "11"
+    place: Jay 家 · 采访
+    plot: Luke 嫌 Jay 理发店故事无聊；Jay 升级成给 MLK 理发。
+    characters: Jay, Luke
+    timeline: 比赛间隙
+    anchor: So in '66, I worked in my grandfather's office supply business
+  - id: "12"
+    place: Mitch & Cam 家
+    plot: Cam 唱 Ave Maria 取奶；Jay 继续 Elvis/Wilt 理发传奇。
+    characters: Mitchell, Cameron, Jay, Luke
+    timeline: 并行
+    anchor: Okay, you know what, Lily? I am a man.
+  - id: "13"
+    place: 邓菲家
+    plot: 肖像一再推迟；Claire 绑 Phil 保白裤；摄影师赶 bar mitzvah。
+    characters: Claire, Phil, Alex, Haley, photographer
+    timeline: 下午
+    anchor: Let's just do the picture another day.
+  - id: "14"
+    place: 邓菲家 · 家人归来
+    plot: Gloria 回家；Phil 泡沫手指；Jay 要「亲台阶」修台阶。
+    characters: Gloria, Phil, Claire, Jay
+    timeline: 傍晚
+    anchor: We're home! - Oh, thank God.
+  - id: "15"
+    place: Mitch & Cam 家
+    plot: Mitch 指控 Cam 毁岳母礼物；Cam 反呛婚礼与闲聊恐惧。
+    characters: Mitchell, Cameron
+    timeline: 傍晚
+    anchor: No. I just think it's odd
+  - id: "16"
+    place: 邓菲家 · 准备拍摄
+    plot: 洒水器湿 yard；Luke 拆弹关水；Claire 接管摄影师。
+    characters: Claire, Phil, Jay, Gloria, 全家
+    timeline: 黄金时刻
+    anchor: Oh, my God! Are you kidding me?
+  - id: "17"
+    place: 邓菲家 · 肖像前
+    plot: Phil 要现在道歉；Claire 追问 kiss cam；全家互怼。
+    characters: Claire, Phil, Gloria, Cam, Mitchell, Jay
+    timeline: 拍摄前
+    anchor: Honey, I screwed up, but if ever you're in my arms again
+  - id: "18"
+    place: 邓菲家 · Jay 演讲
+    plot: Jay 训话：生活不完美；Gloria 泼 Phil 泥；泥巴大战。
+    characters: Jay, Claire, Phil, Gloria, 全家
+    timeline: 拍摄崩溃
+    anchor: You didn't want to go to a wedding with him
+  - id: "19"
+    place: 邓菲家 · 肖像
+    plot: 摄影师问还拍吗；diving save 抓拍成功；Jay 旁白感恩 imperfect 家。
+    characters: 全家, photographer, Jay
+    timeline: 日落
+    anchor: Are we still doing this?
+  - id: "20"
+    place: Jay 家 · 夜
+    plot: Luke 决定只讲 Elvis；Jay 帮挂肖像；Phil 说 lucky。
+    characters: Jay, Luke, Phil, Claire
+    timeline: 当晚
+    anchor: I think I'm just gonna go with the Elvis stuff.
+  - id: "21"
+    place: 邓菲家 · 挂照片
+    plot: 挂全家福；Claire 仍见相框 chip。
+    characters: Phil, Claire
+    timeline: tag
+    anchor: I love that picture. - Yeah.
+  - id: "22"
+    place: 邓菲家 · 终 tag
+    plot: Claire 发现相框缺口；完美主义到最后一秒。
+    characters: Claire, Phil
+    timeline: 终 tag
+    anchor: Is that a chip on the frame right there? - No. No.
