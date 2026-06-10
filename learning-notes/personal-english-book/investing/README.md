@@ -24,7 +24,7 @@ cssclasses:
 ## 投资者场景 · Retail investor
 
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 账户、下单、盘口、盈亏、行情、风控（英 + 简中跟读句）
-- [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、闪兑、P2P、合约、理财、划转（英 + 简中）
+- [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、闪兑、P2P、合约、理财、网格、期权、广场讨论（英 + 简中 · 分类术语表）
 
 ---
 
