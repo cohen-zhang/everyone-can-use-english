@@ -48,6 +48,29 @@ aliases:
 
 ---
 
+<a id="anchor-parts-of-speech"></a>
+
+## 八大词类速查（Parts of Speech）
+
+**词类**问的是：这个词在句子里**扮演什么角色**（名、动、形、副……）。与上一节**句子成分**对照：**词类**是词的「身份牌」；**成分**是词在某一具体句里的「岗位」（例如同一个 **noun** 可以是 **Subject** 或 **Object**）。
+
+释义压缩自 [Cambridge Dictionary · English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/parts-of-speech) 对八大词类的说明；**IPA 为美式**。亲子分篮玩法见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · §21 词类]]（与此表 **相向互链**）。
+
+| 词类（EN） | 中文 | IPA（美） | 词典释义（英） | 回答什么问题 | 亲子例词 | 亲子句 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **noun** | 名词 | /naʊn/ | A word that refers to a **person, place, thing, event, substance, or quality**. | 谁？什么？哪里？ | dog, Celine, school, happiness | **Celine** has a **dog**. — **Celine** 有一只 **dog**。 |
+| **verb** | 动词 | /vɜːrb/ | A word or phrase that describes an **action**, **state**, or **experience**. | 做什么？什么状态？ | run, eat, is, have | **Celine runs** fast. — **Celine 跑**得快。 |
+| **adjective** | 形容词 | /ˈædʒɪktɪv/ | A word that **describes a noun or pronoun**. | 什么样的？ | big, happy, red, tired | A **big** bear. — 一只**大**熊。 |
+| **adverb** | 副词 | /ˈædvɜːrb/ | A word that **describes or gives more information about** a verb, adjective, adverb, or phrase. | 怎样地？何时？何地？（常修饰动词） | quickly, very, here, often | Run **quickly**. — **快**跑。 |
+| **pronoun** | 代词 | /ˈproʊnaʊn/ | A word that is used **instead of a noun or noun phrase**. | 代替名词 | I, you, she, it, this, who | **She** is happy. — **她**很开心。 |
+| **preposition** | 介词 | /ˌprepəˈzɪʃn/ | A word used **before a noun, noun phrase, or pronoun**, connecting it to another word. | 在……上／里／旁（表关系） | in, on, under, with, to | **In** the room. — **在**房间里。 |
+| **conjunction** | 连词 | /kənˈdʒʌŋkʃn/ | A word that **connects words, phrases, or clauses**. | 连接词或句 | and, but, because, or | **And** then we eat. — **然后**我们吃。 |
+| **interjection** | 感叹词 | /ˌɪntərˈdʒekʃn/ | A short sound, word, or phrase spoken suddenly to express **strong emotion**. | 突然的情绪 | oh, wow, hey, ouch | **Wow**, a rainbow! — **哇**，彩虹！ |
+
+> **词类 ↔ 成分（一眼对照）：** **noun / pronoun** → 常当 **S** 或 **O**；**verb** → **V**（或 **Predicate** 核心）；**adjective** → 常修饰名词（定语功能）或作 **Subject complement**；**adverb** → 常作 **Adverbial**；**preposition** → 与名词构成介词短语，多作 **Adverbial**；**conjunction** → 连接分句，本身通常不算单一成分。**interjection** 多独立成句，如 *Wow!*
+
+---
+
 ## 示范 1 · 公园读书（亲子 · 扩写）
 
 **画面：** 傍晚，**Celine** 在小区公园长椅上看绘本。
@@ -186,4 +209,4 @@ aliases:
 | 日期 | 说明 |
 | --- | --- |
 | — | 初版：示范 1 公园读书、示范 2 母亲节送花、示范 3 修缺陷；扩写阶梯 + 成分换序表；预留场景库。 |
-| 2026-06 | 迁至 `grammar-lab/`；成分速查表补充 Cambridge 风格英文释义、美式 IPA；增 **Predicate**、**Subject/Object complement** 行。 |
+| 2026-06 | 迁至 `grammar-lab/`；成分速查表补充 Cambridge 风格英文释义、美式 IPA；增 **Predicate**、**Subject/Object complement** 行；增 **八大词类速查**（IPA + 词典释义 + 亲子例句）。 |

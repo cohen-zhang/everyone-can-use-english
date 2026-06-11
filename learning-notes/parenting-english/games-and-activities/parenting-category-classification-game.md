@@ -718,7 +718,7 @@ aliases:
 
 **词类**问的是：这个词在句子里**扮演什么角色**（名、动、形、副……）。亲子口语不必背术语，先用「**人/物/地方**」「**动作**」「**怎么样**」分篮；大一点再对照英文术语。
 
-**深度示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
+**深度示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order#anchor-parts-of-speech|句子扩写 · 八大词类速查表（IPA + 词典释义）]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
 
 ### 21.1 八大词类（核心分篮）
 
