@@ -18,6 +18,7 @@ aliases:
 - [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes|证券与商品经纪访谈]] — 从业者入行经历与风险意识（口述 ↔ 本页实操句）
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表（149）]] — 宏观、衍生品、合规、机构用语扩展
 - [[learning-notes/personal-english-book/work/finance-business-stories|金融和商务主题故事集]] — 8 个分类情景故事化复习
+- [[learning-notes/grammar-lab/量词|量词实验室]] — **a small slice**、**a little BTC** 等仓位模糊数量
 
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；术语表放在后半部分作查阅。**泽哥**在券商 App 或 TradingView 上操作时，可以直接念英文句。
 

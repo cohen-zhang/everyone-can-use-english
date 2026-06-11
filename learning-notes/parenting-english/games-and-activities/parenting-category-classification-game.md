@@ -61,7 +61,7 @@ aliases:
 | Transport | 交通 | [§18 交通](#18-交通出行--transport) | [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases\|地铁场景]] |
 | Symbols & emoji | 符号与表情 | [§19 符号](#19-符号与表情--symbols--emoji) | [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab\|表情符号双语]] |
 | Shopping & products | 商品（电商 App） | [§20 商品](#20-商品分类--e-commerce--shopping-app-categories) | 本节；衣食家电等见上表各专题 |
-| Parts of speech | 词类（词性） | [§21 词类](#21-词类--parts-of-speech) | [[learning-notes/personal-english-book/study/sentence-expansion-and-component-order\|句子扩写与成分]] |
+| Parts of speech | 词类（词性） | [§21 词类](#21-词类--parts-of-speech) | [[learning-notes/grammar-lab/sentence-expansion-and-component-order\|句子扩写与成分]] |
 | Sentence components | 句子成分 | [§22 句子成分](#22-句子成分--sentence-components) | 同上 · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu\|语法体系总览]] |
 
 ---
@@ -718,7 +718,7 @@ aliases:
 
 **词类**问的是：这个词在句子里**扮演什么角色**（名、动、形、副……）。亲子口语不必背术语，先用「**人/物/地方**」「**动作**」「**怎么样**」分篮；大一点再对照英文术语。
 
-**深度示范：** [[learning-notes/personal-english-book/study/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
+**深度示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
 
 ### 21.1 八大词类（核心分篮）
 
@@ -791,7 +791,7 @@ aliases:
 
 **句子成分**问的是：在一个句子里，每一块**担任什么职务**（谁发起、做什么、对谁做、在哪里做……）。中文常讲 **主谓宾定状补**；英语课堂常用 **S / V / O / A / C** 标注。
 
-**扩写与换序示范：** [[learning-notes/personal-english-book/study/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]]（同一画面由短句叠到长句）
+**扩写与换序示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]]（同一画面由短句叠到长句）
 
 ### 22.1 成分中英对照（主谓宾定状补）
 

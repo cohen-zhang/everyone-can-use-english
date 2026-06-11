@@ -15,6 +15,7 @@ aliases:
 - **场景短文** — [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#3-厨房--kitchen|整合 · 厨房篇]]（约 2 分钟跟读）
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e03-eating-breakfast-notes.md|Jeff E03 早餐]]
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e08-dinner-and-washing-up-notes.md|Jeff E08 晚餐与收拾]]
+- **量词** — [[learning-notes/grammar-lab/量词|量词实验室]]（**one cup** 量米、**a box of** baking soda、**a pinch / splash of** 等）
 
 ## 本页在做什么
 

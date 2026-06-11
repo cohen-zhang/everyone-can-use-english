@@ -18,6 +18,7 @@ aliases:
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 限价单、止损、仓位等通用交易概念
 - [[learning-notes/personal-english-book/work/finance-business-stories|金融和商务主题故事集]] — **crypto**、**perpetual**、**hedge** 等故事化复习（B 节行情故事）
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表（149）]] — 宏观与机构用语扩展
+- [[learning-notes/grammar-lab/量词|量词实验室]] — **a little BTC**、**a small slice**、**two hundred USDT** 等数量表达
 
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；术语表放在后半部分。**泽哥**在交易所 App 充币、现货买卖、划转、看行情时，可以直接念英文句。
 
@@ -202,7 +203,7 @@ aliases:
 
 | 英文 | IPA（美） | 简中 | 记忆 / 例句 |
 |------|-----------|------|-------------|
-| **crypto** `术语` | /ˈkrɪptoʊ/ | 加密货币 | **Crypto** trades twenty-four seven. 加密货币全天交易。 |
+| **crypto** `术语` | /ˈkrɪptoʊ/ | 加密货币 | **Crypto** trades twenty-four seven. 加密货币全天 24/7 交易。 |
 | **wallet** `术语` | /ˈwɑːlɪt/ | 钱包（子账户） | Check your **spot wallet** balance. 看现货钱包余额。 |
 | **funding wallet** `术语` | /ˈfʌndɪŋ ˈwɑːlɪt/ | 资金钱包 | Move cash to your **funding wallet** first. 先划到资金钱包。 |
 | **futures wallet** `术语` | /ˈfjuːtʃərz ˈwɑːlɪt/ | 合约钱包 | **Futures wallet** holds margin only. 合约钱包只放保证金。 |

@@ -1,16 +1,19 @@
 ---
 tags:
-  - personal-english-book
+  - grammar-lab
   - english-learning
-  - peb/study
   - topic/sentence-structure
+  - topic/grammar
 aliases:
   - 句子扩写与成分换序
   - sentence expansion and word order
 ---
 # 句子扩写 · 主谓宾状补换序示范
 
-**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+写给 **阿泽** 的私人语法草稿；对外分享时把人名去掉即可。
+
+**索引：** [[learning-notes/grammar-lab/介词|介词实验室]] · [[learning-notes/grammar-lab/量词|量词实验室]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+
 **相关：** [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]] · [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（主谓宾换序实例）]] · [[learning-notes/parenting-english/README|亲子英文材料索引]] · **词类与成分分篮游戏** — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]]（与此页相向互链）
 
 ---
@@ -28,15 +31,20 @@ aliases:
 
 ## 成分速查（对照中文「主谓宾状补」）
 
-| 中文 | 英文术语 | 简例 | 说明 |
-| --- | --- | --- | --- |
-| 主语 | **Subject (S)** | **Celine** reads. | 谁 / 什么在做 |
-| 谓语 | **Verb / Predicate (V)** | Celine **reads**. | 动作或系动词 |
-| 宾语 | **Object (O)** | Celine reads **a book**. | 动作承受者 |
-| 状语 | **Adverbial (A)** | Celine reads **in the park**. | 时间、地点、方式、原因等 |
-| 补语 | **Complement (C)** | The book is **interesting**. / Mom keeps Celine **happy**. | 补充说明主语或宾语 |
+释义压缩自 [Cambridge Dictionary · English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/) 对 *subject / verb / predicate / object / adverbial / complement* 的说明；**IPA 为美式**，可查 [Merriam-Webster](https://www.merriam-webster.com/)。
 
-> **补语分两种常见：** **主语补语**（系动词后，说明主语）· **宾语补语**（宾语后，说明宾语）。英语没有单独的「定语」列，形容词修饰多写在名词前（*a red apple*）或从句里。
+| 中文 | 英文术语 | IPA（美） | 词典释义（英） | 简例 | 简中 |
+| --- | --- | --- | --- | --- | --- |
+| 主语 | **Subject (S)** | /ˈsʌbdʒɪkt/ 或 /ˈsʌbdʒekt/ | The word or group of words that tells you **who or what** performs the action, or **what the sentence is about**. | **Celine** reads. | 谁 / 什么在做 |
+| 谓语 | **Verb (V)** | /vɜːrb/ | A word or group of words that describes an **action**, **state**, or **experience**. | Celine **reads**. | 动作或状态 |
+| 谓语（整段） | **Predicate** | /ˈpredɪkət/ | The part of a clause that **includes the verb** and what follows it, telling what the subject **does or is**. | Celine **reads a book in the park**. | 谓语部分 = 动词 + 宾语/补语/状语等 |
+| 宾语 | **Object (O)** | /ˈɑːbdʒekt/ 或 /ˈɑːbdʒɪkt/ | A noun, noun phrase, or pronoun that is **affected by the action** of a verb, or that follows a preposition. | Celine reads **a book**. | 动作承受者 |
+| 状语 | **Adverbial (A)** | /ədˈvɜːrbiəl/ | A word, phrase, or clause that adds information about **when, where, how, or why** something happens. | Celine reads **in the park**. | 时间、地点、方式、原因等 |
+| 补语 | **Complement (C)** | /ˈkɑːmplɪment/ | A word or group of words that **completes the meaning** of a verb, adjective, or other expression. | The book is **interesting**. / Mom keeps Celine **happy**. | 补充说明主语或宾语 |
+| 主语补语 | **Subject complement** | /ˈsʌbdʒɪkt ˈkɑːmplɪment/ | A word or group of words that follows a **linking verb** and **describes the subject**. | The book is **interesting**. / Mom is **happy**. | 系动词后，说明主语 |
+| 宾语补语 | **Object complement** | /ˈɑːbdʒɪkt ˈkɑːmplɪment/ | A word or group of words that follows an **object** and **describes or renames** it. | Mom keeps Celine **happy**. / I made Mom **smile**. | 宾语后，说明宾语 |
+
+> **定语（modifier / attribute）：** 英语语法书常不单列「定语」成分；形容词修饰多写在名词前（*a **red** apple*）或放在名词后从句里（*the book **that Celine reads***）。Cambridge 用 *modifier* / *adjective phrase* 描述这类功能，见 [Modifiers](https://dictionary.cambridge.org/grammar/british-grammar/modifiers-and-other-parts-of-speech)。
 
 ---
 
@@ -178,3 +186,4 @@ aliases:
 | 日期 | 说明 |
 | --- | --- |
 | — | 初版：示范 1 公园读书、示范 2 母亲节送花、示范 3 修缺陷；扩写阶梯 + 成分换序表；预留场景库。 |
+| 2026-06 | 迁至 `grammar-lab/`；成分速查表补充 Cambridge 风格英文释义、美式 IPA；增 **Predicate**、**Subject/Object complement** 行。 |
