@@ -14,6 +14,7 @@ aliases:
 **索引：** [[learning-notes/personal-english-book/investing/README|投资英语场景索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（扩展）：**
+- [[learning-notes/personal-english-book/investing/listed-stock-fundamentals-and-analysis-en|上市公司 — 基本面与估值分析]] — 基本面、财报、估值、资金、消息面、宏观（**研究** ↔ 本页 **交易执行**）
 - [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、合约、理财（限价单、止损等概念与本页对照）
 - [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes|证券与商品经纪访谈]] — 从业者入行经历与风险意识（口述 ↔ 本页实操句）
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表（149）]] — 宏观、衍生品、合规、机构用语扩展

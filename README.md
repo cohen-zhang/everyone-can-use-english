@@ -186,7 +186,8 @@ learning-notes/
 | `personal-matters.md` | 个人事务表达 |
 | `spoken-catchphrases-reduplicatives-adverbs.md` | 口头禅、叠词与口语副词 |
 | `praise-my-wife-expressions.md` | 夸奖配偶表达 |
-| `romantic-expressions.md` | 浪漫表达 |
+| `romantic-love-song-phrases.md` | 浪漫情歌与恋爱口语 |
+| `classic-film-love-and-like-quotes.md` | 经典电影爱与喜欢台词 |
 | `weather-daily-expressions.md` | 天气场景表达 |
 | `world-cinema-quick-notes.md` | 世界电影随记 |
 

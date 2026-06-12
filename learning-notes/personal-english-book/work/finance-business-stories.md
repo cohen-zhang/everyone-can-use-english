@@ -11,6 +11,8 @@ tags:
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 **词表来源：** [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]
 
+**相关：** [[learning-notes/personal-english-book/investing/listed-stock-fundamentals-and-analysis-en|上市公司基本面与估值分析]] — 宏观、行情、风控的**跟读句**版（本页为故事化复习）
+
 **用途：** 通过情景故事记忆金融商务词汇。每个故事对应一个分类，词汇在文中加粗标注。
 
 ---

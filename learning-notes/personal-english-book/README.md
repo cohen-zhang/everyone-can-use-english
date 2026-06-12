@@ -23,7 +23,8 @@ cssclasses:
 
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年场景英语]] — 纪念日、情话与长期关系表达
 - [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] — 过节用语、祝福短句、贺卡级名言（含母亲节金句）
-- [[learning-notes/personal-english-book/life/romantic-expressions.md|浪漫情歌集]] — 情歌、恋爱叙事句
+- [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] — KTV 情歌、恋爱叙事、**kiss** 用法
+- [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影 · 爱与喜欢台词]] — 泰坦尼克号、怦然心动、杀手不太冷等奥斯卡级对白
 - [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] — 成人情绪表达（与亲子版对照）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]] — 身体部位/内脏/症状词汇分类复习
 - [[learning-notes/personal-english-book/life/body-part-stories.md|Body Part 主题故事集]] — 按分类词表生成的主题故事（英 + 简中）
@@ -129,7 +130,7 @@ cssclasses:
 
 ## 主题互链（便于图谱跳转）
 
-- **纪念日 ↔ 情歌：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年]] ↔ [[learning-notes/personal-english-book/life/romantic-expressions.md|浪漫情歌集]]。
+- **纪念日 ↔ 情歌 ↔ 电影：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年]] ↔ [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌]] ↔ [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影台词]]。
 - **夸奖（剧摘 ↔ 纪念场景）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年]]。
 - **节日（活动 + 祝福 + 名言 ↔ 剧摘祝福）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]]。
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。

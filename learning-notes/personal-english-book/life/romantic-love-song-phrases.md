@@ -3,13 +3,19 @@ tags:
   - personal-english-book
   - english-learning
   - peb/life
+  - topic/love-romance
 aliases:
   - 浪漫情歌集
+  - romantic-expressions
+  - KTV 英文情歌
 ---
-# Romantic Song Collection 浪漫情歌集
+# 浪漫情歌与恋爱口语 · Romantic Love Song Phrases
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 纪念日与长期关系口语（与此篇 **相向互链**）。
+
+**相关（相向互链）：**
+- [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 纪念日与长期关系口语；**Kiss** 小节可对照十周年 *kissing you* 段落
+- [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影 · 爱与喜欢台词]] — 奥斯卡级电影对白；与本文情歌体 **互补**（银幕台词 ↔ KTV 歌词）
 
 > For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌

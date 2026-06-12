@@ -9,7 +9,7 @@ aliases:
 # 10th Wedding Anniversary Scenes & Expressions | 结婚十周年场景英语表达
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关（情歌用语 · 相向互链）：** [[learning-notes/personal-english-book/life/romantic-expressions|浪漫情歌集]] — 约会叙事与歌词体英语；**Kiss — 亲嘴的不同说法** 小节可对照本文 *kissing you* 段落。
+**相关（情歌用语 · 相向互链）：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] — 约会叙事与歌词体英语；**Kiss — 亲嘴的不同说法** 小节可对照本文 *kissing you* 段落。**电影台词** — [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影 · 爱与喜欢台词]]。
 
 **相关（夸奖与祝福 · 相向互链）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 剧中原句：**外貌、能力、品格**类夸奖与**节日祝福**；可与本文纪念场景、情话表达**对照练习**。
 
