@@ -189,32 +189,72 @@
 
 ---
 
-## 常用词组（本集精选）
+## 俚语 · 口头禅 · 口头梗（本集）
 
-### **Deal with (this)** — 你来处理 / 你看着办
+> 与文末 **「难词表」** 区分：难词表收 **词汇**（banister、surrogate…）；本节收 **整句口头禅、俚语感、语用梗**。  
+> 原 **S01 俚语/口语梗汇总** 单页已并入本节；**本集 E01** 列标 ✓ 的为 `modern-family-s01e01-transcript.txt` 中实际出现。  
+> 扩展：[[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs|口头禅 / 叠词 / 口语副词]]
 
-- **台词：** *Deal with this.* — Claire 对 Phil：Luke 闯祸了，**你来管教 / 你来处理**。
-- **不是** meme 里 dismissive 的 *Deal with it!*（爱咋咋地）；这里是 **把烂摊子交给你**。
-- **通用用法：**
-  - **Can you deal with the delivery while I'm on a call?** — 我打电话这会儿你能处理一下快递吗？
-  - **I'll deal with the kids; you finish cooking.** — 孩子我来管，你把饭做完。
-  - **This is your mess — deal with it.** — 这是你搞出来的，你自己收拾。
-- **近义：** **handle this**, **take care of this**, **sort this out**
+### 分类说明
 
-### **uncool** — 不酷 / 不得体 / 这样不对
-
-- **台词：** *Buddy, uncool.* — Phil 对 Luke：叫一声 **Buddy**（老弟/伙计），再说 **uncool** = 你这行为 **很掉价 / 不体面 / 不该这样**。
-- **语气：** 比 *wrong* 或 *bad* 更口语、更「酷爸」腔；带点 **social judgment**（社交上不合适），不是严肃道德审判。
-- **通用用法：**
-  - **Making fun of her in front of everyone was uncool.** — 当着大家面取笑她，太不得体了。
-  - **That's kind of uncool, dude.** — 老兄，这样有点过分哦。
-  - **Uncool to leave without saying goodbye.** — 不告而别挺没品的。
-- **反义 / 对照：** **cool**（酷、没问题、够意思）；**not cool** 与 **uncool** 日常几乎可互换，**uncool** 更偏青少年/口语。
-- **扩展：** 同集 Phil 自称 *I'm the cool dad* / *I'm hip* — 和 **uncool** 形成对照，可一起记。
+| 类型 | 英文标签 | 记什么 | 本页位置 |
+| --- | --- | --- | --- |
+| **词汇** | vocabulary | 有明确词义、宜查词典的单词/固定名词 | 文末 **难词表** |
+| **高频口头禅** | catchphrase | 独立成句的情绪/催促/打招呼（*Come on!*） | 下表 §A |
+| **俚语感** | slang tone | 粗口强化、评价、放弃等带态度口语 | 下表 §B |
+| **口头梗** | meme / pragmatic bit | 固定搭配、社交评判、梗式说法（*Deal with this*） | 下表 §C |
 
 ---
 
-## 难词表（本集 · IPA GA）
+### §A 高频口头禅（Catchphrases）
+
+| 表达 | IPA（美） | 简中 | 语气 / 用法 | 本集 E01 | 本集台词 / 语境 | 扩展 / 更礼貌 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Come on!** | /kʌm ɑːn/ | 拜托；快点；别这样 | 催促、劝说、不信、撒娇式抱怨 | ✓ | *Come on!* / *Come on, coach.* / *Oh, come on!* | *Give me a break.* · *Seriously?* |
+| **Shut up.** | /ʃʌt ʌp/ | 闭嘴 | 直接、偏冒犯；熟人偶开玩笑 | ✓ | *Shut up. - Easy. Easy.* / *Yeah, shut up!* | *Be quiet, please.* · *Could you lower your voice?* |
+| **Hang on.** | /hæŋ ɑːn/ | 等一下 | 口语「稍等」，极常见 | ✓ | *Sweetie, hang on a second.* / *Hang on one second.* | *Just a sec.* · *One moment.* |
+| **Hold on.** | /hoʊld ɑːn/ | 等一下 | 与 *Hang on* 同功能 | — | （本集未出现；S01 其它集常见） | *Just a sec.* |
+| **What's up?** | /wʌts ʌp/ | 怎么了；最近如何 | 打招呼或问「发生什么事」 | ✓ | *Okay, what's up?* | *How's it going?* · *What's going on?* |
+| **No way.** | /noʊ weɪ/ | 不可能；真的假的 | 拒绝或惊讶「不会吧」 | — | （S01 其它集） | *Impossible.* · *You're kidding.* |
+| **Are you kidding me?** | /ɑːr ju ˈkɪdɪŋ mi/ | 你在开玩笑吗 | 震惊、不满、无语 | ✓ | *What? Are you kidding?* | *Seriously?* · *You must be joking.* |
+| **My bad.** | /maɪ bæd/ | 我的错；我搞错了 | 轻量道歉 | — | （S01 其它集） | *That's on me.* · *Sorry, my mistake.* |
+| **Whatever.** | /wətˈevər/ | 随便吧；爱咋咋地 | 无所谓或敷衍不耐烦 | — | （S01 其它集） | *I don't mind.* · *It's up to you.* |
+| **Watch out!** | /wɑːtʃ aʊt/ | 小心 | 即时提醒危险 | — | 本集近义：*Hey, watch it.*（说话注意点） | *Look out!* · *Be careful!* |
+
+---
+
+### §B 俚语感表达（Slang tone）
+
+| 表达 | IPA（美） | 简中 | 语气 / 用法 | 本集 E01 | 本集台词 / 语境 | 扩展 / 更温和 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **What the hell …?** | /wʌt ðə hel/ | 到底怎么回事 | 强烈惊讶/愤怒，偏粗 | ✓ | *What the hell is that?* / *What the hell is that supposed to mean?* | *What on earth …?* |
+| **Screw it.** | /skru ɪt/ | 算了（带情绪） | 放弃、不想继续，语气冲 | — | （S01 其它集） | *Forget it.* · *Never mind.* |
+| **Awesome.** | /əˈsɑːsəm/ | 太棒了 | 高频正向感叹 | ✓ | *And how awesome would it be …* | *Great!* · *Fantastic!* |
+| **Lame.** | /leɪm/ | 很土；很无聊 | 评价「没劲、不酷」 | — | （S01 其它集） | *That's weak.* · *That's boring.* |
+| **That sucks.** | /ðæt sʌks/ | 太糟了；真惨 | 对坏消息同情或吐槽 | — | （S01 其它集） | *That's rough.* · *That's terrible.* |
+| **Freak out.** | /friːk aʊt/ | 抓狂；慌了 | 情绪失控、过度紧张 | — | （S01 其它集） | *Panic.* · *Lose it.* |
+| **Big deal.** / **No big deal.** | /bɪɡ diːl/ | 有啥了不起 / 没什么大不了 | 反问或安抚 | — | （S01 其它集） | *It's not a big thing.* · *Don't make a fuss.* |
+
+---
+
+### §C 口头梗 · 语用固定说法（Meme / pragmatic bits）
+
+| 表达 | IPA（美） | 简中 | 语气 / 用法 | 本集 E01 | 本集台词 / 语境 | 扩展 / 对照 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Deal with this.** | /diːl wɪð ðɪs/ | 你来处理；你看着办 | Claire 把管教交给 Phil；**不是** dismissive 的 *Deal with it!* | ✓ | *Deal with this.* — Luke 闯祸后 | *Handle this.* · *Take care of this.* |
+| **uncool** | /ʌnˈkuːl/ | 不酷；不得体；这样不对 | Phil「酷爸」腔社交评判 | ✓ | *Buddy, uncool.* | 反义 **cool**；Phil 自称 *cool dad* / *hip* |
+| **Buddy** | /ˈbʌdi/ | 老弟；伙计 | 亲昵称呼 + 轻度管教 | ✓ | *Buddy, uncool.* / *Buddy, why do you keep getting stuck …* | 同 **dude** / **man**（口语） |
+| **Nailed it.** | /neɪld ɪt/ | 搞定了；做得漂亮 | 「做得准、很成功」 | — | （S01 其它集） | *Perfect.* · *You crushed it.* |
+| **Hands off!** | /hændz ɑːf/ | 别碰我；别动 | 强烈边界 | — | （S01 其它集；*Take your hands off me!*） | *Please don't touch me.* |
+| **Just a sec.** | /dʒʌst ə sek/ | 等一下 | 极短拖延 | ✓ | *Yeah. Just a sec.* | 同 **Hang on a second.** |
+
+> **备注：** S01 transcript 里更常见的是 **口语俚语和情绪句**，严格意义上的传统谚语（如 *A stitch in time saves nine.*）很少。文化梗/双关见各集 **难词表** 与剧情段。
+
+---
+
+## 难词表（词汇 · Vocabulary）
+
+*与上一节 **俚语/口头禅/口头梗** 区分：本节只收 **单词级词汇** 与多词 **专有名词/术语**，不含整句口头禅。*
 
 *成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录拼写/读音/搭配难点、本集场景词；剔除无教学价值的超高频碎片。*
 
@@ -227,8 +267,6 @@
 | **creed** | /kriːd/ | 信条；信仰（*Love knows no race, creed or gender*） | 低频、多义 |
 | **small-minded** | /ˌsmɔːl ˈmaɪndɪd/ | 心胸狭隘的；气量小的 | 有难度 |
 | **follow through** | /ˌfɑːloʊ ˈθruː/ | 按约定执行到底；贯彻（Phil 须 *follow through* 射 Luke 的「家法」） | 有难度 |
-| **uncool** | /ʌnˈkuːl/ | 不酷；不得体；这样不对（见上节） | 有难度 |
-| **deal with** | /diːl wɪð/ | 处理；对付；管教（*Deal with this* = 你来处理这事） | 有难度 |
 | **specialist** | /ˈspɛʃəlɪst/ | 专科医生；专家（Phil 说 Luke 需 *checked by a specialist*，讽刺智商） | 低频 |
 | **camcorder** | /ˈkæmˌkoʊrdər/ | 摄像机（Phil 玩笑说要 *charge the camcorder*） | 低频、拼写 |
 | **blowup** | /ˈbloʊˌʌp/ | 激烈争吵；爆发（*a little blowup with that other mom*） | 低频、多义 |
@@ -251,8 +289,8 @@
 ## 使用提示
 
 - 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- **常用词组**（*Deal with this* / *uncool*）与文末 **难词表** 可单独朗读；IPA 为美式 **GA**。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
-- 俚语/口头禅扩展 → [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗汇总]]
+- **背诵顺序建议：** 场景句 → **§A 口头禅** → **§C 口头梗**（*Deal with this* / *uncool*）→ **难词表** 词汇。
+- **§B 俚语感** 含粗口强化（*What the hell*），公开场合用表中「更温和」列替换。
+- IPA 为美式 **GA**。想对照 **亲子对话体**，见同目录 `modern-family-s01e02-key-to-being-a-great-dad.md`。
 
 *自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*

@@ -14,7 +14,7 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** 美剧口语梗补充 → [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗汇总]]；冲突/骂人表达识别 → [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases|骂人专辑 / 口头禅]]。
+**相关：** 美剧口语梗（已并入 E01 分表）→ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines#俚语--口头禅--口头梗本集|摩登家庭 S01E01 · 俚语/口头禅/口头梗]]；冲突/骂人表达识别 → [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases|骂人专辑 / 口头禅]]。
 
 本页收集两类很适合开口练的口语材料：一类是带押韵、重复、玩笑感的 **catchphrases / reduplicatives**；另一类是能放在句首或回答里的 **spoken adverbs / stance words**，比如 **Actually**, **Honestly**, **Probably**, **Usually**。前者让语气更轻松，后者让表达更像自然聊天。
 

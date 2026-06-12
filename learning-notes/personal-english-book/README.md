@@ -136,7 +136,7 @@ cssclasses:
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
 - **音标输入 ↔ 速查：** [[learning-notes/personal-english-book/study/phonetics-input-guide.md|音标输入指南]] ↔ [[learning-notes/personal-english-book/study/phonetics-engineer-quick-reference.md|音标工程师速查]]。
 - **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
-- **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01-slang-idiom-meme-guide|Modern Family S01 俚语/口语梗]]。
+- **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01]]（俚语/口头禅/口头梗分表）。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
 - **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
