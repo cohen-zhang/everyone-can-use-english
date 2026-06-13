@@ -152,7 +152,7 @@ aliases:
 
 ### II.2 D.J.、K.K. 与 IPA
 
-权威词典多用 **D.J.**（剑桥、牛津、朗文、柯林斯等）。**K.K.** 常见于部分美式教材；**IPA** 为国际通用符号。工程师日常查词：**固定一个主词典**，见 IPA 即可，不必混用三套（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]] §2.4；[[learning-notes/pronunciation/engineer-phonetics-reference#13-美式标注速查|速查 · §1.3]]）。
+权威词典多用 **D.J.**（剑桥、牛津、朗文、柯林斯等）。**K.K.** 常见于部分美式教材；**IPA** 为国际通用符号。工程师日常查词：**固定一个主词典**，见 IPA 即可，不必混用三套（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]] §2.4；[[learning-notes/pronunciation/engineer-phonetics-reference#13-schwa-ə弱读元音央元音|schwa §1.3]] · [[learning-notes/pronunciation/engineer-phonetics-reference#14-美式标注速查|速查 · §1.4]]）。
 
 ### II.3 「纠正」还是「新建」
 

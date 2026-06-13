@@ -39,23 +39,47 @@ aliases:
 
 ### 1.2 D.J. / K.K. / IPA / CEPD
 
-| 体系 | 常见用途 | 速查结论 |
-| --- | --- | --- |
-| **D.J.** | 英式发音，常见于英式词典传统标注 | 元音符号与美式差异较多；辅音基本相同 |
-| **K.K.** | 美式发音传统标注 | 常用 `ɑr`、`ɚ`、`ɝ` 等表达美式 r 色彩 |
-| **IPA** | 国际音标，用于标注各种语言 | 是大框架；各词典会有自己的实现细节 |
-| **CEPD** | Cambridge English Pronouncing Dictionary | UK 用 D.J.；US 使用 IPA 风格并加入美式优化 |
+| 体系 | 全称 | 常见用途 | 速查结论 |
+| --- | --- | --- | --- |
+| **D.J.** | Daniel Jones 音标体系 | 英式发音，常见于英式词典传统标注 | 元音符号与美式差异较多；辅音基本相同 |
+| **K.K.** | Kenyon & Knott 音标体系 | 美式发音传统标注 | 常用 `ɑr`、`ɚ`、`ɝ` 等表达美式 r 色彩 |
+| **IPA** | International Phonetic Alphabet | 国际音标，用于标注各种语言 | 是大框架；各词典会有自己的实现细节 |
+| **CEPD** | Cambridge English Pronouncing Dictionary | 剑桥英语发音词典（1000h 采用） | UK 用 D.J.；US 使用 IPA 风格并加入美式优化 |
 
-### 1.3 美式标注速查
+### 1.3 Schwa /ə/（弱读元音 · 央元音）
+
+**Schwa** /ʃwɑː/ —— 音标学术语（源自希伯来语 *šəwā*，指「无辅音的元音」）。中文常说 **弱读元音** 或 **央元音**；符号 **`/ə/`**。
+
+| | |
+|---|---|
+| **是什么** | 英语里**出现频率最高**的元音；舌位居中、口型较小、发音轻而短 |
+| **何时出现** | 非重读音节里，原元音常**弱读**成 /ə/；功能词（*a*, *the*, *of*, *to*…）在语流中几乎总是 schwa |
+| **怎么读** | 不要读成中文「额」或重读的 /ʌ/；听感接近轻、短、含糊的「呃」，嘴唇不必刻意张大 |
+| **与 /ʌ/ 区别** | /ʌ/ 在**重读**音节（*bug*, *run*）；/ə/ 在**非重读**（*support* 首音节、*system* 末音节）。美式里 /ʌ/ 有时也听感接近 /ə/（*encourage*） |
+| **美式变体** | **`ɚ`** = 带 r 色彩的 schwa（*worker* 末音节）；**`ɝ`** = 带 r 的长元音（*worker* 首音节）。**非重读 /ə/ 不要一律卷舌成 /ɚ/** |
+
+**工程师速记例词：**
+
+| 词 | IPA | schwa 在哪 |
+| --- | --- | --- |
+| **system** | /ˈsɪstəm/ | 第二音节 `-tem` |
+| **support** | /səˈpɔːrt/ | 第一音节 `su-` |
+| **about** | /əˈbaʊt/ | 第一音节 `a-` |
+| **database** | /ˈdeɪtəbeɪs/ | 中间 `-ta-` |
+| **developer** | /dɪˈveləpər/ | `-lop-` 中的 `-lo-` |
+
+深入：[[1000-hours/sounds-of-american-english/3.1.1-ə|1000h · 3.1.1 ə/ɚ/ɝ]] · [[learning-notes/pronunciation/syllable-division-ipa-based#62-词内重音|音节划分 · 词内重音]]
+
+### 1.4 美式标注速查
 
 | 现象 | 常见写法 | 例词 | 提醒 |
 | --- | --- | --- | --- |
-| 儿化 schwa | `ə` → `ɚ`；`ɜː` / `əː` → `ɝː` / `ɝ` | **worker** /ˈwɝːkɚ/ | 不要见 `ə` 就强行卷舌；看词典 |
+| 儿化 schwa（**弱读元音 + r**） | `ə` → `ɚ`；`ɜː` / `əː` → `ɝː` / `ɝ` | **worker** /ˈwɝːkɚ/ | 不要见 `ə` 就强行卷舌；看词典 |
 | r 色彩双元音 | `ɪə` → `ɪr`；`eə` → `er`；`ʊə` → `ʊr` | **gear** /ɡɪr/ | 美式常用 `r` 收尾 |
 | 短元音替换 | `ɒ` → `ɑː` / `ɑ` | **dog** /dɑːɡ/ | UK /ɒ/ 在 US 多接近 /ɑ/ |
 | 词尾 happy vowel | 词尾 `ɪ` → `i` | **city** /ˈsɪt̬i/ | `i` 不是长元音 /iː/ |
 | 弹舌 t | `t` → `t̬` | **city**, **meeting** | 美式高频，听感接近 /d/ |
-| 非重读弱化 | `ɪ` / 其它元音 → `ə` | **support** /səˈpɔːrt/ | 非重读音节常向 schwa 靠拢 |
+| 非重读弱化 | `ɪ` / 其它元音 → `ə`（**schwa 弱读**） | **support** /səˈpɔːrt/ | 非重读音节常向 schwa /ə/ 靠拢（见 §1.3） |
 
 ---
 
@@ -69,7 +93,7 @@ aliases:
 
 | 组别 | 音标 | 技术 / 职场例词 | 阿泽要点 |
 | --- | --- | --- | --- |
-| 短 / 核心元音 | `ʌ e ə ɪ ʊ ɒ/ɑ` | **bug**, **tech**, **system**, **linux**, **pull**, **log** | 短但不能糊；非重读常弱化为 `ə` |
+| 短 / 核心元音 | `ʌ e ə ɪ ʊ ɒ/ɑ` | **bug**, **tech**, **system**, **linux**, **pull**, **log** | 短但不能糊；`ə` = schwa，非重读常弱化为它 |
 | 长 / 对应元音 | `ɑː æ ɜː/ɝ iː uː ɔː` | **database**, **stack**, **server**, **feature**, **queue**, **core** | 不只是短音拉长，很多位置也不同 |
 | 双元音 | `aɪ eɪ ɔɪ aʊ əʊ/oʊ eə ɪə ʊə` | **pipeline**, **cache**, **deploy**, **cloud**, **code**, **share**, **gear**, **pure** | 从第一个音滑向第二个音，要够长、够饱满 |
 
@@ -88,7 +112,7 @@ aliases:
 | 状态 | 元音变化 | 例词 |
 | --- | --- | --- |
 | **重读音节** | 长元音更长，双元音更饱满，短元音也相对更清楚 | **database**, **review**, **deploy** |
-| **非重读音节** | 元音常弱化为 /ə/ 或 /ɪ/；音高更低 | **system** /ˈsɪstəm/, **support** /səˈpɔːrt/ |
+| **非重读音节** | 元音常弱化为 **schwa** /ə/ 或 /ɪ/；音高更低 | **system** /ˈsɪstəm/, **support** /səˈpɔːrt/ |
 | **句内强读** | 内容词被突出，元音时长和音高更明显 | *We need a **rollback**.* |
 | **句内弱读** | 功能词弱化，语流更自然 | *for a*, *to the*, *of the* |
 
@@ -165,13 +189,17 @@ aliases:
 
 ### 4.3 重音与弱读常见模式
 
+完整后缀规律（含 **-ic**、复合词、衍生词）→ [[learning-notes/pronunciation/syllable-division-ipa-based#64-常见重音位置规则|音节划分 · §6.4]]。
+
 | 模式 | 示例 | IPA | 提醒 |
 | --- | --- | --- | --- |
-| 2 音节动词重音在后 | **deploy** | /dɪˈplɔɪ/ | de-**ploy** |
-| 2 音节名词重音在前 | **server** | /ˈsɜːrvər/ | **ser**-ver |
-| `-er`, `-or` | **developer**, **compiler** | /dɪˈveləpər/, /kəmˈpaɪlər/ | 看主重音，不按拼写猜 |
-| `-tion`, `-sion` | **application**, **version** | /ˌæplɪˈkeɪʃn/, /ˈvɜːrʒn/ | `-tion` / `-sion` 本身弱 |
-| 非重读弱化 | **support**, **database** | /səˈpɔːrt/, /ˈdeɪtəbɑːs/ | 非重读元音常向 /ə/ 靠拢 |
+| 2 音节动词重音在后 | **deploy**, **record**（v.） | /dɪˈplɔɪ/, /rɪˈkɔːrd/ | de-**ploy** |
+| 2 音节名词重音在前 | **server**, **record**（n.） | /ˈsɜːrvər/, /ˈrekɚd/ | **ser**-ver |
+| **-ic** | **ceramic**, **specific** | /səˈræmɪk/, /spəˈsɪfɪk/ | 重音在 -ic **前**；*Arabic* 例外 |
+| `-er`, `-or` | **developer**, **compiler** | /dɪˈveləpər/, /kəmˈpaɪlər/ | 看词根主重音 |
+| `-tion`, `-sion` | **application**, **version** | /ˌæplɪˈkeɪʃn/, /ˈvɜːrʒn/ | 后缀音节弱读 |
+| `-ity`, `-ology` | **integrity**, **technology** | /ɪnˈteɡrəti/, /tekˈnɒlədʒi/ | |
+| 非重读弱化 | **support**, **database** | /səˈpɔːrt/, /ˈdeɪtəbɑːs/ | 非重读元音 → schwa /ə/ |
 
 ---
 
@@ -210,4 +238,4 @@ aliases:
 
 ---
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-14*

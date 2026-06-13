@@ -176,22 +176,56 @@ aliases:
 | **address** | /ˈæd-res/ 地址 | /ə-ˈdres/ 强调；致辞 |
 | **permit** | /ˈpɜːr-mɪt/ 许可证 | /pər-ˈmɪt/ 允许 |
 
-### 6.4 常见重音位置规则（工程师向）
+### 6.4 常见重音位置规则
 
-摘自 [[learning-notes/pronunciation/engineer-phonetics-reference#43-重音与弱读常见模式|工程师音标速查 · §4.3]]；**规则有例外**，以词典 IPA 为准。
+> **使用方式：** 下列规律是**倾向**，不是公式；**以词典 IPA 为准**。完整表见本页；速查摘要见 [[learning-notes/pronunciation/engineer-phonetics-reference#43-重音与弱读常见模式|工程师音标速查 · §4.3]]。
 
-| 模式 | 重音倾向 | 例词 | IPA |
+#### 6.4.1 双音节：词性常决定重音
+
+| 倾向 | 词性 | 例词 | IPA | 备注 |
+| --- | --- | --- | --- | --- |
+| 重音在**后** | 动词（多数） | **deploy**, **record**（v.）, **permit**（v.） | /dɪ-ˈplɔɪ/, /rɪ-ˈkɔːrd/, /pər-ˈmɪt/ | 与名词对比见 §6.3 |
+| 重音在**前** | 名词（多数） | **server**, **record**（n.）, **permit**（n.） | /ˈsɜːr-vər/, /ˈrek-ɚd/, /ˈpɜːr-mɪt/ | |
+| 重音在**前** | 形容词（多数） | **happy**, **quiet**, **simple** | /ˈhæpi/, /ˈkwaɪət/, /ˈsɪmpl/ | |
+| 英美/词性不同 | 名/形 | **adult**, **garage**, **novel** | 美 /ə-ˈdʌlt/, /ɡə-ˈrɑːʒ/ | 见 [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#2-英美差异-british-vs-american|易读错词汇 · §2]] |
+
+#### 6.4.2 后缀规律（多音节词最实用）
+
+| 后缀 | 重音倾向 | 例词 | IPA | 例外 / 提醒 |
+| --- | --- | --- | --- | --- |
+| **-ic** | 在 **-ic 前**一音节 | **ceramic**, **dramatic**, **specific**, **electric** | /sə-ˈræm-ɪk/, /drə-ˈmæt-ɪk/, /spə-ˈsɪf-ɪk/, /ɪ-ˈlek-trɪk/ | *Arabic* /ˈær-əb-ɪk/ 重音在前；*public* /ˈpʌb-lɪk/ |
+| **-ical** | 通常与 **-ic** 词根一致 | **historical**, **electrical** | /hɪ-ˈstɒr-ɪ-kl/, /ɪ-ˈlek-trɪ-kl/ | 先记 *history* /ˈhɪs-təri/ 再推 |
+| **-tion / -sion** | 在 **-tion/-sion 前** | **application**, **discussion**, **version** | /ˌæpl-ɪ-ˈkeɪ-ʃn/, /dɪ-ˈskʌ-ʃn/, /ˈvɜːr-ʒn/ | 后缀音节本身弱读 |
+| **-ity** | 在 **-ity 前** | **capacity**, **integrity**, **security** | /kə-ˈpæs-ə-ti/, /ɪn-ˈteɡ-rə-ti/, /sɪ-ˈkjʊr-ə-ti/ | |
+| **-ology** | 在 **-ol** | **technology**, **biology** | /tek-ˈnɒl-ə-dʒi/, /baɪ-ˈɒl-ə-dʒi/ | |
+| **-ious / -eous / -uous** | 在后缀**前** | **mysterious**, **gorgeous**, **continuous** | /mɪ-ˈstɪər-i-əs/, /ˈɡɔːr-dʒəs/, /kən-ˈtɪn-ju-əs/ | *gorgeous* 等少数重音更靠前 |
+| **-phy / -graphy / -metry** | 常在 **-graph/-metr** 前 | **photography**, **geography** | /fə-ˈtɒɡ-rə-fi/, /dʒi-ˈɒɡ-rə-fi/ | |
+| **-ee** | 在 **-ee** 上 | **employee**, **referee** | /ɪm-ˈplɔɪ-i/, /ˌref-ə-ˈriː/ | |
+| **-eer** | 在 **-eer** 上 | **engineer**, **volunteer** | /ˌend-ʒɪ-ˈnɪr/, /ˌvɒl-ən-ˈtɪr/ | |
+| **-ary / -ory**（三音节及以上） | 多在前缀部分 | **dictionary**, **laboratory** | /ˈdɪk-ʃə-ner-i/, /ˈlæb-rə-tɔːr-i/ | 美式 *laboratory* 也有 /ˈlæb-rə-tɔːr-i/ |
+
+#### 6.4.3 词根、前缀与复合词
+
+| 类型 | 重音倾向 | 例词 | IPA | 提醒 |
+| --- | --- | --- | --- | --- |
+| **re- / de- / ex-** 等 + 动词 | 常在**词根**重音 | **record**（v.）, **reject**, **accept** | /rɪ-ˈkɔːrd/, /rɪ-ˈdʒekt/, /ək-ˈsept/ | 前缀常弱读 |
+| **复合名词**（两完整词） | 常在**前半** | **greenhouse**, **blackboard**, **hotfix** | /ˈɡriːn-haʊs/, /ˈblæk-bɔːrd/, /ˈhɑːt-fɪks/ | 口语里次重音也可能后移 |
+| **-er / -or** 表人/物 | 看**词根**主重音 | **developer**, **compiler**, **server** | /dɪ-ˈvel-ə-pər/, /kəm-ˈpaɪ-lər/, /ˈsɜːr-vər/ | 不按拼写猜 |
+| **希腊/拉丁长词** | 位置多变，常第 2–3 音节 | **analysis**, **architecture**, **philosopher** | /ə-ˈnæl-ə-sɪs/, /ˈɑːr-kɪ-tek-tʃər/, /fə-ˈlɒs-ə-fər/ | **architecture** 重音在第 1 音节，勿套用「技术词第 2 音节」 |
+
+#### 6.4.4 衍生词：必须重新查
+
+同一词族重音**不会自动继承**（[[book/chapter3#9-很多的时候其实并不是不准而是干脆错了|ch.3 §9]]）：
+
+| 词族 | 词 | IPA | 易错点 |
 | --- | --- | --- | --- |
-| 双音节**动词** | 在后 | **deploy** | /dɪ-ˈplɔɪ/ |
-| 双音节**名词** | 在前 | **server** | /ˈsɜːr-vər/ |
-| **-tion / -sion** | 在前一音节 | **application** | /ˌæpl-ɪ-ˈkeɪ-ʃn/ |
-| **-ology** | 在 -ol | **technology** | /tek-ˈnɒl-ə-dʒi/ |
-| **-ity** | 在 -ity 前 | **capacity** | /kə-ˈpæs-ə-ti/ |
-| 2 音节以上技术词 | 常第 2 音节 | **developer** | /dɪ-ˈvel-ə-pər/ |
-|  |  | **architecture** | /ˈɑːr-kɪ-tek-tʃər/ |
-|  |  | **analysis** | /ə-ˈnæl-ə-sɪs/ |
+| **economy** 系列 | economy / economics / economist | /ɪ-ˈkɒn-ə-mi/, /ˌiː-kə-ˈnɒm-ɪks/, /ɪ-ˈkɒn-ə-mɪst/ | 首音节 /ɪ/ vs /e/ 不同 |
+| **penalty** 系列 | penalty / penalize | /ˈpen-əl-ti/, /ˈpiː-nə-laɪz/ | 勿把 *penalize* 读成 /ˈpen-ə-laɪz/ |
+| **specific** 系列 | specific / specify | /spə-ˈsɪf-ɪk/, /ˈspes-ɪ-faɪ/ | 重音位置不同 |
 
-**易错词练习库：** [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#3-重音位置-stress-position|易读错词汇 149 · §3 重音]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#0-中国人常见误读模式简中母语者|§0 国人易错模式]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#9-工程笔记补充其它文档收录|§9 工程补充]]（约 20 个专项 + 跨文档汇总）。
+#### 6.4.5 练习入口
+
+**易错词练习库：** [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#3-重音位置-stress-position|易读错词汇 149 · §3 重音]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#0-中国人常见误读模式简中母语者|§0 国人易错模式]] · [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|亲子 · 材料词]]（*ceramic*, *plastic* 等）
 
 ### 6.5 句内强读与弱读
 
@@ -256,6 +290,7 @@ aliases:
 | 多音节套模式 + 前段多前五种 | §4 |
 | 重音节前停顿 | §6.3 |
 | 词内重音 / 次重音 | §6.2 |
+| 词内重音 / 后缀规律 | §6.4 |
 | 句内强读弱读、community 例 | §6.5 |
 | 虚词强弱读表 | §6.5 |
 
