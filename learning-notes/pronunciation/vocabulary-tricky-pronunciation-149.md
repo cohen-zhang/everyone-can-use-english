@@ -19,7 +19,7 @@ aliases:
 > 
 > 本文档配合 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] 使用效果更佳。
 
-**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/personal-english-book/life/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
+**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
 
 ---
 
@@ -53,7 +53,7 @@ aliases:
 | **/iː/ vs /ɪ/** | 长元音读短会改变词义 | *beach* 要够长，勿近 *bitch* /bɪtʃ/ | *beach* /biːtʃ/（[[book/chapter3|ch.3 §7]]） |
 | **/æ/ vs /e/** | 短元音混淆 | 听 *ab* /æb/ 与 *ebb* /eb/ 对比 | [[book/chapter3|ch.3 §7]] · §9.5 |
 | **双元音汉语化** | /aɪ/ 读成中文「爱」；/oʊ/ 拖成单韵母 | 滑音饱满、两拍 | *ice* /aɪs/；*own* /oʊn/ |
-| **短元音 /ɪ/** | 用汉语「衣」长音代替 /ɪ/ | 短、松、不拉长 | *kid* /kɪd/ · *pig* /pɪɡ/（[[learning-notes/personal-english-book/life/world-cinema-quick-notes|电影随记]]） |
+| **短元音 /ɪ/** | 用汉语「衣」长音代替 /ɪ/ | 短、松、不拉长 | *kid* /kɪd/ · *pig* /pɪɡ/（[[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]]） |
 | **想当然拼读** | 按字母猜读音，不查 IPA | 每个生词查音标 + 标重音 | *facade* · *specific* · *create*（见 §9.1） |
 | **重音错位** | 衍生词沿用错重音；多音节当单音节 | 查词典主重音 `ˈ`；*penalty* ≠ *penalize* | *developer* · *analysis*（§3） |
 | **辅音替代** | /v/ 读成 /w/；*th* 读成 /s/ 或 /f/ | 上齿轻咬下唇发 /v/；*th* 分清浊 | *video* 非 bideo；*specific* 非 spesific |
@@ -194,9 +194,11 @@ aliases:
 
 ## 6. 清浊变化与特殊发音 Voicing & Special Pronunciation
 
-清浦音 unvoiced/voiceless consonant
-浊化 voicing
-浊浦音 voiced 
+| 术语 | English | 说明 |
+| --- | --- | --- |
+| **清辅音** | voiceless / unvoiced consonant | 声带不振动，如 /p/ /t/ /k/ /s/ |
+| **浊辅音** | voiced consonant | 声带振动，如 /b/ /d/ /g/ /z/ |
+| **浊化** | voicing | 语流中清辅音接近浊辅音，如 /t/ → /t̬/（见 [[book/chapter3|ch.3 §15]]） |
 
 | 序号 | 单词 | 音标 | 释义 | 发音变化 | 发音提示 |
 |-----|------|------|------|---------|---------|
@@ -445,9 +447,9 @@ aliases:
 | **fawning** | /ˈfɔːnɪŋ/ | 重音或 /ɔː/ 不准 | 谄媚的 | 国人易错 | [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|S01E01]] |
 | **passionate** | /ˈpæʃənət/ | /ˈpæʃnət/ 吞音节 | 热烈的 | 国人易错 | S01E01 · 已在§4 可对照 |
 | **penalty** | /ˈpenəlti/ | 与 *penalize* 混 | 点球；处罚 | 国人易错 | S01E01 · §3 相关 |
-| **cinema** | /ˈsɪnəmə/ | 「辛呐马」拖长尾音 | 电影；影院 | 国人易错 | [[learning-notes/personal-english-book/life/world-cinema-quick-notes|电影随记]] |
-| **casual** | /ˈkæʒuəl/ | /ʒ/ 发成 sh 或 z | 随意的 | 国人易错 | 电影随记 |
-| **documentary** | /ˌdɒkjəˈmentri/ | 重音 / 次重音全错 | 纪录片 | 国人易错、重音 | 电影随记 |
+| **cinema** | /ˈsɪnəmə/ | 「辛呐马」拖长尾音 | 电影；影院 | 国人易错 | [[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]] |
+| **casual** | /ˈkæʒuəl/ | /ʒ/ 发成 sh 或 z | 随意的 | 国人易错 | [[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]] |
+| **documentary** | /ˌdɒkjəˈmentri/ | 重音 / 次重音全错 | 纪录片 | 国人易错、重音 | [[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]] |
 | **surrogate** | /ˈsɜːrəɡət/ | 三音节读成两节 | 代孕者 | 国人易错、音节 | S01E01 · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
 | **wide awake** | /waɪd əˈweɪk/ | *awake* 单音节化 | 完全醒着的 | 国人易错 | S01E01 · 已在§8 |
 
@@ -607,7 +609,8 @@ aliases:
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
 - [[book/chapter3|《人人都能用英语》第三章 · 语音]]
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇 · 易读错命令/单词]]
-- [[learning-notes/personal-english-book/life/world-cinema-quick-notes|世界电影随记 · 发音笔记]]
+- [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记 · 发音笔记]]
+- [[learning-notes/pronunciation/indian-english-pronunciation-guide|印度式英文发音模仿]]
 - [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
 - [[3.2-consonants|辅音详解 Consonants]]
 - [[3.1-vowels|元音详解 Vowels]]

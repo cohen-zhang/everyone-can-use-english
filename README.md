@@ -189,7 +189,8 @@ learning-notes/
 | `romantic-love-song-phrases.md` | 浪漫情歌与恋爱口语 |
 | `classic-film-love-and-like-quotes.md` | 经典电影爱与喜欢台词 |
 | `weather-daily-expressions.md` | 天气场景表达 |
-| `world-cinema-quick-notes.md` | 世界电影随记 |
+
+**`pronunciation/`（发音资料）** 含 `world-cinema-quick-notes.md`（世界电影随记）、`indian-english-pronunciation-guide.md` 等；索引见 `learning-notes/pronunciation/README.md`。
 
 **`mind-body-brain-health/`（身心健康与脑科学）**
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-english-book
+  - pronunciation
   - english-learning
   - peb/life
 aliases:
@@ -8,7 +8,7 @@ aliases:
 ---
 # 世界电影随记
 
-**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**索引：** [[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 ## 这篇文章为什么适合练习英语口语？
 

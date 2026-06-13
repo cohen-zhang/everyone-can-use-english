@@ -1,5 +1,17 @@
+---
+tags:
+  - pronunciation
+  - english-learning
+  - parenting-english
+aliases:
+  - 印度式英文发音
+  - Indian English Pronunciation Guide
+---
 # Indian English Pronunciation Guide（印度式英文发音模仿教程）
-> 说明：本教程为**趣味模仿、娱乐学习**，仅还原日常典型发音特点，无贬义，尊重各国英语口音文化差异。全文采用Markdown格式，分发音规则、单词示范、短句、语调四大模块。
+
+**索引：** [[learning-notes/pronunciation/README|发音资料索引]]
+
+> 说明：本教程为**趣味模仿、娱乐学习**，仅还原日常典型发音特点，无贬义，尊重各国英语口音文化差异。全文采用 Markdown 格式，分发音规则、单词示范、短句、语调四大模块。
 
 ## 一、核心基础发音总规则（最标志性特点）
 ### 1. 辅音替换规律（高频）

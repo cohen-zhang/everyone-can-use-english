@@ -38,7 +38,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] — playful reduplication、押韵口头表达、态度副词
 - [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]] — 冲突语气识别、骂人词与降火替代表达
 - [[learning-notes/personal-english-book/life/andy-warhol-notes.md|安迪·沃霍尔笔记]] — 艺术主题摘录
-- [[learning-notes/personal-english-book/life/world-cinema-quick-notes.md|世界电影随记]] — 电影史短文练习
+- [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] — 电影史短文练习（发音资料库）
 
 <a id="life--shenzhen-apartment-home居家物品与场景"></a>
 

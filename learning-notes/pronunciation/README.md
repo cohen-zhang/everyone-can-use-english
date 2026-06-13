@@ -32,6 +32,13 @@ aliases:
 
 ---
 
+## 跟读短文与口音趣味
+
+- [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] — 电影史短文 + 连读 / 重音发音笔记
+- [[learning-notes/pronunciation/indian-english-pronunciation-guide|印度式英文发音模仿]] — 趣味口音对比（娱乐学习，非标准发音）
+
+---
+
 ## 站点入口
 
 [[learning-notes/index|学习笔记站点首页]]
