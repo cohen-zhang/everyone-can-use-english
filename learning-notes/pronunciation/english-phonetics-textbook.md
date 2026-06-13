@@ -29,6 +29,7 @@ aliases:
 | 切音节、标重音 | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] |
 | 国人易错词清单 | [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] |
 | Markdown 里打 IPA | [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] |
+| 原书 ch.3 中英示例速查 | 本页 **附录 C** |
 
 **源文档（仓库内）：**
 
@@ -85,15 +86,42 @@ aliases:
 
 中文韵母等长、音节均匀；英文有长短元音、词首词尾辅音簇，整体容易**读过快**（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]] § 语速）。
 
+> 摘自 [[book/chapter3#7-放慢你的语速|ch.3 §7]]：**「快」和「流利」不是一回事。** 听外语时，往往不是「因为人家说得太快所以我才听不懂」，而是「因为我听不懂所以才觉得人家说得太快」—— 例如句中出现不认识的词 *idiosyncratic*，大脑还在猜词义，讲话者已经说下去了，你就觉得「漏掉了信息、说得太快」。
+
+**国人典型读法 vs 目标读法：**
+
+| 词 | 国人易读成 | 词典 IPA | 要点 |
+|----|-----------|----------|------|
+| **apple** | 像 *epple*（元音等长） | /ˈæpəl/ | /æ/ 要够长，不是短 e |
+| **important** | /ɪmˈpɔtənt/ | /ɪmˈpɔːtənt/ | 重读音节元音要拉长 |
+| **beach** | 读短了像 *bitch* | /biːtʃ/ | 长元音 /iː/ 不能省 |
+
 刻意练习：
 
 - 长元音够长，双元音够饱满
-- 辅音簇（如 **strict** /strɪkt/）留出时长
+- 辅音簇（如 **strict** /strɪkt/）留出时长 —— 中文声母都是单辅音、韵母末尾少辅音，*strict* 开头 *str*、结尾 *kt* 都要占时长
 - 「外国人说话快」常是**听不懂的幻觉** —— 语流里有意群、强弱、停顿（[[book/chapter3#7-放慢你的语速|ch.3 §7]]）
 
 ### I.4 停顿比连读更重要
 
 先学会在**意群之间、句内**适当停顿，再追求连读流畅（[[book/chapter3#8-比连读更重要的是停顿|ch.3 §8]]）。
+
+> 摘自 [[book/chapter3#8-比连读更重要的是停顿|ch.3 §8]]：重音音节**之前**常有一个停顿（可短可夸张）。练习时在重音前故意停一下，重音会更清楚。
+
+**词内停顿练习（`|` = 故意停顿）：**
+
+| 单词 | 切分 | 读法提示 |
+|------|------|----------|
+| **especially** | e \| specially | 读完 *e* 闭嘴，等约 1 秒，再用力读 *spe*… |
+| **unfortunately** | un \| fortunately | |
+| **important** | im \| portant | |
+| **understand** | under \| stand | |
+| **education** | edu \| cation | |
+| **financial** | fi \| nancial | |
+
+句内也可拆开：电影台词里 *absolutely* 有时说成 **ab-fucking-solutely** —— 说明母语者脑子里一个词本就可以分段读。
+
+**中文对比：** 「高低不平」「嚎啕大哭」每个字匀速连贯；英文多音节词在重音前停顿，是不同习惯，需要刻意练。
 
 ### I.5 音标五项能力
 
@@ -130,6 +158,22 @@ aliases:
 
 母语发音方式**没有错**；学外语是在大脑里**新建**神经元连接，而非「删掉旧的」（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]]）。成年人听不出某些对立，是大脑过滤 + 可塑性仍可突破（[[1000-hours/sounds-of-american-english/3-details|3 音素详解]]）。
 
+### II.4 别想当然读词 —— ch.3 经典反例
+
+> 摘自 [[book/chapter3#9-很多的时候其实并不是不准而是干脆错了|ch.3 §9]]：很多「发音不好」不是音素不标准，而是**整个词读错了**。
+
+| 词 | 想当然误读 | 正确 IPA | 教训 |
+|----|-----------|----------|------|
+| **façade** | /ˈfækeɪd/（把 ç 当 c） | /fəˈsɑːd/ | 特殊字母 ç → /s/ |
+| **specific** | /ˈspesɪfɪk/ | /spəˈsɪfɪk/ | 重音在第二音节 |
+| **cellist** | （常读错） | /ˈtʃelɪst/ | ch 发 /tʃ/ |
+| **heir** | （按拼写猜） | /er/ | h 不发音 |
+| **niche** | （按拼写猜） | /niːʃ/ 或 /nɪtʃ/ | 以词典为准 |
+| **penalize** | /ˈpenəlaɪz/（沿 penalty 猜） | /ˈpɪnəlaɪz/ | 衍生词也要查 |
+| **economics** | 与 economy 同读 /ɪ/ | 首音节 /e/ | economy /ɪ/，economics /e/ |
+
+**标注技巧（不必每次抄完整音标）：** *façade* 在 ç 旁标 /s/、第二 a 标 /ɑː/；*resumé* 在最后一个 e 标 /ˈeɪ/；*debt* 在 b 上划一道表示不发音（[[book/chapter3#10-一定要学会音标|ch.3 §10]]）。
+
 ---
 
 ## Part III · 元音（优先）
@@ -152,6 +196,18 @@ aliases:
 - 中文习惯「等长韵母」→ 英文**长元音 / 双元音必须拉长**（Part I §I.3）。
 - **ʌ** 与 **æ** 专章：[[book/chapter3#20-元音ʌ和æ|ch.3 §20]]
 - 双元音：[[book/chapter3#21-双元音|ch.3 §21]]
+
+**ch.3 §20 练习句：**
+
+> We **encourage** all students to volunteer for at least one community activity before they graduate.
+
+- *encourage*：/ʌ/ 在美式里常接近 /ə/；韦氏标注 /in-ˈkər-ij/
+- /æ/ 是「半长元音」—— *apple*、*ask*、*after* 都要够长；美音里 *after*、*ask*、*glass* 等有时 /ɑ/ → /æ/
+
+**ch.3 §21 双元音 /aɪ/ 练习步骤：**
+
+1. 张嘴夸张读三遍 /a/，每遍略长、升调，遍与遍之间略停
+2. 第四遍嘴唇不动，仅靠小舌滑动：/a/ 长 → 滑向 /ɪ/，整体降调
 
 完整元音表与美式符号：[[learning-notes/pronunciation/engineer-phonetics-reference#2-元音-vowels|工程师音标速查 · §2]] · [[1000-hours/sounds-of-american-english/1.1-phonemes|1.1 音素与音标]]
 
@@ -181,9 +237,41 @@ aliases:
 
 语流中的变体多，是 Part VI 核心（[[book/chapter3#13-精雕细琢td和s|ch.3 §13]]）。
 
+> 摘自 [[book/chapter3#13-精雕细琢td和s|ch.3 §13]]：**中文 vs 英文舌尖位置**
+
+故意拉长「踢」「打」「死」，体会中文 [t][d][s] 舌尖**贴牙齿**；英文 /t/ /d/ /s/ 起点在**上牙龈**或龈上方一点，气流阻塞更少 —— 老外说话「送气感」更强，常源于此。
+
+**中文反向练习（把英文部位用在中文上）：**
+
+```
+我踢——死——你……   （中文 [t][s]）
+我打——死——你……   （中文 [d][s]）
+```
+
+再把句中 [t][d][s] 换成英文 /t/ /d/ /s/ 反复说 —— 听起来像「老外说中文」就对了。
+
+**英文锚词：** *student* → *students*（/ts/ 与 /t/ 同部位；/dz/ 与 /d/ 同部位）。跟读句：
+
+> We encourage all **students** to volunteer for at least one community activity before they graduate.
+
 ### IV.3 其它辅音专章
 
 [[book/chapter3#22-其它辅音θðvʒ|ch.3 §22]] · 辅音总表 [[learning-notes/pronunciation/engineer-phonetics-reference#3-辅音-consonants|速查 · §3]]
+
+**词尾 /l/ 与连读（ch.3 §14）：**
+
+| 词 | 国人易读成 | 目标 |
+|----|-----------|------|
+| **lawful** | /ˈlɔːfəʊ/ | /ˈlɔːfəl/ |
+| **valuable** | /ˈvæljəʊ/ | /ˈvæljəbəl/ |
+| **financial** | /faɪˈnænʃəʊ/ | /faɪˈnænʃəl/ |
+| **still** | /ˈstɪəʊ/ | /stɪl/ |
+
+要点：/əl/ 结束时舌尖要**滑到牙龈**；/əʊ/ 时舌头几乎不动。连读例：
+
+> I'm sure you'**ll_en**joy … valuab**le_e**xperience …
+
+**/ʒ/ 中文反向练习：** 把「周志，你给我站直了！」里所有 [zh] 换成 /ʒ/ —— 说得像老外说中文，/ʒ/ 就到位了（与 *vision* /ˈvɪʒən/ 对照）。
 
 ---
 
@@ -202,6 +290,19 @@ aliases:
 - 句内：功能词弱读、内容词强读 → [[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]]
 - 1000h 延伸：[[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子]]
 
+**同一词两次出现 —— *community* 强读 vs 弱读：**
+
+> **Community** service is an important component of education here at our university. We encourage all students to volunteer for at least one **community** activity before they graduate.
+
+- 第一处 **Community**：强读，/mjuː/ 饱满，带声调、较高 pitch
+- 第二处 **community**：弱读，/mjuː/ 变短，声调不明显
+
+**强读句标记（加粗 = 强读）：**
+
+> **Community** **service** is an **important** **component** of **education** **here** at our **university**. We **encourage** **all** **students** to **volunteer** for at **least** **one** community **activity** **before** they **graduate**.
+
+**常见虚词弱读（节选）：** *the* /ðiː/→/ðə/ · *to* /tuː/→/tə/ · *for* /fɔː/→/fə/ · *our* /aʊər/→/ɑr/ · *can* /kæn/→/kən/
+
 重音规则摘要与例外提醒：[[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] · [[learning-notes/pronunciation/engineer-phonetics-reference#4-工程师高频词发音|工程师音标速查 · §4]]
 
 ---
@@ -219,6 +320,19 @@ aliases:
 
 **原则：** 在 Part I 的停顿与语速基础上练习；不要跳过「慢读 + 意群」直接追求连读。
 
+**ch.3 语流示例句（贯穿 §13–§17）：**
+
+> A new community program called "One On One" **helps** elementary students who've fallen behind.
+
+- *helps elementary* 连读：读完 /hel/ 后**闭嘴**（做好 /p/ 口型），夸张停顿，再张开读 /ˈselɪmen-təri/
+- *study* 听感近 /sdʌdi/ · *school* 近 /sguːl/ · *experience* 近 /ɪksˈbɪərəns/（/s/ 后清辅音浊化，但非重读音节不一定浊化：*distance*、*costume*）
+
+**浊化：** *city* /t/→/t̬/ · *meeting* /ˈmiːtɪŋ/ 中 /t/ 浊化 · *it offers*、*that is* 中夹在元音间的 /t/
+
+**失爆：** *finished reading*、*might be*、*interested in it* —— 舌尖仍到牙龈，但无气流；占原有时长，像吉他切音
+
+**同化：** *want you* → /wɑːnʧu/ · *what should you* 中 *what*+/ʃ/ → /wʌʧ/
+
 ---
 
 ## Part VII · 音高、节奏与「声调」
@@ -233,6 +347,22 @@ aliases:
 2. 该拉高音高的音节拉高  
 3. 强读音节：元音长度与位置 + 辅音舌尖位置  
 4. 弱读音节：向 /ə/ 等弱化形式靠拢  
+
+**用中文声调类比英文重读音节（ch.3 §19）：**
+
+| 英文词 | 类比读法 | 说明 |
+|--------|----------|------|
+| **component** | com（轻声）· po（四声）· nent（二声） | 强读词内分声调 |
+| **program** | pro（四声）· gram（一声） | /æ/ 略长于短元音 |
+| **wife**（黄西腔） | 读成二声很别扭 | 双元音 /aɪ/ 常接近四声或二声 |
+
+**中文声调实验：** 「洋话连篇」正常 *yáng huà lián piān*（平仄平平）；改成 *yāng huà liǎn piàn*（平仄仄仄）—— 声母韵母全对，一听就是「老外腔」。英文亦然：**辅音元音都「标准」，声调模式不对照样外国腔。**
+
+**三条速记规律：**
+
+- 长元音 → 多为「一声」
+- 双元音 → 多为「四声」或「二声」
+- 短元音 → 几乎不可能是「一声」（读成一声就变长了）
 
 ---
 
@@ -288,6 +418,66 @@ aliases:
 
 ---
 
+## 附录 C · 原书 ch.3 语音示例库
+
+摘自 [[book/chapter3|《人人都能用英语》第三章]]，按主题归档；完整语流分析见 ch.3 §24。
+
+### C.1 中文母语：发音也「不标准」
+
+ch.3 §1 自测 —— 十个词你能读标准几个？
+
+> 标识(zhì)、绯闻(fēi)、嫉妒(jí)、潜力(qián)、勾当(gòu)、慰藉(jiè)、连累(lěi)、卑鄙(bǐ)、情不自禁(jīn)、人才济(jǐ)济(jǐ)
+
+**类比：** 母语者里能讲标准悦耳普通话的也极少；口音不影响沟通，第二语言更是如此。
+
+### C.2 音节划分（IPA 切分）
+
+| 词 | 拼写划分 | IPA 划分 | 注意 |
+|----|----------|----------|------|
+| **primary** | pri·ma·ry | /ˈpraɪ-mə-ri/ | |
+| **ichthyosaur** | ich·thy·o·saur | /ˈɪk-θiə-sɔː/ | |
+| **taxi** | tax·i | /ˈtek-si/ | 拼写与 IPA 切分不同 |
+| **curdling** | curd·ling | /ˈkɜːr-dlɪŋ/ | |
+| **create** | （易误为单音节） | /kriː-ˈeɪt/ | 两音节，非 /kriːt/ |
+
+九大单音节结构见 [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]。
+
+### C.3 跟读主句（Community Service 段落）
+
+整段为 ch.3 语音训练主轴，建议配合音频反复跟读（§24–§26）：
+
+> **Community** service is an important component of education here at our university. We encourage all students to volunteer for at least one community activity before they graduate. A new community program called "One On One" helps elementary students who've fallen behind.
+
+> You education majors might be especially interested in it because it offers the opportunity to do some teaching — that is, tutoring in math and English.
+
+> I'm sure you'll enjoy this community service, and you'll gain valuable experience at the same time.
+
+**§24 分析要点（第一句示例）：**
+
+- *Community* 强读 + 较高 pitch
+- *service is* 连读，听感接近 *services*
+- *important* 强读，/pɔː/ 一声，词尾 /t/ 失爆
+- *component*：/pəʊ/ 四声、/nənt/ 二声；*of* 弱读 /əf/ 连读
+- *here at our university*：*here* 四声强读；*at*→/ət/；*our*→/ɑr/；*at* 的 /t/ 浊化 → 整段听感近 /ˈhɪə-dɑr-juːnɪˈvɜːrsəti/
+
+### C.4 /t/ 小结（ch.3 §18）
+
+- 舌尖在**牙龈**，不在牙齿
+- 两元音之间（前为重读元音）→ 轻微浊化
+- 后接辅音 → 失爆（口型完整、无气流）
+- /t/+/s/ → /ts/；/d/+/s/ → /dz/
+- /t/+/j/ → 可能 /ʧ/；/d/+/j/ → 可能 /ʤ/
+
+### C.5 节奏清单（ch.3 §23 末）
+
+- 每个元音长短恰当
+- 强读 / 弱读分清
+- 合适位置停顿
+- 声调模式恰当
+- 意群首重音音节 pitch 略高
+
+---
+
 ## 阿泽 · 12 周极简执行表（可选）
 
 | 周次 | 重点 | 材料 |
@@ -303,4 +493,4 @@ aliases:
 
 ---
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-14*
