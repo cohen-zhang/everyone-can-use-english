@@ -27,18 +27,19 @@ aliases:
 
 | 难点类型 | 数量 | 示例词汇 |
 |---------|------|---------|
-| **不发音字母** | 10 | comb, debt, dumb, foreigner, psychology, knapsack, cupboard, mortgage, vehicle, rhyme |
-| **英美音差异** | 15 | girl, command, garage, adult, exit, march, rather, marathon, garage, scenario |
+| **不发音 / 非常规拼写** | 18 | comb, debt, isle, wrestle, scene, ache, hyphen, physical, philosophy, archiving … |
+| **英美音差异** | 20 | girl, command, garage, adult, honestly, status, novel, elite, meter … |
 | **重音位置** | 20 | analysis, algorithm, security, developer, engineer, architecture, enthusiasm, integrity, variable, compiler |
 | **特殊元音** | 18 | pull, toe, own, queue, rare, though, recipe, coupon, cuisine, anxiety |
-| **技术词汇** | 15 | daemon, encrypt, algorithm, recursive, integer, array, protocol, variable, compiler, parse, stack, sync, alias, feature, repository |
-| **清浊变化** | 8 | effect, accept, success, exhaust, anxiety, example, exercise, executive |
-| **易混淆词** | 13 | effect/affect, pull/pool, though/through, rare/bare, rather/father, taught/taut, love/laugh |
+| **技术词汇** | 17 | daemon, encrypt, algorithm, recursive, integer, array, protocol, parser, physics, stack, sync … |
+| **清浊变化** | 9 | effect, accept, success, exhaust, anxiety, example, exercise, bosom |
+| **易混淆词** | 11 对 | effect/affect, alter/altar, chew/few, whale/wail, kale/pale, pull/pool … |
 | **国人易错模式** | 见 §0 | 元音等长、双元音汉语化、想当然拼读、重音错位、v/θ 等 |
 | **工程笔记补充** | 见 §9 | facade, specific, cache, Linux, hurray, fawning … |
 | **原书 ch.3 完整** | 见 §9.5 | [[book/chapter3|chapter3]] 全部语音示例词（含 *beach*） |
+| **149 词全量主表** | 见 §8 | APP 导出完整清单；**主题** 列指向 §1–§7 交叉索引 |
 
-**标签说明：** 下表 **标签** 列中 **`国人易错`** = 本仓库多份笔记均指出**简中母语者**高发误读；**`已在§1–§8`** = 原 149 词表已有，此处只补国人误读说明与出处。
+**标签说明：** 下表 **标签** 列中 **`国人易错`** = 本仓库多份笔记均指出**简中母语者**高发误读；**`已在§1–§8`** = 原 149 词表已有，此处只补国人误读说明与出处。**§8** 为 149 词全量主表；**§1–§7** 为按难点类型的主题索引（词条可重复出现）。
 
 ---
 
@@ -63,7 +64,7 @@ aliases:
 
 ---
 
-## 1. 不发音字母 Silent Letters
+## 1. 不发音字母与非常规拼写 Silent & Irregular Spellings
 
 | 序号  | 单词             | 音标             | 释义               | 不发音字母 | 发音提示                        |
 | --- | -------------- | -------------- | ---------------- | ----- | --------------------------- |
@@ -77,6 +78,14 @@ aliases:
 | 8   | **mortgage**   | /ˈmɔːrɡɪdʒ/    | n./vt. 抵押        | **t** | Silent `t` — 法语借词           |
 | 9   | **vehicle**    | /ˈviːəkl/      | n. 车辆；交通工具       | **h** | Silent `h` — 读作 /ˈviːəkl/   |
 | 10  | **rhyme**      | /raɪm/         | n. 韵脚；韵律         | **h** | Silent `h` — 同 rime         |
+| 11  | **isle**       | /aɪl/          | n. 小岛；岛          | **s** | Silent `s` — 同 island 词根    |
+| 12  | **wrestle**    | /ˈresl/        | n./vi. 摔跤；搏斗     | **t** | Silent `t` — 词尾 -stle       |
+| 13  | **scene**      | /siːn/         | n. 场景；场面         | **c** | `sc` 发 /s/ — 非 /sk/        |
+| 14  | **ache**       | /eɪk/          | v./n. 疼痛          | **ch** | `ch` 发 /k/ — 非 /tʃ/       |
+| 15  | **hyphen**     | /ˈhaɪfn/       | n. 连字号           | **ph** | `ph` 发 /f/                 |
+| 16  | **physical**   | /ˈfɪzɪkl/      | adj. 身体的；物理的    | **ph** | `ph` 发 /f/                 |
+| 17  | **philosophy** | /fəˈlɑːsəfi/   | n. 哲学            | **ph** | `ph` 发 /f/                 |
+| 18  | **archiving**  | /ˈɑːrkaɪvɪŋ/   | n. 存档            | **ch** | `ch` 发 /k/ — 开发场景常见      |
 
 ---
 
@@ -99,6 +108,11 @@ aliases:
 | 13 | **coughing** | /ˈkɔːfɪŋ/ | /ˈkɒfɪŋ/ | n. 咳嗽 | ɔː vs ɒ，`gh` 发 /f/ |
 | 14 | **laughing** | /ˈlæfɪŋ/ | /ˈlɑːfɪŋ/ | adj. 带笑的；高兴的 | æ vs ɑː，`gh` 发 /f/ |
 | 15 | **process** | /ˈprɑːses/ | /ˈprəʊses/ | n./v. 进程；处理 | ɑː vs əʊ，技术词读 /ˈprɑːses/ |
+| 16 | **honestly** | /ˈɑːnɪstli/ | /ˈɒnɪstli/ | adv. 真诚地 | 美音 h 常省略 |
+| 17 | **status** | /ˈsteɪtəs/ | /ˈstætəs/ | n. 地位；状态 | 两读皆可 |
+| 18 | **novel** | /ˈnɑːvl/ | /ˈnɒvl/ | n./adj. 小说；新奇的 | 名/形重音位置不同 |
+| 19 | **elite** | /eɪˈliːt/ | /ɪˈliːt/ | n./adj. 精英 | 英美重音不同 |
+| 20 | **meter** | /ˈmiːtər/ | /ˈmiːtə(r)/ | n. 米；仪表 | 英式拼写 metre |
 
 ---
 
@@ -173,6 +187,8 @@ aliases:
 | 13 | **alias** | /ˈeɪliəs/ | n. 别名 | **ei**-li-as | 命令行 |
 | 14 | **feature** | /ˈfiːtʃər/ | n. 功能；特性 | `ea` 发 /iː/ | 产品/开发 |
 | 15 | **repository** | /rɪˈpɑːzətɔːri/ | n. 仓库 | repo 高频词 | Git/版本控制 |
+| 16 | **parser** | /ˈpɑːrsər/ | n. 解析器 | 与 parse 成对 | 语法分析 |
+| 17 | **physics** | /ˈfɪzɪks/ | n. 物理学 | `ph` 发 /f/ | 学术/计科 |
 
 ---
 
@@ -194,6 +210,7 @@ aliases:
 | 8 | **execute** | /ˈeksɪkjuːt/ | v. 执行 | `ex` 发 /eks/ | 技术高频词 |
 | 9 | **example** | /ɪɡˈzæmpl/ | n. 例子 | `x` 发 /ɡz/ | ex-**am**-ple |
 | 10 | **exercise** | /ˈeksərsaɪz/ | n./v. 练习 | `x` 发 /ks/ | **ex**-er-cise |
+| 11 | **bosom** | /ˈbʊzəm/ | n. 胸；内部 | `s` 发 /z/ | 中间 s 浊化 |
 
 ---
 
@@ -208,159 +225,166 @@ aliases:
 | **rather** /ˈræðər/ | adv. 宁可 | **father** /ˈfɑːðər/ | n. 父亲 | æ vs ɑː，重音相同 |
 | **rare** /rer/ | adj. 稀有的 | **bare** /ber/ | adj. 赤裸的 | 同音 /er/ |
 | **love** /lʌv/ | n./v. 爱；喜爱 | **laugh** /læf/ | v./n. 笑；笑声 | 元音 /ʌ/ vs /æ/；*laugh* 中 **gh** 发 /f/，勿拼成 *laught* |
+| **alter** /ˈɔːltər/ | v. 改变 | **altar** /ˈɔːltər/ | n. 祭坛 | 同音异义，靠语境区分 |
+| **chew** /tʃuː/ | v. 咀嚼 | **few** /fjuː/ | adj. 很少的 | /tʃuː/ vs /fjuː/ |
+| **whale** /weɪl/ | n. 鲸 | **wail** /weɪl/ | v./n. 哀号 | 同音异义 |
+| **kale** /keɪl/ | n. 羽衣甘蓝 | **pale** /peɪl/ | adj. 苍白的 | 同韵，勿混淆词义 |
 
 ---
 
-## 8. 其他易错词汇 Other Tricky Words
+## 8. 149 词全量主表 · APP 导出清单
 
-| 序号 | 单词 | 音标 | 释义 | 发音提示 |
-|-----|------|------|------|---------|
-| 1 | **comb** | /koʊm/ | n./v. 梳子；梳理 | b 不发音 |
-| 2 | **girl** | /ɡɜːrl/ | n. 女孩 | 儿化音 |
-| 3 | **foreigner** | /ˈfɔːrənər/ | n. 外国人 | g 不发音 |
-| 4 | **analysis** | /əˈnæləsɪs/ | n. 分析 | 重音在第2音节 |
-| 5 | **effect** | /ɪˈfekt/ | n. 效果 | 与 affect 区分 |
-| 6 | **exit** | /ˈeɡzɪt/ | n. 出口 | x 发 /ɡz/ |
-| 7 | **exhaustion** | /ɪɡˈzɔːstʃən/ | n. 精疲力竭 | h 不发音 |
-| 8 | **alter** | /ˈɔːltər/ | v. 改变 | 与 altar 同音 |
-| 9 | **success** | /səkˈses/ | n. 成功 | 重音在第2音节 |
-| 10 | **area** | /ˈeriə/ | n. 区域 | 三音节 a-re-a |
-| 11 | **cousin** | /ˈkʌzn/ | n. 堂/表兄弟姊妹 | ou 发 /ʌ/ |
-| 12 | **racoon** | /ræˈkuːn/ | n. 浣熊 | 重音在第2音节 |
-| 13 | **honestly** | /ˈɑːnɪstli/ | adv. 真诚地 | h 可省略 |
-| 14 | **contact** | /ˈkɑːntækt/ | n./v. 联系 | 重音在第1音节 |
-| 15 | **oxen** | /ˈɑːksn/ | n. 牛（复数）| 不规则复数 |
-| 16 | **mundane** | /mʌnˈdeɪn/ | adj. 世俗的 | 重音在第2音节 |
-| 17 | **enthusiasm** | /ɪnˈθuːziæzəm/ | n. 热情 | th 发 /θ/ |
-| 18 | **childhood** | /ˈtʃaɪldhʊd/ | n. 童年 | d+h 连读 |
-| 19 | **integrity** | /ɪnˈteɡrəti/ | n. 正直 | 重音在第2音节 |
-| 20 | **mother** | /ˈmʌðər/ | n. 母亲 | th 发 /ð/ |
-| 21 | **though** | /ðoʊ/ | conj. 虽然 | gh 不发音 |
-| 22 | **downsizing** | /ˈdaʊnsaɪzɪŋ/ | n. 缩小规模 | down + size + ing |
-| 23 | **chew** | /tʃuː/ | v. 咀嚼 | 与 few 押韵 |
-| 24 | **efficacy** | /ˈefɪkəsi/ | n. 功效 | 四音节 |
-| 25 | **sweats** | /swets/ | n. 汗水 | sweat 复数 |
-| 26 | **own** | /oʊn/ | v. 拥有 | 双元音 /oʊ/ |
-| 27 | **rather** | /ˈræðər/ | adv. 宁可 | th 发 /ð/ |
-| 28 | **significant** | /sɪɡˈnɪfɪkənt/ | adj. 重要的 | 重音在第2音节 |
-| 29 | **duplicate** | /ˈduːplɪkeɪt/ | v./n. 复制 | 重音在第1音节 |
-| 30 | **philosopher** | /fəˈlɑːsəfər/ | n. 哲学家 | 重音在第2音节 |
-| 31 | **rare** | /rer/ | adj. 稀有的 | 与 bare 押韵 |
-| 32 | **accept** | /əkˈsept/ | v. 接受 | 重音在第2音节 |
-| 33 | **queue** | /kjuː/ | n. 队列 | 同音字母 Q |
-| 34 | **status** | /ˈsteɪtəs/ | n. 地位；状态 | 两读皆可 |
-| 35 | **gorilla** | /ɡəˈrɪlə/ | n. 大猩猩 | 重音在第2音节 |
-| 36 | **feather** | /ˈfeðər/ | n. 羽毛 | th 发 /ð/ |
-| 37 | **premium** | /ˈpriːmiəm/ | n./adj. 保险费 | 三音节 |
-| 38 | **encrypt** | /ɪnˈkrɪpt/ | v. 加密 | 技术词 |
-| 39 | **daemon** | /ˈdiːmən/ | n. 守护进程 | ae 发 /iː/ |
-| 40 | **command** | /kəˈmænd/ | n./v. 命令 | 重音在第2音节 |
-| 41 | **malt** | /mɔːlt/ | n. 麦芽 | ɔː 元音 |
-| 42 | **giraffe** | /dʒəˈræf/ | n. 长颈鹿 | 重音在第2音节 |
-| 43 | **April** | /ˈeɪprəl/ | n. 四月 | 双元音 /eɪ/ |
-| 44 | **whiny** | /ˈwaɪni/ | adj. 爱抱怨的 | 与 whine 关联 |
-| 45 | **rhyme** | /raɪm/ | n./v. 押韵 | h 不发音 |
-| 46 | **crypto** | /ˈkrɪptoʊ/ | n. 秘密赞同者 | tech 词 |
-| 47 | **march** | /mɑːrtʃ/ | n./v. 行军；三月 | 大写 M |
-| 48 | **ultimate** | /ˈʌltɪmət/ | adj./n. 最终的 | 重音在第1音节 |
-| 49 | **whale** | /weɪl/ | n. 鲸 | 与 wail 同音 |
-| 50 | **security** | /sɪˈkjʊrəti/ | n. 安全 | 重音在第2音节 |
-| 51 | **dioxide** | /daɪˈɑːksaɪd/ | n. 二氧化物 | 双 i 都发 /aɪ/ |
-| 52 | **respiration** | /ˌrespəˈreɪʃn/ | n. 呼吸 | 四音节 |
-| 53 | **isle** | /aɪl/ | n. 岛 | s 不发音 |
-| 54 | **vital** | /ˈvaɪtl/ | adj. 至关重要的 | i 发 /aɪ/ |
-| 55 | **novel** | /ˈnɑːvl/ | n./adj. 小说；新奇的 | 形/名重音不同 |
-| 56 | **array** | /əˈreɪ/ | n. 数组 | 重音在第2音节 |
-| 57 | **swan** | /swɑːn/ | n. 天鹅 | ɑː 元音 |
-| 58 | **suffice** | /səˈfaɪs/ | v. 足够 | 重音在第2音节 |
-| 59 | **field** | /fiːld/ | n. 领域；田地 | ie 发 /iː/ |
-| 60 | **period** | /ˈpɪriəd/ | n. 周期；期间 | 三音节 |
-| 61 | **asset** | /ˈæset/ | n. 资产 | 重音在第1音节 |
-| 62 | **marathon** | /ˈmærəθɑːn/ | n. 马拉松 | th 发 /θ/ |
-| 63 | **algorithm** | /ˈælɡərɪðəm/ | n. 算法 | th 发 /ð/ |
-| 64 | **meter** | /ˈmiːtər/ | n. 米；仪表 | 英式 metre |
-| 65 | **rough** | /rʌf/ | adj. 粗糙的 | ough 发 /ʌf/ |
-| 66 | **elite** | /eɪˈliːt/ | n./adj. 精英 | 重音在第2音节 |
-| 67 | **recursive** | /rɪˈkɜːrsɪv/ | adj. 递归的 | tech 词 |
-| 68 | **integer** | /ˈɪntɪdʒər/ | n. 整数 | g 发 /dʒ/ |
-| 69 | **garage** | /ɡəˈrɑːʒ/ | n. 车库 | 美重音在第2音节 |
-| 70 | **scenario** | /səˈnærioʊ/ | n. 情节 | 英 /riəʊ/ 美 /rioʊ/ |
-| 71 | **protocol** | /ˈproʊtəkɑːl/ | n. 协议 | tech 词 |
-| 72 | **exhausted** | /ɪɡˈzɔːstɪd/ | adj. 筋疲力尽的 | h 不发音 |
-| 73 | **radical** | /ˈrædɪkl/ | adj./n. 激进的 | 三音节 |
-| 74 | **Venus** | /ˈviːnəs/ | n. 金星 | 首字母大写 |
-| 75 | **vacation** | /veɪˈkeɪʃn/ | n. 假期 | 三音节 |
-| 76 | **giant** | /ˈdʒaɪənt/ | n./adj. 巨人；巨大的 | gi 发 /dʒaɪ/ |
-| 77 | **disease** | /dɪˈziːz/ | n. 疾病 | 重音在第2音节 |
-| 78 | **adult** | /əˈdʌlt/ | n./adj. 成年人 | 美重音在第2音节 |
-| 79 | **coughing** | /ˈkɔːfɪŋ/ | n. 咳嗽 | gh 发 /f/ |
-| 80 | **thine** | /ðaɪn/ | pron. 你的 | th 发 /ð/ |
-| 81 | **laughing** | /ˈlæfɪŋ/ | adj. 带笑的 | gh 发 /f/ |
-| 82 | **beards** | /bɪrd/ | n. 胡须 | beard 复数 |
-| 83 | **possess** | /pəˈzes/ | v. 持有 | 重音在第2音节 |
-| 84 | **whimper** | /ˈwɪmpər/ | n./vi. 呜咽 | 双音节 |
-| 85 | **pale** | /peɪl/ | adj. 苍白的 | 双元音 /eɪ/ |
-| 86 | **ache** | /eɪk/ | v./n. 疼痛 | ch 发 /k/ |
-| 87 | **masochist** | /ˈmæsəkɪst/ | n. 受虐狂 | 三音节 |
-| 88 | **drool** | /druːl/ | vi. 流口水 | 与 tool 押韵 |
-| 89 | **futon** | /ˈfuːtɑːn/ | n. 蒲团 | 日语借词 |
-| 90 | **kale** | /keɪl/ | n. 羽衣甘蓝 | 与 pale 押韵 |
-| 91 | **cucumber** | /ˈkjuːkʌmbər/ | n. 黄瓜 | 三音节 |
-| 92 | **debt** | /det/ | n. 债务 | b 不发音 |
-| 93 | **curiosity** | /ˌkjʊriˈɑːsəti/ | n. 好奇心 | 五音节 |
-| 94 | **plateau** | /plæˈtoʊ/ | n. 高原 | 美重音在第2音节 |
-| 95 | **kitchen** | /ˈkɪtʃɪn/ | n. 厨房 | ch 发 /tʃ/ |
-| 96 | **dissuade** | /dɪˈsweɪd/ | v. 劝阻 | 重音在第2音节 |
-| 97 | **coupon** | /ˈkuːpɑːn/ | n. 优惠券 | 长元音 /uː/ |
-| 98 | **thesaurus** | /θɪˈsɔːrəs/ | n. 辞典 | th 发 /θ/ |
-| 99 | **opposite** | /ˈɑːpəzɪt/ | adj./n. 相反的 | 三音节 |
-| 100 | **dopamine** | /ˈdoʊpəmiːn/ | n. 多巴胺 | **do**-pa-mine |
-| 101 | **parentheses** | /pəˈrenθəsɪz/ | n. 圆括号 | 复数形式 |
-| 102 | **dumb** | /dʌm/ | adj. 哑的 | b 不发音 |
-| 103 | **variable** | /ˈveriəbl/ | n./adj. 变量 | tech 词 |
-| 104 | **tone** | /toʊn/ | n. 音调 | 双元音 /oʊ/ |
-| 105 | **hyphen** | /ˈhaɪfn/ | n. 连字号 | ph 发 /f/ |
-| 106 | **cupboard** | /ˈkʌbərd/ | n. 食橱 | p 不发音 |
-| 107 | **scene** | /siːn/ | n. 场景 | sc 发 /s/ |
-| 108 | **rival** | /ˈraɪvl/ | n./vt. 竞争者 | i 发 /aɪ/ |
-| 109 | **vehicle** | /ˈviːəkl/ | n. 车辆 | h 不发音 |
-| 110 | **physical** | /ˈfɪzɪkl/ | adj. 身体的；物理的 | ph 发 /f/ |
-| 111 | **circular** | /ˈsɜːrkjələr/ | adj./n. 圆形的 | 三音节 |
-| 112 | **parser** | /ˈpɑːrsər/ | n. 解析器 | tech 词 |
-| 113 | **compiler** | /kəmˈpaɪlər/ | n. 编译器 | tech 词 |
-| 114 | **taught** | /tɔːt/ | v. 教（过去式）| 与 taut 同音 |
-| 115 | **mortgage** | /ˈmɔːrɡɪdʒ/ | n./vt. 抵押 | t 不发音 |
-| 116 | **cuisine** | /kwɪˈziːn/ | n. 烹饪 | 法语借词 |
-| 117 | **anxiety** | /æŋˈzaɪəti/ | n. 焦虑 | x 发 /ɡz/ |
-| 118 | **physics** | /ˈfɪzɪks/ | n. 物理学 | ph 发 /f/ |
-| 119 | **scenes** | /siːn/ | n. 场景 | scene 复数 |
-| 120 | **genre** | /ˈʒɑːnrə/ | n. 体裁 | g 发 /ʒ/ |
-| 121 | **encore** | /ˈɑːnkɔːr/ | n./vt. 再演唱 | 法语借词 |
-| 122 | **Asian** | /ˈeɪʒn/ | adj./n. 亚洲的 | si 发 /ʒ/ |
-| 123 | **abdomen** | /ˈæbdəmən/ | n. 腹部 | 三音节 |
-| 124 | **thighs** | /θaɪ/ | n. 大腿 | th 发 /θ/ |
-| 125 | **bosom** | /ˈbʊzəm/ | n. 胸；内部 | s 发 /z/ |
-| 126 | **wrestle** | /ˈresl/ | n./vi. 摔跤 | t 不发音 |
-| 127 | **tongue** | /tʌŋ/ | n. 舌头 | gue 发 /ŋ/ |
-| 128 | **theology** | /θiˈɑːlədʒi/ | n. 神学 | th 发 /θ/ |
-| 129 | **philosophy** | /fəˈlɑːsəfi/ | n. 哲学 | ph 发 /f/ |
-| 130 | **psychology** | /saɪˈkɑːlədʒi/ | n. 心理学 | p 不发音 |
-| 131 | **Jesus** | /ˈdʒiːzəs/ | n. 耶稣 | J 发 /dʒ/ |
-| 132 | **fuck** | /fʌk/ | v./n. （粗俗）| u 发 /ʌ/ |
-| 133 | **tough** | /tʌf/ | adj. 坚韧的 | ough 发 /ʌf/ |
-| 134 | **tour** | /tʊr/ | n./v. 旅游 | 美 /ʊr/ |
-| 135 | **feature** | /ˈfiːtʃər/ | n. 功能；特性 | tech 高频词 |
-| 136 | **parse** | /pɑːrs/ | v./n. 解析 | tech 词 |
-| 137 | **knapsack** | /ˈnæpsæk/ | n. 背包 | k 不发音 |
-| 138 | **failure** | /ˈfeɪljər/ | n. 失败 | ure 发 /jər/ |
-| 139 | **pipe** | /paɪp/ | n. 管子；管道 | 双元音 /aɪ/ |
-| 140 | **career** | /kəˈrɪr/ | n. 职业；生涯 | 重音在第2音节 |
-| 141 | **stack** | /stæk/ | n. 堆栈 | tech 词 |
-| 142 | **archiving** | /ˈɑːrkaɪvɪŋ/ | n. 存档 | ch 发 /k/ |
-| 143 | **alias** | /ˈeɪliəs/ | n. 别名 | tech 词 |
-| 144 | **sync** | /sɪŋk/ | n./vi. 同步 | nc 发 /ŋk/ |
-| 145 | **leopard** | /ˈlepərd/ | n. 豹 | eo 发 /e/ |
-| 146 | **safari** | /səˈfɑːri/ | n. 旅行 | 重音在第2音节 |
+> **§8** = 单词 APP 导出的 **149 词完整清单**（按原序号）。**§1–§7** 为按难点类型的 **主题索引**，同一词可在两处出现。
+> **主题** 列：`§1`–`§7` = 已收入对应主题章；`仅§8` = 暂无单一主题归类（或多难点叠加，宜在本表查阅）。
+
+| 序号 | 单词 | 音标 | 释义 | 发音提示 | 主题 |
+|-----|------|------|------|---------|------|
+| 1 | **comb** | /koʊm/ | n./v. 梳子；梳理 | b 不发音 | §1 |
+| 2 | **girl** | /ɡɜːrl/ | n. 女孩 | 儿化音 | §2 |
+| 3 | **foreigner** | /ˈfɔːrənər/ | n. 外国人 | g 不发音 | §1 |
+| 4 | **analysis** | /əˈnæləsɪs/ | n. 分析 | 重音在第2音节 | §3 |
+| 5 | **effect** | /ɪˈfekt/ | n. 效果 | 与 affect 区分 | §6 · §7 |
+| 6 | **exit** | /ˈeɡzɪt/ | n. 出口 | x 发 /ɡz/ | §2 · §6 |
+| 7 | **exhaustion** | /ɪɡˈzɔːstʃən/ | n. 精疲力竭 | h 不发音 | §6 |
+| 8 | **alter** | /ˈɔːltər/ | v. 改变 | 与 altar 同音 | §7 |
+| 9 | **success** | /səkˈses/ | n. 成功 | 重音在第2音节 | §6 |
+| 10 | **area** | /ˈeriə/ | n. 区域 | 三音节 a-re-a | 仅§8 |
+| 11 | **cousin** | /ˈkʌzn/ | n. 堂/表兄弟姊妹 | ou 发 /ʌ/ | §4 |
+| 12 | **racoon** | /ræˈkuːn/ | n. 浣熊 | 重音在第2音节 | §3 |
+| 13 | **honestly** | /ˈɑːnɪstli/ | adv. 真诚地 | h 可省略 | §2 |
+| 14 | **contact** | /ˈkɑːntækt/ | n./v. 联系 | 重音在第1音节 | §3 |
+| 15 | **oxen** | /ˈɑːksn/ | n. 牛（复数） | 不规则复数 | 仅§8 |
+| 16 | **mundane** | /mʌnˈdeɪn/ | adj. 世俗的 | 重音在第2音节 | §3 |
+| 17 | **enthusiasm** | /ɪnˈθuːziæzəm/ | n. 热情 | th 发 /θ/ | §3 |
+| 18 | **childhood** | /ˈtʃaɪldhʊd/ | n. 童年 | d+h 连读 | 仅§8 |
+| 19 | **integrity** | /ɪnˈteɡrəti/ | n. 正直 | 重音在第2音节 | §3 |
+| 20 | **mother** | /ˈmʌðər/ | n. 母亲 | th 发 /ð/ | 仅§8 |
+| 21 | **though** | /ðoʊ/ | conj. 虽然 | gh 不发音 | §4 · §7 |
+| 22 | **downsizing** | /ˈdaʊnsaɪzɪŋ/ | n. 缩小规模 | down + size + ing | 仅§8 |
+| 23 | **chew** | /tʃuː/ | v. 咀嚼 | 与 few 押韵 | §4 · §7 |
+| 24 | **efficacy** | /ˈefɪkəsi/ | n. 功效 | 四音节 | §3 |
+| 25 | **sweats** | /swets/ | n. 汗水 | sweat 复数 | 仅§8 |
+| 26 | **own** | /oʊn/ | v. 拥有 | 双元音 /oʊ/ | §4 |
+| 27 | **rather** | /ˈræðər/ | adv. 宁可 | th 发 /ð/ | §2 · §7 |
+| 28 | **significant** | /sɪɡˈnɪfɪkənt/ | adj. 重要的 | 重音在第2音节 | §3 |
+| 29 | **duplicate** | /ˈduːplɪkeɪt/ | v./n. 复制 | 重音在第1音节 | §3 |
+| 30 | **philosopher** | /fəˈlɑːsəfər/ | n. 哲学家 | 重音在第2音节 | §3 |
+| 31 | **rare** | /rer/ | adj. 稀有的 | 与 bare 押韵 | §4 · §7 |
+| 32 | **accept** | /əkˈsept/ | v. 接受 | 重音在第2音节 | §6 |
+| 33 | **queue** | /kjuː/ | n. 队列 | 同音字母 Q | §4 |
+| 34 | **status** | /ˈsteɪtəs/ | n. 地位；状态 | 两读皆可 | §2 |
+| 35 | **gorilla** | /ɡəˈrɪlə/ | n. 大猩猩 | 重音在第2音节 | §3 |
+| 36 | **feather** | /ˈfeðər/ | n. 羽毛 | th 发 /ð/ | 仅§8 |
+| 37 | **premium** | /ˈpriːmiəm/ | n./adj. 保险费 | 三音节 | §3 |
+| 38 | **encrypt** | /ɪnˈkrɪpt/ | v. 加密 | 技术词 | §5 |
+| 39 | **daemon** | /ˈdiːmən/ | n. 守护进程 | ae 发 /iː/ | §5 |
+| 40 | **command** | /kəˈmænd/ | n./v. 命令 | 重音在第2音节 | §2 |
+| 41 | **malt** | /mɔːlt/ | n. 麦芽 | ɔː 元音 | §4 |
+| 42 | **giraffe** | /dʒəˈræf/ | n. 长颈鹿 | 重音在第2音节 | §3 |
+| 43 | **April** | /ˈeɪprəl/ | n. 四月 | 双元音 /eɪ/ | §4 |
+| 44 | **whiny** | /ˈwaɪni/ | adj. 爱抱怨的 | 与 whine 关联 | §4 |
+| 45 | **rhyme** | /raɪm/ | n./v. 押韵 | h 不发音 | §1 |
+| 46 | **crypto** | /ˈkrɪptoʊ/ | n. 秘密赞同者 | tech 词 | §3 · §5 |
+| 47 | **march** | /mɑːrtʃ/ | n./v. 行军；三月 | 大写 M | §2 |
+| 48 | **ultimate** | /ˈʌltɪmət/ | adj./n. 最终的 | 重音在第1音节 | §3 |
+| 49 | **whale** | /weɪl/ | n. 鲸 | 与 wail 同音 | §4 · §7 |
+| 50 | **security** | /sɪˈkjʊrəti/ | n. 安全 | 重音在第2音节 | §3 |
+| 51 | **dioxide** | /daɪˈɑːksaɪd/ | n. 二氧化物 | 双 i 都发 /aɪ/ | §3 |
+| 52 | **respiration** | /ˌrespəˈreɪʃn/ | n. 呼吸 | 四音节 | §3 |
+| 53 | **isle** | /aɪl/ | n. 岛 | s 不发音 | §1 |
+| 54 | **vital** | /ˈvaɪtl/ | adj. 至关重要的 | i 发 /aɪ/ | §4 |
+| 55 | **novel** | /ˈnɑːvl/ | n./adj. 小说；新奇的 | 形/名重音不同 | §2 |
+| 56 | **array** | /əˈreɪ/ | n. 数组 | 重音在第2音节 | §5 |
+| 57 | **swan** | /swɑːn/ | n. 天鹅 | ɑː 元音 | 仅§8 |
+| 58 | **suffice** | /səˈfaɪs/ | v. 足够 | 重音在第2音节 | §3 |
+| 59 | **field** | /fiːld/ | n. 领域；田地 | ie 发 /iː/ | §4 |
+| 60 | **period** | /ˈpɪriəd/ | n. 周期；期间 | 三音节 | 仅§8 |
+| 61 | **asset** | /ˈæset/ | n. 资产 | 重音在第1音节 | 仅§8 |
+| 62 | **marathon** | /ˈmærəθɑːn/ | n. 马拉松 | th 发 /θ/ | §2 |
+| 63 | **algorithm** | /ˈælɡərɪðəm/ | n. 算法 | th 发 /ð/ | §3 · §5 |
+| 64 | **meter** | /ˈmiːtər/ | n. 米；仪表 | 英式 metre | §2 |
+| 65 | **rough** | /rʌf/ | adj. 粗糙的 | ough 发 /ʌf/ | §2 |
+| 66 | **elite** | /eɪˈliːt/ | n./adj. 精英 | 重音在第2音节 | §2 |
+| 67 | **recursive** | /rɪˈkɜːrsɪv/ | adj. 递归的 | tech 词 | §5 |
+| 68 | **integer** | /ˈɪntɪdʒər/ | n. 整数 | g 发 /dʒ/ | §5 |
+| 69 | **garage** | /ɡəˈrɑːʒ/ | n. 车库 | 美重音在第2音节 | §2 |
+| 70 | **scenario** | /səˈnærioʊ/ | n. 情节 | 英 /riəʊ/ 美 /rioʊ/ | §2 |
+| 71 | **protocol** | /ˈproʊtəkɑːl/ | n. 协议 | tech 词 | §5 |
+| 72 | **exhausted** | /ɪɡˈzɔːstɪd/ | adj. 筋疲力尽的 | h 不发音 | §6 |
+| 73 | **radical** | /ˈrædɪkl/ | adj./n. 激进的 | 三音节 | 仅§8 |
+| 74 | **Venus** | /ˈviːnəs/ | n. 金星 | 首字母大写 | 仅§8 |
+| 75 | **vacation** | /veɪˈkeɪʃn/ | n. 假期 | 三音节 | 仅§8 |
+| 76 | **giant** | /ˈdʒaɪənt/ | n./adj. 巨人；巨大的 | gi 发 /dʒaɪ/ | §4 |
+| 77 | **disease** | /dɪˈziːz/ | n. 疾病 | 重音在第2音节 | §3 |
+| 78 | **adult** | /əˈdʌlt/ | n./adj. 成年人 | 美重音在第2音节 | §2 |
+| 79 | **coughing** | /ˈkɔːfɪŋ/ | n. 咳嗽 | gh 发 /f/ | §2 |
+| 80 | **thine** | /ðaɪn/ | pron. 你的 | th 发 /ð/ | §4 |
+| 81 | **laughing** | /ˈlæfɪŋ/ | adj. 带笑的 | gh 发 /f/ | §2 |
+| 82 | **beards** | /bɪrd/ | n. 胡须 | beard 复数 | 仅§8 |
+| 83 | **possess** | /pəˈzes/ | v. 持有 | 重音在第2音节 | §3 |
+| 84 | **whimper** | /ˈwɪmpər/ | n./vi. 呜咽 | 双音节 | 仅§8 |
+| 85 | **pale** | /peɪl/ | adj. 苍白的 | 双元音 /eɪ/ | §4 · §7 |
+| 86 | **ache** | /eɪk/ | v./n. 疼痛 | ch 发 /k/ | §1 |
+| 87 | **masochist** | /ˈmæsəkɪst/ | n. 受虐狂 | 三音节 | §3 |
+| 88 | **drool** | /druːl/ | vi. 流口水 | 与 tool 押韵 | §4 |
+| 89 | **futon** | /ˈfuːtɑːn/ | n. 蒲团 | 日语借词 | §4 |
+| 90 | **kale** | /keɪl/ | n. 羽衣甘蓝 | 与 pale 押韵 | §4 · §7 |
+| 91 | **cucumber** | /ˈkjuːkʌmbər/ | n. 黄瓜 | 三音节 | 仅§8 |
+| 92 | **debt** | /det/ | n. 债务 | b 不发音 | §1 |
+| 93 | **curiosity** | /ˌkjʊriˈɑːsəti/ | n. 好奇心 | 五音节 | §4 |
+| 94 | **plateau** | /plæˈtoʊ/ | n. 高原 | 美重音在第2音节 | §4 |
+| 95 | **kitchen** | /ˈkɪtʃɪn/ | n. 厨房 | ch 发 /tʃ/ | 仅§8 |
+| 96 | **dissuade** | /dɪˈsweɪd/ | v. 劝阻 | 重音在第2音节 | §3 |
+| 97 | **coupon** | /ˈkuːpɑːn/ | n. 优惠券 | 长元音 /uː/ | §4 |
+| 98 | **thesaurus** | /θɪˈsɔːrəs/ | n. 辞典 | th 发 /θ/ | 仅§8 |
+| 99 | **opposite** | /ˈɑːpəzɪt/ | adj./n. 相反的 | 三音节 | §3 |
+| 100 | **dopamine** | /ˈdoʊpəmiːn/ | n. 多巴胺 | **do**-pa-mine | §4 |
+| 101 | **parentheses** | /pəˈrenθəsɪz/ | n. 圆括号 | 复数形式 | §3 |
+| 102 | **dumb** | /dʌm/ | adj. 哑的 | b 不发音 | §1 |
+| 103 | **variable** | /ˈveriəbl/ | n./adj. 变量 | tech 词 | §3 · §5 |
+| 104 | **tone** | /toʊn/ | n. 音调 | 双元音 /oʊ/ | §4 |
+| 105 | **hyphen** | /ˈhaɪfn/ | n. 连字号 | ph 发 /f/ | §1 |
+| 106 | **cupboard** | /ˈkʌbərd/ | n. 食橱 | p 不发音 | §1 |
+| 107 | **scene** | /siːn/ | n. 场景 | sc 发 /s/ | §1 |
+| 108 | **rival** | /ˈraɪvl/ | n./vt. 竞争者 | i 发 /aɪ/ | §4 |
+| 109 | **vehicle** | /ˈviːəkl/ | n. 车辆 | h 不发音 | §1 |
+| 110 | **physical** | /ˈfɪzɪkl/ | adj. 身体的；物理的 | ph 发 /f/ | §1 |
+| 111 | **circular** | /ˈsɜːrkjələr/ | adj./n. 圆形的 | 三音节 | 仅§8 |
+| 112 | **parser** | /ˈpɑːrsər/ | n. 解析器 | tech 词 | §5 |
+| 113 | **compiler** | /kəmˈpaɪlər/ | n. 编译器 | tech 词 | §3 · §5 |
+| 114 | **taught** | /tɔːt/ | v. 教（过去式） | 与 taut 同音 | §7 |
+| 115 | **mortgage** | /ˈmɔːrɡɪdʒ/ | n./vt. 抵押 | t 不发音 | §1 |
+| 116 | **cuisine** | /kwɪˈziːn/ | n. 烹饪 | 法语借词 | §4 |
+| 117 | **anxiety** | /æŋˈzaɪəti/ | n. 焦虑 | x 发 /ɡz/ | §4 · §6 |
+| 118 | **physics** | /ˈfɪzɪks/ | n. 物理学 | ph 发 /f/ | §5 |
+| 119 | **scenes** | /siːn/ | n. 场景 | scene 复数 | §1 |
+| 120 | **genre** | /ˈʒɑːnrə/ | n. 体裁 | g 发 /ʒ/ | §4 |
+| 121 | **encore** | /ˈɑːnkɔːr/ | n./vt. 再演唱 | 法语借词 | §4 |
+| 122 | **Asian** | /ˈeɪʒn/ | adj./n. 亚洲的 | si 发 /ʒ/ | §4 |
+| 123 | **abdomen** | /ˈæbdəmən/ | n. 腹部 | 三音节 | 仅§8 |
+| 124 | **thighs** | /θaɪ/ | n. 大腿 | th 发 /θ/ | 仅§8 |
+| 125 | **bosom** | /ˈbʊzəm/ | n. 胸；内部 | s 发 /z/ | §6 |
+| 126 | **wrestle** | /ˈresl/ | n./vi. 摔跤 | t 不发音 | §1 |
+| 127 | **tongue** | /tʌŋ/ | n. 舌头 | gue 发 /ŋ/ | 仅§8 |
+| 128 | **theology** | /θiˈɑːlədʒi/ | n. 神学 | th 发 /θ/ | §3 |
+| 129 | **philosophy** | /fəˈlɑːsəfi/ | n. 哲学 | ph 发 /f/ | §1 |
+| 130 | **psychology** | /saɪˈkɑːlədʒi/ | n. 心理学 | p 不发音 | §1 |
+| 131 | **Jesus** | /ˈdʒiːzəs/ | n. 耶稣 | J 发 /dʒ/ | 仅§8 |
+| 132 | **fuck** | /fʌk/ | v./n. （粗俗） | u 发 /ʌ/ | 仅§8 |
+| 133 | **tough** | /tʌf/ | adj. 坚韧的 | ough 发 /ʌf/ | §2 |
+| 134 | **tour** | /tʊr/ | n./v. 旅游 | 美 /ʊr/ | §4 |
+| 135 | **feature** | /ˈfiːtʃər/ | n. 功能；特性 | tech 高频词 | §5 |
+| 136 | **parse** | /pɑːrs/ | v./n. 解析 | tech 词 | §5 |
+| 137 | **knapsack** | /ˈnæpsæk/ | n. 背包 | k 不发音 | §1 |
+| 138 | **failure** | /ˈfeɪljər/ | n. 失败 | ure 发 /jər/ | §4 |
+| 139 | **pipe** | /paɪp/ | n. 管子；管道 | 双元音 /aɪ/ | §4 |
+| 140 | **career** | /kəˈrɪr/ | n. 职业；生涯 | 重音在第2音节 | §3 |
+| 141 | **stack** | /stæk/ | n. 堆栈 | tech 词 | §5 |
+| 142 | **archiving** | /ˈɑːrkaɪvɪŋ/ | n. 存档 | ch 发 /k/ | §1 · §5 |
+| 143 | **alias** | /ˈeɪliəs/ | n. 别名 | tech 词 | §5 |
+| 144 | **sync** | /sɪŋk/ | n./vi. 同步 | nc 发 /ŋk/ | §5 |
+| 145 | **leopard** | /ˈlepərd/ | n. 豹 | eo 发 /e/ | §4 |
+| 146 | **safari** | /səˈfɑːri/ | n. 旅行 | 重音在第2音节 | §3 |
 
 ---
 
