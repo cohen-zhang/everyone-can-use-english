@@ -476,6 +476,8 @@ grep "bug" myfile.txt
 
 ### 最容易读错的单词 Common Mispronunciations
 
+> 扩展汇总（含 **国人易错** 标注）：[[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#9-工程笔记补充其它文档收录|易读错词汇 149 · §9]]
+
 | 单词 Word | 错误读法 Wrong | 正确读法 Correct |
 |-----------|---------------|-----------------|
 | **Linux** | /ˈlaɪnʌks/ | /ˈlɪnʌks/ (Linus 命名，读作"李纳克斯") |

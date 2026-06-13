@@ -187,7 +187,7 @@ aliases:
 |  |  | **architecture** | /ˈɑːr-kɪ-tek-tʃər/ |
 |  |  | **analysis** | /ə-ˈnæl-ə-sɪs/ |
 
-**易错词练习库：** [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#3-重音位置-stress-position|易读错词汇 149 · §3 重音位置]]（约 20 个专项 + 全表标注）。
+**易错词练习库：** [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#3-重音位置-stress-position|易读错词汇 149 · §3 重音]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#0-中国人常见误读模式简中母语者|§0 国人易错模式]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#9-工程笔记补充其它文档收录|§9 工程补充]]（约 20 个专项 + 跨文档汇总）。
 
 ### 6.5 句内强读与弱读
 

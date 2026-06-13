@@ -28,7 +28,7 @@ aliases:
 
 - [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] — Obsidian / Markdown 输入 IPA
 - [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] — 技术职场高频词发音、重音规则
-- [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] — 从单词 APP 导出的 149 个需注意读音的词；配合音标速查使用
+- [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] — APP 原表 + 工程笔记汇总；**§0 国人易错模式** · **§9 跨文档补充**
 
 ---
 

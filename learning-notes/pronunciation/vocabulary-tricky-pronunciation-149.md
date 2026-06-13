@@ -4,18 +4,22 @@ tags:
   - personal-english-book
   - english-learning
   - peb/study
+  - topic/chinese-learner
 aliases:
   - 易读错词汇 149
+  - 中国人易读错发音
 ---
 # 注意读音词汇表 —— Tricky Pronunciation Vocabulary (149 Words)
 
 **索引：** [[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-#phonetics #vocabulary #pronunciation #tricky-words #word-list #音标 #易错读音
+#phonetics #vocabulary #pronunciation #tricky-words #word-list #音标 #易错读音 #国人易错
 
-> **Aze** (阿泽) —— 从单词 APP 导出的需注意读音的 149 个词汇
+> **Aze** (阿泽) —— 从单词 APP 导出的 149 个词汇；并汇总本仓库其它笔记中的易读错词，**特别标注简中母语者（国人）常见误读**。
 > 
-> 本文档配合 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]] 使用效果更佳
+> 本文档配合 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] 使用效果更佳。
+
+**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/personal-english-book/life/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
 
 ---
 
@@ -30,6 +34,32 @@ aliases:
 | **技术词汇** | 15 | daemon, encrypt, algorithm, recursive, integer, array, protocol, variable, compiler, parse, stack, sync, alias, feature, repository |
 | **清浊变化** | 8 | effect, accept, success, exhaust, anxiety, example, exercise, executive |
 | **易混淆词** | 13 | effect/affect, pull/pool, though/through, rare/bare, rather/father, taught/taut, love/laugh |
+| **国人易错模式** | 见 §0 | 元音等长、双元音汉语化、想当然拼读、重音错位、v/θ 等 |
+| **工程笔记补充** | 见 §9 | facade, specific, cache, Linux, hurray, fawning … |
+| **原书 ch.3 完整** | 见 §9.5 | [[book/chapter3|chapter3]] 全部语音示例词（含 *beach*） |
+
+**标签说明：** 下表 **标签** 列中 **`国人易错`** = 本仓库多份笔记均指出**简中母语者**高发误读；**`已在§1–§8`** = 原 149 词表已有，此处只补国人误读说明与出处。
+
+---
+
+## 0. 中国人常见误读模式（简中母语者）
+
+摘自 [[book/chapter3|chapter3]] §7–§9、[[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]；与亚洲语系「每字等长」习惯有关。
+
+| 模式 | 国人常犯 | 正确方向 | 例词 |
+| --- | --- | --- | --- |
+| **元音等长** | 每个音节元音读成一样长、整体偏快 | 长元音 / 双元音要够长；短元音 /æ/ 勿缩成 /e/ | *apple* 勿成 epple；*important* /ɪmˈpɔːrtənt/ 非 /ɪmpɔtənt/ |
+| **/iː/ vs /ɪ/** | 长元音读短会改变词义 | *beach* 要够长，勿近 *bitch* /bɪtʃ/ | *beach* /biːtʃ/（[[book/chapter3|ch.3 §7]]） |
+| **/æ/ vs /e/** | 短元音混淆 | 听 *ab* /æb/ 与 *ebb* /eb/ 对比 | [[book/chapter3|ch.3 §7]] · §9.5 |
+| **双元音汉语化** | /aɪ/ 读成中文「爱」；/oʊ/ 拖成单韵母 | 滑音饱满、两拍 | *ice* /aɪs/；*own* /oʊn/ |
+| **短元音 /ɪ/** | 用汉语「衣」长音代替 /ɪ/ | 短、松、不拉长 | *kid* /kɪd/ · *pig* /pɪɡ/（[[learning-notes/personal-english-book/life/world-cinema-quick-notes|电影随记]]） |
+| **想当然拼读** | 按字母猜读音，不查 IPA | 每个生词查音标 + 标重音 | *facade* · *specific* · *create*（见 §9.1） |
+| **重音错位** | 衍生词沿用错重音；多音节当单音节 | 查词典主重音 `ˈ`；*penalty* ≠ *penalize* | *developer* · *analysis*（§3） |
+| **辅音替代** | /v/ 读成 /w/；*th* 读成 /s/ 或 /f/ | 上齿轻咬下唇发 /v/；*th* 分清浊 | *video* 非 bideo；*specific* 非 spesific |
+| **儿化 / 卷舌过度** | 非重读 /ə/ 一律读成 /ɚ/ | 非重读 schwa 不带儿化 | *focus* /ˈfoʊkəs/ 非 /ˈfoʊkɚs/（1000h [[1000-hours/sounds-of-american-english/3.1.1-ə|3.1.1 ə]]） |
+| **词尾 -l** | *girl* 读成 /ɡoʊ/ 或纯卷舌 | 舌尖抵齿龈发 /l/ + 中央元音 | *girl* /ɡɜːrl/（[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记]]） |
+
+> **原书提醒：** 错音往往「自己听不出、别人一听就知」——宜录下自己的朗读与词典对照（[[book/chapter3|ch.3 §9]]）。
 
 ---
 
@@ -94,7 +124,7 @@ aliases:
 | 16 | **philosopher** | /fəˈlɑːsəfər/ | n. 哲学家 | 第2音节 **lo** | phi-**lo**-so-pher |
 | 17 | **gorilla** | /ɡəˈrɪlə/ | n. 大猩猩 | 第2音节 **ri** | go-**ril**-la |
 | 18 | **premium** | /ˈpriːmiəm/ | n./adj. 保险费；高级的 | 第1音节 **pri** | **pre**-mi-um |
-| 18 | **crypto** | /ˈkrɪptoʊ/ | n. 秘密赞同者 | 第1音节 **cri** | **cri**-pto，tech |
+| 19 | **crypto** | /ˈkrɪptoʊ/ | n. 加密货币等 | 第1音节 **cri** | **cri**-pto，tech |
 | 20 | **ultimate** | /ˈʌltɪmət/ | adj./n. 最终的；极致 | 第1音节 **ul** | **ul**-ti-mate |
 
 ---
@@ -334,10 +364,227 @@ aliases:
 
 ---
 
+## 9. 工程笔记补充（其它文档收录）
+
+下列词条来自本仓库笔记，**未全部**出现在 §1–§8 原 149 表中；与上表重复者见 **标签** 列。
+
+### 9.1 原书 · 想当然拼读（[[book/chapter3|ch.3 §9]]）
+
+> 国内大学生「五个词至少错三个」：**cellist · facade · heir · niche · specific**（李笑来原书列举）。
+
+| 单词 | IPA | 国人常误读 ❌ | 简中 | 标签 | 出处 |
+| --- | --- | --- | --- | --- | --- |
+| **facade** / **façade** | /fəˈsɑːd/ | /ˈfækeɪd/ 按字母硬拼 | 门面；表面 | 国人易错 | [[book/chapter3|ch.3]] |
+| **specific** | /spəˈsɪfɪk/ | /ˈspesɪfɪk/ | 具体的 | 国人易错 | [[book/chapter3|ch.3]] |
+| **cellist** | /ˈtʃelɪst/ | /ˈselɪst/ 或忽略 double l | 大提琴手 | 国人易错 | [[book/chapter3|ch.3]] |
+| **heir** | /er/ | 读出 h 音 | 继承人 | 国人易错、不发音 h | [[book/chapter3|ch.3]] |
+| **niche** | /niːʃ/ 或 /nɪtʃ/ | /ˈnaɪtʃ/ 按拼写猜 | 壁龛；细分领域 | 国人易错 | [[book/chapter3|ch.3]] |
+| **penalize** | /ˈpɪnəlaɪz/ | /ˈpenəlaɪz/ 照搬 *penalty* 的 /ɛ/ | 处罚 | 国人易错、重音 | [[book/chapter3|ch.3]] · 已在§3 *penalty* |
+| **economy** | /ɪˈkɑːnəmi/ | 首音节读 /e/ | 经济 | 国人易错 | [[book/chapter3|ch.3]] |
+| **economics** | /ˌiːkəˈnɑːmɪks/ | 首音节读 /ɪ/ 或重音错 | 经济学 | 国人易错 | [[book/chapter3|ch.3]] |
+| **economist** | /ɪˈkɑːnəmɪst/ | 与 economics 混 | 经济学家 | 国人易错 | [[book/chapter3|ch.3]] |
+| **create** | /kriˈeɪt/ | /kriːt/ 当单音节 | 创建 | 国人易错、音节 | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
+| **apple** | /ˈæpl/ | /ˈepl/ 元音过短（epple） | 苹果 | 国人易错、/æ/ | [[book/chapter3|ch.3 §7]] |
+| **beach** | /biːtʃ/ | /bɪtʃ/ 元音过短（歧义近 *bitch*） | 海滩 | 国人易错、/iː/ | [[book/chapter3|ch.3 §7]] |
+| **important** | /ɪmˈpɔːrtənt/ | /ɪmpɔtənt/ 省略长元音 /ɔː/ | 重要的 | 国人易错 | [[book/chapter3|ch.3 §7]] · §3 相关 |
+| **ab** | /æb/ | 与 *ebb* /eb/ 混淆 | 腹前缀；字母组合 ab | 国人易错、/æ/ | [[book/chapter3|ch.3 §7]]（对比 *ebb*） |
+| **ebb** | /eb/ | 与 *ab* /æb/ 混淆 | 退潮；衰退 | 国人易错、/e/ | [[book/chapter3|ch.3 §7]]（对比 *ab*） |
+| **video** | /ˈvɪdioʊ/ | /ˈbɪdioʊ/ 用 b 代 v | 视频 | 国人易错 | [[book/chapter3|ch.3]] |
+
+### 9.2 工程师 · 技术词（速查 + 计科词汇）
+
+| 单词 | IPA | 国人常误读 ❌ | 简中 | 标签 | 出处 |
+| --- | --- | --- | --- | --- | --- |
+| **cache** | /kæʃ/ | /kætʃ/ 或 /ˈkæʃeɪ/ | 缓存 | 国人易错、技术 | [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|计科词汇]] |
+| **schema** | /ˈskiːmə/ | /ˈʃiːmə/ sch 当 sh | 模式 | 国人易错、技术 | 音标速查 |
+| **kubernetes** | /ˌkuːbərˈnetiz/ | 字母逐个念 | K8s | 国人易错、技术 | 音标速查 |
+| **nginx** | /ˌendʒɪnˈeks/ | n-g-i-n-x | Web 服务器 | 国人易错、技术 | 音标速查 |
+| **linux** | /ˈlɪnəks/ | /ˈlaɪnʌks/ | Linux | 国人易错、技术 | 音标速查 · 计科词汇 |
+| **ubuntu** | /ʊˈbʊntuː/ | /juːˈbʌntuː/ | Ubuntu | 国人易错、技术 | 计科词汇 |
+| **debian** | /ˈdɛbiən/ | /ˈdiːbiən/ | Debian | 国人易错、技术 | 计科词汇 |
+| **postgresql** | /ˈpoʊstɡres/ | /ˈpoʊstɡriː/ 省掉音节 | PostgreSQL | 国人易错、技术 | 计科词汇 |
+| **varchar** | /ˈvɑːrkær/ | /vɑːrˈtʃɑːr/ | 可变字符类型 | 国人易错、技术 | 音标速查 |
+| **sudo** | /ˈsuːduː/ | /ˈsʌdoʊ/ | 超级用户执行 | 国人易错、技术 | 音标速查 · 已在§5 可对照 |
+| **latex** | /ˈlɑːtɛx/ | /ˈleɪtɛks/ 当橡胶 | LaTeX | 国人易错、技术 | 计科词汇 |
+| **daemon** | /ˈdiːmən/ | /ˈdeɪmən/ | 守护进程 | 国人易错 | 已在§5；计科词汇强调与 demon 不同 |
+| **repository** | /rɪˈpɑːzətɔːri/ | repo**z**itory | Git 仓库 | 国人易错 | 已在§3、§5 |
+| **queue** | /kjuː/ | 按字母 q-u-e-u-e 念 | 队列 | 国人易错 | 已在§4、§5 |
+| **chmod** | /ˈtʃiːmɒd/ | /ˈtʃɪmɒd/ ch-mood | 改权限 | 国人易错、技术 | 计科词汇 · 命令 |
+| **umount** | /juːˈmaʊnt/ | /ˈjuːnmaʊnt/ unmount | 卸载挂载 | 国人易错、技术 | 计科词汇 · 命令 |
+
+### 9.3 影视 · 亲子 · 朗读材料
+
+| 单词 | IPA | 国人常误读 ❌ | 简中 | 标签 | 出处 |
+| --- | --- | --- | --- | --- | --- |
+| **girl** | /ɡɜːrl/ | /ɡoʊ/ 或纯卷舌无 /l/ | 女孩 | 国人易错、亲子 | [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记]] · 已在§2 |
+| **hurray** | /həˈreɪ/ | /ˈhʌreɪ/ 重音在前 | 好哇 | 国人易错、亲子 | Peppa Pig S01 多集词汇表 |
+| **fawning** | /ˈfɔːnɪŋ/ | 重音或 /ɔː/ 不准 | 谄媚的 | 国人易错 | [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|S01E01]] |
+| **passionate** | /ˈpæʃənət/ | /ˈpæʃnət/ 吞音节 | 热烈的 | 国人易错 | S01E01 · 已在§4 可对照 |
+| **penalty** | /ˈpenəlti/ | 与 *penalize* 混 | 点球；处罚 | 国人易错 | S01E01 · §3 相关 |
+| **cinema** | /ˈsɪnəmə/ | 「辛呐马」拖长尾音 | 电影；影院 | 国人易错 | [[learning-notes/personal-english-book/life/world-cinema-quick-notes|电影随记]] |
+| **casual** | /ˈkæʒuəl/ | /ʒ/ 发成 sh 或 z | 随意的 | 国人易错 | 电影随记 |
+| **documentary** | /ˌdɒkjəˈmentri/ | 重音 / 次重音全错 | 纪录片 | 国人易错、重音 | 电影随记 |
+| **surrogate** | /ˈsɜːrəɡət/ | 三音节读成两节 | 代孕者 | 国人易错、音节 | S01E01 · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
+| **wide awake** | /waɪd əˈweɪk/ | *awake* 单音节化 | 完全醒着的 | 国人易错 | S01E01 · 已在§8 |
+
+### 9.4 已在 §1–§8 的国人高发项（交叉索引）
+
+原 149 词中与 **§0 模式** 重叠最多、宜优先复习：
+
+| 单词 | 国人要点 | 见章节 |
+| --- | --- | --- |
+| **girl** | 词尾 /l/ + /ɜːr/，非 /ɡoʊ/ | §2 · §9.3 |
+| **queue** | /kjuː/ 一词一音 | §4 · §5 |
+| **daemon** | /ˈdiːmən/ 非 day-mon | §5 |
+| **algorithm** | 重音第 1 节；`th` = /ð/ | §3 · §5 |
+| **developer / engineer** | 重音在第 2 / 第 3 音节 | §3 |
+| **anxiety / example** | `x` → /ɡz/ | §4 · §6 |
+| **pull / pool** | /ʊ/ vs /uː/ 勿混 | §4 · §7 |
+| **though / through** | /ðoʊ/ vs /θruː/ | §4 · §7 |
+| **psychology** | 首音节 silent p | §1 |
+| **recipe** | /ˈresəpi/ 三音节弱读 | §4 |
+| **apple** | 勿成 epple；/æ/ | §9.1 · §9.5 |
+| **beach** | /iː/ 勿短成 /ɪ/（歧义） | §9.1 · §9.5 |
+| **important** | /ɔː/ 不可省 | §3 · §9.1 |
+
+---
+
+### 9.5 《人人都能用英语》ch.3 语音示例词（完整收录）
+
+下列为 [[book/chapter3|chapter3]] 中**明确作为发音示范**出现的词（含 IPA、误读描述或练习要点）。与 §9.1 重复者仍列出，便于按原书章节核对。**§9.1 已录词条**在「录录」列标注。
+
+#### §7 语速 · 元音长短
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **ab** | /æb/ | 与 *ebb* 混 | 对比 /æ/ 与 /e/ | §9.1 |
+| **ebb** | /eb/ | 与 *ab* 混 | 同上 | §9.1 |
+| **apple** | /ˈæpl/ | epple | /æ/ 勿缩成 /e/ | §9.1 |
+| **beach** | /biːtʃ/ | /bɪtʃ/（歧义） | 读短则成另外一个意思 | §9.1 |
+| **important** | /ɪmˈpɔːrtənt/ | /ɪmpɔtənt/ | /ɔː/ 不可省 | §9.1 · §3 |
+
+#### §8 停顿 · 重音节前切分
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **especially** | /ɪˈspeʃəli/ | 匀速读完无气口 | e \| specially，重音节前停顿 | 本节 |
+| **unfortunately** | /ʌnˈfɔːrtʃənətli/ | 同上 | un \| fortunately | 本节 |
+| **important** | /ɪmˈpɔːrtənt/ | 同上；且 /ɔː/ 常被省 | im \| portant | §9.1 · §7 |
+| **understand** | /ˌʌndərˈstænd/ | 同上 | under \| stand | 本节 |
+| **education** | /ˌedʒuˈkeɪʃn/ | 同上 | edu \| cation | 本节 |
+| **particular** | /pərˈtɪkjələr/ | 同上 | par \| ticular | 本节 |
+| **financial** | /faɪˈnænʃl/ | 词尾读成 /əʊ/ | fi \| nancial；另见 §14 词尾 /əl/ | 本节 · §14 |
+
+#### §9 想当然整词念错
+
+见 **§9.1** 全表（facade, specific, cellist, heir, niche, penalize, economy 家族等）。
+
+#### §10 音标标注示例
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **ichthyosaur** | /ˈɪkθiəsɔː/ | ch 读 /tʃ/ | ch=/k/，yo=/ɪə/，aur=/ɔː/ | 本节 |
+| **resumé** / **resume** | /ˈrezəmeɪ/ | 重音位置错 | 末音节 e 标 /ˈeɪ/；语流中 re（四声）+ meɪ（二声） | 本节 |
+| **debt** | /det/ | 读出 b | silent b | §1 |
+
+#### §11 音节划分（IPA）
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **primary** | /ˈpraɪmeri/ | 按 pri•ma•ry 拼写切错 | /ˈpraɪ-mə-ri/ | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
+| **taxi** | /ˈtæksi/ | tax•i 误导 | /ˈtek-si/ | 音节划分 |
+| **curdling** | /ˈkɜːrdlɪŋ/ | cur•dling 误导 | /ˈkɜːr-dlɪŋ/ | 音节划分 |
+| **create** | /kriˈeɪt/ | /kriːt/ 单音节 | /ˈkriː-eɪt/ 两节 | §9.1 |
+
+#### §12 强读与弱读
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **community** | /kəˈmjuːnəti/ | 两次出现读法相同 | 强读：/mjuː/ 饱满有声调；弱读：/mju/ 极短 | 本节 |
+| **service** | /ˈsɜːrvɪs/ | 弱读时与强读无差别 | 与 *community* 同句示范强读 | 本节 |
+| **volunteer** | /ˌvɒlənˈtɪr/ | 弱读处理不当 | 句中强读示范词 | 本节 |
+| **city** | /ˈsɪti/ | 两节 /ɪ/ 等长 | 重读节 /ɪ/ 更长；/t/ 浊化见 §15 | 本节 · §15 |
+
+#### §13 /t/、/d/、/s/ 舌尖位置
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **student** | /ˈstuːdnt/ | 用中文 [t]/[d]/[s] 替代 | 反复练此词掌握舌尖抵牙龈 | 本节 |
+| **students** | /ˈstuːdnts/ | 同上 | /ts/ 起始位置同 /t/ | 本节 |
+| **teacher** | /ˈtiːtʃər/ | 舌尖位置不对音色发闷 | 纠正后音色明显不同 | 本节 |
+| **particular** | /pərˈtɪkjələr/ | 同上 | 与 §8 停顿练习同一词 | §8 |
+
+#### §14 词尾 /əl/（勿读成 /əʊ/）
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **lawful** | /ˈlɔːfəl/ | /ˈlɔːfəʊ/ | 舌尖抵牙龈完成 /əl/ | 本节 |
+| **valuable** | /ˈvæljuəbəl/ | /ˈvæljəbəʊ/ | 与 *experience* 连读：valuable_experience | 本节 |
+| **financial** | /faɪˈnænʃl/ | /faɪˈnænʃəʊ/ | 同 §8 | §8 |
+| **still** | /stɪl/ | /ˈstɪəʊ/ | 词尾 /əl/ 舌尖滑动 | 本节 |
+| **elementary** | /ˌelɪˈmentri/ | 重音不在第一音节 | helps_elementary 连读；/ˈselɪ-/ 二声 | 本节 |
+| **experience** | /ɪkˈspɪriəns/ | 词尾 /əl/→/əʊ/ | ex**pe**rience 重读；s 后浊化见 §16 | 本节 · §16 |
+| **enjoy** | /ɪnˈdʒɔɪ/ | 连读生硬 | you'll_en**joy** | 本节 |
+
+#### §15 /t/ 浊化（元音之间）
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **city** | /ˈsɪti/ | 清 /t/ 过硬 | /t̬/ 近 /d/ | §12 |
+| **meet** | /miːt/ | — | 词尾清 /t/ | 本节 |
+| **meeting** | /ˈmiːtɪŋ/ | 不重读 /t̬/ | /ˈmiː-t̬ɪŋ/ | 本节 |
+| **writer** / **rider** | /ˈraɪtər/ · /ˈraɪdər/ | 不区分浊化 | /t/ 浊化对比组 | 本节 |
+| **latter** / **ladder** | /ˈlætər/ · /ˈlædər/ | 同上 | 同上 | 本节 |
+| **petal** / **pedal** | /ˈpetl/ · /ˈpedl/ | 不区分浊化 | /t/ 浊化最小对立组 | 本节 |
+| **opportunity** | /ˌɑːpərˈtuːnəti/ | 第二个 t 也浊化 | 第二个 t **不**浊化 | 本节 |
+| **tutoring** | /ˈtuːtərɪŋ/ | 同上 | 第二个 t **不**浊化 | 本节 |
+
+#### §16 /s/ 后清辅音浊化（重读音节内）
+
+| 单词 | IPA | 语流听感 | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **study** | /ˈstʌdi/ | /sdʌdi/ | s 后 /t/ 浊化 | 本节 |
+| **school** | /skuːl/ | /sguːl/ | s 后 /k/ 浊化 | 本节 |
+| **experience** | /ɪkˈspɪriəns/ | /ɪksˈbɪərəns/ | s 后 /p/ 浊化 | §14 |
+| **strive** | /straɪv/ | /sʤaɪv/ | s 后 /tr/→/ʤ/ | 本节 |
+| **distance** | /ˈdɪstəns/ | 误浊化 | s 后辅音**非**重音节 → **不**浊化 | 本节 |
+| **costume** | /ˈkɑːstuːm/ | 误浊化 | 同上 | 本节 |
+| **biscuit** | /ˈbɪskɪt/ | 误浊化 | 同上 | 本节 |
+| **coast** | /koʊst/ | — | /t/ **不**浊化 | 本节 |
+
+#### §18–§19 声调 · /æ/ 半长
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **component** | /kəmˈpoʊnənt/ | 声调平 | com（轻）po（四声）nent（二声） | 本节 |
+| **program** | /ˈproʊɡræm/ | /æ/ 过短 | pro（四声）gram（一声）；/æ/ 半长元音 | 本节 |
+| **wife** | /waɪf/ | /aɪ/ 声调似中文二声 | 双元音宜饱满（四声更自然） | 本节 |
+| **children** | /ˈtʃɪldrən/ | 与 *program* 同调型错 | 首音节四声、次音节一声 | 本节 |
+
+#### §20 /ʌ/ · /æ/（美音）
+
+| 单词 | IPA | 国人常误读 ❌ | 原书要点 | 录录 |
+| --- | --- | --- | --- | --- |
+| **encourage** | /ɪnˈkɜːrɪdʒ/ | /ʌ/ 读太重 | /ʌ/ 近 schwa，宜短促 | 本节 |
+| **after** | /ˈæftər/ | /ˈɑːftər/ | 美音多 /æ/ 非 /ɑː/ | 本节 |
+| **ask** | /æsk/ | /ɑːsk/ | 同上 | 本节 |
+| **glass** | /ɡlæs/ | /ɡlɑːs/ | 同上 | 本节 |
+| **master** | /ˈmæstər/ | /ˈmɑːstər/ | 同上 | 本节 |
+| **pass** | /pæs/ | /pɑːs/ | 同上 | 本节 |
+| **apple** | /ˈæpl/ | epple | /æ/ 近长元音长度 | §9.1 |
+
+> **核对说明：** ch.3 §20 文末另列 abduct、brush、budget … 等 **/ʌ/ 练习词**、absolute、castle、cat … 等 **/æ/ 练习词**，为跟读清单而非逐词误读案例；需要全表可打开 [[book/chapter3|chapter3]] §20 对照朗读。
+
+---
+
 ## 参考链接 References
 
 - [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]]
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
+- [[book/chapter3|《人人都能用英语》第三章 · 语音]]
+- [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇 · 易读错命令/单词]]
+- [[learning-notes/personal-english-book/life/world-cinema-quick-notes|世界电影随记 · 发音笔记]]
+- [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
 - [[3.2-consonants|辅音详解 Consonants]]
 - [[3.1-vowels|元音详解 Vowels]]
 - [[4-natural-speech|自然语流 Natural Speech]]
@@ -345,6 +592,6 @@ aliases:
 
 ---
 
-*Created by Aze (阿泽) from word app export*
+*Created by Aze (阿泽) from word app export + repo cross-index*
 
-*Total: 149 words | 按分类大表格重组 | 美式发音为主 | Last updated: {{date:YYYY-MM-DD}}*
+*Total: 149 words（§1–§8）+ §9 工程补充 + **§9.5 ch.3 完整收录** | 美式发音为主 | 国人易错见 §0、§9*
