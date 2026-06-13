@@ -3,25 +3,30 @@ tags:
   - pronunciation
   - english-learning
   - topic/syllables
+  - topic/stress
 aliases:
   - 音节划分
   - IPA-based syllable division
+  - 音节与重音
 ---
-# 音节划分 —— 基于音标（IPA）的方法
+# 音节划分与重音 —— 基于音标（IPA）
 
 写给 **阿泽** 的私人发音笔记；对外分享时把人名去掉即可。
 
 **索引：** [[learning-notes/pronunciation/README|发音资料索引]]
 
-**来源：** 李笑来《人人都能用英语》第三章 §11「音节的划分」—— [[book/chapter3|chapter3]]（约 L227–251）
+**来源：** 李笑来《人人都能用英语》第三章 —— [[book/chapter3|chapter3]]（§11 音节划分 L227–251；§8 停顿 L160–174；§12 强读弱读 L253–292）
 
-**相关：** [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 · 难词表]]
+**相关：** [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
 
 ---
 
 ## 本页在做什么
 
-把原书 §11 压成**可操作的音节划分口诀**：优先按 **IPA（音标）** 切音节，而不是按字母拼写；再用本仓库里的词举例练习。
+1. **音节划分**：按 **IPA** 切音节（原书 §11），而不是按字母拼写。
+2. **重读 / 重音**：汇总本仓库里关于**词内重音**与**句内强读弱读**的要点（原书 ch.3、1000h 语音课、发音笔记）。
+
+切好音节之后，下一步就是标 `ˈ` / `ˌ`，并分清哪一节要读重、哪一节弱化成 schwa。
 
 ---
 
@@ -109,15 +114,133 @@ aliases:
 
 1. **查 IPA** — 欧路 / M-W / 笔记里的 IPA 列。
 2. **数元音音素** — 有几个元音（含双元音算一个），就有几节。
-3. **标重音** — 主重音 `ˈ` 落在哪一节（见速查手册 §4.1）。
-4. **按节朗读** — 先慢读每节，再连读整词。
-5. **写进笔记** — 难词表加一列「音节切分」，与 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭难词表]] 体例一致。
+3. **标重音** — 主重音 `ˈ`、次重音 `ˌ` 落在哪一节（见 [[#6-重读与重音工程内总结|§6 重读与重音]]）。
+4. **按节朗读** — 重音节前可故意短暂停顿（原书 §8）；先慢读每节，再连读整词。
+5. **写进笔记** — 难词表加「音节切分 + 重音」列；参考 [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]]、[[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭难词表]]。
 
-**亲子一分钟：** *Celine reads a **pic-ture** book.* — 指着绘本封面问：*How many syllables in **picture**?* → /ˈpɪk-tʃər/，两节。
+**亲子一分钟：** *Celine reads a **pic-ture** book.* — *How many syllables in **picture**?* → /ˈpɪk-tʃər/，两节，重音在第一节。
 
 ---
 
-## 6. 与原书章节的对应
+## 6. 重读与重音（工程内总结）
+
+### 6.1 两套术语：词内 vs 句内
+
+| 层级 | 中文 | 英文 | 说明 |
+| --- | --- | --- | --- |
+| **词内** | 重音 / 次重音 / 非重音 | stress / secondary stress / unstressed | 多音节词里哪一节读得**更重** |
+| **词内** | 弱音 | reduced vowel / schwa | 非重音节元音常弱化为 /ə/ |
+| **句内** | 强读 | accented form | 句子里被**突出**的词（内容词、强调词） |
+| **句内** | 弱读 | weak form | 句子里读得很轻的功能词（冠词、介词、助动词…） |
+
+> **原书区分（ch.3 §12）：** 音节强弱用「重音 / 次重音 / 非重音 / 重读」；整词在句中的强弱用「**强读**」与「**弱读**」。  
+> **1000h（[[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]]）：** 词典音标是**强读式**；自然语流里多数词是**弱读式**。
+
+### 6.2 IPA 重音标记
+
+| 符号 | 名称 | 输入 | 例 |
+| --- | --- | --- | --- |
+| `ˈ` | 主重音 primary stress | 见 [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] | /ˈsɪ-stəm/ **sys**tem |
+| `ˌ` | 次重音 secondary stress | 同上 | /ˌendʒ-ɪ-ˈnɪr/ en**gi**neer |
+
+**规则摘要：**
+
+- 多音节词**有且只有一个**主重音 `ˈ`；长词可有次重音 `ˌ`（如 *serendipity* /ˌser-ən-ˈdɪp-ə-ti/）。
+- 单音节词单独读出时，整节当作重音节。
+- 查词时**务必标重音**；原书强调：重音位置错是积累最多的隐性错误之一（*penalty* → *penalize*、*economy* / *economics* / *economist* 各不同）。
+
+### 6.3 词内重音：读准一节
+
+**重音节前停顿（原书 §8）：** 为读清重音音节，可在其前加**极短停顿**——练习时可夸张，如 *e* | *specially*、*im* | *portant*、*under* | *stand*。字典单词录音往往听不出这层停顿，但母语者脑内会把词拆开。
+
+**重读 vs 非重读元音（原书 §12 + 速查手册）：**
+
+| 情况 | 重读音节 | 非重读音节 |
+| --- | --- | --- |
+| 长元音 / 双元音 | 饱满、够长 | 变短 |
+| 短元音 | 相对拉长（如 *city* /ˈsɪ-ti/ 第一个 /ɪ/ 更长） | 常弱化为 /ə/ 或 /ɪ/ |
+| 例 | **sys** /ˈsɪ/ in *system* | **tem** /stəm/ |
+| 例 | **na** /ˈnæ/ in *analysis* | 其余 /əˈnæl-ə-sɪs/ |
+
+> **口诀：** 重读音节元音发「本音」或长音；非重读多向 **schwa** /ə/ 靠拢（见 [[1000-hours/sounds-of-american-english/3.1.1-ə|3.1.1 ə]]）。
+
+**重音改变词义 / 词性（1000h 4.2.1）：**
+
+| Word | 名词 | 动词 |
+| --- | --- | --- |
+| **record** | /ˈrek-ɚd/ 记录 | /rɪ-ˈkɔːrd/ 录制 |
+| **address** | /ˈæd-res/ 地址 | /ə-ˈdres/ 强调；致辞 |
+| **permit** | /ˈpɜːr-mɪt/ 许可证 | /pər-ˈmɪt/ 允许 |
+
+### 6.4 常见重音位置规则（工程师向）
+
+摘自 [[learning-notes/pronunciation/phonetics-engineer-quick-reference#415-元音重读音节规则-vowel-stress-rules|音标速查 · §4.1.5]]；**规则有例外**，以词典 IPA 为准。
+
+| 模式 | 重音倾向 | 例词 | IPA |
+| --- | --- | --- | --- |
+| 双音节**动词** | 在后 | **deploy** | /dɪ-ˈplɔɪ/ |
+| 双音节**名词** | 在前 | **server** | /ˈsɜːr-vər/ |
+| **-tion / -sion** | 在前一音节 | **application** | /ˌæpl-ɪ-ˈkeɪ-ʃn/ |
+| **-ology** | 在 -ol | **technology** | /tek-ˈnɒl-ə-dʒi/ |
+| **-ity** | 在 -ity 前 | **capacity** | /kə-ˈpæs-ə-ti/ |
+| 2 音节以上技术词 | 常第 2 音节 | **developer** | /dɪ-ˈvel-ə-pər/ |
+|  |  | **architecture** | /ˈɑːr-kɪ-tek-tʃər/ |
+|  |  | **analysis** | /ə-ˈnæl-ə-sɪs/ |
+
+**易错词练习库：** [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149#3-重音位置-stress-position|易读错词汇 149 · §3 重音位置]]（约 20 个专项 + 全表标注）。
+
+### 6.5 句内强读与弱读
+
+**为什么重要（原书 §12）：** 掌握强读 / 弱读比单个音素准不准更影响**语流是否自然**、能否听懂。口音重但节奏对，仍可沟通。
+
+**community 例句（TOEFL 听力，原书 §12）：**
+
+> **Community** **service** is an **important** **component** of **education** **here** at our **university**. We **encourage** **all** **students** to **volunteer** for at **least** **one** community **activity** **before** they **graduate**.
+
+- 第一处 **Community**（强读）：第二音节 /mjuː/ 饱满，有调、音高更高。
+- 第二处 *community*（弱读）：/mjuː/ 变短，无明显声调。
+
+**强读词常见变化：**
+
+- 长元音 / 双元音读清楚、够长；重音节可有声调（平 / 升 / 降）和更高音高。
+
+**弱读词常见变化：**
+
+- 元音缩短；多音节词里重音对比变弱；元音向 /ə/ 靠拢；轻辅音后 /ə/ 可省略；整词音高偏低。
+
+**虚词强弱读对照（节选，非硬规则）：**
+
+| 词 | 强读 | 弱读（语流中更常见） |
+| --- | --- | --- |
+| **a** | /eɪ/ | /ə/ |
+| **and** | /ænd/ | /ənd/, /n/ |
+| **can** | /kæn/ | /kən/ |
+| **for** | /fɔːr/ | /fər/ |
+| **of** | /ʌv/ | /əv/, /ə/ |
+| **our** | /aʊr/ | /ɑr/ |
+| **to** | /tuː/ | /tə/ |
+| **you** | /juː/ | /jə/ |
+
+> 完整列表见 [[book/chapter3|chapter3]] §12；句级讲解见 [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子]]。
+
+### 6.6 与音节划分怎么配合
+
+```text
+查词 → 写 IPA → 按元音切音节 → 标 ˈ / ˌ → 标哪节弱读为 ə → 放入句子判断强读/弱读
+```
+
+| 步骤 | 本页 / 外链 |
+| --- | --- |
+| 切音节 | §1–§4 |
+| 标重音 | §6.2–§6.4 |
+| 句内强弱 | §6.5 |
+| 输入 ˈˌ | [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] |
+| 工程师词表 | [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] |
+| 跟读材料 | 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] 多音节词列表 |
+
+---
+
+## 7. 与原书章节的对应
 
 | 原书要点 | 本页位置 |
 | --- | --- |
@@ -127,9 +250,13 @@ aliases:
 | 一音节一元音 | §2 |
 | 九种单音节结构 | §3 |
 | 多音节套模式 + 前段多前五种 | §4 |
+| 重音节前停顿 | §6.3 |
+| 词内重音 / 次重音 | §6.2 |
+| 句内强读弱读、community 例 | §6.5 |
+| 虚词强弱读表 | §6.5 |
 
 ---
 
 ## 索引
 
-[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[book/chapter3|《人人都能用英语》第三章]]
+[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]

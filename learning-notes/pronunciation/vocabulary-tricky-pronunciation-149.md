@@ -337,7 +337,7 @@ aliases:
 ## 参考链接 References
 
 - [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]]
-- [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分 · IPA]]
+- [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
 - [[3.2-consonants|辅音详解 Consonants]]
 - [[3.1-vowels|元音详解 Vowels]]
 - [[4-natural-speech|自然语流 Natural Speech]]

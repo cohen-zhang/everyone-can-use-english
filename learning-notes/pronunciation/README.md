@@ -20,7 +20,7 @@ aliases:
 
 ## 音节与读音方法
 
-- [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分 · 基于音标（IPA）]] — 摘自《人人都能用英语》ch.3 §11；含工程师词与美剧难词举例
+- [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] — 摘自《人人都能用英语》ch.3；音节切分 + 词内重音 / 句内强读弱读总结
 
 ---
 
