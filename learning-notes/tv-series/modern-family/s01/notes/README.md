@@ -12,9 +12,11 @@
 
 | 类型                                                | 说明                                                              |
 | ------------------------------------------------- | --------------------------------------------------------------- |
-| **modern-family-s01exx-daily-lines.md**              | 从对应 `modern-family-s01exx-transcript.txt` **自动抽取**英中句对，按粗分类（出行、居家、亲子等）分组；适合快速刷句、跟读。 |
+| **modern-family-s01exx-daily-lines.md**              | **剧情分段**（plot beats）+ **俚语表（仅本集）** + **难词表**；E01 已按新体例重写。俚语 vs 难词（Glossary）分类定义见 [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]。 |
+| **beats/s01eNN-beats.yaml**                          | 每集剧情分段台词配置（人工精选 8–15 句/段）；生成脚本读取此文件。 |
 | **modern-family-s01e02-key-to-being-a-great-dad.md** | **手工编排**的亲子对话体练习（阿泽 / Celine 设定），与自动抽取版互补。                                       |
-| **scripts/build-modern-family-s01-md.py**            | 生成「生活实用英文句」的脚本；字幕更新后可重新运行。                                                   |
+| **scripts/build-modern-family-s01-daily-lines.py**   | **推荐**：从 beats YAML + transcript 生成 daily-lines；保留 `<!-- MANUAL:* -->` 区块。 |
+| **scripts/build-modern-family-s01-md.py**            | **旧版**：按关键词生活桶（出行、居家等）从 `book/摩登家庭` 抽取；E02–E24 仍可能由此生成。 |
 
 
 ## 剧集列表
@@ -29,9 +31,24 @@
 
 **说明：** E12 若字幕文件为空，对应 `modern-family-s01e12-daily-lines.md` 内会有占位说明；补齐字幕后请重新运行脚本。
 
-## 重新生成「生活实用英文句」
+## 重新生成 daily-lines（推荐流程）
 
-在仓库根目录执行：
+**E01 及后续按新体例的集：**
+
+1. 编辑或新建 `beats/s01eNN-beats.yaml`（参考 `s01e01-beats.yaml`）。
+2. 在仓库根目录执行（需 `pip install pyyaml`）：
+
+```bash
+python3 learning-notes/tv-series/modern-family/s01/notes/scripts/build-modern-family-s01-daily-lines.py --episode 1
+# 或全部已配置 beats：--all
+```
+
+脚本会：
+- 从 YAML 输出 **剧情分段台词**；
+- 扫描 transcript，在 **§A/B/C 俚语表** 中只列 **本集实际出现** 的表达；
+- 保留笔记里 `<!-- MANUAL:HEAD -->` / `VOCAB` / `TIPS` 之间的手工内容。
+
+**旧版关键词桶（legacy）：**
 
 ```bash
 python3 learning-notes/tv-series/modern-family/s01/notes/scripts/build-modern-family-s01-md.py

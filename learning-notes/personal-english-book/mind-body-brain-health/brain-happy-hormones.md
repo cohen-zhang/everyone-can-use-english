@@ -21,7 +21,7 @@ aliases:
 - [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]] — 健康饮食、营养素与餐盘习惯
 - [[learning-notes/personal-english-book/parenting-self-talk-phrases|家长自说自话用语]] — 脑科学证据（神经可塑性、皮质醇）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表]] — 查 **endorphin**、**brain** 等词条
-- [[learning-notes/personal-english-book/study/vocabulary-tricky-pronunciation-149|难读词发音 149]] — **dopamine** 等发音
+- [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|难读词发音 149]] — **dopamine** 等发音
 
 **本文以可朗读的英文句子为主**，每条下面用 **—** 给出简中意思；前半为四种激素简介与日常做法，后半为术语表。**泽哥**想跟家人聊「怎么让心情好一点」时，可以直接念英文句。
 

@@ -718,7 +718,7 @@ aliases:
 
 **词类**问的是：这个词在句子里**扮演什么角色**（名、动、形、副……）。亲子口语不必背术语，先用「**人/物/地方**」「**动作**」「**怎么样**」分篮；大一点再对照英文术语。
 
-**深度示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order#anchor-parts-of-speech|句子扩写 · 八大词类速查表（IPA + 词典释义）]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
+**深度示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order#anchor-parts-of-speech|句子扩写 · 八大词类速查表（IPA + 词典释义）]] · [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类 · 单词层]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
 
 ### 21.1 八大词类（核心分篮）
 
@@ -791,7 +791,7 @@ aliases:
 
 **句子成分**问的是：在一个句子里，每一块**担任什么职务**（谁发起、做什么、对谁做、在哪里做……）。中文常讲 **主谓宾定状补**；英语课堂常用 **S / V / O / A / C** 标注。
 
-**扩写与换序示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]]（同一画面由短句叠到长句）
+**扩写与换序示范：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · 主谓宾状补换序]]（同一画面由短句叠到长句） · **语气与 Glossary/俚语分篮：** [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类 · 句子层]]
 
 ### 22.1 成分中英对照（主谓宾定状补）
 

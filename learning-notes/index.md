@@ -13,7 +13,8 @@ search:
 
 - [亲子英文资料库（索引）](parenting-english/README.md)
 - [个人英文材料书（MOC）](personal-english-book/README.md)
-- [语法实验室](grammar-lab/english-grammar-system-overview-yingyutu.md)（同目录还有更多笔记）
+- [发音资料（索引）](pronunciation/README.md) — [音节划分 · IPA](pronunciation/syllable-division-ipa-based.md) · [音标输入](pronunciation/phonetics-input-guide.md) · [音标速查](pronunciation/phonetics-engineer-quick-reference.md)
+- [语法实验室（索引）](grammar-lab/README.md) — [英语语言单位分类](grammar-lab/english-language-taxonomy.md) · [语法体系总览](grammar-lab/english-grammar-system-overview-yingyutu.md)
 
 左侧目录为全库页面树；站内搜索支持中英文关键词。
 

@@ -23,6 +23,8 @@
 - 区分：`原视频观点` vs `我的整理补充`
 - 对争议点加“待核验”标记
 
+**索引：** [[learning-notes/grammar-lab/README|语法实验室索引]] · **语言单位分类（单词 / Glossary / 俚语 / 句子）：** [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]
+
 **句式练习（扩写 / 换序）：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写与成分换序示范]]
 
 ## 1) 先看全局：Grammar = Form + Meaning + Use

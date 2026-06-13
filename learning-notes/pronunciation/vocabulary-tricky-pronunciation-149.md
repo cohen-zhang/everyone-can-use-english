@@ -1,5 +1,6 @@
 ---
 tags:
+  - pronunciation
   - personal-english-book
   - english-learning
   - peb/study
@@ -8,13 +9,13 @@ aliases:
 ---
 # 注意读音词汇表 —— Tricky Pronunciation Vocabulary (149 Words)
 
-**索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**索引：** [[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 #phonetics #vocabulary #pronunciation #tricky-words #word-list #音标 #易错读音
 
 > **Aze** (阿泽) —— 从单词 APP 导出的需注意读音的 149 个词汇
 > 
-> 本文档配合 [[phonetics-engineer-quick-reference|音标速查手册]] 使用效果更佳
+> 本文档配合 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]] 使用效果更佳
 
 ---
 
@@ -335,7 +336,8 @@ aliases:
 
 ## 参考链接 References
 
-- [[phonetics-engineer-quick-reference|音标速查手册]]
+- [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]]
+- [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分 · IPA]]
 - [[3.2-consonants|辅音详解 Consonants]]
 - [[3.1-vowels|元音详解 Vowels]]
 - [[4-natural-speech|自然语流 Natural Speech]]
