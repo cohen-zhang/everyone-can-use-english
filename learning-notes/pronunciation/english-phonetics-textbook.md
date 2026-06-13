@@ -27,6 +27,7 @@ aliases:
 | 第一次系统学语音 | 按下方 **§1 学习顺序** 从 Part I 读到 Part VIII |
 | 查某个技术词怎么读 | [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] |
 | 切音节、标重音 | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] |
+| 按句型练节奏 | [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] |
 | 国人易错词清单 | [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] |
 | Markdown 里打 IPA | [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] |
 | 原书 ch.3 中英示例速查 | 本页 **附录 C** |
@@ -336,6 +337,8 @@ aliases:
 ---
 
 ## Part VII · 音高、节奏与「声调」
+
+→ **按句型练节奏：** [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]]（陈述 / 疑问 / 祈使 / 感叹 + 职场 / 亲子例句）
 
 - **技巧加重点：「声调」** —— 句重音与 pitch accent（[[book/chapter3#19-技巧加重点声调|ch.3 §19]]）
 - **音调 Pitch**（[[book/chapter3#23-音调pitch|ch.3 §23]]）

@@ -31,6 +31,12 @@ aliases:
 
 ---
 
+## 句子节奏与语流
+
+- [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] — 陈述 / 疑问 / 祈使 / 感叹的节奏规律；混合职场 + 亲子例句；跟读标记工作流
+
+---
+
 ## 音标工具与词表
 
 - [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] — Obsidian / Markdown 输入 IPA

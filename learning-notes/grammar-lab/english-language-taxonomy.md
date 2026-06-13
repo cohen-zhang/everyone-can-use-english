@@ -13,7 +13,7 @@ aliases:
 
 **索引：** [[learning-notes/grammar-lab/README|语法实验室索引]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]]
 
-**相关：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写与成分换序]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 笔记（俚语/难词表体例）]]（与此页 **相向互链**）
+**相关：** [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写与成分换序]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 笔记（俚语/难词表体例）]]（与此页 **相向互链**）
 
 ---
 
@@ -87,6 +87,8 @@ aliases:
 | 疑问 | **interrogative** | `?` | 助动词 / 疑问词前置 | **Where is my cup?** — 我的杯子在哪？ |
 | 祈使 | **imperative** | `.` / `!` | 省略主语 **you**，动词原形起句 | **Put on your shoes.** — 穿上鞋。 |
 | 感叹 | **exclamatory** | `!` | 强情绪；常含 **What / How** 或感叹词 | **Wow, a rainbow!** — 哇，彩虹！ |
+
+**发音节奏：** 四类句型怎么读 → [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]]
 
 **改写练习（与 [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|语法总览]] 90 分钟模板一致）：**
 

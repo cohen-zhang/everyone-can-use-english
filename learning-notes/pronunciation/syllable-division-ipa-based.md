@@ -17,7 +17,7 @@ aliases:
 
 **来源：** 李笑来《人人都能用英语》第三章 —— [[book/chapter3|chapter3]]（§11 音节划分 L227–251；§8 停顿 L160–174；§12 强读弱读 L253–292）
 
-**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
+**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
 
 ---
 
@@ -229,6 +229,8 @@ aliases:
 
 ### 6.5 句内强读与弱读
 
+→ **按句型展开节奏规律：** [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]]（陈述 / 疑问 / 祈使 / 感叹 + 对比重音）
+
 **为什么重要（原书 §12）：** 掌握强读 / 弱读比单个音素准不准更影响**语流是否自然**、能否听懂。口音重但节奏对，仍可沟通。
 
 **community 例句（TOEFL 听力，原书 §12）：**
@@ -292,10 +294,11 @@ aliases:
 | 词内重音 / 次重音 | §6.2 |
 | 词内重音 / 后缀规律 | §6.4 |
 | 句内强读弱读、community 例 | §6.5 |
+| 按句型节奏（陈述/疑问/祈使/感叹） | [[learning-notes/pronunciation/sentence-rhythm-by-type|句子节奏 · 按句型]] |
 | 虚词强弱读表 | §6.5 |
 
 ---
 
 ## 索引
 
-[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
+[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子节奏 · 按句型]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]

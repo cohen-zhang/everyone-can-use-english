@@ -210,6 +210,7 @@ aliases:
 ### 5.1 本仓库发音笔记
 
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] —— 用 IPA 切音节、标重音。
+- [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] —— 陈述 / 疑问 / 祈使 / 感叹的节奏与跟读标记。
 - [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] —— 技术词、原书 ch.3 示例词、国人易错模式。
 - [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] —— 短文跟读、连读、重音练习。
 - [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] —— Markdown / Obsidian 里输入 IPA。
