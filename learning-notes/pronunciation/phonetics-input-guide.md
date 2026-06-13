@@ -10,7 +10,7 @@ aliases:
 # 音标输入指南 —— Phonetics Input Guide for Engineers
 
 **索引：** [[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关：** [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] — 速查表与此篇 **相向互链**。
+**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] — 速查表与此篇 **相向互链**。
 
 #phonetics #input-method #tools #markdown #音标输入 #工程师工具
 
@@ -219,7 +219,7 @@ sed -i '' 's/@ng@/ŋ/g' "$1"
 
 ## 7. 相关文档双向链接 Related Documents
 
-- [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册 Main Reference]]
+- [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查 Main Reference]]
 - [[8.1-inputting-phonemes-and-symbols|音标输入详解 Detailed Input Guide]]
 - [[1.2-alphabets|字母与音素对应 Alphabets & Phonemes]]
 - [[8.2-cepd-phonetics-and-sound|剑桥发音词典 CEPD Guide]]

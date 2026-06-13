@@ -18,16 +18,22 @@ aliases:
 
 ---
 
+## 系统教程与速查
+
+- [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] — 串联 ch.3、新版草稿、1000h 的系统学习路径（**先读此页**）
+- [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] — 查技术词、写笔记时的 IPA 与重音速查表
+
+---
+
 ## 音节与读音方法
 
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]] — 摘自《人人都能用英语》ch.3；音节切分 + 词内重音 / 句内强读弱读总结
 
 ---
 
-## 音标工具与速查
+## 音标工具与词表
 
 - [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] — Obsidian / Markdown 输入 IPA
-- [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] — 技术职场高频词发音、重音规则
 - [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] — APP 原表 + 工程笔记汇总；**§0 国人易错模式** · **§9 跨文档补充**
 
 ---

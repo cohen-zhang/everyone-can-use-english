@@ -17,9 +17,9 @@ aliases:
 
 > **Aze** (阿泽) —— 从单词 APP 导出的 149 个词汇；并汇总本仓库其它笔记中的易读错词，**特别标注简中母语者（国人）常见误读**。
 > 
-> 本文档配合 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] 使用效果更佳。
+> 本文档配合 [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] 使用效果更佳。
 
-**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
+**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
 
 ---
 
@@ -421,7 +421,7 @@ aliases:
 
 | 单词 | IPA | 国人常误读 ❌ | 简中 | 标签 | 出处 |
 | --- | --- | --- | --- | --- | --- |
-| **cache** | /kæʃ/ | /kætʃ/ 或 /ˈkæʃeɪ/ | 缓存 | 国人易错、技术 | [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|计科词汇]] |
+| **cache** | /kæʃ/ | /kætʃ/ 或 /ˈkæʃeɪ/ | 缓存 | 国人易错、技术 | [[learning-notes/pronunciation/engineer-phonetics-reference|音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|计科词汇]] |
 | **schema** | /ˈskiːmə/ | /ˈʃiːmə/ sch 当 sh | 模式 | 国人易错、技术 | 音标速查 |
 | **kubernetes** | /ˌkuːbərˈnetiz/ | 字母逐个念 | K8s | 国人易错、技术 | 音标速查 |
 | **nginx** | /ˌendʒɪnˈeks/ | n-g-i-n-x | Web 服务器 | 国人易错、技术 | 音标速查 |
@@ -605,7 +605,7 @@ aliases:
 
 ## 参考链接 References
 
-- [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查手册]]
+- [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]]
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
 - [[book/chapter3|《人人都能用英语》第三章 · 语音]]
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇 · 易读错命令/单词]]

@@ -17,7 +17,7 @@ aliases:
 
 **来源：** 李笑来《人人都能用英语》第三章 —— [[book/chapter3|chapter3]]（§11 音节划分 L227–251；§8 停顿 L160–174；§12 强读弱读 L253–292）
 
-**相关：** [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
+**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
 
 ---
 
@@ -78,7 +78,7 @@ aliases:
 
 ## 4. 多音节怎么切
 
-1. 写出单词的 **IPA**（可查词典或 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查]]）。
+1. 写出单词的 **IPA**（可查词典或 [[learning-notes/pronunciation/engineer-phonetics-reference|音标速查]]）。
 2. 在**元音与元音之间**找边界，让每一节都符合上表九种之一。
 3. **辅助原则（原书）：** 除**最后一个音节**外，前面各节多为 §3 九种里的**前 5 种**（**V、CV、CCV、VC、CVC**）。
 
@@ -99,7 +99,7 @@ aliases:
 | **deploy** | 两字母音节？ | /dɪ-ˈplɔɪ/ | 部署 |
 | **repository** | 很长一串 | /rɪ-ˈpɑː-zə-tɔː-ri/ | 仓库 |
 
-（IPA 参考 [[learning-notes/pronunciation/phonetics-engineer-quick-reference|工程师高频词表]]。）
+（IPA 参考 [[learning-notes/pronunciation/engineer-phonetics-reference|工程师高频词表]]。）
 
 ### 4.2 本仓库笔记例
 
@@ -110,7 +110,7 @@ aliases:
 | **surrogate** | 同上 | /ˈsɜː-rə-ɡət/ | 三音节，中间 schwa |
 | **passionate** | 同上 | /ˈpæ-ʃə-nət/ | 勿读成两节 /ˈpæʃ-nət/ |
 | **Celine** | [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写]] | /sə-ˈliːn/ | 亲子例句主语名 |
-| **system** | [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标速查]] | /ˈsɪ-stəm/ | 第二音节弱读 schwa |
+| **system** | [[learning-notes/pronunciation/engineer-phonetics-reference|音标速查]] | /ˈsɪ-stəm/ | 第二音节弱读 schwa |
 
 ---
 
@@ -178,7 +178,7 @@ aliases:
 
 ### 6.4 常见重音位置规则（工程师向）
 
-摘自 [[learning-notes/pronunciation/phonetics-engineer-quick-reference#415-元音重读音节规则-vowel-stress-rules|音标速查 · §4.1.5]]；**规则有例外**，以词典 IPA 为准。
+摘自 [[learning-notes/pronunciation/engineer-phonetics-reference#43-重音与弱读常见模式|工程师音标速查 · §4.3]]；**规则有例外**，以词典 IPA 为准。
 
 | 模式 | 重音倾向 | 例词 | IPA |
 | --- | --- | --- | --- |
@@ -239,7 +239,7 @@ aliases:
 | 标重音 | §6.2–§6.4 |
 | 句内强弱 | §6.5 |
 | 输入 ˈˌ | [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] |
-| 工程师词表 | [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] |
+| 工程师词表 | [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] |
 | 跟读材料 | 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] 多音节词列表 |
 
 ---
@@ -263,4 +263,4 @@ aliases:
 
 ## 索引
 
-[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/phonetics-engineer-quick-reference|音标工程师速查]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
+[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
