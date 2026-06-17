@@ -19,12 +19,11 @@ aliases:
 ---
 # Perfect — Ed Sheeran
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Perfect](https://music.apple.com/cn/song/perfect/1193701400)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*dancing in the dark*、*look perfect tonight* 等婚礼/告白常用句可对照）
 
 ---
 
@@ -32,11 +31,11 @@ aliases:
 
 **English**
 
-**Ed Sheeran** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Ed Sheeran** (born 17 February 1991, Halifax, West Yorkshire) is an English **singer-songwriter** and one of the best-selling music artists of his generation. He moved to London as a teenager, slept on couches, and built a fanbase through relentless gigging and EPs before *+* (2014) and *÷* (2017) made him a global star. Sheeran's **acoustic pop and ballad** style favors plain, direct language—love songs that sound like **private conversations**. He has won **Grammy**, **Brit**, and **Ivor Novello** awards; **"Perfect"** became one of the most played **first-dance and wedding** songs worldwide. He often writes from real relationships, including his future wife **Cherry Seaborn**.
 
 **中文**
 
-**Ed Sheeran** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Ed Sheeran**（1991 年 2 月 17 日生，英国 Halifax）是英格兰**创作型歌手**，同世代最畅销艺人之一。少年时移居伦敦，睡沙发、疯狂跑场，以 EP 与现场积累粉丝；*+*（2014）与 *÷*（2017）使其成为全球巨星。Sheeran 的**原声流行与抒情 ballad** 偏爱平实直白的语言——情歌像**私下对话**一样。他获 **格莱美**、**全英**、**Ivor Novello** 等奖；**"Perfect"** 成为全球最常播放的**婚礼第一支舞**歌曲之一。他常从真实关系取材，包括后来的妻子 **Cherry Seaborn**。
 
 ---
 
@@ -44,78 +43,83 @@ aliases:
 
 **English**
 
-**"Perfect"** by **Ed Sheeran** is a **国际流行** track from *÷ (Deluxe)*. Themes in the lyrics often touch on **breakup loss, life attitude, love romance**, useful for spoken English and sing-along practice.
+**"Perfect"** was released on **3 March 2017** as the fourth single from *÷ (Divide)*. Sheeran wrote it about **Cherry Seaborn**, a friend from school reconnected in New York—framing their love as something that began when they were **just kids** and grew into a lifelong promise (*share her home*, *carry children of our own*). The waltz-time ballad (*dancing in the dark*, *barefoot on the grass*) deliberately echoes **classic wedding slow dances**. It hit **No. 1** in the UK and US and became the **Christmas No. 1** in Britain in 2017. Note: UK spelling *favourite* in verse 1; US *favorite* in later verses—both appear on official releases.
 
 **中文**
 
-**"Perfect"**（**Ed Sheeran**）收录于 *÷ (Deluxe)*，属 **国际流行** 风格。歌词主题多与 **分手·思念 · 生活态度 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Perfect"** 于 **2017 年 3 月 3 日**发行，为 *÷ (Divide)* 第四支单曲。Sheeran 为 **Cherry Seaborn** 而写——中学同学，在纽约重逢——把爱情写成**年少时**种下、一路长成终身承诺（*share her home*、*carry children of our own*）。华尔兹节奏的 ballad（*dancing in the dark*、*barefoot on the grass*）刻意呼应**经典婚礼慢舞**。单曲在英国与美国均登 **榜一**，2017 年成为英国 **圣诞榜一**。注意：Verse 1 用英式拼写 *favourite*，后续 Verse 用美式 *favorite*——官方版本均有出现。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *÷ (Deluxe)* |
+| 专辑 | Album | *÷ (Deluxe)* (2017) |
 | 发行 | Release date | 2017-03-03 |
-| 曲风 | Genre | Ballad · Pop |
+| 曲风 | Genre | Pop ballad · acoustic pop |
 | 时长 | Length | 4:23 |
+| 词曲 | Songwriters | Ed Sheeran, Matthew Sheeran |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #44 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-I found a love, for me  
-Darling, just dive right in and follow my lead  
-Well, I found a girl, beautiful and sweet  
-Oh, I never knew you were the someone waiting for me  
-'Cause we were just kids when we fell in love  
-Not knowing what it was  
-I will not give you up this time  
-But darling, just kiss me slow  
-Your heart is all I own  
-And in your eyes, you're holding mine  
-Baby, I'm dancing in the dark  
-With you between my arms  
-Barefoot on the grass  
-Listening to our favourite song  
-When you said you looked a mess  
-I whispered underneath my breath  
-But you heard it  
-Darling, you look perfect tonight  
+I found a love, for me — 我找到了属于我的爱  
+Darling, just dive right in and follow my lead — 亲爱的，只管投入，跟着我的引导  
+Well, I found a girl, beautiful and sweet — 我找到一个美丽又温柔的女孩  
+Oh, I never knew you were the someone waiting for me — 哦，我从不知道你就是一直在等我的那个人  
+'Cause we were just kids when we fell in love — 因为我们相爱时还只是孩子  
+Not knowing what it was — 不懂那是什么  
+I will not give you up this time — 这一次我不会放弃你  
+But darling, just kiss me slow — 但亲爱的，慢慢吻我  
+Your heart is all I own — 你的心是我所拥有的一切  
+And in your eyes, you're holding mine — 在你眼中，你也握着我的目光  
 
-Well, I found a woman, stronger than anyone I know  
-She shares my dreams, I hope that someday I'll share her home  
-I found a lover, to carry more than just my secrets  
-To carry love, to carry children of our own  
-We are still kids, but we're so in love  
-Fighting against all odds  
-I know we'll be alright this time  
-Darling, just hold my hand  
-Be my girl, I'll be your man  
-I see my future in your eyes  
-Baby, I'm dancing in the dark  
-With you between my arms  
-Barefoot on the grass  
-Listening to our favorite song  
-When I saw you in that dress, looking so beautiful  
-I don't deserve this  
-Darling, you look perfect tonight  
+### Chorus
 
-(No, no, no)  
+Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
+With you between my arms — 你在我双臂之间  
+Barefoot on the grass — 赤脚站在草地上  
+Listening to our favourite song — 听着我们最爱的歌  
+When you said you looked a mess — 当你说自己很狼狈  
+I whispered underneath my breath — 我低声呢喃  
+But you heard it — 但你听见了  
+Darling, you look perfect tonight — 亲爱的，你今晚美极了  
 
-Baby, I'm dancing in the dark  
-With you between my arms  
-Barefoot on the grass  
-Listening to our favorite song  
-I have faith in what I see  
-Now I know I have met an angel in person  
-And she looks perfect  
-I don't deserve this  
-You look perfect tonight
+### Verse 2
 
----
+Well, I found a woman, stronger than anyone I know — 我找到一位比任何人都坚强的女人  
+She shares my dreams, I hope that someday I'll share her home — 她分享我的梦想，我希望有一天能与她共有一个家  
+I found a lover, to carry more than just my secrets — 我找到一位爱人，能承载的不只是我的秘密  
+To carry love, to carry children of our own — 能承载爱，承载我们自己的孩子  
+We are still kids, but we're so in love — 我们仍是孩子，却如此相爱  
+Fighting against all odds — 与一切逆境抗争  
+I know we'll be alright this time — 我知道这一次我们会没事  
+Darling, just hold my hand — 亲爱的，握住我的手  
+Be my girl, I'll be your man — 做我的女孩，我来做你的男人  
+I see my future in your eyes — 我在你眼中看见未来  
 
----
+### Chorus（重复）
+
+Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
+With you between my arms — 你在我双臂之间  
+Barefoot on the grass — 赤脚站在草地上  
+Listening to our favorite song — 听着我们最爱的歌  
+When I saw you in that dress, looking so beautiful — 当我看见你穿上那条裙子，如此美丽  
+I don't deserve this — 我不配拥有这一切  
+Darling, you look perfect tonight — 亲爱的，你今晚美极了  
+
+### Outro
+
+Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
+With you between my arms — 你在我双臂之间  
+Barefoot on the grass — 赤脚站在草地上  
+Listening to our favorite song — 听着我们最爱的歌  
+I have faith in what I see — 我对自己所见的深信不疑  
+Now I know I have met an angel in person — 现在我知道我遇见了一位凡间的天使  
+And she looks perfect — 她看起来完美无瑕  
+I don't deserve this — 我不配拥有这一切  
+You look perfect tonight — 你今晚美极了  
 
 ---
 
@@ -123,20 +127,21 @@ You look perfect tonight
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *We are still kids, but we're so in love* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *'Cause we were just kids when we fell in love* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I don't deserve this* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Be my girl, I'll be your man* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Baby, I'm dancing in the dark* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I know we'll be alright this time* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And in your eyes, you're holding mine* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *She shares my dreams, I hope that someday I'll share her …* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **dive right in** | 只管投入 | 短语动词；*dive in* = 一头扎进去 |
+| **follow my lead** | 跟着我的引导 | 舞伴/恋爱常用；*take the lead* 反义 |
+| **just kids when we fell in love** | 相爱时还只是孩子 | *fall in love* 固定搭配 |
+| **kiss me slow** | 慢慢吻我 | *slow* 作副词，口语常见 |
+| **dancing in the dark** | 在昏暗中跳舞 | 字面 + 浪漫氛围；亦作 Bruce Springsteen 歌名 |
+| **barefoot on the grass** | 赤脚站在草地上 | 婚礼/户外 imagery |
+| **underneath my breath** | 低声呢喃 | = 几乎听不见地说话 |
+| **you look perfect tonight** | 你今晚美极了 | 婚礼、告白高频句 |
+| **I don't deserve this** | 我不配拥有这一切 | 表达「受宠若惊」的 humility |
+| **fighting against all odds** | 与一切逆境抗争 | *against all odds* = 尽管胜算渺茫 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *Perfect* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 华尔兹节奏（3/4 拍），**通勤或 KTV** 都适合；副歌 *you look perfect tonight* 先练熟再练 Verse。
+- *darling, just kiss me slow* 中 **kiss me slow** 连读自然，注意 **slow** 拖长。
+- 想延伸读**浪漫告白句型**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 wedding / compliment 相关表达。

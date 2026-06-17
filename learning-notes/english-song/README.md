@@ -35,36 +35,36 @@ aliases:
 | 18 | High on Life (feat. Bonn) | Martin Garrix | 精编 | 分手·思念 · 情绪 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/high-on-life-martin-garrix|High on Life (feat. Bonn)]] |
 | 19 | Always Remember Us This Way | Brenda Mullen | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way]] |
 | 20 | Dreamer | Europe | 精编 | 分手·思念 · 情绪 · 生活态度 | Pop · Rock | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/dreamer-europe|Dreamer]] |
-| 21 | When Your Lips Are So Close | Gord Bamford | — | 恋爱 | Country · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
-| 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | — | 分手·思念 · 情绪 | Pop · Rock | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
-| 23 | Stand By Me | Seal | — | 情绪 · 恋爱 | R&B | 易 | 2000s | 通勤 · 精研 · KTV | [[learning-notes/english-song/stand-by-me-seal|Stand By Me]] |
-| 24 | Who Wants To Live Forever | Queen | — | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
-| 25 | The Old Man | 菲尔・科尔特 | — | 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/the-old-man-菲尔科尔特|The Old Man]] |
-| 26 | The Old Man | Yom & Aurélien Naffrichoux | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/the-old-man-yom|The Old Man]] |
-| 27 | Promises Don't Come Easy | 陈曦 | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
-| 28 | What Can I Do (Promises) | Caron Nightingale | — | 生活态度 · 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises)]] |
-| 29 | Love Story (Taylor’s Version) | Taylor Swift | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-story-taylor-swift|Love Story (Taylor’s Version)]] |
-| 30 | Yesterday Once More | Carpenters | — | 分手·思念 · 情绪 · 恋爱 | Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/yesterday-once-more-carpenters|Yesterday Once More]] |
-| 31 | Sealed With a Kiss | The Lettermen | — | 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|Sealed With a Kiss]] |
-| 32 | No Such Thing as a Broken Heart | Old Dominion | — | 情绪 · 生活态度 · 恋爱 | Country · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]] |
-| 33 | These Days | Rascal Flatts | — | 生活态度 · 恋爱 | Country · Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/these-days-rascal-flatts|These Days]] |
-| 34 | Because of You | Ne-Yo | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我 | Ballad · R&B | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/because-of-you-ne-yo|Because of You]] |
-| 35 | Shape of You | Ed Sheeran | — | 分手·思念 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/shape-of-you-ed-sheeran|Shape of You]] |
-| 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | — | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/because-you-loved-me-céline-dion|Because You Loved Me (Theme from "Up Close and Personal")]] |
-| 37 | Like I Can | Sam Smith | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/like-i-can-sam-smith|Like I Can]] |
-| 38 | Die With A Smile | Lady Gaga & Bruno Mars | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/die-with-a-smile-lady-gaga|Die With A Smile]] |
-| 39 | Bad Romance | Lady Gaga | — | 恋爱 · 自我 | Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/bad-romance-lady-gaga|Bad Romance]] |
-| 40 | Let It Go | Idina Menzel | — | 分手·思念 · 情绪 · 影视原声 · 自我 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/let-it-go-idina-menzel|Let It Go]] |
-| 41 | Lights (Single Version) | Ellie Goulding | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/lights-ellie-goulding|Lights (Single Version)]] |
-| 42 | Young Dumb & Broke | Khalid | — | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2010s | 精研 · KTV | [[learning-notes/english-song/young-dumb-broke-khalid|Young Dumb & Broke]] |
-| 43 | Glorious (feat. Skylar Grey) | Macklemore | — | 分手·思念 · 情绪 · 生活态度 · 派对·能量 · 自我 | Hip-hop · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/glorious-macklemore|Glorious (feat. Skylar Grey)]] |
-| 44 | Perfect | Ed Sheeran | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/perfect-ed-sheeran|Perfect]] |
-| 45 | Numb | LINKIN PARK | — | 分手·思念 · 情绪 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/numb-linkin-park|Numb]] |
-| 46 | Numb Little Bug | Em Beihold | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/numb-little-bug-em-beihold|Numb Little Bug]] |
-| 47 | Adore You | Harry Styles | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/adore-you-harry-styles|Adore You]] |
-| 48 | I Don't Think I'm Okay | Bazzi | — | 分手·思念 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
-| 49 | Someone You Loved | Lewis Capaldi | — | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
-| 50 | The Other | LAUV | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-other-lauv|The Other]] |
+| 21 | When Your Lips Are So Close | Gord Bamford | 精编 | 恋爱 | Country · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
+| 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | 精编 | 分手·思念 · 情绪 | Pop · Rock | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
+| 23 | Stand By Me | Seal | 精编 | 情绪 · 恋爱 | R&B | 易 | 2000s | 通勤 · 精研 · KTV | [[learning-notes/english-song/stand-by-me-seal|Stand By Me]] |
+| 24 | Who Wants To Live Forever | Queen | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
+| 25 | The Old Man | 菲尔・科尔特 | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/the-old-man-菲尔科尔特|The Old Man]] |
+| 26 | The Old Man | Yom & Aurélien Naffrichoux | 精编 | 生活态度 | Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-old-man-yom|The Old Man]] |
+| 27 | Promises Don't Come Easy | 陈曦 | 精编 | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
+| 28 | What Can I Do (Promises) | Caron Nightingale | 精编 | 生活态度 · 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises)]] |
+| 29 | Love Story (Taylor’s Version) | Taylor Swift | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-story-taylor-swift|Love Story (Taylor’s Version)]] |
+| 30 | Yesterday Once More | Carpenters | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/yesterday-once-more-carpenters|Yesterday Once More]] |
+| 31 | Sealed With a Kiss | The Lettermen | 精编 | 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|Sealed With a Kiss]] |
+| 32 | No Such Thing as a Broken Heart | Old Dominion | 精编 | 情绪 · 生活态度 · 恋爱 | Country · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]] |
+| 33 | These Days | Rascal Flatts | 精编 | 生活态度 · 恋爱 | Country · Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/these-days-rascal-flatts|These Days]] |
+| 34 | Because of You | Ne-Yo | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我 | Ballad · R&B | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/because-of-you-ne-yo|Because of You]] |
+| 35 | Shape of You | Ed Sheeran | 精编 | 分手·思念 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/shape-of-you-ed-sheeran|Shape of You]] |
+| 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/because-you-loved-me-céline-dion|Because You Loved Me (Theme from "Up Close and Personal")]] |
+| 37 | Like I Can | Sam Smith | 精编 | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/like-i-can-sam-smith|Like I Can]] |
+| 38 | Die With A Smile | Lady Gaga & Bruno Mars | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/die-with-a-smile-lady-gaga|Die With A Smile]] |
+| 39 | Bad Romance | Lady Gaga | 精编 | 恋爱 · 自我 | Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/bad-romance-lady-gaga|Bad Romance]] |
+| 40 | Let It Go | Idina Menzel | 精编 | 分手·思念 · 情绪 · 影视原声 · 自我 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/let-it-go-idina-menzel|Let It Go]] |
+| 41 | Lights (Single Version) | Ellie Goulding | 精编 | 分手·思念 · 生活态度 · 恋爱 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/lights-ellie-goulding|Lights (Single Version)]] |
+| 42 | Young Dumb & Broke | Khalid | 精编 | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2010s | 精研 · KTV | [[learning-notes/english-song/young-dumb-broke-khalid|Young Dumb & Broke]] |
+| 43 | Glorious (feat. Skylar Grey) | Macklemore | 精编 | 分手·思念 · 情绪 · 生活态度 · 派对·能量 · 自我 | Hip-hop · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/glorious-macklemore|Glorious (feat. Skylar Grey)]] |
+| 44 | Perfect | Ed Sheeran | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/perfect-ed-sheeran|Perfect]] |
+| 45 | Numb | LINKIN PARK | 精编 | 分手·思念 · 情绪 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/numb-linkin-park|Numb]] |
+| 46 | Numb Little Bug | Em Beihold | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/numb-little-bug-em-beihold|Numb Little Bug]] |
+| 47 | Adore You | Harry Styles | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/adore-you-harry-styles|Adore You]] |
+| 48 | I Don't Think I'm Okay | Bazzi | 精编 | 分手·思念 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
+| 49 | Someone You Loved | Lewis Capaldi | 精编 | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
+| 50 | The Other | LAUV | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-other-lauv|The Other]] |
 | 51 | Head In The Clouds | Hayd | — | 分手·思念 · 生活态度 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
 | 52 | When You Look At Me | Sara Kays | — | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
 | 53 | That's Us | Anson Seabra | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
@@ -145,6 +145,7 @@ aliases:
 | 分手·思念 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 分手·思念 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/against-all-odds-phil-collins|笔记]] |
 | 分手·思念 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|笔记]] |
+| 分手·思念 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|笔记]] |
 | 分手·思念 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | 分手·思念 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
 | 分手·思念 | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/because-of-you-ne-yo|笔记]] |
@@ -220,6 +221,8 @@ aliases:
 | 恋爱 | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | 恋爱 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
 | 恋爱 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|笔记]] |
+| 恋爱 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|笔记]] |
+| 恋爱 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | 恋爱 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | 恋爱 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | 恋爱 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
@@ -301,6 +304,7 @@ aliases:
 | 情绪 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 情绪 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/against-all-odds-phil-collins|笔记]] |
 | 情绪 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
+| 情绪 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|笔记]] |
 | 情绪 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | 情绪 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
 | 情绪 | 32 | No Such Thing as a Broken Heart | Old Dominion | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|笔记]] |
@@ -374,6 +378,7 @@ aliases:
 | 生活态度 | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/because-of-you-ne-yo|笔记]] |
 | 生活态度 | 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | [[learning-notes/english-song/because-you-loved-me-céline-dion|笔记]] |
 | 生活态度 | 38 | Die With A Smile | Lady Gaga & Bruno Mars | [[learning-notes/english-song/die-with-a-smile-lady-gaga|笔记]] |
+| 生活态度 | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | 生活态度 | 42 | Young Dumb & Broke | Khalid | [[learning-notes/english-song/young-dumb-broke-khalid|笔记]] |
 | 生活态度 | 43 | Glorious (feat. Skylar Grey) | Macklemore | [[learning-notes/english-song/glorious-macklemore|笔记]] |
 | 生活态度 | 44 | Perfect | Ed Sheeran | [[learning-notes/english-song/perfect-ed-sheeran|笔记]] |
@@ -430,6 +435,7 @@ aliases:
 | 自我 | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/because-of-you-ne-yo|笔记]] |
 | 自我 | 39 | Bad Romance | Lady Gaga | [[learning-notes/english-song/bad-romance-lady-gaga|笔记]] |
 | 自我 | 40 | Let It Go | Idina Menzel | [[learning-notes/english-song/let-it-go-idina-menzel|笔记]] |
+| 自我 | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | 自我 | 43 | Glorious (feat. Skylar Grey) | Macklemore | [[learning-notes/english-song/glorious-macklemore|笔记]] |
 | 自我 | 48 | I Don't Think I'm Okay | Bazzi | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|笔记]] |
 | 自我 | 53 | That's Us | Anson Seabra | [[learning-notes/english-song/thats-us-anson-seabra|笔记]] |
@@ -455,10 +461,12 @@ aliases:
 | Ballad | 14 | Take Me To Your Heart | Michael Learns to Rock | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|笔记]] |
 | Ballad | 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|笔记]] |
 | Ballad | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
+| Ballad | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | Ballad | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | Ballad | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | Ballad | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/because-of-you-ne-yo|笔记]] |
 | Ballad | 35 | Shape of You | Ed Sheeran | [[learning-notes/english-song/shape-of-you-ed-sheeran|笔记]] |
+| Ballad | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | Ballad | 44 | Perfect | Ed Sheeran | [[learning-notes/english-song/perfect-ed-sheeran|笔记]] |
 | Ballad | 47 | Adore You | Harry Styles | [[learning-notes/english-song/adore-you-harry-styles|笔记]] |
 | Ballad | 49 | Someone You Loved | Lewis Capaldi | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|笔记]] |
@@ -632,6 +640,8 @@ aliases:
 | 易 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 易 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 易 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
+| 易 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/the-old-man-yom|笔记]] |
+| 易 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | 易 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | 易 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | 易 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
@@ -639,6 +649,7 @@ aliases:
 | 易 | 35 | Shape of You | Ed Sheeran | [[learning-notes/english-song/shape-of-you-ed-sheeran|笔记]] |
 | 易 | 39 | Bad Romance | Lady Gaga | [[learning-notes/english-song/bad-romance-lady-gaga|笔记]] |
 | 易 | 40 | Let It Go | Idina Menzel | [[learning-notes/english-song/let-it-go-idina-menzel|笔记]] |
+| 易 | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | 易 | 44 | Perfect | Ed Sheeran | [[learning-notes/english-song/perfect-ed-sheeran|笔记]] |
 | 易 | 47 | Adore You | Harry Styles | [[learning-notes/english-song/adore-you-harry-styles|笔记]] |
 | 易 | 49 | Someone You Loved | Lewis Capaldi | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|笔记]] |
@@ -675,15 +686,12 @@ aliases:
 | 中 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/against-all-odds-phil-collins|笔记]] |
 | 中 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|笔记]] |
 | 中 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|笔记]] |
-| 中 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/the-old-man-yom|笔记]] |
-| 中 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | 中 | 31 | Sealed With a Kiss | The Lettermen | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|笔记]] |
 | 中 | 32 | No Such Thing as a Broken Heart | Old Dominion | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|笔记]] |
 | 中 | 33 | These Days | Rascal Flatts | [[learning-notes/english-song/these-days-rascal-flatts|笔记]] |
 | 中 | 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | [[learning-notes/english-song/because-you-loved-me-céline-dion|笔记]] |
 | 中 | 37 | Like I Can | Sam Smith | [[learning-notes/english-song/like-i-can-sam-smith|笔记]] |
 | 中 | 38 | Die With A Smile | Lady Gaga & Bruno Mars | [[learning-notes/english-song/die-with-a-smile-lady-gaga|笔记]] |
-| 中 | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | 中 | 42 | Young Dumb & Broke | Khalid | [[learning-notes/english-song/young-dumb-broke-khalid|笔记]] |
 | 中 | 45 | Numb | LINKIN PARK | [[learning-notes/english-song/numb-linkin-park|笔记]] |
 | 中 | 46 | Numb Little Bug | Em Beihold | [[learning-notes/english-song/numb-little-bug-em-beihold|笔记]] |
@@ -864,6 +872,7 @@ aliases:
 | KTV | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
 | KTV | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
 | KTV | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|笔记]] |
+| KTV | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | KTV | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | KTV | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | KTV | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
@@ -1134,6 +1143,8 @@ aliases:
 | 通勤 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 通勤 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 通勤 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
+| 通勤 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/the-old-man-yom|笔记]] |
+| 通勤 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|笔记]] |
 | 通勤 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | 通勤 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
 | 通勤 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|笔记]] |
@@ -1141,6 +1152,7 @@ aliases:
 | 通勤 | 35 | Shape of You | Ed Sheeran | [[learning-notes/english-song/shape-of-you-ed-sheeran|笔记]] |
 | 通勤 | 39 | Bad Romance | Lady Gaga | [[learning-notes/english-song/bad-romance-lady-gaga|笔记]] |
 | 通勤 | 40 | Let It Go | Idina Menzel | [[learning-notes/english-song/let-it-go-idina-menzel|笔记]] |
+| 通勤 | 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|笔记]] |
 | 通勤 | 44 | Perfect | Ed Sheeran | [[learning-notes/english-song/perfect-ed-sheeran|笔记]] |
 | 通勤 | 47 | Adore You | Harry Styles | [[learning-notes/english-song/adore-you-harry-styles|笔记]] |
 | 通勤 | 49 | Someone You Loved | Lewis Capaldi | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|笔记]] |
@@ -1170,7 +1182,7 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下 **22** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#20**，以及 #57、#90）：
+以下 **52** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#50**，以及 #57、#90）：
 
 | # | 歌曲 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
@@ -1194,12 +1206,46 @@ aliases:
 | 18 | High on Life (feat. Bonn) | Martin Garrix | [[learning-notes/english-song/high-on-life-martin-garrix|High on Life (feat. Bonn)]] |
 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way]] |
 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|Dreamer]] |
+| 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
+| 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
+| 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|Stand By Me]] |
+| 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
+| 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|The Old Man]] |
+| 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/the-old-man-yom|The Old Man]] |
+| 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
+| 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises)]] |
+| 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|Love Story (Taylor’s Version)]] |
+| 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/yesterday-once-more-carpenters|Yesterday Once More]] |
+| 31 | Sealed With a Kiss | The Lettermen | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|Sealed With a Kiss]] |
+| 32 | No Such Thing as a Broken Heart | Old Dominion | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]] |
+| 33 | These Days | Rascal Flatts | [[learning-notes/english-song/these-days-rascal-flatts|These Days]] |
+| 34 | Because of You | Ne-Yo | [[learning-notes/english-song/because-of-you-ne-yo|Because of You]] |
+| 35 | Shape of You | Ed Sheeran | [[learning-notes/english-song/shape-of-you-ed-sheeran|Shape of You]] |
+| 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | [[learning-notes/english-song/because-you-loved-me-céline-dion|Because You Loved Me (Theme from "Up Close and Personal")]] |
+| 37 | Like I Can | Sam Smith | [[learning-notes/english-song/like-i-can-sam-smith|Like I Can]] |
+| 38 | Die With A Smile | Lady Gaga & Bruno Mars | [[learning-notes/english-song/die-with-a-smile-lady-gaga|Die With A Smile]] |
+| 39 | Bad Romance | Lady Gaga | [[learning-notes/english-song/bad-romance-lady-gaga|Bad Romance]] |
+| 40 | Let It Go | Idina Menzel | [[learning-notes/english-song/let-it-go-idina-menzel|Let It Go]] |
+| 41 | Lights (Single Version) | Ellie Goulding | [[learning-notes/english-song/lights-ellie-goulding|Lights (Single Version)]] |
+| 42 | Young Dumb & Broke | Khalid | [[learning-notes/english-song/young-dumb-broke-khalid|Young Dumb & Broke]] |
+| 43 | Glorious (feat. Skylar Grey) | Macklemore | [[learning-notes/english-song/glorious-macklemore|Glorious (feat. Skylar Grey)]] |
+| 44 | Perfect | Ed Sheeran | [[learning-notes/english-song/perfect-ed-sheeran|Perfect]] |
+| 45 | Numb | LINKIN PARK | [[learning-notes/english-song/numb-linkin-park|Numb]] |
+| 46 | Numb Little Bug | Em Beihold | [[learning-notes/english-song/numb-little-bug-em-beihold|Numb Little Bug]] |
+| 47 | Adore You | Harry Styles | [[learning-notes/english-song/adore-you-harry-styles|Adore You]] |
+| 48 | I Don't Think I'm Okay | Bazzi | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
+| 49 | Someone You Loved | Lewis Capaldi | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
+| 50 | The Other | LAUV | [[learning-notes/english-song/the-other-lauv|The Other]] |
 | 57 | Messy | Lola Young | [[learning-notes/english-song/messy-lola-young|Messy]] |
 | 90 | Big Big World | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
 
 ## 歌词待补充
 
-7 首文档已建章，歌词仍待手动补充：
+4 首文档已建章，歌词仍待手动补充：
 
 | # | 歌名 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
+| 81 | I Got You (feat. Johnning) | Janji | [[learning-notes/english-song/i-got-you-janji|笔记]] |
+| 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|笔记]] |
+| 87 | Fly Me To The Moon | 小野丽莎 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|笔记]] |
+| 88 | Fly Me to the Moon (feat. Count Basie…) | 弗兰克・辛纳特拉 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|笔记]] |

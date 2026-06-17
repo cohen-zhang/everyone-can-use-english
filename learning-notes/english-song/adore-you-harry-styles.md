@@ -19,12 +19,11 @@ aliases:
 ---
 # Adore You — Harry Styles
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Adore You](https://music.apple.com/cn/song/adore-you/1485802970)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*walk through fire*、*let me adore you* 等无条件付出表达可对照副歌）
 
 ---
 
@@ -32,11 +31,11 @@ aliases:
 
 **English**
 
-**Harry Styles** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Harry Styles** (born 1 February 1994) is an English **singer-songwriter** and actor from Holmes Chapel, Cheshire. He rose to fame as a member of **One Direction**, one of the best-selling boy bands in history, before launching a solo career with his self-titled debut album (2017). His second album **Fine Line** (2019) showed a bolder, funk- and rock-influenced sound and earned critical praise. Styles has won multiple **Grammy** and **Brit Awards**; his third album *Harry's House* (2022) won **Album of the Year** at the Grammys. Known for flamboyant fashion and warm stage presence, he writes lyrics that blend romantic devotion, vulnerability, and playful imagery.
 
 **中文**
 
-**Harry Styles** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Harry Styles**（1994 年 2 月 1 日生）是英国**创作型歌手**兼演员，来自柴郡 **Holmes Chapel**。他在史上最畅销男团之一 **One Direction** 中成名，2017 年以同名首张个人专辑开启 solo 生涯。第二张专辑 **Fine Line**（2019）更敢 experiment，融合 funk 与 rock，获评论界好评。Styles 多次获 **格莱美** 与 **全英音乐奖**；第三张 *Harry's House*（2022）获格莱美**年度专辑**。他以张扬时尚与温暖舞台魅力著称；歌词常写浪漫奉献、脆弱与 playful 意象并存。
 
 ---
 
@@ -44,94 +43,77 @@ aliases:
 
 **English**
 
-**"Adore You"** by **Harry Styles** is a **国际流行** track from *Fine Line*. Themes in the lyrics often touch on **breakup loss, life attitude, love romance**, useful for spoken English and sing-along practice.
+**"Adore You"** was released on **6 December 2019** as the third single from *Fine Line*. Co-written with **Kid Harpoon** and **Tyler Johnson**, it is a lush **pop-funk** love song about wanting to worship someone without demanding labels—*You don't have to say you love me*. The repeated pledge *I'd walk through fire for you / Just let me adore you* frames love as one-sided devotion: all he asks is permission to adore. The surreal music video, set on the fictional island **Eroda**, follows Harry helping a fish return to the sea—a metaphor for loving someone on their terms. The song reached **No. 3** in the UK and **No. 11** on the Billboard Hot 100.
 
 **中文**
 
-**"Adore You"**（**Harry Styles**）收录于 *Fine Line*，属 **国际流行** 风格。歌词主题多与 **分手·思念 · 生活态度 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Adore You"** 于 **2019 年 12 月 6 日**发行，为 *Fine Line* 第三支单曲。与 **Kid Harpoon**、**Tyler Johnson** 等共同创作，是一首浓郁的 **pop-funk** 情歌：想全心倾慕对方，却不要求名分——*You don't have to say you love me*。反复出现的 *I'd walk through fire for you / Just let me adore you* 把爱写成单向的奉献：他只求「让我爱你」。超现实 MV 设在虚构岛屿 **Eroda**，Harry 帮一条鱼回到大海——隐喻按对方的方式去爱。单曲在英国最高 **第 3**，Billboard Hot 100 **第 11**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *Fine Line* |
+| 专辑 | Album | *Fine Line* (2019) |
 | 发行 | Release date | 2019-12-06 |
-| 曲风 | Genre | Ballad · Pop |
+| 曲风 | Genre | Pop · funk · soft rock |
 | 时长 | Length | 3:27 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #47 |
+| 词曲 | Songwriters | Harry Styles, Tyler Johnson, Kid Harpoon, Amy Allen |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-Walk in your rainbow paradise (paradise)  
-Strawberry lipstick state of mind (state of mind)  
-I get so lost inside your eyes  
-Would you believe it?  
+Walk in your rainbow paradise (paradise) — 走进你的彩虹天堂（天堂）  
+Strawberry lipstick state of mind (state of mind) — 草莓唇膏般的心境（心境）  
+I get so lost inside your eyes — 在你眼里我彻底迷失  
+Would you believe it? — 你信吗？  
 
-You don't have to say you love me  
-You don't have to say nothing  
-You don't have to say you're mine  
+You don't have to say you love me — 你不必说爱我  
+You don't have to say nothing — 你什么都不用说  
+You don't have to say you're mine — 你不必说你是我的  
 
-Honey (ah)  
-I'd walk through fire for you  
-Just let me adore you  
-Oh honey (ah)  
-I'd walk through fire for you  
-Just let me adore you  
-Like it's the only thing I'll ever do  
-Like it's the only thing I'll ever do  
+### Chorus
 
-Your wonder under summer skies (summer skies)  
-Brown skin and lemon over ice  
-Would you believe it?  
+Honey (ah) — 亲爱的（啊）  
+I'd walk through fire for you — 我愿意为你赴汤蹈火  
+Just let me adore you — 只要让我倾慕你  
+Oh honey (ah) — 哦，亲爱的（啊）  
+I'd walk through fire for you — 我愿意为你赴汤蹈火  
+Just let me adore you — 只要让我倾慕你  
+Like it's the only thing I'll ever do — 像这是我唯一会做的事  
+Like it's the only thing I'll ever do — 像这是我唯一会做的事  
 
-You don't have to say you love me  
-I just wanna tell you something  
-Lately, you've been on my mind  
+### Verse 2
 
-Honey (ah)  
-I'd walk through fire for you  
-Just let me adore you  
-Oh honey (ah)  
-I'd walk through fire for you  
-Just let me adore you  
-Like it's the only thing I'll ever do  
-Like it's the only thing I'll ever do  
+Your wonder under summer skies (summer skies) — 夏日天空下你的美好（夏日天空）  
+Brown skin and lemon over ice — 棕肤与加冰的柠檬  
+Would you believe it? — 你信吗？  
 
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
-It's the only thing I'll ever do  
+You don't have to say you love me — 你不必说爱我  
+I just wanna tell you something — 我只想告诉你一件事  
+Lately, you've been on my mind — 最近，你一直在脑海里  
 
-I'd walk through fire for you  
-Just let me adore you  
-Oh honey (ah)  
-I'd walk through fire for you  
-Just let me adore you  
-Like it's the only thing I'll ever do (it's the only thing I'll ever do, ah)  
-(It's the only thing I'll ever do)  
+### Chorus（重复）
 
-I'd walk through fire for you (it's the only thing I'll ever do)  
-Just let me adore you  
-Oh honey (it's the only thing I'll ever do, ah)  
-Oh honey (it's the only thing I'll ever do)  
-I'd walk through fire for you (it's the only thing I'll ever do)  
-Just let me adore you (it's the only thing I'll ever do)  
+*(同第一段副歌)*
 
-Ooh, ooh  
-Oh honey  
-Ooh, ooh  
-Just let me adore you  
-Like it's the only thing I'll ever do
+### Bridge / Outro
 
----
+It's the only thing I'll ever do — 这是我唯一会做的事  
+*(重复多遍，渐弱)*  
 
----
+I'd walk through fire for you — 我愿意为你赴汤蹈火  
+Just let me adore you — 只要让我倾慕你  
+Oh honey (ah) — 哦，亲爱的（啊）  
+I'd walk through fire for you — 我愿意为你赴汤蹈火  
+Just let me adore you — 只要让我倾慕你  
+Like it's the only thing I'll ever do — 像这是我唯一会做的事  
+
+Ooh, ooh — 哦，哦  
+Oh honey — 哦，亲爱的  
+Ooh, ooh — 哦，哦  
+Just let me adore you — 只要让我倾慕你  
+Like it's the only thing I'll ever do — 像这是我唯一会做的事  
 
 ---
 
@@ -139,20 +121,20 @@ Like it's the only thing I'll ever do
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *You don't have to say you love me* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *You don't have to say nothing* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *I'd walk through fire for you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Lately, you've been on my mind* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *It's the only thing I'll ever do* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *You don't have to say you're mine* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *(It's the only thing I'll ever do)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Like it's the only thing I'll ever do* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **rainbow paradise** | 彩虹天堂 | 比喻对方带来的理想世界 |
+| **state of mind** | 心境；精神状态 | 歌里指「草莓唇膏色」的甜蜜幻想 |
+| **get lost inside your eyes** | 在你眼里迷失 | 浪漫固定搭配 |
+| **you don't have to say nothing** | 你什么都不用说 | 口语双重否定 = 不必说任何话 |
+| **walk through fire** | 赴汤蹈火 | 习语；为某人承受一切 |
+| **let me adore you** | 让我倾慕你／爱你 | *adore* 比 *love* 更「崇拜、倾慕」 |
+| **lately, you've been on my mind** | 最近你一直在脑海里 | 表白常用句；*lately* = 最近 |
+| **the only thing I'll ever do** | 我唯一会做的事 | 强调专一与奉献 |
+| **brown skin and lemon over ice** | 棕肤与加冰柠檬 | 感官意象：肤色 + 夏日冷饮 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *Adore You* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *Just let me adore you* 旋律简单重复，**KTV 友好**；先练 *I'd walk through fire for you* 的连读：*I'd walk* → *through* 轻读。
+- *You don't have to say nothing* 是口语双重否定，正式写作里通常写 *anything*，但歌词里很常见。
+- 想积累**恋爱口语**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里「无条件付出」相关句型。

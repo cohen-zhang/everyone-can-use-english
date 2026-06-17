@@ -514,7 +514,7 @@
     "title": "When Your Lips Are So Close",
     "artist": "Gord Bamford",
     "file": "when-your-lips-are-so-close-gord-bamford.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/love-romance"
     ],
@@ -536,7 +536,7 @@
     "title": "Against All Odds (Take a Look at Me Now)",
     "artist": "Phil Collins",
     "file": "against-all-odds-phil-collins.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions"
@@ -560,7 +560,7 @@
     "title": "Stand By Me",
     "artist": "Seal",
     "file": "stand-by-me-seal.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/love-romance"
@@ -584,7 +584,7 @@
     "title": "Who Wants To Live Forever",
     "artist": "Queen",
     "file": "who-wants-to-live-forever-queen.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -610,9 +610,12 @@
     "title": "The Old Man",
     "artist": "菲尔・科尔特",
     "file": "the-old-man-菲尔科尔特.md",
-    "curated": false,
+    "curated": true,
     "topics": [
-      "topic/life-attitude"
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
     ],
     "genres": [
       "genre/pop"
@@ -623,60 +626,65 @@
       "use/deep-study",
       "use/pronunciation"
     ],
-    "topic_display": "生活态度",
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
     "genre_display": "Pop",
-    "lyrics_missing": true
+    "lyrics_missing": false
   },
   {
     "track": 26,
     "title": "The Old Man",
     "artist": "Yom & Aurélien Naffrichoux",
     "file": "the-old-man-yom.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude"
     ],
     "genres": [
       "genre/pop"
     ],
-    "level": "level/medium",
+    "level": "level/easy",
     "era": "era/2010s",
     "uses": [
+      "use/commute",
       "use/deep-study",
       "use/pronunciation"
     ],
     "topic_display": "生活态度",
     "genre_display": "Pop",
-    "lyrics_missing": true
+    "lyrics_missing": false
   },
   {
     "track": 27,
     "title": "Promises Don't Come Easy",
     "artist": "陈曦",
     "file": "promises-dont-come-easy-陈曦.md",
-    "curated": false,
+    "curated": true,
     "topics": [
-      "topic/life-attitude"
+      "topic/life-attitude",
+      "topic/love-romance"
     ],
     "genres": [
+      "genre/ballad",
       "genre/pop"
     ],
-    "level": "level/medium",
+    "level": "level/easy",
     "era": "era/2010s",
     "uses": [
+      "use/commute",
       "use/deep-study",
+      "use/ktv",
       "use/pronunciation"
     ],
-    "topic_display": "生活态度",
-    "genre_display": "Pop",
-    "lyrics_missing": true
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
   },
   {
     "track": 28,
     "title": "What Can I Do (Promises)",
     "artist": "Caron Nightingale",
     "file": "what-can-i-do-caron-nightingale.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -702,7 +710,7 @@
     "title": "Love Story (Taylor’s Version)",
     "artist": "Taylor Swift",
     "file": "love-story-taylor-swift.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -731,7 +739,7 @@
     "title": "Yesterday Once More",
     "artist": "Carpenters",
     "file": "yesterday-once-more-carpenters.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -757,7 +765,7 @@
     "title": "Sealed With a Kiss",
     "artist": "The Lettermen",
     "file": "sealed-with-a-kiss-the-lettermen.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -781,7 +789,7 @@
     "title": "No Such Thing as a Broken Heart",
     "artist": "Old Dominion",
     "file": "no-such-thing-as-a-broken-heart-old-dominion.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -807,7 +815,7 @@
     "title": "These Days",
     "artist": "Rascal Flatts",
     "file": "these-days-rascal-flatts.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -832,7 +840,7 @@
     "title": "Because of You",
     "artist": "Ne-Yo",
     "file": "because-of-you-ne-yo.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -861,7 +869,7 @@
     "title": "Shape of You",
     "artist": "Ed Sheeran",
     "file": "shape-of-you-ed-sheeran.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance",
@@ -888,7 +896,7 @@
     "title": "Because You Loved Me (Theme from \"Up Close and Personal\")",
     "artist": "Céline Dion",
     "file": "because-you-loved-me-céline-dion.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -913,7 +921,7 @@
     "title": "Like I Can",
     "artist": "Sam Smith",
     "file": "like-i-can-sam-smith.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -937,7 +945,7 @@
     "title": "Die With A Smile",
     "artist": "Lady Gaga & Bruno Mars",
     "file": "die-with-a-smile-lady-gaga.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -963,7 +971,7 @@
     "title": "Bad Romance",
     "artist": "Lady Gaga",
     "file": "bad-romance-lady-gaga.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/love-romance",
       "topic/self-identity"
@@ -988,7 +996,7 @@
     "title": "Let It Go",
     "artist": "Idina Menzel",
     "file": "let-it-go-idina-menzel.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1015,22 +1023,26 @@
     "title": "Lights (Single Version)",
     "artist": "Ellie Goulding",
     "file": "lights-ellie-goulding.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
-      "topic/love-romance"
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
     ],
     "genres": [
+      "genre/ballad",
       "genre/pop"
     ],
-    "level": "level/medium",
+    "level": "level/easy",
     "era": "era/2010s",
     "uses": [
+      "use/commute",
       "use/deep-study",
       "use/pronunciation"
     ],
-    "topic_display": "分手·思念 · 恋爱",
-    "genre_display": "Pop",
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Ballad · Pop",
     "lyrics_missing": false
   },
   {
@@ -1038,7 +1050,7 @@
     "title": "Young Dumb & Broke",
     "artist": "Khalid",
     "file": "young-dumb-broke-khalid.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1062,7 +1074,7 @@
     "title": "Glorious (feat. Skylar Grey)",
     "artist": "Macklemore",
     "file": "glorious-macklemore.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1088,7 +1100,7 @@
     "title": "Perfect",
     "artist": "Ed Sheeran",
     "file": "perfect-ed-sheeran.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1115,7 +1127,7 @@
     "title": "Numb",
     "artist": "LINKIN PARK",
     "file": "numb-linkin-park.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions"
@@ -1139,7 +1151,7 @@
     "title": "Numb Little Bug",
     "artist": "Em Beihold",
     "file": "numb-little-bug-em-beihold.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1165,7 +1177,7 @@
     "title": "Adore You",
     "artist": "Harry Styles",
     "file": "adore-you-harry-styles.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1192,7 +1204,7 @@
     "title": "I Don't Think I'm Okay",
     "artist": "Bazzi",
     "file": "i-dont-think-im-okay-bazzi.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1217,7 +1229,7 @@
     "title": "Someone You Loved",
     "artist": "Lewis Capaldi",
     "file": "someone-you-loved-lewis-capaldi.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1243,7 +1255,7 @@
     "title": "The Other",
     "artist": "LAUV",
     "file": "the-other-lauv.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",

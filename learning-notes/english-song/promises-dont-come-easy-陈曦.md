@@ -14,10 +14,11 @@ aliases:
 ---
 # Promises Don't Come Easy — 陈曦
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Promises Don't Come Easy](https://music.apple.com/cn/song/promises-dont-come-easy/1577722066)
 
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
+
+**相关：** 原版与 Ronan Keating 经典翻唱 — [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises) — Caron Nightingale]] · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
 
 ---
 
@@ -25,11 +26,11 @@ aliases:
 
 **English**
 
-**陈曦** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**陈曦** is a **Chinese singer** known for English-language **cover versions** of Western pop and soft-rock ballads. Her 2010 album **Yesterday Once More** gathers classic English songs—often ones already familiar to Chinese listeners from film, TV, or international hits—performed with clear diction suited to **sing-along study**. This track is her reading of **"Promises Don't Come Easy,"** keeping the **original English lyrics** rather than translating them into Chinese.
 
 **中文**
 
-**陈曦** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**陈曦**是以英文**翻唱**西方流行与 soft-rock ballad 见长的**中国歌手**。2010 年专辑 **Yesterday Once More** 收录多首经典英文歌——不少在中国听众耳里已有电影、电视或国际热单印象——咬字清楚，适合**跟唱学习**。本曲为 **"Promises Don't Come Easy"** 的翻唱，保留**英文原词**，未改中文填词。
 
 ---
 
@@ -37,40 +38,94 @@ aliases:
 
 **English**
 
-**"Promises Don't Come Easy"** by **陈曦** is a **国际流行** track from *Yesterday Once More*. Themes in the lyrics often touch on **life attitude**, useful for spoken English and sing-along practice.
+**"Promises Don't Come Easy"** was written by **Caron Nightingale** and **Dean Landon**. Nightingale's version is the original; **Ronan Keating**'s 1999 cover (on *Ronan*, 2000) turned it into a worldwide hit and is often the version Chinese audiences heard first on radio and TV dramas. The song is a **mid-tempo country-pop ballad** about regret after a breakup: the singer admits they missed warning signs, wants to **make it up**, and learns that **promises don't come easy**—trust must be rebuilt slowly. **陈曦**'s cover (2010) uses the same English lyric sheet, making it a good bridge if you already know the melody from Ronan or Nightingale.
 
 **中文**
 
-**"Promises Don't Come Easy"**（**陈曦**）收录于 *Yesterday Once More*，属 **国际流行** 风格。歌词主题多与 **生活态度** 相关，适合跟唱与口语表达练习。
+**"Promises Don't Come Easy"** 由 **Caron Nightingale** 与 **Dean Landon** 创作。Nightingale 版为原唱；**Ronan Keating** 1999 年翻唱（收录于 2000 年 *Ronan*）使其成为全球热单，也常常是华语听众在电台、剧集中**第一次听到**的版本。歌曲是**中速 country-pop ballad**：分手后的悔意——早该察觉不对劲、想**弥补**，并明白**承诺来之不易**，信任只能慢慢重建。**陈曦** 2010 翻唱沿用同一套英文词，若你已熟悉 Ronan 或 Nightingale 的旋律，很适合拿来练咬字。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *Yesterday Once More* |
+| 专辑 | Album | *Yesterday Once More* (2010) |
 | 发行 | Release date | 2010-07-01 |
-| 曲风 | Genre | Pop |
+| 曲风 | Genre | Pop · country ballad (cover) |
 | 时长 | Length | 3:33 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #27 |
+| 原词曲 | Original songwriters | Caron Nightingale, Dean Landon |
+| 原唱 | Original artist | Caron Nightingale |
+| 著名翻唱 | Notable cover | Ronan Keating (1999/2000) |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词暂未自动获取，可稍后手动补充。
+> 英文歌词与原曲一致（Caron Nightingale / Ronan Keating 版）。括号内为 Ronan 现场常加的 ad-lib，翻唱可能省略。
 
----
+### Verse 1
 
----
+I should have known all along, there was something wrong — 我早该察觉，一直就不对劲  
+I just never read between the lines — 只是我从没读懂弦外之音  
+Then I woke up one day and found you on your way — 直到有一天醒来，发现你要离开  
+Leaving nothing but my heart behind — 只留下一颗心碎的我  
+
+### Chorus
+
+What can I do to make it up to you? — 我能做什么来弥补你？  
+Promises don't come easy — 承诺不是随口就来  
+But tell me if there's a way to bring you back home to stay — 但若还有办法让你回家、留下来  
+Well, I'd promise anything to you — 我愿意为你承诺任何事  
+
+### Verse 2
+
+I've been walkin' around with my head hanging down — 我一直低着头四处游荡  
+Wondering what I'm gonna do — 不知该怎么办  
+'Cause when you walked out that door — 因为当你走出门那一刻  
+I knew I needed you more — 我才明白我更需要你  
+Than to take a chance on losing you — 而不是赌一把失去你  
+
+### Chorus（重复）
+
+*(同第一段副歌)*
+
+### Bridge
+
+You never thought I loved you — 你从没想到我爱过你  
+I guess you never thought I cared — 大概也以为我从不在乎  
+Well, I was just too proud to say it out loud — 我只是太骄傲，说不出口  
+Now I know, to let my feelings go, so tell me — 现在我懂了，该放下自尊说出感受，所以告诉我  
+
+### Final Chorus
+
+What can I do to make it up to you? — 我能做什么来弥补你？  
+Promises don't come easy — 承诺不是随口就来  
+You know I've made up my mind to make it work this time — 你知道我已下定决心，这次要认真  
+That's the promise that I give to you — 这是我给你的承诺  
+
+What can I do to make it up to you? — 我能做什么来弥补你？
 
 ---
 
 ## 重点表达 · Key Phrases
 
-> 歌词待补充后，可在此整理习语与高频句型。
+| English | 简中 | 备注 |
+| --- | --- | --- |
+| **read between the lines** | 读懂言外之意 | 习语；*never read between the lines* = 没察觉暗示 |
+| **on your way** | 在路上；要走了 | *found you on your way* = 发现你要离开 |
+| **make it up to someone** | 弥补某人；向某人赔罪 | 核心句型；*What can I do to make it up to you?* |
+| **promises don't come easy** | 承诺来之不易 | 歌题；*don't come easy* = 不容易做到 |
+| **bring you back home to stay** | 让你回家并留下来 | *stay* 强调「不再离开」 |
+| **head hanging down** | 低着头 | 形容沮丧、羞愧 |
+| **walk out that door** | 走出门 | 分手/离开的常见画面 |
+| **take a chance on losing you** | 赌一把失去你 | *take a chance on* = 冒着……的风险 |
+| **too proud to say it out loud** | 太骄傲而说不出口 | *out loud* = 大声说出 |
+| **let my feelings go** | 放下（自尊）说出感受 | 此处指不再压抑感情 |
+| **make up my mind** | 下定决心 | *I've made up my mind to…* |
+| **make it work** | 让关系/事情成功 | *make it work this time* = 这次一定要成 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、发音
-- **年代标签：** 2010s
+- 若熟悉 **Ronan Keating** 版，可用陈曦版练**更清晰咬字**；对照原版见 [[learning-notes/english-song/what-can-i-do-caron-nightingale|Caron Nightingale 笔记]]。
+- 副歌 *What can I do… / Promises don't come easy* 句子不长、节奏稳，适合**精研连读**：*What can I do* → *t'make it up to you*。
+- 整首歌重复 **make it up / promises / make it work** 三组表达，适合记「道歉 + 重建信任」口语模板。
+- Verse 2 的 *walkin'*、*Wondrin'* 是 **goin' / walkin'** 式口语缩略，跟唱时注意 **-ing** 的弱读。

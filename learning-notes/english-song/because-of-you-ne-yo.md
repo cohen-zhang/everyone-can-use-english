@@ -21,12 +21,11 @@ aliases:
 ---
 # Because of You — Ne-Yo
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Because of You](https://music.apple.com/cn/song/because-of-you/1440757476)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*addiction*、*strung out* 等上瘾式迷恋隐喻可对照本歌）
 
 ---
 
@@ -34,11 +33,11 @@ aliases:
 
 **English**
 
-**Ne-Yo** is a recording artist associated with **R&B/灵魂乐** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Ne-Yo** (born **Shaffer Chimere Smith**, 18 October 1979, Camden, Arkansas) is an American **R&B singer-songwriter**, producer, and actor. He broke through writing hits for others—**Mario's** *"Let Me Love You"* (2004) topped the Hot 100—before his solo debut **In My Own Words** (2006) launched *"So Sick"* and *"Sexy Love"*. His second album **Because of You** (2007) cemented his smooth, **confessional R&B** style. Ne-Yo has won **three Grammy Awards**, written for Beyoncé, Rihanna, and Jennifer Hudson, and balanced music with acting roles (*Red Tails*, *The Masked Singer*). His lyrics often frame love as **obsession, addiction**, or impossible self-control.
 
 **中文**
 
-**Ne-Yo** 是与 **R&B/灵魂乐** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Ne-Yo**（本名 **Shaffer Chimere Smith**，1979 年 10 月 18 生于阿肯色 Camden）是美国 **R&B 创作型歌手**、制作人兼演员。他先为他人写歌成名——**Mario** 的 *"Let Me Love You"*（2004）登顶 Hot 100——随后个人首张 **In My Own Words**（2006）推出 *"So Sick"*、*"Sexy Love"*。第二张 **Because of You**（2007）巩固了他顺滑、**告白式 R&B** 的风格。Ne-Yo 获 **三座格莱美**，为 Beyoncé、Rihanna、Jennifer Hudson 等写歌，并参演影视（*Red Tails*、《蒙面歌王》）。歌词常把爱写成**执念、上瘾**或无法自控。
 
 ---
 
@@ -46,101 +45,106 @@ aliases:
 
 **English**
 
-**"Because of You"** by **Ne-Yo** is a **R&B/灵魂乐** track from *Because of You*. Themes in the lyrics often touch on **breakup loss, life attitude, love romance, party energy, self identity**, useful for spoken English and sing-along practice.
+**"Because of You"** was released on **27 March 2007** as the **title track** and second single from Ne-Yo's album *Because of You*. Co-written and produced by Ne-Yo with **Stargate** and **Tor Erik Hermansen**, it uses **addiction metaphors** for love: *you have become my addiction*, *strung out on you*, *she's the sweetest drug*. The narrator knows the relationship may be unhealthy (*know I should stay away*) but can't quit. The song peaked at **No. 53** on the Billboard Hot 100 and **No. 4** on Hot R&B/Hip-Hop Songs. Note: this is **not** Kelly Clarkson's 2005 ballad of the same title—a different song entirely.
 
 **中文**
 
-**"Because of You"**（**Ne-Yo**）收录于 *Because of You*，属 **R&B/灵魂乐** 风格。歌词主题多与 **分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我** 相关，适合跟唱与口语表达练习。
+**"Because of You"** 于 **2007 年 3 月 27 日**发行，为专辑 *Because of You* **同名第二支单曲**。Ne-Yo 与 **Stargate**、**Tor Erik Hermansen** 共同创作制作，用**上瘾隐喻**写爱：*you have become my addiction*、*strung out on you*、*she's the sweetest drug*。叙述者明知可能不健康（*know I should stay away*）却戒不掉。单曲在 Billboard Hot 100 最高 **第 53**，Hot R&B/Hip-Hop Songs **第 4**。注意：这与 Kelly Clarkson 2005 年同名抒情曲**不是同一首歌**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *Because of You* |
+| 专辑 | Album | *Because of You* (2007) |
 | 发行 | Release date | 2007-03-27 |
-| 曲风 | Genre | Ballad · R&B |
+| 曲风 | Genre | R&B · pop |
 | 时长 | Length | 4:26 |
+| 词曲 | Songwriters | Ne-Yo, Tor Erik Hermansen, Mikkel Eriksen |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #34 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Intro
 
-Ooh, ooh, ooh, uh, no-no, oh-oh  
-Ooh, wah-oh-oh-oh, ooh, wah-oh-oh-oh, woah  
-Ooh  
+Ooh, ooh, ooh, uh, no-no, oh-oh — 哦，哦，哦……  
+Ooh, wah-oh-oh-oh, ooh, wah-oh-oh-oh, woah — 哦，哇哦……  
+Ooh — 哦  
 
-Want to, but I can't help it, I love the way it feels  
-This got me stuck between my fantasy and what is real  
-I need it when I want it, I want it when I don't  
-Tell myself I'll stop every day, knowing that I won't  
+### Verse 1
 
-I got a problem, and I (don't know what to do about it)  
-Even if I did, I don't know if I would quit, but I doubt it  
-I'm taken by the thought of it  
+Want to, but I can't help it, I love the way it feels — 想停，但忍不住，我爱这种感觉  
+This got me stuck between my fantasy and what is real — 这让我困在幻想与现实之间  
+I need it when I want it, I want it when I don't — 想要时需要，不需要时也想要  
+Tell myself I'll stop every day, knowing that I won't — 每天告诉自己会停，心里却知道不会  
 
-And I know this much is true  
-Baby, you have become my addiction  
-I'm so strung out on you  
-I can barely move, but I like it  
+I got a problem, and I (don't know what to do about it) — 我有个问题，（不知该怎么办）  
+Even if I did, I don't know if I would quit, but I doubt it — 就算知道，也不确定会不会戒，我表示怀疑  
+I'm taken by the thought of it — 光想想我就沦陷了  
 
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because  
-Never get enough  
-She's the sweetest drug (ooh, ooh, ooh)  
+### Pre-Chorus
 
-Think of it every second, I can't get nothing done  
-Only concern is the next time I'm gon' get me some  
-Know I should stay away from, 'cause it's no good for me  
-I try and try, but my obsession won't let me leave  
+And I know this much is true — 而我很清楚这一点  
+Baby, you have become my addiction — 宝贝，你已成我的瘾  
+I'm so strung out on you — 我为你神魂颠倒  
+I can barely move, but I like it — 几乎动弹不得，但我喜欢  
 
-I got a problem, and I (don't know what to do about it)  
-Even if I did, I don't know if I would quit, but I doubt it  
-I'm taken by the thought of it, hey  
+### Chorus
 
-And I know this much is true  
-Baby, you have become my addiction  
-I'm so strung out on you (strung out on you)  
-I can barely move, but I like it (and I like it)  
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because — 全是因为  
+Never get enough — 永远不够  
+She's the sweetest drug (ooh, ooh, ooh) — 她是最甜的那种药（哦，哦，哦）  
 
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because  
-Never get enough (never get enough)  
-She's the sweetest drug (mm, oh)  
+### Verse 2
 
-Ain't no doubt (no doubt, hey)  
-So strung out (strung out, oh, hey)  
-Ain't no doubt (I said no ring of doubt, oh)  
-So strung out (hey, ay, ay)  
-Over you  
-Over you (you)  
-Over you (you, ooh, ooh-ooh, ooh)  
+Think of it every second, I can't get nothing done — 每秒都在想，什么事都做不成  
+Only concern is the next time I'm gon' get me some — 唯一惦记的是下次什么时候再得到  
+Know I should stay away from, 'cause it's no good for me — 知道该远离，因为对我不利  
+I try and try, but my obsession won't let me leave — 一再尝试，执念却不让我离开  
 
-Oh-oh-oh-woah, because of you  
-And it's all because of you  
-Oh, no, never get enough  
-She's the sweetest drug  
+I got a problem, and I (don't know what to do about it) — 我有个问题，（不知该怎么办）  
+Even if I did, I don't know if I would quit, but I doubt it — 就算知道，也不确定会不会戒，我表示怀疑  
+I'm taken by the thought of it, hey — 光想想我就沦陷了，嘿  
 
-And I know this much is true  
-Baby, you have become my addiction (my addiction)  
-I'm so strung out on you  
-I can barely move, but I like it (but I like it, yeah)  
+### Pre-Chorus（重复）
 
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because of you (all because of you)  
-And it's all because  
-Never get enough (never get enough)  
-She's the sweetest drug  
-She's the sweetest drug
+*(同第一段)*
 
----
+### Chorus（重复）
 
----
+*(同第一段副歌)*
+
+### Bridge
+
+Ain't no doubt (no doubt, hey) — 毫无疑问（毫无疑问，嘿）  
+So strung out (strung out, oh, hey) — 神魂颠倒（神魂颠倒，哦，嘿）  
+Ain't no doubt (I said no ring of doubt, oh) — 毫无疑问（我说毫无怀疑，哦）  
+So strung out (hey, ay, ay) — 神魂颠倒（嘿，诶，诶）  
+Over you — 为你  
+Over you (you) — 为你（你）  
+Over you (you, ooh, ooh-ooh, ooh) — 为你（你，哦……）  
+
+Oh-oh-oh-woah, because of you — 哦哦哦哇，因为你  
+And it's all because of you — 全是因为你  
+Oh, no, never get enough — 哦不，永远不够  
+She's the sweetest drug — 她是最甜的那种药  
+
+### Final Pre-Chorus / Chorus
+
+And I know this much is true — 而我很清楚这一点  
+Baby, you have become my addiction (my addiction) — 宝贝，你已成我的瘾（我的瘾）  
+I'm so strung out on you — 我为你神魂颠倒  
+I can barely move, but I like it (but I like it, yeah) — 几乎动弹不得，但我喜欢（但我喜欢，耶）  
+
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because of you (all because of you) — 全是因为你（都是因为你）  
+And it's all because — 全是因为  
+Never get enough (never get enough) — 永远不够（永远不够）  
+She's the sweetest drug — 她是最甜的那种药  
+She's the sweetest drug — 她是最甜的那种药  
 
 ---
 
@@ -148,20 +152,23 @@ She's the sweetest drug
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *And it's all because* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *She's the sweetest drug* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I'm so strung out on you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And it's all because of you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I'm taken by the thought of it* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Ain't no doubt (no doubt, hey)* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *She's the sweetest drug (mm, oh)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I'm taken by the thought of it, hey* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **can't help it** | 忍不住 | *I can't help it* = 没法控制自己 |
+| **stuck between A and B** | 困在 A 与 B 之间 | 两难、拉扯 |
+| **strung out on** | 对……上瘾；神魂颠倒 | 原指毒品戒断后的萎靡；歌里喻迷恋 |
+| **addiction** | 瘾；上瘾 | 歌里把爱人比作 addiction |
+| **the sweetest drug** | 最甜的那种药 | 甜蜜 + 危险的隐喻 |
+| **never get enough** | 永远不够 | 副歌核心句 |
+| **get me some** | 给我来点；再得到一点 | 口语；此处带上瘾意味 |
+| **stay away from** | 远离 | *know I should stay away* |
+| **won't let me leave** | 不让我离开 | *obsession won't let me leave* |
+| **taken by the thought** | 被念头俘获 | *be taken by* = 被……吸引 |
+| **ain't no doubt** | 毫无疑问 | 双重否定 = 肯定；口语 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2000s
-- 副歌 *Because of You* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 全曲用**上瘾 / 药物**隐喻写爱，可留意 *addiction*、*strung out*、*drug* 如何反复呼应；与 Kelly Clarkson 同名歌完全不同路数。
+- 副歌 *And it's all because of you* 节奏清楚，适合**通勤跟唱**；Bridge 的 *Over you* 可练延长音。
+- *I can't get nothing done* 是口语双重否定（= can't get anything done），注意**语法**与**语感**的差别。
+- 想延伸**执念与情绪**表达，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 对照相关句型。

@@ -15,12 +15,11 @@ aliases:
 ---
 # Lights (Single Version) — Ellie Goulding
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Lights (Single Version)](https://music.apple.com/cn/song/lights-single-version/1440559604)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*can't breathe when you're not near*、*calling me home* 等依恋与 longing 表达可对照）
 
 ---
 
@@ -28,11 +27,11 @@ aliases:
 
 **English**
 
-**Ellie Goulding** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Ellie Goulding** (born **Elena Jane Goulding**, 30 December 1986, Hereford, England) is a British **singer-songwriter** known for her airy, high-register voice and **synth-pop / electropop** sound. She studied at the **University of Kent** and was discovered while performing in London; her debut EP *An Introduction to Ellie Goulding* (2009) led to the album *Lights* (2010). The title track **"Lights"**—originally a UK hit—exploded in the US after a 2011 remix and re-release, peaking at **No. 2** on the Billboard Hot 100. Goulding has won **Brit Awards**, a **Grammy** nomination, and later scored global hits including *"Love Me Like You Do"* and *"Burn"*. Her lyrics often blend **intimacy, anxiety, and euphoria** over pulsing electronic production.
 
 **中文**
 
-**Ellie Goulding** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Ellie Goulding**（本名 **Elena Jane Goulding**，1986 年 12 月 30 日生，英国赫里福德）是以清亮高音与 **合成器流行 / electropop** 著称的英国**创作型歌手**。她在 **University of Kent** 求学期间于伦敦演出时被发掘；2009 年 EP *An Introduction to Ellie Goulding* 后发行首张专辑 *Lights*（2010）。同名曲 **"Lights"** 先在英国走红，2011 年混音再版后在美国爆红，Billboard Hot 100 最高 **第 2** 位。Goulding 曾获 **全英音乐奖**、**格莱美**提名，后又以 *"Love Me Like You Do"*、*"Burn"* 等成为全球热门。歌词常在电子节拍上交织**亲密、焦虑与狂喜**。
 
 ---
 
@@ -40,99 +39,84 @@ aliases:
 
 **English**
 
-**"Lights (Single Version)"** by **Ellie Goulding** is a **国际流行** track from *Bright Lights (Deluxe Version)*. Themes in the lyrics often touch on **breakup loss, love romance**, useful for spoken English and sing-along practice.
+**"Lights"** was released in **March 2010** as Goulding's second single and the title track of her debut album. Over a **minimal synth beat**, the song uses **light** as a metaphor: someone else's presence stops her from turning to stone; when alone, she dreams of being **called home**. The pre-chorus (*I can't breathe when you're not near*) turns physical dependence into emotional language—a hallmark of her early writing. The **Single Version** (3:30) trims the album mix for radio. In the US, a **Bassnectar remix** helped the song become one of the defining electropop hits of the early 2010s.
 
 **中文**
 
-**"Lights (Single Version)"**（**Ellie Goulding**）收录于 *Bright Lights (Deluxe Version)*，属 **国际流行** 风格。歌词主题多与 **分手·思念 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Lights"** 于 **2010 年 3 月**发行，是 Ellie 第二支单曲，也是首张专辑同名曲。在**极简合成器节拍**上，歌把**光**当作隐喻：对方的存在让她不至于「变成石头」；独处时她梦见被**唤回家**。预副歌 *I can't breathe when you're not near* 把身体上的依赖写成情感语言——这是她早期作品的标志。 **Single Version**（3:30）为电台剪辑版。在美国，**Bassnectar 混音**助力这首歌成为 2010 年代初 electropop 代表作之一。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
 | 专辑 | Album | *Bright Lights (Deluxe Version)* |
-| 发行 | Release date | 2010-02-26 |
-| 曲风 | Genre | Pop |
-| 时长 | Length | 3:30 |
+| 发行 | Release date | 2010-02-26（单曲版） |
+| 曲风 | Genre | Synth-pop · electropop · indie pop |
+| 时长 | Length | 3:30（Single Version） |
+| 词曲 | Songwriters | Ellie Goulding, Starsmith, Fraser T. Smith |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #41 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-Every time you go (oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-Every time you go (oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
+I had a way then — 我曾经有一套办法  
+Losing it all on my own — 却独自把一切都弄丢  
+I had a heart then — 我也曾有过一颗心  
+But the queen tore it up — 但「女王」把它撕碎  
+And she stomped it out — 再一脚踩灭  
+When she warms up — 当她「升温」的时候  
 
-It starts with a picture  
-And it sits in your frame  
-And we part with a letter  
-And it ends in my name  
-And it starts with forever  
-And it ends with a touch  
-And I know that you're clever  
-And I don't ask for much (ooh)  
+I heard the sounds — 我听见声响  
+But couldn't hear anything at all — 却什么也听不清  
+And the fear took over — 恐惧占了上风  
 
-Maybe we forgot all the things we are when we are together  
-(Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-You said I'm arresting  
-You said I had heat  
-I really thought that we'd go further  
-The second time we meet  
-'Cause I'm tired of trying to keep you  
-All I want to do is sleep  
-And perhaps, when I'm sleeping  
-You'll get back on your feet (ooh)  
+### Pre-Chorus
 
-Maybe we forgot all the things we are when we are together  
+From finding you — 从找到你开始  
+And at first you put your arms around me — 起初你把我搂进怀里  
+And I thought that I was strong — 我以为自己足够坚强  
+But I can't breathe when you're not near — 可你不在身边我就无法呼吸  
+So tell me how to fix this — 告诉我怎么补救  
+Did I make a mistake? — 是我犯错了吗？  
 
-Wake me up, wake me up  
-Stop my fall (every time you go)  
-Tape me up, then break me up  
-Ever so gently  
-When I'm at my weakest (it's not so hard)  
-Every time you go  
-(Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-(Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-I run out to meet you  
+### Chorus
 
-When I knew a storm had come  
-I felt the rain on your face  
-And the damage you had done  
-I know what you're thinking  
-It will never be the end  
-And when the storm is over  
-You won't see me again (ooh)  
+You show the lights that stop me turn to stone — 你亮起的光让我不至于变成石头  
+You shine it when I'm alone — 我独处时你仍照耀我  
+And so I tell myself that I'll be strong — 于是我告诉自己要坚强  
+And dreaming when they're gone — 它们消失时便进入梦境  
+'Cause they're calling, calling, calling me home — 因为它们在呼唤、呼唤、唤我回家  
+Calling, calling me home — 唤我、唤我回家  
+And I can't pretend nobody's nothing — 我无法假装「谁都不是什么」  
+Something inside of me — 我体内有某种东西  
+I need to shine a light when all it is is dark — 当四周一片漆黑，我需要点亮一束光  
+I need to shine a light when all it is is dark — 当四周一片漆黑，我需要点亮一束光  
 
-Didn't know the price I paid for all the times I stayed  
-We were together  
+### Verse 2
 
-Wake me up, wake me up  
-Stop my fall (every time you go)  
-Tape me up, then break me up  
-Ever so gently  
-When I'm at my weakest (it's not so hard)  
+And I don't really know what I'm doing — 我真的不知道自己在做什么  
+And I don't really know why — 也不知道为什么  
+And I don't really know what's going on — 更不知道发生了什么  
+And I think I won't until I fall asleep again — 我想只有再次入睡才会明白  
 
-Maybe we forgot, are we awake, or not (oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-Maybe we forgot, are we awake, or not (oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-Maybe we forgot, are we awake, or not (oh, oh, oh, oh, oh, oh, oh, oh, oh, oh)  
-Or maybe we forgot (ooh)  
+### Chorus（重复）
 
-Wake me up, wake me up  
-Stop my fall (every time you go)  
-Tape me up, then break me up  
-Ever so gently  
-When I'm at my weakest  
+*(同第一段副歌)*
 
-Wake me up, wake me up  
-Stop my fall (every time you go)  
-Tape me up, then break me up  
-Ever so gently  
-When I'm at my weakest (it's not so hard)  
-Every time you go
+### Bridge
 
----
+Stars and streetlights and the lights on the moon — 星星、街灯、月光  
+But lights in your eyes might see you someday soon — 但你眼中的光，也许某天会再见到你  
+In this house on this hill — 在这山顶上的这栋房子里  
+No one ever saved me but you — 除了你，没人救过我  
+And when the lights go down — 当灯光熄灭  
+In this house on this hill — 在这山顶上的这栋房子里  
+No one ever saved me but you — 除了你，没人救过我  
 
----
+### Final Chorus
+
+*(副歌重复至结尾)*
 
 ---
 
@@ -140,19 +124,19 @@ Every time you go
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *You said I'm arresting* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *When I'm at my weakest* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I know what you're thinking* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *You won't see me again (ooh)* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *And I know that you're clever* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And I don't ask for much (ooh)* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *And perhaps, when I'm sleeping* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *You'll get back on your feet (ooh)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **turn to stone** | 变成石头；僵住 | 比喻因恐惧或孤独而麻木、动弹不得 |
+| **can't breathe when you're not near** | 你不在身边我就无法呼吸 | 情歌常用夸张，表强烈依恋 |
+| **calling me home** | 唤我回家 | *call home* 可指电话回家，此处是情感上的「归属召唤」 |
+| **shine a light** | 点亮一束光 | 字面 + 比喻「在黑暗中找到方向/希望」 |
+| **stomp out** | 踩灭 | *stomp* = 重踩；*stomp out a fire* = 把火踩灭 |
+| **the fear took over** | 恐惧占了上风 | *take over* = 接管、压倒 |
+| **put your arms around me** | 把我搂进怀里 | 比 *hug me* 更书面、更抒情 |
+| **lights go down** | 灯光熄灭 | 演出/派对结束常用；此处也暗示情绪低落 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、发音
-- **年代标签：** 2010s
+- 预副歌 *I can't breathe when you're not near* 连读明显，适合练 **can't breathe** → *can't breathe when* 的弱读。
+- 副歌 *calling, calling, calling me home* 三拍重复，跟唱时注意 **calling** 的重音与拖长。
+- 想延伸读**恋爱与 longing**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里关于依恋、分离的句型。
