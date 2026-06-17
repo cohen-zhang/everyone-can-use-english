@@ -16,24 +16,23 @@ aliases:
 ---
 # I Like Me Better — LAUV
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [I Like Me Better](https://music.apple.com/cn/song/i-like-me-better/1771702162)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（self-worth in love 可对照副歌）
 
 ---
 
-## 歌手简介 · About LAUV
+## 歌手简介 · About Lauv
 
 **English**
 
-**LAUV** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Lauv** (born **Ari Staprans Leff**, 8 August 1994, San Francisco) is an American **singer-songwriter** and producer. Raised between San Francisco, Atlanta, and suburban Philadelphia, he studied **music technology at NYU**, initially aiming to write for other artists—co-writing **"No Promises"** (Cheat Codes ft. Demi Lovato) and **"Boys"** (Charli XCX). His stage name comes from **Latvian *lauva*** ("lion"), honoring his mother's heritage. Breakout single **"The Other"** (2015) went viral; **"I Like Me Better"** (2017) peaked at **No. 27 on the Billboard Hot 100** and passed **2 billion Spotify streams**. Album *~how i'm feeling~* (2020) consolidated his reputation for confessional **electropop** about anxiety, love, and identity.
 
 **中文**
 
-**LAUV** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Lauv**（本名 **Ari Staprans Leff**，1994 年 8 月 8 生于旧金山）是美国**创作型歌手**兼制作人。成长于旧金山、亚特兰大与费城郊区，在 **NYU 读音乐科技**，起初为他人写歌——合写 **"No Promises"**（Cheat Codes ft. Demi Lovato）与 **"Boys"**（Charli XCX）。艺名来自拉脱维亚语 ***lauva***（狮子），致敬母亲血统。2015 年 **"The Other"** 病毒式传播；**"I Like Me Better"**（2017）登 **Billboard Hot 100 第 27**，Spotify 播放逾 **20 亿**。2020 年专辑 *~how i'm feeling~* 巩固其「坦白型 electropop」——写焦虑、爱与身份。
 
 ---
 
@@ -41,76 +40,86 @@ aliases:
 
 **English**
 
-**"I Like Me Better"** by **LAUV** is a **国际流行** track from *I met you when I was 18. (the playlist)*. Themes in the lyrics often touch on **love romance, self identity**, useful for spoken English and sing-along practice.
+**"I Like Me Better"** was released **19 May 2017** and later compiled on *I met you when I was 18. (the playlist)* (2018)—a project chronicling Lauv's first year in **New York City** and falling in love. Written with **Michael Matosic** and produced by Lauv, the song grew from a **voice memo** he never replaced. The hook *I like me better when I'm with you* flips the usual love-song logic: it's about **liking who you become** beside someone, not just missing them. The track appeared in Netflix's *To All the Boys I've Loved Before* trailer and became a staple of late-2010s **indie-electropop**.
 
 **中文**
 
-**"I Like Me Better"**（**LAUV**）收录于 *I met you when I was 18. (the playlist)*，属 **国际流行** 风格。歌词主题多与 **恋爱 · 自我** 相关，适合跟唱与口语表达练习。
+**"I Like Me Better"** 于 **2017 年 5 月 19 日**发行，后收录于 *I met you when I was 18. (the playlist)*（2018）——记录 Lauv 在**纽约**的第一年与恋爱。与 **Michael Matosic** 合写、Lauv 制作；源自一段他后来没换掉的**语音备忘录**。Hook *I like me better when I'm with you* 翻转常见情歌逻辑：重点是**和某人在一起时更喜欢自己**，而非单纯思念。歌曲曾用于 Netflix《*To All the Boys I've Loved Before*》预告，成为 2010 年代末 **indie-electropop** 代表作之一。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
 | 专辑 | Album | *I met you when I was 18. (the playlist)* |
 | 发行 | Release date | 2017-05-19 |
-| 曲风 | Genre | Pop |
+| 曲风 | Genre | Electropop · indie pop |
 | 时长 | Length | 3:17 |
+| 词曲 | Songwriters | Lauv, Michael Matosic |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #5 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-To be young and in love in New York City (In New York City)  
-To not know who I am, but still know that I'm good long as you're here with me  
-To be drunk and in love in New York City (In New York City)  
-Midnight into morning coffee  
-Burning through the hours talking  
+To be young and in love in New York City (In New York City) — 在纽约年轻且恋爱（在纽约）  
+To not know who I am, but still know that I'm good long as you're here with me — 不知自己是谁，但只要你在我就好  
+To be drunk and in love in New York City (In New York City) — 在纽约年轻、醉意与恋爱（在纽约）  
+Midnight into morning coffee — 从午夜喝到清晨咖啡  
+Burning through the hours talking — 聊着聊着把小时都烧光  
 
-Damn, I like me better when I'm with you  
-I like me better when I'm with you  
-I knew from the first time  
-I'd stay for a long time 'cause  
-I like me better when  
-I like me better when I'm with you  
+### Chorus
 
-I don't know what it is, but I got that feeling (got that feeling)  
-Wakin' up in this bed next to you  
-Swear the room, yeah, got no ceiling  
-If we lay, let the day just pass us by  
-I might get to too much talking  
-I might have to tell you somethin'  
+Damn, I like me better when I'm with you — 该死，和你在一起我更喜欢自己  
+I like me better when I'm with you — 和你在一起我更喜欢自己  
+I knew from the first time — 我第一次就知道  
+I'd stay for a long time 'cause — 我会待很久，因为  
+I like me better when — 我更喜欢自己当  
+I like me better when I'm with you — 和你在一起我更喜欢自己  
 
-(Damn)  
-I like me better when I'm with you  
-I like me better when I'm with you  
-I knew from the first time  
-I'd stay for a long time 'cause  
-I like me better when  
-I like me better when I'm with you  
+### Verse 2
 
-Stay awhile, stay awhile  
-Stay here with me  
-Stay awhile, stay awhile, oh  
+I don't know what it is, but I got that feeling (got that feeling) — 说不清是什么，但我有那种感觉（有那种感觉）  
+Wakin' up in this bed next to you — 在你旁边这张床上醒来  
+Swear the room, yeah, got no ceiling — 发誓这房间，对，像没有天花板  
+If we lay, let the day just pass us by — 若我们躺着，让一天悄悄流过  
+I might get to too much talking — 我可能会说太多  
+I might have to tell you somethin' — 我可能要告诉你一些事  
 
-Stay awhile, stay awhile  
-Stay here with me  
-Lay here with me  
-Eh-eh, eh-eh, oh  
+### Chorus（重复）
 
-I like me better when I'm with you (yes I do, yes I do babe)  
-I like me better when I'm with you (oh no)  
-I knew from the first time  
-I'd stay for a long time 'cause  
-I like me better when  
-I like me better when I'm with you  
+Damn, I like me better when I'm with you — 该死，和你在一起我更喜欢自己  
+I like me better when I'm with you — 和你在一起我更喜欢自己  
+I knew from the first time — 我第一次就知道  
+I'd stay for a long time 'cause — 我会待很久，因为  
+I like me better when — 我更喜欢自己当  
+I like me better when I'm with you — 和你在一起我更喜欢自己  
 
-(I like me, I like me)  
-(Look who you made me, made me, oh no)  
-(I like me better when)  
-I'm with you
+### Bridge
 
----
+Stay awhile, stay awhile — 多待一会儿，多待一会儿  
+Stay here with me — 留在这里陪我  
+Stay awhile, stay awhile, oh — 多待一会儿，多待一会儿，哦  
+
+Stay awhile, stay awhile — 多待一会儿，多待一会儿  
+Stay here with me — 留在这里陪我  
+Lay here with me — 躺在这里陪我  
+Eh-eh, eh-eh, oh — 诶诶，诶诶，哦  
+
+### Final Chorus
+
+I like me better when I'm with you (yes I do, yes I do babe) — 和你在一起我更喜欢自己（是的，宝贝）  
+I like me better when I'm with you (oh no) — 和你在一起我更喜欢自己（哦不）  
+I knew from the first time — 我第一次就知道  
+I'd stay for a long time 'cause — 我会待很久，因为  
+I like me better when — 我更喜欢自己当  
+I like me better when I'm with you — 和你在一起我更喜欢自己  
+
+### Outro
+
+(I like me, I like me) — （我喜欢自己，我喜欢自己）  
+(Look who you made me, made me, oh no) — （看你把我变成什么样，哦不）  
+(I like me better when) — （我更喜欢自己当）  
+I'm with you — 和你在一起  
 
 ---
 
@@ -118,20 +127,24 @@ I'm with you
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *I'm with you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I'd stay for a long time 'cause* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Wakin' up in this bed next to you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I like me better when I'm with you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I might have to tell you somethin'* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Damn, I like me better when I'm with you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I like me better when I'm with you (oh no)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I like me better when I'm with you (yes I do, yes I do babe)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **young and in love** | 年轻且恋爱 | 经典搭配；歌的开场意象 |
+| **long as you're here** | 只要你在 | *long as* = as long as 口语缩略 |
+| **burning through the hours** | 把小时都「烧光」 | 喻聊天聊到天亮 |
+| **I like me better when…** | ……时我更喜欢自己 | 歌题；比 *I love you* 更 self-focused |
+| **got that feeling** | 有那种感觉 | 口语；常指「心动/不对劲」 |
+| **the room got no ceiling** | 房间像没有天花板 | 夸张 euphoria；非字面 |
+| **let the day pass us by** | 让一天悄悄流过 | *pass by* = 流逝 |
+| **get to too much talking** | 可能会说太多 | *get to* = 开始（做某事） |
+| **tell you somethin'** | 告诉你一些事 | 常暗示 serious talk 或 confession |
+| **stay awhile** | 多待一会儿 | *awhile* = for a while；注意拼写 |
+| **knew from the first time** | 第一次就知道 | 表 immediate certainty |
+| **look who you made me** | 看你把我变成什么样 | Outro；带 playful blame |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *I Like Me Better* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *I like me better when I'm with you* 适合 **KTV 跟唱**；注意 *better when I'm* 的连读。
+- Verse 1 三连 **To be…** 排比，可练不定式开场：*To be young / To not know / To be drunk*。
+- *Damn* 与 *somethin'* 是口语缩略，跟唱时不必咬太清；正式写作用 *something*。
+- 想延伸练**恋爱里的自我感**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 对照 *identity + romance* 句型。

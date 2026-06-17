@@ -17,12 +17,11 @@ aliases:
 ---
 # This Is the Life — Amy Macdonald
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [This Is the Life](https://music.apple.com/cn/song/this-is-the-life/1440661365)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（宿醉、迷茫、青春挥霍等语气可延伸练习）
 
 ---
 
@@ -30,11 +29,11 @@ aliases:
 
 **English**
 
-**Amy Macdonald** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Amy Macdonald** (born 25 August 1987) is a Scottish **singer-songwriter** from Bishopbriggs, near Glasgow. She taught herself guitar at 12 and was discovered after posting demos online. Her debut album **This Is the Life** (2007) sold millions across Europe and made her a star in Germany, Austria, and Switzerland as well as the UK. Macdonald's voice is often compared to **Fran Healy** (Travis) or **Sharleen Spiteri**; her songs blend **folk-rock and pop** with observational lyrics about youth, nights out, and small-town longing. She has released several follow-up albums and remains one of Scotland's best-known contemporary artists.
 
 **中文**
 
-**Amy Macdonald** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Amy Macdonald**（1987 年 8 月 25 日生）是苏格兰**创作型歌手**，来自格拉斯哥附近的 Bishopbriggs。12 岁自学吉他，在网上发布 demo 后被发掘。首张专辑 **This Is the Life**（2007）在全欧热卖，在德国、奥地利、瑞士及英国皆成明星。她的嗓音常被比作 **Fran Healy**（Travis）或 **Sharleen Spiteri**；作品融合**民谣摇滚与流行**，歌词多观察青年夜生活、小镇与漂泊感。此后多张专辑，是苏格兰当代最具代表性的艺人之一。
 
 ---
 
@@ -42,103 +41,59 @@ aliases:
 
 **English**
 
-**"This Is the Life"** by **Amy Macdonald** is a **国际流行** track from *This Is the Life (Deluxe Edition)*. Themes in the lyrics often touch on **breakup loss, life attitude**, useful for spoken English and sing-along practice.
+**"This Is the Life"** is the **title track** of Macdonald's debut album, released in **2007**. Over acoustic guitar and a sing-along chorus, it paints a night in a **cold Scottish street**: people dancing, boys chasing girls, shy kids on the sidelines—then the hangover morning when your **head feels twice the size** and you wonder **where you're gonna sleep tonight**. The irony is in the title: partying feels like "the life" until consequences catch up. The song topped charts across continental Europe and became a staple of **acoustic pub sessions** and festival sing-alongs.
 
 **中文**
 
-**"This Is the Life"**（**Amy Macdonald**）收录于 *This Is the Life (Deluxe Edition)*，属 **国际流行** 风格。歌词主题多与 **分手·思念 · 生活态度** 相关，适合跟唱与口语表达练习。
+**"This Is the Life"** 是 Macdonald 首张同名专辑的**标题曲**，**2007** 年发行。木吉他伴奏配大合唱副歌，描绘**苏格兰寒夜街头**：人跳舞、男孩追女孩、害羞的少年在一旁——接着是宿醉清晨，**头胀两倍大**，想着**今晚睡哪儿**。标题的讽刺在于：狂欢时觉得「这就是人生」，直到后果找上门。单曲在欧洲多国登顶，成为**酒吧木吉他弹唱**与音乐节大合唱的常见曲目。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *This Is the Life (Deluxe Edition)* |
+| 专辑 | Album | *This Is the Life* (2007) |
 | 发行 | Release date | 2007-07-30 |
-| 曲风 | Genre | Ballad · Pop |
+| 曲风 | Genre | Folk rock · pop · acoustic |
 | 时长 | Length | 3:04 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #12 |
+| 词曲 | Songwriters | Amy Macdonald |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-Oh the wind whistles down  
-The cold dark street tonight  
-And the people they were  
-Dancing to the music vibe  
-And the boys chase the girls  
-With the curls in their hair  
-While the shy tormented youth sit way over there  
-And the songs they get louder  
-Each one better than before  
+Oh the wind whistles down — 哦，风呼啸而过  
+The cold dark street tonight — 今夜冷清黑暗的街道  
+And the people they were — 人们  
+Dancing to the music vibe — 跟着音乐节奏跳舞  
+And the boys chase the girls — 男孩追着女孩  
+With the curls in their hair — 那些头发卷曲的姑娘  
+While the shy tormented youth sit way over there — 害羞又纠结的少年坐在远处  
+And the songs they get louder — 歌越来越响  
+Each one better than before — 一首比一首带劲  
 
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
+### Chorus
 
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-Where you gonna sleep tonight?  
+And you're singing the songs — 你唱着那些歌  
+Thinking this is the life — 觉得这就是人生  
+And you wake up in the morning — 早上醒来  
+And your head feels twice the size — 头胀得像大两倍  
+Where you gonna go? Where you gonna go? — 你要去哪？你要去哪？  
+Where you gonna sleep tonight? — 今晚睡哪儿？  
 
-So you're heading down the road  
-In your taxi for four  
-And you're waiting outside Jimmy's front door  
-But nobody's in and nobody's home 'til four  
-So you're sitting there with nothing to do  
-Talking about Robert Riger and his motley crew  
-And where you're gonna go and  
-Where you're gonna sleep tonight?  
+### Verse 2
 
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
+So you're heading down the road — 于是你沿路而行  
+In your taxi for four — 坐着四人出租车  
+And you're waiting outside Jimmy's front door — 在 Jimmy 家门口等着  
+But nobody's in and nobody's home 'til four — 但没人应门，要到四点才有人  
+So you're sitting there with nothing to do — 你就干坐着没事做  
+Talking about Robert Riger and his motley crew — 聊着 Robert Riger 和他那帮杂牌军  
+And where you're gonna go and — 聊着要去哪  
+Where you're gonna sleep tonight? — 今晚睡哪儿  
 
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning and  
-Your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-Where you gonna sleep tonight?  
+### Chorus（重复）
 
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-And you're singing the songs  
-Thinking this is the life  
-And you wake up in the morning  
-And your head feels twice the size  
-Where you gonna go? Where you gonna go?  
-Where you gonna sleep tonight?  
-Where you gonna sleep tonight?
-
----
+*(副歌重复多遍至结尾；结构与第一段副歌相同，末段多一句 Where you gonna sleep tonight?)*
 
 ---
 
@@ -146,19 +101,22 @@ Where you gonna sleep tonight?
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *And you're singing the songs* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And where you're gonna go and* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *So you're heading down the road* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Where you're gonna sleep tonight?* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *So you're sitting there with nothing to do* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *But nobody's in and nobody's home 'til four* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And you're waiting outside Jimmy's front door* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Thinking this is the life* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **this is the life** | 这就是人生；这才叫活过 | 常带讽刺或自嘲，未必真是赞美 |
+| **whistle down** | 呼啸而过 | 形容风；*the wind whistles* |
+| **music vibe** | 音乐氛围；节奏感 | *vibe* = 气氛、感觉，口语高频 |
+| **tormented youth** | 苦恼 / 纠结的少年 | *tormented* = 受折磨的，略夸张文学感 |
+| **head feels twice the size** | 头胀得大两倍 | 宿醉经典说法 |
+| **Where you gonna go?** | 你要去哪？ | *gonna* = going to，口语 |
+| **taxi for four** | 四人座出租车 | 英国说法，类似 minicab |
+| **nobody's home 'til four** | 要到四点才有人在家 | *'til* = until |
+| **motley crew** | 杂牌军；乌合之众 | 习语；也指各色人凑一伙 |
+| **with nothing to do** | 没事可做 | 夜生活空转时的状态 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、发音
-- **年代标签：** 2000s
+- 副歌 *This is the life* 旋律简单、重复多，适合**通勤跟唱**练 *gonna* 连读。
+- Amy 的苏格兰口音在 *night / right / vibe* 等词上略有特色，不必完全模仿，但可留意元音。
+- 歌里 **Where you gonna…?** 问句反复出现，可当作口语模板练「今晚怎么办」类焦虑表达。
+- 想延伸「宿醉 + 后悔」场景，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里轻松自嘲的语气。

@@ -4,9 +4,9 @@
     "title": "Relax, Take It Easy",
     "artist": "MIKA",
     "file": "relax-take-it-easy-mika.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
-      "topic/emotions",
       "topic/life-attitude",
       "topic/love-romance"
     ],
@@ -22,7 +22,7 @@
       "use/ktv",
       "use/pronunciation"
     ],
-    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
     "genre_display": "Ballad · Pop",
     "lyrics_missing": false
   },
@@ -31,6 +31,7 @@
     "title": "I Am You (Remastered 2021)",
     "artist": "Kim Taylor",
     "file": "i-am-you-kim-taylor.md",
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/love-romance",
@@ -55,6 +56,7 @@
     "title": "Can't Complain",
     "artist": "Relient K",
     "file": "cant-complain-relient-k.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -81,6 +83,7 @@
     "title": "Everybody Knows",
     "artist": "Sigrid",
     "file": "everybody-knows-sigrid.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/film-ost",
@@ -108,6 +111,7 @@
     "title": "I Like Me Better",
     "artist": "LAUV",
     "file": "i-like-me-better-lauv.md",
+    "curated": true,
     "topics": [
       "topic/love-romance",
       "topic/self-identity"
@@ -131,10 +135,10 @@
     "title": "7 rings",
     "artist": "Ariana Grande",
     "file": "7-rings-ariana-grande.md",
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
-      "topic/love-romance",
       "topic/party-energy",
       "topic/self-identity"
     ],
@@ -147,7 +151,7 @@
     "uses": [
       "use/pronunciation"
     ],
-    "topic_display": "情绪 · 生活态度 · 恋爱 · 派对·能量 · 自我",
+    "topic_display": "情绪 · 生活态度 · 派对·能量 · 自我",
     "genre_display": "Ballad · Pop",
     "lyrics_missing": false
   },
@@ -156,6 +160,7 @@
     "title": "Better Man",
     "artist": "Robbie Williams",
     "file": "better-man-robbie-williams.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -180,6 +185,7 @@
     "title": "Hey Jude",
     "artist": "The Beatles",
     "file": "hey-jude-the-beatles.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -208,6 +214,7 @@
     "title": "Sealed With a Kiss",
     "artist": "Dana Winner",
     "file": "sealed-with-a-kiss-dana-winner.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -215,9 +222,10 @@
     "genres": [
       "genre/pop"
     ],
-    "level": "level/medium",
+    "level": "level/easy",
     "era": "era/2000s",
     "uses": [
+      "use/commute",
       "use/deep-study",
       "use/ktv",
       "use/pronunciation"
@@ -231,6 +239,7 @@
     "title": "Right Now (Na Na Na)",
     "artist": "Akon",
     "file": "right-now-akon.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -255,6 +264,7 @@
     "title": "Love the Way You Lie (feat. Rihanna)",
     "artist": "Eminem",
     "file": "love-the-way-you-lie-eminem.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -280,6 +290,7 @@
     "title": "This Is the Life",
     "artist": "Amy Macdonald",
     "file": "this-is-the-life-amy-macdonald.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -304,6 +315,7 @@
     "title": "I Will Follow You",
     "artist": "Ricky Nelson",
     "file": "i-will-follow-you-ricky-nelson.md",
+    "curated": true,
     "topics": [
       "topic/love-romance"
     ],
@@ -328,6 +340,7 @@
     "title": "Take Me To Your Heart",
     "artist": "Michael Learns to Rock",
     "file": "take-me-to-your-heart-michael-learns-to-rock.md",
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -353,8 +366,10 @@
     "title": "Right Here Waiting",
     "artist": "理查德·马克斯",
     "file": "right-here-waiting-理查德马克斯.md",
+    "curated": true,
     "topics": [
-      "topic/breakup-loss"
+      "topic/breakup-loss",
+      "topic/love-romance"
     ],
     "genres": [
       "genre/ballad",
@@ -368,15 +383,16 @@
       "use/ktv",
       "use/pronunciation"
     ],
-    "topic_display": "分手·思念",
+    "topic_display": "分手·思念 · 恋爱",
     "genre_display": "Ballad · Pop",
-    "lyrics_missing": true
+    "lyrics_missing": false
   },
   {
     "track": 16,
     "title": "Black Sheep",
     "artist": "Gin Wigmore",
     "file": "black-sheep-gin-wigmore.md",
+    "curated": true,
     "topics": [
       "topic/life-attitude"
     ],
@@ -399,6 +415,7 @@
     "title": "bad guy",
     "artist": "Billie Eilish",
     "file": "bad-guy-billie-eilish.md",
+    "curated": true,
     "topics": [
       "topic/emotions"
     ],
@@ -420,6 +437,7 @@
     "title": "High on Life (feat. Bonn)",
     "artist": "Martin Garrix",
     "file": "high-on-life-martin-garrix.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -443,6 +461,7 @@
     "title": "Always Remember Us This Way",
     "artist": "Brenda Mullen",
     "file": "always-remember-us-this-way-brenda-mullen.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -469,6 +488,7 @@
     "title": "Dreamer",
     "artist": "Europe",
     "file": "dreamer-europe.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -478,9 +498,10 @@
       "genre/pop",
       "genre/rock"
     ],
-    "level": "level/medium",
+    "level": "level/easy",
     "era": "era/2000s",
     "uses": [
+      "use/commute",
       "use/deep-study",
       "use/pronunciation"
     ],
@@ -493,6 +514,7 @@
     "title": "When Your Lips Are So Close",
     "artist": "Gord Bamford",
     "file": "when-your-lips-are-so-close-gord-bamford.md",
+    "curated": false,
     "topics": [
       "topic/love-romance"
     ],
@@ -514,6 +536,7 @@
     "title": "Against All Odds (Take a Look at Me Now)",
     "artist": "Phil Collins",
     "file": "against-all-odds-phil-collins.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions"
@@ -537,6 +560,7 @@
     "title": "Stand By Me",
     "artist": "Seal",
     "file": "stand-by-me-seal.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/love-romance"
@@ -560,6 +584,7 @@
     "title": "Who Wants To Live Forever",
     "artist": "Queen",
     "file": "who-wants-to-live-forever-queen.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -585,6 +610,7 @@
     "title": "The Old Man",
     "artist": "菲尔・科尔特",
     "file": "the-old-man-菲尔科尔特.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -606,6 +632,7 @@
     "title": "The Old Man",
     "artist": "Yom & Aurélien Naffrichoux",
     "file": "the-old-man-yom.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -627,6 +654,7 @@
     "title": "Promises Don't Come Easy",
     "artist": "陈曦",
     "file": "promises-dont-come-easy-陈曦.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -648,6 +676,7 @@
     "title": "What Can I Do (Promises)",
     "artist": "Caron Nightingale",
     "file": "what-can-i-do-caron-nightingale.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -673,6 +702,7 @@
     "title": "Love Story (Taylor’s Version)",
     "artist": "Taylor Swift",
     "file": "love-story-taylor-swift.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -701,6 +731,7 @@
     "title": "Yesterday Once More",
     "artist": "Carpenters",
     "file": "yesterday-once-more-carpenters.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -726,6 +757,7 @@
     "title": "Sealed With a Kiss",
     "artist": "The Lettermen",
     "file": "sealed-with-a-kiss-the-lettermen.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -749,6 +781,7 @@
     "title": "No Such Thing as a Broken Heart",
     "artist": "Old Dominion",
     "file": "no-such-thing-as-a-broken-heart-old-dominion.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -774,6 +807,7 @@
     "title": "These Days",
     "artist": "Rascal Flatts",
     "file": "these-days-rascal-flatts.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -798,6 +832,7 @@
     "title": "Because of You",
     "artist": "Ne-Yo",
     "file": "because-of-you-ne-yo.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -826,6 +861,7 @@
     "title": "Shape of You",
     "artist": "Ed Sheeran",
     "file": "shape-of-you-ed-sheeran.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance",
@@ -852,6 +888,7 @@
     "title": "Because You Loved Me (Theme from \"Up Close and Personal\")",
     "artist": "Céline Dion",
     "file": "because-you-loved-me-céline-dion.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -876,6 +913,7 @@
     "title": "Like I Can",
     "artist": "Sam Smith",
     "file": "like-i-can-sam-smith.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -899,6 +937,7 @@
     "title": "Die With A Smile",
     "artist": "Lady Gaga & Bruno Mars",
     "file": "die-with-a-smile-lady-gaga.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -924,6 +963,7 @@
     "title": "Bad Romance",
     "artist": "Lady Gaga",
     "file": "bad-romance-lady-gaga.md",
+    "curated": false,
     "topics": [
       "topic/love-romance",
       "topic/self-identity"
@@ -948,6 +988,7 @@
     "title": "Let It Go",
     "artist": "Idina Menzel",
     "file": "let-it-go-idina-menzel.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -974,6 +1015,7 @@
     "title": "Lights (Single Version)",
     "artist": "Ellie Goulding",
     "file": "lights-ellie-goulding.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -996,6 +1038,7 @@
     "title": "Young Dumb & Broke",
     "artist": "Khalid",
     "file": "young-dumb-broke-khalid.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1019,6 +1062,7 @@
     "title": "Glorious (feat. Skylar Grey)",
     "artist": "Macklemore",
     "file": "glorious-macklemore.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1044,6 +1088,7 @@
     "title": "Perfect",
     "artist": "Ed Sheeran",
     "file": "perfect-ed-sheeran.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1070,6 +1115,7 @@
     "title": "Numb",
     "artist": "LINKIN PARK",
     "file": "numb-linkin-park.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions"
@@ -1093,6 +1139,7 @@
     "title": "Numb Little Bug",
     "artist": "Em Beihold",
     "file": "numb-little-bug-em-beihold.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1118,6 +1165,7 @@
     "title": "Adore You",
     "artist": "Harry Styles",
     "file": "adore-you-harry-styles.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1144,6 +1192,7 @@
     "title": "I Don't Think I'm Okay",
     "artist": "Bazzi",
     "file": "i-dont-think-im-okay-bazzi.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1168,6 +1217,7 @@
     "title": "Someone You Loved",
     "artist": "Lewis Capaldi",
     "file": "someone-you-loved-lewis-capaldi.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1193,6 +1243,7 @@
     "title": "The Other",
     "artist": "LAUV",
     "file": "the-other-lauv.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1219,6 +1270,7 @@
     "title": "Head In The Clouds",
     "artist": "Hayd",
     "file": "head-in-the-clouds-hayd.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1241,6 +1293,7 @@
     "title": "When You Look At Me",
     "artist": "Sara Kays",
     "file": "when-you-look-at-me-sara-kays.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1267,6 +1320,7 @@
     "title": "That's Us",
     "artist": "Anson Seabra",
     "file": "thats-us-anson-seabra.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1293,6 +1347,7 @@
     "title": "It's You",
     "artist": "Ali Gatie",
     "file": "its-you-ali-gatie.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1319,6 +1374,7 @@
     "title": "Counting Stars",
     "artist": "OneRepublic",
     "file": "counting-stars-onerepublic.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1344,6 +1400,7 @@
     "title": "I Hope You Never Fall in Love Again",
     "artist": "KiD RAiN",
     "file": "i-hope-you-never-fall-in-love-again-kid-rain.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1367,6 +1424,7 @@
     "title": "Messy",
     "artist": "Lola Young",
     "file": "messy-lola-young.md",
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/relationships",
@@ -1391,6 +1449,7 @@
     "title": "Please Please Please",
     "artist": "Sabrina Carpenter",
     "file": "please-please-please-sabrina-carpenter.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1415,6 +1474,7 @@
     "title": "Good Cry",
     "artist": "Noah Cyrus",
     "file": "good-cry-noah-cyrus.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1443,6 +1503,7 @@
     "title": "July (Apple Music Home Session)",
     "artist": "Rhys Lewis",
     "file": "july-rhys-lewis.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1467,6 +1528,7 @@
     "title": "Dance Like No One’s Watching",
     "artist": "Gabby Barrett",
     "file": "dance-like-no-ones-watching-gabby-barrett.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1493,6 +1555,7 @@
     "title": "Gentle Heart",
     "artist": "Joshua Hyslop",
     "file": "gentle-heart-joshua-hyslop.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1515,6 +1578,7 @@
     "title": "Take Control",
     "artist": "Kodaline",
     "file": "take-control-kodaline.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1537,6 +1601,7 @@
     "title": "Marry You",
     "artist": "Bruno Mars",
     "file": "marry-you-bruno-mars.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance",
@@ -1562,6 +1627,7 @@
     "title": "My Love (Radio Edit)",
     "artist": "Westlife",
     "file": "my-love-westlife.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1585,6 +1651,7 @@
     "title": "Dance Monkey",
     "artist": "Tones And I",
     "file": "dance-monkey-tones-and-i.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1608,6 +1675,7 @@
     "title": "Grace",
     "artist": "Lewis Capaldi",
     "file": "grace-lewis-capaldi.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1633,6 +1701,7 @@
     "title": "What You Won't Do for Love",
     "artist": "Bobby Caldwell",
     "file": "what-you-wont-do-for-love-bobby-caldwell.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1658,6 +1727,7 @@
     "title": "Just the Two of Us",
     "artist": "Grover Washington, Jr. with Bill Withers",
     "file": "just-the-two-of-us-grover-washington.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1684,6 +1754,7 @@
     "title": "Fallen",
     "artist": "Lola Amour",
     "file": "fallen-lola-amour.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1706,6 +1777,7 @@
     "title": "Julie.",
     "artist": "Gallant",
     "file": "julie-gallant.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1728,6 +1800,7 @@
     "title": "Say It Again",
     "artist": "Betty Wright",
     "file": "say-it-again-betty-wright.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1751,6 +1824,7 @@
     "title": "Way Back Into Love (Demo Version)",
     "artist": "Hugh Grant & Drew Barrymore",
     "file": "way-back-into-love-hugh-grant.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1776,6 +1850,7 @@
     "title": "Two Is Better Than One (feat. Taylor Swift)",
     "artist": "BOYS LIKE GIRLS",
     "file": "two-is-better-than-one-boys-like-girls.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1802,6 +1877,7 @@
     "title": "Treasure",
     "artist": "Bruno Mars",
     "file": "treasure-bruno-mars.md",
+    "curated": false,
     "topics": [
       "topic/love-romance",
       "topic/party-energy"
@@ -1825,6 +1901,7 @@
     "title": "You Belong With Me",
     "artist": "Taylor Swift",
     "file": "you-belong-with-me-taylor-swift.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1852,6 +1929,7 @@
     "title": "Take Me Back to London (feat. Stormzy)",
     "artist": "Ed Sheeran",
     "file": "take-me-back-to-london-ed-sheeran.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1874,6 +1952,7 @@
     "title": "South of the Border (feat. Camila Cabello & Cardi B)",
     "artist": "Ed Sheeran",
     "file": "south-of-the-border-ed-sheeran.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance",
@@ -1899,6 +1978,7 @@
     "title": "Ain't My Fault (R3hab Remix)",
     "artist": "Zara Larsson & R3HAB",
     "file": "aint-my-fault-zara-larsson.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -1921,6 +2001,7 @@
     "title": "Vicious Girl",
     "artist": "CALVO",
     "file": "vicious-girl-calvo.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -1944,6 +2025,7 @@
     "title": "I Got You (feat. Johnning)",
     "artist": "Janji",
     "file": "i-got-you-janji.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -1965,6 +2047,7 @@
     "title": "Apologize",
     "artist": "OneRepublic",
     "file": "apologize-onerepublic.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1991,6 +2074,7 @@
     "title": "One Man Band",
     "artist": "Old Dominion",
     "file": "one-man-band-old-dominion.md",
+    "curated": false,
     "topics": [
       "topic/love-romance"
     ],
@@ -2013,6 +2097,7 @@
     "title": "See You Again (feat. Charlie Puth)",
     "artist": "Wiz Khalifa",
     "file": "see-you-again-wiz-khalifa.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/film-ost",
@@ -2038,6 +2123,7 @@
     "title": "We Don’t Talk Anymore (feat. Selena Gomez)",
     "artist": "Charlie Puth",
     "file": "we-dont-talk-anymore-charlie-puth.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2063,6 +2149,7 @@
     "title": "Sunny",
     "artist": "藤井风",
     "file": "sunny-藤井风.md",
+    "curated": false,
     "topics": [
       "topic/love-romance"
     ],
@@ -2085,6 +2172,7 @@
     "title": "Fly Me To The Moon",
     "artist": "小野丽莎",
     "file": "fly-me-to-the-moon-小野丽莎.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -2108,6 +2196,7 @@
     "title": "Fly Me to the Moon (feat. Count Basie and His Orchestra)",
     "artist": "弗兰克・辛纳特拉",
     "file": "fly-me-to-the-moon-弗兰克辛纳特拉.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude"
     ],
@@ -2132,6 +2221,7 @@
     "title": "Casablanca",
     "artist": "Bertie Higgins",
     "file": "casablanca-bertie-higgins.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/love-romance"
@@ -2157,6 +2247,7 @@
     "title": "Big Big World",
     "artist": "Emilia",
     "file": "big-big-world-emilia.md",
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2182,6 +2273,7 @@
     "title": "Wake Me Up When September Ends",
     "artist": "Green Day",
     "file": "wake-me-up-when-september-ends-green-day.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/party-energy"
@@ -2205,6 +2297,7 @@
     "title": "I Have Nothing",
     "artist": "Whitney Houston",
     "file": "i-have-nothing-whitney-houston.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2235,6 +2328,7 @@
     "title": "Everybody",
     "artist": "Ingrid Michaelson",
     "file": "everybody-ingrid-michaelson.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2261,6 +2355,7 @@
     "title": "WHERE IS MY HUSBAND!",
     "artist": "RAYE",
     "file": "where-is-my-husband-raye.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -2286,6 +2381,7 @@
     "title": "California Dreamin'",
     "artist": "The Beach Boys",
     "file": "california-dreamin-the-beach-boys.md",
+    "curated": false,
     "topics": [
       "topic/film-ost",
       "topic/life-attitude"
@@ -2308,6 +2404,7 @@
     "title": "If You Leave",
     "artist": "Orchestral Manoeuvres In the Dark",
     "file": "if-you-leave-orchestral-manoeuvres-in-the-dark.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2332,6 +2429,7 @@
     "title": "Always Remember Us This Way",
     "artist": "Lady Gaga",
     "file": "always-remember-us-this-way-lady-gaga.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/film-ost",
@@ -2359,6 +2457,7 @@
     "title": "Right Now (Na Na Na)",
     "artist": "Aamir",
     "file": "right-now-aamir.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -2383,6 +2482,7 @@
     "title": "Just One Last Dance (feat. Natural)",
     "artist": "Sarah Connor",
     "file": "just-one-last-dance-sarah-connor.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -2408,6 +2508,7 @@
     "title": "Lonely",
     "artist": "NANA",
     "file": "lonely-nana.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2433,6 +2534,7 @@
     "title": "Deadman",
     "artist": "蔡徐坤",
     "file": "deadman-蔡徐坤.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -2455,6 +2557,7 @@
     "title": "Catch a Grenade (The Hooligans Remix)",
     "artist": "Bruno Mars",
     "file": "catch-a-grenade-bruno-mars.md",
+    "curated": false,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -2479,6 +2582,7 @@
     "title": "Levitating",
     "artist": "Dua Lipa",
     "file": "levitating-dua-lipa.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2507,6 +2611,7 @@
     "title": "The Rose",
     "artist": "手嶌葵",
     "file": "the-rose-手嶌葵.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -2533,6 +2638,7 @@
     "title": "WAP (feat. Megan Thee Stallion)",
     "artist": "Cardi B",
     "file": "wap-cardi-b.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance",
@@ -2556,6 +2662,7 @@
     "title": "Anaconda",
     "artist": "Nicki Minaj",
     "file": "anaconda-nicki-minaj.md",
+    "curated": false,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -2579,6 +2686,7 @@
     "title": "When I Was Your Man",
     "artist": "Bruno Mars",
     "file": "when-i-was-your-man-bruno-mars.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -2606,6 +2714,7 @@
     "title": "Somebody That I Used to Know (feat. Kimbra)",
     "artist": "Gotye",
     "file": "somebody-that-i-used-to-know-gotye.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -2632,6 +2741,7 @@
     "title": "Walking Away",
     "artist": "ChianoSky",
     "file": "walking-away-chianosky.md",
+    "curated": false,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",

@@ -18,12 +18,11 @@ aliases:
 ---
 # Take Me To Your Heart — Michael Learns to Rock
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Take Me To Your Heart](https://music.apple.com/cn/song/take-me-to-your-heart/690654714)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
 
 ---
 
@@ -31,11 +30,11 @@ aliases:
 
 **English**
 
-**Michael Learns to Rock** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Michael Learns to Rock** (often shortened to **MLTR**) is a Danish **soft-rock band** formed in 1988 in Aarhus. Despite the English name, all members are Danish; the group chose an English moniker to signal **international pop-rock**. They became one of Asia's best-selling Western acts, especially popular in China, Southeast Asia, and India. Hits include *That's Why (You Go Away)*, *Paint My Love*, and **Take Me to Your Heart** (2004)—an English adaptation of Jacky Cheung's Cantonese classic *吻别* (*Goodbye Kiss*). The band is known for melodic ballads, clear vocals, and sing-along choruses suited to language learners.
 
 **中文**
 
-**Michael Learns to Rock** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Michael Learns to Rock**（常缩写 **MLTR**）是 1988 年在奥胡斯成立的丹麦**软摇滚乐队**。成员均为丹麦人，取英文名以面向**国际流行摇滚**市场。他们是亚洲最畅销的西方艺人之一，在中国、东南亚、印度尤其受欢迎。代表曲包括 *That's Why (You Go Away)*、*Paint My Love*，以及 **Take Me to Your Heart**（2004）——改编自张学友粤语经典《吻别》。作品以旋律抒情、咬字清楚、副歌好跟唱著称，适合英语学习者。
 
 ---
 
@@ -43,82 +42,77 @@ aliases:
 
 **English**
 
-**"Take Me To Your Heart"** by **Michael Learns to Rock** is a **国际流行** track from *Take Me To Your Heart - Single*. Themes in the lyrics often touch on **life attitude, love romance**, useful for spoken English and sing-along practice.
+**"Take Me to Your Heart"** was released in **January 2004** as MLTR's English version of *吻别* / *Goodbye Kiss*. The lyrics keep the original's theme of **longing and reunion** but use simple, direct English: *Take me to your heart, take me to your soul*. It became a massive hit across Asia and a karaoke favourite. The song's **slow tempo**, **repetitive chorus**, and everyday vocabulary (*haven't got a clue*, *now or never*) make it ideal for **commute listening** and pronunciation practice.
 
 **中文**
 
-**"Take Me To Your Heart"**（**Michael Learns to Rock**）收录于 *Take Me To Your Heart - Single*，属 **国际流行** 风格。歌词主题多与 **生活态度 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Take Me to Your Heart"** 于 **2004 年 1 月**发行，是 MLTR 将《吻别》/ *Goodbye Kiss* 改写成英文版。歌词保留原曲**思念与重逢**主题，用简单直接的英文：*Take me to your heart, take me to your soul*。在亚洲大热，也是 KTV 常点曲目。**节奏慢、副歌重复、用词日常**（*haven't got a clue*、*now or never*），适合**通勤听**与发音练习。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *Take Me To Your Heart - Single* |
+| 专辑 | Album | *Take Me to Your Heart* (single / 2004) |
 | 发行 | Release date | 2004-01-12 |
-| 曲风 | Genre | Ballad · Pop |
+| 曲风 | Genre | Soft rock · pop ballad |
 | 时长 | Length | 4:00 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #14 |
+| 词曲 | Songwriters | Jascha Richter; original *吻别* by Liu Huan |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Intro
 
-Mmm, hmm, yeah  
-Mmm, hmm  
+Mmm, hmm, yeah — 嗯，嗯，是啊  
+Mmm, hmm — 嗯，嗯  
 
-Hiding from the rain and snow  
-Trying to forget, but I won't let go  
-Looking at a crowded street  
-Listening to my own heartbeat  
+### Verse 1
 
-So many people all around the world  
-Tell me, where do I find someone like you, girl?  
+Hiding from the rain and snow — 躲着雨雪  
+Trying to forget, but I won't let go — 努力忘记，却放不下  
+Looking at a crowded street — 望着拥挤的街道  
+Listening to my own heartbeat — 听着自己的心跳  
 
-Take me to your heart, take me to your soul  
-Give me your hand before I'm old  
-Show me what love is, haven't got a clue  
-Show me that wonders can be true  
+So many people all around the world — 世上那么多人  
+Tell me, where do I find someone like you, girl? — 告诉我，去哪找像你这样的女孩？  
 
-They say nothing lasts forever  
-We're only here today  
-Love is now or never  
-Bring me far away  
+### Chorus
 
-Take me to your heart, take me to your soul  
-Give me your hand and hold me  
-Show me what love is, be my guiding star  
-It's easy, take me to your heart  
+Take me to your heart, take me to your soul — 带我走进你心里，走进你灵魂  
+Give me your hand before I'm old — 趁我还没老，把手给我  
+Show me what love is, haven't got a clue — 告诉我爱是什么——我毫无头绪  
+Show me that wonders can be true — 让我相信奇迹可以成真  
 
-Standing on a mountain high  
-Looking at the moon through a clear blue sky  
-I should go and see some friends  
-But they don't really comprehend  
+They say nothing lasts forever — 他们说没有什么是永恒的  
+We're only here today — 我们只活在此刻  
+Love is now or never — 爱要把握现在，否则永无机会  
+Bring me far away — 带我远走高飞  
 
-Don't need too much talking without saying anything  
-All I need is someone who makes me wanna sing  
+Take me to your heart, take me to your soul — 带我走进你心里，走进你灵魂  
+Give me your hand and hold me — 把手给我，抱紧我  
+Show me what love is, be my guiding star — 告诉我爱是什么，做我的指路星  
+It's easy, take me to your heart — 很简单，带我走进你心里  
 
-Take me to your heart, take me to your soul  
-Give me your hand before I'm old  
-Show me what love is, haven't got a clue  
-Show me that wonders can be true  
+### Verse 2
 
-They say nothing lasts forever  
-We're only here today  
-Love is now or never  
-Bring me far away  
+Standing on a mountain high — 站在高高的山上  
+Looking at the moon through a clear blue sky — 透过湛蓝天空望着月亮  
+I should go and see some friends — 我该去见见朋友  
+But they don't really comprehend — 但他们并不真正理解  
 
-Take me to your heart, take me to your soul  
-Give me your hand and hold me  
-Show me what love is, be my guiding star  
-It's easy, take me to your heart  
+Don't need too much talking without saying anything — 不需要太多言语——什么都不用说  
+All I need is someone who makes me wanna sing — 我只需要一个让我想唱歌的人  
 
-(Take me, take me)  
-Take me to your heart, take me to your soul  
-Give me your hand and hold me  
-Show me what love is, be my guiding star  
-It's easy, take me to your heart
+### Chorus（重复）
 
----
+*(同第一段副歌)*
+
+### Outro
+
+(Take me, take me) — （带我，带我）  
+Take me to your heart, take me to your soul — 带我走进你心里，走进你灵魂  
+Give me your hand and hold me — 把手给我，抱紧我  
+Show me what love is, be my guiding star — 告诉我爱是什么，做我的指路星  
+It's easy, take me to your heart — 很简单，带我走进你心里  
 
 ---
 
@@ -126,20 +120,20 @@ It's easy, take me to your heart
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *It's easy, take me to your heart* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Show me what love is, haven't got a clue* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *We're only here today* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Give me your hand before I'm old* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *But they don't really comprehend* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Trying to forget, but I won't let go* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Don't need too much talking without saying anything* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Love is now or never* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **won't let go** | 放不下；不松手 | *let go* = 放手、释怀 |
+| **haven't got a clue** | 毫无头绪；一点都不知道 | 英式口语；= *have no idea* |
+| **now or never** | 机不可失；现在不做永不 | 习语；歌里指爱要当下把握 |
+| **nothing lasts forever** | 没有什么是永恒的 | 常见人生感慨句 |
+| **guiding star** | 指路星；指引 | 比喻给人方向的人 |
+| **comprehend** | 理解（较正式） | 比 *understand* 书面一点 |
+| **make me wanna sing** | 让我想唱歌 | *wanna* = want to，口语 |
+| **take me to your heart** | 带我走进你心里 | 歌名；也可说 *take sb into your heart* |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2000s
-- 副歌 *Take Me To Your Heart* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *Take me to your heart* 重复多遍，是 **KTV 与通勤跟唱** 的首选段落。
+- 丹麦主唱咬字清楚，适合练 **haven't got a clue** 等英式口语缩略。
+- 可与中文版《吻别》对照听，体会同一旋律下**中英文填词**的差异。
+- *now or never* 与 *nothing lasts forever* 可摘出来练「把握当下」类口语，见 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

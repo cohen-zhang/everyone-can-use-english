@@ -21,6 +21,26 @@ PLAYLIST_URL = (
 
 # Hand-curated docs: skip overwrite, use fixed slug mapping
 CURATED = {
+    ("Relax, Take It Easy", "MIKA"): "relax-take-it-easy-mika.md",
+    ("I Am You (Remastered 2021)", "Kim Taylor"): "i-am-you-kim-taylor.md",
+    ("Can't Complain", "Relient K"): "cant-complain-relient-k.md",
+    ("Everybody Knows", "Sigrid"): "everybody-knows-sigrid.md",
+    ("I Like Me Better", "LAUV"): "i-like-me-better-lauv.md",
+    ("7 rings", "Ariana Grande"): "7-rings-ariana-grande.md",
+    ("Better Man", "Robbie Williams"): "better-man-robbie-williams.md",
+    ("Hey Jude", "The Beatles"): "hey-jude-the-beatles.md",
+    ("Sealed With a Kiss", "Dana Winner"): "sealed-with-a-kiss-dana-winner.md",
+    ("Right Now (Na Na Na)", "Akon"): "right-now-akon.md",
+    ("Love the Way You Lie (feat. Rihanna)", "Eminem"): "love-the-way-you-lie-eminem.md",
+    ("This Is the Life", "Amy Macdonald"): "this-is-the-life-amy-macdonald.md",
+    ("I Will Follow You", "Ricky Nelson"): "i-will-follow-you-ricky-nelson.md",
+    ("Take Me To Your Heart", "Michael Learns to Rock"): "take-me-to-your-heart-michael-learns-to-rock.md",
+    ("Right Here Waiting", "理查德·马克斯"): "right-here-waiting-理查德马克斯.md",
+    ("Black Sheep", "Gin Wigmore"): "black-sheep-gin-wigmore.md",
+    ("bad guy", "Billie Eilish"): "bad-guy-billie-eilish.md",
+    ("High on Life (feat. Bonn)", "Martin Garrix"): "high-on-life-martin-garrix.md",
+    ("Always Remember Us This Way", "Brenda Mullen"): "always-remember-us-this-way-brenda-mullen.md",
+    ("Dreamer", "Europe"): "dreamer-europe.md",
     ("Messy", "Lola Young"): "messy-lola-young.md",
     ("Big Big World", "Emilia"): "big-big-world-emilia.md",
 }

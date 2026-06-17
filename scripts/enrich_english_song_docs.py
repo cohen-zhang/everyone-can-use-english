@@ -20,6 +20,26 @@ PLAYLIST_URL = (
 )
 
 CURATED = {
+    ("Relax, Take It Easy", "MIKA"): "relax-take-it-easy-mika.md",
+    ("I Am You (Remastered 2021)", "Kim Taylor"): "i-am-you-kim-taylor.md",
+    ("Can't Complain", "Relient K"): "cant-complain-relient-k.md",
+    ("Everybody Knows", "Sigrid"): "everybody-knows-sigrid.md",
+    ("I Like Me Better", "LAUV"): "i-like-me-better-lauv.md",
+    ("7 rings", "Ariana Grande"): "7-rings-ariana-grande.md",
+    ("Better Man", "Robbie Williams"): "better-man-robbie-williams.md",
+    ("Hey Jude", "The Beatles"): "hey-jude-the-beatles.md",
+    ("Sealed With a Kiss", "Dana Winner"): "sealed-with-a-kiss-dana-winner.md",
+    ("Right Now (Na Na Na)", "Akon"): "right-now-akon.md",
+    ("Love the Way You Lie (feat. Rihanna)", "Eminem"): "love-the-way-you-lie-eminem.md",
+    ("This Is the Life", "Amy Macdonald"): "this-is-the-life-amy-macdonald.md",
+    ("I Will Follow You", "Ricky Nelson"): "i-will-follow-you-ricky-nelson.md",
+    ("Take Me To Your Heart", "Michael Learns to Rock"): "take-me-to-your-heart-michael-learns-to-rock.md",
+    ("Right Here Waiting", "理查德·马克斯"): "right-here-waiting-理查德马克斯.md",
+    ("Black Sheep", "Gin Wigmore"): "black-sheep-gin-wigmore.md",
+    ("bad guy", "Billie Eilish"): "bad-guy-billie-eilish.md",
+    ("High on Life (feat. Bonn)", "Martin Garrix"): "high-on-life-martin-garrix.md",
+    ("Always Remember Us This Way", "Brenda Mullen"): "always-remember-us-this-way-brenda-mullen.md",
+    ("Dreamer", "Europe"): "dreamer-europe.md",
     ("Messy", "Lola Young"): "messy-lola-young.md",
     ("Big Big World", "Emilia"): "big-big-world-emilia.md",
 }
@@ -555,8 +575,9 @@ def build_readme(catalog: list[dict]) -> str:
     def row(c: dict) -> str:
         link = c["file"].removesuffix(".md")
         title = c["title"].replace("|", "\\|")
+        curated = "精编" if c.get("curated") else "—"
         return (
-            f"| {c['track']} | {c['title']} | {c['artist']} | {c['topic_display']} | "
+            f"| {c['track']} | {c['title']} | {c['artist']} | {curated} | {c['topic_display']} | "
             f"{c['genre_display']} | {LEVEL_LABELS.get(c['level'], c['level'])} | "
             f"{ERA_LABELS.get(c['era'], c['era'])} | "
             f"{' · '.join(USE_LABELS.get(u, u) for u in c['uses'])} | "
@@ -564,8 +585,8 @@ def build_readme(catalog: list[dict]) -> str:
         )
 
     master = [
-        "| # | 歌名 | 歌手 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| # | 歌名 | 歌手 | 精编 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for c in catalog:
         master.append(row(c))
@@ -628,6 +649,12 @@ def build_readme(catalog: list[dict]) -> str:
             )
 
     todo = [c for c in catalog if c.get("lyrics_missing")]
+    curated_rows = [c for c in catalog if c.get("curated")]
+    curated_table = "\n".join(
+        f"| {c['track']} | {c['title']} | {c['artist']} | "
+        f"[[learning-notes/english-song/{c['file'].removesuffix('.md')}|{c['title']}]] |"
+        for c in sorted(curated_rows, key=lambda x: x["track"])
+    )
 
     return f"""---
 tags:
@@ -668,12 +695,11 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下笔记含更完整的英中对照与重点表达：
+以下 **{len(curated_rows)}** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#20**，以及 #57、#90）：
 
-| 歌曲 | 歌手 | 笔记 |
-| --- | --- | --- |
-| **Messy** | Lola Young | [[learning-notes/english-song/messy-lola-young|Messy — Lola Young]] |
-| **Big Big World** | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World — Emilia]] |
+| # | 歌曲 | 歌手 | 笔记 |
+| --- | --- | --- | --- |
+{curated_table}
 
 ## 歌词待补充
 
@@ -701,7 +727,7 @@ def main() -> None:
     itunes_map = fetch_itunes(ids)
 
     catalog: list[dict] = []
-    stats = {"updated": 0, "curated": 0}
+    stats = {"updated": 0, "curated": 0, "skipped": 0}
 
     for item in items:
         fname = filename_for(item, used)
@@ -714,14 +740,19 @@ def main() -> None:
         phrases = extract_key_phrases(plain_lyrics, item["title"])
 
         key = (item["title"], item["artist"])
-        if key in CURATED:
-            meta.update({"title": item["title"], "url": item["url"]})
-            enrich_curated(path, meta)
+        is_curated = key in CURATED
+        if is_curated:
             stats["curated"] += 1
+        elif path.exists():
+            stats["skipped"] += 1
         else:
             doc = build_full_doc(item, meta, lyrics_section, phrases, curated=False)
             path.write_text(doc, encoding="utf-8")
             stats["updated"] += 1
+
+        lyrics_missing = (
+            not plain_lyrics or "暂未自动获取" in existing
+        ) and not is_curated
 
         catalog.append(
             {
@@ -729,6 +760,7 @@ def main() -> None:
                 "title": item["title"],
                 "artist": item["artist"],
                 "file": fname,
+                "curated": is_curated,
                 "topics": meta["topics"],
                 "genres": meta["genres"],
                 "level": meta["level"],
@@ -736,7 +768,7 @@ def main() -> None:
                 "uses": meta["uses"],
                 "topic_display": meta["topic_display"],
                 "genre_display": meta["genre_display"],
-                "lyrics_missing": not plain_lyrics or "暂未自动获取" in existing,
+                "lyrics_missing": lyrics_missing and not is_curated,
             }
         )
 

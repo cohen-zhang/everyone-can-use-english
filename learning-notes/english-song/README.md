@@ -13,117 +13,117 @@ aliases:
 
 ## 播放列表总表
 
-| # | 歌名 | 歌手 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Relax, Take It Easy | MIKA | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/relax-take-it-easy-mika|Relax, Take It Easy]] |
-| 2 | I Am You (Remastered 2021) | Kim Taylor | 情绪 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-am-you-kim-taylor|I Am You (Remastered 2021)]] |
-| 3 | Can't Complain | Relient K | 分手·思念 · 情绪 · 生活态度 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/cant-complain-relient-k|Can't Complain]] |
-| 4 | Everybody Knows | Sigrid | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-knows-sigrid|Everybody Knows]] |
-| 5 | I Like Me Better | LAUV | 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-like-me-better-lauv|I Like Me Better]] |
-| 6 | 7 rings | Ariana Grande | 情绪 · 生活态度 · 恋爱 · 派对·能量 · 自我 | Ballad · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/7-rings-ariana-grande|7 rings]] |
-| 7 | Better Man | Robbie Williams | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/better-man-robbie-williams|Better Man]] |
-| 8 | Hey Jude | The Beatles | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/hey-jude-the-beatles|Hey Jude]] |
-| 9 | Sealed With a Kiss | Dana Winner | 分手·思念 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|Sealed With a Kiss]] |
-| 10 | Right Now (Na Na Na) | Akon | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Hip-hop · R&B | 难 | 2000s | KTV | [[learning-notes/english-song/right-now-akon|Right Now (Na Na Na)]] |
-| 11 | Love the Way You Lie (feat. Rihanna) | Eminem | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/love-the-way-you-lie-eminem|Love the Way You Lie (feat. Rihanna)]] |
-| 12 | This Is the Life | Amy Macdonald | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/this-is-the-life-amy-macdonald|This Is the Life]] |
-| 13 | I Will Follow You | Ricky Nelson | 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|I Will Follow You]] |
-| 14 | Take Me To Your Heart | Michael Learns to Rock | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|Take Me To Your Heart]] |
-| 15 | Right Here Waiting | 理查德·马克斯 | 分手·思念 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|Right Here Waiting]] |
-| 16 | Black Sheep | Gin Wigmore | 生活态度 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/black-sheep-gin-wigmore|Black Sheep]] |
-| 17 | bad guy | Billie Eilish | 情绪 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/bad-guy-billie-eilish|bad guy]] |
-| 18 | High on Life (feat. Bonn) | Martin Garrix | 分手·思念 · 情绪 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/high-on-life-martin-garrix|High on Life (feat. Bonn)]] |
-| 19 | Always Remember Us This Way | Brenda Mullen | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way]] |
-| 20 | Dreamer | Europe | 分手·思念 · 情绪 · 生活态度 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/dreamer-europe|Dreamer]] |
-| 21 | When Your Lips Are So Close | Gord Bamford | 恋爱 | Country · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
-| 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | 分手·思念 · 情绪 | Pop · Rock | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
-| 23 | Stand By Me | Seal | 情绪 · 恋爱 | R&B | 易 | 2000s | 通勤 · 精研 · KTV | [[learning-notes/english-song/stand-by-me-seal|Stand By Me]] |
-| 24 | Who Wants To Live Forever | Queen | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
-| 25 | The Old Man | 菲尔・科尔特 | 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/the-old-man-菲尔科尔特|The Old Man]] |
-| 26 | The Old Man | Yom & Aurélien Naffrichoux | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/the-old-man-yom|The Old Man]] |
-| 27 | Promises Don't Come Easy | 陈曦 | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
-| 28 | What Can I Do (Promises) | Caron Nightingale | 生活态度 · 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises)]] |
-| 29 | Love Story (Taylor’s Version) | Taylor Swift | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-story-taylor-swift|Love Story (Taylor’s Version)]] |
-| 30 | Yesterday Once More | Carpenters | 分手·思念 · 情绪 · 恋爱 | Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/yesterday-once-more-carpenters|Yesterday Once More]] |
-| 31 | Sealed With a Kiss | The Lettermen | 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|Sealed With a Kiss]] |
-| 32 | No Such Thing as a Broken Heart | Old Dominion | 情绪 · 生活态度 · 恋爱 | Country · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]] |
-| 33 | These Days | Rascal Flatts | 生活态度 · 恋爱 | Country · Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/these-days-rascal-flatts|These Days]] |
-| 34 | Because of You | Ne-Yo | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我 | Ballad · R&B | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/because-of-you-ne-yo|Because of You]] |
-| 35 | Shape of You | Ed Sheeran | 分手·思念 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/shape-of-you-ed-sheeran|Shape of You]] |
-| 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/because-you-loved-me-céline-dion|Because You Loved Me (Theme from "Up Close and Personal")]] |
-| 37 | Like I Can | Sam Smith | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/like-i-can-sam-smith|Like I Can]] |
-| 38 | Die With A Smile | Lady Gaga & Bruno Mars | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/die-with-a-smile-lady-gaga|Die With A Smile]] |
-| 39 | Bad Romance | Lady Gaga | 恋爱 · 自我 | Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/bad-romance-lady-gaga|Bad Romance]] |
-| 40 | Let It Go | Idina Menzel | 分手·思念 · 情绪 · 影视原声 · 自我 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/let-it-go-idina-menzel|Let It Go]] |
-| 41 | Lights (Single Version) | Ellie Goulding | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/lights-ellie-goulding|Lights (Single Version)]] |
-| 42 | Young Dumb & Broke | Khalid | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2010s | 精研 · KTV | [[learning-notes/english-song/young-dumb-broke-khalid|Young Dumb & Broke]] |
-| 43 | Glorious (feat. Skylar Grey) | Macklemore | 分手·思念 · 情绪 · 生活态度 · 派对·能量 · 自我 | Hip-hop · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/glorious-macklemore|Glorious (feat. Skylar Grey)]] |
-| 44 | Perfect | Ed Sheeran | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/perfect-ed-sheeran|Perfect]] |
-| 45 | Numb | LINKIN PARK | 分手·思念 · 情绪 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/numb-linkin-park|Numb]] |
-| 46 | Numb Little Bug | Em Beihold | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/numb-little-bug-em-beihold|Numb Little Bug]] |
-| 47 | Adore You | Harry Styles | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/adore-you-harry-styles|Adore You]] |
-| 48 | I Don't Think I'm Okay | Bazzi | 分手·思念 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
-| 49 | Someone You Loved | Lewis Capaldi | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
-| 50 | The Other | LAUV | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-other-lauv|The Other]] |
-| 51 | Head In The Clouds | Hayd | 分手·思念 · 生活态度 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
-| 52 | When You Look At Me | Sara Kays | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
-| 53 | That's Us | Anson Seabra | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
-| 54 | It's You | Ali Gatie | 分手·思念 · 情绪 · 恋爱 | Ballad · R&B | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/its-you-ali-gatie|It's You]] |
-| 55 | Counting Stars | OneRepublic | 情绪 · 生活态度 · 恋爱 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars]] |
-| 56 | I Hope You Never Fall in Love Again | KiD RAiN | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|I Hope You Never Fall in Love Again]] |
-| 57 | Messy | Lola Young | 情绪 · 关系 · 自我 | Pop · pop rock | 中 | 2020s | KTV · 精研 | [[learning-notes/english-song/messy-lola-young|Messy]] |
-| 58 | Please Please Please | Sabrina Carpenter | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/please-please-please-sabrina-carpenter|Please Please Please]] |
-| 59 | Good Cry | Noah Cyrus | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/good-cry-noah-cyrus|Good Cry]] |
-| 60 | July (Apple Music Home Session) | Rhys Lewis | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/july-rhys-lewis|July (Apple Music Home Session)]] |
-| 61 | Dance Like No One’s Watching | Gabby Barrett | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Country · Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|Dance Like No One’s Watching]] |
-| 62 | Gentle Heart | Joshua Hyslop | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/gentle-heart-joshua-hyslop|Gentle Heart]] |
-| 63 | Take Control | Kodaline | 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-control-kodaline|Take Control]] |
-| 64 | Marry You | Bruno Mars | 分手·思念 · 恋爱 · 派对·能量 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/marry-you-bruno-mars|Marry You]] |
-| 65 | My Love (Radio Edit) | Westlife | 生活态度 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/my-love-westlife|My Love (Radio Edit)]] |
-| 66 | Dance Monkey | Tones And I | 情绪 · 生活态度 · 派对·能量 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/dance-monkey-tones-and-i|Dance Monkey]] |
-| 67 | Grace | Lewis Capaldi | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/grace-lewis-capaldi|Grace]] |
-| 68 | What You Won't Do for Love | Bobby Caldwell | 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-you-wont-do-for-love-bobby-caldwell|What You Won't Do for Love]] |
-| 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | 分手·思念 · 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/just-the-two-of-us-grover-washington|Just the Two of Us]] |
-| 70 | Fallen | Lola Amour | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/fallen-lola-amour|Fallen]] |
-| 71 | Julie. | Gallant | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2020s | 精研 | [[learning-notes/english-song/julie-gallant|Julie.]] |
-| 72 | Say It Again | Betty Wright | 情绪 · 生活态度 · 恋爱 | R&B | 中 | 经典 | 精研 · KTV | [[learning-notes/english-song/say-it-again-betty-wright|Say It Again]] |
-| 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 | Pop | 难 | 2000s | KTV · 发音 | [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo Version)]] |
-| 74 | Two Is Better Than One (feat. Taylor Swift) | BOYS LIKE GIRLS | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One (feat. Taylor Swift)]] |
-| 75 | Treasure | Bruno Mars | 恋爱 · 派对·能量 | Pop | 易 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/treasure-bruno-mars|Treasure]] |
-| 76 | You Belong With Me | Taylor Swift | 分手·思念 · 情绪 · 恋爱 · 自我 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me]] |
-| 77 | Take Me Back to London (feat. Stormzy) | Ed Sheeran | 分手·思念 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London (feat. Stormzy)]] |
-| 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | 生活态度 · 恋爱 · 派对·能量 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
-| 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
-| 80 | Vicious Girl | CALVO | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
-| 81 | I Got You (feat. Johnning) | Janji | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
-| 82 | Apologize | OneRepublic | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
-| 83 | One Man Band | Old Dominion | 恋爱 | Country · Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
-| 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/see-you-again-wiz-khalifa|See You Again (feat. Charlie Puth)]] |
-| 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|We Don’t Talk Anymore (feat. Selena Gomez)]] |
-| 86 | Sunny | 藤井风 | 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/sunny-藤井风|Sunny]] |
-| 87 | Fly Me To The Moon | 小野丽莎 | 生活态度 | Jazz | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|Fly Me To The Moon]] |
-| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | 生活态度 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|Fly Me to the Moon (feat. Count Basie and His Orchestra)]] |
-| 89 | Casablanca | Bertie Higgins | 情绪 · 恋爱 | Jazz · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/casablanca-bertie-higgins|Casablanca]] |
-| 90 | Big Big World | Emilia | 分手·思念 · 情绪 · 恋爱 | Pop · ballad | 易 | 经典 | KTV · 通勤 · 发音 | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
-| 91 | Wake Me Up When September Ends | Green Day | 分手·思念 · 派对·能量 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/wake-me-up-when-september-ends-green-day|Wake Me Up When September Ends]] |
-| 92 | I Have Nothing | Whitney Houston | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 · 自我 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-have-nothing-whitney-houston|I Have Nothing]] |
-| 93 | Everybody | Ingrid Michaelson | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-ingrid-michaelson|Everybody]] |
-| 94 | WHERE IS MY HUSBAND! | RAYE | 分手·思念 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/where-is-my-husband-raye|WHERE IS MY HUSBAND!]] |
-| 95 | California Dreamin' | The Beach Boys | 影视原声 · 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/california-dreamin-the-beach-boys|California Dreamin']] |
-| 96 | If You Leave | Orchestral Manoeuvres In the Dark | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/if-you-leave-orchestral-manoeuvres-in-the-dark|If You Leave]] |
-| 97 | Always Remember Us This Way | Lady Gaga | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-lady-gaga|Always Remember Us This Way]] |
-| 98 | Right Now (Na Na Na) | Aamir | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na)]] |
-| 99 | Just One Last Dance (feat. Natural) | Sarah Connor | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/just-one-last-dance-sarah-connor|Just One Last Dance (feat. Natural)]] |
-| 100 | Lonely | NANA | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 经典 | 发音 | [[learning-notes/english-song/lonely-nana|Lonely]] |
-| 101 | Deadman | 蔡徐坤 | 分手·思念 · 恋爱 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/deadman-蔡徐坤|Deadman]] |
-| 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade (The Hooligans Remix)]] |
-| 103 | Levitating | Dua Lipa | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/levitating-dua-lipa|Levitating]] |
-| 104 | The Rose | 手嶌葵 | 生活态度 · 恋爱 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/the-rose-手嶌葵|The Rose]] |
-| 105 | WAP (feat. Megan Thee Stallion) | Cardi B | 生活态度 · 恋爱 · 派对·能量 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/wap-cardi-b|WAP (feat. Megan Thee Stallion)]] |
-| 106 | Anaconda | Nicki Minaj | 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/anaconda-nicki-minaj|Anaconda]] |
-| 107 | When I Was Your Man | Bruno Mars | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
-| 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
-| 109 | Walking Away | ChianoSky | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/walking-away-chianosky|Walking Away]] |
+| # | 歌名 | 歌手 | 精编 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Relax, Take It Easy | MIKA | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/relax-take-it-easy-mika|Relax, Take It Easy]] |
+| 2 | I Am You (Remastered 2021) | Kim Taylor | 精编 | 情绪 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-am-you-kim-taylor|I Am You (Remastered 2021)]] |
+| 3 | Can't Complain | Relient K | 精编 | 分手·思念 · 情绪 · 生活态度 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/cant-complain-relient-k|Can't Complain]] |
+| 4 | Everybody Knows | Sigrid | 精编 | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-knows-sigrid|Everybody Knows]] |
+| 5 | I Like Me Better | LAUV | 精编 | 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-like-me-better-lauv|I Like Me Better]] |
+| 6 | 7 rings | Ariana Grande | 精编 | 情绪 · 生活态度 · 派对·能量 · 自我 | Ballad · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/7-rings-ariana-grande|7 rings]] |
+| 7 | Better Man | Robbie Williams | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/better-man-robbie-williams|Better Man]] |
+| 8 | Hey Jude | The Beatles | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/hey-jude-the-beatles|Hey Jude]] |
+| 9 | Sealed With a Kiss | Dana Winner | 精编 | 分手·思念 · 恋爱 | Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|Sealed With a Kiss]] |
+| 10 | Right Now (Na Na Na) | Akon | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Hip-hop · R&B | 难 | 2000s | KTV | [[learning-notes/english-song/right-now-akon|Right Now (Na Na Na)]] |
+| 11 | Love the Way You Lie (feat. Rihanna) | Eminem | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/love-the-way-you-lie-eminem|Love the Way You Lie (feat. Rihanna)]] |
+| 12 | This Is the Life | Amy Macdonald | 精编 | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/this-is-the-life-amy-macdonald|This Is the Life]] |
+| 13 | I Will Follow You | Ricky Nelson | 精编 | 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|I Will Follow You]] |
+| 14 | Take Me To Your Heart | Michael Learns to Rock | 精编 | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|Take Me To Your Heart]] |
+| 15 | Right Here Waiting | 理查德·马克斯 | 精编 | 分手·思念 · 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|Right Here Waiting]] |
+| 16 | Black Sheep | Gin Wigmore | 精编 | 生活态度 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/black-sheep-gin-wigmore|Black Sheep]] |
+| 17 | bad guy | Billie Eilish | 精编 | 情绪 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/bad-guy-billie-eilish|bad guy]] |
+| 18 | High on Life (feat. Bonn) | Martin Garrix | 精编 | 分手·思念 · 情绪 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/high-on-life-martin-garrix|High on Life (feat. Bonn)]] |
+| 19 | Always Remember Us This Way | Brenda Mullen | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way]] |
+| 20 | Dreamer | Europe | 精编 | 分手·思念 · 情绪 · 生活态度 | Pop · Rock | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/dreamer-europe|Dreamer]] |
+| 21 | When Your Lips Are So Close | Gord Bamford | — | 恋爱 | Country · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
+| 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | — | 分手·思念 · 情绪 | Pop · Rock | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
+| 23 | Stand By Me | Seal | — | 情绪 · 恋爱 | R&B | 易 | 2000s | 通勤 · 精研 · KTV | [[learning-notes/english-song/stand-by-me-seal|Stand By Me]] |
+| 24 | Who Wants To Live Forever | Queen | — | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
+| 25 | The Old Man | 菲尔・科尔特 | — | 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/the-old-man-菲尔科尔特|The Old Man]] |
+| 26 | The Old Man | Yom & Aurélien Naffrichoux | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/the-old-man-yom|The Old Man]] |
+| 27 | Promises Don't Come Easy | 陈曦 | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
+| 28 | What Can I Do (Promises) | Caron Nightingale | — | 生活态度 · 恋爱 | Ballad · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-can-i-do-caron-nightingale|What Can I Do (Promises)]] |
+| 29 | Love Story (Taylor’s Version) | Taylor Swift | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-story-taylor-swift|Love Story (Taylor’s Version)]] |
+| 30 | Yesterday Once More | Carpenters | — | 分手·思念 · 情绪 · 恋爱 | Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/yesterday-once-more-carpenters|Yesterday Once More]] |
+| 31 | Sealed With a Kiss | The Lettermen | — | 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/sealed-with-a-kiss-the-lettermen|Sealed With a Kiss]] |
+| 32 | No Such Thing as a Broken Heart | Old Dominion | — | 情绪 · 生活态度 · 恋爱 | Country · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]] |
+| 33 | These Days | Rascal Flatts | — | 生活态度 · 恋爱 | Country · Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/these-days-rascal-flatts|These Days]] |
+| 34 | Because of You | Ne-Yo | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我 | Ballad · R&B | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/because-of-you-ne-yo|Because of You]] |
+| 35 | Shape of You | Ed Sheeran | — | 分手·思念 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/shape-of-you-ed-sheeran|Shape of You]] |
+| 36 | Because You Loved Me (Theme from "Up Close and Personal") | Céline Dion | — | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/because-you-loved-me-céline-dion|Because You Loved Me (Theme from "Up Close and Personal")]] |
+| 37 | Like I Can | Sam Smith | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/like-i-can-sam-smith|Like I Can]] |
+| 38 | Die With A Smile | Lady Gaga & Bruno Mars | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/die-with-a-smile-lady-gaga|Die With A Smile]] |
+| 39 | Bad Romance | Lady Gaga | — | 恋爱 · 自我 | Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/bad-romance-lady-gaga|Bad Romance]] |
+| 40 | Let It Go | Idina Menzel | — | 分手·思念 · 情绪 · 影视原声 · 自我 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/let-it-go-idina-menzel|Let It Go]] |
+| 41 | Lights (Single Version) | Ellie Goulding | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/lights-ellie-goulding|Lights (Single Version)]] |
+| 42 | Young Dumb & Broke | Khalid | — | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2010s | 精研 · KTV | [[learning-notes/english-song/young-dumb-broke-khalid|Young Dumb & Broke]] |
+| 43 | Glorious (feat. Skylar Grey) | Macklemore | — | 分手·思念 · 情绪 · 生活态度 · 派对·能量 · 自我 | Hip-hop · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/glorious-macklemore|Glorious (feat. Skylar Grey)]] |
+| 44 | Perfect | Ed Sheeran | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/perfect-ed-sheeran|Perfect]] |
+| 45 | Numb | LINKIN PARK | — | 分手·思念 · 情绪 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/numb-linkin-park|Numb]] |
+| 46 | Numb Little Bug | Em Beihold | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/numb-little-bug-em-beihold|Numb Little Bug]] |
+| 47 | Adore You | Harry Styles | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/adore-you-harry-styles|Adore You]] |
+| 48 | I Don't Think I'm Okay | Bazzi | — | 分手·思念 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
+| 49 | Someone You Loved | Lewis Capaldi | — | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
+| 50 | The Other | LAUV | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-other-lauv|The Other]] |
+| 51 | Head In The Clouds | Hayd | — | 分手·思念 · 生活态度 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
+| 52 | When You Look At Me | Sara Kays | — | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
+| 53 | That's Us | Anson Seabra | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
+| 54 | It's You | Ali Gatie | — | 分手·思念 · 情绪 · 恋爱 | Ballad · R&B | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/its-you-ali-gatie|It's You]] |
+| 55 | Counting Stars | OneRepublic | — | 情绪 · 生活态度 · 恋爱 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars]] |
+| 56 | I Hope You Never Fall in Love Again | KiD RAiN | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|I Hope You Never Fall in Love Again]] |
+| 57 | Messy | Lola Young | 精编 | 情绪 · 关系 · 自我 | Pop · pop rock | 中 | 2020s | KTV · 精研 | [[learning-notes/english-song/messy-lola-young|Messy]] |
+| 58 | Please Please Please | Sabrina Carpenter | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/please-please-please-sabrina-carpenter|Please Please Please]] |
+| 59 | Good Cry | Noah Cyrus | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/good-cry-noah-cyrus|Good Cry]] |
+| 60 | July (Apple Music Home Session) | Rhys Lewis | — | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/july-rhys-lewis|July (Apple Music Home Session)]] |
+| 61 | Dance Like No One’s Watching | Gabby Barrett | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Country · Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|Dance Like No One’s Watching]] |
+| 62 | Gentle Heart | Joshua Hyslop | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/gentle-heart-joshua-hyslop|Gentle Heart]] |
+| 63 | Take Control | Kodaline | — | 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-control-kodaline|Take Control]] |
+| 64 | Marry You | Bruno Mars | — | 分手·思念 · 恋爱 · 派对·能量 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/marry-you-bruno-mars|Marry You]] |
+| 65 | My Love (Radio Edit) | Westlife | — | 生活态度 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/my-love-westlife|My Love (Radio Edit)]] |
+| 66 | Dance Monkey | Tones And I | — | 情绪 · 生活态度 · 派对·能量 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/dance-monkey-tones-and-i|Dance Monkey]] |
+| 67 | Grace | Lewis Capaldi | — | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/grace-lewis-capaldi|Grace]] |
+| 68 | What You Won't Do for Love | Bobby Caldwell | — | 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-you-wont-do-for-love-bobby-caldwell|What You Won't Do for Love]] |
+| 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | — | 分手·思念 · 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/just-the-two-of-us-grover-washington|Just the Two of Us]] |
+| 70 | Fallen | Lola Amour | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/fallen-lola-amour|Fallen]] |
+| 71 | Julie. | Gallant | — | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2020s | 精研 | [[learning-notes/english-song/julie-gallant|Julie.]] |
+| 72 | Say It Again | Betty Wright | — | 情绪 · 生活态度 · 恋爱 | R&B | 中 | 经典 | 精研 · KTV | [[learning-notes/english-song/say-it-again-betty-wright|Say It Again]] |
+| 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | — | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 | Pop | 难 | 2000s | KTV · 发音 | [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo Version)]] |
+| 74 | Two Is Better Than One (feat. Taylor Swift) | BOYS LIKE GIRLS | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One (feat. Taylor Swift)]] |
+| 75 | Treasure | Bruno Mars | — | 恋爱 · 派对·能量 | Pop | 易 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/treasure-bruno-mars|Treasure]] |
+| 76 | You Belong With Me | Taylor Swift | — | 分手·思念 · 情绪 · 恋爱 · 自我 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me]] |
+| 77 | Take Me Back to London (feat. Stormzy) | Ed Sheeran | — | 分手·思念 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London (feat. Stormzy)]] |
+| 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | — | 生活态度 · 恋爱 · 派对·能量 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
+| 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
+| 80 | Vicious Girl | CALVO | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
+| 81 | I Got You (feat. Johnning) | Janji | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
+| 82 | Apologize | OneRepublic | — | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
+| 83 | One Man Band | Old Dominion | — | 恋爱 | Country · Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
+| 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | — | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/see-you-again-wiz-khalifa|See You Again (feat. Charlie Puth)]] |
+| 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|We Don’t Talk Anymore (feat. Selena Gomez)]] |
+| 86 | Sunny | 藤井风 | — | 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/sunny-藤井风|Sunny]] |
+| 87 | Fly Me To The Moon | 小野丽莎 | — | 生活态度 | Jazz | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|Fly Me To The Moon]] |
+| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | — | 生活态度 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|Fly Me to the Moon (feat. Count Basie and His Orchestra)]] |
+| 89 | Casablanca | Bertie Higgins | — | 情绪 · 恋爱 | Jazz · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/casablanca-bertie-higgins|Casablanca]] |
+| 90 | Big Big World | Emilia | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop · ballad | 易 | 经典 | KTV · 通勤 · 发音 | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
+| 91 | Wake Me Up When September Ends | Green Day | — | 分手·思念 · 派对·能量 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/wake-me-up-when-september-ends-green-day|Wake Me Up When September Ends]] |
+| 92 | I Have Nothing | Whitney Houston | — | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 · 自我 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-have-nothing-whitney-houston|I Have Nothing]] |
+| 93 | Everybody | Ingrid Michaelson | — | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-ingrid-michaelson|Everybody]] |
+| 94 | WHERE IS MY HUSBAND! | RAYE | — | 分手·思念 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/where-is-my-husband-raye|WHERE IS MY HUSBAND!]] |
+| 95 | California Dreamin' | The Beach Boys | — | 影视原声 · 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/california-dreamin-the-beach-boys|California Dreamin']] |
+| 96 | If You Leave | Orchestral Manoeuvres In the Dark | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/if-you-leave-orchestral-manoeuvres-in-the-dark|If You Leave]] |
+| 97 | Always Remember Us This Way | Lady Gaga | — | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-lady-gaga|Always Remember Us This Way]] |
+| 98 | Right Now (Na Na Na) | Aamir | — | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na)]] |
+| 99 | Just One Last Dance (feat. Natural) | Sarah Connor | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/just-one-last-dance-sarah-connor|Just One Last Dance (feat. Natural)]] |
+| 100 | Lonely | NANA | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 经典 | 发音 | [[learning-notes/english-song/lonely-nana|Lonely]] |
+| 101 | Deadman | 蔡徐坤 | — | 分手·思念 · 恋爱 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/deadman-蔡徐坤|Deadman]] |
+| 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | — | 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade (The Hooligans Remix)]] |
+| 103 | Levitating | Dua Lipa | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/levitating-dua-lipa|Levitating]] |
+| 104 | The Rose | 手嶌葵 | — | 生活态度 · 恋爱 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/the-rose-手嶌葵|The Rose]] |
+| 105 | WAP (feat. Megan Thee Stallion) | Cardi B | — | 生活态度 · 恋爱 · 派对·能量 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/wap-cardi-b|WAP (feat. Megan Thee Stallion)]] |
+| 106 | Anaconda | Nicki Minaj | — | 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/anaconda-nicki-minaj|Anaconda]] |
+| 107 | When I Was Your Man | Bruno Mars | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
+| 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
+| 109 | Walking Away | ChianoSky | — | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/walking-away-chianosky|Walking Away]] |
 
 ## 按主题 · Topic
 
@@ -208,7 +208,6 @@ aliases:
 | 恋爱 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/i-am-you-kim-taylor|笔记]] |
 | 恋爱 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/everybody-knows-sigrid|笔记]] |
 | 恋爱 | 5 | I Like Me Better | LAUV | [[learning-notes/english-song/i-like-me-better-lauv|笔记]] |
-| 恋爱 | 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/7-rings-ariana-grande|笔记]] |
 | 恋爱 | 7 | Better Man | Robbie Williams | [[learning-notes/english-song/better-man-robbie-williams|笔记]] |
 | 恋爱 | 8 | Hey Jude | The Beatles | [[learning-notes/english-song/hey-jude-the-beatles|笔记]] |
 | 恋爱 | 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|笔记]] |
@@ -216,6 +215,7 @@ aliases:
 | 恋爱 | 11 | Love the Way You Lie (feat. Rihanna) | Eminem | [[learning-notes/english-song/love-the-way-you-lie-eminem|笔记]] |
 | 恋爱 | 13 | I Will Follow You | Ricky Nelson | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|笔记]] |
 | 恋爱 | 14 | Take Me To Your Heart | Michael Learns to Rock | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|笔记]] |
+| 恋爱 | 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|笔记]] |
 | 恋爱 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 恋爱 | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | 恋爱 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
@@ -289,7 +289,6 @@ aliases:
 | 恋爱 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|笔记]] |
 | 恋爱 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|笔记]] |
 | 恋爱 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/walking-away-chianosky|笔记]] |
-| 情绪 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/relax-take-it-easy-mika|笔记]] |
 | 情绪 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/i-am-you-kim-taylor|笔记]] |
 | 情绪 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/cant-complain-relient-k|笔记]] |
 | 情绪 | 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/7-rings-ariana-grande|笔记]] |
@@ -625,11 +624,13 @@ aliases:
 | 易 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/cant-complain-relient-k|笔记]] |
 | 易 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/everybody-knows-sigrid|笔记]] |
 | 易 | 8 | Hey Jude | The Beatles | [[learning-notes/english-song/hey-jude-the-beatles|笔记]] |
+| 易 | 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|笔记]] |
 | 易 | 12 | This Is the Life | Amy Macdonald | [[learning-notes/english-song/this-is-the-life-amy-macdonald|笔记]] |
 | 易 | 13 | I Will Follow You | Ricky Nelson | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|笔记]] |
 | 易 | 14 | Take Me To Your Heart | Michael Learns to Rock | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|笔记]] |
 | 易 | 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|笔记]] |
 | 易 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
+| 易 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 易 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
 | 易 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | 易 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
@@ -668,11 +669,9 @@ aliases:
 | 中 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/i-am-you-kim-taylor|笔记]] |
 | 中 | 5 | I Like Me Better | LAUV | [[learning-notes/english-song/i-like-me-better-lauv|笔记]] |
 | 中 | 7 | Better Man | Robbie Williams | [[learning-notes/english-song/better-man-robbie-williams|笔记]] |
-| 中 | 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|笔记]] |
 | 中 | 16 | Black Sheep | Gin Wigmore | [[learning-notes/english-song/black-sheep-gin-wigmore|笔记]] |
 | 中 | 17 | bad guy | Billie Eilish | [[learning-notes/english-song/bad-guy-billie-eilish|笔记]] |
 | 中 | 18 | High on Life (feat. Bonn) | Martin Garrix | [[learning-notes/english-song/high-on-life-martin-garrix|笔记]] |
-| 中 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 中 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/against-all-odds-phil-collins|笔记]] |
 | 中 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/who-wants-to-live-forever-queen|笔记]] |
 | 中 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/the-old-man-菲尔科尔特|笔记]] |
@@ -1127,11 +1126,13 @@ aliases:
 | 通勤 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/cant-complain-relient-k|笔记]] |
 | 通勤 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/everybody-knows-sigrid|笔记]] |
 | 通勤 | 8 | Hey Jude | The Beatles | [[learning-notes/english-song/hey-jude-the-beatles|笔记]] |
+| 通勤 | 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|笔记]] |
 | 通勤 | 12 | This Is the Life | Amy Macdonald | [[learning-notes/english-song/this-is-the-life-amy-macdonald|笔记]] |
 | 通勤 | 13 | I Will Follow You | Ricky Nelson | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|笔记]] |
 | 通勤 | 14 | Take Me To Your Heart | Michael Learns to Rock | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|笔记]] |
 | 通勤 | 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|笔记]] |
 | 通勤 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|笔记]] |
+| 通勤 | 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|笔记]] |
 | 通勤 | 23 | Stand By Me | Seal | [[learning-notes/english-song/stand-by-me-seal|笔记]] |
 | 通勤 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/what-can-i-do-caron-nightingale|笔记]] |
 | 通勤 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/love-story-taylor-swift|笔记]] |
@@ -1169,16 +1170,36 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下笔记含更完整的英中对照与重点表达：
+以下 **22** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#20**，以及 #57、#90）：
 
-| 歌曲 | 歌手 | 笔记 |
-| --- | --- | --- |
-| **Messy** | Lola Young | [[learning-notes/english-song/messy-lola-young|Messy — Lola Young]] |
-| **Big Big World** | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World — Emilia]] |
+| # | 歌曲 | 歌手 | 笔记 |
+| --- | --- | --- | --- |
+| 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/relax-take-it-easy-mika|Relax, Take It Easy]] |
+| 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/i-am-you-kim-taylor|I Am You (Remastered 2021)]] |
+| 3 | Can't Complain | Relient K | [[learning-notes/english-song/cant-complain-relient-k|Can't Complain]] |
+| 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/everybody-knows-sigrid|Everybody Knows]] |
+| 5 | I Like Me Better | LAUV | [[learning-notes/english-song/i-like-me-better-lauv|I Like Me Better]] |
+| 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/7-rings-ariana-grande|7 rings]] |
+| 7 | Better Man | Robbie Williams | [[learning-notes/english-song/better-man-robbie-williams|Better Man]] |
+| 8 | Hey Jude | The Beatles | [[learning-notes/english-song/hey-jude-the-beatles|Hey Jude]] |
+| 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/sealed-with-a-kiss-dana-winner|Sealed With a Kiss]] |
+| 10 | Right Now (Na Na Na) | Akon | [[learning-notes/english-song/right-now-akon|Right Now (Na Na Na)]] |
+| 11 | Love the Way You Lie (feat. Rihanna) | Eminem | [[learning-notes/english-song/love-the-way-you-lie-eminem|Love the Way You Lie (feat. Rihanna)]] |
+| 12 | This Is the Life | Amy Macdonald | [[learning-notes/english-song/this-is-the-life-amy-macdonald|This Is the Life]] |
+| 13 | I Will Follow You | Ricky Nelson | [[learning-notes/english-song/i-will-follow-you-ricky-nelson|I Will Follow You]] |
+| 14 | Take Me To Your Heart | Michael Learns to Rock | [[learning-notes/english-song/take-me-to-your-heart-michael-learns-to-rock|Take Me To Your Heart]] |
+| 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/right-here-waiting-理查德马克斯|Right Here Waiting]] |
+| 16 | Black Sheep | Gin Wigmore | [[learning-notes/english-song/black-sheep-gin-wigmore|Black Sheep]] |
+| 17 | bad guy | Billie Eilish | [[learning-notes/english-song/bad-guy-billie-eilish|bad guy]] |
+| 18 | High on Life (feat. Bonn) | Martin Garrix | [[learning-notes/english-song/high-on-life-martin-garrix|High on Life (feat. Bonn)]] |
+| 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way]] |
+| 20 | Dreamer | Europe | [[learning-notes/english-song/dreamer-europe|Dreamer]] |
+| 57 | Messy | Lola Young | [[learning-notes/english-song/messy-lola-young|Messy]] |
+| 90 | Big Big World | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
 
 ## 歌词待补充
 
-8 首文档已建章，歌词仍待手动补充：
+7 首文档已建章，歌词仍待手动补充：
 
 | # | 歌名 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
