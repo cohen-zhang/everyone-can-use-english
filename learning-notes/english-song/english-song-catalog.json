@@ -1,0 +1,2654 @@
+[
+  {
+    "track": 1,
+    "title": "Relax, Take It Easy",
+    "artist": "MIKA",
+    "file": "relax-take-it-easy-mika.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 2,
+    "title": "I Am You (Remastered 2021)",
+    "artist": "Kim Taylor",
+    "file": "i-am-you-kim-taylor.md",
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 3,
+    "title": "Can't Complain",
+    "artist": "Relient K",
+    "file": "cant-complain-relient-k.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 自我",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 4,
+    "title": "Everybody Knows",
+    "artist": "Sigrid",
+    "file": "everybody-knows-sigrid.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/film-ost",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 影视原声 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 5,
+    "title": "I Like Me Better",
+    "artist": "LAUV",
+    "file": "i-like-me-better-lauv.md",
+    "topics": [
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 6,
+    "title": "7 rings",
+    "artist": "Ariana Grande",
+    "file": "7-rings-ariana-grande.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱 · 派对·能量 · 自我",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 7,
+    "title": "Better Man",
+    "artist": "Robbie Williams",
+    "file": "better-man-robbie-williams.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 8,
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "file": "hey-jude-the-beatles.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 9,
+    "title": "Sealed With a Kiss",
+    "artist": "Dana Winner",
+    "file": "sealed-with-a-kiss-dana-winner.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 10,
+    "title": "Right Now (Na Na Na)",
+    "artist": "Akon",
+    "file": "right-now-akon.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/r-and-b"
+    ],
+    "level": "level/hard",
+    "era": "era/2000s",
+    "uses": [
+      "use/ktv"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Hip-hop · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 11,
+    "title": "Love the Way You Lie (feat. Rihanna)",
+    "artist": "Eminem",
+    "file": "love-the-way-you-lie-eminem.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 12,
+    "title": "This Is the Life",
+    "artist": "Amy Macdonald",
+    "file": "this-is-the-life-amy-macdonald.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 13,
+    "title": "I Will Follow You",
+    "artist": "Ricky Nelson",
+    "file": "i-will-follow-you-ricky-nelson.md",
+    "topics": [
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 14,
+    "title": "Take Me To Your Heart",
+    "artist": "Michael Learns to Rock",
+    "file": "take-me-to-your-heart-michael-learns-to-rock.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 15,
+    "title": "Right Here Waiting",
+    "artist": "理查德·马克斯",
+    "file": "right-here-waiting-理查德马克斯.md",
+    "topics": [
+      "topic/breakup-loss"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 16,
+    "title": "Black Sheep",
+    "artist": "Gin Wigmore",
+    "file": "black-sheep-gin-wigmore.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 17,
+    "title": "bad guy",
+    "artist": "Billie Eilish",
+    "file": "bad-guy-billie-eilish.md",
+    "topics": [
+      "topic/emotions"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 18,
+    "title": "High on Life (feat. Bonn)",
+    "artist": "Martin Garrix",
+    "file": "high-on-life-martin-garrix.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 19,
+    "title": "Always Remember Us This Way",
+    "artist": "Brenda Mullen",
+    "file": "always-remember-us-this-way-brenda-mullen.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 20,
+    "title": "Dreamer",
+    "artist": "Europe",
+    "file": "dreamer-europe.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 21,
+    "title": "When Your Lips Are So Close",
+    "artist": "Gord Bamford",
+    "file": "when-your-lips-are-so-close-gord-bamford.md",
+    "topics": [
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/country",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱",
+    "genre_display": "Country · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 22,
+    "title": "Against All Odds (Take a Look at Me Now)",
+    "artist": "Phil Collins",
+    "file": "against-all-odds-phil-collins.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 23,
+    "title": "Stand By Me",
+    "artist": "Seal",
+    "file": "stand-by-me-seal.md",
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/r-and-b"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv"
+    ],
+    "topic_display": "情绪 · 恋爱",
+    "genre_display": "R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 24,
+    "title": "Who Wants To Live Forever",
+    "artist": "Queen",
+    "file": "who-wants-to-live-forever-queen.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 25,
+    "title": "The Old Man",
+    "artist": "菲尔・科尔特",
+    "file": "the-old-man-菲尔科尔特.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 26,
+    "title": "The Old Man",
+    "artist": "Yom & Aurélien Naffrichoux",
+    "file": "the-old-man-yom.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 27,
+    "title": "Promises Don't Come Easy",
+    "artist": "陈曦",
+    "file": "promises-dont-come-easy-陈曦.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 28,
+    "title": "What Can I Do (Promises)",
+    "artist": "Caron Nightingale",
+    "file": "what-can-i-do-caron-nightingale.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 29,
+    "title": "Love Story (Taylor’s Version)",
+    "artist": "Taylor Swift",
+    "file": "love-story-taylor-swift.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 30,
+    "title": "Yesterday Once More",
+    "artist": "Carpenters",
+    "file": "yesterday-once-more-carpenters.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 31,
+    "title": "Sealed With a Kiss",
+    "artist": "The Lettermen",
+    "file": "sealed-with-a-kiss-the-lettermen.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 32,
+    "title": "No Such Thing as a Broken Heart",
+    "artist": "Old Dominion",
+    "file": "no-such-thing-as-a-broken-heart-old-dominion.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/country",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "Country · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 33,
+    "title": "These Days",
+    "artist": "Rascal Flatts",
+    "file": "these-days-rascal-flatts.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/country",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Country · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 34,
+    "title": "Because of You",
+    "artist": "Ne-Yo",
+    "file": "because-of-you-ne-yo.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/r-and-b"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 派对·能量 · 自我",
+    "genre_display": "Ballad · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 35,
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "file": "shape-of-you-ed-sheeran.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱 · 派对·能量",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 36,
+    "title": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+    "artist": "Céline Dion",
+    "file": "because-you-loved-me-céline-dion.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 37,
+    "title": "Like I Can",
+    "artist": "Sam Smith",
+    "file": "like-i-can-sam-smith.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 38,
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga & Bruno Mars",
+    "file": "die-with-a-smile-lady-gaga.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 39,
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "file": "bad-romance-lady-gaga.md",
+    "topics": [
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 40,
+    "title": "Let It Go",
+    "artist": "Idina Menzel",
+    "file": "let-it-go-idina-menzel.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/film-ost",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 影视原声 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 41,
+    "title": "Lights (Single Version)",
+    "artist": "Ellie Goulding",
+    "file": "lights-ellie-goulding.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 42,
+    "title": "Young Dumb & Broke",
+    "artist": "Khalid",
+    "file": "young-dumb-broke-khalid.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/r-and-b"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 43,
+    "title": "Glorious (feat. Skylar Grey)",
+    "artist": "Macklemore",
+    "file": "glorious-macklemore.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/party-energy",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 派对·能量 · 自我",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 44,
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "file": "perfect-ed-sheeran.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 45,
+    "title": "Numb",
+    "artist": "LINKIN PARK",
+    "file": "numb-linkin-park.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 46,
+    "title": "Numb Little Bug",
+    "artist": "Em Beihold",
+    "file": "numb-little-bug-em-beihold.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 47,
+    "title": "Adore You",
+    "artist": "Harry Styles",
+    "file": "adore-you-harry-styles.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 48,
+    "title": "I Don't Think I'm Okay",
+    "artist": "Bazzi",
+    "file": "i-dont-think-im-okay-bazzi.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 49,
+    "title": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "file": "someone-you-loved-lewis-capaldi.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 50,
+    "title": "The Other",
+    "artist": "LAUV",
+    "file": "the-other-lauv.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 51,
+    "title": "Head In The Clouds",
+    "artist": "Hayd",
+    "file": "head-in-the-clouds-hayd.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 52,
+    "title": "When You Look At Me",
+    "artist": "Sara Kays",
+    "file": "when-you-look-at-me-sara-kays.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 53,
+    "title": "That's Us",
+    "artist": "Anson Seabra",
+    "file": "thats-us-anson-seabra.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 54,
+    "title": "It's You",
+    "artist": "Ali Gatie",
+    "file": "its-you-ali-gatie.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/r-and-b"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Ballad · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 55,
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "file": "counting-stars-onerepublic.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 56,
+    "title": "I Hope You Never Fall in Love Again",
+    "artist": "KiD RAiN",
+    "file": "i-hope-you-never-fall-in-love-again-kid-rain.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 57,
+    "title": "Messy",
+    "artist": "Lola Young",
+    "file": "messy-lola-young.md",
+    "topics": [
+      "topic/emotions",
+      "topic/relationships",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/ktv",
+      "use/deep-study"
+    ],
+    "topic_display": "情绪 · 关系 · 自我",
+    "genre_display": "Pop · pop rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 58,
+    "title": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "file": "please-please-please-sabrina-carpenter.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 59,
+    "title": "Good Cry",
+    "artist": "Noah Cyrus",
+    "file": "good-cry-noah-cyrus.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 60,
+    "title": "July (Apple Music Home Session)",
+    "artist": "Rhys Lewis",
+    "file": "july-rhys-lewis.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 61,
+    "title": "Dance Like No One’s Watching",
+    "artist": "Gabby Barrett",
+    "file": "dance-like-no-ones-watching-gabby-barrett.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/country",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Country · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 62,
+    "title": "Gentle Heart",
+    "artist": "Joshua Hyslop",
+    "file": "gentle-heart-joshua-hyslop.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 63,
+    "title": "Take Control",
+    "artist": "Kodaline",
+    "file": "take-control-kodaline.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 64,
+    "title": "Marry You",
+    "artist": "Bruno Mars",
+    "file": "marry-you-bruno-mars.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 65,
+    "title": "My Love (Radio Edit)",
+    "artist": "Westlife",
+    "file": "my-love-westlife.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 66,
+    "title": "Dance Monkey",
+    "artist": "Tones And I",
+    "file": "dance-monkey-tones-and-i.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 67,
+    "title": "Grace",
+    "artist": "Lewis Capaldi",
+    "file": "grace-lewis-capaldi.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 68,
+    "title": "What You Won't Do for Love",
+    "artist": "Bobby Caldwell",
+    "file": "what-you-wont-do-for-love-bobby-caldwell.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/jazz-standards",
+      "genre/r-and-b"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Jazz · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 69,
+    "title": "Just the Two of Us",
+    "artist": "Grover Washington, Jr. with Bill Withers",
+    "file": "just-the-two-of-us-grover-washington.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/jazz-standards",
+      "genre/r-and-b"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Jazz · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 70,
+    "title": "Fallen",
+    "artist": "Lola Amour",
+    "file": "fallen-lola-amour.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 71,
+    "title": "Julie.",
+    "artist": "Gallant",
+    "file": "julie-gallant.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/r-and-b"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 72,
+    "title": "Say It Again",
+    "artist": "Betty Wright",
+    "file": "say-it-again-betty-wright.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/r-and-b"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/ktv"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 73,
+    "title": "Way Back Into Love (Demo Version)",
+    "artist": "Hugh Grant & Drew Barrymore",
+    "file": "way-back-into-love-hugh-grant.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/film-ost",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2000s",
+    "uses": [
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 74,
+    "title": "Two Is Better Than One (feat. Taylor Swift)",
+    "artist": "BOYS LIKE GIRLS",
+    "file": "two-is-better-than-one-boys-like-girls.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 75,
+    "title": "Treasure",
+    "artist": "Bruno Mars",
+    "file": "treasure-bruno-mars.md",
+    "topics": [
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 76,
+    "title": "You Belong With Me",
+    "artist": "Taylor Swift",
+    "file": "you-belong-with-me-taylor-swift.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱 · 自我",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 77,
+    "title": "Take Me Back to London (feat. Stormzy)",
+    "artist": "Ed Sheeran",
+    "file": "take-me-back-to-london-ed-sheeran.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 78,
+    "title": "South of the Border (feat. Camila Cabello & Cardi B)",
+    "artist": "Ed Sheeran",
+    "file": "south-of-the-border-ed-sheeran.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱 · 派对·能量 · 自我",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 79,
+    "title": "Ain't My Fault (R3hab Remix)",
+    "artist": "Zara Larsson & R3HAB",
+    "file": "aint-my-fault-zara-larsson.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 80,
+    "title": "Vicious Girl",
+    "artist": "CALVO",
+    "file": "vicious-girl-calvo.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 81,
+    "title": "I Got You (feat. Johnning)",
+    "artist": "Janji",
+    "file": "i-got-you-janji.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 82,
+    "title": "Apologize",
+    "artist": "OneRepublic",
+    "file": "apologize-onerepublic.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 83,
+    "title": "One Man Band",
+    "artist": "Old Dominion",
+    "file": "one-man-band-old-dominion.md",
+    "topics": [
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/country",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱",
+    "genre_display": "Country · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 84,
+    "title": "See You Again (feat. Charlie Puth)",
+    "artist": "Wiz Khalifa",
+    "file": "see-you-again-wiz-khalifa.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/film-ost",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 影视原声 · 生活态度 · 恋爱",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 85,
+    "title": "We Don’t Talk Anymore (feat. Selena Gomez)",
+    "artist": "Charlie Puth",
+    "file": "we-dont-talk-anymore-charlie-puth.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 86,
+    "title": "Sunny",
+    "artist": "藤井风",
+    "file": "sunny-藤井风.md",
+    "topics": [
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 87,
+    "title": "Fly Me To The Moon",
+    "artist": "小野丽莎",
+    "file": "fly-me-to-the-moon-小野丽莎.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/jazz-standards"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Jazz",
+    "lyrics_missing": true
+  },
+  {
+    "track": 88,
+    "title": "Fly Me to the Moon (feat. Count Basie and His Orchestra)",
+    "artist": "弗兰克・辛纳特拉",
+    "file": "fly-me-to-the-moon-弗兰克辛纳特拉.md",
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/jazz-standards",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Ballad · Jazz · Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 89,
+    "title": "Casablanca",
+    "artist": "Bertie Higgins",
+    "file": "casablanca-bertie-higgins.md",
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/jazz-standards",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱",
+    "genre_display": "Jazz · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 90,
+    "title": "Big Big World",
+    "artist": "Emilia",
+    "file": "big-big-world-emilia.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/ballad"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/ktv",
+      "use/commute",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Pop · ballad",
+    "lyrics_missing": false
+  },
+  {
+    "track": 91,
+    "title": "Wake Me Up When September Ends",
+    "artist": "Green Day",
+    "file": "wake-me-up-when-september-ends-green-day.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 派对·能量",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 92,
+    "title": "I Have Nothing",
+    "artist": "Whitney Houston",
+    "file": "i-have-nothing-whitney-houston.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/film-ost",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/easy",
+    "era": "era/classic",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Ballad · Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 93,
+    "title": "Everybody",
+    "artist": "Ingrid Michaelson",
+    "file": "everybody-ingrid-michaelson.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 94,
+    "title": "WHERE IS MY HUSBAND!",
+    "artist": "RAYE",
+    "file": "where-is-my-husband-raye.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 95,
+    "title": "California Dreamin'",
+    "artist": "The Beach Boys",
+    "file": "california-dreamin-the-beach-boys.md",
+    "topics": [
+      "topic/film-ost",
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "影视原声 · 生活态度",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 96,
+    "title": "If You Leave",
+    "artist": "Orchestral Manoeuvres In the Dark",
+    "file": "if-you-leave-orchestral-manoeuvres-in-the-dark.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 97,
+    "title": "Always Remember Us This Way",
+    "artist": "Lady Gaga",
+    "file": "always-remember-us-this-way-lady-gaga.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/film-ost",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 影视原声 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 98,
+    "title": "Right Now (Na Na Na)",
+    "artist": "Aamir",
+    "file": "right-now-aamir.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 99,
+    "title": "Just One Last Dance (feat. Natural)",
+    "artist": "Sarah Connor",
+    "file": "just-one-last-dance-sarah-connor.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 100,
+    "title": "Lonely",
+    "artist": "NANA",
+    "file": "lonely-nana.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/classic",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 101,
+    "title": "Deadman",
+    "artist": "蔡徐坤",
+    "file": "deadman-蔡徐坤.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2020s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 恋爱",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 102,
+    "title": "Catch a Grenade (The Hooligans Remix)",
+    "artist": "Bruno Mars",
+    "file": "catch-a-grenade-bruno-mars.md",
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 103,
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "file": "levitating-dua-lipa.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 104,
+    "title": "The Rose",
+    "artist": "手嶌葵",
+    "file": "the-rose-手嶌葵.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/jazz-standards",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2000s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Ballad · Jazz · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 105,
+    "title": "WAP (feat. Megan Thee Stallion)",
+    "artist": "Cardi B",
+    "file": "wap-cardi-b.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2020s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 106,
+    "title": "Anaconda",
+    "artist": "Nicki Minaj",
+    "file": "anaconda-nicki-minaj.md",
+    "topics": [
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 恋爱",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 107,
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "file": "when-i-was-your-man-bruno-mars.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 生活态度 · 恋爱 · 派对·能量",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 108,
+    "title": "Somebody That I Used to Know (feat. Kimbra)",
+    "artist": "Gotye",
+    "file": "somebody-that-i-used-to-know-gotye.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/hard",
+    "era": "era/2010s",
+    "uses": [
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 109,
+    "title": "Walking Away",
+    "artist": "ChianoSky",
+    "file": "walking-away-chianosky.md",
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 恋爱",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  }
+]
