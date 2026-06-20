@@ -15,12 +15,11 @@ aliases:
 ---
 # Head In The Clouds — Hayd
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Head In The Clouds](https://music.apple.com/cn/song/head-in-the-clouds/1583125951)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** 友谊变淡、成长与放手 — [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*expiration dates on friends* 等句可对照非恋爱关系里的「渐行渐远」表达）· 同主题 #53 — [[learning-notes/english-song/thats-us-anson-seabra|That's Us — Anson Seabra]]（友情/爱情里「明知留不住仍怀念」的对照）。
 
 ---
 
@@ -28,11 +27,11 @@ aliases:
 
 **English**
 
-**Hayd** is a recording artist associated with **另类音乐** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Hayd** (born **Hayden Hubers**, 25 May 2001) is an American **singer-songwriter**, multi-instrumentalist, and producer from **West Michigan** (near Muskegon). He began playing piano as a child and started writing songs in high school, posting originals online from his family home. His warm, introspective **indie pop** style—often built around piano, acoustic guitar, and soft vocals—earned him a following on streaming platforms and TikTok after early singles like **"Vacant Eyes"** (2019). Signed to **Interscope Records**, he released the *Changes* EP (2021), which includes **"Head In The Clouds"**; he is the **cousin** of fellow Michigan artist **Quinn XCII** (they share an aunt) and has continued to write candidly about friendship, love, and growing up.
 
 **中文**
 
-**Hayd** 是与 **另类音乐** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Hayd**（本名 **Hayden Hubers**，2001 年 5 月 25 日生）是美国**创作型歌手**、多乐器演奏者与制作人，成长于**密歇根州西部**（Muskegon 一带）。自幼学钢琴，高中起写歌并在家里录制发布。他的 **独立流行** 风格温暖、内省，常以钢琴、木吉他和轻柔人声为底色；2019 年单曲 **"Vacant Eyes"** 后，在流媒体和 TikTok 上积累听众。签约 **Interscope Records** 后发行 2021 年 EP *Changes*（收录 **"Head In The Clouds"**）；与密歇根同乡 **Quinn XCII** 是**表亲**（同一位姨妈），歌词多写友谊、爱情与成长。
 
 ---
 
@@ -40,75 +39,74 @@ aliases:
 
 **English**
 
-**"Head In The Clouds"** by **Hayd** is a **另类音乐** track from *Changes - EP*. Themes in the lyrics often touch on **breakup loss, life attitude**, useful for spoken English and sing-along practice.
+**"Head In The Clouds"** was released on **17 September 2021** as part of the *Changes* EP. The song looks back on a close friendship that felt limitless when you were young—*half-full* optimism, big plans to *fly away*—only to realize people **drift apart** like planes in space. The central image **head in the clouds** means being unrealistic or dreamy; the bridge line *expiration dates on the friends you make* is a blunt, adult truth about how not every bond lasts forever. The track resonated widely on **TikTok** and streaming platforms for its gentle melody and relatable nostalgia; it has surpassed **80 million** Spotify streams and became Hayd's signature song from the *Changes* EP.
 
 **中文**
 
-**"Head In The Clouds"**（**Hayd**）收录于 *Changes - EP*，属 **另类音乐** 风格。歌词主题多与 **分手·思念 · 生活态度** 相关，适合跟唱与口语表达练习。
+**"Head In The Clouds"** 于 **2021 年 9 月 17 日**发行，收录于 EP *Changes*。歌回望一段年轻时觉得无所不能的亲密友谊——杯子总是**半满**、计划着**远走高飞**——后来却发现人像太空中的飞机一样**慢慢漂远**。**Head in the clouds** 指「想得太美、不接地气」；副歌前那句 *expiration dates on the friends you make*（你交的朋友也有「保质期」）则直白点出：并非每段关系都能走到最后。旋律轻柔、怀旧共鸣强，在 **TikTok** 与流媒体上传播很广；Spotify 播放量逾 **8000 万**，是 Hayd 在 *Changes* EP 上的代表作。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *Changes - EP* |
+| 专辑 | Album | *Changes - EP* (2021) |
 | 发行 | Release date | 2021-09-17 |
-| 曲风 | Genre | Pop |
+| 曲风 | Genre | Indie pop · bedroom pop |
 | 时长 | Length | 3:04 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #51 |
+| 词曲 | Songwriters | Hayden Hubers (Hayd), Micah Premnath |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-I miss the days when life was so simple  
-Felt like the glass was always half–full  
-Where did that go?  
-And every second with you was so special  
-Back when we didn't fear the unknowns  
-But that was long ago  
+I miss the days when life was so simple — 我想念日子还那么单纯的时候  
+Felt like the glass was always half-full — 总觉得杯子一直是半满的  
+Where did that go? — 那种感觉去哪了？  
+And every second with you was so special — 和你在一起的每一秒都那么特别  
+Back when we didn't fear the unknowns — 那时我们还不害怕未知  
+But that was long ago — 但那是很久以前的事了
 
-Who can say where the path will go?  
-Philosophers guess but they just don't know  
-Maybe that's why  
+### Pre-Chorus
 
-We had our head in the clouds  
-Thought we had it all figured out  
-Planning to fly away  
-To escape everything on the ground  
-But like a plane up in space  
-We slowly drifted away  
-And every plan that we made  
-And dream that we chased  
-Are just memories now  
-They're just memories now  
+Who can say where the path will go? — 谁能说前路会通向哪里？  
+Philosophers guess but they just don't know — 哲学家猜来猜去也说不清  
+Maybe that's why — 也许正因如此
 
-I'm not sure where everything went wrong  
-But I know that we landed where we both belong (where we both belong)  
-I just wish we weren't scared to say  
-That there's expiration dates on the friends you make  
-As hard as that may sound  
+### Chorus
 
-Who can say where the path will go?  
-Philosophers guess but they just don't know  
-Maybe that's why  
+We had our heads in the clouds — 我们曾把脑袋埋在云里（想得太美）  
+Thought we had it all figured out — 以为一切都想明白了  
+Planning to fly away — 计划着远走高飞  
+To escape everything on the ground — 逃离地上的一切  
+But like a plane up in space — 可就像太空中的飞机  
+We slowly drifted away — 我们慢慢漂远了  
+And every plan that we made — 我们定下的每个计划  
+And dream that we chased — 追逐的每个梦想  
+Are just memories now — 如今都只是回忆  
+They're just memories now — 都只是回忆了
 
-We had our head in the clouds  
-Thought we had it all figured out  
-Planning to fly away  
-To escape everything on the ground  
-But like a plane up in space  
-We slowly drifted away  
-And every plan that we made  
-And dream that we chased  
-Are just memories now  
-They're just memories now  
+### Verse 2
 
-Who can say where the path will go? (Where the path will go?)  
-Philosophers guess but they just don't know (but they just-)
+I'm not sure where everything went wrong — 我不确定一切是从哪里开始错的  
+But I know that we landed where we both belong (where we both belong) — 但我知道我们落在了各自该在的地方  
+I just wish we weren't scared to say — 我只希望我们当时不怕说出口  
+That there's expiration dates on the friends you make — 你交的朋友也有「保质期」  
+As hard as that may sound — 这话听起来也许很刺耳
 
----
+### Pre-Chorus（重复）
 
----
+Who can say where the path will go? — 谁能说前路会通向哪里？  
+Philosophers guess but they just don't know — 哲学家猜来猜去也说不清  
+Maybe that's why — 也许正因如此
+
+### Chorus（重复）
+
+*(同第一段副歌)*
+
+### Outro
+
+Who can say where the path will go? (Where the path will go?) — 谁能说前路会通向哪里？  
+Philosophers guess but they just don't know (but they just-) — 哲学家也说不清（渐渐淡出）
 
 ---
 
@@ -116,19 +114,23 @@ Philosophers guess but they just don't know (but they just-)
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *Maybe that's why* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *They're just memories now* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I just wish we weren't scared to say* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Back when we didn't fear the unknowns* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *I'm not sure where everything went wrong* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Philosophers guess but they just don't know* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *That there's expiration dates on the friends you make* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Philosophers guess but they just don't know (but they just-)* | 见歌词上下文 | 含缩略 / 否定口语 |
+| **half-full** | 半满的 | 常接 *glass half-full*：乐观心态 |
+| **fear the unknowns** | 害怕未知 | *unknown* 作名词复数 = 不确定的事 |
+| **head in the clouds** | 想得太美；不接地气 | 习语；歌题双关 |
+| **have it all figured out** | 把一切都想明白了 | *figure out* = 想清楚 |
+| **fly away** | 飞走；远走高飞 | 字面 + 比喻「逃离现状」 |
+| **drift away** | 慢慢漂远；渐行渐远 | 友谊、感情常用 |
+| **land where you belong** | 落在该在的地方 | *land* 此处 = 最终抵达 |
+| **expiration date** | 保质期；有效期限 | 食品标签词；歌里比喻友谊会过期 |
+| **as hard as that may sound** | 这话听起来也许刺耳 | 承认真话难听 |
+| **philosophers guess** | 哲学家也只能猜 | 强调没人能预知未来 |
+| **went wrong** | 出错；变味 | *Where did everything go wrong?* 很口语 |
+| **just memories now** | 如今只是回忆 | 收尾句，语气平静却伤感 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、发音
-- **年代标签：** 2020s
+- 副歌 *We had our heads in the clouds* 旋律上口，适合练 **had our** 的弱读与 *drifted away* 的连读。
+- 对比 **Verse 1**（单纯、半满）与 **Verse 2**（承认保质期），可用来练「怀旧 → 接受现实」的叙事转折。
+- *expiration dates on the friends you make* 是全歌最「成人」的一句，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里关于关系变淡的表达。

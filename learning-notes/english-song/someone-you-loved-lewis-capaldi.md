@@ -22,7 +22,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（分手、*pull the rug*、*let my guard down* 等表达可对照副歌）
+**相关：** 同歌手 #67 — [[learning-notes/english-song/grace-lewis-capaldi|Grace]]（同一专辑早期单曲，可对照 *salvation*、*your grace* 等救赎意象）；[[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（分手、*pull the rug*、*let my guard down* 等表达可对照副歌）
 
 ---
 

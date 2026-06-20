@@ -15,6 +15,7 @@ search:
 - [个人英文材料书（MOC）](personal-english-book/README.md)
 - [发音资料（索引）](pronunciation/README.md) — [完整教程](pronunciation/english-phonetics-textbook.md) · [句子节奏](pronunciation/sentence-rhythm-by-type.md) · [工程师音标速查](pronunciation/engineer-phonetics-reference.md) · [音节划分与重音](pronunciation/syllable-division-ipa-based.md) · [音标输入](pronunciation/phonetics-input-guide.md) · [电影随记](pronunciation/world-cinema-quick-notes.md)
 - [语法实验室（索引）](grammar-lab/README.md) — [英语语言单位分类](grammar-lab/english-language-taxonomy.md) · [语法体系总览](grammar-lab/english-grammar-system-overview-yingyutu.md)
+- [英文歌曲（索引）](english-song/README.md) — Apple Music 播放列表 109 首 · 歌词与重点表达
 
 左侧目录为全库页面树；站内搜索支持中英文关键词。
 

@@ -1282,7 +1282,7 @@
     "title": "Head In The Clouds",
     "artist": "Hayd",
     "file": "head-in-the-clouds-hayd.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1305,7 +1305,7 @@
     "title": "When You Look At Me",
     "artist": "Sara Kays",
     "file": "when-you-look-at-me-sara-kays.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1332,7 +1332,7 @@
     "title": "That's Us",
     "artist": "Anson Seabra",
     "file": "thats-us-anson-seabra.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1359,7 +1359,7 @@
     "title": "It's You",
     "artist": "Ali Gatie",
     "file": "its-you-ali-gatie.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1386,7 +1386,7 @@
     "title": "Counting Stars",
     "artist": "OneRepublic",
     "file": "counting-stars-onerepublic.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1412,7 +1412,7 @@
     "title": "I Hope You Never Fall in Love Again",
     "artist": "KiD RAiN",
     "file": "i-hope-you-never-fall-in-love-again-kid-rain.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1461,7 +1461,7 @@
     "title": "Please Please Please",
     "artist": "Sabrina Carpenter",
     "file": "please-please-please-sabrina-carpenter.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1486,11 +1486,10 @@
     "title": "Good Cry",
     "artist": "Noah Cyrus",
     "file": "good-cry-noah-cyrus.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
-      "topic/life-attitude",
       "topic/love-romance",
       "topic/self-identity"
     ],
@@ -1506,7 +1505,7 @@
       "use/ktv",
       "use/pronunciation"
     ],
-    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我",
+    "topic_display": "分手·思念 · 情绪 · 恋爱 · 自我",
     "genre_display": "Ballad · Pop",
     "lyrics_missing": false
   },
@@ -1515,7 +1514,7 @@
     "title": "July (Apple Music Home Session)",
     "artist": "Rhys Lewis",
     "file": "july-rhys-lewis.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1540,7 +1539,7 @@
     "title": "Dance Like No One’s Watching",
     "artist": "Gabby Barrett",
     "file": "dance-like-no-ones-watching-gabby-barrett.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1567,7 +1566,7 @@
     "title": "Gentle Heart",
     "artist": "Joshua Hyslop",
     "file": "gentle-heart-joshua-hyslop.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1590,8 +1589,9 @@
     "title": "Take Control",
     "artist": "Kodaline",
     "file": "take-control-kodaline.md",
-    "curated": false,
+    "curated": true,
     "topics": [
+      "topic/breakup-loss",
       "topic/life-attitude",
       "topic/love-romance"
     ],
@@ -1604,7 +1604,7 @@
       "use/deep-study",
       "use/pronunciation"
     ],
-    "topic_display": "生活态度 · 恋爱",
+    "topic_display": "分手·思念 · 生活态度 · 恋爱",
     "genre_display": "Pop",
     "lyrics_missing": false
   },
@@ -1613,7 +1613,7 @@
     "title": "Marry You",
     "artist": "Bruno Mars",
     "file": "marry-you-bruno-mars.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance",
@@ -1639,10 +1639,11 @@
     "title": "My Love (Radio Edit)",
     "artist": "Westlife",
     "file": "my-love-westlife.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
-      "topic/love-romance"
+      "topic/love-romance",
+      "topic/self-identity"
     ],
     "genres": [
       "genre/pop"
@@ -1654,7 +1655,7 @@
       "use/ktv",
       "use/pronunciation"
     ],
-    "topic_display": "生活态度 · 恋爱",
+    "topic_display": "生活态度 · 恋爱 · 自我",
     "genre_display": "Pop",
     "lyrics_missing": false
   },
@@ -1663,7 +1664,7 @@
     "title": "Dance Monkey",
     "artist": "Tones And I",
     "file": "dance-monkey-tones-and-i.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1687,7 +1688,7 @@
     "title": "Grace",
     "artist": "Lewis Capaldi",
     "file": "grace-lewis-capaldi.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1713,7 +1714,7 @@
     "title": "What You Won't Do for Love",
     "artist": "Bobby Caldwell",
     "file": "what-you-wont-do-for-love-bobby-caldwell.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1739,7 +1740,7 @@
     "title": "Just the Two of Us",
     "artist": "Grover Washington, Jr. with Bill Withers",
     "file": "just-the-two-of-us-grover-washington.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1766,7 +1767,7 @@
     "title": "Fallen",
     "artist": "Lola Amour",
     "file": "fallen-lola-amour.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance"
@@ -1789,7 +1790,7 @@
     "title": "Julie.",
     "artist": "Gallant",
     "file": "julie-gallant.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1812,7 +1813,7 @@
     "title": "Say It Again",
     "artist": "Betty Wright",
     "file": "say-it-again-betty-wright.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/emotions",
       "topic/life-attitude",
@@ -1836,7 +1837,7 @@
     "title": "Way Back Into Love (Demo Version)",
     "artist": "Hugh Grant & Drew Barrymore",
     "file": "way-back-into-love-hugh-grant.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1862,7 +1863,7 @@
     "title": "Two Is Better Than One (feat. Taylor Swift)",
     "artist": "BOYS LIKE GIRLS",
     "file": "two-is-better-than-one-boys-like-girls.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude",
@@ -1889,7 +1890,7 @@
     "title": "Treasure",
     "artist": "Bruno Mars",
     "file": "treasure-bruno-mars.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/love-romance",
       "topic/party-energy"
@@ -1913,7 +1914,7 @@
     "title": "You Belong With Me",
     "artist": "Taylor Swift",
     "file": "you-belong-with-me-taylor-swift.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/emotions",
@@ -1941,7 +1942,7 @@
     "title": "Take Me Back to London (feat. Stormzy)",
     "artist": "Ed Sheeran",
     "file": "take-me-back-to-london-ed-sheeran.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/life-attitude"
@@ -1964,7 +1965,7 @@
     "title": "South of the Border (feat. Camila Cabello & Cardi B)",
     "artist": "Ed Sheeran",
     "file": "south-of-the-border-ed-sheeran.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/life-attitude",
       "topic/love-romance",
@@ -1990,7 +1991,7 @@
     "title": "Ain't My Fault (R3hab Remix)",
     "artist": "Zara Larsson & R3HAB",
     "file": "aint-my-fault-zara-larsson.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"
@@ -2013,7 +2014,7 @@
     "title": "Vicious Girl",
     "artist": "CALVO",
     "file": "vicious-girl-calvo.md",
-    "curated": false,
+    "curated": true,
     "topics": [
       "topic/breakup-loss",
       "topic/love-romance"

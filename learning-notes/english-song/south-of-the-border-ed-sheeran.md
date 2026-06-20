@@ -18,24 +18,31 @@ aliases:
 ---
 # South of the Border (feat. Camila Cabello & Cardi B) — Ed Sheeran
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [South of the Border (feat. Camila Cabello & Cardi B)](https://music.apple.com/cn/song/south-of-the-border-feat-camila-cabello-cardi-b/1471580173)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*te amo, mami*、一夜激情式表达可对照副歌）；派对能量 — [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]；同专辑英伦归乡曲 [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London]]。
 
 ---
 
-## 歌手简介 · About Ed Sheeran
+## 歌手简介 · About the Artists
 
 **English**
 
-**Ed Sheeran** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Ed Sheeran** (born 1991, England) is a global **pop singer-songwriter** known for acoustic storytelling and massive crossover hits (*Shape of You*, *Perfect*). On *No. 6 Collaborations Project* he paired with artists across genres; here he sets a **Latin-flavoured** love fantasy in English.
+
+**Camila Cabello** (born 3 March 1997, Havana, Cuba) is a **Cuban-American singer**. She rose with Fifth Harmony, then broke out solo with **"Havana"** (2017). Her verse adds **Spanish** flirtation and dance-floor energy—fitting her Latin roots and bilingual fan base.
+
+**Cardi B** (Belcalis Almanzar, born 11 October 1992, New York) is an American **rapper** of Dominican and Trinidadian heritage. She went from Instagram personality to **Grammy-winning** star (*Invasion of Privacy*, 2018). Her feature brings **luxury imagery**, humour, and a sharp closing verse about Buenos Aires nights.
 
 **中文**
 
-**Ed Sheeran** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Ed Sheeran**（1991 年生，英格兰）是全球**流行创作歌手**，以木吉他叙事和跨界热单著称（*Shape of You*、*Perfect*）。在 *No. 6 Collaborations Project* 里他与各流派艺人合作；本曲用英文铺陈**拉丁风情**恋爱幻想。
+
+**Camila Cabello**（1997 年 3 月 3 生于古巴 Havana）是**古巴裔美国歌手**。随 Fifth Harmony 出道，后以 **"Havana"**（2017）单飞爆红。她的段落加入**西班牙语**调情与舞池能量，呼应拉丁背景与双语听众。
+
+**Cardi B**（Belcalis Almanzar，1992 年 10 月 11 生于纽约）是多米尼加与特立尼达裔美国**说唱歌手**。从 Instagram 红人做到**格莱美**级明星（*Invasion of Privacy*，2018）。本曲 feature 带来**奢华意象**、幽默感和关于布宜诺斯艾利斯之夜的收尾段。
 
 ---
 
@@ -43,98 +50,122 @@ aliases:
 
 **English**
 
-**"South of the Border (feat. Camila Cabello & Cardi B)"** by **Ed Sheeran** is a **国际流行** track from *No.6 Collaborations Project*. Themes in the lyrics often touch on **life attitude, love romance, party energy, self identity**, useful for spoken English and sing-along practice.
+**"South of the Border"** was released on **12 July 2019** from *No. 6 Collaborations Project*. The title plays on the idiom **"south of the border"**—often evoking Latin America, warmth, escape, and romance away from everyday life. Ed opens with bar-side attraction; Camila answers in **English and Spanish** (*Ven para acá, quiero bailar*); Cardi closes with diamonds and sunrise in **Buenos Aires**. The chorus *Come south of the border with me* is a invitation to **let go and follow desire**—*jump in that water, be free*. The track blends **pop, Latin pop, and reggaeton** touches; it peaked at **No. 1** in Argentina and charted worldwide.
 
 **中文**
 
-**"South of the Border (feat. Camila Cabello & Cardi B)"**（**Ed Sheeran**）收录于 *No.6 Collaborations Project*，属 **国际流行** 风格。歌词主题多与 **生活态度 · 恋爱 · 派对·能量 · 自我** 相关，适合跟唱与口语表达练习。
+**"South of the Border"** 于 **2019 年 7 月 12 日**发行，收录于 *No. 6 Collaborations Project*。歌名借用习语 **south of the border**——常联想拉丁美洲、温暖、逃离日常与浪漫。Ed 以酒吧邂逅开场；Camila 用**英西双语**回应（*Ven para acá, quiero bailar*）；Cardi 以布宜诺斯艾利斯的钻石与日出收尾。副歌 *Come south of the border with me* 是「放下顾虑、跟随欲望」的邀请——*jump in that water, be free*。曲风融合 **流行、拉丁流行与 reggaeton** 元素；在阿根廷单曲榜**夺冠**，全球榜单均有表现。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *No.6 Collaborations Project* |
+| 专辑 | Album | *No. 6 Collaborations Project* (2019) |
 | 发行 | Release date | 2019-07-12 |
-| 曲风 | Genre | Pop |
+| 曲风 | Genre | Pop · Latin pop · reggaeton |
 | 时长 | Length | 3:24 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #78 |
+| 词曲 | Songwriters | Ed Sheeran, Fred Gibson, Johnny McDaid, Camila Cabello, Cardi B, Piers Aggett, Amir Amor |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+> 含西班牙语及 Cardi B 段露骨/粗口意象，为歌曲原词；学习时注意语境与场合。
 
-She got the, mm, brown eyes, caramel thighs  
-Long hair, no wedding ring, hey  
-I saw you lookin' from across the way  
-And now I really wanna know your name  
-She got the, mm, white dress, but when she's wearin' less  
-Man, you know that she drives me crazy  
-The, mm, brown eyes, beautiful smile  
-You know I love watching you do your thing  
+### Verse 1（Ed）
 
-I love her hips, curves, lips say the words  
-"Te amo, mami, ah, te amo, mami"  
-I kiss her, this love is like a dream  
+She got the, mm, brown eyes, caramel thighs — 她有，嗯，棕眸、焦糖色的大腿  
+Long hair, no wedding ring, hey — 长发，没婚戒，嘿  
+I saw you lookin' from across the way — 我看见你在对面望过来  
+And now I really wanna know your name — 现在我真想知道你叫什么  
+She got the, mm, white dress, but when she's wearin' less — 她有，嗯，白裙子，但穿得更少时  
+Man, you know that she drives me crazy — 兄弟，你知道她让我发疯  
+The, mm, brown eyes, beautiful smile — 那，嗯，棕眸、美丽的笑  
+You know I love watching you do your thing — 你知道我爱看你做你的事
 
-So join me in this bed that I'm in  
-Push up on me and sweat, darling  
-So I'm gonna put my time in  
-I won't stop until the angels sing  
-Jump in that water, be free  
-Come south of the border with me  
-Jump in that water, be free  
-Come south of the border with me  
+### Pre-Chorus & Chorus
 
-He got the, mm, green eyes, givin' me signs  
-That he really wants to know my name, hey  
-I saw you lookin' from across the way  
-And suddenly, I'm glad I came, ay!  
-Ven para acá, quiero bailar, toma mi mano  
-Quiero sentir tu cuerpo en mí, estás temblando  
-Mm, green eyes, takin' your time  
-Now we know we'll never be the same  
+I love her hips, curves, lips say the words — 我爱她的臀、曲线，唇说着  
+"Te amo, mami, ah, te amo, mami" — 「我爱你，宝贝，啊，我爱你，宝贝」  
+I kiss her, this love is like a dream — 我吻她，这份爱像梦  
 
-I love his lips 'cause he says the words  
-"Te amo, mami, ah, te amo, mami"  
-Don't wake up, this love is like a dream  
+So join me in this bed that I'm in — 所以来我这张床上  
+Push up on me and sweat, darling — 贴上来，流汗，亲爱的  
+So I'm gonna put my time in — 所以我要投入时间  
+I won't stop until the angels sing — 直到天使歌唱我才停  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来
 
-So join me in this bed that I'm in  
-Push up on me and sweat, darling  
-So I'm gonna put my time in (time in)  
-I won't stop until the angels sing  
-Jump in that water, be free  
-Come south of the border with me  
-Jump in that water, be free  
-Come south of the border with me  
+### Verse 2（Camila）
 
-Flawless diamonds  
-In a green field near Buenos Aires  
-Until the sun's rising  
-We won't stop until the angels sing  
-Jump in that water, be free  
-Come south of the border with me  
-Jump in that water, be free  
-Come south of the border with me (nah nah)  
+He got the, mm, green eyes, givin' me signs — 他有，嗯，绿眸，给我信号  
+That he really wants to know my name, hey — 说他真想知道我叫什么，嘿  
+I saw you lookin' from across the way — 我看见你在对面望过来  
+And suddenly, I'm glad I came, ay! — 突然我很高兴我来了，哎！  
+Ven para acá, quiero bailar, toma mi mano — 到这边来，我想跳舞，握我的手  
+Quiero sentir tu cuerpo en mí, estás temblando — 想感受你身体贴着我，你在发抖  
+Mm, green eyes, takin' your time — 嗯，绿眸，慢慢来  
+Now we know we'll never be the same — 现在我们知道再不会一样了  
 
-So join me in this bed (this bed) that I'm in (that I'm in)  
-Push up on me and sweat, darling (oh, oh)  
-So I'm gonna put my time in  
-I won't stop until the angels sing (na, na, na)  
+I love his lips 'cause he says the words — 我爱他的唇，因为他说  
+"Te amo, mami, ah, te amo, mami" — 「我爱你，宝贝，啊，我爱你，宝贝」  
+Don't wake up, this love is like a dream — 别醒来，这份爱像梦  
 
-Jump in that water, be free  
-Come south of the border with me  
-Come south of the border, border  
-Come south of the border with me  
-Come south of the border, border  
-Come south of the border with me  
-Jump in that water, be free  
-Come south of the border with me  
-Jump in that water, be free  
-Come south of the border with me
+### Chorus（Camila 段后）
 
----
+So join me in this bed that I'm in — 所以来我这张床上  
+Push up on me and sweat, darling — 贴上来，流汗，亲爱的  
+So I'm gonna put my time in — 所以我要投入时间  
+I won't stop until the angels sing — 直到天使歌唱我才停  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来
 
----
+### Bridge（Cardi B · 过渡）
+
+Flawless diamonds — 完美无瑕的钻石  
+In a green field near Buenos Aires — 在布宜诺斯艾利斯附近的绿野  
+Until the sun's rising — 直到日出  
+
+### Verse 3（Cardi B）
+
+Bardi, uh — 宝贝，呃  
+You never live 'til you risk your life (Life) — 不冒险就谈不上活过（活）  
+You wanna shine, you gotta get more ice (Ice, ice, oh) — 想闪耀，就得加冰（钻/冰，哦）  
+Am I your lover or I'm just your vice? (Woo, yeah, yeah) — 我是爱人还是你的瘾？（呜，对，对）  
+A little crazy, but I'm just your type (Okurrr) — 有点疯，但正是你的菜（Okurrr）  
+You want the lips and the curves, need the whips and the furs — 你要唇与曲线，还要鞭子与皮草  
+And the diamonds I prefer, in my closet, his and hers, ayy — 钻石我挑最好的，衣帽间 his and hers，哎  
+He want the lil' mamacita, margarita (Margarita) — 他要小辣妹、margarita（Margarita）  
+I think that Ed got a lil' jungle fever, ayy (Woo!) — 我觉得 Ed 有点 jungle fever，哎（呜！）  
+You are more than (You are more than) — 你不止如此（你不止如此）  
+Something borin' (Something borin') — 别那么无聊（别那么无聊）  
+Legs open, tongue out, Michael Jordan, uh (Uh) — 腿张开、吐舌头，像 Michael Jordan，呃（呃）  
+Go explore in (Woo, woo), somethin' foreign (Skrrt, skrrt) — 去探险（呜，呜），来点异域的（Skrrt，Skrrt）  
+Bust it up, a rain forest, it be pourin', yeah — 猛来，像雨林，大雨倾盆，对  
+Kiss me like you need me, rub me like a genie — 像需要我那样吻我，像擦神灯那样揉我  
+Pull up to my spot in Lamborghini — 开到我那辆 Lamborghini 旁  
+'Cause you gotta see me, never leave me (Never leave me) — 你得见我，别离开我（别离开我）  
+You got a girl that could finally do it all — 你有个女孩终于啥都能干  
+Drop a album, drop a baby, but I never drop the ball, uh — 发专辑、生娃，但我从不掉链子，呃  
+
+We won't stop until the angels sing — 直到天使歌唱我们不停  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来  
+
+### Outro（副歌重复）
+
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来  
+Come south of the border, border (hey) — 到边境以南来，以南（嘿）  
+Come south of the border with me — 跟我到边境以南来  
+Come south of the border, border — 到边境以南来，以南  
+Come south of the border with me — 跟我到边境以南来  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来  
+Jump in that water, be free — 跳进那水里，自由吧  
+Come south of the border with me — 跟我到边境以南来
 
 ---
 
@@ -142,20 +173,40 @@ Come south of the border with me
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *Now we know we'll never be the same* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I love his lips 'cause he says the words* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Don't wake up, this love is like a dream* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Until the sun's rising* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *So I'm gonna put my time in* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Mm, green eyes, takin' your time* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *So join me in this bed that I'm in* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I won't stop until the angels sing* | 见歌词上下文 | 含缩略 / 否定口语 |
+| **south of the border** | 边境以南 | 常指墨西哥/拉丁美洲；歌里喻「逃离日常的热带浪漫」 |
+| **drives me crazy** | 让我发疯 | 表强烈吸引；比 *I like you* 强得多 |
+| **do your thing** | 做你的事；做你自己 | 欣赏对方自然状态；很口语 |
+| **te amo, mami** | 我爱你，宝贝（西语） | *mami* 亲昵称呼；派对/情歌常用 |
+| **this love is like a dream** | 这份爱像梦 | 一夜激情或热恋常用比喻 |
+| **put my time in** | 投入时间（与精力） | 暗示认真、卖力；此处带亲密意味 |
+| **until the angels sing** | 直到天使歌唱 | 夸张说法 = 很久、很投入、不停止 |
+| **jump in that water, be free** | 跳进水里，自由吧 | 副歌核心意象：放开、冒险、跟随欲望 |
+| **Ven para acá** | 到这边来（西语） | Camila 段；*para acá* = over here |
+| **quiero bailar** | 我想跳舞（西语） | 舞池邀约 |
+| **toma mi mano** | 握我的手（西语） | 字面握手；舞伴语境 |
+| **takin' your time** | 慢慢来 | 享受过程，不着急 |
+| **we'll never be the same** | 我们再不会一样了 | 一夜或一见钟情后的经典句 |
+| **Don't wake up** | 别醒来 | 希望梦/这一刻不要结束 |
+| **estás temblando** | 你在发抖（西语） | Camila 段；身体反应 |
+| **jungle fever** | 对异族/异域的迷恋 | Cardi 调侃 Ed 的拉丁风合作；历史上有种族刻板含义，注意语境 |
+| **his and hers** | 他的和她的（各一套） | 指情侣共用衣帽间、奢华生活 |
+| **drop the ball** | 掉链子；搞砸 | Cardi 双关：发专辑、生娃都不误事 |
+| **risk your life** | 拿命冒险 | Cardi 开场；与副歌「跳进水里」呼应 |
+| **get more ice** | 加「冰」 | 双关：钻石（ice）与派对意象 |
+| **vice** | 瘾；恶习 | *lover or vice* = 爱人还是瘾 |
+| **Margarita** | 玛格丽特鸡尾酒 | 与 *mamacita* 拉丁派对意象一组 |
+| **You are more than / Something borin'** | 你不止如此 / 别那么无聊 | Cardi 段；拒绝平淡、要更刺激 |
+| **Legs open, tongue out** | 腿张开、吐舌头 | Cardi 比喻 Michael Jordan 经典动作 |
+| **Go explore in** | 去探险 | Cardi ad-lib；与 *somethin' foreign* 连用 |
+| **Michael Jordan** | 迈克尔·乔丹 | 比喻「腿张开、吐舌头」的 iconic 动作 |
+| **Lamborghini** | 兰博基尼 | Cardi 段奢华意象；*my spot in Lamborghini* |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *South of the Border* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *Come south of the border with me* 重复多、旋律好记，适合 **KTV 跟唱**；先练清 *jump in that water* 的重音。
+- Camila 段含**西班牙语**，可先背 *Ven para acá, quiero bailar, toma mi mano* 四句再听整段。
+- Ed 与 Camila **交替视角**（他看她 / 她看他），可用来练「酒吧搭讪 → 回应」的对话句型；详见 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。
+- Cardi 段含**露骨双关与奢华 brag**，建议先读「重点表达」再回听 Verse 3；若只想练副歌，可先掌握 Chorus。
+- 同专辑英伦风对比：[[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London]]（#77）。

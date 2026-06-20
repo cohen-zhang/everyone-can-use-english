@@ -19,12 +19,11 @@ aliases:
 ---
 # It's You — Ali Gatie
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [It's You](https://music.apple.com/cn/song/its-you/1649475019)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** 受过伤仍想再爱 — [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*delicate*、*been broken before* 等可对照脆弱与信任主题）· 同主题 #52 — [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me — Sara Kays]]（*spin someone around* ↔ *don't break my heart* 两种恋爱不安表达）。
 
 ---
 
@@ -32,11 +31,11 @@ aliases:
 
 **English**
 
-**Ali Gatie** is a recording artist associated with **R&B/灵魂乐** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Ali Gatie** (born 30 May 1997) is an **Iraqi-Canadian** **singer-songwriter** born in Baghdad and raised in **Waterloo, Ontario**. He began making music in his bedroom and posted clips online; **"It's You"** went viral on YouTube and TikTok in 2019, earning millions of streams and signing with **Warner Records** under an exclusive license from his imprint **LISN**. Gatie's sound blends **R&B**, **pop**, and **hip-hop** influences with soft, vulnerable vocals. His lyrics often address heartbreak, loyalty, and the fear of being hurt again. He has released projects including *WHO HURT YOU?* and collaborated with artists across the pop and R&B space.
 
 **中文**
 
-**Ali Gatie** 是与 **R&B/灵魂乐** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Ali Gatie**（1997 年 5 月 30 日生）是**伊拉克裔加拿大** **创作型歌手**，出生于巴格达，在**安大略省滑铁卢**长大。他在卧室里做音乐并发布片段上网；**"It's You"** 于 2019 年在 YouTube 和 TikTok 爆红，播放量达数百万，并透过自有厂牌 **LISN** 独家授权签约 **Warner Records**。风格融合 **R&B**、**流行** 与 **嘻哈** 元素，声线柔软、易碎。歌词常写心碎、忠诚、以及害怕再次受伤。已发行 *WHO HURT YOU?* 等作品，并与流行 / R&B 艺人合作。
 
 ---
 
@@ -44,93 +43,94 @@ aliases:
 
 **English**
 
-**"It's You"** by **Ali Gatie** is a **R&B/灵魂乐** track from *WHO HURT YOU? (Deluxe)*. Themes in the lyrics often touch on **breakup loss, emotions, love romance**, useful for spoken English and sing-along practice.
+**"It's You"** was released on **14 June 2019** and became Gatie's breakthrough single before appearing on the deluxe edition of *WHO HURT YOU?* (2022). Over a minimal **lo-fi** beat, he tells a new love: you're the only one—but **please don't break my heart**; he's **been broken before** and is **delicate** now. The hook *It's you, it's always you* is simple and memorable; the bridge admits a messy **past** (*my past speaks for itself*) and begs her not to let **history repeat itself**. The song debuted at **No. 97** on the **Billboard Hot 100** and peaked at **No. 70**, his first Hot 100 entry; it topped charts in countries including **Malaysia** and reached the top 15 in **Australia** and **New Zealand**. With over **1.3 billion** Spotify streams, it remains Gatie's signature track for sing-along and pronunciation practice.
 
 **中文**
 
-**"It's You"**（**Ali Gatie**）收录于 *WHO HURT YOU? (Deluxe)*，属 **R&B/灵魂乐** 风格。歌词主题多与 **分手·思念 · 情绪 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"It's You"** 于 **2019 年 6 月 14 日**发行，是 Gatie 的成名单曲，后收录于 *WHO HURT YOU?* 豪华版（2022）。在极简 **lo-fi** 节拍上，他对新恋人说：只有你——但**请别伤我的心**；他**以前心碎过**，现在很**脆弱**。*It's you, it's always you* 重复上口；桥段坦白**过往**一团糟（*my past speaks for itself*），恳求别让**历史重演**。单曲在 **Billboard Hot 100** 首进 **第 97** 位、最高 **第 70** 位，在**马来西亚**等国夺冠，**澳大利亚**、**新西兰**亦进前 15；Spotify 播放量逾 **13 亿**，至今仍是跟唱与发音练习的代表作。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
-| 专辑 | Album | *WHO HURT YOU? (Deluxe)* |
+| 专辑 | Album | *WHO HURT YOU? (Deluxe)* (2022；单曲首发 2019) |
 | 发行 | Release date | 2019-06-14 |
-| 曲风 | Genre | Ballad · R&B |
+| 曲风 | Genre | R&B · pop · bedroom pop |
 | 时长 | Length | 3:32 |
-| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #54 |
+| 词曲 | Songwriters | Ali Gatie, Happy Perez, Pop Wansel, Sam Wish, Adriano, Nicholas Adam Schiavone |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Chorus
 
-It's you, it's always you  
-If I'm ever gonna fall in love  
-I know it's gon' be you  
-It's you, it's always you  
-Met a lot of people, but nobody feels like you  
+It's you, it's always you — 是你，一直都是你  
+If I'm ever gonna fall in love — 若我终将坠入爱河  
+I know it's gon' be you — 我知道那个人只会是你  
+It's you, it's always you — 是你，一直都是你  
+Met a lot of people, but nobody feels like you — 我见过很多人，但没人像你
 
-So, please don't break my heart  
-Don't tear me apart  
-I know how it starts  
-Trust me, I've been broken before  
-Don't break me again  
-I am delicate  
-Please, don't break my heart  
-Trust me, I've been broken before  
+### Verse 1
 
-I've been broken, yeah  
-I know how it feels  
-To be open  
-And then find out your love isn't real  
-I'm still hurting, yeah  
-I'm hurting inside  
-I'm so scared to fall in love, but if it's you, then I'll try  
+So, please don't break my heart — 所以，请别伤我的心  
+Don't tear me apart — 别把我撕碎  
+I know how it starts — 我知道是怎么开始的  
+Trust me, I've been broken before — 相信我，我以前心碎过  
+Don't break me again — 别再伤我一次  
+I am delicate — 我很脆弱  
+Please, don't break my heart — 请别伤我的心  
+Trust me, I've been broken before — 相信我，我以前心碎过
 
-It's you, it's always you  
-If I'm ever gonna fall in love  
-I know it's gon' be you  
-It's you, it's always you  
-Met a lot of people, but nobody feels like you  
+### Bridge 1
 
-So, please don't break my heart  
-Don't tear me apart  
-I know how it starts  
-Trust me, I've been broken before  
-Don't break me again  
-I am delicate  
-Please, don't break my heart  
-Trust me, I've been broken before  
+I've been broken, yeah — 我受过伤，是啊  
+I know how it feels — 我知道那是什么感觉  
+To be open — 敞开自己  
+And then find out your love isn't real — 却发现对方的爱并不真  
+I'm still hurting, yeah — 我还在痛  
+I'm hurting inside — 内心仍在疼  
+I'm so scared to fall in love, but if it's you, then I'll try — 我好怕再恋爱，但若是为你，我愿意试
 
-I know I'm not the best at choosing lovers  
-We both know my past speaks for itself (for itself)  
-If you don't think that we're right for each other (for each other)  
-Then please don't let history repeat itself  
+### Chorus（重复）
 
-'Cause I want you, I want you  
-There's nothing else I want  
-'Cause I want you, I want you  
-And you're the only thing I want  
+*(同第一段副歌)*
 
-It's you, it's always you  
-If I'm ever gonna fall in love  
-I know it's gon' be you  
-It's you, it's always you  
-Met a lot of people  
-But nobody feels like you  
+### Verse 1（重复）
 
-So, please don't break my heart  
-Don't tear me apart  
-I know how it starts  
-Trust me, I've been broken before  
-Don't break me again  
-I am delicate  
-Please, don't break my heart  
-Trust me, I've been broken before
+*(同 Verse 1)*
 
----
+### Bridge 2
 
----
+I know I'm not the best at choosing lovers — 我知道自己不太会挑对象  
+We both know my past speaks for itself (for itself) — 我们都知道我的过去不言自明  
+If you don't think that we're right for each other (for each other) — 若你觉得我们并不合适  
+Then please don't let history repeat itself — 那就请别让历史重演
+
+### Pre-Chorus
+
+'Cause I want you, I want you — 因为我想要你，我想要你  
+There's nothing else I want — 我什么都不想要  
+'Cause I want you, I want you — 因为我想要你，我想要你  
+And you're the only thing I want — 你是我唯一想要的
+
+### Chorus（重复）
+
+It's you, it's always you — 是你，一直都是你  
+If I'm ever gonna fall in love — 若我终将坠入爱河  
+I know it's gon' be you — 我知道那个人只会是你  
+It's you, it's always you — 是你，一直都是你  
+Met a lot of people — 我见过很多人  
+But nobody feels like you — 但没人像你
+
+### Outro
+
+So, please don't break my heart — 所以，请别伤我的心  
+Don't tear me apart — 别把我撕碎  
+I know how it starts — 我知道是怎么开始的  
+Trust me, I've been broken before — 相信我，我以前心碎过  
+Don't break me again — 别再伤我一次  
+I am delicate — 我很脆弱  
+Please, don't break my heart — 请别伤我的心  
+Trust me, I've been broken before — 相信我，我以前心碎过
 
 ---
 
@@ -138,20 +138,23 @@ Trust me, I've been broken before
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *It's you, it's always you* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Please, don't break my heart* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *If I'm ever gonna fall in love* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *So, please don't break my heart* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *And then find out your love isn't real* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *I'm hurting inside* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Don't tear me apart* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Don't break me again* | 见歌词上下文 | 含缩略 / 否定口语 |
+| **it's gon' be you** | 只会是你 | *gon'* = *going to* 口语 |
+| **nobody feels like you** | 没人像你 | *feel like* = 感觉像、有那种感觉 |
+| **break my heart** | 伤我的心 | 恋爱口语高频 |
+| **tear me apart** | 把我撕碎 | 比 *break* 更强烈 |
+| **I know how it starts** | 我知道是怎么开始的 | 暗示见过套路、怕重演 |
+| **been broken before** | 以前心碎过 | *broken* 作形容词 = 感情受伤 |
+| **delicate** | 脆弱的；易碎的 | 形容 emotionally fragile |
+| **your love isn't real** | 你的爱并不真 | *real* 此处 = 真心 |
+| **hurting inside** | 内心在疼 | 比 *sad* 更具体 |
+| **my past speaks for itself** | 我的过去不言自明 | 习语：不用解释大家都懂 |
+| **history repeat itself** | 历史重演 | 担心又遇到同样结局 |
+| **the only thing I want** | 我唯一想要的 | 副歌前情绪推高 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *It's You* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *It's you, it's always you* 句式短、重复多，适合**通勤跟唱**和练 *gon' be* 的弱读。
+- Verse 里 *please don't break my heart / trust me, I've been broken before* 成对出现，可练「恳求 + 坦白过往」的语气。
+- 想延伸**信任与脆弱**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于受伤、害怕的表达。

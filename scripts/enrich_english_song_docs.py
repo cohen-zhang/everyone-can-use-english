@@ -20,28 +20,87 @@ PLAYLIST_URL = (
 )
 
 CURATED = {
-    ("Relax, Take It Easy", "MIKA"): "relax-take-it-easy-mika.md",
-    ("I Am You (Remastered 2021)", "Kim Taylor"): "i-am-you-kim-taylor.md",
-    ("Can't Complain", "Relient K"): "cant-complain-relient-k.md",
-    ("Everybody Knows", "Sigrid"): "everybody-knows-sigrid.md",
-    ("I Like Me Better", "LAUV"): "i-like-me-better-lauv.md",
-    ("7 rings", "Ariana Grande"): "7-rings-ariana-grande.md",
-    ("Better Man", "Robbie Williams"): "better-man-robbie-williams.md",
-    ("Hey Jude", "The Beatles"): "hey-jude-the-beatles.md",
-    ("Sealed With a Kiss", "Dana Winner"): "sealed-with-a-kiss-dana-winner.md",
-    ("Right Now (Na Na Na)", "Akon"): "right-now-akon.md",
-    ("Love the Way You Lie (feat. Rihanna)", "Eminem"): "love-the-way-you-lie-eminem.md",
-    ("This Is the Life", "Amy Macdonald"): "this-is-the-life-amy-macdonald.md",
-    ("I Will Follow You", "Ricky Nelson"): "i-will-follow-you-ricky-nelson.md",
-    ("Take Me To Your Heart", "Michael Learns to Rock"): "take-me-to-your-heart-michael-learns-to-rock.md",
-    ("Right Here Waiting", "理查德·马克斯"): "right-here-waiting-理查德马克斯.md",
-    ("Black Sheep", "Gin Wigmore"): "black-sheep-gin-wigmore.md",
-    ("bad guy", "Billie Eilish"): "bad-guy-billie-eilish.md",
-    ("High on Life (feat. Bonn)", "Martin Garrix"): "high-on-life-martin-garrix.md",
-    ("Always Remember Us This Way", "Brenda Mullen"): "always-remember-us-this-way-brenda-mullen.md",
-    ("Dreamer", "Europe"): "dreamer-europe.md",
-    ("Messy", "Lola Young"): "messy-lola-young.md",
-    ("Big Big World", "Emilia"): "big-big-world-emilia.md",
+    ('Relax, Take It Easy', 'MIKA'): 'relax-take-it-easy-mika.md',
+    ('I Am You (Remastered 2021)', 'Kim Taylor'): 'i-am-you-kim-taylor.md',
+    ("Can't Complain", 'Relient K'): 'cant-complain-relient-k.md',
+    ('Everybody Knows', 'Sigrid'): 'everybody-knows-sigrid.md',
+    ('I Like Me Better', 'LAUV'): 'i-like-me-better-lauv.md',
+    ('7 rings', 'Ariana Grande'): '7-rings-ariana-grande.md',
+    ('Better Man', 'Robbie Williams'): 'better-man-robbie-williams.md',
+    ('Hey Jude', 'The Beatles'): 'hey-jude-the-beatles.md',
+    ('Sealed With a Kiss', 'Dana Winner'): 'sealed-with-a-kiss-dana-winner.md',
+    ('Right Now (Na Na Na)', 'Akon'): 'right-now-akon.md',
+    ('Love the Way You Lie (feat. Rihanna)', 'Eminem'): 'love-the-way-you-lie-eminem.md',
+    ('This Is the Life', 'Amy Macdonald'): 'this-is-the-life-amy-macdonald.md',
+    ('I Will Follow You', 'Ricky Nelson'): 'i-will-follow-you-ricky-nelson.md',
+    ('Take Me To Your Heart', 'Michael Learns to Rock'): 'take-me-to-your-heart-michael-learns-to-rock.md',
+    ('Right Here Waiting', '理查德·马克斯'): 'right-here-waiting-理查德马克斯.md',
+    ('Black Sheep', 'Gin Wigmore'): 'black-sheep-gin-wigmore.md',
+    ('bad guy', 'Billie Eilish'): 'bad-guy-billie-eilish.md',
+    ('High on Life (feat. Bonn)', 'Martin Garrix'): 'high-on-life-martin-garrix.md',
+    ('Always Remember Us This Way', 'Brenda Mullen'): 'always-remember-us-this-way-brenda-mullen.md',
+    ('Dreamer', 'Europe'): 'dreamer-europe.md',
+    ('When Your Lips Are So Close', 'Gord Bamford'): 'when-your-lips-are-so-close-gord-bamford.md',
+    ('Against All Odds (Take a Look at Me Now)', 'Phil Collins'): 'against-all-odds-phil-collins.md',
+    ('Stand By Me', 'Seal'): 'stand-by-me-seal.md',
+    ('Who Wants To Live Forever', 'Queen'): 'who-wants-to-live-forever-queen.md',
+    ('The Old Man', '菲尔・科尔特'): 'the-old-man-菲尔科尔特.md',
+    ('The Old Man', 'Yom & Aurélien Naffrichoux'): 'the-old-man-yom.md',
+    ("Promises Don't Come Easy", '陈曦'): 'promises-dont-come-easy-陈曦.md',
+    ('What Can I Do (Promises)', 'Caron Nightingale'): 'what-can-i-do-caron-nightingale.md',
+    ('Love Story (Taylor’s Version)', 'Taylor Swift'): 'love-story-taylor-swift.md',
+    ('Yesterday Once More', 'Carpenters'): 'yesterday-once-more-carpenters.md',
+    ('Sealed With a Kiss', 'The Lettermen'): 'sealed-with-a-kiss-the-lettermen.md',
+    ('No Such Thing as a Broken Heart', 'Old Dominion'): 'no-such-thing-as-a-broken-heart-old-dominion.md',
+    ('These Days', 'Rascal Flatts'): 'these-days-rascal-flatts.md',
+    ('Because of You', 'Ne-Yo'): 'because-of-you-ne-yo.md',
+    ('Shape of You', 'Ed Sheeran'): 'shape-of-you-ed-sheeran.md',
+    ('Because You Loved Me (Theme from "Up Close and Personal")', 'Céline Dion'): 'because-you-loved-me-céline-dion.md',
+    ('Like I Can', 'Sam Smith'): 'like-i-can-sam-smith.md',
+    ('Die With A Smile', 'Lady Gaga & Bruno Mars'): 'die-with-a-smile-lady-gaga.md',
+    ('Bad Romance', 'Lady Gaga'): 'bad-romance-lady-gaga.md',
+    ('Let It Go', 'Idina Menzel'): 'let-it-go-idina-menzel.md',
+    ('Lights (Single Version)', 'Ellie Goulding'): 'lights-ellie-goulding.md',
+    ('Young Dumb & Broke', 'Khalid'): 'young-dumb-broke-khalid.md',
+    ('Glorious (feat. Skylar Grey)', 'Macklemore'): 'glorious-macklemore.md',
+    ('Perfect', 'Ed Sheeran'): 'perfect-ed-sheeran.md',
+    ('Numb', 'LINKIN PARK'): 'numb-linkin-park.md',
+    ('Numb Little Bug', 'Em Beihold'): 'numb-little-bug-em-beihold.md',
+    ('Adore You', 'Harry Styles'): 'adore-you-harry-styles.md',
+    ("I Don't Think I'm Okay", 'Bazzi'): 'i-dont-think-im-okay-bazzi.md',
+    ('Someone You Loved', 'Lewis Capaldi'): 'someone-you-loved-lewis-capaldi.md',
+    ('The Other', 'LAUV'): 'the-other-lauv.md',
+    ('Head In The Clouds', 'Hayd'): 'head-in-the-clouds-hayd.md',
+    ('When You Look At Me', 'Sara Kays'): 'when-you-look-at-me-sara-kays.md',
+    ("That's Us", 'Anson Seabra'): 'thats-us-anson-seabra.md',
+    ("It's You", 'Ali Gatie'): 'its-you-ali-gatie.md',
+    ('Counting Stars', 'OneRepublic'): 'counting-stars-onerepublic.md',
+    ('I Hope You Never Fall in Love Again', 'KiD RAiN'): 'i-hope-you-never-fall-in-love-again-kid-rain.md',
+    ('Messy', 'Lola Young'): 'messy-lola-young.md',
+    ('Please Please Please', 'Sabrina Carpenter'): 'please-please-please-sabrina-carpenter.md',
+    ('Good Cry', 'Noah Cyrus'): 'good-cry-noah-cyrus.md',
+    ('July (Apple Music Home Session)', 'Rhys Lewis'): 'july-rhys-lewis.md',
+    ('Dance Like No One’s Watching', 'Gabby Barrett'): 'dance-like-no-ones-watching-gabby-barrett.md',
+    ('Gentle Heart', 'Joshua Hyslop'): 'gentle-heart-joshua-hyslop.md',
+    ('Take Control', 'Kodaline'): 'take-control-kodaline.md',
+    ('Marry You', 'Bruno Mars'): 'marry-you-bruno-mars.md',
+    ('My Love (Radio Edit)', 'Westlife'): 'my-love-westlife.md',
+    ('Dance Monkey', 'Tones And I'): 'dance-monkey-tones-and-i.md',
+    ('Grace', 'Lewis Capaldi'): 'grace-lewis-capaldi.md',
+    ("What You Won't Do for Love", 'Bobby Caldwell'): 'what-you-wont-do-for-love-bobby-caldwell.md',
+    ('Just the Two of Us', 'Grover Washington, Jr. with Bill Withers'): 'just-the-two-of-us-grover-washington.md',
+    ('Fallen', 'Lola Amour'): 'fallen-lola-amour.md',
+    ('Julie.', 'Gallant'): 'julie-gallant.md',
+    ('Say It Again', 'Betty Wright'): 'say-it-again-betty-wright.md',
+    ('Way Back Into Love (Demo Version)', 'Hugh Grant & Drew Barrymore'): 'way-back-into-love-hugh-grant.md',
+    ('Two Is Better Than One (feat. Taylor Swift)', 'BOYS LIKE GIRLS'): 'two-is-better-than-one-boys-like-girls.md',
+    ('Treasure', 'Bruno Mars'): 'treasure-bruno-mars.md',
+    ('You Belong With Me', 'Taylor Swift'): 'you-belong-with-me-taylor-swift.md',
+    ('Take Me Back to London (feat. Stormzy)', 'Ed Sheeran'): 'take-me-back-to-london-ed-sheeran.md',
+    ('South of the Border (feat. Camila Cabello & Cardi B)', 'Ed Sheeran'): 'south-of-the-border-ed-sheeran.md',
+    ("Ain't My Fault (R3hab Remix)", 'Zara Larsson & R3HAB'): 'aint-my-fault-zara-larsson.md',
+    ('Vicious Girl', 'CALVO'): 'vicious-girl-calvo.md',
+    ('Big Big World', 'Emilia'): 'big-big-world-emilia.md',
 }
 
 CURATED_META: dict[tuple[str, str], dict] = {
@@ -156,10 +215,22 @@ def slugify(text: str) -> str:
     return text.strip("-") or "song"
 
 
+def normalize_apostrophes(text: str) -> str:
+    return text.replace("\u2019", "'").replace("\u2018", "'").replace("\u2032", "'")
+
+
+CURATED_LOOKUP: dict[tuple[str, str], str] = {
+    (normalize_apostrophes(title), artist): fname for (title, artist), fname in CURATED.items()
+}
+
+
+def curated_filename(item: dict) -> str | None:
+    return CURATED_LOOKUP.get((normalize_apostrophes(item["title"]), item["artist"]))
+
+
 def filename_for(item: dict, used: set[str]) -> str:
-    key = (item["title"], item["artist"])
-    if key in CURATED:
-        return CURATED[key]
+    if fname := curated_filename(item):
+        return fname
     base = slugify(item["title"])
     artist_part = slugify(item["artist"].split(",")[0].split("&")[0])
     candidate = f"{base}-{artist_part}.md"
@@ -656,6 +727,16 @@ def build_readme(catalog: list[dict]) -> str:
         for c in sorted(curated_rows, key=lambda x: x["track"])
     )
 
+    todo_table = (
+        "\n".join(
+            f"| {c['track']} | {c['title']} | {c['artist']} | "
+            f"[[learning-notes/english-song/{c['file'].removesuffix('.md')}|笔记]] |"
+            for c in todo
+        )
+        if todo
+        else "| — | — | — | — |"
+    )
+
     return f"""---
 tags:
   - english-song
@@ -695,7 +776,7 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下 **{len(curated_rows)}** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#20**，以及 #57、#90）：
+以下 **{len(curated_rows)}** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#80**，以及 #90）：
 
 | # | 歌曲 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
@@ -707,17 +788,8 @@ aliases:
 
 | # | 歌名 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
+{todo_table}
 """
-    + (
-        "\n".join(
-            f"| {c['track']} | {c['title']} | {c['artist']} | "
-            f"[[learning-notes/english-song/{c['file'].removesuffix('.md')}|笔记]] |"
-            for c in todo
-        )
-        if todo
-        else "| — | — | — | — |"
-    )
-    + "\n"
 
 
 def main() -> None:
@@ -739,8 +811,7 @@ def main() -> None:
         meta = meta_for_item(item, itunes, plain_lyrics)
         phrases = extract_key_phrases(plain_lyrics, item["title"])
 
-        key = (item["title"], item["artist"])
-        is_curated = key in CURATED
+        is_curated = curated_filename(item) is not None
         if is_curated:
             stats["curated"] += 1
         elif path.exists():

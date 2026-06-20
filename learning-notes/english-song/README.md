@@ -65,36 +65,36 @@ aliases:
 | 48 | I Don't Think I'm Okay | Bazzi | 精编 | 分手·思念 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
 | 49 | Someone You Loved | Lewis Capaldi | 精编 | 分手·思念 · 生活态度 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
 | 50 | The Other | LAUV | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/the-other-lauv|The Other]] |
-| 51 | Head In The Clouds | Hayd | — | 分手·思念 · 生活态度 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
-| 52 | When You Look At Me | Sara Kays | — | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
-| 53 | That's Us | Anson Seabra | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
-| 54 | It's You | Ali Gatie | — | 分手·思念 · 情绪 · 恋爱 | Ballad · R&B | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/its-you-ali-gatie|It's You]] |
-| 55 | Counting Stars | OneRepublic | — | 情绪 · 生活态度 · 恋爱 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars]] |
-| 56 | I Hope You Never Fall in Love Again | KiD RAiN | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|I Hope You Never Fall in Love Again]] |
+| 51 | Head In The Clouds | Hayd | 精编 | 分手·思念 · 生活态度 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
+| 52 | When You Look At Me | Sara Kays | 精编 | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
+| 53 | That's Us | Anson Seabra | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
+| 54 | It's You | Ali Gatie | 精编 | 分手·思念 · 情绪 · 恋爱 | Ballad · R&B | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/its-you-ali-gatie|It's You]] |
+| 55 | Counting Stars | OneRepublic | 精编 | 情绪 · 生活态度 · 恋爱 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars]] |
+| 56 | I Hope You Never Fall in Love Again | KiD RAiN | 精编 | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|I Hope You Never Fall in Love Again]] |
 | 57 | Messy | Lola Young | 精编 | 情绪 · 关系 · 自我 | Pop · pop rock | 中 | 2020s | KTV · 精研 | [[learning-notes/english-song/messy-lola-young|Messy]] |
-| 58 | Please Please Please | Sabrina Carpenter | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/please-please-please-sabrina-carpenter|Please Please Please]] |
-| 59 | Good Cry | Noah Cyrus | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/good-cry-noah-cyrus|Good Cry]] |
-| 60 | July (Apple Music Home Session) | Rhys Lewis | — | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/july-rhys-lewis|July (Apple Music Home Session)]] |
-| 61 | Dance Like No One’s Watching | Gabby Barrett | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Country · Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|Dance Like No One’s Watching]] |
-| 62 | Gentle Heart | Joshua Hyslop | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/gentle-heart-joshua-hyslop|Gentle Heart]] |
-| 63 | Take Control | Kodaline | — | 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-control-kodaline|Take Control]] |
-| 64 | Marry You | Bruno Mars | — | 分手·思念 · 恋爱 · 派对·能量 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/marry-you-bruno-mars|Marry You]] |
-| 65 | My Love (Radio Edit) | Westlife | — | 生活态度 · 恋爱 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/my-love-westlife|My Love (Radio Edit)]] |
-| 66 | Dance Monkey | Tones And I | — | 情绪 · 生活态度 · 派对·能量 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/dance-monkey-tones-and-i|Dance Monkey]] |
-| 67 | Grace | Lewis Capaldi | — | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/grace-lewis-capaldi|Grace]] |
-| 68 | What You Won't Do for Love | Bobby Caldwell | — | 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-you-wont-do-for-love-bobby-caldwell|What You Won't Do for Love]] |
-| 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | — | 分手·思念 · 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/just-the-two-of-us-grover-washington|Just the Two of Us]] |
-| 70 | Fallen | Lola Amour | — | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/fallen-lola-amour|Fallen]] |
-| 71 | Julie. | Gallant | — | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2020s | 精研 | [[learning-notes/english-song/julie-gallant|Julie.]] |
-| 72 | Say It Again | Betty Wright | — | 情绪 · 生活态度 · 恋爱 | R&B | 中 | 经典 | 精研 · KTV | [[learning-notes/english-song/say-it-again-betty-wright|Say It Again]] |
-| 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | — | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 | Pop | 难 | 2000s | KTV · 发音 | [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo Version)]] |
-| 74 | Two Is Better Than One (feat. Taylor Swift) | BOYS LIKE GIRLS | — | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One (feat. Taylor Swift)]] |
-| 75 | Treasure | Bruno Mars | — | 恋爱 · 派对·能量 | Pop | 易 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/treasure-bruno-mars|Treasure]] |
-| 76 | You Belong With Me | Taylor Swift | — | 分手·思念 · 情绪 · 恋爱 · 自我 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me]] |
-| 77 | Take Me Back to London (feat. Stormzy) | Ed Sheeran | — | 分手·思念 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London (feat. Stormzy)]] |
-| 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | — | 生活态度 · 恋爱 · 派对·能量 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
-| 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
-| 80 | Vicious Girl | CALVO | — | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
+| 58 | Please Please Please | Sabrina Carpenter | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/please-please-please-sabrina-carpenter|Please Please Please]] |
+| 59 | Good Cry | Noah Cyrus | 精编 | 分手·思念 · 情绪 · 恋爱 · 自我 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/good-cry-noah-cyrus|Good Cry]] |
+| 60 | July (Apple Music Home Session) | Rhys Lewis | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/july-rhys-lewis|July (Apple Music Home Session)]] |
+| 61 | Dance Like No One’s Watching | Gabby Barrett | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Country · Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|Dance Like No One’s Watching]] |
+| 62 | Gentle Heart | Joshua Hyslop | 精编 | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/gentle-heart-joshua-hyslop|Gentle Heart]] |
+| 63 | Take Control | Kodaline | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-control-kodaline|Take Control]] |
+| 64 | Marry You | Bruno Mars | 精编 | 分手·思念 · 恋爱 · 派对·能量 | Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/marry-you-bruno-mars|Marry You]] |
+| 65 | My Love (Radio Edit) | Westlife | 精编 | 生活态度 · 恋爱 · 自我 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/my-love-westlife|My Love (Radio Edit)]] |
+| 66 | Dance Monkey | Tones And I | 精编 | 情绪 · 生活态度 · 派对·能量 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/dance-monkey-tones-and-i|Dance Monkey]] |
+| 67 | Grace | Lewis Capaldi | 精编 | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/grace-lewis-capaldi|Grace]] |
+| 68 | What You Won't Do for Love | Bobby Caldwell | 精编 | 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/what-you-wont-do-for-love-bobby-caldwell|What You Won't Do for Love]] |
+| 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | 精编 | 分手·思念 · 生活态度 · 恋爱 | Jazz · R&B | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/just-the-two-of-us-grover-washington|Just the Two of Us]] |
+| 70 | Fallen | Lola Amour | 精编 | 生活态度 · 恋爱 | Pop | 中 | 2020s | 精研 · 发音 | [[learning-notes/english-song/fallen-lola-amour|Fallen]] |
+| 71 | Julie. | Gallant | 精编 | 分手·思念 · 生活态度 · 恋爱 | R&B | 中 | 2020s | 精研 | [[learning-notes/english-song/julie-gallant|Julie.]] |
+| 72 | Say It Again | Betty Wright | 精编 | 情绪 · 生活态度 · 恋爱 | R&B | 中 | 经典 | 精研 · KTV | [[learning-notes/english-song/say-it-again-betty-wright|Say It Again]] |
+| 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | 精编 | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 | Pop | 难 | 2000s | KTV · 发音 | [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo Version)]] |
+| 74 | Two Is Better Than One (feat. Taylor Swift) | BOYS LIKE GIRLS | 精编 | 分手·思念 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One (feat. Taylor Swift)]] |
+| 75 | Treasure | Bruno Mars | 精编 | 恋爱 · 派对·能量 | Pop | 易 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/treasure-bruno-mars|Treasure]] |
+| 76 | You Belong With Me | Taylor Swift | 精编 | 分手·思念 · 情绪 · 恋爱 · 自我 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me]] |
+| 77 | Take Me Back to London (feat. Stormzy) | Ed Sheeran | 精编 | 分手·思念 · 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London (feat. Stormzy)]] |
+| 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | 精编 | 生活态度 · 恋爱 · 派对·能量 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
+| 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | 精编 | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
+| 80 | Vicious Girl | CALVO | 精编 | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
 | 81 | I Got You (feat. Johnning) | Janji | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
 | 82 | Apologize | OneRepublic | — | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
 | 83 | One Man Band | Old Dominion | — | 恋爱 | Country · Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
@@ -171,6 +171,7 @@ aliases:
 | 分手·思念 | 59 | Good Cry | Noah Cyrus | [[learning-notes/english-song/good-cry-noah-cyrus|笔记]] |
 | 分手·思念 | 60 | July (Apple Music Home Session) | Rhys Lewis | [[learning-notes/english-song/july-rhys-lewis|笔记]] |
 | 分手·思念 | 61 | Dance Like No One’s Watching | Gabby Barrett | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|笔记]] |
+| 分手·思念 | 63 | Take Control | Kodaline | [[learning-notes/english-song/take-control-kodaline|笔记]] |
 | 分手·思念 | 64 | Marry You | Bruno Mars | [[learning-notes/english-song/marry-you-bruno-mars|笔记]] |
 | 分手·思念 | 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | [[learning-notes/english-song/just-the-two-of-us-grover-washington|笔记]] |
 | 分手·思念 | 71 | Julie. | Gallant | [[learning-notes/english-song/julie-gallant|笔记]] |
@@ -393,7 +394,6 @@ aliases:
 | 生活态度 | 55 | Counting Stars | OneRepublic | [[learning-notes/english-song/counting-stars-onerepublic|笔记]] |
 | 生活态度 | 56 | I Hope You Never Fall in Love Again | KiD RAiN | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|笔记]] |
 | 生活态度 | 58 | Please Please Please | Sabrina Carpenter | [[learning-notes/english-song/please-please-please-sabrina-carpenter|笔记]] |
-| 生活态度 | 59 | Good Cry | Noah Cyrus | [[learning-notes/english-song/good-cry-noah-cyrus|笔记]] |
 | 生活态度 | 61 | Dance Like No One’s Watching | Gabby Barrett | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|笔记]] |
 | 生活态度 | 62 | Gentle Heart | Joshua Hyslop | [[learning-notes/english-song/gentle-heart-joshua-hyslop|笔记]] |
 | 生活态度 | 63 | Take Control | Kodaline | [[learning-notes/english-song/take-control-kodaline|笔记]] |
@@ -441,6 +441,7 @@ aliases:
 | 自我 | 53 | That's Us | Anson Seabra | [[learning-notes/english-song/thats-us-anson-seabra|笔记]] |
 | 自我 | 57 | Messy | Lola Young | [[learning-notes/english-song/messy-lola-young|笔记]] |
 | 自我 | 59 | Good Cry | Noah Cyrus | [[learning-notes/english-song/good-cry-noah-cyrus|笔记]] |
+| 自我 | 65 | My Love (Radio Edit) | Westlife | [[learning-notes/english-song/my-love-westlife|笔记]] |
 | 自我 | 76 | You Belong With Me | Taylor Swift | [[learning-notes/english-song/you-belong-with-me-taylor-swift|笔记]] |
 | 自我 | 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | [[learning-notes/english-song/south-of-the-border-ed-sheeran|笔记]] |
 | 自我 | 92 | I Have Nothing | Whitney Houston | [[learning-notes/english-song/i-have-nothing-whitney-houston|笔记]] |
@@ -1182,7 +1183,7 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下 **52** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#50**，以及 #57、#90）：
+以下 **81** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#80**，以及 #90）：
 
 | # | 歌曲 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
@@ -1236,7 +1237,36 @@ aliases:
 | 48 | I Don't Think I'm Okay | Bazzi | [[learning-notes/english-song/i-dont-think-im-okay-bazzi|I Don't Think I'm Okay]] |
 | 49 | Someone You Loved | Lewis Capaldi | [[learning-notes/english-song/someone-you-loved-lewis-capaldi|Someone You Loved]] |
 | 50 | The Other | LAUV | [[learning-notes/english-song/the-other-lauv|The Other]] |
+| 51 | Head In The Clouds | Hayd | [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds]] |
+| 52 | When You Look At Me | Sara Kays | [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me]] |
+| 53 | That's Us | Anson Seabra | [[learning-notes/english-song/thats-us-anson-seabra|That's Us]] |
+| 54 | It's You | Ali Gatie | [[learning-notes/english-song/its-you-ali-gatie|It's You]] |
+| 55 | Counting Stars | OneRepublic | [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars]] |
+| 56 | I Hope You Never Fall in Love Again | KiD RAiN | [[learning-notes/english-song/i-hope-you-never-fall-in-love-again-kid-rain|I Hope You Never Fall in Love Again]] |
 | 57 | Messy | Lola Young | [[learning-notes/english-song/messy-lola-young|Messy]] |
+| 58 | Please Please Please | Sabrina Carpenter | [[learning-notes/english-song/please-please-please-sabrina-carpenter|Please Please Please]] |
+| 59 | Good Cry | Noah Cyrus | [[learning-notes/english-song/good-cry-noah-cyrus|Good Cry]] |
+| 60 | July (Apple Music Home Session) | Rhys Lewis | [[learning-notes/english-song/july-rhys-lewis|July (Apple Music Home Session)]] |
+| 61 | Dance Like No One’s Watching | Gabby Barrett | [[learning-notes/english-song/dance-like-no-ones-watching-gabby-barrett|Dance Like No One’s Watching]] |
+| 62 | Gentle Heart | Joshua Hyslop | [[learning-notes/english-song/gentle-heart-joshua-hyslop|Gentle Heart]] |
+| 63 | Take Control | Kodaline | [[learning-notes/english-song/take-control-kodaline|Take Control]] |
+| 64 | Marry You | Bruno Mars | [[learning-notes/english-song/marry-you-bruno-mars|Marry You]] |
+| 65 | My Love (Radio Edit) | Westlife | [[learning-notes/english-song/my-love-westlife|My Love (Radio Edit)]] |
+| 66 | Dance Monkey | Tones And I | [[learning-notes/english-song/dance-monkey-tones-and-i|Dance Monkey]] |
+| 67 | Grace | Lewis Capaldi | [[learning-notes/english-song/grace-lewis-capaldi|Grace]] |
+| 68 | What You Won't Do for Love | Bobby Caldwell | [[learning-notes/english-song/what-you-wont-do-for-love-bobby-caldwell|What You Won't Do for Love]] |
+| 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | [[learning-notes/english-song/just-the-two-of-us-grover-washington|Just the Two of Us]] |
+| 70 | Fallen | Lola Amour | [[learning-notes/english-song/fallen-lola-amour|Fallen]] |
+| 71 | Julie. | Gallant | [[learning-notes/english-song/julie-gallant|Julie.]] |
+| 72 | Say It Again | Betty Wright | [[learning-notes/english-song/say-it-again-betty-wright|Say It Again]] |
+| 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo Version)]] |
+| 74 | Two Is Better Than One (feat. Taylor Swift) | BOYS LIKE GIRLS | [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One (feat. Taylor Swift)]] |
+| 75 | Treasure | Bruno Mars | [[learning-notes/english-song/treasure-bruno-mars|Treasure]] |
+| 76 | You Belong With Me | Taylor Swift | [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me]] |
+| 77 | Take Me Back to London (feat. Stormzy) | Ed Sheeran | [[learning-notes/english-song/take-me-back-to-london-ed-sheeran|Take Me Back to London (feat. Stormzy)]] |
+| 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
+| 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
+| 80 | Vicious Girl | CALVO | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
 | 90 | Big Big World | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
 
 ## 歌词待补充
@@ -1248,4 +1278,4 @@ aliases:
 | 81 | I Got You (feat. Johnning) | Janji | [[learning-notes/english-song/i-got-you-janji|笔记]] |
 | 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|笔记]] |
 | 87 | Fly Me To The Moon | 小野丽莎 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|笔记]] |
-| 88 | Fly Me to the Moon (feat. Count Basie…) | 弗兰克・辛纳特拉 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|笔记]] |
+| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|笔记]] |

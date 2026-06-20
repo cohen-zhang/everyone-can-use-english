@@ -52,6 +52,7 @@ learning-notes/
       episode-notes/  # Jeff 系列逐集笔记与转录
 
   grammar-lab/        # 语法学习与语法体系
+  english-song/       # 英文歌曲笔记（Apple Music 播放列表 · 歌词与重点表达）
 
   parenting-english/  # 亲子场景英语（不多 / Celine）
     daily-life/               # 日常生活
@@ -75,6 +76,7 @@ learning-notes/
 | --- | --- | --- |
 | `tv-series` | 美剧与情景素材 | `modern-family`、`a-day-in-the-life-of-jeff` |
 | `grammar-lab` | 语法实验室 | 语法体系、语法笔记、语法专项材料 |
+| `english-song` | 英文歌曲笔记 | Apple Music 播放列表、歌词、重点表达与听歌提示 |
 | `parenting-english` | 亲子英语资料库 | 日常场景、词汇表、互动游戏、学习计划与索引 |
 | `daily-life` | 日常生活子类 | 吃饭、穿衣、手机、地铁、情绪、礼仪等 |
 | `communication-patterns` | 互动句型子类 | `Can you` 提问与回应句型 |
