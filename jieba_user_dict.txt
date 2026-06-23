@@ -26,8 +26,9 @@
 摩登家庭 5 nz
 杰夫 5 nr
 美剧 5 n
-剧本 5 n
-词汇表 5 n
+英文歌曲 5 n
+歌曲 5 n
+歌词 5 n
 本集词汇 5 n
 CompletableFuture 5 eng
 集合框架 5 n

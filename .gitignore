@@ -134,7 +134,9 @@ cam_dict.refined.sqlite
 enjoy/lib/dictionaries
 
 .vitepress/cache/
-public/jupyter-notebooks/*.mp3
+
+# Audio files
+*.mp3
 
 *.sqlite
 .obsidian/app.json
