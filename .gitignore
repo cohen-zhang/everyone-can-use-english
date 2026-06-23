@@ -150,6 +150,10 @@ site/
 
 # MkDocs build mirror of repo book/ (see mkdocs_hooks.on_startup)
 learning-notes/book/
+
+# MkDocs build companions for transcript/*.txt and *-scenes.yaml (see mkdocs_hooks)
+learning-notes/**/transcript/*-transcript.md
+learning-notes/**/transcript/*-scenes.md
 .venv-mkdocs/
 .venv-docs/
 .venv-tts/
