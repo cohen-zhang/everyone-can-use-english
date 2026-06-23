@@ -12,6 +12,8 @@
 
 **亲子主题摘录**（吃饭、夸奖等，非整集台词）入口：**[[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes 索引]]**。
 
+**成人向关键角色导读**（剧中原句、复述练习）：**[[learning-notes/tv-series/modern-family/s01/notes/characters/README|Modern Family S01 · Character Guides]]**。
+
 ---
 
 ## Obsidian：台词 ↔ 笔记 对查表
