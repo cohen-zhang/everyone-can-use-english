@@ -21,7 +21,6 @@ exclude_docs: |
 not_in_nav: |
   english-song/*
   !english-song/README.md
-  tv-series/**/transcript/*-transcript.md
   tv-series/**/transcript/*-scenes.md
 
 theme:

@@ -7,6 +7,11 @@ import re
 import shutil
 from pathlib import Path, PurePosixPath
 
+try:
+    import yaml
+except ImportError:  # pragma: no cover - optional at hook import time
+    yaml = None
+
 # Allow \| inside table cells; path may include #fragment before |title.
 WIKI_LINK = re.compile(
     r"(?<!!)\[\[((?:[^\]\\]|\\.)+?)(?:\\?\|((?:[^\]\\]|\\.)+?))?\]\]"
@@ -18,6 +23,88 @@ SOURCE_EXTS = (".txt", ".yaml", ".yml")
 _stem_to_paths: dict[str, list[str]] | None = None
 _repo_root: Path | None = None
 _docs_dir: Path | None = None
+_episode_titles: dict[int, dict[str, str]] | None = None
+
+EPISODE_NUM = re.compile(r"s(\d+)e(\d+)", re.IGNORECASE)
+SCENE_INDEX_THEME = re.compile(
+    r"##\s*场景分段索引（S\d+E\d+\s*·\s*(.+?)）\s*$", re.MULTILINE
+)
+
+
+def _episode_num_from_name(name: str) -> int | None:
+    match = EPISODE_NUM.search(name)
+    return int(match.group(2)) if match else None
+
+
+def _load_episode_titles(docs_dir: Path) -> dict[int, dict[str, str]]:
+    path = docs_dir / "tv-series/modern-family/s01/episode-titles.yaml"
+    if not path.is_file() or yaml is None:
+        return {}
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    episodes = data.get("episodes") or {}
+    return {int(ep): meta for ep, meta in episodes.items()}
+
+
+def _episode_theme(ep: int | None, titles: dict[int, dict[str, str]]) -> str:
+    if not ep:
+        return ""
+    return str((titles.get(ep) or {}).get("theme") or "").strip()
+
+
+def _theme_from_transcript_txt(txt_path: Path) -> str:
+    match = SCENE_INDEX_THEME.search(txt_path.read_text(encoding="utf-8", errors="replace"))
+    return match.group(1).strip() if match else ""
+
+
+def _page_title_for_episode(
+    ep: int, kind: str, titles: dict[int, dict[str, str]]
+) -> str | None:
+    theme = _episode_theme(ep, titles)
+    if not theme:
+        return None
+    suffix = {
+        "transcript": "字幕",
+        "daily-lines": "场景句",
+        "key-dad": "亲子对话",
+        "transcript-hand": "精编场景句",
+    }.get(kind)
+    if not suffix:
+        return None
+    return f"S01E{ep:02d} · {theme} — {suffix}"
+
+
+def _kind_from_path(src_path: str) -> tuple[int | None, str | None]:
+    src = src_path.replace("\\", "/")
+    if "tv-series/modern-family/s01" not in src:
+        return None, None
+    ep = _episode_num_from_name(src)
+    if not ep:
+        return None, None
+    name = Path(src).name
+    if "/transcript/" in src and name.endswith("-transcript.md"):
+        return ep, "transcript"
+    if "/transcript/" in src and "daily-lines" in name:
+        return ep, "transcript-hand"
+    if "/notes/" in src and name.endswith("-daily-lines.md"):
+        return ep, "daily-lines"
+    if "key-to-being-a-great-dad" in name:
+        return ep, "key-dad"
+    return ep, None
+
+
+def _default_link_title(raw: str) -> str:
+    ep = _episode_num_from_name(raw)
+    titles = _episode_titles or {}
+    if ep and titles:
+        if "-transcript" in raw or raw.endswith(".txt"):
+            theme = _episode_theme(ep, titles)
+            if theme:
+                return f"S01E{ep:02d} · {theme} — 字幕"
+        if "-daily-lines" in raw:
+            theme = _episode_theme(ep, titles)
+            if theme:
+                return f"S01E{ep:02d} · {theme} — 场景句"
+    return PurePosixPath(raw.replace("\\", "/")).name
 
 
 def _mirror_book_into_docs(docs_dir: Path, repo_root: Path) -> None:
@@ -52,7 +139,7 @@ def _cleanup_generated_transcript_pages(transcript_dir: Path) -> None:
             path.unlink()
 
 
-def _generate_transcript_md_pages(docs_dir: Path) -> None:
+def _generate_transcript_md_pages(docs_dir: Path, titles: dict[int, dict[str, str]]) -> None:
     """Build companion ``.md`` pages for ``transcript/`` ``.txt`` and ``.yaml`` sources."""
     for transcript_dir in docs_dir.rglob("transcript"):
         if not transcript_dir.is_dir():
@@ -62,9 +149,16 @@ def _generate_transcript_md_pages(docs_dir: Path) -> None:
         for txt_path in sorted(transcript_dir.glob("*-transcript.txt")):
             body = txt_path.read_text(encoding="utf-8", errors="replace")
             label = _episode_label_from_name(txt_path.name)
+            ep = _episode_num_from_name(txt_path.name)
+            theme = _episode_theme(ep, titles) or _theme_from_transcript_txt(txt_path)
+            if theme:
+                page_title = f"{label} · {theme} — 字幕"
+            else:
+                page_title = f"{label} 字幕全文"
             md_path = txt_path.with_suffix(".md")
             md_path.write_text(
-                f"# {label} 字幕全文\n\n"
+                f"---\ntitle: {page_title}\n---\n\n"
+                f"# {page_title}\n\n"
                 f"**导航：** [字幕目录](README.md)\n\n"
                 f"原文（`{txt_path.name}`）：\n\n"
                 f"{_fence_code(body)}",
@@ -84,15 +178,25 @@ def _generate_transcript_md_pages(docs_dir: Path) -> None:
 
 
 def on_config(config, **kwargs):
-    global _stem_to_paths, _repo_root, _docs_dir
+    global _stem_to_paths, _repo_root, _docs_dir, _episode_titles
     _stem_to_paths = None
     _repo_root = Path(config.config_file_path).resolve().parent
     _docs_dir = Path(config.docs_dir)
     if not _docs_dir.is_absolute():
         _docs_dir = _repo_root / _docs_dir
+    _episode_titles = _load_episode_titles(_docs_dir)
     _mirror_book_into_docs(_docs_dir, _repo_root)
-    _generate_transcript_md_pages(_docs_dir)
+    _generate_transcript_md_pages(_docs_dir, _episode_titles)
     return config
+
+
+def on_pre_page(page, **kwargs):
+    ep, kind = _kind_from_path(page.file.src_path)
+    if ep and kind and _episode_titles:
+        title = _page_title_for_episode(ep, kind, _episode_titles)
+        if title:
+            page.title = title
+    return page
 
 
 def _index(files) -> dict[str, list[str]]:
@@ -176,7 +280,7 @@ def _wiki_replacer(markdown: str, page, files):
 
     def repl(m: re.Match) -> str:
         raw = m.group(1).strip()
-        title = (m.group(2) or "").strip() or PurePosixPath(raw.replace("\\", "/")).name
+        title = (m.group(2) or "").strip() or _default_link_title(raw)
         frag = ""
         if "#" in raw:
             raw, _, frag_part = raw.partition("#")

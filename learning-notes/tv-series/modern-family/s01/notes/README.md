@@ -2,6 +2,8 @@
 
 本目录收录 **第一季（S01）** 与《摩登家庭》相关的英文学习笔记，字幕源文件在 `../transcript/`。
 
+**各集侧栏标题（GitHub Pages）：** 主题词配置在 [[learning-notes/tv-series/modern-family/s01/episode-titles.yaml|episode-titles.yaml]]（与 transcript 场景索引一致）；MkDocs 构建时用于 `notes/*-daily-lines.md` 与 `transcript/*-transcript` 的导航显示名，**不必**批量改文件名。
+
 ## Obsidian 双向跳转（Vault 根 = 本仓库根目录时）
 
 - **字幕目录总表（互链另一方）：** [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]] — `*.txt` 与本目录 `*-daily-lines.md` 在该页 **对查**；各单文件文首另有 **相向** 链到配对笔记或字幕。

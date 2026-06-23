@@ -1,0 +1,27 @@
+# S01 各集主题（侧栏 / 页面标题；与 transcript 场景索引一致）
+# MkDocs 构建时读取：mkdocs_hooks.py
+episodes:
+  1: { theme: "三家庭首集 / 领养晚宴", slug: three-households-pilot }
+  2: { theme: "卢克新车 / 偷车教训", slug: lukes-bike-lesson }
+  3: { theme: "遥控飞机 / 铁哥们", slug: come-fly-with-me }
+  4: { theme: "婚礼那件事 / 演唱会", slug: up-all-night }
+  5: { theme: "橄榄球烧烤 / 打架", slug: coal-diggers }
+  6: { theme: "开学第一天 / 赛跑", slug: run-for-your-wife }
+  7: { theme: "曼尼击剑赛", slug: en-garde }
+  8: { theme: "结婚纪念日", slug: great-expectations }
+  9: { theme: "Luke生日 / Fizbo", slug: fizbo }
+  10: { theme: "平安夜", slug: undeck-the-halls }
+  11: { theme: "哈维尔来访", slug: hawaii }
+  12: { theme: "待补齐字幕", slug: tbd }
+  13: { theme: "人会变吗", slug: fifteenepercent }
+  14: { theme: "旧友瓦莱丽 / 车祸", slug: moon-landing }
+  15: { theme: "情人节", slug: my-funky-valentine }
+  16: { theme: "恐惧 / 路考", slug: fears }
+  17: { theme: "真相与谎言", slug: truth-be-told }
+  18: { theme: "管教之争 / 流星雨", slug: starry-night }
+  19: { theme: "Phil生日 / iPad", slug: game-changer }
+  20: { theme: "少年篮球", slug: beneath-the-bark }
+  21: { theme: "爷爷来访", slug: sudden-trips }
+  22: { theme: "Jay夏威夷 / 机场", slug: hawaii-bound }
+  23: { theme: "茂宜度假 / 婚礼", slug: hawaii-ni-loa }
+  24: { theme: "全家福 / 季终", slug: family-portrait }
