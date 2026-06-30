@@ -23,9 +23,19 @@ He is loving, confident, and often very funny without meaning to be.
 
 ## Short Introduction（短文）
 
-Daddy Pig is Peppa and George's daddy. He loves his family and likes joining their games, especially muddy puddles. Daddy Pig is very confident, so he often says things are easy, even when they are not easy at all. He tries to mend the computer, flip pancakes, and get fit on Peppa's little bicycle. These moments are funny because Daddy Pig wants to be an expert, but the pancake may land on his head and exercise may be harder than he expects. Peppa often laughs and says, “Silly Daddy,” but the family laughs with love. Daddy Pig is a warm, playful father who makes ordinary days funny.
+Daddy Pig is Peppa and George's daddy. 
+He loves his family and likes joining their games, especially muddy puddles. 
+Daddy Pig is very confident, so he often says things are easy, even when they are not easy at all. 
+He tries to mend the computer, flip pancakes, and get fit on Peppa's little bicycle. 
+These moments are funny because Daddy Pig wants to be an expert, but the pancake may land on his head and exercise may be harder than he expects. 
+Peppa often laughs and says, “Silly Daddy,” but the family laughs with love. 
+Daddy Pig is a warm, playful father who makes ordinary days funny.
 
-猪爸爸是 Peppa 和 George 的爸爸。他爱家人，也喜欢加入家人的游戏，特别是跳泥坑。猪爸爸很自信，所以他常常说事情很简单，即使事情一点也不简单。他会尝试修电脑、抛煎饼，也会骑 Peppa 的小自行车健身。这些场景很好笑，因为猪爸爸想当专家，但煎饼可能会落到他头上，运动也可能比他想象中更难。Peppa 常常笑着说 “Silly Daddy”，但一家人的笑里有爱。猪爸爸是一个温暖、爱玩的爸爸，他让普通的一天变得很好笑。
+猪爸爸是 Peppa 和 George 的爸爸。他爱家人，也喜欢加入家人的游戏，特别是跳泥坑。
+猪爸爸很自信，所以他常常说事情很简单，即使事情一点也不简单。
+他会尝试修电脑、抛煎饼，也会骑 Peppa 的小自行车健身。
+这些场景很好笑，因为猪爸爸想当专家，但煎饼可能会落到他头上，运动也可能比他想象中更难。Peppa 常常笑着说 “Silly Daddy”，但一家人的笑里有爱。
+猪爸爸是一个温暖、爱玩的爸爸，他让普通的一天变得很好笑。
 
 ---
 

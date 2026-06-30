@@ -24,7 +24,12 @@ She is George's big sister, and she lives with Mummy Pig and Daddy Pig.
 
 ## Short Introduction（短文）
 
-Peppa Pig is a cheerful little girl pig. She lives with Mummy Pig, Daddy Pig, and her little brother George. Peppa likes being a big sister, so she often tells George what to do and tries to look after him. Her favorite thing is jumping up and down in muddy puddles, especially when she is wearing her boots. Her best friend is Suzy Sheep, and her older cousin Chloe sometimes makes Peppa want to act like a grown-up girl. Peppa can be curious, bossy, and funny, but she loves her family and learns a lot through play.
+Peppa Pig is a cheerful little girl pig. 
+She lives with Mummy Pig, Daddy Pig, and her little brother George. 
+Peppa likes being a big sister, so she often tells George what to do and tries to look after him. 
+Her favorite thing is jumping up and down in muddy puddles, especially when she is wearing her boots. 
+Her best friend is Suzy Sheep, and her older cousin Chloe sometimes makes Peppa want to act like a grown-up girl. 
+Peppa can be curious, bossy, and funny, but she loves her family and learns a lot through play.
 
 Peppa Pig 是一只开心的小女孩小猪。她和猪妈妈、猪爸爸、弟弟 George 住在一起。Peppa 喜欢当姐姐，所以她常常告诉 George 怎么做，也会试着照顾他。她最喜欢穿着靴子在泥坑里跳上跳下。她最好的朋友是 Suzy Sheep，年纪更大的 cousin Chloe 有时会让 Peppa 想表现得像大孩子。Peppa 好奇、有时爱指挥，也很有趣，但她爱家人，并且常常在玩中学习。
 
