@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语（Celine 爱太空）]]（与此页 **相向互链**；本页偏词表与尺度，该页偏**顺着兴趣聊天**的场景句。）
+**相关：** [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语（Celine 爱太空）]]（与此页 **相向互链**；本页偏词表与尺度，该页偏**顺着兴趣聊天**的场景句。）**问几点、多久、多频、作息枢纽** → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]]（本页偏日历全表；该页偏钟点读法与亲子口令）。
 
 ---
 

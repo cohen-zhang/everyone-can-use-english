@@ -11,7 +11,7 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** **场景短文** — [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#6-儿童房--kids-room|整合 · 儿童房篇]]（约 2 分钟跟读）。**房间分篮归类**（客厅／厨房／儿童房等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]（与此页相向互链）。
+**相关：** **场景短文** — [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合#6-儿童房--kids-room|整合 · 儿童房篇]]（约 2 分钟跟读）。**房间分篮归类**（客厅／厨房／儿童房等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]（与此页相向互链）。**问几点／设闹钟／计时器**口语总表 — [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#8-设备钟闹钟计时器--clock-alarm-timer|时间表达汇总 · 设备]]（与本页 Clock·Alarm·Timer 节相向互链）。
 
 ## 本页在做什么
 

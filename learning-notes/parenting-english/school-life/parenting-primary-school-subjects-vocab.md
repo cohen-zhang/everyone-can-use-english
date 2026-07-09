@@ -18,6 +18,8 @@ tags:
 
 **相关：** **学科分篮归类**（含小学科目、自然科学 physics/chemistry/biology、人文社科 philosophy/economics/psychology、大学门类）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#5-学科与在校--school-subjects|分类归类游戏 · 学科]]（与此页相向互链）。
 
+**相关：** **放学几点、第几节、deadline、星期几交作业** 等时间说法总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#6-作息与学校日程摘要--routines--school|时间表达汇总 · 学校日程]]。
+
 ---
 
 ## 1. 学年与学期 — The School Year

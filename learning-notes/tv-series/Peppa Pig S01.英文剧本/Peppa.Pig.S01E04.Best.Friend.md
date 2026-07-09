@@ -1,5 +1,7 @@
 **S1-04 best friend**
 
+**相关：** *Just for a little while*（一会儿）与时长对比 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#一会儿--a-little-while--for-a-bit|时间表达汇总 · 一会儿]]
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -165,6 +167,9 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
-| **plaster** | /ˈplæstər/ | 灰泥；腻子（装修） | 低频 |
+| **a little while** | /ə ˈlɪtl waɪl/ | 一会儿（短而不精确） | 口语 · 时长 |
+| **visitor** | /ˈvɪzɪtər/ | 探访者；来看望的人 | |
+| **patient** | /ˈpeɪʃnt/ | 病人；（adj.）有耐心的 | 一词多义 |
+| **plaster** | /ˈplæstər/ | 创可贴（英）；灰泥 | 低频 · 英式 |
 | **rumbling** | /ˈrəmbəlɪŋ/ | 隆隆响 | 低频 |
 | **tickles** | /ˈtɪkəlz/ | 挠痒痒；（第三人称）发痒 | 低频 |

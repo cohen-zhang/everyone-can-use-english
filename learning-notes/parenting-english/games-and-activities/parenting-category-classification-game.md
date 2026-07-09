@@ -483,7 +483,7 @@ aliases:
 
 ## 11. 时间、季节与天文 — Time, Seasons & Space
 
-[[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab|季节月份星座太空]]
+[[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab|季节月份星座太空]] · **钟点／多久／多频总入口** → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]]
 
 | 分类（EN） | 中文 | 成员 | 亲子句 |
 | --- | --- | --- | --- |
@@ -491,6 +491,7 @@ aliases:
 | **Months** | 月份 | January … December | **My birthday is in July.** — 我生日在七月。 |
 | **Parts of day** | 一天时段 | morning, afternoon, evening, night | 与 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#时间类\|day ↔ night]] 联练 |
 | **Days of week** | 星期 | Monday … Sunday | **PE is on Tuesday.** — 星期二有体育。 |
+| **Clock time** | 钟点 | o'clock, half past, a.m./p.m. | [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#1-问几点读钟--telling-the-time\|时间汇总 · 读钟]] |
 | **Planets & space** | 行星与太空 | Sun, Moon, Mars, rocket, astronaut | [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases\|宇宙航天亲子口语]] |
 | **Zodiac**（文化拓展） | 生肖星座 | Year of the Dragon; Leo, Virgo… | 顺兴趣认读，不必一次背全 |
 
@@ -552,8 +553,8 @@ aliases:
 
 | 分类（EN） | 中文 | 举例 | 联练 |
 | --- | --- | --- | --- |
-| **Basic colors** | 基础色 | red, blue, yellow, green, black, white | **Sort the red blocks and blue blocks.** — 红积木蓝积木分开收。 |
-| **More colors** | 扩展色 | pink, purple, orange, brown, gray | 蜡笔、乐高分类 |
+| **Basic colors** | 基础色 | red, blue, yellow, green, black, white | [[learning-notes/parenting-english/vocabulary/color\|颜色词表]] · **Sort the red blocks and blue blocks.** — 红积木蓝积木分开收。 |
+| **More colors** | 扩展色 | pink, purple, orange, brown, gray | 同上 · 蜡笔、乐高分类 |
 | **Size** | 大小 | big, small, tall, short, long | [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#大小与多少\|正反义词 · 大小]] |
 | **Amount** | 多少 | many, few, more, less, all, none | 同上 |
 

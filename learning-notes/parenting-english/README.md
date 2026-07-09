@@ -37,6 +37,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]] — 儿童游乐设施、户外健身器材、进园安全
 - [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|餐桌礼仪]] — 吃饭规矩
 - [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases.md|收拾整理日常]] — clean up
+- [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases.md|时间表达汇总]] — 问几点、时段、多久／多频、作息与学校日程枢纽（链出季节／作息／作业等详表）
 - [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]] — 不多（Celine）爱太空时的顺兴趣句与词表
 
 ---
@@ -47,6 +48,7 @@ aliases:
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines.md|动作动词 — 分类总表]] — 手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭与作业指令等分主题动词表
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词]] — 动物 + 猜谜提示
 - [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 蔬果肉主食零食
+- [[learning-notes/parenting-english/vocabulary/color.md|颜色]] — 基础／进阶色、深浅、亲子认色句与习语
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]] — 工作、扮装

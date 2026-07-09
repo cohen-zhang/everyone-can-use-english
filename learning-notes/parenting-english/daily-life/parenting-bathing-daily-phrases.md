@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 洗漱核心动词速查（wash, rinse, scrub, brush, wipe 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#8-梳洗与卫生--grooming--hygiene|动作动词 — 分类总表 §8 梳洗与卫生]]（与本页相向互链）。
+**相关：** 洗漱核心动词速查（wash, rinse, scrub, brush, wipe 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#8-梳洗与卫生--grooming--hygiene|动作动词 — 分类总表 §8 梳洗与卫生]]（与本页相向互链）。**再五分钟／快睡觉了** 等时间口令总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#4-多久再几分钟--duration--countdowns|时间表达汇总 · 多久]]。
 
 面向**亲子洗澡场景**：从放水、调试水温、洗头洗澡、擦干到出浴室的完整流程。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 

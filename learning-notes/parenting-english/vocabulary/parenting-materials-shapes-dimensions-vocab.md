@@ -15,7 +15,7 @@ aliases:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 搭配动作指令练习可看 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]（例如 *Pick it up carefully. It's made of glass.*）。家电实物场景可结合 [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases|家电日常]] 一起练。数学符号里的 **square / cube** 等见 [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]。户外捡石头、步道碎石 → [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases|亲子 Hiking 场景]]。
+**相关：** 搭配动作指令练习可看 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]（例如 *Pick it up carefully. It's made of glass.*）。描述物品时常叠颜色 → [[learning-notes/parenting-english/vocabulary/color|颜色]]（*a red plastic cup*）。家电实物场景可结合 [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases|家电日常]] 一起练。数学符号里的 **square / cube** 等见 [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]。户外捡石头、步道碎石 → [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases|亲子 Hiking 场景]]。
 
 ---
 
