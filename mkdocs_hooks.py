@@ -352,7 +352,61 @@ def on_page_markdown(markdown, page, files, **kwargs):
     out = _wiki_replacer(markdown, page, files)
     out = _md_learning_notes_replacer(out, page, files)
     out = _md_transcript_link_replacer(out, page, files)
+    out = _hard_break_song_lyrics(out, page)
     return out
+
+
+def _hard_break_song_lyrics(markdown: str, page) -> str:
+    """Preserve per-line breaks in english-song lyric blocks on GitHub Pages.
+
+    CommonMark collapses single newlines inside a paragraph; song notes store
+    one lyric line per newline. Append Markdown hard-break spaces so MkDocs
+    renders each line separately.
+    """
+    src = getattr(getattr(page, "file", None), "src_path", "") or ""
+    src = src.replace("\\", "/")
+    if not src.startswith("english-song/"):
+        return markdown
+
+    lines = markdown.splitlines(keepends=True)
+    out: list[str] = []
+    in_lyrics = False
+
+    for line in lines:
+        raw = line[:-1] if line.endswith("\n") else line
+        newline = "\n" if line.endswith("\n") else ""
+        stripped = raw.strip()
+
+        if re.match(r"^##\s+", stripped):
+            in_lyrics = bool(re.match(r"^##\s+歌词", stripped))
+            out.append(line)
+            continue
+
+        if not in_lyrics:
+            out.append(line)
+            continue
+
+        # Keep structure lines unchanged.
+        if (
+            not stripped
+            or stripped.startswith("#")
+            or stripped.startswith(">")
+            or stripped.startswith("|")
+            or stripped.startswith("```")
+            or stripped == "---"
+            or stripped.startswith("![")
+        ):
+            out.append(line)
+            continue
+
+        # Already a hard break, or HTML break.
+        if raw.rstrip("\r").endswith("  ") or raw.rstrip().endswith("<br>"):
+            out.append(line)
+            continue
+
+        out.append(raw.rstrip() + "  " + newline)
+
+    return "".join(out)
 
 
 # Folder-name → sidebar section title (MkDocs auto-nav uses title-cased dir names).
