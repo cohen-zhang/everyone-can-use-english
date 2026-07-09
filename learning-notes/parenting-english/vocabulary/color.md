@@ -244,3 +244,67 @@ aliases:
 2. 再加 [进阶色](#2-进阶常用色--more-colors) 与 [light / dark](#构词小规律--light--dark)  
 3. 收拾、穿衣场景链到文首「相关」里的整理／穿衣笔记  
 4. 习语留给阿泽扫 [§4](#4-高频习语速查--idioms家长向)
+
+---
+
+## 英文短文 · 阿泽自述（颜色词生活描述）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Color words are one of my easiest daily English tools with Celine.  
+At breakfast, I ask simple questions:  
+"What color is your cup?" "Is this banana yellow or green?"  
+She answers quickly, so confidence builds fast.  
+
+When we get dressed, I use contrast.  
+"Do you want the pink shirt or the blue one?"  
+"This is light blue, not navy."  
+These comparisons help her hear fine differences.  
+
+During play, we sort crayons and blocks by color.  
+I say, "Put all red pieces here, and put all dark green pieces there."  
+Then we make full sentences:  
+"The apple is red." "The sky is pale blue today."  
+
+I also use color in emotions and stories.  
+"You look rosy and happy." "That was a gray, rainy morning."  
+Little by little, color words move from naming to describing.  
+
+For me, teaching colors is not only vocabulary work.  
+It is a great way to train observation, comparison, and spoken fluency.
+
+**简中：**
+
+颜色词是我和 Celine 最容易高频练的英语入口。  
+早餐时我会问：你的杯子是什么颜色？这个香蕉是黄还是偏绿？  
+她通常能很快回答，信心也起来得很快。  
+
+穿衣时我会做对比：  
+要粉色上衣还是蓝色上衣？这是浅蓝，不是藏青。  
+这种对照有助于她听出细微差别。  
+
+玩耍时再做分类：红色一堆、深绿色一堆。  
+接着升级成完整句：苹果是红的，今天天空是浅蓝的。  
+
+我还会把颜色带进情绪和叙事：气色红润、灰灰的雨天。  
+这样颜色词会从“会认”升级成“会描述”。  
+
+对我来说，颜色不只是单词训练，也是观察力、比较力和口语流畅度的训练。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+In the closet, we compare shades: light pink, hot pink, navy blue, sky blue, and deep green.  
+At snack time, I ask, "Is this grape purple or dark red?" and "Is this bread golden brown?"  
+Outside, we describe weather colors: gray clouds, silver rain, and a bright rainbow after the storm.  
+In art time, I guide mixing language: "Add a little white to make it lighter; add black to make it darker."  
+Sometimes I add idioms for me: "green light," "feeling blue," and "black and white thinking" in adult context.  
+
+**简中（扩展）：**  
+在衣柜里我们会比深浅：浅粉、亮粉、藏青、天蓝、深绿。  
+零食时间我会问：葡萄是紫色还是深红？面包是金棕色吗？  
+户外再说天气颜色：灰云、银色雨线、雨后彩虹。  
+画画时练调色表达：加一点白会更浅，加一点黑会更深。  
+我自己也会顺带扫习语：green light、feeling blue、black and white thinking。  

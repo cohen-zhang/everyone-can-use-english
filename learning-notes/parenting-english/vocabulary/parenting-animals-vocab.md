@@ -507,3 +507,65 @@ Red palms paddle the clear waves.
 - Updated riddle hint for guessing game: "Long neck. It curves toward the sky to sing. White feathers on green water. Red feet paddle the waves. What bird is it?"
 
 This classic poem is perfect for **animal vocabulary** and **parent-child English time**. It makes "goose" memorable through rhythm and imagery.
+
+---
+
+## 英文短文 · 阿泽自述（动物词亲子输入）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use animal vocabulary with Celine in three scenes: books, parks, and guessing games.  
+At home, we start with familiar animals like cat, dog, rabbit, and duck.  
+Then I add features:  
+"The rabbit has long ears."  
+"The duck has webbed feet."  
+"The giraffe has a long neck."  
+
+When we go outside, we connect words to real observation.  
+If we see birds near water, I ask, "Is it a duck or a goose?"  
+She points, describes color and movement, and gives her guess.  
+
+At night, we play a riddle game.  
+I describe one animal without saying the name:  
+"It is big, gray, and has a trunk."  
+She answers, "Elephant!"  
+Then we switch roles and she gives clues.  
+
+This routine teaches more than nouns.  
+It builds sentence patterns, listening attention, and confidence in speaking.  
+Animal words are easy for kids to love, so they are perfect for daily English momentum.
+
+**简中：**
+
+我和 Celine 主要在三类场景练动物词：绘本、户外观察、猜谜游戏。  
+在家先从熟悉动物开始：猫、狗、兔子、鸭子，再加特征句：  
+兔子耳朵长、鸭子有蹼、长颈鹿脖子很长。  
+
+到户外就把单词和真实观察绑定。  
+看到水边鸟类时，我会问：是 duck 还是 goose？  
+她会指认、描述颜色和动作，再给出判断。  
+
+晚上做猜谜：我不说名字，只给线索。  
+比如“它很大、灰色、有长鼻子”，她答 elephant。  
+然后角色互换，让她来出题。  
+
+这个流程不只练名词，还练句型、听力注意力和口语自信。  
+动物话题天然有趣，很适合做高频、低压力的日常英语输入。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We group animals by habitat: farm animals, pets, wild animals, and sea animals.  
+Then we add body-part phrases: wings, claws, paws, tails, horns, and feathers.  
+Next we practice motion verbs: birds **fly**, fish **swim**, frogs **hop**, snakes **slither**, and lions **roar**.  
+I ask full questions: "What does it eat?" "Where does it live?" "Is it active at night?"  
+For memory, we play compare-and-contrast: "A duck has webbed feet, but a chicken has claws."  
+
+**简中（扩展）：**  
+我们会按栖息地分类：农场动物、宠物、野生动物、海洋动物。  
+再补身体部位短语：翅膀、爪子、肉垫、尾巴、角、羽毛。  
+动作词一起练：鸟飞、鱼游、青蛙跳、蛇爬行、狮子咆哮。  
+我会问完整问题：它吃什么？住在哪？是不是夜间活动？  
+最后做对比句：鸭子有蹼，鸡是爪。这样词组和概念会绑得更紧。

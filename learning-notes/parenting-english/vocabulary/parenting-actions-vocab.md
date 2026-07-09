@@ -176,3 +176,61 @@ tags:
 | 吃零食     | Take out a cookie and put the lid back on.  | 拿出一块饼干，然后把盖子盖回去。 |
 | 准备画画    | Take out a piece of paper. Open the marker. | 拿出一张纸。打开马克笔。     |
 | bedtime | Close the book and put it down.             | 把书合上，然后放下。       |
+
+---
+
+## 英文短文 · 阿泽自述（动作词口令训练）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use action verbs all day with Celine, not only in study time.  
+In the morning, I say, "Come in, pick up your cup, and put it on the table."  
+When she gets ready, I add daily routines: "Put on your socks, take off your pajamas, and switch on the light."  
+
+During cleanup, we practice clear sequences.  
+"Take out the toys, sort them, then put them back in the box."  
+"Open the drawer, pull out your notebook, and put it down on the desk."  
+Short commands help her understand both meaning and order.  
+
+I also pair opposite actions: open and close, put in and take out, push and pull.  
+This makes vocabulary stick faster.  
+
+At night, I turn it into a mini drill game.  
+I give five commands, and she responds with actions and full sentences:  
+"I can pick it up." "I can put it down."  
+Action verbs become real language when body and words move together.
+
+**简中：**
+
+我和 Celine 一天里都会练动作词，不只在“学习时间”。  
+早上会说：进来、把杯子拿起来、放到桌上。  
+换衣准备时再叠加：穿上袜子、脱掉睡衣、把灯打开。  
+
+整理阶段我会用顺序口令：  
+把玩具拿出来、分类、再放回盒子；  
+打开抽屉、把本子拉出来、放到桌面。  
+短指令能同时训练词义和先后顺序。  
+
+我也会配反义动作一起练：开/关、放进/拿出、推/拉。  
+这样记得更牢。  
+
+晚上做 30 秒小游戏：我说五条口令，她边做边说完整句。  
+动作词一旦和身体动作绑定，就会从“背单词”变成“会表达”。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+Before school, I say, "Come in, **open** the closet, **take out** your jacket, and **put on** your shoes."  
+After dinner, I say, "Please **pick up** the spoon, **put it in** the sink, and **close** the cabinet."  
+During playtime, we practice opposites: "**push in** the chair, then **pull out** the box."  
+At bedtime, she **switches off** the lamp, **puts down** the book, and **goes out** of the study quietly.  
+When she forgets, I repeat with rhythm, and she answers: "I can **put away** toys. I can't **throw around** things."  
+
+**简中（扩展）：**  
+上学前我会说：进来、打开衣柜、拿出外套、穿上鞋子。  
+晚饭后我会说：把勺子拿起来、放进水槽、把柜门关上。  
+玩耍时专练反义：把椅子推进去，再把盒子拉出来。  
+睡前她会关灯、放下书、安静离开书房。  
+如果忘了，我就用节奏重复，她再用 can / can't 复述，动作短语会更快固化。

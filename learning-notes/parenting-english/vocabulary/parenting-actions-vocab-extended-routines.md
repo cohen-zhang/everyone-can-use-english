@@ -511,3 +511,65 @@ tags:
 ## 一句话复习（家长自用）
 
 **Sort verbs by body, animal, sport, ride, wash, and home—then drill five commands a day.** — 按身体、动物、运动、骑行、洗漱、家庭分好类，每天练五条口令就够。
+
+---
+
+## 英文短文 · 阿泽自述（动作总表分类复述）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+This action-verb map is my core speaking tool with Celine.  
+I don't teach all verbs at once.  
+I rotate by category: body actions, animal actions, sports, riding, grooming, home routines, and device gestures.  
+
+Each day we do one mini round.  
+I say five commands, she acts first, then repeats in full sentences.  
+For example:  
+"Turn around."  
+"Clap your hands."  
+"Hang up your towel."  
+"Scroll down."  
+"Put your shoes on."  
+
+I also mix "can" and "can't" for control and safety.  
+"I can jump."  
+"I can't run near the stairs."  
+
+Classification makes memory cleaner.  
+She knows where a verb belongs, when to use it, and what body movement matches it.  
+This page helps us move from random word learning to structured spoken output.
+
+**简中：**
+
+这份动作动词分类总表，是我和 Celine 口语训练的核心工具。  
+我不会一次全教，而是按类别轮换：身体、动物、运动、骑行、洗漱、家庭流程、设备手势。  
+
+每天做一轮小练习：我说五条口令，她先做动作，再说完整句。  
+比如转身、拍手、挂毛巾、下滑、穿鞋。  
+
+我还会加入 can / can't，顺便练规则边界：  
+我会跳；我不能在楼梯边跑。  
+
+分类训练的好处是记忆更干净：  
+她知道词属于哪一类、在什么场景用、对应什么动作。  
+这样就能从“零散背词”升级为“结构化口语输出”。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+On body days, we use verbs like bend, stretch, squat, balance, and tiptoe with simple PE commands.  
+On animal days, we act out crawl, flap, chase, pounce, and paddle to connect verbs with rhythm.  
+On sport days, we drill pass, catch, dribble, kick, and score in short game scenes.  
+On riding days, we add brake, steer, signal, slow down, and watch for pedestrians.  
+On home-routine days, we repeat fold, wipe, rinse, hang up, and put away.  
+On device days, we contrast tap, swipe, scroll, long press, zoom in, and go back.  
+
+**简中（扩展）：**  
+身体动作日会练：弯曲、伸展、下蹲、平衡、踮脚。  
+动物动作日会演：爬行、扑腾翅膀、追逐、扑上去、划水。  
+运动日再上：传球、接球、运球、踢球、得分。  
+骑行日补安全词：刹车、转向、打手势、减速、注意行人。  
+家庭流程日复读：折叠、擦拭、冲洗、挂起、收纳。  
+设备手势日对照：点按、滑动、滚动、长按、放大、返回。  

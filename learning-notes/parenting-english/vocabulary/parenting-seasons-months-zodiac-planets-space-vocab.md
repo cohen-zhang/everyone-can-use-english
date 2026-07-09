@@ -192,3 +192,64 @@ tags:
 
 **Seasons *in*, months capitalized, days *on*, planets orbit—four time layers.**  
 四季用 *in*；月份／星期单词首字母要大写（星期名前常用 *on*）；行星绕太阳—时间尺度从这周说到宇宙也够玩一轮。`亲子`
+
+---
+
+## 英文短文 · 阿泽自述（时间与太空词串联）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I teach Celine time words in layers: seasons, months, weekdays, and space.  
+We start from daily life:  
+"Today is Monday." "In July, it is hot in Shenzhen."  
+Then we move to bigger ideas: Earth, Moon, Sun, and planets.  
+
+I keep sentence frames stable so she can replace words easily.  
+"In spring, we..."  
+"On Friday, we..."  
+"The Earth orbits the Sun."  
+"The Moon orbits the Earth."  
+Repetition with small variation works very well.  
+
+When she asks about zodiac signs, I explain the difference simply.  
+Star signs are a social topic, while astronomy is science about space.  
+She can enjoy both, but she should know they are not the same system.  
+
+At night, we do a quick review game:  
+name one month, one weekday, one planet, and one sentence using in/on/at.  
+This helps her connect calendar language with curiosity about the universe.
+
+**简中：**
+
+我给 Celine 讲时间词会按层次来：季节、月份、星期，再到太空。  
+先从生活句开始：今天周一、深圳七月很热；  
+再扩大到宇宙：地球、月球、太阳和行星。  
+
+我会固定句框，便于她替换词：  
+In spring we... / On Friday we... / The Earth orbits the Sun.  
+小变化高重复，效果很好。  
+
+她问到星座时，我会讲清边界：  
+星座运势是社交话题，astronomy 是科学体系。  
+两者都可以聊，但不是一回事。  
+
+晚上做一分钟复盘：说一个月份、一个星期词、一个行星名，再造一句 in/on/at。  
+这样日历语言和太空兴趣就能连成一套稳定输出。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We build calendar chains like: "In spring we plant, in summer we swim, in autumn we hike, and in winter we layer up."  
+For months, we say: "School starts in September, holidays come in January and February, and summer break is in July and August."  
+For weekdays, we add routine verbs: "On Monday we read, on Wednesday we train, on Friday we review."  
+For space, we name planet order and function words: orbit, rotate, distance, gravity, and telescope.  
+Sometimes we compare Chinese zodiac and zodiac signs in one line to avoid mixing systems.  
+
+**简中（扩展）：**  
+我们会做四季链条句：春天种、夏天游、秋天徒步、冬天加衣。  
+月份再串到生活：九月开学，一二月节日多，七八月暑假。  
+星期再配动作：周一读书、周三训练、周五复盘。  
+太空部分会补功能词：轨道、自转、公转、距离、引力、望远镜。  
+也会一行对照“西方星座”和“中国生肖”，避免概念混淆。  

@@ -563,3 +563,66 @@ tags:
 ---
 
 *可与 `日常礼貌与餐桌礼仪-亲子英文.md` 搭配：这篇负责“吃什么”，那篇负责“怎么吃、怎么说”。*
+
+---
+
+## 英文短文 · 阿泽自述（中国家庭饮食词汇）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Food vocabulary is one of the most practical English topics in our home.  
+When we shop, cook, or order takeout, I involve Celine in small language tasks.  
+
+At the market, I ask her to name categories: vegetables, fruits, meat, seafood, snacks, and drinks.  
+Then we add taste words like sweet, sour, spicy, savory, and crunchy.  
+
+At home, I use simple kitchen lines:  
+"Wash the tomatoes."  
+"Cut the cucumber."  
+"This soup is a little salty."  
+"Let's use less oil and less sugar."  
+
+At the table, we practice preference and polite choice.  
+"Do you want rice or noodles?"  
+"I like steamed eggs, but not too spicy."  
+
+For outside meals, she learns practical ordering phrases and portion words.  
+This helps her communicate clearly in real situations.  
+
+My goal is not fancy food English.  
+My goal is useful daily language that supports healthy habits, family communication, and confident speaking.
+
+**简中：**
+
+食物词汇是我们家最实用的英语主题之一。  
+买菜、做饭、点外卖都能顺手练。  
+
+在市场我会让 Celine 先按类别说：蔬菜、水果、肉海鲜、零食、饮品。  
+再加口味词：甜、酸、辣、鲜、脆。  
+
+在家做饭时练操作句：洗番茄、切黄瓜、这个汤有点咸、今天少油少糖。  
+吃饭时再练偏好和礼貌选择：要米饭还是面？我喜欢蒸蛋，但不要太辣。  
+
+外出点餐再补“份量”和“定制”表达，这些都能直接落地。  
+我的目标不是华丽词藻，而是可复用的生活英语：  
+既服务健康饮食，也提升家庭沟通和口语自信。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We rotate food sets by meal: congee and buns for breakfast, rice and stir-fry for lunch, soup and vegetables for dinner.  
+For ingredients, we practice pairings like pork with cabbage, beef with broccoli, fish with ginger, and eggs with tomato.  
+For taste, we compare sweet, sour, spicy, salty, bitter, and umami with real dishes on the table.  
+For texture, we use tender, juicy, crispy, chewy, and silky in one tasting round.  
+In ordering, we train practical phrases: less oil, less salt, no cilantro, no peanuts, and medium spice.  
+For drinks, we add choices like green tea, oolong, milk tea, and less sugar, less ice orders.  
+
+**简中（扩展）：**  
+我们会按三餐轮换词汇：早餐粥和包子，午餐米饭和炒菜，晚餐汤和蔬菜。  
+食材搭配也会练：猪肉配白菜、牛肉配西兰花、鱼配姜、番茄炒蛋。  
+口味词用真菜体验：甜、酸、辣、咸、苦、鲜。  
+口感词做一轮：嫩、多汁、脆、有嚼劲、顺滑。  
+点单句重点练可执行短语：少油少盐、不要香菜、不要花生、中辣。  
+饮品再补：绿茶、乌龙、奶茶，以及少糖少冰的实际表达。  

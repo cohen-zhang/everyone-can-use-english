@@ -203,3 +203,62 @@ aliases:
 ---
 
 *Former filename: `parenting-materials-vocab.md` — 已扩展为材质 + 形状 + 维度。*
+
+---
+
+## 英文短文 · 阿泽自述（材质形状维度观察）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use home objects to teach Celine materials, shapes, and dimensions together.  
+In the kitchen, I ask:  
+"Is this cup plastic, glass, or stainless steel?"  
+"Is this plate round or rectangular?"  
+
+Then we add dimension words: long, wide, tall, thin, and thick.  
+I let her describe one object with at least two features:  
+"This box is rectangular and wide."  
+"This spoon is metal and shiny."  
+
+During toy time, we sort flat and solid shapes.  
+Circle and square for 2D, cube and cylinder for 3D.  
+She touches the object while saying the word, so memory is stronger.  
+
+Safety language is part of this lesson too.  
+Glass can break, metal edges can be sharp, and heavy items need two hands.  
+
+For me, this topic is excellent for practical English.  
+It combines science observation, daily safety, and sentence building in one routine.
+
+**简中：**
+
+我会用家里真实物品，把材质、形状、维度一起教给 Celine。  
+比如在厨房问：这个杯子是塑料、玻璃还是不锈钢？这个盘子是圆形还是长方形？  
+
+然后再叠加维度词：长、宽、高、薄、厚。  
+我要求她描述一个物品时至少说两条特征：  
+这个盒子是长方形而且比较宽；这个勺子是金属的、表面发亮。  
+
+玩具阶段再做 2D/3D 分类：圆形、方形；立方体、圆柱体。  
+边摸边说，记忆更牢。  
+
+这个主题也天然能带安全表达：玻璃会碎、金属边可能锋利、重物要双手拿。  
+对我来说，这是一套非常实用的英语训练，把观察、科学和安全沟通放在同一条线上。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We compare materials in real decisions: plastic is lighter, glass is clearer, metal is stronger, and wood feels warmer.  
+For shapes, we move from naming to function: circles roll, rectangles stack well, and triangles make stable support.  
+For dimensions, I ask complete descriptions: "This shelf is long but narrow," "That box is short but deep."  
+I add texture adjectives too: smooth, rough, soft, hard, flexible, and rigid.  
+In safety talk, we practice warnings: "Handle glass with care," "Don't touch sharp edges," and "Use both hands for heavy objects."  
+
+**简中（扩展）：**  
+我们会把材质词放进真实决策：塑料更轻、玻璃更透、金属更硬、木头更温和。  
+形状词从“认名字”升级到“说用途”：圆形会滚、长方形好堆放、三角形支撑更稳。  
+维度词要求完整描述：这个架子很长但偏窄，那个盒子不高但很深。  
+我还会补触感词：光滑、粗糙、柔软、坚硬、可弯、刚性。  
+安全表达也一起练：玻璃要轻拿轻放、锋利边缘别碰、重物要双手拿。  

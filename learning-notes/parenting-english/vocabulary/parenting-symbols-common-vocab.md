@@ -191,3 +191,62 @@ tags:
 ---
 
 *可与 `深圳小学课程-亲子英文.md`、`手机使用日常.md` 搭配；若孩子上国际学校或全英数学课，**读音以任课老师为准**。*
+
+---
+
+## 英文短文 · 阿泽自述（符号词跨学科使用）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Symbols appear everywhere in Celine's day: reading, math, typing, and homework notes.  
+So I teach symbol words as practical tools, not isolated terms.  
+
+In English reading, we name punctuation directly: period, comma, question mark, and quotation marks.  
+I ask her to read with pauses so punctuation has real function.  
+
+In math, we practice plus, minus, times, divided by, and equals.  
+I let her say full expressions aloud before writing answers.  
+This builds both speaking rhythm and calculation clarity.  
+
+When typing on a tablet, she learns hashtag, at sign, and ampersand.  
+For passwords, we also mention safety and privacy.  
+
+In Chinese homework, I explain that characters are not "symbols" in the same way as punctuation.  
+We use terms like character, radical, and stroke.  
+
+This mixed training helps her switch contexts smoothly.  
+One symbol, one meaning, one proper scene.  
+That is how vocabulary becomes useful in real study life.
+
+**简中：**
+
+符号词在 Celine 一天里到处都用得到：阅读、数学、打字、作业。  
+所以我把它当“工具词”来教，不把它变成孤立背诵。  
+
+英文阅读里，直接叫出标点：句号、逗号、问号、引号，并练停顿。  
+数学里练加减乘除和等于，先口头完整读式子，再落笔。  
+
+平板输入再补 #、@、& 这类网络符号，同时带隐私和密码安全提醒。  
+语文场景里我会区分：汉字不是同一种“符号”概念，要用 character、radical、stroke。  
+
+这种跨场景训练能让孩子切换更顺：  
+一个符号，对应一个意思和一个正确使用场景。  
+词汇才会真正变成可用能力。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+In reading drills, I ask Celine to pause at commas, stop at periods, and raise tone at question marks.  
+In writing, we practice quotation marks and apostrophes with simple examples.  
+In math, she reads expressions aloud: "eight plus two equals ten," "ten divided by five equals two."  
+Then we extend to comparison signs: less than, greater than, and percentage language in charts.  
+On devices, we practice "at sign," "hashtag," and "ampersand" in usernames and search tags.  
+
+**简中（扩展）：**  
+阅读训练里，我会让 Celine 在逗号处停顿、句号处停下、问号处抬语调。  
+写作时再练引号和撇号的基本用法。  
+数学里先把算式完整读出来：8 加 2 等于 10，10 除以 5 等于 2。  
+再延伸到比较符号：小于、大于、百分比在图表中的表达。  
+设备输入里继续练 @、#、& 在用户名、标签和搜索场景里的实际用法。  

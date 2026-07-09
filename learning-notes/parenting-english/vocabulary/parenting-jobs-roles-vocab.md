@@ -130,3 +130,67 @@ tags:
 ---
 
 *Have fun with jobs and roles!* — 职业与角色，边玩边学更牢。
+
+---
+
+## 英文短文 · 阿泽自述（职业与角色扮演）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use jobs and roles as pretend-play English with Celine.  
+She can be a doctor, teacher, firefighter, or chef, and I become the customer or patient.  
+Role-play makes vocabulary active very quickly.  
+
+I guide with simple prompts:  
+"What is your job today?"  
+"What do you do at work?"  
+"Can you help me?"  
+She answers in short lines and adds actions.  
+
+We also connect family roles.  
+I say, "I am your dad, and you are my daughter."  
+Then we extend to social roles like neighbor, classmate, and teacher.  
+This helps her understand how language changes with relationship and tone.  
+
+Sometimes we replay scenes from cartoons, then switch to real life.  
+Pretend language first, practical language second.  
+That transition improves both confidence and realism.  
+
+For me, jobs and roles are great for speaking because they combine imagination, identity, and daily communication.
+
+**简中：**
+
+我会把职业和角色词汇做成扮演游戏来练。  
+Celine 可以当医生、老师、消防员、厨师，我来当病人或顾客。  
+这种方式能很快把词汇激活成表达。  
+
+我常用固定提问引导：你今天是什么职业？你的工作是什么？你能帮我吗？  
+她先用短句回答，再配合动作演出来。  
+
+我们也会连到家庭与社会角色：  
+我是爸爸、你是女儿；再扩展到邻居、同学、老师。  
+孩子会慢慢理解：关系不同，语言和语气也要调整。  
+
+有时先复刻动画场景，再切回真实生活场景。  
+先“好玩能说”，再“真实能用”。  
+对我来说，这个主题特别适合练口语，因为它把想象力、身份感和日常沟通放在了一起。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We build role chains: doctor checks, nurse helps, teacher explains, and firefighter rescues.  
+Then we add workplace verbs: design, repair, teach, cook, deliver, and protect.  
+In pretend scenes, I ask for polite role language: "How can I help you?" "Please wait your turn."  
+In family scenes, we switch to relationship roles: parent, child, sibling, grandparent, and neighbor.  
+I also add social respect phrases: "Mr. + last name," "Ms. + last name," and "Say hello to the guest."  
+This way, job words are not only labels; they become social communication practice.  
+
+**简中（扩展）：**  
+我们会做职业链条：医生诊断、护士协助、老师讲解、消防员救援。  
+再补工作动词：设计、修理、教学、烹饪、配送、保护。  
+扮演场景里我会要求礼貌句：我可以怎么帮您？请排队等一下。  
+家庭场景再切换角色词：家长、孩子、兄弟姐妹、祖辈、邻居。  
+并补尊称表达：Mr./Ms. + 姓氏、向客人打招呼。  
+这样职业词就不只是名词，而是可直接用于社会互动的表达能力。  

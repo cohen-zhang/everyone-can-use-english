@@ -284,3 +284,62 @@ tags:
 ---
 
 *文档按「面部 → 手势 → 爱心 → 物品 → 动物」分类，每表含 Emoji 与英文表达两列便于对照学习。*
+
+---
+
+## 英文短文 · 阿泽自述（Emoji 情绪表达训练）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use emoji vocabulary with Celine as a quick speaking game.  
+When she picks an emoji, she says one feeling word first:  
+happy, sad, excited, worried, or calm.  
+Then she adds one sentence:  
+"I feel excited because we are going to the park."  
+
+For gesture emojis, we practice social language.  
+Thumbs up means agreement, folded hands can mean thanks, and waving hand means greeting.  
+I remind her that tone and context matter, not just the icon.  
+
+Sometimes we do an emotion thermometer.  
+She rates her mood from 1 to 5 and explains why.  
+If the number is high and tense, we use calm-down phrases and breathing.  
+
+Emoji study works because it is visual, fast, and interactive.  
+It helps her connect image, word, and spoken sentence in one step.  
+For me, this is an easy daily bridge from chat symbols to real emotional communication.
+
+**简中：**
+
+我会把 Emoji 词汇做成快速口语游戏。  
+Celine 先选一个表情，再先说一个情绪词：开心、难过、兴奋、担心、平静。  
+然后补一句完整句：我很兴奋，因为今天要去公园。  
+
+手势类表情会顺带练社交表达：  
+点赞是认同，双手合十可表示感谢，挥手是打招呼。  
+我会提醒她：关键是语境和语气，不只是图标本身。  
+
+有时我们做“情绪温度计”：1 到 5 给自己打分，并说原因。  
+分值高、状态紧时，就用 calm down 句型和呼吸法。  
+
+Emoji 的优势是可视化、节奏快、互动强。  
+它能把“图像-词汇-句子”一步打通。  
+对我来说，这是从聊天符号过渡到真实情绪表达的低门槛训练。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We use emoji clusters to build mini stories: 😄 + 👍 + 🎉 means "I did it and feel proud."  
+For difficult moments, we pair 😟 + 🤔 + 💬 and practice: "I feel worried, so I want to talk."  
+For social manners, we compare contexts: 🙏 for thanks, 👋 for greeting, and ❤️ for care.  
+I also teach digital caution: not every 😂 means real happiness, and some messages need follow-up words.  
+Then we do sentence upgrades: "I was upset, but I calmed down and asked for help."  
+
+**简中（扩展）：**  
+我们会把多个 Emoji 串成小故事：😄 + 👍 + 🎉 表示“我做到了，我很自豪”。  
+遇到困难时用 😟 + 🤔 + 💬 练句子：我有点担心，所以我想聊一聊。  
+社交礼貌也做区分：🙏 更像感谢，👋 是打招呼，❤️ 表达关心。  
+我会提醒孩子数字语境风险：😂 不一定真开心，必要时要补文字说明。  
+最后升级成复合句：我先不高兴，后来冷静下来并主动求助。  

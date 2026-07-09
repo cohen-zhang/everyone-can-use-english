@@ -194,3 +194,63 @@ tags:
 
 **Seven continents / five oceans: name one country you know on each.**  
 七大洲五大洋太难一次背完时，就只玩「每个洲我说得出一个国家」。`亲子`
+
+---
+
+## 英文短文 · 阿泽自述（洲洋国家地图口语）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I teach continents, oceans, and countries with a globe and short spoken loops.  
+First we name the seven continents, then the five oceans.  
+After that, I ask Celine to place one familiar country on each continent.  
+
+I keep a simple pattern:  
+"This is Asia. China is in Asia."  
+"This is Europe. France is in Europe."  
+The same sentence frame helps her speak without stress.  
+
+When we talk about oceans, I use visual scale words: big, deep, and far.  
+For Antarctica, I connect climate and animals so she remembers context.  
+
+Sometimes we turn it into a travel imagination game.  
+"If we fly to Australia, what season might it be there?"  
+This links geography with time expressions and curiosity.  
+
+My goal is not perfect map memorization.  
+My goal is to help her build global vocabulary, clear sentence patterns, and confidence in describing the world.
+
+**简中：**
+
+我会用地球仪做洲洋国家的短循环口语训练。  
+先说七大洲、五大洋，再让 Celine 每个洲说一个熟悉国家。  
+
+句型保持固定最有效：  
+这是亚洲，中国在亚洲；这是欧洲，法国在欧洲。  
+句框稳定，孩子输出压力小。  
+
+讲大洋时，我会加“大、深、远”这类直观词。  
+讲南极时会连气候和动物，帮助形成语义场景。  
+
+有时再做旅行想象题：如果去澳大利亚，那边可能是什么季节？  
+这样地理词还能串到时间表达。  
+
+我不追求一次背全地图，而是希望她能用清楚句子描述世界，慢慢建立全球视野词汇和表达自信。
+
+**扩展覆盖（更多短语用法）**
+
+**English (extended):**  
+We practice route language with maps: north of, south of, next to, far from, and across the ocean.  
+I ask linked questions: "Which continent is Canada in?" "Which ocean is near Japan?"  
+Then we use travel phrases: "We can fly from Shenzhen to Singapore," "Brazil is in South America," and "Egypt is in Africa."  
+To build memory, we do continent-to-country chains and ocean-to-continent pairs in quick rounds.  
+Sometimes we add culture hooks, like food, landmarks, or animals, to make each place easier to remember.  
+
+**简中（扩展）：**  
+我们会在地图上练方位短语：在北边、在南边、靠近、离得远、跨洋。  
+再做连环问答：加拿大在哪个洲？日本靠哪个大洋？  
+然后说通勤旅行句：从深圳飞新加坡、巴西在南美、埃及在非洲。  
+记忆时用“洲-国家链条”和“大洋-大洲配对”做快问快答。  
+有时再加文化钩子（食物、地标、动物），地点就更不容易忘。  
