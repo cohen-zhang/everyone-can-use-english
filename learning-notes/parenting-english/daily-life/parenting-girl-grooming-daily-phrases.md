@@ -478,3 +478,42 @@ Celine：好吧，但不要弄到我眼睛里。
 - **Did you put your hair things away?**  
   你把头发用品收好吗？
 
+---
+
+## 13. 英文短文 · 阿泽自述（出门前梳妆）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Every school morning, I help Celine get ready. Her hair looks a little messy, so I say, "Time to **brush** your hair." She sits still. I ask her to look up, then look down a little. I go slow and stay gentle. When I hit a knot, I **untangle** it from the ends first. I don't pull.
+
+Then I ask, "Ponytail or pigtails today?" She often picks a high **ponytail**. I gather her hair and tie it with a **hair tie**. If it feels too tight, we loosen it. For school, we keep things simple. I **clip** her **bangs** to the side so hair stays out of her eyes. Fancy bows can wait for the weekend.
+
+Next, we look in the **mirror**. I check her face and wipe a little toothpaste if I see it. I fix her collar when it's folded in. She looks clean and fresh—ready for school. She doesn't need makeup. Being clean matters more than looking fancy.
+
+In Shenzhen, the sun gets strong. We **put on** a little **sunscreen** on her cheeks and nose. "Close your eyes," I say. I keep it out of her eyes. Sometimes we add lip balm if her lips feel dry.
+
+Before we leave, we put the comb, **hair ties**, and clips back in the box. Nothing stays on the floor. Hair out of her eyes. Clips comfortable. Face wiped. Sunscreen on. She's neat, comfortable, and ready to go.
+
+**简中：**
+
+每个上学日早上，我帮 Celine 出门前整理。头发有点乱，我就说该梳头了。她坐好别动；我让她稍微抬头、再低头一点。我慢慢梳、动作轻。碰到结就先从发尾梳开，不硬扯。
+
+然后问她今天要马尾还是双马尾。她常选高马尾。我把头发拢好，用皮筋扎上；太紧就松一点。上学打扮从简：把刘海夹到旁边，别挡眼睛。漂亮蝴蝶结留到周末。
+
+接着照镜子。看脸上有没有牙膏，有就擦掉；衣领折进去就帮她理好。她看起来干净清爽，准备好上学了。不用化妆——干净比花哨更重要。
+
+深圳太阳很晒，我们在脸颊和鼻子上涂一点防晒。我说闭上眼睛，小心别弄进眼睛。嘴唇干了就再涂点润唇膏。
+
+出门前把梳子、皮筋、发夹放回盒子，地上不留东西。头发不挡眼、发夹舒服、脸擦干净、防晒涂好。整洁、舒服，可以出门了。
+
+**本段句型回查**
+
+- 梳头与安抚 → 上文 §1
+- 扎发与皮筋松紧 → 上文 §2
+- 刘海、发夹、上学从简 → 上文 §3 · §4 · §7
+- 照镜子与出门检查 → 上文 §5
+- 防晒 → 上文 §6
+- 收纳与清单 → 上文 §8 · §12
+

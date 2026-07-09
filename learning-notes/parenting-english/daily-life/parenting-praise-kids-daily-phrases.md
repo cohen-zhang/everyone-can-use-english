@@ -120,3 +120,51 @@ aliases:
 ---
 
 *给 **不多 / Celine** 与 **阿泽** 亲子练习用；可与 [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|剧摘 · 夸奖与祝福]] 一起刷句。*
+
+---
+
+## 8. 英文短文 · 阿泽自述（夸奖的日常用法）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+I use praise every day with Celine, but I try to praise with purpose.  
+I don't only say "Good job."  
+I point to a real action: "You stayed focused." "You waited your turn." "You were kind to your friend."  
+
+When she works hard, I praise effort and strategy, not only results.  
+I say, "I can see you kept trying," or "You fixed it step by step."  
+This helps her connect success with process.  
+
+For manners, I notice small moments: greeting people, saying thank you, and speaking politely.  
+For character, I reinforce brave, honest, helpful choices.  
+
+I also keep praise balanced.  
+I avoid comparing her with other kids.  
+I don't use praise as pressure.  
+I use it to build self-trust and healthy motivation.  
+
+At night, I often end with one specific line:  
+"I am proud of how you handled today."  
+That sentence reminds her she is seen for who she is becoming, not only for what she scored.  
+Over time, good praise becomes emotional nutrition.
+
+**简中：**
+
+我每天都会夸 Celine，但我尽量“有目的地夸”。  
+不只说 Good job，而是点出具体动作：你很专注、你有耐心排队、你刚刚很友善。  
+
+遇到学习任务，我优先夸努力和方法，不只夸结果：  
+我看到你一直在尝试、你是一步一步改对的。  
+这样她会把进步和“过程”连接起来。  
+
+礼貌层面，我会抓小时刻：打招呼、说谢谢、语气得体。  
+品格层面，就强化勇敢、诚实、愿意帮忙。  
+
+我也会控制夸奖方式：不和别的孩子比较，不把夸奖变成压力。  
+夸奖的目标是建立自我信任和内驱力。  
+
+睡前我常用一句收尾：我为你今天处理事情的方式感到骄傲。  
+这让她知道，被看见的是“正在成长的她”，不只是分数。  
+长期来看，好的夸奖就是情绪营养。

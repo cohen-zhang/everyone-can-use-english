@@ -215,3 +215,47 @@ Celine：可是看起来很好玩！
 ---
 
 *可与小区笔记分区对照：小区偏「下楼即达」，市政公园偏「滨水／大草坪／器械种类更多」。*
+
+---
+
+## 8. 英文短文 · 阿泽自述（深圳公园亲子场景）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+On weekends, I often take Celine to a Shenzhen park.  
+Before we enter, I review three rules: stay where I can see you, wait your turn, and ask before switching areas.  
+
+At the playground, she loves slides and swings first.  
+I help her choose equipment that matches her current energy and confidence.  
+If the line is long, we practice waiting politely.  
+If kids are running fast, we step back and choose a safer moment.  
+
+We also pass by the outdoor fitness area.  
+I remind her those machines are mostly for older users, not climbing toys.  
+Then I redirect her to age-appropriate play.  
+
+After active play, we move to the lawn for water and a short snack.  
+I ask simple check-in questions: "Too hot?" "Need shade?" "Want a two-minute break?"  
+In Shenzhen weather, sun and hydration management are part of safety.  
+
+Before leaving, we do a calm reset:  
+pick up trash, thank each other for taking turns, and plan one thing to try next time.  
+A good park trip is fun, safe, and well-paced.
+
+**简中：**
+
+周末我常带 Celine 去深圳公园。  
+进园前先复述三条规则：在我视线内、轮到再玩、换区先说一声。  
+
+游乐区她通常先玩滑梯和秋千。  
+我会按当下状态选项目：排队时练等待，人多混乱时先退一步找更安全时机。  
+
+路过健身器材区，我会提醒那是偏成人器械，不是攀爬玩具，再引导回适龄区域。  
+
+玩一段后去草坪补水和短休，并做小检查：热不热、要不要阴凉、要不要休息两分钟。  
+在深圳，防晒和补水本身就是安全的一部分。  
+
+离开前做收束：垃圾带走、感谢彼此守规则、约定下次想挑战的一件事。  
+一次好的公园活动，应该是好玩、安全、节奏稳。

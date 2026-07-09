@@ -374,3 +374,52 @@ Jeff 笔记里有 *6:45 a.m. = quarter to seven* 一类对照（见 [[learning-n
 | 起床儿歌 | [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping\|Are You Sleeping?]] |
 
 **Seasons *in*, days *on*, clock *at*—three layers of time.** — 季节用 in，星期用 on，钟点用 at：时间三层。
+
+---
+
+## 10. 英文短文 · 阿泽自述（时间表达日常）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Time expressions run through our whole day with Celine.  
+In the morning, I start with clock time: "It's seven ten." "Breakfast in ten minutes."  
+Then I use sequence words so she feels structure: first, next, then, finally.  
+
+For school days, we practice day and date language.  
+"Today is Thursday." "Tomorrow is Friday." "Your class starts at eight."  
+I keep repeating **at**, **on**, and **in** naturally:  
+at 8:00, on Monday, in summer.  
+
+During homework and play, countdown language helps transitions.  
+"Five more minutes." "Let's finish in ten." "Break starts in two minutes."  
+This reduces arguing because expectations are clear.  
+
+I also build frequency habits:  
+"We read every day." "You have dance class twice a week."  
+These patterns make planning easier for both of us.  
+
+At night, I close with tomorrow talk:  
+what time to wake up, what time to leave, and what to prepare before bed.  
+For me, teaching time language is not grammar only.  
+It is life management, emotional stability, and family rhythm.
+
+**简中：**
+
+在我们家，时间表达贯穿整天。  
+早上先练钟点：现在七点十分、十分钟后吃早餐。  
+再用顺序词让流程清楚：先、再、然后、最后。  
+
+上学场景会反复练今天明天和星期：今天周四、明天周五、八点上课。  
+介词也自然重复：at 8:00，on Monday，in summer。  
+
+作业和玩耍切换时，用倒计时最有效：  
+还有五分钟、十分钟内做完、两分钟后休息。  
+边界清楚了，拉扯就少。  
+
+我也会练频率表达：每天读书、每周两次舞蹈课。  
+这种句型对家庭安排很实用。  
+
+晚上再收束明天的时间点：几点起、几点出门、睡前要准备什么。  
+对我来说，时间英语不只是语法，而是生活管理、情绪稳定和家庭节奏。

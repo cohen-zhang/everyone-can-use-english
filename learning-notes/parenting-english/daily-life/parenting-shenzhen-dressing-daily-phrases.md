@@ -568,3 +568,50 @@ Celine：好吧，我们出去的时候我再脱掉。
 - **Are you comfortable?**  
   你穿得舒服吗？
 
+---
+
+## 12. 英文短文 · 阿泽自述（深圳穿衣日常）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Every school morning in Shenzhen, I help Celine get dressed by weather first.  
+If it is hot and humid, we choose light, breathable clothes.  
+If classrooms may feel cool, we add a thin layer she can take off easily.  
+
+I ask her simple choices:  
+"Short sleeves or long sleeves?" "Sneakers or sandals for today?"  
+This gives her participation without making the routine too slow.  
+
+Comfort is my top rule.  
+If fabric feels itchy or seams bother her, we switch quickly.  
+If socks bunch up or shoes feel tight, we fix it before leaving.  
+No one learns well when clothes feel wrong.  
+
+After bath time, we follow a clean transition: dry body, fresh clothes, then laundry sorting.  
+Dirty clothes go to the hamper, clean sets go to the right drawer.  
+
+Before we head out, I do a final check:  
+right shoes on the right feet, school-ready outfit, and weather backup like a light jacket, hat, or umbrella.  
+
+Dressing is not only about looking good.  
+It is about comfort, function, and confidence for the whole day.
+
+**简中：**
+
+在深圳的上学早晨，我给 Celine 穿衣先看天气。  
+闷热潮湿就选轻薄透气；教室可能偏冷就加一层可脱的薄外套。  
+
+我会给她可执行的小选择：短袖还是长袖，今天穿运动鞋还是凉鞋。  
+既有参与感，又不会把流程拖太慢。  
+
+我的第一原则是舒服。  
+面料扎、缝线硌、袜子堆、鞋子紧，都要出门前处理好。  
+衣服不舒服，孩子一天状态都会受影响。  
+
+洗澡后也有固定过渡：擦干、换干净衣服、脏衣服进洗衣篮、干净衣物归位。  
+
+出门前做最后检查：左右鞋穿对、衣服适配场景、天气备份带齐（薄外套/帽子/雨伞）。  
+穿衣不只是好看，更是舒服、实用、让孩子带着自信出门。
+

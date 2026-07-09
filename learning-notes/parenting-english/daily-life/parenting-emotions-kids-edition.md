@@ -399,3 +399,52 @@ Mom smiled and said, "When feelings get big, we can always [cheer up](#kw-cheer-
 
 <a id="kw-silly"></a>
 - **silly** — 傻的/淘气的；[[#story-emotion-mission|回到故事]]
+
+---
+
+## 英文短文 · 阿泽自述（亲子情绪引导）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+In our home, I treat emotions as signals, not problems to hide.  
+When Celine looks upset, I start by naming what I see:  
+"You look sad." "You seem worried." "Are you feeling angry?"  
+
+I let her talk before I teach.  
+I listen, keep eye contact, and say, "It's okay to feel this way."  
+Then I help her find words:  
+"I feel frustrated because..." or "I feel scared when..."  
+
+If she is too emotional, we pause first.  
+We take slow breaths, drink water, or sit quietly for one minute.  
+After she calms down, we solve the problem together.  
+I ask, "What can we do now?" and "What will help next time?"  
+
+I also practice positive emotions, not just difficult ones.  
+When she is excited, proud, or brave, I name those feelings too.  
+That helps her build emotional vocabulary in both happy and hard moments.  
+
+My goal is not to make her "never cry."  
+My goal is to help her notice feelings, express them clearly, and return to calm with support.  
+That is emotional strength for life.
+
+**简中：**
+
+在我们家，我把情绪当信号，不当需要隐藏的问题。  
+Celine 情绪上来时，我先描述观察到的状态：你看起来难过、你是不是有点担心、你现在很生气吗？  
+
+我会先听，再教。  
+看着她、接住她，并说“你有这种感受是可以的”。  
+然后帮她把感觉说成句子：我现在很挫败，因为…… / 我会害怕，是因为……  
+
+如果情绪太满，就先暂停，不急着讲道理。  
+慢呼吸、喝口水、安静一分钟，等她回稳后再一起想解决办法。  
+我常问：现在我们可以怎么做？下次可以怎么提前处理？  
+
+我也会刻意标注积极情绪，不只盯着负面：兴奋、自豪、勇敢都要说出来。  
+这样她在顺境和逆境里都能积累情绪词汇。  
+
+我的目标不是让她“别哭”，而是让她会觉察、会表达、会在支持下回到平静。  
+这才是长期受用的情绪能力。

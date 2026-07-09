@@ -183,3 +183,50 @@ tags:
 ---
 
 *可与餐桌礼仪文档搭配：本篇练“家里总规矩”，餐桌礼仪篇练“吃饭时怎么做”。*
+
+---
+
+## 8. 英文短文 · 阿泽自述（家庭守则与作息）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+In our home, routines make the day smoother for everyone.  
+Every morning, Celine gets up, washes up, eats breakfast, and gets ready for school in the same order.  
+At night, we follow the bedtime routine: clean up, shower, story time, then lights out.  
+
+We keep family rules simple and repeatable.  
+We speak politely, put things back, and finish one task before starting another.  
+When she makes a promise, I remind her to keep it.  
+When she makes a mistake, I ask for honesty first, not perfection.  
+
+I often say, "Tell me the truth and we can solve it together."  
+If she forgets a rule, we reset and try again.  
+I don't want fear-based discipline.  
+I want stable boundaries she can trust.  
+
+We also practice how to address people politely: teachers, elders, guests, and neighbors.  
+These details build respect in daily life.  
+
+My goal is not a "perfect kid."  
+My goal is a child who knows what to do, why it matters, and how to return to the routine after a bad moment.  
+Consistency today becomes confidence tomorrow.
+
+**简中：**
+
+在我们家，稳定作息会让每个人都更顺。  
+早上按固定顺序来：起床、洗漱、早餐、上学准备。  
+晚上也有固定流程：收拾、洗澡、故事、熄灯。  
+
+家庭规则要简单、可重复：说话有礼貌、东西放回原位、做完一件再做下一件。  
+答应的事要做到，做错了先说实话，不求完美先求诚实。  
+
+我常说：你先讲真话，我们一起解决。  
+忘了规则就重来，不靠恐惧管理，而是靠稳定边界。  
+
+我们也会练称呼和礼貌：对老师、长辈、客人、邻居都要得体。  
+这些小细节会慢慢长成真正的尊重。  
+
+我的目标不是“完美小孩”，而是让孩子知道该怎么做、为什么做、做坏了怎么回到轨道。  
+今天的一致性，会变成明天的自信。

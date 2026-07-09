@@ -229,3 +229,46 @@ tags:
 ## 一句话家长口令
 
 **Warm water, gentle scrub, dry thoroughly—three steps keep bath time calm and safe.** — 温水、轻搓、擦干——三步让洗澡时光平静又安全。
+
+---
+
+## 11. 英文短文 · 阿泽自述（洗澡全流程）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+In our home, bath time starts with preparation.  
+I run warm water first and test the temperature with my hand.  
+Then I call Celine in and remind her to walk slowly on the wet floor.  
+
+We wash hair before body when she is still calm.  
+I wet her hair gently, add a little shampoo, and massage lightly.  
+When I rinse, I ask her to close her eyes and tilt her head back.  
+If soap gets in her eyes, I rinse right away and stay calm.  
+
+After hair, we clean arms, neck, back, knees, and feet.  
+If she wants bubble time, we keep it short and safe.  
+Then we switch to shower, rinse everything off, and step out carefully.  
+
+Outside the bathroom, I wrap her in a towel and dry her thoroughly.  
+Hair first, then body, so she doesn't feel cold.  
+We put on pajamas, use a little moisturizer or lip balm if needed, and finish with a calm bedtime transition.  
+A predictable bath routine helps her feel safe, clean, and ready for sleep.
+
+**简中：**
+
+在我们家，洗澡先做准备：先放温水，用手试温。  
+叫 Celine 进来后先提醒地面湿，慢慢走。  
+
+她状态好时先洗头：先打湿、少量洗发水、轻轻按摩。  
+冲洗时让她闭眼、头微微后仰。  
+如果进眼睛，就立刻冲干净，语气保持稳定。  
+
+然后洗身体：手臂、脖子、后背、膝盖、脚都带到。  
+要泡泡浴可以，但时间短、边界清楚。  
+最后淋浴冲净，出浴室注意防滑。  
+
+出来后先包毛巾，彻底擦干，先头发再身体，避免着凉。  
+换睡衣，按需涂点润肤或润唇，再平稳进入睡前流程。  
+固定的洗澡节奏会让孩子更有安全感，也更容易安静入睡。

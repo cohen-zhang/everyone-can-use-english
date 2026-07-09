@@ -250,3 +250,54 @@ tags:
 ## 相关（扩展）
 
 - 电动两轮**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]
+
+---
+
+## 英文短文 · 阿泽自述（地铁亲子通勤）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+When I take Celine on the Shenzhen Metro, I start with safety rules before we enter.  
+I remind her to stay close, hold hands on escalators, and stand behind the yellow line on platforms.  
+
+At the station entrance, we follow signs to tickets and gates.  
+If we need help, I ask staff at customer service instead of guessing.  
+At the gate, I go first, then Celine follows right behind me.  
+
+On the platform, I repeat three short lines:  
+"Stand behind the line."  
+"Let passengers get off first."  
+"Mind the gap when you step in."  
+Simple language works best in noisy places.  
+
+Inside the train, we move away from the door and hold a pole.  
+If seats are full, we stand still and keep bags close.  
+If we get a seat, I remind her to sit properly and stay alert before our stop.  
+
+When we transfer, we follow clear signs and walk with the crowd without rushing.  
+At the destination, we check the correct exit and keep calm in busy corridors.  
+
+Metro rides are not only transportation for us.  
+They are daily training in public safety, polite behavior, and practical English.
+
+**简中：**
+
+我带 Celine 坐深圳地铁时，进站前先讲安全规则：  
+人多要靠近、扶梯要牵手、站台要站黄线后。  
+
+进站后按指示牌走到闸机和站台。  
+不确定就问客服，不靠猜。过闸时我先过，孩子紧跟，不在闸口停留。  
+
+站台上我会反复三句短口令：  
+站在线后、先下后上、上车注意缝隙。  
+噪声环境里，短句最有效。  
+
+上车后先离开车门，扶好立杆。  
+没座位就稳稳站好、包放好；有座位也要坐稳，并提前准备下车。  
+
+换乘时看清箭头和线路，跟着人流走但不抢。  
+到站后确认正确出口，在通道里保持节奏，不慌不跑。  
+
+对我们来说，地铁不只是交通工具，还是每天可复用的公共安全、礼貌行为和实用英语训练场。

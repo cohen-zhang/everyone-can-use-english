@@ -270,3 +270,48 @@ tags:
 ## 一句话家长口令
 
 **Start together, check together, celebrate together—homework is a habit built with patience, not pressure.** — 一起开始，一起检查，一起庆祝——作业是耐心养成的习惯，不是压力逼出来的任务。
+
+---
+
+## 11. 英文短文 · 阿泽自述（作业打卡流程）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+After school, I don't start with pressure.  
+I start with a reset: water, a short break, then homework time.  
+I sit with Celine and list today's tasks by subject.  
+We pick one to start and set a clear short block.  
+
+During homework, I focus on process language.  
+"Try it first." "Show me your steps." "Check this line again."  
+When she gets stuck, I don't give answers too fast.  
+I ask guiding questions so she can find the mistake herself.  
+
+For correction, we review key errors and rewrite the right method.  
+I want her to know why, not just copy.  
+When everything is ready, we do the check-in submission:  
+good light, clear photo, upload, and mark complete.  
+
+If she feels frustrated, I normalize it: hard parts are part of learning.  
+Then we do one small win before ending.  
+
+At night, we pack the bag, prepare tomorrow's items, and close the day.  
+Homework in our family is not a battle.  
+It is a steady training of focus, thinking, and responsibility.
+
+**简中：**
+
+放学回家我不会直接上压力，而是先重置状态：喝水、短休，再进入作业。  
+我会和 Celine 列清单，按科目拆任务，先选一项并设短时段。  
+
+做题时我尽量用过程语言：先试一遍、把步骤讲给我、这一行再核对。  
+卡住时不急着报答案，而是用提问引导她自己发现问题。  
+
+订正阶段要写明白“为什么错、怎么改”，不是只抄正确答案。  
+到打卡时按流程走：光线充足、拍清楚、上传、标记完成。  
+
+她情绪上来时，我会先接情绪，再做一个小成功收尾。  
+睡前再整理书包和明天用品。  
+在我们家，作业不是对抗，而是长期训练专注力、思考力和责任感。

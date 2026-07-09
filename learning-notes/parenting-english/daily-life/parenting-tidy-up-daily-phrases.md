@@ -483,3 +483,50 @@ tags:
 | **folder** | 文件夹 | 装文件 |
 | **basket** | 篮子 | 收纳 |
 | **compost bin** | 堆肥桶 | 装有机垃圾 |
+
+---
+
+## 10. 英文短文 · 阿泽自述（收拾整理流程）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+In our home, cleanup is part of daily life, not a punishment.  
+I teach Celine to tidy in small zones: toys, desk, bathroom items, dirty clothes, snack trash, and school supplies.  
+
+We always start with one clear command: finish one zone before the next.  
+For toys, we sort by type and put each group back in its box.  
+For the desk, pencils go to the holder, books to the shelf, and papers to the folder.  
+
+In the bathroom, cups, towels, and small items return to their places.  
+Dirty clothes go straight into the hamper.  
+Snack wrappers go to the trash, and recyclables go to the recycling bin.  
+
+Before school days, we do a backpack check: books, homework, pencil case, and water bottle.  
+If something is missing, we fix it right away instead of rushing in the morning.  
+
+I keep my tone calm and specific.  
+I praise action, not luck: "Nice job sorting." "Great, you put everything back."  
+
+Step by step, cleanup turns into habit.  
+A tidy space helps Celine think clearly, move safely, and start the next task faster.
+
+**简中：**
+
+在我们家，收拾不是惩罚，而是每天都要做的小流程。  
+Celine 按区域整理：玩具、书桌、洗漱区、脏衣服、零食垃圾、上学用品。  
+
+规则很简单：一次只收一个区，完成后再切下一个。  
+玩具按类别回盒；书桌上笔回笔筒、书回书架、纸张进文件夹。  
+
+洗手间小物件归位，脏衣服直接进洗衣篮。  
+零食包装进垃圾桶，可回收物进回收桶。  
+
+上学日前要做书包检查：书、本子、文具、水杯。  
+发现缺项就当下补齐，不把问题拖到早高峰。  
+
+我会用平静而具体的语气，并夸“动作”不夸“运气”：  
+你分类得很好、你把东西都放回去了。  
+长期下来，整理会变成自动习惯。  
+空间整洁了，孩子更容易专注，也更安全。

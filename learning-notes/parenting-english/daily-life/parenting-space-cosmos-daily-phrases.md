@@ -218,3 +218,49 @@ aliases:
 ---
 
 *维护：若她对某一子题特别钻（例如只迷火星车），可在本页用 Obsidian 批注置顶，把「微互动」里火星相关多写两句。*
+
+---
+
+## 9. 英文短文 · 阿泽自述（太空兴趣聊天）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+Celine loves space, so I use her curiosity as a daily English moment.  
+When she points at the sky, I start simple: moon, stars, clouds, and darkness.  
+Then we move to bigger words like **universe**, **galaxy**, and **rocket**.  
+
+If she asks fast questions, I match her energy but keep answers short.  
+"Great question." "Let's think together." "What do you notice first?"  
+This keeps the talk interactive, not a long lecture.  
+
+For black holes and aliens, I separate imagination from science.  
+I say, "Stories are fun, and science needs evidence."  
+She can enjoy both, but she learns the difference early.  
+
+When she gets very excited, we build tiny scripts:  
+"I think... because..." or "Maybe... but we need more clues."  
+These lines help her practice logic and spoken structure.  
+
+If she is tired, I close gently:  
+"Two more minutes, then bedtime mode."  
+The goal is not to teach everything in one night.  
+The goal is to keep her wonder alive while building calm, clear English habits.
+
+**简中：**
+
+Celine 很喜欢太空，所以我把兴趣变成日常英语入口。  
+她一抬头看天，我先从简单词开始：月亮、星星、云、夜空，再慢慢扩到 universe、galaxy、rocket。  
+
+她问题很多时，我会接住节奏，但回答保持短句：好问题、我们一起想、你先观察到什么。  
+这样对话是互动，不是家长单向讲课。  
+
+聊黑洞、外星人、UFO 时，我会明确区分“想象”和“科学”：  
+故事可以很有趣，但科学需要证据。两者都能聊，但边界要清楚。  
+
+我也会带她用微句型表达推理：I think... because... / Maybe... but...  
+既练口语，也练思路。  
+
+如果她累了，就温和收束：再两分钟，进入睡前模式。  
+目标不是一晚讲完宇宙，而是持续保留好奇心，并形成清晰、稳定的英文表达习惯。

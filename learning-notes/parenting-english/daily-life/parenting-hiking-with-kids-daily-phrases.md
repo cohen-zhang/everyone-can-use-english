@@ -109,3 +109,46 @@ Celine：成交。
 ---
 
 *先练“短句 + 手势”，再升级到完整对话，孩子更容易跟上。*
+
+---
+
+## 7. 英文短文 · 阿泽自述（亲子徒步）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+When I take Celine hiking, I start before we even leave home.  
+I check water, snacks, sunscreen, and one light jacket.  
+At the trailhead, I tell her our simple plan: we walk together, we stop when needed, and we turn back before she is exhausted.  
+
+On the trail, I keep my language short and clear.  
+"Watch your step." "Use small steps on the hill." "Hold my hand at narrow parts."  
+If the ground is slippery, we slow down right away.  
+I remind her to stay on the marked path and not run near edges.  
+
+Motivation matters as much as safety.  
+When she gets tired, I don't push hard first.  
+I say, "I hear you. Let's rest for two minutes, then walk to that tree."  
+Small goals help her keep going.  
+
+At break time, we drink water, breathe, and notice birds, wind, and clouds.  
+Before we head back, I ask how her legs feel and if her shoes are still comfortable.  
+A good hike for us is not about distance.  
+It is about staying safe, finishing strong, and ending with a happy memory.
+
+**简中：**
+
+我带 Celine 去徒步时，出门前就开始准备：水、零食、防晒、轻外套。  
+到步道入口，我会先讲清楚规则：一起走、需要就休息、别走到太累才回头。  
+
+路上我只说短句：看脚下、上坡小步走、窄路牵手。  
+地面一滑就立刻降速，不在边缘奔跑，不离开标记路线。  
+
+鼓励和安全一样重要。她累了，我先接住情绪，不先硬推。  
+我会说：先休息两分钟，再走到那棵树。  
+把目标拆小，孩子更容易坚持。  
+
+休息时我们喝水、调呼吸，也看鸟、看风、看云。  
+返程前再确认腿脚状态和鞋子舒不舒服。  
+对我们来说，好的徒步不是走多远，而是安全完成、心情很好地结束。

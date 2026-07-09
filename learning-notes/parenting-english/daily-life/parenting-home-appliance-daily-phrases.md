@@ -204,3 +204,44 @@ tags:
 ---
 
 *可与 `收拾整理日常.md`、`手机使用日常.md`、出行类笔记搭配使用，按家里真实电器名替换单品即可。*
+
+---
+
+## 9. 英文短文 · 阿泽自述（家用电器日常）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+At home, I keep one rule with Celine: safety first with every **appliance**.  
+When she turns on the light or the **AC**, I ask her to use one switch at a time.  
+In the kitchen, she can help press buttons, but only when I am next to her.  
+I tell her not to touch hot doors, sharp blades, or moving parts.  
+
+When we use the washer, she hears the spin cycle and gets curious.  
+I explain what is happening and remind her not to open the door mid-cycle.  
+For screens, we keep volume low and breaks regular.  
+If the video buffers, we wait and check the Wi-Fi instead of tapping fast.  
+
+Charging time is another routine.  
+We **plug in** carefully, keep cables flat, and never play on the bed while charging.  
+If battery is low, we charge early, not at one percent panic mode.  
+
+Before bedtime, we do a quick power check:  
+lights off, devices parked, cables tidy, and nothing left running by mistake.  
+This way our home stays safe, calm, and easy to manage.
+
+**简中：**
+
+在家里，我和 Celine 有一条总规则：所有电器先讲安全。  
+开灯、开空调都要一次一个按钮，不乱按。  
+厨房电器可以参与，但必须我在旁边。热门、刀片、转动部件都不碰。  
+
+洗衣机脱水时她会好奇，我会解释在做什么，也提醒她中途别开门。  
+看屏幕时音量要小，休息要有节奏。视频卡顿就先等、先查网络，不要狂点。  
+
+充电也有流程：插头慢慢插，线摆平，不在床上边充边玩。  
+电量低要提前充，不到 1% 才慌。  
+
+睡前我们一起做电源检查：灯关好、设备放好、线收好、该停的都停。  
+这样家里更安全、更安静，也更省心。

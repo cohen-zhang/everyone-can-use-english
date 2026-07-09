@@ -186,3 +186,46 @@ tags:
 ---
 
 *可搭配 `中国常见食物-亲子英文.md` 一起使用：本篇练礼貌和动作，那篇练食材和点餐。*
+
+---
+
+## 7. 英文短文 · 阿泽自述（礼貌与餐桌礼仪）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+At our dinner table, I teach manners through small, repeatable actions.  
+Before we eat, Celine says "please" and "thank you."  
+She waits until everyone is seated before starting.  
+
+During the meal, I remind her to sit up straight and keep elbows off the table.  
+She takes small bites, chews with her mouth closed, and swallows before speaking.  
+If she zones out, I gently bring her back: "Focus on your meal first."  
+
+For Chinese-style sharing dishes, we use serving chopsticks.  
+I explain that this keeps things cleaner and shows respect for others.  
+When she needs to leave, she asks, "May I leave the table?"  
+That one sentence helps her build polite habits in any setting.  
+
+I don't expect perfect behavior every meal.  
+I look for progress: better posture, calmer pace, and kinder words.  
+Over time, table manners become daily character training.  
+We are not just learning how to eat.  
+We are learning how to live with other people respectfully.
+
+**简中：**
+
+在我们家餐桌上，我用可重复的小动作来教礼仪。  
+开吃前，Celine 要说 please 和 thank you，也要等大家坐好再开始。  
+
+吃饭时我会提醒：坐直、手肘别撑桌。  
+小口吃、闭嘴嚼、咽下再说话。  
+如果走神，我会温和拉回：先专心吃饭。  
+
+中式共餐我们用公筷，我会解释这既卫生，也体现对别人的尊重。  
+需要离席时要说 "May I leave the table?"  
+这句固定表达能迁移到很多场景。  
+
+我不要求每顿都完美，更看重持续进步：姿势更好、节奏更稳、用词更礼貌。  
+餐桌礼仪不只是“会吃饭”，更是在练“怎么和人好好相处”。

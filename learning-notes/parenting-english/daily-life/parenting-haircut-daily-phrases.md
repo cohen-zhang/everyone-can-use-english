@@ -361,3 +361,48 @@ Celine：我好喜欢！
 
 - **Brush off the loose hairs before we leave.**  
   走之前把碎头发拍掉。
+
+---
+
+## 12. 英文短文 · 阿泽自述（理发沟通全流程）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+When Celine's hair gets too long, I tell her it's time for a haircut.  
+Before we go, I show her a simple plan:  
+arrive, talk to the stylist, sit still, trim, wash, dry, and go home.  
+Knowing the sequence helps her stay calm.  
+
+At the salon, I describe the style in clear words.  
+For school, we keep it neat and easy to manage.  
+I ask for enough length to tie, and I ask them to keep hair out of her eyes.  
+
+During the cut, I coach her with short lines:  
+"Sit up straight." "Chin down a little." "Almost done."  
+If she hears clipper noise and feels nervous, I slow everything down with reassurance and breathing cues.  
+
+After the cut, we check in the mirror together.  
+I ask, "Do you like it?" and let her make one small choice, like side part or clip.  
+Then we brush off loose hairs, say thank you, and head out.  
+
+A good haircut is not just about style.  
+It is practice in communication, body stillness, and emotional regulation.
+
+**简中：**
+
+Celine 头发长了，我会先说该理发了。  
+出门前先讲流程：到店、沟通发型、坐稳、修剪、洗吹、回家。  
+知道顺序，孩子会更安心。  
+
+到店后我用清晰句子沟通需求：  
+上学款要整洁好打理，保留可扎长度，刘海别挡眼。  
+
+理发过程中我只给短指令：坐直、下巴微收、快好了。  
+如果她被电推子声音吓到，就放慢节奏，配合安抚和呼吸提示。  
+
+剪完一起照镜子确认，我会让她做一个小选择，比如偏分方向或发夹。  
+最后拍掉碎发、说谢谢、再离开。  
+
+一次好的理发，不只是造型好看，也是在练沟通能力、身体控制和情绪调节。

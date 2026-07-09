@@ -326,3 +326,44 @@ app 要相机 / 麦克风 / 定位权限。我来选允许或拒绝。`技术` `
 ---
 
 *可与 `电器使用日常.md`、出行类、收拾整理类笔记一起用；家里若把「工作机 / 家用的平板」和「孩子的设备」分清楚，可替换为 **my iPad**、**the kids’ tablet** 等，句子结构不变。对外分享时 **阿泽** 可改为 Dad 等占位称呼；**不多 / Celine** 亦可改为你家娃的名字。*
+
+---
+
+## 14. 英文短文 · 阿泽自述（手机使用与家庭边界）
+
+*约 1–2 分钟 · 描述训练 · 串联本页常用句*
+
+**English**
+
+At home, I treat phones as tools, not toys without limits.  
+I teach Celine how to hold the phone with care and where to place it after use.  
+She learns basic actions first: power on, unlock, tap, swipe, and go back.  
+
+When she opens apps, we practice one task at a time.  
+No random downloading, no unknown links, and no in-app purchases without asking.  
+If a call comes in, she hands me the phone and doesn't press extra buttons.  
+For messages and voice notes, we keep tone polite and short.  
+
+Screen rules are clear in our family.  
+Volume stays low, screen time has a stop point, and charging happens in common areas.  
+No phone play in bed while charging.  
+
+When something goes wrong, like freezing, low battery, or no signal, I guide her through calm steps:  
+check settings, restart if needed, then ask for help.  
+
+My goal is digital independence with safety.  
+I want her to use technology confidently, politely, and with self-control.
+
+**简中：**
+
+在家里，我把手机当工具，不当无限制玩具。  
+Celine 先学基本动作：开机、解锁、点按、滑动、返回，也要学会用完放回固定位置。  
+
+用 App 时一次只做一件事：不乱下、不点陌生链接、内购先问家长。  
+来电话时先交给我，不乱按。发消息和语音也练礼貌、简洁表达。  
+
+我们家的屏幕边界很清楚：音量不过大、使用有截止点、充电在公共区域。  
+不在床上边充边玩。  
+
+遇到卡顿、低电量、没信号时，我会带她按步骤排查：看设置、必要时重启、再求助。  
+目标是“安全前提下的数字独立”——会用、用得稳、也懂得自控。
