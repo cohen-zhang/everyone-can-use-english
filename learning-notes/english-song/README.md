@@ -95,37 +95,35 @@ aliases:
 | 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | 精编 | 生活态度 · 恋爱 · 派对·能量 · 自我 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
 | 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | 精编 | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
 | 80 | Vicious Girl | CALVO | 精编 | 分手·思念 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
-| 81 | I Got You (feat. Johnning) | Janji | — | 生活态度 | Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
-| 82 | Apologize | OneRepublic | — | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
-| 83 | One Man Band | Old Dominion | — | 恋爱 | Country · Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
-| 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | — | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/see-you-again-wiz-khalifa|See You Again (feat. Charlie Puth)]] |
-| 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|We Don’t Talk Anymore (feat. Selena Gomez)]] |
-| 86 | Sunny | 藤井风 | — | 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/sunny-藤井风|Sunny]] |
-| 87 | Fly Me To The Moon | 小野丽莎 | — | 生活态度 | Jazz | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|Fly Me To The Moon]] |
-| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | — | 生活态度 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|Fly Me to the Moon (feat. Count Basie and His Orchestra)]] |
-| 89 | Casablanca | Bertie Higgins | — | 情绪 · 恋爱 | Jazz · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/casablanca-bertie-higgins|Casablanca]] |
+| 81 | I Got You (feat. Johnning) | Janji | 精编 | 生活态度 · 情绪 | Pop · EDM | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
+| 82 | Apologize | OneRepublic | 精编 | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
+| 83 | One Man Band | Old Dominion | 精编 | 恋爱 | Country · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
+| 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | 精编 | 分手·思念 · 情绪 · 影视原声 · 生活态度 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/see-you-again-wiz-khalifa|See You Again (feat. Charlie Puth)]] |
+| 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|We Don’t Talk Anymore (feat. Selena Gomez)]] |
+| 86 | Sunny | 藤井风 | 精编 | 恋爱 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/sunny-藤井风|Sunny]] |
+| 87 | Fly Me To The Moon | 小野丽莎 | 精编 | 生活态度 | Jazz | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|Fly Me To The Moon]] |
+| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | 精编 | 生活态度 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|Fly Me to the Moon (feat. Count Basie and His Orchestra)]] |
+| 89 | Casablanca | Bertie Higgins | 精编 | 情绪 · 恋爱 | Jazz · Pop | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/casablanca-bertie-higgins|Casablanca]] |
 | 90 | Big Big World | Emilia | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop · ballad | 易 | 经典 | KTV · 通勤 · 发音 | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
-| 91 | Wake Me Up When September Ends | Green Day | — | 分手·思念 · 派对·能量 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/wake-me-up-when-september-ends-green-day|Wake Me Up When September Ends]] |
-| 92 | I Have Nothing | Whitney Houston | — | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 · 自我 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-have-nothing-whitney-houston|I Have Nothing]] |
-| 93 | Everybody | Ingrid Michaelson | — | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-ingrid-michaelson|Everybody]] |
-| 94 | WHERE IS MY HUSBAND! | RAYE | — | 分手·思念 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/where-is-my-husband-raye|WHERE IS MY HUSBAND!]] |
-| 95 | California Dreamin' | The Beach Boys | — | 影视原声 · 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/california-dreamin-the-beach-boys|California Dreamin']] |
-| 96 | If You Leave | Orchestral Manoeuvres In the Dark | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/if-you-leave-orchestral-manoeuvres-in-the-dark|If You Leave]] |
-| 97 | Always Remember Us This Way | Lady Gaga | — | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-lady-gaga|Always Remember Us This Way]] |
-| 98 | Right Now (Na Na Na) | Aamir | — | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na)]] |
-| 99 | Just One Last Dance (feat. Natural) | Sarah Connor | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/just-one-last-dance-sarah-connor|Just One Last Dance (feat. Natural)]] |
-| 100 | Lonely | NANA | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 经典 | 发音 | [[learning-notes/english-song/lonely-nana|Lonely]] |
-| 101 | Deadman | 蔡徐坤 | — | 分手·思念 · 恋爱 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/deadman-蔡徐坤|Deadman]] |
-| 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | — | 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade (The Hooligans Remix)]] |
-| 103 | Levitating | Dua Lipa | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/levitating-dua-lipa|Levitating]] |
-| 104 | The Rose | 手嶌葵 | — | 生活态度 · 恋爱 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/the-rose-手嶌葵|The Rose]] |
-| 105 | WAP (feat. Megan Thee Stallion) | Cardi B | — | 生活态度 · 恋爱 · 派对·能量 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/wap-cardi-b|WAP (feat. Megan Thee Stallion)]] |
-| 106 | Anaconda | Nicki Minaj | — | 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/anaconda-nicki-minaj|Anaconda]] |
-| 107 | When I Was Your Man | Bruno Mars | — | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
-| 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | — | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
-| 109 | Walking Away | ChianoSky | — | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/walking-away-chianosky|Walking Away]] |
-
-## 按主题 · Topic
+| 91 | Wake Me Up When September Ends | Green Day | 精编 | 分手·思念 · 派对·能量 | Pop · Rock | 中 | 2000s | 精研 · 发音 | [[learning-notes/english-song/wake-me-up-when-september-ends-green-day|Wake Me Up When September Ends]] |
+| 92 | I Have Nothing | Whitney Houston | 精编 | 分手·思念 · 情绪 · 影视原声 · 生活态度 · 恋爱 · 自我 | Ballad · Pop · Rock | 易 | 经典 | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/i-have-nothing-whitney-houston|I Have Nothing]] |
+| 93 | Everybody | Ingrid Michaelson | 精编 | 分手·思念 · 情绪 · 恋爱 | Ballad · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/everybody-ingrid-michaelson|Everybody]] |
+| 94 | WHERE IS MY HUSBAND! | RAYE | 精编 | 分手·思念 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/where-is-my-husband-raye|WHERE IS MY HUSBAND!]] |
+| 95 | California Dreamin' | The Beach Boys | 精编 | 影视原声 · 生活态度 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/california-dreamin-the-beach-boys|California Dreamin']] |
+| 96 | If You Leave | Orchestral Manoeuvres In the Dark | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/if-you-leave-orchestral-manoeuvres-in-the-dark|If You Leave]] |
+| 97 | Always Remember Us This Way | Lady Gaga | 精编 | 分手·思念 · 影视原声 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/always-remember-us-this-way-lady-gaga|Always Remember Us This Way]] |
+| 98 | Right Now (Na Na Na) | Aamir | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na)]] |
+| 99 | Just One Last Dance (feat. Natural) | Sarah Connor | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Pop | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/just-one-last-dance-sarah-connor|Just One Last Dance (feat. Natural)]] |
+| 100 | Lonely | NANA | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 经典 | 发音 | [[learning-notes/english-song/lonely-nana|Lonely]] |
+| 101 | Deadman | 蔡徐坤 | 精编 | 分手·思念 · 恋爱 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/deadman-蔡徐坤|Deadman]] |
+| 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | 精编 | 情绪 · 生活态度 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade (The Hooligans Remix)]] |
+| 103 | Levitating | Dua Lipa | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/levitating-dua-lipa|Levitating]] |
+| 104 | The Rose | 手嶌葵 | 精编 | 生活态度 · 恋爱 | Ballad · Jazz · Pop | 易 | 2000s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/the-rose-手嶌葵|The Rose]] |
+| 105 | WAP (feat. Megan Thee Stallion) | Cardi B | 精编 | 生活态度 · 恋爱 · 派对·能量 | Hip-hop · Pop | 难 | 2020s | 发音 | [[learning-notes/english-song/wap-cardi-b|WAP (feat. Megan Thee Stallion)]] |
+| 106 | Anaconda | Nicki Minaj | 精编 | 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/anaconda-nicki-minaj|Anaconda]] |
+| 107 | When I Was Your Man | Bruno Mars | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
+| 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
+| 109 | Walking Away | ChianoSky | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/walking-away-chianosky|Walking Away]] |## 按主题 · Topic
 
 | 标签 | # | 歌名 | 歌手 | 笔记 |
 | --- | --- | --- | --- | --- |
@@ -271,7 +269,6 @@ aliases:
 | 恋爱 | 80 | Vicious Girl | CALVO | [[learning-notes/english-song/vicious-girl-calvo|笔记]] |
 | 恋爱 | 82 | Apologize | OneRepublic | [[learning-notes/english-song/apologize-onerepublic|笔记]] |
 | 恋爱 | 83 | One Man Band | Old Dominion | [[learning-notes/english-song/one-man-band-old-dominion|笔记]] |
-| 恋爱 | 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | [[learning-notes/english-song/see-you-again-wiz-khalifa|笔记]] |
 | 恋爱 | 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|笔记]] |
 | 恋爱 | 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|笔记]] |
 | 恋爱 | 89 | Casablanca | Bertie Higgins | [[learning-notes/english-song/casablanca-bertie-higgins|笔记]] |
@@ -327,6 +324,7 @@ aliases:
 | 情绪 | 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | [[learning-notes/english-song/way-back-into-love-hugh-grant|笔记]] |
 | 情绪 | 76 | You Belong With Me | Taylor Swift | [[learning-notes/english-song/you-belong-with-me-taylor-swift|笔记]] |
 | 情绪 | 82 | Apologize | OneRepublic | [[learning-notes/english-song/apologize-onerepublic|笔记]] |
+| 情绪 | 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | [[learning-notes/english-song/see-you-again-wiz-khalifa|笔记]] |
 | 情绪 | 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|笔记]] |
 | 情绪 | 89 | Casablanca | Bertie Higgins | [[learning-notes/english-song/casablanca-bertie-higgins|笔记]] |
 | 情绪 | 90 | Big Big World | Emilia | [[learning-notes/english-song/big-big-world-emilia|笔记]] |
@@ -914,6 +912,7 @@ aliases:
 | KTV | 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | [[learning-notes/english-song/south-of-the-border-ed-sheeran|笔记]] |
 | KTV | 80 | Vicious Girl | CALVO | [[learning-notes/english-song/vicious-girl-calvo|笔记]] |
 | KTV | 82 | Apologize | OneRepublic | [[learning-notes/english-song/apologize-onerepublic|笔记]] |
+| KTV | 83 | One Man Band | Old Dominion | [[learning-notes/english-song/one-man-band-old-dominion|笔记]] |
 | KTV | 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | [[learning-notes/english-song/see-you-again-wiz-khalifa|笔记]] |
 | KTV | 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|笔记]] |
 | KTV | 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|笔记]] |
@@ -1183,7 +1182,7 @@ aliases:
 
 ## 完整笔记（手工精编）
 
-以下 **81** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#80**，以及 #90）：
+以下 **109** 首含歌手/歌曲简介、英中对照歌词与重点表达（播放列表 **#1–#109** 全部精编）：
 
 | # | 歌曲 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
@@ -1267,15 +1266,36 @@ aliases:
 | 78 | South of the Border (feat. Camila Cabello & Cardi B) | Ed Sheeran | [[learning-notes/english-song/south-of-the-border-ed-sheeran|South of the Border (feat. Camila Cabello & Cardi B)]] |
 | 79 | Ain't My Fault (R3hab Remix) | Zara Larsson & R3HAB | [[learning-notes/english-song/aint-my-fault-zara-larsson|Ain't My Fault (R3hab Remix)]] |
 | 80 | Vicious Girl | CALVO | [[learning-notes/english-song/vicious-girl-calvo|Vicious Girl]] |
+| 81 | I Got You (feat. Johnning) | Janji | [[learning-notes/english-song/i-got-you-janji|I Got You (feat. Johnning)]] |
+| 82 | Apologize | OneRepublic | [[learning-notes/english-song/apologize-onerepublic|Apologize]] |
+| 83 | One Man Band | Old Dominion | [[learning-notes/english-song/one-man-band-old-dominion|One Man Band]] |
+| 84 | See You Again (feat. Charlie Puth) | Wiz Khalifa | [[learning-notes/english-song/see-you-again-wiz-khalifa|See You Again (feat. Charlie Puth)]] |
+| 85 | We Don’t Talk Anymore (feat. Selena Gomez) | Charlie Puth | [[learning-notes/english-song/we-dont-talk-anymore-charlie-puth|We Don’t Talk Anymore (feat. Selena Gomez)]] |
+| 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|Sunny]] |
+| 87 | Fly Me To The Moon | 小野丽莎 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|Fly Me To The Moon]] |
+| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|Fly Me to the Moon (feat. Count Basie and His Orchestra)]] |
+| 89 | Casablanca | Bertie Higgins | [[learning-notes/english-song/casablanca-bertie-higgins|Casablanca]] |
 | 90 | Big Big World | Emilia | [[learning-notes/english-song/big-big-world-emilia|Big Big World]] |
+| 91 | Wake Me Up When September Ends | Green Day | [[learning-notes/english-song/wake-me-up-when-september-ends-green-day|Wake Me Up When September Ends]] |
+| 92 | I Have Nothing | Whitney Houston | [[learning-notes/english-song/i-have-nothing-whitney-houston|I Have Nothing]] |
+| 93 | Everybody | Ingrid Michaelson | [[learning-notes/english-song/everybody-ingrid-michaelson|Everybody]] |
+| 94 | WHERE IS MY HUSBAND! | RAYE | [[learning-notes/english-song/where-is-my-husband-raye|WHERE IS MY HUSBAND!]] |
+| 95 | California Dreamin' | The Beach Boys | [[learning-notes/english-song/california-dreamin-the-beach-boys|California Dreamin']] |
+| 96 | If You Leave | Orchestral Manoeuvres In the Dark | [[learning-notes/english-song/if-you-leave-orchestral-manoeuvres-in-the-dark|If You Leave]] |
+| 97 | Always Remember Us This Way | Lady Gaga | [[learning-notes/english-song/always-remember-us-this-way-lady-gaga|Always Remember Us This Way]] |
+| 98 | Right Now (Na Na Na) | Aamir | [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na)]] |
+| 99 | Just One Last Dance (feat. Natural) | Sarah Connor | [[learning-notes/english-song/just-one-last-dance-sarah-connor|Just One Last Dance (feat. Natural)]] |
+| 100 | Lonely | NANA | [[learning-notes/english-song/lonely-nana|Lonely]] |
+| 101 | Deadman | 蔡徐坤 | [[learning-notes/english-song/deadman-蔡徐坤|Deadman]] |
+| 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade (The Hooligans Remix)]] |
+| 103 | Levitating | Dua Lipa | [[learning-notes/english-song/levitating-dua-lipa|Levitating]] |
+| 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/the-rose-手嶌葵|The Rose]] |
+| 105 | WAP (feat. Megan Thee Stallion) | Cardi B | [[learning-notes/english-song/wap-cardi-b|WAP (feat. Megan Thee Stallion)]] |
+| 106 | Anaconda | Nicki Minaj | [[learning-notes/english-song/anaconda-nicki-minaj|Anaconda]] |
+| 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
+| 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
+| 109 | Walking Away | ChianoSky | [[learning-notes/english-song/walking-away-chianosky|Walking Away]] |
 
-## 歌词待补充
+## 精编进度
 
-4 首文档已建章，歌词仍待手动补充：
-
-| # | 歌名 | 歌手 | 笔记 |
-| --- | --- | --- | --- |
-| 81 | I Got You (feat. Johnning) | Janji | [[learning-notes/english-song/i-got-you-janji|笔记]] |
-| 86 | Sunny | 藤井风 | [[learning-notes/english-song/sunny-藤井风|笔记]] |
-| 87 | Fly Me To The Moon | 小野丽莎 | [[learning-notes/english-song/fly-me-to-the-moon-小野丽莎|笔记]] |
-| 88 | Fly Me to the Moon (feat. Count Basie and His Orchestra) | 弗兰克・辛纳特拉 | [[learning-notes/english-song/fly-me-to-the-moon-弗兰克辛纳特拉|笔记]] |
+播放列表 **#1–#109** 已全部精编完成（含简介、英中对照歌词、重点表达与听歌提示）。

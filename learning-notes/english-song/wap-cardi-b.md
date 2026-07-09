@@ -3,37 +3,42 @@ tags:
   - english-song
   - english-learning
   - playlist/english-song
+  - topic/party-energy
   - topic/life-attitude
   - topic/love-romance
-  - topic/party-energy
   - genre/hip-hop
   - genre/pop
   - level/hard
   - era/2020s
   - use/pronunciation
+  - content/explicit
 aliases:
   - WAP (feat. Megan Thee Stallion) — Cardi B
+  - WAP — Cardi B
 ---
 # WAP (feat. Megan Thee Stallion) — Cardi B
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [WAP (feat. Megan Thee Stallion)](https://music.apple.com/cn/song/wap-feat-megan-thee-stallion/1526747167)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（成人向俚语与权力感表达可对照 Key Phrases；本曲 **NSFW**）
 
 ---
 
-## 歌手简介 · About Cardi B
+## 歌手简介 · About Cardi B & Megan Thee Stallion
 
 **English**
 
-**Cardi B** is a recording artist associated with **Hip-Hop** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Cardi B** (born **Belcalis Marlenis Almánzar**, 11 October 1992, The Bronx, New York) is an American **rapper and songwriter**. She rose from social media and reality TV to mainstream hip-hop with *"Bodak Yellow"* (2017)—the first solo female rap No. 1 on the Billboard Hot 100 since Lauryn Hill—and the Grammy-winning album ***Invasion of Privacy*** (2018). Her style mixes Bronx bluntness, humor, and unapologetic sexuality.
+
+**Megan Thee Stallion** (born **Megan Jovon Ruth Pete**, 15 February 1995, Houston, Texas) is an American **rapper** known for rapid-fire flows, Southern swagger, and hits like *"Savage"* and *"Hot Girl Summer"* culture. Together on **"WAP"** they delivered one of 2020's most discussed crossover records.
 
 **中文**
 
-**Cardi B** 是与 **Hip-Hop** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Cardi B**（本名 **Belcalis Marlenis Almánzar**，1992 年 10 月 11 日生于纽约布朗克斯）是美国**说唱歌手、词曲作者**。从社交媒体与真人秀杀入主流，凭 *"Bodak Yellow"*（2017）成为自 Lauryn Hill 以来首位独唱女说唱登顶 Billboard Hot 100 的艺人；专辑 ***Invasion of Privacy***（2018）获格莱美。风格混合布朗克斯式直球、幽默与毫不掩饰的性表达。
+
+**Megan Thee Stallion**（本名 **Megan Jovon Ruth Pete**，1995 年 2 月 15 日生于德州休斯顿）是美国**说唱歌手**，以高速 flow、南方气场及 *"Savage"*、*"Hot Girl Summer"* 文化著称。两人合作的 **"WAP"** 成为 2020 年讨论度最高的跨界热单之一。
 
 ---
 
@@ -41,130 +46,79 @@ aliases:
 
 **English**
 
-**"WAP (feat. Megan Thee Stallion)"** by **Cardi B** is a **Hip-Hop** track from *WAP (feat. Megan Thee Stallion) - Single*. Themes in the lyrics often touch on **life attitude, love romance, party energy**, useful for spoken English and sing-along practice.
+**"WAP"** (short for an **explicit** sexual phrase) is a single by **Cardi B** featuring **Megan Thee Stallion**, released **7 August 2020**. Produced with a sample of Frank Ski's *"Whores in This House"*, it debuted at **No. 1** on the Billboard Hot 100 and became a cultural flashpoint—praised as female sexual agency in hip-hop, criticized as too graphic for radio and public spaces. For English learners: treat it as **adult / NSFW** listening. This note does **not** provide a full graphic bilingual of every crude line; it keeps the **chorus hook** with softened Chinese, summarizes explicit verses, and explains key slang in Key Phrases at an adult but non-pornographic level.
 
 **中文**
 
-**"WAP (feat. Megan Thee Stallion)"**（**Cardi B**）收录于 *WAP (feat. Megan Thee Stallion) - Single*，属 **Hip-Hop** 风格。歌词主题多与 **生活态度 · 恋爱 · 派对·能量** 相关，适合跟唱与口语表达练习。
+**"WAP"**（标题是一个**露骨**性暗示缩写）是 **Cardi B** 与 **Megan Thee Stallion** 于 **2020 年 8 月 7 日**发行的单曲。制作采样 Frank Ski 的 *"Whores in This House"*，空降 Billboard Hot 100 **冠军**，并成为文化争议焦点——有人赞其为嘻哈中女性性自主的表达，有人批评对电台与公共场合过于露骨。英语学习者请按 **成人 / NSFW** 材料对待。本笔记**不**对每一句粗俗歌词做全量露骨双语；保留**副歌 hook** 的委婉中文，露骨主歌以摘要处理，俚语在 Key Phrases 中以成人可读、但不色情化的方式说明。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
 | 专辑 | Album | *WAP (feat. Megan Thee Stallion) - Single* |
 | 发行 | Release date | 2020-08-07 |
-| 曲风 | Genre | Hip-hop · Pop |
+| 曲风 | Genre | Hip-hop · Trap · Pop-rap |
 | 时长 | Length | 3:07 |
+| 艺人 | Artists | Cardi B · Megan Thee Stallion |
+| 内容分级 | Content | **Explicit / NSFW** |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #105 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+> **学习策略：** 副歌 hook 给委婉对照；高度露骨段落不逐句详译。跟唱以原词为准；中文仅帮助理解结构与俚语，不追求「字字对应的色情描写」。
 
-Wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house (hol' up)  
-I said certified freak, seven days a week  
-Wet and gushy, make that pull-out game weak, woo (ah)  
+### Intro / Hook（委婉）
 
-Yeah, yeah, yeah, yeah  
-Yeah, you dealin' with some wet and gushy  
-Bring a bucket and a mop for this wet and gushy  
-Give me everything you got for this wet and gushy  
+There's some wh- in this house — 这屋里有点「狂野」的味道（原词更粗）  
+There's some wh- in this house — （重复）  
+I said certified freak, seven days a week — 我是认证的「玩得开」，一周七天都这样  
+Wet and gushy, make that pull-out game weak, woo — （露骨性暗示，略译）让对方招架不住  
 
-Beat it up, baby, catch a charge  
-Extra large and extra hard  
-Put this cookie right in yo' face  
-Swipe your nose like a credit card  
-Hop on top, I want a ride  
-I do a kegel, I'm kinda wild  
-Look at my mouth, look at my thighs  
-This water is wet, come take a dive  
+### Chorus Hook（委婉）
 
-Tie me up like I'm surprised  
-Let's roleplay, I wear a disguise  
-I want you to park that big Mack truck right in this little garage  
-Make me dream, make a stream  
-Out in public, make a scene  
-I don't cook, I don't clean  
-But let me tell you, I got this ring (ayy, ayy)  
+Yeah, you dealin' with some wet and gushy — 对，你面对的是「湿又滑」那一套（性暗示俚语）  
+Bring a bucket and a mop for this wet and gushy — 得准备水桶和拖把——夸张说「水太多」  
+Give me everything you got for this wet and gushy — 为这个，把你所有的都给我  
 
-Gobble me, swallow me, drip down the side of me (yeah)  
-Quick, jump out 'fore you let it get inside of me (yeah)  
-I tell him where to put it, never tell him where I'm 'bout to be  
-I run down on him 'fore I have a (ayy) runnin' me  
+### Verse 1 — Cardi B（摘要）
 
-Talk yo' sh-, bite your lip (yeah)  
-Ask for a car while you ride that (ah) (while you ride that)  
-You really ain't never gotta (mwah) him for a thing  
-He already made his mind up 'fore he came  
+（露骨段落略译 / 跟唱以原词为准）
 
-Now get your boots and your coat for this wet and gushy  
-He bought a phone just for pictures of this wet and gushy  
-Pay my tuition just to kiss me on this wet and gushy (mwah, mwah, mwah)  
-Now make it rain if you wanna see some wet and gushy (yeah)  
+结构大意：用一连串**夸张、露骨的性隐喻**（骑乘、角色扮演、卡车进车库等）强调主导权与欲望；中间夹一句相对好记的态度句：
 
-Look, I need a hard hitter, I need a deep (ah)  
-I need a Henny drink, I need a (woo) smoker  
-Not a garden snake, I need a king cobra  
-With a hook in it, hope it lean over  
+I don't cook, I don't clean — 我不做饭，也不打扫  
+But let me tell you, I got this ring — 但告诉你，我这儿有「真本事」（原词双关更露骨）  
 
-He got some money then that's where I'm headed  
-Cookie A-1, just like his credit  
-He got a beard, well, I'm tryna wet it  
-I let him (mmm), now he diabetic  
-I don't wanna (mmm), I wanna (woo)  
-I wanna (ah), I wanna (sco')  
-I want you to touch, touch that (huh) that swing in the back of my  
+### Verse 过渡 / Pre（摘要）
 
-My talk game is fire, (Dasani) Dasani  
-It's goin' in dry, and it's comin' out soggy  
-I ride on that thing like the cops is behind me (yeah, ah)  
-The way that I spit and now he tryna sign me, woo  
+（露骨段落略译 / 跟唱以原词为准）
 
-Your honor, I'm a freak, handcuffs, leashes  
-Switch my wig, make him feel like he cheatin'  
-Put him on his knees, give him some' to believe in  
-Never lost a fight, but I'm lookin' for a beatin' (ah)  
+大意：要求对方「带好装备」来见；用 *wet and gushy* 反复挂钩；提到对方为照片、学费等买单——把**性吸引力**写成可兑换的权力与资源。
 
-In the food chain, I'm the one that eat ya  
-If he ate my (ah), he's a bottomfeeder  
-Big D stand for big demeanor  
-I could make ya bust before I ever meet ya  
+Now get your boots and your coat for this wet and gushy — 穿上靴子外套再来（委婉：做好准备）  
+Pay my tuition just to kiss me on this wet and gushy — 付我学费，就为亲一下（夸张权力感）  
+Now make it rain if you wanna see some wet and gushy — 想看的话就「撒钱如雨」（俱乐部用语）  
 
-If it don't hang, then he can't bang  
-You can't hurt my feelings, but I like pain  
-If he (ew) me and ask "Whose is it?"  
-When I ride the (yeah), I'ma spell my name, ah  
+### Verse 2 — Megan Thee Stallion（摘要）
 
-Whores in this house  
-Yeah, yeah, yeah  
-Yeah, you dealin' with some wet and gushy  
-Bring a bucket and a mop for this wet and gushy  
-Give me everything you got for this wet and gushy  
-Now from the top, make it drop, that's some wet and gushy  
-Now get a bucket and a mop, that's some wet and gushy  
-I'm talkin' WAP, WAP, WAP, that's some wet and gushy  
-Macaroni in a pot, that's some wet and gushy, huh  
+（露骨段落略译 / 跟唱以原词为准）
 
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
+结构大意：Megan 段同样高密度性俚语 + 南方说唱气场；相对可学的「态度 / 形象」句包括：
 
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh- in this house  
-There's some wh-...
+Your honor, I'm a freak, handcuffs, leashes — 法官大人，我就是玩得开——手铐、牵引绳（角色扮演意象）  
+Switch my wig, make him feel like he cheatin' — 换顶假发，让他觉得自己在偷吃  
+Never lost a fight, but I'm lookin' for a beatin' — 打架从没输过，但我在找人「收拾」我（双关：床第 / 打斗）  
 
----
+### Final Chorus / Outro（委婉）
 
----
+Whores in this house — （采样原词；粗口，公共场合慎用）  
+Yeah, you dealin' with some wet and gushy — 对，你面对的是这一套  
+Bring a bucket and a mop for this wet and gushy — 准备好水桶和拖把  
+I'm talkin' WAP, WAP, WAP, that's some wet and gushy — 我说的就是 WAP——标题缩写本身即露骨  
+Macaroni in a pot, that's some wet and gushy, huh — （俚语比喻身体反应；略译）  
+
+There's some wh- in this house — （outro 重复；原词更粗）  
 
 ---
 
@@ -172,20 +126,29 @@ There's some wh-...
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *Switch my wig, make him feel like he cheatin'* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *You really ain't never gotta (mwah) him for a thing* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Never lost a fight, but I'm lookin' for a beatin' (ah)* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *There's some wh-...* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I don't cook, I don't clean* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *I do a kegel, I'm kinda wild* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *Tie me up like I'm surprised* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I wanna (ah), I wanna (sco')* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **WAP** | （露骨性缩写） | 标题本身 NSFW；公开讨论可用全称回避或说 *the Cardi B song* |
+| **in this house** | 在这屋里 | 来自采样 hook；派对/俱乐部语境 |
+| **certified freak** | 认证的「玩得开」 | *freak* 此处=性方面很大胆；委婉记「很开放」 |
+| **seven days a week** | 一周七天 | 强调「随时、一直」 |
+| **wet and gushy** | 「湿滑」性暗示 | 全曲核心俚语；中文勿直译成色情描写 |
+| **bucket and a mop** | 水桶和拖把 | 夸张幽默：暗示「水多到要拖」 |
+| **dealin' with** | 在对付 / 面对的是 | *dealing with*；口语省 *g* |
+| **I don't cook, I don't clean** | 我不做饭也不打扫 | 相对干净、好记的态度句 |
+| **make it rain** | 撒钱如雨 | 俱乐部：往舞者身上扔钞票 |
+| **pay my tuition** | 付我学费 | 此处=用钱换亲近；权力感表达 |
+| **Switch my wig** | 换假发 | 变装/造型；后接「像出轨」的玩笑 |
+| **feel like he cheatin'** | 觉得自己在偷吃 | *cheating*；口语省 *g* |
+| **Your honor** | 法官大人 | 假装上法庭的戏剧口吻 |
+| **lookin' for a beatin'** | 在找人「收拾」我 | 双关打斗与性；成人语境 |
+| **hol' up** | 等一下 | = hold up；说唱口头禅 |
+| **Macaroni in a pot** | （身体反应俚语） | 网络/说唱隐喻；知其为粗俗比喻即可 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 难（`level/hard`）
-- **推荐场景：** 发音
-- **年代标签：** 2020s
-- 语速较快或词汇密度高，建议先慢速跟读再原速。
+- **明确分级：Explicit / NSFW。** 不适合通勤外放、亲子或正式场合；自学时用耳机、当「俚语与文化现象」材料即可。
+- 学习重点放在：**hook 节奏**、*dealin' with / seven days a week / make it rain* 等可迁移口语，而不是背诵露骨细节。
+- Cardi 与 Megan 的咬字快、连读多；先慢速跟 *wet and gushy / bucket and a mop* 的节奏型，再听原速。
+- 文化层面：这首歌把女性性话语推到主流流行前沿，也引发审查与性别政治争论——听懂「为什么吵」和听懂每个脏词一样有用。
+- 若只想练浪漫/亲密英语而非露骨说唱，优先 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 或其他非 explicit 曲目。

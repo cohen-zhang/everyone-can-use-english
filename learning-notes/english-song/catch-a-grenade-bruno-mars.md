@@ -6,6 +6,7 @@ tags:
   - topic/emotions
   - topic/life-attitude
   - topic/love-romance
+  - topic/breakup-loss
   - genre/pop
   - level/medium
   - era/2010s
@@ -14,15 +15,15 @@ tags:
   - use/pronunciation
 aliases:
   - Catch a Grenade (The Hooligans Remix) — Bruno Mars
+  - Grenade — Bruno Mars
 ---
 # Catch a Grenade (The Hooligans Remix) — Bruno Mars
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Catch a Grenade (The Hooligans Remix)](https://music.apple.com/cn/song/catch-a-grenade-the-hooligans-remix/416696998)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/english-song/marry-you-bruno-mars|Marry You — Bruno Mars]] · [[learning-notes/english-song/treasure-bruno-mars|Treasure — Bruno Mars]] · [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man — Bruno Mars]] · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
 
 ---
 
@@ -30,11 +31,11 @@ aliases:
 
 **English**
 
-**Bruno Mars** is a recording artist associated with **国际流行** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Bruno Mars** (born **Peter Gene Hernandez**, 8 October 1985, Honolulu, Hawaii) is an American **singer-songwriter**, **producer**, and **multi-instrumentalist**. Raised in a musical family, he moved to Los Angeles and broke through with the production team **The Smeezingtons**, then as a solo star with ***Doo-Wops & Hooligans*** (2010). Mars blends **pop**, **R&B**, **funk**, **soul**, and **doo-wop**; he has won multiple **Grammy Awards** and is known for high-energy live shows with his band **The Hooligans**. His early hits often mix romance with heartbreak—*"Grenade"* being one of the sharpest.
 
 **中文**
 
-**Bruno Mars** 是与 **国际流行** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Bruno Mars**（本名 **Peter Gene Hernandez**，1985 年 10 月 8 日生于夏威夷檀香山）是美国**创作歌手**、**制作人**、**多乐器演奏者**。成长于音乐家庭，赴洛杉矶后先以制作组合 **The Smeezingtons** 崭露头角，再以 ***Doo-Wops & Hooligans***（2010）成为个人巨星。风格融合 **流行、R&B、放克、灵魂、doo-wop**；多次获**格莱美**，与乐队 **The Hooligans** 的现场以高能量著称。早期热单常把浪漫与心碎拧在一起——*"Grenade"* 是其中最锋利的一首。
 
 ---
 
@@ -42,96 +43,99 @@ aliases:
 
 **English**
 
-**"Catch a Grenade (The Hooligans Remix)"** by **Bruno Mars** is a **国际流行** track from *The Grenade Sessions - EP*. Themes in the lyrics often touch on **emotions, life attitude, love romance**, useful for spoken English and sing-along practice.
+**"Catch a Grenade (The Hooligans Remix)"** is a live-band remix of **"Grenade"**, the second single from ***Doo-Wops & Hooligans*** (2010), collected on ***The Grenade Sessions - EP*** (2011). Co-written by Mars with **Philip Lawrence**, **Ari Levine**, **Brody Brown**, **Claude Kelly**, and **Andrew Wyatt**, the original became a global smash—peaking at **No. 1** on the Billboard Hot 100—and a signature **one-sided love** anthem: *I'd catch a grenade for ya… but you won't do the same*. This Hooligans remix keeps the same lyric drama with a fuller band punch. Great for practicing **hyperbolic sacrifice** (*catch a grenade / take a bullet*) and bitter contrast (*but you won't do the same*).
 
 **中文**
 
-**"Catch a Grenade (The Hooligans Remix)"**（**Bruno Mars**）收录于 *The Grenade Sessions - EP*，属 **国际流行** 风格。歌词主题多与 **情绪 · 生活态度 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Catch a Grenade (The Hooligans Remix)"** 是 **"Grenade"** 的乐队 remix；原曲为 ***Doo-Wops & Hooligans***（2010）第二支单曲，收录于 ***The Grenade Sessions - EP***（2011）。由 Mars 与 **Philip Lawrence**、**Ari Levine**、**Brody Brown**、**Claude Kelly**、**Andrew Wyatt** 等合写；原版登顶 Billboard Hot 100，成为标志性的**单恋 / 不对等付出**神曲：*I'd catch a grenade for ya… but you won't do the same*。本 remix 保留同一套歌词戏剧，乐队更满、更冲。适合练**夸张牺牲句**（*catch a grenade / take a bullet*）与苦涩对比（*but you won't do the same*）。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
 | 专辑 | Album | *The Grenade Sessions - EP* |
 | 发行 | Release date | 2011-02-08 |
-| 曲风 | Genre | Pop |
+| 曲风 | Genre | Pop · R&B · live remix |
 | 时长 | Length | 3:30 |
+| 词曲 | Songwriters | Bruno Mars, Philip Lawrence, Ari Levine, Brody Brown, Claude Kelly, Andrew Wyatt 等 |
+| 原曲 | Original | "Grenade" — *Doo-Wops & Hooligans* (2010) |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #102 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-Easy come, easy go  
-That's just how you live oh  
-Take, take, take it all  
-But you never give  
-Should have known  
-You was trouble  
-From the first kiss  
-Had your eyes wide open  
-Why were they open?  
+Easy come, easy go — 来得容易，去得也快  
+That's just how you live oh — 你就是这么活的  
+Take, take, take it all — 拿、拿、全拿走  
+But you never give — 可你从不付出  
+Should have known — 早该知道  
+You was trouble — 你就是个麻烦  
+From the first kiss — 从第一个吻开始  
+Had your eyes wide open — 你眼睛睁得大大的  
+Why were they open? — 为什么睁着？  
 
-Gave you all I had  
-And you tossed it in the trash  
-Tossed it in the trash you did  
-To give me all your love  
-Is all I ever asked  
-But what you don't understand is  
+### Pre-Chorus
 
-I'd catch a grenade for ya (yeah, yeah, yeah)  
-Throw my hand on a blade for ya (yeah, yeah, yeah)  
-I'd jump in front of a train for ya (yeah, yeah, yeah)  
-You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh  
-I would go through all this pain  
-Take a bullet straight through my brain  
-Yes, I would die for ya baby  
-But you won't do the same  
+Gave you all I had — 把我所有的都给了你  
+And you tossed it in the trash — 你却扔进垃圾桶  
+Tossed it in the trash you did — 真的扔进垃圾桶了  
+To give me all your love — 把你全部的爱给我  
+Is all I ever asked — 是我唯一求过的  
+But what you don't understand is — 可你不懂的是  
 
-No, no, no, no  
-Black, black, black and blue  
-Beat me till I'm numb  
-Tell the devil I said "hey" when you get back to where you're from  
-Mad woman, bad woman  
-That's just what you are, yeah  
-You'll smile in my face then  
-Rip the brakes out my car  
+### Chorus
 
-Gave you all I had  
-And you tossed it in the trash  
-You tossed it in the trash, yes you did  
-To give me all your love  
-Is all I ever asked  
-Cause what you don't understand is  
+I'd catch a grenade for ya (yeah, yeah, yeah) — 我愿意为你接住一颗手榴弹  
+Throw my hand on a blade for ya (yeah, yeah, yeah) — 愿意为你把手按在刀刃上  
+I'd jump in front of a train for ya (yeah, yeah, yeah) — 愿意为你冲到火车前面  
+You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh — 你知道我愿为你做任何事  
+I would go through all this pain — 我愿意受尽这些苦  
+Take a bullet straight through my brain — 愿意让子弹直穿我的脑袋  
+Yes, I would die for ya baby — 是的，我愿意为你去死，宝贝  
+But you won't do the same — 可你不会为我这样做  
 
-I'd catch a grenade for ya (yeah, yeah, yeah)  
-Throw my hand on a blade for ya (yeah, yeah, yeah)  
-I'd jump in front of a train for ya (yeah, yeah, yeah)  
-You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh  
-I would go through all this pain  
-Take a bullet straight through my brain  
-Yes, I would die for ya baby  
-But you won't do the same  
+### Verse 2
 
-If my body was on fire, ooh  
-You' d watch me burn down in flames  
-You said you loved me you're a liar  
-Cause you never, ever, ever did baby  
+No, no, no, no — 不、不、不、不  
+Black, black, black and blue — 青一块紫一块  
+Beat me till I'm numb — 打到我麻木  
+Tell the devil I said "hey" when you get back to where you're from — 你回老家时，替我跟魔鬼说声嘿  
+Mad woman, bad woman — 疯女人，坏女人  
+That's just what you are, yeah — 你就是这样的人  
+You'll smile in my face then — 你会当面冲我笑  
+Rip the brakes out my car — 然后拆掉我车上的刹车  
 
-But darling I'll still catch a grenade for ya  
-Throw my hand on a blade for ya (yeah, yeah, yeah)  
-I'd jump in front of a train for ya (yeah, yeah, yeah)  
-You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh  
-I would go through all this pain  
-Take a bullet straight through my brain  
-Yes, I would die for ya baby  
-But you won't do the same  
+### Pre-Chorus & Chorus
 
-No, no, no, no
+Gave you all I had — 把我所有的都给了你  
+And you tossed it in the trash — 你却扔进垃圾桶  
+You tossed it in the trash, yes you did — 真的扔了，没错  
+To give me all your love — 把你全部的爱给我  
+Is all I ever asked — 是我唯一求过的  
+Cause what you don't understand is — 因为你不懂的是  
 
----
+*(Chorus 同前)*
 
----
+### Bridge
+
+If my body was on fire, ooh — 要是我全身着火  
+You'd watch me burn down in flames — 你会看着我烧成灰  
+You said you loved me you're a liar — 你说爱我——你是个骗子  
+Cause you never, ever, ever did baby — 因为你从来、从来、从来没有爱过，宝贝  
+
+### Final Chorus
+
+But darling I'll still catch a grenade for ya — 可亲爱的，我还是愿意为你接住手榴弹  
+Throw my hand on a blade for ya (yeah, yeah, yeah) — 愿意为你把手按在刀刃上  
+I'd jump in front of a train for ya (yeah, yeah, yeah) — 愿意为你冲到火车前面  
+You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh — 你知道我愿为你做任何事  
+I would go through all this pain — 我愿意受尽这些苦  
+Take a bullet straight through my brain — 愿意让子弹直穿我的脑袋  
+Yes, I would die for ya baby — 是的，我愿意为你去死，宝贝  
+But you won't do the same — 可你不会为我这样做  
+
+No, no, no, no — 不、不、不、不  
 
 ---
 
@@ -139,20 +143,28 @@ No, no, no, no
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *Beat me till I'm numb* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *But you won't do the same* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *That's just how you live oh* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *You'll smile in my face then* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *That's just what you are, yeah* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *But what you don't understand is* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *Cause what you don't understand is* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *You' d watch me burn down in flames* | 见歌词上下文 | 跟唱时可注意连读与重音 |
+| **Easy come, easy go** | 来得快，去得也快 | 习语；钱、人、机会都可用 |
+| **You was trouble** | 你就是个麻烦 | 非标准语法（应为 *were*）；歌词口语 |
+| **tossed it in the trash** | 扔进垃圾桶 | = 完全不当回事 |
+| **catch a grenade for ya** | 为你接住手榴弹 | 夸张：愿替你挡致命危险 |
+| **throw my hand on a blade** | 把手按在刀刃上 | 同上，极端牺牲意象 |
+| **jump in front of a train** | 冲到火车前面 | 同上 |
+| **take a bullet** | 挨一枪 / 替人挡枪 | 口语也有「承担责任」义 |
+| **die for ya** | 为你去死 | 情歌常见夸张 |
+| **But you won't do the same** | 可你不会同样对我 | 全曲核心反转 |
+| **black and blue** | 青一块紫一块 | 瘀伤；也可指情感上被虐 |
+| **beat me till I'm numb** | 打到我麻木 | 此处偏情感虐待隐喻 |
+| **smile in my face** | 当面冲我笑 | 常接背叛行为 |
+| **rip the brakes out** | 拆掉刹车 | 比喻暗中害你 |
+| **burn down in flames** | 烧成灰烬 | *go down in flames* 也=惨败 |
+| **you're a liar** | 你是个骗子 | 直球指责；注意 *liar* 发音 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中（`level/medium`）
-- **推荐场景：** 精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *Catch a Grenade* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌是一串 **I'd … for ya** 平行结构，KTV 先把 *grenade / blade / train / bullet* 四个意象唱稳。
+- 结尾 *But you won't do the same* 是情绪落点——练**对比重音**：前面牺牲句拉高，这句压低、咬清 *won't*。
+- *for ya* 的 *ya* 弱读；*Should have known* 常连成 *shoulda known*。
+- 同专辑浪漫向可对照 [[learning-notes/english-song/marry-you-bruno-mars|Marry You]]；后悔向可对照 [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man]]。
+- 想练「不对等付出」相关情绪词，可看 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

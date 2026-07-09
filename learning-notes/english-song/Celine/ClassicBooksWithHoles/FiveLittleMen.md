@@ -16,7 +16,7 @@ aliases:
 
 **绘本说明：** Child's Play 版图画里，五个小人因地球脏乱先后飞走；结尾人类把环境收拾好，小人**乘飞碟回来并决定留下**——后半段歌词与画面一致。
 
-**相关：** [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]]（同系列）· [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/航天亲子口语]]（*flying saucer* 等太空词）· [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/english-song/Celine/ClassicBooksWithHoles/DownByTheStation|Down by the Station]]（同系列）· [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/航天亲子口语]]（*flying saucer* 等太空词）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 

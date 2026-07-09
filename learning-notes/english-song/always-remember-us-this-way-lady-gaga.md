@@ -20,12 +20,11 @@ aliases:
 ---
 # Always Remember Us This Way — Lady Gaga
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
-
 **Apple Music：** [Always Remember Us This Way](https://music.apple.com/cn/song/always-remember-us-this-way/1434367896)
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · 翻唱版 — [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Always Remember Us This Way — Brenda Mullen]]
 
 ---
 
@@ -33,11 +32,11 @@ aliases:
 
 **English**
 
-**Lady Gaga** is a recording artist associated with **Soundtrack** and popular music. This note is tied to your Apple Music playlist [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1).
+**Lady Gaga** (Stefani Joanne Angelina Germanotta, born 28 March 1986 in New York) is an American singer, songwriter, and actress. She broke through in the late 2000s with dance-pop hits *"Just Dance"* and *"Poker Face"*, then expanded into jazz (*Cheek to Cheek* with Tony Bennett), electronic (*Artpop*), and **film**. In Bradley Cooper's 2018 remake of ***A Star Is Born***, she plays rising singer **Ally** opposite Cooper's Jackson Maine; the role earned her an **Oscar** nomination for Best Actress and a win for Best Original Song (*"Shallow"*). Known for theatrical performance, vocal power, and genre range, she remains one of the defining pop artists of the 21st century.
 
 **中文**
 
-**Lady Gaga** 是与 **Soundtrack** 及流行音乐相关的歌手/组合。本笔记对应 Apple Music 播放列表 [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)。
+**Lady Gaga**（Stefani Joanne Angelina Germanotta，1986 年 3 月 28 日生于纽约）是美国歌手、词曲作者与演员。2000 年代末凭舞曲流行 *"Just Dance"*、*"Poker Face"* 走红，后拓展至爵士（与 Tony Bennett 的 *Cheek to Cheek*）、电子（*Artpop*）与**电影**。在 Bradley Cooper 2018 年翻拍的 **《一个明星的诞生》（*A Star Is Born*）** 中饰演新锐歌手 **Ally**，对手戏是 Cooper 饰演的 Jackson Maine；该角色为她赢得 **奥斯卡** 最佳女主角提名，并以 *"Shallow"* 获最佳原创歌曲奖。以舞台戏剧感、嗓音爆发力与跨界能力著称，是 21 世纪最具代表性的流行艺人之一。
 
 ---
 
@@ -45,74 +44,78 @@ aliases:
 
 **English**
 
-**"Always Remember Us This Way"** by **Lady Gaga** is a **Soundtrack** track from *A Star Is Born Soundtrack*. Themes in the lyrics often touch on **breakup loss, film ost, life attitude, love romance**, useful for spoken English and sing-along practice.
+**"Always Remember Us This Way"** was written by **Lady Gaga**, **Natalie Hemby**, **Hillary Lindsey**, and **Lori McKenna** for ***A Star Is Born*** (2018). In the film, Ally performs it as a **piano-driven country ballad**—a vow to freeze a relationship at its brightest: *when the sun goes down and the band won't play, I'll always remember us this way*. The track appears on the *A Star Is Born Soundtrack* (released **5 October 2018**), charted on the Billboard Hot 100, and became one of the decade's most covered love songs. **This playlist entry is Gaga's original / film version**; for a cleaner studio cover useful for practice, see [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Brenda Mullen]].
 
 **中文**
 
-**"Always Remember Us This Way"**（**Lady Gaga**）收录于 *A Star Is Born Soundtrack*，属 **Soundtrack** 风格。歌词主题多与 **分手·思念 · 影视原声 · 生活态度 · 恋爱** 相关，适合跟唱与口语表达练习。
+**"Always Remember Us This Way"** 由 **Lady Gaga**、**Natalie Hemby**、**Hillary Lindsey**、**Lori McKenna** 为 2018 年电影 **《一个明星的诞生》** 创作。片中 Ally 以**钢琴主导的乡村抒情曲**演唱——誓言把感情最亮的样子留住：*when the sun goes down and the band won't play, I'll always remember us this way*（日头落下、乐队散场，我仍会记得我们那时的样子）。收录于 *A Star Is Born Soundtrack*（**2018 年 10 月 5 日**发行），登上 Billboard Hot 100，成为十年间被翻唱最多的情歌之一。**本播放列表条目为 Gaga 原唱 / 电影版**；若想用人声更干净的录音室翻唱练跟唱，见 [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Brenda Mullen 版]]。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
 | 专辑 | Album | *A Star Is Born Soundtrack* |
 | 发行 | Release date | 2018-10-05 |
-| 曲风 | Genre | Ballad · Pop |
+| 曲风 | Genre | Country ballad · pop |
 | 时长 | Length | 3:30 |
+| 词曲 | Songwriters | Lady Gaga, Natalie Hemby, Hillary Lindsey, Lori McKenna |
 | 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #97 |
 
 ---
 
 ## 歌词 · Lyrics
 
-> 歌词来源：lrclib.net
+### Verse 1
 
-That Arizona sky  
-Burning in your eyes  
-You look at me and babe, I wanna catch on fire  
-It's buried in my soul  
-Like California gold  
-You found the light in me that I couldn't find  
+That Arizona sky — 那片亚利桑那的天空  
+Burning in your eyes — 在你眼里燃烧  
+You look at me and, babe — 你看着我，宝贝  
+I wanna catch on fire — 我想随之燃烧  
+It's buried in my soul — 它埋在我灵魂深处  
+Like California gold — 像加州的金子  
+You found the light in me — 你找到了我身上的光  
+That I couldn't find — 我自己找不到的那束光  
 
-So when I'm all choked up, but I can't find the words  
-Every time we say goodbye, baby, it hurts  
-When the sun goes down  
-And the band won't play  
-I'll always remember us this way  
+### Chorus
 
-Lovers in the night  
-Poets trying to write  
-We don't know how to rhyme, but damn we try  
-But all I really know  
-You're where I wanna go  
-The part of me that's you will never die  
+So when I'm all choked up — 所以当我哽咽说不出话  
+But I can't find the words — 却找不到词句  
+Every time we say goodbye — 每次我们说再见  
+Baby, it hurts — 宝贝，都很痛  
+When the sun goes down — 当太阳落下  
+And the band won't play — 乐队不再演奏  
+I'll always remember us this way — 我会一直记得我们那时的样子  
 
-So when I'm all choked up, but I can't find the words  
-Every time we say goodbye, baby, it hurts  
-When the sun goes down  
-And the band won't play  
-I'll always remember us this way  
+### Verse 2
 
-Oh, yeah  
-I don't wanna be just a memory, baby, yeah  
-Hoo-hoo, hoo-hoo, hoo, hoo  
-Hoo-hoo, hoo-hoo, hoo, hoo  
-Hoo-hoo, hoo-hoo, hoo, hoo, hoo  
+Lovers in the night — 夜里的恋人  
+Poets trying to write — 诗人努力想写诗  
+We don't know how to rhyme — 我们不太会押韵  
+But damn, we try — 但该死的，我们在试  
+But all I really know — 而我真正知道的是  
+You're where I wanna go — 你就是我想去的地方  
+The part of me that's you — 我身上属于你的那部分  
+Will never die — 永远不会消逝  
 
-So when I'm all choked up, but I can't find the words  
-Every time we say goodbye, baby, it hurts  
-When the sun goes down  
-And the band won't play  
-I'll always remember us this way, way, yeah  
+### Chorus（重复）
 
-When you look at me  
-And the whole world fades  
-I'll always remember us this way  
+*(同第一段副歌)*
 
-Ooh-ooh, hmm  
-Oh, no, hm-hm
+### Bridge
 
----
+I don't wanna be just a memory, baby, yeah — 我不想只变成一段回忆，宝贝  
 
----
+### Final Chorus / Outro
+
+So when I'm all choked up — 所以当我哽咽说不出话  
+But I can't find the words — 却找不到词句  
+Every time we say goodbye — 每次我们说再见  
+Baby, it hurts — 宝贝，都很痛  
+When the sun goes down — 当太阳落下  
+And the band won't play — 乐队不再演奏  
+I'll always remember us this way — 我会一直记得我们那时的样子  
+
+When you look at me — 当你看着我  
+And the whole world fades — 整个世界都淡去  
+I'll always remember us this way — 我会一直记得我们那时的样子  
 
 ---
 
@@ -120,20 +123,22 @@ Oh, no, hm-hm
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| *I'll always remember us this way* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *The part of me that's you will never die* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I'll always remember us this way, way, yeah* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *It's buried in my soul* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *And the band won't play* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *You're where I wanna go* | 见歌词上下文 | 跟唱时可注意连读与重音 |
-| *I don't wanna be just a memory, baby, yeah* | 见歌词上下文 | 含缩略 / 否定口语 |
-| *We don't know how to rhyme, but damn we try* | 见歌词上下文 | 含缩略 / 否定口语 |
+| **always remember us this way** | 永远记得我们那时的样子 | 歌题核心；*this way* = 此刻最美的状态 |
+| **choked up** | 哽咽；激动/难过说不出话 | 情绪堵在喉咙 |
+| **can't find the words** | 找不到话说 | 常与 *choked up* 连用 |
+| **catch on fire** | 燃烧起来 | 被对方的目光或爱意点燃 |
+| **California gold** | 加州金子 | 比喻埋藏深处的珍贵情感或潜能 |
+| **the band won't play** | 乐队不再演奏 | 派对/庆典散场；辉煌时刻落幕 |
+| **don't know how to rhyme** | 不会押韵 | 自嘲不是诗人，但仍在努力表达爱 |
+| **you're where I wanna go** | 你就是我想去的地方 | *wanna* = want to；把人比作目的地 |
+| **just a memory** | 只是一段回忆 | Bridge 核心恐惧：被遗忘 |
+| **the whole world fades** | 整个世界淡去 | 眼里只剩对方 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 易（`level/easy`）
-- **推荐场景：** 通勤、精研、KTV、发音
-- **年代标签：** 2010s
-- 副歌 *Always Remember Us This Way* 适合 KTV 跟唱，先听清副歌再练 Verse。
+- 副歌 *I'll always remember us this way* 旋律平缓、重复多，**难度易**，适合通勤跟唱和 KTV。
+- 电影版情绪更满、气口更戏剧；可先用 [[learning-notes/english-song/always-remember-us-this-way-brenda-mullen|Brenda Mullen 翻唱]] 练熟歌词，再回听 Gaga 原唱感受张力。
+- 整句记：*I'm all choked up but I can't find the words*——口语里表达「太激动/太难过说不出话」。
+- 想积累**怀念与告别**句型，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

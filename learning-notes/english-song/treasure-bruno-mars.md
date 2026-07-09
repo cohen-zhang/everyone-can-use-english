@@ -20,7 +20,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*Honey, you're my golden star* 一类甜蜜称呼可对照本歌副歌） · [[learning-notes/english-song/marry-you-bruno-mars|Marry You — Bruno Mars]]（同专辑 Bruno 浪漫曲风可对照）
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*Honey, you're my golden star* 一类甜蜜称呼可对照本歌副歌） · [[learning-notes/english-song/marry-you-bruno-mars|Marry You — Bruno Mars]]（同专辑 Bruno 浪漫曲风可对照） · [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade — Bruno Mars]]（Bruno 心碎向对照） · [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man — Bruno Mars]]
 
 ---
 

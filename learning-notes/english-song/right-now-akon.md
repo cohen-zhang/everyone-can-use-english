@@ -21,7 +21,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（分手后悔、复合请求可对照副歌）
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（分手后悔、复合请求可对照副歌） · 翻唱版 — [[learning-notes/english-song/right-now-aamir|Right Now (Na Na Na) — Aamir]]
 
 ---
 

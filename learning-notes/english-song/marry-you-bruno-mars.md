@@ -22,7 +22,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · 冲动与轻松承诺 — *something dumb to do*、*that's cool* 一类口语可对照本歌 Verse。
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · 冲动与轻松承诺 — *something dumb to do*、*that's cool* 一类口语可对照本歌 Verse。 · [[learning-notes/english-song/catch-a-grenade-bruno-mars|Catch a Grenade — Bruno Mars]]（同专辑心碎向对照） · [[learning-notes/english-song/treasure-bruno-mars|Treasure — Bruno Mars]] · [[learning-notes/english-song/when-i-was-your-man-bruno-mars|When I Was Your Man — Bruno Mars]]
 
 ---
 
