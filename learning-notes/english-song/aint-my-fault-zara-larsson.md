@@ -63,80 +63,154 @@ aliases:
 
 > 歌词含调情暗示与 *damn* 等口语，为歌曲原词；学习时注意语境与场合。
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-It ain't my fault you keep turning me on — 不怪我，是你老让我心动  
-It ain't my fault you got, got me so gone — 不怪我，是你让我神魂颠倒  
-It ain't my fault I'm not leavin' alone — 不怪我，我不会一个人走  
-It ain't my fault you keep turning me on — 不怪我，是你老让我心动
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-I can't talk right now, I'm looking and I like what I'm seeing — 现在没法说话，我看着，我喜欢我看到的  
-Got me feeling kinda shocked right now — 现在有点震惊  
-Couldn't stop right now, even if I wanted — 就算想停，现在也停不下来了  
-Gotta get it, get it, get it, get it when it's hot right now — 得趁热，趁热，趁热，趁热  
-Oh my god, what is this — 天啊，这是什么  
-Want you all in my business — 想让你插手我全部生活  
-Baby I insist, please don't blame me for what ever happens next — 宝贝我坚持，接下来发生啥别怪我
+It ain't my fault you keep turning me on
+It ain't my fault you got, got me so gone
+It ain't my fault I'm not leavin' alone
+It ain't my fault you keep turning me on
 
-### Pre-Chorus
+#### Verse 1
 
-No, I can't be responsible — 不，我不能负责  
-If I get you in trouble now — 要是我现在让你惹上麻烦  
-See you're, too irresistible — 看你，太无法抗拒  
-Yeah, that's for sure — 没错，千真万确  
+I can't talk right now, I'm looking and I like what I'm seeing
+Got me feeling kinda shocked right now
+Couldn't stop right now, even if I wanted
+Gotta get it, get it, get it, get it when it's hot right now
+Oh my god, what is this
+Want you all in my business
+Baby I insist, please don't blame me for what ever happens next
 
-So if I put your hands where my eyes can't see — 所以若我把你手放在我看不见的地方  
-Then you're the one who's got a hold on me — 那就是你抓住了我  
-No, I can't be responsible, responsible — 不，我不能负责，不能负责  
-It ain't my fault — 不怪我
+#### Pre-Chorus
 
-### Chorus（重复）
+No, I can't be responsible
+If I get you in trouble now
+See you're, too irresistible
+Yeah, that's for sure
+
+So if I put your hands where my eyes can't see
+Then you're the one who's got a hold on me
+No, I can't be responsible, responsible
+It ain't my fault
+
+#### Chorus（重复）
+
+#### Verse 2
+
+It ain't my fault you came here looking like that
+You just made me trip, fall, and land on your lap
+Certain bad boy smooth, body hotter than a summer
+I don't mean to be rude, but I'd look so damn good on ya
+
+Ain't got time right now
+Missed me with that "what's your name, your sign" right now
+It's light outside, I just called an Uber and it's right outside
+Oh my god, what is this?
+Want you all in my business
+Baby I insist, please don't blame me for what ever happens next
+
+#### Pre-Chorus（重复）
+
+No, I can't be responsible
+If I get you in trouble now
+See you're, too irresistible
+Yeah, that's for sure
+So if I put your hands where my eyes can't see
+Then you're the one who's got a hold on me
+No, I can't be responsible, responsible
+It ain't my fault
+
+It ain't my fault you keep turning me on
+It ain't my fault you got, got me so gone
+It ain't my fault I'm not leavin' alone
+It ain't my fault you keep turning me on
+
+#### Outro（R3hab Remix 收尾）
+
+Your body is calling me
+And I know wherever you are
+It's exactly where I wanna be
+But don't blame me
+It ain't my fault
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+不怪我，是你老让我心动
+不怪我，是你让我神魂颠倒
+不怪我，我不会一个人走
+不怪我，是你老让我心动
+
+#### Verse 1
+
+现在没法说话，我看着，我喜欢我看到的
+现在有点震惊
+就算想停，现在也停不下来了
+得趁热，趁热，趁热，趁热
+天啊，这是什么
+想让你插手我全部生活
+宝贝我坚持，接下来发生啥别怪我
+
+#### Pre-Chorus
+
+不，我不能负责
+要是我现在让你惹上麻烦
+看你，太无法抗拒
+没错，千真万确
+
+所以若我把你手放在我看不见的地方
+那就是你抓住了我
+不，我不能负责，不能负责
+不怪我
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Verse 2
+#### Verse 2
 
-It ain't my fault you came here looking like that — 不怪我，你是这副模样来的  
-You just made me trip, fall, and land on your lap — 你让我绊倒，摔在你腿上  
-Certain bad boy smooth, body hotter than a summer — 某种坏男孩式的顺滑，身子比夏天还热  
-I don't mean to be rude, but I'd look so damn good on ya — 不是想无礼，但我穿在你身上真他妈好看  
+不怪我，你是这副模样来的
+你让我绊倒，摔在你腿上
+某种坏男孩式的顺滑，身子比夏天还热
+不是想无礼，但我穿在你身上真他妈好看
 
-Ain't got time right now — 现在没时间  
-Missed me with that "what's your name, your sign" right now — 别跟我来「你叫什么、什么星座」那套  
-It's light outside, I just called an Uber and it's right outside — 天亮了，我叫了 Uber，就在外面  
-Oh my god, what is this? — 天啊，这是什么？  
-Want you all in my business — 想让你插手我全部生活  
-Baby I insist, please don't blame me for what ever happens next — 宝贝我坚持，接下来发生啥别怪我  
+现在没时间
+别跟我来「你叫什么、什么星座」那套
+天亮了，我叫了 Uber，就在外面
+天啊，这是什么？
+想让你插手我全部生活
+宝贝我坚持，接下来发生啥别怪我
 
-### Pre-Chorus（重复）
+#### Pre-Chorus（重复）
 
-No, I can't be responsible — 不，我不能负责  
-If I get you in trouble now — 要是我现在让你惹上麻烦  
-See you're, too irresistible — 看你，太无法抗拒  
-Yeah, that's for sure — 没错，千真万确  
-So if I put your hands where my eyes can't see — 所以若我把你手放在我看不见的地方  
-Then you're the one who's got a hold on me — 那就是你抓住了我  
-No, I can't be responsible, responsible — 不，我不能负责，不能负责  
-It ain't my fault — 不怪我
+不，我不能负责
+要是我现在让你惹上麻烦
+看你，太无法抗拒
+没错，千真万确
+所以若我把你手放在我看不见的地方
+那就是你抓住了我
+不，我不能负责，不能负责
+不怪我
 
-### Chorus（重复）
+不怪我，是你老让我心动
+不怪我，是你让我神魂颠倒
+不怪我，我不会一个人走
+不怪我，是你老让我心动
 
-It ain't my fault you keep turning me on — 不怪我，是你老让我心动  
-It ain't my fault you got, got me so gone — 不怪我，是你让我神魂颠倒  
-It ain't my fault I'm not leavin' alone — 不怪我，我不会一个人走  
-It ain't my fault you keep turning me on — 不怪我，是你老让我心动
+#### Outro（R3hab Remix 收尾）
 
-### Outro（R3hab Remix 收尾）
-
-Your body is calling me — 你的身体在呼唤我  
-And I know wherever you are — 我知道无论你在哪  
-It's exactly where I wanna be — 那正是我想去的地方  
-But don't blame me — 但别怪我  
-It ain't my fault — 不怪我
-
----
+你的身体在呼唤我
+我知道无论你在哪
+那正是我想去的地方
+但别怪我
+不怪我
 
 ## 重点表达 · Key Phrases
 

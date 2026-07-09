@@ -61,59 +61,116 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-It's been so long — 好久好久  
-That I haven't seen your face — 没见过你的脸  
-I'm tryna be strong — 我努力坚强  
-But the strength I have is washing away — 可那点力气正在流失  
-It won't be long — 不会太久了  
-Before I get you by my side — 就能把你留在我身边  
-And just hold you, tease you — 抱着你、逗你  
-Squeeze you, tell you what's been on my mind — 紧抱你，告诉你我心里一直想的事  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-I wanna make up right now, na-na — 我现在就想和好，呐呐  
-I wanna make up right now, na-na — 我现在就想和好，呐呐  
-Wish we never broke up right now, na-na — 真希望我们从没分手，呐呐  
-We need to link up right now, na-na — 我们现在就得联系，呐呐  
+It's been so long
+That I haven't seen your face
+I'm tryna be strong
+But the strength I have is washing away
+It won't be long
+Before I get you by my side
+And just hold you, tease you
+Squeeze you, tell you what's been on my mind
 
-I wanna make up right now, na-na — 我现在就想和好，呐呐  
-I wanna make up right now, na-na — 我现在就想和好，呐呐  
-Wish we never broke up right now, na-na — 真希望我们从没分手，呐呐  
-We need to link up right now, na-na — 我们现在就得联系，呐呐  
+#### Chorus
 
-### Verse 2
+I wanna make up right now, na-na
+I wanna make up right now, na-na
+Wish we never broke up right now, na-na
+We need to link up right now, na-na
 
-Girl, I know, mistakes were made between us two — 女孩，我知道我们俩之间犯了错  
-And we show our eyes that night — 那晚我们眼里都写满了情绪  
-Even said somethings that weren't true — 还说了些不是真心的话  
-Why'd you go? — 你为什么走了？  
-I haven't seen my girl since then — 从那以后我再没见过我的女孩  
-Why can't it be the way it was? — 为什么不能回到从前？  
-You were my homie, lover, friend — 你曾是我的哥们、爱人、朋友  
+I wanna make up right now, na-na
+I wanna make up right now, na-na
+Wish we never broke up right now, na-na
+We need to link up right now, na-na
 
-### Chorus（重复）
+#### Verse 2
+
+Girl, I know, mistakes were made between us two
+And we show our eyes that night
+Even said somethings that weren't true
+Why'd you go?
+I haven't seen my girl since then
+Why can't it be the way it was?
+You were my homie, lover, friend
+
+#### Chorus（重复）
+
+#### Bridge
+
+I want you to fly with me
+I miss how you lie with me
+Just wish you could dine with me
+The one that'll grind with me, grind with me, yeah
+
+#### Final Chorus
+
+Need you right now, right now, na-na-na-na-na
+Oh, I wanna make up right now, na-na
+I wanna make up right now, na-na
+Wish we never broke up right now, na-na
+We need to link up right now, na-na
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+好久好久
+没见过你的脸
+我努力坚强
+可那点力气正在流失
+不会太久了
+就能把你留在我身边
+抱着你、逗你
+紧抱你，告诉你我心里一直想的事
+
+#### Chorus
+
+我现在就想和好，呐呐
+我现在就想和好，呐呐
+真希望我们从没分手，呐呐
+我们现在就得联系，呐呐
+
+我现在就想和好，呐呐
+我现在就想和好，呐呐
+真希望我们从没分手，呐呐
+我们现在就得联系，呐呐
+
+#### Verse 2
+
+女孩，我知道我们俩之间犯了错
+那晚我们眼里都写满了情绪
+还说了些不是真心的话
+你为什么走了？
+从那以后我再没见过我的女孩
+为什么不能回到从前？
+你曾是我的哥们、爱人、朋友
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-I want you to fly with me — 我想和你一起飞  
-I miss how you lie with me — 我怀念你和我躺在一起  
-Just wish you could dine with me — 只希望你能和我共进晚餐  
-The one that'll grind with me, grind with me, yeah — 那个愿与我厮守的人，愿与我厮守，yeah  
+我想和你一起飞
+我怀念你和我躺在一起
+只希望你能和我共进晚餐
+那个愿与我厮守的人，愿与我厮守，yeah
 
-### Final Chorus
+#### Final Chorus
 
-Need you right now, right now, na-na-na-na-na — 现在就需要你，现在，呐呐呐呐呐  
-Oh, I wanna make up right now, na-na — 哦，我现在就想和好，呐呐  
-I wanna make up right now, na-na — 我现在就想和好，呐呐  
-Wish we never broke up right now, na-na — 真希望我们从没分手，呐呐  
-We need to link up right now, na-na — 我们现在就得联系，呐呐  
-
----
+现在就需要你，现在，呐呐呐呐呐
+哦，我现在就想和好，呐呐
+我现在就想和好，呐呐
+真希望我们从没分手，呐呐
+我们现在就得联系，呐呐
 
 ## 重点表达 · Key Phrases
 

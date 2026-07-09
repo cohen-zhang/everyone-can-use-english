@@ -57,58 +57,114 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I miss the days when life was so simple — 我想念日子还那么单纯的时候  
-Felt like the glass was always half-full — 总觉得杯子一直是半满的  
-Where did that go? — 那种感觉去哪了？  
-And every second with you was so special — 和你在一起的每一秒都那么特别  
-Back when we didn't fear the unknowns — 那时我们还不害怕未知  
-But that was long ago — 但那是很久以前的事了
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Who can say where the path will go? — 谁能说前路会通向哪里？  
-Philosophers guess but they just don't know — 哲学家猜来猜去也说不清  
-Maybe that's why — 也许正因如此
+I miss the days when life was so simple
+Felt like the glass was always half-full
+Where did that go?
+And every second with you was so special
+Back when we didn't fear the unknowns
+But that was long ago
 
-### Chorus
+#### Pre-Chorus
 
-We had our heads in the clouds — 我们曾把脑袋埋在云里（想得太美）  
-Thought we had it all figured out — 以为一切都想明白了  
-Planning to fly away — 计划着远走高飞  
-To escape everything on the ground — 逃离地上的一切  
-But like a plane up in space — 可就像太空中的飞机  
-We slowly drifted away — 我们慢慢漂远了  
-And every plan that we made — 我们定下的每个计划  
-And dream that we chased — 追逐的每个梦想  
-Are just memories now — 如今都只是回忆  
-They're just memories now — 都只是回忆了
+Who can say where the path will go?
+Philosophers guess but they just don't know
+Maybe that's why
 
-### Verse 2
+#### Chorus
 
-I'm not sure where everything went wrong — 我不确定一切是从哪里开始错的  
-But I know that we landed where we both belong (where we both belong) — 但我知道我们落在了各自该在的地方  
-I just wish we weren't scared to say — 我只希望我们当时不怕说出口  
-That there's expiration dates on the friends you make — 你交的朋友也有「保质期」  
-As hard as that may sound — 这话听起来也许很刺耳
+We had our heads in the clouds
+Thought we had it all figured out
+Planning to fly away
+To escape everything on the ground
+But like a plane up in space
+We slowly drifted away
+And every plan that we made
+And dream that we chased
+Are just memories now
+They're just memories now
 
-### Pre-Chorus（重复）
+#### Verse 2
 
-Who can say where the path will go? — 谁能说前路会通向哪里？  
-Philosophers guess but they just don't know — 哲学家猜来猜去也说不清  
-Maybe that's why — 也许正因如此
+I'm not sure where everything went wrong
+But I know that we landed where we both belong (where we both belong)
+I just wish we weren't scared to say
+That there's expiration dates on the friends you make
+As hard as that may sound
 
-### Chorus（重复）
+#### Pre-Chorus（重复）
+
+Who can say where the path will go?
+Philosophers guess but they just don't know
+Maybe that's why
+
+#### Chorus（重复）
+
+#### Outro
+
+Who can say where the path will go? (Where the path will go?)
+Philosophers guess but they just don't know (but they just-)
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我想念日子还那么单纯的时候
+总觉得杯子一直是半满的
+那种感觉去哪了？
+和你在一起的每一秒都那么特别
+那时我们还不害怕未知
+但那是很久以前的事了
+
+#### Pre-Chorus
+
+谁能说前路会通向哪里？
+哲学家猜来猜去也说不清
+也许正因如此
+
+#### Chorus
+
+我们曾把脑袋埋在云里（想得太美）
+以为一切都想明白了
+计划着远走高飞
+逃离地上的一切
+可就像太空中的飞机
+我们慢慢漂远了
+我们定下的每个计划
+追逐的每个梦想
+如今都只是回忆
+都只是回忆了
+
+#### Verse 2
+
+我不确定一切是从哪里开始错的
+但我知道我们落在了各自该在的地方
+我只希望我们当时不怕说出口
+你交的朋友也有「保质期」
+这话听起来也许很刺耳
+
+#### Pre-Chorus（重复）
+
+谁能说前路会通向哪里？
+哲学家猜来猜去也说不清
+也许正因如此
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Outro
+#### Outro
 
-Who can say where the path will go? (Where the path will go?) — 谁能说前路会通向哪里？  
-Philosophers guess but they just don't know (but they just-) — 哲学家也说不清（渐渐淡出）
-
----
+谁能说前路会通向哪里？
+哲学家也说不清（渐渐淡出）
 
 ## 重点表达 · Key Phrases
 

@@ -58,73 +58,145 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Oh, gentle heart — 哦，温柔的心  
-Oh, simple soul — 哦，单纯的灵魂  
-You have come so far — 你已经走了这么远  
-On your own — 独自一人  
-Do not turn back — 别回头  
-Do not lose hope — 别失去希望  
-Who can say how far is left to go? — 谁能说还剩多远要走？
+### 英文歌词 · English Lyrics
 
-### Bridge 1
+#### Verse 1
 
-And all the nights — 而所有这些夜晚  
-You've walked alone — 你独自走过  
-You've followed lights — 你追随灯火  
-To guide you home — 引你回家  
+Oh, gentle heart
+Oh, simple soul
+You have come so far
+On your own
+Do not turn back
+Do not lose hope
+Who can say how far is left to go?
 
-Should the dawn refuse to rise — 若黎明不肯升起  
-Should the darkness close on all sides — 若黑暗从四面八方合拢  
-Oh, may you find your heart — 哦，愿你找到你的心  
-Next to mine — 挨着我的那颗  
-For we found hope — 因为我们找到了希望  
-In a hopeless time — 在一个毫无希望的时代
+#### Bridge 1
 
-### Verse 2
+And all the nights
+You've walked alone
+You've followed lights
+To guide you home
 
-Oh, gentle heart — 哦，温柔的心  
-Oh, simple soul — 哦，单纯的灵魂  
-There is still so much left to know — 仍有这么多还不了解  
-So, plant your seeds — 所以，播下你的种子  
-And watch them grow — 看它们生长  
-Keep on moving on — 继续往前走  
-Down the road — 沿着路走下去  
+Should the dawn refuse to rise
+Should the darkness close on all sides
+Oh, may you find your heart
+Next to mine
+For we found hope
+In a hopeless time
 
-And through the nights — 而穿过这些夜晚  
-The wind shall blow — 风会吹起  
-And all our lights — 而我们所有灯火  
-Are burning low — 都在渐渐燃尽  
+#### Verse 2
 
-Should the dawn refuse to rise — 若黎明不肯升起  
-Should the darkness close on all sides — 若黑暗从四面八方合拢  
-Oh, may you find your heart — 哦，愿你找到你的心  
-Next to mine — 挨着我的那颗  
-For we found hope — 因为我们找到了希望  
-In a hopeless time — 在一个毫无希望的时代
+Oh, gentle heart
+Oh, simple soul
+There is still so much left to know
+So, plant your seeds
+And watch them grow
+Keep on moving on
+Down the road
 
-### Bridge 2（重复，略变）
+And through the nights
+The wind shall blow
+And all our lights
+Are burning low
 
-And all the nights — 而所有这些夜晚  
-You've walked alone — 你独自走过  
-You follow lights — 你追随灯火  
-To guide you home — 引你回家  
+Should the dawn refuse to rise
+Should the darkness close on all sides
+Oh, may you find your heart
+Next to mine
+For we found hope
+In a hopeless time
 
-Should the dawn refuse to rise — 若黎明不肯升起  
-Should the darkness close on all sides — 若黑暗从四面八方合拢  
-May you still find your heart — 愿你仍能找见你的心  
-Next to mine — 挨着我的那颗  
-For we found hope — 因为我们找到了希望  
-In a hopeless time — 在一个毫无希望的时代
+#### Bridge 2（重复，略变）
 
-### Outro
+And all the nights
+You've walked alone
+You follow lights
+To guide you home
 
-Oh, we found hope — 哦，我们找到了希望  
-In a hopeless time — 在一个毫无希望的时代  
-*(重复至结尾)*
+Should the dawn refuse to rise
+Should the darkness close on all sides
+May you still find your heart
+Next to mine
+For we found hope
+In a hopeless time
+
+#### Outro
+
+Oh, we found hope
+In a hopeless time
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+哦，温柔的心
+哦，单纯的灵魂
+你已经走了这么远
+独自一人
+别回头
+别失去希望
+谁能说还剩多远要走？
+
+#### Bridge 1
+
+而所有这些夜晚
+你独自走过
+你追随灯火
+引你回家
+
+若黎明不肯升起
+若黑暗从四面八方合拢
+哦，愿你找到你的心
+挨着我的那颗
+因为我们找到了希望
+在一个毫无希望的时代
+
+#### Verse 2
+
+哦，温柔的心
+哦，单纯的灵魂
+仍有这么多还不了解
+所以，播下你的种子
+看它们生长
+继续往前走
+沿着路走下去
+
+而穿过这些夜晚
+风会吹起
+而我们所有灯火
+都在渐渐燃尽
+
+若黎明不肯升起
+若黑暗从四面八方合拢
+哦，愿你找到你的心
+挨着我的那颗
+因为我们找到了希望
+在一个毫无希望的时代
+
+#### Bridge 2（重复，略变）
+
+而所有这些夜晚
+你独自走过
+你追随灯火
+引你回家
+
+若黎明不肯升起
+若黑暗从四面八方合拢
+愿你仍能找见你的心
+挨着我的那颗
+因为我们找到了希望
+在一个毫无希望的时代
+
+#### Outro
+
+哦，我们找到了希望
+在一个毫无希望的时代
+*(重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

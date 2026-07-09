@@ -60,59 +60,116 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I'm going under and this time I fear there's no one to save me — 我要沉下去了，这次我怕没人能救我  
-This all or nothing really got a way of driving me crazy — 这种孤注一掷真的把我逼疯  
+### 英文歌词 · English Lyrics
 
-I need somebody to heal, somebody to know — 我需要有人治愈，有人懂  
-Somebody to have, somebody to hold — 有人拥有，有人拥抱  
-It's easy to say, but it's never the same — 说起来容易，感觉却永远不一样  
-I guess I kinda liked the way you numbed all the pain — 我想我有点怀念你帮我麻木所有痛苦的方式  
+#### Verse 1
 
-### Pre-Chorus / Chorus
+I'm going under and this time I fear there's no one to save me
+This all or nothing really got a way of driving me crazy
 
-Now the day bleeds into nightfall — 如今白昼淌进夜幕  
-And you're not here to get me through it all — 而你不在，陪我熬过这一切  
-I let my guard down, and then you pulled the rug — 我卸下防备，你却抽走了地毯  
-I was getting kinda used to being someone you loved — 我差不多习惯了当你爱的那个人  
+I need somebody to heal, somebody to know
+Somebody to have, somebody to hold
+It's easy to say, but it's never the same
+I guess I kinda liked the way you numbed all the pain
 
-### Verse 2
+#### Pre-Chorus / Chorus
 
-I'm going under and this time I fear there's no one to turn to — 我要沉下去了，这次我怕无人可求  
-This all or nothing way of loving got me sleeping without you — 这种非黑即白的爱法让我独眠  
+Now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down, and then you pulled the rug
+I was getting kinda used to being someone you loved
 
-Now, I need somebody to know, somebody to heal — 现在，我需要有人懂，有人治愈  
-Somebody to have, just to know how it feels — 有人拥有，只为知道那是什么感觉  
-It's easy to say, but it's never the same — 说起来容易，感觉却永远不一样  
-I guess I kinda liked the way you helped me escape — 我想我有点怀念你帮我逃避的方式  
+#### Verse 2
 
-### Pre-Chorus / Chorus（重复）
+I'm going under and this time I fear there's no one to turn to
+This all or nothing way of loving got me sleeping without you
+
+Now, I need somebody to know, somebody to heal
+Somebody to have, just to know how it feels
+It's easy to say, but it's never the same
+I guess I kinda liked the way you helped me escape
+
+#### Pre-Chorus / Chorus（重复）
+
+#### Bridge
+
+And I tend to close my eyes when it hurts sometimes
+I fall into your arms
+I'll be safe in your sound 'til I come back around
+
+#### Pre-Chorus / Chorus（重复至结尾）
+
+For now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down, and then you pulled the rug
+I was getting kinda used to being someone you loved
+
+But now the day bleeds into nightfall
+And you're not here to get me through it all
+I let my guard down, and then you pulled the rug
+I was getting kinda used to being someone you loved
+
+I let my guard down, and then you pulled the rug
+I was getting kinda used to being someone you loved
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我要沉下去了，这次我怕没人能救我
+这种孤注一掷真的把我逼疯
+
+我需要有人治愈，有人懂
+有人拥有，有人拥抱
+说起来容易，感觉却永远不一样
+我想我有点怀念你帮我麻木所有痛苦的方式
+
+#### Pre-Chorus / Chorus
+
+如今白昼淌进夜幕
+而你不在，陪我熬过这一切
+我卸下防备，你却抽走了地毯
+我差不多习惯了当你爱的那个人
+
+#### Verse 2
+
+我要沉下去了，这次我怕无人可求
+这种非黑即白的爱法让我独眠
+
+现在，我需要有人懂，有人治愈
+有人拥有，只为知道那是什么感觉
+说起来容易，感觉却永远不一样
+我想我有点怀念你帮我逃避的方式
+
+#### Pre-Chorus / Chorus（重复）
 
 *(同第一段)*
 
-### Bridge
+#### Bridge
 
-And I tend to close my eyes when it hurts sometimes — 有时痛的时候我会闭上眼  
-I fall into your arms — 我跌入你的怀抱  
-I'll be safe in your sound 'til I come back around — 在你声音里我会安全，直到我回过神来  
+有时痛的时候我会闭上眼
+我跌入你的怀抱
+在你声音里我会安全，直到我回过神来
 
-### Pre-Chorus / Chorus（重复至结尾）
+#### Pre-Chorus / Chorus（重复至结尾）
 
-For now the day bleeds into nightfall — 此刻白昼淌进夜幕  
-And you're not here to get me through it all — 而你不在，陪我熬过这一切  
-I let my guard down, and then you pulled the rug — 我卸下防备，你却抽走了地毯  
-I was getting kinda used to being someone you loved — 我差不多习惯了当你爱的那个人  
+此刻白昼淌进夜幕
+而你不在，陪我熬过这一切
+我卸下防备，你却抽走了地毯
+我差不多习惯了当你爱的那个人
 
-But now the day bleeds into nightfall — 但现在白昼淌进夜幕  
-And you're not here to get me through it all — 而你不在，陪我熬过这一切  
-I let my guard down, and then you pulled the rug — 我卸下防备，你却抽走了地毯  
-I was getting kinda used to being someone you loved — 我差不多习惯了当你爱的那个人  
+但现在白昼淌进夜幕
+而你不在，陪我熬过这一切
+我卸下防备，你却抽走了地毯
+我差不多习惯了当你爱的那个人
 
-I let my guard down, and then you pulled the rug — 我卸下防备，你却抽走了地毯  
-I was getting kinda used to being someone you loved — 我差不多习惯了当你爱的那个人  
-
----
+我卸下防备，你却抽走了地毯
+我差不多习惯了当你爱的那个人
 
 ## 重点表达 · Key Phrases
 

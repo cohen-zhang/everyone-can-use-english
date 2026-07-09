@@ -61,61 +61,119 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Walk in your rainbow paradise (paradise) — 走进你的彩虹天堂（天堂）  
-Strawberry lipstick state of mind (state of mind) — 草莓唇膏般的心境（心境）  
-I get so lost inside your eyes — 在你眼里我彻底迷失  
-Would you believe it? — 你信吗？  
+### 英文歌词 · English Lyrics
 
-You don't have to say you love me — 你不必说爱我  
-You don't have to say nothing — 你什么都不用说  
-You don't have to say you're mine — 你不必说你是我的  
+#### Verse 1
 
-### Chorus
+Walk in your rainbow paradise (paradise)
+Strawberry lipstick state of mind (state of mind)
+I get so lost inside your eyes
+Would you believe it?
 
-Honey (ah) — 亲爱的（啊）  
-I'd walk through fire for you — 我愿意为你赴汤蹈火  
-Just let me adore you — 只要让我倾慕你  
-Oh honey (ah) — 哦，亲爱的（啊）  
-I'd walk through fire for you — 我愿意为你赴汤蹈火  
-Just let me adore you — 只要让我倾慕你  
-Like it's the only thing I'll ever do — 像这是我唯一会做的事  
-Like it's the only thing I'll ever do — 像这是我唯一会做的事  
+You don't have to say you love me
+You don't have to say nothing
+You don't have to say you're mine
 
-### Verse 2
+#### Chorus
 
-Your wonder under summer skies (summer skies) — 夏日天空下你的美好（夏日天空）  
-Brown skin and lemon over ice — 棕肤与加冰的柠檬  
-Would you believe it? — 你信吗？  
+Honey (ah)
+I'd walk through fire for you
+Just let me adore you
+Oh honey (ah)
+I'd walk through fire for you
+Just let me adore you
+Like it's the only thing I'll ever do
+Like it's the only thing I'll ever do
 
-You don't have to say you love me — 你不必说爱我  
-I just wanna tell you something — 我只想告诉你一件事  
-Lately, you've been on my mind — 最近，你一直在脑海里  
+#### Verse 2
 
-### Chorus（重复）
+Your wonder under summer skies (summer skies)
+Brown skin and lemon over ice
+Would you believe it?
+
+You don't have to say you love me
+I just wanna tell you something
+Lately, you've been on my mind
+
+#### Chorus（重复）
+
+#### Bridge / Outro
+
+It's the only thing I'll ever do
+
+I'd walk through fire for you
+Just let me adore you
+Oh honey (ah)
+I'd walk through fire for you
+Just let me adore you
+Like it's the only thing I'll ever do
+
+Ooh, ooh
+Oh honey
+Ooh, ooh
+Just let me adore you
+Like it's the only thing I'll ever do
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+走进你的彩虹天堂（天堂）
+草莓唇膏般的心境（心境）
+在你眼里我彻底迷失
+你信吗？
+
+你不必说爱我
+你什么都不用说
+你不必说你是我的
+
+#### Chorus
+
+亲爱的（啊）
+我愿意为你赴汤蹈火
+只要让我倾慕你
+哦，亲爱的（啊）
+我愿意为你赴汤蹈火
+只要让我倾慕你
+像这是我唯一会做的事
+像这是我唯一会做的事
+
+#### Verse 2
+
+夏日天空下你的美好（夏日天空）
+棕肤与加冰的柠檬
+你信吗？
+
+你不必说爱我
+我只想告诉你一件事
+最近，你一直在脑海里
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge / Outro
+#### Bridge / Outro
 
-It's the only thing I'll ever do — 这是我唯一会做的事  
+这是我唯一会做的事
 *(重复多遍，渐弱)*  
 
-I'd walk through fire for you — 我愿意为你赴汤蹈火  
-Just let me adore you — 只要让我倾慕你  
-Oh honey (ah) — 哦，亲爱的（啊）  
-I'd walk through fire for you — 我愿意为你赴汤蹈火  
-Just let me adore you — 只要让我倾慕你  
-Like it's the only thing I'll ever do — 像这是我唯一会做的事  
+我愿意为你赴汤蹈火
+只要让我倾慕你
+哦，亲爱的（啊）
+我愿意为你赴汤蹈火
+只要让我倾慕你
+像这是我唯一会做的事
 
-Ooh, ooh — 哦，哦  
-Oh honey — 哦，亲爱的  
-Ooh, ooh — 哦，哦  
-Just let me adore you — 只要让我倾慕你  
-Like it's the only thing I'll ever do — 像这是我唯一会做的事  
-
----
+哦，哦
+哦，亲爱的
+哦，哦
+只要让我倾慕你
+像这是我唯一会做的事
 
 ## 重点表达 · Key Phrases
 

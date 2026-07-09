@@ -63,61 +63,120 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-That Arizona sky — 那片亚利桑那的天空  
-Burning in your eyes — 在你眼里燃烧  
-You look at me and, babe — 你看着我，宝贝  
-I wanna catch on fire — 我想随之燃烧  
-It's buried in my soul — 它埋在我灵魂深处  
-Like California gold — 像加州的金子  
-You found the light in me — 你找到了我身上的光  
-That I couldn't find — 我自己找不到的那束光  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-So when I'm all choked up — 所以当我哽咽说不出话  
-But I can't find the words — 却找不到词句  
-Every time we say goodbye — 每次我们说再见  
-Baby, it hurts — 宝贝，都很痛  
-When the sun goes down — 当太阳落下  
-And the band won't play — 乐队不再演奏  
-I'll always remember us this way — 我会一直记得我们那时的样子  
+That Arizona sky
+Burning in your eyes
+You look at me and, babe
+I wanna catch on fire
+It's buried in my soul
+Like California gold
+You found the light in me
+That I couldn't find
 
-### Verse 2
+#### Chorus
 
-Lovers in the night — 夜里的恋人  
-Poets trying to write — 诗人努力想写诗  
-We don't know how to rhyme — 我们不太会押韵  
-But damn, we try — 但该死的，我们在试  
-But all I really know — 而我真正知道的是  
-You're where I wanna go — 你就是我想去的地方  
-The part of me that's you — 我身上属于你的那部分  
-Will never die — 永远不会消逝  
+So when I'm all choked up
+But I can't find the words
+Every time we say goodbye
+Baby, it hurts
+When the sun goes down
+And the band won't play
+I'll always remember us this way
 
-### Chorus（重复）
+#### Verse 2
+
+Lovers in the night
+Poets trying to write
+We don't know how to rhyme
+But damn, we try
+But all I really know
+You're where I wanna go
+The part of me that's you
+Will never die
+
+#### Chorus（重复）
+
+#### Bridge
+
+I don't wanna be just a memory, baby, yeah
+
+#### Final Chorus / Outro
+
+So when I'm all choked up
+But I can't find the words
+Every time we say goodbye
+Baby, it hurts
+When the sun goes down
+And the band won't play
+I'll always remember us this way
+
+When you look at me
+And the whole world fades
+I'll always remember us this way
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+那片亚利桑那的天空
+在你眼里燃烧
+你看着我，宝贝
+我想随之燃烧
+它埋在我灵魂深处
+像加州的金子
+你找到了我身上的光
+我自己找不到的那束光
+
+#### Chorus
+
+所以当我哽咽说不出话
+却找不到词句
+每次我们说再见
+宝贝，都很痛
+当太阳落下
+乐队不再演奏
+我会一直记得我们那时的样子
+
+#### Verse 2
+
+夜里的恋人
+诗人努力想写诗
+我们不太会押韵
+但该死的，我们在试
+而我真正知道的是
+你就是我想去的地方
+我身上属于你的那部分
+永远不会消逝
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-I don't wanna be just a memory, baby, yeah — 我不想只变成一段回忆，宝贝  
+我不想只变成一段回忆，宝贝
 
-### Final Chorus / Outro
+#### Final Chorus / Outro
 
-So when I'm all choked up — 所以当我哽咽说不出话  
-But I can't find the words — 却找不到词句  
-Every time we say goodbye — 每次我们说再见  
-Baby, it hurts — 宝贝，都很痛  
-When the sun goes down — 当太阳落下  
-And the band won't play — 乐队不再演奏  
-I'll always remember us this way — 我会一直记得我们那时的样子  
+所以当我哽咽说不出话
+却找不到词句
+每次我们说再见
+宝贝，都很痛
+当太阳落下
+乐队不再演奏
+我会一直记得我们那时的样子
 
-When you look at me — 当你看着我  
-And the whole world fades — 整个世界都淡去  
-I'll always remember us this way — 我会一直记得我们那时的样子  
-
----
+当你看着我
+整个世界都淡去
+我会一直记得我们那时的样子
 
 ## 重点表达 · Key Phrases
 

@@ -62,70 +62,140 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-The snow glows white on the mountain tonight — 今夜山上白雪闪耀  
-Not a footprint to be seen — 看不见一丝足迹  
-A kingdom of isolation — 一座孤立的王国  
-And it looks like I'm the queen — 看来我就是女王  
-The wind is howling like this swirling storm inside — 风在呼啸，像我内心翻涌的风暴  
-Couldn't keep it in, heaven knows I tried — 再也藏不住了，天知道我试过  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Don't let them in, don't let them see — 别让他们进来，别让他们看见  
-Be the good girl you always have to be — 做那个你永远得做的乖乖女  
-Conceal, don't feel, don't let them know — 隐藏，别去感受，别让他们知道  
-Well, now they know — 好吧，现在他们知道了  
+The snow glows white on the mountain tonight
+Not a footprint to be seen
+A kingdom of isolation
+And it looks like I'm the queen
+The wind is howling like this swirling storm inside
+Couldn't keep it in, heaven knows I tried
 
-### Chorus
+#### Pre-Chorus
 
-Let it go, let it go — 放开吧，放开吧  
-Can't hold it back anymore — 再也憋不住了  
-Let it go, let it go — 放开吧，放开吧  
-Turn away and slam the door — 转过身，砰地关上门  
-I don't care what they're going to say — 我不在乎他们会说什么  
-Let the storm rage on — 让风暴继续肆虐吧  
-The cold never bothered me anyway — 反正寒冷从来伤不了我  
+Don't let them in, don't let them see
+Be the good girl you always have to be
+Conceal, don't feel, don't let them know
+Well, now they know
 
-### Verse 2
+#### Chorus
 
-It's funny how some distance makes everything seem small — 有趣的是，拉开一点距离，一切就显得渺小  
-And the fears that once controlled me can't get to me at all — 曾经控制我的恐惧，再也碰不到我  
+Let it go, let it go
+Can't hold it back anymore
+Let it go, let it go
+Turn away and slam the door
+I don't care what they're going to say
+Let the storm rage on
+The cold never bothered me anyway
 
-It's time to see what I can do — 是时候看看我能做什么  
-To test the limits and break through — 试探极限，冲破束缚  
-No right, no wrong, no rules for me — 没有对错，没有规矩管得住我  
-I'm free — 我自由了  
+#### Verse 2
 
-### Chorus（重复 + 变奏）
+It's funny how some distance makes everything seem small
+And the fears that once controlled me can't get to me at all
 
-Let it go, let it go — 放开吧，放开吧  
-I am one with the wind and sky — 我与风与天融为一体  
-Let it go, let it go — 放开吧，放开吧  
-You'll never see me cry — 你再也看不见我哭泣  
-Here I stand and here I'll stay — 我就站在这里，就在这里留下  
-Let the storm rage on — 让风暴继续肆虐吧  
+It's time to see what I can do
+To test the limits and break through
+No right, no wrong, no rules for me
+I'm free
 
-### Bridge
+#### Chorus（重复 + 变奏）
 
-My power flurries through the air into the ground — 我的力量如雪花掠过空气，渗入大地  
-My soul is spiraling in frozen fractals all around — 我的灵魂在四周冰封的碎形中盘旋  
-And one thought crystallizes like an icy blast — 一个念头如冰暴般凝结  
-I'm never going back, the past is in the past — 我绝不回头，过去就留在过去  
+Let it go, let it go
+I am one with the wind and sky
+Let it go, let it go
+You'll never see me cry
+Here I stand and here I'll stay
+Let the storm rage on
 
-### Final Chorus
+#### Bridge
 
-Let it go, let it go — 放开吧，放开吧  
-And I'll rise like the break of dawn — 我将如破晓般升起  
-Let it go, let it go — 放开吧，放开吧  
-That perfect girl is gone — 那个完美女孩不见了  
-Here I stand in the light of day — 我就站在日光之下  
-Let the storm rage on — 让风暴继续肆虐吧  
+My power flurries through the air into the ground
+My soul is spiraling in frozen fractals all around
+And one thought crystallizes like an icy blast
+I'm never going back, the past is in the past
 
-The cold never bothered me anyway — 反正寒冷从来伤不了我
+#### Final Chorus
+
+Let it go, let it go
+And I'll rise like the break of dawn
+Let it go, let it go
+That perfect girl is gone
+Here I stand in the light of day
+Let the storm rage on
+
+The cold never bothered me anyway
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+今夜山上白雪闪耀
+看不见一丝足迹
+一座孤立的王国
+看来我就是女王
+风在呼啸，像我内心翻涌的风暴
+再也藏不住了，天知道我试过
+
+#### Pre-Chorus
+
+别让他们进来，别让他们看见
+做那个你永远得做的乖乖女
+隐藏，别去感受，别让他们知道
+好吧，现在他们知道了
+
+#### Chorus
+
+放开吧，放开吧
+再也憋不住了
+放开吧，放开吧
+转过身，砰地关上门
+我不在乎他们会说什么
+让风暴继续肆虐吧
+反正寒冷从来伤不了我
+
+#### Verse 2
+
+有趣的是，拉开一点距离，一切就显得渺小
+曾经控制我的恐惧，再也碰不到我
+
+是时候看看我能做什么
+试探极限，冲破束缚
+没有对错，没有规矩管得住我
+我自由了
+
+#### Chorus（重复 + 变奏）
+
+放开吧，放开吧
+我与风与天融为一体
+放开吧，放开吧
+你再也看不见我哭泣
+我就站在这里，就在这里留下
+让风暴继续肆虐吧
+
+#### Bridge
+
+我的力量如雪花掠过空气，渗入大地
+我的灵魂在四周冰封的碎形中盘旋
+一个念头如冰暴般凝结
+我绝不回头，过去就留在过去
+
+#### Final Chorus
+
+放开吧，放开吧
+我将如破晓般升起
+放开吧，放开吧
+那个完美女孩不见了
+我就站在日光之下
+让风暴继续肆虐吧
+
+反正寒冷从来伤不了我
 
 ## 重点表达 · Key Phrases
 

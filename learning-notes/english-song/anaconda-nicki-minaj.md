@@ -65,88 +65,166 @@ aliases:
 
 > **学习策略：** 副歌 / Sir Mix-a-Lot 采样段 + 较温和 hook **全文对照**；Verse 中高度露骨句用 **〔段落摘要〕**，只译可跟唱的 hook 与偏温和行。英文原词保留，便于听辨。
 
-### Chorus（采样 hook · Sir Mix-a-Lot）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-My anaconda don't — 我的「蟒蛇」不要  
-My anaconda don't — 我的「蟒蛇」不要  
-My anaconda don't want none — 我的「蟒蛇」什么都不要  
-Unless you got buns, hun — 除非你有「蜜桃臀」，亲爱的  
+### 英文歌词 · English Lyrics
 
-> *anaconda* 在此是性暗示双关（源自 *Baby Got Back*）；*buns* = 臀部（口语）。学意思即可，不必在正式场合复述。
+#### Chorus（采样 hook · Sir Mix-a-Lot）
 
-### Verse 1（摘要 + 可跟唱行）
+My anaconda don't
+My anaconda don't
+My anaconda don't want none
+Unless you got buns, hun
+
+> *anaconda* here is a sexual double entendre (from *Baby Got Back*); *buns* = buttocks (slang). Learn the meaning; no need to repeat it in formal settings.
+
+#### Verse 1（摘要 + 可跟唱行）
+
+Boy toy named Troy, used to live in Detroit
+Big dope dealer money, he was gettin' some coins
+Was in shootouts with the law, but he live in a palace
+Bought me Alexander McQueen, he was keeping me stylish
+
+Now that's real, real, real
+Gun in my purse, bitch, I came dressed to kill
+I'm on some dumb shit
+
+By the way, what he say?
+He can tell I ain't missing no meals
+He say he don't like 'em boney, he want something he can grab
+So I pulled up in the Jag and I hit him with the jab like
+
+Dun-d-d-dun-dun-d-d-dun-dun
+
+#### Chorus
+
+My anaconda don't
+My anaconda don't
+My anaconda don't want none
+Unless you got buns, hun
+
+#### Post-Chorus（*Baby Got Back* 采样）
+
+Oh my gosh, look at her butt
+Oh my gosh, look at her butt
+Oh my gosh, look at her butt (Look at her butt)
+Look at, look at, look at, look, at her butt
+
+#### Verse 2（摘要 + 可跟唱行）
+
+This dude named Michael used to ride motorcycles
+Now that bang, bang, bang
+I'm on some dumb shit
+
+By the way, what he say?
+He can tell I ain't missing no meals
+He say he don't like 'em boney, he want something he can grab
+So I pulled up in the Jag, Mayweather with the jab like
+
+Dun-d-d-dun-dun-d-d-dun-dun
+
+#### Chorus & Post-Chorus（重复）
+
+*(Same as before: Anaconda hook + Oh my gosh, look at her butt)*
+
+#### Bridge / Outro hook
+
+Little in the middle but she got much back
+Little in the middle but she got much back
+Little in the middle but she got much back
+Oh my god, look at her butt
+
+My anaconda don't
+My anaconda don't want none
+Unless you got buns, hun
+
+Yeah, he love this fat ass
+I got a big fat ass
+Hey, hey, hey!
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus（采样 hook · Sir Mix-a-Lot）
+
+我的「蟒蛇」不要
+我的「蟒蛇」不要
+我的「蟒蛇」什么都不要
+除非你有「蜜桃臀」，亲爱的
+
+#### Verse 1（摘要 + 可跟唱行）
 
 〔**段落摘要：** Nicki 讲前男友 Troy——底特律、赚黑钱、爱送名牌；语气是炫耀式叙事 + 粗口 brag，中间夹大量性暗示。〕
 
-Boy toy named Troy, used to live in Detroit — 玩伴叫 Troy，以前住底特律  
-Big dope dealer money, he was gettin' some coins — 贩毒赚大钱，他在捞钱  
-Was in shootouts with the law, but he live in a palace — 跟警察交过火，却住得像宫殿  
-Bought me Alexander McQueen, he was keeping me stylish — 给我买 Alexander McQueen，把我打扮得很潮  
+玩伴叫 Troy，以前住底特律
+贩毒赚大钱，他在捞钱
+跟警察交过火，却住得像宫殿
+给我买 Alexander McQueen，把我打扮得很潮
 
-Now that's real, real, real — 这才叫真的、真的、真的  
-Gun in my purse, bitch, I came dressed to kill — 包里有枪，姐打扮得能「杀」全场  
-I'm on some dumb shit — 我现在就是在犯傻、瞎玩  
+这才叫真的、真的、真的
+包里有枪，姐打扮得能「杀」全场
+我现在就是在犯傻、瞎玩
 
-By the way, what he say? — 顺便问一句，他怎么说？  
-He can tell I ain't missing no meals — 他看得出我顿顿没少吃（身材丰满）  
-He say he don't like 'em boney, he want something he can grab — 他说不喜欢骨感，想要能抓得住的  
-So I pulled up in the Jag and I hit him with the jab like — 于是我开着捷豹到场，给他来一记 jab  
+顺便问一句，他怎么说？
+他看得出我顿顿没少吃（身材丰满）
+他说不喜欢骨感，想要能抓得住的
+于是我开着捷豹到场，给他来一记 jab
 
-Dun-d-d-dun-dun-d-d-dun-dun — （拟声 / 节拍）
+（拟声 / 节拍）
 
 > 〔中间若干行：车内亲密、性吸引力等——**不逐字译**；听辨时抓住 *sex appeal*、*chill*、*real* 等词即可。〕
 
-### Chorus
+#### Chorus
 
-My anaconda don't — 我的「蟒蛇」不要  
-My anaconda don't — 我的「蟒蛇」不要  
-My anaconda don't want none — 我的「蟒蛇」什么都不要  
-Unless you got buns, hun — 除非你有「蜜桃臀」，亲爱的  
+我的「蟒蛇」不要
+我的「蟒蛇」不要
+我的「蟒蛇」什么都不要
+除非你有「蜜桃臀」，亲爱的
 
-### Post-Chorus（*Baby Got Back* 采样）
+#### Post-Chorus（*Baby Got Back* 采样）
 
-Oh my gosh, look at her butt — 天哪，看她的屁股  
-Oh my gosh, look at her butt — 天哪，看她的屁股  
-Oh my gosh, look at her butt (Look at her butt) — 天哪，看她的屁股  
-Look at, look at, look at, look, at her butt — 看、看、看她的屁股  
+天哪，看她的屁股
+天哪，看她的屁股
+天哪，看她的屁股
+看、看、看她的屁股
 
-### Verse 2（摘要 + 可跟唱行）
+#### Verse 2（摘要 + 可跟唱行）
 
 〔**段落摘要：** 另一段「男人故事」——更露骨的身体双关与性玩笑；结尾仍回到名牌、可卡因、花钱买衣服等 brag。学习重点：节奏与押韵，不必背露骨细节。〕
 
-This dude named Michael used to ride motorcycles — 有个叫 Michael 的家伙以前爱骑摩托  
-Now that bang, bang, bang — 那就 bang、bang、bang  
-I'm on some dumb shit — 我现在就是在犯傻、瞎玩  
+有个叫 Michael 的家伙以前爱骑摩托
+那就 bang、bang、bang
+我现在就是在犯傻、瞎玩
 
-By the way, what he say? — 顺便问一句，他怎么说？  
-He can tell I ain't missing no meals — 他看得出我顿顿没少吃  
-He say he don't like 'em boney, he want something he can grab — 他说不喜欢骨感，想要能抓得住的  
-So I pulled up in the Jag, Mayweather with the jab like — 于是我开着捷豹到场，像 Mayweather 出 jab  
+顺便问一句，他怎么说？
+他看得出我顿顿没少吃
+他说不喜欢骨感，想要能抓得住的
+于是我开着捷豹到场，像 Mayweather 出 jab
 
-Dun-d-d-dun-dun-d-d-dun-dun — （拟声 / 节拍）
+（拟声 / 节拍）
 
-### Chorus & Post-Chorus（重复）
+#### Chorus & Post-Chorus（重复）
 
 *(同前：Anaconda hook + Oh my gosh, look at her butt)*
 
-### Bridge / Outro hook
+#### Bridge / Outro hook
 
-Little in the middle but she got much back — 腰细，但后面很有料  
-Little in the middle but she got much back — 腰细，但后面很有料  
-Little in the middle but she got much back — 腰细，但后面很有料  
-Oh my god, look at her butt — 天哪，看她的屁股  
+腰细，但后面很有料
+腰细，但后面很有料
+腰细，但后面很有料
+天哪，看她的屁股
 
-My anaconda don't — 我的「蟒蛇」不要  
-My anaconda don't want none — 我的「蟒蛇」什么都不要  
-Unless you got buns, hun — 除非你有「蜜桃臀」，亲爱的  
+我的「蟒蛇」不要
+我的「蟒蛇」什么都不要
+除非你有「蜜桃臀」，亲爱的
 
 〔**Outro 摘要：** 对俱乐部里「丰满身材」的喊麦式号召，含大量粗口与身材对比；听气氛即可，不必跟唱脏话。〕
 
-Yeah, he love this fat ass — 对，他就爱这丰满的屁股  
-I got a big fat ass — 我有个又大又翘的屁股  
-Hey, hey, hey! — 嘿、嘿、嘿！
-
----
+对，他就爱这丰满的屁股
+我有个又大又翘的屁股
+嘿、嘿、嘿！
 
 ## 重点表达 · Key Phrases
 

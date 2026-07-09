@@ -65,83 +65,166 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Yeah — 嗯  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-I've been drinking this place dry for days — 这几天我把这地方喝干了  
-The man across the bar taught me his ways — 吧台对面那人教我怎么喝  
-Then tried to send me home but — 他们想送我回家，可是  
-I can't be alone — 我没法一个人待着  
-The cigarette smoke all in my space — 香烟烟雾弥漫在我身边  
-I can't find my old self through the haze — 在迷雾里找不到从前的自己  
-I'm searching dusk to dawn — 我从黄昏找到天亮  
-I guess that girl is gone — 我想那个女孩已经不在了  
+Yeah
 
-### Pre-Chorus
+#### Verse 1
 
-I took one good look at my face, God — 我好好看了自己一眼，天啊  
-The reality hits like a train — 现实像火车一样撞过来  
-I don't know why when I open my eyes I find I'm — 不知为何睁开眼，我发现自己  
+I've been drinking this place dry for days
+The man across the bar taught me his ways
+Then tried to send me home but
+I can't be alone
+The cigarette smoke all in my space
+I can't find my old self through the haze
+I'm searching dusk to dawn
+I guess that girl is gone
 
-### Chorus
+#### Pre-Chorus
 
-Hopeless, feeling so hopeless — 绝望，好绝望  
-Honey, I drink 'til I'm sick — 宝贝，我喝到想吐  
-This weed don't do shit — 抽大麻也一点用都没有  
-I'm choking on my bad vibe — 坏情绪堵得我喘不过气  
-Loveless, feeling so loveless — 缺爱，好孤独  
-Darling, the sky makes me sad — 亲爱的，连天空都让我难过  
-The blues got me bad — 忧郁缠得我够呛  
-Oh, I just need a good cry — 哦，我只是需要好好哭一场  
+I took one good look at my face, God
+The reality hits like a train
+I don't know why when I open my eyes I find I'm
 
-### Verse 2
+#### Chorus
 
-I've been up six days and five nights — 我已经六天五夜没睡  
-I swallowed a pill to kill the time — 我吞下药片打发时间  
-I was all up in my head — 全困在自己脑子里  
-Just me, myself, and I — 只有我、我自己、和我  
-This anxiety puts me to shame — 这份焦虑让我羞愧  
-And nothing could silence this pain — 什么都压不住这痛  
-Baby, that's why I'm saying that I am feeling so — 宝贝，所以我才说自己好  
+Hopeless, feeling so hopeless
+Honey, I drink 'til I'm sick
+This weed don't do shit
+I'm choking on my bad vibe
+Loveless, feeling so loveless
+Darling, the sky makes me sad
+The blues got me bad
+Oh, I just need a good cry
 
-### Chorus（重复）
+#### Verse 2
 
-Hopeless, I'm feeling so hopeless — 绝望，好绝望  
-Honey, I drink 'til I'm sick — 宝贝，我喝到想吐  
-This weed don't do shit — 抽大麻也一点用都没有  
-I'm choking on my bad vibe — 坏情绪堵得我喘不过气  
-I'm loveless, feeling so loveless — 缺爱，好孤独  
-Darling, the sky makes me sad — 亲爱的，连天空都让我难过  
-The blues got me bad — 忧郁缠得我够呛  
-And I just need a good cry — 我只是需要好好哭一场  
+I've been up six days and five nights
+I swallowed a pill to kill the time
+I was all up in my head
+Just me, myself, and I
+This anxiety puts me to shame
+And nothing could silence this pain
+Baby, that's why I'm saying that I am feeling so
 
-### Interlude
+#### Chorus（重复）
 
-Yeah — 嗯  
+Hopeless, I'm feeling so hopeless
+Honey, I drink 'til I'm sick
+This weed don't do shit
+I'm choking on my bad vibe
+I'm loveless, feeling so loveless
+Darling, the sky makes me sad
+The blues got me bad
+And I just need a good cry
 
-### Chorus（第三遍 · 加长）
+#### Interlude
 
-Oh, I'm hopeless, feeling so hopeless — 哦，绝望，好绝望  
-Honey, I'll drink 'til I'm sick — 宝贝，我会喝到想吐  
-This weed don't do shit — 抽大麻也一点用都没有  
-I'm choking on my bad vibe — 坏情绪堵得我喘不过气  
-I'm loveless, I'm feeling so loveless — 缺爱，好孤独  
-Darling, the sky makes me sad — 亲爱的，连天空都让我难过  
-The blues got me bad — 忧郁缠得我够呛  
-Oh, I just need a good cry, wooh — 哦，我只是需要好好哭一场，呜  
+Yeah
 
-### Outro
+#### Chorus（第三遍 · 加长）
 
-Darling, I'm sorry — 亲爱的，对不起  
-Darling, I'm sorry — 亲爱的，对不起  
-Darling, I'm sorry — 亲爱的，对不起  
-Yeah, yeah, yeah, yeah, yeah — 耶，耶，耶，耶，耶  
-I just need a good cry — 我只是需要好好哭一场  
+Oh, I'm hopeless, feeling so hopeless
+Honey, I'll drink 'til I'm sick
+This weed don't do shit
+I'm choking on my bad vibe
+I'm loveless, I'm feeling so loveless
+Darling, the sky makes me sad
+The blues got me bad
+Oh, I just need a good cry, wooh
+
+#### Outro
+
+Darling, I'm sorry
+Darling, I'm sorry
+Darling, I'm sorry
+Yeah, yeah, yeah, yeah, yeah
+I just need a good cry
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+嗯
+
+#### Verse 1
+
+这几天我把这地方喝干了
+吧台对面那人教我怎么喝
+他们想送我回家，可是
+我没法一个人待着
+香烟烟雾弥漫在我身边
+在迷雾里找不到从前的自己
+我从黄昏找到天亮
+我想那个女孩已经不在了
+
+#### Pre-Chorus
+
+我好好看了自己一眼，天啊
+现实像火车一样撞过来
+不知为何睁开眼，我发现自己
+
+#### Chorus
+
+绝望，好绝望
+宝贝，我喝到想吐
+抽大麻也一点用都没有
+坏情绪堵得我喘不过气
+缺爱，好孤独
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+哦，我只是需要好好哭一场
+
+#### Verse 2
+
+我已经六天五夜没睡
+我吞下药片打发时间
+全困在自己脑子里
+只有我、我自己、和我
+这份焦虑让我羞愧
+什么都压不住这痛
+宝贝，所以我才说自己好
+
+#### Chorus（重复）
+
+绝望，好绝望
+宝贝，我喝到想吐
+抽大麻也一点用都没有
+坏情绪堵得我喘不过气
+缺爱，好孤独
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+我只是需要好好哭一场
+
+#### Interlude
+
+嗯
+
+#### Chorus（第三遍 · 加长）
+
+哦，绝望，好绝望
+宝贝，我会喝到想吐
+抽大麻也一点用都没有
+坏情绪堵得我喘不过气
+缺爱，好孤独
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+哦，我只是需要好好哭一场，呜
+
+#### Outro
+
+亲爱的，对不起
+亲爱的，对不起
+亲爱的，对不起
+耶，耶，耶，耶，耶
+我只是需要好好哭一场
 
 ## 重点表达 · Key Phrases
 

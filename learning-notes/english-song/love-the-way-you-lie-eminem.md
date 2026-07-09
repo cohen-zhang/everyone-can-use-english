@@ -62,96 +62,178 @@ aliases:
 
 > 原文含粗口及暴力、家暴相关描写，为歌曲原词；学习时注意语境与场合。
 
-### Chorus（Rihanna）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Just gonna stand there and watch me burn? — 你就站那儿看我燃烧吗？  
-Well, that's alright because I like the way it hurts — 好吧，没关系，因为我喜欢这种痛  
-Just gonna stand there and hear me cry? — 你就站那儿听我哭吗？  
-Well, that's alright because I love the way you lie — 好吧，没关系，因为我爱你撒谎的样子  
-I love the way you lie — 我爱你撒谎的样子  
+### 英文歌词 · English Lyrics
 
-### Verse 1（Eminem）
+#### Chorus（Rihanna）
 
-I can't tell you what it really is — 我没法告诉你这到底是什么  
-I can only tell you what it feels like — 只能告诉你是什么感觉  
-And right now, there's a steel knife in my windpipe — 此刻喉咙像插了把钢刀  
-I can't breathe, but I still fight while I can fight — 喘不过气，但我还在能撑的时候撑  
-As long as the wrong feels right, it's like I'm in flight — 只要错的也像对的，就像我在飞  
-High off her love, drunk from her hate — 爱让她上头，恨让她沉醉  
-It's like I'm huffin' paint, and I love her the more I suffer, I suffocate — 像吸油漆一样上瘾；越痛苦越爱她，越窒息  
-And right before I'm about to drown, she resuscitates me — 快淹死时，她又把我救活  
-She fucking hates me, and I love it — 她他妈恨我，我却爱这样  
+Just gonna stand there and watch me burn?
+Well, that's alright because I like the way it hurts
+Just gonna stand there and hear me cry?
+Well, that's alright because I love the way you lie
+I love the way you lie
 
-"Wait! Where you going?" "I'm leaving you" — 「等等！你去哪？」「我要离开你」  
-"No, you ain't, come back" — 「不，你不能，回来」  
-We're running right back, here we go again — 我们又跑回去，再来一遍  
-It's so insane 'cause when it's going good, it's going great — 太疯了——好时好到不行  
-I'm Superman with the wind at his back, she's Lois Lane — 我是顺风超人的克拉克，她是露易丝  
-But when it's bad, it's awful — 但坏起来糟透了  
-I feel so ashamed, I snapped, "Who's that dude?" — 我好羞耻，我失控了：「那男的是谁？」  
-I don't even know his name — 我甚至不知道他叫什么  
-I laid hands on her, I'll never stoop so low again — 我对她动了手，我绝不会再堕落到那步  
-I guess I don't know my own strength — 我想我根本不了解自己的力气  
+#### Verse 1（Eminem）
 
-### Chorus（Rihanna）
+I can't tell you what it really is
+I can only tell you what it feels like
+And right now, there's a steel knife in my windpipe
+I can't breathe, but I still fight while I can fight
+As long as the wrong feels right, it's like I'm in flight
+High off her love, drunk from her hate
+It's like I'm huffin' paint, and I love her the more I suffer, I suffocate
+And right before I'm about to drown, she resuscitates me
+She fucking hates me, and I love it
 
-*(同第一段副歌)*
+"Wait! Where you going?" "I'm leaving you"
+"No, you ain't, come back"
+We're running right back, here we go again
+It's so insane 'cause when it's going good, it's going great
+I'm Superman with the wind at his back, she's Lois Lane
+But when it's bad, it's awful
+I feel so ashamed, I snapped, "Who's that dude?"
+I don't even know his name
+I laid hands on her, I'll never stoop so low again
+I guess I don't know my own strength
 
-### Verse 2（Eminem）
+#### Verse 2（Eminem）
 
-You ever loved somebody so much — 你有没有那么爱过一个人  
-You can barely breathe when you're with 'em? — 和她在一起几乎喘不过气？  
-You meet and neither one of you even know what hit 'em — 相遇时双方都懵了，不知发生了什么  
-Got that warm fuzzy feelin', yeah, them chills, used to get 'em — 曾有那种温暖柔软的感觉，对，那些鸡皮疙瘩  
-Now you're gettin' fucking sick of lookin' at 'em? — 现在却他妈看都看腻了？  
-You swore you'd never hit 'em, never do nothin' to hurt 'em — 你发誓绝不动手，绝不做伤害她的事  
-Now you're in each other's face, spewin' venom in your words when you spit 'em — 现在却脸贴脸，吐字都带着毒液  
-You push, pull each other's hair, scratch, claw, bit 'em — 推搡、揪头发、抓挠、撕咬  
-Throw 'em down, pin 'em — 摔倒她、压住她  
-So lost in them moments when you're in 'em — 在那些瞬间完全迷失  
-It's the rage that took over, it controls you both — 是怒火接管了一切，控制你们俩  
-So they say you're best to go your separate ways — 所以别人说你们最好分开  
-Guess that they don't know you 'cause today, that was yesterday — 他们不懂你们——今天又把昨天重演  
-Yesterday is over, it's a different day — 昨天过去了，又是新的一天  
-Sound like broken records playin' over, but you promised her — 像卡住的唱片一遍遍放，可你答应过她  
-Next time, you'll show restraint — 下次会克制  
-You don't get another chance — 你没有下一次机会了  
-Life is no Nintendo game, but you lied again — 人生不是任天堂游戏，可你又撒谎了  
-Now you get to watch her leave out the window — 现在你只能看她从窗户离开  
-Guess that's why they call it windowpane — 大概这就是为什么叫 windowpane（窗玻璃 / 痛）  
+You ever loved somebody so much
+You can barely breathe when you're with 'em?
+You meet and neither one of you even know what hit 'em
+Got that warm fuzzy feelin', yeah, them chills, used to get 'em
+Now you're gettin' fucking sick of lookin' at 'em?
+You swore you'd never hit 'em, never do nothin' to hurt 'em
+Now you're in each other's face, spewin' venom in your words when you spit 'em
+You push, pull each other's hair, scratch, claw, bit 'em
+Throw 'em down, pin 'em
+So lost in them moments when you're in 'em
+It's the rage that took over, it controls you both
+So they say you're best to go your separate ways
+Guess that they don't know you 'cause today, that was yesterday
+Yesterday is over, it's a different day
+Sound like broken records playin' over, but you promised her
+Next time, you'll show restraint
+You don't get another chance
+Life is no Nintendo game, but you lied again
+Now you get to watch her leave out the window
+Guess that's why they call it windowpane
 
-### Chorus（Rihanna）
+I love the way you lie
 
-*(同第一段副歌)*
+#### Verse 3（Eminem）
 
-I love the way you lie — 我爱你撒谎的样子  
+Now I know we said things, did things that we didn't mean
+Then we fall back into the same patterns, same routine
+But your temper's just as bad as mine is
+You're the same as me, when it comes to love, you're just as blinded
+Baby, please come back, it wasn't you, baby, it was me
+Maybe our relationship isn't as crazy as it seems
+Maybe that's what happens when a tornado meets a volcano
+All I know is I love you too much to walk away, though
 
-### Verse 3（Eminem）
+Come inside, pick up your bags off the sidewalk
+Don't you hear sincerity in my voice when I talk?
+Told you this is my fault, look me in the eyeball
+Next time I'm pissed, I'll aim my fist at the drywall
+"Next time? There won't be no next time"
+I apologize, even though I know it's lies
+I'm tired of the games, I just want her back
+I know I'm a liar, if she ever tries to fucking leave again
+I'ma tie her to the bed and set this house on fire
 
-Now I know we said things, did things that we didn't mean — 我们知道说过、做过并非本意的事  
-Then we fall back into the same patterns, same routine — 然后又跌回同样的模式、同样的套路  
-But your temper's just as bad as mine is — 但你的脾气跟我一样坏  
-You're the same as me, when it comes to love, you're just as blinded — 你跟我一样——谈到爱，都一样盲目  
-Baby, please come back, it wasn't you, baby, it was me — 宝贝请回来，不是你的错，是我的错  
-Maybe our relationship isn't as crazy as it seems — 也许我们的关系没看起来那么疯  
-Maybe that's what happens when a tornado meets a volcano — 也许龙卷风遇上火山就是这样  
-All I know is I love you too much to walk away, though — 我只知道，我还是太爱你，走不开  
-
-Come inside, pick up your bags off the sidewalk — 进来吧，把人行道上的包捡起来  
-Don't you hear sincerity in my voice when I talk? — 你听不出我声音里的真诚吗？  
-Told you this is my fault, look me in the eyeball — 说了是我的错，看着我的眼睛  
-Next time I'm pissed, I'll aim my fist at the drywall — 下次我发火，拳头会砸向石膏板  
-"Next time? There won't be no next time" — 「下次？没有下次了」  
-I apologize, even though I know it's lies — 我道歉，尽管我知道是谎话  
-I'm tired of the games, I just want her back — 我厌倦了这些游戏，只想她回来  
-I know I'm a liar, if she ever tries to fucking leave again — 我知道我是骗子——若她再敢他妈离开  
-I'ma tie her to the bed and set this house on fire — 我就把她绑在床上，放火烧了这房子  
-
-### Final Chorus（Rihanna）
-
-*(同第一段副歌，至结尾)*
+#### Final Chorus（Rihanna）
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus（Rihanna）
+
+你就站那儿看我燃烧吗？
+好吧，没关系，因为我喜欢这种痛
+你就站那儿听我哭吗？
+好吧，没关系，因为我爱你撒谎的样子
+我爱你撒谎的样子
+
+#### Verse 1（Eminem）
+
+我没法告诉你这到底是什么
+只能告诉你是什么感觉
+此刻喉咙像插了把钢刀
+喘不过气，但我还在能撑的时候撑
+只要错的也像对的，就像我在飞
+爱让她上头，恨让她沉醉
+像吸油漆一样上瘾；越痛苦越爱她，越窒息
+快淹死时，她又把我救活
+她他妈恨我，我却爱这样
+
+「等等！你去哪？」「我要离开你」
+「不，你不能，回来」
+我们又跑回去，再来一遍
+太疯了——好时好到不行
+我是顺风超人的克拉克，她是露易丝
+但坏起来糟透了
+我好羞耻，我失控了：「那男的是谁？」
+我甚至不知道他叫什么
+我对她动了手，我绝不会再堕落到那步
+我想我根本不了解自己的力气
+
+*(同第一段副歌)*
+
+#### Verse 2（Eminem）
+
+你有没有那么爱过一个人
+和她在一起几乎喘不过气？
+相遇时双方都懵了，不知发生了什么
+曾有那种温暖柔软的感觉，对，那些鸡皮疙瘩
+现在却他妈看都看腻了？
+你发誓绝不动手，绝不做伤害她的事
+现在却脸贴脸，吐字都带着毒液
+推搡、揪头发、抓挠、撕咬
+摔倒她、压住她
+在那些瞬间完全迷失
+是怒火接管了一切，控制你们俩
+所以别人说你们最好分开
+他们不懂你们——今天又把昨天重演
+昨天过去了，又是新的一天
+像卡住的唱片一遍遍放，可你答应过她
+下次会克制
+你没有下一次机会了
+人生不是任天堂游戏，可你又撒谎了
+现在你只能看她从窗户离开
+大概这就是为什么叫 windowpane（窗玻璃 / 痛）
+
+*(同第一段副歌)*
+
+我爱你撒谎的样子
+
+#### Verse 3（Eminem）
+
+我们知道说过、做过并非本意的事
+然后又跌回同样的模式、同样的套路
+但你的脾气跟我一样坏
+你跟我一样——谈到爱，都一样盲目
+宝贝请回来，不是你的错，是我的错
+也许我们的关系没看起来那么疯
+也许龙卷风遇上火山就是这样
+我只知道，我还是太爱你，走不开
+
+进来吧，把人行道上的包捡起来
+你听不出我声音里的真诚吗？
+说了是我的错，看着我的眼睛
+下次我发火，拳头会砸向石膏板
+「下次？没有下次了」
+我道歉，尽管我知道是谎话
+我厌倦了这些游戏，只想她回来
+我知道我是骗子——若她再敢他妈离开
+我就把她绑在床上，放火烧了这房子
+
+#### Final Chorus（Rihanna）
+
+*(同第一段副歌，至结尾)*
 
 ## 重点表达 · Key Phrases
 

@@ -59,54 +59,104 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Oceans apart day after day — 日复一日，远隔重洋  
-And I slowly go insane — 我渐渐快要发疯  
-I hear your voice on the line — 在电话里听见你的声音  
-But it doesn't stop the pain — 却无法止住心痛  
+### 英文歌词 · English Lyrics
 
-If I see you next to never — 若相见几乎无望  
-How can we say forever? — 我们怎能谈永远？  
+#### Verse 1
 
-### Chorus
+Oceans apart day after day
+And I slowly go insane
+I hear your voice on the line
+But it doesn't stop the pain
 
-Wherever you go — 无论你去哪里  
-Whatever you do — 无论你做什么  
-I will be right here waiting for you — 我会就在这里等你  
-Whatever it takes — 无论付出什么代价  
-Or how my heart breaks — 无论我心如何破碎  
-I will be right here waiting for you — 我会就在这里等你  
+If I see you next to never
+How can we say forever?
 
-### Verse 2
+#### Chorus
 
-I took for granted all the times — 我曾把那么多时光  
-That I thought would last somehow — 视作理所当然、以为会永远  
-I hear the laughter, I taste the tears — 听见笑声，尝到泪水的咸  
-But I can't get near you now — 却此刻无法靠近你  
+Wherever you go
+Whatever you do
+I will be right here waiting for you
+Whatever it takes
+Or how my heart breaks
+I will be right here waiting for you
 
-Oh, can't you see it, baby? — 哦，难道你看不见吗，宝贝？  
-You've got me going crazy — 你让我快要疯了  
+#### Verse 2
 
-### Chorus（重复）
+I took for granted all the times
+That I thought would last somehow
+I hear the laughter, I taste the tears
+But I can't get near you now
 
-*(同第一段副歌)*
+Oh, can't you see it, baby?
+You've got me going crazy
 
-### Bridge
+#### Chorus（重复）
 
-I wonder how we can survive — 我不知道这段感情  
-This romance — 我们怎能撑下去  
-But in the end if I'm with you — 但到头来若能和你在一起  
-I'll take the chance — 我愿意赌一把  
+#### Bridge
 
-Oh, can't you see it, baby? — 哦，难道你看不见吗，宝贝？  
-You've got me going crazy — 你让我快要疯了  
+I wonder how we can survive
+This romance
+But in the end if I'm with you
+I'll take the chance
 
-### Final Chorus（重复至结尾）
+Oh, can't you see it, baby?
+You've got me going crazy
+
+#### Final Chorus（重复至结尾）
 
 *(副歌重复多遍；结尾收在 Waiting for you)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+日复一日，远隔重洋
+我渐渐快要发疯
+在电话里听见你的声音
+却无法止住心痛
+
+若相见几乎无望
+我们怎能谈永远？
+
+#### Chorus
+
+无论你去哪里
+无论你做什么
+我会就在这里等你
+无论付出什么代价
+无论我心如何破碎
+我会就在这里等你
+
+#### Verse 2
+
+我曾把那么多时光
+视作理所当然、以为会永远
+听见笑声，尝到泪水的咸
+却此刻无法靠近你
+
+哦，难道你看不见吗，宝贝？
+你让我快要疯了
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Bridge
+
+我不知道这段感情
+我们怎能撑下去
+但到头来若能和你在一起
+我愿意赌一把
+
+哦，难道你看不见吗，宝贝？
+你让我快要疯了
+
+#### Final Chorus（重复至结尾）
 
 ## 重点表达 · Key Phrases
 

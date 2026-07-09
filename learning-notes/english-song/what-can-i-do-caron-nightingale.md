@@ -61,52 +61,104 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I should have known all along, there was something wrong — 我早该察觉，一直就不对劲  
-I just never read between the lines — 只是我从没读懂弦外之音  
-Then I woke up one day and found you on your way — 直到有一天醒来，发现你要离开  
-Leaving nothing but my heart behind — 只留下一颗心碎的我  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-What can I do to make it up to you? — 我能做什么来弥补你？  
-Promises don't come easy — 承诺不是随口就来  
-But tell me if there's a way to bring you back home to stay — 但若还有办法让你回家、留下来  
-Well, I'd promise anything to you — 我愿意为你承诺任何事  
+I should have known all along, there was something wrong
+I just never read between the lines
+Then I woke up one day and found you on your way
+Leaving nothing but my heart behind
 
-### Verse 2
+#### Chorus
 
-I've been walkin' around with my head hanging down — 我一直低着头四处游荡  
-Wondering what I'm gonna do — 不知该怎么办  
-'Cause when you walked out that door — 因为当你走出门那一刻  
-I knew I needed you more — 我才明白我更需要你  
-Than to take a chance on losing you — 而不是赌一把失去你  
+What can I do to make it up to you?
+Promises don't come easy
+But tell me if there's a way to bring you back home to stay
+Well, I'd promise anything to you
 
-### Chorus（重复）
+#### Verse 2
 
-What can I do to make it up to you? — 我能做什么来弥补你？  
-Promises don't come easy — 承诺不是随口就来  
-You know I've made up my mind to make it work this time — 你知道我已下定决心，这次要认真  
-That's the promise that I give to you — 这是我给你的承诺  
+I've been walkin' around with my head hanging down
+Wondering what I'm gonna do
+'Cause when you walked out that door
+I knew I needed you more
+Than to take a chance on losing you
 
-### Bridge
+#### Chorus（重复）
 
-You never thought I loved you — 你从没想到我爱过你  
-I guess you never thought I cared — 大概也以为我从不在乎  
-Well, I was just too proud to say it out loud — 我只是太骄傲，说不出口  
-Now I know, to let my feelings go, so tell me — 现在我懂了，该放下自尊说出感受，所以告诉我  
+What can I do to make it up to you?
+Promises don't come easy
+You know I've made up my mind to make it work this time
+That's the promise that I give to you
 
-### Final Chorus
+#### Bridge
 
-What can I do to make it up to you? — 我能做什么来弥补你？  
-Promises don't come easy — 承诺不是随口就来  
-You know I've made up my mind to make it work this time — 你知道我已下定决心，这次要认真  
-That's the promise I can give to you — 这是我能给你的承诺  
+You never thought I loved you
+I guess you never thought I cared
+Well, I was just too proud to say it out loud
+Now I know, to let my feelings go, so tell me
 
-What can I do to make it up to you? — 我能做什么来弥补你？
+#### Final Chorus
+
+What can I do to make it up to you?
+Promises don't come easy
+You know I've made up my mind to make it work this time
+That's the promise I can give to you
+
+What can I do to make it up to you?
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我早该察觉，一直就不对劲
+只是我从没读懂弦外之音
+直到有一天醒来，发现你要离开
+只留下一颗心碎的我
+
+#### Chorus
+
+我能做什么来弥补你？
+承诺不是随口就来
+但若还有办法让你回家、留下来
+我愿意为你承诺任何事
+
+#### Verse 2
+
+我一直低着头四处游荡
+不知该怎么办
+因为当你走出门那一刻
+我才明白我更需要你
+而不是赌一把失去你
+
+#### Chorus（重复）
+
+我能做什么来弥补你？
+承诺不是随口就来
+你知道我已下定决心，这次要认真
+这是我给你的承诺
+
+#### Bridge
+
+你从没想到我爱过你
+大概也以为我从不在乎
+我只是太骄傲，说不出口
+现在我懂了，该放下自尊说出感受，所以告诉我
+
+#### Final Chorus
+
+我能做什么来弥补你？
+承诺不是随口就来
+你知道我已下定决心，这次要认真
+这是我能给你的承诺
+
+我能做什么来弥补你？
 
 ## 重点表达 · Key Phrases
 

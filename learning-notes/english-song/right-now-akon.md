@@ -59,103 +59,198 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-It's been so long — 好久好久  
-That I haven't seen your face — 没见过你的脸  
-I'm tryna be strong — 我努力坚强  
-But the strength I have is washing away — 可那点力气正在流失  
-It wont be long before I get you by my side — 不久就能把你留在我身边  
-And just hold you, tease you, squeeze you — 抱着你、逗你、紧抱你  
-Tell you what's been on my mind — 告诉你我心里一直想的事  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-I wanna make up right now na na — 我现在就想和好呐呐  
-I wanna make up right now na na — 我现在就想和好呐呐  
-Wish we never broke up right now na na — 真希望我们从没分手呐呐  
-We need to link up right now na na — 我们现在就得联系呐呐  
+It's been so long
+That I haven't seen your face
+I'm tryna be strong
+But the strength I have is washing away
+It wont be long before I get you by my side
+And just hold you, tease you, squeeze you
+Tell you what's been on my mind
 
-I wanna make up right now na na — 我现在就想和好呐呐  
-I wanna make right now na na — 我现在就想（和好）呐呐  
-Wish we never broke up right now na na — 真希望我们从没分手呐呐  
-We need to link up right now na na — 我们现在就得联系呐呐  
+#### Chorus
 
-### Verse 2
+I wanna make up right now na na
+I wanna make up right now na na
+Wish we never broke up right now na na
+We need to link up right now na na
 
-Girl I know, mistakes were made between us two — 女孩，我知道我们之间犯了错  
-And we show our ass that night even said somethings weren't true — 那晚我们出尽丑态，还说了些不是真心的话  
-Why'd you go and haven't seen my girl since then — 你为什么走了，此后我再没见过我的女孩  
-Why can't it be the way it was — 为什么不能回到从前  
-'Cause you were my homie, lover and friend — 因为你曾是我的哥们、爱人和朋友  
+I wanna make up right now na na
+I wanna make right now na na
+Wish we never broke up right now na na
+We need to link up right now na na
 
-### Chorus（重复）
+#### Verse 2
 
-*(同第一段副歌)*
+Girl I know, mistakes were made between us two
+And we show our ass that night even said somethings weren't true
+Why'd you go and haven't seen my girl since then
+Why can't it be the way it was
+'Cause you were my homie, lover and friend
 
-### Bridge 1
+#### Chorus（重复）
 
-I can't lie — 我没法撒谎  
-I miss you much — 我太想你  
-Watching everyday that goes by — 看着一天天过去  
-I miss you much — 我太想你  
-Till I get you back I'm gonna cry — 直到你回来我都会哭  
-Yes I miss you much — 是啊，我太想你  
-'Cause you are the apple of my eye — 因为你是我眼中的苹果  
-Girl I miss you much — 女孩，我太想你  
-I miss you much — 我太想你  
+#### Bridge 1
 
-### Bridge 1（重复，略有变词）
+I can't lie
+I miss you much
+Watching everyday that goes by
+I miss you much
+Till I get you back I'm gonna cry
+Yes I miss you much
+'Cause you are the apple of my eye
+Girl I miss you much
+I miss you much
 
-I can't lie — 我没法撒谎  
-I miss you much — 我太想你  
-Watching everyday that goes by — 看着一天天过去  
-I miss you much — 我太想你  
-Tell I get you back I'm gonna cry — 直到你回来我都会哭  
-Yes I miss you much — 是啊，我太想你  
-Yes you are the apple of my eye — 是啊，你是我眼中的苹果  
-Girl I miss you much — 女孩，我太想你  
-I miss you much — 我太想你  
+#### Bridge 1（重复，略有变词）
 
-### Chorus（重复）
+I can't lie
+I miss you much
+Watching everyday that goes by
+I miss you much
+Tell I get you back I'm gonna cry
+Yes I miss you much
+Yes you are the apple of my eye
+Girl I miss you much
+I miss you much
 
-*(同第一段副歌)*
+#### Bridge 2
 
-### Bridge 2
+I want you to fly with me
+Want you to fly
+I miss how you lie with me
+Miss how you lie
+Just wish you could dine with me
+Wish you could dine with me
+One that would grind with me
+One that would grind with me
 
-I want you to fly with me — 我想和你一起飞  
-Want you to fly — 想和你一起飞  
-I miss how you lie with me — 我怀念你和我躺在一起  
-Miss how you lie — 怀念你和我躺在一起  
-Just wish you could dine with me — 只希望你能和我共进晚餐  
-Wish you could dine with me — 希望你能和我共进晚餐  
-One that would grind with me — 那个愿与我厮守的人  
-One that would grind with me — 那个愿与我厮守的人  
+#### Bridge 2（重复）
 
-### Bridge 2（重复）
+I want you to fly with me
+Want you to fly
+I miss how you lie with me
+Oh miss how you lie
+Just wish you could dine with me
+Wish you could dine
+One that would grind with me
+Oh one that would grind
 
-I want you to fly with me — 我想和你一起飞  
-Want you to fly — 想和你一起飞  
-I miss how you lie with me — 我怀念你和我躺在一起  
-Oh miss how you lie — 哦，怀念你和我躺在一起  
-Just wish you could dine with me — 只希望你能和我共进晚餐  
-Wish you could dine — 希望你能共进晚餐  
-One that would grind with me — 那个愿与我厮守的人  
-Oh one that would grind — 哦，那个愿与我厮守的人  
+#### Chorus（结尾）
 
-### Chorus（结尾）
+I wanna make up right now na na
+I wanna make up right now na na
+Wish we never broke up right now na na
+We need to link up right now na na
 
-I wanna make up right now na na — 我现在就想和好呐呐  
-I wanna make up right now na na — 我现在就想和好呐呐  
-Wish we never broke up right now na na — 真希望我们从没分手呐呐  
-We need to link up right now na na — 我们现在就得联系呐呐  
-
-I wanna make up right now na na — 我现在就想和好呐呐  
-I wanna make up right now na na — 我现在就想和好呐呐  
-Wish we never broke up right now na na — 真希望我们从没分手呐呐  
-We need to link up right now na na — 我们现在就得联系呐呐  
+I wanna make up right now na na
+I wanna make up right now na na
+Wish we never broke up right now na na
+We need to link up right now na na
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+好久好久
+没见过你的脸
+我努力坚强
+可那点力气正在流失
+不久就能把你留在我身边
+抱着你、逗你、紧抱你
+告诉你我心里一直想的事
+
+#### Chorus
+
+我现在就想和好呐呐
+我现在就想和好呐呐
+真希望我们从没分手呐呐
+我们现在就得联系呐呐
+
+我现在就想和好呐呐
+我现在就想（和好）呐呐
+真希望我们从没分手呐呐
+我们现在就得联系呐呐
+
+#### Verse 2
+
+女孩，我知道我们之间犯了错
+那晚我们出尽丑态，还说了些不是真心的话
+你为什么走了，此后我再没见过我的女孩
+为什么不能回到从前
+因为你曾是我的哥们、爱人和朋友
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Bridge 1
+
+我没法撒谎
+我太想你
+看着一天天过去
+我太想你
+直到你回来我都会哭
+是啊，我太想你
+因为你是我眼中的苹果
+女孩，我太想你
+我太想你
+
+#### Bridge 1（重复，略有变词）
+
+我没法撒谎
+我太想你
+看着一天天过去
+我太想你
+直到你回来我都会哭
+是啊，我太想你
+是啊，你是我眼中的苹果
+女孩，我太想你
+我太想你
+
+*(同第一段副歌)*
+
+#### Bridge 2
+
+我想和你一起飞
+想和你一起飞
+我怀念你和我躺在一起
+怀念你和我躺在一起
+只希望你能和我共进晚餐
+希望你能和我共进晚餐
+那个愿与我厮守的人
+那个愿与我厮守的人
+
+#### Bridge 2（重复）
+
+我想和你一起飞
+想和你一起飞
+我怀念你和我躺在一起
+哦，怀念你和我躺在一起
+只希望你能和我共进晚餐
+希望你能共进晚餐
+那个愿与我厮守的人
+哦，那个愿与我厮守的人
+
+#### Chorus（结尾）
+
+我现在就想和好呐呐
+我现在就想和好呐呐
+真希望我们从没分手呐呐
+我们现在就得联系呐呐
+
+我现在就想和好呐呐
+我现在就想和好呐呐
+真希望我们从没分手呐呐
+我们现在就得联系呐呐
 
 ## 重点表达 · Key Phrases
 

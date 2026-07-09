@@ -61,59 +61,118 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I know I have good judgment, I know I have good taste — 我知道自己判断力不错、品味也好  
-It's funny and it's ironic that only I feel that way — 好笑又讽刺，好像只有我这么觉得  
-I promise 'em that you're different and everyone makes mistakes — 我跟别人说你是例外，人人都会犯错  
-But just don't — 但你就别（犯错）  
+### 英文歌词 · English Lyrics
 
-I heard that you're an actor, so act like a stand-up guy — 听说你是演员，那就演个靠谱男人  
-Whatever devil's inside you, don't let him out tonight — 你心里的魔鬼，今晚别放出来  
-I tell them it's just your culture and everyone rolls their eyes — 我跟他们说这是你的「文化」，大家都翻白眼  
-Yeah, I know — 是啊，我知道  
+#### Verse 1
 
-### Pre-Chorus
+I know I have good judgment, I know I have good taste
+It's funny and it's ironic that only I feel that way
+I promise 'em that you're different and everyone makes mistakes
+But just don't
 
-All I'm asking, baby — 我就这一个要求，宝贝  
+I heard that you're an actor, so act like a stand-up guy
+Whatever devil's inside you, don't let him out tonight
+I tell them it's just your culture and everyone rolls their eyes
+Yeah, I know
 
-### Chorus
+#### Pre-Chorus
 
-Please, please, please don't prove I'm right — 求你了，别证明我看走眼  
-And please, please, please — 求你了  
-Don't bring me to tears when I just did my makeup so nice — 别在我刚化好妆的时候把我弄哭  
-Heartbreak is one thing, my ego's another — 心碎是一回事，自尊是另一回事  
-I beg you, don't embarrass me, motherfucker, oh — 我求你，别让我难堪，混蛋  
-Please, please, please (Ah) — 求你了  
+All I'm asking, baby
 
-### Verse 2
+#### Chorus
 
-Well, I have a fun idea, babe (Uh-huh), maybe just stay inside — 我有个好主意，宝贝（嗯哼），也许就待在家里  
-I know you're cravin' some fresh air, but the ceiling fan is so nice (It's so nice, right?) — 我知道你想要新鲜空气，但吊扇也很舒服（很舒服吧？）  
-And we could live so happily if no one knows that you're with me — 要是没人知道我们在一起，我们会过得很开心  
-I'm just kidding, but really (Kinda), really, really — 开玩笑的，但说真的（有点），真的  
+Please, please, please don't prove I'm right
+And please, please, please
+Don't bring me to tears when I just did my makeup so nice
+Heartbreak is one thing, my ego's another
+I beg you, don't embarrass me, motherfucker, oh
+Please, please, please (Ah)
 
-### Chorus（第二遍）
+#### Verse 2
 
-Please, please, please (Please don't prove I'm right) — 求你了（求你别证明我看走眼）  
-Don't prove I'm right — 别证明我看走眼  
-And please, please, please — 求你了  
-Don't bring me to tears when I just did my makeup so nice — 别在我刚化好妆的时候把我弄哭  
-Heartbreak is one thing (Heartbreak is one thing), my ego's another (Ego's another) — 心碎是一回事（心碎是一回事），自尊是另一回事（自尊是另一回事）  
-I beg you, don't embarrass me, motherfucker, ah — 我求你，别让我难堪，混蛋  
-Please, please, please (ah) — 求你了  
+Well, I have a fun idea, babe (Uh-huh), maybe just stay inside
+I know you're cravin' some fresh air, but the ceiling fan is so nice (It's so nice, right?)
+And we could live so happily if no one knows that you're with me
+I'm just kidding, but really (Kinda), really, really
 
-### Outro
+#### Chorus（第二遍）
 
-If you wanna go and be stupid, don't do it in front of me — 你要犯蠢，别在我面前  
-If you don't wanna cry to my music, don't make me hate you prolifically — 不想对着我的歌哭，就别让我恨你到骨子里  
+Please, please, please (Please don't prove I'm right)
+Don't prove I'm right
+And please, please, please
+Don't bring me to tears when I just did my makeup so nice
+Heartbreak is one thing (Heartbreak is one thing), my ego's another (Ego's another)
+I beg you, don't embarrass me, motherfucker, ah
+Please, please, please (ah)
 
-Please, please, please (please) — 求你了  
-Please, please, please (please) — 求你了  
-Please (please), please (please), please — 求你了  
-*(Ah — 啊；重复至结尾)*  
+#### Outro
+
+If you wanna go and be stupid, don't do it in front of me
+If you don't wanna cry to my music, don't make me hate you prolifically
+
+Please, please, please (please)
+Please, please, please (please)
+Please (please), please (please), please
+*(Ah
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我知道自己判断力不错、品味也好
+好笑又讽刺，好像只有我这么觉得
+我跟别人说你是例外，人人都会犯错
+但你就别（犯错）
+
+听说你是演员，那就演个靠谱男人
+你心里的魔鬼，今晚别放出来
+我跟他们说这是你的「文化」，大家都翻白眼
+是啊，我知道
+
+#### Pre-Chorus
+
+我就这一个要求，宝贝
+
+#### Chorus
+
+求你了，别证明我看走眼
+求你了
+别在我刚化好妆的时候把我弄哭
+心碎是一回事，自尊是另一回事
+我求你，别让我难堪，混蛋
+求你了
+
+#### Verse 2
+
+我有个好主意，宝贝（嗯哼），也许就待在家里
+我知道你想要新鲜空气，但吊扇也很舒服（很舒服吧？）
+要是没人知道我们在一起，我们会过得很开心
+开玩笑的，但说真的（有点），真的
+
+#### Chorus（第二遍）
+
+求你了（求你别证明我看走眼）
+别证明我看走眼
+求你了
+别在我刚化好妆的时候把我弄哭
+心碎是一回事（心碎是一回事），自尊是另一回事（自尊是另一回事）
+我求你，别让我难堪，混蛋
+求你了
+
+#### Outro
+
+你要犯蠢，别在我面前
+不想对着我的歌哭，就别让我恨你到骨子里
+
+求你了
+求你了
+求你了
+啊；重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

@@ -59,60 +59,115 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-They say, "Oh my God, I see the way you shine" — 他们说：「天哪，我看见你发光的样子」  
-"Take your hands, my dear, and place them both in mine" — 「亲爱的，把手放在我手心里」  
-You know you stopped me dead while I was passing by — 你知道你在我路过时让我猛然停步  
-And now I beg to see you dance just one more time — 现在我恳求再看你跳一次  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Ooh, I see you, see you, see you every time — 哦，我每次都能看见你  
-And oh my, I, I, I like your style — 哦天哪，我、我、我好喜欢你的风格  
-You, you make me, make me, make me wanna cry — 你、你、你让我、让我、让我想哭  
-And now I beg to see you dance just one more time — 现在我恳求再看你跳一次  
+They say, "Oh my God, I see the way you shine"
+"Take your hands, my dear, and place them both in mine"
+You know you stopped me dead while I was passing by
+And now I beg to see you dance just one more time
 
-### Chorus
+#### Pre-Chorus
 
-So they say — 于是他们说  
-"Dance for me, dance for me, dance for me, oh-oh-oh — 「为我跳舞，为我跳舞，为我跳舞，哦哦哦  
-I've never seen anybody do the things you do before" — 我从没见过有人像你这样做」  
-They say — 他们说  
-"Move for me, move for me, move for me, ayy-ayy-ayy — 「为我动起来，为我动起来，哎哎哎  
-And when you're done, I'll make you do it all again" — 等你跳完，我会让你再来一遍」  
+Ooh, I see you, see you, see you every time
+And oh my, I, I, I like your style
+You, you make me, make me, make me wanna cry
+And now I beg to see you dance just one more time
 
-### Verse 2
+#### Chorus
 
-I said, "Oh my God, I see you walking by" — 我说：「天哪，我看见你走过」  
-"Take my hands, my dear, and look me in my eyes" — 「亲爱的，握住我的手，看着我的眼睛」  
-Just like a monkey, I've been dancin' my whole life — 就像一只猴子，我一辈子都在跳舞  
-But you just beg to see me dance just one more time — 可你只是恳求再看我跳一次  
+So they say
+"Dance for me, dance for me, dance for me, oh-oh-oh
+I've never seen anybody do the things you do before"
+They say
+"Move for me, move for me, move for me, ayy-ayy-ayy
+And when you're done, I'll make you do it all again"
 
-### Pre-Chorus（重复）
+#### Verse 2
+
+I said, "Oh my God, I see you walking by"
+"Take my hands, my dear, and look me in my eyes"
+Just like a monkey, I've been dancin' my whole life
+But you just beg to see me dance just one more time
+
+#### Pre-Chorus（重复）
 
 *(同第一段 Pre-Chorus)*
 
-### Chorus（重复）
+#### Chorus（重复）
 
-*(同第一段副歌)*
+#### Extended Chorus
 
-### Extended Chorus
+They say
+"Dance for me, dance for me, dance for me, oh-oh-oh, oh-oh, oh-oh
+I've never seen anybody do the things you do before"
+They say
+"Move for me, move for me, move for me, ayy-ayy-ayy
+And when you're done, I'll make you do it all again"
 
-They say — 他们说  
-"Dance for me, dance for me, dance for me, oh-oh-oh, oh-oh, oh-oh — 「为我跳舞……哦哦哦，哦哦，哦哦  
-I've never seen anybody do the things you do before" — 我从没见过有人像你这样做」  
-They say — 他们说  
-"Move for me, move for me, move for me, ayy-ayy-ayy — 「为我动起来……哎哎哎  
-And when you're done, I'll make you do it all again" — 等你跳完，我会让你再来一遍」  
+#### Outro
 
-### Outro
-
-Ooh, ooh, ooh, ooh, ooh *(do it all again…)* — 哦哦哦……（再来一遍……）  
-Whoa-oh, whoa-oh, oh — 哇哦，哇哦，哦  
+Ooh, ooh, ooh, ooh, ooh *(do it all again…)*
+Whoa-oh, whoa-oh, oh
 *(Chorus 片段重复至 *All again* 结尾)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+他们说：「天哪，我看见你发光的样子」
+「亲爱的，把手放在我手心里」
+你知道你在我路过时让我猛然停步
+现在我恳求再看你跳一次
+
+#### Pre-Chorus
+
+哦，我每次都能看见你
+哦天哪，我、我、我好喜欢你的风格
+你、你、你让我、让我、让我想哭
+现在我恳求再看你跳一次
+
+#### Chorus
+
+于是他们说
+「为我跳舞，为我跳舞，为我跳舞，哦哦哦
+我从没见过有人像你这样做」
+他们说
+「为我动起来，为我动起来，哎哎哎
+等你跳完，我会让你再来一遍」
+
+#### Verse 2
+
+我说：「天哪，我看见你走过」
+「亲爱的，握住我的手，看着我的眼睛」
+就像一只猴子，我一辈子都在跳舞
+可你只是恳求再看我跳一次
+
+#### Pre-Chorus（重复）
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Extended Chorus
+
+他们说
+「为我跳舞……哦哦哦，哦哦，哦哦
+我从没见过有人像你这样做」
+他们说
+「为我动起来……哎哎哎
+等你跳完，我会让你再来一遍」
+
+#### Outro
+
+哦哦哦……（再来一遍……）
+哇哦，哇哦，哦
 
 ## 重点表达 · Key Phrases
 

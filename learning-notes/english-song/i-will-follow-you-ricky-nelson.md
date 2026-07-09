@@ -59,49 +59,96 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I will follow you — 我会跟随你  
-Follow you wherever you may go — 无论你走到哪里  
-There isn't an ocean too deep — 没有海洋深得能  
-A mountain so high it can keep me away — 没有山高得能把我隔开  
+### 英文歌词 · English Lyrics
 
-I must follow you — 我必须跟随你  
-Ever since you touched my hand I know — 自从你触碰我的手，我就知道  
-That near you, I always must be — 我必须一直在你身边  
-And nothing can keep you from me — 没有什么能把你从我这里夺走  
-You are my destiny — 你是我的命中注定  
+#### Verse 1
 
-### Chorus
+I will follow you
+Follow you wherever you may go
+There isn't an ocean too deep
+A mountain so high it can keep me away
 
-I love you, I love you, I love you — 我爱你，我爱你，我爱你  
-And where you go I'll follow, I'll follow, I'll follow — 你去哪我就跟去哪  
-You'll always be my true love, my true love, my true love — 你永远是我的真爱  
-From now until forever, forever, forever — 从现在直到永远  
+I must follow you
+Ever since you touched my hand I know
+That near you, I always must be
+And nothing can keep you from me
+You are my destiny
 
-### Verse 2
+#### Chorus
 
-I will follow you — 我会跟随你  
-Follow you wherever you may go — 无论你走到哪里  
-There isn't an ocean too deep — 没有海洋深得能  
-A mountain so high it can keep — 没有山高得能  
-Keep me away, away from my love — 把我隔开，远离我的爱人  
+I love you, I love you, I love you
+And where you go I'll follow, I'll follow, I'll follow
+You'll always be my true love, my true love, my true love
+From now until forever, forever, forever
 
-### Chorus（重复）
+#### Verse 2
+
+I will follow you
+Follow you wherever you may go
+There isn't an ocean too deep
+A mountain so high it can keep
+Keep me away, away from my love
+
+#### Chorus（重复）
+
+#### Verse 3 / Outro
+
+I will follow you
+Follow you wherever you may go
+There isn't an ocean too deep
+A mountain so high it can keep
+Keep me away, away from my love
+
+And where you go I'll follow
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我会跟随你
+无论你走到哪里
+没有海洋深得能
+没有山高得能把我隔开
+
+我必须跟随你
+自从你触碰我的手，我就知道
+我必须一直在你身边
+没有什么能把你从我这里夺走
+你是我的命中注定
+
+#### Chorus
+
+我爱你，我爱你，我爱你
+你去哪我就跟去哪
+你永远是我的真爱
+从现在直到永远
+
+#### Verse 2
+
+我会跟随你
+无论你走到哪里
+没有海洋深得能
+没有山高得能
+把我隔开，远离我的爱人
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Verse 3 / Outro
+#### Verse 3 / Outro
 
-I will follow you — 我会跟随你  
-Follow you wherever you may go — 无论你走到哪里  
-There isn't an ocean too deep — 没有海洋深得能  
-A mountain so high it can keep — 没有山高得能  
-Keep me away, away from my love — 把我隔开，远离我的爱人  
+我会跟随你
+无论你走到哪里
+没有海洋深得能
+没有山高得能
+把我隔开，远离我的爱人
 
-And where you go I'll follow — 你去哪我就跟去哪  
-
----
+你去哪我就跟去哪
 
 ## 重点表达 · Key Phrases
 

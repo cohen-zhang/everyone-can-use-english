@@ -58,65 +58,128 @@ aliases:
 
 > 歌名与部分歌词故意小写，为 Billie 原版风格。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-White shirt now red, my bloody nose — 白衬衫染红，我流着血的鼻子  
-Sleepin', you're on your tippy toes — 你踮着脚尖偷偷摸摸  
-Creepin' around like no one knows — 像没人会发现似的溜进来  
-Think you're so criminal — 你以为自己很会「使坏」
+### 英文歌词 · English Lyrics
 
-Bruises on both my knees for you — 双膝都为你磨破了  
-Don't say thank you or please — 不用说谢谢，也不用请  
-I do what I want when I'm wanting to — 我想干嘛就干嘛  
-My soul, so cynical — 我的灵魂，冷眼看一切
+#### Verse 1
 
-### Pre-Chorus / Chorus
+White shirt now red, my bloody nose
+Sleepin', you're on your tippy toes
+Creepin' around like no one knows
+Think you're so criminal
 
-So you're a tough guy — 哟，你是个硬汉  
-Like it really rough guy — 喜欢够粗暴那种  
-Just can't get enough guy — 永远欲求不满那种  
-Chest always so puffed guy — 胸脯永远挺着那种  
-I'm that bad type — 我才是那种坏类型  
-Make your mama sad type — 让你妈伤心那种  
-Make your girlfriend mad tight — 让你女友气炸那种  
-Might seduce your dad type — 说不定还会勾引你爸那种  
-I'm the bad guy — 我才是坏人  
-Duh — 废话
+Bruises on both my knees for you
+Don't say thank you or please
+I do what I want when I'm wanting to
+My soul, so cynical
 
-### Verse 2
+#### Pre-Chorus / Chorus
 
-I like it when you take control — 我喜欢你掌控一切  
-Even if you know that you don't — 哪怕你自己也知道你并没有  
-Own me, I'll let you play the role — 真正拥有我——我让你演那个角色  
-I'll be your animal — 我当你的「野兽」
+So you're a tough guy
+Like it really rough guy
+Just can't get enough guy
+Chest always so puffed guy
+I'm that bad type
+Make your mama sad type
+Make your girlfriend mad tight
+Might seduce your dad type
+I'm the bad guy
+Duh
 
-My mommy likes to sing along with me — 我妈也爱跟我一起唱  
-But she won't sing this song — 但这首她不会唱  
-If she reads all the lyrics — 要是她把歌词全读完  
-She'll pity the men I know — 她会同情我认识的那些男人
+#### Verse 2
 
-### Chorus（重复）
+I like it when you take control
+Even if you know that you don't
+Own me, I'll let you play the role
+I'll be your animal
+
+My mommy likes to sing along with me
+But she won't sing this song
+If she reads all the lyrics
+She'll pity the men I know
+
+#### Chorus（重复）
+
+#### Bridge
+
+I'm only good at bein' bad, bad
+
+I like when you get mad
+I guess I'm pretty glad that you're alone
+You said she's scared of me?
+I mean, I don't see what she sees
+But maybe it's 'cause I'm wearing your cologne
+
+#### Outro
+
+I'm a bad guy
+I'm-I'm a bad guy
+Bad guy, bad guy
+I'm a bad-
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+白衬衫染红，我流着血的鼻子
+你踮着脚尖偷偷摸摸
+像没人会发现似的溜进来
+你以为自己很会「使坏」
+
+双膝都为你磨破了
+不用说谢谢，也不用请
+我想干嘛就干嘛
+我的灵魂，冷眼看一切
+
+#### Pre-Chorus / Chorus
+
+哟，你是个硬汉
+喜欢够粗暴那种
+永远欲求不满那种
+胸脯永远挺着那种
+我才是那种坏类型
+让你妈伤心那种
+让你女友气炸那种
+说不定还会勾引你爸那种
+我才是坏人
+废话
+
+#### Verse 2
+
+我喜欢你掌控一切
+哪怕你自己也知道你并没有
+真正拥有我——我让你演那个角色
+我当你的「野兽」
+
+我妈也爱跟我一起唱
+但这首她不会唱
+要是她把歌词全读完
+她会同情我认识的那些男人
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-I'm only good at bein' bad, bad — 我只擅长使坏，坏透了
+我只擅长使坏，坏透了
 
-I like when you get mad — 我喜欢你发火的样子  
-I guess I'm pretty glad that you're alone — 我想我还挺高兴你现在是单身  
-You said she's scared of me? — 你说她怕我？  
-I mean, I don't see what she sees — 我是说，我不懂她怕什么  
-But maybe it's 'cause I'm wearing your cologne — 也许是因为我喷的是你的古龙水
+我喜欢你发火的样子
+我想我还挺高兴你现在是单身
+你说她怕我？
+我是说，我不懂她怕什么
+也许是因为我喷的是你的古龙水
 
-### Outro
+#### Outro
 
-I'm a bad guy — 我是坏人  
-I'm-I'm a bad guy — 我—我是坏人  
-Bad guy, bad guy — 坏人，坏人  
-I'm a bad- — 我是个坏——
-
----
+我是坏人
+我—我是坏人
+坏人，坏人
+我是个坏——
 
 ## 重点表达 · Key Phrases
 

@@ -59,76 +59,144 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Wanna be in there forever girl — 想永远待在你身边，女孩  
-You know I adore ya — 你知道我有多爱你  
-No secret you know that — 这不是秘密，你心里清楚  
-I want you bad — 我好想要你  
-What's hiding under that blanket — 毯子底下藏着什么  
-Make room for something sweeter babe — 腾点地方给更甜的东西，宝贝  
-You can just conquer me — 你尽管把我征服就好  
-Will you oblige — 你愿意吗  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Please don't look too far, darling — 别把目光放太远，亲爱的  
-Cause I wanna, bad habit, ooh — 因为我想要你——这坏习惯，ooh  
+Wanna be in there forever girl
+You know I adore ya
+No secret you know that
+I want you bad
+What's hiding under that blanket
+Make room for something sweeter babe
+You can just conquer me
+Will you oblige
 
-### Chorus
+#### Pre-Chorus
 
-If it was up to me — 要是我说了算  
-I'd give you my soul — 我愿意把灵魂都给你  
-I'm a dead man — 我就像个死人  
-I'm a dead man — 我就像个死人  
-Wrapped in your body — 缠在你怀里  
-Next to my bones — 贴着我的骨头  
-I'm a dead man — 我就像个死人  
-I'm a dead man — 我就像个死人  
+Please don't look too far, darling
+Cause I wanna, bad habit, ooh
 
-### Verse 2
+#### Chorus
 
-Got it hotter than the weather girl — 比天气还烫，女孩  
-Let me cool it down for ya — 让我帮你降降温  
-You know I'm begging for — 你知道我在求  
-Rain baby — 来场雨吧，宝贝  
+If it was up to me
+I'd give you my soul
+I'm a dead man
+I'm a dead man
+Wrapped in your body
+Next to my bones
+I'm a dead man
+I'm a dead man
 
-### Pre-Chorus
+#### Verse 2
 
-Please don't look too far, darling — 别把目光放太远，亲爱的  
-Cause I wanna make you scream oooohh — 因为我想让你失控地叫出来 oooohh  
+Got it hotter than the weather girl
+Let me cool it down for ya
+You know I'm begging for
+Rain baby
 
-### Chorus
+Please don't look too far, darling
+Cause I wanna make you scream oooohh
 
-If it was up to me — 要是我说了算  
-I'd give you my soul — 我愿意把灵魂都给你  
-I'm a dead man — 我就像个死人  
-I'm a dead man — 我就像个死人  
-Wrapped in your body — 缠在你怀里  
-Next to my bones — 贴着我的骨头  
-I'm a dead man — 我就像个死人  
-I'm a dead man — 我就像个死人  
-My lady, yes you are — 你就是我的女人  
-My lady, yes you are — 你就是我的女人  
-My lady, yes you are — 你就是我的女人  
-My lady, yes you are — 你就是我的女人  
+If it was up to me
+I'd give you my soul
+I'm a dead man
+I'm a dead man
+Wrapped in your body
+Next to my bones
+I'm a dead man
+I'm a dead man
+My lady, yes you are
+My lady, yes you are
+My lady, yes you are
+My lady, yes you are
 
-### Bridge / Final
+#### Bridge / Final
 
-Please don't look too far, darling — 别把目光放太远，亲爱的  
-Cause I wanna make you scream oooh baby baby — 因为我想让你失控 oooh 宝贝  
+Please don't look too far, darling
+Cause I wanna make you scream oooh baby baby
 
-If it was up to me — 要是我说了算  
-I'd give you my soul — 我愿意把灵魂都给你  
-I'm a dead man — 我就像个死人  
-Dead man — 死人  
-Dead man — 死人  
-Wrapped in your body — 缠在你怀里  
-Next to my bones — 贴着我的骨头  
-I'm a dead man, dead man, dead man — 我就像个死人、死人、死人  
-Without you — 没有你的话  
+If it was up to me
+I'd give you my soul
+I'm a dead man
+Dead man
+Dead man
+Wrapped in your body
+Next to my bones
+I'm a dead man, dead man, dead man
+Without you
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+想永远待在你身边，女孩
+你知道我有多爱你
+这不是秘密，你心里清楚
+我好想要你
+毯子底下藏着什么
+腾点地方给更甜的东西，宝贝
+你尽管把我征服就好
+你愿意吗
+
+#### Pre-Chorus
+
+别把目光放太远，亲爱的
+因为我想要你——这坏习惯，ooh
+
+#### Chorus
+
+要是我说了算
+我愿意把灵魂都给你
+我就像个死人
+我就像个死人
+缠在你怀里
+贴着我的骨头
+我就像个死人
+我就像个死人
+
+#### Verse 2
+
+比天气还烫，女孩
+让我帮你降降温
+你知道我在求
+来场雨吧，宝贝
+
+别把目光放太远，亲爱的
+因为我想让你失控地叫出来 oooohh
+
+要是我说了算
+我愿意把灵魂都给你
+我就像个死人
+我就像个死人
+缠在你怀里
+贴着我的骨头
+我就像个死人
+我就像个死人
+你就是我的女人
+你就是我的女人
+你就是我的女人
+你就是我的女人
+
+#### Bridge / Final
+
+别把目光放太远，亲爱的
+因为我想让你失控 oooh 宝贝
+
+要是我说了算
+我愿意把灵魂都给你
+我就像个死人
+死人
+死人
+缠在你怀里
+贴着我的骨头
+我就像个死人、死人、死人
+没有你的话
 
 ## 重点表达 · Key Phrases
 

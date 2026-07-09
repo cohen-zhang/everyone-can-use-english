@@ -69,54 +69,105 @@ Together on **"Die With a Smile"** (2024), they blend Gaga's emotional belt with
 
 ## 歌词 · Lyrics
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-(Ooh) — （哦）
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-I, I just woke up from a dream — 我，我刚从一场梦里醒来  
-Where you and I had to say goodbye — 梦里你和我不得不告别  
-And I don't know what it all means — 我不知道这一切意味着什么  
-But since I survived, I realized — 但既然我醒过来了，我明白了  
+(Ooh)
 
-### Pre-Chorus
+#### Verse 1
 
-Wherever you go, that's where I'll follow — 你去哪，我就跟到哪  
-Nobody's promised tomorrow — 没人能保证有明天  
-So I'ma love you every night like it's the last night — 所以每晚爱你，都像最后一晚  
-Like it's the last night — 就像最后一晚  
+I, I just woke up from a dream
+Where you and I had to say goodbye
+And I don't know what it all means
+But since I survived, I realized
 
-### Chorus
+#### Pre-Chorus
 
-If the world was ending, I'd wanna be next to you — 若世界即将终结，我想紧挨着你  
-If the party was over and our time on Earth was through — 若派对已散、我们在世上的时光已尽  
-I'd wanna hold you just for a while and die with a smile — 我想抱你一会儿，微笑着离去  
-If the world was ending, I'd wanna be next to you — 若世界即将终结，我想紧挨着你  
-(Ooh) — （哦）
+Wherever you go, that's where I'll follow
+Nobody's promised tomorrow
+So I'ma love you every night like it's the last night
+Like it's the last night
 
-### Verse 2
+#### Chorus
 
-Oh, lost, lost in the words that we scream — 哦，迷失在我们嘶吼的话语里  
-I don't even wanna do this anymore — 我甚至不想再这样争吵下去  
-'Cause you already know what you mean to me — 因为你早已明白你对我意味着什么  
-And our love's the only war worth fighting for — 而我们的爱是唯一值得为之奋战的那场战争  
+If the world was ending, I'd wanna be next to you
+If the party was over and our time on Earth was through
+I'd wanna hold you just for a while and die with a smile
+If the world was ending, I'd wanna be next to you
+(Ooh)
 
-### Pre-Chorus & Chorus（重复）
+#### Verse 2
+
+Oh, lost, lost in the words that we scream
+I don't even wanna do this anymore
+'Cause you already know what you mean to me
+And our love's the only war worth fighting for
+
+#### Pre-Chorus & Chorus（重复）
+
+#### Outro
+
+Right next to you
+Next to you
+Right next to you
+Oh-oh, oh
+
+I'd wanna be next to you
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+（哦）
+
+#### Verse 1
+
+我，我刚从一场梦里醒来
+梦里你和我不得不告别
+我不知道这一切意味着什么
+但既然我醒过来了，我明白了
+
+#### Pre-Chorus
+
+你去哪，我就跟到哪
+没人能保证有明天
+所以每晚爱你，都像最后一晚
+就像最后一晚
+
+#### Chorus
+
+若世界即将终结，我想紧挨着你
+若派对已散、我们在世上的时光已尽
+我想抱你一会儿，微笑着离去
+若世界即将终结，我想紧挨着你
+（哦）
+
+#### Verse 2
+
+哦，迷失在我们嘶吼的话语里
+我甚至不想再这样争吵下去
+因为你早已明白你对我意味着什么
+而我们的爱是唯一值得为之奋战的那场战争
+
+#### Pre-Chorus & Chorus（重复）
 
 *(同前)*
 
-### Outro
+#### Outro
 
-Right next to you — 就在你身旁  
-Next to you — 在你身旁  
-Right next to you — 就在你身旁  
-Oh-oh, oh — 哦哦，哦  
+就在你身旁
+在你身旁
+就在你身旁
+哦哦，哦
 
 *(副歌再重复；结尾)*  
-I'd wanna be next to you — 我想紧挨着你
-
----
+我想紧挨着你
 
 ## 重点表达 · Key Phrases
 

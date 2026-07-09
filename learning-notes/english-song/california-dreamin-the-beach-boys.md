@@ -61,53 +61,104 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-All the leaves are brown — 叶子都黄了  
-And the sky is grey — 天空灰蒙蒙的  
-I've been for a walk — 我出去走了一圈  
-On a winter's day — 在一个冬日  
-I'd be safe and warm — 我会又安全又暖和  
-If I was in L.A. — 要是我在洛杉矶的话  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-California dreamin' (California dreamin') — 梦见加州（梦见加州）  
-(On such a winter's day) — （在这样的冬日里）  
+All the leaves are brown
+And the sky is grey
+I've been for a walk
+On a winter's day
+I'd be safe and warm
+If I was in L.A.
 
-### Verse 2
+#### Chorus
 
-Stopped into a church — 走进一座教堂  
-I passed along the way — 路过时看见的那座  
-Well, I got down on my knees (got down on my knees) — 我跪了下来（跪了下来）  
-And I pretend to pray (I pretend to pray) — 假装在祷告（假装在祷告）  
-You know the preacher likes the cold (preacher likes the cold) — 你知道，牧师喜欢这寒冷（牧师喜欢寒冷）  
-He knows I'm gonna stay (knows I'm gonna stay) — 他知道我会留下来（知道我会留下来）  
+California dreamin' (California dreamin')
+(On such a winter's day)
 
-### Chorus（重复）
+#### Verse 2
+
+Stopped into a church
+I passed along the way
+Well, I got down on my knees (got down on my knees)
+And I pretend to pray (I pretend to pray)
+You know the preacher likes the cold (preacher likes the cold)
+He knows I'm gonna stay (knows I'm gonna stay)
+
+#### Chorus（重复）
+
+#### Verse 3 / Final
+
+All the leaves are brown (all the leaves are brown)
+And the sky is grey (and the sky is grey)
+I've been for a walk (I've been for a walk)
+On a winter's day (on a winter's day)
+I'd be safe and warm (I'd be safe and warm)
+If I was in L.A. (if I was in L.A.)
+
+California dreamin' (California dreamin')
+(On such a winter's day)
+
+(California dreamin')
+(On such a winter's day)
+(California dreamin')
+(On such a winter's day)
+California dreamin' (California dreamin')
+(On such a winter's day)
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+叶子都黄了
+天空灰蒙蒙的
+我出去走了一圈
+在一个冬日
+我会又安全又暖和
+要是我在洛杉矶的话
+
+#### Chorus
+
+梦见加州（梦见加州）
+（在这样的冬日里）
+
+#### Verse 2
+
+走进一座教堂
+路过时看见的那座
+我跪了下来（跪了下来）
+假装在祷告（假装在祷告）
+你知道，牧师喜欢这寒冷（牧师喜欢寒冷）
+他知道我会留下来（知道我会留下来）
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Verse 3 / Final
+#### Verse 3 / Final
 
-All the leaves are brown (all the leaves are brown) — 叶子都黄了（叶子都黄了）  
-And the sky is grey (and the sky is grey) — 天空灰蒙蒙的（天空灰蒙蒙的）  
-I've been for a walk (I've been for a walk) — 我出去走了一圈（我出去走了一圈）  
-On a winter's day (on a winter's day) — 在一个冬日（在一个冬日）  
-I'd be safe and warm (I'd be safe and warm) — 我会又安全又暖和（我会又安全又暖和）  
-If I was in L.A. (if I was in L.A.) — 要是我在洛杉矶的话（要是我在洛杉矶）  
+叶子都黄了（叶子都黄了）
+天空灰蒙蒙的（天空灰蒙蒙的）
+我出去走了一圈（我出去走了一圈）
+在一个冬日（在一个冬日）
+我会又安全又暖和（我会又安全又暖和）
+要是我在洛杉矶的话（要是我在洛杉矶）
 
-California dreamin' (California dreamin') — 梦见加州（梦见加州）  
-(On such a winter's day) — （在这样的冬日里）  
+梦见加州（梦见加州）
+（在这样的冬日里）
 
-(California dreamin') — （梦见加州）  
-(On such a winter's day) — （在这样的冬日里）  
-(California dreamin') — （梦见加州）  
-(On such a winter's day) — （在这样的冬日里）  
-California dreamin' (California dreamin') — 梦见加州（梦见加州）  
-(On such a winter's day) — （在这样的冬日里）  
-
----
+（梦见加州）
+（在这样的冬日里）
+（梦见加州）
+（在这样的冬日里）
+梦见加州（梦见加州）
+（在这样的冬日里）
 
 ## 重点表达 · Key Phrases
 

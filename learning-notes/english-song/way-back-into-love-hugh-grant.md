@@ -64,65 +64,130 @@ This track features **Hugh Grant** and **Drew Barrymore** in their roles from th
 
 > 片中 **demo**：Hugh Grant（Alex）与 Drew Barrymore（Sophie）边写边唱；奇数段多为 Alex，偶数段多为 Sophie，副歌合唱。
 
-### Verse 1（Alex）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I've been living with a shadow overhead — 我一直活在头顶的阴影下  
-I've been sleeping with a cloud above my bed — 我一直睡在床头上方的乌云里  
-I've been lonely for so long — 我孤独了太久  
-Trapped in the past, I just can't seem to move on — 困在过去，好像怎么也走不出来  
+### 英文歌词 · English Lyrics
 
-### Verse 2（Sophie）
+#### Verse 1（Alex）
 
-I've been hiding all my hopes and dreams away — 我一直把希望和梦想藏起来  
-Just in case I ever need them again someday — 以防哪天还会需要它们  
-I've been setting aside time — 我一直在腾出时间  
-To clear a little space in the corners of my mind — 好清出心里角落的一点空间  
+I've been living with a shadow overhead
+I've been sleeping with a cloud above my bed
+I've been lonely for so long
+Trapped in the past, I just can't seem to move on
 
-### Chorus（合唱）
+#### Verse 2（Sophie）
 
-All I wanna do is find a way back into love — 我只想找到重新坠入爱河的路  
-I can't make it through without a way back into love — 没有这条路，我撑不下去  
-Oh oh oh — 哦哦哦  
+I've been hiding all my hopes and dreams away
+Just in case I ever need them again someday
+I've been setting aside time
+To clear a little space in the corners of my mind
 
-### Verse 3（Alex）
+#### Chorus（合唱）
 
-I've been watching but the stars refuse to shine — 我一直在等，星星却迟迟不亮  
-I've been searching but I just don't see the signs — 我一直在找，却看不见任何迹象  
-I know that it's out there — 我知道它就在那里  
-There's got to be something for my soul somewhere — 我的灵魂总该在某个地方有所寄托  
+All I wanna do is find a way back into love
+I can't make it through without a way back into love
+Oh oh oh
 
-### Verse 4（Sophie）
+#### Verse 3（Alex）
 
-I've been looking for someone to shed some light — 我一直在找能照亮我的人  
-Not somebody just to get me through the night — 不是那种只能陪我过夜的人  
-I could use some direction — 我需要一点方向  
-And I'm open to your suggestions — 我愿意听你的建议  
+I've been watching but the stars refuse to shine
+I've been searching but I just don't see the signs
+I know that it's out there
+There's got to be something for my soul somewhere
 
-### Chorus（重复）
+#### Verse 4（Sophie）
 
-All I wanna do is find a way back into love — 我只想找到重新坠入爱河的路  
-I can't make it through without a way back into love — 没有这条路，我撑不下去  
-And if I open my heart again — 如果我再次敞开心扉  
-I guess I'm hoping you'll be there for me in the end — 我希望你最终会在我身边  
-oh, oh, oh, oh, oh — 哦，哦，哦，哦，哦  
+I've been looking for someone to shed some light
+Not somebody just to get me through the night
+I could use some direction
+And I'm open to your suggestions
 
-### Bridge
+#### Chorus（重复）
 
-There are moments when I don't know if it's real — 有些时刻我不知道这是不是真的  
-Or if anybody feels the way I feel — 或者有没有人和我一样  
-I need inspiration — 我需要灵感  
-Not just another negotiation — 不是又一场讨价还价  
+All I wanna do is find a way back into love
+I can't make it through without a way back into love
+And if I open my heart again
+I guess I'm hoping you'll be there for me in the end
+oh, oh, oh, oh, oh
 
-### Final Chorus
+#### Bridge
 
-All I want to do is find a way back into love — 我只想找到重新坠入爱河的路  
-I can't make it through without a way back into love — 没有这条路，我撑不下去  
-And if I open my heart to you — 如果我向你敞开心扉  
-I'm hoping you'll show me what to do — 我希望你告诉我该怎么做  
-And if you help me to start again — 如果你帮我重新开始  
-You know that I'll be there for you in the end — 你知道我最终会陪在你身边  
+There are moments when I don't know if it's real
+Or if anybody feels the way I feel
+I need inspiration
+Not just another negotiation
+
+#### Final Chorus
+
+All I want to do is find a way back into love
+I can't make it through without a way back into love
+And if I open my heart to you
+I'm hoping you'll show me what to do
+And if you help me to start again
+You know that I'll be there for you in the end
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1（Alex）
+
+我一直活在头顶的阴影下
+我一直睡在床头上方的乌云里
+我孤独了太久
+困在过去，好像怎么也走不出来
+
+#### Verse 2（Sophie）
+
+我一直把希望和梦想藏起来
+以防哪天还会需要它们
+我一直在腾出时间
+好清出心里角落的一点空间
+
+#### Chorus（合唱）
+
+我只想找到重新坠入爱河的路
+没有这条路，我撑不下去
+哦哦哦
+
+#### Verse 3（Alex）
+
+我一直在等，星星却迟迟不亮
+我一直在找，却看不见任何迹象
+我知道它就在那里
+我的灵魂总该在某个地方有所寄托
+
+#### Verse 4（Sophie）
+
+我一直在找能照亮我的人
+不是那种只能陪我过夜的人
+我需要一点方向
+我愿意听你的建议
+
+#### Chorus（重复）
+
+我只想找到重新坠入爱河的路
+没有这条路，我撑不下去
+如果我再次敞开心扉
+我希望你最终会在我身边
+哦，哦，哦，哦，哦
+
+#### Bridge
+
+有些时刻我不知道这是不是真的
+或者有没有人和我一样
+我需要灵感
+不是又一场讨价还价
+
+#### Final Chorus
+
+我只想找到重新坠入爱河的路
+没有这条路，我撑不下去
+如果我向你敞开心扉
+我希望你告诉我该怎么做
+如果你帮我重新开始
+你知道我最终会陪在你身边
 
 ## 重点表达 · Key Phrases
 

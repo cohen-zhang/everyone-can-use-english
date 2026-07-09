@@ -63,86 +63,170 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-We were both young when I first saw you — 初次见你时我们都还年轻  
-I close my eyes and the flashback starts — 我闭上眼，闪回开始  
-I'm standing there — 我站在那里  
-On a balcony, in summer air — 在阳台上，夏夜里  
-See the lights, see the party, the ball gowns — 看见灯火、派对、礼服  
-See you make your way through the crowd — 看见你穿过人群  
-And say, "Hello" — 说声「Hello」  
-Little did I know — 我哪里知道  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-That you were Romeo, you were throwing pebbles — 你就是 Romeo，在扔小石子  
-And my daddy said, "Stay away from Juliet" — 爸爸却说：「离 Juliet 远点」  
-And I was crying on the staircase — 我在楼梯上哭  
-Begging you, "Please don't go" — 求你：「请不要走」  
-And I said — 我说  
+We were both young when I first saw you
+I close my eyes and the flashback starts
+I'm standing there
+On a balcony, in summer air
+See the lights, see the party, the ball gowns
+See you make your way through the crowd
+And say, "Hello"
+Little did I know
 
-### Chorus
+#### Pre-Chorus
 
-Romeo, take me somewhere we can be alone — Romeo，带我去能独处的地方  
-I'll be waiting, all there's left to do is run — 我会等着，剩下的事就是奔跑  
-You'll be the prince, and I'll be the princess — 你是王子，我是公主  
-It's a love story, baby, just say yes — 这是爱情故事，宝贝，只要说 yes  
+That you were Romeo, you were throwing pebbles
+And my daddy said, "Stay away from Juliet"
+And I was crying on the staircase
+Begging you, "Please don't go"
+And I said
 
-### Verse 2
+#### Chorus
 
-So I sneak out to the garden to see you — 于是我溜去花园见你  
-We keep quiet 'cause we're dead if they knew — 我们屏息，被发现了就完了  
-So close your eyes — 那就闭上眼  
-Escape this town for a little while, oh, oh — 暂时逃离这座小镇  
+Romeo, take me somewhere we can be alone
+I'll be waiting, all there's left to do is run
+You'll be the prince, and I'll be the princess
+It's a love story, baby, just say yes
 
-### Pre-Chorus 2
+#### Verse 2
 
-'Cause you were Romeo, I was a scarlet letter — 因为你是 Romeo，我却是「红字」  
-And my daddy said, "Stay away from Juliet" — 爸爸又说：「离 Juliet 远点」  
-But you were everything to me — 但你是我的一切  
-I was begging you, "Please don't go" — 我求你：「请不要走」  
-And I said — 我说  
+So I sneak out to the garden to see you
+We keep quiet 'cause we're dead if they knew
+So close your eyes
+Escape this town for a little while, oh, oh
 
-### Chorus（重复）
+#### Pre-Chorus 2
+
+'Cause you were Romeo, I was a scarlet letter
+And my daddy said, "Stay away from Juliet"
+But you were everything to me
+I was begging you, "Please don't go"
+And I said
+
+#### Chorus（重复）
+
+#### Bridge
+
+Romeo, save me, they're trying to tell me how to feel
+This love is difficult, but it's real
+Don't be afraid, we'll make it out of this mess
+It's a love story, baby, just say yes
+
+Oh, oh-oh
+
+#### Verse 3
+
+I got tired of waiting
+Wondering if you were ever coming around
+My faith in you was fading
+When I met you on the outskirts of town
+And I said
+
+Romeo, save me, I've been feeling so alone
+I keep waiting for you, but you never come
+Is this in my head? I don't know what to think
+He knelt to the ground and pulled out a ring
+And said
+
+#### Final Chorus / Proposal
+
+Marry me, Juliet, you'll never have to be alone
+I love you, and that's all I really know
+I talked to your dad, go pick out a white dress
+It's a love story, baby, just say yes
+
+Oh, oh-oh
+Oh, oh-oh, oh
+'Cause we were both young when I first saw you
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+初次见你时我们都还年轻
+我闭上眼，闪回开始
+我站在那里
+在阳台上，夏夜里
+看见灯火、派对、礼服
+看见你穿过人群
+说声「Hello」
+我哪里知道
+
+#### Pre-Chorus
+
+你就是 Romeo，在扔小石子
+爸爸却说：「离 Juliet 远点」
+我在楼梯上哭
+求你：「请不要走」
+我说
+
+#### Chorus
+
+Romeo，带我去能独处的地方
+我会等着，剩下的事就是奔跑
+你是王子，我是公主
+这是爱情故事，宝贝，只要说 yes
+
+#### Verse 2
+
+于是我溜去花园见你
+我们屏息，被发现了就完了
+那就闭上眼
+暂时逃离这座小镇
+
+#### Pre-Chorus 2
+
+因为你是 Romeo，我却是「红字」
+爸爸又说：「离 Juliet 远点」
+但你是我的一切
+我求你：「请不要走」
+我说
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-Romeo, save me, they're trying to tell me how to feel — Romeo，救救我，他们想告诉我该怎么感受  
-This love is difficult, but it's real — 这份爱很难，但是真的  
-Don't be afraid, we'll make it out of this mess — 别害怕，我们会走出这团乱局  
-It's a love story, baby, just say yes — 这是爱情故事，宝贝，只要说 yes  
+Romeo，救救我，他们想告诉我该怎么感受
+这份爱很难，但是真的
+别害怕，我们会走出这团乱局
+这是爱情故事，宝贝，只要说 yes
 
-Oh, oh-oh — 哦，哦——  
+哦，哦——
 
-### Verse 3
+#### Verse 3
 
-I got tired of waiting — 我等累了  
-Wondering if you were ever coming around — 怀疑你是否还会现身  
-My faith in you was fading — 对你的信任在消退  
-When I met you on the outskirts of town — 当我在镇郊遇见你  
-And I said — 我说  
+我等累了
+怀疑你是否还会现身
+对你的信任在消退
+当我在镇郊遇见你
+我说
 
-Romeo, save me, I've been feeling so alone — Romeo，救救我，我好孤独  
-I keep waiting for you, but you never come — 一直等你，你却从未来  
-Is this in my head? I don't know what to think — 这是幻想吗？我不知道该怎么想  
-He knelt to the ground and pulled out a ring — 他跪地掏出一枚戒指  
-And said — 他说  
+Romeo，救救我，我好孤独
+一直等你，你却从未来
+这是幻想吗？我不知道该怎么想
+他跪地掏出一枚戒指
+他说
 
-### Final Chorus / Proposal
+#### Final Chorus / Proposal
 
-Marry me, Juliet, you'll never have to be alone — 嫁给我吧 Juliet，你再也不用孤单  
-I love you, and that's all I really know — 我爱你，这是我真正确知的一切  
-I talked to your dad, go pick out a white dress — 我已和你爸谈妥，去挑一件白婚纱吧  
-It's a love story, baby, just say yes — 这是爱情故事，宝贝，只要说 yes  
+嫁给我吧 Juliet，你再也不用孤单
+我爱你，这是我真正确知的一切
+我已和你爸谈妥，去挑一件白婚纱吧
+这是爱情故事，宝贝，只要说 yes
 
-Oh, oh-oh — 哦，哦——  
-Oh, oh-oh, oh — 哦，哦——哦  
-'Cause we were both young when I first saw you — 因为初次见你时我们都还年轻  
-
----
+哦，哦——
+哦，哦——哦
+因为初次见你时我们都还年轻
 
 ## 重点表达 · Key Phrases
 

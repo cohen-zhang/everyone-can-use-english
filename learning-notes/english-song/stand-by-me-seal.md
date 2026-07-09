@@ -61,62 +61,124 @@ Seal 在 *Soul* 中的 **"Stand By Me"** 是对 1961 年经典的情歌**灵魂/
 
 > 本笔记为 **Seal 2008 年翻唱版**；结构与 Ben E. King 原版相同，但编曲更慢、更 soul，并含额外 ad-lib。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-When the night has come — 当夜晚降临  
-And the land is dark — 大地一片漆黑  
-And the moon is the only light we'll see — 月亮是我们唯一能见的光  
+### 英文歌词 · English Lyrics
 
-No, I won't be afraid — 不，我不会害怕  
-No, I won't be afraid — 不，我不会害怕  
-Just as long as you stand, stand by me — 只要你守在我身边  
+#### Verse 1
 
-### Chorus 1
+When the night has come
+And the land is dark
+And the moon is the only light we'll see
 
-So darlin', darlin', stand by me — 所以亲爱的，请守在我身边  
-Oh-oh, stand by me — 哦，守在我身边  
-Oh stand, stand by me, stand by me — 哦，守在我身边  
+No, I won't be afraid
+No, I won't be afraid
+Just as long as you stand, stand by me
 
-### Verse 2
+#### Chorus 1
 
-If the sky that we look upon should tumble and fall — 若我们仰望的天空崩塌坠落  
-Or the mountains should crumble to the sea — 或群山倾入大海  
-I won't cry, I won't cry, no-no-no, I won't shed a tear — 我不会哭，不会哭，不，我不会流一滴泪  
-Just as long as you stand by me — 只要你守在我身边  
+So darlin', darlin', stand by me
+Oh-oh, stand by me
+Oh stand, stand by me, stand by me
 
-### Chorus 2
+#### Verse 2
 
-And darlin', darlin', stand by me — 亲爱的，请守在我身边  
-Oh-oh-oh, stand by me — 哦，守在我身边  
-Oh darling, stand by me, stand by me, stand by me — 哦亲爱的，守在我身边  
+If the sky that we look upon should tumble and fall
+Or the mountains should crumble to the sea
+I won't cry, I won't cry, no-no-no, I won't shed a tear
+Just as long as you stand by me
 
-### Bridge / Ad-lib
+#### Chorus 2
 
-Whoa-oh-oh, ay-ay — （即兴）  
-Ma-ma-my, my-ee — （即兴）  
+And darlin', darlin', stand by me
+Oh-oh-oh, stand by me
+Oh darling, stand by me, stand by me, stand by me
 
-If the mountains should crumble to the sea — 若群山倾入大海  
-Ma-ma-my-my-my — （即兴）  
+#### Bridge / Ad-lib
 
-### Verse 3（重复 Verse 1，略有变化）
+Whoa-oh-oh, ay-ay
+Ma-ma-my, my-ee
 
-When the night has come — 当夜晚降临  
-And, and the land is dark — 而，而大地一片漆黑  
-And the moon is the only, only light we'll see — 月亮是我们唯一、唯一的光  
+If the mountains should crumble to the sea
+Ma-ma-my-my-my
 
-### Final Chorus / Outro
+#### Verse 3（重复 Verse 1，略有变化）
 
-So darlin', darlin', stand by me, oh-oh, stand by me — 所以亲爱的，请守在我身边  
-Oh darling, stand by me, stand by me — 哦亲爱的，守在我身边  
-Whenever you're in trouble, won't you stand by me — 每当你陷入困境，能否守在我身边  
-Oh-oh-oh-oh-oh, stand by me, stand by me, stand by me — 哦，守在我身边  
+When the night has come
+And, and the land is dark
+And the moon is the only, only light we'll see
 
-So darlin', darlin', stand, oh-oh, oo-oo, oh-oh — 所以亲爱的……（即兴）  
-As long as I know I got you right here — 只要我知道你就守在这里  
-Right here by my side — 就在我身旁  
-Come on, come on, stand, stand right here — 来吧，来吧，就守在这里  
+#### Final Chorus / Outro
+
+So darlin', darlin', stand by me, oh-oh, stand by me
+Oh darling, stand by me, stand by me
+Whenever you're in trouble, won't you stand by me
+Oh-oh-oh-oh-oh, stand by me, stand by me, stand by me
+
+So darlin', darlin', stand, oh-oh, oo-oo, oh-oh
+As long as I know I got you right here
+Right here by my side
+Come on, come on, stand, stand right here
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+当夜晚降临
+大地一片漆黑
+月亮是我们唯一能见的光
+
+不，我不会害怕
+不，我不会害怕
+只要你守在我身边
+
+#### Chorus 1
+
+所以亲爱的，请守在我身边
+哦，守在我身边
+哦，守在我身边
+
+#### Verse 2
+
+若我们仰望的天空崩塌坠落
+或群山倾入大海
+我不会哭，不会哭，不，我不会流一滴泪
+只要你守在我身边
+
+#### Chorus 2
+
+亲爱的，请守在我身边
+哦，守在我身边
+哦亲爱的，守在我身边
+
+#### Bridge / Ad-lib
+
+（即兴）
+（即兴）
+
+若群山倾入大海
+（即兴）
+
+#### Verse 3（重复 Verse 1，略有变化）
+
+当夜晚降临
+而，而大地一片漆黑
+月亮是我们唯一、唯一的光
+
+#### Final Chorus / Outro
+
+所以亲爱的，请守在我身边
+哦亲爱的，守在我身边
+每当你陷入困境，能否守在我身边
+哦，守在我身边
+
+所以亲爱的……（即兴）
+只要我知道你就守在这里
+就在我身旁
+来吧，来吧，就守在这里
 
 ## 重点表达 · Key Phrases
 

@@ -22,63 +22,102 @@ aliases:
 
 > 依据 Child's Play / Annie Kubler 版绘本歌词整理。部分印次结尾唱 **All around the town** 或 **All through the town**，与 **All day long** 同位替换即可。
 
-### 1 · Wheels 轮子
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 1 · Wheels 轮子
 
 The wheels on the bus go round and round,  
 Round and round, round and round.  
 The wheels on the bus go round and round,  
-All day long. — 公交车的轮子转呀转，一整天。
+All day long.
 
-### 2 · Wipers 雨刷
+#### 2 · Wipers 雨刷
 
 The wipers on the bus go swish, swish, swish,  
 Swish, swish, swish, swish, swish, swish.  
 The wipers on the bus go swish, swish, swish,  
-All day long. — 雨刷来回刷，唰唰唰。
+All day long.
 
-### 3 · Horn 喇叭
+#### 3 · Horn 喇叭
 
 The horn on the bus goes beep, beep, beep,  
 Beep, beep, beep, beep, beep, beep.  
 The horn on the bus goes beep, beep, beep,  
-All day long. — 喇叭嘀嘀叫。
+All day long.
 
-### 4 · Driver 司机
+#### 4 · Driver 司机
 
 The driver on the bus says, "Tickets please!  
 Tickets please! Tickets please!"  
 The driver on the bus says, "Tickets please!"  
-All day long. — 司机说：请买票！`亲子`
+All day long.
 
-### 5 · Parents 家长
+#### 5 · Parents 家长
 
 The parents on the bus go chat, chat, chat,  
 Chat, chat, chat, chat, chat, chat.  
 The parents on the bus go chat, chat, chat,  
-All day long. — 家长们聊呀聊。
+All day long.
 
-### 6 · Babies 宝宝
+#### 6 · Babies 宝宝
 
 The babies on the bus go, "Wah, wah, wah."  
 Wah, wah, wah, wah, wah, wah.  
 The babies on the bus go, "Wah, wah, wah."  
-All day long. — 小宝宝们哇哇哭。
+All day long.
 
-### 7 · People 乘客
+#### 7 · People 乘客
 
 The people on the bus say, "Ssh, ssh, ssh,"  
 "Ssh, ssh, ssh, ssh, ssh, ssh."  
 The people on the bus say, "Ssh, ssh, ssh,"  
-All day long. — 乘客们嘘——小声点。
+All day long.
 
-### 8 · Wheels（重复）轮子
+#### 8 · Wheels（重复）轮子
 
 The wheels on the bus go round and round,  
 Round and round, round and round.  
 The wheels on the bus go round and round,  
-All day long. — 轮子再转一圈，结束啦。
+All day long.
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### 1 · Wheels 轮子
+
+公交车的轮子转呀转，一整天。
+
+#### 2 · Wipers 雨刷
+
+雨刷来回刷，唰唰唰。
+
+#### 3 · Horn 喇叭
+
+喇叭嘀嘀叫。
+
+#### 4 · Driver 司机
+
+司机说：请买票！`亲子`
+
+#### 5 · Parents 家长
+
+家长们聊呀聊。
+
+#### 6 · Babies 宝宝
+
+小宝宝们哇哇哭。
+
+#### 7 · People 乘客
+
+乘客们嘘——小声点。
+
+#### 8 · Wheels（重复）轮子
+
+轮子再转一圈，结束啦。
 
 ## 跟唱提示 · Sing-along tips
 

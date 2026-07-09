@@ -63,45 +63,90 @@ aliases:
 
 > 专辑版：第一段由 Brian May 演唱，其余由 Freddie Mercury 主唱；本笔记不区分演唱者，按歌词结构标注。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-There's no time for us — 我们没有时间  
-There's no place for us — 我们没有容身之处  
-What is this thing that builds our dreams, yet slips away from us — 是什么构筑梦想，却又从指间溜走  
+### 英文歌词 · English Lyrics
 
-### Chorus 1
+#### Verse 1
 
-Who wants to live forever — 谁想永生  
-Who wants to live forever — 谁想永生  
-Oh ooo oh — 哦哦哦  
-There's no chance for us — 我们没有机会  
-It's all decided for us — 一切早已注定  
-This world has only one sweet moment set aside for us — 这世界只留给我们一个甜蜜瞬间  
+There's no time for us
+There's no place for us
+What is this thing that builds our dreams, yet slips away from us
 
-### Chorus 2
+#### Chorus 1
 
-Who wants to live forever — 谁想永生  
-Who wants to live forever — 谁想永生  
-Ooh — 哦  
-Who dares to love forever — 谁敢爱到天荒地老  
-Oh oo woh, when love must die — 哦，当爱必须消逝  
+Who wants to live forever
+Who wants to live forever
+Oh ooo oh
+There's no chance for us
+It's all decided for us
+This world has only one sweet moment set aside for us
 
-### Verse 2 / Bridge
+#### Chorus 2
 
-But touch my tears with your lips — 但请用双唇触碰我的泪  
-Touch my world with your fingertips — 用指尖触碰我的世界  
-And we can have forever — 我们便能拥有永远  
-And we can love forever — 我们便能永远相爱  
-Forever is our today — 永远就是我们的今天  
+Who wants to live forever
+Who wants to live forever
+Ooh
+Who dares to love forever
+Oh oo woh, when love must die
 
-### Chorus 3 / Outro
+#### Verse 2 / Bridge
 
-Who wants to live forever — 谁想永生  
-Who wants to live forever — 谁想永生  
-Forever is our today — 永远就是我们的今天  
-Who waits forever anyway? — 反正，谁又会永远等待？  
+But touch my tears with your lips
+Touch my world with your fingertips
+And we can have forever
+And we can love forever
+Forever is our today
+
+#### Chorus 3 / Outro
+
+Who wants to live forever
+Who wants to live forever
+Forever is our today
+Who waits forever anyway?
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我们没有时间
+我们没有容身之处
+是什么构筑梦想，却又从指间溜走
+
+#### Chorus 1
+
+谁想永生
+谁想永生
+哦哦哦
+我们没有机会
+一切早已注定
+这世界只留给我们一个甜蜜瞬间
+
+#### Chorus 2
+
+谁想永生
+谁想永生
+哦
+谁敢爱到天荒地老
+哦，当爱必须消逝
+
+#### Verse 2 / Bridge
+
+但请用双唇触碰我的泪
+用指尖触碰我的世界
+我们便能拥有永远
+我们便能永远相爱
+永远就是我们的今天
+
+#### Chorus 3 / Outro
+
+谁想永生
+谁想永生
+永远就是我们的今天
+反正，谁又会永远等待？
 
 ## 重点表达 · Key Phrases
 

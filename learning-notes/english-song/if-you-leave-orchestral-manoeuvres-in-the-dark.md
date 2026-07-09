@@ -62,67 +62,134 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-If you leave, don't leave now — 如果你要走，别现在就走  
-Please don't take my heart away — 求你别把我的心带走  
-Promise me, just one more night — 答应我，再给我一夜  
-Then we'll go our separate ways — 然后我们就各走各的路  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-We've always had time on our side — 我们一直觉得时间站在我们这边  
-Now it's fading fast — 可现在它正在飞快溜走  
-Every second, every moment — 每一秒、每一刻  
-We've got to, we've gotta make it last — 我们得、我们一定得让它长久一点  
+If you leave, don't leave now
+Please don't take my heart away
+Promise me, just one more night
+Then we'll go our separate ways
 
-### Chorus
+#### Verse 2
 
-I touch you once, I touch you twice — 我碰你一次，再碰你一次  
-I won't let go at any price — 无论什么代价，我都不放手  
-I need you now like I need you then — 我现在需要你，就像从前一样  
-You always said we'd still be friends someday — 你总说，总有一天我们还会是朋友  
+We've always had time on our side
+Now it's fading fast
+Every second, every moment
+We've got to, we've gotta make it last
 
-### Verse 3
+#### Chorus
 
-If you leave, I won't cry — 如果你走了，我不会哭  
-I won't waste one single day — 一天都不会白白浪费  
-But if you leave, don't look back — 但如果你走了，别回头看  
-I'll be running the other way — 我会朝相反的方向跑  
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd still be friends someday
 
-### Verse 4
+#### Verse 3
 
-Seven years went under the bridge — 七年就这么过去了  
-Like time was standing still — 仿佛时间曾静止不动  
-Heaven knows what happens now — 天知道现在会怎样  
-You've got to, you gotta say you will — 你得、你一定得说你会留下  
+If you leave, I won't cry
+I won't waste one single day
+But if you leave, don't look back
+I'll be running the other way
 
-### Chorus（变词）
+#### Verse 4
 
-I touch you once, I touch you twice — 我碰你一次，再碰你一次  
-I won't let go at any price — 无论什么代价，我都不放手  
-I need you now like I need you then — 我现在需要你，就像从前一样  
-You always said we'd meet again — 你总说我们还会再见  
+Seven years went under the bridge
+Like time was standing still
+Heaven knows what happens now
+You've got to, you gotta say you will
 
-I touch you once, I touch you twice — 我碰你一次，再碰你一次  
-I won't let go at any price — 无论什么代价，我都不放手  
-I need you now like I need you then — 我现在需要你，就像从前一样  
-You always said we'd still be friends — 你总说我们还会是朋友  
+#### Chorus（变词）
 
-I touch you once, I touch you twice — 我碰你一次，再碰你一次  
-I won't let go at any price — 无论什么代价，我都不放手  
-I need you now like I need you then — 我现在需要你，就像从前一样  
-You always said we'd meet again someday — 你总说，总有一天我们还会再见  
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd meet again
 
-### Outro
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd still be friends
 
-If you leave — 如果你要走  
-Oh, if you leave — 哦，如果你要走  
-Oh, if you leave — 哦，如果你要走  
-Don't look back — 别回头  
-Don't look back — 别回头  
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd meet again someday
+
+#### Outro
+
+If you leave
+Oh, if you leave
+Oh, if you leave
+Don't look back
+Don't look back
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+如果你要走，别现在就走
+求你别把我的心带走
+答应我，再给我一夜
+然后我们就各走各的路
+
+#### Verse 2
+
+我们一直觉得时间站在我们这边
+可现在它正在飞快溜走
+每一秒、每一刻
+我们得、我们一定得让它长久一点
+
+#### Chorus
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，就像从前一样
+你总说，总有一天我们还会是朋友
+
+#### Verse 3
+
+如果你走了，我不会哭
+一天都不会白白浪费
+但如果你走了，别回头看
+我会朝相反的方向跑
+
+#### Verse 4
+
+七年就这么过去了
+仿佛时间曾静止不动
+天知道现在会怎样
+你得、你一定得说你会留下
+
+#### Chorus（变词）
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，就像从前一样
+你总说我们还会再见
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，就像从前一样
+你总说我们还会是朋友
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，就像从前一样
+你总说，总有一天我们还会再见
+
+#### Outro
+
+如果你要走
+哦，如果你要走
+哦，如果你要走
+别回头
+别回头
 
 ## 重点表达 · Key Phrases
 

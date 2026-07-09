@@ -59,43 +59,84 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Oh the wind whistles down — 哦，风呼啸而过  
-The cold dark street tonight — 今夜冷清黑暗的街道  
-And the people they were — 人们  
-Dancing to the music vibe — 跟着音乐节奏跳舞  
-And the boys chase the girls — 男孩追着女孩  
-With the curls in their hair — 那些头发卷曲的姑娘  
-While the shy tormented youth sit way over there — 害羞又纠结的少年坐在远处  
-And the songs they get louder — 歌越来越响  
-Each one better than before — 一首比一首带劲  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-And you're singing the songs — 你唱着那些歌  
-Thinking this is the life — 觉得这就是人生  
-And you wake up in the morning — 早上醒来  
-And your head feels twice the size — 头胀得像大两倍  
-Where you gonna go? Where you gonna go? — 你要去哪？你要去哪？  
-Where you gonna sleep tonight? — 今晚睡哪儿？  
+Oh the wind whistles down
+The cold dark street tonight
+And the people they were
+Dancing to the music vibe
+And the boys chase the girls
+With the curls in their hair
+While the shy tormented youth sit way over there
+And the songs they get louder
+Each one better than before
 
-### Verse 2
+#### Chorus
 
-So you're heading down the road — 于是你沿路而行  
-In your taxi for four — 坐着四人出租车  
-And you're waiting outside Jimmy's front door — 在 Jimmy 家门口等着  
-But nobody's in and nobody's home 'til four — 但没人应门，要到四点才有人  
-So you're sitting there with nothing to do — 你就干坐着没事做  
-Talking about Robert Riger and his motley crew — 聊着 Robert Riger 和他那帮杂牌军  
-And where you're gonna go and — 聊着要去哪  
-Where you're gonna sleep tonight? — 今晚睡哪儿  
+And you're singing the songs
+Thinking this is the life
+And you wake up in the morning
+And your head feels twice the size
+Where you gonna go? Where you gonna go?
+Where you gonna sleep tonight?
 
-### Chorus（重复）
+#### Verse 2
+
+So you're heading down the road
+In your taxi for four
+And you're waiting outside Jimmy's front door
+But nobody's in and nobody's home 'til four
+So you're sitting there with nothing to do
+Talking about Robert Riger and his motley crew
+And where you're gonna go and
+Where you're gonna sleep tonight?
+
+#### Chorus（重复）
 
 *(副歌重复多遍至结尾；结构与第一段副歌相同，末段多一句 Where you gonna sleep tonight?)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+哦，风呼啸而过
+今夜冷清黑暗的街道
+人们
+跟着音乐节奏跳舞
+男孩追着女孩
+那些头发卷曲的姑娘
+害羞又纠结的少年坐在远处
+歌越来越响
+一首比一首带劲
+
+#### Chorus
+
+你唱着那些歌
+觉得这就是人生
+早上醒来
+头胀得像大两倍
+你要去哪？你要去哪？
+今晚睡哪儿？
+
+#### Verse 2
+
+于是你沿路而行
+坐着四人出租车
+在 Jimmy 家门口等着
+但没人应门，要到四点才有人
+你就干坐着没事做
+聊着 Robert Riger 和他那帮杂牌军
+聊着要去哪
+今晚睡哪儿
+
+#### Chorus（重复）
 
 ## 重点表达 · Key Phrases
 

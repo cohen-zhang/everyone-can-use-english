@@ -59,45 +59,88 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I ain't seen my mama in a little bit over a year — 我有一年多没见妈妈了  
-And even when I see her, I know she knows that it isn't me here — 就算见面，她也知道「这里的不是我」  
-'Cause I'm always in the clouds, somewhere up in space — 因为我总在云端，像漂在太空里  
-I just hope that I could hug her before it gets way too late, late — 只希望在太晚之前还能抱她一下  
+### 英文歌词 · English Lyrics
 
-My friends just looking for a call, they want to say hi — 朋友们只想打个电话，说声嗨  
-They wonder if the person they knew's still inside — 他们想知道，他们认识的那个人还在不在里面  
-Seems so simple, it's really so hard — 听起来很简单，其实真的很难  
+#### Verse 1
 
-### Chorus
+I ain't seen my mama in a little bit over a year
+And even when I see her, I know she knows that it isn't me here
+'Cause I'm always in the clouds, somewhere up in space
+I just hope that I could hug her before it gets way too late, late
 
-Ooh, I don't think I'm okay — 哦，我觉得我不太好  
-Ooh, I don't think I'm okay, 'kay, hmm — 哦，我觉得我不太好，好吗，嗯  
-It feels so good to say — 说出来感觉真好  
-I, I don't think I'm okay — 我，我觉得我不太好  
-And that's okay — 而这样也可以  
+My friends just looking for a call, they want to say hi
+They wonder if the person they knew's still inside
+Seems so simple, it's really so hard
 
-### Verse 2
+#### Chorus
 
-Time is moving faster, it isn't slowing down — 时间走得更快了，没有慢下来  
-I miss being a kid, I miss the way the thunder sounds, sounds — 我想念当小孩，想念雷声的那种感觉  
-Ooh, maybe it's my dream that killed my self-esteem — 哦，也许是梦想杀死了我的自尊  
-Got so good at being someone else — 太擅长扮演别人了  
-Maybe I lost myself — 也许我把自己弄丢了  
-In the search of your acceptance — 在追寻你们的认可时  
+Ooh, I don't think I'm okay
+Ooh, I don't think I'm okay, 'kay, hmm
+It feels so good to say
+I, I don't think I'm okay
+And that's okay
 
-But when they're looking for a call, they want to say hi — 可当他们想打电话、说声嗨  
-They wonder if the person they knew's still inside — 他们想知道，他们认识的那个人还在不在里面  
-Seems so simple, it's really so hard — 听起来很简单，其实真的很难  
-I don't want nobody to see my ugly heart — 我不想让任何人看见我丑陋的心  
-To see my ugly scars — 看见我丑陋的伤疤  
+#### Verse 2
 
-### Chorus（重复）
+Time is moving faster, it isn't slowing down
+I miss being a kid, I miss the way the thunder sounds, sounds
+Ooh, maybe it's my dream that killed my self-esteem
+Got so good at being someone else
+Maybe I lost myself
+In the search of your acceptance
 
-*(同第一段副歌)*
+But when they're looking for a call, they want to say hi
+They wonder if the person they knew's still inside
+Seems so simple, it's really so hard
+I don't want nobody to see my ugly heart
+To see my ugly scars
+
+#### Chorus（重复）
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我有一年多没见妈妈了
+就算见面，她也知道「这里的不是我」
+因为我总在云端，像漂在太空里
+只希望在太晚之前还能抱她一下
+
+朋友们只想打个电话，说声嗨
+他们想知道，他们认识的那个人还在不在里面
+听起来很简单，其实真的很难
+
+#### Chorus
+
+哦，我觉得我不太好
+哦，我觉得我不太好，好吗，嗯
+说出来感觉真好
+我，我觉得我不太好
+而这样也可以
+
+#### Verse 2
+
+时间走得更快了，没有慢下来
+我想念当小孩，想念雷声的那种感觉
+哦，也许是梦想杀死了我的自尊
+太擅长扮演别人了
+也许我把自己弄丢了
+在追寻你们的认可时
+
+可当他们想打电话、说声嗨
+他们想知道，他们认识的那个人还在不在里面
+听起来很简单，其实真的很难
+我不想让任何人看见我丑陋的心
+看见我丑陋的伤疤
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
 
 ## 重点表达 · Key Phrases
 

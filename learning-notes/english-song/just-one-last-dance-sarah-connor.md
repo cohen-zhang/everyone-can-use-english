@@ -61,70 +61,138 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Just one last dance — 就再跳最后一支舞  
-Just one last dance — 就再跳最后一支舞  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-We meet in the night in the Spanish café — 我们夜里在西班牙咖啡馆相遇  
-I look in your eyes, just don't know what to say — 我望着你的眼睛，不知该说什么  
-It feels like I'm drowning in salty water — 感觉自己正沉进咸咸的水里  
-A few hours left 'til the sun's gonna rise — 离日出只剩几个小时  
-Tomorrow will come, it's time to realize — 明天会来，是时候认清现实  
-Our love has finished forever — 我们的爱已经永远结束了  
+Just one last dance
+Just one last dance
 
-### Pre-Chorus
+#### Verse 1
 
-How I wish to come with you — 我多希望能跟你走  
-How I wish we make it through — 我多希望我们能撑过去  
+We meet in the night in the Spanish café
+I look in your eyes, just don't know what to say
+It feels like I'm drowning in salty water
+A few hours left 'til the sun's gonna rise
+Tomorrow will come, it's time to realize
+Our love has finished forever
 
-### Chorus
+#### Pre-Chorus
 
-Just one last dance — 就再跳最后一支舞  
-Before we say goodbye — 在我们说再见之前  
-When we sway and turn around, around, around — 当我们摇摆、转圈、转圈、转圈  
-It's like the first time — 就像第一次那样  
+How I wish to come with you
+How I wish we make it through
 
-Just one more chance — 就再给我一次机会  
-Hold me tight and keep me warm — 抱紧我，给我温暖  
-'Cause the night is getting cold — 因为夜越来越冷  
-And I don't know where I belong — 而我不知道自己属于哪里  
-Just one last dance — 就再跳最后一支舞  
+#### Chorus
 
-### Verse 2
+Just one last dance
+Before we say goodbye
+When we sway and turn around, around, around
+It's like the first time
 
-The wine and the lights and the Spanish guitar — 酒、灯光，还有西班牙吉他  
-I'll never forget how romantic they are — 我永远忘不了它们有多浪漫  
-But I know, tomorrow I'll lose the one I love — 可我知道，明天我会失去我爱的人  
+Just one more chance
+Hold me tight and keep me warm
+'Cause the night is getting cold
+And I don't know where I belong
+Just one last dance
 
-### Pre-Chorus 2
+#### Verse 2
 
-There's no way to come with you — 没法跟你走  
-It's the only thing to do — 只能这么做了  
+The wine and the lights and the Spanish guitar
+I'll never forget how romantic they are
+But I know, tomorrow I'll lose the one I love
 
-### Chorus（重复）
+#### Pre-Chorus 2
+
+There's no way to come with you
+It's the only thing to do
+
+#### Chorus（重复）
+
+#### Final Chorus / Outro
+
+Just one last dance
+Before we say goodbye
+When we sway and turn around, around, around
+It's like the first time
+
+Just one more chance
+Hold me tight and keep me warm
+'Cause the night is getting cold
+And I don't know where I belong
+
+Just one last dance
+And just one more chance
+And just one last dance
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+就再跳最后一支舞
+就再跳最后一支舞
+
+#### Verse 1
+
+我们夜里在西班牙咖啡馆相遇
+我望着你的眼睛，不知该说什么
+感觉自己正沉进咸咸的水里
+离日出只剩几个小时
+明天会来，是时候认清现实
+我们的爱已经永远结束了
+
+#### Pre-Chorus
+
+我多希望能跟你走
+我多希望我们能撑过去
+
+#### Chorus
+
+就再跳最后一支舞
+在我们说再见之前
+当我们摇摆、转圈、转圈、转圈
+就像第一次那样
+
+就再给我一次机会
+抱紧我，给我温暖
+因为夜越来越冷
+而我不知道自己属于哪里
+就再跳最后一支舞
+
+#### Verse 2
+
+酒、灯光，还有西班牙吉他
+我永远忘不了它们有多浪漫
+可我知道，明天我会失去我爱的人
+
+#### Pre-Chorus 2
+
+没法跟你走
+只能这么做了
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Final Chorus / Outro
+#### Final Chorus / Outro
 
-Just one last dance — 就再跳最后一支舞  
-Before we say goodbye — 在我们说再见之前  
-When we sway and turn around, around, around — 当我们摇摆、转圈、转圈、转圈  
-It's like the first time — 就像第一次那样  
+就再跳最后一支舞
+在我们说再见之前
+当我们摇摆、转圈、转圈、转圈
+就像第一次那样
 
-Just one more chance — 就再给我一次机会  
-Hold me tight and keep me warm — 抱紧我，给我温暖  
-'Cause the night is getting cold — 因为夜越来越冷  
-And I don't know where I belong — 而我不知道自己属于哪里  
+就再给我一次机会
+抱紧我，给我温暖
+因为夜越来越冷
+而我不知道自己属于哪里
 
-Just one last dance — 就再跳最后一支舞  
-And just one more chance — 再给我一次机会  
-And just one last dance — 就再跳最后一支舞  
-
----
+就再跳最后一支舞
+再给我一次机会
+就再跳最后一支舞
 
 ## 重点表达 · Key Phrases
 

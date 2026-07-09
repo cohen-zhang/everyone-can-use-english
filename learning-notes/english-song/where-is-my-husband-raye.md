@@ -62,93 +62,182 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo) — 宝贝（呜呼），我丈夫到底在哪？（呜呼）  
-What is taking him so long (whoo-hoo) to find me? — 他怎么找我找了这么久？（呜呼）  
-Oh, baby, where the hell is my lover? — 哦宝贝，我的爱人到底在哪？  
-Getting down with another? (Whoo-hoo, yeah) — 是不是正跟别人玩得起劲？（呜呼，yeah）  
-Tell him if you see him, baby, if you see him, tell him (tell him) — 要是你看见他，宝贝，看见了就告诉他（告诉他）  
-He should holler — 让他喊一声、联系我  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-Why is this beautiful man waiting for me to get old? — 这帅哥干嘛非等我变老？  
-Why he already testing my patience? — 他怎么已经在考验我的耐心？  
-I only fear he's taking time with other women that ain't me — 我只怕他正跟别的女人耗时间，而不是我  
-While I've been reviewing applications — 而我这边还在审「求爱简历」  
-Wait 'til I get my hands on him, I'ma tell him off too — 等我逮到他，我可要好好训他一顿  
-For how long he kept me waiting, anticipating — 就为他让我等了这么久、盼了这么久  
-Praying to the Lord to give him to my loving arms — 向上帝祷告，把他送到我怀里  
-And despite my frustrations — 尽管我很烦躁  
+Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo)
+What is taking him so long (whoo-hoo) to find me?
+Oh, baby, where the hell is my lover?
+Getting down with another? (Whoo-hoo, yeah)
+Tell him if you see him, baby, if you see him, tell him (tell him)
+He should holler
 
-### Pre-Chorus
+#### Verse 1
 
-And he must need me (he must need me) — 他一定需要我（他一定需要我）  
-Completely (completely) — 完完全全地（完完全全）  
-How my heart yearns for him — 我的心有多渴望他  
-Is he far away? (Is he far away?) — 他在很远的地方吗？（他在很远吗？）  
-Is he okay? (Is he okay?) — 他还好吗？（他还好吗？）  
-This man is testing me, uh-huh, uh-huh — 这男人在考验我，嗯哼，嗯哼  
-Uh, help me, help me, help me, Lord — 呃，帮帮我，帮帮我，主啊  
-I need you to tell me — 我需要你告诉我  
+Why is this beautiful man waiting for me to get old?
+Why he already testing my patience?
+I only fear he's taking time with other women that ain't me
+While I've been reviewing applications
+Wait 'til I get my hands on him, I'ma tell him off too
+For how long he kept me waiting, anticipating
+Praying to the Lord to give him to my loving arms
+And despite my frustrations
 
-### Chorus（重复）
+#### Pre-Chorus
 
-*(同第一段副歌)*
+And he must need me (he must need me)
+Completely (completely)
+How my heart yearns for him
+Is he far away? (Is he far away?)
+Is he okay? (Is he okay?)
+This man is testing me, uh-huh, uh-huh
+Uh, help me, help me, help me, Lord
+I need you to tell me
 
-### Verse 2
+#### Chorus（重复）
 
-I'm doing lonely acrobatics, unzipping my dress at 2 a.m. — 我在做孤独的杂技：凌晨两点自己解裙子  
-And I'm tired of living like this — 我受够了这样过日子  
-He must be out there getting ready, tryna fix up his tie — 他一定在外头准备着，正努力打好领带  
-Uh, huh-huh, uh, hello? This where your wife is — 呃，嗯哼，喂？你老婆在这儿呢  
-Wait 'til I get your heart going, I'ma turn it up too — 等我把你的心跳弄起来，我也要把火力开大  
-For how much I'm 'bout to love ya, no one above ya — 就冲我马上要给你的爱，没人能排你上面  
-Praying to the Lord to hurry, hurry you along — 求主赶紧、赶紧把你推过来  
-Baby, I intend to rush ya — 宝贝，我打算催你一把  
+#### Verse 2
 
-### Pre-Chorus & Chorus（重复）
+I'm doing lonely acrobatics, unzipping my dress at 2 a.m.
+And I'm tired of living like this
+He must be out there getting ready, tryna fix up his tie
+Uh, huh-huh, uh, hello? This where your wife is
+Wait 'til I get your heart going, I'ma turn it up too
+For how much I'm 'bout to love ya, no one above ya
+Praying to the Lord to hurry, hurry you along
+Baby, I intend to rush ya
+
+#### Pre-Chorus & Chorus（重复）
 
 *(同第一段 Pre-Chorus 与 Chorus)*
 
-### Bridge
+#### Bridge
 
-T-t-t-tell him I'm mm, tell him I'm mm, with the mm, mm, mm — 告、告、告诉他我……嗯，告诉他我……带着……嗯嗯嗯  
-Tell him I'm kind, tell him I'm 5'5" — 告诉他我人心好，告诉他我身高五英尺五  
-Tell him I got brown eyes and a growing fear — 告诉他我有棕色眼睛，还有越来越大的恐惧  
-That if he doesn't find me now, I'm gonna die alone, so can he — 要是他现在还不来找我，我就要孤独终老——所以他能不能  
-Uh, uh, uh, uh, uh, hurry up here, sir? — 呃呃呃，快点过来好吗，先生？  
-I want it, want it, want it, want it, want it — 我想要、想要、想要、想要、想要  
+T-t-t-tell him I'm mm, tell him I'm mm, with the mm, mm, mm
+Tell him I'm kind, tell him I'm 5'5"
+Tell him I got brown eyes and a growing fear
+That if he doesn't find me now, I'm gonna die alone, so can he
+Uh, uh, uh, uh, uh, hurry up here, sir?
+I want it, want it, want it, want it, want it
 
-I would like a ring, I would like a ring — 我想要一枚戒指，我想要一枚戒指  
-I would like a diamond ring on my wedding finger — 我想要婚戒指上那枚钻戒  
-I would like a big and shiny diamond — 我想要一颗又大又闪的钻石  
-That I could wave around and talk and talk about it — 好让我晃给别人看，然后说个不停  
-And when the day is here, forgive me, God, that I could ever doubt it — 等那天真的来了，上帝原谅我吧，我居然还怀疑过  
+I would like a ring, I would like a ring
+I would like a diamond ring on my wedding finger
+I would like a big and shiny diamond
+That I could wave around and talk and talk about it
+And when the day is here, forgive me, God, that I could ever doubt it
 
-Until death, I do, I do, I do, I — 至死不渝，我愿意、我愿意、我愿意  
-Is he about it, 'bout it, 'bout it? — 他到底上不上心、认不认真？  
-This man is testing me, uh-huh, uh-huh — 这男人在考验我，嗯哼，嗯哼  
-Uh, help me, help me, help me, Lord — 呃，帮帮我，帮帮我，主啊  
-I need you to tell me — 我需要你告诉我  
+Until death, I do, I do, I do, I
+Is he about it, 'bout it, 'bout it?
+This man is testing me, uh-huh, uh-huh
+Uh, help me, help me, help me, Lord
+I need you to tell me
 
-### Final Chorus / Outro
+#### Final Chorus / Outro
 
-Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo) — 宝贝（呜呼），我丈夫到底在哪？（呜呼）  
-What is taking him so long (whoo-hoo) to find me? — 他怎么找我找了这么久？（呜呼）  
-Oh, baby, where the hell is my lover? — 哦宝贝，我的爱人到底在哪？  
-Getting down with another? (Whoo-hoo, yeah) — 是不是正跟别人玩得起劲？（呜呼，yeah）  
-Tell him that my grandma said it, tell him grandma said it — 告诉他我奶奶说了，告诉他奶奶说了  
-(Your husband is coming) — （你的丈夫快来了）  
+Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo)
+What is taking him so long (whoo-hoo) to find me?
+Oh, baby, where the hell is my lover?
+Getting down with another? (Whoo-hoo, yeah)
+Tell him that my grandma said it, tell him grandma said it
+(Your husband is coming)
 
-I would like a ring, I would like a ring — 我想要一枚戒指，我想要一枚戒指  
-I would like a diamond ring on my wedding finger — 我想要婚戒指上那枚钻戒  
-I would like a big and shiny (ooh) diamond (yes), diamond (yes) — 我想要一颗又大又闪的（ooh）钻石（yes），钻石（yes）  
-Diamond (yes), diamond (yes), diamond (yes), oh — 钻石（yes），钻石（yes），钻石（yes），哦  
-Where is my husband? (Ah) — 我丈夫在哪？（啊）  
+I would like a ring, I would like a ring
+I would like a diamond ring on my wedding finger
+I would like a big and shiny (ooh) diamond (yes), diamond (yes)
+Diamond (yes), diamond (yes), diamond (yes), oh
+Where is my husband? (Ah)
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+宝贝（呜呼），我丈夫到底在哪？（呜呼）
+他怎么找我找了这么久？（呜呼）
+哦宝贝，我的爱人到底在哪？
+是不是正跟别人玩得起劲？（呜呼，yeah）
+要是你看见他，宝贝，看见了就告诉他（告诉他）
+让他喊一声、联系我
+
+#### Verse 1
+
+这帅哥干嘛非等我变老？
+他怎么已经在考验我的耐心？
+我只怕他正跟别的女人耗时间，而不是我
+而我这边还在审「求爱简历」
+等我逮到他，我可要好好训他一顿
+就为他让我等了这么久、盼了这么久
+向上帝祷告，把他送到我怀里
+尽管我很烦躁
+
+#### Pre-Chorus
+
+他一定需要我（他一定需要我）
+完完全全地（完完全全）
+我的心有多渴望他
+他在很远的地方吗？（他在很远吗？）
+他还好吗？（他还好吗？）
+这男人在考验我，嗯哼，嗯哼
+呃，帮帮我，帮帮我，主啊
+我需要你告诉我
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Verse 2
+
+我在做孤独的杂技：凌晨两点自己解裙子
+我受够了这样过日子
+他一定在外头准备着，正努力打好领带
+呃，嗯哼，喂？你老婆在这儿呢
+等我把你的心跳弄起来，我也要把火力开大
+就冲我马上要给你的爱，没人能排你上面
+求主赶紧、赶紧把你推过来
+宝贝，我打算催你一把
+
+#### Pre-Chorus & Chorus（重复）
+
+#### Bridge
+
+告、告、告诉他我……嗯，告诉他我……带着……嗯嗯嗯
+告诉他我人心好，告诉他我身高五英尺五
+告诉他我有棕色眼睛，还有越来越大的恐惧
+要是他现在还不来找我，我就要孤独终老——所以他能不能
+呃呃呃，快点过来好吗，先生？
+我想要、想要、想要、想要、想要
+
+我想要一枚戒指，我想要一枚戒指
+我想要婚戒指上那枚钻戒
+我想要一颗又大又闪的钻石
+好让我晃给别人看，然后说个不停
+等那天真的来了，上帝原谅我吧，我居然还怀疑过
+
+至死不渝，我愿意、我愿意、我愿意
+他到底上不上心、认不认真？
+这男人在考验我，嗯哼，嗯哼
+呃，帮帮我，帮帮我，主啊
+我需要你告诉我
+
+#### Final Chorus / Outro
+
+宝贝（呜呼），我丈夫到底在哪？（呜呼）
+他怎么找我找了这么久？（呜呼）
+哦宝贝，我的爱人到底在哪？
+是不是正跟别人玩得起劲？（呜呼，yeah）
+告诉他我奶奶说了，告诉他奶奶说了
+（你的丈夫快来了）
+
+我想要一枚戒指，我想要一枚戒指
+我想要婚戒指上那枚钻戒
+我想要一颗又大又闪的（ooh）钻石（yes），钻石（yes）
+钻石（yes），钻石（yes），钻石（yes），哦
+我丈夫在哪？（啊）
 
 ## 重点表达 · Key Phrases
 

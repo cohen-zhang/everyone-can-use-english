@@ -59,97 +59,182 @@ aliases:
 
 > 部分歌词含 AAVE 与粗口语境，为歌曲原词；学习时注意语境与场合。
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### Intro
 
 Julie — Julie  
 Julie — Julie  
 
-### Verse 1
+#### Verse 1
 
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Let me put that anesthetic on you — 让我给你上点麻醉  
+Don't leave me until the morning
+If you're hurting
+Let me put that anesthetic on you
 Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Promise I can make it better for you — 我保证能为你好起来  
+Don't leave me until the morning
+If you're hurting
+Promise I can make it better for you
 
-### Verse 2
+#### Verse 2
 
-I messed up the past — 我把过去搞砸了  
-Don't gotta go, packing your bags — 不必收拾行李就走  
-Can a nigga save face? (Can a nigga save face?) — 还能挽回面子吗？（还能挽回面子吗？）  
-Before you leave him at the runway — 趁你还没在登机口抛下他  
-Know I kept rolling the dice — 你知道我一直在赌  
-Hit a nerve once or twice, slipped on the ice — 戳了一两次痛处，在冰上滑倒  
-Cold as it was, I got the message — 再冷我也读懂了  
-Heard that you told your friends — 听说你跟朋友说了  
-I learned my lessons — 我学到教训了  
+I messed up the past
+Don't gotta go, packing your bags
+Can a nigga save face? (Can a nigga save face?)
+Before you leave him at the runway
+Know I kept rolling the dice
+Hit a nerve once or twice, slipped on the ice
+Cold as it was, I got the message
+Heard that you told your friends
+I learned my lessons
 
-### Pre-Chorus / Chorus
+#### Pre-Chorus / Chorus
 
-So baby, why do you keep running away? (Running away) — 宝贝，你为什么一直逃跑？（逃跑）  
-Why don't you stay? (Why don't you stay) — 为什么不留下？（为什么不留下）  
-I swear I'll be true (I swear I'll be true) — 我发誓我会真心（我发誓我会真心）  
-No carbon-based life form — 碳基生命（凡人）  
-Could ever make a mistake (make a mistake) — 都会犯错（都会犯错）  
-Time can't erase (time can't erase) — 时间抹不掉（时间抹不掉）  
-Or we can't undo (we can't undo) — 我们也无法撤销（我们也无法撤销）  
-Julie — Julie  
-
-### Verse 3（重复 Verse 1 结构）
-
-Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Let me put that anesthetic on you — 让我给你上点麻醉  
-Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Promise I can make it better for you — 我保证能为你好起来  
-
-### Bridge
-
-Woh oh — 喔哦  
-I know I can get lost in space baby — 宝贝，我知道我会迷失在太空  
-But you know I care for you — 但你知道我在乎你  
-You-ooh-ooh — 你——哦——  
-Soon as I'm glued to the hallucination — 一旦我黏在那幻觉上  
-Your vibrations always cut through — 你的振动总能穿透过来  
-
-### Chorus（重复）
-
-So tell me why do you keep running away? (Keep running away) — 告诉我，你为什么一直逃跑？（一直逃跑）  
-Why don't you stay? (Why don't you stay) — 为什么不留下？（为什么不留下）  
-I swear I'll be true (I swear I'll be true) — 我发誓我会真心（我发誓我会真心）  
-No carbon-based life form — 碳基生命（凡人）  
-Could ever make a mistake (can make a mistake) — 都会犯错（都会犯错）  
-Time can't erase (time can't erase) — 时间抹不掉（时间抹不掉）  
-Or we can't undo (we can't undo, do do) — 我们也无法撤销（我们也无法撤销）  
+So baby, why do you keep running away? (Running away)
+Why don't you stay? (Why don't you stay)
+I swear I'll be true (I swear I'll be true)
+No carbon-based life form
+Could ever make a mistake (make a mistake)
+Time can't erase (time can't erase)
+Or we can't undo (we can't undo)
 Julie — Julie  
 
-### Outro
-
-Julie (oh oh yeah) — Julie（哦哦耶）  
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Let me put that anesthetic on you — 让我给你上点麻醉  
-Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
-If you're hurting — 如果你在痛  
-Promise I can make it better for you — 我保证能为你好起来  
+#### Verse 3（重复 Verse 1 结构）
 
 Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
+Don't leave me until the morning
+If you're hurting
+Let me put that anesthetic on you
 Julie — Julie  
-Don't leave me until the morning — 别走，至少待到早上  
-Oh oh — 哦哦  
+Don't leave me until the morning
+If you're hurting
+Promise I can make it better for you
+
+#### Bridge
+
+Woh oh
+I know I can get lost in space baby
+But you know I care for you
+You-ooh-ooh
+Soon as I'm glued to the hallucination
+Your vibrations always cut through
+
+#### Chorus（重复）
+
+So tell me why do you keep running away? (Keep running away)
+Why don't you stay? (Why don't you stay)
+I swear I'll be true (I swear I'll be true)
+No carbon-based life form
+Could ever make a mistake (can make a mistake)
+Time can't erase (time can't erase)
+Or we can't undo (we can't undo, do do)
 Julie — Julie  
 
-It's happening — 正在发生  
-It's happening — 正在发生  
+#### Outro
+
+Julie (oh oh yeah)
+Don't leave me until the morning
+If you're hurting
+Let me put that anesthetic on you
+Julie — Julie  
+Don't leave me until the morning
+If you're hurting
+Promise I can make it better for you
+
+Julie — Julie  
+Don't leave me until the morning
+Julie — Julie  
+Don't leave me until the morning
+Oh oh
+Julie — Julie  
+
+It's happening
+It's happening
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+#### Verse 1
+
+别走，至少待到早上
+如果你在痛
+让我给你上点麻醉
+别走，至少待到早上
+如果你在痛
+我保证能为你好起来
+
+#### Verse 2
+
+我把过去搞砸了
+不必收拾行李就走
+还能挽回面子吗？（还能挽回面子吗？）
+趁你还没在登机口抛下他
+你知道我一直在赌
+戳了一两次痛处，在冰上滑倒
+再冷我也读懂了
+听说你跟朋友说了
+我学到教训了
+
+#### Pre-Chorus / Chorus
+
+宝贝，你为什么一直逃跑？（逃跑）
+为什么不留下？（为什么不留下）
+我发誓我会真心（我发誓我会真心）
+碳基生命（凡人）
+都会犯错（都会犯错）
+时间抹不掉（时间抹不掉）
+我们也无法撤销（我们也无法撤销）
+
+#### Verse 3（重复 Verse 1 结构）
+
+别走，至少待到早上
+如果你在痛
+让我给你上点麻醉
+别走，至少待到早上
+如果你在痛
+我保证能为你好起来
+
+#### Bridge
+
+喔哦
+宝贝，我知道我会迷失在太空
+但你知道我在乎你
+你——哦——
+一旦我黏在那幻觉上
+你的振动总能穿透过来
+
+#### Chorus（重复）
+
+告诉我，你为什么一直逃跑？（一直逃跑）
+为什么不留下？（为什么不留下）
+我发誓我会真心（我发誓我会真心）
+碳基生命（凡人）
+都会犯错（都会犯错）
+时间抹不掉（时间抹不掉）
+我们也无法撤销（我们也无法撤销）
+
+#### Outro
+
+Julie（哦哦耶）
+别走，至少待到早上
+如果你在痛
+让我给你上点麻醉
+别走，至少待到早上
+如果你在痛
+我保证能为你好起来
+
+别走，至少待到早上
+别走，至少待到早上
+哦哦
+
+正在发生
+正在发生
 
 ## 重点表达 · Key Phrases
 

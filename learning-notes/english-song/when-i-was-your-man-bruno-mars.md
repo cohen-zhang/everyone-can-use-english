@@ -63,66 +63,130 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Same bed but it feels just a little bit bigger now — 还是同一张床，却觉得稍微空了一点  
-Our song on the radio but it don't sound the same — 电台放着我们的歌，听起来却不一样了  
-When our friends talk about you — 朋友们一聊到你  
-All it does is just tear me down — 只会把我一点点撕碎  
-'Cause my heart breaks a little — 因为我的心会轻轻碎一下  
-When I hear your name — 每当听到你的名字  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-It all just sounds like ooh-ooh, ooh-ooh — 一切听起来只剩 ooh-ooh、ooh-ooh  
-Mmm, too young, too dumb to realize — 嗯，太年轻、太傻，没明白  
+Same bed but it feels just a little bit bigger now
+Our song on the radio but it don't sound the same
+When our friends talk about you
+All it does is just tear me down
+'Cause my heart breaks a little
+When I hear your name
 
-### Chorus
+#### Pre-Chorus
 
-That I should've bought you flowers — 我本该给你买花  
-And held your hand — 牵着你的手  
-Should've gave you all my hours — 本该把所有时间都给你  
-When I had the chance — 在我还有机会的时候  
-Take you to every party — 带你去每一个派对  
-'Cause all you wanted to do was dance — 因为你只想跳舞  
-Now my baby's dancing — 现在我的宝贝在跳舞  
-But she's dancing with another man — 可她是在和别人跳  
+It all just sounds like ooh-ooh, ooh-ooh
+Mmm, too young, too dumb to realize
 
-### Verse 2
+#### Chorus
 
-My pride, my ego, my needs, and my selfish ways — 我的骄傲、自我、需求，还有自私的那一套  
-Caused a good strong woman like you — 害得像你这样坚强又好的女人  
-To walk out my life — 走出了我的生活  
-Now I never, never get to clean up the mess I made — 如今我再也没法收拾自己捅的娄子  
-And it haunts me every time I close my eyes — 每次闭上眼，它都缠着我  
+That I should've bought you flowers
+And held your hand
+Should've gave you all my hours
+When I had the chance
+Take you to every party
+'Cause all you wanted to do was dance
+Now my baby's dancing
+But she's dancing with another man
 
-### Pre-Chorus & Chorus（重复）
+#### Verse 2
+
+My pride, my ego, my needs, and my selfish ways
+Caused a good strong woman like you
+To walk out my life
+Now I never, never get to clean up the mess I made
+And it haunts me every time I close my eyes
+
+#### Pre-Chorus & Chorus（重复）
 
 *(同前：too young, too dumb… → should've bought you flowers…)*
 
-### Bridge
+#### Bridge
 
-Although it hurts — 虽然很痛  
-I'll be the first to say that I was wrong — 我愿意第一个承认：是我错了  
-Oh, I know I'm probably much too late — 哦，我知道大概已经太晚  
-To try and apologize for my mistakes — 再想为错误道歉  
-But I just want you to know — 但我只想让你知道  
+Although it hurts
+I'll be the first to say that I was wrong
+Oh, I know I'm probably much too late
+To try and apologize for my mistakes
+But I just want you to know
 
-### Final Chorus
+#### Final Chorus
 
-I hope he buys you flowers — 希望他会给你买花  
-I hope he holds your hand — 希望他会牵你的手  
-Give you all his hours — 把所有时间都给你  
-When he has the chance — 在他有机会的时候  
-Take you to every party — 带你去每一个派对  
-'Cause I remember how much you loved to dance — 因为我记得你有多爱跳舞  
-Do all the things I should have done — 做所有我本该做的事  
-When I was your man — 在我还是你男人的时候  
+I hope he buys you flowers
+I hope he holds your hand
+Give you all his hours
+When he has the chance
+Take you to every party
+'Cause I remember how much you loved to dance
+Do all the things I should have done
+When I was your man
 
-Do all the things I should have done — 做所有我本该做的事  
-When I was your man — 在我还是你男人的时候  
+Do all the things I should have done
+When I was your man
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+还是同一张床，却觉得稍微空了一点
+电台放着我们的歌，听起来却不一样了
+朋友们一聊到你
+只会把我一点点撕碎
+因为我的心会轻轻碎一下
+每当听到你的名字
+
+#### Pre-Chorus
+
+一切听起来只剩 ooh-ooh、ooh-ooh
+嗯，太年轻、太傻，没明白
+
+#### Chorus
+
+我本该给你买花
+牵着你的手
+本该把所有时间都给你
+在我还有机会的时候
+带你去每一个派对
+因为你只想跳舞
+现在我的宝贝在跳舞
+可她是在和别人跳
+
+#### Verse 2
+
+我的骄傲、自我、需求，还有自私的那一套
+害得像你这样坚强又好的女人
+走出了我的生活
+如今我再也没法收拾自己捅的娄子
+每次闭上眼，它都缠着我
+
+#### Pre-Chorus & Chorus（重复）
+
+#### Bridge
+
+虽然很痛
+我愿意第一个承认：是我错了
+哦，我知道大概已经太晚
+再想为错误道歉
+但我只想让你知道
+
+#### Final Chorus
+
+希望他会给你买花
+希望他会牵你的手
+把所有时间都给你
+在他有机会的时候
+带你去每一个派对
+因为我记得你有多爱跳舞
+做所有我本该做的事
+在我还是你男人的时候
+
+做所有我本该做的事
+在我还是你男人的时候
 
 ## 重点表达 · Key Phrases
 

@@ -63,69 +63,138 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Share my life — 分享我的人生吧  
-Take me for what I am — 接受真实的我  
-'Cause I'll never change — 因为我不会改变  
-All my colors for you — 不会为你改掉自己的底色  
+### 英文歌词 · English Lyrics
 
-Take my love — 收下我的爱  
-I'll never ask for too much — 我从不会要得太多  
-Just all that you are — 只要你的全部  
-And everything that you do — 和你所做的一切  
+#### Verse 1
 
-### Pre-Chorus
+Share my life
+Take me for what I am
+'Cause I'll never change
+All my colors for you
 
-I don't really need to look very much further — 我其实不必再往别处找  
-I don't wanna have to go — 我不想不得不离开  
-Where you don't follow — 去到你不会跟着来的地方  
-I will hold it back again — 我又一次把这份热情压住  
-This passion inside — 心里这股激情  
-Can't run from myself — 我逃不开自己  
-There's nowhere to hide — 无处可藏  
+Take my love
+I'll never ask for too much
+Just all that you are
+And everything that you do
 
-### Chorus
+#### Pre-Chorus
 
-But don't make me close one more door — 别再逼我关上另一扇门  
-I don't wanna hurt anymore — 我不想再受伤了  
-Stay in my arms if you dare — 你敢的话，就留在我怀里  
-Or must I imagine you there? — 还是我只能想象你在？  
-Don't walk away from me — 别离我而去  
-I have nothing, nothing, nothing — 我一无所有、一无所有、一无所有  
-If I don't have you, you, you, you — 如果没有你、没有你  
+I don't really need to look very much further
+I don't wanna have to go
+Where you don't follow
+I will hold it back again
+This passion inside
+Can't run from myself
+There's nowhere to hide
 
-### Verse 2
+#### Chorus
 
-You see through — 你看穿了  
-Right to the heart of me — 直抵我内心  
-You break down my walls — 你拆掉我的墙  
-With the strength of your love — 用你爱的力量  
+But don't make me close one more door
+I don't wanna hurt anymore
+Stay in my arms if you dare
+Or must I imagine you there?
+Don't walk away from me
+I have nothing, nothing, nothing
+If I don't have you, you, you, you
 
-I never knew — 我从不知道  
-Love like I've known it with you — 爱可以像和你在一起这样  
-Will a memory survive? — 一段记忆能留下来吗？  
-One I can hold on to — 一段我能抓住的  
+#### Verse 2
 
-### Pre-Chorus & Chorus（重复）
+You see through
+Right to the heart of me
+You break down my walls
+With the strength of your love
 
-*(同第一段 Pre-Chorus 与 Chorus；末句可加 Your love, I'll remember forever — 你的爱，我会永远记得)*
+I never knew
+Love like I've known it with you
+Will a memory survive?
+One I can hold on to
 
-### Final Chorus / Outro
+#### Pre-Chorus & Chorus（重复）
 
-Don't make me close one more door — 别再逼我关上另一扇门  
-I don't wanna hurt anymore — 我不想再受伤了  
-Stay in my arms if you dare — 你敢的话，就留在我怀里  
-Or must I imagine you there? — 还是我只能想象你在？  
-Don't walk away from me — 别离我而去  
-Don't walk away from me — 别离我而去  
+*(同第一段 Pre-Chorus 与 Chorus；末句可加 Your love, I'll remember forever
 
-Don't you dare walk away from me — 你敢走试试  
-I have nothing, nothing, nothing — 我一无所有、一无所有、一无所有  
-If I don't have you, you — 如果没有你  
-If I don't have you, oh, you — 如果没有你，哦，你  
+#### Final Chorus / Outro
+
+Don't make me close one more door
+I don't wanna hurt anymore
+Stay in my arms if you dare
+Or must I imagine you there?
+Don't walk away from me
+Don't walk away from me
+
+Don't you dare walk away from me
+I have nothing, nothing, nothing
+If I don't have you, you
+If I don't have you, oh, you
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+分享我的人生吧
+接受真实的我
+因为我不会改变
+不会为你改掉自己的底色
+
+收下我的爱
+我从不会要得太多
+只要你的全部
+和你所做的一切
+
+#### Pre-Chorus
+
+我其实不必再往别处找
+我不想不得不离开
+去到你不会跟着来的地方
+我又一次把这份热情压住
+心里这股激情
+我逃不开自己
+无处可藏
+
+#### Chorus
+
+别再逼我关上另一扇门
+我不想再受伤了
+你敢的话，就留在我怀里
+还是我只能想象你在？
+别离我而去
+我一无所有、一无所有、一无所有
+如果没有你、没有你
+
+#### Verse 2
+
+你看穿了
+直抵我内心
+你拆掉我的墙
+用你爱的力量
+
+我从不知道
+爱可以像和你在一起这样
+一段记忆能留下来吗？
+一段我能抓住的
+
+#### Pre-Chorus & Chorus（重复）
+
+你的爱，我会永远记得)*
+
+#### Final Chorus / Outro
+
+别再逼我关上另一扇门
+我不想再受伤了
+你敢的话，就留在我怀里
+还是我只能想象你在？
+别离我而去
+别离我而去
+
+你敢走试试
+我一无所有、一无所有、一无所有
+如果没有你
+如果没有你，哦，你
 
 ## 重点表达 · Key Phrases
 

@@ -61,58 +61,111 @@ This version is Rhys Lewis's **cover** of **Noah Cyrus**'s **"July"**, recorded 
 
 > 本版为 Rhys Lewis 翻唱 Noah Cyrus 原曲。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I've been holding my breath — 我一直憋着气  
-I've been counting to ten — 数到十  
-Over something you said — 因为你说的某句话  
-And I've been holding back tears — 我一直忍着眼泪  
-While you're throwing back beers — 而你一杯接一杯地灌啤酒  
-I'm alone in bed — 我独自躺在床上  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-You know I, I'm afraid of change — 你知道我，我怕改变  
-I guess that's why we stay the same — 我想这就是为什么我们一成不变  
+I've been holding my breath
+I've been counting to ten
+Over something you said
+And I've been holding back tears
+While you're throwing back beers
+I'm alone in bed
 
-### Chorus
+#### Pre-Chorus
 
-So tell me to leave — 那就叫我走  
-I'll pack my bags, get on the road — 我会收拾行李上路  
-Find someone that loves you — 去找一个更爱你的人  
-Better than I do, darling, I know — 比我更爱你，亲爱的，我知道  
-That you remind me every day — 你每天提醒  
-I'm not enough, but I still stay — 我不够好，可我还留着  
+You know I, I'm afraid of change
+I guess that's why we stay the same
 
-If you want me to leave — 如果你想让我走  
-Just tell me to leave and baby I'll go — 开口就行，宝贝，我会走  
+#### Chorus
 
-### Verse 2
+So tell me to leave
+I'll pack my bags, get on the road
+Find someone that loves you
+Better than I do, darling, I know
+That you remind me every day
+I'm not enough, but I still stay
 
-It feels like a lifetime just trying to get by — 光是熬过去就像一辈子  
-When we're dying inside — 我们内心都在枯萎  
-I've done a lot of things wrong — 我做过很多错事  
-Loving you being one — 爱你就是其中之一  
-But I can't move on — 但我走不出来  
+If you want me to leave
+Just tell me to leave and baby I'll go
 
-### Pre-Chorus（重复）
+#### Verse 2
+
+It feels like a lifetime just trying to get by
+When we're dying inside
+I've done a lot of things wrong
+Loving you being one
+But I can't move on
+
+#### Pre-Chorus（重复）
+
+#### Chorus（重复）
+
+#### Outro
+
+Baby I'll go
+Baby I'll go
+Baby I'll go
+'Cause you remind me every day
+I'm not enough, but I still stay
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我一直憋着气
+数到十
+因为你说的某句话
+我一直忍着眼泪
+而你一杯接一杯地灌啤酒
+我独自躺在床上
+
+#### Pre-Chorus
+
+你知道我，我怕改变
+我想这就是为什么我们一成不变
+
+#### Chorus
+
+那就叫我走
+我会收拾行李上路
+去找一个更爱你的人
+比我更爱你，亲爱的，我知道
+你每天提醒
+我不够好，可我还留着
+
+如果你想让我走
+开口就行，宝贝，我会走
+
+#### Verse 2
+
+光是熬过去就像一辈子
+我们内心都在枯萎
+我做过很多错事
+爱你就是其中之一
+但我走不出来
+
+#### Pre-Chorus（重复）
 
 *(同第一段)*
 
-### Chorus（重复）
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Outro
+#### Outro
 
-Baby I'll go — 宝贝，我会走  
-Baby I'll go — 宝贝，我会走  
-Baby I'll go — 宝贝，我会走  
-'Cause you remind me every day — 因为你每天提醒  
-I'm not enough, but I still stay — 我不够好，可我还留着  
+宝贝，我会走
+宝贝，我会走
+宝贝，我会走
+因为你每天提醒
+我不够好，可我还留着
 *(以上五句重复多遍至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

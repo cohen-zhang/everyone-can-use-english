@@ -22,7 +22,12 @@ aliases:
 
 > 依据 Child's Play / Jess Stockham 版与配套 CD 整理（廖彩杏书单常用本）。每节前两行固定；第三、四行随车辆变化。部分版本第一节用 **pufferbellies**、**station master**、*Puff, puff, toot, toot*，本绘本用 **puffer trains**、**engine driver**、*CHUFF!*
 
-### 1 · Puffer trains 蒸汽小火车
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 1 · Puffer trains 蒸汽小火车
 
 Down by the station,  
 Early in the morning,  
@@ -31,9 +36,9 @@ All in a row.
 See the **engine driver**  
 Pull the little handle;  
 **CHUFF! CHUFF! CHUFF!**  
-And off we go! — 大清早车站边，喷气小火车排成排；火车司机拉把手——嚓呋！出发啦！
+And off we go!
 
-### 2 · Busy buses 公交车
+#### 2 · Busy buses 公交车
 
 Down by the station,  
 Early in the morning,  
@@ -42,9 +47,9 @@ All in a row.
 See the **bus driver**  
 Calling to the passengers;  
 **BRRM! BRRM! BRRM!**  
-And off we go! — Busy buses 排成排；司机喊乘客上车——嗡！出发！
+And off we go!
 
-### 3 · Muddy tractors 拖拉机
+#### 3 · Muddy tractors 拖拉机
 
 Down by the station,  
 Early in the morning,  
@@ -53,9 +58,9 @@ All in a row.
 See the **tractor driver**  
 Loading up the trailer;  
 **CHUG! CHUG! CHUG!**  
-And off we go! — 沾泥的拖拉机；司机往拖车上装货——恰咯！出发！
+And off we go!
 
-### 4 · Shiny taxi cabs 出租车
+#### 4 · Shiny taxi cabs 出租车
 
 Down by the station,  
 Early in the morning,  
@@ -64,9 +69,9 @@ All in a row.
 See the **taxi driver**  
 Polishing the windows;  
 **BEEP! BEEP! BEEP!**  
-And off we go! — 锃亮出租车；司机擦车窗——嘀！出发！
+And off we go!
 
-### 5 · Great big trucks 大货车
+#### 5 · Great big trucks 大货车
 
 Down by the station,  
 Early in the morning,  
@@ -75,9 +80,9 @@ All in a row.
 See the **truck driver**  
 Loading up the parcels;  
 **HONK! HONK! HONK!**  
-And off we go! — 大卡车；司机装包裹——叭！出发！
+And off we go!
 
-### 6 · Fire engines 消防车
+#### 6 · Fire engines 消防车
 
 Down by the station,  
 Early in the morning,  
@@ -86,9 +91,35 @@ All in a row.
 See the **fire fighter**  
 Climbing up the ladder;  
 **NEE! NOR! NEE! NOR!**  
-And off we go! — 消防车；消防员爬梯子——呜啦！出发！
+And off we go!
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### 1 · Puffer trains 蒸汽小火车
+
+大清早车站边，喷气小火车排成排；火车司机拉把手——嚓呋！出发啦！
+
+#### 2 · Busy buses 公交车
+
+Busy buses 排成排；司机喊乘客上车——嗡！出发！
+
+#### 3 · Muddy tractors 拖拉机
+
+沾泥的拖拉机；司机往拖车上装货——恰咯！出发！
+
+#### 4 · Shiny taxi cabs 出租车
+
+锃亮出租车；司机擦车窗——嘀！出发！
+
+#### 5 · Great big trucks 大货车
+
+大卡车；司机装包裹——叭！出发！
+
+#### 6 · Fire engines 消防车
+
+消防车；消防员爬梯子——呜啦！出发！
 
 ## 跟唱提示 · Sing-along tips
 

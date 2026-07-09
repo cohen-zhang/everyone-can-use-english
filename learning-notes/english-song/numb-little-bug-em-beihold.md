@@ -60,60 +60,118 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I don't feel a single thing — 我什么都感觉不到  
-Have the pills done too much? — 是药下太猛了吗？  
-Haven't caught up with my friends in weeks — 好几周没跟朋友们联系了  
-And now we're out of touch — 现在我们渐渐疏远了  
+### 英文歌词 · English Lyrics
 
-I've been driving in L.A. — 我一直在洛杉矶开车  
-And the world, it feels too big — 这世界大得让我承受不了  
-Like a floating ball that's bound to break — 像颗随时会碎的气球  
-Snap my psyche like a twig — 把我的精神像小树枝一样折断  
+#### Verse 1
 
-And I just wanna see if you feel the same as me — 我只是想知道，你是不是也和我一样  
+I don't feel a single thing
+Have the pills done too much?
+Haven't caught up with my friends in weeks
+And now we're out of touch
 
-### Chorus
+I've been driving in L.A.
+And the world, it feels too big
+Like a floating ball that's bound to break
+Snap my psyche like a twig
 
-Do you ever get a little bit tired of life? — 你有没有偶尔觉得，生活有点累？  
-Like you're not really happy, but you don't wanna die — 不算真的开心，但也不想死  
-Like you're hanging by a thread, but you gotta survive — 像悬在一根线上，但你还得活下去  
-'Cause you gotta survive — 因为你得活下去  
+And I just wanna see if you feel the same as me
 
-Like your body's in the room, but you're not really there — 身体在房间里，人却不在场  
-Like you have empathy inside, but you don't really care — 心里该有共情，却其实不在乎  
-Like you're fresh out of love, but it's been in the air — 像刚把爱用完，可爱还在空气里  
-Am I past repair? — 我是不是已经修不好了？  
+#### Chorus
 
-A little bit tired of trying to care when I don't — 有点累：明明不在乎还要假装去在乎  
-A little bit tired of quick repairs to cope — 有点累：靠各种临时办法应付  
-A little bit tired of sinking, there's water in my boat — 有点累：船在沉，舱里进水了  
-I'm barely breathing, trying to stay afloat — 我勉强喘着气，努力不沉下去  
-So, I've got these quick repairs to cope — 所以，我用这些临时办法应付  
-Guess I'm just broken and broke — 大概我就是又坏又穷吧  
+Do you ever get a little bit tired of life?
+Like you're not really happy, but you don't wanna die
+Like you're hanging by a thread, but you gotta survive
+'Cause you gotta survive
 
-### Verse 2
+Like your body's in the room, but you're not really there
+Like you have empathy inside, but you don't really care
+Like you're fresh out of love, but it's been in the air
+Am I past repair?
 
-The prescription's on its way — 处方已经在路上了  
-With a name I can't pronounce — 药名我念都念不对  
-And the dose I gotta take — 该吃的剂量  
-Boy, I wish that I could count — 天啊，真希望我能数清楚  
+A little bit tired of trying to care when I don't
+A little bit tired of quick repairs to cope
+A little bit tired of sinking, there's water in my boat
+I'm barely breathing, trying to stay afloat
+So, I've got these quick repairs to cope
+Guess I'm just broken and broke
 
-'Cause I just want to see if this could make me happy — 因为我只想看看，这能不能让我开心一点  
+#### Verse 2
 
-### Chorus（重复）
+The prescription's on its way
+With a name I can't pronounce
+And the dose I gotta take
+Boy, I wish that I could count
+
+'Cause I just want to see if this could make me happy
+
+#### Chorus（重复）
+
+#### Final Chorus
+
+Do you ever get a little bit tired of life?
+Like you're not really happy, but you don't wanna die
+Like a numb little bug that's gotta survive
+That's gotta survive
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我什么都感觉不到
+是药下太猛了吗？
+好几周没跟朋友们联系了
+现在我们渐渐疏远了
+
+我一直在洛杉矶开车
+这世界大得让我承受不了
+像颗随时会碎的气球
+把我的精神像小树枝一样折断
+
+我只是想知道，你是不是也和我一样
+
+#### Chorus
+
+你有没有偶尔觉得，生活有点累？
+不算真的开心，但也不想死
+像悬在一根线上，但你还得活下去
+因为你得活下去
+
+身体在房间里，人却不在场
+心里该有共情，却其实不在乎
+像刚把爱用完，可爱还在空气里
+我是不是已经修不好了？
+
+有点累：明明不在乎还要假装去在乎
+有点累：靠各种临时办法应付
+有点累：船在沉，舱里进水了
+我勉强喘着气，努力不沉下去
+所以，我用这些临时办法应付
+大概我就是又坏又穷吧
+
+#### Verse 2
+
+处方已经在路上了
+药名我念都念不对
+该吃的剂量
+天啊，真希望我能数清楚
+
+因为我只想看看，这能不能让我开心一点
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Final Chorus
+#### Final Chorus
 
-Do you ever get a little bit tired of life? — 你有没有偶尔觉得，生活有点累？  
-Like you're not really happy, but you don't wanna die — 不算真的开心，但也不想死  
-Like a numb little bug that's gotta survive — 像只麻木的小虫，还得活下去  
-That's gotta survive — 还得活下去  
-
----
+你有没有偶尔觉得，生活有点累？
+不算真的开心，但也不想死
+像只麻木的小虫，还得活下去
+还得活下去
 
 ## 重点表达 · Key Phrases
 

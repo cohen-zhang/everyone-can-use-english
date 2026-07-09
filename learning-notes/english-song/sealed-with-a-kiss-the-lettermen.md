@@ -59,60 +59,118 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Today I woke up at nine — 今早九点醒来  
-With so much on my mind — 心里装了太多话  
-So much to say — 想说的事堆成山  
-There was not enough time — 当面却来不及说完  
-You're cute and you're swell — 你又可爱又讨人喜欢  
-And everyone can tell — 谁都看得出来  
-That I've fallen head over heels over you — 我已为你神魂颠倒  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-And they all get tired — 朋友们都听腻了  
-When I sit and talk about you — 我一坐下就聊你  
-They say that they've heard it all — 他们说早就听够了  
-And you're the one I should tell — 而你才是我该倾诉的人  
+Today I woke up at nine
+With so much on my mind
+So much to say
+There was not enough time
+You're cute and you're swell
+And everyone can tell
+That I've fallen head over heels over you
 
-### Chorus
+#### Pre-Chorus
 
-So I'll write it — 所以我要写下来  
-And seal it with a kiss just for you — 以吻封缄，只为你  
-Seal it with a kiss just for you — 以吻封缄，只为你  
+And they all get tired
+When I sit and talk about you
+They say that they've heard it all
+And you're the one I should tell
 
-### Verse 2
+#### Chorus
 
-It's hard to know where to start — 不知该从哪下笔  
-So hard to open my heart — 把心敞开好难  
-Not knowing what my words may impart — 不知这些话会带给你什么  
-You're the guy I adore — 你是我爱慕的人  
-And I just can't ignore — 我无法忽视  
-That each day I like you — 每一天我都更喜欢你  
-More than the day before — 胜过前一天  
+So I'll write it
+And seal it with a kiss just for you
+Seal it with a kiss just for you
 
-### Chorus（重复）
+#### Verse 2
+
+It's hard to know where to start
+So hard to open my heart
+Not knowing what my words may impart
+You're the guy I adore
+And I just can't ignore
+That each day I like you
+More than the day before
+
+#### Chorus（重复）
+
+#### Bridge / Outro
+
+So I'll rewrite and revise it
+There's no way to deny it
+And hope this message comes through
+That I'm crazy about you
+So I'll write it
+And seal it with a kiss just for you
+
+So I'll rewrite and revise it
+There's no way to deny it
+As I bring this letter to a close
+With love, XOXO
+And I'll sign it
+And seal it with a kiss just for you
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+今早九点醒来
+心里装了太多话
+想说的事堆成山
+当面却来不及说完
+你又可爱又讨人喜欢
+谁都看得出来
+我已为你神魂颠倒
+
+#### Pre-Chorus
+
+朋友们都听腻了
+我一坐下就聊你
+他们说早就听够了
+而你才是我该倾诉的人
+
+#### Chorus
+
+所以我要写下来
+以吻封缄，只为你
+以吻封缄，只为你
+
+#### Verse 2
+
+不知该从哪下笔
+把心敞开好难
+不知这些话会带给你什么
+你是我爱慕的人
+我无法忽视
+每一天我都更喜欢你
+胜过前一天
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge / Outro
+#### Bridge / Outro
 
-So I'll rewrite and revise it — 我会一改再改  
-There's no way to deny it — 没法否认  
-And hope this message comes through — 但愿这份心意能传到你心里  
-That I'm crazy about you — 我为你疯狂  
-So I'll write it — 所以我要写下来  
-And seal it with a kiss just for you — 以吻封缄，只为你  
+我会一改再改
+没法否认
+但愿这份心意能传到你心里
+我为你疯狂
+所以我要写下来
+以吻封缄，只为你
 
-So I'll rewrite and revise it — 我会一改再改  
-There's no way to deny it — 没法否认  
-As I bring this letter to a close — 当我要结束这封信  
-With love, XOXO — 爱你的，亲亲抱抱  
-And I'll sign it — 我会署名  
-And seal it with a kiss just for you — 以吻封缄，只为你  
-
----
+我会一改再改
+没法否认
+当我要结束这封信
+爱你的，亲亲抱抱
+我会署名
+以吻封缄，只为你
 
 ## 重点表达 · Key Phrases
 

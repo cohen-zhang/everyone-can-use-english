@@ -60,55 +60,108 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Summer has come and passed — 夏天来了又走了  
-The innocent can never last — 天真的日子总留不住  
-Wake me up when September ends — 九月过完再叫醒我  
+### 英文歌词 · English Lyrics
 
-Like my father's come to pass — 就像我父亲已经离去  
-Seven years has gone so fast — 七年过得好快  
-Wake me up when September ends — 九月过完再叫醒我  
+#### Verse 1
 
-### Chorus
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
 
-Here comes the rain again — 雨又来了  
-Falling from the stars — 从星星上落下来  
-Drenched in my pain again — 又一次被痛浸透  
-Becoming who we are — 我们慢慢变成现在的自己  
+Like my father's come to pass
+Seven years has gone so fast
+Wake me up when September ends
 
-As my memory rests — 记忆暂时歇下  
-But never forgets what I lost — 却从未忘记我失去的  
-Wake me up when September ends — 九月过完再叫醒我  
+#### Chorus
 
-### Verse 2
+Here comes the rain again
+Falling from the stars
+Drenched in my pain again
+Becoming who we are
 
-Summer has come and passed — 夏天来了又走了  
-The innocent can never last — 天真的日子总留不住  
-Wake me up when September ends — 九月过完再叫醒我  
+As my memory rests
+But never forgets what I lost
+Wake me up when September ends
 
-Ring out the bells again — 钟声再一次敲响  
-Like we did when spring began — 像春天刚开始时那样  
-Wake me up when September ends — 九月过完再叫醒我  
+#### Verse 2
 
-### Chorus（重复）
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
+
+Ring out the bells again
+Like we did when spring began
+Wake me up when September ends
+
+#### Chorus（重复）
+
+#### Verse 3 / Outro
+
+Summer has come and passed
+The innocent can never last
+Wake me up when September ends
+
+Like my father's come to pass
+20 years has gone so fast
+Wake me up when September ends
+
+Wake me up when September ends
+Wake me up when September ends
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+夏天来了又走了
+天真的日子总留不住
+九月过完再叫醒我
+
+就像我父亲已经离去
+七年过得好快
+九月过完再叫醒我
+
+#### Chorus
+
+雨又来了
+从星星上落下来
+又一次被痛浸透
+我们慢慢变成现在的自己
+
+记忆暂时歇下
+却从未忘记我失去的
+九月过完再叫醒我
+
+#### Verse 2
+
+夏天来了又走了
+天真的日子总留不住
+九月过完再叫醒我
+
+钟声再一次敲响
+像春天刚开始时那样
+九月过完再叫醒我
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Verse 3 / Outro
+#### Verse 3 / Outro
 
-Summer has come and passed — 夏天来了又走了  
-The innocent can never last — 天真的日子总留不住  
-Wake me up when September ends — 九月过完再叫醒我  
+夏天来了又走了
+天真的日子总留不住
+九月过完再叫醒我
 
-Like my father's come to pass — 就像我父亲已经离去  
-20 years has gone so fast — 二十年过得好快  
-Wake me up when September ends — 九月过完再叫醒我  
+就像我父亲已经离去
+二十年过得好快
+九月过完再叫醒我
 
-Wake me up when September ends — 九月过完再叫醒我  
-Wake me up when September ends — 九月过完再叫醒我  
-
----
+九月过完再叫醒我
+九月过完再叫醒我
 
 ## 重点表达 · Key Phrases
 

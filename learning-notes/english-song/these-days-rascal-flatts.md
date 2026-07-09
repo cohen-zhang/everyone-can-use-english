@@ -60,59 +60,114 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Hey baby, is that you? — 嘿宝贝，是你吗？  
-Wow, your hair got so long — 哇，你头发好长了  
-Yeah, yeah, I love it, I really do — 嗯，我喜欢，真的  
-Norma Jean, ain't that the song we'd sing in the car — 《Norma Jean》，不就是我们在车里一起唱的那首吗  
-Drivin' downtown, top down, makin' the rounds — 开车进城，敞着篷，四处转悠  
-Checking out the bands on Doheny Avenue — 在 Doheny 大道上看乐队演出  
+### 英文歌词 · English Lyrics
 
-Yeah, life throws you curves — 是啊，生活总会给你曲线球  
-But you learned to swerve — 但你学会了闪避  
-Me, I swung and I missed — 而我挥棒却落空  
-And the next thing ya know, I'm reminiscin' — 接着就开始回忆  
-Dreaming old dreams, wishing old wishes — 做旧梦，许旧愿  
-Like you would be back again — 好像你会回来  
+#### Verse 1
 
-### Chorus
+Hey baby, is that you?
+Wow, your hair got so long
+Yeah, yeah, I love it, I really do
+Norma Jean, ain't that the song we'd sing in the car
+Drivin' downtown, top down, makin' the rounds
+Checking out the bands on Doheny Avenue
 
-I wake up and teardrops, they fall down like rain — 醒来泪滴如雨下  
-I put on that old song we danced to and then — 放上那首我们一起跳舞的老歌  
-I head off into my job, guess not much has changed — 然后去上班，好像也没什么变  
-Punch the clock, head for home — 打卡下班，往家走  
-Check the phone, just in case — 查查手机，万一有消息  
-Go to bed, dream of you — 上床睡觉，梦里见你  
-That's what I'm doin' these days — 这些日子我就是这样过的  
-Yeah, that's what I'm doin' — 是啊，我就是这样过的  
+Yeah, life throws you curves
+But you learned to swerve
+Me, I swung and I missed
+And the next thing ya know, I'm reminiscin'
+Dreaming old dreams, wishing old wishes
+Like you would be back again
 
-### Verse 2
+#### Chorus
 
-Someone told me, after college, you ran off to Vegas — 有人说你大学毕业后跑去 Vegas  
-You married a rodeo cowboy, why? — 嫁了个 rodeo 牛仔，为什么？  
-That ain't the girl I knew — 那不像我认识的姑娘  
-Me, I've been a few places, mostly here and there once or twice — 我呢，去过一些地方，多半这里那里各一两次  
-Still sortin' out life, but I'm doin' all right — 还在理清人生，但还算过得去  
-Yeah, it's good to see you, too — 嗯，也很高兴见到你  
+I wake up and teardrops, they fall down like rain
+I put on that old song we danced to and then
+I head off into my job, guess not much has changed
+Punch the clock, head for home
+Check the phone, just in case
+Go to bed, dream of you
+That's what I'm doin' these days
+Yeah, that's what I'm doin'
 
-### Verse 3
+#### Verse 2
 
-Well, hey girl, you're late — 嘿，姑娘，你要迟到了  
-And those planes, they don't wait — 飞机可不等人  
-But if you ever come back around this sleepy old town — 但若你哪天再回到这座沉睡的小镇  
-Promise me you'll stop in — 答应我会进来看看  
-To see an old friend, and until then — 见见老朋友；在那之前  
+Someone told me, after college, you ran off to Vegas
+You married a rodeo cowboy, why?
+That ain't the girl I knew
+Me, I've been a few places, mostly here and there once or twice
+Still sortin' out life, but I'm doin' all right
+Yeah, it's good to see you, too
 
-### Chorus（重复）
+#### Verse 3
+
+Well, hey girl, you're late
+And those planes, they don't wait
+But if you ever come back around this sleepy old town
+Promise me you'll stop in
+To see an old friend, and until then
+
+#### Chorus（重复）
+
+#### Outro（副歌重复，渐弱）
+
+*(Chorus lines repeated to the end; recording stacks *teardrops* / *old song*)*
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+嘿宝贝，是你吗？
+哇，你头发好长了
+嗯，我喜欢，真的
+《Norma Jean》，不就是我们在车里一起唱的那首吗
+开车进城，敞着篷，四处转悠
+在 Doheny 大道上看乐队演出
+
+是啊，生活总会给你曲线球
+但你学会了闪避
+而我挥棒却落空
+接着就开始回忆
+做旧梦，许旧愿
+好像你会回来
+
+#### Chorus
+
+醒来泪滴如雨下
+放上那首我们一起跳舞的老歌
+然后去上班，好像也没什么变
+打卡下班，往家走
+查查手机，万一有消息
+上床睡觉，梦里见你
+这些日子我就是这样过的
+是啊，我就是这样过的
+
+#### Verse 2
+
+有人说你大学毕业后跑去 Vegas
+嫁了个 rodeo 牛仔，为什么？
+那不像我认识的姑娘
+我呢，去过一些地方，多半这里那里各一两次
+还在理清人生，但还算过得去
+嗯，也很高兴见到你
+
+#### Verse 3
+
+嘿，姑娘，你要迟到了
+飞机可不等人
+但若你哪天再回到这座沉睡的小镇
+答应我会进来看看
+见见老朋友；在那之前
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Outro（副歌重复，渐弱）
-
-*(副歌句重复至结尾；录音中 teardrops / old song 两句会交错叠唱)*
-
----
+#### Outro（副歌重复，渐弱）
 
 ## 重点表达 · Key Phrases
 

@@ -64,89 +64,174 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Ooh, ooh, ooh, uh, no-no, oh-oh — 哦，哦，哦……  
-Ooh, wah-oh-oh-oh, ooh, wah-oh-oh-oh, woah — 哦，哇哦……  
-Ooh — 哦  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-Want to, but I can't help it, I love the way it feels — 想停，但忍不住，我爱这种感觉  
-This got me stuck between my fantasy and what is real — 这让我困在幻想与现实之间  
-I need it when I want it, I want it when I don't — 想要时需要，不需要时也想要  
-Tell myself I'll stop every day, knowing that I won't — 每天告诉自己会停，心里却知道不会  
+Ooh, ooh, ooh, uh, no-no, oh-oh
+Ooh, wah-oh-oh-oh, ooh, wah-oh-oh-oh, woah
+Ooh
 
-I got a problem, and I (don't know what to do about it) — 我有个问题，（不知该怎么办）  
-Even if I did, I don't know if I would quit, but I doubt it — 就算知道，也不确定会不会戒，我表示怀疑  
-I'm taken by the thought of it — 光想想我就沦陷了  
+#### Verse 1
 
-### Pre-Chorus
+Want to, but I can't help it, I love the way it feels
+This got me stuck between my fantasy and what is real
+I need it when I want it, I want it when I don't
+Tell myself I'll stop every day, knowing that I won't
 
-And I know this much is true — 而我很清楚这一点  
-Baby, you have become my addiction — 宝贝，你已成我的瘾  
-I'm so strung out on you — 我为你神魂颠倒  
-I can barely move, but I like it — 几乎动弹不得，但我喜欢  
+I got a problem, and I (don't know what to do about it)
+Even if I did, I don't know if I would quit, but I doubt it
+I'm taken by the thought of it
 
-### Chorus
+#### Pre-Chorus
 
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because — 全是因为  
-Never get enough — 永远不够  
-She's the sweetest drug (ooh, ooh, ooh) — 她是最甜的那种药（哦，哦，哦）  
+And I know this much is true
+Baby, you have become my addiction
+I'm so strung out on you
+I can barely move, but I like it
 
-### Verse 2
+#### Chorus
 
-Think of it every second, I can't get nothing done — 每秒都在想，什么事都做不成  
-Only concern is the next time I'm gon' get me some — 唯一惦记的是下次什么时候再得到  
-Know I should stay away from, 'cause it's no good for me — 知道该远离，因为对我不利  
-I try and try, but my obsession won't let me leave — 一再尝试，执念却不让我离开  
+And it's all because of you (all because of you)
+And it's all because of you (all because of you)
+And it's all because of you (all because of you)
+And it's all because
+Never get enough
+She's the sweetest drug (ooh, ooh, ooh)
 
-I got a problem, and I (don't know what to do about it) — 我有个问题，（不知该怎么办）  
-Even if I did, I don't know if I would quit, but I doubt it — 就算知道，也不确定会不会戒，我表示怀疑  
-I'm taken by the thought of it, hey — 光想想我就沦陷了，嘿  
+#### Verse 2
 
-### Pre-Chorus（重复）
+Think of it every second, I can't get nothing done
+Only concern is the next time I'm gon' get me some
+Know I should stay away from, 'cause it's no good for me
+I try and try, but my obsession won't let me leave
+
+I got a problem, and I (don't know what to do about it)
+Even if I did, I don't know if I would quit, but I doubt it
+I'm taken by the thought of it, hey
+
+#### Pre-Chorus（重复）
+
+#### Chorus（重复）
+
+#### Bridge
+
+Ain't no doubt (no doubt, hey)
+So strung out (strung out, oh, hey)
+Ain't no doubt (I said no ring of doubt, oh)
+So strung out (hey, ay, ay)
+Over you
+Over you (you)
+Over you (you, ooh, ooh-ooh, ooh)
+
+Oh-oh-oh-woah, because of you
+And it's all because of you
+Oh, no, never get enough
+She's the sweetest drug
+
+#### Final Pre-Chorus / Chorus
+
+And I know this much is true
+Baby, you have become my addiction (my addiction)
+I'm so strung out on you
+I can barely move, but I like it (but I like it, yeah)
+
+And it's all because of you (all because of you)
+And it's all because of you (all because of you)
+And it's all because of you (all because of you)
+And it's all because
+Never get enough (never get enough)
+She's the sweetest drug
+She's the sweetest drug
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+哦，哦，哦……
+哦，哇哦……
+哦
+
+#### Verse 1
+
+想停，但忍不住，我爱这种感觉
+这让我困在幻想与现实之间
+想要时需要，不需要时也想要
+每天告诉自己会停，心里却知道不会
+
+我有个问题，（不知该怎么办）
+就算知道，也不确定会不会戒，我表示怀疑
+光想想我就沦陷了
+
+#### Pre-Chorus
+
+而我很清楚这一点
+宝贝，你已成我的瘾
+我为你神魂颠倒
+几乎动弹不得，但我喜欢
+
+#### Chorus
+
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为
+永远不够
+她是最甜的那种药（哦，哦，哦）
+
+#### Verse 2
+
+每秒都在想，什么事都做不成
+唯一惦记的是下次什么时候再得到
+知道该远离，因为对我不利
+一再尝试，执念却不让我离开
+
+我有个问题，（不知该怎么办）
+就算知道，也不确定会不会戒，我表示怀疑
+光想想我就沦陷了，嘿
+
+#### Pre-Chorus（重复）
 
 *(同第一段)*
 
-### Chorus（重复）
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-Ain't no doubt (no doubt, hey) — 毫无疑问（毫无疑问，嘿）  
-So strung out (strung out, oh, hey) — 神魂颠倒（神魂颠倒，哦，嘿）  
-Ain't no doubt (I said no ring of doubt, oh) — 毫无疑问（我说毫无怀疑，哦）  
-So strung out (hey, ay, ay) — 神魂颠倒（嘿，诶，诶）  
-Over you — 为你  
-Over you (you) — 为你（你）  
-Over you (you, ooh, ooh-ooh, ooh) — 为你（你，哦……）  
+毫无疑问（毫无疑问，嘿）
+神魂颠倒（神魂颠倒，哦，嘿）
+毫无疑问（我说毫无怀疑，哦）
+神魂颠倒（嘿，诶，诶）
+为你
+为你（你）
+为你（你，哦……）
 
-Oh-oh-oh-woah, because of you — 哦哦哦哇，因为你  
-And it's all because of you — 全是因为你  
-Oh, no, never get enough — 哦不，永远不够  
-She's the sweetest drug — 她是最甜的那种药  
+哦哦哦哇，因为你
+全是因为你
+哦不，永远不够
+她是最甜的那种药
 
-### Final Pre-Chorus / Chorus
+#### Final Pre-Chorus / Chorus
 
-And I know this much is true — 而我很清楚这一点  
-Baby, you have become my addiction (my addiction) — 宝贝，你已成我的瘾（我的瘾）  
-I'm so strung out on you — 我为你神魂颠倒  
-I can barely move, but I like it (but I like it, yeah) — 几乎动弹不得，但我喜欢（但我喜欢，耶）  
+而我很清楚这一点
+宝贝，你已成我的瘾（我的瘾）
+我为你神魂颠倒
+几乎动弹不得，但我喜欢（但我喜欢，耶）
 
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because of you (all because of you) — 全是因为你（都是因为你）  
-And it's all because — 全是因为  
-Never get enough (never get enough) — 永远不够（永远不够）  
-She's the sweetest drug — 她是最甜的那种药  
-She's the sweetest drug — 她是最甜的那种药  
-
----
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为
+永远不够（永远不够）
+她是最甜的那种药
+她是最甜的那种药
 
 ## 重点表达 · Key Phrases
 

@@ -61,68 +61,134 @@ aliases:
 
 > 开场含粗口，为歌曲原词；学习时注意场合与版本（电台版会替换）。
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Baby squirrel, you's a sexy motherfucker — 小松鼠宝贝，你真他妈性感  
+### 英文歌词 · English Lyrics
+
+#### Intro
+
+Baby squirrel, you's a sexy motherfucker
 *(电台版常改为 sexy thing 等)*
 
-### Verse 1
+#### Verse 1
 
-Give me your, give me your — 给我你的，给我你的  
-Give me your attention, baby (attention, baby) — 把注意力给我，宝贝（注意力，宝贝）  
-I got to tell you a little something about yourself (self) — 我得跟你说点关于你的事  
-You're wonderful, flawless, ooh, you're a sexy lady (sexy lady) — 你很棒、完美，哦，你是个性感女士  
-But you walk around here like you wanna be someone else (else) — 可你在这儿走来走去，像想成为别人  
+Give me your, give me your
+Give me your attention, baby (attention, baby)
+I got to tell you a little something about yourself (self)
+You're wonderful, flawless, ooh, you're a sexy lady (sexy lady)
+But you walk around here like you wanna be someone else (else)
 
-### Pre-Chorus
+#### Pre-Chorus
 
-Oh, whoa — 哦，哇  
-I know that you don't know it — 我知道你不知道  
-But you're fine, so fine (fine, so fine) — 但你很美，非常美  
-Oh, whoa — 哦，哇  
-Oh girl, I'm gonna show you — 哦女孩，我要让你看见  
-When you're mine, oh, mine (mine, oh, mine) — 当你属于我，哦，属于我  
+Oh, whoa
+I know that you don't know it
+But you're fine, so fine (fine, so fine)
+Oh, whoa
+Oh girl, I'm gonna show you
+When you're mine, oh, mine (mine, oh, mine)
 
-### Chorus
+#### Chorus
 
-Treasure, that is what you are — 宝贝，你就是珍宝  
-Honey, you're my golden star — 亲爱的，你是我的金星  
-You know you can make my wish come true — 你知道你能让我愿望成真  
-If you let me treasure you — 若你愿意让我珍藏你  
-If you let me treasure you, oh, oh, oh — 若你愿意让我珍藏你，哦，哦，哦  
+Treasure, that is what you are
+Honey, you're my golden star
+You know you can make my wish come true
+If you let me treasure you
+If you let me treasure you, oh, oh, oh
 
-### Verse 2
+#### Verse 2
 
-Pretty girl, pretty girl, pretty girl — 漂亮女孩，漂亮女孩，漂亮女孩  
-You should be smiling (you should be smiling) — 你应该在笑  
-A girl like you should never look so blue (blue) — 像你这样的女孩不该这么忧郁  
-You're everything I see in my dreams — 你是我梦里看见的一切  
-I wouldn't say that to you if it wasn't true (true) — 若不是真的，我不会对你说  
+Pretty girl, pretty girl, pretty girl
+You should be smiling (you should be smiling)
+A girl like you should never look so blue (blue)
+You're everything I see in my dreams
+I wouldn't say that to you if it wasn't true (true)
 
-### Pre-Chorus（重复）
+#### Pre-Chorus（重复）
 
-Oh, whoa — 哦，哇  
-I know that you don't know it — 我知道你不知道  
-But you're fine, so fine (fine, so fine) — 但你很美，非常美  
-Oh, whoa — 哦，哇  
-Oh girl, I'm gonna show you — 哦女孩，我要让你看见  
-When you're mine, oh, mine (mine, oh, mine) — 当你属于我，哦，属于我  
+Oh, whoa
+I know that you don't know it
+But you're fine, so fine (fine, so fine)
+Oh, whoa
+Oh girl, I'm gonna show you
+When you're mine, oh, mine (mine, oh, mine)
 
-### Chorus（重复）
+#### Chorus（重复）
 
-Treasure, that is what you are — 宝贝，你就是珍宝  
-Honey, you're my golden star — 亲爱的，你是我的金星  
-You know you can make my wish come true — 你知道你能让我愿望成真  
-If you let me treasure you — 若你愿意让我珍藏你  
-If you let me treasure you, oh, oh, oh — 若你愿意让我珍藏你，哦，哦，哦  
+Treasure, that is what you are
+Honey, you're my golden star
+You know you can make my wish come true
+If you let me treasure you
+If you let me treasure you, oh, oh, oh
 
-### Outro
+#### Outro
 
-You are my treasure, you are my treasure — 你是我的珍宝，你是我的珍宝  
-You are my treasure, yeah, you, you, you, you are — 你是我的珍宝，对，你就是你  
-*(副歌重复与 ad-lib 至结尾)*
+You are my treasure, you are my treasure
+You are my treasure, yeah, you, you, you, you are
+*(Chorus repeats and ad-libs to the end)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+小松鼠宝贝，你真他妈性感
+
+#### Verse 1
+
+给我你的，给我你的
+把注意力给我，宝贝（注意力，宝贝）
+我得跟你说点关于你的事
+你很棒、完美，哦，你是个性感女士
+可你在这儿走来走去，像想成为别人
+
+#### Pre-Chorus
+
+哦，哇
+我知道你不知道
+但你很美，非常美
+哦，哇
+哦女孩，我要让你看见
+当你属于我，哦，属于我
+
+#### Chorus
+
+宝贝，你就是珍宝
+亲爱的，你是我的金星
+你知道你能让我愿望成真
+若你愿意让我珍藏你
+若你愿意让我珍藏你，哦，哦，哦
+
+#### Verse 2
+
+漂亮女孩，漂亮女孩，漂亮女孩
+你应该在笑
+像你这样的女孩不该这么忧郁
+你是我梦里看见的一切
+若不是真的，我不会对你说
+
+#### Pre-Chorus（重复）
+
+哦，哇
+我知道你不知道
+但你很美，非常美
+哦，哇
+哦女孩，我要让你看见
+当你属于我，哦，属于我
+
+#### Chorus（重复）
+
+宝贝，你就是珍宝
+亲爱的，你是我的金星
+你知道你能让我愿望成真
+若你愿意让我珍藏你
+若你愿意让我珍藏你，哦，哦，哦
+
+#### Outro
+
+你是我的珍宝，你是我的珍宝
+你是我的珍宝，对，你就是你
 
 ## 重点表达 · Key Phrases
 

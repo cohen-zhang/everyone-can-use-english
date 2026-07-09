@@ -58,65 +58,127 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Chorus（开篇）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Say it again, ooh honey — 再说一遍，哦亲爱的  
-Please say it one more time for me — 请再为我多说一次  
-I don't believe I heard you right — 我不敢相信我听对了  
-Did you say you love me, ummm — 你是不是说你爱我，嗯  
+### 英文歌词 · English Lyrics
 
-Say it again, ooh honey — 再说一遍，哦亲爱的  
-Please say it one more time for me — 请再为我多说一次  
-I don't believe I heard you right — 我不敢相信我听对了  
-Did you say you love me, ummm — 你是不是说你爱我，嗯  
+#### Chorus（开篇）
 
-### Verse 1
+Say it again, ooh honey
+Please say it one more time for me
+I don't believe I heard you right
+Did you say you love me, ummm
 
-We've been friends, real close friends for a long time — 我们是朋友，很久以来非常亲密的朋友  
-I can tell there's something heavy hangin on your mind — 我看得出你心里有件沉重的事  
-Actions speak louder than words — 行动比言语更有力  
-I was sure you said it right when you said last night — 昨晚你说的时候，我确定你没说错（指昨晚表白）  
-I love you, ow — 我爱你，哦  
+Say it again, ooh honey
+Please say it one more time for me
+I don't believe I heard you right
+Did you say you love me, ummm
 
-### Chorus
+#### Verse 1
+
+We've been friends, real close friends for a long time
+I can tell there's something heavy hangin on your mind
+Actions speak louder than words
+I was sure you said it right when you said last night
+I love you, ow
+
+#### Chorus
+
+Say it again and again and again and again
+
+#### Verse 2
+
+Sitting here with your head in a crazy spin
+Don't be afraid to let this love affair begin
+Hold me, tell me what's on your mind
+I'll always have the time to hear the words
+I love you (Ah)
+
+#### Chorus（重复）
+
+Say it again, ooh honey
+Please say it one more time for me
+I don't believe I heard you right
+Did you say you love me
+Say it again and again and again and again
+
+#### Bridge
+
+Oh, hold me, tell me what's on your mind
+I'll always have the time to hear the words
+I love you (Ah)
+
+#### Outro
+
+Did I hear you say you love me
+Did I hear you say, you love me, ow
+
+*(Chorus and ad-libs repeated to the end)*  
+I need to hear you say you love me
+Come on, come on, come on say it again
+Oh, I love you come on, come on
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus（开篇）
+
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信我听对了
+你是不是说你爱我，嗯
+
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信我听对了
+你是不是说你爱我，嗯
+
+#### Verse 1
+
+我们是朋友，很久以来非常亲密的朋友
+我看得出你心里有件沉重的事
+行动比言语更有力
+昨晚你说的时候，我确定你没说错（指昨晚表白）
+我爱你，哦
+
+#### Chorus
 
 *(同开篇副歌)*
 
-Say it again and again and again and again — 再说一遍，一遍又一遍  
+再说一遍，一遍又一遍
 
-### Verse 2
+#### Verse 2
 
-Sitting here with your head in a crazy spin — 坐在这儿，你的脑子乱成一团  
-Don't be afraid to let this love affair begin — 别害怕，让这段感情开始吧  
-Hold me, tell me what's on your mind — 抱着我，告诉我你在想什么  
-I'll always have the time to hear the words — 我永远有时间听你说  
-I love you (Ah) — 我爱你（啊）  
+坐在这儿，你的脑子乱成一团
+别害怕，让这段感情开始吧
+抱着我，告诉我你在想什么
+我永远有时间听你说
+我爱你（啊）
 
-### Chorus（重复）
+#### Chorus（重复）
 
-Say it again, ooh honey — 再说一遍，哦亲爱的  
-Please say it one more time for me — 请再为我多说一次  
-I don't believe I heard you right — 我不敢相信我听对了  
-Did you say you love me — 你是不是说你爱我  
-Say it again and again and again and again — 再说一遍，一遍又一遍  
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信我听对了
+你是不是说你爱我
+再说一遍，一遍又一遍
 
-### Bridge
+#### Bridge
 
-Oh, hold me, tell me what's on your mind — 哦，抱着我，告诉我你在想什么  
-I'll always have the time to hear the words — 我永远有时间听你说  
-I love you (Ah) — 我爱你（啊）  
+哦，抱着我，告诉我你在想什么
+我永远有时间听你说
+我爱你（啊）
 
-### Outro
+#### Outro
 
-Did I hear you say you love me — 我是不是听到你说爱我  
-Did I hear you say, you love me, ow — 我是不是听到你说，你爱我，哦  
+我是不是听到你说爱我
+我是不是听到你说，你爱我，哦
 
-*(副歌与 ad-lib 重复至结尾)*  
-I need to hear you say you love me — 我需要听你说爱我  
-Come on, come on, come on say it again — 来吧，来吧，再说一遍  
-Oh, I love you come on, come on — 哦，我爱你，来吧，来吧  
-
----
+我需要听你说爱我
+来吧，来吧，再说一遍
+哦，我爱你，来吧，来吧
 
 ## 重点表达 · Key Phrases
 

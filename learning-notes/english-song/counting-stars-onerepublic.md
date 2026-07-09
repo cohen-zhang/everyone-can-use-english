@@ -60,103 +60,197 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Lately, I've been, I've been losing sleep — 最近我一直、一直睡不着  
-Dreaming about the things that we could be — 梦见我们可能成为的样子  
-But baby, I've been, I've been praying hard — 可是宝贝，我一直在努力祈祷  
-Said, "No more counting dollars, we'll be counting stars" — 说：「别再数钞票，我们要数星星」  
-Yeah, we'll be counting stars — 是啊，我们要数星星
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-I see this life, like a swinging vine — 我把人生看成一根摆荡的藤  
-Swing my heart across the line — 把心荡过那条线  
-And in my face is flashing signs — 眼前闪过种种信号  
-Seek it out and ye shall find — 去寻找，你就会找到  
-Old, but I'm not that old — 老了，但我还没那么老  
-Young, but I'm not that bold — 年轻，但我还没那么敢  
-And I don't think the world is sold — 我不觉得世人全都信服  
-On just doing what we're told — 只是照别人说的做
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But baby, I've been, I've been praying hard
+Said, "No more counting dollars, we'll be counting stars"
+Yeah, we'll be counting stars
 
-### Pre-Chorus 1
+#### Verse 2
 
-I feel something so right, doing the wrong thing — 做错事时我反而觉得对  
-And I feel something so wrong, doing the right thing — 做对事时我反而觉得不对  
-I couldn't lie, couldn't lie, couldn't lie — 我没法骗自己，没法骗，没法骗  
-Everything that kills me makes me feel alive — 杀不死我的，让我更鲜活
+I see this life, like a swinging vine
+Swing my heart across the line
+And in my face is flashing signs
+Seek it out and ye shall find
+Old, but I'm not that old
+Young, but I'm not that bold
+And I don't think the world is sold
+On just doing what we're told
 
-### Chorus 1
+#### Pre-Chorus 1
 
-Lately, I've been, I've been losing sleep — 最近我一直、一直睡不着  
-Dreaming about the things that we could be — 梦见我们可能成为的样子  
-But baby, I've been, I've been praying hard — 可是宝贝，我一直在努力祈祷  
-Said, "No more counting dollars, we'll be counting stars" — 说：「别再数钞票，我们要数星星」  
-Yeah, we'll be counting stars — 是啊，我们要数星星
+I feel something so right, doing the wrong thing
+And I feel something so wrong, doing the right thing
+I couldn't lie, couldn't lie, couldn't lie
+Everything that kills me makes me feel alive
 
-### Chorus 2
+#### Chorus 1
 
-Lately, I've been, I've been losing sleep — 最近我一直、一直睡不着  
-Dreaming about the things we could be — 梦见我们能成为的样子  
-But baby, I've been, I've been praying hard — 可是宝贝，我一直在努力祈祷  
-Said, "No more counting dollars, we'll be, we'll be counting stars" — 说：「别再数钞票，我们要、要数星星」  
-Yeah — 是啊
+Lately, I've been, I've been losing sleep
+Dreaming about the things that we could be
+But baby, I've been, I've been praying hard
+Said, "No more counting dollars, we'll be counting stars"
+Yeah, we'll be counting stars
 
-### Verse 3
+#### Chorus 2
 
-I feel your love, and I feel it burn — 我感受到你的爱，感到它燃烧  
-Down this river, every turn — 顺这条河，每个转弯  
-Hope is our four-letter word — 希望是我们四个字母的词  
-Make that money, watch it burn — 把钱赚来，看它烧掉  
-Old, but I'm not that old — 老了，但我还没那么老  
-Young, but I'm not that bold — 年轻，但我还没那么敢  
-And I don't think the world is sold — 我不觉得世人全都信服  
-On just doing what we're told — 只是照别人说的做
+Lately, I've been, I've been losing sleep
+Dreaming about the things we could be
+But baby, I've been, I've been praying hard
+Said, "No more counting dollars, we'll be, we'll be counting stars"
+Yeah
 
-### Pre-Chorus 2
+#### Verse 3
 
-And I feel something so wrong, doing the right thing — 做对事时我反而觉得不对  
-I couldn't lie, couldn't lie, couldn't lie — 我没法骗自己，没法骗，没法骗  
-Everything that drowns me makes me wanna fly — 淹没我的，反而让我想飞
+I feel your love, and I feel it burn
+Down this river, every turn
+Hope is our four-letter word
+Make that money, watch it burn
+Old, but I'm not that old
+Young, but I'm not that bold
+And I don't think the world is sold
+On just doing what we're told
 
-### Chorus 3（重复）
+#### Pre-Chorus 2
 
-*(同 Chorus 2)*
+And I feel something so wrong, doing the right thing
+I couldn't lie, couldn't lie, couldn't lie
+Everything that drowns me makes me wanna fly
 
-### Chorus 4（重复）
-
-*(同 Chorus 2)*
-
-### Bridge
-
-Oh, take that money, watch it burn — 哦，把钱拿去，看它燃烧  
-Sink in the river the lessons I've learned — 沉入河里——我学到的教训  
-Take that money, watch it burn — 把钱拿去，看它燃烧  
-Sink in the river the lessons I've learned — 沉入河里——我学到的教训  
-Take that money, watch it burn — 把钱拿去，看它燃烧  
-Sink in the river the lessons I've learned — 沉入河里——我学到的教训  
-Take that money, watch it burn — 把钱拿去，看它燃烧  
-Sink in the river the lessons I've learned — 沉入河里——我学到的教训
-
-### Final Hook
-
-Everything that kills me makes me feel alive — 杀不死我的，让我更鲜活  
-
-### Chorus 5（重复）
+#### Chorus 3（重复）
 
 *(同 Chorus 2)*
 
-### Chorus 6（终段）
+#### Chorus 4（重复）
 
 *(同 Chorus 2)*
 
-### Outro
+#### Bridge
 
-Take that money, watch it burn — 把钱拿去，看它燃烧  
-Sink in the river the lessons I've learned — 沉入河里——我学到的教训  
-*(以上两句重复至结尾)*
+Oh, take that money, watch it burn
+Sink in the river the lessons I've learned
+Take that money, watch it burn
+Sink in the river the lessons I've learned
+Take that money, watch it burn
+Sink in the river the lessons I've learned
+Take that money, watch it burn
+Sink in the river the lessons I've learned
+
+#### Final Hook
+
+Everything that kills me makes me feel alive
+
+#### Chorus 5（重复）
+
+*(同 Chorus 2)*
+
+#### Chorus 6（终段）
+
+*(同 Chorus 2)*
+
+#### Outro
+
+Take that money, watch it burn
+Sink in the river the lessons I've learned
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+最近我一直、一直睡不着
+梦见我们可能成为的样子
+可是宝贝，我一直在努力祈祷
+说：「别再数钞票，我们要数星星」
+是啊，我们要数星星
+
+#### Verse 2
+
+我把人生看成一根摆荡的藤
+把心荡过那条线
+眼前闪过种种信号
+去寻找，你就会找到
+老了，但我还没那么老
+年轻，但我还没那么敢
+我不觉得世人全都信服
+只是照别人说的做
+
+#### Pre-Chorus 1
+
+做错事时我反而觉得对
+做对事时我反而觉得不对
+我没法骗自己，没法骗，没法骗
+杀不死我的，让我更鲜活
+
+#### Chorus 1
+
+最近我一直、一直睡不着
+梦见我们可能成为的样子
+可是宝贝，我一直在努力祈祷
+说：「别再数钞票，我们要数星星」
+是啊，我们要数星星
+
+#### Chorus 2
+
+最近我一直、一直睡不着
+梦见我们能成为的样子
+可是宝贝，我一直在努力祈祷
+说：「别再数钞票，我们要、要数星星」
+是啊
+
+#### Verse 3
+
+我感受到你的爱，感到它燃烧
+顺这条河，每个转弯
+希望是我们四个字母的词
+把钱赚来，看它烧掉
+老了，但我还没那么老
+年轻，但我还没那么敢
+我不觉得世人全都信服
+只是照别人说的做
+
+#### Pre-Chorus 2
+
+做对事时我反而觉得不对
+我没法骗自己，没法骗，没法骗
+淹没我的，反而让我想飞
+
+#### Chorus 3（重复）
+
+#### Chorus 4（重复）
+
+#### Bridge
+
+哦，把钱拿去，看它燃烧
+沉入河里——我学到的教训
+把钱拿去，看它燃烧
+沉入河里——我学到的教训
+把钱拿去，看它燃烧
+沉入河里——我学到的教训
+把钱拿去，看它燃烧
+沉入河里——我学到的教训
+
+#### Final Hook
+
+杀不死我的，让我更鲜活
+
+#### Chorus 5（重复）
+
+#### Chorus 6（终段）
+
+#### Outro
+
+把钱拿去，看它燃烧
+沉入河里——我学到的教训
+*(以上两句重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

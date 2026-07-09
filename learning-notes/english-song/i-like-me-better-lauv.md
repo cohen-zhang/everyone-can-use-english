@@ -59,69 +59,138 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-To be young and in love in New York City (In New York City) — 在纽约年轻且恋爱（在纽约）  
-To not know who I am, but still know that I'm good long as you're here with me — 不知自己是谁，但只要你在我就好  
-To be drunk and in love in New York City (In New York City) — 在纽约年轻、醉意与恋爱（在纽约）  
-Midnight into morning coffee — 从午夜喝到清晨咖啡  
-Burning through the hours talking — 聊着聊着把小时都烧光  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-Damn, I like me better when I'm with you — 该死，和你在一起我更喜欢自己  
-I like me better when I'm with you — 和你在一起我更喜欢自己  
-I knew from the first time — 我第一次就知道  
-I'd stay for a long time 'cause — 我会待很久，因为  
-I like me better when — 我更喜欢自己当  
-I like me better when I'm with you — 和你在一起我更喜欢自己  
+To be young and in love in New York City (In New York City)
+To not know who I am, but still know that I'm good long as you're here with me
+To be drunk and in love in New York City (In New York City)
+Midnight into morning coffee
+Burning through the hours talking
 
-### Verse 2
+#### Chorus
 
-I don't know what it is, but I got that feeling (got that feeling) — 说不清是什么，但我有那种感觉（有那种感觉）  
-Wakin' up in this bed next to you — 在你旁边这张床上醒来  
-Swear the room, yeah, got no ceiling — 发誓这房间，对，像没有天花板  
-If we lay, let the day just pass us by — 若我们躺着，让一天悄悄流过  
-I might get to too much talking — 我可能会说太多  
-I might have to tell you somethin' — 我可能要告诉你一些事  
+Damn, I like me better when I'm with you
+I like me better when I'm with you
+I knew from the first time
+I'd stay for a long time 'cause
+I like me better when
+I like me better when I'm with you
 
-### Chorus（重复）
+#### Verse 2
 
-Damn, I like me better when I'm with you — 该死，和你在一起我更喜欢自己  
-I like me better when I'm with you — 和你在一起我更喜欢自己  
-I knew from the first time — 我第一次就知道  
-I'd stay for a long time 'cause — 我会待很久，因为  
-I like me better when — 我更喜欢自己当  
-I like me better when I'm with you — 和你在一起我更喜欢自己  
+I don't know what it is, but I got that feeling (got that feeling)
+Wakin' up in this bed next to you
+Swear the room, yeah, got no ceiling
+If we lay, let the day just pass us by
+I might get to too much talking
+I might have to tell you somethin'
 
-### Bridge
+#### Chorus（重复）
 
-Stay awhile, stay awhile — 多待一会儿，多待一会儿  
-Stay here with me — 留在这里陪我  
-Stay awhile, stay awhile, oh — 多待一会儿，多待一会儿，哦  
+Damn, I like me better when I'm with you
+I like me better when I'm with you
+I knew from the first time
+I'd stay for a long time 'cause
+I like me better when
+I like me better when I'm with you
 
-Stay awhile, stay awhile — 多待一会儿，多待一会儿  
-Stay here with me — 留在这里陪我  
-Lay here with me — 躺在这里陪我  
-Eh-eh, eh-eh, oh — 诶诶，诶诶，哦  
+#### Bridge
 
-### Final Chorus
+Stay awhile, stay awhile
+Stay here with me
+Stay awhile, stay awhile, oh
 
-I like me better when I'm with you (yes I do, yes I do babe) — 和你在一起我更喜欢自己（是的，宝贝）  
-I like me better when I'm with you (oh no) — 和你在一起我更喜欢自己（哦不）  
-I knew from the first time — 我第一次就知道  
-I'd stay for a long time 'cause — 我会待很久，因为  
-I like me better when — 我更喜欢自己当  
-I like me better when I'm with you — 和你在一起我更喜欢自己  
+Stay awhile, stay awhile
+Stay here with me
+Lay here with me
+Eh-eh, eh-eh, oh
 
-### Outro
+#### Final Chorus
 
-(I like me, I like me) — （我喜欢自己，我喜欢自己）  
-(Look who you made me, made me, oh no) — （看你把我变成什么样，哦不）  
-(I like me better when) — （我更喜欢自己当）  
-I'm with you — 和你在一起  
+I like me better when I'm with you (yes I do, yes I do babe)
+I like me better when I'm with you (oh no)
+I knew from the first time
+I'd stay for a long time 'cause
+I like me better when
+I like me better when I'm with you
+
+#### Outro
+
+(I like me, I like me)
+(Look who you made me, made me, oh no)
+(I like me better when)
+I'm with you
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+在纽约年轻且恋爱（在纽约）
+不知自己是谁，但只要你在我就好
+在纽约年轻、醉意与恋爱（在纽约）
+从午夜喝到清晨咖啡
+聊着聊着把小时都烧光
+
+#### Chorus
+
+该死，和你在一起我更喜欢自己
+和你在一起我更喜欢自己
+我第一次就知道
+我会待很久，因为
+我更喜欢自己当
+和你在一起我更喜欢自己
+
+#### Verse 2
+
+说不清是什么，但我有那种感觉（有那种感觉）
+在你旁边这张床上醒来
+发誓这房间，对，像没有天花板
+若我们躺着，让一天悄悄流过
+我可能会说太多
+我可能要告诉你一些事
+
+#### Chorus（重复）
+
+该死，和你在一起我更喜欢自己
+和你在一起我更喜欢自己
+我第一次就知道
+我会待很久，因为
+我更喜欢自己当
+和你在一起我更喜欢自己
+
+#### Bridge
+
+多待一会儿，多待一会儿
+留在这里陪我
+多待一会儿，多待一会儿，哦
+
+多待一会儿，多待一会儿
+留在这里陪我
+躺在这里陪我
+诶诶，诶诶，哦
+
+#### Final Chorus
+
+和你在一起我更喜欢自己（是的，宝贝）
+和你在一起我更喜欢自己（哦不）
+我第一次就知道
+我会待很久，因为
+我更喜欢自己当
+和你在一起我更喜欢自己
+
+#### Outro
+
+（我喜欢自己，我喜欢自己）
+（看你把我变成什么样，哦不）
+（我更喜欢自己当）
+和你在一起
 
 ## 重点表达 · Key Phrases
 

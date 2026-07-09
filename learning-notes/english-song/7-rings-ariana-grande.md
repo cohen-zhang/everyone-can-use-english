@@ -62,79 +62,156 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Yeah, breakfast at Tiffany's and bottles of bubbles — 对，蒂芙尼早餐、香槟泡泡  
-Girls with tattoos who like getting in trouble — 纹身女孩、爱惹事  
-Lashes and diamonds, ATM machines — 假睫毛与钻石、提款机  
-Buy myself all of my favorite things (yeah) — 给自己买下所有最爱（耶）  
-Been through some bad shit, I should be a sad bitch — 经历过烂事，本该是个怨妇  
-Who woulda thought it'd turn me to a savage? — 谁想到反而让我变狠人？  
-Rather be tied up with calls and not strings — 宁愿被电话缠住，不要情丝牵绊  
-Write my own checks like I write what I sing, yeah — 自己开支票，像写歌一样自在，耶  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-My wrist, stop watchin', my neck is flossy — 别盯我手腕，我脖子闪得晃眼  
-Make big deposits, my gloss is poppin' — 大笔存款，唇彩亮得炸  
-You like my hair? Gee, thanks, just bought it — 喜欢这头发？谢啦，刚买的  
-I see it, I like it, I want it, I got it, yeah — 看见、喜欢、想要、到手，耶  
+Yeah, breakfast at Tiffany's and bottles of bubbles
+Girls with tattoos who like getting in trouble
+Lashes and diamonds, ATM machines
+Buy myself all of my favorite things (yeah)
+Been through some bad shit, I should be a sad bitch
+Who woulda thought it'd turn me to a savage?
+Rather be tied up with calls and not strings
+Write my own checks like I write what I sing, yeah
 
-### Chorus
+#### Pre-Chorus
 
-I want it, I got it, I want it, I got it — 想要就有，想要就有  
-I want it, I got it, I want it, I got it — 想要就有，想要就有  
-You like my hair? Gee, thanks, just bought it — 喜欢这头发？谢啦，刚买的  
-I see it, I like it, I want it, I got it (yep) — 看见、喜欢、想要、到手（对）  
+My wrist, stop watchin', my neck is flossy
+Make big deposits, my gloss is poppin'
+You like my hair? Gee, thanks, just bought it
+I see it, I like it, I want it, I got it, yeah
 
-### Verse 2
+#### Chorus
 
-Wearing a ring, but ain't gon' be no "Mrs." — 戴着戒指，但不会当「某某太太」  
-Bought matching diamonds for six of my bitches — 给六个闺蜜买了同款钻  
-I'd rather spoil all my friends with my riches — 宁愿用身家宠坏朋友们  
-Think retail therapy my new addiction — 购物疗愈成了新瘾  
-Whoever said money can't solve your problems — 谁说钱解决不了问题  
-Must not have had enough money to solve 'em — 一定是钱还不够多  
-They say, "Which one?", I say, "Nah, I want all of 'em" — 问「要哪个？」我说：「不，我全要」  
-Happiness is the same price as red-bottoms — 快乐和红底鞋一个价  
+I want it, I got it, I want it, I got it
+I want it, I got it, I want it, I got it
+You like my hair? Gee, thanks, just bought it
+I see it, I like it, I want it, I got it (yep)
 
-### Pre-Chorus（重复）
+#### Verse 2
 
-My smile is beamin' (yeah), my skin is gleamin' (is gleamin') — 笑容灿烂（耶），皮肤发亮（发亮）  
-The way it shine, I know you've seen it (you've seen it) — 那光泽，我知道你见过（你见过）  
-I bought a crib just for (just for) the closet (closet) — 买房就为了（就为了）衣帽间（衣帽间）  
-Both his and hers, I want it, I got it, yeah — 男女款都要，想要就有，耶  
+Wearing a ring, but ain't gon' be no "Mrs."
+Bought matching diamonds for six of my bitches
+I'd rather spoil all my friends with my riches
+Think retail therapy my new addiction
+Whoever said money can't solve your problems
+Must not have had enough money to solve 'em
+They say, "Which one?", I say, "Nah, I want all of 'em"
+Happiness is the same price as red-bottoms
 
-### Chorus（重复）
+#### Pre-Chorus（重复）
+
+My smile is beamin' (yeah), my skin is gleamin' (is gleamin')
+The way it shine, I know you've seen it (you've seen it)
+I bought a crib just for (just for) the closet (closet)
+Both his and hers, I want it, I got it, yeah
+
+#### Chorus（重复）
+
+#### Verse 3
+
+Yeah, my receipts be lookin' like phone numbers
+If it ain't money, then wrong number
+Black card is my business card
+The way it be settin' the tone for me
+I don't mean to brag, but I be like, "Put it in the bag," yeah
+When you see them racks, they stacked up like my ass, yeah
+
+Shoot, go from the store to the booth
+Make it all back in one loop, give me the loot
+Never mind, I got the juice
+Nothing but net when we shoot
+Look at my neck, look at my jet
+Ain't got enough money to pay me respect
+Ain't no budget when I'm on the set
+If I like it, then that's what I get, yeah
+
+#### Chorus（结尾）
+
+I want it, I got it, I want it, I got it (yeah)
+I want it, I got it, I want it, I got it (oh, yeah, yeah)
+You like my hair? Gee, thanks, just bought it
+I see it, I like it, I want it, I got it (yep)
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+对，蒂芙尼早餐、香槟泡泡
+纹身女孩、爱惹事
+假睫毛与钻石、提款机
+给自己买下所有最爱（耶）
+经历过烂事，本该是个怨妇
+谁想到反而让我变狠人？
+宁愿被电话缠住，不要情丝牵绊
+自己开支票，像写歌一样自在，耶
+
+#### Pre-Chorus
+
+别盯我手腕，我脖子闪得晃眼
+大笔存款，唇彩亮得炸
+喜欢这头发？谢啦，刚买的
+看见、喜欢、想要、到手，耶
+
+#### Chorus
+
+想要就有，想要就有
+想要就有，想要就有
+喜欢这头发？谢啦，刚买的
+看见、喜欢、想要、到手（对）
+
+#### Verse 2
+
+戴着戒指，但不会当「某某太太」
+给六个闺蜜买了同款钻
+宁愿用身家宠坏朋友们
+购物疗愈成了新瘾
+谁说钱解决不了问题
+一定是钱还不够多
+问「要哪个？」我说：「不，我全要」
+快乐和红底鞋一个价
+
+#### Pre-Chorus（重复）
+
+笑容灿烂（耶），皮肤发亮（发亮）
+那光泽，我知道你见过（你见过）
+买房就为了（就为了）衣帽间（衣帽间）
+男女款都要，想要就有，耶
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Verse 3
+#### Verse 3
 
-Yeah, my receipts be lookin' like phone numbers — 小票长得跟电话号码似的  
-If it ain't money, then wrong number — 不是钱的事，免谈  
-Black card is my business card — 黑卡就是我的名片  
-The way it be settin' the tone for me — 它替我定下了气场  
-I don't mean to brag, but I be like, "Put it in the bag," yeah — 不是炫耀，但我会说：「包起来」，耶  
-When you see them racks, they stacked up like my ass, yeah — 钞票摞起来，跟我身材一样翘，耶  
+小票长得跟电话号码似的
+不是钱的事，免谈
+黑卡就是我的名片
+它替我定下了气场
+不是炫耀，但我会说：「包起来」，耶
+钞票摞起来，跟我身材一样翘，耶
 
-Shoot, go from the store to the booth — 唰，从商场进录音棚  
-Make it all back in one loop, give me the loot — 一圈就赚回来，把钱给我  
-Never mind, I got the juice — 算了，我有影响力  
-Nothing but net when we shoot — 出手就中，百发百中  
-Look at my neck, look at my jet — 看我脖子，看我私人飞机  
-Ain't got enough money to pay me respect — 钱不够就别想赢得我尊重  
-Ain't no budget when I'm on the set — 在片场没有预算上限  
-If I like it, then that's what I get, yeah — 喜欢就拿，耶  
+唰，从商场进录音棚
+一圈就赚回来，把钱给我
+算了，我有影响力
+出手就中，百发百中
+看我脖子，看我私人飞机
+钱不够就别想赢得我尊重
+在片场没有预算上限
+喜欢就拿，耶
 
-### Chorus（结尾）
+#### Chorus（结尾）
 
-I want it, I got it, I want it, I got it (yeah) — 想要就有，想要就有（耶）  
-I want it, I got it, I want it, I got it (oh, yeah, yeah) — 想要就有，想要就有（哦耶）  
-You like my hair? Gee, thanks, just bought it — 喜欢这头发？谢啦，刚买的  
-I see it, I like it, I want it, I got it (yep) — 看见、喜欢、想要、到手（对）  
-
----
+想要就有，想要就有（耶）
+想要就有，想要就有（哦耶）
+喜欢这头发？谢啦，刚买的
+看见、喜欢、想要、到手（对）
 
 ## 重点表达 · Key Phrases
 

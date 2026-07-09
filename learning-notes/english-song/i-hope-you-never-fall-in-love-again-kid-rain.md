@@ -60,62 +60,123 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
-I hope that every guy you meet is a weirdo — 希望你遇到的每个男人都是怪胎  
-I hope you never make it out of the friend zone — 希望你永远走不出朋友区  
-You're so low, oh no — 你真够惨，哦不  
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-Yeah, I hope you swipe right — 对，希望你右滑配对成功  
-And you meet a nice guy — 遇见一个「好男人」  
-And you tell all of your friends that he's got nice eyes — 跟闺蜜说他眼睛很好看  
-And he likes the same kinda music as you — 他还跟你喜欢同一类音乐  
-But how can someone like the Beatles less than Blink-182? — 但怎么会有人爱 Blink-182 胜过 Beatles？  
-I hope you spend six hours straight getting ready for a date — 希望你花六小时打扮去约会  
-But he turns up late, in his mummy's estate — 他却迟到，还住在妈妈家  
-Oh no, it's going downhill — 哦不，一路下坡  
-And now he wants to split — 现在他还想 AA 结账  
+I hope you never fall in love again
+I hope that every guy you meet is a weirdo
+I hope you never make it out of the friend zone
+You're so low, oh no
+I hope you never fall in love again
 
-### Chorus（变体 · 第一段后）
+#### Verse 1
 
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
-I hope that every guy you meet is a weirdo — 希望你遇到的每个男人都是怪胎  
-I hope you never make it out of the friend zone — 希望你永远走不出朋友区  
-You're so low, oh no — 你真够惨，哦不  
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
-I hope that every guy you meet is a loser — 希望你遇到的每个男人都是 loser  
-I hope they meet your best friend and they chose her — 希望他们遇见闺蜜却选了她  
-So one, two — 那么，一、二  
-Fuck you! — 去你的！  
+Yeah, I hope you swipe right
+And you meet a nice guy
+And you tell all of your friends that he's got nice eyes
+And he likes the same kinda music as you
+But how can someone like the Beatles less than Blink-182?
+I hope you spend six hours straight getting ready for a date
+But he turns up late, in his mummy's estate
+Oh no, it's going downhill
+And now he wants to split
 
-### Verse 2
+#### Chorus（变体 · 第一段后）
 
-I hope you get stuck in the talking stage — 希望你困在暧昧期  
-With a bunch of guys who are twice your age — 跟一群年纪大你一倍的男人  
-But earn half the pay, and forget your name — 赚得只有你一半，还记不住你名字  
-(It's Sarah, you fucking arsehole) — （我叫 Sarah，你这混蛋）  
-I hope you have bad dates, and heartbreaks — 希望你约会翻车、心碎不断  
-Staying up too late on weekdays, thinkin' bout — 工作日熬夜，想着  
-Everything we had that you threw away — 你扔掉的一切  
+I hope you never fall in love again
+I hope that every guy you meet is a weirdo
+I hope you never make it out of the friend zone
+You're so low, oh no
+I hope you never fall in love again
+I hope that every guy you meet is a loser
+I hope they meet your best friend and they chose her
+So one, two
+Fuck you!
 
-### Chorus + Outro
+#### Verse 2
 
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
-I hope that every guy you meet is a weirdo — 希望遇到的每个男人都是怪胎  
-I hope you never make it out of the friend zone — 希望你永远走不出朋友区  
-You're so low, oh no — 你真够惨，哦不  
-I hope you never fall in love again — 我希望你再也不要谈恋爱  
-I hope that every guy you meet is a loser — 希望你遇到的每个男人都是 loser  
-I hope they meet your best friend and they chose her — 希望他们遇见闺蜜却选了她  
-So one, two — 那么，一、二  
-Fuck you! — 去你的！  
-*(副歌与 *Fuck you!* 重复多遍至结尾)*
+I hope you get stuck in the talking stage
+With a bunch of guys who are twice your age
+But earn half the pay, and forget your name
+(It's Sarah, you fucking arsehole)
+I hope you have bad dates, and heartbreaks
+Staying up too late on weekdays, thinkin' bout
+Everything we had that you threw away
+
+#### Chorus + Outro
+
+I hope you never fall in love again
+I hope that every guy you meet is a weirdo
+I hope you never make it out of the friend zone
+You're so low, oh no
+I hope you never fall in love again
+I hope that every guy you meet is a loser
+I hope they meet your best friend and they chose her
+So one, two
+Fuck you!
+*(Chorus and *Fuck you!* repeated to the end)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+我希望你再也不要谈恋爱
+希望你遇到的每个男人都是怪胎
+希望你永远走不出朋友区
+你真够惨，哦不
+我希望你再也不要谈恋爱
+
+#### Verse 1
+
+对，希望你右滑配对成功
+遇见一个「好男人」
+跟闺蜜说他眼睛很好看
+他还跟你喜欢同一类音乐
+但怎么会有人爱 Blink-182 胜过 Beatles？
+希望你花六小时打扮去约会
+他却迟到，还住在妈妈家
+哦不，一路下坡
+现在他还想 AA 结账
+
+#### Chorus（变体 · 第一段后）
+
+我希望你再也不要谈恋爱
+希望你遇到的每个男人都是怪胎
+希望你永远走不出朋友区
+你真够惨，哦不
+我希望你再也不要谈恋爱
+希望你遇到的每个男人都是 loser
+希望他们遇见闺蜜却选了她
+那么，一、二
+去你的！
+
+#### Verse 2
+
+希望你困在暧昧期
+跟一群年纪大你一倍的男人
+赚得只有你一半，还记不住你名字
+（我叫 Sarah，你这混蛋）
+希望你约会翻车、心碎不断
+工作日熬夜，想着
+你扔掉的一切
+
+#### Chorus + Outro
+
+我希望你再也不要谈恋爱
+希望遇到的每个男人都是怪胎
+希望你永远走不出朋友区
+你真够惨，哦不
+我希望你再也不要谈恋爱
+希望你遇到的每个男人都是 loser
+希望他们遇见闺蜜却选了她
+那么，一、二
+去你的！
 
 ## 重点表达 · Key Phrases
 

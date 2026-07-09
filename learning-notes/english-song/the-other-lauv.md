@@ -61,66 +61,128 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Like a spotlight the water hits me — 像聚光灯，水打在我身上  
-Ran it extra cold to shake the words from my mouth — 把水开得很冷，好把话从嘴里抖出来  
-Though I know that no one's listening — 虽然我知道没人在听  
-I nervously rehearse for when you're around — 我还是紧张地排练，为你在身边的时候  
+### 英文歌词 · English Lyrics
 
-And I keep waiting like — 而我一直等着，好像  
-You might change my mind — 你会改变主意  
+#### Verse 1
 
-### Pre-Chorus
+Like a spotlight the water hits me
+Ran it extra cold to shake the words from my mouth
+Though I know that no one's listening
+I nervously rehearse for when you're around
 
-Who wrote the book on goodbye? — 谁写了那本关于告别的书？  
-There's never been a way to make this easy — 从来没有办法让这一切变容易  
-When there's nothing quite wrong but it don't feel right — 当没什么大错，却感觉不对  
-Either your head or your heart, you set the other on fire — 要么是头脑，要么是心，你把另一边点燃  
+And I keep waiting like
+You might change my mind
 
-### Verse 2
+#### Pre-Chorus
 
-Back and forth now I'm feeling guilty — 来回摇摆，我现在感到愧疚  
-'Cause I just can't stop this pendulum in my head — 因为我停不下来脑子里的钟摆  
-Though I know that our time is ending — 虽然我知道我们的时间要结束了  
-Oh, I'd rather lay forever right in this bed — 哦，我宁愿永远躺在这张床上  
+Who wrote the book on goodbye?
+There's never been a way to make this easy
+When there's nothing quite wrong but it don't feel right
+Either your head or your heart, you set the other on fire
 
-And I'll keep waiting like — 而我会一直等着，好像  
-You might change my mind — 你会改变主意  
-Give me one more night — 再给我一夜  
+#### Verse 2
 
-### Pre-Chorus（重复）
+Back and forth now I'm feeling guilty
+'Cause I just can't stop this pendulum in my head
+Though I know that our time is ending
+Oh, I'd rather lay forever right in this bed
+
+And I'll keep waiting like
+You might change my mind
+Give me one more night
+
+#### Pre-Chorus（重复）
+
+#### Bridge
+
+No one knows
+Oh oh, oh oh, oh oh
+
+We fell from the peak
+And the stars, they broke their code
+I'm trying to forget
+How I landed on this road
+I'm caught in between
+What I wish and what I know
+When they say that you just know
+
+#### Pre-Chorus / Outro
+
+Who wrote the book on goodbye?
+There's never been a way to make this easy
+When there's nothing quite wrong but it don't feel right
+Either your head or your heart, you set the other on fire
+
+No one knows
+Oh oh, oh oh, oh oh
+
+You set the other on fire
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+像聚光灯，水打在我身上
+把水开得很冷，好把话从嘴里抖出来
+虽然我知道没人在听
+我还是紧张地排练，为你在身边的时候
+
+而我一直等着，好像
+你会改变主意
+
+#### Pre-Chorus
+
+谁写了那本关于告别的书？
+从来没有办法让这一切变容易
+当没什么大错，却感觉不对
+要么是头脑，要么是心，你把另一边点燃
+
+#### Verse 2
+
+来回摇摆，我现在感到愧疚
+因为我停不下来脑子里的钟摆
+虽然我知道我们的时间要结束了
+哦，我宁愿永远躺在这张床上
+
+而我会一直等着，好像
+你会改变主意
+再给我一夜
+
+#### Pre-Chorus（重复）
 
 *(同第一段)*
 
-### Bridge
+#### Bridge
 
-No one knows — 没人知道  
-Oh oh, oh oh, oh oh — 哦哦，哦哦，哦哦  
+没人知道
+哦哦，哦哦，哦哦
 
-We fell from the peak — 我们从顶峰跌落  
-And the stars, they broke their code — 星星也打破了它们的密码  
-I'm trying to forget — 我试着忘记  
-How I landed on this road — 我是怎么落到这条路上的  
-I'm caught in between — 我被夹在中间  
-What I wish and what I know — 我想要的和我所知道的  
-When they say that you just know — 当他们说「你就是会知道」  
+我们从顶峰跌落
+星星也打破了它们的密码
+我试着忘记
+我是怎么落到这条路上的
+我被夹在中间
+我想要的和我所知道的
+当他们说「你就是会知道」
 
-### Pre-Chorus / Outro
+#### Pre-Chorus / Outro
 
-Who wrote the book on goodbye? — 谁写了那本关于告别的书？  
-There's never been a way to make this easy — 从来没有办法让这一切变容易  
-When there's nothing quite wrong but it don't feel right — 当没什么大错，却感觉不对  
-Either your head or your heart, you set the other on fire — 要么是头脑，要么是心，你把另一边点燃  
+谁写了那本关于告别的书？
+从来没有办法让这一切变容易
+当没什么大错，却感觉不对
+要么是头脑，要么是心，你把另一边点燃
 
-No one knows — 没人知道  
-Oh oh, oh oh, oh oh — 哦哦，哦哦，哦哦  
+没人知道
+哦哦，哦哦，哦哦
 *(重复)*  
 
-You set the other on fire — 你把另一边点燃  
-*(重复至结尾)*  
-
----
+你把另一边点燃
+*(重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

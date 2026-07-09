@@ -62,79 +62,156 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Looking at the cop in the rear view mirror — 从后视镜里看着警察  
-Probably should have stopped but the crosswalk was clear — 本该停车，但人行横道是空的  
-I'll just imagine it's a ticket to a Broadway show — 我就当那是张百老汇演出的票  
+### 英文歌词 · English Lyrics
 
-Looking at the clouds and they seem kinda funny — 望着云，它们看起来有点好笑  
-Probably gonna rain but my outlook is sunny — 可能要下雨，但我的 outlook 是晴朗的  
-I'll just imagine that I'm laying out in Mexico — 我就当自己在墨西哥晒太阳  
+#### Verse 1
 
-### Pre-Chorus
+Looking at the cop in the rear view mirror
+Probably should have stopped but the crosswalk was clear
+I'll just imagine it's a ticket to a Broadway show
 
-'Cause I know that pleasures gotta come with pain — 因为我知道快乐总得伴随痛苦  
-And I know that things won't always go my way — 我知道事情不会总顺我的意  
-And I know that life is gonna suck some days — 我知道有些日子生活会很糟  
+Looking at the clouds and they seem kinda funny
+Probably gonna rain but my outlook is sunny
+I'll just imagine that I'm laying out in Mexico
 
-### Chorus
+#### Pre-Chorus
 
-But I can't complain — 但我不能抱怨  
-I can't complain — 我不能抱怨  
-Every day's too short to let it go to waste — 每一天都太短，不能白白浪费  
-Now I can't complain — 现在我不能抱怨  
-I can't complain — 我不能抱怨  
-You gotta treat every day like a holiday — 你得把每一天都当假期来过  
+'Cause I know that pleasures gotta come with pain
+And I know that things won't always go my way
+And I know that life is gonna suck some days
 
-And I'm telling you — 我告诉你  
-That I know some days I'm gonna stumble — 我知道有些天我会绊倒  
-And I know the cookie's gonna crumble — 我知道饼干会碎掉  
-And I know that life is gonna suck some days — 我知道有些日子生活会很糟  
-But I can't complain — 但我不能抱怨  
+#### Chorus
 
-### Verse 2
+But I can't complain
+I can't complain
+Every day's too short to let it go to waste
+Now I can't complain
+I can't complain
+You gotta treat every day like a holiday
 
-Waiting on a never ending train at the crossing — 在道口等一列永远不来的火车  
-Paying it no mind 'cause you just keep talking — 毫不在意，因为你一直在说话  
-We'll just imagine it's the good old days and take it slow — 我们就当这是美好旧时光，慢慢来  
+And I'm telling you
+That I know some days I'm gonna stumble
+And I know the cookie's gonna crumble
+And I know that life is gonna suck some days
+But I can't complain
 
-Spending Christmas Eve on the floor of the airport — 圣诞夜睡在机场地板上  
-Dying to get back to the people that I care for — 迫不及待想回到我在乎的人身边  
-Smiling just dreaming about my puppy in my bed back home — 微笑着幻想家里床上的小狗  
+#### Verse 2
 
-### Pre-Chorus & Chorus（重复）
+Waiting on a never ending train at the crossing
+Paying it no mind 'cause you just keep talking
+We'll just imagine it's the good old days and take it slow
+
+Spending Christmas Eve on the floor of the airport
+Dying to get back to the people that I care for
+Smiling just dreaming about my puppy in my bed back home
+
+#### Pre-Chorus & Chorus（重复）
 
 *(同 Verse 1 后的 Pre-Chorus 与 Chorus)*
 
-### Bridge
+#### Bridge
 
-If you can't say nothing good — 如果你说不出好话  
-Don't say nothing — 那就别说话  
-If you stop to think you could come up with something — 如果你停下来想，总能想出点什么  
-That makes you feel so good when times are rough it's ok — 在艰难时让你感觉好一点的；没关系  
+If you can't say nothing good
+Don't say nothing
+If you stop to think you could come up with something
+That makes you feel so good when times are rough it's ok
 
-I can't complain — 我不能抱怨  
-Oh oh oh oh oh — 哦哦哦哦哦  
-Oh oh oh oh oh — 哦哦哦哦哦  
-Don't let it go to waste — 别让它白白浪费  
+I can't complain
+Oh oh oh oh oh
+Oh oh oh oh oh
+Don't let it go to waste
 
-### Final Chorus
+#### Final Chorus
 
-Now I can't complain — 现在我不能抱怨  
-I can't complain — 我不能抱怨  
-Every day's too short to let it go to waste — 每一天都太短，不能白白浪费  
-Now I can't complain — 现在我不能抱怨  
-I can't complain — 我不能抱怨  
-You gotta treat every day like a holiday — 你得把每一天都当假期来过  
+Now I can't complain
+I can't complain
+Every day's too short to let it go to waste
+Now I can't complain
+I can't complain
+You gotta treat every day like a holiday
 
-And I'm telling you — 我告诉你  
-That I know some days I'm gonna stumble — 我知道有些天我会绊倒  
-And I know the cookie's gonna crumble — 我知道饼干会碎掉  
-And I know that life is gonna suck some days — 我知道有些日子生活会很糟  
-But I can't complain — 但我不能抱怨  
+And I'm telling you
+That I know some days I'm gonna stumble
+And I know the cookie's gonna crumble
+And I know that life is gonna suck some days
+But I can't complain
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+从后视镜里看着警察
+本该停车，但人行横道是空的
+我就当那是张百老汇演出的票
+
+望着云，它们看起来有点好笑
+可能要下雨，但我的 outlook 是晴朗的
+我就当自己在墨西哥晒太阳
+
+#### Pre-Chorus
+
+因为我知道快乐总得伴随痛苦
+我知道事情不会总顺我的意
+我知道有些日子生活会很糟
+
+#### Chorus
+
+但我不能抱怨
+我不能抱怨
+每一天都太短，不能白白浪费
+现在我不能抱怨
+我不能抱怨
+你得把每一天都当假期来过
+
+我告诉你
+我知道有些天我会绊倒
+我知道饼干会碎掉
+我知道有些日子生活会很糟
+但我不能抱怨
+
+#### Verse 2
+
+在道口等一列永远不来的火车
+毫不在意，因为你一直在说话
+我们就当这是美好旧时光，慢慢来
+
+圣诞夜睡在机场地板上
+迫不及待想回到我在乎的人身边
+微笑着幻想家里床上的小狗
+
+#### Pre-Chorus & Chorus（重复）
+
+#### Bridge
+
+如果你说不出好话
+那就别说话
+如果你停下来想，总能想出点什么
+在艰难时让你感觉好一点的；没关系
+
+我不能抱怨
+哦哦哦哦哦
+哦哦哦哦哦
+别让它白白浪费
+
+#### Final Chorus
+
+现在我不能抱怨
+我不能抱怨
+每一天都太短，不能白白浪费
+现在我不能抱怨
+我不能抱怨
+你得把每一天都当假期来过
+
+我告诉你
+我知道有些天我会绊倒
+我知道饼干会碎掉
+我知道有些日子生活会很糟
+但我不能抱怨
 
 ## 重点表达 · Key Phrases
 

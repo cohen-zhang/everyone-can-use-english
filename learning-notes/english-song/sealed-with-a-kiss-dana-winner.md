@@ -58,46 +58,92 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Though we've got to say good-bye — 虽然我们必须道别  
-For the summer — 为了这个夏天  
-Darling, I promise you this — 亲爱的，我向你保证  
-I'll send you all my love — 我会把我的爱全寄给你  
-Everyday in a letter — 每天在信里  
-Sealed with a kiss — 以吻封缄  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-Yes it's gonna be cold, lonely summer — 是啊，这会是个冷清孤独的夏天  
-But I'll fill the emptiness — 但我会填满空虚  
-I'll send you all my dreams — 我会把我的梦全寄给你  
-Everyday in a letter — 每天在信里  
-Sealed with a kiss — 以吻封缄  
+Though we've got to say good-bye
+For the summer
+Darling, I promise you this
+I'll send you all my love
+Everyday in a letter
+Sealed with a kiss
 
-### Verse 3
+#### Verse 2
 
-I'll see you in the sunlight — 我会在阳光里看见你  
-I'll hear your voice everywhere — 处处都能听见你的声音  
-I'll run to tenderly hold you — 我会跑去温柔拥抱你  
-But, Darlin' you won't be there — 可是亲爱的，你不在那儿  
+Yes it's gonna be cold, lonely summer
+But I'll fill the emptiness
+I'll send you all my dreams
+Everyday in a letter
+Sealed with a kiss
 
-### Verse 4
+#### Verse 3
 
-I don't wanna say good-bye — 我不想说再见  
-For the summer — 为了这个夏天  
-Knowing the love we'll miss — 明知我们会思念这份爱  
-Let us make a pledge — 让我们许下诺言  
-To meet in September — 九月再相聚  
-And seal it with a kiss — 并以吻封缄  
+I'll see you in the sunlight
+I'll hear your voice everywhere
+I'll run to tenderly hold you
+But, Darlin' you won't be there
 
-### Chorus
+#### Verse 4
 
-Sealed with a kiss — 以吻封缄  
-Sealed with a kiss — 以吻封缄  
-Sealed with a kiss — 以吻封缄  
+I don't wanna say good-bye
+For the summer
+Knowing the love we'll miss
+Let us make a pledge
+To meet in September
+And seal it with a kiss
+
+#### Chorus
+
+Sealed with a kiss
+Sealed with a kiss
+Sealed with a kiss
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+虽然我们必须道别
+为了这个夏天
+亲爱的，我向你保证
+我会把我的爱全寄给你
+每天在信里
+以吻封缄
+
+#### Verse 2
+
+是啊，这会是个冷清孤独的夏天
+但我会填满空虚
+我会把我的梦全寄给你
+每天在信里
+以吻封缄
+
+#### Verse 3
+
+我会在阳光里看见你
+处处都能听见你的声音
+我会跑去温柔拥抱你
+可是亲爱的，你不在那儿
+
+#### Verse 4
+
+我不想说再见
+为了这个夏天
+明知我们会思念这份爱
+让我们许下诺言
+九月再相聚
+并以吻封缄
+
+#### Chorus
+
+以吻封缄
+以吻封缄
+以吻封缄
 
 ## 重点表达 · Key Phrases
 

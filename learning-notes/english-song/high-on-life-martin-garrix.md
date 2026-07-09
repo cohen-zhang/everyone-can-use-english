@@ -58,38 +58,74 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Killed the demons of my mind — 驱走了心里的恶魔  
-Ever since you came around — 自从你出现  
-We're a river, running wild — 我们像江河，奔涌不羁  
-How could I have been so blind? — 我怎么会那么瞎？
+### 英文歌词 · English Lyrics
 
-I just live a fast life — 我以前活得很快、很飘  
-Forget about the past time — 把过去抛在脑后  
-Numb out to escape my feels — 麻木自己以躲开感受  
-And friendships only pass by — 朋友也像过客  
-Show up, gone, like strobe lights — 出现又消失，像频闪灯  
-With you, I feel something real — 和你在一起，我才感到真实
+#### Verse 1
 
-### Chorus
+Killed the demons of my mind
+Ever since you came around
+We're a river, running wild
+How could I have been so blind?
 
-And I'd walk a million miles just to see you smile — 我愿走一百万英里，只为看你笑  
-'Til the day I die — 直到我死去那天  
-Oh, I need you by my side, we'd get high on life — 哦，我需要你在身边，我们一起为活着而狂喜  
-'Til the day we die — 直到我们一起死去那天  
-High on life 'til the day we die — 为活着而狂喜，直到死去那天
+I just live a fast life
+Forget about the past time
+Numb out to escape my feels
+And friendships only pass by
+Show up, gone, like strobe lights
+With you, I feel something real
 
-### Verse 2
+#### Chorus
 
-Through my fingers, out of sight — 从指缝溜走，看不见了  
-How could I have let you go? — 我怎么会让你走？  
-Cutting corners, turning stones — 抄近路、翻遍石块（四处寻找）  
-But I can only see your ghost — 却只看见你的幽灵
+And I'd walk a million miles just to see you smile
+'Til the day I die
+Oh, I need you by my side, we'd get high on life
+'Til the day we die
+High on life 'til the day we die
+
+#### Verse 2
+
+Through my fingers, out of sight
+How could I have let you go?
+Cutting corners, turning stones
+But I can only see your ghost
 
 *(重复 Verse 1 后半 + Chorus)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+驱走了心里的恶魔
+自从你出现
+我们像江河，奔涌不羁
+我怎么会那么瞎？
+
+我以前活得很快、很飘
+把过去抛在脑后
+麻木自己以躲开感受
+朋友也像过客
+出现又消失，像频闪灯
+和你在一起，我才感到真实
+
+#### Chorus
+
+我愿走一百万英里，只为看你笑
+直到我死去那天
+哦，我需要你在身边，我们一起为活着而狂喜
+直到我们一起死去那天
+为活着而狂喜，直到死去那天
+
+#### Verse 2
+
+从指缝溜走，看不见了
+我怎么会让你走？
+抄近路、翻遍石块（四处寻找）
+却只看见你的幽灵
 
 ## 重点表达 · Key Phrases
 

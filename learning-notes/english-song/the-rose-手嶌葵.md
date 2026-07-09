@@ -66,40 +66,80 @@ aliases:
 
 > 标准歌词（Amanda McBroom / Bette Midler 经典版）；手嶌葵翻唱同词。原文件误嵌 *"Alfie"*，已更正。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Some say love, it is a river — 有人说，爱是一条河  
-That drowns the tender reed — 会淹没柔弱的芦苇  
-Some say love, it is a razor — 有人说，爱是一把刀  
-That leaves your soul to bleed — 会让你的灵魂流血  
-Some say love, it is a hunger — 有人说，爱是一种饥饿  
-An endless aching need — 一种没完没了的隐痛与渴求  
-I say love, it is a flower — 我说，爱是一朵花  
-And you, its only seed — 而你，是它唯一的种子  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-It's the heart afraid of breaking — 是那颗怕碎的心  
-That never learns to dance — 永远学不会跳舞  
-It's the dream afraid of waking — 是那怕醒来的梦  
-That never takes the chance — 永远不敢去试一次  
-It's the one who won't be taken — 是那个不愿被带走的人  
-Who cannot seem to give — 似乎怎么也给不出去  
-And the soul afraid of dying — 还有那怕死的灵魂  
-That never learns to live — 永远学不会活着  
+Some say love, it is a river
+That drowns the tender reed
+Some say love, it is a razor
+That leaves your soul to bleed
+Some say love, it is a hunger
+An endless aching need
+I say love, it is a flower
+And you, its only seed
 
-### Verse 3
+#### Verse 2
 
-When the night has been too lonely — 当夜晚太过孤独  
-And the road has been too long — 路也走得太长  
-And you think that love is only — 你以为爱不过是  
-For the lucky and the strong — 幸运者与强者的事  
-Just remember in the winter — 请记住，在冬天里  
-Far beneath the bitter snow — 在苦寒的雪下很深的地方  
-Lies the seed that with the sun's love — 躺着那颗种子，借着阳光的爱  
-In the spring becomes the rose — 到了春天，就会开成玫瑰  
+It's the heart afraid of breaking
+That never learns to dance
+It's the dream afraid of waking
+That never takes the chance
+It's the one who won't be taken
+Who cannot seem to give
+And the soul afraid of dying
+That never learns to live
+
+#### Verse 3
+
+When the night has been too lonely
+And the road has been too long
+And you think that love is only
+For the lucky and the strong
+Just remember in the winter
+Far beneath the bitter snow
+Lies the seed that with the sun's love
+In the spring becomes the rose
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+有人说，爱是一条河
+会淹没柔弱的芦苇
+有人说，爱是一把刀
+会让你的灵魂流血
+有人说，爱是一种饥饿
+一种没完没了的隐痛与渴求
+我说，爱是一朵花
+而你，是它唯一的种子
+
+#### Verse 2
+
+是那颗怕碎的心
+永远学不会跳舞
+是那怕醒来的梦
+永远不敢去试一次
+是那个不愿被带走的人
+似乎怎么也给不出去
+还有那怕死的灵魂
+永远学不会活着
+
+#### Verse 3
+
+当夜晚太过孤独
+路也走得太长
+你以为爱不过是
+幸运者与强者的事
+请记住，在冬天里
+在苦寒的雪下很深的地方
+躺着那颗种子，借着阳光的爱
+到了春天，就会开成玫瑰
 
 ## 重点表达 · Key Phrases
 

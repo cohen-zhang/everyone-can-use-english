@@ -60,76 +60,152 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I'm not ready to be just another of your mistakes — 我还没准备好当你又一个错误  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-I can't seem to drown you out long enough — 我好像怎么也没法把你从脑海里淹掉够久  
-I fell victim to the sound of your love — 我栽在你爱的声音里  
-You're like a song that I ain't ready to stop — 你像一首我还不想停的歌  
-I got nothing but you on my mind — 我脑子里只有你  
+I'm not ready to be just another of your mistakes
 
-### Pre-Chorus
+#### Verse 1
 
-I'm not ready to be just another of your mistakes — 我还没准备好当你又一个错误  
-Don't wanna let the pieces fall out of place — 不想让一切分崩离析  
-I was only just a breath removed from going to waste — 我离彻底荒废只差一口气  
-'Till I found salvation in the form of your — 直到我在你的……里找到救赎  
+I can't seem to drown you out long enough
+I fell victim to the sound of your love
+You're like a song that I ain't ready to stop
+I got nothing but you on my mind
 
-### Chorus
+#### Pre-Chorus
 
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
+I'm not ready to be just another of your mistakes
+Don't wanna let the pieces fall out of place
+I was only just a breath removed from going to waste
+'Till I found salvation in the form of your
 
-### Verse 2
+#### Chorus
 
-On the verge of almost bleeding you out — 几乎要把你榨干、榨到流血  
-Are we too wounded now to ever come down? — 我们是不是伤得太重，再也落不回地面？  
-Oh, how I long for us to find common ground — 哦，我多么渴望我们能找到共同点  
-I got nothing but you on my mind — 我脑子里只有你  
+Your grace, your grace, your grace
+Don't take it away
+Your grace, your grace, your grace
+Don't take it away
 
-### Pre-Chorus（重复）
+#### Verse 2
 
-I'm not ready to be just another of your mistakes — 我还没准备好当你又一个错误  
-Don't wanna let the pieces fall out of place — 不想让一切分崩离析  
-I was only just a breath removed from going to waste — 我离彻底荒废只差一口气  
-'Till I found salvation in the form of your — 直到我在你的……里找到救赎  
+On the verge of almost bleeding you out
+Are we too wounded now to ever come down?
+Oh, how I long for us to find common ground
+I got nothing but you on my mind
 
-### Chorus（重复）
+#### Pre-Chorus（重复）
 
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it, take it — 别拿走，拿走  
+I'm not ready to be just another of your mistakes
+Don't wanna let the pieces fall out of place
+I was only just a breath removed from going to waste
+'Till I found salvation in the form of your
 
-### Bridge
+#### Chorus（重复）
 
-Way too close to colour your comfort — 靠得太近，连你的安逸都被染上了色  
-All dressed up but kept undercover — 打扮整齐却一直被藏着  
-Way too close to colour your comfort — 靠得太近，连你的安逸都被染上了色  
-All dressed up but kept undercover — 打扮整齐却一直被藏着  
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
+Your grace, your grace, your grace
+Don't take it away
+Your grace, your grace, your grace
+Don't take it, take it
 
-### Pre-Chorus / Final Chorus（重复至结尾）
+#### Bridge
 
-I'm not ready to be just another of your mistakes — 我还没准备好当你又一个错误  
-Don't wanna let the pieces fall out of place — 不想让一切分崩离析  
-I was only just a breath removed from going to waste — 我离彻底荒废只差一口气  
-'Till I found salvation in the form of your — 直到我在你的……里找到救赎  
+Way too close to colour your comfort
+All dressed up but kept undercover
+Way too close to colour your comfort
+All dressed up but kept undercover
+Your grace, your grace, your grace
+Don't take it away
 
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
-Your grace, your grace, your grace — 你的恩典，你的恩典，你的恩典  
-Your grace, your grace — 你的恩典，你的恩典  
-Don't take it away — 别把它拿走  
+#### Pre-Chorus / Final Chorus（重复至结尾）
+
+I'm not ready to be just another of your mistakes
+Don't wanna let the pieces fall out of place
+I was only just a breath removed from going to waste
+'Till I found salvation in the form of your
+
+Your grace, your grace, your grace
+Your grace, your grace, your grace
+Don't take it away
+Your grace, your grace, your grace
+Your grace, your grace
+Don't take it away
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+我还没准备好当你又一个错误
+
+#### Verse 1
+
+我好像怎么也没法把你从脑海里淹掉够久
+我栽在你爱的声音里
+你像一首我还不想停的歌
+我脑子里只有你
+
+#### Pre-Chorus
+
+我还没准备好当你又一个错误
+不想让一切分崩离析
+我离彻底荒废只差一口气
+直到我在你的……里找到救赎
+
+#### Chorus
+
+你的恩典，你的恩典，你的恩典
+别把它拿走
+你的恩典，你的恩典，你的恩典
+别把它拿走
+
+#### Verse 2
+
+几乎要把你榨干、榨到流血
+我们是不是伤得太重，再也落不回地面？
+哦，我多么渴望我们能找到共同点
+我脑子里只有你
+
+#### Pre-Chorus（重复）
+
+我还没准备好当你又一个错误
+不想让一切分崩离析
+我离彻底荒废只差一口气
+直到我在你的……里找到救赎
+
+#### Chorus（重复）
+
+你的恩典，你的恩典，你的恩典
+别把它拿走
+你的恩典，你的恩典，你的恩典
+别拿走，拿走
+
+#### Bridge
+
+靠得太近，连你的安逸都被染上了色
+打扮整齐却一直被藏着
+靠得太近，连你的安逸都被染上了色
+打扮整齐却一直被藏着
+你的恩典，你的恩典，你的恩典
+别把它拿走
+
+#### Pre-Chorus / Final Chorus（重复至结尾）
+
+我还没准备好当你又一个错误
+不想让一切分崩离析
+我离彻底荒废只差一口气
+直到我在你的……里找到救赎
+
+你的恩典，你的恩典，你的恩典
+你的恩典，你的恩典，你的恩典
+别把它拿走
+你的恩典，你的恩典，你的恩典
+你的恩典，你的恩典
+别把它拿走
 
 ## 重点表达 · Key Phrases
 

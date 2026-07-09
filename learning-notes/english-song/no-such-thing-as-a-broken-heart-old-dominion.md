@@ -63,63 +63,124 @@ aliases:
 
 > 原文含 *bullshit*，为歌曲原词；学习时注意语境与场合。
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Keep your chin up — 抬起下巴；别灰心  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-I wonder if Jack and Diane ever made it — 我在想 Jack 和 Diane 后来有没有走下去  
-After the drums and the guitars all faded — 鼓声吉他声都散去之后  
-Was the best they could do good enough — 他们尽力做到的最好，够不够  
-Or did the heartland just swallow 'em up — 还是中西部把他们吞没了  
-How did my mom and my dad ever do it — 我爸妈当年是怎么做到的  
-If there was struggles, then we never knew it — 若有过挣扎，我们从未察觉  
-I guess they had each other, that was enough — 我想他们有彼此，那就够了  
+Keep your chin up
 
-### Chorus
+#### Verse 1
 
-You know you can't keep the ground from shaking — 你知道挡不住大地摇晃  
-No matter how hard you try — 无论你多努力  
-You can't keep the sunsets from fading — 留不住夕阳褪去  
-You gotta treat your life like — 你得把人生当成  
-You're jumping off a rope swing — 从绳秋千上跳下去  
-Baby 'cause the whole thing's really just a shot in the dark — 宝贝，因为整个人生本就是摸黑一枪  
-You gotta love like there's no such thing as a broken heart — 你得爱得像心碎这种东西不存在  
-You gotta love like there's no such thing as a broken heart — 你得爱得像心碎这种东西不存在  
+I wonder if Jack and Diane ever made it
+After the drums and the guitars all faded
+Was the best they could do good enough
+Or did the heartland just swallow 'em up
+How did my mom and my dad ever do it
+If there was struggles, then we never knew it
+I guess they had each other, that was enough
 
-### Verse 2
+#### Chorus
 
-What am I gonna tell my kids when they see — 孩子们看见这些，我该怎么跟他们说  
-All of this bullshit that goes down on TV? — 电视上天天演的这些烂事？  
-When the whole world is down on its luck — 当整个世界都运气不佳  
-I gotta make sure they keep their chin up — 我得让他们抬起下巴  
-Cry when it hurts, laugh when it's funny — 疼了就哭，好笑就笑  
-Chase after the dream, don't chase after the money — 追梦想，别追钱  
-And know we got each other, that's what's up — 知道我们有彼此，这就够了  
+You know you can't keep the ground from shaking
+No matter how hard you try
+You can't keep the sunsets from fading
+You gotta treat your life like
+You're jumping off a rope swing
+Baby 'cause the whole thing's really just a shot in the dark
+You gotta love like there's no such thing as a broken heart
+You gotta love like there's no such thing as a broken heart
 
-### Chorus（重复）
+#### Verse 2
+
+What am I gonna tell my kids when they see
+All of this bullshit that goes down on TV?
+When the whole world is down on its luck
+I gotta make sure they keep their chin up
+Cry when it hurts, laugh when it's funny
+Chase after the dream, don't chase after the money
+And know we got each other, that's what's up
+
+#### Chorus（重复）
+
+#### Bridge
+
+You gotta love like there's no such thing as a broken heart
+
+#### Final Chorus（变体）
+
+'Cause you can't keep the ground from shaking
+No matter how hard you try
+You can't keep the sunsets from fading
+You gotta treat your **love** like
+You're jumping off a rope swing
+Baby, 'cause the whole thing's really just a shot in the dark
+You gotta love like there's no such thing as a broken heart
+You gotta love, love, love (like there's no such thing)
+You gotta love, love, love (as a broken heart)
+You gotta love like there's no such thing as a broken heart
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+抬起下巴；别灰心
+
+#### Verse 1
+
+我在想 Jack 和 Diane 后来有没有走下去
+鼓声吉他声都散去之后
+他们尽力做到的最好，够不够
+还是中西部把他们吞没了
+我爸妈当年是怎么做到的
+若有过挣扎，我们从未察觉
+我想他们有彼此，那就够了
+
+#### Chorus
+
+你知道挡不住大地摇晃
+无论你多努力
+留不住夕阳褪去
+你得把人生当成
+从绳秋千上跳下去
+宝贝，因为整个人生本就是摸黑一枪
+你得爱得像心碎这种东西不存在
+你得爱得像心碎这种东西不存在
+
+#### Verse 2
+
+孩子们看见这些，我该怎么跟他们说
+电视上天天演的这些烂事？
+当整个世界都运气不佳
+我得让他们抬起下巴
+疼了就哭，好笑就笑
+追梦想，别追钱
+知道我们有彼此，这就够了
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-You gotta love like there's no such thing as a broken heart — 你得爱得像心碎这种东西不存在  
+你得爱得像心碎这种东西不存在
 
-### Final Chorus（变体）
+#### Final Chorus（变体）
 
-'Cause you can't keep the ground from shaking — 因为挡不住大地摇晃  
-No matter how hard you try — 无论你多努力  
-You can't keep the sunsets from fading — 留不住夕阳褪去  
-You gotta treat your **love** like — 你得把**爱**当成  
-You're jumping off a rope swing — 从绳秋千上跳下去  
-Baby, 'cause the whole thing's really just a shot in the dark — 宝贝，因为整个人生本就是摸黑一枪  
-You gotta love like there's no such thing as a broken heart — 你得爱得像心碎这种东西不存在  
-You gotta love, love, love (like there's no such thing) — 你得去爱，去爱，去爱（像它不存在一样）  
-You gotta love, love, love (as a broken heart) — 你得去爱，去爱，去爱（当作心碎）  
-You gotta love like there's no such thing as a broken heart — 你得爱得像心碎这种东西不存在  
-
----
+因为挡不住大地摇晃
+无论你多努力
+留不住夕阳褪去
+你得把**爱**当成
+从绳秋千上跳下去
+宝贝，因为整个人生本就是摸黑一枪
+你得爱得像心碎这种东西不存在
+你得去爱，去爱，去爱（像它不存在一样）
+你得去爱，去爱，去爱（当作心碎）
+你得爱得像心碎这种东西不存在
 
 ## 重点表达 · Key Phrases
 

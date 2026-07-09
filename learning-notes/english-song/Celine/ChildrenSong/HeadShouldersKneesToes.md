@@ -21,7 +21,12 @@ aliases:
 
 > 最常见课堂版：前两行点 **头—肩—膝—趾**，中间重复 *Knees and toes*；第三行补 **眼—耳—口—鼻**；第四、五行再回到全身。部分版本第三行唱 **Eyes, ears, mouth and nose**（句首无 *And*），意思相同。
 
-### 1 · 完整版 · Full version
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 1 · 完整版 · Full version
 
 Head, shoulders, knees and toes,  
 Knees and toes.  
@@ -29,9 +34,28 @@ Head, shoulders, knees and toes,
 Knees and toes.  
 And eyes and ears and mouth and nose,  
 Head, shoulders, knees and toes,  
-Knees and toes. — 头、肩、膝、趾（膝和趾）……眼、耳、口、鼻，再来一遍全身。
+Knees and toes.
 
-### 2 · 加速省略 · Speed-up rounds（可选）
+#### 2 · 加速省略 · Speed-up rounds（可选）
+
+When you speed up, often **clap the beat and skip the omitted words** (or hum softly):
+
+| Round | What you sing |
+| --- | --- |
+| Round 1 | Sing all seven body parts |
+| Round 2 | Drop **Head, shoulders, knees and toes** — keep *Knees and toes* and the face line |
+| Round 3 | Also drop **And eyes and ears and mouth and nose** — mostly *Knees and toes* |
+| Round 4 | Often only *Knees and toes*, faster and faster |
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### 1 · 完整版 · Full version
+
+头、肩、膝、趾（膝和趾）……眼、耳、口、鼻，再来一遍全身。
+
+#### 2 · 加速省略 · Speed-up rounds（可选）
 
 越唱越快时，常**只拍节奏、不唱被省略的词**（或小声哼）：
 

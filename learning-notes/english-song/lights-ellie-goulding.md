@@ -58,67 +58,130 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I had a way then — 我曾经有一套办法  
-Losing it all on my own — 却独自把一切都弄丢  
-I had a heart then — 我也曾有过一颗心  
-But the queen tore it up — 但「女王」把它撕碎  
-And she stomped it out — 再一脚踩灭  
-When she warms up — 当她「升温」的时候  
+### 英文歌词 · English Lyrics
 
-I heard the sounds — 我听见声响  
-But couldn't hear anything at all — 却什么也听不清  
-And the fear took over — 恐惧占了上风  
+#### Verse 1
 
-### Pre-Chorus
+I had a way then
+Losing it all on my own
+I had a heart then
+But the queen tore it up
+And she stomped it out
+When she warms up
 
-From finding you — 从找到你开始  
-And at first you put your arms around me — 起初你把我搂进怀里  
-And I thought that I was strong — 我以为自己足够坚强  
-But I can't breathe when you're not near — 可你不在身边我就无法呼吸  
-So tell me how to fix this — 告诉我怎么补救  
-Did I make a mistake? — 是我犯错了吗？  
+I heard the sounds
+But couldn't hear anything at all
+And the fear took over
 
-### Chorus
+#### Pre-Chorus
 
-You show the lights that stop me turn to stone — 你亮起的光让我不至于变成石头  
-You shine it when I'm alone — 我独处时你仍照耀我  
-And so I tell myself that I'll be strong — 于是我告诉自己要坚强  
-And dreaming when they're gone — 它们消失时便进入梦境  
-'Cause they're calling, calling, calling me home — 因为它们在呼唤、呼唤、唤我回家  
-Calling, calling me home — 唤我、唤我回家  
-And I can't pretend nobody's nothing — 我无法假装「谁都不是什么」  
-Something inside of me — 我体内有某种东西  
-I need to shine a light when all it is is dark — 当四周一片漆黑，我需要点亮一束光  
-I need to shine a light when all it is is dark — 当四周一片漆黑，我需要点亮一束光  
+From finding you
+And at first you put your arms around me
+And I thought that I was strong
+But I can't breathe when you're not near
+So tell me how to fix this
+Did I make a mistake?
 
-### Verse 2
+#### Chorus
 
-And I don't really know what I'm doing — 我真的不知道自己在做什么  
-And I don't really know why — 也不知道为什么  
-And I don't really know what's going on — 更不知道发生了什么  
-And I think I won't until I fall asleep again — 我想只有再次入睡才会明白  
+You show the lights that stop me turn to stone
+You shine it when I'm alone
+And so I tell myself that I'll be strong
+And dreaming when they're gone
+'Cause they're calling, calling, calling me home
+Calling, calling me home
+And I can't pretend nobody's nothing
+Something inside of me
+I need to shine a light when all it is is dark
+I need to shine a light when all it is is dark
 
-### Chorus（重复）
+#### Verse 2
+
+And I don't really know what I'm doing
+And I don't really know why
+And I don't really know what's going on
+And I think I won't until I fall asleep again
+
+#### Chorus（重复）
+
+#### Bridge
+
+Stars and streetlights and the lights on the moon
+But lights in your eyes might see you someday soon
+In this house on this hill
+No one ever saved me but you
+And when the lights go down
+In this house on this hill
+No one ever saved me but you
+
+#### Final Chorus
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我曾经有一套办法
+却独自把一切都弄丢
+我也曾有过一颗心
+但「女王」把它撕碎
+再一脚踩灭
+当她「升温」的时候
+
+我听见声响
+却什么也听不清
+恐惧占了上风
+
+#### Pre-Chorus
+
+从找到你开始
+起初你把我搂进怀里
+我以为自己足够坚强
+可你不在身边我就无法呼吸
+告诉我怎么补救
+是我犯错了吗？
+
+#### Chorus
+
+你亮起的光让我不至于变成石头
+我独处时你仍照耀我
+于是我告诉自己要坚强
+它们消失时便进入梦境
+因为它们在呼唤、呼唤、唤我回家
+唤我、唤我回家
+我无法假装「谁都不是什么」
+我体内有某种东西
+当四周一片漆黑，我需要点亮一束光
+当四周一片漆黑，我需要点亮一束光
+
+#### Verse 2
+
+我真的不知道自己在做什么
+也不知道为什么
+更不知道发生了什么
+我想只有再次入睡才会明白
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-Stars and streetlights and the lights on the moon — 星星、街灯、月光  
-But lights in your eyes might see you someday soon — 但你眼中的光，也许某天会再见到你  
-In this house on this hill — 在这山顶上的这栋房子里  
-No one ever saved me but you — 除了你，没人救过我  
-And when the lights go down — 当灯光熄灭  
-In this house on this hill — 在这山顶上的这栋房子里  
-No one ever saved me but you — 除了你，没人救过我  
+星星、街灯、月光
+但你眼中的光，也许某天会再见到你
+在这山顶上的这栋房子里
+除了你，没人救过我
+当灯光熄灭
+在这山顶上的这栋房子里
+除了你，没人救过我
 
-### Final Chorus
+#### Final Chorus
 
 *(副歌重复至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

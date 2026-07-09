@@ -24,63 +24,94 @@ aliases:
 
 > 依据 Child's Play / Annie Kubler 版整理。倒数段为传统儿歌；**回来 · Came back** 为 Child's Play 环保结局专用。部分印次第二行唱 **Went round the world**；最后一节倒数常用 **So then he flew away!**
 
-### 5 · Five little men
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 5 · Five little men
 
 Five little men in a flying saucer,  
 Flew round the world one day.  
 They looked left and right,  
 But they didn't like the sight,  
 So one man flew away.  
-Whoosh! — 五个小人在飞碟里绕地球飞一天；左右看了一圈，不喜欢眼前的景象，于是一个飞走了。嗖——！
+Whoosh!
 
-### 4 · Four little men
+#### 4 · Four little men
 
 Four little men in a flying saucer,  
 Flew round the world one day.  
 They looked left and right,  
 But they didn't like the sight,  
 So one man flew away.  
-Whoosh! — 四个小人……又走一个。嗖——！
+Whoosh!
 
-### 3 · Three little men
+#### 3 · Three little men
 
 Three little men in a flying saucer,  
 Flew round the world one day.  
 They looked left and right,  
 But they didn't like the sight,  
 So one man flew away.  
-Whoosh! — 三个小人……再飞走一个。嗖——！
+Whoosh!
 
-### 2 · Two little men
+#### 2 · Two little men
 
 Two little men in a flying saucer,  
 Flew round the world one day.  
 They looked left and right,  
 But they didn't like the sight,  
 So one man flew away.  
-Whoosh! — 两个小人……还剩一个。嗖——！
+Whoosh!
 
-### 1 · One little man（倒数最后一节）
+#### 1 · One little man（倒数最后一节）
 
 One little man in a flying saucer,  
 Flew round the world one day.  
 **He** looked left and right,  
 But **he** didn't like the sight,  
 So **then he** flew away!  
-Whoosh! — 最后一个小人也飞走了。嗖——！（注意 **He**、**then**，不是 *They* / *So he flew away*。）
+Whoosh!
 
 ---
 
-### 回来 · Came back（Child's Play 版结尾）
+#### 回来 · Came back（Child's Play 版结尾）
 
 Five little men in a flying saucer,  
 **Came back to the world** one day.  
 They looked left and right,  
 And they **really liked** the sight,  
 So they **decided to stay**.  
-Yeah! — 五个小人又飞回地球；左右看了一圈，**很喜欢**眼前的景象，于是决定留下来。好耶！
+Yeah!
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### 5 · Five little men
+
+五个小人在飞碟里绕地球飞一天；左右看了一圈，不喜欢眼前的景象，于是一个飞走了。嗖——！
+
+#### 4 · Four little men
+
+四个小人……又走一个。嗖——！
+
+#### 3 · Three little men
+
+三个小人……再飞走一个。嗖——！
+
+#### 2 · Two little men
+
+两个小人……还剩一个。嗖——！
+
+#### 1 · One little man（倒数最后一节）
+
+最后一个小人也飞走了。嗖——！（注意 **He**、**then**，不是 *They* / *So he flew away*。）
+
+#### 回来 · Came back（Child's Play 版结尾）
+
+五个小人又飞回地球；左右看了一圈，**很喜欢**眼前的景象，于是决定留下来。好耶！
 
 ## 跟唱提示 · Sing-along tips
 

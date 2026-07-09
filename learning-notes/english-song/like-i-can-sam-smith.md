@@ -59,55 +59,108 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-He could be a sinner, or a gentleman — 他可以是罪人，也可以是绅士  
-He could be your preacher when your soul is damned — 你灵魂遭谴时，他可以是你的牧师  
-He could be your lawyer on a witness stand — 在证人席上，他可以是你的律师  
-But he'll never love you like I can, can — 但他永远没法像我这样爱你，能，能  
+### 英文歌词 · English Lyrics
 
-He could be a stranger you gave a second glance — 他可以是那个你多看一眼的陌生人  
-He could be a trophy of a one-night stand — 他可以是某次一夜情的战利品  
-He could have your humor, but I don't understand, 'cause — 他也许懂你的幽默，但我不明白，因为  
-He'll never love you like I can, can, can — 他永远没法像我这样爱你，能，能，能  
+#### Verse 1
 
-### Chorus
+He could be a sinner, or a gentleman
+He could be your preacher when your soul is damned
+He could be your lawyer on a witness stand
+But he'll never love you like I can, can
 
-Why are you looking down all the wrong roads? — 你为什么总往错的路上看？  
-When mine is the heart and the salt of the soul — 我的心才是灵魂的核心与滋味  
-There may be lovers who hold out their hands, but — 也许有恋人向你伸出手，但是  
-They'll never love you like I can, can, can — 他们永远没法像我这样爱你，能，能，能  
-They'll never love you like I can, can — 他们永远没法像我这样爱你，能，能  
+He could be a stranger you gave a second glance
+He could be a trophy of a one-night stand
+He could have your humor, but I don't understand, 'cause
+He'll never love you like I can, can, can
 
-### Verse 2
+#### Chorus
 
-A chance encounter of circumstance — 一次偶然的邂逅  
-Baby, he's a mantra, keeps your mind entranced — 宝贝，他像一句咒语，让你神魂颠倒  
-He could be a silence in this mayhem — 在这混乱里，他也许是一阵沉默  
-But then again, he'll never love you like I can, can, can — 但话说回来，他永远没法像我这样爱你，能，能，能  
+Why are you looking down all the wrong roads?
+When mine is the heart and the salt of the soul
+There may be lovers who hold out their hands, but
+They'll never love you like I can, can, can
+They'll never love you like I can, can
 
-### Chorus（重复）
+#### Verse 2
+
+A chance encounter of circumstance
+Baby, he's a mantra, keeps your mind entranced
+He could be a silence in this mayhem
+But then again, he'll never love you like I can, can, can
+
+#### Chorus（重复）
+
+#### Bridge
+
+We both have demons that we can't stand
+I love your demons, like devils can
+If you're still seeking an honest man
+Then stop deceiving, Lord, please
+
+#### Final Chorus
+
+Why are you lookin' down all the wrong roads?
+When mine is the heart and the salt of the soul
+There may be lovers who hold out their hands, but
+They'll never love you like I can, can, can
+They'll never love you like I can, can, can
+
+He'll never love you like I can, can, can
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+他可以是罪人，也可以是绅士
+你灵魂遭谴时，他可以是你的牧师
+在证人席上，他可以是你的律师
+但他永远没法像我这样爱你，能，能
+
+他可以是那个你多看一眼的陌生人
+他可以是某次一夜情的战利品
+他也许懂你的幽默，但我不明白，因为
+他永远没法像我这样爱你，能，能，能
+
+#### Chorus
+
+你为什么总往错的路上看？
+我的心才是灵魂的核心与滋味
+也许有恋人向你伸出手，但是
+他们永远没法像我这样爱你，能，能，能
+他们永远没法像我这样爱你，能，能
+
+#### Verse 2
+
+一次偶然的邂逅
+宝贝，他像一句咒语，让你神魂颠倒
+在这混乱里，他也许是一阵沉默
+但话说回来，他永远没法像我这样爱你，能，能，能
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-We both have demons that we can't stand — 我们都有各自无法忍受的心魔  
-I love your demons, like devils can — 我却爱你的心魔，像魔鬼那样爱  
-If you're still seeking an honest man — 若你还在寻找一个诚实的人  
-Then stop deceiving, Lord, please — 那就请别再欺骗了，天啊  
+我们都有各自无法忍受的心魔
+我却爱你的心魔，像魔鬼那样爱
+若你还在寻找一个诚实的人
+那就请别再欺骗了，天啊
 
-### Final Chorus
+#### Final Chorus
 
-Why are you lookin' down all the wrong roads? — 你为什么总往错的路上看？  
-When mine is the heart and the salt of the soul — 我的心才是灵魂的核心与滋味  
-There may be lovers who hold out their hands, but — 也许有恋人向你伸出手，但是  
-They'll never love you like I can, can, can — 他们永远没法像我这样爱你，能，能，能  
-They'll never love you like I can, can, can — 他们永远没法像我这样爱你，能，能，能  
+你为什么总往错的路上看？
+我的心才是灵魂的核心与滋味
+也许有恋人向你伸出手，但是
+他们永远没法像我这样爱你，能，能，能
+他们永远没法像我这样爱你，能，能，能
 
-He'll never love you like I can, can, can — 他永远没法像我这样爱你，能，能，能
-
----
+他永远没法像我这样爱你，能，能，能
 
 ## 重点表达 · Key Phrases
 

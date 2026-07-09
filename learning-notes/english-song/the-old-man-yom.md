@@ -58,7 +58,12 @@ aliases:
 
 > 本曲为**纯器乐**，无演唱歌词。下列为专辑英文标题、曲目顺序与主题说明，便于精听时对照「在讲什么故事」。
 
-### Album journey · 专辑脉络
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### Album journey · 专辑脉络
 
 | Track | English title | 简中 |
 | --- | --- | --- |
@@ -71,26 +76,49 @@ aliases:
 | 7 | Those Who Stayed Behind | 留下来的人 |
 | 8 | On the Endless Road | 在无尽的路上 |
 
-### About this track · 本曲在说什么
+#### About this track · 本曲在说什么
 
-Yom's clarinet carries the **melody** like a voice — 单簧管把旋律当人声来「唱」  
-No words, but the mood says: distance, memory, and a father on the road — 没有词，情绪却在说：距离、记忆，与路上的父亲  
-Steel guitar and folk guitar answer the clarinet — steel guitar 与 folk guitar 应和单簧管  
-Mid-album pause before *Those Who Stayed Behind* — 全碟中段的一次停顿，接着是「留下来的人」
+Yom's clarinet carries the **melody** like a voice
+No words, but the mood says: distance, memory, and a father on the road
+Steel guitar and folk guitar answer the clarinet
+Mid-album pause before *Those Who Stayed Behind*
 
-### Words to know while listening · 精听时可念的词
+#### Words to know while listening · 精听时可念的词
 
-**exile** — 流亡；背井离乡  
-**displaced** — 流离失所的  
-**nomad** — 游牧者；漂泊者  
-**hobo** — （美）流浪工人；搭车客  
-**refugee** — 难民  
-**Americana** — 美国根源音乐（folk / country / roots 混合气质）  
-**klezmer** — 东欧犹太民间音乐传统  
-**steel guitar** — 钢弦吉他（常带滑音、乡村/夏威夷音色）  
-**the endless road** — 无尽的路（专辑末曲标题意象）
+**exile**
+**displaced**
+**nomad**
+**hobo**
+**refugee**
+**Americana**
+**klezmer**
+**steel guitar**
+**the endless road**
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Album journey · 专辑脉络
+
+#### About this track · 本曲在说什么
+
+单簧管把旋律当人声来「唱」
+没有词，情绪却在说：距离、记忆，与路上的父亲
+steel guitar 与 folk guitar 应和单簧管
+全碟中段的一次停顿，接着是「留下来的人」
+
+#### Words to know while listening · 精听时可念的词
+
+流亡；背井离乡
+流离失所的
+游牧者；漂泊者
+（美）流浪工人；搭车客
+难民
+美国根源音乐（folk / country / roots 混合气质）
+东欧犹太民间音乐传统
+钢弦吉他（常带滑音、乡村/夏威夷音色）
+无尽的路（专辑末曲标题意象）
 
 ## 重点表达 · Key Phrases
 

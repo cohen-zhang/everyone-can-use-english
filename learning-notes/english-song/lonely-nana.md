@@ -64,107 +64,206 @@ aliases:
 
 > 歌词来自流媒体文本；部分拼写保留原录音室/OCR 痕迹（如 *stiked*、*shepard*），跟唱以听感为准。
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I am lonely, lonely, lonely — 我好孤独，孤独，孤独  
-I am lonely, lonely in my life — 我这一生好孤独  
-I am lonely, lonely, lonely — 我好孤独，孤独，孤独  
-God help me, help me to survive! — 上帝啊，帮帮我活下去！  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-Remember first time we met, day one — 还记得我们第一次见面，第一天  
-Kids in the garden playing — 孩子在花园里玩  
-Games, heaven's fun — 游戏，天堂般的快乐  
-Exciting and amazing, having — 兴奋又奇妙，拥有  
-A real friend of mine — 一个真正的朋友  
-Feel my heartbeat — 感受我的心跳  
-And for real, friend of mine — 真的，我的朋友  
-Face to face and eye to eye — 面对面，眼睛对眼睛  
-Using our hands to buy and supply — 用手去买、去供给  
-Chillin' is cool from January to June — 从一月到六月，一起闲晃真酷  
-And we still stuck together like the glue — 我们仍像胶水一样黏在一起  
-And know the rules — 也懂规矩  
-Forever you and I, and believe — 永远是你和我，相信  
-It was clear — 那很清楚  
-If I ever should fall — 如果我哪天跌倒  
-I could count on you with no fear — 我可以毫不害怕地指望你  
+I am lonely, lonely, lonely
+I am lonely, lonely in my life
+I am lonely, lonely, lonely
+God help me, help me to survive!
 
-Runnin' out of time, I see who's fake — 时间不够了，我看清谁是假的  
-Alone without protection from all them snakes — 孤身一人，没人挡那些阴险的人  
-All for one, one for all, I was told — 人人为我、我为人人——别人这么告诉我  
-Black, white, yellow, no matter if you're young or old — 黑白黄，不论你年轻还是年老  
-Nana's in the house to let you know — Nana 在这儿告诉你  
-What I see is how I feel — 我看见的就是我感觉到的  
-And damn, I'm alone — 该死，我是一个人  
+#### Verse 1
 
-### Chorus（重复）
+Remember first time we met, day one
+Kids in the garden playing
+Games, heaven's fun
+Exciting and amazing, having
+A real friend of mine
+Feel my heartbeat
+And for real, friend of mine
+Face to face and eye to eye
+Using our hands to buy and supply
+Chillin' is cool from January to June
+And we still stuck together like the glue
+And know the rules
+Forever you and I, and believe
+It was clear
+If I ever should fall
+I could count on you with no fear
 
-*(同第一段副歌)*
+Runnin' out of time, I see who's fake
+Alone without protection from all them snakes
+All for one, one for all, I was told
+Black, white, yellow, no matter if you're young or old
+Nana's in the house to let you know
+What I see is how I feel
+And damn, I'm alone
 
-### Verse 2
+#### Chorus（重复）
 
-Everybody's trippin' on me — 人人都跟我过不去  
-Oh Lord, come help me please — 哦主啊，求你帮帮我  
-I did some bad things in my life — 我这辈子做过一些坏事  
-Why can't you rescue me — 你为什么不能救我  
-'Cause you've got all I need — 因为你有我需要的一切  
-I know I got to pay the price — 我知道我得付出代价  
+#### Verse 2
 
-Steppin' through the streets at night — 夜里走在街上  
-After a fuss and fight — 吵完、打完之后  
-Tears in my eyes, I'm a man — 眼里含泪，可我是个男人  
-Lookin' for the light — 在寻找那束光  
-Dark is the path — 路是黑暗的  
-I know He will rescue me — 我知道祂会救我  
-The Lord is my shepherd — 耶和华是我的牧者  
-I'm cool despite emergency — 即便紧急，我仍镇定  
-Whom shall I fear except God — 除了上帝，我还怕谁  
-Thank you for the blessing — 谢谢你的祝福  
-And the skills on the mic — 还有麦克风上的本事  
+Everybody's trippin' on me
+Oh Lord, come help me please
+I did some bad things in my life
+Why can't you rescue me
+'Cause you've got all I need
+I know I got to pay the price
 
-Five years we know, there's no diggity — 五年了我们都清楚，没什么好装的  
-Free at last, see the light in me — 终于自由了，看见我身上的光  
-What goes up must come down — 上去的终究会下来  
-I'll be around while you — 我会还在，而你  
-Heading towards deathtown — 正朝死亡之城走去  
-Always look forward, hardly never look back — 总是向前看，几乎从不回头  
-So many tears and the snakes on my jock — 那么多眼泪，还有盯着我的阴险家伙  
-Now I'm riding in my big fat ride — 现在我开着我的大车  
-Your ass is late, so look for the line — 你迟到了，去排队吧  
-Nana in the house to let you know — Nana 在这儿告诉你  
-What I see is how I feel — 我看见的就是我感觉到的  
-So leave me alone — 所以让我一个人待着  
+Steppin' through the streets at night
+After a fuss and fight
+Tears in my eyes, I'm a man
+Lookin' for the light
+Dark is the path
+I know He will rescue me
+The Lord is my shepherd
+I'm cool despite emergency
+Whom shall I fear except God
+Thank you for the blessing
+And the skills on the mic
 
-### Chorus（重复）
+Five years we know, there's no diggity
+Free at last, see the light in me
+What goes up must come down
+I'll be around while you
+Heading towards deathtown
+Always look forward, hardly never look back
+So many tears and the snakes on my jock
+Now I'm riding in my big fat ride
+Your ass is late, so look for the line
+Nana in the house to let you know
+What I see is how I feel
+So leave me alone
 
-*(同第一段副歌)*
+#### Verse 3
 
-### Verse 3
-
-Knock on my door, whom you lookin' for — 敲我的门，你在找谁  
-A dream or reality, enemies at my door — 是梦还是现实，敌人就在门口  
-Eyes I realize — 我看清了  
-It's fantasize, I must be high — 是幻想，我一定嗨了  
-So let me live before I die — 所以让我在死前好好活  
-Once again grab the bottle, twist the cap — 又一次抓起瓶子，拧开盖  
-To survive, your life is yours, my life is mine — 为了活下去：你的命是你的，我的命是我的  
-No emotions in this world full of lies — 这个满是谎言的世界里没有真情  
-Step by step and be versatile — 一步一步，要灵活多变  
-Love, peace and cash — 爱、和平与钞票  
-That's what it's all about — 说到底就是这些  
-Alone by yourself, then you lack — 若只剩自己，你就会缺  
-There's no doubt about — 这毫无疑问  
-I'm always into something — 我总在忙点什么  
-Making moves to improve — 采取行动去变好  
-What would you do if you were in my shoes — 如果你站在我的位置，你会怎么做  
-Boom, a letter — oops, another suicide — 砰，一封信——哎呀，又一起自杀  
-Meet me for a ride at the boulevard — 在林荫大道上车来接我  
-Nana's in the house to let you know — Nana 在这儿告诉你  
-What I see is how I feel — 我看见的就是我感觉到的  
-And damn, I'm alone — 该死，我是一个人  
+Knock on my door, whom you lookin' for
+A dream or reality, enemies at my door
+Eyes I realize
+It's fantasize, I must be high
+So let me live before I die
+Once again grab the bottle, twist the cap
+To survive, your life is yours, my life is mine
+No emotions in this world full of lies
+Step by step and be versatile
+Love, peace and cash
+That's what it's all about
+Alone by yourself, then you lack
+There's no doubt about
+I'm always into something
+Making moves to improve
+What would you do if you were in my shoes
+Boom, a letter — oops, another suicide
+Meet me for a ride at the boulevard
+Nana's in the house to let you know
+What I see is how I feel
+And damn, I'm alone
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+我好孤独，孤独，孤独
+我这一生好孤独
+我好孤独，孤独，孤独
+上帝啊，帮帮我活下去！
+
+#### Verse 1
+
+还记得我们第一次见面，第一天
+孩子在花园里玩
+游戏，天堂般的快乐
+兴奋又奇妙，拥有
+一个真正的朋友
+感受我的心跳
+真的，我的朋友
+面对面，眼睛对眼睛
+用手去买、去供给
+从一月到六月，一起闲晃真酷
+我们仍像胶水一样黏在一起
+也懂规矩
+永远是你和我，相信
+那很清楚
+如果我哪天跌倒
+我可以毫不害怕地指望你
+
+时间不够了，我看清谁是假的
+孤身一人，没人挡那些阴险的人
+人人为我、我为人人——别人这么告诉我
+黑白黄，不论你年轻还是年老
+Nana 在这儿告诉你
+我看见的就是我感觉到的
+该死，我是一个人
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Verse 2
+
+人人都跟我过不去
+哦主啊，求你帮帮我
+我这辈子做过一些坏事
+你为什么不能救我
+因为你有我需要的一切
+我知道我得付出代价
+
+夜里走在街上
+吵完、打完之后
+眼里含泪，可我是个男人
+在寻找那束光
+路是黑暗的
+我知道祂会救我
+耶和华是我的牧者
+即便紧急，我仍镇定
+除了上帝，我还怕谁
+谢谢你的祝福
+还有麦克风上的本事
+
+五年了我们都清楚，没什么好装的
+终于自由了，看见我身上的光
+上去的终究会下来
+我会还在，而你
+正朝死亡之城走去
+总是向前看，几乎从不回头
+那么多眼泪，还有盯着我的阴险家伙
+现在我开着我的大车
+你迟到了，去排队吧
+Nana 在这儿告诉你
+我看见的就是我感觉到的
+所以让我一个人待着
+
+*(同第一段副歌)*
+
+#### Verse 3
+
+敲我的门，你在找谁
+是梦还是现实，敌人就在门口
+我看清了
+是幻想，我一定嗨了
+所以让我在死前好好活
+又一次抓起瓶子，拧开盖
+为了活下去：你的命是你的，我的命是我的
+这个满是谎言的世界里没有真情
+一步一步，要灵活多变
+爱、和平与钞票
+说到底就是这些
+若只剩自己，你就会缺
+这毫无疑问
+我总在忙点什么
+采取行动去变好
+如果你站在我的位置，你会怎么做
+砰，一封信——哎呀，又一起自杀
+在林荫大道上车来接我
+Nana 在这儿告诉你
+我看见的就是我感觉到的
+该死，我是一个人
 
 ## 重点表达 · Key Phrases
 

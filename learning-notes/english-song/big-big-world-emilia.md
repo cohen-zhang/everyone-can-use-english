@@ -64,52 +64,94 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I'm a big, big girl in a big, big world — 在这个大大的世界里，我是个大大女孩  
-It's not a big, big thing if you leave me — 你离开我也不是什么大事  
-But I do, do feel that I do, do will miss you much — 但我真的、真的觉得我会非常、非常想你  
-Miss you much — 非常想你
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-I can see the first leaf falling — 我看见第一片叶子落下  
-It's all yellow and nice — 它黄黄的，挺好看  
-It's so very cold outside — 外面好冷  
-Like the way I'm feeling inside — 就像我内心的感觉
+I'm a big, big girl in a big, big world
+It's not a big, big thing if you leave me
+But I do, do feel that I do, do will miss you much
+Miss you much
 
-### Chorus（重复）
+#### Verse 1
 
-*(同第一段副歌)*
+I can see the first leaf falling
+It's all yellow and nice
+It's so very cold outside
+Like the way I'm feeling inside
 
-### Verse 2
+#### Chorus（重复）
 
-Outside it's now raining — 外面现在在下雨  
-And tears are falling from my eyes — 泪水从我眼里落下  
-Why did it have to happen — 为什么非得发生  
-Why did it all have to end — 为什么一切都要结束
+#### Verse 2
 
-### Chorus（重复）
+Outside it's now raining
+And tears are falling from my eyes
+Why did it have to happen
+Why did it all have to end
 
-*(同第一段副歌)*
+#### Bridge
 
-### Bridge
+I have your arms around me
+Warm like fire
+But when I open my eyes
+You're gone
 
-I have your arms around me — 你的手臂曾环抱着我  
-Warm like fire — 温暖得像火  
-But when I open my eyes — 但当我睁开眼  
-You're gone — 你已不在
+#### Chorus（重复至结尾）
 
-### Chorus（重复至结尾）
-
-I'm a big, big girl in a big, big world — 在这个大大的世界里，我是个大大女孩  
-It's not a big, big thing if you leave me — 你离开我也不是什么大事  
-But I do, do feel that I do, do will miss you much — 但我真的、真的觉得我会非常、非常想你  
-Miss you much — 非常想你  
-
-*(副歌重复一次后结束)*
+I'm a big, big girl in a big, big world
+It's not a big, big thing if you leave me
+But I do, do feel that I do, do will miss you much
+Miss you much
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+在这个大大的世界里，我是个大大女孩
+你离开我也不是什么大事
+但我真的、真的觉得我会非常、非常想你
+非常想你
+
+#### Verse 1
+
+我看见第一片叶子落下
+它黄黄的，挺好看
+外面好冷
+就像我内心的感觉
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Verse 2
+
+外面现在在下雨
+泪水从我眼里落下
+为什么非得发生
+为什么一切都要结束
+
+*(同第一段副歌)*
+
+#### Bridge
+
+你的手臂曾环抱着我
+温暖得像火
+但当我睁开眼
+你已不在
+
+#### Chorus（重复至结尾）
+
+在这个大大的世界里，我是个大大女孩
+你离开我也不是什么大事
+但我真的、真的觉得我会非常、非常想你
+非常想你
+
+*(副歌重复一次后结束)*
 
 ## 重点表达 · Key Phrases
 

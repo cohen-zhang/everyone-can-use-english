@@ -63,70 +63,140 @@ aliases:
 
 > 歌词按官方歌词视频与常见歌词源整理；原 lrclib 稿有拼写/OCR 错误（如 *your walking*、*you to scared*、*iy feels*），此处已校正为可跟唱文本。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-You said you love me — 你说你爱我  
-One minute — 才一分钟  
-Then you're walking away — 下一秒你就在走开  
-You wanna hold my hand, baby, but you're too scared to say — 你想牵我的手，宝贝，却又怕说出口  
-You said you love me, love me — 你说你爱我、爱我  
-That you need me, need me — 说你需要我、需要我  
-You don't show it, I know it — 你却不表现出来，我心里清楚  
-If falling is so easy, then why am I crying? — 若爱上一个人这么容易，那我为什么在哭？  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-It's not supposed to be like this — 不该是这样的  
-I wanna know my place — 我想知道自己站在哪  
-C'mon and break my space — 来吧，闯进我的空间  
-Wanna feel like I'm needed — 想感觉到自己被需要  
-I'm needed by you — 被你需要  
+You said you love me
+One minute
+Then you're walking away
+You wanna hold my hand, baby, but you're too scared to say
+You said you love me, love me
+That you need me, need me
+You don't show it, I know it
+If falling is so easy, then why am I crying?
 
-### Chorus
+#### Pre-Chorus
 
-I wanna know what it feels like to be haunted by you, oh! — 我想知道被你缠住、挥之不去是什么感觉，哦！  
-I wanna know what it feels like to be wanted by you, oh! — 我想知道被你渴望是什么感觉，哦！  
+It's not supposed to be like this
+I wanna know my place
+C'mon and break my space
+Wanna feel like I'm needed
+I'm needed by you
 
-### Verse 2
+#### Chorus
 
-You kiss me, honey, like you want me to stay — 你吻我，亲爱的，像是想让我留下  
-Love is so hard to get but so quick to throw away — 爱那么难得到，扔掉却那么快  
-You say you want me, want me — 你说你要我、要我  
-That you crave me, crave me — 说你渴望我、渴望我  
-You don't show it — 你却不表现出来  
-I know it — 我心里清楚  
-Like a moth to a flame — 像飞蛾扑火  
-It's not a game for the same — 这可不是谁都能玩的游戏  
-It's not supposed to be like this — 不该是这样的  
+I wanna know what it feels like to be haunted by you, oh!
+I wanna know what it feels like to be wanted by you, oh!
 
-### Pre-Chorus 2
+#### Verse 2
 
-I wanna understand — 我想弄明白  
-Wanna do what I can — 想尽我所能  
-I feel like I'm needed — 我觉得自己被需要  
-I'm needed by you — 被你需要  
+You kiss me, honey, like you want me to stay
+Love is so hard to get but so quick to throw away
+You say you want me, want me
+That you crave me, crave me
+You don't show it
+I know it
+Like a moth to a flame
+It's not a game for the same
+It's not supposed to be like this
 
-### Chorus（重复）
+#### Pre-Chorus 2
 
-I wanna know what it feels like to be haunted by you, oh! — 我想知道被你缠住、挥之不去是什么感觉，哦！  
-I wanna know what it feels like to be wanted by you, oh! — 我想知道被你渴望是什么感觉，哦！  
+I wanna understand
+Wanna do what I can
+I feel like I'm needed
+I'm needed by you
 
-### Bridge
+#### Chorus（重复）
 
-Just touch and go — 只是浅尝辄止、碰一下就走  
-But give me, give me — 可给我、给我  
-Running so fast to know it (wanting to know) — 跑得那么快，只为弄清楚（想要知道）  
-It's not just a phase we cannot erase — 这不只是一段说忘就忘的阶段  
-What we had, what we had — 我们曾经拥有的，曾经拥有的  
-(Eh eh eh) — （衬词）  
+I wanna know what it feels like to be haunted by you, oh!
+I wanna know what it feels like to be wanted by you, oh!
 
-### Final Chorus
+#### Bridge
 
-I wanna know (I wanna know) what it feels like to be haunted (I gotta know) by you, oh! — 我想知道（我想知道）被你缠住是什么感觉（我得知道），哦！  
-I wanna know what it feels (I wanna know) like to be wanted (I gotta know) by you, oh! — 我想知道被你渴望是什么感觉（我得知道），哦！  
-I wanna know what it feels like to be haunted by you, ohhh! — 我想知道被你缠住、挥之不去是什么感觉，哦——！  
+Just touch and go
+But give me, give me
+Running so fast to know it (wanting to know)
+It's not just a phase we cannot erase
+What we had, what we had
+(Eh eh eh)
+
+#### Final Chorus
+
+I wanna know (I wanna know) what it feels like to be haunted (I gotta know) by you, oh!
+I wanna know what it feels (I wanna know) like to be wanted (I gotta know) by you, oh!
+I wanna know what it feels like to be haunted by you, ohhh!
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+你说你爱我
+才一分钟
+下一秒你就在走开
+你想牵我的手，宝贝，却又怕说出口
+你说你爱我、爱我
+说你需要我、需要我
+你却不表现出来，我心里清楚
+若爱上一个人这么容易，那我为什么在哭？
+
+#### Pre-Chorus
+
+不该是这样的
+我想知道自己站在哪
+来吧，闯进我的空间
+想感觉到自己被需要
+被你需要
+
+#### Chorus
+
+我想知道被你缠住、挥之不去是什么感觉，哦！
+我想知道被你渴望是什么感觉，哦！
+
+#### Verse 2
+
+你吻我，亲爱的，像是想让我留下
+爱那么难得到，扔掉却那么快
+你说你要我、要我
+说你渴望我、渴望我
+你却不表现出来
+我心里清楚
+像飞蛾扑火
+这可不是谁都能玩的游戏
+不该是这样的
+
+#### Pre-Chorus 2
+
+我想弄明白
+想尽我所能
+我觉得自己被需要
+被你需要
+
+#### Chorus（重复）
+
+我想知道被你缠住、挥之不去是什么感觉，哦！
+我想知道被你渴望是什么感觉，哦！
+
+#### Bridge
+
+只是浅尝辄止、碰一下就走
+可给我、给我
+跑得那么快，只为弄清楚（想要知道）
+这不只是一段说忘就忘的阶段
+我们曾经拥有的，曾经拥有的
+（衬词）
+
+#### Final Chorus
+
+我想知道（我想知道）被你缠住是什么感觉（我得知道），哦！
+我想知道被你渴望是什么感觉（我得知道），哦！
+我想知道被你缠住、挥之不去是什么感觉，哦——！
 
 ## 重点表达 · Key Phrases
 

@@ -59,56 +59,110 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I'm tired of being what you want me to be — 我厌倦了做你想让我成为的那种人  
-Feeling so faithless, lost under the surface — 感到如此失信、在表面之下迷失  
-Don't know what you're expecting of me — 不知道你对我有何期待  
-Put under the pressure of walking in your shoes — 被迫承受「穿你的鞋走路」的压力  
-(Caught in the undertow, just caught in the undertow) — （困在退浪里，困在退浪里）  
-Every step that I take is another mistake to you — 我每走一步，在你看来都是又一个错误  
-(Caught in the undertow, just caught in the undertow) — （困在退浪里，困在退浪里）  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-I've become so numb, I can't feel you there — 我已变得如此麻木，感受不到你在那里  
-I've become so tired; so much more aware — 我已如此疲惫，却清醒得多  
-I'm becoming this, all I want to do — 我正在变成这样，我唯一想做的  
-Is be more like me and be less like you — 是更像我自己，而不是像你  
+I'm tired of being what you want me to be
+Feeling so faithless, lost under the surface
+Don't know what you're expecting of me
+Put under the pressure of walking in your shoes
+(Caught in the undertow, just caught in the undertow)
+Every step that I take is another mistake to you
+(Caught in the undertow, just caught in the undertow)
 
-### Verse 2
+#### Chorus
 
-Can't you see that you're smothering me? — 你看不见你在窒息我吗？  
-Holding too tightly; afraid to lose control — 抓得太紧，害怕失控  
-'Cause everything that you thought I would be — 因为你曾以为我会成为的一切  
-Has fallen apart right in front of you — 就在你眼前分崩离析  
-(Caught in the undertow, just caught in the undertow) — （困在退浪里，困在退浪里）  
-Every step that I take is another mistake to you — 我每走一步，在你看来都是又一个错误  
-(Caught in the undertow, just caught in the undertow) — （困在退浪里，困在退浪里）  
-And every second I waste is more than I can take — 我浪费的每一秒都超出我能承受  
+I've become so numb, I can't feel you there
+I've become so tired; so much more aware
+I'm becoming this, all I want to do
+Is be more like me and be less like you
 
-### Chorus（重复）
+#### Verse 2
+
+Can't you see that you're smothering me?
+Holding too tightly; afraid to lose control
+'Cause everything that you thought I would be
+Has fallen apart right in front of you
+(Caught in the undertow, just caught in the undertow)
+Every step that I take is another mistake to you
+(Caught in the undertow, just caught in the undertow)
+And every second I waste is more than I can take
+
+#### Chorus（重复）
+
+#### Bridge
+
+And I know I may end up failing too
+But I know you were just like me
+With someone disappointed in you
+
+#### Final Chorus
+
+I've become so numb, I can't feel you there
+I've become so tired; so much more aware
+I'm becoming this, all I want to do
+Is be more like me and be less like you
+I've become so numb, I can't feel you there
+(I'm tired of being what you want me to be)
+I've become so numb, I can't feel you there
+(I'm tired of being what you want me to be)
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我厌倦了做你想让我成为的那种人
+感到如此失信、在表面之下迷失
+不知道你对我有何期待
+被迫承受「穿你的鞋走路」的压力
+（困在退浪里，困在退浪里）
+我每走一步，在你看来都是又一个错误
+（困在退浪里，困在退浪里）
+
+#### Chorus
+
+我已变得如此麻木，感受不到你在那里
+我已如此疲惫，却清醒得多
+我正在变成这样，我唯一想做的
+是更像我自己，而不是像你
+
+#### Verse 2
+
+你看不见你在窒息我吗？
+抓得太紧，害怕失控
+因为你曾以为我会成为的一切
+就在你眼前分崩离析
+（困在退浪里，困在退浪里）
+我每走一步，在你看来都是又一个错误
+（困在退浪里，困在退浪里）
+我浪费的每一秒都超出我能承受
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-And I know I may end up failing too — 我知道我可能也会失败  
-But I know you were just like me — 但我知道你也曾像我一样  
-With someone disappointed in you — 也曾有人对你失望  
+我知道我可能也会失败
+但我知道你也曾像我一样
+也曾有人对你失望
 
-### Final Chorus
+#### Final Chorus
 
-I've become so numb, I can't feel you there — 我已变得如此麻木，感受不到你在那里  
-I've become so tired; so much more aware — 我已如此疲惫，却清醒得多  
-I'm becoming this, all I want to do — 我正在变成这样，我唯一想做的  
-Is be more like me and be less like you — 是更像我自己，而不是像你  
-I've become so numb, I can't feel you there — 我已变得如此麻木，感受不到你在那里  
-(I'm tired of being what you want me to be) — （我厌倦了做你想让我成为的那种人）  
-I've become so numb, I can't feel you there — 我已变得如此麻木，感受不到你在那里  
-(I'm tired of being what you want me to be) — （我厌倦了做你想让我成为的那种人）  
-
----
+我已变得如此麻木，感受不到你在那里
+我已如此疲惫，却清醒得多
+我正在变成这样，我唯一想做的
+是更像我自己，而不是像你
+我已变得如此麻木，感受不到你在那里
+（我厌倦了做你想让我成为的那种人）
+我已变得如此麻木，感受不到你在那里
+（我厌倦了做你想让我成为的那种人）
 
 ## 重点表达 · Key Phrases
 

@@ -60,63 +60,125 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Intro
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-La di da di da da — 啦滴哒滴哒哒  
-La di da di da da — 啦滴哒滴哒哒  
-La di da di da da — 啦滴哒滴哒哒  
-La da da — 啦哒哒  
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Intro
 
-I am tied by truth like an anchor — 我被真相拴住，像锚一样  
-Anchored to a bottomless sea — 锚在一片没有底的海里  
-I am floating freely in the heavens — 我又在天空里自由漂浮  
-Held in by your heart's gravity — 被你的心的引力拉住  
+La di da di da da
+La di da di da da
+La di da di da da
+La da da
 
-All because of love — 全是因为爱  
-All because of love — 全是因为爱  
-Even though sometimes you don't know who I am — 尽管有时你并不了解我是谁  
+#### Verse 1
 
-### Chorus
+I am tied by truth like an anchor
+Anchored to a bottomless sea
+I am floating freely in the heavens
+Held in by your heart's gravity
 
-I am you, everything you do — 我就是你，你所做的一切  
-Anything you say, you want me to be — 你说的任何话，你想让我成为的样子  
-You're me with your arms on a chain — 你是我，双臂却像被链锁住  
-Linked eternally in what we can't undo — 永远连在一起，在我们无法撤销的事里  
-And I am you — 而我就是你  
+All because of love
+All because of love
+Even though sometimes you don't know who I am
 
-### Interlude
+#### Chorus
 
-La di da di da da — 啦滴哒滴哒哒  
-La di da di da da — 啦滴哒滴哒哒  
-La da da — 啦哒哒  
+I am you, everything you do
+Anything you say, you want me to be
+You're me with your arms on a chain
+Linked eternally in what we can't undo
+And I am you
 
-### Verse 2
+#### Interlude
 
-All my senses awaken to the changes — 所有感官都被变化唤醒  
-And I feel alive inside my own skin — 我在自己的皮肤里感到活着  
-All my reasons tell me just how strange it is — 所有理智都在告诉我这有多奇怪  
-Coming home to a place I've always been — 回到一个我一直都在的地方  
+La di da di da da
+La di da di da da
+La da da
 
-And it's all for love — 而一切都是为了爱  
-And it's all for love — 而一切都是为了爱  
-Even though sometimes, I don't know who I am — 尽管有时，我不知道自己是谁  
+#### Verse 2
 
-### Chorus（重复）
+All my senses awaken to the changes
+And I feel alive inside my own skin
+All my reasons tell me just how strange it is
+Coming home to a place I've always been
 
-I am you, everything you do — 我就是你，你所做的一切  
-Anything you say, you want me to be — 你说的任何话，你想让我成为的样子  
-You're me with your arms on a chain — 你是我，双臂却像被链锁住  
-Linked eternally in what we can't undo — 永远连在一起，在我们无法撤销的事里  
-I'm you — 我就是你  
+And it's all for love
+And it's all for love
+Even though sometimes, I don't know who I am
 
-### Outro
+#### Chorus（重复）
+
+I am you, everything you do
+Anything you say, you want me to be
+You're me with your arms on a chain
+Linked eternally in what we can't undo
+I'm you
+
+#### Outro
 
 *(La di da 重复至结尾)*  
-I am you — 我就是你  
+I am you
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro
+
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦哒哒
+
+#### Verse 1
+
+我被真相拴住，像锚一样
+锚在一片没有底的海里
+我又在天空里自由漂浮
+被你的心的引力拉住
+
+全是因为爱
+全是因为爱
+尽管有时你并不了解我是谁
+
+#### Chorus
+
+我就是你，你所做的一切
+你说的任何话，你想让我成为的样子
+你是我，双臂却像被链锁住
+永远连在一起，在我们无法撤销的事里
+而我就是你
+
+#### Interlude
+
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦哒哒
+
+#### Verse 2
+
+所有感官都被变化唤醒
+我在自己的皮肤里感到活着
+所有理智都在告诉我这有多奇怪
+回到一个我一直都在的地方
+
+而一切都是为了爱
+而一切都是为了爱
+尽管有时，我不知道自己是谁
+
+#### Chorus（重复）
+
+我就是你，你所做的一切
+你说的任何话，你想让我成为的样子
+你是我，双臂却像被链锁住
+永远连在一起，在我们无法撤销的事里
+我就是你
+
+#### Outro
+
+我就是你
 
 ## 重点表达 · Key Phrases
 

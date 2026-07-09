@@ -22,16 +22,27 @@ aliases:
 
 > 最常见为**一节六行**（Jane Taylor 1806 年诗 *The Star*）。部分绘本续唱太阳、旅人等节；跟唱 CD 以实际版本为准。拼写注意：**Twinkle**（不是 *Twikle*）。
 
-### 1 · 经典一节 · Classic verse
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 1 · 经典一节 · Classic verse
 
 Twinkle, twinkle, little star,  
 How I wonder what you are!  
 Up above the world so high,  
 Like a diamond in the sky.  
 Twinkle, twinkle, little star,  
-How I wonder what you are! — 闪呀闪，小星星，你究竟是什么？高高挂在天上，像颗钻石。再唱一遍。
+How I wonder what you are!
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### 1 · 经典一节 · Classic verse
+
+闪呀闪，小星星，你究竟是什么？高高挂在天上，像颗钻石。再唱一遍。
 
 ## 跟唱提示 · Sing-along tips
 

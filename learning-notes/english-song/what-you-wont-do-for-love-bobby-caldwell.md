@@ -60,45 +60,90 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I guess you wonder where I've been — 我想你好奇我去哪了  
-I searched to find a love within — 我四处找过，想在心里找到一份爱  
-I came back to let you know — 我回来是想告诉你  
-Got a thing for you and I can't let go — 我对你有意思，没法放手  
+### 英文歌词 · English Lyrics
 
-My friends wonder what is wrong with me — 我朋友都好奇我怎么了  
-Well, I'm in a daze from your love, you see — 嗯，你看，我被你的爱弄得神魂颠倒  
-I came back to let you know — 我回来是想告诉你  
-Got a thing for you and I can't let go — 我对你有意思，没法放手  
+#### Verse 1
 
-### Chorus
+I guess you wonder where I've been
+I searched to find a love within
+I came back to let you know
+Got a thing for you and I can't let go
 
-Some people go around the world for love — 有人为爱走遍世界  
-But they may never find what they dream of — 却可能永远找不到梦想中的那份  
-What you won't do, do for love — 你平时不肯做的，为爱你会做  
-You've tried everything, but you don't give up — 你什么都试过了，却不放弃  
-In my world only you make me do — 在我的世界里，只有你让我  
-For love what I would not do — 为爱去做我本不会做的事  
+My friends wonder what is wrong with me
+Well, I'm in a daze from your love, you see
+I came back to let you know
+Got a thing for you and I can't let go
 
-### Verse 2
+#### Chorus
 
-My friends wonder what is wrong with me — 我朋友都好奇我怎么了  
-Well, I'm in a daze from your love, you see — 嗯，你看，我被你的爱弄得神魂颠倒  
-I came back to let you know — 我回来是想告诉你  
-Got a thing for you and I can't let go — 我对你有意思，没法放手  
+Some people go around the world for love
+But they may never find what they dream of
+What you won't do, do for love
+You've tried everything, but you don't give up
+In my world only you make me do
+For love what I would not do
 
-But then I only want the best, it's true — 可说实话，我只要最好的  
-They can't believe the things I do for you — 他们不敢相信我为你做的事  
-What you won't do, do for love — 你平时不肯做的，为爱你会做  
-You've tried everything, but you won't give up — 你什么都试过了，却不会放弃  
-In my world, only you make me do — 在我的世界里，只有你让我  
-For love what I would not do — 为爱去做我本不会做的事  
-Make me do for love what I would not do — 让我为爱去做我本不会做的事  
-Make me do for love what I would not do — 让我为爱去做我本不会做的事  
-Make me do for love what I would not do — 让我为爱去做我本不会做的事  
+#### Verse 2
+
+My friends wonder what is wrong with me
+Well, I'm in a daze from your love, you see
+I came back to let you know
+Got a thing for you and I can't let go
+
+But then I only want the best, it's true
+They can't believe the things I do for you
+What you won't do, do for love
+You've tried everything, but you won't give up
+In my world, only you make me do
+For love what I would not do
+Make me do for love what I would not do
+Make me do for love what I would not do
+Make me do for love what I would not do
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我想你好奇我去哪了
+我四处找过，想在心里找到一份爱
+我回来是想告诉你
+我对你有意思，没法放手
+
+我朋友都好奇我怎么了
+嗯，你看，我被你的爱弄得神魂颠倒
+我回来是想告诉你
+我对你有意思，没法放手
+
+#### Chorus
+
+有人为爱走遍世界
+却可能永远找不到梦想中的那份
+你平时不肯做的，为爱你会做
+你什么都试过了，却不放弃
+在我的世界里，只有你让我
+为爱去做我本不会做的事
+
+#### Verse 2
+
+我朋友都好奇我怎么了
+嗯，你看，我被你的爱弄得神魂颠倒
+我回来是想告诉你
+我对你有意思，没法放手
+
+可说实话，我只要最好的
+他们不敢相信我为你做的事
+你平时不肯做的，为爱你会做
+你什么都试过了，却不会放弃
+在我的世界里，只有你让我
+为爱去做我本不会做的事
+让我为爱去做我本不会做的事
+让我为爱去做我本不会做的事
+让我为爱去做我本不会做的事
 
 ## 重点表达 · Key Phrases
 

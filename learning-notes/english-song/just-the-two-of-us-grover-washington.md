@@ -61,66 +61,127 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I see the crystal raindrops fall — 我看见晶莹的雨滴落下  
-And the beauty of it all — 而这一切的美好  
-Is when the sun comes shining through — 在于阳光穿透  
-To make those rainbows in my mind — 在我脑海里画出那些彩虹  
-When I think of you sometime — 当我某刻想起你  
-And I wanna spend some time with you — 我就想和你共度时光  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-Just the two of us, we can make it if we try — 就我们俩，只要我们努力就能成  
-Just the two of us (just the two of us) — 就我们俩（就我们俩）  
-Just the two of us — 就我们俩  
-Building castles in the sky — 在天上筑城堡  
-Just the two of us, you and I — 就我们俩，你和我  
+I see the crystal raindrops fall
+And the beauty of it all
+Is when the sun comes shining through
+To make those rainbows in my mind
+When I think of you sometime
+And I wanna spend some time with you
 
-### Verse 2
+#### Chorus
 
-We look for love, no time for tears — 我们寻找爱，没时间流泪  
-Wasted water's all that is — 白白流掉的水仅此而已  
-And it don't make no flowers grow — 它长不出花来  
-Good things might come to those who wait — 好事可能留给等待的人  
-Not for those who wait too late — 但不会留给等太久的人  
-We gotta go for all we know — 我们得为所知的一切全力一搏  
+Just the two of us, we can make it if we try
+Just the two of us (just the two of us)
+Just the two of us
+Building castles in the sky
+Just the two of us, you and I
 
-### Chorus（重复）
+#### Verse 2
 
-Just the two of us, we can make it if we try — 就我们俩，只要我们努力就能成  
-Just the two of us (just the two of us) — 就我们俩（就我们俩）  
-Just the two of us — 就我们俩  
-Building them castles in the sky — 在天上筑那些城堡  
-Just the two of us, you and I — 就我们俩，你和我  
+We look for love, no time for tears
+Wasted water's all that is
+And it don't make no flowers grow
+Good things might come to those who wait
+Not for those who wait too late
+We gotta go for all we know
 
-### Verse 3
+#### Chorus（重复）
 
-I hear the crystal raindrops fall — 我听见晶莹的雨滴落下  
-On the window down the hall — 打在大厅尽头的窗上  
-And it becomes the morning dew — 它化作晨露  
-And darling, when the morning comes — 亲爱的，当清晨来临  
-And I see the morning sun — 我看见晨光  
-I want to be the one with you — 我想成为和你在一起的那个人  
+Just the two of us, we can make it if we try
+Just the two of us (just the two of us)
+Just the two of us
+Building them castles in the sky
+Just the two of us, you and I
 
-### Chorus（重复）
+#### Verse 3
 
-Just the two of us, we can make it if we try — 就我们俩，只要我们努力就能成  
-Just the two of us (just the two of us) — 就我们俩（就我们俩）  
-Just the two of us — 就我们俩  
-Building big castles way on high — 在高处筑大大的城堡  
-Just the two of us, you and I — 就我们俩，你和我  
+I hear the crystal raindrops fall
+On the window down the hall
+And it becomes the morning dew
+And darling, when the morning comes
+And I see the morning sun
+I want to be the one with you
 
-### Outro（即兴重复）
+Just the two of us, we can make it if we try
+Just the two of us (just the two of us)
+Just the two of us
+Building big castles way on high
+Just the two of us, you and I
 
-(Just the two of us) Yes, the two of us — （就我们俩）对，就我们俩  
-(Just the two of us) Let's get together, baby — （就我们俩）宝贝，我们在一起吧  
-(Just the two of us) Just the two of us — （就我们俩）就我们俩  
-(We can make it, just the two of us) — （我们能成，就我们俩）  
-*(结尾多遍重复 ad-lib)*
+#### Outro（即兴重复）
+
+(Just the two of us) Yes, the two of us
+(Just the two of us) Let's get together, baby
+(Just the two of us) Just the two of us
+(We can make it, just the two of us)
+*(Closing ad-libs repeated)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我看见晶莹的雨滴落下
+而这一切的美好
+在于阳光穿透
+在我脑海里画出那些彩虹
+当我某刻想起你
+我就想和你共度时光
+
+#### Chorus
+
+就我们俩，只要我们努力就能成
+就我们俩（就我们俩）
+就我们俩
+在天上筑城堡
+就我们俩，你和我
+
+#### Verse 2
+
+我们寻找爱，没时间流泪
+白白流掉的水仅此而已
+它长不出花来
+好事可能留给等待的人
+但不会留给等太久的人
+我们得为所知的一切全力一搏
+
+#### Chorus（重复）
+
+就我们俩，只要我们努力就能成
+就我们俩（就我们俩）
+就我们俩
+在天上筑那些城堡
+就我们俩，你和我
+
+#### Verse 3
+
+我听见晶莹的雨滴落下
+打在大厅尽头的窗上
+它化作晨露
+亲爱的，当清晨来临
+我看见晨光
+我想成为和你在一起的那个人
+
+就我们俩，只要我们努力就能成
+就我们俩（就我们俩）
+就我们俩
+在高处筑大大的城堡
+就我们俩，你和我
+
+#### Outro（即兴重复）
+
+（就我们俩）对，就我们俩
+（就我们俩）宝贝，我们在一起吧
+（就我们俩）就我们俩
+（我们能成，就我们俩）
 
 ## 重点表达 · Key Phrases
 

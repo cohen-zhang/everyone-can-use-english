@@ -59,61 +59,118 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-So you're still thinking of me — 所以你还在想着我  
-Just like I know you should — 就像我知道你会的那样  
-I can not give you everything, you know I wish I could — 我给不了你一切，你知道我多么希望我能  
-I'm so high at the moment — 此刻我情绪高涨  
-I'm so caught up in this — 我完全沉浸其中  
-Yeah, we're just young, dumb and broke — 是啊，我们只是年轻、犯傻又没钱  
-But we still got love to give — 但我们仍有爱可以付出  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-While we're young, dumb — 趁我们还年轻、还犯傻  
-Young, young, dumb and broke — 年轻、年轻、犯傻又没钱  
-Young, dumb — 年轻、犯傻  
-Young, young, dumb and broke — 年轻、年轻、犯傻又没钱  
-Young, dumb — 年轻、犯傻  
-Young, young dumb and broke — 年轻、年轻、犯傻又没钱  
-Young, dumb, broke high school kids — 年轻、犯傻、没钱的高中生  
-Ya-da-da da-da da-da-da — （无词哼唱）  
-Ya-da-da da-da da-da — （无词哼唱）  
-Ya-da-da da-da-da da-da — （无词哼唱）  
-Young, dumb, broke high school kids — 年轻、犯傻、没钱的高中生  
+So you're still thinking of me
+Just like I know you should
+I can not give you everything, you know I wish I could
+I'm so high at the moment
+I'm so caught up in this
+Yeah, we're just young, dumb and broke
+But we still got love to give
 
-### Verse 2
+#### Chorus
 
-We have so much in common — 我们共同点很多  
-We argue all the time — 却也一直吵架  
-You always say I'm wrong — 你总说我错了  
-I'm pretty sure I'm right — 我很确定我对  
-What's fun about commitment? — 承诺有什么好玩的？  
-When we have our life to live — 我们还有整个人生要过  
-Yeah, we're just young, dumb and broke — 是啊，我们只是年轻、犯傻又没钱  
-But we still got love to give — 但我们仍有爱可以付出  
+While we're young, dumb
+Young, young, dumb and broke
+Young, dumb
+Young, young, dumb and broke
+Young, dumb
+Young, young dumb and broke
+Young, dumb, broke high school kids
+Ya-da-da da-da da-da-da
+Ya-da-da da-da da-da
+Ya-da-da da-da-da da-da
+Young, dumb, broke high school kids
 
-### Chorus（重复）
+#### Verse 2
+
+We have so much in common
+We argue all the time
+You always say I'm wrong
+I'm pretty sure I'm right
+What's fun about commitment?
+When we have our life to live
+Yeah, we're just young, dumb and broke
+But we still got love to give
+
+#### Chorus（重复）
+
+#### Bridge
+
+Jump and we think, leave it all in the game of love, love
+Run into sin, do it all in the name of fun, fun
+Woo-oo-oo
+
+#### Verse 3 + Outro
+
+I'm so high at the moment
+I'm so caught up in this
+Yeah, we're just young, dumb and broke
+But we still got love to give
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+所以你还在想着我
+就像我知道你会的那样
+我给不了你一切，你知道我多么希望我能
+此刻我情绪高涨
+我完全沉浸其中
+是啊，我们只是年轻、犯傻又没钱
+但我们仍有爱可以付出
+
+#### Chorus
+
+趁我们还年轻、还犯傻
+年轻、年轻、犯傻又没钱
+年轻、犯傻
+年轻、年轻、犯傻又没钱
+年轻、犯傻
+年轻、年轻、犯傻又没钱
+年轻、犯傻、没钱的高中生
+（无词哼唱）
+（无词哼唱）
+（无词哼唱）
+年轻、犯傻、没钱的高中生
+
+#### Verse 2
+
+我们共同点很多
+却也一直吵架
+你总说我错了
+我很确定我对
+承诺有什么好玩的？
+我们还有整个人生要过
+是啊，我们只是年轻、犯傻又没钱
+但我们仍有爱可以付出
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-Jump and we think, leave it all in the game of love, love — 纵身一跃，把一切押在爱的游戏里  
-Run into sin, do it all in the name of fun, fun — 奔向「罪过」，一切只为好玩  
-Woo-oo-oo — （无词过渡）  
+纵身一跃，把一切押在爱的游戏里
+奔向「罪过」，一切只为好玩
+（无词过渡）
 
-### Verse 3 + Outro
+#### Verse 3 + Outro
 
-I'm so high at the moment — 此刻我情绪高涨  
-I'm so caught up in this — 我完全沉浸其中  
-Yeah, we're just young, dumb and broke — 是啊，我们只是年轻、犯傻又没钱  
-But we still got love to give — 但我们仍有爱可以付出  
+此刻我情绪高涨
+我完全沉浸其中
+是啊，我们只是年轻、犯傻又没钱
+但我们仍有爱可以付出
 
 *(副歌重复至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

@@ -62,72 +62,144 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I remember what you wore on the first day — 我记得你第一天穿的什么  
-You came into my life and I thought, hey — 你走进我的生活，我想，嘿  
-You know this could be something — 你知道这可能会发展成什么  
+### 英文歌词 · English Lyrics
 
-'Cause everything you do and words you say — 因为你的一举一动、一言一语  
-You know that it all takes my breath away — 你知道这些都让我屏息  
-And now I'm left with nothing — 而现在我心里什么都不剩（只剩你）  
+#### Verse 1
 
-### Chorus
+I remember what you wore on the first day
+You came into my life and I thought, hey
+You know this could be something
 
-So maybe it's true — 所以也许这是真的  
-That I can't live without you — 我离不开你  
-And maybe two is better than one — 也许两个人在一起更好  
-But there's so much time — 但人生还有那么多时间  
-To figure out the rest of my life — 去弄清余下的人生该怎么过  
-And you've already got me coming undone — 而你早已让我溃不成军  
-And I'm thinking two is better than one — 我在想，两个人在一起更好  
+'Cause everything you do and words you say
+You know that it all takes my breath away
+And now I'm left with nothing
 
-### Verse 2
+#### Chorus
 
-I remember every look upon your face — 我记得你脸上每一个表情  
-The way you roll your eyes, the way you taste — 你翻白眼的样子，你吻的味道  
-You make it hard for breathing — 你让我呼吸困难（太心动）  
+So maybe it's true
+That I can't live without you
+And maybe two is better than one
+But there's so much time
+To figure out the rest of my life
+And you've already got me coming undone
+And I'm thinking two is better than one
 
-'Cause when I close my eyes and drift away — 因为当我闭眼、神游时  
-I think of you and everything's okay — 想到你，一切都好  
-I'm finally now believing — 我终于开始相信了  
+#### Verse 2
 
-### Chorus（重复）
+I remember every look upon your face
+The way you roll your eyes, the way you taste
+You make it hard for breathing
 
-Then maybe it's true — 那时也许这是真的  
-That I can't live without you — 我离不开你  
-And maybe two is better than one — 也许两个人在一起更好  
-But there's so much time — 但人生还有那么多时间  
-To figure out the rest of my life — 去弄清余下的人生该怎么过  
-And you've already got me coming undone — 而你早已让我溃不成军  
-And I'm thinking two is better than one — 我在想，两个人在一起更好  
+'Cause when I close my eyes and drift away
+I think of you and everything's okay
+I'm finally now believing
 
-### Bridge
+#### Chorus（重复）
 
-I remember what you wore on the first day — 我记得你第一天穿的什么  
-You came into my life and I thought, hey (hey, hey) — 你走进我的生活，我想，嘿（嘿，嘿）  
+Then maybe it's true
+That I can't live without you
+And maybe two is better than one
+But there's so much time
+To figure out the rest of my life
+And you've already got me coming undone
+And I'm thinking two is better than one
 
-### Chorus（Bridge 后）
+#### Bridge
 
-Maybe it's true — 也许这是真的  
-That I can't live without you — 我离不开你  
-And maybe two is better than one — 也许两个人在一起更好  
-But there's so much time — 但人生还有那么多时间  
-To figure out the rest of my life — 去弄清余下的人生该怎么过  
-And you've already got me coming undone — 而你早已让我溃不成军  
+I remember what you wore on the first day
+You came into my life and I thought, hey (hey, hey)
 
-### Outro
+#### Chorus（Bridge 后）
 
-And I'm thinking, ooh — 我在想，哦  
-I can't live without you — 我离不开你  
-'Cause baby, two is better than one — 因为宝贝，两个人在一起更好  
-There's so much time — 人生还有那么多时间  
-To figure out the rest of my life — 去弄清余下的人生该怎么过  
-But I've figured out when all that's said and done — 但当一切尘埃落定，我明白了  
-Two is better than one — 两个人在一起更好  
-Two is better than one — 两个人在一起更好  
+Maybe it's true
+That I can't live without you
+And maybe two is better than one
+But there's so much time
+To figure out the rest of my life
+And you've already got me coming undone
+
+#### Outro
+
+And I'm thinking, ooh
+I can't live without you
+'Cause baby, two is better than one
+There's so much time
+To figure out the rest of my life
+But I've figured out when all that's said and done
+Two is better than one
+Two is better than one
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我记得你第一天穿的什么
+你走进我的生活，我想，嘿
+你知道这可能会发展成什么
+
+因为你的一举一动、一言一语
+你知道这些都让我屏息
+而现在我心里什么都不剩（只剩你）
+
+#### Chorus
+
+所以也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
+我在想，两个人在一起更好
+
+#### Verse 2
+
+我记得你脸上每一个表情
+你翻白眼的样子，你吻的味道
+你让我呼吸困难（太心动）
+
+因为当我闭眼、神游时
+想到你，一切都好
+我终于开始相信了
+
+#### Chorus（重复）
+
+那时也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
+我在想，两个人在一起更好
+
+#### Bridge
+
+我记得你第一天穿的什么
+你走进我的生活，我想，嘿（嘿，嘿）
+
+#### Chorus（Bridge 后）
+
+也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
+
+#### Outro
+
+我在想，哦
+我离不开你
+因为宝贝，两个人在一起更好
+人生还有那么多时间
+去弄清余下的人生该怎么过
+但当一切尘埃落定，我明白了
+两个人在一起更好
+两个人在一起更好
 
 ## 重点表达 · Key Phrases
 

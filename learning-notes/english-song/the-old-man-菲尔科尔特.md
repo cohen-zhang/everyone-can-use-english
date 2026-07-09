@@ -57,63 +57,118 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-The tears have all been shed now — 眼泪都已流尽  
-We've said our last goodbyes — 我们已作最后的告别  
-His soul's been blessed, he's laid to rest — 他的灵魂已受祝福，他已入土安息  
-And it's now I feel alone — 而此刻我只觉孤单  
+### 英文歌词 · English Lyrics
 
-He was more than just a father — 他不仅是父亲  
-A teacher, my best friend — 是老师，是我最好的朋友  
-He can still be heard — 仍能听见他的声音  
-In the tunes we shared — 在我们曾一起弹奏的曲调里  
-When we play them on our own — 当我们独自演奏那些曲子  
+#### Verse 1
 
-### Chorus
+The tears have all been shed now
+We've said our last goodbyes
+His soul's been blessed, he's laid to rest
+And it's now I feel alone
 
-I never will forget him — 我永远不会忘记他  
-For he made me what I am — 因为他造就了今天的我  
-Though he may be gone — 尽管他已离去  
-Memories linger on — 记忆久久萦绕  
-And I miss him, the old man — 我想念他，那位老人  
+He was more than just a father
+A teacher, my best friend
+He can still be heard
+In the tunes we shared
+When we play them on our own
 
-### Verse 2
+#### Chorus
 
-As a boy, he'd take me walking — 小时候，他会带我去散步  
-By mountain, field and stream — 过山、穿野、沿溪  
-And he showed me things — 他教我看  
-Not known to kings — 君王都不曾知晓的事物  
-And secret between him and me — 只属于他我之间的秘密  
+I never will forget him
+For he made me what I am
+Though he may be gone
+Memories linger on
+And I miss him, the old man
 
-Like the colors of the pheasant — 比如野鸡扑翅时  
-As he rises in the dawn — 在黎明飞起的色彩  
-And how to fish and make a wish — 以及如何钓鱼、如何许愿  
-Beside the holly tree — 在冬青树旁  
+#### Verse 2
 
-### Chorus（重复）
+As a boy, he'd take me walking
+By mountain, field and stream
+And he showed me things
+Not known to kings
+And secret between him and me
 
-*(同第一段副歌)*  
+Like the colors of the pheasant
+As he rises in the dawn
+And how to fish and make a wish
+Beside the holly tree
 
-### Verse 3
+#### Chorus（重复）
 
-I thought he'd live forever — 我以为他会永远活着  
-He seemed so big and strong — 他看起来那么高大强壮  
-But the minutes fly — 但分秒飞逝  
-And the years roll by — 岁月滚滚  
-For a father and a son — 对一对父子而言  
+#### Verse 3
 
-And suddenly, when it happened — 而当那一刻突然来临  
-There was so much left unsaid — 还有太多话未曾说出口  
-No second chance — 没有第二次机会  
-To tell him thanks — 去对他说声谢谢  
-For everything he's done — 感谢他做过的一切  
+I thought he'd live forever
+He seemed so big and strong
+But the minutes fly
+And the years roll by
+For a father and a son
 
-### Chorus（重复）
-
-*(同第一段副歌)*  
+And suddenly, when it happened
+There was so much left unsaid
+No second chance
+To tell him thanks
+For everything he's done
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+眼泪都已流尽
+我们已作最后的告别
+他的灵魂已受祝福，他已入土安息
+而此刻我只觉孤单
+
+他不仅是父亲
+是老师，是我最好的朋友
+仍能听见他的声音
+在我们曾一起弹奏的曲调里
+当我们独自演奏那些曲子
+
+#### Chorus
+
+我永远不会忘记他
+因为他造就了今天的我
+尽管他已离去
+记忆久久萦绕
+我想念他，那位老人
+
+#### Verse 2
+
+小时候，他会带我去散步
+过山、穿野、沿溪
+他教我看
+君王都不曾知晓的事物
+只属于他我之间的秘密
+
+比如野鸡扑翅时
+在黎明飞起的色彩
+以及如何钓鱼、如何许愿
+在冬青树旁
+
+#### Chorus（重复）
+
+*(同第一段副歌)*  
+
+#### Verse 3
+
+我以为他会永远活着
+他看起来那么高大强壮
+但分秒飞逝
+岁月滚滚
+对一对父子而言
+
+而当那一刻突然来临
+还有太多话未曾说出口
+没有第二次机会
+去对他说声谢谢
+感谢他做过的一切
+
+*(同第一段副歌)*
 
 ## 重点表达 · Key Phrases
 

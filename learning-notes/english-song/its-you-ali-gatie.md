@@ -61,78 +61,148 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Chorus
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-It's you, it's always you — 是你，一直都是你  
-If I'm ever gonna fall in love — 若我终将坠入爱河  
-I know it's gon' be you — 我知道那个人只会是你  
-It's you, it's always you — 是你，一直都是你  
-Met a lot of people, but nobody feels like you — 我见过很多人，但没人像你
+### 英文歌词 · English Lyrics
 
-### Verse 1
+#### Chorus
 
-So, please don't break my heart — 所以，请别伤我的心  
-Don't tear me apart — 别把我撕碎  
-I know how it starts — 我知道是怎么开始的  
-Trust me, I've been broken before — 相信我，我以前心碎过  
-Don't break me again — 别再伤我一次  
-I am delicate — 我很脆弱  
-Please, don't break my heart — 请别伤我的心  
-Trust me, I've been broken before — 相信我，我以前心碎过
+It's you, it's always you
+If I'm ever gonna fall in love
+I know it's gon' be you
+It's you, it's always you
+Met a lot of people, but nobody feels like you
 
-### Bridge 1
+#### Verse 1
 
-I've been broken, yeah — 我受过伤，是啊  
-I know how it feels — 我知道那是什么感觉  
-To be open — 敞开自己  
-And then find out your love isn't real — 却发现对方的爱并不真  
-I'm still hurting, yeah — 我还在痛  
-I'm hurting inside — 内心仍在疼  
-I'm so scared to fall in love, but if it's you, then I'll try — 我好怕再恋爱，但若是为你，我愿意试
+So, please don't break my heart
+Don't tear me apart
+I know how it starts
+Trust me, I've been broken before
+Don't break me again
+I am delicate
+Please, don't break my heart
+Trust me, I've been broken before
 
-### Chorus（重复）
+#### Bridge 1
 
-*(同第一段副歌)*
+I've been broken, yeah
+I know how it feels
+To be open
+And then find out your love isn't real
+I'm still hurting, yeah
+I'm hurting inside
+I'm so scared to fall in love, but if it's you, then I'll try
 
-### Verse 1（重复）
+#### Chorus（重复）
+
+#### Verse 1（重复）
 
 *(同 Verse 1)*
 
-### Bridge 2
+#### Bridge 2
 
-I know I'm not the best at choosing lovers — 我知道自己不太会挑对象  
-We both know my past speaks for itself (for itself) — 我们都知道我的过去不言自明  
-If you don't think that we're right for each other (for each other) — 若你觉得我们并不合适  
-Then please don't let history repeat itself — 那就请别让历史重演
+I know I'm not the best at choosing lovers
+We both know my past speaks for itself (for itself)
+If you don't think that we're right for each other (for each other)
+Then please don't let history repeat itself
 
-### Pre-Chorus
+#### Pre-Chorus
 
-'Cause I want you, I want you — 因为我想要你，我想要你  
-There's nothing else I want — 我什么都不想要  
-'Cause I want you, I want you — 因为我想要你，我想要你  
-And you're the only thing I want — 你是我唯一想要的
+'Cause I want you, I want you
+There's nothing else I want
+'Cause I want you, I want you
+And you're the only thing I want
 
-### Chorus（重复）
+It's you, it's always you
+If I'm ever gonna fall in love
+I know it's gon' be you
+It's you, it's always you
+Met a lot of people
+But nobody feels like you
 
-It's you, it's always you — 是你，一直都是你  
-If I'm ever gonna fall in love — 若我终将坠入爱河  
-I know it's gon' be you — 我知道那个人只会是你  
-It's you, it's always you — 是你，一直都是你  
-Met a lot of people — 我见过很多人  
-But nobody feels like you — 但没人像你
+#### Outro
 
-### Outro
-
-So, please don't break my heart — 所以，请别伤我的心  
-Don't tear me apart — 别把我撕碎  
-I know how it starts — 我知道是怎么开始的  
-Trust me, I've been broken before — 相信我，我以前心碎过  
-Don't break me again — 别再伤我一次  
-I am delicate — 我很脆弱  
-Please, don't break my heart — 请别伤我的心  
-Trust me, I've been broken before — 相信我，我以前心碎过
+So, please don't break my heart
+Don't tear me apart
+I know how it starts
+Trust me, I've been broken before
+Don't break me again
+I am delicate
+Please, don't break my heart
+Trust me, I've been broken before
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Chorus
+
+是你，一直都是你
+若我终将坠入爱河
+我知道那个人只会是你
+是你，一直都是你
+我见过很多人，但没人像你
+
+#### Verse 1
+
+所以，请别伤我的心
+别把我撕碎
+我知道是怎么开始的
+相信我，我以前心碎过
+别再伤我一次
+我很脆弱
+请别伤我的心
+相信我，我以前心碎过
+
+#### Bridge 1
+
+我受过伤，是啊
+我知道那是什么感觉
+敞开自己
+却发现对方的爱并不真
+我还在痛
+内心仍在疼
+我好怕再恋爱，但若是为你，我愿意试
+
+#### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### Verse 1（重复）
+
+#### Bridge 2
+
+我知道自己不太会挑对象
+我们都知道我的过去不言自明
+若你觉得我们并不合适
+那就请别让历史重演
+
+#### Pre-Chorus
+
+因为我想要你，我想要你
+我什么都不想要
+因为我想要你，我想要你
+你是我唯一想要的
+
+是你，一直都是你
+若我终将坠入爱河
+我知道那个人只会是你
+是你，一直都是你
+我见过很多人
+但没人像你
+
+#### Outro
+
+所以，请别伤我的心
+别把我撕碎
+我知道是怎么开始的
+相信我，我以前心碎过
+别再伤我一次
+我很脆弱
+请别伤我的心
+相信我，我以前心碎过
 
 ## 重点表达 · Key Phrases
 

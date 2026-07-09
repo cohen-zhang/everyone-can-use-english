@@ -65,82 +65,164 @@ aliases:
 
 > 以下歌词对应 **Sigrid 版**录音；与 Cohen 原作文本一致。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Everybody knows that the dice are loaded — 人人都知道骰子做了手脚  
-Everybody rolls with their fingers crossed — 人人都交叉手指掷骰  
-Everybody knows the war is over — 人人都知道战争结束了  
-Everybody knows the good guys lost — 人人都知道好人输了  
-Everybody knows the fight was fixed — 人人都知道比赛内定  
-The poor stay poor, the rich get rich — 穷人依旧穷，富人越来越富  
-That's how it goes — 就是这样  
-Everybody knows — 人人都知道  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-Everybody knows that the boat is leaking — 人人都知道船在漏水  
-Everybody knows that the captain lied — 人人都知道船长撒了谎  
-Everybody got this broken feeling — 人人心里都有这种破碎感  
-Like their father or their dog just died — 像刚失去父亲或爱犬  
-Everybody talking to their pockets — 人人都在跟自己的口袋说话  
-Everybody wants a box of chocolates — 人人都想要一盒巧克力  
-And a long-stem rose — 和一支长茎玫瑰  
-Everybody knows — 人人都知道  
+Everybody knows that the dice are loaded
+Everybody rolls with their fingers crossed
+Everybody knows the war is over
+Everybody knows the good guys lost
+Everybody knows the fight was fixed
+The poor stay poor, the rich get rich
+That's how it goes
+Everybody knows
 
-### Verse 3
+#### Verse 2
 
-Everybody knows that you love me baby — 人人都知道你爱我，宝贝  
-Everybody knows that you really do — 人人都知道你是真的  
-Everybody knows that you've been faithful — 人人都知道你一直忠诚  
-Oh, give or take a night or two — 哦，顶多差个一两晚  
-Everybody knows you've been discreet — 人人都知道你够 discreet  
-But there were so many people you just had to meet — 但你要见的人实在太多  
-Without your clothes — 而且都不穿衣服  
-Everybody knows — 人人都知道  
+Everybody knows that the boat is leaking
+Everybody knows that the captain lied
+Everybody got this broken feeling
+Like their father or their dog just died
+Everybody talking to their pockets
+Everybody wants a box of chocolates
+And a long-stem rose
+Everybody knows
 
-### Chorus
+#### Verse 3
 
-Everybody knows, everybody knows — 人人都知道，人人都知道  
-That's how it goes — 就是这样  
-Everybody knows — 人人都知道  
-Everybody knows, everybody knows — 人人都知道，人人都知道  
-That's how it goes — 就是这样  
-Everybody knows — 人人都知道  
+Everybody knows that you love me baby
+Everybody knows that you really do
+Everybody knows that you've been faithful
+Oh, give or take a night or two
+Everybody knows you've been discreet
+But there were so many people you just had to meet
+Without your clothes
+Everybody knows
 
-### Verse 4
+#### Chorus
 
-And everybody knows that it's now or never — 人人都知道现在是最后机会  
-And everybody knows that it's me or you — 人人都知道是你还是我  
-And everybody knows that you live forever — 人人都知道你吸一两口就能「永生」  
-When you've done a line or two — 当你吸了一两行之后  
-Everybody knows the deal is rotten — 人人都知道这笔交易烂透了  
-Old Black Joe's still picking cotton — 老 Black Joe 还在摘棉花  
-For your ribbons and bows — 为了你的丝带和蝴蝶结  
-And everybody knows — 人人都知道  
+Everybody knows, everybody knows
+That's how it goes
+Everybody knows
+Everybody knows, everybody knows
+That's how it goes
+Everybody knows
 
-### Verse 5
+#### Verse 4
 
-And everybody knows that the plague is coming — 人人都知道瘟疫要来  
-Everybody knows that it's moving fast — 人人都知道它蔓延很快  
-Everybody knows that the naked man and woman — 人人都知道裸体的男人和女人  
-Are just a shining artifact of the past — 只是过去闪光的遗迹  
-Everybody knows the scene is dead — 人人都知道这场景已死  
-But there's gonna be a meter on your bed — 但你的床上会装个计量器  
-That will disclose — 它会揭露  
-What everybody knows — 人人都知道的事  
+And everybody knows that it's now or never
+And everybody knows that it's me or you
+And everybody knows that you live forever
+When you've done a line or two
+Everybody knows the deal is rotten
+Old Black Joe's still picking cotton
+For your ribbons and bows
+And everybody knows
 
-### Verse 6
+#### Verse 5
 
-And everybody knows that you're in trouble — 人人都知道你 trouble 了  
-Everybody knows what you've been through — 人人都知道你经历了什么  
-From the bloody cross on top of Calvary — 从 Calvary 顶上血淋淋的十字架  
-To the beach of Malibu — 到 Malibu 的海滩  
-Everybody knows it's coming apart — 人人都知道一切在分崩离析  
-Take one last look at this Sacred Heart — 在这 Sacred Heart 消失前最后看一眼  
-Before it blows — 在它爆炸之前  
-Everybody knows — 人人都知道  
+And everybody knows that the plague is coming
+Everybody knows that it's moving fast
+Everybody knows that the naked man and woman
+Are just a shining artifact of the past
+Everybody knows the scene is dead
+But there's gonna be a meter on your bed
+That will disclose
+What everybody knows
+
+#### Verse 6
+
+And everybody knows that you're in trouble
+Everybody knows what you've been through
+From the bloody cross on top of Calvary
+To the beach of Malibu
+Everybody knows it's coming apart
+Take one last look at this Sacred Heart
+Before it blows
+Everybody knows
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+人人都知道骰子做了手脚
+人人都交叉手指掷骰
+人人都知道战争结束了
+人人都知道好人输了
+人人都知道比赛内定
+穷人依旧穷，富人越来越富
+就是这样
+人人都知道
+
+#### Verse 2
+
+人人都知道船在漏水
+人人都知道船长撒了谎
+人人心里都有这种破碎感
+像刚失去父亲或爱犬
+人人都在跟自己的口袋说话
+人人都想要一盒巧克力
+和一支长茎玫瑰
+人人都知道
+
+#### Verse 3
+
+人人都知道你爱我，宝贝
+人人都知道你是真的
+人人都知道你一直忠诚
+哦，顶多差个一两晚
+人人都知道你够 discreet
+但你要见的人实在太多
+而且都不穿衣服
+人人都知道
+
+#### Chorus
+
+人人都知道，人人都知道
+就是这样
+人人都知道
+人人都知道，人人都知道
+就是这样
+人人都知道
+
+#### Verse 4
+
+人人都知道现在是最后机会
+人人都知道是你还是我
+人人都知道你吸一两口就能「永生」
+当你吸了一两行之后
+人人都知道这笔交易烂透了
+老 Black Joe 还在摘棉花
+为了你的丝带和蝴蝶结
+人人都知道
+
+#### Verse 5
+
+人人都知道瘟疫要来
+人人都知道它蔓延很快
+人人都知道裸体的男人和女人
+只是过去闪光的遗迹
+人人都知道这场景已死
+但你的床上会装个计量器
+它会揭露
+人人都知道的事
+
+#### Verse 6
+
+人人都知道你 trouble 了
+人人都知道你经历了什么
+从 Calvary 顶上血淋淋的十字架
+到 Malibu 的海滩
+人人都知道一切在分崩离析
+在这 Sacred Heart 消失前最后看一眼
+在它爆炸之前
+人人都知道
 
 ## 重点表达 · Key Phrases
 

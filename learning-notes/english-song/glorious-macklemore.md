@@ -63,75 +63,146 @@ aliases:
 
 > Verse 含轻度粗口，为歌曲原词；学习时注意语境与场合。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-You know I'm back like I never left — 你知道我回来了，像从未离开  
-Another sprint, another step — 又一次冲刺，又一步  
-Another day, another breath — 又一天，又一次呼吸  
-Been chasing dreams, but I never slept — 追逐梦想，却几乎没睡  
-I got a new attitude and a lease on life — 我有了新态度，人生重新「租期续签」  
-And some peace of mind — 还有内心平静  
-Seek and I find I can sleep when I die — 寻求便找到：死后再睡吧  
-Wanna piece of the pie, grab the keys to the ride — 想要人生一块饼，抓起车钥匙  
-And shit I'm straight — 妈的，我状态很好  
-I'm on my wave, I'm on my wave — 我在我的节奏上，我在我的节奏上  
-Get out my wake, I'm running late, what can I say? — 别挡我尾流，我快迟到了，我能说什么？  
-I heard you die twice, once when they bury you in the grave — 听说人死两次，一次是入土  
-And the second time is the last time that somebody mentions your name — 第二次是最后一次有人提起你的名字  
-So when I leave here on this earth, did I take more than I gave? — 所以离开人世时，我拿的是否比给的多？  
-Did I look out for the people or did I do it all for fame? — 我照顾了身边的人，还是只为名声？  
-Legend it's exodus searching for euphoria — 传奇如 Exodus，寻找 euphoria  
-Trudging through the mud to find the present, no ignoring us — 在泥里跋涉寻找当下，没人能忽视我们  
-Got 20, 000 deep off in the street like we some warriors — 两万人上街，像战士一样  
-My mama told me never bow your head, woo! — 我妈说永远不要低头，哇！  
+### 英文歌词 · English Lyrics
 
-### Chorus（Skylar Grey）
+#### Verse 1
 
-I feel glorious, glorious — 我感到光荣，光荣  
-Got a chance to start again — 有机会重新开始  
-I was born for this, born for this — 我为此而生，为此而生  
-It's who I am, how could I forget? — 这就是我，怎能忘记？  
-I made it through the darkest part of the night — 我熬过了夜最暗的那段  
-And now I see the sunrise — 现在我看见了日出  
-Now I feel glorious, glorious — 现在我感到光荣，光荣  
-I feel glorious, glorious — 我感到光荣，光荣  
+You know I'm back like I never left
+Another sprint, another step
+Another day, another breath
+Been chasing dreams, but I never slept
+I got a new attitude and a lease on life
+And some peace of mind
+Seek and I find I can sleep when I die
+Wanna piece of the pie, grab the keys to the ride
+And shit I'm straight
+I'm on my wave, I'm on my wave
+Get out my wake, I'm running late, what can I say?
+I heard you die twice, once when they bury you in the grave
+And the second time is the last time that somebody mentions your name
+So when I leave here on this earth, did I take more than I gave?
+Did I look out for the people or did I do it all for fame?
+Legend it's exodus searching for euphoria
+Trudging through the mud to find the present, no ignoring us
+Got 20, 000 deep off in the street like we some warriors
+My mama told me never bow your head, woo!
 
-### Verse 2
+#### Chorus（Skylar Grey）
 
-I'm feeling glorious — 我感到光荣  
-The crib looking Victorian (oh yes it is) — 房子像维多利亚式（哦没错）  
-You know that we been going in — 你知道我们一直拼  
-Since we hopped out that Delorean (Delorean, yeah we win) — 自从我们跳出那辆 DeLorean（DeLorean，我们赢了）  
-En garde, things are just things — 预备——东西只是东西  
-They don't make you who you are — 它们不能定义你是谁  
-Can't pack up a U-Haul and take it with you when you're gone — 你走的时候没法把 U-Haul 装满带走  
-We posted on the porch, my family's glasses to the stars — 我们站在门廊，家人举杯向星空  
-My grandma smiling down on me like woo, that boy got bars — 奶奶在天上笑：哇，这小子真会说唱  
-Okay, okay, yes I do — 好，好，没错  
-I said amen and hallelujah, let me testify too — 我说 Amen、Hallelujah，让我也作证  
-Another morning, a morning, don't let self get in my way — 又一个早晨，别让自我挡路  
-I got my breath, I got my faith and I remember why I came — 我有呼吸、有信念，记得我为何而来  
+I feel glorious, glorious
+Got a chance to start again
+I was born for this, born for this
+It's who I am, how could I forget?
+I made it through the darkest part of the night
+And now I see the sunrise
+Now I feel glorious, glorious
+I feel glorious, glorious
 
-### Chorus（重复）
+#### Verse 2
+
+I'm feeling glorious
+The crib looking Victorian (oh yes it is)
+You know that we been going in
+Since we hopped out that Delorean (Delorean, yeah we win)
+En garde, things are just things
+They don't make you who you are
+Can't pack up a U-Haul and take it with you when you're gone
+We posted on the porch, my family's glasses to the stars
+My grandma smiling down on me like woo, that boy got bars
+Okay, okay, yes I do
+I said amen and hallelujah, let me testify too
+Another morning, a morning, don't let self get in my way
+I got my breath, I got my faith and I remember why I came
+
+#### Chorus（重复）
+
+#### Bridge
+
+We gon' be alright, put that on my life
+When I open my eyes, hope I see you shine
+We're planting a flag they don't understand
+The world is up for grabs
+We gon' be alright, put that on my life
+When I open my eyes, hope I see you shine
+We're planting a flag they don't understand
+The world is up for grabs
+
+#### Final Chorus
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+你知道我回来了，像从未离开
+又一次冲刺，又一步
+又一天，又一次呼吸
+追逐梦想，却几乎没睡
+我有了新态度，人生重新「租期续签」
+还有内心平静
+寻求便找到：死后再睡吧
+想要人生一块饼，抓起车钥匙
+妈的，我状态很好
+我在我的节奏上，我在我的节奏上
+别挡我尾流，我快迟到了，我能说什么？
+听说人死两次，一次是入土
+第二次是最后一次有人提起你的名字
+所以离开人世时，我拿的是否比给的多？
+我照顾了身边的人，还是只为名声？
+传奇如 Exodus，寻找 euphoria
+在泥里跋涉寻找当下，没人能忽视我们
+两万人上街，像战士一样
+我妈说永远不要低头，哇！
+
+#### Chorus（Skylar Grey）
+
+我感到光荣，光荣
+有机会重新开始
+我为此而生，为此而生
+这就是我，怎能忘记？
+我熬过了夜最暗的那段
+现在我看见了日出
+现在我感到光荣，光荣
+我感到光荣，光荣
+
+#### Verse 2
+
+我感到光荣
+房子像维多利亚式（哦没错）
+你知道我们一直拼
+自从我们跳出那辆 DeLorean（DeLorean，我们赢了）
+预备——东西只是东西
+它们不能定义你是谁
+你走的时候没法把 U-Haul 装满带走
+我们站在门廊，家人举杯向星空
+奶奶在天上笑：哇，这小子真会说唱
+好，好，没错
+我说 Amen、Hallelujah，让我也作证
+又一个早晨，别让自我挡路
+我有呼吸、有信念，记得我为何而来
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-We gon' be alright, put that on my life — 我们会没事的，我以生命担保  
-When I open my eyes, hope I see you shine — 当我睁开眼，希望看见你闪耀  
-We're planting a flag they don't understand — 我们插下一面他们不懂的旗  
-The world is up for grabs — 世界任我们争取  
-We gon' be alright, put that on my life — 我们会没事的，我以生命担保  
-When I open my eyes, hope I see you shine — 当我睁开眼，希望看见你闪耀  
-We're planting a flag they don't understand — 我们插下一面他们不懂的旗  
-The world is up for grabs — 世界任我们争取  
+我们会没事的，我以生命担保
+当我睁开眼，希望看见你闪耀
+我们插下一面他们不懂的旗
+世界任我们争取
+我们会没事的，我以生命担保
+当我睁开眼，希望看见你闪耀
+我们插下一面他们不懂的旗
+世界任我们争取
 
-### Final Chorus
+#### Final Chorus
 
 *(副歌重复至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

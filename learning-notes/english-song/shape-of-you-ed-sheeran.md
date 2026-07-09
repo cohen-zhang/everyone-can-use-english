@@ -62,103 +62,194 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-The club isn't the best place to find a lover — 夜店不是找恋人的最佳地点  
-So the bar is where I go (mm-mm) — 所以我去酒吧（嗯嗯）  
-Me and my friends at the table doing shots — 我和朋友围桌干杯  
-Drinking fast, and then we talk slow (mm-mm) — 喝得快，聊得慢（嗯嗯）  
-You come over and start up a conversation with just me — 你走过来，只跟我搭话  
-And trust me, I'll give it a chance now (mm-mm) — 相信我，这回我愿意试试（嗯嗯）  
-Take my hand, stop, put "Van the Man" on the jukebox — 牵我的手，停，在点唱机放「Van the Man」  
-And then we start to dance — 然后我们开始跳舞  
-And now I'm singing like — 现在我唱得像——  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Girl, you know I want your love — 姑娘，你知道我想要你的爱  
-Your love was handmade for somebody like me — 你的爱像为像我这样的人量身定做  
-Come on now, follow my lead — 来吧，跟着我的节奏  
-I may be crazy, don't mind me — 我可能有点疯，别介意  
-Say, "Boy, let's not talk too much — 说：「男孩，别讲太多  
-Grab on my waist and put that body on me" — 搂住我的腰，把身体贴上来」  
-Come on now, follow my lead — 来吧，跟着我的节奏  
-Come, come on now, follow my lead — 来，来吧，跟着我的节奏  
-(Mm-mm) — （嗯嗯）  
+The club isn't the best place to find a lover
+So the bar is where I go (mm-mm)
+Me and my friends at the table doing shots
+Drinking fast, and then we talk slow (mm-mm)
+You come over and start up a conversation with just me
+And trust me, I'll give it a chance now (mm-mm)
+Take my hand, stop, put "Van the Man" on the jukebox
+And then we start to dance
+And now I'm singing like
 
-### Chorus
+#### Pre-Chorus
 
-I'm in love with the shape of you — 我爱上了你的身形  
-We push and pull like a magnet do — 我们像磁铁一样推拉试探  
-Although my heart is falling too — 虽然我的心也在坠落  
-I'm in love with your body — 我爱上了你的身体  
-Last night you were in my room — 昨晚你在我房间  
-And now my bed sheets smell like you — 现在床单还留你的气息  
-Every day discovering something brand new — 每天都在发现全新的你  
-Oh, I'm in love with your body — 哦，我爱上了你的身体  
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, "Boy, let's not talk too much
+Grab on my waist and put that body on me"
+Come on now, follow my lead
+Come, come on now, follow my lead
+(Mm-mm)
 
-### Post-Chorus
+#### Chorus
 
-Oh I, oh I, oh I, oh I — 哦 I，哦 I，哦 I，哦 I  
-Oh, I'm in love with your body — 哦，我爱上了你的身体  
-Oh I, oh I, oh I, oh I — 哦 I，哦 I，哦 I，哦 I  
-Oh, I'm in love with your body — 哦，我爱上了你的身体  
-Oh I, oh I, oh I, oh I — 哦 I，哦 I，哦 I，哦 I  
-Oh, I'm in love with your body — 哦，我爱上了你的身体  
-Every day discovering something brand new — 每天都在发现全新的你  
-I'm in love with the shape of you — 我爱上了你的身形  
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bed sheets smell like you
+Every day discovering something brand new
+Oh, I'm in love with your body
 
-### Verse 2
+#### Post-Chorus
 
-One week in we let the story begin — 一周过去，故事正式开始  
-We're going out on our first date (mm-mm) — 我们第一次约会（嗯嗯）  
-But you and me are thrifty, so go all-you-can-eat — 但你我都节俭，就去吃自助餐  
-Fill up your bag, and I fill up a plate (mm-mm) — 你装满袋子，我装满盘子（嗯嗯）  
-We talk for hours and hours about the sweet and the sour — 我们聊了好几个小时，甜的酸的都说  
-And how your family is doing okay (mm-mm) — 还有你家人过得怎么样（嗯嗯）  
-And leave and get in a taxi, then kiss in the back seat — 离开坐上出租车，在后座亲吻  
-Tell the driver make the radio play — 叫司机把收音机打开  
-And I'm singing like — 然后我唱得像——  
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you
 
-### Pre-Chorus（重复）
+#### Verse 2
 
-*(同第一段)*
+One week in we let the story begin
+We're going out on our first date (mm-mm)
+But you and me are thrifty, so go all-you-can-eat
+Fill up your bag, and I fill up a plate (mm-mm)
+We talk for hours and hours about the sweet and the sour
+And how your family is doing okay (mm-mm)
+And leave and get in a taxi, then kiss in the back seat
+Tell the driver make the radio play
+And I'm singing like
 
-### Chorus（重复）
+#### Pre-Chorus（重复）
 
-*(同第一段副歌)*
+#### Chorus（重复）
 
-### Post-Chorus（重复）
+#### Post-Chorus（重复）
 
 *(同第一段 Post-Chorus)*
 
-### Breakdown
+#### Breakdown
 
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
 
-### Chorus（重复）
+#### Outro
+
+Come on, be my baby, come on
+Come on, be my baby, come on (I'm in love with your body)
+Come on, be my baby, come on
+Come on, be my baby, come on (oh, I'm in love with your body)
+Come on, be my baby, come on
+Come on, be my baby, come on (I'm in love with your body)
+Every day discovering something brand new
+I'm in love with the shape of you
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+夜店不是找恋人的最佳地点
+所以我去酒吧（嗯嗯）
+我和朋友围桌干杯
+喝得快，聊得慢（嗯嗯）
+你走过来，只跟我搭话
+相信我，这回我愿意试试（嗯嗯）
+牵我的手，停，在点唱机放「Van the Man」
+然后我们开始跳舞
+现在我唱得像——
+
+#### Pre-Chorus
+
+姑娘，你知道我想要你的爱
+你的爱像为像我这样的人量身定做
+来吧，跟着我的节奏
+我可能有点疯，别介意
+说：「男孩，别讲太多
+搂住我的腰，把身体贴上来」
+来吧，跟着我的节奏
+来，来吧，跟着我的节奏
+（嗯嗯）
+
+#### Chorus
+
+我爱上了你的身形
+我们像磁铁一样推拉试探
+虽然我的心也在坠落
+我爱上了你的身体
+昨晚你在我房间
+现在床单还留你的气息
+每天都在发现全新的你
+哦，我爱上了你的身体
+
+#### Post-Chorus
+
+哦 I，哦 I，哦 I，哦 I
+哦，我爱上了你的身体
+哦 I，哦 I，哦 I，哦 I
+哦，我爱上了你的身体
+哦 I，哦 I，哦 I，哦 I
+哦，我爱上了你的身体
+每天都在发现全新的你
+我爱上了你的身形
+
+#### Verse 2
+
+一周过去，故事正式开始
+我们第一次约会（嗯嗯）
+但你我都节俭，就去吃自助餐
+你装满袋子，我装满盘子（嗯嗯）
+我们聊了好几个小时，甜的酸的都说
+还有你家人过得怎么样（嗯嗯）
+离开坐上出租车，在后座亲吻
+叫司机把收音机打开
+然后我唱得像——
+
+#### Pre-Chorus（重复）
+
+*(同第一段)*
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Outro
+#### Post-Chorus（重复）
 
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on (I'm in love with your body) — 来吧，做我的宝贝，来吧（我爱上了你的身体）  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on (oh, I'm in love with your body) — 来吧，做我的宝贝，来吧（哦，我爱上了你的身体）  
-Come on, be my baby, come on — 来吧，做我的宝贝，来吧  
-Come on, be my baby, come on (I'm in love with your body) — 来吧，做我的宝贝，来吧（我爱上了你的身体）  
-Every day discovering something brand new — 每天都在发现全新的你  
-I'm in love with the shape of you — 我爱上了你的身形  
+#### Breakdown
 
----
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧
+
+*(同第一段副歌)*
+
+#### Outro
+
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧（我爱上了你的身体）
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧（哦，我爱上了你的身体）
+来吧，做我的宝贝，来吧
+来吧，做我的宝贝，来吧（我爱上了你的身体）
+每天都在发现全新的你
+我爱上了你的身形
 
 ## 重点表达 · Key Phrases
 

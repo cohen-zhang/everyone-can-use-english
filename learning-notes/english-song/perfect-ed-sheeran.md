@@ -62,66 +62,132 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-I found a love, for me — 我找到了属于我的爱  
-Darling, just dive right in and follow my lead — 亲爱的，只管投入，跟着我的引导  
-Well, I found a girl, beautiful and sweet — 我找到一个美丽又温柔的女孩  
-Oh, I never knew you were the someone waiting for me — 哦，我从不知道你就是一直在等我的那个人  
-'Cause we were just kids when we fell in love — 因为我们相爱时还只是孩子  
-Not knowing what it was — 不懂那是什么  
-I will not give you up this time — 这一次我不会放弃你  
-But darling, just kiss me slow — 但亲爱的，慢慢吻我  
-Your heart is all I own — 你的心是我所拥有的一切  
-And in your eyes, you're holding mine — 在你眼中，你也握着我的目光  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
-With you between my arms — 你在我双臂之间  
-Barefoot on the grass — 赤脚站在草地上  
-Listening to our favourite song — 听着我们最爱的歌  
-When you said you looked a mess — 当你说自己很狼狈  
-I whispered underneath my breath — 我低声呢喃  
-But you heard it — 但你听见了  
-Darling, you look perfect tonight — 亲爱的，你今晚美极了  
+I found a love, for me
+Darling, just dive right in and follow my lead
+Well, I found a girl, beautiful and sweet
+Oh, I never knew you were the someone waiting for me
+'Cause we were just kids when we fell in love
+Not knowing what it was
+I will not give you up this time
+But darling, just kiss me slow
+Your heart is all I own
+And in your eyes, you're holding mine
 
-### Verse 2
+#### Chorus
 
-Well, I found a woman, stronger than anyone I know — 我找到一位比任何人都坚强的女人  
-She shares my dreams, I hope that someday I'll share her home — 她分享我的梦想，我希望有一天能与她共有一个家  
-I found a lover, to carry more than just my secrets — 我找到一位爱人，能承载的不只是我的秘密  
-To carry love, to carry children of our own — 能承载爱，承载我们自己的孩子  
-We are still kids, but we're so in love — 我们仍是孩子，却如此相爱  
-Fighting against all odds — 与一切逆境抗争  
-I know we'll be alright this time — 我知道这一次我们会没事  
-Darling, just hold my hand — 亲爱的，握住我的手  
-Be my girl, I'll be your man — 做我的女孩，我来做你的男人  
-I see my future in your eyes — 我在你眼中看见未来  
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favourite song
+When you said you looked a mess
+I whispered underneath my breath
+But you heard it
+Darling, you look perfect tonight
 
-### Chorus（重复）
+#### Verse 2
 
-Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
-With you between my arms — 你在我双臂之间  
-Barefoot on the grass — 赤脚站在草地上  
-Listening to our favorite song — 听着我们最爱的歌  
-When I saw you in that dress, looking so beautiful — 当我看见你穿上那条裙子，如此美丽  
-I don't deserve this — 我不配拥有这一切  
-Darling, you look perfect tonight — 亲爱的，你今晚美极了  
+Well, I found a woman, stronger than anyone I know
+She shares my dreams, I hope that someday I'll share her home
+I found a lover, to carry more than just my secrets
+To carry love, to carry children of our own
+We are still kids, but we're so in love
+Fighting against all odds
+I know we'll be alright this time
+Darling, just hold my hand
+Be my girl, I'll be your man
+I see my future in your eyes
 
-### Outro
+#### Chorus（重复）
 
-Baby, I'm dancing in the dark — 宝贝，我在昏暗中跳舞  
-With you between my arms — 你在我双臂之间  
-Barefoot on the grass — 赤脚站在草地上  
-Listening to our favorite song — 听着我们最爱的歌  
-I have faith in what I see — 我对自己所见的深信不疑  
-Now I know I have met an angel in person — 现在我知道我遇见了一位凡间的天使  
-And she looks perfect — 她看起来完美无瑕  
-I don't deserve this — 我不配拥有这一切  
-You look perfect tonight — 你今晚美极了  
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favorite song
+When I saw you in that dress, looking so beautiful
+I don't deserve this
+Darling, you look perfect tonight
+
+#### Outro
+
+Baby, I'm dancing in the dark
+With you between my arms
+Barefoot on the grass
+Listening to our favorite song
+I have faith in what I see
+Now I know I have met an angel in person
+And she looks perfect
+I don't deserve this
+You look perfect tonight
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我找到了属于我的爱
+亲爱的，只管投入，跟着我的引导
+我找到一个美丽又温柔的女孩
+哦，我从不知道你就是一直在等我的那个人
+因为我们相爱时还只是孩子
+不懂那是什么
+这一次我不会放弃你
+但亲爱的，慢慢吻我
+你的心是我所拥有的一切
+在你眼中，你也握着我的目光
+
+#### Chorus
+
+宝贝，我在昏暗中跳舞
+你在我双臂之间
+赤脚站在草地上
+听着我们最爱的歌
+当你说自己很狼狈
+我低声呢喃
+但你听见了
+亲爱的，你今晚美极了
+
+#### Verse 2
+
+我找到一位比任何人都坚强的女人
+她分享我的梦想，我希望有一天能与她共有一个家
+我找到一位爱人，能承载的不只是我的秘密
+能承载爱，承载我们自己的孩子
+我们仍是孩子，却如此相爱
+与一切逆境抗争
+我知道这一次我们会没事
+亲爱的，握住我的手
+做我的女孩，我来做你的男人
+我在你眼中看见未来
+
+#### Chorus（重复）
+
+宝贝，我在昏暗中跳舞
+你在我双臂之间
+赤脚站在草地上
+听着我们最爱的歌
+当我看见你穿上那条裙子，如此美丽
+我不配拥有这一切
+亲爱的，你今晚美极了
+
+#### Outro
+
+宝贝，我在昏暗中跳舞
+你在我双臂之间
+赤脚站在草地上
+听着我们最爱的歌
+我对自己所见的深信不疑
+现在我知道我遇见了一位凡间的天使
+她看起来完美无瑕
+我不配拥有这一切
+你今晚美极了
 
 ## 重点表达 · Key Phrases
 

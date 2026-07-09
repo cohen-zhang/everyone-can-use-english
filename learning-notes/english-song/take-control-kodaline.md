@@ -58,65 +58,130 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Take control of who you are — 掌控你自己  
-Stay the same, don't let them change you — 保持本色，别让他们改变你  
-Take control of who you are — 掌控你自己  
-'Cause ain't nobody gonna save you — 因为没人会来救你  
+### 英文歌词 · English Lyrics
 
-Take control of who you are — 掌控你自己  
-When the world is getting stranger — 当这世界越来越陌生  
-Take control of who you are — 掌控你自己  
-Stay the same, don't let them change you — 保持本色，别让他们改变你  
+#### Verse 1
 
-### Chorus
+Take control of who you are
+Stay the same, don't let them change you
+Take control of who you are
+'Cause ain't nobody gonna save you
 
-But when it comes apart — 但当一切分崩离析  
-When it comes apart, just start again — 当一切分崩离析，就重新开始  
-And open up your heart — 并敞开你的心  
-Take control of who you are — 掌控你自己  
+Take control of who you are
+When the world is getting stranger
+Take control of who you are
+Stay the same, don't let them change you
 
-### Verse 2
+#### Chorus
 
-Take control of who you are — 掌控你自己  
-When you're looking in the mirror — 当你照着镜子  
-Underneath the skies — 在天空之下  
-You will see a little clearer — 你会看得更清楚一些  
+But when it comes apart
+When it comes apart, just start again
+And open up your heart
+Take control of who you are
 
-Take control of who you are — 掌控你自己  
-When the world is getting stranger — 当这世界越来越陌生  
-Take control of who you are — 掌控你自己  
-Show the people what you are made of — 让人们看看你是什么料  
+#### Verse 2
 
-### Chorus 2
+Take control of who you are
+When you're looking in the mirror
+Underneath the skies
+You will see a little clearer
 
-And when it comes apart — 而当一切分崩离析  
-When it comes apart, just start again — 当一切分崩离析，就重新开始  
-Open up your heart — 敞开你的心  
-Take control of who you are — 掌控你自己  
+Take control of who you are
+When the world is getting stranger
+Take control of who you are
+Show the people what you are made of
 
-### Chorus 3
+#### Chorus 2
 
-And when it comes apart — 而当一切分崩离析  
-When it comes apart, just start again — 当一切分崩离析，就重新开始  
-Open up your heart — 敞开你的心  
-Take control of who you are — 掌控你自己  
+And when it comes apart
+When it comes apart, just start again
+Open up your heart
+Take control of who you are
 
-### Bridge
+#### Chorus 3
 
-You won't break me down — 你压不垮我  
-You won't break me down — 你压不垮我  
-You won't break me down — 你压不垮我  
+And when it comes apart
+When it comes apart, just start again
+Open up your heart
+Take control of who you are
 
-### Outro
+#### Bridge
 
-When it comes apart — 当一切分崩离析  
-And when it comes apart, just start again — 而当一切分崩离析，就重新开始  
-Open up your heart — 敞开你的心  
-Take control of who you are — 掌控你自己  
+You won't break me down
+You won't break me down
+You won't break me down
+
+#### Outro
+
+When it comes apart
+And when it comes apart, just start again
+Open up your heart
+Take control of who you are
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+掌控你自己
+保持本色，别让他们改变你
+掌控你自己
+因为没人会来救你
+
+掌控你自己
+当这世界越来越陌生
+掌控你自己
+保持本色，别让他们改变你
+
+#### Chorus
+
+但当一切分崩离析
+当一切分崩离析，就重新开始
+并敞开你的心
+掌控你自己
+
+#### Verse 2
+
+掌控你自己
+当你照着镜子
+在天空之下
+你会看得更清楚一些
+
+掌控你自己
+当这世界越来越陌生
+掌控你自己
+让人们看看你是什么料
+
+#### Chorus 2
+
+而当一切分崩离析
+当一切分崩离析，就重新开始
+敞开你的心
+掌控你自己
+
+#### Chorus 3
+
+而当一切分崩离析
+当一切分崩离析，就重新开始
+敞开你的心
+掌控你自己
+
+#### Bridge
+
+你压不垮我
+你压不垮我
+你压不垮我
+
+#### Outro
+
+当一切分崩离析
+而当一切分崩离析，就重新开始
+敞开你的心
+掌控你自己
 
 ## 重点表达 · Key Phrases
 

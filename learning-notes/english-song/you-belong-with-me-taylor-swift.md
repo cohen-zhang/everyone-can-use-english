@@ -62,94 +62,188 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-You're on the phone with your girlfriend, she's upset — 你在和女友打电话，她在生气  
-She's going off about something that you said — 她在为你说的某句话发火  
-'Cause she doesn't get your humor like I do — 因为她不像我这么懂你的幽默  
+### 英文歌词 · English Lyrics
 
-I'm in the room, it's a typical Tuesday night — 我在房间里，这是个平常的周二晚上  
-I'm listening to the kind of music she doesn't like — 我在听她不喜欢的音乐  
-And she'll never know your story like I do — 而她永远不会像我这样懂你的故事  
+#### Verse 1
 
-### Pre-Chorus
+You're on the phone with your girlfriend, she's upset
+She's going off about something that you said
+'Cause she doesn't get your humor like I do
 
-But she wears short skirts — 可她穿短裙  
-I wear T-shirts — 我穿 T 恤  
-She's Cheer Captain, and I'm on the bleachers — 她是啦啦队长，我在看台上  
-Dreaming about the day when you wake up and find — 梦想着有一天你醒来发现  
-That what you're looking for has been here the whole time — 你一直在找的人其实一直都在  
+I'm in the room, it's a typical Tuesday night
+I'm listening to the kind of music she doesn't like
+And she'll never know your story like I do
 
-### Chorus
+#### Pre-Chorus
 
-If you could see that I'm the one — 如果你能看见我才是那个人  
-Who understands you — 最懂你的人  
-Been here all along — 一直在这里  
-So, why can't you see? — 所以，你为什么看不见？  
-You belong with me — 你本该和我在一起  
-You belong with me — 你本该和我在一起  
+But she wears short skirts
+I wear T-shirts
+She's Cheer Captain, and I'm on the bleachers
+Dreaming about the day when you wake up and find
+That what you're looking for has been here the whole time
 
-### Verse 2
+#### Chorus
 
-Walk in the streets with you in your worn-out jeans — 穿着你磨旧的牛仔裤和你一起走在街上  
-I can't help thinking this is how it ought to be — 我不禁想本该就是这样  
-Laughing on a park bench thinking to myself — 坐在公园长椅上笑着心想  
-Hey, isn't this easy? — 嘿，这不很轻松吗？  
+If you could see that I'm the one
+Who understands you
+Been here all along
+So, why can't you see?
+You belong with me
+You belong with me
 
-And you've got a smile — 而且你的笑容  
-That can light up this whole town — 能照亮整座城镇  
-I haven't seen it in a while — 我已经有一阵子没见过了  
-Since she brought you down — 自从她让你消沉以来  
-You say you're fine, I know you better than that — 你说没事，我可比你更清楚  
-Hey, what you doing with a girl like that? — 嘿，你和那样的女孩在一起干嘛？  
+#### Verse 2
 
-### Pre-Chorus（Verse 2）
+Walk in the streets with you in your worn-out jeans
+I can't help thinking this is how it ought to be
+Laughing on a park bench thinking to myself
+Hey, isn't this easy?
 
-But she wears high heels — 可她穿高跟鞋  
-I wear sneakers — 我穿球鞋  
-She's Cheer Captain, and I'm on the bleachers — 她是啦啦队长，我在看台上  
-Dreaming about the day when you wake up and find — 梦想着有一天你醒来发现  
-That what you're looking for has been here the whole time — 你一直在找的人其实一直都在  
+And you've got a smile
+That can light up this whole town
+I haven't seen it in a while
+Since she brought you down
+You say you're fine, I know you better than that
+Hey, what you doing with a girl like that?
 
-### Chorus（重复）
+#### Pre-Chorus（Verse 2）
 
-If you could see that I'm the one — 如果你能看见我才是那个人  
-Who understands you — 最懂你的人  
-Been here all along — 一直在这里  
-So, why can't you see? — 所以，你为什么看不见？  
-You belong with me — 你本该和我在一起  
-You belong with me — 你本该和我在一起  
+But she wears high heels
+I wear sneakers
+She's Cheer Captain, and I'm on the bleachers
+Dreaming about the day when you wake up and find
+That what you're looking for has been here the whole time
 
-### Bridge
+#### Chorus（重复）
 
-Standing by and waiting at your backdoor — 守在你后门边等着  
-All this time how could you not know, baby? — 这么久你怎么会不知道，宝贝？  
-You belong with me — 你本该和我在一起  
-You belong with me — 你本该和我在一起  
+If you could see that I'm the one
+Who understands you
+Been here all along
+So, why can't you see?
+You belong with me
+You belong with me
 
-Oh, I remember you driving to my house — 哦，我记得你半夜开车来我家  
-In the middle of the night — 在深夜  
-I'm the one who makes you laugh — 我是那个逗你笑的人  
-When you know you're 'bout to cry — 当你知道自己快要哭的时候  
-And I know your favorite songs — 我知道你最喜欢的歌  
-And you tell me 'bout your dreams — 你会跟我说你的梦想  
-Think I know where you belong — 我想我知道你该属于哪里  
-Think I know it's with me — 我想我知道是和我在一起  
+#### Bridge
 
-### Final Chorus
+Standing by and waiting at your backdoor
+All this time how could you not know, baby?
+You belong with me
+You belong with me
 
-Can't you see that I'm the one — 你难道看不见我才是那个人  
-Who understands you? — 最懂你的人？  
-Been here all along — 一直在这里  
-So, why can't you see? — 所以，你为什么看不见？  
-You belong with me — 你本该和我在一起  
-You belong with me — 你本该和我在一起  
+Oh, I remember you driving to my house
+In the middle of the night
+I'm the one who makes you laugh
+When you know you're 'bout to cry
+And I know your favorite songs
+And you tell me 'bout your dreams
+Think I know where you belong
+Think I know it's with me
 
-Have you ever thought just maybe — 你有没有想过也许  
-You belong with me — 你本该和我在一起  
-You belong with me — 你本该和我在一起  
+#### Final Chorus
+
+Can't you see that I'm the one
+Who understands you?
+Been here all along
+So, why can't you see?
+You belong with me
+You belong with me
+
+Have you ever thought just maybe
+You belong with me
+You belong with me
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+你在和女友打电话，她在生气
+她在为你说的某句话发火
+因为她不像我这么懂你的幽默
+
+我在房间里，这是个平常的周二晚上
+我在听她不喜欢的音乐
+而她永远不会像我这样懂你的故事
+
+#### Pre-Chorus
+
+可她穿短裙
+我穿 T 恤
+她是啦啦队长，我在看台上
+梦想着有一天你醒来发现
+你一直在找的人其实一直都在
+
+#### Chorus
+
+如果你能看见我才是那个人
+最懂你的人
+一直在这里
+所以，你为什么看不见？
+你本该和我在一起
+你本该和我在一起
+
+#### Verse 2
+
+穿着你磨旧的牛仔裤和你一起走在街上
+我不禁想本该就是这样
+坐在公园长椅上笑着心想
+嘿，这不很轻松吗？
+
+而且你的笑容
+能照亮整座城镇
+我已经有一阵子没见过了
+自从她让你消沉以来
+你说没事，我可比你更清楚
+嘿，你和那样的女孩在一起干嘛？
+
+#### Pre-Chorus（Verse 2）
+
+可她穿高跟鞋
+我穿球鞋
+她是啦啦队长，我在看台上
+梦想着有一天你醒来发现
+你一直在找的人其实一直都在
+
+#### Chorus（重复）
+
+如果你能看见我才是那个人
+最懂你的人
+一直在这里
+所以，你为什么看不见？
+你本该和我在一起
+你本该和我在一起
+
+#### Bridge
+
+守在你后门边等着
+这么久你怎么会不知道，宝贝？
+你本该和我在一起
+你本该和我在一起
+
+哦，我记得你半夜开车来我家
+在深夜
+我是那个逗你笑的人
+当你知道自己快要哭的时候
+我知道你最喜欢的歌
+你会跟我说你的梦想
+我想我知道你该属于哪里
+我想我知道是和我在一起
+
+#### Final Chorus
+
+你难道看不见我才是那个人
+最懂你的人？
+一直在这里
+所以，你为什么看不见？
+你本该和我在一起
+你本该和我在一起
+
+你有没有想过也许
+你本该和我在一起
+你本该和我在一起
 
 ## 重点表达 · Key Phrases
 

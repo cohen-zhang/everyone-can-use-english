@@ -62,60 +62,117 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-You know I'm impatient — 你知道我没耐心  
-So why would you leave me waiting outside the station — 那你干嘛让我在车站外面等  
-When it was like minus four degrees? And I — 外面零下四度啊？而且我——  
-I get what you're sayin' — 我明白你在说什么  
-I just really don't wanna hear it right now — 但我现在真不想听  
-Can you shut up for like once in your life? — 你这辈子能不能就闭嘴一次？  
-Listen to me, I took your nice words of advice — 听我说，我听过你那套「好心建议」  
-About how you think I'm gonna die, lucky if I turn thirty-three — 说我这样活不长，能活到 33 就算走运  
-Okay, so yeah, I smoke like a chimney — 好吧，我是像烟囱一样抽烟  
-I'm not skinny and I pull a Britney every other week — 我不瘦，还隔周就来一次「Britney 式崩溃」  
-But cut me some slack, who do you want me to be? — 但放我一马吧，你到底想让我成为谁？
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-'Cause I'm too messy, and then I'm too fucking clean — 因为我太乱，接着又太他妈干净  
-You told me, "Get a job", then you ask where the hell I've been — 你让我去找工作，又问我他妈去哪了  
-And I'm too perfect, till I open my big mouth — 我太完美，直到我开口说话  
-I want to be me, is that not allowed? — 我想做我自己，这不行吗？  
-And I'm too clever, and then I'm too fucking dumb — 我太聪明，接着又太他妈蠢  
-You hate it when I cry unless it's that time of the month — 我哭你就烦，除非是「那个」时候  
-And I'm too perfect, till I show you that I'm not — 我太完美，直到让你看见我并不完美  
-A thousand people I could be for you and you hate the fucking lot — 我可以为你变成一千种人，你却每一种都他妈讨厌  
-You hate the fucking lot — 你每一种都他妈讨厌  
-You hate the fucking lot — 你每一种都他妈讨厌  
-You hate, you hate — 你讨厌，你讨厌
+You know I'm impatient
+So why would you leave me waiting outside the station
+When it was like minus four degrees? And I
+I get what you're sayin'
+I just really don't wanna hear it right now
+Can you shut up for like once in your life?
+Listen to me, I took your nice words of advice
+About how you think I'm gonna die, lucky if I turn thirty-three
+Okay, so yeah, I smoke like a chimney
+I'm not skinny and I pull a Britney every other week
+But cut me some slack, who do you want me to be?
 
-### Verse 2
+#### Chorus
 
-It's taking you ages — 你拖了老半天  
-You still don't get the hint, I'm not asking for pages — 你还是不懂暗示，我又没要你写小作文  
-But one text or two would be nice — 但回一两条短信总可以吧  
-And, please, don't pull those faces — 拜托，别摆那张脸  
-When I've been out working my ass off all day — 我在外面拼了一整天  
-It's just one bottle of wine or two — 就一两瓶酒而已  
-But, hey, you can't even talk — 可你连说都不能说  
-You smoke weed just to help you sleep — 你抽大麻助眠  
-Then why you out getting stoned at four o'clock? — 那干嘛四点还在外面嗨？  
-And then you come home to me — 然后你回到家  
-And don't say hello — 连招呼都不打  
-'Cause I got high again — 因为我又嗨了  
-And forgot to fold my clothes — 忘了叠衣服
+'Cause I'm too messy, and then I'm too fucking clean
+You told me, "Get a job", then you ask where the hell I've been
+And I'm too perfect, till I open my big mouth
+I want to be me, is that not allowed?
+And I'm too clever, and then I'm too fucking dumb
+You hate it when I cry unless it's that time of the month
+And I'm too perfect, till I show you that I'm not
+A thousand people I could be for you and you hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+You hate, you hate
 
-### Chorus（重复）
+#### Verse 2
+
+It's taking you ages
+You still don't get the hint, I'm not asking for pages
+But one text or two would be nice
+And, please, don't pull those faces
+When I've been out working my ass off all day
+It's just one bottle of wine or two
+But, hey, you can't even talk
+You smoke weed just to help you sleep
+Then why you out getting stoned at four o'clock?
+And then you come home to me
+And don't say hello
+'Cause I got high again
+And forgot to fold my clothes
+
+#### Chorus（重复）
+
+#### Outro（加长副歌）
+
+Oh, and I'm too messy, and then I'm too fucking clean
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+你知道我没耐心
+那你干嘛让我在车站外面等
+外面零下四度啊？而且我——
+我明白你在说什么
+但我现在真不想听
+你这辈子能不能就闭嘴一次？
+听我说，我听过你那套「好心建议」
+说我这样活不长，能活到 33 就算走运
+好吧，我是像烟囱一样抽烟
+我不瘦，还隔周就来一次「Britney 式崩溃」
+但放我一马吧，你到底想让我成为谁？
+
+#### Chorus
+
+因为我太乱，接着又太他妈干净
+你让我去找工作，又问我他妈去哪了
+我太完美，直到我开口说话
+我想做我自己，这不行吗？
+我太聪明，接着又太他妈蠢
+我哭你就烦，除非是「那个」时候
+我太完美，直到让你看见我并不完美
+我可以为你变成一千种人，你却每一种都他妈讨厌
+你每一种都他妈讨厌
+你每一种都他妈讨厌
+你讨厌，你讨厌
+
+#### Verse 2
+
+你拖了老半天
+你还是不懂暗示，我又没要你写小作文
+但回一两条短信总可以吧
+拜托，别摆那张脸
+我在外面拼了一整天
+就一两瓶酒而已
+可你连说都不能说
+你抽大麻助眠
+那干嘛四点还在外面嗨？
+然后你回到家
+连招呼都不打
+因为我又嗨了
+忘了叠衣服
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Outro（加长副歌）
+#### Outro（加长副歌）
 
-Oh, and I'm too messy, and then I'm too fucking clean — 哦，我太乱，接着又太他妈干净  
+哦，我太乱，接着又太他妈干净
 *(副歌其余句重复至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

@@ -60,62 +60,120 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-For all those times you stood by me — 那些你始终站在我身边的日子  
-For all the truth that you made me see — 那些你让我看见的真相  
-For all the joy you brought to my life — 那些你为我的生命带来的喜悦  
-For all the wrong that you made right — 那些你替我纠正的错误  
-For every dream you made come true — 每一个你帮我实现的梦  
-For all the love I found in you — 我在你身上找到的全部的爱  
-I'll be forever thankful, baby — 我会永远感激你，宝贝  
-You're the one who held me up — 你是把我托住的人  
-Never let me fall — 从不让我坠落  
-You're the one who saw me through — 你是陪我走过一切的人  
-Through it all — 自始至终  
-You were my strength when I was weak — 我软弱时，你是我的力量  
-You were my voice when I couldn't speak — 我说不出话时，你是我的声音  
-You were my eyes when I couldn't see — 我看不见时，你是我的眼睛  
-You saw the best there was in me — 你看见了我身上最好的那一面  
-Lifted me up when I couldn't reach — 我够不着时，你把我托举起来  
-You gave me faith 'cause you believed — 因你相信，我才有了信念  
-I'm everything I am because you loved me — 我如今的一切，都是因为你爱过我  
-Ooh, baby — 哦，宝贝
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-You gave me wings and made me fly — 你给我翅膀，让我飞翔  
-You touched my hand, I could touch the sky — 你触碰我的手，我便能触到天空  
-I lost my faith, you gave it back to me — 我曾失去信念，你又把它还给我  
-You said no star was out of reach — 你说没有哪颗星是够不着的  
-You stood by me and I stood tall — 你支持我，我便挺直了腰  
-I had your love, I had it all — 拥有你的爱，我便拥有一切  
-I'm grateful for each day you gave me — 你给我的每一天，我都心存感激  
-Maybe I don't know that much — 也许我懂得不多  
-But I know this much is true — 但我知道这一点千真万确  
-I was blessed because I was loved by you — 我是幸运的，因为被你爱过
+For all those times you stood by me
+For all the truth that you made me see
+For all the joy you brought to my life
+For all the wrong that you made right
+For every dream you made come true
+For all the love I found in you
+I'll be forever thankful, baby
+You're the one who held me up
+Never let me fall
+You're the one who saw me through
+Through it all
+You were my strength when I was weak
+You were my voice when I couldn't speak
+You were my eyes when I couldn't see
+You saw the best there was in me
+Lifted me up when I couldn't reach
+You gave me faith 'cause you believed
+I'm everything I am because you loved me
+Ooh, baby
 
-### Chorus（重复）
+#### Verse 2
+
+You gave me wings and made me fly
+You touched my hand, I could touch the sky
+I lost my faith, you gave it back to me
+You said no star was out of reach
+You stood by me and I stood tall
+I had your love, I had it all
+I'm grateful for each day you gave me
+Maybe I don't know that much
+But I know this much is true
+I was blessed because I was loved by you
+
+#### Chorus（重复）
 
 *(同 Verse 1 末段八句)*
 
-### Bridge
+#### Bridge
 
-You were always there for me — 你始终在我身边  
-The tender wind that carried me — 你是托住我的温柔的风  
-A light in the dark, shining your love into my life — 黑暗中的光，把爱照进我的生命  
-You've been my inspiration — 你一直是我的灵感  
-Through the lies you were the truth — 谎言之中，你是真相  
-My world is a better place because of you — 因你，我的世界更美好
+You were always there for me
+The tender wind that carried me
+A light in the dark, shining your love into my life
+You've been my inspiration
+Through the lies you were the truth
+My world is a better place because of you
 
-### Final Chorus
+#### Final Chorus
+
+I'm everything I am
+Because you loved me
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+那些你始终站在我身边的日子
+那些你让我看见的真相
+那些你为我的生命带来的喜悦
+那些你替我纠正的错误
+每一个你帮我实现的梦
+我在你身上找到的全部的爱
+我会永远感激你，宝贝
+你是把我托住的人
+从不让我坠落
+你是陪我走过一切的人
+自始至终
+我软弱时，你是我的力量
+我说不出话时，你是我的声音
+我看不见时，你是我的眼睛
+你看见了我身上最好的那一面
+我够不着时，你把我托举起来
+因你相信，我才有了信念
+我如今的一切，都是因为你爱过我
+哦，宝贝
+
+#### Verse 2
+
+你给我翅膀，让我飞翔
+你触碰我的手，我便能触到天空
+我曾失去信念，你又把它还给我
+你说没有哪颗星是够不着的
+你支持我，我便挺直了腰
+拥有你的爱，我便拥有一切
+你给我的每一天，我都心存感激
+也许我懂得不多
+但我知道这一点千真万确
+我是幸运的，因为被你爱过
+
+#### Chorus（重复）
+
+#### Bridge
+
+你始终在我身边
+你是托住我的温柔的风
+黑暗中的光，把爱照进我的生命
+你一直是我的灵感
+谎言之中，你是真相
+因你，我的世界更美好
+
+#### Final Chorus
 
 *(副歌重复；背景人声叠唱括号句至结尾)*
 
-I'm everything I am — 我如今的一切  
-Because you loved me — 都是因为你爱过我
-
----
+我如今的一切
+都是因为你爱过我
 
 ## 重点表达 · Key Phrases
 

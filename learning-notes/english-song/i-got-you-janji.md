@@ -62,73 +62,146 @@ aliases:
 
 > 歌词据公开歌词站整理；个别版本拼写为 *can't breath*（应为 *breathe*），跟唱按原录音即可。
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-When the fear takes it over — 当恐惧占了上风  
-And you can't breathe — 你连气都喘不上来  
-When the tears take control — 当眼泪接管了一切  
-And you feel all alone — 你觉得只剩自己一个人  
-When your mind is out of control — 当你的脑子彻底失控  
-And you're feeling all torn down — 整个人像被撕碎、垮掉  
-I got you — 有我在  
-I got you — 有我在  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
-When your life is on the line — 当你的人生悬在一线  
-And you need me by your side — 你需要我陪在身边  
-I got you — 有我在  
-I got you — 有我在  
-I got, got, got you — 我撑着你、撑着你、撑着你  
+When the fear takes it over
+And you can't breathe
+When the tears take control
+And you feel all alone
+When your mind is out of control
+And you're feeling all torn down
+I got you
+I got you
 
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
+#### Chorus
 
-### Verse 2 / Bridge
+When the fear takes it over
+I got you
+When your life is on the line
+And you need me by your side
+I got you
+I got you
+I got, got, got you
 
-I've been seeking a new life — 我一直在找一种新生活  
-A new beginning — 一个新的开始  
-I've been seeking for a new time — 我一直在找一段新时光  
-A time to start all over — 一个能一切重来的时刻  
-I've been seeking a new life — 我一直在找一种新生活  
-A new beginning — 一个新的开始  
-'Cause I need you — 因为我需要你  
-And you need me — 而你也需要我  
+When the fear takes it over
+I got you
+When the fear takes it over
+I got you
 
-### Chorus（重复）
+#### Verse 2 / Bridge
 
-When your mind is out of control — 当你的脑子彻底失控  
-And you're feeling all torn down — 整个人像被撕碎、垮掉  
-I got you — 有我在  
-I got you — 有我在  
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
+I've been seeking a new life
+A new beginning
+I've been seeking for a new time
+A time to start all over
+I've been seeking a new life
+A new beginning
+'Cause I need you
+And you need me
 
-When your life is on the line — 当你的人生悬在一线  
-And you need me by your side — 你需要我陪在身边  
-I got you — 有我在  
-I got you — 有我在  
-I got, got, got you — 我撑着你、撑着你、撑着你  
+#### Chorus（重复）
 
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
+When your mind is out of control
+And you're feeling all torn down
+I got you
+I got you
+When the fear takes it over
+I got you
 
-### Outro
+When your life is on the line
+And you need me by your side
+I got you
+I got you
+I got, got, got you
 
-I've been seeking for a new life — 我一直在找一种新生活  
-A new beginning — 一个新的开始  
-'Cause I need you — 因为我需要你  
-When the fear takes it over — 当恐惧占了上风  
-I got you — 有我在  
-*(I got, got, got, got, got, got, got you)* — （我撑着你——一遍遍）  
+When the fear takes it over
+I got you
+When the fear takes it over
+I got you
+
+#### Outro
+
+I've been seeking for a new life
+A new beginning
+'Cause I need you
+When the fear takes it over
+I got you
+*(I got, got, got, got, got, got, got you)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+当恐惧占了上风
+你连气都喘不上来
+当眼泪接管了一切
+你觉得只剩自己一个人
+当你的脑子彻底失控
+整个人像被撕碎、垮掉
+有我在
+有我在
+
+#### Chorus
+
+当恐惧占了上风
+有我在
+当你的人生悬在一线
+你需要我陪在身边
+有我在
+有我在
+我撑着你、撑着你、撑着你
+
+当恐惧占了上风
+有我在
+当恐惧占了上风
+有我在
+
+#### Verse 2 / Bridge
+
+我一直在找一种新生活
+一个新的开始
+我一直在找一段新时光
+一个能一切重来的时刻
+我一直在找一种新生活
+一个新的开始
+因为我需要你
+而你也需要我
+
+#### Chorus（重复）
+
+当你的脑子彻底失控
+整个人像被撕碎、垮掉
+有我在
+有我在
+当恐惧占了上风
+有我在
+
+当你的人生悬在一线
+你需要我陪在身边
+有我在
+有我在
+我撑着你、撑着你、撑着你
+
+当恐惧占了上风
+有我在
+当恐惧占了上风
+有我在
+
+#### Outro
+
+我一直在找一种新生活
+一个新的开始
+因为我需要你
+当恐惧占了上风
+有我在
+（我撑着你——一遍遍）
 
 ## 重点表达 · Key Phrases
 

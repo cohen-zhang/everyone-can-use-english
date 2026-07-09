@@ -64,37 +64,74 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### A Section
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Fly me to the moon — 带我飞去月球吧  
-Let me play among the stars — 让我在星星之间玩耍  
-Let me see what spring is like — 让我看看春天是什么样  
-On Jupiter and Mars — 在木星和火星上  
+### 英文歌词 · English Lyrics
 
-### B Section（转折）
+#### A Section
 
-In other words, hold my hand — 换句话说，牵着我的手  
-In other words, baby, kiss me — 换句话说，亲爱的，吻我吧  
+Fly me to the moon
+Let me play among the stars
+Let me see what spring is like
+On Jupiter and Mars
 
-### A Section（第二遍）
+#### B Section（转折）
 
-Fill my heart with song — 用歌声填满我的心  
-And let me sing forevermore — 让我永远唱下去  
-You are all I long for — 你是我全部的渴望  
-All I worship and adore — 是我崇拜、珍爱的一切  
+In other words, hold my hand
+In other words, baby, kiss me
 
-### B Section（收束）
+#### A Section（第二遍）
 
-In other words, please be true — 换句话说，请对我真心  
-In other words, I love you — 换句话说，我爱你  
+Fill my heart with song
+And let me sing forevermore
+You are all I long for
+All I worship and adore
 
-### 重复说明
+#### B Section（收束）
+
+In other words, please be true
+In other words, I love you
+
+#### 重复说明
+
+The Basie cut is short and brisk—often one full pass, or a light repeat of the closing line. Focus less on copying lyrics again, more on **swing accents** and Sinatra’s slightly behind-the-beat phrasing.
+
+*(Same full lyric as the first pass; you can soft-follow the closing *I love you* once more with the recording)*
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### A Section
+
+带我飞去月球吧
+让我在星星之间玩耍
+让我看看春天是什么样
+在木星和火星上
+
+#### B Section（转折）
+
+换句话说，牵着我的手
+换句话说，亲爱的，吻我吧
+
+#### A Section（第二遍）
+
+用歌声填满我的心
+让我永远唱下去
+你是我全部的渴望
+是我崇拜、珍爱的一切
+
+#### B Section（收束）
+
+换句话说，请对我真心
+换句话说，我爱你
+
+#### 重复说明
 
 Basie 版偏短、偏快，常唱完一轮即收，或只轻重复尾句。跟唱重点不在「多抄几遍词」，而在跟上 **swing 重音** 与 Sinatra 略拖拍的乐句。
 
 *(同第一轮完整歌词；尾句 *I love you* 可随录音再跟一次)*
-
----
 
 ## 重点表达 · Key Phrases
 

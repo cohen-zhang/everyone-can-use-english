@@ -68,59 +68,106 @@ aliases:
 
 > **学习策略：** 副歌 hook 给委婉对照；高度露骨段落不逐句详译。跟唱以原词为准；中文仅帮助理解结构与俚语，不追求「字字对应的色情描写」。
 
-### Intro / Hook（委婉）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-There's some wh- in this house — 这屋里有点「狂野」的味道（原词更粗）  
-There's some wh- in this house — （重复）  
-I said certified freak, seven days a week — 我是认证的「玩得开」，一周七天都这样  
-Wet and gushy, make that pull-out game weak, woo — （露骨性暗示，略译）让对方招架不住  
+### 英文歌词 · English Lyrics
 
-### Chorus Hook（委婉）
+#### Intro / Hook（委婉）
 
-Yeah, you dealin' with some wet and gushy — 对，你面对的是「湿又滑」那一套（性暗示俚语）  
-Bring a bucket and a mop for this wet and gushy — 得准备水桶和拖把——夸张说「水太多」  
-Give me everything you got for this wet and gushy — 为这个，把你所有的都给我  
+There's some wh- in this house
+There's some wh- in this house
+I said certified freak, seven days a week
+Wet and gushy, make that pull-out game weak, woo
 
-### Verse 1 — Cardi B（摘要）
+#### Chorus Hook（委婉）
+
+Yeah, you dealin' with some wet and gushy
+Bring a bucket and a mop for this wet and gushy
+Give me everything you got for this wet and gushy
+
+#### Verse 1 — Cardi B（摘要）
+
+I don't cook, I don't clean
+But let me tell you, I got this ring
+
+#### Verse 过渡 / Pre（摘要）
+
+Now get your boots and your coat for this wet and gushy
+Pay my tuition just to kiss me on this wet and gushy
+Now make it rain if you wanna see some wet and gushy
+
+#### Verse 2 — Megan Thee Stallion（摘要）
+
+Your honor, I'm a freak, handcuffs, leashes
+Switch my wig, make him feel like he cheatin'
+Never lost a fight, but I'm lookin' for a beatin'
+
+#### Final Chorus / Outro（委婉）
+
+Whores in this house
+Yeah, you dealin' with some wet and gushy
+Bring a bucket and a mop for this wet and gushy
+I'm talkin' WAP, WAP, WAP, that's some wet and gushy
+Macaroni in a pot, that's some wet and gushy, huh
+
+There's some wh- in this house
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro / Hook（委婉）
+
+这屋里有点「狂野」的味道（原词更粗）
+（重复）
+我是认证的「玩得开」，一周七天都这样
+（露骨性暗示，略译）让对方招架不住
+
+#### Chorus Hook（委婉）
+
+对，你面对的是「湿又滑」那一套（性暗示俚语）
+得准备水桶和拖把——夸张说「水太多」
+为这个，把你所有的都给我
+
+#### Verse 1 — Cardi B（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
 结构大意：用一连串**夸张、露骨的性隐喻**（骑乘、角色扮演、卡车进车库等）强调主导权与欲望；中间夹一句相对好记的态度句：
 
-I don't cook, I don't clean — 我不做饭，也不打扫  
-But let me tell you, I got this ring — 但告诉你，我这儿有「真本事」（原词双关更露骨）  
+我不做饭，也不打扫
+但告诉你，我这儿有「真本事」（原词双关更露骨）
 
-### Verse 过渡 / Pre（摘要）
+#### Verse 过渡 / Pre（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
 大意：要求对方「带好装备」来见；用 *wet and gushy* 反复挂钩；提到对方为照片、学费等买单——把**性吸引力**写成可兑换的权力与资源。
 
-Now get your boots and your coat for this wet and gushy — 穿上靴子外套再来（委婉：做好准备）  
-Pay my tuition just to kiss me on this wet and gushy — 付我学费，就为亲一下（夸张权力感）  
-Now make it rain if you wanna see some wet and gushy — 想看的话就「撒钱如雨」（俱乐部用语）  
+穿上靴子外套再来（委婉：做好准备）
+付我学费，就为亲一下（夸张权力感）
+想看的话就「撒钱如雨」（俱乐部用语）
 
-### Verse 2 — Megan Thee Stallion（摘要）
+#### Verse 2 — Megan Thee Stallion（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
 结构大意：Megan 段同样高密度性俚语 + 南方说唱气场；相对可学的「态度 / 形象」句包括：
 
-Your honor, I'm a freak, handcuffs, leashes — 法官大人，我就是玩得开——手铐、牵引绳（角色扮演意象）  
-Switch my wig, make him feel like he cheatin' — 换顶假发，让他觉得自己在偷吃  
-Never lost a fight, but I'm lookin' for a beatin' — 打架从没输过，但我在找人「收拾」我（双关：床第 / 打斗）  
+法官大人，我就是玩得开——手铐、牵引绳（角色扮演意象）
+换顶假发，让他觉得自己在偷吃
+打架从没输过，但我在找人「收拾」我（双关：床第 / 打斗）
 
-### Final Chorus / Outro（委婉）
+#### Final Chorus / Outro（委婉）
 
-Whores in this house — （采样原词；粗口，公共场合慎用）  
-Yeah, you dealin' with some wet and gushy — 对，你面对的是这一套  
-Bring a bucket and a mop for this wet and gushy — 准备好水桶和拖把  
-I'm talkin' WAP, WAP, WAP, that's some wet and gushy — 我说的就是 WAP——标题缩写本身即露骨  
-Macaroni in a pot, that's some wet and gushy, huh — （俚语比喻身体反应；略译）  
+（采样原词；粗口，公共场合慎用）
+对，你面对的是这一套
+准备好水桶和拖把
+我说的就是 WAP——标题缩写本身即露骨
+（俚语比喻身体反应；略译）
 
-There's some wh- in this house — （outro 重复；原词更粗）  
-
----
+（outro 重复；原词更粗）
 
 ## 重点表达 · Key Phrases
 

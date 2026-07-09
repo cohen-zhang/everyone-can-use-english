@@ -62,78 +62,151 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-If you wanna run away with me, I know a galaxy — 如果你想跟我私奔，我知道有个星系  
-And I can take you for a ride — 我可以带你去兜风  
-I had a premonition that we fell into a rhythm — 我有种预感：我们会掉进同一种节奏  
-Where the music don't stop for life — 音乐一辈子都不停  
-Glitter in the sky, glitter in my eyes — 天上亮片闪，我眼里也闪  
-Shining just the way I like — 亮得正合我意  
-If you're feeling like you need a little bit of company — 如果你觉得需要一点陪伴  
-You met me at the perfect time — 你遇见我的时机刚刚好  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-You want me, I want you, baby — 你要我，我也要你，宝贝  
-My sugarboo, I'm levitating — 我的小甜心，我飘起来了  
-The Milky Way, we're renegading — 在银河里，我们当叛逆者  
+If you wanna run away with me, I know a galaxy
+And I can take you for a ride
+I had a premonition that we fell into a rhythm
+Where the music don't stop for life
+Glitter in the sky, glitter in my eyes
+Shining just the way I like
+If you're feeling like you need a little bit of company
+You met me at the perfect time
+
+#### Pre-Chorus
+
+You want me, I want you, baby
+My sugarboo, I'm levitating
+The Milky Way, we're renegading
 Yeah, yeah, yeah, yeah, yeah — Yeah, yeah, yeah, yeah, yeah  
 
-### Chorus
+#### Chorus
 
-I got you, moonlight, you're my starlight — 我抓住你了，月光，你是我的星光  
-I need you all night, come on, dance with me — 我整晚都需要你，来，跟我跳舞  
-I'm levitating — 我飘起来了  
-You, moonlight, you're my starlight (you're the moonlight) — 你，月光，你是我的星光  
-I need you all night, come on, dance with me — 我整晚都需要你，来，跟我跳舞  
-I'm levitating — 我飘起来了  
+I got you, moonlight, you're my starlight
+I need you all night, come on, dance with me
+I'm levitating
+You, moonlight, you're my starlight (you're the moonlight)
+I need you all night, come on, dance with me
+I'm levitating
 
-### Verse 2
+#### Verse 2
 
-I believe that you're for me, I feel it in our energy — 我相信你是为我而来，我从我们的能量里感觉到了  
-I see us written in the stars — 我看见我们写在星星上  
-We can go wherever, so let's do it now or never, baby — 我们想去哪都行，所以现在就做，不然永远不做，宝贝  
-Nothing's ever, ever too far — 没有什么会太远  
-Glitter in the sky, glitter in our eyes — 天上亮片闪，我们眼里也闪  
-Shining just the way we are — 就按我们本来的样子发光  
-I feel like we're forever, every time we get together — 每次在一起，我都觉得我们会永远  
-But whatever, let's get lost on Mars — 不过随便啦，我们去火星迷路吧  
+I believe that you're for me, I feel it in our energy
+I see us written in the stars
+We can go wherever, so let's do it now or never, baby
+Nothing's ever, ever too far
+Glitter in the sky, glitter in our eyes
+Shining just the way we are
+I feel like we're forever, every time we get together
+But whatever, let's get lost on Mars
 
-### Pre-Chorus & Chorus（重复）
+#### Pre-Chorus & Chorus（重复）
 
 *(同前；含 I'm levitating (whoo))*
 
-### Post-Chorus / Bridge
+#### Post-Chorus / Bridge
 
-You can fly away with me tonight — 今晚你可以跟我一起飞走  
-You can fly away with me tonight — 今晚你可以跟我一起飞走  
-Baby, let me take you for a ride — 宝贝，让我带你去兜风  
+You can fly away with me tonight
+You can fly away with me tonight
+Baby, let me take you for a ride
 Yeah, yeah, yeah, yeah, yeah — Yeah, yeah, yeah, yeah, yeah  
-I'm levitating (whoo) — 我飘起来了  
+I'm levitating (whoo)
 
-My love is like a rocket, watch it blast off — 我的爱像火箭，看它点火升空  
-And I'm feeling so electric, dance my arse off — 我感觉全身带电，跳到腿软  
-And even if I wanted to, I can't stop — 就算我想停也停不下来  
+My love is like a rocket, watch it blast off
+And I'm feeling so electric, dance my arse off
+And even if I wanted to, I can't stop
 Yeah, yeah, yeah, yeah, yeah — Yeah, yeah, yeah, yeah, yeah  
 
-### Final Chorus / Outro
+#### Final Chorus / Outro
 
-You want me, I want you, baby — 你要我，我也要你，宝贝  
-My sugarboo, I'm levitating — 我的小甜心，我飘起来了  
-The Milky Way, we're renegading — 在银河里，我们当叛逆者  
+You want me, I want you, baby
+My sugarboo, I'm levitating
+The Milky Way, we're renegading
 
-I got you (yeah), moonlight, you're my starlight — 我抓住你了，月光，你是我的星光  
-I need you all night (all night), come on, dance with me — 我整晚都需要你，来，跟我跳舞  
-I'm levitating (whoo) — 我飘起来了  
+I got you (yeah), moonlight, you're my starlight
+I need you all night (all night), come on, dance with me
+I'm levitating (whoo)
 
-You can fly away with me tonight (tonight) — 今晚你可以跟我一起飞走  
-Baby, let me take you for a ride — 宝贝，让我带你去兜风  
-I got you, moonlight, you're my starlight — 我抓住你了，月光，你是我的星光  
-I need you all night, come on, dance with me — 我整晚都需要你，来，跟我跳舞  
-I'm levitating — 我飘起来了  
+You can fly away with me tonight (tonight)
+Baby, let me take you for a ride
+I got you, moonlight, you're my starlight
+I need you all night, come on, dance with me
+I'm levitating
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+如果你想跟我私奔，我知道有个星系
+我可以带你去兜风
+我有种预感：我们会掉进同一种节奏
+音乐一辈子都不停
+天上亮片闪，我眼里也闪
+亮得正合我意
+如果你觉得需要一点陪伴
+你遇见我的时机刚刚好
+
+#### Pre-Chorus
+
+你要我，我也要你，宝贝
+我的小甜心，我飘起来了
+在银河里，我们当叛逆者
+
+#### Chorus
+
+我抓住你了，月光，你是我的星光
+我整晚都需要你，来，跟我跳舞
+我飘起来了
+你，月光，你是我的星光
+我整晚都需要你，来，跟我跳舞
+我飘起来了
+
+#### Verse 2
+
+我相信你是为我而来，我从我们的能量里感觉到了
+我看见我们写在星星上
+我们想去哪都行，所以现在就做，不然永远不做，宝贝
+没有什么会太远
+天上亮片闪，我们眼里也闪
+就按我们本来的样子发光
+每次在一起，我都觉得我们会永远
+不过随便啦，我们去火星迷路吧
+
+#### Pre-Chorus & Chorus（重复）
+
+#### Post-Chorus / Bridge
+
+今晚你可以跟我一起飞走
+今晚你可以跟我一起飞走
+宝贝，让我带你去兜风
+我飘起来了
+
+我的爱像火箭，看它点火升空
+我感觉全身带电，跳到腿软
+就算我想停也停不下来
+
+#### Final Chorus / Outro
+
+你要我，我也要你，宝贝
+我的小甜心，我飘起来了
+在银河里，我们当叛逆者
+
+我抓住你了，月光，你是我的星光
+我整晚都需要你，来，跟我跳舞
+我飘起来了
+
+今晚你可以跟我一起飞走
+宝贝，让我带你去兜风
+我抓住你了，月光，你是我的星光
+我整晚都需要你，来，跟我跳舞
+我飘起来了
 
 ## 重点表达 · Key Phrases
 

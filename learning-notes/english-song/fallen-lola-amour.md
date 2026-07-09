@@ -57,52 +57,104 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-What if I told you that I've fallen — 要是我告诉你我沦陷了呢  
-And I like the way you say my name? — 而且我喜欢你念我名字的样子？  
-My heart skips a beat when I hear you calling — 听见你呼唤，我心跳漏了一拍  
-And I like that it won't go away — 而且我喜欢这种感觉挥之不去  
+### 英文歌词 · English Lyrics
 
-But never mind, don't wanna give you any trouble — 算了，不想给你添麻烦  
-Never mind, never mind — 算了，算了  
-I'm OK with being by your side for as long as I can hide — 只要能藏着，我甘心待在你身边  
-What if I told you that I've fallen? — 要是我告诉你我沦陷了呢？  
+#### Verse 1
 
-### Verse 2
+What if I told you that I've fallen
+And I like the way you say my name?
+My heart skips a beat when I hear you calling
+And I like that it won't go away
 
-What if I told you that I've fallen? — 要是我告诉你我沦陷了呢？  
-A heart shaped arrow through my chest — 心形箭穿过我的胸口  
-I'll make your breakfast every morning — 每天早上我给你做早餐  
-And pick you up when you're a mess — 你狼狈时我把你接住  
+But never mind, don't wanna give you any trouble
+Never mind, never mind
+I'm OK with being by your side for as long as I can hide
+What if I told you that I've fallen?
 
-I know that it won't ever stop — 我知道这不会停  
-You know I'll be there when you call me whether you like it or not — 你知道你一叫我就会在，不管你喜不喜欢  
-Without a warning, now I'm falling for this picture on my phone — 毫无预警，我现在对着手机里的照片沦陷  
-But don't mind me, I'm just falling, I'll get back up on my own — 别管我，我只是在坠落，我会自己爬起来  
+#### Verse 2
 
-### Bridge
+What if I told you that I've fallen?
+A heart shaped arrow through my chest
+I'll make your breakfast every morning
+And pick you up when you're a mess
 
-Please don't say my name, help me put out this flame — 请别叫我的名字，帮我浇灭这团火  
-I'd rather hold onto this feeling that you don't even believe in — 我宁愿抱着你连信都不愿相信的那份感觉  
-What if I told you that I've fallen? — 要是我告诉你我沦陷了呢？  
+I know that it won't ever stop
+You know I'll be there when you call me whether you like it or not
+Without a warning, now I'm falling for this picture on my phone
+But don't mind me, I'm just falling, I'll get back up on my own
 
-### Outro（重复 + ad-lib）
+#### Bridge
 
-What if I told you that I've fallen? (Nevermind, nevermind, nevermind) — 要是我告诉你我沦陷了呢？（算了，算了，算了）  
-What if I told you that I've fallen? (Nevermind, nevermind, nevermind) — 要是我告诉你我沦陷了呢？（算了，算了，算了）  
-What if I told you that I've fallen? (Nevermind, nevermind, nevermind) — 要是我告诉你我沦陷了呢？（算了，算了，算了）  
-What if I told you that I've fallen? (Nevermind, nevermind, nevermind) — 要是我告诉你我沦陷了呢？（算了，算了，算了）  
+Please don't say my name, help me put out this flame
+I'd rather hold onto this feeling that you don't even believe in
+What if I told you that I've fallen?
 
-What if I told you that I've fallen? (Oh, nevermind) — 要是我告诉你我沦陷了呢？（哦，算了）  
-What if I told you that I've fallen? (Oh, nevermind) — 要是我告诉你我沦陷了呢？（哦，算了）  
-What if I told you that I've fallen? (Oh, nevermind) — 要是我告诉你我沦陷了呢？（哦，算了）  
-What if I told you that I've fallen? (Oh, nevermind) — 要是我告诉你我沦陷了呢？（哦，算了）  
+#### Outro（重复 + ad-lib）
 
-I said nevermind — 我说了，算了  
-(I shouldn't tell you that I've fallen) — （我不该告诉你我沦陷了）  
+What if I told you that I've fallen? (Nevermind, nevermind, nevermind)
+What if I told you that I've fallen? (Nevermind, nevermind, nevermind)
+What if I told you that I've fallen? (Nevermind, nevermind, nevermind)
+What if I told you that I've fallen? (Nevermind, nevermind, nevermind)
+
+What if I told you that I've fallen? (Oh, nevermind)
+What if I told you that I've fallen? (Oh, nevermind)
+What if I told you that I've fallen? (Oh, nevermind)
+What if I told you that I've fallen? (Oh, nevermind)
+
+I said nevermind
+(I shouldn't tell you that I've fallen)
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+要是我告诉你我沦陷了呢
+而且我喜欢你念我名字的样子？
+听见你呼唤，我心跳漏了一拍
+而且我喜欢这种感觉挥之不去
+
+算了，不想给你添麻烦
+算了，算了
+只要能藏着，我甘心待在你身边
+要是我告诉你我沦陷了呢？
+
+#### Verse 2
+
+要是我告诉你我沦陷了呢？
+心形箭穿过我的胸口
+每天早上我给你做早餐
+你狼狈时我把你接住
+
+我知道这不会停
+你知道你一叫我就会在，不管你喜不喜欢
+毫无预警，我现在对着手机里的照片沦陷
+别管我，我只是在坠落，我会自己爬起来
+
+#### Bridge
+
+请别叫我的名字，帮我浇灭这团火
+我宁愿抱着你连信都不愿相信的那份感觉
+要是我告诉你我沦陷了呢？
+
+#### Outro（重复 + ad-lib）
+
+要是我告诉你我沦陷了呢？（算了，算了，算了）
+要是我告诉你我沦陷了呢？（算了，算了，算了）
+要是我告诉你我沦陷了呢？（算了，算了，算了）
+要是我告诉你我沦陷了呢？（算了，算了，算了）
+
+要是我告诉你我沦陷了呢？（哦，算了）
+要是我告诉你我沦陷了呢？（哦，算了）
+要是我告诉你我沦陷了呢？（哦，算了）
+要是我告诉你我沦陷了呢？（哦，算了）
+
+我说了，算了
+（我不该告诉你我沦陷了）
 
 ## 重点表达 · Key Phrases
 

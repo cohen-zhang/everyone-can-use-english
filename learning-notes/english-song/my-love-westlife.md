@@ -59,76 +59,148 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-An empty street — 空荡的街  
-An empty house — 空荡的屋  
-A hole inside my heart — 心里空了一个洞  
-I'm all alone and the rooms are getting smaller — 我独自一人，房间仿佛越来越小  
+### 英文歌词 · English Lyrics
 
-I wonder how — 我想知道怎么  
-I wonder why — 我想知道为何  
-I wonder where they are — 我想知道它们在哪  
-The days we had — 我们共度的日子  
-The songs we sang together, oh yeah — 我们一起唱过的歌，哦 yeah  
+#### Verse 1
 
-### Chorus
+An empty street
+An empty house
+A hole inside my heart
+I'm all alone and the rooms are getting smaller
 
-And oh! my love — 哦，我的爱人  
-I'm holding on forever — 我会永远坚持  
-Reaching for the love that seems so far — 伸手去够那似乎遥不可及的 love  
+I wonder how
+I wonder why
+I wonder where they are
+The days we had
+The songs we sang together, oh yeah
 
-So I say a little prayer — 于是我做一个小小祷告  
-And hope my dreams will take me there — 希望梦能带我去那里  
-Where the skies are blue — 那里天空湛蓝  
-To see you once again, my love — 再见到你一次，我的爱人  
+#### Chorus
 
-Overseas from coast to coast — 跨越海洋，从海岸到海岸  
-To find a place I love the most — 去找我最爱的那个地方  
-Where the fields are green — 那里田野翠绿  
-To see you once again, my love — 再见到你一次，我的爱人  
+And oh! my love
+I'm holding on forever
+Reaching for the love that seems so far
 
-### Verse 2
+So I say a little prayer
+And hope my dreams will take me there
+Where the skies are blue
+To see you once again, my love
 
-I try to read — 我试着读点书  
-I go to work — 我去上班  
-I'm laughing with my friends — 我和朋友一起笑  
-But I can't stop to keep myself from thinking, oh no — 但我停不下来不去想你，哦不  
+Overseas from coast to coast
+To find a place I love the most
+Where the fields are green
+To see you once again, my love
 
-I wonder how — 我想知道怎么  
-I wonder why — 我想知道为何  
-I wonder where they are — 我想知道它们在哪  
-The days we had — 我们共度的日子  
-The songs we sang together, oh yeah — 我们一起唱过的歌，哦 yeah  
+#### Verse 2
 
-### Chorus（重复）
+I try to read
+I go to work
+I'm laughing with my friends
+But I can't stop to keep myself from thinking, oh no
+
+I wonder how
+I wonder why
+I wonder where they are
+The days we had
+The songs we sang together, oh yeah
+
+#### Chorus（重复）
+
+#### Bridge
+
+To hold you in my arms
+To promise you my love
+To tell you from the heart
+You're all I'm thinking of
+
+I'm reaching for the love that seems so far
+
+#### Final Chorus
+
+So I say a little prayer
+And hope my dreams will take me there
+Where the skies are blue
+To see you once again, my love
+
+Overseas from coast to coast
+To find a place I love the most
+Where the fields are green
+To see you once again, my love
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+空荡的街
+空荡的屋
+心里空了一个洞
+我独自一人，房间仿佛越来越小
+
+我想知道怎么
+我想知道为何
+我想知道它们在哪
+我们共度的日子
+我们一起唱过的歌，哦 yeah
+
+#### Chorus
+
+哦，我的爱人
+我会永远坚持
+伸手去够那似乎遥不可及的 love
+
+于是我做一个小小祷告
+希望梦能带我去那里
+那里天空湛蓝
+再见到你一次，我的爱人
+
+跨越海洋，从海岸到海岸
+去找我最爱的那个地方
+那里田野翠绿
+再见到你一次，我的爱人
+
+#### Verse 2
+
+我试着读点书
+我去上班
+我和朋友一起笑
+但我停不下来不去想你，哦不
+
+我想知道怎么
+我想知道为何
+我想知道它们在哪
+我们共度的日子
+我们一起唱过的歌，哦 yeah
+
+#### Chorus（重复）
 
 *(同第一段副歌)*
 
-### Bridge
+#### Bridge
 
-To hold you in my arms — 把你拥入怀中  
-To promise you my love — 向你许诺我的爱  
-To tell you from the heart — 从心底告诉你  
-You're all I'm thinking of — 你是我所思念的一切  
+把你拥入怀中
+向你许诺我的爱
+从心底告诉你
+你是我所思念的一切
 
-I'm reaching for the love that seems so far — 伸手去够那似乎遥不可及的 love  
+伸手去够那似乎遥不可及的 love
 
-### Final Chorus
+#### Final Chorus
 
-So I say a little prayer — 于是我做一个小小祷告  
-And hope my dreams will take me there — 希望梦能带我去那里  
-Where the skies are blue — 那里天空湛蓝  
-To see you once again, my love — 再见到你一次，我的爱人  
+于是我做一个小小祷告
+希望梦能带我去那里
+那里天空湛蓝
+再见到你一次，我的爱人
 
-Overseas from coast to coast — 跨越海洋，从海岸到海岸  
-To find a place I love the most — 去找我最爱的那个地方  
-Where the fields are green — 那里田野翠绿  
-To see you once again, my love — 再见到你一次，我的爱人  
+跨越海洋，从海岸到海岸
+去找我最爱的那个地方
+那里田野翠绿
+再见到你一次，我的爱人
 
 *(副歌再重复至结尾)*
-
----
 
 ## 重点表达 · Key Phrases
 

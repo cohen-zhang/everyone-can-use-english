@@ -57,51 +57,100 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Girl, I knew it must be you, 'cause it got hotter in this room — 女孩，我就知道是你，这房间一下子更热了  
-When you walked in and laid that spin — 你走进来，投来那记「旋转」目光（撩人的眼神/姿态）  
-You look so good in the neon light — 霓虹灯下你真好看  
-I drink you in with thirsty eyes — 我用渴切的目光把你「饮」进去  
-Long sip of your cool smile — 你 cool 的微笑像让我长饮一口  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus / Chorus 1
+#### Verse 1
 
-Girl, I wanna reach right out, wrap you in my arms right now — 女孩，我想伸手把你搂进怀里  
-Never let go, never let go — 永不松手，永不松手  
-And I just gotta taste you, baby — 宝贝，我非得吻到你不可  
-You know it drives me crazy — 你知道这让我发疯  
-To be so far away when your lips are so close — 离你这么近，嘴唇近在咫尺，却又像够不着  
-When your lips are so close — 当你的唇那么近  
+Girl, I knew it must be you, 'cause it got hotter in this room
+When you walked in and laid that spin
+You look so good in the neon light
+I drink you in with thirsty eyes
+Long sip of your cool smile
 
-### Verse 2
+#### Pre-Chorus / Chorus 1
 
-You might be right next to me — 你或许就在我身旁  
-But girl, it feels like miles between — 但女孩，感觉我们之间隔了英里  
-My hands and your skin — 我的手和你的肌肤  
-You know what I'm thinkin' of — 你知道我在想什么  
-Small talk just won't be enough — 闲聊根本不够  
-Can't wait for your touch — 我等不及你的触碰  
+Girl, I wanna reach right out, wrap you in my arms right now
+Never let go, never let go
+And I just gotta taste you, baby
+You know it drives me crazy
+To be so far away when your lips are so close
+When your lips are so close
 
-### Chorus 2
+#### Verse 2
 
-Girl, I wanna reach right out, wrap you in my arms right now — 女孩，我想伸手把你搂进怀里  
-Never let go, never let go — 永不松手，永不松手  
-And I just gotta taste you, baby — 宝贝，我非得吻到你不可  
-You know it drives me crazy — 你知道这让我发疯  
-To be so far away when your lips are so close — 离你这么近，嘴唇近在咫尺，却又像够不着  
-When your lips are so close — 当你的唇那么近  
+You might be right next to me
+But girl, it feels like miles between
+My hands and your skin
+You know what I'm thinkin' of
+Small talk just won't be enough
+Can't wait for your touch
 
-### Chorus 3 / Outro
+#### Chorus 2
+
+Girl, I wanna reach right out, wrap you in my arms right now
+Never let go, never let go
+And I just gotta taste you, baby
+You know it drives me crazy
+To be so far away when your lips are so close
+When your lips are so close
+
+#### Chorus 3 / Outro
+
+When your lips are so close
+When your lips are so close
+Lips are so close
+Lips are so close
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+女孩，我就知道是你，这房间一下子更热了
+你走进来，投来那记「旋转」目光（撩人的眼神/姿态）
+霓虹灯下你真好看
+我用渴切的目光把你「饮」进去
+你 cool 的微笑像让我长饮一口
+
+#### Pre-Chorus / Chorus 1
+
+女孩，我想伸手把你搂进怀里
+永不松手，永不松手
+宝贝，我非得吻到你不可
+你知道这让我发疯
+离你这么近，嘴唇近在咫尺，却又像够不着
+当你的唇那么近
+
+#### Verse 2
+
+你或许就在我身旁
+但女孩，感觉我们之间隔了英里
+我的手和你的肌肤
+你知道我在想什么
+闲聊根本不够
+我等不及你的触碰
+
+#### Chorus 2
+
+女孩，我想伸手把你搂进怀里
+永不松手，永不松手
+宝贝，我非得吻到你不可
+你知道这让我发疯
+离你这么近，嘴唇近在咫尺，却又像够不着
+当你的唇那么近
+
+#### Chorus 3 / Outro
 
 *(同第二段副歌)*  
 
-When your lips are so close — 当你的唇那么近  
-When your lips are so close — 当你的唇那么近  
-Lips are so close — 唇那么近  
-Lips are so close — 唇那么近  
-
----
+当你的唇那么近
+当你的唇那么近
+唇那么近
+唇那么近
 
 ## 重点表达 · Key Phrases
 

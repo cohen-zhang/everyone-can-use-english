@@ -63,58 +63,114 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Took a ride to the end of the line where no one ever goes — 搭车坐到线路尽头，没人会去的那种地方  
-Ended up on a broken train with nobody I know — 上了一列坏掉的车，周围没有一个认识的人  
-But the pain and the longing's the same when you're dying — 但痛苦与 longing 在你「快撑不住」时都一样  
-Now I'm lost, and I'm screaming for help alone — 现在我迷失了，独自尖叫着求救  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-Relax, take it easy — 放松，别紧张  
-For there is nothing that we can do — 因为我们无能为力  
-Relax, take it easy — 放松，别紧张  
-Blame it on me or blame it on you — 怪我也好，怪你也罢  
+Took a ride to the end of the line where no one ever goes
+Ended up on a broken train with nobody I know
+But the pain and the longing's the same when you're dying
+Now I'm lost, and I'm screaming for help alone
 
-### Verse 2
+#### Chorus
 
-It's as if I'm scared, it's as if I'm terrified — 好像我很害怕，好像我 terrified  
-It's as if I'm scared, it's as if I'm playing with fire — 好像我很害怕，好像在玩火  
-Scared, it's as if I'm terrified — 害怕，好像我 terrified  
-Are you scared? Are we playing with fire? — 你怕吗？我们是在玩火吗？  
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
 
-### Bridge
+#### Verse 2
 
-Relax (love) — 放松（爱）  
-There is an answer to the darkest times — 最黑暗的时刻也有答案  
-It's clear we don't understand it — 显然我们还不明白  
-But the last thing on my mind is to leave you — 但我最不想做的就是离开你  
-I believe that we're in this together — 我相信我们同舟共济  
-Don't scream, there are so many roads left — 别尖叫，前面还有很多条路  
+It's as if I'm scared, it's as if I'm terrified
+It's as if I'm scared, it's as if I'm playing with fire
+Scared, it's as if I'm terrified
+Are you scared? Are we playing with fire?
 
-### Chorus（重复）
+#### Bridge
+
+Relax (love)
+There is an answer to the darkest times
+It's clear we don't understand it
+But the last thing on my mind is to leave you
+I believe that we're in this together
+Don't scream, there are so many roads left
+
+#### Chorus（重复）
+
+Relax, take it easy
+For there is nothing that we can do
+Relax, take it easy
+Blame it on me or blame it on you
+
+#### Verse 2（重复）
+
+It's as if I'm scared (relax), it's as if I'm terrified
+It's as if I'm scared, it's as if I'm playing with fire (relax)
+Scared, it's as if I'm terrified
+Are you scared? Are we playing with fire?
+
+#### Outro
+
+Relax
+Relax
+
+---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+搭车坐到线路尽头，没人会去的那种地方
+上了一列坏掉的车，周围没有一个认识的人
+但痛苦与 longing 在你「快撑不住」时都一样
+现在我迷失了，独自尖叫着求救
+
+#### Chorus
+
+放松，别紧张
+因为我们无能为力
+放松，别紧张
+怪我也好，怪你也罢
+
+#### Verse 2
+
+好像我很害怕，好像我 terrified
+好像我很害怕，好像在玩火
+害怕，好像我 terrified
+你怕吗？我们是在玩火吗？
+
+#### Bridge
+
+放松（爱）
+最黑暗的时刻也有答案
+显然我们还不明白
+但我最不想做的就是离开你
+我相信我们同舟共济
+别尖叫，前面还有很多条路
+
+#### Chorus（重复）
 
 *(副歌重复多遍；结构与第一段副歌相同)*
 
-Relax, take it easy — 放松，别紧张  
-For there is nothing that we can do — 因为我们无能为力  
-Relax, take it easy — 放松，别紧张  
-Blame it on me or blame it on you — 怪我也好，怪你也罢  
+放松，别紧张
+因为我们无能为力
+放松，别紧张
+怪我也好，怪你也罢
 
-### Verse 2（重复）
+#### Verse 2（重复）
 
-It's as if I'm scared (relax), it's as if I'm terrified — 好像我很害怕（放松），好像我 terrified  
-It's as if I'm scared, it's as if I'm playing with fire (relax) — 好像我很害怕，好像在玩火（放松）  
-Scared, it's as if I'm terrified — 害怕，好像我 terrified  
-Are you scared? Are we playing with fire? — 你怕吗？我们是在玩火吗？  
+好像我很害怕（放松），好像我 terrified
+好像我很害怕，好像在玩火（放松）
+害怕，好像我 terrified
+你怕吗？我们是在玩火吗？
 
-### Outro
+#### Outro
 
-Relax — 放松  
-Relax — 放松  
-
----
+放松
+放松
 
 ## 重点表达 · Key Phrases
 

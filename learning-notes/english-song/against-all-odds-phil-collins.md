@@ -59,52 +59,104 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-How can I just let you walk away? — 我怎么能就这样让你走？  
-Just let you leave without a trace — 让你不留痕迹地离开  
-When I stand here taking every breath with you, ooh — 我还站在这里，每一次呼吸都与你同在，哦  
-You're the only one who really knew me at all — 你是唯一真正懂我的人  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-How can you just walk away from me? — 你怎么能就这样离开我？  
-When all I can do is watch you leave — 当我只能眼睁睁看你离去  
-'Cos we've shared the laughter and the pain and even shared the tears — 因为我们曾分享欢笑与痛苦，甚至一起流泪  
-You're the only one who really knew me at all — 你是唯一真正懂我的人  
+How can I just let you walk away?
+Just let you leave without a trace
+When I stand here taking every breath with you, ooh
+You're the only one who really knew me at all
 
-### Chorus 1
+#### Verse 2
 
-So take a look at me now, oh, there's just an empty space — 那就看看现在的我，哦，只剩一片空白  
-And there's nothin' left here to remind me — 这里已没有任何东西让我想起  
-Just the memory of your face — 只有你面容的记忆  
-Ooh, take a look at me now, well, there's just an empty space — 哦，看看现在的我，嗯，只剩一片空白  
-And you coming back to me is against the odds — 你回到我身边，希望渺茫  
-And that's what I've got to face — 而这正是我必须面对的  
+How can you just walk away from me?
+When all I can do is watch you leave
+'Cos we've shared the laughter and the pain and even shared the tears
+You're the only one who really knew me at all
 
-### Verse 3
+#### Chorus 1
 
-I wish I could just make you turn around — 我多想让你转过身来  
-Turn around and see me cry — 转过身，看见我哭泣  
-There's so much I need to say to you, so many reasons why — 我有太多话要对你说，太多理由  
-You're the only one who really knew me at all — 你是唯一真正懂我的人  
+So take a look at me now, oh, there's just an empty space
+And there's nothin' left here to remind me
+Just the memory of your face
+Ooh, take a look at me now, well, there's just an empty space
+And you coming back to me is against the odds
+And that's what I've got to face
 
-### Chorus 2
+#### Verse 3
 
-So take a look at me now, well, there's just an empty space — 那就看看现在的我，嗯，只剩一片空白  
-And there's nothin' left here to remind me, just the memory of your face — 这里已没有任何东西让我想起，只有你面容的记忆  
-Now take a look at me now, 'cos there's just an empty space — 现在看看我，因为只剩一片空白  
-But to wait for you is all I can do and that's what I've got to face — 但等待你是我唯一能做的，而这正是我必须面对的  
+I wish I could just make you turn around
+Turn around and see me cry
+There's so much I need to say to you, so many reasons why
+You're the only one who really knew me at all
 
-### Chorus 3 / Outro
+#### Chorus 2
 
-Take a good look at me now, 'cos I'll still be standin' here — 好好看看现在的我，因为我会一直站在这里  
-And you coming back to me is against all odds — 你回到我身边，希望渺茫  
-It's the chance I've gotta take — 这是我必须赌的一次机会  
+So take a look at me now, well, there's just an empty space
+And there's nothin' left here to remind me, just the memory of your face
+Now take a look at me now, 'cos there's just an empty space
+But to wait for you is all I can do and that's what I've got to face
 
-Take a look at me now — 看看现在的我  
+#### Chorus 3 / Outro
+
+Take a good look at me now, 'cos I'll still be standin' here
+And you coming back to me is against all odds
+It's the chance I've gotta take
+
+Take a look at me now
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+我怎么能就这样让你走？
+让你不留痕迹地离开
+我还站在这里，每一次呼吸都与你同在，哦
+你是唯一真正懂我的人
+
+#### Verse 2
+
+你怎么能就这样离开我？
+当我只能眼睁睁看你离去
+因为我们曾分享欢笑与痛苦，甚至一起流泪
+你是唯一真正懂我的人
+
+#### Chorus 1
+
+那就看看现在的我，哦，只剩一片空白
+这里已没有任何东西让我想起
+只有你面容的记忆
+哦，看看现在的我，嗯，只剩一片空白
+你回到我身边，希望渺茫
+而这正是我必须面对的
+
+#### Verse 3
+
+我多想让你转过身来
+转过身，看见我哭泣
+我有太多话要对你说，太多理由
+你是唯一真正懂我的人
+
+#### Chorus 2
+
+那就看看现在的我，嗯，只剩一片空白
+这里已没有任何东西让我想起，只有你面容的记忆
+现在看看我，因为只剩一片空白
+但等待你是我唯一能做的，而这正是我必须面对的
+
+#### Chorus 3 / Outro
+
+好好看看现在的我，因为我会一直站在这里
+你回到我身边，希望渺茫
+这是我必须赌的一次机会
+
+看看现在的我
 
 ## 重点表达 · Key Phrases
 

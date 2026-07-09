@@ -22,14 +22,25 @@ aliases:
 
 > 传统法文儿歌 *Frère Jacques* 的英文版。前两行重复提问；中间两行点名 **Brother John**；后两行说晨钟响；最后两行拟声。部分版本唱 **Ding, ding, dong** 或 **Ding, dong, ding**；跟 CD 或老师版保持一致即可。
 
-### 全曲 · Full song
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+
+### 英文歌词 · English Lyrics
+
+#### 全曲 · Full song
 
 Are you sleeping? Are you sleeping?  
 Brother John, Brother John,  
 Morning bells are ringing! Morning bells are ringing!  
-Ding, dang, dong. Ding, dang, dong. — 你还在睡吗？约翰修士，晨钟在响——叮、当、咚。
+Ding, dang, dong. Ding, dang, dong.
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### 全曲 · Full song
+
+你还在睡吗？约翰修士，晨钟在响——叮、当、咚。
 
 ## 跟唱提示 · Sing-along tips
 

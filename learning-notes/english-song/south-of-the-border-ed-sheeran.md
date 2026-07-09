@@ -70,104 +70,208 @@ aliases:
 
 > 含西班牙语及 Cardi B 段露骨/粗口意象，为歌曲原词；学习时注意语境与场合。
 
-### Verse 1（Ed）
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-She got the, mm, brown eyes, caramel thighs — 她有，嗯，棕眸、焦糖色的大腿  
-Long hair, no wedding ring, hey — 长发，没婚戒，嘿  
-I saw you lookin' from across the way — 我看见你在对面望过来  
-And now I really wanna know your name — 现在我真想知道你叫什么  
-She got the, mm, white dress, but when she's wearin' less — 她有，嗯，白裙子，但穿得更少时  
-Man, you know that she drives me crazy — 兄弟，你知道她让我发疯  
-The, mm, brown eyes, beautiful smile — 那，嗯，棕眸、美丽的笑  
-You know I love watching you do your thing — 你知道我爱看你做你的事
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus & Chorus
+#### Verse 1（Ed）
 
-I love her hips, curves, lips say the words — 我爱她的臀、曲线，唇说着  
-"Te amo, mami, ah, te amo, mami" — 「我爱你，宝贝，啊，我爱你，宝贝」  
-I kiss her, this love is like a dream — 我吻她，这份爱像梦  
+She got the, mm, brown eyes, caramel thighs
+Long hair, no wedding ring, hey
+I saw you lookin' from across the way
+And now I really wanna know your name
+She got the, mm, white dress, but when she's wearin' less
+Man, you know that she drives me crazy
+The, mm, brown eyes, beautiful smile
+You know I love watching you do your thing
 
-So join me in this bed that I'm in — 所以来我这张床上  
-Push up on me and sweat, darling — 贴上来，流汗，亲爱的  
-So I'm gonna put my time in — 所以我要投入时间  
-I won't stop until the angels sing — 直到天使歌唱我才停  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来
+#### Pre-Chorus & Chorus
 
-### Verse 2（Camila）
+I love her hips, curves, lips say the words
+"Te amo, mami, ah, te amo, mami"
+I kiss her, this love is like a dream
 
-He got the, mm, green eyes, givin' me signs — 他有，嗯，绿眸，给我信号  
-That he really wants to know my name, hey — 说他真想知道我叫什么，嘿  
-I saw you lookin' from across the way — 我看见你在对面望过来  
-And suddenly, I'm glad I came, ay! — 突然我很高兴我来了，哎！  
-Ven para acá, quiero bailar, toma mi mano — 到这边来，我想跳舞，握我的手  
-Quiero sentir tu cuerpo en mí, estás temblando — 想感受你身体贴着我，你在发抖  
-Mm, green eyes, takin' your time — 嗯，绿眸，慢慢来  
-Now we know we'll never be the same — 现在我们知道再不会一样了  
+So join me in this bed that I'm in
+Push up on me and sweat, darling
+So I'm gonna put my time in
+I won't stop until the angels sing
+Jump in that water, be free
+Come south of the border with me
+Jump in that water, be free
+Come south of the border with me
 
-I love his lips 'cause he says the words — 我爱他的唇，因为他说  
-"Te amo, mami, ah, te amo, mami" — 「我爱你，宝贝，啊，我爱你，宝贝」  
-Don't wake up, this love is like a dream — 别醒来，这份爱像梦  
+#### Verse 2（Camila）
 
-### Chorus（Camila 段后）
+He got the, mm, green eyes, givin' me signs
+That he really wants to know my name, hey
+I saw you lookin' from across the way
+And suddenly, I'm glad I came, ay!
+Ven para acá, quiero bailar, toma mi mano
+Quiero sentir tu cuerpo en mí, estás temblando
+Mm, green eyes, takin' your time
+Now we know we'll never be the same
 
-So join me in this bed that I'm in — 所以来我这张床上  
-Push up on me and sweat, darling — 贴上来，流汗，亲爱的  
-So I'm gonna put my time in — 所以我要投入时间  
-I won't stop until the angels sing — 直到天使歌唱我才停  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来
+I love his lips 'cause he says the words
+"Te amo, mami, ah, te amo, mami"
+Don't wake up, this love is like a dream
 
-### Bridge（Cardi B · 过渡）
+#### Chorus（Camila 段后）
 
-Flawless diamonds — 完美无瑕的钻石  
-In a green field near Buenos Aires — 在布宜诺斯艾利斯附近的绿野  
-Until the sun's rising — 直到日出  
+So join me in this bed that I'm in
+Push up on me and sweat, darling
+So I'm gonna put my time in
+I won't stop until the angels sing
+Jump in that water, be free
+Come south of the border with me
+Jump in that water, be free
+Come south of the border with me
 
-### Verse 3（Cardi B）
+#### Bridge（Cardi B · 过渡）
 
-Bardi, uh — 宝贝，呃  
-You never live 'til you risk your life (Life) — 不冒险就谈不上活过（活）  
-You wanna shine, you gotta get more ice (Ice, ice, oh) — 想闪耀，就得加冰（钻/冰，哦）  
-Am I your lover or I'm just your vice? (Woo, yeah, yeah) — 我是爱人还是你的瘾？（呜，对，对）  
-A little crazy, but I'm just your type (Okurrr) — 有点疯，但正是你的菜（Okurrr）  
-You want the lips and the curves, need the whips and the furs — 你要唇与曲线，还要鞭子与皮草  
-And the diamonds I prefer, in my closet, his and hers, ayy — 钻石我挑最好的，衣帽间 his and hers，哎  
-He want the lil' mamacita, margarita (Margarita) — 他要小辣妹、margarita（Margarita）  
-I think that Ed got a lil' jungle fever, ayy (Woo!) — 我觉得 Ed 有点 jungle fever，哎（呜！）  
-You are more than (You are more than) — 你不止如此（你不止如此）  
-Something borin' (Something borin') — 别那么无聊（别那么无聊）  
-Legs open, tongue out, Michael Jordan, uh (Uh) — 腿张开、吐舌头，像 Michael Jordan，呃（呃）  
-Go explore in (Woo, woo), somethin' foreign (Skrrt, skrrt) — 去探险（呜，呜），来点异域的（Skrrt，Skrrt）  
-Bust it up, a rain forest, it be pourin', yeah — 猛来，像雨林，大雨倾盆，对  
-Kiss me like you need me, rub me like a genie — 像需要我那样吻我，像擦神灯那样揉我  
-Pull up to my spot in Lamborghini — 开到我那辆 Lamborghini 旁  
-'Cause you gotta see me, never leave me (Never leave me) — 你得见我，别离开我（别离开我）  
-You got a girl that could finally do it all — 你有个女孩终于啥都能干  
-Drop a album, drop a baby, but I never drop the ball, uh — 发专辑、生娃，但我从不掉链子，呃  
+Flawless diamonds
+In a green field near Buenos Aires
+Until the sun's rising
 
-We won't stop until the angels sing — 直到天使歌唱我们不停  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来  
+#### Verse 3（Cardi B）
 
-### Outro（副歌重复）
+Bardi, uh
+You never live 'til you risk your life (Life)
+You wanna shine, you gotta get more ice (Ice, ice, oh)
+Am I your lover or I'm just your vice? (Woo, yeah, yeah)
+A little crazy, but I'm just your type (Okurrr)
+You want the lips and the curves, need the whips and the furs
+And the diamonds I prefer, in my closet, his and hers, ayy
+He want the lil' mamacita, margarita (Margarita)
+I think that Ed got a lil' jungle fever, ayy (Woo!)
+You are more than (You are more than)
+Something borin' (Something borin')
+Legs open, tongue out, Michael Jordan, uh (Uh)
+Go explore in (Woo, woo), somethin' foreign (Skrrt, skrrt)
+Bust it up, a rain forest, it be pourin', yeah
+Kiss me like you need me, rub me like a genie
+Pull up to my spot in Lamborghini
+'Cause you gotta see me, never leave me (Never leave me)
+You got a girl that could finally do it all
+Drop a album, drop a baby, but I never drop the ball, uh
 
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来  
-Come south of the border, border (hey) — 到边境以南来，以南（嘿）  
-Come south of the border with me — 跟我到边境以南来  
-Come south of the border, border — 到边境以南来，以南  
-Come south of the border with me — 跟我到边境以南来  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来  
-Jump in that water, be free — 跳进那水里，自由吧  
-Come south of the border with me — 跟我到边境以南来
+We won't stop until the angels sing
+Jump in that water, be free
+Come south of the border with me
+
+#### Outro（副歌重复）
+
+Jump in that water, be free
+Come south of the border with me
+Come south of the border, border (hey)
+Come south of the border with me
+Come south of the border, border
+Come south of the border with me
+Jump in that water, be free
+Come south of the border with me
+Jump in that water, be free
+Come south of the border with me
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1（Ed）
+
+她有，嗯，棕眸、焦糖色的大腿
+长发，没婚戒，嘿
+我看见你在对面望过来
+现在我真想知道你叫什么
+她有，嗯，白裙子，但穿得更少时
+兄弟，你知道她让我发疯
+那，嗯，棕眸、美丽的笑
+你知道我爱看你做你的事
+
+#### Pre-Chorus & Chorus
+
+我爱她的臀、曲线，唇说着
+「我爱你，宝贝，啊，我爱你，宝贝」
+我吻她，这份爱像梦
+
+所以来我这张床上
+贴上来，流汗，亲爱的
+所以我要投入时间
+直到天使歌唱我才停
+跳进那水里，自由吧
+跟我到边境以南来
+跳进那水里，自由吧
+跟我到边境以南来
+
+#### Verse 2（Camila）
+
+他有，嗯，绿眸，给我信号
+说他真想知道我叫什么，嘿
+我看见你在对面望过来
+突然我很高兴我来了，哎！
+到这边来，我想跳舞，握我的手
+想感受你身体贴着我，你在发抖
+嗯，绿眸，慢慢来
+现在我们知道再不会一样了
+
+我爱他的唇，因为他说
+「我爱你，宝贝，啊，我爱你，宝贝」
+别醒来，这份爱像梦
+
+#### Chorus（Camila 段后）
+
+所以来我这张床上
+贴上来，流汗，亲爱的
+所以我要投入时间
+直到天使歌唱我才停
+跳进那水里，自由吧
+跟我到边境以南来
+跳进那水里，自由吧
+跟我到边境以南来
+
+#### Bridge（Cardi B · 过渡）
+
+完美无瑕的钻石
+在布宜诺斯艾利斯附近的绿野
+直到日出
+
+#### Verse 3（Cardi B）
+
+宝贝，呃
+不冒险就谈不上活过（活）
+想闪耀，就得加冰（钻/冰，哦）
+我是爱人还是你的瘾？（呜，对，对）
+有点疯，但正是你的菜（Okurrr）
+你要唇与曲线，还要鞭子与皮草
+钻石我挑最好的，衣帽间 his and hers，哎
+他要小辣妹、margarita（Margarita）
+我觉得 Ed 有点 jungle fever，哎（呜！）
+你不止如此（你不止如此）
+别那么无聊（别那么无聊）
+腿张开、吐舌头，像 Michael Jordan，呃（呃）
+去探险（呜，呜），来点异域的（Skrrt，Skrrt）
+猛来，像雨林，大雨倾盆，对
+像需要我那样吻我，像擦神灯那样揉我
+开到我那辆 Lamborghini 旁
+你得见我，别离开我（别离开我）
+你有个女孩终于啥都能干
+发专辑、生娃，但我从不掉链子，呃
+
+直到天使歌唱我们不停
+跳进那水里，自由吧
+跟我到边境以南来
+
+#### Outro（副歌重复）
+
+跳进那水里，自由吧
+跟我到边境以南来
+到边境以南来，以南（嘿）
+跟我到边境以南来
+到边境以南来，以南
+跟我到边境以南来
+跳进那水里，自由吧
+跟我到边境以南来
+跳进那水里，自由吧
+跟我到边境以南来
 
 ## 重点表达 · Key Phrases
 

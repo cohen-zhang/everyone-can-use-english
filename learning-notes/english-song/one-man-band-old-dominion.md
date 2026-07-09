@@ -60,70 +60,136 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Been flying solo for so long — 独自飞了太久  
-Nobody's singing a harmony — 没人跟我唱和声  
-Up there just me and my shadow — 台上就我和我的影子  
-No base, no guitar, no tambourine — 没贝斯、没吉他、没铃鼓  
+### 英文歌词 · English Lyrics
 
-And I found you like a melody — 然后我遇见你，像撞上一段旋律  
-You were singing in the same key as me — 你跟我唱在同一个调上  
-We had 'em dancing in the streets — 我们让街上的人都跟着跳起舞来  
+#### Verse 1
 
-### Chorus
+Been flying solo for so long
+Nobody's singing a harmony
+Up there just me and my shadow
+No base, no guitar, no tambourine
 
-I don't wanna be a one man band — 我不想再当一人乐队  
-I don't wanna be a rolling stone alone — 不想再一个人漂泊不定  
-Putting miles on a run-down van — 开着破旧的面包车一路狂奔  
-Baby, we can take our own show on the road — 宝贝，咱们可以一起把这场演出带上路  
-I'll lay down the beat, you'll carry the tune — 我打底鼓点，你来扛主旋律  
-We'll get tattoos, and we'll trash hotel rooms — 一起纹身，一起把酒店房间闹翻天  
-Baby, take my hand — 宝贝，牵我的手  
-I don't wanna be a one man band — 我不想再当一人乐队  
-No — 不要  
+And I found you like a melody
+You were singing in the same key as me
+We had 'em dancing in the streets
 
-### Verse 2
+#### Chorus
 
-I wanna run down your wild dreams — 我想追着你那些疯狂的梦一起跑  
-And I wanna chase every high with you — 想和你一起追每一次兴奋的高峰  
-Count every rip in these old jeans — 数一数这条旧牛仔裤上的每一道破口  
-We'll never learn how to sing the blues — 咱们永远学不会唱那些伤感的布鲁斯  
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+I don't wanna be a one man band
+No
 
-If I'm gonna be famous — 要是我注定要出名  
-Girl, I wanna be famous with you — 姑娘，我想和你一起出名  
-We got our own little groove — 咱们有自己那点小节奏  
+#### Verse 2
 
-### Chorus
+I wanna run down your wild dreams
+And I wanna chase every high with you
+Count every rip in these old jeans
+We'll never learn how to sing the blues
 
-I don't wanna be a one man band — 我不想再当一人乐队  
-I don't wanna be a rolling stone alone — 不想再一个人漂泊不定  
-Putting miles on a run-down van — 开着破旧的面包车一路狂奔  
-Baby, we can take our own show on the road — 宝贝，咱们可以一起把这场演出带上路  
-I'll lay down the beat, you'll carry the tune — 我打底鼓点，你来扛主旋律  
-We'll get tattoos, and we'll trash hotel rooms — 一起纹身，一起把酒店房间闹翻天  
-Baby, take my hand — 宝贝，牵我的手  
-'Cause I don't wanna be a one man band — 因为我不想再当一人乐队  
+If I'm gonna be famous
+Girl, I wanna be famous with you
+We got our own little groove
 
-### Bridge
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+'Cause I don't wanna be a one man band
 
-When the spotlight goes cold, and the curtains come down — 等聚光灯冷下来、幕布落下  
-The chairs are all stacked, and there's no one around — 椅子都叠好了，周围一个人也没有  
-And nobody's paying, we'll still be playing — 就算没人买单，咱们也还在弹唱  
+#### Bridge
 
-### Final Chorus
+When the spotlight goes cold, and the curtains come down
+The chairs are all stacked, and there's no one around
+And nobody's paying, we'll still be playing
 
-I don't wanna be a one man band — 我不想再当一人乐队  
-I don't wanna be a rolling stone alone — 不想再一个人漂泊不定  
-Putting miles on a run-down van — 开着破旧的面包车一路狂奔  
-Baby, we can take our own show on the road — 宝贝，咱们可以一起把这场演出带上路  
-I'll lay down the beat, you'll carry the tune — 我打底鼓点，你来扛主旋律  
-We'll get tattoos, and we'll trash hotel rooms — 一起纹身，一起把酒店房间闹翻天  
-Baby, take my hand — 宝贝，牵我的手  
-'Cause I don't wanna be a one man band — 因为我不想再当一人乐队  
-I don't wanna be a one man band — 我不想再当一人乐队  
+#### Final Chorus
+
+I don't wanna be a one man band
+I don't wanna be a rolling stone alone
+Putting miles on a run-down van
+Baby, we can take our own show on the road
+I'll lay down the beat, you'll carry the tune
+We'll get tattoos, and we'll trash hotel rooms
+Baby, take my hand
+'Cause I don't wanna be a one man band
+I don't wanna be a one man band
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+独自飞了太久
+没人跟我唱和声
+台上就我和我的影子
+没贝斯、没吉他、没铃鼓
+
+然后我遇见你，像撞上一段旋律
+你跟我唱在同一个调上
+我们让街上的人都跟着跳起舞来
+
+#### Chorus
+
+我不想再当一人乐队
+不想再一个人漂泊不定
+开着破旧的面包车一路狂奔
+宝贝，咱们可以一起把这场演出带上路
+我打底鼓点，你来扛主旋律
+一起纹身，一起把酒店房间闹翻天
+宝贝，牵我的手
+我不想再当一人乐队
+不要
+
+#### Verse 2
+
+我想追着你那些疯狂的梦一起跑
+想和你一起追每一次兴奋的高峰
+数一数这条旧牛仔裤上的每一道破口
+咱们永远学不会唱那些伤感的布鲁斯
+
+要是我注定要出名
+姑娘，我想和你一起出名
+咱们有自己那点小节奏
+
+我不想再当一人乐队
+不想再一个人漂泊不定
+开着破旧的面包车一路狂奔
+宝贝，咱们可以一起把这场演出带上路
+我打底鼓点，你来扛主旋律
+一起纹身，一起把酒店房间闹翻天
+宝贝，牵我的手
+因为我不想再当一人乐队
+
+#### Bridge
+
+等聚光灯冷下来、幕布落下
+椅子都叠好了，周围一个人也没有
+就算没人买单，咱们也还在弹唱
+
+#### Final Chorus
+
+我不想再当一人乐队
+不想再一个人漂泊不定
+开着破旧的面包车一路狂奔
+宝贝，咱们可以一起把这场演出带上路
+我打底鼓点，你来扛主旋律
+一起纹身，一起把酒店房间闹翻天
+宝贝，牵我的手
+因为我不想再当一人乐队
+我不想再当一人乐队
 
 ## 重点表达 · Key Phrases
 

@@ -62,90 +62,174 @@ aliases:
 
 > 部分段落含粗口，为歌曲原词；学习时注意语境与场合。
 
-### Intro / Hook
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Oh, caught in a bad romance — 哦，陷入一段糟糕的恋情  
-Oh, caught in a bad romance — 哦，陷入一段糟糕的恋情  
+### 英文歌词 · English Lyrics
 
-Rah, rah, ah-ah-ah — 啦，啦，啊—啊—啊  
-Roma, roma-ma — 罗马，罗马—玛  
-Gaga, ooh-la-la — Gaga，乌—啦啦  
-Want your bad romance — 想要你这段糟糕的恋情  
+#### Intro / Hook
 
-*(以上四句重复)*
+Oh, caught in a bad romance
+Oh, caught in a bad romance
 
-### Verse 1
+Rah, rah, ah-ah-ah
+Roma, roma-ma
+Gaga, ooh-la-la
+Want your bad romance
 
-I want your ugly, I want your disease — 我要你的丑，我要你的病  
-I want your everything as long as it's free — 我要你的一切，只要是免费的  
-I want your love — 我要你的爱  
-Love, love, love, I want your love (hey) — 爱，爱，爱，我要你的爱（嘿）  
+#### Verse 1
 
-I want your drama, the touch of your hand (hey) — 我要你的戏剧性，你手的触碰（嘿）  
-I want your leather-studded kiss in the sand — 我要你镶满铆钉的皮夹克式沙吻  
-I want your love — 我要你的爱  
-Love, love, love, I want your love — 爱，爱，爱，我要你的爱  
+I want your ugly, I want your disease
+I want your everything as long as it's free
+I want your love
+Love, love, love, I want your love (hey)
 
-You know that I want you — 你知道我想要你  
-And you know that I need you — 你知道我需要你  
-I want it bad, your bad romance — 我超想要，你这段糟糕的恋情  
+I want your drama, the touch of your hand (hey)
+I want your leather-studded kiss in the sand
+I want your love
+Love, love, love, I want your love
 
-### Pre-Chorus
+You know that I want you
+And you know that I need you
+I want it bad, your bad romance
 
-I want your love, and I want your revenge — 我要你的爱，也要你的报复  
-You and me could write a bad romance (oh) — 你我就能写一段糟糕的恋情（哦）  
-I want your love and all your lover's revenge — 我要你的爱，还要你前任们的报复  
-You and me could write a bad romance — 你我就能写一段糟糕的恋情  
+#### Pre-Chorus
 
-Oh, caught in a bad romance — 哦，陷入一段糟糕的恋情  
-Oh, caught in a bad romance — 哦，陷入一段糟糕的恋情  
+I want your love, and I want your revenge
+You and me could write a bad romance (oh)
+I want your love and all your lover's revenge
+You and me could write a bad romance
 
-### Verse 2
+Oh, caught in a bad romance
+Oh, caught in a bad romance
 
-I want your horror, I want your design — 我要你的恐怖，我要你的设计  
-'Cause you're a criminal as long as you're mine — 因为只要你属于我，你就是罪犯  
-I want your love — 我要你的爱  
-Love, love, love, I want your love — 爱，爱，爱，我要你的爱  
+#### Verse 2
 
-I want your psycho, your vertigo shtick (hey) — 我要你的疯狂，你那套眩晕把戏（嘿）  
-Want you in my rear window, baby, you're sick — 想让你出现在我后窗，宝贝，你太绝了  
-I want your love — 我要你的爱  
-Love, love, love, I want your love — 爱，爱，爱，我要你的爱  
+I want your horror, I want your design
+'Cause you're a criminal as long as you're mine
+I want your love
+Love, love, love, I want your love
 
-You know that I want you — 你知道我想要你  
-And you know that I need you ('cause I'm a free bitch, baby) — 你知道我需要你（因为我是自由的婊子，宝贝）  
-I want it bad, your bad romance — 我超想要，你这段糟糕的恋情  
+I want your psycho, your vertigo shtick (hey)
+Want you in my rear window, baby, you're sick
+I want your love
+Love, love, love, I want your love
 
-### Pre-Chorus（重复）
+You know that I want you
+And you know that I need you ('cause I'm a free bitch, baby)
+I want it bad, your bad romance
 
-*(同前)*
+#### Pre-Chorus（重复）
 
-### Bridge（时装步 + 法英混唱）
+#### Bridge（时装步 + 法英混唱）
 
-Walk, walk, fashion, baby — 走，走，时尚，宝贝  
-Work it, move that bitch crazy — 动起来，把那妞逼疯  
-Walk, walk, fashion, baby — 走，走，时尚，宝贝  
-Work it, move that bitch crazy — 动起来，把那妞逼疯  
-Walk, walk, fashion, baby — 走，走，时尚，宝贝  
-Work it, move that bitch crazy — 动起来，把那妞逼疯  
-Walk, walk, passion, baby — 走，走，激情，宝贝  
-Work it, I'm a free bitch, baby — 动起来，我是自由的婊子，宝贝  
+Walk, walk, fashion, baby
+Work it, move that bitch crazy
+Walk, walk, fashion, baby
+Work it, move that bitch crazy
+Walk, walk, fashion, baby
+Work it, move that bitch crazy
+Walk, walk, passion, baby
+Work it, I'm a free bitch, baby
 
-I want your love, and I want your revenge — 我要你的爱，也要你的报复  
-I want your love, I don't wanna be friends — 我要你的爱，我不想只当朋友  
-J'veux ton amour, et je veux ta revanche — （法）我要你的爱，也要你的报复  
-J'veux ton amour, I don't wanna be friends (oh) — （法）我要你的爱，我不想只当朋友（哦）  
-No, I don't wanna be friends (oh, caught in a bad romance) — 不，我不想只当朋友（哦，陷入糟糕恋情）  
-I don't wanna be friends (oh) — 我不想只当朋友（哦）  
-Want your bad romance (oh) — 想要你这段糟糕的恋情（哦）  
-Caught in a bad romance — 陷入一段糟糕的恋情  
-Want your bad romance — 想要你这段糟糕的恋情  
+I want your love, and I want your revenge
+I want your love, I don't wanna be friends
+J'veux ton amour, et je veux ta revanche
+J'veux ton amour, I don't wanna be friends (oh)
+No, I don't wanna be friends (oh, caught in a bad romance)
+I don't wanna be friends (oh)
+Want your bad romance (oh)
+Caught in a bad romance
+Want your bad romance
 
-### Final Chorus & Outro
+#### Final Chorus & Outro
 
 *(Pre-Chorus 与 Hook 重复至结尾)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Intro / Hook
+
+哦，陷入一段糟糕的恋情
+哦，陷入一段糟糕的恋情
+
+啦，啦，啊—啊—啊
+罗马，罗马—玛
+Gaga，乌—啦啦
+想要你这段糟糕的恋情
+
+*(以上四句重复)*
+
+#### Verse 1
+
+我要你的丑，我要你的病
+我要你的一切，只要是免费的
+我要你的爱
+爱，爱，爱，我要你的爱（嘿）
+
+我要你的戏剧性，你手的触碰（嘿）
+我要你镶满铆钉的皮夹克式沙吻
+我要你的爱
+爱，爱，爱，我要你的爱
+
+你知道我想要你
+你知道我需要你
+我超想要，你这段糟糕的恋情
+
+#### Pre-Chorus
+
+我要你的爱，也要你的报复
+你我就能写一段糟糕的恋情（哦）
+我要你的爱，还要你前任们的报复
+你我就能写一段糟糕的恋情
+
+哦，陷入一段糟糕的恋情
+哦，陷入一段糟糕的恋情
+
+#### Verse 2
+
+我要你的恐怖，我要你的设计
+因为只要你属于我，你就是罪犯
+我要你的爱
+爱，爱，爱，我要你的爱
+
+我要你的疯狂，你那套眩晕把戏（嘿）
+想让你出现在我后窗，宝贝，你太绝了
+我要你的爱
+爱，爱，爱，我要你的爱
+
+你知道我想要你
+你知道我需要你（因为我是自由的婊子，宝贝）
+我超想要，你这段糟糕的恋情
+
+#### Pre-Chorus（重复）
+
+*(同前)*
+
+#### Bridge（时装步 + 法英混唱）
+
+走，走，时尚，宝贝
+动起来，把那妞逼疯
+走，走，时尚，宝贝
+动起来，把那妞逼疯
+走，走，时尚，宝贝
+动起来，把那妞逼疯
+走，走，激情，宝贝
+动起来，我是自由的婊子，宝贝
+
+我要你的爱，也要你的报复
+我要你的爱，我不想只当朋友
+（法）我要你的爱，也要你的报复
+（法）我要你的爱，我不想只当朋友（哦）
+不，我不想只当朋友（哦，陷入糟糕恋情）
+我不想只当朋友（哦）
+想要你这段糟糕的恋情（哦）
+陷入一段糟糕的恋情
+想要你这段糟糕的恋情
+
+#### Final Chorus & Outro
 
 ## 重点表达 · Key Phrases
 

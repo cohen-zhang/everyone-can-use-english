@@ -60,70 +60,138 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-When I was young — 当我年轻时  
-I'd listen to the radio — 我会听电台  
-Waitin' for my favorite songs — 等着我最爱的歌  
-When they played I'd sing along — 播出来我就跟着唱  
-It made me smile — 那让我微笑  
+### 英文歌词 · English Lyrics
 
-Those were such happy times — 那是多么快乐的时光  
-And not so long ago — 而且并不久远  
-How I wondered where they'd gone — 我曾奇怪它们去了哪  
-But they're back again — 但它们又回来了  
-Just like a long lost friend — 像一位失散多年的老友  
-All the songs I loved so well — 所有我深爱的歌  
+#### Verse 1
 
-### Chorus
+When I was young
+I'd listen to the radio
+Waitin' for my favorite songs
+When they played I'd sing along
+It made me smile
 
-Every sha-la-la-la — 每一句 sha-la-la-la  
-Every whoa-oh-whoa — 每一句 whoa-oh-whoa  
-Still shines — 依旧闪亮  
-Every shing-a-ling-a-ling — 每一句 shing-a-ling-a-ling  
-That they're startin' to sing — 他们开始唱的那些  
-So fine — 如此美好  
+Those were such happy times
+And not so long ago
+How I wondered where they'd gone
+But they're back again
+Just like a long lost friend
+All the songs I loved so well
 
-### Verse 2
+#### Chorus
 
-When they get to the part — 当他们唱到那一段  
-Where he's breakin' her heart — 他伤她心的那一段  
-It can really make me cry — 真的又会让我哭  
-Just like before — 就像从前一样  
-It's yesterday once more — 昨日重现  
+Every sha-la-la-la
+Every whoa-oh-whoa
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing
+So fine
 
-Lookin' back on how it was in years gone by — 回望多年前的岁月  
-And the good times that I had — 以及我曾拥有的好时光  
-Makes today seem rather sad — 让今天显得有些 sad  
-So much has changed — 一切改变太多  
+#### Verse 2
 
-It was songs of love — 那是爱情的歌  
-That I would sing to them — 我会跟着唱  
-And I'd memorize each word — 我会记住每一个词  
-Those old melodies — 那些老旋律  
-Still sound so good to me — 对我来说依旧动听  
-As they melt the years away — 仿佛融化了岁月  
+When they get to the part
+Where he's breakin' her heart
+It can really make me cry
+Just like before
+It's yesterday once more
 
-### Chorus（重复）
+Lookin' back on how it was in years gone by
+And the good times that I had
+Makes today seem rather sad
+So much has changed
 
-Every sha-la-la-la — 每一句 sha-la-la-la  
-Every whoa-oh-whoa — 每一句 whoa-oh-whoa  
-Still shines — 依旧闪亮  
-Every shing-a-ling-a-ling — 每一句 shing-a-ling-a-ling  
-That they're startin' to sing — 他们开始唱的那些  
-So fine — 如此美好  
+It was songs of love
+That I would sing to them
+And I'd memorize each word
+Those old melodies
+Still sound so good to me
+As they melt the years away
 
-### Outro
+#### Chorus（重复）
 
-All my best memories — 我所有最好的记忆  
-Come back clearly to me — 都清晰地回到身边  
-Some can even make me cry — 有些甚至让我落泪  
-Just like before — 就像从前一样  
-It's yesterday once more — 昨日重现  
+Every sha-la-la-la
+Every whoa-oh-whoa
+Still shines
+Every shing-a-ling-a-ling
+That they're startin' to sing
+So fine
 
-*(副歌 hook 重复至结束)*
+#### Outro
+
+All my best memories
+Come back clearly to me
+Some can even make me cry
+Just like before
+It's yesterday once more
+
+*(Chorus hook repeated to the end)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+当我年轻时
+我会听电台
+等着我最爱的歌
+播出来我就跟着唱
+那让我微笑
+
+那是多么快乐的时光
+而且并不久远
+我曾奇怪它们去了哪
+但它们又回来了
+像一位失散多年的老友
+所有我深爱的歌
+
+#### Chorus
+
+每一句 sha-la-la-la
+每一句 whoa-oh-whoa
+依旧闪亮
+每一句 shing-a-ling-a-ling
+他们开始唱的那些
+如此美好
+
+#### Verse 2
+
+当他们唱到那一段
+他伤她心的那一段
+真的又会让我哭
+就像从前一样
+昨日重现
+
+回望多年前的岁月
+以及我曾拥有的好时光
+让今天显得有些 sad
+一切改变太多
+
+那是爱情的歌
+我会跟着唱
+我会记住每一个词
+那些老旋律
+对我来说依旧动听
+仿佛融化了岁月
+
+#### Chorus（重复）
+
+每一句 sha-la-la-la
+每一句 whoa-oh-whoa
+依旧闪亮
+每一句 shing-a-ling-a-ling
+他们开始唱的那些
+如此美好
+
+#### Outro
+
+我所有最好的记忆
+都清晰地回到身边
+有些甚至让我落泪
+就像从前一样
+昨日重现
 
 ## 重点表达 · Key Phrases
 

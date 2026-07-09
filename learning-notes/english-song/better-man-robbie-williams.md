@@ -59,70 +59,140 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Send someone to love me — 派个人来爱我  
-I need to rest in arms — 我需要在怀抱里歇息  
-Keep me safe from harm — 护我远离伤害  
-In pouring rain — 在这倾盆大雨里  
-Give me endless summer — 给我无尽的夏日  
-Lord, I fear the cold — 主啊，我怕寒冷  
-Feel I'm getting old — 觉得自己在变老  
-Before my time — 太早、太早  
+### 英文歌词 · English Lyrics
 
-### Chorus
+#### Verse 1
 
-As my soul heals the shame — 当灵魂抚平羞耻  
-I will grow through this pain — 我会在痛里成长  
-Lord, I'm doing all I can — 主啊，我已竭尽全力  
-To be a better man — 只为成为一个更好的人  
+Send someone to love me
+I need to rest in arms
+Keep me safe from harm
+In pouring rain
+Give me endless summer
+Lord, I fear the cold
+Feel I'm getting old
+Before my time
 
-### Verse 2
+#### Chorus
 
-Go easy on my conscience — 请饶了我的良心  
-'Cause it's not my fault — 因为不是我的错  
-I know I've been taught — 我知道我被教导  
-To take the blame — 要去承担一切责备  
-Rest assured my angels — 放心，我的天使  
-Will catch my tears — 会接住我的眼泪  
-Walk me out of here — 带我走出这里  
-I'm in pain — 我很痛苦  
+As my soul heals the shame
+I will grow through this pain
+Lord, I'm doing all I can
+To be a better man
 
-### Chorus（重复）
+#### Verse 2
 
-As my soul heals the shame — 当灵魂抚平羞耻  
-I will grow through this pain — 我会在痛里成长  
-Lord I'm doing all I can — 主啊，我已竭尽全力  
-To be a better man — 只为成为一个更好的人  
+Go easy on my conscience
+'Cause it's not my fault
+I know I've been taught
+To take the blame
+Rest assured my angels
+Will catch my tears
+Walk me out of here
+I'm in pain
 
-### Bridge
+#### Chorus（重复）
 
-Once you've found that lover — 一旦找到那个爱人  
-You're homeward bound — 你便踏上归途  
-Love is all around — 爱无处不在  
-Love is all around — 爱无处不在  
-I know some have fallen on stony ground — 我知道有人摔在顽石地上  
-But love is all around — 但爱仍无处不在  
+As my soul heals the shame
+I will grow through this pain
+Lord I'm doing all I can
+To be a better man
 
-### Verse 1（重复）
+#### Bridge
 
-Send someone to love me — 派个人来爱我  
-I need to rest in arms — 我需要在怀抱里歇息  
-Keep me safe from harm — 护我远离伤害  
-In pouring rain — 在这倾盆大雨里  
-Give me endless summer — 给我无尽的夏日  
-Lord, I fear the cold — 主啊，我怕寒冷  
-Feel I'm getting old — 觉得自己在变老  
-Before my time — 太早、太早  
+Once you've found that lover
+You're homeward bound
+Love is all around
+Love is all around
+I know some have fallen on stony ground
+But love is all around
 
-### Chorus（结尾）
+#### Verse 1（重复）
 
-As my soul heals the shame — 当灵魂抚平羞耻  
-I will grow through this pain — 我会在痛里成长  
-Lord, I'm doin' all I can — 主啊，我已竭尽全力  
-To be a better man — 只为成为一个更好的人  
+Send someone to love me
+I need to rest in arms
+Keep me safe from harm
+In pouring rain
+Give me endless summer
+Lord, I fear the cold
+Feel I'm getting old
+Before my time
+
+#### Chorus（结尾）
+
+As my soul heals the shame
+I will grow through this pain
+Lord, I'm doin' all I can
+To be a better man
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+派个人来爱我
+我需要在怀抱里歇息
+护我远离伤害
+在这倾盆大雨里
+给我无尽的夏日
+主啊，我怕寒冷
+觉得自己在变老
+太早、太早
+
+#### Chorus
+
+当灵魂抚平羞耻
+我会在痛里成长
+主啊，我已竭尽全力
+只为成为一个更好的人
+
+#### Verse 2
+
+请饶了我的良心
+因为不是我的错
+我知道我被教导
+要去承担一切责备
+放心，我的天使
+会接住我的眼泪
+带我走出这里
+我很痛苦
+
+#### Chorus（重复）
+
+当灵魂抚平羞耻
+我会在痛里成长
+主啊，我已竭尽全力
+只为成为一个更好的人
+
+#### Bridge
+
+一旦找到那个爱人
+你便踏上归途
+爱无处不在
+爱无处不在
+我知道有人摔在顽石地上
+但爱仍无处不在
+
+#### Verse 1（重复）
+
+派个人来爱我
+我需要在怀抱里歇息
+护我远离伤害
+在这倾盆大雨里
+给我无尽的夏日
+主啊，我怕寒冷
+觉得自己在变老
+太早、太早
+
+#### Chorus（结尾）
+
+当灵魂抚平羞耻
+我会在痛里成长
+主啊，我已竭尽全力
+只为成为一个更好的人
 
 ## 重点表达 · Key Phrases
 

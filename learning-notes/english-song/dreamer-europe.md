@@ -60,47 +60,90 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-He is down by the riverside — 他待在河边  
-Late one night — 深夜  
-He's tryin' to count the stars — 他试着数星星  
-In each of the signs — 落在各个星座里  
-All alone by the riverside — 独自在河边  
-And time passes by — 时间一点点过去  
-Gathering thoughts of the past — 搜集过往的念头  
-And maybe he'll cry — 也许他会哭
+### 英文歌词 · English Lyrics
 
-### Bridge
+#### Verse 1
 
-So they say he's a madman — 所以他们说他是疯子  
-But he don't understand — 但他不明白（自己哪里疯了）  
-But I know that he's tryin' hard — 但我知道他在努力  
-To act like a man — 装成一个「男人」该有的样子  
-All those years he has suffered, my friends — 朋友们，他受苦了那么多年  
-All those years of pain — 那么多年的痛  
-But I don't think he knows for sure — 但我不确定他是否明白  
-If those years were in vain, no — 那些岁月是否白费了，不
+He is down by the riverside
+Late one night
+He's tryin' to count the stars
+In each of the signs
+All alone by the riverside
+And time passes by
+Gathering thoughts of the past
+And maybe he'll cry
 
-### Chorus
+#### Bridge
 
-He's a dreamer — 他是个梦想家  
-But he's fightin' for his life — 但他在为活下去而战  
-He's tryin' to understand — 他努力想弄懂自己  
-He's a dreamer — 他是个梦想家  
-But he wants to carry on — 但他想继续走下去  
-And I know he's a lonely man — 我知道他是个孤独的人  
-Lonely man — 孤独的人
+So they say he's a madman
+But he don't understand
+But I know that he's tryin' hard
+To act like a man
+All those years he has suffered, my friends
+All those years of pain
+But I don't think he knows for sure
+If those years were in vain, no
 
-### Verse 2
+#### Chorus
 
-*(同 Verse 1，第二遍叙事)*
+He's a dreamer
+But he's fightin' for his life
+He's tryin' to understand
+He's a dreamer
+But he wants to carry on
+And I know he's a lonely man
+Lonely man
 
-### Chorus（重复与变奏）
+#### Verse 2
+
+*(Same as Verse 1 — second narrative pass)*
+
+#### Chorus（重复与变奏）
 
 *(副歌多遍重复；注意第二遍偶现 *That he wants to carry on* 的演唱变体，标准词为 *But he wants to carry on*)*
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+他待在河边
+深夜
+他试着数星星
+落在各个星座里
+独自在河边
+时间一点点过去
+搜集过往的念头
+也许他会哭
+
+#### Bridge
+
+所以他们说他是疯子
+但他不明白（自己哪里疯了）
+但我知道他在努力
+装成一个「男人」该有的样子
+朋友们，他受苦了那么多年
+那么多年的痛
+但我不确定他是否明白
+那些岁月是否白费了，不
+
+#### Chorus
+
+他是个梦想家
+但他在为活下去而战
+他努力想弄懂自己
+他是个梦想家
+但他想继续走下去
+我知道他是个孤独的人
+孤独的人
+
+#### Verse 2
+
+#### Chorus（重复与变奏）
 
 ## 重点表达 · Key Phrases
 

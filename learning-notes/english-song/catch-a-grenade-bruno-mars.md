@@ -63,81 +63,160 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Easy come, easy go — 来得容易，去得也快  
-That's just how you live oh — 你就是这么活的  
-Take, take, take it all — 拿、拿、全拿走  
-But you never give — 可你从不付出  
-Should have known — 早该知道  
-You was trouble — 你就是个麻烦  
-From the first kiss — 从第一个吻开始  
-Had your eyes wide open — 你眼睛睁得大大的  
-Why were they open? — 为什么睁着？  
+### 英文歌词 · English Lyrics
 
-### Pre-Chorus
+#### Verse 1
 
-Gave you all I had — 把我所有的都给了你  
-And you tossed it in the trash — 你却扔进垃圾桶  
-Tossed it in the trash you did — 真的扔进垃圾桶了  
-To give me all your love — 把你全部的爱给我  
-Is all I ever asked — 是我唯一求过的  
-But what you don't understand is — 可你不懂的是  
+Easy come, easy go
+That's just how you live oh
+Take, take, take it all
+But you never give
+Should have known
+You was trouble
+From the first kiss
+Had your eyes wide open
+Why were they open?
 
-### Chorus
+#### Pre-Chorus
 
-I'd catch a grenade for ya (yeah, yeah, yeah) — 我愿意为你接住一颗手榴弹  
-Throw my hand on a blade for ya (yeah, yeah, yeah) — 愿意为你把手按在刀刃上  
-I'd jump in front of a train for ya (yeah, yeah, yeah) — 愿意为你冲到火车前面  
-You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh — 你知道我愿为你做任何事  
-I would go through all this pain — 我愿意受尽这些苦  
-Take a bullet straight through my brain — 愿意让子弹直穿我的脑袋  
-Yes, I would die for ya baby — 是的，我愿意为你去死，宝贝  
-But you won't do the same — 可你不会为我这样做  
+Gave you all I had
+And you tossed it in the trash
+Tossed it in the trash you did
+To give me all your love
+Is all I ever asked
+But what you don't understand is
 
-### Verse 2
+#### Chorus
 
-No, no, no, no — 不、不、不、不  
-Black, black, black and blue — 青一块紫一块  
-Beat me till I'm numb — 打到我麻木  
-Tell the devil I said "hey" when you get back to where you're from — 你回老家时，替我跟魔鬼说声嘿  
-Mad woman, bad woman — 疯女人，坏女人  
-That's just what you are, yeah — 你就是这样的人  
-You'll smile in my face then — 你会当面冲我笑  
-Rip the brakes out my car — 然后拆掉我车上的刹车  
+I'd catch a grenade for ya (yeah, yeah, yeah)
+Throw my hand on a blade for ya (yeah, yeah, yeah)
+I'd jump in front of a train for ya (yeah, yeah, yeah)
+You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh
+I would go through all this pain
+Take a bullet straight through my brain
+Yes, I would die for ya baby
+But you won't do the same
 
-### Pre-Chorus & Chorus
+#### Verse 2
 
-Gave you all I had — 把我所有的都给了你  
-And you tossed it in the trash — 你却扔进垃圾桶  
-You tossed it in the trash, yes you did — 真的扔了，没错  
-To give me all your love — 把你全部的爱给我  
-Is all I ever asked — 是我唯一求过的  
-Cause what you don't understand is — 因为你不懂的是  
+No, no, no, no
+Black, black, black and blue
+Beat me till I'm numb
+Tell the devil I said "hey" when you get back to where you're from
+Mad woman, bad woman
+That's just what you are, yeah
+You'll smile in my face then
+Rip the brakes out my car
+
+#### Pre-Chorus & Chorus
+
+Gave you all I had
+And you tossed it in the trash
+You tossed it in the trash, yes you did
+To give me all your love
+Is all I ever asked
+Cause what you don't understand is
 
 *(Chorus 同前)*
 
-### Bridge
+#### Bridge
 
-If my body was on fire, ooh — 要是我全身着火  
-You'd watch me burn down in flames — 你会看着我烧成灰  
-You said you loved me you're a liar — 你说爱我——你是个骗子  
-Cause you never, ever, ever did baby — 因为你从来、从来、从来没有爱过，宝贝  
+If my body was on fire, ooh
+You'd watch me burn down in flames
+You said you loved me you're a liar
+Cause you never, ever, ever did baby
 
-### Final Chorus
+#### Final Chorus
 
-But darling I'll still catch a grenade for ya — 可亲爱的，我还是愿意为你接住手榴弹  
-Throw my hand on a blade for ya (yeah, yeah, yeah) — 愿意为你把手按在刀刃上  
-I'd jump in front of a train for ya (yeah, yeah, yeah) — 愿意为你冲到火车前面  
-You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh — 你知道我愿为你做任何事  
-I would go through all this pain — 我愿意受尽这些苦  
-Take a bullet straight through my brain — 愿意让子弹直穿我的脑袋  
-Yes, I would die for ya baby — 是的，我愿意为你去死，宝贝  
-But you won't do the same — 可你不会为我这样做  
+But darling I'll still catch a grenade for ya
+Throw my hand on a blade for ya (yeah, yeah, yeah)
+I'd jump in front of a train for ya (yeah, yeah, yeah)
+You know I'd do anything for ya (yeah, yeah, yeah) Oh, oh
+I would go through all this pain
+Take a bullet straight through my brain
+Yes, I would die for ya baby
+But you won't do the same
 
-No, no, no, no — 不、不、不、不  
+No, no, no, no
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+来得容易，去得也快
+你就是这么活的
+拿、拿、全拿走
+可你从不付出
+早该知道
+你就是个麻烦
+从第一个吻开始
+你眼睛睁得大大的
+为什么睁着？
+
+#### Pre-Chorus
+
+把我所有的都给了你
+你却扔进垃圾桶
+真的扔进垃圾桶了
+把你全部的爱给我
+是我唯一求过的
+可你不懂的是
+
+#### Chorus
+
+我愿意为你接住一颗手榴弹
+愿意为你把手按在刀刃上
+愿意为你冲到火车前面
+你知道我愿为你做任何事
+我愿意受尽这些苦
+愿意让子弹直穿我的脑袋
+是的，我愿意为你去死，宝贝
+可你不会为我这样做
+
+#### Verse 2
+
+不、不、不、不
+青一块紫一块
+打到我麻木
+你回老家时，替我跟魔鬼说声嘿
+疯女人，坏女人
+你就是这样的人
+你会当面冲我笑
+然后拆掉我车上的刹车
+
+#### Pre-Chorus & Chorus
+
+把我所有的都给了你
+你却扔进垃圾桶
+真的扔了，没错
+把你全部的爱给我
+是我唯一求过的
+因为你不懂的是
+
+#### Bridge
+
+要是我全身着火
+你会看着我烧成灰
+你说爱我——你是个骗子
+因为你从来、从来、从来没有爱过，宝贝
+
+#### Final Chorus
+
+可亲爱的，我还是愿意为你接住手榴弹
+愿意为你把手按在刀刃上
+愿意为你冲到火车前面
+你知道我愿为你做任何事
+我愿意受尽这些苦
+愿意让子弹直穿我的脑袋
+是的，我愿意为你去死，宝贝
+可你不会为我这样做
+
+不、不、不、不
 
 ## 重点表达 · Key Phrases
 

@@ -63,39 +63,78 @@ aliases:
 
 ## 歌词 · Lyrics
 
-### Verse 1
+> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
-Sunny, yesterday my life was filled with rain — Sunny，昨天我的生活还下着雨  
-Sunny, you smiled at me and really eased the pain — Sunny，你朝我一笑，真的把痛抚平了  
-The dark days are gone, and the bright days are here — 黑暗的日子过去了，明亮的日子来了  
-My Sunny one shines so sincere — 我的 Sunny，笑得那么真诚  
-Sunny one so true, I love you — 真心的 Sunny，我爱你  
+### 英文歌词 · English Lyrics
 
-### Verse 2
+#### Verse 1
 
-Sunny, thank you for the sunshine bouquet — Sunny，谢谢你送来那束阳光  
-Sunny, thank you for the love you brought my way — Sunny，谢谢你把爱带到我身边  
-You gave to me your all and all — 你把全部的自己都给了我  
-Now I feel ten feet tall — 现在我觉得自己像长高了十英尺  
-Sunny one so true, I love you — 真心的 Sunny，我爱你  
+Sunny, yesterday my life was filled with rain
+Sunny, you smiled at me and really eased the pain
+The dark days are gone, and the bright days are here
+My Sunny one shines so sincere
+Sunny one so true, I love you
 
-### Verse 3
+#### Verse 2
 
-Sunny, thank you for the truth you let me see — Sunny，谢谢你让我看见真相  
-Sunny, thank you for the facts from A to Z — Sunny，谢谢你把事情从头到尾都告诉我  
-My life was torn like a windblown sand — 我的生活曾像风吹的沙子一样散乱  
-Then a rock was formed when you held my hand — 你握住我的手，我才重新站稳  
-Sunny one so true, I love you — 真心的 Sunny，我爱你  
+Sunny, thank you for the sunshine bouquet
+Sunny, thank you for the love you brought my way
+You gave to me your all and all
+Now I feel ten feet tall
+Sunny one so true, I love you
 
-### Verse 4
+#### Verse 3
 
-Sunny, thank you for the smile upon your face — Sunny，谢谢你脸上的笑容  
-Sunny, thank you for the gleam that flows with grace — Sunny，谢谢你眼里那道优雅的光  
-You're my spark of nature's fire — 你是我生命里那点火星  
-You're my sweet complete desire — 你是我甜蜜又完整的渴望  
-Sunny one so true, I love you — 真心的 Sunny，我爱你  
+Sunny, thank you for the truth you let me see
+Sunny, thank you for the facts from A to Z
+My life was torn like a windblown sand
+Then a rock was formed when you held my hand
+Sunny one so true, I love you
+
+#### Verse 4
+
+Sunny, thank you for the smile upon your face
+Sunny, thank you for the gleam that flows with grace
+You're my spark of nature's fire
+You're my sweet complete desire
+Sunny one so true, I love you
 
 ---
+
+### 中文翻译 · Chinese Translation
+
+#### Verse 1
+
+Sunny，昨天我的生活还下着雨
+Sunny，你朝我一笑，真的把痛抚平了
+黑暗的日子过去了，明亮的日子来了
+我的 Sunny，笑得那么真诚
+真心的 Sunny，我爱你
+
+#### Verse 2
+
+Sunny，谢谢你送来那束阳光
+Sunny，谢谢你把爱带到我身边
+你把全部的自己都给了我
+现在我觉得自己像长高了十英尺
+真心的 Sunny，我爱你
+
+#### Verse 3
+
+Sunny，谢谢你让我看见真相
+Sunny，谢谢你把事情从头到尾都告诉我
+我的生活曾像风吹的沙子一样散乱
+你握住我的手，我才重新站稳
+真心的 Sunny，我爱你
+
+#### Verse 4
+
+Sunny，谢谢你脸上的笑容
+Sunny，谢谢你眼里那道优雅的光
+你是我生命里那点火星
+你是我甜蜜又完整的渴望
+真心的 Sunny，我爱你
 
 ## 重点表达 · Key Phrases
 
