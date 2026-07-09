@@ -12,6 +12,7 @@ tags:
   - era/2010s
   - use/ktv
   - use/pronunciation
+  - content/explicit
 aliases:
   - Anaconda — Nicki Minaj
 ---
@@ -21,9 +22,9 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/english-song/wap-cardi-b|WAP — Cardi B]]（同类露骨女说唱；学习策略可对照） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**相关：** [[learning-notes/english-song/wap-cardi-b|WAP — Cardi B]]（同类露骨女说唱） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
 
-> **内容提示 · NSFW：** 本曲含大量性暗示、粗口与身体描写，属 **explicit / 成人向**。笔记对露骨段落用**委婉 gloss** 与**段落摘要**，不逐字译成露骨中文；副歌与较温和 hook 保留英中对照，方便跟唱与学 slang。
+> **内容提示 · NSFW：** 本曲含大量性描写、粗口与身体双关，属 **explicit / 成人向**。本笔记**保留原文**，中文亦尽量直译，方便跟唱与学 slang；职场 / 亲子场景请跳过。
 
 ---
 
@@ -63,39 +64,40 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> **学习策略：** 副歌 / Sir Mix-a-Lot 采样段 + 较温和 hook **全文对照**；Verse 中高度露骨句用 **〔段落摘要〕**，只译可跟唱的 hook 与偏温和行。英文原词保留，便于听辨。
-
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
+> **NSFW · 全文保留：** 英文按常见流媒体 / Genius 文本整理；中文尽量直译，含粗口与性俚语。先只看英文跟唱，需要核对意思时再往下看中文。
 > Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
 
 ### 英文歌词 · English Lyrics
 
-#### Chorus（采样 hook · Sir Mix-a-Lot）
+#### Intro / Chorus（采样 hook · Sir Mix-a-Lot）
 
 My anaconda don't
 My anaconda don't
 My anaconda don't want none
 Unless you got buns, hun
 
-> *anaconda* here is a sexual double entendre (from *Baby Got Back*); *buns* = buttocks (slang). Learn the meaning; no need to repeat it in formal settings.
-
-#### Verse 1（摘要 + 可跟唱行）
+#### Verse 1
 
 Boy toy named Troy, used to live in Detroit
 Big dope dealer money, he was gettin' some coins
 Was in shootouts with the law, but he live in a palace
-Bought me Alexander McQueen, he was keeping me stylish
-
+Bought me Alexander McQueen, he was keepin' me stylish
 Now that's real, real, real
 Gun in my purse, bitch, I came dressed to kill
+Who wanna go first? I had 'em pushin' daffodils
+I'm high as hell, I only took a half a pill
 I'm on some dumb shit
 
-By the way, what he say?
-He can tell I ain't missing no meals
-He say he don't like 'em boney, he want something he can grab
-So I pulled up in the Jag and I hit him with the jab like
+#### Pre-Chorus
 
-Dun-d-d-dun-dun-d-d-dun-dun
+By the way, what he say? (Hey, hey)
+He can tell I ain't missing no meals (Hey)
+Come through and fuck him in my automobile (Hey)
+Let him eat it with his grills, he keep tellin' me to chill
+He keep tellin' me it's real, that he love my sex appeal (Hey)
+He say he don't like 'em boney, he want something he can grab (Hey)
+So I pulled up in the Jag and I hit him with the jab like (Hey)
+Dun-d-d-dun-dun-d-d-dun-dun (Hey, hey)
 
 #### Chorus
 
@@ -107,150 +109,245 @@ Unless you got buns, hun
 #### Post-Chorus（*Baby Got Back* 采样）
 
 Oh my gosh, look at her butt
+Oh my gosh, look at her butt (Oh-oh-oh)
 Oh my gosh, look at her butt
-Oh my gosh, look at her butt (Look at her butt)
-Look at, look at, look at, look, at her butt
+Look at her butt, look at, look at, look at
+Look at her butt
 
-#### Verse 2（摘要 + 可跟唱行）
+#### Verse 2
 
 This dude named Michael used to ride motorcycles
+Dick bigger than a tower, I ain't talkin' 'bout Eiffel's
+Real country-ass nigga, let me play with his rifle
+Pussy put his ass to sleep, now he callin' me NyQuil
 Now that bang, bang, bang
+I let him hit it 'cause he slang cocaine
+He toss my salad like his name Romaine
+And when we done, I make him buy me Balmain
 I'm on some dumb shit
 
-By the way, what he say?
-He can tell I ain't missing no meals
-He say he don't like 'em boney, he want something he can grab
-So I pulled up in the Jag, Mayweather with the jab like
+#### Pre-Chorus
 
-Dun-d-d-dun-dun-d-d-dun-dun
+By the way, what he say? (Hey, hey)
+He can tell I ain't missing no meals (Hey)
+Come through and fuck him in my automobile (Hey)
+Let him eat it with his grills, he keep tellin' me to chill
+He keep tellin' me it's real, that he love my sex appeal (Hey)
+He say he don't like 'em boney, he want something he can grab (Hey)
+So I pulled up in the Jag, Mayweather with the jab like (Hey)
+Dun-d-d-dun-dun-d-d-dun-dun (Hey, hey)
 
-#### Chorus & Post-Chorus（重复）
+#### Chorus
 
-*(Same as before: Anaconda hook + Oh my gosh, look at her butt)*
-
-#### Bridge / Outro hook
-
-Little in the middle but she got much back
-Little in the middle but she got much back
-Little in the middle but she got much back
-Oh my god, look at her butt
-
+My anaconda don't
 My anaconda don't
 My anaconda don't want none
 Unless you got buns, hun
 
+#### Post-Chorus
+
+Oh my gosh, look at her butt
+Oh my gosh, look at her butt
+Oh-oh-oh, oh my gosh, look at her butt
+Look at her butt, look at, look at, look at
+Look at her butt
+
+#### Breakdown
+
+Little in the middle, but she got much back
+Little in the middle, but she got much back
+Little in the middle, but she got much back
+Oh my God, look at her butt
+
+#### Chorus（变奏）
+
+My anaconda don't
+My anaconda don't
+My anaconda don't want none
+Unless you got buns, hun
+Don't, my anaconda don't
+Don't want none unless you got buns, hun
+
+#### Post-Chorus（叠唱）
+
+Oh my gosh, look at her butt (*Little in the middle, but she got much back*)
+Oh my gosh, look at her butt (*Little in the middle, but she got much back*)
+Oh-oh-oh, oh my gosh, look at her butt (*Little in the middle, but she got much back*)
+Oh my God (Look at her butt, look at, look at, look at)
+Look at her butt
+
+#### Outro
+
 Yeah, he love this fat ass
+Yeah, this one is for my bitches with a fat ass in the fucking club
+I said, where my fat ass big bitches in the club?
+Fuck those skinny bitches, fuck those skinny bitches in the club
+I wanna see all the big fat-ass bitches in the motherfuckin' club
+Fuck you if you skinny bitches, what? Kyuh
+Rrr, yeah
 I got a big fat ass
+Kyuh, come on
 Hey, hey, hey!
 
 ---
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus（采样 hook · Sir Mix-a-Lot）
+#### Intro / Chorus（采样 hook · Sir Mix-a-Lot）
 
-我的「蟒蛇」不要
-我的「蟒蛇」不要
-我的「蟒蛇」什么都不要
-除非你有「蜜桃臀」，亲爱的
+我的蟒蛇不要
+我的蟒蛇不要
+我的蟒蛇什么都不要
+除非你有翘臀，亲
 
-#### Verse 1（摘要 + 可跟唱行）
-
-〔**段落摘要：** Nicki 讲前男友 Troy——底特律、赚黑钱、爱送名牌；语气是炫耀式叙事 + 粗口 brag，中间夹大量性暗示。〕
+#### Verse 1
 
 玩伴叫 Troy，以前住底特律
 贩毒赚大钱，他在捞钱
 跟警察交过火，却住得像宫殿
 给我买 Alexander McQueen，把我打扮得很潮
-
 这才叫真的、真的、真的
-包里有枪，姐打扮得能「杀」全场
+包里有枪，婊子，我打扮得能「杀」全场
+谁想先上？我让他们去推水仙花（= 送他们见阎王）
+我嗨得要死，才吃了半片药
 我现在就是在犯傻、瞎玩
 
-顺便问一句，他怎么说？
-他看得出我顿顿没少吃（身材丰满）
-他说不喜欢骨感，想要能抓得住的
-于是我开着捷豹到场，给他来一记 jab
+#### Pre-Chorus
 
-（拟声 / 节拍）
-
-> 〔中间若干行：车内亲密、性吸引力等——**不逐字译**；听辨时抓住 *sex appeal*、*chill*、*real* 等词即可。〕
+顺便问一句，他怎么说？（嘿，嘿）
+他看得出我顿顿没少吃（嘿）
+过来，在我车里操他（嘿）
+让他用牙套舔我，他还一直叫我冷静
+他一直说这是真的，说他爱我的性魅力（嘿）
+他说不喜欢骨感的，想要能抓得住的（嘿）
+于是我开着捷豹到场，给他来一记 jab（嘿）
+Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 
 #### Chorus
 
-我的「蟒蛇」不要
-我的「蟒蛇」不要
-我的「蟒蛇」什么都不要
-除非你有「蜜桃臀」，亲爱的
+我的蟒蛇不要
+我的蟒蛇不要
+我的蟒蛇什么都不要
+除非你有翘臀，亲
 
 #### Post-Chorus（*Baby Got Back* 采样）
 
 天哪，看她的屁股
+天哪，看她的屁股（哦哦哦）
 天哪，看她的屁股
-天哪，看她的屁股
-看、看、看她的屁股
+看她的屁股，看、看、看
+看她的屁股
 
-#### Verse 2（摘要 + 可跟唱行）
-
-〔**段落摘要：** 另一段「男人故事」——更露骨的身体双关与性玩笑；结尾仍回到名牌、可卡因、花钱买衣服等 brag。学习重点：节奏与押韵，不必背露骨细节。〕
+#### Verse 2
 
 有个叫 Michael 的家伙以前爱骑摩托
+鸡巴比塔还大，我说的可不是埃菲尔
+真正的乡下黑鬼，让我玩他的「步枪」（性双关）
+逼把他干得睡着了，现在他叫我 NyQuil（安眠药）
 那就 bang、bang、bang
+我让他上，因为他贩可卡因
+他给我「拌沙拉」像他叫 Romaine（口交/舔肛俚语双关）
+完事之后，我让他给我买 Balmain
 我现在就是在犯傻、瞎玩
 
-顺便问一句，他怎么说？
-他看得出我顿顿没少吃
-他说不喜欢骨感，想要能抓得住的
-于是我开着捷豹到场，像 Mayweather 出 jab
+#### Pre-Chorus
 
-（拟声 / 节拍）
+顺便问一句，他怎么说？（嘿，嘿）
+他看得出我顿顿没少吃（嘿）
+过来，在我车里操他（嘿）
+让他用牙套舔我，他还一直叫我冷静
+他一直说这是真的，说他爱我的性魅力（嘿）
+他说不喜欢骨感的，想要能抓得住的（嘿）
+于是我开着捷豹到场，像 Mayweather 出 jab（嘿）
+Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 
-#### Chorus & Post-Chorus（重复）
+#### Chorus
 
-*(同前：Anaconda hook + Oh my gosh, look at her butt)*
+我的蟒蛇不要
+我的蟒蛇不要
+我的蟒蛇什么都不要
+除非你有翘臀，亲
 
-#### Bridge / Outro hook
+#### Post-Chorus
+
+天哪，看她的屁股
+天哪，看她的屁股
+哦哦哦，天哪，看她的屁股
+看她的屁股，看、看、看
+看她的屁股
+
+#### Breakdown
 
 腰细，但后面很有料
 腰细，但后面很有料
 腰细，但后面很有料
 天哪，看她的屁股
 
-我的「蟒蛇」不要
-我的「蟒蛇」什么都不要
-除非你有「蜜桃臀」，亲爱的
+#### Chorus（变奏）
 
-〔**Outro 摘要：** 对俱乐部里「丰满身材」的喊麦式号召，含大量粗口与身材对比；听气氛即可，不必跟唱脏话。〕
+我的蟒蛇不要
+我的蟒蛇不要
+我的蟒蛇什么都不要
+除非你有翘臀，亲
+不要，我的蟒蛇不要
+什么都不要，除非你有翘臀，亲
 
-对，他就爱这丰满的屁股
-我有个又大又翘的屁股
+#### Post-Chorus（叠唱）
+
+天哪，看她的屁股（*腰细，但后面很有料*）
+天哪，看她的屁股（*腰细，但后面很有料*）
+哦哦哦，天哪，看她的屁股（*腰细，但后面很有料*）
+天哪（看她的屁股，看、看、看）
+看她的屁股
+
+#### Outro
+
+对，他就爱这肥屁股
+对，这首是送给俱乐部里那些有肥屁股的婊子们的
+我说，俱乐部里肥屁股的大妞们在哪？
+去他妈的瘦婊子，去他妈的俱乐部里那些瘦婊子
+我要看所有肥屁股大妞都在这他妈的俱乐部里
+你要是瘦婊子就去你妈的，怎样？Kyuh
+Rrr，yeah
+我有个又大又肥的屁股
+Kyuh，来啊
 嘿、嘿、嘿！
 
 ## 重点表达 · Key Phrases
 
 | English | 简中 | 备注 |
 | --- | --- | --- |
-| **my anaconda don't want none** | （双关）除非你身材对味，否则免谈 | 采样自 *Baby Got Back*；*don't want none* = 双重否定口语 |
-| **unless you got buns, hun** | 除非你有翘臀，亲 | *buns* = 臀部；*hun* = honey |
-| **boy toy** | 玩伴；小鲜肉男友 | 偏物化称呼；了解即可 |
+| **my anaconda don't want none** | 我的「蟒蛇」什么都不要 | 采样自 *Baby Got Back*；*anaconda* = 阴茎双关；*don't want none* = 双重否定口语 |
+| **unless you got buns, hun** | 除非你有翘臀，亲 | *buns* = 屁股；*hun* = honey |
+| **boy toy** | 玩伴；小鲜肉男友 | 偏物化称呼 |
 | **gettin' some coins** | 在赚钱；捞钱 | *coins* = 钱（俚语） |
+| **pushin' daffodils** | 推水仙花 → 送人见阎王 | 黑话：让人去死 / 杀人 |
 | **dressed to kill** | 打扮得极具杀伤力 | 习语；此处又与 *gun* 双关 |
 | **I'm on some dumb shit** | 我在瞎玩 / 犯傻 | *dumb shit* = 荒唐事；粗口 |
-| **ain't missing no meals** | 顿顿没少吃 → 暗示身材丰满 | 双重否定；委婉夸曲线 |
-| **sex appeal** | 性魅力；性感 | 较中性，可正式场合用 |
+| **ain't missing no meals** | 顿顿没少吃 → 身材丰满 | 双重否定 |
+| **fuck him in my automobile** | 在我车里操他 | 直白性描写；*automobile* = 车 |
+| **eat it with his grills** | 用牙套舔（口交） | *grills* = 牙套/金牙；*eat it* = 口交 |
+| **sex appeal** | 性魅力；性感 | 相对中性 |
 | **don't like 'em boney** | 不喜欢骨感的 | *'em* = them；*boney* = bony |
-| **something he can grab** | 能抓得住的（丰满身材） | 口语；委婉理解即可 |
+| **something he can grab** | 能抓得住的（丰满身材） | 口语 |
 | **pulled up in the Jag** | 开着捷豹到场 | *pull up* = 抵达；*Jag* = Jaguar |
 | **hit him with the jab** | 给他来一记 jab | 拳击用语；歌里偏俏皮/双关 |
-| **look at her butt** | 看她的屁股 | *Baby Got Back* 原句；直白口语 |
-| **little in the middle but she got much back** | 腰细臀翘 | 身材描述；流行文化常用 |
+| **dick bigger than a tower** | 鸡巴比塔还大 | 直白夸大；后接埃菲尔玩笑 |
+| **play with his rifle** | 玩他的「步枪」 | 性双关（阴茎） |
+| **pussy put his ass to sleep** | 逼把他干得睡着了 | 直白；后接 NyQuil 双关 |
+| **let him hit it** | 让他上 / 让他操 | *hit it* = 发生性关系 |
+| **toss my salad** | 「拌沙拉」→ 舔肛 / 口交俚语 | 与 *Romaine*（生菜）押韵双关 |
+| **look at her butt** | 看她的屁股 | *Baby Got Back* 原句 |
+| **little in the middle but she got much back** | 腰细臀翘 | 身材描述 |
+| **fat ass** | 肥屁股；翘臀 | 此处为赞美曲线，非单纯辱骂 |
+| **fuck those skinny bitches** | 去他妈的瘦婊子 | Outro 喊麦；粗口 + 身材政治 |
 
 ---
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 难——语速快、俚语密、双重否定多（*don't want none*、*ain't missing no meals*）。
+- **难度：** 难——语速快、俚语密、双重否定多（*don't want none*、*ain't missing no meals*）；Verse 2 性双关最密。
 - **先攻副歌：** *My anaconda don't… unless you got buns, hun* 重复度高，适合练节奏与连读；再听 *Oh my gosh, look at her butt*。
 - **采样语境：** 对照 Sir Mix-a-Lot *Baby Got Back*（1992）能听出 hook 从哪来；本笔记不另建该曲文件，听原曲即可。
-- **与 WAP：** 同属女说唱 explicit 路线；学习策略一致——**听懂 slang，不照搬露骨中文**。见 [[learning-notes/english-song/wap-cardi-b|WAP — Cardi B]]。
-- **场合：** 通勤跟唱副歌可以；职场 / 亲子场景请跳过本曲。
+- **与 WAP：** 同属女说唱 explicit 路线。见 [[learning-notes/english-song/wap-cardi-b|WAP — Cardi B]]。
+- **场合：** 成人向；职场 / 亲子场景请跳过本曲。
