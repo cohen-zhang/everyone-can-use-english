@@ -409,31 +409,94 @@ def _hard_break_song_lyrics(markdown: str, page) -> str:
     return "".join(out)
 
 
-# Folder-name → sidebar section title (MkDocs auto-nav uses title-cased dir names).
-_NAV_SECTION_TITLES = {
-    "English song": "英文歌曲",
-    "Breakup loss": "分手·思念",
-    "Love romance": "恋爱",
-    "Emotions": "情绪",
-    "Life attitude": "生活态度",
-    "Relationships": "关系",
-    "Self identity": "自我",
-    "Party energy": "派对·能量",
-    "Film ost": "影视原声",
-    "Celine": "Celine 儿歌",
-    "ChildrenSong": "儿童歌曲",
-    "ClassicBooksWithHoles": "洞洞书儿歌",
-}
+def _collect_dir_prefixes(nodes) -> list[list[str]]:
+    """Collect directory prefixes (URL path without page slug) from nav leaves."""
+    prefixes: list[list[str]] = []
+    for node in nodes or []:
+        kids = getattr(node, "children", None)
+        if kids:
+            prefixes.extend(_collect_dir_prefixes(kids))
+            continue
+        url = getattr(node, "url", None) or ""
+        parts = [p for p in url.strip("/").split("/") if p]
+        if len(parts) >= 2:
+            prefixes.append(parts[:-1])
+        elif len(parts) == 1:
+            # Section index page like english-song/ — treat as that folder.
+            prefixes.append(parts)
+    return prefixes
+
+
+def _section_dir_from_children(item) -> str | None:
+    """Infer the docs folder name from a section's page URLs."""
+    prefixes = _collect_dir_prefixes(getattr(item, "children", None) or [])
+    if not prefixes:
+        url = getattr(item, "url", None) or ""
+        parts = [p for p in url.strip("/").split("/") if p]
+        return parts[-1] if parts else None
+
+    common = prefixes[0][:]
+    for pref in prefixes[1:]:
+        i = 0
+        while i < len(common) and i < len(pref) and common[i] == pref[i]:
+            i += 1
+        common = common[:i]
+        if not common:
+            break
+    if not common:
+        return None
+    return common[-1]
 
 
 def _rename_nav_sections(items) -> None:
     for item in items or []:
-        title = getattr(item, "title", None)
-        if title in _NAV_SECTION_TITLES:
-            item.title = _NAV_SECTION_TITLES[title]
         children = getattr(item, "children", None)
         if children:
+            folder = _section_dir_from_children(item)
+            if folder:
+                item.title = folder
+            elif getattr(item, "title", None) in _NAV_SECTION_TITLES:
+                item.title = _NAV_SECTION_TITLES[item.title]
             _rename_nav_sections(children)
+        else:
+            title = getattr(item, "title", None)
+            if title in _NAV_SECTION_TITLES:
+                item.title = _NAV_SECTION_TITLES[title]
+
+
+# Fallback map when a section has no inferable path (rare).
+_NAV_SECTION_TITLES = {
+    "English song": "english-song",
+    "Breakup loss": "breakup-loss",
+    "Love romance": "love-romance",
+    "Emotions": "emotions",
+    "Life attitude": "life-attitude",
+    "Relationships": "relationships",
+    "Self identity": "self-identity",
+    "Party energy": "party-energy",
+    "Film ost": "film-ost",
+    "Parenting english": "parenting-english",
+    "Personal english book": "personal-english-book",
+    "Grammar lab": "grammar-lab",
+    "Tv series": "tv-series",
+    "Communication patterns": "communication-patterns",
+    "Daily life": "daily-life",
+    "Games and activities": "games-and-activities",
+    "Learning management": "learning-management",
+    "Reference guides": "reference-guides",
+    "School life": "school-life",
+    "Mind body brain health": "mind-body-brain-health",
+    "Vocab story": "vocab-story",
+    "A day in the life of jeff": "a-day-in-the-life-of-jeff",
+    "Modern family": "modern-family",
+    "Pronunciation": "pronunciation",
+    "Vocabulary": "vocabulary",
+    "Investing": "investing",
+    "Life": "life",
+    "Study": "study",
+    "Work": "work",
+    "Book": "book",
+}
 
 
 def on_nav(nav, config, files, **kwargs):
