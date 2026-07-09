@@ -28,6 +28,7 @@ tags:
 - **和下文例句常对应的集：** 泥坑 → [[Peppa.Pig.S01E01.Muddy.Puddles|S01E01 Muddy Puddles]]　·　苏茜／挚友 → [[Peppa.Pig.S01E04.Best.Friend|S01E04 Best Friend]]　·　换装扮爸妈 → [[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]（**相向**子栏目「Related」↔ [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色]]）。其余剧集同 README 所列目录，`[[Peppa.Pig.S01ENN.…]]` 短文件名在库内一般可直接解析（仍以 README「Obsidian」表为准）。
 - **S01 情绪词汇与句子（按分类汇总）：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]] — 与 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] **相向互链**。
 - **S01 家庭人物讲解（亲子对话）：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README|Peppa Pig S01 · Family Character Guides]] — 分别介绍 Peppa、George、Mummy Pig、Daddy Pig、Granny Pig、Grandpa Pig、Chloe 和亲戚称呼；可直接用于身份、关系、爱好、食物、口头禅和好笑场景问答。
+- **暑假 60 天学习计划：** [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天 — Peppa S01]] — 打印台词、妈妈操作卡、逐日表；与此手记 **相向互链**。
 
 | English | 中文 |
 |--------|------|

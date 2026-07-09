@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 吃饭规则、礼貌和坐姿可搭配 [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|日常礼貌与餐桌礼仪]]（本页偏“家庭总规矩”，那页偏“餐桌具体动作”）。
+**相关：** 吃饭规则、礼貌和坐姿可搭配 [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|日常礼貌与餐桌礼仪]]（本页偏“家庭总规矩”，那页偏“餐桌具体动作”）。起床儿歌 *Are You Sleeping?* 与 *Time to wake up!* 见 [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]]；睡前 *Twinkle, Twinkle, Little Star* 见 [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]。
 
 ---
 

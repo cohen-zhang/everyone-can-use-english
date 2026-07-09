@@ -86,7 +86,8 @@ aliases:
 
 ## learning-management — 学习计划
 
-- [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english.md|90 天亲子英文计划]] — 节奏与目标
+- [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|90 天亲子英文计划]] — 节奏与目标
+- [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划 — Peppa S01]] — 老家打印 + 远程口语（含精选台词、妈妈操作卡、录音计划）
 
 ---
 

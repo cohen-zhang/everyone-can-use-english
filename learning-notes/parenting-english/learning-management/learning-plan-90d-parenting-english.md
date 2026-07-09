@@ -10,6 +10,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**暑假专项（相向互链）：** [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划 — Peppa S01]]
+
 
 面向阿泽与不多（Celine）的家庭英语计划：每天短时、高频、可复用。`亲子`
 

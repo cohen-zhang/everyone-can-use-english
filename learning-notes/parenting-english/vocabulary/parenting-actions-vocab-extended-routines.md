@@ -12,6 +12,7 @@ tags:
 
 **相关：**
 - 基础拿放、开关、穿衣见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]
+- 身体部位跟唱见 [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]]（§2 手脚与肢体 · §3 头面与表情 可配儿歌指认）
 - 反义词配对练见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#动作类--亲子日常指令|正反义词游戏 · 动作类]]
 - 按篮归类玩法见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#9-动作--actions|分类归类游戏 · 动作]]
 - 收纳整理见 [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]

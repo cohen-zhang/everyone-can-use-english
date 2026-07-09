@@ -27,6 +27,7 @@ aliases:
 - [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One — BOYS LIKE GIRLS]] — 意外沦陷；*take my breath away*、*two is better than one* ↔ 本文认定对方句型
 - [[learning-notes/english-song/treasure-bruno-mars|Treasure — Bruno Mars]] — 轻快夸赞；*golden star*、*let me treasure you* ↔ 本文甜蜜称呼
 - [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me — Taylor Swift]] — 暗恋闺蜜视角；*you belong with me*、*I know you better than that* ↔ 本文暗恋与对比叙事
+- [[learning-notes/english-song/one-man-band-old-dominion|One Man Band — Old Dominion]] — 不想再单飞；*one man band*、*same key*、*take our show on the road* ↔ 本文认定对方、一起走下去的表达
 
 > For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌
