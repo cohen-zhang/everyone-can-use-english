@@ -17,10 +17,8 @@ exclude_docs: |
   *.backup
   *.json
 
-# Song notes stay searchable/linkable; sidebar shows the index only.
+# Keep scene-index transcripts out of the sidebar; song notes are listed under english-song/.
 not_in_nav: |
-  english-song/*
-  !english-song/README.md
   tv-series/**/transcript/*-scenes.md
 
 theme:

@@ -353,3 +353,27 @@ def on_page_markdown(markdown, page, files, **kwargs):
     out = _md_learning_notes_replacer(out, page, files)
     out = _md_transcript_link_replacer(out, page, files)
     return out
+
+
+# Folder-name → sidebar section title (MkDocs auto-nav uses title-cased dir names).
+_NAV_SECTION_TITLES = {
+    "English song": "英文歌曲",
+    "Celine": "Celine 儿歌",
+    "ChildrenSong": "儿童歌曲",
+    "ClassicBooksWithHoles": "洞洞书儿歌",
+}
+
+
+def _rename_nav_sections(items) -> None:
+    for item in items or []:
+        title = getattr(item, "title", None)
+        if title in _NAV_SECTION_TITLES:
+            item.title = _NAV_SECTION_TITLES[title]
+        children = getattr(item, "children", None)
+        if children:
+            _rename_nav_sections(children)
+
+
+def on_nav(nav, config, files, **kwargs):
+    _rename_nav_sections(getattr(nav, "items", None) or nav)
+    return nav
