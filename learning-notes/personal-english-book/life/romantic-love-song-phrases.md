@@ -16,18 +16,18 @@ aliases:
 **相关（相向互链）：**
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 纪念日与长期关系口语；**Kiss** 小节可对照十周年 *kissing you* 段落
 - [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影 · 爱与喜欢台词]] — 奥斯卡级电影对白；与本文情歌体 **互补**（银幕台词 ↔ KTV 歌词）
-- [[learning-notes/english-song/big-big-world-emilia|Big Big World — Emilia]] — 1998 经典分手抒情曲；*miss you much*、季节意象 ↔ 本文情歌表达
-- [[learning-notes/english-song/head-in-the-clouds-hayd|Head In The Clouds — Hayd]] — 友谊渐行渐远；*expiration dates on friends* ↔ 本文非恋爱关系表达
-- [[learning-notes/english-song/when-you-look-at-me-sara-kays|When You Look At Me — Sara Kays]] — 恋爱不安全感；*moon / sun*、*spin someone around* ↔ 本文自我怀疑句型
-- [[learning-notes/english-song/thats-us-anson-seabra|That's Us — Anson Seabra]] — 分分合合；*I guess that's us*、*never learn* ↔ 本文复合与拉扯表达
-- [[learning-notes/english-song/its-you-ali-gatie|It's You — Ali Gatie]] — 怕再受伤仍想爱；*break my heart*、*delicate* ↔ 本文脆弱与信任句型
-- [[learning-notes/english-song/counting-stars-onerepublic|Counting Stars — OneRepublic]] — 追梦 vs 逐利；*counting stars*、*feel alive* ↔ 本文人生选择意象
-- [[learning-notes/english-song/say-it-again-betty-wright|Say It Again — Betty Wright]] — 密友变恋人；*actions speak louder than words*、*say it again* ↔ 本文请求确认句型
-- [[learning-notes/english-song/way-back-into-love-hugh-grant|Way Back Into Love (Demo) — Hugh Grant & Drew Barrymore]] — 心碎后重拾爱；*find a way back into love*、*open my heart* ↔ 本文走出低谷表达
-- [[learning-notes/english-song/two-is-better-than-one-boys-like-girls|Two Is Better Than One — BOYS LIKE GIRLS]] — 意外沦陷；*take my breath away*、*two is better than one* ↔ 本文认定对方句型
-- [[learning-notes/english-song/treasure-bruno-mars|Treasure — Bruno Mars]] — 轻快夸赞；*golden star*、*let me treasure you* ↔ 本文甜蜜称呼
-- [[learning-notes/english-song/you-belong-with-me-taylor-swift|You Belong With Me — Taylor Swift]] — 暗恋闺蜜视角；*you belong with me*、*I know you better than that* ↔ 本文暗恋与对比叙事
-- [[learning-notes/english-song/one-man-band-old-dominion|One Man Band — Old Dominion]] — 不想再单飞；*one man band*、*same key*、*take our show on the road* ↔ 本文认定对方、一起走下去的表达
+- [[learning-notes/english-song/breakup-loss/big-big-world-emilia|Big Big World — Emilia]] — 1998 经典分手抒情曲；*miss you much*、季节意象 ↔ 本文情歌表达
+- [[learning-notes/english-song/breakup-loss/head-in-the-clouds-hayd|Head In The Clouds — Hayd]] — 友谊渐行渐远；*expiration dates on friends* ↔ 本文非恋爱关系表达
+- [[learning-notes/english-song/love-romance/when-you-look-at-me-sara-kays|When You Look At Me — Sara Kays]] — 恋爱不安全感；*moon / sun*、*spin someone around* ↔ 本文自我怀疑句型
+- [[learning-notes/english-song/breakup-loss/thats-us-anson-seabra|That's Us — Anson Seabra]] — 分分合合；*I guess that's us*、*never learn* ↔ 本文复合与拉扯表达
+- [[learning-notes/english-song/breakup-loss/its-you-ali-gatie|It's You — Ali Gatie]] — 怕再受伤仍想爱；*break my heart*、*delicate* ↔ 本文脆弱与信任句型
+- [[learning-notes/english-song/love-romance/counting-stars-onerepublic|Counting Stars — OneRepublic]] — 追梦 vs 逐利；*counting stars*、*feel alive* ↔ 本文人生选择意象
+- [[learning-notes/english-song/love-romance/say-it-again-betty-wright|Say It Again — Betty Wright]] — 密友变恋人；*actions speak louder than words*、*say it again* ↔ 本文请求确认句型
+- [[learning-notes/english-song/breakup-loss/way-back-into-love-hugh-grant|Way Back Into Love (Demo) — Hugh Grant & Drew Barrymore]] — 心碎后重拾爱；*find a way back into love*、*open my heart* ↔ 本文走出低谷表达
+- [[learning-notes/english-song/breakup-loss/two-is-better-than-one-boys-like-girls|Two Is Better Than One — BOYS LIKE GIRLS]] — 意外沦陷；*take my breath away*、*two is better than one* ↔ 本文认定对方句型
+- [[learning-notes/english-song/love-romance/treasure-bruno-mars|Treasure — Bruno Mars]] — 轻快夸赞；*golden star*、*let me treasure you* ↔ 本文甜蜜称呼
+- [[learning-notes/english-song/breakup-loss/you-belong-with-me-taylor-swift|You Belong With Me — Taylor Swift]] — 暗恋闺蜜视角；*you belong with me*、*I know you better than that* ↔ 本文暗恋与对比叙事
+- [[learning-notes/english-song/love-romance/one-man-band-old-dominion|One Man Band — Old Dominion]] — 不想再单飞；*one man band*、*same key*、*take our show on the road* ↔ 本文认定对方、一起走下去的表达
 
 > For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌

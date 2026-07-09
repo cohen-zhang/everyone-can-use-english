@@ -412,6 +412,14 @@ def _hard_break_song_lyrics(markdown: str, page) -> str:
 # Folder-name → sidebar section title (MkDocs auto-nav uses title-cased dir names).
 _NAV_SECTION_TITLES = {
     "English song": "英文歌曲",
+    "Breakup loss": "分手·思念",
+    "Love romance": "恋爱",
+    "Emotions": "情绪",
+    "Life attitude": "生活态度",
+    "Relationships": "关系",
+    "Self identity": "自我",
+    "Party energy": "派对·能量",
+    "Film ost": "影视原声",
     "Celine": "Celine 儿歌",
     "ChildrenSong": "儿童歌曲",
     "ClassicBooksWithHoles": "洞洞书儿歌",

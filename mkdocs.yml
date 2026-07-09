@@ -16,6 +16,7 @@ exclude_docs: |
   *.pdf
   *.backup
   *.json
+  **/.pages
 
 # Keep scene-index transcripts out of the sidebar; song notes are listed under english-song/.
 not_in_nav: |
