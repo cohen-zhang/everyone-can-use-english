@@ -223,37 +223,19 @@ def gloss_line(english: str) -> str:
 
 
 def build_markdown(episodes: dict[int, list[str]]) -> str:
+    """Print-only markdown: no YAML, wikilinks, index, or Related section."""
     parts = [
-        "---",
-        "tags:",
-        "  - parenting-english",
-        "  - parenting/learning-management",
-        "  - tv-series/peppa-pig",
-        "  - peppa/print",
-        "---",
+        "# Peppa Pig S01 · 精选台词（E01–E45）",
         "",
-        "# Peppa Pig S01 · 精选台词（E01–E45 · 打印版）",
-        "",
-        "**索引：** [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]",
-        "",
-        "面向 **Celine（不多）** 暑假跟读：每集 **15–20 句**高频台词。",
-        "打印建议：A4、**14–16 pt**、行距 1.5；**正面英文**（孩子），**背面简中**（妈妈）或整表双面印。`亲子`",
-        "",
-        "完整台词与词汇表见各集：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]",
-        "",
-        "未标注简中的句子，妈妈可对照本目录 `007 小猪佩奇第一季 双语.pdf` 或对应单集全文。",
-        "",
-        "---",
+        "Celine 暑假跟读 · 每集 15–20 句 · A4 · 14–16 pt · 行距 1.5",
+        "正面英文（孩子）· 背面简中（妈妈）或整表双面印。",
+        "未标注简中的句子，妈妈可对照《小猪佩奇第一季 双语》或动画。",
         "",
     ]
 
     for num in sorted(episodes):
         title = EPISODE_TITLES.get(num, f"Episode {num}")
-        slug = episode_path(num)
-        link = f"[[Peppa.Pig.S01E{num:02d}.{slug.stem.split('.', 3)[-1] if slug else title}|S01E{num:02d} {title}]]"
         parts.append(f"## S01E{num:02d} · {title}")
-        parts.append("")
-        parts.append(f"**来源：** {link}")
         parts.append("")
         parts.append("| # | English | 简中（妈妈参考） |")
         parts.append("| --- | --- | --- |")
@@ -263,15 +245,7 @@ def build_markdown(episodes: dict[int, list[str]]) -> str:
             zh_esc = zh.replace("|", "\\|")
             parts.append(f"| {i} | {eng_esc} | {zh_esc} |")
         parts.append("")
-        parts.append("---")
-        parts.append("")
 
-    parts.append("## Related")
-    parts.append("")
-    parts.append("- [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]")
-    parts.append("- [[learning-notes/parenting-english/learning-management/summer-60d-mom-operation-card|妈妈操作卡]]")
-    parts.append("- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa S01 问句清单]]")
-    parts.append("")
     return "\n".join(parts)
 
 

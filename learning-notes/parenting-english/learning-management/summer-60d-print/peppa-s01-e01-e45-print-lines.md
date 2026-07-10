@@ -1,27 +1,10 @@
----
-tags:
-  - parenting-english
-  - parenting/learning-management
-  - tv-series/peppa-pig
-  - peppa/print
----
+# Peppa Pig S01 · 精选台词（E01–E45）
 
-# Peppa Pig S01 · 精选台词（E01–E45 · 打印版）
-
-**索引：** [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]
-
-面向 **Celine（不多）** 暑假跟读：每集 **15–20 句**高频台词。
-打印建议：A4、**14–16 pt**、行距 1.5；**正面英文**（孩子），**背面简中**（妈妈）或整表双面印。`亲子`
-
-完整台词与词汇表见各集：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
-
-未标注简中的句子，妈妈可对照本目录 `007 小猪佩奇第一季 双语.pdf` 或对应单集全文。
-
----
+Celine 暑假跟读 · 每集 15–20 句 · A4 · 14–16 pt · 行距 1.5
+正面英文（孩子）· 背面简中（妈妈）或整表双面印。
+未标注简中的句子，妈妈可对照《小猪佩奇第一季 双语》或动画。
 
 ## S01E01 · Muddy Puddles
-
-**来源：** [[Peppa.Pig.S01E01.Muddy.Puddles|S01E01 Muddy Puddles]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -46,11 +29,7 @@ tags:
 | 19 | Yes, we can all play in the garden. | 好，我们都可以在花园里玩。 |
 | 20 | Peppa loves jumping up and down in muddy puddles. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E02 · Mr. Dinosaur is Lost
-
-**来源：** [[Peppa.Pig.S01E02.Mr.Dinosaur.is.Lost|S01E02 Mr. Dinosaur is Lost]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -75,11 +54,7 @@ tags:
 | 19 | So that's where he is. | （见本集动画 / 完整剧本） |
 | 20 | I was going to say that. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E03 · Polly Parrot
-
-**来源：** [[Peppa.Pig.S01E03.Polly.Parrot|S01E03 Polly Parrot]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -104,11 +79,7 @@ tags:
 | 19 | I'm a noisy parrot! | （见本集动画 / 完整剧本） |
 | 20 | Polly is such a sweet parrot. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E04 · Best Friend
-
-**来源：** [[Peppa.Pig.S01E04.Best.Friend|S01E04 Best Friend]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -133,11 +104,7 @@ tags:
 | 19 | Yes, they're for George. | （见本集动画 / 完整剧本） |
 | 20 | That tickies! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E05 · Hide and Seek
-
-**来源：** [[Peppa.Pig.S01E05.Hide.and.Seek|S01E05 Hide and Seek]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -162,11 +129,7 @@ tags:
 | 19 | six... George! | （见本集动画 / 完整剧本） |
 | 20 | Ready or not, here I come! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E06 · The Playgroup
-
-**来源：** [[Peppa.Pig.S01E06.The.Playgroup|S01E06 The Playgroup]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -191,11 +154,7 @@ tags:
 | 19 | Now you paint the staik and the Leaves. | （见本集动画 / 完整剧本） |
 | 20 | Now What do We have here? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E07 · Mummy Pig at Work
-
-**来源：** [[Peppa.Pig.S01E07.Mummy.Pig.at.Work|S01E07 Mummy Pig at Work]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -220,11 +179,7 @@ tags:
 | 19 | But I don't know where the disc is. | （见本集动画 / 完整剧本） |
 | 20 | What on earth is going on? | 到底发生什么事了？ |
 
----
-
 ## S01E08 · Camping
-
-**来源：** [[Peppa.Pig.S01E08.Camping|S01E08 Camping]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -249,11 +204,7 @@ tags:
 | 19 | Daddy Pig is sleeping outside, under the stars. | （见本集动画 / 完整剧本） |
 | 20 | Oh... Where's Daddy? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E09 · Gardening
-
-**来源：** [[Peppa.Pig.S01E09.Gardening|S01E09 Gardening]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -278,11 +229,7 @@ tags:
 | 19 | Peppa and George have Come to play again. | （见本集动画 / 完整剧本） |
 | 20 | Thank you, Grandpa! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E10 · Bicycles
-
-**来源：** [[Peppa.Pig.S01E10.Bicycles|S01E10 Bicycles]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -307,11 +254,7 @@ tags:
 | 19 | Peppa, Look out my pumpkin! | （见本集动画 / 完整剧本） |
 | 20 | Sorry I squashed your pumpkin, Daddy. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E11 · The New Car
-
-**来源：** [[Peppa.Pig.S01E11.The.New.Car|S01E11 The New Car]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -336,11 +279,7 @@ tags:
 | 19 | Granddad Dog has fixed the car. | （见本集动画 / 完整剧本） |
 | 20 | Woof!Woof!Goodbye. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E12 · Snow
-
-**来源：** [[Peppa.Pig.S01E12.Snow|S01E12 Snow]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -365,11 +304,7 @@ tags:
 | 19 | He isn't Wearing his hat and scarf and gloves. | （见本集动画 / 完整剧本） |
 | 20 | I can't find them anywhere. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E13 · Flying a Kite
-
-**来源：** [[Peppa.Pig.S01E13.Flying.a.Kite|S01E13 Flying a Kite]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -394,11 +329,7 @@ tags:
 | 19 | Stand back, children. | （见本集动画 / 完整剧本） |
 | 20 | Please be careful! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E14 · My Cousin Chloe
-
-**来源：** [[Peppa.Pig.S01E14.My.Cousin.Chloe|S01E14 My Cousin Chloe]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -423,11 +354,7 @@ tags:
 | 19 | D: I hear there’s some puddle jumping going on! | （见本集动画 / 完整剧本） |
 | 20 | P: Yes, it does. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E15 · Daddy Loses his Glasses
-
-**来源：** [[Peppa.Pig.S01E15.Daddy.Loses.his.Glasses|S01E15 Daddy Loses his Glasses]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -452,11 +379,7 @@ tags:
 | 19 | Peppa and George cannot find Daddy Pig's glasses anywhere. | （见本集动画 / 完整剧本） |
 | 20 | Oh, dear. Now, What can We do? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E16 · Hiccups
-
-**来源：** [[Peppa.Pig.S01E16.Hiccups|S01E16 Hiccups]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -481,11 +404,7 @@ tags:
 | 19 | I Was just trying to stop George's hiccups. | （见本集动画 / 完整剧本） |
 | 20 | George! If you drink too quickly, you will get hiccups again! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E17 · Picnic
-
-**来源：** [[Peppa.Pig.S01E17.Picnic|S01E17 Picnic]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -510,11 +429,7 @@ tags:
 | 19 | Help! Whooooaaa! | （见本集动画 / 完整剧本） |
 | 20 | Whooa! Get away, you Little pest! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E18 · Mummy Pig's Birthday
-
-**来源：** [[Peppa.Pig.S01E18.Mummy.Pigs.Birthday|S01E18 Mummy Pig's Birthday]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -539,11 +454,7 @@ tags:
 | 19 | Open it and see. | （见本集动画 / 完整剧本） |
 | 20 | TWo tickets to the theater! Tonight! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E19 · Dressing Up
-
-**来源：** [[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -568,11 +479,7 @@ tags:
 | 19 | Are you sure? | （见本集动画 / 完整剧本） |
 | 20 | Oh, Well, that's a shame because I've got their favorite ice cream here. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E20 · The School Fete
-
-**来源：** [[Peppa.Pig.S01E20.The.School.Fete|S01E20 The School Fete]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -597,11 +504,7 @@ tags:
 | 19 | Yes, I've got all those! | （见本集动画 / 完整剧本） |
 | 20 | Watch this, everybody! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E21 · Musical Instruments
-
-**来源：** [[Peppa.Pig.S01E21.Musical.Instruments|S01E21 Musical Instruments]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -626,11 +529,7 @@ tags:
 | 19 | And I Will play my drum! | （见本集动画 / 完整剧本） |
 | 20 | But What instrument will George play? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E22 · Babysitting
-
-**来源：** [[Peppa.Pig.S01E22.Babysitting|S01E22 Babysitting]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -655,11 +554,7 @@ tags:
 | 19 | Higher! Higher! | （见本集动画 / 完整剧本） |
 | 20 | You're ''It''! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E23 · New Shoes
-
-**来源：** [[Peppa.Pig.S01E23.New.Shoes|S01E23 New Shoes]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -684,11 +579,7 @@ tags:
 | 19 | George is Wearing his boots. | （见本集动画 / 完整剧本） |
 | 20 | I can't play in the Wet grass, George. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E24 · Ballet Lesson
-
-**来源：** [[Peppa.Pig.S01E24.Ballet.Lesson|S01E24 Ballet Lesson]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -713,11 +604,7 @@ tags:
 | 19 | Mummy Pig and I used to be quite good at ballet! | （见本集动画 / 完整剧本） |
 | 20 | Hoop-la! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E25 · The Tooth Fairy
-
-**来源：** [[Peppa.Pig.S01E25.The.Tooth.Fairy|S01E25 The Tooth Fairy]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -742,11 +629,7 @@ tags:
 | 19 | N: oh, the Tooth Fairy is taking a long time to arrive P: Where is that Tooth Fairy? | （见本集动画 / 完整剧本） |
 | 20 | N: What is that noise? Is it the Fairy? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E26 · Treasure Hunt
-
-**来源：** [[Peppa.Pig.S01E26.Treasure.Hunt|S01E26 Treasure Hunt]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -771,11 +654,7 @@ tags:
 | 19 | P: But there aren’t any more clues. | （见本集动画 / 完整剧本） |
 | 20 | D: Let’s take a look. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E27 · Not Very Well
-
-**来源：** [[Peppa.Pig.S01E27.Not.Very.Well|S01E27 Not Very Well]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -800,11 +679,7 @@ tags:
 | 19 | Dr. brown Bear is here, to see if Peppa is better. | （见本集动画 / 完整剧本） |
 | 20 | I say! No more red spots! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E28 · Windy Castle
-
-**来源：** [[Peppa.Pig.S01E28.Windy.Castle|S01E28 Windy Castle]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -829,11 +704,7 @@ tags:
 | 19 | Let's go inside. The view from the top is fantastic! | （见本集动画 / 完整剧本） |
 | 20 | It's so far away! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E29 · Pancakes
-
-**来源：** [[Peppa.Pig.S01E29.Pancakes|S01E29 Pancakes]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -858,11 +729,7 @@ tags:
 | 19 | What is Mummy Pig planning to do? | （见本集动画 / 完整剧本） |
 | 20 | It Worked! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E30 · The Museum
-
-**来源：** [[Peppa.Pig.S01E30.The.Museum|S01E30 The Museum]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -887,11 +754,7 @@ tags:
 | 19 | RRROOOAAARRR! | （见本集动画 / 完整剧本） |
 | 20 | The room with the cakes in. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E31 · Secrets
-
-**来源：** [[Peppa.Pig.S01E31.Secrets|S01E31 Secrets]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -916,11 +779,7 @@ tags:
 | 19 | Luckily, I have! | （见本集动画 / 完整剧本） |
 | 20 | Can you guess where? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E32 · Thunderstorm
-
-**来源：** [[Peppa.Pig.S01E32.Thunderstorm|S01E32 Thunderstorm]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -945,11 +804,7 @@ tags:
 | 19 | Well-done, Peppa! | （见本集动画 / 完整剧本） |
 | 20 | The higher We can count, the further away the thunderstorm is. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E33 · Piggy in the Middle
-
-**来源：** [[Peppa.Pig.S01E33.Piggy.in.the.Middle|S01E33 Piggy in the Middle]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -974,11 +829,7 @@ tags:
 | 19 | Here's the ball George. | （见本集动画 / 完整剧本） |
 | 20 | Sorry, George! | 对不起，乔治。 |
 
----
-
 ## S01E34 · Fancy Dress Party
-
-**来源：** [[Peppa.Pig.S01E34.Fancy.Dress.Party|S01E34 Fancy Dress Party]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1003,11 +854,7 @@ tags:
 | 19 | P: Very good, Suzy. Now, Danny? | （见本集动画 / 完整剧本） |
 | 20 | C: I'm a witch. I can turn you into a frog. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E35 · Very Hot Day
-
-**来源：** [[Peppa.Pig.S01E35.Very.Hot.Day|S01E35 Very Hot Day]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1032,11 +879,7 @@ tags:
 | 19 | You Were all red and hot, Daddy Pig! | （见本集动画 / 完整剧本） |
 | 20 | Peppa and George love the hot day. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E36 · Mister Skinnylegs
-
-**来源：** [[Peppa.Pig.S01E36.Mister.Skinnylegs|S01E36 Mister Skinnylegs]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1061,22 +904,14 @@ tags:
 | 19 | Heh, err, that's all right, Peppa. | （见本集动画 / 完整剧本） |
 | 20 | Oooh! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E37 · Lunch
-
-**来源：** [[Peppa.Pig.S01E37.Lunch|S01E37 Lunch]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
 | 1 | Garandpa Pig!** **G: Grandpa Pig!** **GPP: Hello, Peppa, George!** **This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.** **G: Grrrrr.** **GPP: What’s this?** **G: Dine-saw.** **GPP: A dinosaur, hahhah! Let’s choose some vegetables for lunch. | （见本集动画 / 完整剧本） |
 | 2 | Peppa, would you like tomatoes?** **P: Yes, Grandpa Pig.** **GPP: George, do you like tomatoes?** **G: No.** **P: George does not like tomatoes.** **GPP: Oh, dear! Do you both like lettuce?** **P: Yes, Granpa Pig.** **G: No.** **P: George does not like lettuce.** **GPP: Oh dear! I must have something that George likes. Do you like cucumber?** **G: Yuck!** **George does not like cucumbers. And he does not like lettuce. And he does not like tomatoes.** **GPP: Well, George, what vegetable do you like?** **G: Chocolate cake!** **P: Silly George. Chocolate cake isn’t vegetable.** **CPP: Maybe George will like the vegetables when they are made into a lovely salad.** **GNP: Oh, lovely fresh tomatoes, lettuce and cucumber. First, we have to wash them.** **Peppa and George help Granny Pig wash the vegetables.** **GNP: Maybe that’s enough washing.** **Granny Pig has made the tomatoes, lettuce and cucumber into a salad.** **GNP: Grandpa Pig, can you call everyone to lunch?** **GPP: Lunch!** **Granny Pig has made pizza for lunch.** **GNP: And here's some salad made with Grandpa’s tomatoes, lettuce and cucumber.** **GPP: Tuck-in, everyone!** **George has eaten his pizza. But George does not like tomatoes, all the lettuce or the cucumber.** **GNP: Oh dear, George. Don’t you like the salad?** **G: No!** **MP: George, just try a little bit of this lovely tomatoes.** **G: Yuck!** **GNP: george, this is cucumber. Grandpa Pig grew it in his garden.** **G: Errrr.** **DP: Try a piece of lettuce, George, it’s yummy.** **(Weeeee, George crying.)** **GPP: Oh, no, no, George. Look what I am doing. Now it’s a dinosaur.** **G: Dine-saw. Grrrrr.** **George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.** **MP: Well done, George.** **GNP: Would you like some more, George?** **G: Full.** **GPP: George, are you too full to eat any more tomatoes, lettuce or cucumber?** **George is too full to eat any more.** **MP: George, are you too full to eat anything more?** **George is too full to eat anything more.** **GNP: Oh, well , then you won't want any of this chocolate cake.** **G: Chocolate cake!** **GPP: My word! George has got his appetite back.** | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E38 · Sleepy Princess
-
-**来源：** [[Peppa.Pig.S01E38.Sleepy.Princess|S01E38 Sleepy Princess]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1101,11 +936,7 @@ tags:
 | 19 | I'm coming to that. | （见本集动画 / 完整剧本） |
 | 20 | But the most sIeepy of all Was the SIeepy Princess! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E39 · The Tree House
-
-**来源：** [[Peppa.Pig.S01E39.The.Tree.House|S01E39 The Tree House]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1130,11 +961,7 @@ tags:
 | 19 | Oh, all right. | （见本集动画 / 完整剧本） |
 | 20 | That's because your tummy is too big! | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E40 · Daddy Gets Fit
-
-**来源：** [[Peppa.Pig.S01E40.Daddy.Gets.Fit|S01E40 Daddy Gets Fit]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1159,11 +986,7 @@ tags:
 | 19 | Help! | （见本集动画 / 完整剧本） |
 | 20 | I Whizzed all the Way down the hill, and then I had to push the bike all the Way back up again. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E41 · Shopping
-
-**来源：** [[Peppa.Pig.S01E41.Shopping|S01E41 Shopping]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1188,11 +1011,7 @@ tags:
 | 19 | Chocolate cake? Is that on the List? | （见本集动画 / 完整剧本） |
 | 20 | Then who did? | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E42 · Chloe's puppet show
-
-**来源：** [[Peppa.Pig.S01E42.Chloes.puppet.show|S01E42 Chloe's puppet show]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1217,11 +1036,7 @@ tags:
 | 19 | Daddy Pig and Uncle Pig have fallen asleep. | （见本集动画 / 完整剧本） |
 | 20 | Come on, now, that's right. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E43 · My Birthday Party
-
-**来源：** [[Peppa.Pig.S01E43.My.Birthday.Party|S01E43 My Birthday Party]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1246,11 +1061,7 @@ tags:
 | 19 | Shush... Peppa! Don't tell anyone! | （见本集动画 / 完整剧本） |
 | 20 | Say the magic Words, ''Abracadabra!'' | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E44 · The Playground
-
-**来源：** [[Peppa.Pig.S01E44.The.Playground|S01E44 The Playground]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1275,11 +1086,7 @@ tags:
 | 19 | George wants to play on the slide. | （见本集动画 / 完整剧本） |
 | 20 | Oh, dear! It is a bit too high for George. | （见本集动画 / 完整剧本） |
 
----
-
 ## S01E45 · Tidying Up
-
-**来源：** [[Peppa.Pig.S01E45.Tidying.Up|S01E45 Tidying Up]]
 
 | # | English | 简中（妈妈参考） |
 | --- | --- | --- |
@@ -1303,11 +1110,3 @@ tags:
 | 18 | No! We're going to Win! | （见本集动画 / 完整剧本） |
 | 19 | What a tidy room! | （见本集动画 / 完整剧本） |
 | 20 | Where are my dolls? | （见本集动画 / 完整剧本） |
-
----
-
-## Related
-
-- [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]
-- [[learning-notes/parenting-english/learning-management/summer-60d-mom-operation-card|妈妈操作卡]]
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa S01 问句清单]]

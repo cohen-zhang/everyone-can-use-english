@@ -19,7 +19,7 @@ tags:
 
 | 项目 | 说明 |
 | --- | --- |
-| 内容 | 当周新学集的 [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines\|精选台词]]（每集 15–20 句） |
+| 内容 | 当周新学集的 [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|精选台词]]（每集 15–20 句） |
 | 语速 | 略慢于动画，句间停顿 1–2 秒 |
 | 格式 | MP3 或 M4A；命名 `Week{N}-E{起}-E{止}-demo.m4a` |
 | 发布 | 周日晚上前上传；周一早上妈妈下载 |
