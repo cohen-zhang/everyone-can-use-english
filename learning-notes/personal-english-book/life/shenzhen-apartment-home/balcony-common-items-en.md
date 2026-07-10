@@ -149,10 +149,27 @@ aliases:
 
 阳台有时会有风，很凉快。 冬天可以晒太阳
 
+- **Sometimes a breeze drifts through the balcony—it feels cool and fresh.**  
+  阳台有时会有风，很凉快。
+- **In winter we can sit out there and soak up the sun.**  
+  冬天可以在阳台上晒太阳。
+
 我和 Celine 在工作或者学习一段时间后，我们可以在阳台上看小区内楼下的行人、树林，小区外远处的山、建筑； 
 防止近视，Celine 可不想成为一个眼镜女孩。
 
+- **After Celine and I work or study for a while, we step onto the balcony.**  
+  我和 Celine 学习或工作一段时间后，会到阳台上。
+- **We watch people downstairs, the trees in the compound, and the hills and buildings farther away.**  
+  我们看楼下行人、小区里树林，还有远处山和建筑。
+- **It gives our eyes a break—Celine doesn’t want to end up a girl in thick glasses.**  
+  这样放松眼睛；Celine 可不想变成戴眼镜的女孩。
+
 我可以在阳台上做俯卧撑，坐在摇椅上用 iPad 看电子书； 看看我们养的花，有茉莉、向日葵、桂花、多肉； 
+
+- **I do push-ups on the balcony, or I sit in the rocking chair and read e-books on my iPad.**  
+  我在阳台做俯卧撑，或坐摇椅用 iPad 看电子书。
+- **I also check on our plants—jasmine, sunflowers, sweet osmanthus, and succulents.**  
+  也会看看我们养的花：茉莉、向日葵、桂花、多肉。
 
 
 **简中：** **封阳台**朝东南， **玻璃推拉门**。洗完 **泽哥** 用 **遥控器**降 **电动晾衣架**；大风天 **晾衣夹**夹牢袜。 **滚筒洗衣机**垫平放 **地漏**上方，台风雨水可能溅入要保持通畅。
