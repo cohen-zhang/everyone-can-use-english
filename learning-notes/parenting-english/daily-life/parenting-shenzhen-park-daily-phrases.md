@@ -12,6 +12,7 @@ tags:
 
 **相关（相向互链）：**
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/community-life-outdoor-scenarios.md|小区户外与邻里 — 游乐场、河边散步]]（小区内滑梯秋千沙坑等基础词与此叠用）
+- [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]]（酒店 indoor soft play / kids club 与公园游乐句对照；与此页相向互链）
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]]（去公园防晒、鞋帽）
 - [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice.md|运动与体育课 — Exercise & PE]]（喜欢跑步、热身等泛运动句）
 - [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab.md|材质 · 形状 · 维度]]（hiking 装备材质：rubber soles, stainless-steel bottle, waterproof fabric）

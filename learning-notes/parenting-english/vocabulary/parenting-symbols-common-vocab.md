@@ -134,7 +134,9 @@ tags:
 
 ## 4. 屏幕、密码与网络里的符号 — Tech & Typing
 
-- **at** @  **hashtag** #  **ampersand** &  
+- **at** / **at sign** @ — 美:/æt/ 英:/æt/；符号名 **at sign** /æt saɪn/  
+  读邮箱、用户名时念 **at**：*Celine at school dot com*。口语里也说 **at symbol** /æt ˈsɪmbəl/；正式场合偶见 **commercial at** /kəˈmɜːrʃəl æt/（少用）。`技术` `亲子`  
+- **hashtag** #  **ampersand** &  
 - **forward slash** /  **backslash** （读盘符、路径时）`技术`  
 - **asterisk** *  **star**（口语也常说，尤其在密码、填空）`技术` `亲子`  
 - **Underscore** _  
@@ -165,6 +167,13 @@ tags:
 - **Dad**: Right, or the teacher may ask for **italics** on the computer.  
 — 对应 §1、§3。`亲子` `技术`
 
+**场景 D：读邮箱里的 @**
+
+- **Dad**: This says *Celine **at** gmail **dot** com*—we read **@** as **at**, /æt/.  
+- **Celine**: Not “小老鼠” or “圈 a”?  
+- **Dad**: In English it’s always **at**. The symbol is called **at sign**.  
+— 读地址时 @ 念 **at**，符号本身叫 **at sign**。`亲子` `技术`
+
 ---
 
 ## 6. 小词表
@@ -185,7 +194,8 @@ tags:
 | **percent**                                        | 百分之…         |                           |
 | **Pinyin** / **tone (mark)**                       | 拼音 / 声调      | 语文衔接 `技术` `亲子`            |
 | **character** (Chinese) / **radical** / **stroke** | 汉字 / 部首 / 笔画 | 不用 *symbol* 指汉字 `亲子` `技术` |
-| **hashtag** / **at** / **ampersand**               | # / @ / &    | 网感、输密码 `技术`               |
+| **at** / **at sign**                               | @            | 美 /æt/；at sign /æt saɪn/；读邮箱 *name **at** domain* `技术` `亲子` |
+| **hashtag** / **ampersand**                        | # / &        | 网感、输密码 `技术`               |
 
 
 ---

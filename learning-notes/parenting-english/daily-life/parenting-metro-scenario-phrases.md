@@ -250,6 +250,7 @@ tags:
 ## 相关（扩展）
 
 - 电动两轮**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]
+- 酒店带娃入住与游乐场：[[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]]（与此页相向互链）
 
 ---
 
