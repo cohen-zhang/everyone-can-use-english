@@ -10,6 +10,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关（扩展）：** [[learning-notes/personal-english-book/life/家乡|家乡 · 湖北黄冈黄梅]] — ~2 分钟英文家乡介绍，可接在 *I'm from China* 之后展开
+
 ## 参考资源 Reference
 
 - **YouTube 视频**: "Learn Easy English–Self Introduction in English" by Shane Michael Peterson
@@ -126,3 +128,33 @@ aliases:
 ---
 
 *To be continued...*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Can be depended on** — 可以依靠的
+- **> My family and I live in a major city in southern China. It's a great place and I love it here. I'm having a great time** — > 我和家人住在南方一座大城市。这里很棒，我很喜欢，过得很愉快
+- **> In 2012, I joined a tech company in southern China through campus recruitment** — > 2012 年，我通过校招加入了一家南方科技公司（Company A）
+- **> People who are responsible and trustworthy are important in almost any situation** — > 在任何场合，有责任心且值得信赖的人都很重要
+- **> Other than that… that's pretty much it. I like watching movies!** — > 除此之外……差不多就这些了。我还喜欢看电影！
+- **> But am I qualified for the job? That's the problem ^_^** — > 但我有资格胜任那份工作吗？这就是问题所在 ^_^
+
+### B. 一段串联（连续口语）
+
+**Can be depended on. > My family and I live in a major city in southern China. It's a great place and I love it here. I'm having a great time. > In 2012, I joined a tech company in southern China through campus recruitment. > People who are responsible and trustworthy are important in almost any situation. > Other than that… that's pretty much it. I like watching movies!. > But am I qualified for the job? That's the problem ^_^.**
+
+**简中：** 可以依靠的。> 我和家人住在南方一座大城市。这里很棒，我很喜欢，过得很愉快。> 2012 年，我通过校招加入了一家南方科技公司（Company A）。> 在任何场合，有责任心且值得信赖的人都很重要。> 除此之外……差不多就这些了。我还喜欢看电影！。> 但我有资格胜任那份工作吗？这就是问题所在 ^_^。
+
+### C. 一分钟复盘（5 句）
+
+1. **Can be depended on** — 可以依靠的
+2. **> My family and I live in a major city in southern China. It's a great place and I love it here. I'm having a great time** — > 我和家人住在南方一座大城市。这里很棒，我很喜欢，过得很愉快
+3. **> In 2012, I joined a tech company in southern China through campus recruitment** — > 2012 年，我通过校招加入了一家南方科技公司（Company A）
+4. **> People who are responsible and trustworthy are important in almost any situation** — > 在任何场合，有责任心且值得信赖的人都很重要
+5. **> Other than that… that's pretty much it. I like watching movies!** — > 除此之外……差不多就这些了。我还喜欢看电影！
+

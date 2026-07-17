@@ -44,3 +44,33 @@ Andy Warhol (1928–1987) was an American artist and a leading figure in the **P
 ## 附：原笔记
 
 - *They always say time changes things, but you actually have to change them yourself.*（注意 *yourself* 拼写）
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- ***In the future, everyone will be world-famous for 15 minutes.*** — 未来，每个人都会成名十五分钟。——常用来形容媒体时代的短暂名气与注意力经济
+- ***The idea is not to live forever; it is to create something that will.*** — 意义不在于让自己永生，而在于创造出能流传下去的东西。——把创作置于个人生命长度之上
+- ***The best thing about a picture is that it never changes, even when the people in it do.*** — 照片最好的一点是：即使照片里的人变了，影像本身却不会变。——关于记忆、时间与身份
+- ***I think having land and not ruining it is the most beautiful art that anybody could ever want to own.*** — 我认为拥有一片土地却不去糟蹋它，是任何人能拥有的最美的艺术。——把自然保护与「美」并置
+- ***I like boring things.*** — 我喜欢单调、无聊的东西。——与他的重复构图、日常物题材相呼应
+- ***I'm afraid that if you look at a thing long enough, it loses all of its meaning.*** — 我怕若盯着一件东西看得太久，它就会失去全部意义。——关于凝视、重复与意义的消解（与他大量复制图像的实践相关）
+
+### B. 一段串联（连续口语）
+
+***In the future, everyone will be world-famous for 15 minutes.*. *The idea is not to live forever; it is to create something that will.*. *The best thing about a picture is that it never changes, even when the people in it do.*. *I think having land and not ruining it is the most beautiful art that anybody could ever want to own.*. *I like boring things.*. *I'm afraid that if you look at a thing long enough, it loses all of its meaning.*.**
+
+**简中：** 未来，每个人都会成名十五分钟。——常用来形容媒体时代的短暂名气与注意力经济。意义不在于让自己永生，而在于创造出能流传下去的东西。——把创作置于个人生命长度之上。照片最好的一点是：即使照片里的人变了，影像本身却不会变。——关于记忆、时间与身份。我认为拥有一片土地却不去糟蹋它，是任何人能拥有的最美的艺术。——把自然保护与「美」并置。我喜欢单调、无聊的东西。——与他的重复构图、日常物题材相呼应。我怕若盯着一件东西看得太久，它就会失去全部意义。——关于凝视、重复与意义的消解（与他大量复制图像的实践相关）。
+
+### C. 一分钟复盘（5 句）
+
+1. ***In the future, everyone will be world-famous for 15 minutes.*** — 未来，每个人都会成名十五分钟。——常用来形容媒体时代的短暂名气与注意力经济
+2. ***The idea is not to live forever; it is to create something that will.*** — 意义不在于让自己永生，而在于创造出能流传下去的东西。——把创作置于个人生命长度之上
+3. ***The best thing about a picture is that it never changes, even when the people in it do.*** — 照片最好的一点是：即使照片里的人变了，影像本身却不会变。——关于记忆、时间与身份
+4. ***I think having land and not ruining it is the most beautiful art that anybody could ever want to own.*** — 我认为拥有一片土地却不去糟蹋它，是任何人能拥有的最美的艺术。——把自然保护与「美」并置
+5. ***I like boring things.*** — 我喜欢单调、无聊的东西。——与他的重复构图、日常物题材相呼应
+

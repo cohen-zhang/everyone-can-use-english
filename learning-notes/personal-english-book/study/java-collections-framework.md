@@ -517,3 +517,33 @@ HashSet 使用 **hashCode()** 方法确定元素的桶，并使用 **equals()** 
 **English README:** https://github.com/zhangze2/awesome-demo/blob/master/java-base/README.en.md
 
 **Tags**: `技术`, `Java`, `集合`, `数据结构`, `算法`
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Interoperability between unrelated APIs** — 无关 API 之间的互操作性
+- **Insert at end: O(1) amortized** — 末尾插入（均摊）
+- **When order doesn't matter** — 当顺序不重要时
+- **Get, put, remove: O(1) average** — 获取、放置、删除（平均）
+- **Sorted order is required** — 需要排序顺序
+- **Related: Generics, Streams, Comparable vs Comparator** — 相关：泛型、流、Comparable 与 Comparator
+
+### B. 一段串联（连续口语）
+
+**Interoperability between unrelated APIs. Insert at end: O(1) amortized. When order doesn't matter. Get, put, remove: O(1) average. Sorted order is required. Related: Generics, Streams, Comparable vs Comparator.**
+
+**简中：** 无关 API 之间的互操作性。末尾插入（均摊）。当顺序不重要时。获取、放置、删除（平均）。需要排序顺序。相关：泛型、流、Comparable 与 Comparator。
+
+### C. 一分钟复盘（5 句）
+
+1. **Interoperability between unrelated APIs** — 无关 API 之间的互操作性
+2. **Insert at end: O(1) amortized** — 末尾插入（均摊）
+3. **When order doesn't matter** — 当顺序不重要时
+4. **Get, put, remove: O(1) average** — 获取、放置、删除（平均）
+5. **Sorted order is required** — 需要排序顺序
+

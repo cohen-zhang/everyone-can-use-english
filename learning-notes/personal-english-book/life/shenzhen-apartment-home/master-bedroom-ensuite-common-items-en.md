@@ -224,3 +224,33 @@ aliases:
 ---
 
 **分区统计：** 主卧整体 **6**；睡眠 **8**；衣柜 **6**；学习／办公（含升降桌、坐垫、全家福相框、`Wi‑Fi` 短文）**23**；书架区 **17**（陈列取阅 **8**、学材 **4**、垫上拉伸与冥想 **5**）；床边 **6**（含 **HomePod**）；照明温控与空气 **8**（含加湿器、**电热驱蚊器／蚊香液**、落地扇）；套内卫生间 **7**。**合计词条 81**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **We keep laptops out of the master bedroom after eleven for better sleep hygiene** — 十一点后不把电脑带进主卧，睡得更稳
+- **The full-length mirror lives beside the wardrobe door for outfit checks** — 全身镜贴在衣柜门边出门前照一套
+- **Two slim picture frames hold family photos on the desktop beside the desk lamp without stealing backlight** — 全家福装在两只薄相框里摆在桌面台灯旁，不抢走屏幕背光
+- **Cloth bookmark tails stick out exactly one chapter ahead** — 布书签带子露出一截正好指到下章开头
+- **Matching bedside lamps keep warm color temp under 3000 K** — 一对床头灯色温保持三千 K 以下偏暖
+- **Keep humid air out of the wardrobe: exhaust the en-suite before opening closet doors** — 开冷气配合卧室加湿器；每周看一眼湿度才不熬干整夜嗓子
+
+### B. 一段串联（连续口语）
+
+**We keep laptops out of the master bedroom after eleven for better sleep hygiene. The full-length mirror lives beside the wardrobe door for outfit checks. Two slim picture frames hold family photos on the desktop beside the desk lamp without stealing backlight. Cloth bookmark tails stick out exactly one chapter ahead. Matching bedside lamps keep warm color temp under 3000 K. Keep humid air out of the wardrobe: exhaust the en-suite before opening closet doors.**
+
+**简中：** 十一点后不把电脑带进主卧，睡得更稳。全身镜贴在衣柜门边出门前照一套。全家福装在两只薄相框里摆在桌面台灯旁，不抢走屏幕背光。布书签带子露出一截正好指到下章开头。一对床头灯色温保持三千 K 以下偏暖。开冷气配合卧室加湿器；每周看一眼湿度才不熬干整夜嗓子。
+
+### C. 一分钟复盘（5 句）
+
+1. **We keep laptops out of the master bedroom after eleven for better sleep hygiene** — 十一点后不把电脑带进主卧，睡得更稳
+2. **The full-length mirror lives beside the wardrobe door for outfit checks** — 全身镜贴在衣柜门边出门前照一套
+3. **Two slim picture frames hold family photos on the desktop beside the desk lamp without stealing backlight** — 全家福装在两只薄相框里摆在桌面台灯旁，不抢走屏幕背光
+4. **Cloth bookmark tails stick out exactly one chapter ahead** — 布书签带子露出一截正好指到下章开头
+5. **Matching bedside lamps keep warm color temp under 3000 K** — 一对床头灯色温保持三千 K 以下偏暖
+

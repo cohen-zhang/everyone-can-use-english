@@ -1242,3 +1242,33 @@ Spring 让企业级Java应用开发变得简单。它提供了在企业环境中
 ---
 
 *Last Updated: 持续更新中 Continuously Updated*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **describe how much I don't like getting up** — 描述我多么不喜欢起床
+- **Apple Music English songs have translations now, helping me learn English** — apple music英文歌曲有翻译了，让我学习英文
+- **Learning English requires a long period of seeing no results, not even a plateau, the more words learned the more unknown words found** — 学英文要经历一段很长时间看不到效果的水平线，都算不上瓶颈期，单词越学越觉得还有很多不认识
+- **Words should be memorized in sentences, different context means different meanings, use ChatGPT to create meaningful sentences, connect them** — 单词还是要在句子里记忆，不同 context 单词的含义不一样，使用 ChartGPT 造有意义句子，连在一起；
+- **"There is only one true heroism in the world, which is to recognize the truth of life and still love life."** — "世上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。"
+- **Lesson learned: Strong purposefulness, be tough** — 经验教训是强烈地目的性，狠一点
+
+### B. 一段串联（连续口语）
+
+**describe how much I don't like getting up. Apple Music English songs have translations now, helping me learn English. Learning English requires a long period of seeing no results, not even a plateau, the more words learned the more unknown words found. Words should be memorized in sentences, different context means different meanings, use ChatGPT to create meaningful sentences, connect them. "There is only one true heroism in the world, which is to recognize the truth of life and still love life.". Lesson learned: Strong purposefulness, be tough.**
+
+**简中：** 描述我多么不喜欢起床。apple music英文歌曲有翻译了，让我学习英文。学英文要经历一段很长时间看不到效果的水平线，都算不上瓶颈期，单词越学越觉得还有很多不认识。单词还是要在句子里记忆，不同 context 单词的含义不一样，使用 ChartGPT 造有意义句子，连在一起；。"世上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。"。经验教训是强烈地目的性，狠一点。
+
+### C. 一分钟复盘（5 句）
+
+1. **describe how much I don't like getting up** — 描述我多么不喜欢起床
+2. **Apple Music English songs have translations now, helping me learn English** — apple music英文歌曲有翻译了，让我学习英文
+3. **Learning English requires a long period of seeing no results, not even a plateau, the more words learned the more unknown words found** — 学英文要经历一段很长时间看不到效果的水平线，都算不上瓶颈期，单词越学越觉得还有很多不认识
+4. **Words should be memorized in sentences, different context means different meanings, use ChatGPT to create meaningful sentences, connect them** — 单词还是要在句子里记忆，不同 context 单词的含义不一样，使用 ChartGPT 造有意义句子，连在一起；
+5. **"There is only one true heroism in the world, which is to recognize the truth of life and still love life."** — "世上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。"
+

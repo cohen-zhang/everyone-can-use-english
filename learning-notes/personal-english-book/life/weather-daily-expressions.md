@@ -133,3 +133,33 @@ aliases:
 ---
 
 *文档用途：家庭英语学习笔记；界面名称以 Apple 系统常见英文为准，系统语言为中文时以屏幕显示为准。*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **It says it’ll rain this afternoon** — 上面写下午会下雨
+- **Celine: Yes! Can we go to the park?** — 要！能去公园吗？
+- **Dad: It’s raining. Put on your raincoat** — 在下雨，穿上雨衣
+- **Dad: It’s cold today. Wear your jacket and scarf** — 今天冷，穿上外套和围巾
+- **Dad: Maybe later, when it’s not so hot at noon** — 也许晚点，中午别顶着大太阳去
+- **Recess is indoors because of the storm** — 因为暴风雨，课间休息在室内
+
+### B. 一段串联（连续口语）
+
+**It says it’ll rain this afternoon. Celine: Yes! Can we go to the park?. Dad: It’s raining. Put on your raincoat. Dad: It’s cold today. Wear your jacket and scarf. Dad: Maybe later, when it’s not so hot at noon. Recess is indoors because of the storm.**
+
+**简中：** 上面写下午会下雨。要！能去公园吗？。在下雨，穿上雨衣。今天冷，穿上外套和围巾。也许晚点，中午别顶着大太阳去。因为暴风雨，课间休息在室内。
+
+### C. 一分钟复盘（5 句）
+
+1. **It says it’ll rain this afternoon** — 上面写下午会下雨
+2. **Celine: Yes! Can we go to the park?** — 要！能去公园吗？
+3. **Dad: It’s raining. Put on your raincoat** — 在下雨，穿上雨衣
+4. **Dad: It’s cold today. Wear your jacket and scarf** — 今天冷，穿上外套和围巾
+5. **Dad: Maybe later, when it’s not so hot at noon** — 也许晚点，中午别顶着大太阳去
+

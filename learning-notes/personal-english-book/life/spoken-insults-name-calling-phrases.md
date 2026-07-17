@@ -148,3 +148,33 @@ aliases:
 **Learn insults to understand tone and conflict, then choose calmer alternatives in real life.**
 
 — 学骂人是为了听懂冲突语气，真实沟通尽量用更克制的表达。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **You idiot, you deleted the file again** — 你个笨蛋，你又把文件删了
+- **Do not chicken out, you coward** — 别怂，你别临阵退缩
+- **I am broke, but I am not giving up** — 我是穷，但我不放弃
+- **That was out of line. Do not talk to me like that** — 你越界了，别这样跟我说话
+- **Do not push me. Do not lecture me** — 别逼我，别对我说教
+- **You suck at this. Do not be so dramatic** — 你太菜了。别这么矫情
+
+### B. 一段串联（连续口语）
+
+**You idiot, you deleted the file again. Do not chicken out, you coward. I am broke, but I am not giving up. That was out of line. Do not talk to me like that. Do not push me. Do not lecture me. You suck at this. Do not be so dramatic.**
+
+**简中：** 你个笨蛋，你又把文件删了。别怂，你别临阵退缩。我是穷，但我不放弃。你越界了，别这样跟我说话。别逼我，别对我说教。你太菜了。别这么矫情。
+
+### C. 一分钟复盘（5 句）
+
+1. **You idiot, you deleted the file again** — 你个笨蛋，你又把文件删了
+2. **Do not chicken out, you coward** — 别怂，你别临阵退缩
+3. **I am broke, but I am not giving up** — 我是穷，但我不放弃
+4. **That was out of line. Do not talk to me like that** — 你越界了，别这样跟我说话
+5. **Do not push me. Do not lecture me** — 别逼我，别对我说教
+

@@ -234,3 +234,32 @@ aliases:
 | 日期 | 说明 |
 | --- | --- |
 | — | 重组：演示日清单表化、与 IM 专页分工；英文改进稿；预留 H–J；链 HA / 术语 / 金融梳理。 |
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- ***review the release plan in advance*** — 会前要求
+- ***before vs after exemption*** — 验证
+- ***defects in scope for this release*** — 发布说明
+- ***walk through the implementation plan*** — 开发同步
+- **R&D workflow English** — 研发流程表达
+
+### B. 一段串联（连续口语）
+
+***review the release plan in advance*. *before vs after exemption*. *defects in scope for this release*. *walk through the implementation plan*. R&D workflow English.**
+
+**简中：** 会前要求。验证。发布说明。开发同步。研发流程表达。
+
+### C. 一分钟复盘（5 句）
+
+1. ***review the release plan in advance*** — 会前要求
+2. ***before vs after exemption*** — 验证
+3. ***defects in scope for this release*** — 发布说明
+4. ***walk through the implementation plan*** — 开发同步
+5. **R&D workflow English** — 研发流程表达
+

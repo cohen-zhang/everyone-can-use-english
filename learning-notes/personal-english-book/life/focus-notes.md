@@ -97,3 +97,33 @@ aliases:
 1. 开篇对比段落（第 1-2 段）— 感受日常时间分配与专注时间的差距
 2. 三大习惯总结段落 — 练习列举和结构表达
 3. 结尾行动号召段落 — 练习说服性语调
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I get maybe 2 hours of focused time a day** — 我每天大概只有 2 小时专注时间
+- **Think of the good he could do if** — 想象一下如果……他能做出多少贡献
+- **It might be interesting to audit your own time** — 审视一下自己的时间也许会很有趣
+- **Would you like to increase your focused hours?** — 你想增加专注时间吗？
+- **It comes down to three habits** — 这归结于三个习惯
+- **Creating space for meaningful work** — 为有意义的工作创造空间
+
+### B. 一段串联（连续口语）
+
+**I get maybe 2 hours of focused time a day. Think of the good he could do if. It might be interesting to audit your own time. Would you like to increase your focused hours?. It comes down to three habits. Creating space for meaningful work.**
+
+**简中：** 我每天大概只有 2 小时专注时间。想象一下如果……他能做出多少贡献。审视一下自己的时间也许会很有趣。你想增加专注时间吗？。这归结于三个习惯。为有意义的工作创造空间。
+
+### C. 一分钟复盘（5 句）
+
+1. **I get maybe 2 hours of focused time a day** — 我每天大概只有 2 小时专注时间
+2. **Think of the good he could do if** — 想象一下如果……他能做出多少贡献
+3. **It might be interesting to audit your own time** — 审视一下自己的时间也许会很有趣
+4. **Would you like to increase your focused hours?** — 你想增加专注时间吗？
+5. **It comes down to three habits** — 这归结于三个习惯
+

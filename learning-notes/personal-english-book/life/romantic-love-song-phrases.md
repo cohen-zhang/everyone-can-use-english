@@ -220,3 +220,33 @@ May life be our love paradise."**
 ---
 
 *Compiled for 阿泽 — sing your heart out at KTV! 🎶*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I could kiss you all night** — 我可以吻你一整夜
+- **kiss on the cheek** — 亲脸颊
+- **Seal it with a kiss** — 用一个吻盖章定情。（承诺、许愿时常用）
+- **Dear wife, you are my "Sunshine" on a cloudy day, always brightening up my world** — 亲爱的老婆，你是阴天里的"阳光"，永远照亮我的世界
+- **I see my future in your eyes."**** — "亲爱的，握住我的手，
+- **I will love you like it's the last night** — 我会像最后一晚那样爱你
+
+### B. 一段串联（连续口语）
+
+**I could kiss you all night. kiss on the cheek. Seal it with a kiss. Dear wife, you are my "Sunshine" on a cloudy day, always brightening up my world. I see my future in your eyes."**. I will love you like it's the last night.**
+
+**简中：** 我可以吻你一整夜。亲脸颊。用一个吻盖章定情。（承诺、许愿时常用）。亲爱的老婆，你是阴天里的"阳光"，永远照亮我的世界。"亲爱的，握住我的手，。我会像最后一晚那样爱你。
+
+### C. 一分钟复盘（5 句）
+
+1. **I could kiss you all night** — 我可以吻你一整夜
+2. **kiss on the cheek** — 亲脸颊
+3. **Seal it with a kiss** — 用一个吻盖章定情。（承诺、许愿时常用）
+4. **Dear wife, you are my "Sunshine" on a cloudy day, always brightening up my world** — 亲爱的老婆，你是阴天里的"阳光"，永远照亮我的世界
+5. **I see my future in your eyes."**** — "亲爱的，握住我的手，
+

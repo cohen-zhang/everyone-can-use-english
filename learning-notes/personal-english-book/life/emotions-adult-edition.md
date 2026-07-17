@@ -555,3 +555,33 @@ By bedtime, he was [relieved](#kw-relieved) and quietly [hopeful](#kw-hopeful) a
 
 <a id="kw-supported"></a>
 - **supported** — 被支持的；[[#story-adult-emotion-shift|回到故事]]
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I'm thrilled about the promotion!** — 我对升职感到极其兴奋！
+- **I'm worried about the quarterly review** — 我担心季度考核
+- **I'm fine, just a bit tired** — 我没事，只是有点累
+- **I'm starting to feel hopeful again** — 我开始重新感到有希望了
+- **You: What do you want to do this weekend?** — 这周末你想做什么？
+- **By bedtime, he was relieved and quietly hopeful about tomorrow** — 到睡前，他已经如释重负，并对明天保持安静的希望
+
+### B. 一段串联（连续口语）
+
+**I'm thrilled about the promotion!. I'm worried about the quarterly review. I'm fine, just a bit tired. I'm starting to feel hopeful again. You: What do you want to do this weekend?. By bedtime, he was relieved and quietly hopeful about tomorrow.**
+
+**简中：** 我对升职感到极其兴奋！。我担心季度考核。我没事，只是有点累。我开始重新感到有希望了。这周末你想做什么？。到睡前，他已经如释重负，并对明天保持安静的希望。
+
+### C. 一分钟复盘（5 句）
+
+1. **I'm thrilled about the promotion!** — 我对升职感到极其兴奋！
+2. **I'm worried about the quarterly review** — 我担心季度考核
+3. **I'm fine, just a bit tired** — 我没事，只是有点累
+4. **I'm starting to feel hopeful again** — 我开始重新感到有希望了
+5. **You: What do you want to do this weekend?** — 这周末你想做什么？
+

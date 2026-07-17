@@ -272,3 +272,33 @@ aliases:
 ---
 
 *维护：与 [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|投资者必备]] 配对使用——本页「研究语言」，那页「下单语言」。*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I start with the business model — how does this company make money?** — 我先看商业模式——公司怎么赚钱？
+- **Management raised full-year guidance on the call** — 业绩会上管理层上调了全年指引
+- **Valuation alone doesn't tell you when to buy — timing still matters** — 单靠估值不知道何时买——时点仍重要
+- **The FDA approval could unlock a new revenue stream** — FDA 批准可能打开新收入来源
+- **Cash is a position when valuations feel stretched** — 估值拉伸时，现金也是一种仓位
+- **I keep a simple macro checklist: rates, inflation, growth, policy** — 我用简单宏观清单：利率、通胀、增长、政策
+
+### B. 一段串联（连续口语）
+
+**I start with the business model — how does this company make money?. Management raised full-year guidance on the call. Valuation alone doesn't tell you when to buy — timing still matters. The FDA approval could unlock a new revenue stream. Cash is a position when valuations feel stretched. I keep a simple macro checklist: rates, inflation, growth, policy.**
+
+**简中：** 我先看商业模式——公司怎么赚钱？。业绩会上管理层上调了全年指引。单靠估值不知道何时买——时点仍重要。FDA 批准可能打开新收入来源。估值拉伸时，现金也是一种仓位。我用简单宏观清单：利率、通胀、增长、政策。
+
+### C. 一分钟复盘（5 句）
+
+1. **I start with the business model — how does this company make money?** — 我先看商业模式——公司怎么赚钱？
+2. **Management raised full-year guidance on the call** — 业绩会上管理层上调了全年指引
+3. **Valuation alone doesn't tell you when to buy — timing still matters** — 单靠估值不知道何时买——时点仍重要
+4. **The FDA approval could unlock a new revenue stream** — FDA 批准可能打开新收入来源
+5. **Cash is a position when valuations feel stretched** — 估值拉伸时，现金也是一种仓位
+

@@ -218,3 +218,33 @@ aliases:
 | **Municipal park**                     | 市政公园         |
 | **Community fitness trail**            | 社区健身路径       |
 | **Personal best (PB)**                 | 个人最好成绩       |
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I’m heading to the park to use the outdoor fitness equipment** — 我去公园用户外健身器材
+- **Is this community fitness trail free for everyone?** — 这条社区健身路径是免费开放的吗？
+- **If the pain lasts more than a few days, I’ll see a doctor** — 如果疼了好几天还不好，我就去看医生
+- **I’ll add one more rep next week — progressive overload** — 下周每组多加一次，这叫渐进超负荷
+- **My sleep schedule is off because I stayed up too late** — 我睡眠作息乱了，因为我熬夜太晚
+- **This chart shows my resting heart rate over the last month** — 这张图是过去一个月的静息心率
+
+### B. 一段串联（连续口语）
+
+**I’m heading to the park to use the outdoor fitness equipment. Is this community fitness trail free for everyone?. If the pain lasts more than a few days, I’ll see a doctor. I’ll add one more rep next week — progressive overload. My sleep schedule is off because I stayed up too late. This chart shows my resting heart rate over the last month.**
+
+**简中：** 我去公园用户外健身器材。这条社区健身路径是免费开放的吗？。如果疼了好几天还不好，我就去看医生。下周每组多加一次，这叫渐进超负荷。我睡眠作息乱了，因为我熬夜太晚。这张图是过去一个月的静息心率。
+
+### C. 一分钟复盘（5 句）
+
+1. **I’m heading to the park to use the outdoor fitness equipment** — 我去公园用户外健身器材
+2. **Is this community fitness trail free for everyone?** — 这条社区健身路径是免费开放的吗？
+3. **If the pain lasts more than a few days, I’ll see a doctor** — 如果疼了好几天还不好，我就去看医生
+4. **I’ll add one more rep next week — progressive overload** — 下周每组多加一次，这叫渐进超负荷
+5. **My sleep schedule is off because I stayed up too late** — 我睡眠作息乱了，因为我熬夜太晚
+

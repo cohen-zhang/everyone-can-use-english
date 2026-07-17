@@ -170,3 +170,31 @@ I'm taking leave this morning. Could you see if you're available to host the mor
 下周组织复盘，我们需要给客户一个闭环。确保下次能通关
 
 We will organize a review next week, and we need to provide the client with a closed-loop process to ensure successful clearance next time.
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 按版本推进流程朗读 · 词汇来自上文*
+
+### A. 分句场景链（按 IM 推进流程朗读）
+
+- **Check the development tasks to see if anything is missing.** — 检查开发任务，看是否有遗漏。
+- **Let’s roughly estimate the effort before we confirm the plan.** — 确认计划前，先粗略估算工时。
+- **The release window is tight, so we cannot pack in too much.** — 发布窗口很紧，不能塞进太多内容。
+- **What time works for us to align on the overall plan today?** — 今天几点方便我们对齐整体计划？
+- **We will organize a review next week and give the client a closed-loop process.** — 下周组织复盘，给客户一个闭环。
+
+### B. 一段串联（连续口语）
+
+**First, I check the development tasks to see if anything is missing. Then we roughly estimate the effort and confirm the plan. The release window is tight, so we cannot pack in every request. I send a message to align the owners on the overall plan. After the release, we organize a review and give the client a closed-loop process for the next round.**
+
+**简中：** 首先，我检查开发任务有没有遗漏。然后我们粗估工时并确认计划。发布窗口很紧，不能把每个需求都塞进去。我发消息让各负责人对齐整体计划。发布后，我们组织复盘，为下一轮给客户一个闭环流程。
+
+### C. 一分钟复盘（5 句）
+
+1. **Check whether anything is missing.** — 检查是否有遗漏。
+2. **Let’s estimate the effort first.** — 我们先估一下工时。
+3. **The release window is tight.** — 发布窗口很紧。
+4. **Let’s align on the overall plan.** — 我们对齐一下整体计划。
+5. **A review gives the client a closed loop.** — 复盘能给客户一个闭环。

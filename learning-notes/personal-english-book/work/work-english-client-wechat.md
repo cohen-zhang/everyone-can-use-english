@@ -51,3 +51,32 @@ Other projects require a shared awareness notice to be sent to customers.
 收到，程序化流控的场景请产研补充测试和优化，记录缺陷
 Received. For the scenario of automated flow control, please have R&D conduct additional testing and optimization, and document any defects.
 
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Let's set a time point. After the update, Brother Long should notify in the group** — 约定个时间点，更新后，龙哥在群里通知下
+- **The client is rather impatient, so we need to figure out how to properly soothe them** — 客户性子比较急，这块得想想怎么好好安抚一下
+- **Tomorrow's plan is to schedule a review of the profit and loss migration implementation plan with client** — 明天计划约客户评审盈亏迁移实施方案
+- **I have requested access; please grant it** — 我申请了权限，麻烦开一下
+- **Does this affect strategic trading?** — 是否影响策略交易
+- **Received. For the scenario of automated flow control, please have R&D conduct additional testing and optimization, and document any defects** — 收到，程序化流控的场景请产研补充测试和优化，记录缺陷
+
+### B. 一段串联（连续口语）
+
+**Let's set a time point. After the update, Brother Long should notify in the group. The client is rather impatient, so we need to figure out how to properly soothe them. Tomorrow's plan is to schedule a review of the profit and loss migration implementation plan with client. I have requested access; please grant it. Does this affect strategic trading?. Received. For the scenario of automated flow control, please have R&D conduct additional testing and optimization, and document any defects.**
+
+**简中：** 约定个时间点，更新后，龙哥在群里通知下。客户性子比较急，这块得想想怎么好好安抚一下。明天计划约客户评审盈亏迁移实施方案。我申请了权限，麻烦开一下。是否影响策略交易。收到，程序化流控的场景请产研补充测试和优化，记录缺陷。
+
+### C. 一分钟复盘（5 句）
+
+1. **Let's set a time point. After the update, Brother Long should notify in the group** — 约定个时间点，更新后，龙哥在群里通知下
+2. **The client is rather impatient, so we need to figure out how to properly soothe them** — 客户性子比较急，这块得想想怎么好好安抚一下
+3. **Tomorrow's plan is to schedule a review of the profit and loss migration implementation plan with client** — 明天计划约客户评审盈亏迁移实施方案
+4. **I have requested access; please grant it** — 我申请了权限，麻烦开一下
+5. **Does this affect strategic trading?** — 是否影响策略交易
+

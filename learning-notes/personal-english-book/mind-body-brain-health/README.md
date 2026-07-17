@@ -19,6 +19,12 @@ cssclasses:
 
 ---
 
+## 朗读顺序建议
+
+每页文末的 **「朗读串联记忆」** 可按「分句跟读 A → 连续表达 B → 一分钟复盘 C」练习；健身、营养与快乐激素三篇可隔天轮换，重复使用交叉词汇。
+
+---
+
 ## 身体健康 · Physical health
 
 - [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、晒太阳、Health 应用场景句

@@ -212,3 +212,31 @@ Use these short, repeatable patterns when talking to **不多** (Celine) about t
 *Compiled and enriched for 阿泽 (泽哥). Merge of child-friendly enlightenment style with romantic anniversary expressions. Continue adding more scene-specific sentences here as you practice. Speak from the heart in English! ❤️*
 
 *Note: This consolidates relevant content from previous notes into one focused resource for 10th wedding anniversary scenes. The referenced source documents have been superseded.*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Claire, consider this a grand gesture of my love** — 克莱尔，把这当作我对你爱的盛大表示。（Use for gift or surprise party. Replace with her name or Honey）
+- **Buckle your seat belt, lady. You're being wooed** — 系好安全带，女士。我在追你。（Playful for anniversary date night）
+- **I love your smile. I love your strength. I love our life together** — 我爱你的笑容。我爱你的坚强。我爱我们一起的生活。（Enriched repetition for 10 years）
+- **Happy 10th anniversary, gorgeous. You still look as gorgeous as ever** — 十周年快乐，美女。你还是那么光彩照人
+
+### B. 一段串联（连续口语）
+
+**Claire, consider this a grand gesture of my love. Buckle your seat belt, lady. You're being wooed. I love your smile. I love your strength. I love our life together. Happy 10th anniversary, gorgeous. You still look as gorgeous as ever.**
+
+**简中：** 克莱尔，把这当作我对你爱的盛大表示。（Use for gift or surprise party. Replace with her name or Honey）。系好安全带，女士。我在追你。（Playful for anniversary date night）。我爱你的笑容。我爱你的坚强。我爱我们一起的生活。（Enriched repetition for 10 years）。十周年快乐，美女。你还是那么光彩照人。
+
+### C. 一分钟复盘（5 句）
+
+1. **Claire, consider this a grand gesture of my love** — 克莱尔，把这当作我对你爱的盛大表示。（Use for gift or surprise party. Replace with her name or Honey）
+2. **Buckle your seat belt, lady. You're being wooed** — 系好安全带，女士。我在追你。（Playful for anniversary date night）
+3. **I love your smile. I love your strength. I love our life together** — 我爱你的笑容。我爱你的坚强。我爱我们一起的生活。（Enriched repetition for 10 years）
+4. **Happy 10th anniversary, gorgeous. You still look as gorgeous as ever** — 十周年快乐，美女。你还是那么光彩照人
+5. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+

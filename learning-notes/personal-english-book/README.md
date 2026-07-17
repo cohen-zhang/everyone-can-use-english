@@ -19,6 +19,12 @@ cssclasses:
 
 ---
 
+## 朗读顺序建议
+
+每篇正文末尾均有 **「朗读串联记忆 · Read-aloud chain」**：先读 **A. 分句场景链**，逐句核对简中；再读 **B. 一段串联**，练习连贯表达；最后用 **C. 一分钟复盘** 脱稿回忆。居家词表可和 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/各房间场景短文|各房间场景短文]] 配对：词表练词，短文练连续叙述。
+
+---
+
 ## life — 生活
 
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年场景英语]] — 纪念日、情话与长期关系表达
@@ -29,6 +35,8 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]] — 身体部位/内脏/症状词汇分类复习
 - [[learning-notes/personal-english-book/life/body-part-stories.md|Body Part 主题故事集]] — 按分类词表生成的主题故事（英 + 简中）
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
+- [[learning-notes/personal-english-book/life/家乡.md|家乡 · 湖北黄冈黄梅]] — ~2 分钟英文家乡介绍（黄梅戏、五祖寺、鄂东）
+- [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]] — 预订入住、客房、泳池、酒店游乐场 / Kids Club、中英短文
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
 - [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
@@ -46,7 +54,7 @@ cssclasses:
 
 **亲子玩法：** 各房间物品可按「分篮归类」练 — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#3-房间与居家区域--rooms--home|分类归类游戏 · 房间与居家]]。
 
-- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/整合.md|各房间场景短文（生活 / 工作 / 学习 · 约 2 分钟/篇）]] — 汇总 8 个房间跟读短文，与下列词表相向互链
+- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/各房间场景短文.md|各房间场景短文（生活 / 工作 / 学习 · 约 2 分钟/篇）]] — 汇总 8 个房间跟读短文，与下列词表相向互链
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/living-room-common-items-en.md|客厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/dining-room-common-items-en.md|餐厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kitchen-common-items-en.md|厨房常见物品]]

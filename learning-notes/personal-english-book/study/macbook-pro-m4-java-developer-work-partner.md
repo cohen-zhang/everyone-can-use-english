@@ -51,3 +51,30 @@ aliases:
 ---
 
 *Specs on file: Apple MacBook Pro · Apple M4 · 14" · 24 GB — for English practice and B-roll keywords alongside [[learning-notes/personal-english-book/study/java-developer-work-diary.md|the Java diary]].*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **This is my work laptop — a MacBook Pro** — 这是我的工作笔记本——一台 MacBook Pro
+- **I write Java code on it, like instructions for the computer** — 我在上面写 Java 代码，就像给电脑的指令
+- **I use it to run tests and read logs** — 我用它跑测试、看日志
+
+### B. 一段串联（连续口语）
+
+**This is my work laptop — a MacBook Pro. I write Java code on it, like instructions for the computer. I use it to run tests and read logs.**
+
+**简中：** 这是我的工作笔记本——一台 MacBook Pro。我在上面写 Java 代码，就像给电脑的指令。我用它跑测试、看日志。
+
+### C. 一分钟复盘（5 句）
+
+1. **This is my work laptop — a MacBook Pro** — 这是我的工作笔记本——一台 MacBook Pro
+2. **I write Java code on it, like instructions for the computer** — 我在上面写 Java 代码，就像给电脑的指令
+3. **I use it to run tests and read logs** — 我用它跑测试、看日志
+4. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+5. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+

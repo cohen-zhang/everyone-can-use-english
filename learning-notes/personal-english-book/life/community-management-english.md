@@ -292,3 +292,28 @@ Thoughtful service, genuine companionship.[玫瑰]
 Wishing all my loved ones sweet dreams tonight.[月亮][月亮][月亮]
 
 *原稿英译 “Seats 2E / Phase 4 of Building 2” 易误解；此处按「四期 / 座」改为 **Phase IV, Tower 2D & 2E**。*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **☂ During lightning, switch off appliances to reduce surge damage** — ☂ Limit non-essential trips; slow down in rain; do not drive through deep water; keep a safe following distance. Your safety is our priority.[爱心]
+
+### B. 一段串联（连续口语）
+
+**☂ During lightning, switch off appliances to reduce surge damage.**
+
+**简中：** ☂ Limit non-essential trips; slow down in rain; do not drive through deep water; keep a safe following distance. Your safety is our priority.[爱心]。
+
+### C. 一分钟复盘（5 句）
+
+1. **☂ During lightning, switch off appliances to reduce surge damage** — ☂ Limit non-essential trips; slow down in rain; do not drive through deep water; keep a safe following distance. Your safety is our priority.[爱心]
+2. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+3. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+4. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+5. **Short, repeated practice helps the words stay with me.** — 简短而重复的练习能让单词留在记忆里。
+

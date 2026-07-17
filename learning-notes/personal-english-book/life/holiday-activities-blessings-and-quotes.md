@@ -171,3 +171,33 @@ aliases:
 ---
 
 *给 阿泽（泽哥）自用与家庭场景英文积累；名言区可按节日逐年增补。*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Wishing you peace and joy this season** — 愿你这个季节平安喜乐
+- **Cheers to health and happiness in the new year** — 为新年健康幸福干杯
+- **Happy Mother's Day. Thank you for everything you do** — 母亲节快乐，谢谢你做的一切
+- **Happy Lunar New Year! Wishing you prosperity and good health** — 春节快乐，恭喜发财、身体健康。（口头上 *Kung Hei Fat Choi* 为粤语「恭喜发财」音译，对不懂中文的听者可改用上面这句英文。）
+- **Happy Valentine's Day. I love you** — 情人节快乐，我爱你
+- **Happy anniversary. Here's to many more years together** — 纪念日快乐，愿我们还有许许多多年
+
+### B. 一段串联（连续口语）
+
+**Wishing you peace and joy this season. Cheers to health and happiness in the new year. Happy Mother's Day. Thank you for everything you do. Happy Lunar New Year! Wishing you prosperity and good health. Happy Valentine's Day. I love you. Happy anniversary. Here's to many more years together.**
+
+**简中：** 愿你这个季节平安喜乐。为新年健康幸福干杯。母亲节快乐，谢谢你做的一切。春节快乐，恭喜发财、身体健康。（口头上 *Kung Hei Fat Choi* 为粤语「恭喜发财」音译，对不懂中文的听者可改用上面这句英文。）。情人节快乐，我爱你。纪念日快乐，愿我们还有许许多多年。
+
+### C. 一分钟复盘（5 句）
+
+1. **Wishing you peace and joy this season** — 愿你这个季节平安喜乐
+2. **Cheers to health and happiness in the new year** — 为新年健康幸福干杯
+3. **Happy Mother's Day. Thank you for everything you do** — 母亲节快乐，谢谢你做的一切
+4. **Happy Lunar New Year! Wishing you prosperity and good health** — 春节快乐，恭喜发财、身体健康。（口头上 *Kung Hei Fat Choi* 为粤语「恭喜发财」音译，对不懂中文的听者可改用上面这句英文。）
+5. **Happy Valentine's Day. I love you** — 情人节快乐，我爱你
+

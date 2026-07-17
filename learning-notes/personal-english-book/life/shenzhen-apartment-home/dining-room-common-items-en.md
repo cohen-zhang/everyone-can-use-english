@@ -119,3 +119,33 @@ aliases:
 ---
 
 词汇表共 **26** 条（含吊扇、落地扇）；上文「场景句子」三节为整句跟读练习，不计入词条数。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Our dining area catches soft light from the kitchen window every evening** — 傍晚厨房窗的光线刚好落到就餐区
+- **A warm pendant light centers exactly above the table’s longest edge** — 暖光吊灯正对餐桌最长那条中线
+- **The hot casserole sits on a cork trivet in the table center** — 滚烫炖锅垫软木隔热垫摆在餐桌正中
+- **Turn on the pendant light and switch the ceiling fan to low—it’s sticky tonight** — 米饭冒热气了——从餐边柜抽屉拿公勺
+- **Let’s clear the plates and stack them carefully by the sink** — 咱们收盘子，在水槽边小心摞好
+- **Shared serving spoons reduce chopsticks dipping into communal dishes—a polite habit worth naming in English** — 热锅端上桌时隔热垫能保住实木桌面
+
+### B. 一段串联（连续口语）
+
+**Our dining area catches soft light from the kitchen window every evening. A warm pendant light centers exactly above the table’s longest edge. The hot casserole sits on a cork trivet in the table center. Turn on the pendant light and switch the ceiling fan to low—it’s sticky tonight. Let’s clear the plates and stack them carefully by the sink. Shared serving spoons reduce chopsticks dipping into communal dishes—a polite habit worth naming in English.**
+
+**简中：** 傍晚厨房窗的光线刚好落到就餐区。暖光吊灯正对餐桌最长那条中线。滚烫炖锅垫软木隔热垫摆在餐桌正中。米饭冒热气了——从餐边柜抽屉拿公勺。咱们收盘子，在水槽边小心摞好。热锅端上桌时隔热垫能保住实木桌面。
+
+### C. 一分钟复盘（5 句）
+
+1. **Our dining area catches soft light from the kitchen window every evening** — 傍晚厨房窗的光线刚好落到就餐区
+2. **A warm pendant light centers exactly above the table’s longest edge** — 暖光吊灯正对餐桌最长那条中线
+3. **The hot casserole sits on a cork trivet in the table center** — 滚烫炖锅垫软木隔热垫摆在餐桌正中
+4. **Turn on the pendant light and switch the ceiling fan to low—it’s sticky tonight** — 米饭冒热气了——从餐边柜抽屉拿公勺
+5. **Let’s clear the plates and stack them carefully by the sink** — 咱们收盘子，在水槽边小心摞好
+

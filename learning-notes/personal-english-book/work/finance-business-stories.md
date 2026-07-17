@@ -622,3 +622,32 @@ A **buck** is slang for one dollar. — **Buck** 是一美元的俚语.
 - 系统问题分析：[[learning-notes/personal-english-book/work/financial-system-issue-analysis|金融系统问题梳理]]
 - 投资者场景：[[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 故事化复习后练个人投资者跟读句
 - 加密交易场景：[[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — B 节 crypto/perpetual 词汇 ↔ App 实操句
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+- **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+- **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+- **Short, repeated practice helps the words stay with me.** — 简短而重复的练习能让单词留在记忆里。
+- **I use one new phrase in a real conversation today.** — 我今天在真实对话中使用一个新短语。
+
+### B. 一段串联（连续口语）
+
+**I review the key words and ideas in this note. I read the examples aloud, then say them again from memory. I connect one useful phrase to a real situation today. Short, repeated practice helps the words stay with me. I use one new phrase in a real conversation today.**
+
+**简中：** 我复习本篇的核心单词和要点。我先朗读例句，再脱稿复述一遍。我把一个实用短语连到今天的真实场景里。简短而重复的练习能让单词留在记忆里。我今天在真实对话中使用一个新短语。
+
+### C. 一分钟复盘（5 句）
+
+1. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+2. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+3. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+4. **Short, repeated practice helps the words stay with me.** — 简短而重复的练习能让单词留在记忆里。
+5. **I use one new phrase in a real conversation today.** — 我今天在真实对话中使用一个新短语。
+

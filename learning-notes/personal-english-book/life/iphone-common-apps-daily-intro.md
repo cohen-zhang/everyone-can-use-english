@@ -157,5 +157,34 @@ aliases:
 示例：
 - **I used Reminders to plan my day.** — 我用提醒事项安排了今天。  
 - **I checked off three tasks before lunch.** — 午饭前我完成了三个任务。  
-- **This app keeps me focused and less stressed.** — 这个应用让我更专注、压力更小。  
+- **This app keeps me focused and less stressed.** — 这个应用让我更专注、压力更小。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **The Phone app is where I make and receive calls** — Phone 应用是我拨打和接听电话的地方
+- **I tap to focus before I take a photo** — 拍照前我会先点一下对焦
+- **I set two alerts so I won’t miss important events** — 我会设两个提醒，避免错过重要安排
+- **I check whether data comes from my watch or phone** — 我会确认数据来自手表还是手机
+- **I save useful pages as bookmarks for study** — 我会把有用页面加书签做学习资料
+- **This app keeps me focused and less stressed** — 这个应用让我更专注、压力更小
+
+### B. 一段串联（连续口语）
+
+**The Phone app is where I make and receive calls. I tap to focus before I take a photo. I set two alerts so I won’t miss important events. I check whether data comes from my watch or phone. I save useful pages as bookmarks for study. This app keeps me focused and less stressed.**
+
+**简中：** Phone 应用是我拨打和接听电话的地方。拍照前我会先点一下对焦。我会设两个提醒，避免错过重要安排。我会确认数据来自手表还是手机。我会把有用页面加书签做学习资料。这个应用让我更专注、压力更小。
+
+### C. 一分钟复盘（5 句）
+
+1. **The Phone app is where I make and receive calls** — Phone 应用是我拨打和接听电话的地方
+2. **I tap to focus before I take a photo** — 拍照前我会先点一下对焦
+3. **I set two alerts so I won’t miss important events** — 我会设两个提醒，避免错过重要安排
+4. **I check whether data comes from my watch or phone** — 我会确认数据来自手表还是手机
+5. **I save useful pages as bookmarks for study** — 我会把有用页面加书签做学习资料
 

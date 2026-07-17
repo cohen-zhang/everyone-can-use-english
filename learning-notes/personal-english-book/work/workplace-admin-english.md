@@ -38,3 +38,29 @@ Dear colleagues, please remember to turn off small electrical appliances at your
 各位辛苦了，明天顺利
 
 Everyone has worked hard, wishing you a smooth day tomorrow.
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **It's almost time to start work, please punch in promptly!** — 即将到上班时间，请及时打卡呦！
+- **Whose lunch box is in the pantry? Please put it away. If left for too long, the cleaning staff will dispose of it** — 茶水间谁的饭盒，请自己收好哦，放久了阿姨会处理掉的
+
+### B. 一段串联（连续口语）
+
+**It's almost time to start work, please punch in promptly!. Whose lunch box is in the pantry? Please put it away. If left for too long, the cleaning staff will dispose of it.**
+
+**简中：** 即将到上班时间，请及时打卡呦！。茶水间谁的饭盒，请自己收好哦，放久了阿姨会处理掉的。
+
+### C. 一分钟复盘（5 句）
+
+1. **It's almost time to start work, please punch in promptly!** — 即将到上班时间，请及时打卡呦！
+2. **Whose lunch box is in the pantry? Please put it away. If left for too long, the cleaning staff will dispose of it** — 茶水间谁的饭盒，请自己收好哦，放久了阿姨会处理掉的
+3. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+4. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+5. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+

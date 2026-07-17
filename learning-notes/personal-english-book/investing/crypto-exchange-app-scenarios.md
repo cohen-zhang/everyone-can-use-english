@@ -478,3 +478,32 @@ aliases:
 - **Grid** — 区间、网格数、等差/等比、突破暂停。 — 震荡市工具，别当万能策略。
 - **Options** — 看涨/看跌、行权价、权利金、到期。 — 买方风险有限，时间损耗要算清。
 - **Square** — 看观点、辨噪音、勿泄露密钥、举报诈骗。 — 社区是信息源，不是喊单群。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 2 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按交易流程朗读）
+
+- **I finished KYC so I can deposit and withdraw.** — 我完成了身份认证，可以充提币了。
+- **Pick the right network and double-check the deposit address.** — 选对链，并再次核对充币地址。
+- **I'm trading the BTC/USDT pair on spot.** — 我在现货交易 BTC/USDT 交易对。
+- **I'll buy with USDT — market order for a quick fill.** — 我用 USDT 买入，市价单快速成交。
+- **Set a stop-loss before you open a long.** — 开多之前先设止损。
+- **Keep some cash on hand and never share verification codes.** — 留出一部分现金，也绝不泄露验证码。
+
+### B. 一段串联（连续口语）
+
+**I finish KYC before I move any money. Then I pick the right network and double-check the deposit address. When the USDT arrives, I open the BTC/USDT spot pair. I use a market order only when I need a quick fill. For a planned trade, I set a limit price and a stop-loss first. I keep my position small, leave some cash on hand, and never share my API keys or verification codes.**
+
+**简中：** 我先完成身份认证，再转入资金。接着选对链，并再次核对充币地址。USDT 到账后，我打开 BTC/USDT 现货交易对。只有需要快速成交时，我才用市价单。计划好的交易，我会先设限价和止损。我保持小仓位，留出部分现金，也绝不泄露 API 密钥或验证码。
+
+### C. 一分钟复盘（5 句）
+
+1. **Pick the right network before you send.** — 转账前先选对链。
+2. **Double-check every address and memo.** — 再三核对每个地址和 memo。
+3. **Market orders fill fast; limit orders control price.** — 市价单成交快；限价单控制价格。
+4. **A stop-loss belongs in the plan before the trade.** — 止损要在交易前就写进计划。
+5. **Security comes before convenience.** — 安全优先于方便。

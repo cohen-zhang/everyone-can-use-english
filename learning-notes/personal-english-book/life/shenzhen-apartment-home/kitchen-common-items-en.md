@@ -178,3 +178,33 @@ aliases:
 ---
 
 **分区统计：** 冰箱区 **12** 条（另附场景句 5 句）；**储物区 15** 条；备菜区 **10** 条；调料区 **17** 条；煮饭炒菜区 **17** 条；洗菜洗碗区 **9** 条。**合计词条 80**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **The tall refrigerator fits the niche beside the pantry cabinet** — 高冰箱嵌在餐边柜旁的凹槽里
+- **Wet bags rest on the tiered produce rack until veggies dry before the fridge** — 买菜回来的湿袋子先搁分层置物架沥干再进冰箱
+- **A wall-mounted spice rack frees counter space beside the gas hob** — 灶台旁墙面调料架省出台面
+- **Our open kitchen talks directly with the living room in one sight line** — 开放式厨房与客厅一条视线连通
+- **The single large sink fits tall pots after cooking** — 大单槽洗完炒菜的大锅很方便
+- **Strong exhaust matters for wok cooking; check ducting when you buy** — 装修后加装净水器 + 即热龙头在深圳很常见
+
+### B. 一段串联（连续口语）
+
+**The tall refrigerator fits the niche beside the pantry cabinet. Wet bags rest on the tiered produce rack until veggies dry before the fridge. A wall-mounted spice rack frees counter space beside the gas hob. Our open kitchen talks directly with the living room in one sight line. The single large sink fits tall pots after cooking. Strong exhaust matters for wok cooking; check ducting when you buy.**
+
+**简中：** 高冰箱嵌在餐边柜旁的凹槽里。买菜回来的湿袋子先搁分层置物架沥干再进冰箱。灶台旁墙面调料架省出台面。开放式厨房与客厅一条视线连通。大单槽洗完炒菜的大锅很方便。装修后加装净水器 + 即热龙头在深圳很常见。
+
+### C. 一分钟复盘（5 句）
+
+1. **The tall refrigerator fits the niche beside the pantry cabinet** — 高冰箱嵌在餐边柜旁的凹槽里
+2. **Wet bags rest on the tiered produce rack until veggies dry before the fridge** — 买菜回来的湿袋子先搁分层置物架沥干再进冰箱
+3. **A wall-mounted spice rack frees counter space beside the gas hob** — 灶台旁墙面调料架省出台面
+4. **Our open kitchen talks directly with the living room in one sight line** — 开放式厨房与客厅一条视线连通
+5. **The single large sink fits tall pots after cooking** — 大单槽洗完炒菜的大锅很方便
+

@@ -529,3 +529,33 @@ grep "bug" myfile.txt
 | pipe / stream | `io.demo.byteflow.StreamCopyExample` |
 
 **Vocabulary hub:** https://github.com/zhangze2/awesome-demo/blob/master/docs/english/vocab-java-core.md（各模块见 `VOCAB.md`）
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Create, Read, Update, Delete** — 数据库四大操作，像" crude（粗糙）"但很有用
+- **Self-Contained Underwater Breathing Apparatus** — 水肺潜水，不是计算机术语但大家都以为是
+- **"Change Directory — jump to another folder"** — 跳转到另一个文件夹
+- **"Touch — poke the file, create if not exist"** — 戳一下文件，不存在就创建
+- **"Secure Shell — tunnel into another computer"** — 安全隧道进入另一台电脑
+- **grep "bug" myfile.txt** — # 5. 搜索关键词（grep）
+
+### B. 一段串联（连续口语）
+
+**Create, Read, Update, Delete. Self-Contained Underwater Breathing Apparatus. "Change Directory — jump to another folder". "Touch — poke the file, create if not exist". "Secure Shell — tunnel into another computer". grep "bug" myfile.txt.**
+
+**简中：** 数据库四大操作，像" crude（粗糙）"但很有用。水肺潜水，不是计算机术语但大家都以为是。跳转到另一个文件夹。戳一下文件，不存在就创建。安全隧道进入另一台电脑。# 5. 搜索关键词（grep）。
+
+### C. 一分钟复盘（5 句）
+
+1. **Create, Read, Update, Delete** — 数据库四大操作，像" crude（粗糙）"但很有用
+2. **Self-Contained Underwater Breathing Apparatus** — 水肺潜水，不是计算机术语但大家都以为是
+3. **"Change Directory — jump to another folder"** — 跳转到另一个文件夹
+4. **"Touch — poke the file, create if not exist"** — 戳一下文件，不存在就创建
+5. **"Secure Shell — tunnel into another computer"** — 安全隧道进入另一台电脑
+

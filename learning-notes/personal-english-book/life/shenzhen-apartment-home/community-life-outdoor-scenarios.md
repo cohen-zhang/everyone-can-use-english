@@ -281,3 +281,33 @@ aliases:
 ---
 
 **分区统计：** 出门准备 8；电梯厅 9；大堂 Lobby 9；小区花园 11；游乐场 15；与小伙伴游戏 13；游泳池 16；取快递 12；丢垃圾 9；河边散步跑步 17；回家进门 6；练嘴短语 12。上表「小贴士」不计入。**合计词条 137**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Celine, grab your water bottle before we head to the playground** — Celine，去游乐场前先把水壶带上
+- **Residents circle the jogging track every morning** — 住户每天早上绕慢跑道跑步
+- **Share your sand toys with your friends** — 和朋友分享你的沙滩玩具
+- **Enter the 6-digit pickup code on the touchscreen** — 在触摸屏上输入六位取件码
+- **Walk slowly to cool down after your run** — 跑完后慢走放松
+- **Community playgrounds get crowded after school at 4:30 PM; mornings are quieter for toddlers** — 社区游乐场下午四点半放学后最拥挤；上午对小龄儿童更安静
+
+### B. 一段串联（连续口语）
+
+**Celine, grab your water bottle before we head to the playground. Residents circle the jogging track every morning. Share your sand toys with your friends. Enter the 6-digit pickup code on the touchscreen. Walk slowly to cool down after your run. Community playgrounds get crowded after school at 4:30 PM; mornings are quieter for toddlers.**
+
+**简中：** Celine，去游乐场前先把水壶带上。住户每天早上绕慢跑道跑步。和朋友分享你的沙滩玩具。在触摸屏上输入六位取件码。跑完后慢走放松。社区游乐场下午四点半放学后最拥挤；上午对小龄儿童更安静。
+
+### C. 一分钟复盘（5 句）
+
+1. **Celine, grab your water bottle before we head to the playground** — Celine，去游乐场前先把水壶带上
+2. **Residents circle the jogging track every morning** — 住户每天早上绕慢跑道跑步
+3. **Share your sand toys with your friends** — 和朋友分享你的沙滩玩具
+4. **Enter the 6-digit pickup code on the touchscreen** — 在触摸屏上输入六位取件码
+5. **Walk slowly to cool down after your run** — 跑完后慢走放松
+

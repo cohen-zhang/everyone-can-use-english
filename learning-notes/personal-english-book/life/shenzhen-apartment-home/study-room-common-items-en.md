@@ -196,3 +196,33 @@ aliases:
 ---
 
 **分区统计：** 房间整体 **7** 条；书桌座椅 **8** 条；电脑外设 **14** 条；线缆供电 **6** 条；书架文件 **9** 条；会议专注 **6** 条；桌面杂物 **10** 条；照明空气 **7** 条；亲子规则 **4** 条；练嘴短句 **1** 节（**6** 句，不计词条）。**合计词条 71**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Knock before you enter the study room when Daddy’s on a client call** — 爸爸跟客户开会时进书房前先敲门
+- **The ultrawide monitor splits IDE and docs without alt-tabbing** — 超宽屏一边 IDE 一边文档少切窗口
+- **A desktop cable organizer hides HDMI and USB-C pigtails** — 桌面理线盒藏住 HDMI 和 USB-C 小尾巴
+- **A closed glass door signals deep work until the timer dings** — 关上玻璃门表示深度工作中，计时器响再打扰
+- **The AC remote lives in the pen holder so neither kid hides it** — 空调遥控器放笔筒里免得娃藏去玩
+- **Label two height presets on the sit-stand desk so family members don’t fight the motor at rush hour** — 书房关门开空调很快发干；加湿器配合短时开窗换气
+
+### B. 一段串联（连续口语）
+
+**Knock before you enter the study room when Daddy’s on a client call. The ultrawide monitor splits IDE and docs without alt-tabbing. A desktop cable organizer hides HDMI and USB-C pigtails. A closed glass door signals deep work until the timer dings. The AC remote lives in the pen holder so neither kid hides it. Label two height presets on the sit-stand desk so family members don’t fight the motor at rush hour.**
+
+**简中：** 爸爸跟客户开会时进书房前先敲门。超宽屏一边 IDE 一边文档少切窗口。桌面理线盒藏住 HDMI 和 USB-C 小尾巴。关上玻璃门表示深度工作中，计时器响再打扰。空调遥控器放笔筒里免得娃藏去玩。书房关门开空调很快发干；加湿器配合短时开窗换气。
+
+### C. 一分钟复盘（5 句）
+
+1. **Knock before you enter the study room when Daddy’s on a client call** — 爸爸跟客户开会时进书房前先敲门
+2. **The ultrawide monitor splits IDE and docs without alt-tabbing** — 超宽屏一边 IDE 一边文档少切窗口
+3. **A desktop cable organizer hides HDMI and USB-C pigtails** — 桌面理线盒藏住 HDMI 和 USB-C 小尾巴
+4. **A closed glass door signals deep work until the timer dings** — 关上玻璃门表示深度工作中，计时器响再打扰
+5. **The AC remote lives in the pen holder so neither kid hides it** — 空调遥控器放笔筒里免得娃藏去玩
+

@@ -156,3 +156,33 @@ aliases:
 - **P/L** — 成本、浮盈、实亏、仓位比例。 — 用仓位管理保护本金。
 - **Market** — 牛熊、反弹、回调、突破、暴跌。 — 有词才能跟行情对话。
 - **Discipline** — 分散、风险承受、不追涨、留现金。 — 纪律比灵感更赚钱。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I opened a brokerage account last month** — 我上个月开了证券账户
+- **I'll sell half my position if it hits my target** — 到目标价我就卖出一半仓位
+- **The spread is pretty wide on this small cap** — 这只小盘股买卖价差挺大
+- **I'm up twelve percent on paper — unrealized gain** — 账面浮盈 12%，还没兑现
+- **That headline triggered a flash crash in minutes** — 那条新闻几分钟内引发闪崩
+- **A dividend stock helps me stay patient** — 股息股能让我更有耐心拿住
+
+### B. 一段串联（连续口语）
+
+**I opened a brokerage account last month. I'll sell half my position if it hits my target. The spread is pretty wide on this small cap. I'm up twelve percent on paper — unrealized gain. That headline triggered a flash crash in minutes. A dividend stock helps me stay patient.**
+
+**简中：** 我上个月开了证券账户。到目标价我就卖出一半仓位。这只小盘股买卖价差挺大。账面浮盈 12%，还没兑现。那条新闻几分钟内引发闪崩。股息股能让我更有耐心拿住。
+
+### C. 一分钟复盘（5 句）
+
+1. **I opened a brokerage account last month** — 我上个月开了证券账户
+2. **I'll sell half my position if it hits my target** — 到目标价我就卖出一半仓位
+3. **The spread is pretty wide on this small cap** — 这只小盘股买卖价差挺大
+4. **I'm up twelve percent on paper — unrealized gain** — 账面浮盈 12%，还没兑现
+5. **That headline triggered a flash crash in minutes** — 那条新闻几分钟内引发闪崩
+

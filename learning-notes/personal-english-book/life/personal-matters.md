@@ -171,3 +171,33 @@ aliases:
 | 工作交接 | 安排了同事关注 | Have arranged a colleague to monitor |
 | 跟进问题 | 持续跟进客户方问题 | Continuously follow up on the client issues |
 | 参与评审 | 参与需求内审评审 | Participated in the internal audit review of requirements |
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Continuously follow up on the alignment work of testing issues for version 121 of the client hedging desk** — 持续跟进客户方hedging desk 121 版本测试问题对齐工作
+- **Participated in the in-group work group discussion to confirm the subsequent work arrangements** — 参与组内工作分组讨论，确认后续工作安排
+- **Active collaborators today: 9 people** — 今日活跃协作者: 9 人
+- **Maintain the collaborator list and working memory** — 维护协作者列表和工作记忆
+- **> Dear colleagues, I will be on leave for one day on April 3. Please contact me by phone for urgent matters** — > 各位同事，本人 4 月 3 日请假一天，急事电话联系
+- **> Dear colleagues, I will be on leave for 2 days from April 9th to 10th. Please contact me by phone for urgent matters** — > 各位同事，本人 4 月 9 日至 10 日请假 2 天，急事电话联系
+
+### B. 一段串联（连续口语）
+
+**Continuously follow up on the alignment work of testing issues for version 121 of the client hedging desk. Participated in the in-group work group discussion to confirm the subsequent work arrangements. Active collaborators today: 9 people. Maintain the collaborator list and working memory. > Dear colleagues, I will be on leave for one day on April 3. Please contact me by phone for urgent matters. > Dear colleagues, I will be on leave for 2 days from April 9th to 10th. Please contact me by phone for urgent matters.**
+
+**简中：** 持续跟进客户方hedging desk 121 版本测试问题对齐工作。参与组内工作分组讨论，确认后续工作安排。今日活跃协作者: 9 人。维护协作者列表和工作记忆。> 各位同事，本人 4 月 3 日请假一天，急事电话联系。> 各位同事，本人 4 月 9 日至 10 日请假 2 天，急事电话联系。
+
+### C. 一分钟复盘（5 句）
+
+1. **Continuously follow up on the alignment work of testing issues for version 121 of the client hedging desk** — 持续跟进客户方hedging desk 121 版本测试问题对齐工作
+2. **Participated in the in-group work group discussion to confirm the subsequent work arrangements** — 参与组内工作分组讨论，确认后续工作安排
+3. **Active collaborators today: 9 people** — 今日活跃协作者: 9 人
+4. **Maintain the collaborator list and working memory** — 维护协作者列表和工作记忆
+5. **> Dear colleagues, I will be on leave for one day on April 3. Please contact me by phone for urgent matters** — > 各位同事，本人 4 月 3 日请假一天，急事电话联系
+

@@ -55,3 +55,28 @@ I always sit and stand properly, because if I slouch or sit crookedly, I’ll lo
 
 
 我是每天起床都要锻炼 3 分钟的人
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **> "The words you speak become the house you live in."** — > — 你说出的话，会成为你居住的房子
+
+### B. 一段串联（连续口语）
+
+**> "The words you speak become the house you live in.".**
+
+**简中：** > — 你说出的话，会成为你居住的房子。
+
+### C. 一分钟复盘（5 句）
+
+1. **> "The words you speak become the house you live in."** — > — 你说出的话，会成为你居住的房子
+2. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+3. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+4. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+5. **Short, repeated practice helps the words stay with me.** — 简短而重复的练习能让单词留在记忆里。
+

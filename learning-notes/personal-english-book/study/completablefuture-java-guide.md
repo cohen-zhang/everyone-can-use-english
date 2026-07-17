@@ -272,3 +272,33 @@ CompletableFuture.supplyAsync(() -> longRunningTask())
 **English README:** https://github.com/zhangze2/awesome-demo/blob/master/concurrency/README.en.md
 
 **Tags**: `技术`, `Java`, `异步编程`, `并发`
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Related: Future, ExecutorService, Stream API** — 相关：Future、ExecutorService、Stream API
+- **System.out.println("Processing complete");** — thenRunAsync(() -> {                 // Run final action — 执行最终操作
+- **CompletableFuture<String> future1 = CompletableFuture.supplyAsync(() -> "Hello");** — // Combine two futures — 组合两个 Future
+- **CompletableFuture<User> userFuture = getUserAsync(userId);** — // Make multiple API calls in parallel — 并行发起多个 API 调用
+- **Recommendations recs = recsFuture.join();** — // Process combined data — 处理组合数据
+- **Guide to CompletableFuture in Baeldung** — Related: Future, ExecutorService, Stream API — 相关：Future、ExecutorService、Stream API
+
+### B. 一段串联（连续口语）
+
+**Related: Future, ExecutorService, Stream API. System.out.println("Processing complete");. CompletableFuture<String> future1 = CompletableFuture.supplyAsync(() -> "Hello");. CompletableFuture<User> userFuture = getUserAsync(userId);. Recommendations recs = recsFuture.join();. Guide to CompletableFuture in Baeldung.**
+
+**简中：** 相关：Future、ExecutorService、Stream API。thenRunAsync(() -> {                 // Run final action — 执行最终操作。// Combine two futures — 组合两个 Future。// Make multiple API calls in parallel — 并行发起多个 API 调用。// Process combined data — 处理组合数据。Related: Future, ExecutorService, Stream API — 相关：Future、ExecutorService、Stream API。
+
+### C. 一分钟复盘（5 句）
+
+1. **Related: Future, ExecutorService, Stream API** — 相关：Future、ExecutorService、Stream API
+2. **System.out.println("Processing complete");** — thenRunAsync(() -> {                 // Run final action — 执行最终操作
+3. **CompletableFuture<String> future1 = CompletableFuture.supplyAsync(() -> "Hello");** — // Combine two futures — 组合两个 Future
+4. **CompletableFuture<User> userFuture = getUserAsync(userId);** — // Make multiple API calls in parallel — 并行发起多个 API 调用
+5. **Recommendations recs = recsFuture.join();** — // Process combined data — 处理组合数据
+

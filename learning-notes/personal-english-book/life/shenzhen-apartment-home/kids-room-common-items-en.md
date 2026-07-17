@@ -268,3 +268,33 @@ I sleep with them at night.
 ---
 
 **分区统计：** 房间整体 **2** 条；睡眠床架 **6** 条（含榻榻米与床下抽屉）；床上用品 **11** 条；衣柜 **5** 条；学习桌面 **24** 条；玩乐 **5** 条；起居与环境 **11** 条（含 clock / timer / stopwatch）；**照明与温控 8** 条；**练习句型 1** 节（三组句型 + 示例）；**Clock·Alarm·Timer·Stopwatch 场景辨析 1** 节。**合计词条 72**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **What’s in the bedroom?** — 卧室里有什么？
+- **A bunk bed, a bookshelf, and a desk lamp** — 一张双层床、一个书架和一盏台灯
+- **There’s a tatami bed and a toy chest** — 有一张榻榻米床和一个玩具收纳箱
+- **There are two hooks near the door** — 门边有两个挂钩
+- **There’s some space under the loft bed for a study desk** — 高架床下面还有点空可以放书桌
+- **I like having a growth chart on the wall in my kids’ room** — 我喜欢儿童房墙上贴着身高尺
+
+### B. 一段串联（连续口语）
+
+**What’s in the bedroom?. A bunk bed, a bookshelf, and a desk lamp. There’s a tatami bed and a toy chest. There are two hooks near the door. There’s some space under the loft bed for a study desk. I like having a growth chart on the wall in my kids’ room.**
+
+**简中：** 卧室里有什么？。一张双层床、一个书架和一盏台灯。有一张榻榻米床和一个玩具收纳箱。门边有两个挂钩。高架床下面还有点空可以放书桌。我喜欢儿童房墙上贴着身高尺。
+
+### C. 一分钟复盘（5 句）
+
+1. **What’s in the bedroom?** — 卧室里有什么？
+2. **A bunk bed, a bookshelf, and a desk lamp** — 一张双层床、一个书架和一盏台灯
+3. **There’s a tatami bed and a toy chest** — 有一张榻榻米床和一个玩具收纳箱
+4. **There are two hooks near the door** — 门边有两个挂钩
+5. **There’s some space under the loft bed for a study desk** — 高架床下面还有点空可以放书桌
+

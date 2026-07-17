@@ -198,3 +198,31 @@ aliases:
 ---
 
 **分区统计：** 干区 洗漱 **14** 条（含面巾纸／抽纸盒）；浴室柜护肤 **15** 条；如厕 **12** 条（含厕纸卷与纸架）+ **小便／大便说法 11** 条；干区其他 **2** 条（含擦手纸）；湿区淋浴 **8** 条；沐浴用品 **10** 条；共用设施 **5** 条。上表「练嘴」短语**不计入**。**合计词条 77**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 按干区到湿区的动线朗读 · 词汇来自上文*
+
+### A. 分句场景链（按动线朗读）
+
+- **I wash my hands at the washbasin and dry them with a hand towel.** — 我在洗手盆洗手，再用擦手巾擦干。
+- **Toothpaste and skincare tubes hide behind mirror cabinet doors.** — 牙膏和软管护肤品收在镜柜门后。
+- **We’re out of toilet paper, so I refill the toilet paper holder.** — 厕纸用完了，所以我补满厕纸架。
+- **I push open the glass partition and turn on the shower.** — 我推开玻璃隔断，打开淋浴。
+- **Run the ventilation fan after a shower or mirrors fog up.** — 洗澡后开排气扇，否则镜子会起雾。
+
+### B. 一段串联（连续口语）
+
+**I start in the dry zone. I wash my hands at the washbasin, then reach into the mirror cabinet for toothpaste and skincare. Before I shower, I check the toilet paper holder and take a clean towel. Then I push open the glass partition and turn on the shower. When I finish, I clear the floor drain and run the ventilation fan, so the bathroom stays dry and fresh.**
+
+**简中：** 我从干区开始。在洗手盆洗手后，我从镜柜里拿牙膏和护肤品。洗澡前，我检查厕纸架，再拿一条干净毛巾。然后我推开玻璃隔断，打开淋浴。洗完后，我清理地漏并打开排气扇，让卫生间保持干燥清新。
+
+### C. 一分钟复盘（5 句）
+
+1. **The washbasin is in the dry zone.** — 洗手盆在干区。
+2. **Keep toothpaste in the mirror cabinet.** — 把牙膏收在镜柜里。
+3. **Don’t flush wipes — they clog pipes.** — 别冲湿巾，它会堵管子。
+4. **The glass partition separates the wet zone.** — 玻璃隔断分开湿区。
+5. **Run the ventilation fan after a shower.** — 洗澡后开排气扇。

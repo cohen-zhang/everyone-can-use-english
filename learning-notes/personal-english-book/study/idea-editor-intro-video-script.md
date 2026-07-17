@@ -156,3 +156,29 @@ That’s the map — **Settings** when something feels off, **Invalidate Caches*
 
 
 **参考资料（原链）：** CSDN 等 IDEA 英文界面与配置笔记（File 菜单、Editor 配置、Version Control 等）。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Reload All from Disk** — 从磁盘重新加载
+- **Save File as Template** — 文件存为模板
+
+### B. 一段串联（连续口语）
+
+**Reload All from Disk. Save File as Template.**
+
+**简中：** 从磁盘重新加载。文件存为模板。
+
+### C. 一分钟复盘（5 句）
+
+1. **Reload All from Disk** — 从磁盘重新加载
+2. **Save File as Template** — 文件存为模板
+3. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+4. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+5. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+

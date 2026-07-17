@@ -152,3 +152,33 @@ aliases:
 - **Serotonin** — 阳光、运动、吃好、感恩，让情绪底盘更稳。 — 血清素：阳光运动感恩。
 - **Oxytocin** — 拥抱、称赞、朋友、志愿、毛孩子，补满联结感。 — 催产素：亲密与社交。
 - **Endorphins** — 中等运动、笑、瑜伽、一点黑巧或辣，身体自带开心。 — 内啡肽：动一动、笑一笑。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **I'll try something new this week — even a small change counts** — 这周试试新鲜事，哪怕很小也算数
+- **A little sweet treat after dinner is enough — I don't need a lot** — 晚饭后一点甜食就够，不必吃太多
+- **I eat whole foods: veggies, protein, and good fats** — 我吃天然食物：蔬菜、蛋白质和好脂肪
+- **I signed up for a weekend volunteer shift at the community center** — 我报名了周末在社区中心的志愿班次
+- **I'll do twenty minutes of yoga and stretch out my back** — 我练二十分钟瑜伽，把背拉开
+- **Small wins stack up; my brain notices every finished task** — 小胜利会累积，大脑会注意到每一件完成的事
+
+### B. 一段串联（连续口语）
+
+**I'll try something new this week — even a small change counts. A little sweet treat after dinner is enough — I don't need a lot. I eat whole foods: veggies, protein, and good fats. I signed up for a weekend volunteer shift at the community center. I'll do twenty minutes of yoga and stretch out my back. Small wins stack up; my brain notices every finished task.**
+
+**简中：** 这周试试新鲜事，哪怕很小也算数。晚饭后一点甜食就够，不必吃太多。我吃天然食物：蔬菜、蛋白质和好脂肪。我报名了周末在社区中心的志愿班次。我练二十分钟瑜伽，把背拉开。小胜利会累积，大脑会注意到每一件完成的事。
+
+### C. 一分钟复盘（5 句）
+
+1. **I'll try something new this week — even a small change counts** — 这周试试新鲜事，哪怕很小也算数
+2. **A little sweet treat after dinner is enough — I don't need a lot** — 晚饭后一点甜食就够，不必吃太多
+3. **I eat whole foods: veggies, protein, and good fats** — 我吃天然食物：蔬菜、蛋白质和好脂肪
+4. **I signed up for a weekend volunteer shift at the community center** — 我报名了周末在社区中心的志愿班次
+5. **I'll do twenty minutes of yoga and stretch out my back** — 我练二十分钟瑜伽，把背拉开
+

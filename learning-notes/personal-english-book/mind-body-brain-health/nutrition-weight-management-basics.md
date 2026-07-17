@@ -169,3 +169,33 @@ aliases:
 3. **Protein keeps me full; vegetables stretch the meal.** — 蛋白质顶饱，蔬菜把餐盘撑大。
 4. **I aim for balance over weeks, not perfection every meal.** — 我追求几周的整体平衡，不是每一餐都完美。
 5. **My goal is a plan I still own six months from now.** — 我的目标是六个月后仍然是我自己的计划。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Weight change comes down to energy balance over time** — 体重变化，长期来看还是看能量收支
+- **Some fat is essential for hormones and absorbing vitamins A, D, E, and K** — 适量脂肪对激素和维生素 A/D/E/K 吸收是必需的
+- **Fiber slows digestion and helps you feel satisfied** — 纤维放慢消化，更容易有满足感
+- **At a buffet, I walk the veggie line before the carb station** — 吃自助餐时，我先拿蔬菜，再去碳水区
+- **When I travel or eat out, I adapt — I don't quit the whole plan** — 出差或外食时我会调整，但不会因此全盘放弃
+- **My goal is a plan I still own six months from now** — 我的目标是六个月后仍然是我自己的计划
+
+### B. 一段串联（连续口语）
+
+**Weight change comes down to energy balance over time. Some fat is essential for hormones and absorbing vitamins A, D, E, and K. Fiber slows digestion and helps you feel satisfied. At a buffet, I walk the veggie line before the carb station. When I travel or eat out, I adapt — I don't quit the whole plan. My goal is a plan I still own six months from now.**
+
+**简中：** 体重变化，长期来看还是看能量收支。适量脂肪对激素和维生素 A/D/E/K 吸收是必需的。纤维放慢消化，更容易有满足感。吃自助餐时，我先拿蔬菜，再去碳水区。出差或外食时我会调整，但不会因此全盘放弃。我的目标是六个月后仍然是我自己的计划。
+
+### C. 一分钟复盘（5 句）
+
+1. **Weight change comes down to energy balance over time** — 体重变化，长期来看还是看能量收支
+2. **Some fat is essential for hormones and absorbing vitamins A, D, E, and K** — 适量脂肪对激素和维生素 A/D/E/K 吸收是必需的
+3. **Fiber slows digestion and helps you feel satisfied** — 纤维放慢消化，更容易有满足感
+4. **At a buffet, I walk the veggie line before the carb station** — 吃自助餐时，我先拿蔬菜，再去碳水区
+5. **When I travel or eat out, I adapt — I don't quit the whole plan** — 出差或外食时我会调整，但不会因此全盘放弃
+

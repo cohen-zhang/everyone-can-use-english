@@ -21,6 +21,12 @@ cssclasses:
 
 ---
 
+## 朗读顺序建议
+
+每页文末的 **「朗读串联记忆」** 按「账户与研究 → 下单 → 风控」顺序练习。先逐句跟读 A，再连读 B，最后用 C 做一分钟脱稿复盘。
+
+---
+
 ## 投资者场景 · Retail investor
 
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 账户、下单、盘口、盈亏、行情、风控（英 + 简中跟读句）

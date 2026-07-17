@@ -215,3 +215,33 @@ aliases:
 ---
 
 *Compiled for 阿泽 — 银幕里的 love，唱进 KTV 的 love，说出口的都是练习。*
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Winning that ticket, Rose, was the best thing that ever happened to me. It brought me to you** — 赢得那张船票是我一生最美好的事，它把我带到了你身边
+- **One day I will kiss you, and you will like it. And I'm gonna marry you too** — 总有一天我会吻你，你会喜欢的。我还要娶你
+- **Here's looking at you, kid** — 就看你的了，孩子。（经典敬酒/凝视句）
+- **I may not be a smart man, but I know what love is** — 我可能不聪明，但我知道什么是爱
+- **The heart is an organ of fire** — 心是燃烧的火器官
+- **Oscar film love quotes** — 经典电影爱与喜欢台词
+
+### B. 一段串联（连续口语）
+
+**Winning that ticket, Rose, was the best thing that ever happened to me. It brought me to you. One day I will kiss you, and you will like it. And I'm gonna marry you too. Here's looking at you, kid. I may not be a smart man, but I know what love is. The heart is an organ of fire. Oscar film love quotes.**
+
+**简中：** 赢得那张船票是我一生最美好的事，它把我带到了你身边。总有一天我会吻你，你会喜欢的。我还要娶你。就看你的了，孩子。（经典敬酒/凝视句）。我可能不聪明，但我知道什么是爱。心是燃烧的火器官。经典电影爱与喜欢台词。
+
+### C. 一分钟复盘（5 句）
+
+1. **Winning that ticket, Rose, was the best thing that ever happened to me. It brought me to you** — 赢得那张船票是我一生最美好的事，它把我带到了你身边
+2. **One day I will kiss you, and you will like it. And I'm gonna marry you too** — 总有一天我会吻你，你会喜欢的。我还要娶你
+3. **Here's looking at you, kid** — 就看你的了，孩子。（经典敬酒/凝视句）
+4. **I may not be a smart man, but I know what love is** — 我可能不聪明，但我知道什么是爱
+5. **The heart is an organ of fire** — 心是燃烧的火器官
+

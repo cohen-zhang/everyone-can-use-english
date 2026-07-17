@@ -244,3 +244,33 @@ aliases:
 ---
 
 **分区统计：** 玄关 **12**；坐具茶几 **10**；视听游戏 **10**；空调气流 **5**；照明 **4**；窗帘地面 **6**；玩具 **4**；零食 **9**（含抽纸与 baby wipes）；健身 **4**；陈设墙面 **13**；机器人 **2**；空气智能电源 **6**；其它软装边角 **6**。上表「练嘴」短语**不计入**。**合计词条 91**。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Dirty shoes pause on the tiled entryway before slippers land on wood** — 脏鞋先在瓷砖玄关停一下再换木地板拖鞋
+- **The game console sleeps in the TV stand drawer between Saturday sessions** — 周六限定游戏机缩进电视柜抽屉待命
+- **The sheer curtain softens harsh afternoon sun on the play mat** — 纱帘把午后强光柔化在玩具地垫上
+- **Neoprene dumbbells queue beside the planter after ten-minute circuits** — 十分钟循环练完哑铃靠花盆排好别绊脚
+- **Flush-mount the slim charging dock beside the shoe cabinet so entryway traffic never stubs a toe on its rim** — 薄回充座与鞋柜侧边齐平门口人来人往不踢边沿
+- **Need dining vocabulary? Open the dining-room list in this folder** — 全空气中央空调也要注意分区风感；梅雨回南天要换气不要只会猛制冷
+
+### B. 一段串联（连续口语）
+
+**Dirty shoes pause on the tiled entryway before slippers land on wood. The game console sleeps in the TV stand drawer between Saturday sessions. The sheer curtain softens harsh afternoon sun on the play mat. Neoprene dumbbells queue beside the planter after ten-minute circuits. Flush-mount the slim charging dock beside the shoe cabinet so entryway traffic never stubs a toe on its rim. Need dining vocabulary? Open the dining-room list in this folder.**
+
+**简中：** 脏鞋先在瓷砖玄关停一下再换木地板拖鞋。周六限定游戏机缩进电视柜抽屉待命。纱帘把午后强光柔化在玩具地垫上。十分钟循环练完哑铃靠花盆排好别绊脚。薄回充座与鞋柜侧边齐平门口人来人往不踢边沿。全空气中央空调也要注意分区风感；梅雨回南天要换气不要只会猛制冷。
+
+### C. 一分钟复盘（5 句）
+
+1. **Dirty shoes pause on the tiled entryway before slippers land on wood** — 脏鞋先在瓷砖玄关停一下再换木地板拖鞋
+2. **The game console sleeps in the TV stand drawer between Saturday sessions** — 周六限定游戏机缩进电视柜抽屉待命
+3. **The sheer curtain softens harsh afternoon sun on the play mat** — 纱帘把午后强光柔化在玩具地垫上
+4. **Neoprene dumbbells queue beside the planter after ten-minute circuits** — 十分钟循环练完哑铃靠花盆排好别绊脚
+5. **Flush-mount the slim charging dock beside the shoe cabinet so entryway traffic never stubs a toe on its rim** — 薄回充座与鞋柜侧边齐平门口人来人往不踢边沿
+

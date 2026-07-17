@@ -185,3 +185,33 @@ aliases:
 ---
 
 主表共 **30** 条；**阳台绿植**小节词汇 **15** 条，场景句子见上文「阳台绿植日常」；**厨房阳台**小节 **3** 条（含 `service balcony`）。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Our balcony faces southeast and gets gentle morning light** — 阳台朝东南，早晨光线柔和
+- **A ventless dryer fits tight balconies without outdoor ducts** — 无排风管烘干机适合窄阳台
+- **An outdoor tap makes rinsing muddy shoes easy before entering** — 进门前有室外龙头方便冲泥鞋
+- **Blunt pruning shears mash stems—wipe and sharpen them after each balcony trim session** — 修枝剪钝了会压扁枝条，每次在阳台剪完要擦干净顺手磨快
+- **Let’s repot the sunflower—roots are circling the bottom holes already** — 薄肥勤施；叶尖焦了多半是阳台施肥浓度太高
+- **I also check on our plants—jasmine, sunflowers, sweet osmanthus, and succulents** — 我在阳台做俯卧撑，或坐摇椅用 iPad 看电子书
+
+### B. 一段串联（连续口语）
+
+**Our balcony faces southeast and gets gentle morning light. A ventless dryer fits tight balconies without outdoor ducts. An outdoor tap makes rinsing muddy shoes easy before entering. Blunt pruning shears mash stems—wipe and sharpen them after each balcony trim session. Let’s repot the sunflower—roots are circling the bottom holes already. I also check on our plants—jasmine, sunflowers, sweet osmanthus, and succulents.**
+
+**简中：** 阳台朝东南，早晨光线柔和。无排风管烘干机适合窄阳台。进门前有室外龙头方便冲泥鞋。修枝剪钝了会压扁枝条，每次在阳台剪完要擦干净顺手磨快。薄肥勤施；叶尖焦了多半是阳台施肥浓度太高。我在阳台做俯卧撑，或坐摇椅用 iPad 看电子书。
+
+### C. 一分钟复盘（5 句）
+
+1. **Our balcony faces southeast and gets gentle morning light** — 阳台朝东南，早晨光线柔和
+2. **A ventless dryer fits tight balconies without outdoor ducts** — 无排风管烘干机适合窄阳台
+3. **An outdoor tap makes rinsing muddy shoes easy before entering** — 进门前有室外龙头方便冲泥鞋
+4. **Blunt pruning shears mash stems—wipe and sharpen them after each balcony trim session** — 修枝剪钝了会压扁枝条，每次在阳台剪完要擦干净顺手磨快
+5. **Let’s repot the sunflower—roots are circling the bottom holes already** — 薄肥勤施；叶尖焦了多半是阳台施肥浓度太高
+

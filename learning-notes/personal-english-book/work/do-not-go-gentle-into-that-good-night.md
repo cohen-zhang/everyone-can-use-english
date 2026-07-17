@@ -103,3 +103,29 @@ Rage, rage against the dying of the light.
 
 - 重复句 **Rage, rage** 与诗题 **Do not go gentle** 像副歌，朗读时可略放慢、加重。  
 - **good night** 在诗里与死亡意象叠合，不是道晚安的字面「晚安」而已。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Do Not Go Gentle Into That Good Night** — 诗题直译：不要温顺地走进那美好的夜晚；中译书名/标题常作《不要温顺地走进那个良夜》
+- **rage against the dying of the light** — 对「光明正在熄灭」发怒、反抗——常被单独引用作口号或标题
+
+### B. 一段串联（连续口语）
+
+**Do Not Go Gentle Into That Good Night. rage against the dying of the light.**
+
+**简中：** 诗题直译：不要温顺地走进那美好的夜晚；中译书名/标题常作《不要温顺地走进那个良夜》。对「光明正在熄灭」发怒、反抗——常被单独引用作口号或标题。
+
+### C. 一分钟复盘（5 句）
+
+1. **Do Not Go Gentle Into That Good Night** — 诗题直译：不要温顺地走进那美好的夜晚；中译书名/标题常作《不要温顺地走进那个良夜》
+2. **rage against the dying of the light** — 对「光明正在熄灭」发怒、反抗——常被单独引用作口号或标题
+3. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
+4. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
+5. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
+

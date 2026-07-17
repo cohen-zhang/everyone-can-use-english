@@ -189,3 +189,33 @@ aliases:
 **Use playful reduplication for warmth, and use spoken adverbs to show attitude, certainty, or timing.**
 
 — 叠词口语增加亲切和幽默；口语副词负责表达态度、把握和时间感。
+
+---
+
+## 朗读串联记忆 · Read-aloud chain
+
+*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+
+### A. 分句场景链（按正文顺序朗读）
+
+- **Actually, I already tried that** — 其实我已经试过那个了
+- **Honestly, I was a little nervous** — 老实说，我有点紧张
+- **Usually, I review notes in the morning** — 我通常早上复习笔记
+- **Holy moly, that was close** — 天哪，刚才好险
+- **No biggie. Let us fix it step by step** — 小事，我们一步一步修
+- **No hocus-pocus, just logs and patience** — 没什么玄学，就是日志和耐心
+
+### B. 一段串联（连续口语）
+
+**Actually, I already tried that. Honestly, I was a little nervous. Usually, I review notes in the morning. Holy moly, that was close. No biggie. Let us fix it step by step. No hocus-pocus, just logs and patience.**
+
+**简中：** 其实我已经试过那个了。老实说，我有点紧张。我通常早上复习笔记。天哪，刚才好险。小事，我们一步一步修。没什么玄学，就是日志和耐心。
+
+### C. 一分钟复盘（5 句）
+
+1. **Actually, I already tried that** — 其实我已经试过那个了
+2. **Honestly, I was a little nervous** — 老实说，我有点紧张
+3. **Usually, I review notes in the morning** — 我通常早上复习笔记
+4. **Holy moly, that was close** — 天哪，刚才好险
+5. **No biggie. Let us fix it step by step** — 小事，我们一步一步修
+
