@@ -20,7 +20,7 @@ aliases:
 
 **Apple Music：** [Love the Way You Lie (feat. Rihanna)](https://music.apple.com/cn/song/love-the-way-you-lie-feat-rihanna/1440759823)
 
-**索引：** [[learning-notes/english-song/README|英文歌曲索引]]
+**索引：** [[learning-notes/english-song/README|英文歌曲索引]] · [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]（**feat.** / Verse·Chorus）
 
 **相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（愤怒、愧疚、反复拉扯等表达可对照本歌）
 
