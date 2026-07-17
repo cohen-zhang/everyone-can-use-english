@@ -136,6 +136,24 @@
 - **Fight in the sun. It'll be a nice change. - Haley.** — 到太阳底下打。换换口味。——海莉。
 - **Deal with this. - Buddy, uncool.** — 你看着办。——老弟，这样不对。
 
+### H. 领养争执、Lily 登场与 Jay 抱娃
+
+*Claire 误会分手；Mitch 宣布领养；Jay 昵称 Lily；Manny 情歌梗。*
+
+- **You two broke up.** — 你俩分手了吗？
+- **Well- Well, a baby wasn't gonna help that anyway.** — 领养个孩子也挽救不了破裂的婚姻。
+- **We adopted a baby. Her name is Lily.** — 我们领养了一个宝宝，她叫 Lily。
+- **She's one of us now. Let me see the little pot sticker.** — 她是自家人了，让我瞧瞧你这跟屁虫。
+- **Love is what binds us, through fair or stormy weather.** — 爱将我们紧紧相连，共度风风雨雨。
+
+### I. 片尾 · Phil 与 Luke 打篮球
+
+*Phil 让 Luke 帮忙站位；聊到儿子赢球与三局两胜。*
+
+- **Luke, so far, hasn't beaten me in basketball. It's 2-0.** — 至今卢克在篮球上还没赢过我，2 比 0。
+- **Can you do me a favor? Just grab … How's the weather down there?** — 帮个忙好吗？站过去……篮下的滋味如何？
+- **When the day comes that he does win … "Well done. Well done."** — 等他真赢的那天……我会说：干得好。
+- **I'd probably want to go … two out of three and just see what happens there.** — 我可能会说三局两胜才算赢，再来一局什么的。
 
 ---
 
@@ -186,6 +204,11 @@
 | **Just a sec.** | /dʒʌst ə sek/ | 等一下 | 极短拖延 | *Yeah. Just a sec.* | Hang on a second. |
 | **watch it / Watch out!** | /wɑːtʃ ɪt/ | 注意点；小心 | 提醒言行或危险 | *Hey, watch it. - I wanna go to the mall where she works.* | Be careful. |
 | **Give me a second.** | /ɡɪv mi ə ˈsekənd/ | 给我一点时间 | 拖延、缓冲 | *Give me a second here.* | Hold on a moment. |
+| **Can you do me a favor?** | /kæn ju duː mi ə ˈfeɪvər/ | 帮个忙好吗 | 口语请人做小事；常接具体动作 | *Can you do me a favor? Just grab … How's the weather down there?*（Phil 打球让 Luke 站过去） | Could you do me a favor? · Would you mind …? |
+| **two out of three** | /tuː aʊt əv θriː/ | 三局两胜 | 系列赛用语；口语可引申「再比一场定输赢」 | *I'd probably want to go … two out of three and just see what happens there.*（Phil 谈到儿子赢篮球） | best of three |
+| **through fair or stormy weather** | /θruː fer ɔːr ˈstɔːrmi ˈwɛðər/ | 共度风平浪静与风雨交加的日子 | 婚礼/情歌式誓词；*fair* = 顺境，*stormy* = 逆境；中译常作「共度风风雨雨」 | *Love is what binds us, through fair or stormy weather.*（Manny 歌里） | through thick and thin · for better or worse |
+| **(little) pot sticker** | /ˈlɪtl pɑːt ˈstɪkər/ | 跟屁虫（戏称） | Jay 抱 Lily 时的昵称；字面像「锅贴」，字幕作「跟屁虫」 | *She's one of us now. Let me see the little pot sticker.* | tagalong · little one |
+| **broke up** | /broʊk ʌp/ | 分手了 | 恋爱/伴侣关系结束（*break up* 过去式） | *You two broke up.*（Claire 以为 Mitch 和 Cam 分了） | split up · ended things |
 
 ---
 
@@ -228,7 +251,7 @@
 
 <!-- MANUAL:TIPS -->
 - 每集精读 **1 个剧情段**（8–15 句）+ **俚语表** + **5–10 个难词** 即可，不必一次背完。
-- **背诵顺序：** 剧情段 → §A 口头禅 → §C 口头梗（*Deal with this* / *uncool*）→ 难词表。
+- **背诵顺序：** 剧情段 → §A 口头禅 → §C 口头梗（*Deal with this* / *Can you do me a favor?* / *two out of three*）→ 难词表。
 - §B 含 *What the hell* / *Damn it*，公开场合用表中「更温和」列。
 - 其它集：复制 `beats/s01e01-beats.yaml` 结构 → 运行 `build-modern-family-s01-daily-lines.py --episode N`。
 - 亲子对话体示例：同目录 `modern-family-s01e02-key-to-being-a-great-dad.md`。
