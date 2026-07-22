@@ -23,7 +23,9 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（夜店搭讪、约会细节等口语可对照 Verse 1–2）
+**相关：**
+- [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] — 夜店搭讪、约会细节（对照 Verse 1–2）
+- [[learning-notes/personal-english-book/life/body part👀_20260514_2050#d-躯干与骨盆torso-spine--pelvis28|Body Part · 腰髋臀]] — *waist / hip / buttocks* 等词与示例句
 
 ---
 
@@ -268,6 +270,25 @@ I'm in love with the shape of you
 | **all-you-can-eat** | 自助餐 | 美式餐厅常见 |
 | **the sweet and the sour** | 甜与酸；好坏参半 | 聊人生起伏的口语 |
 | **make the radio play** | 让收音机播放 | 出租车里常见说法 |
+| **grab on my waist** | 搂住我的腰 | Pre-Chorus；身体词入口，可扩到 hip / buttocks |
+| **the shape of you** / **your body** | 你的身形 / 身体 | 副歌；偏整体轮廓，不特指某一部位 |
+
+### 扩展：腰 · 髋 · 臀（跟唱后练身体词）
+
+歌里直接点名的是 **waist**（腰）和整体 **shape / body**；跳舞场景常再补 **hip**（髋/胯）。臀部说法按场合选词：
+
+| English | 简中 | 示例句（English） | 示例句（简中） |
+| --- | --- | --- | --- |
+| **waist** | 腰 | Grab on my **waist** and follow my lead. | 搂住我的腰，跟着我的节奏。 |
+| **hip** / **hips** | 髋；胯部 | She sways her **hips** when the beat drops. | 鼓点一落，她扭起胯来。 |
+| **hands on hips** | 双手叉腰 | Hands on **hips**, then start to dance. | 双手叉腰，然后开始跳。 |
+| **buttocks** | 臀部（正式） | Sit on your **buttocks**, not on your tailbone. | 坐在臀部上，别压尾骨。 |
+| **butt** | 屁股（美式口语） | Don't sit on a cold barstool with a bare **butt**. | 别光屁股坐冰凉吧台凳。 |
+| **bottom** | 屁股（偏礼貌） | He slipped and landed on his **bottom**. | 他滑了一下，摔了个屁股墩。 |
+| **backside** / **rear** | 屁股（委婉） | Wipe the sand off your **backside**. | 把屁股上的沙子拍掉。 |
+| **glutes** | 臀肌（健身） | Squats build strong **glutes**. | 深蹲练出结实臀肌。 |
+
+完整对照与更多例句见 [[learning-notes/personal-english-book/life/body part👀_20260514_2050#d-躯干与骨盆torso-spine--pelvis28|Body Part 词表 · D 节]]。
 
 ---
 

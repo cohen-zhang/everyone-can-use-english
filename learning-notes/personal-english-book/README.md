@@ -100,6 +100,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/work/高性能高可用.md|高性能 · 高可用]]
 - [[learning-notes/personal-english-book/work/专业术语.md|工作专业术语]]
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表（149，含笔记）]]
+- [[learning-notes/personal-english-book/work/中英证券及金融术语词汇.md|中英证券及金融术语词汇]]
 - [[learning-notes/personal-english-book/work/do-not-go-gentle-into-that-good-night.md|Do not go gentle…]]
 
 ---

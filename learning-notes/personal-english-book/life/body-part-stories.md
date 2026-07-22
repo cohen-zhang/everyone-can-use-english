@@ -104,6 +104,9 @@ His **waist** and **waistline** tell the truth after holidays. — 假期后 **�
 Hand on **belly** and **abdomen** — feel the breath. — 手按 **肚子** / **腹部**，感受呼吸。  
 **Navel** marks the center; **hip** and **pelvis** carry the load. — **肚脐** 是中心；**髋** 和 **骨盆** 承重。  
 Sit on your **buttocks**, not on the tailbone. — 坐在 **臀部** 上，别压尾骨。  
+Or say **butt** / **bottom** / **backside** in casual talk. — 口语也可说 **butt** / **bottom** / **backside**。  
+At the gym he works his **glutes**; on the chair he finds his **sit bones**. — 健身房练 **臀肌**；椅子上找 **坐骨**。  
+Hands on **hips**, then a small sway — **waist** leads, **rear** follows. — 双手叉 **髋**，轻轻扭一扭——**腰** 先动，**后臀** 跟上。  
 
 ---
 
