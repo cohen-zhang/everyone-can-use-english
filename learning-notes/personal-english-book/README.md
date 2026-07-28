@@ -121,6 +121,14 @@ cssclasses:
 
 ---
 
+## vocab-story — 分类词表与故事
+
+- [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] — 计科 / AI 场景分类 + 示例句
+- [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀词汇（232）]] — 词根前缀场景分类 + 示例句
+- [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health 词汇（286）]] — 心理 / 健康场景分类 + 示例句
+
+---
+
 ## parenting（成人向亲子自述）
 
 - [[learning-notes/personal-english-book/parenting-self-talk-phrases.md|家长自说自话用语]]
@@ -148,6 +156,8 @@ cssclasses:
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
 - **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 - **投资者必备 ↔ 经纪访谈 ↔ 金融词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]]。
+- **词根词缀 ↔ 计科 AI ↔ 金融词表 ↔ 1000h：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀]] ↔ [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]] ↔ [[1000-hours/sounds-of-american-english/6.4-parts-of-words|1000h · 6.4 常见词根词缀]] · [[1000-hours/sounds-of-american-english/6.1-effectiveness|6.1 有效记忆]]。
+- **Psychology Health ↔ 情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health]] ↔ [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 
 ---
 

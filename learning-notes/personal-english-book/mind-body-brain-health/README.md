@@ -43,6 +43,7 @@ cssclasses:
 情绪表达与脑化学对照：
 
 - [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]]
+- [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health 词汇（286）]] — 心理 / 健康分类词表 + 示例句
 - [[learning-notes/personal-english-book/parenting-self-talk-phrases|家长自说自话用语]] — 神经可塑性、皮质醇等脑科学证据
 
 ---
