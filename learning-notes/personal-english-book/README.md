@@ -124,7 +124,7 @@ cssclasses:
 ## vocab-story — 分类词表与故事
 
 - [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] — 计科 / AI 场景分类 + 示例句
-- [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀词汇（232）]] — 词根前缀场景分类 + 示例句
+- [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀词汇（232）]] — 按词根/词缀族分类 + 同族例 + 示例句
 - [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health 词汇（286）]] — 心理 / 健康场景分类 + 示例句
 
 ---
