@@ -11,111 +11,95 @@ aliases:
 
 # Episode 10 – Getting Ready for Bed and Going to Sleep
 
-*Source: ESLPod special course material (Jeff series).*  
-*本页为 transcript 的学习版 Markdown 重排。*
+*A Day in the Life of Jeff* — ESLPod.com, 10-episode course. Host: Dr. Jeff McQuillan, Center for Educational Development, Los Angeles, California.
 
 **索引：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]
 
 **相关（相向互链）：**
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e09-relaxing-mail-trash-notes|Episode 9 – Relaxing, the Mail, and the Trash]] — 上一集：放松、收信与倒垃圾
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Episode 1 – Getting Up]] — 系列起点：起床
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]] — 全系列索引
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/master-bedroom-ensuite-common-items-en|卧室场景词汇]]
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine|亲子一日流程]]
-- [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解风格指南]]
+- [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解示范说明]]
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/study-plan-and-e01-vocabulary|Jeff 学习方案 & E01 词汇重点]]
 
 ---
 
-<a id="intro"></a>
 ## Introduction
 
-Welcome to ESLpod.com's "A Day in the Life of Jeff," part 10: Getting Ready for Bed and Going to Sleep. I'm your host Dr. Jeff McQuillan, from the Center for Educational Development, in beautiful Los Angeles, California.
+Welcome to ESLPod.com's "A Day in the Life of Jeff," part 10: Getting Ready for Bed and Going to Sleep.
+
+I'm your host, Dr. Jeff McQuillan, from the Center for Educational Development, in beautiful Los Angeles, California.
 
 In part nine of this series we relaxed, read our mail, and took out the trash. In this tenth and final episode, we're going to get ready for bed and go to sleep. Let's get started.
 
-<a id="story-slow"></a>
+---
+
 ## Story (slow read)
 
-At 10:30, I decide to get ready for bed. When I was little, my mother would read me a bedtime story. I’m looking forward to having that ritual with my own kids someday.
+At 10:30, I decide to **get ready for bed**. When I was little, my mother would read me a **bedtime story**. I'm looking forward to having that **ritual** with my own kids someday.
 
-I go into the bathroom and turn on the tap. I wash my face, and dry it with my towel. I floss and brush my teeth. I have to admit that by this time, I’m beat, and so is my wife. She cleans up when I’ve finished up.
+I go into the bathroom and turn on the **tap**. I wash my face, and dry it with my **towel**. I floss and brush my teeth. I have to admit that by this time, I'm **beat**, and so is my wife. She **cleans up** when I've **finished up**.
 
-In the meantime, I walk into the bedroom and get undressed. I put my dirty clothes in the hamper and I put on my pajamas. Wearing my slippers, I go into the kitchen to get a glass of water to put next to the bed in case I need it during the night. I pull back the covers, fluff my pillow, and climb into bed. I set my alarm clock for 6:15, and turn off the overhead light. I lay my head down and pull up the covers, kissing my wife goodnight. Some nights I have trouble falling asleep, but tonight, I didn’t need to count any sheep. I nod off right away and before long, I’m fast asleep.
+In the meantime, I walk into the bedroom and **get undressed**. I put my dirty clothes in the **hamper** and I put on my **pajamas**. Wearing my **slippers**, I go into the kitchen to get a glass of water to put next to the bed **in case** I need it during the night. I **pull back** the **covers**, **fluff** my **pillow**, and **climb into bed**. I set my **alarm clock** for 6:15, and turn off the **overhead light**. I lay my head down and **pull up** the covers, kissing my wife goodnight. Some nights I have trouble **falling asleep**, but tonight, I didn't need to **count any sheep**. I **nod off** right away and **before long**, I'm **fast asleep**.
 
-<a id="explanation"></a>
+---
+
 ## Explanation (full transcript)
 
 This episode is called "Getting Ready for Bed and Going to Sleep."
 
 "At 10:30, I decide to get ready for bed," to do the things I need to do so I can go to sleep. "When I was little, my mother would read me a bedtime story."
 
-Bedtime, "bedtime," (all one word) is, of course, the time that you go to bed - that you go to your bed so you can sleep. A bedtime story is a story you would tell a
+Bedtime, "bedtime," (all one word) is, of course, the time that you go to bed—that you go to your bed so you can sleep. A bedtime story is a story you would tell a child to help them fall asleep. Many children like to be told a bedtime story. These are often what we would call fairy tales, "fairy" tales, "tales." A tale **is just another word for** a story, and a fairy tale is a story about something that isn't true, usually with imaginary characters.
 
-child to help them fall asleep. Many children like to be told a bedtime story. These are often what we would call fairy tales, "fairy" tales, "tales." A tale is just
+"I'm looking forward to having that ritual with my own kids someday." "I'm looking forward to having that ritual," a ritual, "ritual," **is something that** you do on a regular schedule or at a regular time every day or maybe every week or every month, and you do the exact same things in the exact same order. **We also use that word**, ritual, when we are talking about some religious ceremonies. Some religious events have certain rules—certain order—a certain order that they follow, and that is a ritual.
 
-another word for a story, and a fairy tale is a story about something that isn't true, usually with imaginary characters.
+"I go into the bathroom and I turn on the tap." The tap, "tap," **is the same as** the faucet. Well, you turn on the tap so the water comes out, "I wash my face, and dry it with my towel." I dry my face—I make it dry using a towel, "towel," which is a cloth that you use to dry yourself or to clean yourself. I floss my teeth and I brush them.
 
-"I’m looking forward to having that ritual with my own kids someday." "I’m looking forward to having that ritual," a ritual, "ritual," is something that you do on a regular schedule or at a regular time every day or maybe every week or every month, and you do the exact same things in the exact same order. We also use that word, ritual, when we are talking about some religious ceremonies. Some religious events have certain rules - certain order - a certain order that they
+"I have to admit that by this time, I'm beat." "I have to admit" **is an expression that** we use when you're going to say something that maybe you don't want to say—you don't want to tell the truth. In fact, there's also an expression, "to tell the truth." So, I have to admit **means** I have to say—to tell the truth. "By this time," **meaning** by 10:30—"by this time, I'm beat." To be beat, "beat," **means to** be very tired. Someone says, "Oh, I'm beat," they've been working all day or they've, like me, been watching television all day, and now I'm beat—I'm tired. Of course, I don't watch television all day, just part of the day!
 
-follow, and that is a ritual.
+Well, my wife is also beat. In the story I say, "I'm beat, and so is my wife," **meaning** my wife is also very tired. "She cleans up when I've finished up." Once again, you see those two word verbs. To clean up is, **in this case**, to clean your face, to brush your teeth; to get yourself clean is to clean up. To finish up is really **the same as** to finish, but we love in English to use those prepositions as part of these two word verbs. So, I finish up, **meaning** I finish doing what I need to do, and then my wife goes into the bathroom and cleans up.
 
-"I go into the bathroom and I turn on the tap." The tap, "tap," is the same as the faucet. Well, you turn on the tap so the water comes out, "I wash my face, and dry it with my towel." I dry my face - I make it dry using a towel, "towel," which is a cloth that you use to dry yourself or to clean yourself. I floss my teeth and I brush them.
+"In the meantime," **meaning** while my wife is doing that, "in the meantime," "meantime," (all one word) "I walk into the bedroom and get undressed." So, when my wife is in the bathroom, "I walk"—at the same time—"into the bedroom and I get undressed." To get undressed **is the opposite of** to get dressed. So, if you get undressed, you take off your clothes.
 
-"I have to admit that by this time, I’m beat." "I have to admit" is an expression that we use when you're going to say something that maybe you don't want to say - you don't want to tell the truth. In fact, there's also an expression, "to tell the truth." So, I have to admit means I have to say - to tell the truth. "By this time," meaning by 10:30 - "by this time, I’m beat." To be beat, "beat," means to be very tired. Someone says, "Oh, I'm beat," they've been working all day or
+"I put my dirty clothes"—the clothes I was wearing—"in the hamper and I put on my pajamas." A hamper, "hamper," **as a noun**, is a place, usually in your bedroom or bathroom, where you put dirty clothes or dirty towels; **we call that** a hamper. To hamper, **as a verb, means something different**. To hamper someone **means to** get in their way—to prevent them from doing something. But as a noun, a hamper, or a clothes hamper, is a place, usually it's a big plastic box with a top on it, or it could be made of wood, and that's where you put your dirty clothes. And then, at some point during the week, I hope, you wash your clothes so you can have clean clothes again. Unless, of course, you're not married, in which case, if you are a man and single, you may not wash your clothes that much.
 
-they've, like me, been watching television all day, and now I'm beat - I'm tired. Of course, I don't watch television all day, just part of the day!
-
-Well, my wife is also beat. In the story I say, "I'm beat, and so is my wife," meaning my wife is also very tired. "She cleans up when I’ve finished up." Once again, you see those two word verbs. To clean up is, in this case, to clean your face, to brush your teeth; to get yourself clean is to clean up. To finish up is
-
-really the same as to finish, but we love in English to use those prepositions as
-
-part of these two word verbs. So, I finish up, meaning I finish doing what I need to do, and then my wife goes into the bathroom and cleans up.
-
-"In the meantime," meaning while my wife is doing that, "in the meantime," "meantime," (all one word) "I walk into the bedroom and get undressed." So, when my wife is in the bathroom, "I walk" - at the same time - "into the bedroom and I get undressed." To get undressed is the opposite of to get dressed. So, if you get undressed, you take off your clothes.
-
-"I put my dirty clothes" - the clothes I was wearing - "in the hamper and I put on my pajamas." A hamper, "hamper," as a noun, is a place, usually in your bedroom or bathroom, where you put dirty clothes or dirty towels; we call that a
-
-hamper. To hamper, as a verb, means something different. To hamper someone means to get in their way - to prevent them from doing something. But as a noun, a hamper, or a clothes hamper, is a place, usually it's a big plastic box with a top on it, or it could be made of wood, and that's where you put your dirty clothes. And then, at some point during the week, I hope, you wash your clothes so you can have clean clothes again. Unless, of course, you're not married, in which case, if you are a man and single, you may not wash your clothes that much.
-
-Well, I have "my dirty clothes in my hamper," and since I don't have any clothes on, remember I have undressed, "I put on my pajamas." Pajamas, "pajamas," are sometimes abbreviated as PJs, "PJ" PJs. Your pajamas, or PJs, are the clothes that you wear when you are going to bed. For example, I have pajamas that say Superman on it, and I wear my Superman pajamas to bed. Doesn't everyone?
+Well, I have "my dirty clothes in my hamper," and since I don't have any clothes on, remember I have undressed, "I put on my pajamas." Pajamas, "pajamas," **are sometimes abbreviated as** PJs, "PJ" PJs. Your pajamas, or PJs, are the clothes that you wear when you are going to bed. For example, I have pajamas that say Superman on it, and I wear my Superman pajamas to bed. Doesn't everyone?
 
 Well, in addition to putting on my pajamas, I also put on my slippers. A slipper, "slipper," is a shoe that you wear usually just inside the house. So, when you are getting ready for bed and you want to walk around the house, you don't put your shoes on, you would put some slippers on. Some people wear slippers in their house, especially if the floors are cold, and they'll put the slippers on at night and have them on at night as they walk around in their house or in the morning.
 
-Well, "Wearing my slippers, I go into the kitchen to get a glass of water," and I want to put that water "next to my bed in case I need it during the night." So, if I need to drink water at night, I have a glass of water next to me. "I pull back the covers." The covers, "covers," are the blanket, the comforter, and the top sheets. We take those things and we have to pull them back. To pull back means to take them and move them towards the bottom of the bed so that you can get in, and after you get in, you're going to pull the covers up. So, you pull back the covers
+Well, "Wearing my slippers, I go into the kitchen to get a glass of water," and I want to put that water "next to my bed in case I need it during the night." So, if I need to drink water at night, I have a glass of water next to me. "I pull back the covers." The covers, "covers," are the blanket, the comforter, and the top sheets. We take those things and we have to pull them back. To pull back **means to** take them and move them towards the bottom of the bed so that you can get in, and after you get in, you're going to pull the covers up. So, you pull back the covers to get into the bed, and then you pull them up to cover you again so you can stay warm.
 
-to get into the bed, and then you pull them up to cover you again so you can stay warm.
+"I pull back my covers," and I "fluff my pillow." The pillow is what I put my head on. To fluff, "fluff," **means to** make your pillow bigger by hitting it very softly on the sides. So, you take your pillow and you put one hand on each side of the pillow and you move your hands back and forth toward each other and away from each other, and that allows the pillow to be a little bigger—to be a little softer.
 
-"I pull back my covers," and I "fluff my pillow." The pillow is what I put my head on. To fluff, "fluff," means to make your pillow bigger by hitting it very softly on the sides. So, you take your pillow and you put one hand on each side of the pillow and you move your hands back and forth toward each other and away from each other, and that allows the pillow to be a little bigger - to be a little softer.
+"I fluff my pillow, and I climb into bed." Notice that verb to climb, "climb," into bed. It **means the same as** to get into bed. **We might use** that particular verb, to climb into, if we are very tired, for example. You can also use it just to mean to get into bed.
 
-"I fluff my pillow, and I climb into bed." Notice that verb to climb, "climb," into bed. It means the same as to get into bed. We might use that particular verb, to climb into, if we are very tired, for example. You can also use it just to mean to get into bed.
+So, I "climb into bed. I set my alarm clock for 6:15,"—for 6:15 in the morning, of course—"and I turn off the overhead light." The overhead, "overhead," (all one word) is a light that is on the top of your room—on the ceiling of the room. The top of the room is called the ceiling, "ceiling." So, an overhead light is on the top of the ceiling—or on the ceiling, and I turn the overhead light off.
 
-So, I "climb into bed. I set my alarm clock for 6:15," - for 6:15 in the morning, of course - "and I turn off the overhead light." The overhead, "overhead," (all one word) is a light that is on the top of your room - on the ceiling of the room. The top of the room is called the ceiling, "ceiling." So, an overhead light is on the top of the ceiling - or on the ceiling, and I turn the overhead light off.
+"I lay my head down." To lay, "lay," **here means** to put something down. **Usually we use that verb when** we are talking about people or a part of your body. "I lay my head down and I pull up the covers," so I am warm, and because I'm such a great husband, I kiss "my wife goodnight." To kiss someone goodnight **means to** kiss them and, in a sense, to say goodnight to them. "Some nights I have trouble falling asleep." To fall, "fall," asleep, "asleep," **means to** go to sleep—to start sleeping.
 
-"I lay my head down." To lay, "lay," here means to put something down. Usually we use that verb when we are talking about people or a part of your body. "I lay my head down and I pull up the covers," so I am warm, and because I'm such a great husband, I kiss "my wife goodnight." To kiss someone goodnight means to kiss them and, in a sense, to say goodnight to them. " Some nights I have
+Sometimes "I have trouble falling asleep, but tonight, I didn't need to count any sheep." The expression to count sheep, "sheep," **is used because** we traditionally when we are trying to fall asleep, some people say that it helps if you try counting numbers, so you start with one, two, three, four. And, for some reason, I don't know why, it is traditional to count sheep. Sheep are a type of animal. A sheep is an animal that you take the hair off of, and you use the hair of the sheep to make clothing, for example. I don't need to count sheep because I'm very tired. If you are not tired or you have difficulty falling asleep, you might want to try counting sheep. One, two, three, four, and by the time you reach five million you should be asleep!
 
-trouble falling asleep." To fall, "fall," asleep, "asleep," means to go to sleep - to start sleeping.
+"I nod off right away." To nod, "nod," off (two words) **means the same as** to fall asleep. It's just another way of saying fall asleep, "I nod off." Sometimes people will use that expression when they're at a meeting and it is very boring at work, and you may say to someone, "I almost nodded off"—I almost fell asleep. That usually happens to my students when I am teaching.
 
-Sometimes "I have trouble falling asleep, but tonight, I didn’t need to count any sheep." The expression to count sheep, "sheep," is used because we traditionally when we are trying to fall asleep, some people say that it helps if you try counting numbers, so you start with one, two, three, four. And, for some reason, I don't know why, it is traditional to count sheep. Sheep are a type of
-
-animal. A sheep is an animal that you take the hair off of, and you use the hair of the sheep to make clothing, for example. I don't need to count sheep because
-
-I'm very tired. If you are not tired or you have difficulty falling asleep, you might
-
-want to try counting sheep. One, two, three, four, and by the time you reach five million you should be asleep!
-
-"I nod off right away." To nod, "nod," off (two words) means the same as to fall asleep. It's just another way of saying fall asleep, "I nod off." Sometimes people will use that expression when they're at a meeting and it is very boring at work, and you may say to someone, "I almost nodded off" - I almost fell asleep. That usually happens to my students when I am teaching.
-
-"Before long," meaning in a very short time, "before long, I’m fast asleep." To be fast, "fast," asleep means to be completely asleep. There's a similar expression that means the same, to be sound asleep, "sound." To be sound asleep means that you are sleeping completely, it will not be easy to wake you up.
+"Before long," **meaning** in a very short time, "before long, I'm fast asleep." To be fast, "fast," asleep **means to** be completely asleep. **There's a similar expression that means the same**, to be sound asleep, "sound." To be sound asleep **means that** you are sleeping completely, it will not be easy to wake you up.
 
 Now let's listen to the story, this time at a native rate of speech.
 
-<a id="story-native"></a>
+---
+
 ## Story (native rate of speech)
 
-At 10:30, I decide to get ready for bed. When I was little, my mother would read me a bedtime story. I’m looking forward to having that ritual with my own kids someday.
+At 10:30, I decide to **get ready for bed**. When I was little, my mother would read me a **bedtime story**. I'm looking forward to having that **ritual** with my own kids someday.
 
-I go into the bathroom and turn on the tap. I wash my face, and dry it with my towel. I floss and brush my teeth. I have to admit that by this time, I’m beat, and so is my wife. She cleans up when I’ve finished up.
+I go into the bathroom and turn on the **tap**. I wash my face, and dry it with my **towel**. I floss and brush my teeth. I have to admit that by this time, I'm **beat**, and so is my wife. She **cleans up** when I've **finished up**.
 
-In the meantime, I walk into the bedroom and get undressed. I put my dirty clothes in the hamper and I put on my pajamas. Wearing my slippers, I go into the kitchen to get a glass of water to put next to the bed in case I need it during the night. I pull back the covers, fluff my pillow, and climb into bed. I set my alarm clock for 6:15, and turn off the overhead light. I lay my head down and pull up the covers, kissing my wife goodnight. Some nights I have trouble falling asleep, but tonight, I didn’t need to count any sheep. I nod off right away and before long, I’m fast asleep.
+In the meantime, I walk into the bedroom and **get undressed**. I put my dirty clothes in the **hamper** and I put on my **pajamas**. Wearing my **slippers**, I go into the kitchen to get a glass of water to put next to the bed **in case** I need it during the night. I **pull back** the **covers**, **fluff** my **pillow**, and **climb into bed**. I set my **alarm clock** for 6:15, and turn off the **overhead light**. I lay my head down and **pull up** the covers, kissing my wife goodnight. Some nights I have trouble **falling asleep**, but tonight, I didn't need to **count any sheep**. I **nod off** right away and **before long**, I'm **fast asleep**.
 
-<a id="closing"></a>
+---
+
 ## Closing
 
 That concludes part 10 of "A Day in the Life of Jeff," and it concludes this series. I want to thank you for listening. Remember to visit our website at eslpod.com for more special courses like this one.
@@ -124,87 +108,130 @@ From Los Angeles, California, I'm Jeff McQuillan. Thanks for listening.
 
 This course has been a production of the Center for Educational Development, in beautiful Los Angeles, California. Visit our website at eslpod.com.
 
-This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse. Copyright
-
-2006.
+This course was produced by Dr. Jeff McQuillan and Dr. Lucy Tse. Copyright 2006.
 
 Contributors to this series are Jeff McQuillan, Lucy Tse, and Jessica Brown.
 
-<a id="appendix-core"></a>
-## Appendix · Core glossary
+---
 
-bedtime story – a story that adults read to children before they go to sleep at night
+## Appendix · 重点词汇与表达（中文简注）
 
-* Can you read me one more bedtime story before I have to go sleep?
+释义仅作学习备忘，以课文与课堂用法为准。
 
-ritual – something that is done repeatedly and in the same way every time
+### Bedtime routine
 
-* His morning ritual includes drinking a cup of coffee, eating a banana, and taking the dog for a walk.
+- **get ready for bed** — 做睡前准备（洗漱、换衣等）。
+- **bedtime story** — 睡前故事（常读给孩子助眠）。
+- **ritual** — 固定仪式；按同样顺序反复做的事（亦可指宗教仪式）。
+- **fairy tale** — 童话（虚构人物与情节）。
+- **in the meantime** — 与此同时；趁这段时间。
+- **in case** — 以防；万一（需要时）。
 
-tap – faucet; the metal thing that water flows through into a sink
+### Bathroom & getting ready
 
-* Please turn off the tap while you’re brushing your teeth. It’s wrong to waste water.
+- **tap** — 水龙头（= *faucet*）。
+- **towel** — 毛巾（擦干身体用）。
+- **beat** — 累坏了；筋疲力尽（口语）。
+- **clean up** — 梳洗整理（洗脸、刷牙等）。
+- **finish up** — 做完；收尾（与 *finish* 近义，偏口语两词动词）。
+- **get undressed** — 脱衣服（反义：*get dressed*）。
+- **hamper** — 脏衣篮（动词 *to hamper* = 妨碍，不同义）。
+- **pajamas / PJs** — 睡衣。
+- **slippers** — 拖鞋（室内穿的软底鞋）。
 
-towel – a soft piece of fabric that absorbs water and helps someone or something become dry
+### Bedroom & sleep
 
-* Yuki always uses two towels when she showers: one for her body, and one for
+- **covers** — 床上被褥层（毯子、被芯、被单等）。
+- **pull back / pull up**（covers）— 掀开 / 拉上被子。
+- **fluff**（pillow）— 拍松枕头。
+- **pillow** — 枕头。
+- **climb into bed** — 爬上床（= *get into bed*，常表很累）。
+- **alarm clock** — 闹钟。
+- **overhead light** — 顶灯（装在 *ceiling* 天花板上）。
+- **lay (one's head) down** — 躺下；把头放下。
+- **kiss (someone) goodnight** — 吻别道晚安。
+- **fall asleep** — 入睡；开始睡着。
+- **count sheep** — 数羊（助眠的传统说法）。
+- **nod off** — 打盹；不知不觉睡着（开会无聊时也可用）。
+- **before long** — 不久；很快。
+- **fast asleep / sound asleep** — 睡得很沉；熟睡。
 
-her hair.
+---
 
-beat – very tired; exhausted
+## Appendix B · 讲解用语（metalanguage）套式 `亲子`
 
-* After working on the report for 14 hours, I was beat and I wanted to go to sleep.
+讲解段里 Jeff 用大量 **“用英语解释英语”** 的固定句式。孩子若听不懂**解释本身**，可先听懂这些**套式在干什么**，再听词义。
 
-undressed – without clothes; not wearing clothes; naked
+**本课里反复出现的骨架举例**：*… is something that …* · *… is just another word for …* · *… is the same as …* · *… is an expression that …* · *… means to …* · *… means …* · *meaning …* · *is the opposite of …* · *as a noun / as a verb …* · *There's a similar expression …*
 
-* You should always close the bedroom curtains before you get undressed.
+下面按**功能**归类（与课文中具体词无关，换别的词也会用同一套）。
 
-hamper – a container for dirty clothes
+### **… is something that … / … is an expression that …**
 
-* Make sure you do the laundry when the hamper is full.
+- **在干什么**：说明某事物/说法是什么（归类或功能）。
+- **更简单说法**：*A ritual is something you do the same way every time.*
+- **中文**：「……就是那种……」「……是一种说法，用来……」
 
-pajamas – clothes worn while sleeping
+### **… is just another word for … / … is the same as …**
 
-* My cotton pajamas are the most comfortable clothes that I own. I love sleeping in them.
+- **在干什么**：同义换说。
+- **更简单说法**：*“Tap” = “faucet.”* / *“Nod off” = “fall asleep.”*
+- **中文**：「就是……的另一个词」「等于……」
 
-slippers – soft, warm shoes that are worn only inside the house
+### **… means to … / … means … / here means …**
 
-* She often puts her slippers in front of the fireplace to warm them before she puts them on her feet.
+- **在干什么**：给动词或形容词下定义。
+- **更简单说法**：*If you're beat, you're very tired.*
+- **中文**：「……的意思是……」「在这里指……」
 
-to pull back – to fold back; to move back
+### **meaning …**
 
-* When she heard the doorbell, she quietly pulled back the curtains to see who was at the front door.
+- **在干什么**：紧接上一句，补出真实含义。
+- **更简单说法**：*What I mean is …*
+- **中文**：「意思是……」
 
-covers – the layers of fabric that cover a bed
+### **… is the opposite of …**
 
-* Our cat likes to sleep in our bed under the covers, but we don’t allow her to do that.
+- **在干什么**：给出反义对照。
+- **更简单说法**：*Undressed is the opposite of dressed.*
+- **中文**：「……的反义词是……」
 
-to fluff – to make something larger and softer by hitting or brushing it
+### **as a noun / as a verb, means something different**
 
-* I can’t sleep on a hard pillow so I always fluff my pillows at night.
+- **在干什么**：同一拼写、不同词性、不同义（如 *hamper*）。
+- **更简单说法**：*Same spelling, different meaning when it's a verb.*
+- **中文**：「作名词时……；作动词时则是……」
 
-overhead – on the ceiling; over one’s head
+### **we call that … / are sometimes abbreviated as …**
 
-* Overhead lights are good in living rooms and dining rooms, but in bedrooms I
+- **在干什么**：交代习惯名称或缩写。
+- **更简单说法**：*People call it a “hamper.”* / *“Pajamas” → “PJs.”*
+- **中文**：「大家把这叫……」「常缩写为……」
 
-prefer a small table lamp so that I can read before falling asleep.
+### **in this case / Usually we use that verb when … / We might use …**
 
-to lay down – to put something or oneself in a horizontal (sideways) position
+- **在干什么**：限定当前语境或典型用法。
+- **更简单说法**：*Here, “clean up” means wash your face.*
+- **中文**：「在这里指……」「我们通常在说……时用这个词」
 
-* I laid down the book I had been reading and turned out the lights.
+### **Notice that verb … / Once again, you see those two word verbs**
 
-to fall asleep – to begin to sleep
+- **在干什么**：点名语法/结构（两词动词等）。
+- **更简单说法**：*Look at “finish up”—verb + preposition.*
+- **中文**：「注意这个动词」「又是两词动词」
 
-* Drinking a glass of warm milk often helps Jacomo fall asleep at night.
+### **is used because … / for some reason …**
 
-to count sheep – to imagine sheep jumping over a fence and to count them as a way of falling asleep
+- **在干什么**：说明习惯说法的来源或原因（常带幽默）。
+- **更简单说法**：*People count sheep because it's a tradition.*
+- **中文**：「之所以……是因为……」「不知为何……」
 
-* Do you ever try counting sheep when you have trouble falling asleep?
+### **There's a similar expression that means the same … / means the same as …**
 
-to nod off – to start to sleep, often without intending or wanting to
+- **在干什么**：提供近义表达。
+- **更简单说法**：*Same idea: “sound asleep.”*
+- **中文**：「还有一个类似的说法……」
 
-* He was so tired that he was nodding off during the meeting. His boss was not happy.
+---
 
-fast asleep – sleeping soundly; sleeping very well; sleeping and unaware of other things happening
-
-* The little boy was fast asleep when they got home and he didn’t wake up as his father carried him to bed.
+*Source: ESLPod.com “A Day in the Life of Jeff,” Episode 10. Markdown layout merges line breaks from the transcript for readability; glossary and full-course navigation are maintained in this notes set.*

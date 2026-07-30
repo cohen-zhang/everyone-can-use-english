@@ -5,8 +5,10 @@
 **索引：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]
 
 **相关（相向互链）：**
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Episode 2 – Cleaning Up]] — 下一集：洗漱整理
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/study-plan-and-e01-vocabulary|Jeff 学习方案 & E01 词汇重点]]
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解示范说明]]
+- [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]] — 全系列索引
 
 ---
 
