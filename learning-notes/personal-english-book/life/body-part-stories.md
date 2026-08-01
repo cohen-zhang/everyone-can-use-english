@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]  
 **词表来源：** [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表（197，含笔记）]]（分类 **A–L**；词表页另有高覆盖「分类短文」）  
-**相关（扩展）：** [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 喉咙、吞咽等动作句
+**相关（扩展）：** [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 喉咙、吞咽等动作句
 
 **用途：** 按最新词表 **A–L** 各写一篇短场景故事，用场景记住部位与健康词。  
 **分工：** 词表页「分类短文」= 高覆盖串联；本页 = 更短、可逐句跟读的分场景故事。  

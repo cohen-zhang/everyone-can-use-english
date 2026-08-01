@@ -13,7 +13,7 @@ cssclasses:
 ---
 # 个人英文材料书索引（Personal English Book MOC）
 
-本目录为 **阿泽（泽哥）** 的个人英文材料汇总，按 **生活 / 工作 / 学习 / 亲子自述 / 系统设计** 分区。建议 Obsidian **Vault 根目录** = 本仓库根（含 `learning-notes/`），则下文 `[[learning-notes/...]]` 全路径 wikilink 可点击，**tags** 可与 Dataview 等插件配合检索。
+本目录为 **阿泽（泽哥）** 的个人英文材料汇总，按 **1 分钟练习 / 生活 / 工作 / 学习 / 亲子自述 / 系统设计** 分区。建议 Obsidian **Vault 根目录** = 本仓库根（含 `learning-notes/`），则下文 `[[learning-notes/...]]` 全路径 wikilink 可点击，**tags** 可与 Dataview 等插件配合检索。
 
 **兄弟索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]] · 仓库总览见根目录 [[README|README]] 中「个人学习目录」一节。
 
@@ -22,6 +22,15 @@ cssclasses:
 ## 朗读顺序建议
 
 每篇正文末尾均有 **「朗读串联记忆 · Read-aloud chain」**：先读 **A. 分句场景链**，逐句核对简中；再读 **B. 一段串联**，练习连贯表达；最后用 **C. 一分钟复盘** 脱稿回忆。居家词表可和 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/各房间场景短文|各房间场景短文]] 配对：词表练词，短文练连续叙述。
+
+---
+
+## 1分钟练习
+
+短叙事跟读（约 1 分钟），目录：`personal-english-book/1分钟练习/`。
+
+- [[learning-notes/personal-english-book/1分钟练习/一天.md|一天（1 分钟练习）]] — 起床通勤、园区三餐、加班回家的一日流水
+- [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 
 ---
 
@@ -39,8 +48,6 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]] — 预订入住、客房、泳池、酒店游乐场 / Kids Club、中英短文
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
-- [[learning-notes/personal-english-book/life/1分钟练习/一天.md|一天（1 分钟练习）]] — 起床通勤、园区三餐、加班回家的一日流水
-- [[learning-notes/personal-english-book/life/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
 - [[learning-notes/personal-english-book/life/community-management-english.md|小区物业与邻里]] — 社区沟通
