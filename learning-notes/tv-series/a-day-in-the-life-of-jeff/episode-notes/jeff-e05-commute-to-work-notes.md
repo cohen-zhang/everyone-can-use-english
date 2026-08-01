@@ -22,6 +22,7 @@ aliases:
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解示范说明]]
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases|地铁出行表达]]
 - [[learning-notes/personal-english-book/work/work-travel-and-business-trip|通勤与出差表达]]
+- [[learning-notes/personal-english-book/life/1分钟练习/一天.md|一天（1 分钟练习）]] — 个人一日流水：e-bike 送娃、地铁、共享单车
 
 ---
 
