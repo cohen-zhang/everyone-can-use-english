@@ -25,12 +25,13 @@ cssclasses:
 
 ---
 
-## 1分钟练习
+## 1分钟练习（one-minute-drill）
 
-短叙事跟读（约 1 分钟），目录：`personal-english-book/1分钟练习/`。
+短叙事跟读（约 1 分钟），目录：`personal-english-book/one-minute-drill/`（MkDocs 侧栏：**one-minute-drill · 1分钟练习**）。
 
-- [[learning-notes/personal-english-book/1分钟练习/一天.md|一天（1 分钟练习）]] — 起床通勤、园区三餐、加班回家的一日流水
-- [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
+- [[learning-notes/personal-english-book/one-minute-drill/index.md|1分钟练习索引]] — 本分区入口
+- [[learning-notes/personal-english-book/one-minute-drill/一天.md|一天（1 分钟练习）]] — 起床通勤、园区三餐、加班回家的一日流水
+- [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光的一分钟叙事
 
 ---
 

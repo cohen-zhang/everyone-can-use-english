@@ -14,8 +14,8 @@ aliases:
 **相关（扩展）：**
 - [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、Health 应用等场景句
 - [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]] — 健康饮食与血清素相关做法
-- [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（1 分钟练习）]] — 运动后补水叙事
-- [[learning-notes/personal-english-book/1分钟练习/一天.md|一天（1 分钟练习）]] — 早餐多蛋白质、午饭少碳水等一日饮食句
+- [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水|渴了喝矿泉水（1 分钟练习）]] — 运动后补水叙事
+- [[learning-notes/personal-english-book/one-minute-drill/一天.md|一天（1 分钟练习）]] — 早餐多蛋白质、午饭少碳水等一日饮食句
 
 **本文以可朗读的英文为主**，每条下面用 **—** 给出简中意思；表格放在后半部分作查阅。**泽哥**想理清「吃什么、怎么吃、怎么长期管住体重」时，可以直接念英文句。
 

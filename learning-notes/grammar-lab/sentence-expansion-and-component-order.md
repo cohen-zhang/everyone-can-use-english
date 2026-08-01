@@ -14,7 +14,7 @@ aliases:
 
 **索引：** [[learning-notes/grammar-lab/README|语法实验室索引]] · [[learning-notes/grammar-lab/介词|介词实验室]] · [[learning-notes/grammar-lab/量词|量词实验室]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]] · [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水|渴了喝矿泉水（主谓宾换序实例）]] · [[learning-notes/parenting-english/README|亲子英文材料索引]] · **词类与成分分篮游戏** — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]]（与此页相向互链）
+**相关：** [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]] · [[learning-notes/grammar-lab/english-grammar-system-overview-yingyutu|英语语法体系总览]] · [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水|渴了喝矿泉水（主谓宾换序实例）]] · [[learning-notes/parenting-english/README|亲子英文材料索引]] · **词类与成分分篮游戏** — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]] · [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#22-句子成分--sentence-components|分类归类游戏 · 句子成分]]（与此页相向互链）
 
 ---
 
@@ -192,7 +192,7 @@ aliases:
 | 通勤地铁 | — | — | 待补充 |
 | 开会发言 | — | — | 待补充 |
 | [[learning-notes/personal-english-book/life/母亲节|母亲节]] 贺卡长文 | — | — | 待补充 |
-| 健身补水 | 已有 | 见 [[learning-notes/personal-english-book/1分钟练习/渴了喝矿泉水#2. 介绍 — 桌上那瓶水（主谓宾换序）|渴了喝矿泉水 §2]] | 已链出 |
+| 健身补水 | 已有 | 见 [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水#2. 介绍 — 桌上那瓶水（主谓宾换序）|渴了喝矿泉水 §2]] | 已链出 |
 
 ---
 

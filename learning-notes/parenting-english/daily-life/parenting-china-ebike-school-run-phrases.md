@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 骑车、抓紧、上下车等动作动词速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#6-骑行与代步--riding--transport|动作动词 — 分类总表 §6 骑行与代步]]（与本页相向互链）。地铁出行对照 → [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]]；在校作息与家校用语细化 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab.md|深圳小学在校日常]]；刮风下雨骑行穿戴 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]]；成人一日流水里「骑电动车送娃上学」短叙事 → [[learning-notes/personal-english-book/1分钟练习/一天.md|一天（1 分钟练习）]]。
+**相关：** 骑车、抓紧、上下车等动作动词速查见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#6-骑行与代步--riding--transport|动作动词 — 分类总表 §6 骑行与代步]]（与本页相向互链）。地铁出行对照 → [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]]；在校作息与家校用语细化 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab.md|深圳小学在校日常]]；刮风下雨骑行穿戴 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]]；成人一日流水里「骑电动车送娃上学」短叙事 → [[learning-notes/personal-english-book/one-minute-drill/一天.md|一天（1 分钟练习）]]。
 
 ---
 

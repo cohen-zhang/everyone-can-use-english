@@ -454,7 +454,8 @@ def _rename_nav_sections(items) -> None:
         if children:
             folder = _section_dir_from_children(item)
             if folder:
-                item.title = folder
+                # Prefer bilingual / friendly label when configured.
+                item.title = _NAV_FOLDER_DISPLAY.get(folder, folder)
             elif getattr(item, "title", None) in _NAV_SECTION_TITLES:
                 item.title = _NAV_SECTION_TITLES[item.title]
             _rename_nav_sections(children)
@@ -463,6 +464,11 @@ def _rename_nav_sections(items) -> None:
             if title in _NAV_SECTION_TITLES:
                 item.title = _NAV_SECTION_TITLES[title]
 
+
+# Folder slug (from URL) → left-nav display title.
+_NAV_FOLDER_DISPLAY = {
+    "one-minute-drill": "one-minute-drill · 1分钟练习",
+}
 
 # Fallback map when a section has no inferable path (rare).
 _NAV_SECTION_TITLES = {
@@ -496,6 +502,7 @@ _NAV_SECTION_TITLES = {
     "Study": "study",
     "Work": "work",
     "Book": "book",
+    "One minute drill": "one-minute-drill · 1分钟练习",
 }
 
 
