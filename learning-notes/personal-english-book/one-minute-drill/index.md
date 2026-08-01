@@ -16,5 +16,5 @@ aliases:
 
 ## 篇目
 
-- [[learning-notes/personal-english-book/one-minute-drill/一天.md|一天（1 分钟练习）]] — 起床通勤、园区三餐、加班回家
+- [[learning-notes/personal-english-book/one-minute-drill/a-weekday.md|A Weekday · 工作日的一天]] — 工作日起床通勤、园区三餐、加班回家
 - [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水.md|渴了喝矿泉水（1 分钟练习）]] — 运动后补水、拿瓶喝光

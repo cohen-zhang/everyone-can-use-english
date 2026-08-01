@@ -251,7 +251,7 @@ tags:
 
 - 电动两轮**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]
 - 酒店带娃入住与游乐场：[[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]]（与此页相向互链）
-- 成人通勤一日流水（地铁约 50 分钟、共享单车）：[[learning-notes/personal-english-book/one-minute-drill/一天.md|一天（1 分钟练习）]]
+- 成人通勤一日流水（地铁约 50 分钟、共享单车）：[[learning-notes/personal-english-book/one-minute-drill/a-weekday.md|A Weekday · 工作日的一天]]
 
 ---
 
