@@ -40,21 +40,33 @@ aliases:
 **4. 自我效能感 (Self-efficacy)**  
 Bandura 的研究表明，相信自己能做到的能力，比实际能力更能预测成功。Belief in your ability often predicts success better than raw ability.
 
+---
 
+## 我的咒语 · My Mantras
 
+每日自说自话用。先英后中；每句尽量短，方便大声重复。
 
+### 仪态 Posture
 
+**I always sit and stand properly.**  
+**If I slouch, I look older and less sharp.**  
+我从来是坐有坐像、站有站像。  
+因为坐得歪歪扭扭，会变丑、像老太婆。
 
+### 英语学习 English learning
 
+**I'm the kind of person who reads English out loud for 60 minutes every day.**  
+**It helps me live longer.**  
+**It saves my speaking ability.**  
+**It also helps prevent dementia.**  
 
-我从来是坐有坐像，站有站像，因为坐的歪歪扭扭，会变丑、像老太婆。
+我是每天都要大声朗读英文 60 分钟的人。  
+因为这样会让我更长寿，拯救我的语言表达能力，预防老年痴呆。
 
-I always sit and stand properly, because if I slouch or sit crookedly, I’ll look less nice—like a little old lady.
+### 健身 Fitness
 
-我是每天都大声英语朗读 3 分钟的人，因为大声朗读，会锻炼我的表达能力，
-
-
-我是每天起床都要锻炼 3 分钟的人
+**Working out is one of the most important things I do after I wake up.**  
+运动是我每天起床后最重要的事情之一。
 
 ---
 
@@ -64,19 +76,24 @@ I always sit and stand properly, because if I slouch or sit crookedly, I’ll lo
 
 ### A. 分句场景链（按正文顺序朗读）
 
-- **> "The words you speak become the house you live in."** — > — 你说出的话，会成为你居住的房子
+- **"The words you speak become the house you live in."** — 你说出的话，会成为你居住的房子。
+- **I'm the kind of person who reads English out loud for 60 minutes every day.** — 我是每天都要大声朗读英文 60 分钟的人。
+- **It helps me live longer.** — 这会让我更长寿。
+- **It saves my speaking ability.** — 这能拯救我的语言表达能力。
+- **It also helps prevent dementia.** — 这也有助于预防老年痴呆。
+- **Working out is one of the most important things I do after I wake up.** — 运动是我每天起床后最重要的事情之一。
 
 ### B. 一段串联（连续口语）
 
-**> "The words you speak become the house you live in.".**
+**I'm the kind of person who reads English out loud for 60 minutes every day. It helps me live longer. It saves my speaking ability. It also helps prevent dementia. Working out is one of the most important things I do after I wake up.**
 
-**简中：** > — 你说出的话，会成为你居住的房子。
+**简中：** 我是每天都要大声朗读英文 60 分钟的人。这样会让我更长寿，拯救我的语言表达能力，预防老年痴呆。运动是我每天起床后最重要的事情之一。
 
 ### C. 一分钟复盘（5 句）
 
-1. **> "The words you speak become the house you live in."** — > — 你说出的话，会成为你居住的房子
-2. **I review the key words and ideas in this note.** — 我复习本篇的核心单词和要点。
-3. **I read the examples aloud, then say them again from memory.** — 我先朗读例句，再脱稿复述一遍。
-4. **I connect one useful phrase to a real situation today.** — 我把一个实用短语连到今天的真实场景里。
-5. **Short, repeated practice helps the words stay with me.** — 简短而重复的练习能让单词留在记忆里。
+1. **"The words you speak become the house you live in."** — 你说出的话，会成为你居住的房子。
+2. **I'm the kind of person who reads English out loud for 60 minutes every day.** — 我是每天都要大声朗读英文 60 分钟的人。
+3. **It helps me live longer and saves my speaking ability.** — 这会让我更长寿，并拯救我的语言表达能力。
+4. **It also helps prevent dementia.** — 这也有助于预防老年痴呆。
+5. **Working out is one of the most important things I do after I wake up.** — 运动是我每天起床后最重要的事情之一。
 
