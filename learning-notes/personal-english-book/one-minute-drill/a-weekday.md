@@ -67,7 +67,7 @@ aliases:
 - **On a weekday, I wake up at 7 to my watch buzzing.** — 工作日早上 7 点，手表振动把我叫醒。  
 - **It's not the loud phone alarm I used to use.** — 不是以前那种很吵的手机闹铃。  
 - **From there, I can hit Stop or Snooze.** — 接着可以选停止或贪睡。  
-- **If I snooze, I get ten more minutes.** — 贪睡的话，再多睡十分钟。
+- **If I snooze, I get about ten more minutes.** — 贪睡的话，再多睡十分钟(iPhone 是 9 分钟)。
 
 ### 2. 出门通勤
 
