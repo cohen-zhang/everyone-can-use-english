@@ -409,21 +409,49 @@ def _hard_break_song_lyrics(markdown: str, page) -> str:
     return "".join(out)
 
 
+def _is_section_index_page(node) -> bool:
+    """True for folder index/README pages (URL is the section folder itself)."""
+    file = getattr(node, "file", None)
+    if file is not None:
+        name = getattr(file, "name", None) or ""
+        src = (
+            getattr(file, "src_uri", None)
+            or getattr(file, "src_path", None)
+            or ""
+        ).replace("\\", "/")
+        base = Path(src).name if src else name
+        if base in ("index.md", "README.md") or name in ("index.md", "README.md"):
+            return True
+    return False
+
+
+def _dir_parts_for_leaf(node) -> list[str] | None:
+    """Directory path parts for a nav leaf (decoded URL segments)."""
+    from urllib.parse import unquote
+
+    url = getattr(node, "url", None) or ""
+    parts = [unquote(p) for p in url.strip("/").split("/") if p]
+    if not parts:
+        return None
+    # index.md / README.md URLs point at the folder; keep full path.
+    if _is_section_index_page(node):
+        return parts
+    if len(parts) == 1:
+        return parts
+    return parts[:-1]
+
+
 def _collect_dir_prefixes(nodes) -> list[list[str]]:
-    """Collect directory prefixes (URL path without page slug) from nav leaves."""
+    """Collect directory prefixes from nav leaves (index-aware)."""
     prefixes: list[list[str]] = []
     for node in nodes or []:
         kids = getattr(node, "children", None)
         if kids:
             prefixes.extend(_collect_dir_prefixes(kids))
             continue
-        url = getattr(node, "url", None) or ""
-        parts = [p for p in url.strip("/").split("/") if p]
-        if len(parts) >= 2:
-            prefixes.append(parts[:-1])
-        elif len(parts) == 1:
-            # Section index page like english-song/ — treat as that folder.
-            prefixes.append(parts)
+        pref = _dir_parts_for_leaf(node)
+        if pref:
+            prefixes.append(pref)
     return prefixes
 
 
@@ -432,9 +460,17 @@ def _section_dir_from_children(item) -> str | None:
     prefixes = _collect_dir_prefixes(getattr(item, "children", None) or [])
     if not prefixes:
         url = getattr(item, "url", None) or ""
-        parts = [p for p in url.strip("/").split("/") if p]
+        from urllib.parse import unquote
+
+        parts = [unquote(p) for p in url.strip("/").split("/") if p]
         return parts[-1] if parts else None
 
+    # Prefer the longest shared directory path, but if an index leaf made a
+    # shorter prefix (parent folder), use the longest among non-parent-only paths.
+    # Example bug without index-aware dirs:
+    #   index → [personal-english-book]
+    #   page  → [personal-english-book, one-minute-drill]
+    #   common → personal-english-book  (wrong section title)
     common = prefixes[0][:]
     for pref in prefixes[1:]:
         i = 0
