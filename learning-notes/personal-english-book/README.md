@@ -120,6 +120,7 @@ cssclasses:
 - [[learning-notes/pronunciation/README|发音资料索引]] — 音标、音节划分、易读错词汇 149（已从 study/ 迁出）
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting.md|有趣计科词汇]]
 - [[learning-notes/personal-english-book/study/java-collections-framework.md|Java Collections Framework]]
+- [[learning-notes/personal-english-book/study/sorting-algorithms.md|Sorting Algorithms · 排序算法]]
 - [[learning-notes/personal-english-book/study/completablefuture-java-guide.md|CompletableFuture 指南]]
 - [[learning-notes/personal-english-book/study/awesome-java-demo-bridge.md|awesome-java-demo 可运行图式桥接]]
 - [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]]
@@ -160,6 +161,7 @@ cssclasses:
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
 - **语音教程 ↔ 速查 ↔ 音节重音：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] ↔ [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] ↔ [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]（见 [[learning-notes/pronunciation/README|发音资料索引]]）。
 - **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
+- **集合框架 ↔ 排序算法 ↔ demo 桥接：** [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] ↔ [[learning-notes/personal-english-book/study/sorting-algorithms|Sorting Algorithms]] ↔ [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01]]（俚语/口头禅/口头梗分表）。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。

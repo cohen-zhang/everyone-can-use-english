@@ -24,9 +24,10 @@ aliases:
 | Step | Module | Command | PEB note |
 |------|--------|---------|----------|
 | 1 | java-base | `mvn -pl java-base -q compile` · `java -cp java-base/target/classes collection.ArrayListFailFastExample` | [[learning-notes/personal-english-book/study/java-collections-framework\|Collections Framework]] |
-| 2 | io | `mvn -pl io -q compile exec:java` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
-| 3 | jvm-tool | `java -cp jvm-tool/target/classes com.zz.ClassLoaderDemo` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
-| 4 | concurrency | `mvn -pl concurrency -q compile exec:java` | [[learning-notes/personal-english-book/study/completablefuture-java-guide\|CompletableFuture guide]] |
+| 2 | sort | `mvn -pl sort test` | [[learning-notes/personal-english-book/study/sorting-algorithms\|Sorting Algorithms]] |
+| 3 | io | `mvn -pl io -q compile exec:java` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
+| 4 | jvm-tool | `java -cp jvm-tool/target/classes com.zz.ClassLoaderDemo` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
+| 5 | concurrency | `mvn -pl concurrency -q compile exec:java` | [[learning-notes/personal-english-book/study/completablefuture-java-guide\|CompletableFuture guide]] |
 
 **Demo bridge (mirror):** https://github.com/zhangze2/awesome-demo/blob/master/docs/english/peb-bridge.md
 
@@ -39,6 +40,7 @@ aliases:
 | fail-fast / ArrayList | `collection.ArrayListFailFastExample` | `java-base/README.en.md` |
 | String intern | `string.StringInternExample` | `java-base/README.en.md` |
 | JDK dynamic proxy | `proxy.JdkDynamicProxy` | `java-base/README.en.md` |
+| Sorting algorithms | `sort.QuickSort` / `MergeSort` / `HeapSort` … | `sort/README.md` · PEB: [[learning-notes/personal-english-book/study/sorting-algorithms\|Sorting Algorithms]] |
 | ClassLoader delegation | `com.zz.ClassLoaderDemo` | `jvm-tool/README.en.md` |
 | GC heap + logs | `com.zz.GcLogAnalysisExample` | `jvm-tool/README.en.md` |
 | Blocking socket | `io.demo.network.SocketEchoExample` | `io/README.en.md` |
