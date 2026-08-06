@@ -450,23 +450,26 @@ for (String s : list) {
 
 ## Vocabulary — 词汇表
 
-| Term | 中文 | Definition |
-|------|------|------------|
-| **Collection** | 集合 | An object that groups multiple elements into a single unit |
-| **Interface** | 接口 | A reference type in Java, similar to a class that only contains abstract methods |
-| **Implementation** | 实现 | A concrete class that provides the actual functionality of an interface |
-| **Duplicate** | 重复 | Having more than one instance of the same element |
-| **Ordered** | 有序的 | Maintaining a specific sequence of elements |
-| **Hash table** | 哈希表 | A data structure that uses a hash function to compute an index |
-| **Red-black tree** | 红黑树 | A self-balancing binary search tree |
-| **Polymorphic** | 多态的 | Having many forms, allowing objects of different types to be treated as objects of a common type |
-| **Interoperable** | 可互操作的 | Able to work together with other systems or components |
-| **Immutable** | 不可变的 | Cannot be changed once created |
-| **Synchronized** | 同步的 | Thread-safe, allowing only one thread to access at a time |
-| **Concurrent** | 并发的 | Handling multiple tasks simultaneously |
-| **Iterator** | 迭代器 | An object that enables traversing a collection |
-| **Capacity** | 容量 | The maximum number of elements a collection can hold |
-| **Resizing** | 调整大小 | Changing the capacity of a collection dynamically |
+| Term | IPA（美） | 中文 | Definition |
+|------|-----------|------|------------|
+| **Collection** | /kəˈlekʃən/ | 集合 | An object that groups multiple elements into a single unit |
+| **Interface** | /ˈɪntərfeɪs/ | 接口 | A reference type in Java, similar to a class that only contains abstract methods |
+| **Implementation** | /ˌɪmpləmənˈteɪʃən/ | 实现 | A concrete class that provides the actual functionality of an interface |
+| **Duplicate** | /ˈduːplɪkət/ | 重复 | Having more than one instance of the same element |
+| **Ordered** | /ˈɔːrdərd/ | 有序的 | Maintaining a specific sequence of elements |
+| **Hash table** | /ˈhæʃ ˌteɪbəl/ | 哈希表 | A data structure that uses a hash function to compute an index |
+| **Red-black tree** | /ˌred ˈblæk ˌtriː/ | 红黑树 | A self-balancing binary search tree |
+| **Polymorphic** | /ˌpɑːliˈmɔːrfɪk/ | 多态的 | Having many forms, allowing objects of different types to be treated as objects of a common type |
+| **Interoperable** | /ˌɪntərˈɑːpərəbəl/ | 可互操作的 | Able to work together with other systems or components |
+| **Immutable** | /ɪˈmjuːtəbəl/ | 不可变的 | Cannot be changed once created |
+| **Synchronized** | /ˈsɪŋkrənaɪzd/ | 同步的 | Thread-safe, allowing only one thread to access at a time |
+| **Concurrent** | /kənˈkɜːrənt/ | 并发的 | Handling multiple tasks simultaneously |
+| **Iterator** | /ˈɪtəreɪtər/ | 迭代器 | An object that enables traversing a collection |
+| **Capacity** | /kəˈpæsəti/ | 容量 | The maximum number of elements a collection can hold |
+| **Resizing** | /ˌriːˈsaɪzɪŋ/ | 调整大小 | Changing the capacity of a collection dynamically |
+| **Manipulating** | /məˈnɪpjuleɪtɪŋ/ | 操作；处理 | Working with or changing data in a controlled way |
+| **Allow** | /əˈlaʊ/ | 允许 | To permit something to happen or be included |
+| **Efficient** | /ɪˈfɪʃənt/ | 高效的 | Achieving good results with little wasted time or resources |
 
 ## Common Interview Questions — 常见面试问题
 
