@@ -257,6 +257,7 @@ CompletableFuture.supplyAsync(() -> longRunningTask())
 - [Java Documentation: CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html)
 - [Guide to CompletableFuture in Baeldung](https://www.baeldung.com/java-completable-future)
 - Related: **`Future`**, **`ExecutorService`**, **`Stream` API** — 相关：`Future`、`ExecutorService`、`Stream` API
+- 系列笔记：[[learning-notes/personal-english-book/study/java-concurrency|并发编程]] · [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
 
 ---
 

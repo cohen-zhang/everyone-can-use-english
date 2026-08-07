@@ -23,11 +23,12 @@ aliases:
 
 | Step | Module | Command | PEB note |
 |------|--------|---------|----------|
-| 1 | java-base | `mvn -pl java-base -q compile` · `java -cp java-base/target/classes collection.ArrayListFailFastExample` | [[learning-notes/personal-english-book/study/java-collections-framework\|Collections Framework]] |
+| 1 | java-base | `mvn -pl java-base -q compile` · `java -cp java-base/target/classes collection.ArrayListFailFastExample` | [[learning-notes/personal-english-book/study/java-fundamentals\|Java 基础]] |
 | 2 | sort | `mvn -pl sort test` | [[learning-notes/personal-english-book/study/sorting-algorithms\|Sorting Algorithms]] |
-| 3 | io | `mvn -pl io -q compile exec:java` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
-| 4 | jvm-tool | `java -cp jvm-tool/target/classes com.zz.ClassLoaderDemo` | [[learning-notes/personal-english-book/study/computer-science-vocab-interesting\|CS vocabulary]] |
-| 5 | concurrency | `mvn -pl concurrency -q compile exec:java` | [[learning-notes/personal-english-book/study/completablefuture-java-guide\|CompletableFuture guide]] |
+| 3 | io | `mvn -pl io -q compile exec:java` | [[learning-notes/personal-english-book/study/java-io-streams\|IO 流]] |
+| 4 | jvm-tool | `java -cp jvm-tool/target/classes com.zz.ClassLoaderDemo` | [[learning-notes/personal-english-book/study/jvm-internals\|JVM 内部机制]] |
+| 5 | concurrency | `mvn -pl concurrency -q compile exec:java` | [[learning-notes/personal-english-book/study/java-concurrency\|并发编程]] |
+| 6 | exception | `cd exception && mvn spring-boot:run` | [[learning-notes/personal-english-book/study/java-exception-handling\|异常处理]] |
 
 **Demo bridge (mirror):** https://github.com/zhangze2/awesome-demo/blob/master/docs/english/peb-bridge.md
 
@@ -41,6 +42,7 @@ aliases:
 | String intern | `string.StringInternExample` | `java-base/README.en.md` |
 | JDK dynamic proxy | `proxy.JdkDynamicProxy` | `java-base/README.en.md` |
 | Sorting algorithms | `sort.QuickSort` / `MergeSort` / `HeapSort` … | `sort/README.md` · PEB: [[learning-notes/personal-english-book/study/sorting-algorithms\|Sorting Algorithms]] |
+| Exception handling | `com.example.awesomedemo.BusinessException` / `advice.RestControllerExceptionHandler` | `exception/README.md` · PEB: [[learning-notes/personal-english-book/study/java-exception-handling\|异常处理]] |
 | ClassLoader delegation | `com.zz.ClassLoaderDemo` | `jvm-tool/README.en.md` |
 | GC heap + logs | `com.zz.GcLogAnalysisExample` | `jvm-tool/README.en.md` |
 | Blocking socket | `io.demo.network.SocketEchoExample` | `io/README.en.md` |
