@@ -36,6 +36,7 @@ aliases:
 - [[learning-notes/grammar-lab/主系表句型|主系表句型]] — *待写*
 - [[learning-notes/grammar-lab/kids-comic-grammar-foundations|儿童漫画语法基础]]
 - [[learning-notes/grammar-lab/grammar-kingdom-notes|《语法王国》笔记]] — *待整理*
+- [[learning-notes/grammar-lab/analysis-sentence/README|长难句分析（spaCy）]] — 词性 / 依存 / ROOT 主干定位使用说明
 
 ---
 
