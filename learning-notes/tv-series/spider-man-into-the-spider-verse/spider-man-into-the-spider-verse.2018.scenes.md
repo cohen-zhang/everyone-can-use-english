@@ -1,0 +1,1641 @@
+---
+tags:
+  - tv-series
+  - spider-verse
+  - transcript
+aliases:
+  - Spider-Verse scene transcript
+---
+
+# Spider-Man: Into the Spider-Verse (2018) — Scene transcript
+
+**Source:** [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.en.srt|spider-man-into-the-spider-verse.2018.en.srt]]  
+**Vocab:** [[learning-notes/tv-series/spider-man-into-the-spider-verse/vocabulary|vocabulary]] · **Index:** [[learning-notes/tv-series/spider-man-into-the-spider-verse/README|README]]
+
+English-only scene script (timestamps removed). Segmented by plot beats in the style of Modern Family daily-lines. Song lyric cues omitted; light HI sound tags kept.
+
+---
+
+## Plot beats
+
+### A. Prologue — Peter Parker
+
+*The original Spider-Man wraps his origin one last time.*
+
+- **PETER: All right, let's do this one last time.**
+- **My name is Peter Parker.**
+- **I was bitten by a radioactive spider.**
+- **And for 10 years, I've been the one...**
+- **...and only...**
+- **...Spider-Man.**
+- **I'm pretty sure you know the rest.**
+- **With great power comes great responsibility.**
+- **I saved a bunch of people, fell in love, saved the city.**
+- **And then I saved the city again. And again and again and again.**
+- **And I did, uh...**
+- **I did this.**
+- **We don't really talk about this.**
+- **Look, I'm a comic book. I'm a cereal.**
+- **Did a Christmas album.**
+- **I have an excellent theme song.**
+- **And a so-so popsicle.**
+- **I mean, I've looked worse.**
+- **But after everything...**
+- **- Ah! - ...I still love being Spider-Man.**
+- **I mean, who wouldn't?**
+- **So no matter how many hits I take...**
+- **...I always find a way to come back.**
+- **Because the only thing standing between this city and oblivion...**
+- **...is me.**
+- **There's only one Spider-Man.**
+- **And you're lookin' at him.**
+- [music]
+
+### B. Miles' morning
+
+*Rio and Jefferson wake Miles; school drop-off and the "I love you, Dad" bit.*
+
+- **RIO: Miles!**
+- **Miles, papá, time for school!**
+- **JEFFERSON: Miles!**
+- **Miles!**
+- **- Miles! - Yeah! Yeah?**
+- **Are you finished packing for school?**
+- **Yeah.**
+- **Just ironing my last shirt.**
+- [RIO SPEAKS IN SPANISH]
+- **JEFFERSON: Come on! You a grown man now. Let's show these teachers that.**
+- **RIO [IN ENGLISH]: Miles!**
+- **Where's my laptop?**
+- **If you want me to drive you, we gotta go now.**
+- **No, Dad, I'll walk.**
+- **- Personal chauffeur going once. - It's okay.**
+- [SPEAKS SPANISH]
+- **- [IN ENGLISH] Miles! Gotta go. - In a minute!**
+- **- Gotta go. - In a minute!**
+- **- Mom, I gotta go. - In a minute.**
+- [MILES GROANS]
+- [SPEAKS IN SPANISH]
+- **[IN ENGLISH] See you Friday.**
+- [MILES SPEAKS IN SPANISH]
+- **Look who's back. Yo, what's going on, bro?**
+- **[IN ENGLISH] Hey, I'm just walking by. How you doin'?**
+- [BOTH SPEAKING IN SPANISH]
+- **Yo, Miles! You feel that earthquake last night?**
+- **[IN ENGLISH] What you talkin' about? I slept like a baby last night.**
+- **- How's that new school? - So easy.**
+- **- We miss you, Miles. - You miss me? I still live here!**
+- **Wait, you miss me?**
+- **Contra!**
+- [SIREN CHIRPS]
+- **Oh, come on.**
+- **Seriously, Dad. Walking would've been fine.**
+- **You can walk plenty on Saturday when you peel those stickers off.**
+- **You saw that? I don't know if that was me.**
+- **And the two from yesterday on Clinton.**
+- **Yeah, those were me.**
+- **Oh. Look at that. Another new coffee shop.**
+- **- You see that? - Totally. Yeah.**
+- **- What's that one called? - Foam Party.**
+- **"Foam Party"? Ha, ha. Come on.**
+- **And everyone is just linin' up. You see that?**
+- **I see it.**
+- **- Is that a coffee shop or a disco? - Dad, you're old, man.**
+- **WOMAN [OVER RADIO]: There are multiple reports...**
+- **...of another mysterious seismic event last night.**
+- **Sources close to Spider-Man say he's looking into the problem.**
+- **Spider-Man. I mean, this guy swings in once a day...**
+- **...zip-zap-zop in his little mask and answers to no one. Right?**
+- **Yeah, Dad. Yeah.**
+- **Meanwhile, my guys are out there...**
+- **- ...lives on the line, no masks. - Uh-huh.**
+- **- We show our faces. - Speed up. I know these kids.**
+- **With great ability comes great accountability.**
+- **That's not even how the saying goes.**
+- **I do like his cereal, though. I'll give him that.**
+- **Oh, my gosh. Don't cops run red lights?**
+- **Oh, yeah, some do. But, uh, tsk, not your dad.**
+- **Why can't I go back to Brooklyn Middle?**
+- **You've given it two weeks. We're not having this conversation.**
+- **- I just think that this new school is elitist. - "Elitist"?**
+- **And I would prefer to be at a normal school among the people.**
+- **"The people"? These are your people.**
+- **I'm only here 'cause I won that stupid lottery.**
+- **No way. You passed the entry test just like everybody else.**
+- **You have an opportunity here. You wanna blow that?**
+- **You wanna end up like your uncle?**
+- **What's wrong with Uncle Aaron? He's a good guy.**
+- **We all make choices in life.**
+- **It doesn't feel like I have a choice right now.**
+- **You don't!**
+- [MILES SIGHS]
+- **I love you, Miles.**
+- **Yeah, I know, Dad. See you Friday.**
+- [SIREN CHIRPS]
+- **[OVER PA] You gotta say "I love you" back.**
+- **Dad, are you serious?**
+- **- I wanna hear it. "I love you, Dad." - You wanna hear me say it?**
+- **- You're dropping me off at a school. - "I love you, Dad."**
+- **- Look at this place. - "Dad, I love you."**
+- **Dad, I love you.**
+- **That's a copy.**
+- **Tie your shoes, please.**
+- **BOY 1: "I love you, Dad."**
+- **Hey, good morning. How you doin'?**
+- **Weekend was short, huh? BOY 2: "That's a copy."**
+- **Oh, my gosh! This is embarrassing. We wore the same jacket.**
+- **Hey. Your shoe's untied.**
+- **Yeah, I'm aware. It's a choice.**
+
+### C. School day
+
+*Classes, Great Expectations, and a late entrance with a relativity joke.*
+
+- [SCHOOL BELL RINGS]
+- **Who can solve this for XY?**
+- **And that is known as a syllogism.**
+- **Read two chapters of Great Expectations.**
+- **A take-home quiz on volumetric pressure.**
+- **Five-page essay with your conclusions stressed.**
+- [SCHOOL BELL RINGS]
+- **WOMAN [ON SCREEN]: - - countless other possibilities.**
+- **There could be a universe where I am wearing red.**
+- **Or wearing leather pants.**
+- **Mr. Morales. Movin' in the dark. You're late again.**
+- **Einstein said time was relative, right?**
+- **Maybe I'm not late. Maybe you guys are early.**
+- [CHUCKLES]
+- **Sorry. It was just so quiet.**
+- **Would you like to keep standing there, or do you wanna sit down?**
+- **Our universe is, in fact, one of many parallel universes...**
+- **...happening at the exact same time.**
+- **Thanks to everyone here at the Fisk Family Foundation...**
+- **- I liked your joke. - Really?**
+- **I mean, it wasn't funny. That's why I laughed.**
+- **But it was smart, so I liked it.**
+- **I don't think I've seen you before. MS. CALLEROS: Shh.**
+- **Every choice that we make...**
+- **...would create countless other possibilities.**
+- **A what-if to infinity.**
+- **MILES: A zero?**
+- **A few more of those, you'd probably have to kick me outta here, huh?**
+- **Maybe I'm just not right for this school.**
+- **If a person wearing a blindfold picked the answers...**
+- **...on a true-or-false quiz at random...**
+- **...do you know what score they would get?**
+- **- 50%? - That's right!**
+- **The only way to get all the answers wrong is to know which answers are right.**
+- **You're trying to quit.**
+- **And I'm not gonna let you.**
+- **I'm assigning you a personal essay.**
+- **Not about physics, but about you...**
+- **...and what kind of person you want to be.**
+- [TRAIN APPROACHING]
+- [music]
+- [CELL PHONE BUZZES]
+
+### D. Uncle Aaron
+
+*Aaron coaches Miles on game, takes him tagging in an abandoned building.*
+
+- **Uncle Aaron! Hey! Were you scared?**
+- [BLOWING]
+- [CHUCKLES]
+- [GRUNTING]
+- **You want that? Huh? Ha!**
+- **- What's up with school? - Going great! Got tons of friends.**
+- **You can't tell me it's all that bad there. Smart girls is where it's at.**
+- **Place must be full of 'em.**
+- [AARON CHUCKLES]
+- **Heh, heh. No, there's no one.**
+- **Yo, I can't have no nephew of mine on the streets with no game.**
+- **Hey, I got game.**
+- **There's a new girl. Actually, you know, she's kinda into me. You know how it is.**
+- **What's her name?**
+- **You know, we layin' down the groundwork right now.**
+- [AARON CHUCKLES]
+- **You know about the shoulder touch?**
+- **'Course I do. Heh.**
+- **But, uh, tell me anyway.**
+- **Tomorrow, find that girl. You walk up to her and be like:**
+- **"Hey."**
+- **- Heh, heh. You serious, Uncle Aaron? - I'm tellin' you, man, it's science.**
+- **So walk up to her and be like: "Hey."**
+- **No, no, no, no. Like: "Hey."**
+- **- "Hey." - Heh, heh.**
+- **No. "Hey."**
+- **"Hey." Heh.**
+- **You sure you my nephew, man?**
+- [CELL PHONE CHIMES]
+- **Is that her?**
+- **I should probably go. Still got a paper to do tonight.**
+- **Yo, you been holdin' out on me? You throw these up yet?**
+- **Naw, man. You know my dad. I can't.**
+- **Come on. I got a spot you ain't gon' believe.**
+- **Naw, I can't. I can't. Can't.**
+- **MILES: I'm gonna get in so much trouble.**
+- **AARON: Hey, man. Tell him your art teacher made you.**
+- [MILES CHUCKLES]
+- **MILES: How'd you know about this place? - Did an engineering job down here.**
+- [GRUNTING]
+- **- What's up? - Ha, ha!**
+- **Yeah, man, I knew we were related.**
+- **MILES: Whoa!**
+- **Brooklyn!**
+- [ECHOING]
+- **AARON: There's a lot of history on these walls.**
+- **This is so fresh.**
+- **And now you on your own, Miles.**
+- **Whoa, slow down a little.**
+- **That's better.**
+- **See what you got now? Makin' mistakes is part of it.**
+- **The real Miles comin' outta hidin'.**
+- **Now you can cut that line with another color.**
+- **Little help?**
+- **AARON: Did you want drips?**
+- **'Cause if you do, that's cool, but if you don't, you gotta keep it moving.**
+- **MILES: That's intentional.**
+- [AARON CHUCKLES]
+- **AARON: Wow.**
+- **- Is it too crazy? - No, man.**
+- **Miles, I see exactly what you're doing there.**
+- **Yeah. You know, me and your dad used to do this back in the day.**
+- **- Stop lyin'. - It's true.**
+- **Then he took on the cop thing, and I don't know...**
+- **He's a good guy, just...**
+- **You know what I'm sayin'.**
+- [CELL PHONE BUZZES]
+- **All right, come on, man. I gotta roll.**
+- [GASPS]
+- **Miles, let's go.**
+
+### E. Powers awaken
+
+*Puberty panic, sticky hands, the glowing spider, and watching Spider-Man fight.*
+
+- [ALARM BEEPING THEN TURNS OFF]
+- **MILES: That's weird.**
+- **My pants shrank.**
+- **I think I hit puberty.**
+- [SCHOOLBELL RINGING]
+- **I gotta get new pants.**
+- **Wait. Why is the voice in my head so loud?**
+- **What?**
+- **- Oh! Are you okay? - What?**
+- **Why am I so sweaty?**
+- **Why are you so sweaty?**
+- **It's a puberty thing.**
+- **I don't know why I said that. I'm not going through puberty.**
+- **I did, but I'm done.**
+- **[IN DEEP VOICE] I'm a man.**
+- **[IN NORMAL VOICE] So you're, like, new here, right? We got that in common.**
+- **Yeah. That's one thing.**
+- **Cool. Yeah.**
+- **I'm Miles.**
+- **I'm Gwe... anda.**
+- **Wait, your name is Gwanda?**
+- **Yes, it's African. I'm South African.**
+- **Uh, no accent though 'cause I was raised here.**
+- **MILES: Do the shoulder touch now before she walks away.**
+- **Why is this so scary?**
+- **Am I doing this in slow motion or does it just feel that way?**
+- **I'm kidding. It's Wanda. No "G." That's crazy. Heh.**
+- **[IN DEEP VOICE] Hey.**
+- **Okay, then. Uh...**
+- **I'll see you around.**
+- **[IN NORMAL VOICE] Oh. See you.**
+- **- Sorry. Um... - Hey.**
+- **- Oh, crap. - Um, can you let go, please?**
+- **- I can't let go. - Ow, ow, ow. Calm down. It's fine.**
+- [BOTH YELL]
+- **- Miles, let go. - Workin' on it.**
+- **It's just puberty.**
+- **I don't think you know what puberty is. Just relax.**
+- **- Okay, I have a plan. - Great.**
+- **- I'm gonna pull really hard. - That's a terrible plan.**
+- **- One. - Don't do this.**
+- **- Two. - Three!**
+- [MILES SCREAMS]
+- [CLIPPERS WHIRRING]
+- **Nice to meet you?**
+- **Sure. Total pleasure.**
+- **MILES: No one saw. It's okay.**
+- **No one knows, no one knows.**
+- **Everyone knows.**
+- **Everyone knows. They're talkin' 'bout me. They saw everything!**
+- **He knows. She knows. They know.**
+- **Wow, she's super tall.**
+- **Why is he smiling? Am I the weird guy now? What am I doing?**
+- **That guy's such a weirdo.**
+- **How do I stop?**
+- **Can they hear my thoughts?! Why are all my thoughts so loud?!**
+- **Hey! I know you snuck out last night, Morales.**
+- **MILES: Play dumb!**
+- **Who's Morales?**
+- **Not that dumb!**
+- **Hey!**
+- **Okay, okay. You're okay. You're okay.**
+- **He'll never find you.**
+- **No.**
+- **Ow!**
+- **What are you doing in my office, Morales?!**
+- **Morales! Open up!**
+- **MILES: Why is this happening?**
+- **He's got a nice voice.**
+- [KNOCKING ON DOOR]
+- **GUARD: Open up!**
+- **MILES: Stop sticking!**
+- [MILES YELPS]
+- **Keep sticking, Miles! Whoa!**
+- [SCREAMS]
+- **...Hofstadter is suggesting...**
+- **...is that we...**
+- **...look on the...**
+- [MILES YELPING]
+- **Okay.**
+- **My room!**
+- **MILES: "Why is this happening?"**
+- **"Please stop sticking."**
+- **"Please keep st..."**
+- **Wait, wait, wait.**
+- **How could there be two Spider-Men? There can't be two Spider-Men.**
+- **Can there?**
+- **Come on, Uncle Aaron, pick up. Pick up!**
+- **AARON [ON VOICEMAIL]: Yo, it's Aaron. I'm outta town for a few days.**
+- **I'll hit you when I'm back. Peace.**
+- **MILES: No. No-No-No-No-No.**
+- **It's not possible!**
+- **It's just puberty.**
+- **It's a normal spider and I'm a normal kid!**
+- **Whoa!**
+- **All right!**
+- **I gotta tell someone.**
+- [LINE RINGING]
+- [SIGHS]
+- **Okay, you're being crazy, Miles. You're being crazy.**
+- **Find the spider.**
+- **You'll see.**
+- **It's a normal spider.**
+- **It's, like, boring how normal this spider is.**
+- [RUMBLING]
+- **MILES: I'm right here.**
+- **Why is this happening to me?**
+- **Slow down! What am I doing?**
+- **Way over there.**
+- **GIRL: You're like me.**
+- **MAN: Miles. Look out.**
+- **MILES: I don't wanna be a hero. MAN: Miles.**
+- **Whoa!**
+- [GROWLING]
+- **SPIDER-MAN: Norman, listen to me.**
+- **MILES: Spider-Man?**
+- **I cannot let you open a portal to another dimension.**
+- **Brooklyn is not zoned for that.**
+- **GREEN GOBLIN: It's not up to me.**
+- **Is that Green Goblin?!**
+- **Why won't you quit?!**
+- **I guess I like Brooklyn not being sucked into a black hole.**
+- **I think I'm gonna go.**
+- **SPIDER-MAN: Staten Island, maybe. Not Brooklyn.**
+- **No! No!**
+- [MILES GRUNTING]
+- [ROARS]
+- **Whoa!**
+- **What now?**
+- **What is this place?**
+- [YELPING]
+- [MILES SCREAMING]
+- **Did you know your shoes are untied?**
+- **Uh-huh.**
+- **This is a onesie, so I don't really have to worry about it.**
+- **I thought I was the only one. You're like me.**
+- **I don't wanna be.**
+- **I don't think you have a choice, kiddo.**
+- **Got a lot going through your head, I'm sure.**
+- **Yeah.**
+- **You're gonna be fine. I can help you.**
+- **If you stick around, I can show you the ropes.**
+- **Yeah.**
+- [RUMBLING]
+- **I just need to destroy this big machine real quick...**
+- **...before the space-time continuum collapses.**
+- **Don't move.**
+- **See you in a bit.**
+
+### F. Collider — Peter's last stand
+
+*Kingpin's test; Peter gives Miles the override key and dies.*
+
+- **How does he do that?**
+- **Is it here? No, no, it's here.**
+- **All right, folks.**
+- **I always get this wrong.**
+- **Oh, boy.**
+- **Prowler.**
+- **Man, I was in the middle of something.**
+- [GRUNTING]
+- **I am so tired.**
+- **Are you mad at me? I feel like you're mad at me.**
+- **That all you got?**
+- [ROARS]
+- **Aw, so gross.**
+- **I should go up there and help him.**
+- **Who am I kidding? I should not do that.**
+- [KINGPIN HUMMING]
+- **KINGPIN: Watch out. Here comes the Spider-Man.**
+- **You like my new toy?**
+- **Cost me a fortune, but, hey, can't take it with you, right?**
+- **You came all this way. Watch the test.**
+- **It's a hell of a freaking light show. You're gonna love this.**
+- **No! No, don't do this! Stop!**
+- **You don't know what it can do! You'll kill us all!**
+- **WOMAN: I see multiple dimensions opening!**
+- **That was three, four and five separate dimensions.**
+- **It's unstable! We should stop.**
+- [YELLS]
+- **Norm, what's your take on head trauma?**
+- [GRUNTS]
+- **I tried to warn you, pal.**
+- [GRUNTS]
+- **Goblin, no! Get him outta there!**
+- [GROANING]
+- **VANESSA: Wilson! Where are we?**
+- **GWEN: Really weird.**
+- **VANESSA: Wilson!**
+- **Hey! Are you okay?**
+- **I'm fine, I'm fine. I'm just resting.**
+- **- Can't you get up? - Yeah. Ha, ha.**
+- **Yeah, I always get up.**
+- [COUGHS]
+- **The coughing's probably not a good sign.**
+- **KINGPIN: Find him. Now.**
+- **Listen, we gotta team up here. We don't have that much time.**
+- **This override key is the only way to stop the collider.**
+- **Swing up there, use this key, push the button and blow it up.**
+- **You need to hide your face.**
+- **You don't tell anyone who you are.**
+- **No one can know. He's got everyone in his pocket.**
+- **If he turns the machine on again, everything you know will disappear.**
+- **Your family, everyone.**
+- **Everyone.**
+- **Promise me you'll do this.**
+- **I promise.**
+- **Go. Destroy the collider.**
+- **I'll come and find you.**
+- [COUGHS]
+- **It's gonna be okay.**
+- **KINGPIN: Tombstone. We're done with tests.**
+- **Get that thing ready to go again. And soon.**
+- **Run faster!**
+- **These guys are weak.**
+- **I'd say it's nice to see you again, Spider-Man, but it's not.**
+- **Hey, Kingpin. How's business?**
+- **Boomin'. Ha!**
+- **Nice. Aw, that's a no-no.**
+- [KINGPIN CHUCKLES]
+- **This might open a black hole under Brooklyn.**
+- **It can't be worth the risk.**
+- **It's not always about the money, Spider-Man.**
+- [GROANS]
+- **Don't you wanna know what I saw in there?**
+- **Wait.**
+- **I know what you're trying to do...**
+- **...and it won't work.**
+- **They're gone.**
+- [KINGPIN YELLS]
+- **Get rid of the body.**
+- **What was that?**
+- **Kill that guy.**
+
+### G. Aftermath
+
+*Miles sticks to the subway; home with Jefferson and Rio; grief at the cemetery.*
+
+- [GASPS]
+- [YELLS]
+- **Stop sticking!**
+- **MAN [OVER PA]: Stand clear of the closing doors, please.**
+- **Yeah, I think it's a Banksy.**
+- **JEFFERSON: Police! Put your hands up!**
+- **Miles? Miles?**
+- **Why aren't you at school? Whoa, whoa, whoa. It's okay. It's okay.**
+- **Miles? ¿Qué te pasa?**
+- **Is it the earthquake?**
+- **Can I sleep here tonight?**
+- **Miles. It's a weeknight. You made a commitment to that school.**
+- **He's upset.**
+- **Of course you can stay.**
+- **- Dad? - Yeah.**
+- **Do you really hate Spider-Man?**
+- [ExHALES]
+- **Yeah. I mean, with a vigilante, there is...**
+- **Jeff, mi amor.**
+- **What? He asked me. Baby, you know how I feel about Spider-Man. Come on.**
+- **Tú sabes que él te quiere mucho.**
+- **That's why he's tough on you. You know that, right?**
+- **Mom, do you ever think about moving out of Brooklyn?**
+- **Our family doesn't run from things, Miles.**
+- **Yeah, I know.**
+- **JEFFERSON: What's that about? - He's having a hard time, Jeff.**
+- **JEFFERSON: When it gets hard, that's when he's gotta stick it out.**
+- [SIGHS]
+- **WOMAN [ON TV]: We interrupt this broadcast for a special report.**
+- **Sad news tonight. The hero known as Spider-Man...**
+- **...has died after injuries related to another powerful earthquake in Brooklyn.**
+- **Multiple sources are confirming that Peter Parker...**
+- **...a 26-year-old grad student and part-time photographer...**
+- **...operated as Spider-Man for at least a decade.**
+- **MAN [ON TV]: He is survived by his wife, Mary Jane, and his aunt, May Parker.**
+- **Our hero, Spider-Man, is gone.**
+- **MARY: My husband, Peter Parker...**
+- **...was an ordinary person.**
+- **He always said it could've been anyone behind the mask.**
+- **He was just the kid who happened to get bit.**
+- **I'm going to miss him.**
+- **Yeah.**
+- **We were friends, you know.**
+- **Can I return it if it doesn't fit?**
+- **It always fits...**
+- **...eventually.**
+- **MARY: He didn't ask for his powers...**
+- **...but he chose to be Spider-Man.**
+- **My favorite thing about Peter...**
+- **...is that he made us each feel powerful.**
+- **We all have powers of one kind or another.**
+- **But in our own way...**
+- **...we are all Spider-Man.**
+- **And we're all counting on you.**
+- **MILES: They're counting on me.**
+- **MAN: Probably not you specifically. I think it's a metaphor.**
+- [MILES ExHALES]
+- [YELLS]
+- [GRUNTING]
+- [SCREAMS]
+- [BELL TOLLING]
+- **I'm sorry, Mr. Parker.**
+- **That thing you gave me, that key...**
+- **...I think I really messed it up.**
+- **I wanna do what you asked.**
+- **I really do.**
+- **But I'm sorry.**
+- **I'm not sure I'm the guy.**
+- **I can't do this without you.**
+- **Hey, kid. Ahh!**
+- **MILES: Whoa!**
+- **What did I do to him?!**
+- **No.**
+- **Who are you?**
+- **PETER: All right, people, let's do this one last time.**
+- **My name is Peter B. Parker.**
+- **I was bitten by a radioactive spider.**
+- **And for the last 22 years...**
+- **...I thought I was the one and only Spider-Man.**
+- **What a day.**
+- **I'm pretty sure you know the rest.**
+- **You see, I saved the city, fell in love, I got married...**
+- **...saved the city some more, maybe too much.**
+- **My marriage got testy, made some dicey money choices.**
+- **Don't invest in a spider-themed restaurant.**
+- **Then like 15 years passed. Blah, blah, blah. Super boring.**
+
+### H. Peter B. Parker
+
+*Miles meets a broken Spider-Man from another dimension; the goober.*
+
+- **I broke my back, a drone flew into my face, I buried Aunt May.**
+- **My wife and I... split up.**
+- **But I handled it like a champion.**
+- [SOBBING]
+- **'Cause, you know what, no matter how many times I get hit, I always get back up.**
+- [CELL PHONE CHIMING]
+- **And I got a lot of time to reflect and work on myself.**
+- **Did you know that seahorses, that they mate for life?**
+- **Could you imagine?**
+- **A seahorse seeing another seahorse...**
+- **...and then making it work?**
+- [LINE RINGING]
+- **She wanted kids and...**
+- **And it scared me.**
+- **I'm pretty sure I broke her heart.**
+- **Flash-forward: I'm in my apartment doing push-ups...**
+- **...doing ab crunches, getting strong...**
+- **...when this weird thing happened.**
+- **And I gotta say, weird things happen to me a lot.**
+- **But this was real weird.**
+- [YELLS]
+- [SCREAMING]
+- [GRUNTING]
+- **Ow!**
+- **You see, I was in New York, but things were different.**
+- **Also, I was dead.**
+- **And blond.**
+- **I was kind of perfect.**
+- **It was like looking in a mirror.**
+- **I have a feeling that the thing that brought me here was the thing that got him killed.**
+- **You wanna know what happened next?**
+- **Me, too.**
+- **MILES: Who are you?**
+- **MAN: What are you doin' over there?**
+- **Freeze! PDNY.**
+- **WOMAN: Stop!**
+- [MILES GRUNTS]
+- **Are you kidding me right now?**
+- **WOMAN: Stop! Stop!**
+- **MILES: I gotcha. I gotcha.**
+- **MAN: Hey, kid. Drop the body.**
+- **Hey, kid. Get over here! WOMAN: Come on, now!**
+- **MILES: See you, officers! Heh, heh.**
+- **Aw, come on.**
+- [MILES YELLS]
+- **MAN: Hey, kid. WOMAN: Kid, come on, now!**
+- **Put 'em up, son!**
+- [SCREAMS]
+- **Uh...adiós?**
+- [GROANING THEN YELLING]
+- **MILES: Help! Somebody stop that train!**
+- [SIREN WAILING]
+- **PETER: Oh, hey. What the...?**
+- **Sorry.**
+- **I'm gonna die!**
+- **MAN [OVER RADIO]: Looks like a child dressed like Spider-Man...**
+- **...dragging a homeless corpse behind a train.**
+- **Whoo! Yes! I didn't kill you.**
+- **PETER: Who are you? - Who are you?**
+- **PETER: Why are you trying to kill me? - I'm not. I'm trying to save you.**
+- [music]
+- [BOTH YELL]
+- **MILES: Hey, maybe you guys can go around?**
+- **All right. Thanks, New York.**
+- **PETER: What was that?**
+- **Kid electrocuted me...**
+- **...with his hands.**
+- **- You're like me. - I got some questions.**
+- [GRUNTING]
+- **Why do you look like Peter Parker?**
+- **Because I am Peter Parker.**
+- **Then why aren't you dead? And why is your hair different?**
+- **Why are you older? And why is your body...**
+- **...a different shape?**
+- **Pretty sure you just called me fat.**
+- **You don't look so hot either, kid.**
+- **Most superheroes don't wear their own merch.**
+- **- Are you a ghost? - No.**
+- **- Are you a zombie? - Stop it.**
+- **- Am I a zombie? - You're not even close.**
+- **Are you from another dimension?**
+- **Like a parallel universe where things are like this universe but different?**
+- **And you're Spider-Man in that universe?**
+- **But somehow traveled to this universe, but you don't know how?**
+- **- Wow. That was really just a guess? - We learned about it in physics.**
+- **- Quantum theory. - This is amazing!**
+- **You can teach me like Peter said he would.**
+- **Before he died.**
+- **- Yeah. Exactly. - Yeah, right.**
+- **Look, I made a promise to him.**
+- **Here's lesson number one, kid.**
+- **Don't watch the mouth. Watch the hands.**
+- **Peter, seriously...**
+- [SIGHS]
+- **Trust me, kid. This'll all make you a better Spider-Man.**
+- [YELLS]
+- **Hey, are you okay?**
+- **No, I'm not.**
+- **What's going on with your body?**
+- **I don't think my atoms are real jazzed about being in the wrong dimension.**
+- [PETER GROANS]
+- **Look, I'm not looking for a side gig as a Spider-Man coach.**
+- **I got a lot going on in my dimension.**
+- **"With great power comes great..."**
+- **Don't you dare finish that sentence. Don't do it! I'm sick of it.**
+- **Want my advice? Go back to being a regular kid.**
+- **I don't have a choice! Kingpin's got a supercollider. He's tryin' to kill me.**
+- **- What did you just say? - Kingpin's tryin' to kill me.**
+- **Who cares about that. Where's the collider?**
+- **Brooklyn. Under Fisk Tower.**
+- **- Goodbye. - Where you going?**
+- **When it runs again, I'll jump in and get back to my life.**
+- **You can't let them run it.**
+- **I'm supposed to destroy it so it never runs again or everyone's gonna die.**
+- **"Or everyone's gonna die." That is what they always say.**
+- **But there's always a little bit of time before everybody dies...**
+- **...and that's when I do my best work.**
+- **Aren't you gonna need this?**
+- **Aw, you have a goober. Give it.**
+- **Wait, no. Not so fast. He called it an override key.**
+- **There's always a bypass key, a virus key, a who-cares key.**
+- **I can never remember, so I always call it a goober. Give it.**
+- **- I need it to destroy the collider. - I need it to go home.**
+- **I'll swallow it. Don't play with me.**
+- **- What? - I said...**
+- **The collider created a portal that brought me here. And I have to get...**
+- **- Did you break this? - No, it broke.**
+- **I don't remember what happened.**
+- **See, this is why I never had kids.**
+- **- Can't we make another one? - We can't do anything.**
+- **Thanks to you, I have to re-steal what your guy stole from Alchemax...**
+- **...and make another one of these.**
+- **If I don't turn off the collider after you leave...**
+- **...everyone in this city, my parents, my uncle and millions of others, will die.**
+- **And you're just gonna go home and leave me here to figure this out for myself?**
+- **- You good with that, Spider-Man? - Yeah.**
+- **What are you doing?**
+- **Making you feel guilty. Is it working?**
+- **How could it...? No. Look at me. Does it look like it's working?**
+- **No. No, it's not...**
+- [CHUCKLES]
+- **Ahh! No! No! No! Do not let him win!**
+- **All right, kid. You win.**
+- **Come on, we don't have a second to lose.**
+- **I love this burger. So delicious.**
+- **Mm. One of the best burgers I've ever had.**
+- **In my universe, this place closed six years ago.**
+- **I don't know why. I really don't. Mm!**
+- **You have money, right? I'm not very liquid right now.**
+- **- Can we focus? - Mm-hm. Sure.**
+- **- The other Peter... - You gonna eat that?**
+- **I'm listening.**
+- **The other Peter said he was gonna be showing me the ropes.**
+- **Wow.**
+- **You got any Spider-Man tips you can tell me now?**
+- **Yeah, I got plenty.**
+- **Disinfect the mask.**
+- **You're gonna wanna use baby powder in the suit, heavy on the joints.**
+- **You don't want any chafing, right?**
+- **- Anything else? - Nope, that was everything.**
+- **- I think you're gonna be a bad teacher. - Uh.**
+- **Look up where Alchemax is.**
+- **"A private technological campus in Hudson Valley, New York."**
+- **You can teach me to swing on the way there. Fwsh, fwsh!**
+- [CHUCKLES]
+- **I'm not swinging to the Hudson Valley, Miles. Not after a hearty burger breakfast.**
+- **Keep your legs fresh. You're gonna thank me later.**
+- **- And it's a no on the cape. - I think it's cool.**
+- **Take that off. It's disrespectful. Spider-Man doesn't wear a cape.**
+- **MILES: How do we retrace Peter's steps? - That's a good question.**
+- **What would I do if I were me?**
+- **Got it.**
+- **Step One: I infiltrate the lab.**
+- **Two: Find the head scientist's computer.**
+- **MILES: That lady with the bike is the head scientist. I saw her in this documentary.**
+- **PETER: Cool! Step Three: I reexamine my personal biases.**
+- **Step Four: I hack the computer.**
+- **It's not technically hacking.**
+- **Not now. I just lost my train of thought.**
+- **Step Five: Download the important stuff. I'll know it when I see it.**
+- **Step Six: I grab a bagel from the cafeteria and run.**
+- **MILES: So, what am I doing?**
+- **Step Seven: You stay here. You're lookout. Very important.**
+- **Look, man. You gotta teach me how to do Spider-Man stuff or I won't be able to help.**
+- **Watch and learn, kid! I'll quiz ya later!**
+- **Why did I get stuck with the janky, old, broke hobo Spider-Man?!**
+- **That's new.**
+- [CAR APPROACHING]
+- **Kingpin.**
+- **What am I doing? What am I doing? What am I doing? What am I doing?**
+- **[WHISPERING] Peter!**
+- **Peter!**
+- **Ah! Peter!**
+- **- [WHISPERING] What are you doing here? - Kingpin's here.**
+
+### I. Spider-Gang arrives
+
+*Chase through the city; Doc Ock; Gwen and the others reveal themselves.*
+
+- **Just move over.**
+- **You're steppin' on my foot. Go back outside.**
+- **No! I can't sit there and let Spider-Man die without doing anything about it.**
+- **I'm not doing that again.**
+- **What?**
+- **Most people I meet in the workplace try to kill me...**
+- **...so you're a nice change of pace.**
+- **Mr. Fisk! Look at this data.**
+- **I know you can't really understand it, but these are really good numbers.**
+- **And I got the password.**
+- **Mr. Fisk. If we fire again this week...**
+- **...there could be a black hole under Brooklyn.**
+- **You see this? And this?**
+- **This is multiple dimensions beginning to crash into each other.**
+- **This is pretty standard Spider-Man stakes. You get used to it.**
+- **Watch this. He's gonna say, "You've got 24 hours."**
+- **You've got 24 hours.**
+- **What this means is there could be a rupture in the space-time continuum.**
+- **Ooh. That's bad. Actually, everything she said was bad. I was lying before.**
+- **HEAD SCIENTIST: Hold on. Let me get you some more data.**
+- **- What are you doing, bud? - I can't move.**
+- **Okay, relax your fingers. We don't have time. Just let go. Be in the moment.**
+- **I am in the moment. It's a terrible moment.**
+- **- I'm not refusing. - No more excuses.**
+- **I just need more time.**
+- **They're right there. They're gonna see you.**
+- **Miles, you gotta unstick.**
+- **What do you do to relax?**
+- **Relax. Okay, okay, okay.**
+- **Oh, for crying out loud.**
+- [HUMMING]
+- **Ahh!**
+- **[IN NORMAL VOICE] Teenagers: just the worst.**
+- **Miles, where did you go? MILES: I'm right here.**
+- **- Where? I can't see ya. - I'm right in front of you.**
+- **- Can Spider-Man turn invisible? - Not in my universe.**
+- **You just poked me in my eye!**
+- **This is incredible. Some kind of fight or flight thing.**
+- **What's that?**
+- **Remember this password. D-g-f-a-m-p-e-s-a-n-d...**
+- **Slow down!**
+- **...-4-$-3-5-8-7-6-5-3-4-5-4-5-3-5.**
+- **- I need to write it down! - Download the schematic.**
+- **- How do I do that? - While I turn on the charm.**
+- **Spider-Man?**
+- **- Oh, hey. Didn't see you there. - Wow!**
+- **Okay, I'm kinda freaking out right now. You're supposed to be dead.**
+- **Surprise! Okay. That's a no-no. We don't like that.**
+- **This is fascinating.**
+- **Okay, that's my face.**
+- **An entirely different Peter Parker.**
+- **Little bit of a gut, perhaps from dimensional warping.**
+- **Oh, yeah-yeah-yeah. I was way flatter before I warped.**
+- **Travel through the multiverse appears to have deteriorated the...**
+- **MILES: What was the rest?!**
+- **Hey, how old are you? 'Cause you don't look a day over 35.**
+- **HEAD SCIENTIST: They said I was crazy! They said I was crazy!**
+- **PETER: You showed 'em you're not crazy.**
+- **This might pinch a little.**
+- **- Ow! Ow! - I know. I just need to get these samples.**
+- **Okay.**
+- **MILES: Organize your desktop, lady.**
+- **Wow. Just complete cellular decay.**
+- **- I've never seen anything like this. - [WHISPERING] What are you doing?**
+- **MILES: I'm just taking the whole thing.**
+- **And obviously you've been glitching.**
+- **[IN NORMAL VOICE] "Glitchin""? No. Why would you even say that?**
+- **If you stay in this dimension too long, your body's gonna disintegrate.**
+- **Do you know how painful that would be, Peter Parker?**
+- **I don't know.**
+- **You can't imagine.**
+- **And I, for one...**
+- **...can't wait to watch.**
+- **What did you say your name was?**
+- **Dr. Olivia Octavius.**
+- **Can I assume that your friends call you Doc Ock?**
+- **My friends actually call me Liv.**
+- **My enemies call me Doc Ock.**
+- **I got this! Run!**
+- **DOC OCK: Who are you talking to?**
+- **PETER: I got it! DOC OCK: Oh, you "got it," Peter?**
+- **PETER: I got it handled, buddy!**
+- **Everything is fine!**
+- **Okay, this is a little bit bad. DOC OCK: You're chatty.**
+- **[IN NORMAL VOICE] Gotta go.**
+- **This is the moment that I'm losin' the fight.**
+- **Let me tell you the good news. We don't need the monitor.**
+- **Oh! DOC OCK: Peter!**
+- **You didn't tell me you had an invisible friend!**
+- **Could you give me that back, young man?**
+- **MILES: Peter!**
+- **It's proprietary.**
+- **PETER: Oh!**
+- **- This'd be a good time to turn invisible. - Yep.**
+- **Okay, not gonna turn invisible. Selecting a bagel.**
+- **Act super normal.**
+- **Spider-Man?**
+- **- You know, that's funny, I get that a lot. - Hey.**
+- **- Spider-Man? - Hey! Hands up!**
+- **Now we do a switchy-switchy.**
+- **WOMAN: Get back here! Where do you think you're going?**
+- **He took a bagel!**
+- **- Time to swing, just like I taught ya. - When did you teach me that?**
+- **I didn't. It's a little joke for team-building.**
+- **Hey!**
+- **- All right, you ready? - Of course I'm not ready! Oh! Oh, oh!**
+- **I can't do this yet!**
+- **Everybody knows that the best way to learn...**
+- **...is under intense life-threatening pressure.**
+- **Ow!**
+- **Come on, come on, come on.**
+- **Uh-oh.**
+- **PETER: What are you doing down there?**
+- **I run better than I swing.**
+- **You gotta swing or they'll catch you.**
+- **This is what you wanted.**
+- **Uh-oh.**
+- **Aha!**
+- [GASPS]
+- **Come back, little boy.**
+- **Aim with your hips! Look where you want it to hit.**
+- **Square your shoulders. Don't forget to follow through!**
+- **Don't shoot off your back foot.**
+- **- That's too many things! - Then stop listening to me!**
+- **That's the best idea you've had all day!**
+- **Nice, Miles!**
+- **- Ha, ha! - Good. You're doin' it.**
+- **Double tap to release and thwip it out again.**
+- **Thwip and release.**
+- **And thwip. Release. Thwip. MILES: And release.**
+- **PETER: You're a natural. Thwip. Release.**
+- **- Feel the rhythm? - Whoo-hoo! Thwip. And release!**
+- **- Good, Miles. - I gotta say, you're amazing, man.**
+- **We're a little team!**
+- **Me as the teacher who could still do it.**
+- **You as the student who can do it, just not as good.**
+- **I'm proud of us. Is there something you want to say to me?**
+- **Peter!**
+- **What the...? PETER: Who did that?**
+- [DOC OCK GRUNTS]
+- **Hey, guys.**
+- **Gwanda?**
+- **It's Gwen, actually.**
+- **Oh, you know her. Very cool.**
+- **I'm from another dimension.**
+- **I mean, another-another dimension.**
+- **GWEN: All right, people. Let's start at the beginning one last time.**
+- **My name is Gwen Stacy. I was bitten by a radioactive spider.**
+- **And for the last two years, I've been the one and only Spider-Woman.**
+- **You guys know the rest.**
+- **I joined a band.**
+- **Saved my dad.**
+- **I couldn't save my best friend...**
+- **...Peter Parker...**
+- **...so now I save everyone else.**
+- **And I don't do friends anymore...**
+- **...just to avoid any distractions.**
+- **And one day this weird thing happened.**
+- **And I mean, like, really weird.**
+- **I was blown into last week.**
+- **Literally.**
+- **I landed in New York, but not my New York.**
+- **WOMAN [ON SCREEN]: Lucky for these folks, Spider-Man saved the day.**
+- **GWEN: My Spider-sense told me to head to Visions Academy.**
+- **...you guys are early.**
+- **Wasn't sure why until I met you.**
+- **Oh.**
+- **I like your haircut.**
+- **You don't get to like my haircut.**
+- **Let's go.**
+- **How many more Spider-People are there?**
+- **Save it for Comic-Con.**
+- **What's Comic-Con?**
+- **Whoa!**
+- **KINGPIN: You're dead, Spider-Man.**
+- **Wilson! What are you doing?**
+- **Vanessa.**
+- **VANESSA: Richard, come on.**
+- **Vanessa! Richard!**
+- **No!**
+- **Don't look back, honey. It's okay. It's okay.**
+- [HORN HONKING]
+- [GRUNTS]
+- **I killed Spider-Man.**
+- **Why did I just see two more?**
+- **There's three, actually.**
+- **No, this is good. This is very, very good.**
+- **This means you get what you want.**
+- **It means my collider works.**
+- **All we have to do is kill a couple of Spiders.**
+- **And the collider will bring your family back.**
+- **As many families as you want.**
+
+### J. Aunt May's house
+
+*Hideout, team intros, hard questions — Miles isn't ready.*
+
+- **Tomorrow, at my collider.**
+- **Our collider.**
+- **He broke this?**
+- **Yeah. He's actually really embarrassed about it, so just keep it between us, okay?**
+- [CHUCKLES]
+- **I know where we can make a new one. And we won't let him break it this time.**
+- **I'm sorry about your friend.**
+- **Thanks, Miles.**
+- **I know how hard this is. To have to figure this stuff out on your own.**
+- **It's kinda nice not being the only Spider-person around.**
+- **Yeah.**
+- **If you ever decide to do friends again, I could always open up a slot.**
+- **I'll keep you posted.**
+- **MILES: Cool.**
+- [DOORBELL RINGS]
+- **We should probably go.**
+- **Peter, we're literally on the doorstep.**
+- **PETER: Bad idea. This is a bad idea. GWEN: Just relax.**
+- **MAY: You guys are all very sweet, but no more fans today, please.**
+- **I'm not ready for this.**
+- **Peter?**
+- **Hey, Aunt May.**
+- **So this is gonna sound crazy, but I'm pretty sure that I'm from an...**
+- **An alternate dimension.**
+- **Yeah.**
+- **You look tired, Peter.**
+- **Well, I am tired.**
+- **- And older. And thicker. - Yeah. I've heard that already.**
+- **Oh, jeez. Are those sweatpants?**
+- **Yup, that's what they are.**
+- **I was there...**
+- **...when it all happened.**
+- **I am so sorry.**
+- **And what dimension are you from?**
+- **Brooklyn.**
+- **Did Peter have a place where we could make another one of these?**
+- **MAY: A goober.**
+- **Follow me.**
+- **Oh, yeah, I got one of these, too. A little, old shed where I keep my Spider-gear.**
+- [POWERING UP]
+- **I mean, this place is pretentious.**
+- **Whoa.**
+- **Dude. Was yours anything like this?**
+- **Mine was like this, but take away the jeep, the plane.**
+- **Imagine it way smaller. Imagine a futon.**
+- **I feel sad for this guy.**
+- **Hey, Peter.**
+- **I think this is a cape.**
+- **Peter knew how dangerous the job was.**
+- **But he figured the only one who could stop this guy was Spider-Man.**
+- **Kingpin knows we're coming.**
+- **We're going to be outnumbered.**
+- **Don't be so sure.**
+- **You might need these.**
+- **You think you're the only people who thought to come here?**
+- **Hey, fellas.**
+- **Is he in black and white?**
+- **Where's that wind coming from? We're in a basement.**
+- **Wherever I go, the wind follows.**
+- **And the wind, it smells like rain.**
+- **Hi, guys!**
+- [SPEAKS IN JAPANESE]
+- **This could literally not get any weirder.**
+- **It can get weirder.**
+- **I just washed my hands. That's why they're wet.**
+- **No other reason.**
+- **ALL: You're like me.**
+- **My name is Peter Parker.**
+- **My name is Peni Parker.**
+- **My name is Peter Porker.**
+- **NOIR: I was bitten by a radioactive spider. - I was bitten by a radioactive pig.**
+- **NOIR: In my universe, it's 1933, and I'm a private eye.**
+- **I like to drink egg creams, and I like to fight Nazis. A lot.**
+- **PENI: I'm from New York in the year 3145.**
+- **I have a psychic link with a spider who lives inside my father's robot.**
+- **And we're best friends. Forever.**
+- **Sometimes I let matches burn down to my fingertips...**
+- **...just to feel something, anything. Aw.**
+- **PORKER: I'm a photographer for the Daily Beagle.**
+- **When I'm not pooching around, I'm working like a dog...**
+- **...trying to sniff out the latest story.**
+- **Okay! Enough!**
+- **So, uh, how did you get here?**
+- **Well, it's kind of a long story.**
+- **Maybe not that long.**
+- **And now we're just trying to find a way home.**
+- **The only way home is back through that collider gizmo. The only trouble is...**
+- **One of us has to stay behind and destroy it.**
+- **ALL: I'll do it.**
+- **No, no, no. You guys don't get it.**
+- **Don't get what?**
+- [ALL GRUNTING]
+- **None of you can stay here. If you stay here, you'll die.**
+- **I'm the guy who's gonna turn it off.**
+- **And I'm gonna get you all home before I do.**
+- **Look, I made a promise. So I have to keep it.**
+- **Who are you again?**
+- **This is Miles.**
+- **- And he's gonna save the multiverse. - Yeah, man.**
+- **This kid can turn himself invisible. Watch this. He can do it now.**
+- [GRUNTS]
+- **- I can't do it on command. - He can't do it on command.**
+- **But it is cool. Show 'em the zappy thing, Miles.**
+- [GRUNTS]
+- **- Can't do it on command. - He can't do it on command.**
+- **But he can do so much more. What else do you do?**
+- **- Just those two things. - Just those two things.**
+- **NOIR: Aw, man.**
+- **Look, I've seen him in action. He's got potential.**
+- **I think he's gonna get us home.**
+- **Okay, little fella, Kingpin's gonna send a lot of mugs after ya.**
+- **I'm talkin' hard boys, real biscuit boxers. Can you fight them all off at once?**
+- **I haven't actually fought anyone.**
+- **Surprise attack!**
+- **Can you rewire a mainframe while being shot at?**
+- **Can I what?**
+- **- Show me! - Surprise attack!**
+- **Can you swing and flip with the grace of a trained dancer?**
+- **Can you close off your feelings so you don't get crippled...**
+- **...by the moral ambiguity of your violent actions?**
+- **Can you help your aunt create an online dating profile...**
+- **...so she can get out of the dang house once in a while?**
+- **Can you float through the air when you smell a delicious pie?**
+- **- Can you be strong? - Ruthless?**
+- **- Disciplined? - I don't know. Maybe.**
+- **- Psychic? - Show me some moxie, soldier!**
+- **Above all, no matter how many times you get hit, can you get back up?**
+- **NOIR: 'Cause when a Spider-Man is on the floor...**
+- **PORKER: When you think you can't keep goin'...**
+- **GWEN: Come on, Miles. PENI: Come on. You can do it.**
+- **GWEN: You can do this. - Guys, cool it.**
+- **- Come on. You can do it! - Get up, Miles.**
+- **Come on, Miles. Get up.**
+- **You need to be more honest with yourself about this.**
+- **He's not ready. It's obvious. NOIR: There's no way. He's just a kid.**
+- **GWEN: If he can't do this, we have to stay and do it for him.**
+- **He's looking right at us while we talk about him.**
+- [CLANKING]
+- **Miles? Miles?**
+- **You see that? He can, uh...**
+- **He can turn invisible.**
+- **JEFFERSON: Miles, what is going on with you?**
+- **Nobody's heard from you. We don't know what's going on.**
+- **If you're hidin' something from us, you need to come clean.**
+- **You call me back. Now.**
+- **He's not answering me either.**
+- **It's Aaron. I'm outta town for a few days. I'll hit you when I'm back. Peace.**
+- **Aaron, it's Jeff.**
+- **Look, I need you to call me if you've heard from Miles.**
+- **He has a...**
+- **He has a soft spot for you...**
+- **...and we haven't heard from him.**
+- **And you know I wouldn't reach out if this wasn't important.**
+- **Hope you're good.**
+- **MILES: Dear Uncle Aaron.**
+- **I gotta do something, and I don't know if I can do it.**
+- **I'm scared, man.**
+- **I'm just tired of lettin' everybody down.**
+- **You're the only one I can talk to.**
+- **I just wish you were here.**
+- [CLATTERING]
+- [PHONE BUZZES]
+- **Hello, Mr. Fisk.**
+- **I've got the security tapes from the tunnel right here.**
+- **If the kid's out there, I'll find him.**
+- **You know me, sir. I don't ever quit.**
+- [PANTING]
+
+### K. Prowler & leap of faith
+
+*Aaron is the Prowler; the team leaves Miles behind; "It's a leap of faith."*
+
+- **This is...**
+- **- Purple. - No.**
+- **- Blue? - No.**
+- **Has anyone heard from Miles?**
+- **Look, he's just clearing his head. I know the kid.**
+- **He's got what it takes.**
+- **I bet you he's gonna come back through that door, recharged and ready to fight.**
+- **My uncle. PETER: Hey, where have you been?**
+- **My uncle Aaron, he's the Prowler.**
+- **PETER: Slow down, Miles. - He works for Kingpin. He tried to kill me!**
+- **This is a pretty hard-core origin story.**
+- **It's okay. We're gonna figure it out.**
+- **- Were you followed? - No, I don't think so.**
+- [CLANKING]
+- [DOORBELL RINGS]
+- **- Cute place. Real homey. - Oh, great. It's Liv.**
+- **I guess I was followed.**
+- **Oh, no.**
+- **Get out of here, kid.**
+- **You messed up bigtime, kid. Very sloppy.**
+- [SPEAKING IN SPANISH]
+- **Let me guess. You're Scorpion. Well, we're the Spider gang.**
+- **Would you mind taking this outside?**
+- **NOIR: We don't pick the ballroom, we just dance.**
+- **Ooh, I think I'll be taking that.**
+- [ALL GRUNTING]
+- **Stand, niñito, dale. Prepárate a morir.**
+- **MILES: Aw. Man, stupid pillows.**
+- **I said, take it outside!**
+- **I got it!**
+- **I got this, buddy.**
+- **Leave the kid alone!**
+- **No, no, no! No!**
+- **You gotta go, man.**
+- **WOMAN [OVER RADIO]: All vehicles, we have a disturbance...**
+- **...involving multiple Spider... people?**
+- **Yeah. On my way.**
+- [SIREN WAILING]
+- **PROWLER: Give me that thing.**
+- **Don't be stupid, kid. Hand it over, now!**
+- **Nowhere left to run.**
+- **Miles?**
+- **Uncle Aaron.**
+- **Oh, no, no, no, no, no.**
+- **Please, Uncle Aaron.**
+- **KINGPIN: Prowler.**
+- **What are you waitin' for? Finish it.**
+- [GUNSHOT]
+- [KINGPIN GRUNTS]
+- **Get out of here!**
+- [FOOTSTEPS STOMPING ON ROOF]
+- [AARON PANTING]
+- **No.**
+- **Miles.**
+- **Uncle Aaron.**
+- **This is my fault.**
+- **No, Miles.**
+- **I'm sorry.**
+- **I wanted you to look up to me.**
+- **I let you down, man. I let you down.**
+- **You're the best of all of us, Miles.**
+- **You're on your way.**
+- **Just keep going.**
+- **Just keep going.**
+- [INDISTINCT CHATTER OVER RADIO]
+- **Hands up!**
+- **Put your arms up. Now!**
+- **Turn around.**
+- **Hey! Hey!**
+- **Aaron. Aaron, no. No!**
+- **All units.**
+- **I want an APB on a new Spider-Man.**
+- **Hey, bud.**
+- **You okay?**
+- **We've all been there. You know, for me...**
+- **...it was my Uncle Ben.**
+- **For me, it was my Uncle Benjamin.**
+- **For me, it was my father.**
+- **For me, it was my best friend.**
+- **Miles, the hardest thing about this job is...**
+- **...you can't always save everybody.**
+- **Look, it was my fault. You wouldn't understand.**
+- **Miles, we're probably the only ones who do understand.**
+- **Oh, no.**
+- [music]
+- **That way, that way.**
+- **Other way, other way, other way, other way.**
+- **Hey there.**
+- **Do animals talk in this dimension? 'Cause I don't wanna freak him out.**
+- **What's going on?**
+- **Bye, Miles.**
+- **- Miles, I came to say goodbye. - We can say goodbye at the collider.**
+- **You're not getting it. You're staying here.**
+- **I need to be there. So you can all go home.**
+- **They are going home, Miles. I'm the only one stayin'.**
+- **You're taking my place? If you stay here, you'll die.**
+- **I'm doing what needs to be done. I just wanted you to hear it from me.**
+- **What about MJ?**
+- **Not everything works out, kid.**
+- **I need the goober.**
+- **Please don't make me take it from you.**
+- **That's not fair! You gotta tell them I can do this.**
+- **It wasn't their decision.**
+- **I gotta make Kingpin pay! You have to let me make him pay!**
+- **Miles, you're gonna get yourself killed.**
+- **But I'm ready. I promise!**
+- **Then venom-strike me right now.**
+- **Or turn invisible on command so you can get past me.**
+- [GRUNTING]
+- **Look, I know how much you want this, kid.**
+- **NOIR: Poor little guy.**
+- **PETER: But you don't have it yet.**
+- **I'm sorry.**
+- **When will I know I'm ready?**
+- **You won't. It's a leap of faith.**
+- **That's all it is, Miles.**
+- **A leap of faith.**
+
+### L. Miles suits up
+
+*Jefferson's talk through the door; Miles trains alone and rejoins the fight.*
+
+- [MILES GRUNTING]
+- [KNOCKING ON DOOR]
+- **JEFFERSON: Miles.**
+- **Miles, it's your dad.**
+- **Please open the door.**
+- **Miles, I can see your shadow movin' around.**
+- **Yeah, okay, I get it. I get it. You're still ignoring me.**
+- **Look, can we talk for a minute?**
+- **Something...**
+- **Something happened to...**
+- **Look, sometimes people drift apart, Miles.**
+- **And I don't want that to happen to us, okay?**
+- **I know I don't always do what you need me to do or say what you need me to say.**
+- **I see this spark in you. It's amazing. It's why I push you.**
+- **But it's yours.**
+- **Whatever you choose to do with it, you'll be great.**
+- **Look, call me when you can. Okay?**
+- **I love you.**
+- **You don't have to say it back, though.**
+- [SIGHS]
+- [YAWNS]
+- [music]
+- **Took you long enough.**
+- **JEFFERSON: I see this spark in you. It's amazing.**
+- **Whatever you choose to do with it, you'll be great.**
+- **RIO: Our family doesn't run from things.**
+- **AARON: You're the best of all of us, Miles. You're on your way.**
+- **Just keep going.**
+- **MILES: When do I know I'm Spider-Man?**
+- **PETER: You won't.**
+- **That's all it is, Miles.**
+- **A leap of faith.**
+- **MAY: Made 'em myself.**
+- **They fit perfectly.**
+- **MILES: Whoo!**
+- [ExHALES]
+- **PENI: Kingpin has a private elevator entrance...**
+- **...from his penthouse to the collider below.**
+- **NOIR: Didn't count on having an audience.**
+- [CHATTERING]
+- **ALL: You gotta be kidding me.**
+- **Thank you. It's nice to be with you this evening to celebrate Spider-Man.**
+- **He and I were very close.**
+- **- What a pig. - I'm right here.**
+- **Hold on. Get a load of how the waiters are dressed.**
+- **It's in poor taste, but...**
+- **It can't be that easy.**
+- **It's that easy.**
+- **KINGPIN: I just wanna thank Mary Jane Parker for being here this evening.**
+- **MJ?**
+- **Pay attention. It's not your MJ, Peter, okay?**
+- **- I'm sorry, I'll be right back. - Shh!**
+- **Peter! Come here. Trust me. I've been there. You gotta move on, buddy.**
+- **It will take one second. Let me just... Oh!**
+- **- Hello. - Oh, wow.**
+- **Um... I just wondered if we could have some more bread at table 12.**
+- **Yeah.**
+- **I'm just, uh... I'm really sorry.**
+- **Oh! Heh. Don't be sorry. It's just bread.**
+- **I wasn't there for you when you needed me.**
+- **- Mm-hm. - I didn't even try.**
+- **That's fine. You know, I should really get going.**
+- **I know I could do better if I just had another chance to give you, uh...**
+- **...the bread that you deserve.**
+- **- Are you okay? - We'll take care of that bread right now.**
+- **Well, it's been nice, uh, talking to you.**
+- **For you, they should fill this place up with fresh bread.**
+- **- You all right, man? - Oh, yeah. Totally.**
+- **GWEN: Good, 'cause we are not getting any bread.**
+- [RUMBLING]
+- **KINGPIN: I'm just sorry my family can't see what we're doing here tonight.**
+- **COMPUTER: Initializing primary ignition sequence.**
+- **NOIR: Sleep.**
+- **Start the sequence.**
+- **MAN: Uploading Vanessa Fisk and Richard Fisk DNA sequence.**
+- **WOMAN: Beginning scan for dimensional matches.**
+- **COMPUTER: Secondary ignition in five, four...**
+- **...three, two, one.**
+- [GASPS]
+- [PETER GRUNTS]
+- **Peter, you don't have to stay behind. I can do it.**
+- **It's okay.**
+- **I've made up my mind.**
+- **I'll put the goober in and take over the beam.**
+- **After you're gone, I'll blow it up.**
+- **Good luck, guys.**
+- **GWEN: They know we're here.**
+- [PETER YELLING]
+- **Nice to see you again, Peter.**
+- [NOIR GRUNTING]
+- **PENI: I got you covered!**
+- **These guys are the pits.**
+- [GRUNTS]
+- **Why is this always difficult?**
+- **DOC OCK: Where you going, Peter?**
+- **Any last words?**
+- **Can I get a minute to think about it? You have a pen?**
+- **Goodbye, Peter Parker.**
+- **Who did that?!**
+- **- Miles? - Spider-Man?**
+- **- Wow, Miles. You're doing it on command! - It's about time, right?**
+- **PORKER: Look who's here! GWEN: You figured it out.**
+- **- I love you! I am so proud of you! - Ha, ha, ha.**
+- **Do I want kids?**
+- **Oh, yeah, I forgot about her.**
+- **- Well, that doesn't look promising. - No, it doesn't.**
+- **SCIENTIST: I've got genetic matches. Hold on.**
+- **It's too risky.**
+- **Shut up and turn it up.**
+- **PETER: On your left! MILES: On your right!**
+- **PETER: I got five o'clock! Three o'clock! Two o'clock!**
+- **Every direction!**
+- **Get to a shelter. I'll be right there.**
+- [SPEAKS IN SPANISH]
+- **[IN ENGLISH] I tried the school, but I can't get through.**
+- **MILES: Guys, are you seeing this?**
+- **GWEN: Looks like our dimensions are coming to us.**
+- **PETER: Does look cool though, right?**
+- **GWEN: We gotta get back up there.**
+- **NOIR: Is that all you got? You gonna fight or you just bumping gums?**
+- **You hard-boiled turtle slapper!**
+- [GASPING]
+- [GROWLING]
+- [SPEAKS IN SPANISH]
+- [CHUCKLING]
+- **[IN ENGLISH] What are you, some kind of silly cartoon?**
+- **You got a problem with cartoons?**
+- [GRUNTING]
+- **Blammo!**
+- **Aww. Did that feel like a cartoon?**
+- [BLOWS RASPBERRY]
+- **Gwen!**
+- **I like your suit.**
+- **Thanks. I made it myself.**
+- **PETER: That was adorable, team! Now, hold on tight!**
+- **GWEN: Buckle up, guys. This is gonna take a while.**
+- [CACKLING]
+- [HORN HONKS]
+- **All right. Never mind.**
+- **Let's end this thing.**
+- **Guys, I got it.**
+- **I'll go. I'm the one with the goo...**
+- **Oh, you gotta be kidding me.**
+- **Don't watch the mouth. Watch the hands.**
+- **PETER: Miles! GWEN: Be careful!**
+- **Whoo! That was crazy.**
+- **We taught him that, right?**
+- **I didn't teach him that. And you definitely didn't.**
+
+### M. Collider climax
+
+*The final battle; Kingpin falls; the others go home.*
+
+- **NOIR: You okay?**
+- **Come on.**
+- **Guys, I got control of the beam! Get up here!**
+- **COMPUTER: Alert! Quantum polarity has been reversed.**
+- [YELLS]
+- **GWEN: Guess this is it.**
+- **Well, nice to know we're not alone.**
+- **Right? GWEN: Yeah.**
+- **I got the portal open. You first, Peni.**
+- **Thank you, Miles.**
+- **From both of us.**
+- **I, uh, love you all.**
+- **I'm taking this cube thing with me.**
+- **I don't understand it.**
+- **But I will.**
+- **PORKER: I want you to have this.**
+- **It'll fit in your pocket.**
+- **That's all, folks.**
+- **PETER: Is he allowed to say that, legally?**
+- **Do I get to like the hairdo now?**
+- [CHUCKLES]
+- **You know I'm older than you.**
+- **15 months, but it's pretty significant if you ask me.**
+- **Well, Einstein said time was relative, right?**
+- **Heh. Nice.**
+- **Friends?**
+- **Friends.**
+- **Cool.**
+- **See you around, Spider-Man.**
+- **Your turn.**
+- **Yeah, yeah. Right.**
+- **You're not going anywhere!**
+- **I'll hold him off. You shut this down.**
+- **Peter, that wasn't the deal!**
+- **Push the green button! Do not wait for me!**
+- **- Ahh! What are you doing? - You gotta go home!**
+- **This guy could kill you! I can't let Spider-Man die.**
+- **Neither can I.**
+- **It's okay.**
+- **Yeah, it is okay.**
+- **You gotta go home, man.**
+- **How do I know I'm not gonna mess it up again?**
+- **You won't.**
+- **Heh. Right.**
+- **It's a leap of faith.**
+- **Not bad, kid.**
+- **Kingpin!**
+- **Nope!**
+- **Sorry! That's cheating.**
+- **Adiós.**
+- **I gotta get to that button.**
+- **Oh, no.**
+- **Not so easy doing it on your own, is it?**
+- **I can't wait to kill one more Spider-Man.**
+- [VANESSA SPEAKING INDISTINCTLY]
+- **- Where am I? - What?**
+- **Wilson?**
+- **Is this what you want, man? VANESSA: What are you doing?**
+- **Vanessa. Vanessa.**
+- **- What are we doing here? - I don't know, Richard.**
+- **It's me. You know me.**
+- **VANESSA: We're leaving now.**
+- **Don't go.**
+- **Stay with me.**
+- **Please!**
+- **You're not stopping this. Not today.**
+- **I am stopping this. Right now!**
+- **I need backup.**
+- [INDISTINCT CHATTER ON RADIO]
+- [GRUNTING]
+- **Come on.**
+- **The real Spider-Man couldn't even beat me.**
+- **You're nothing!**
+- **You took my family.**
+- **And now I'm gonna make sure you never see yours again.**
+- [YELLS]
+- **Get up, Spider-Man.**
+- **Get up! Come on!**
+- [GRUNTS]
+- **Come on. Come on. Come on.**
+- **I'll always have my family.**
+- **You ever hear of the shoulder touch?**
+- **What?**
+- **[IN DEEP VOICE] Hey.**
+- **[IN NORMAL VOICE] Hey, Kingpin! Push the green button for me!**
+- [GRUNTING]
+- [PANTING]
+- [JEFFERSON COUGHING]
+- [SIRENS WAILING]
+- [CELL PHONE BUZZING]
+- **Miles? Miles? Are you okay?**
+- **Yeah, I'm okay.**
+- **You're probably busy...**
+- **No! I can talk, I can talk.**
+- **Look, so I came by earlier because, uh...**
+- **- Your uncle... - I know, Dad.**
+- **I am so sorry.**
+- **Yeah.**
+- **Do you know who did it?**
+- **I thought I did.**
+- **But I was wrong.**
+- **Look, Miles, what I said at the door...**
+- **...it wasn't just talk.**
+- **Look, you know, I was thinking maybe we could find a nice wall...**
+- **...privately owned, like at the police station...**
+- **...and you could, um, "throw up" some of your art.**
+- **Man, I'm bad at this.**
+- **Okay, Miles. Miles? You there?**
+- **Oh, come on, man. C-Mobile!**
+- **- [IN DEEP VOICE] Officer. - Spider-Man!**
+- **Listen, um, down there, that was...**
+- **I mean, I owe you...**
+- **Okay!**
+- [CLEARS THROAT]
+- **I look forward to workin' with you.**
+- **Heh, heh. Yeah, me, too. I guess.**
+- **I don't approve of your methods...**
+- **...but we're just gonna have to agree to disagree.**
+- **Thank you for your bravery tonight.**
+- **- I love you. - Heh, heh.**
+- **Wait, what?**
+- **[IN NORMAL VOICE] And look behind you!**
+- [CAMERA SHUTTERS CLICKING]
+- **All right. Cool. Yeah.**
+- **- Thanks, Spider-Man. - Spider-Man, a su servicio. Thank you.**
+- **Hey, man. What's up, little man? MAN: New Spider-Man.**
+- **Yeah. Yeah, I'm the new Spider-Man. Check it out.**
+- **Whoa!**
+- **That was part of the move.**
+
+### N. Epilogue — Miles Morales
+
+*Closing VO: anyone can wear the mask.*
+
+- **Okay, let's do this one last time, yeah? For real this time. This is it.**
+- **My name is Miles Morales. I was bitten by a radioactive spider.**
+- **And for like two days, I've been the one and only Spider-Man.**
+- **I think you know the rest.**
+- **I finished my essay.**
+- **Saved a bunch of people.**
+- **- Got hit by a drone. - Ouch!**
+- **I did this with my dad.**
+- **Met my roommate. Finally.**
+- **Slapped a sticker where my dad's never gonna find it.**
+- **And when I feel alone, like no one understands what I'm going through...**
+- **...I remember my friends who get it.**
+- [DOORBELL RINGS]
+- **I never thought I'd be able to do any of this stuff.**
+- **But I can.**
+- **Anyone can wear the mask.**
+- **You could wear the mask.**
+- **If you didn't know that before, I hope you do now.**
+- **'Cause I'm Spider-Man.**
+- **And I'm not the only one.**
+- **Not by a long shot.**
+
+### O. Stingers
+
+*Gwen visits; Miguel O'Hara and the pointing gag.*
+
+- **GWEN: Miles. Miles!**
+- **You got a minute?**
+- **You're a bit late. MAN: We can't all be everywhere at once.**
+- **Little text might've been nice.**
+- **MAN: I was gone for less than two hours. What happened?**
+- **Okay. I know what it looks like.**
+- **- But here's the good news. - Oh, here we go.**
+- **The multiverse didn't collapse.**
+- **- Oh, cool! - Little touch and go.**
+- **But it worked out.**
+- **- Great story. Did you finish the goober? - It's not a goober. It's a gizmo.**
+- **MAN: Do you always have to call me out? It's just really frustrating and bums me out.**
+- **WOMAN: Don't get excited, Miguel.**
+- **It's just a prototype. MIGUEL: Not excited.**
+- **WOMAN: But you could be the first person to make an autonomous multiverse jump.**
+- **Or the last.**
+- **So we're just gonna roll the dice on this?**
+- **So, what you do you say, pal? Where you want to go first?**
+- **Let's start at the beginning one last time.**
+- **Earth '67.**
+- **Whoa! What the...?**
+- **I'm Spider-Man.**
+- **- I need you to come with me. - Who the heck are you?**
+- **I just told you... Listen. I'm from the future.**
+- **- How dare you point at me! - You were pointing first.**
+- **- It's rude to point. - You're being very rude.**
+- **Which one pointed first?**
+- **Spider-Man pointed first. Obviously.**
+- **- You're pointing at me right now. - I'm not pointing.**
+- **Look at your finger.**
+- **I'm pointing out your pointing, which is different.**
+- **You haven't seen pointing.**
+- **You're accusing me of pointing while you're...!**
+

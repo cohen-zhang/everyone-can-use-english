@@ -49,18 +49,29 @@ aliases:
 
 ---
 
-## 3. 本库操作示例 · 蜘蛛侠：平行宇宙
+## 3. 本库操作示例
+
+### 3.1 蜘蛛侠：平行宇宙（2018）
 
 | 项 | 路径 |
 | --- | --- |
 | 英文字幕 (srt) | [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.en.srt\|spider-man-into-the-spider-verse.2018.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.scenes\|scenes.md]] |
 | **词表示例** | [[learning-notes/tv-series/spider-man-into-the-spider-verse/vocabulary\|vocabulary · 本片词汇]] |
 | 片目录说明 | [[learning-notes/tv-series/spider-man-into-the-spider-verse/README\|README]] |
 
-**搜索关键字（对照原书格式）：**
+**搜索关键字：** `Spider-Man Into the Spider-Verse 2018 English subtitle`
 
-> Spider-Man Into the Spider-Verse 2018 English subtitle
+### 3.2 阿甘正传（1994）
 
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/forrest-gump/forrest-gump.1994.en.srt\|forrest-gump.1994.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/forrest-gump/forrest-gump.1994.scenes\|forrest-gump.1994.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/forrest-gump/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/forrest-gump/README\|README]] |
+
+**搜索关键字：** `Forrest Gump 1994 English subtitle`
 ---
 
 ## 4. 一分钟自检

@@ -7,6 +7,7 @@
 | 年份 | 2018 |
 | IMDb | [tt4633694](https://www.imdb.com/title/tt4633694/) |
 | 英文字幕 | [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.en.srt\|spider-man-into-the-spider-verse.2018.en.srt]] |
+| **场景剧本（无时间轴）** | [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.scenes\|scenes.md · English]] |
 | **词表** | [[learning-notes/tv-series/spider-man-into-the-spider-verse/vocabulary\|vocabulary · 本片词汇]] |
 
 **说明：** 英文字幕（SRT，HI 听障标注版，含角色名 / 音效提示）。来源 OpenSubtitles #7679502（BluRay SPARKS 时间轴）；已去掉站点广告条。仅供个人英语学习使用。

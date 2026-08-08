@@ -12,7 +12,7 @@ aliases:
 # Spider-Man: Into the Spider-Verse · Vocabulary（本片词汇）
 
 **方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（出自 [[book/chapter8|ch.8 §6]]）  
-**字幕：** [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.en.srt|spider-man-into-the-spider-verse.2018.en.srt]]  
+**字幕：** [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.en.srt|spider-man-into-the-spider-verse.2018.en.srt]] · [[learning-notes/tv-series/spider-man-into-the-spider-verse/spider-man-into-the-spider-verse.2018.scenes|scenes.md]]  
 **片目录：** [[learning-notes/tv-series/spider-man-into-the-spider-verse/README|README]]
 
 *成人向精简：读者默认 **简中母语、成人**，目标含工作/日常口语。**「低频」**兼指「通用英语里仍少遇」或「对中国成人学习者仍值得本片收束」——不等于台词出现次数少。收录拼写/读音/搭配难点与片中高价值 chunk；剔除无教学价值的超高频碎片、纯拟声。*
