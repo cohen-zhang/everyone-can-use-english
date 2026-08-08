@@ -114,7 +114,7 @@ String name = Optional.ofNullable(user).map(User::getName).orElse("anonymous");
 
 ### 5. Global Exception Handling — 全局异常处理
 
-In Spring, `@RestControllerAdvice` turns exceptions into uniform API responses in one place — no try/catch scattered across controllers.
+In Spring, `@RestControllerAdvice` turns exceptions into uniform API responses in one place — no try/catch scattered across controllers. （扩展：[[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework · MVC]]）
 
 在 Spring 中，`@RestControllerAdvice` 在一处把异常统一转换为 API 响应——控制器里不再散落 try/catch。
 
@@ -193,7 +193,7 @@ public class RestControllerExceptionHandler {
 - [Oracle Tutorial: Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
 - [Baeldung: Java Exceptions](https://www.baeldung.com/java-exceptions)
 - [Baeldung: Common Java Exceptions](https://www.baeldung.com/java-common-exceptions)
-- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
+- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]]
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/exception/README.md
 
 ---

@@ -28,12 +28,12 @@ aliases:
 | 难点类型 | 数量 | 示例词汇 |
 |---------|------|---------|
 | **不发音 / 非常规拼写** | 18 | comb, debt, isle, wrestle, scene, ache, hyphen, physical, philosophy, archiving … |
-| **英美音差异** | 20 | girl, command, garage, adult, honestly, status, novel, elite, meter … |
+| **英美音差异** | 21 | girl, command, garage, adult, honestly, status, novel, elite, meter, either … |
 | **重音位置** | 20 | analysis, algorithm, security, developer, engineer, architecture, enthusiasm, integrity, variable, compiler |
 | **特殊元音** | 18 | pull, toe, own, queue, rare, though, recipe, coupon, cuisine, anxiety |
 | **技术词汇** | 17 | daemon, encrypt, algorithm, recursive, integer, array, protocol, parser, physics, stack, sync … |
 | **清浊变化** | 9 | effect, accept, success, exhaust, anxiety, example, exercise, bosom |
-| **易混淆词** | 11 对 | effect/affect, alter/altar, chew/few, whale/wail, kale/pale, pull/pool … |
+| **易混淆词** | 12 对 | effect/affect, alter/altar, either/neither, chew/few, whale/wail, kale/pale, pull/pool … |
 | **国人易错模式** | 见 §0 | 元音等长、双元音汉语化、想当然拼读、重音错位、v/θ 等 |
 | **工程笔记补充** | 见 §9 | facade, specific, cache, Linux, hurray, fawning … |
 | **原书 ch.3 完整** | 见 §9.5 | [[book/chapter3|chapter3]] 全部语音示例词（含 *beach*） |
@@ -56,7 +56,7 @@ aliases:
 | **短元音 /ɪ/** | 用汉语「衣」长音代替 /ɪ/ | 短、松、不拉长 | *kid* /kɪd/ · *pig* /pɪɡ/（[[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]]） |
 | **想当然拼读** | 按字母猜读音，不查 IPA | 每个生词查音标 + 标重音 | *facade* · *specific* · *create*（见 §9.1） |
 | **重音错位** | 衍生词沿用错重音；多音节当单音节 | 查词典主重音 `ˈ`；*penalty* ≠ *penalize* | *developer* · *analysis*（§3） |
-| **辅音替代** | /v/ 读成 /w/；*th* 读成 /s/ 或 /f/ | 上齿轻咬下唇发 /v/；*th* 分清浊 | *video* 非 bideo；*specific* 非 spesific |
+| **辅音替代** | /v/ 读成 /w/；*th* 读成 /s/ 或 /f/ | 上齿轻咬下唇发 /v/；*th* 分清浊 | *video* 非 bideo；*either* 用浊 [[ð]] 非 /θ/·/s/ |
 | **儿化 / 卷舌过度** | 非重读 /ə/ 一律读成 /ɚ/ | 非重读 schwa 不带儿化 | *focus* /ˈfoʊkəs/ 非 /ˈfoʊkɚs/（1000h [[1000-hours/sounds-of-american-english/3.1.1-ə|3.1.1 ə]]） |
 | **词尾 -l** | *girl* 读成 /ɡoʊ/ 或纯卷舌 | 舌尖抵齿龈发 /l/ + 中央元音 | *girl* /ɡɜːrl/（[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记]]） |
 
@@ -113,6 +113,7 @@ aliases:
 | 18 | **novel** | /ˈnɑːvl/ | /ˈnɒvl/ | n./adj. 小说；新奇的 | 名/形重音位置不同 |
 | 19 | **elite** | /eɪˈliːt/ | /ɪˈliːt/ | n./adj. 精英 | 英美重音不同 |
 | 20 | **meter** | /ˈmiːtər/ | /ˈmiːtə(r)/ | n. 米；仪表 | 英式拼写 metre |
+| 21 | **either** | /ˈiːðər/ | /ˈaɪðə(r)/ | det./pron./adv. 任一；也（否定） | 美偏 /ˈiː-/、英偏 /ˈaɪ-/；`th` 发浊 [[ð]]；勿按 *ei* 读成 /eɪ/（见 §7 · §9.3） |
 
 ---
 
@@ -231,6 +232,7 @@ aliases:
 | **chew** /tʃuː/ | v. 咀嚼 | **few** /fjuː/ | adj. 很少的 | /tʃuː/ vs /fjuː/ |
 | **whale** /weɪl/ | n. 鲸 | **wail** /weɪl/ | v./n. 哀号 | 同音异义 |
 | **kale** /keɪl/ | n. 羽衣甘蓝 | **pale** /peɪl/ | adj. 苍白的 | 同韵，勿混淆词义 |
+| **either** /ˈiːðər/ · /ˈaɪðər/ | det./pron. 任一 | **neither** /ˈniːðər/ · /ˈnaɪðər/ | det./pron. 两者都不 | 元音选择与 *either* 同族（美偏 /iː/、英偏 /aɪ/）；`th` 皆浊 [[ð]]；勿读 /eɪ/ |
 
 ---
 
@@ -452,6 +454,7 @@ aliases:
 | **documentary** | /ˌdɒkjəˈmentri/ | 重音 / 次重音全错 | 纪录片 | 国人易错、重音 | [[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]] |
 | **surrogate** | /ˈsɜːrəɡət/ | 三音节读成两节 | 代孕者 | 国人易错、音节 | S01E01 · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
 | **wide awake** | /waɪd əˈweɪk/ | *awake* 单音节化 | 完全醒着的 | 国人易错 | S01E01 · 已在§8 |
+| **either** | /ˈiːðər/（美常见）· /ˈaɪðər/（英常见） | /ˈeɪðər/ 按 *ei*=/eɪ/ 硬拼；`th` 发成 /θ/ 或 /s/ | 任一；也（否定句） | 国人易错、英美音、浊 th | §2 · §7；与 *neither* 同族 |
 
 ### 9.4 已在 §1–§8 的国人高发项（交叉索引）
 
@@ -467,6 +470,7 @@ aliases:
 | **anxiety / example** | `x` → /ɡz/ | §4 · §6 |
 | **pull / pool** | /ʊ/ vs /uː/ 勿混 | §4 · §7 |
 | **though / through** | /ðoʊ/ vs /θruː/ | §4 · §7 |
+| **either / neither** | 美偏 /ˈiːðər/·/ˈniːðər/；英偏 /ˈaɪðər/·/ˈnaɪðər/；勿 /eɪ/；`th`=/ð/ | §2 · §7 · §9.3 |
 | **psychology** | 首音节 silent p | §1 |
 | **recipe** | /ˈresəpi/ 三音节弱读 | §4 |
 | **apple** | 勿成 epple；/æ/ | §9.1 · §9.5 |

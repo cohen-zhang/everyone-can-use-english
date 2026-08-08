@@ -100,6 +100,8 @@ Object proxy = Proxy.newProxyInstance(
 
 **Limitation — 局限**: interfaces only; for concrete classes use CGLIB / ByteBuddy — 只能代理接口；代理具体类需 CGLIB / ByteBuddy。
 
+**See also**: [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]] — Spring AOP 同样基于 JDK / CGLIB 代理。
+
 ### 5. Fail-fast Iterators — 快速失败迭代器
 
 Iterators returned by `ArrayList` are **fail-fast**: modifying the collection structurally during iteration (outside the iterator's own methods) throws `ConcurrentModificationException`.
@@ -166,7 +168,7 @@ Iterators returned by `ArrayList` are **fail-fast**: modifying the collection st
 - [The Java Language Specification](https://docs.oracle.com/javase/specs/)
 - [Baeldung: Java String Pool](https://www.baeldung.com/java-string-pool)
 - [Baeldung: Dynamic Proxies in Java](https://www.baeldung.com/java-dynamic-proxies)
-- Related: [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]]
+- Related: [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]]
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/java-base/README.en.md
 
 ---
