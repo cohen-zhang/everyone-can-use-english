@@ -14,7 +14,7 @@
 
 **学习顺序（ch.8）：** 精读词表 → 无字幕试看 → 吃力开英文字幕（不开中字）→ 复习词表 → 二刷。
 
-**相关：** [[learning-notes/tv-series/spider-man-into-the-spider-verse/README|Spider-Verse]]（*glitch / dimension / believe* 等跨片对照）
+**相关：** [[learning-notes/tv-series/spider-man-into-the-spider-verse/README|Spider-Verse]]（*glitch / dimension / believe* 等跨片对照） · [[learning-notes/tv-series/the-truman-show/README|The Truman Show · 楚门的世界]]（「现实 / 人造世界」主题对照）
 
 **搜索关键字（对照原书）：**
 

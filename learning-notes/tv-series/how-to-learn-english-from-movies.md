@@ -139,6 +139,28 @@ aliases:
 
 **搜索关键字：** `The Matrix 1999 English subtitle`
 
+### 3.9 华尔街之狼（2013）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/the-wolf-of-wall-street/the-wolf-of-wall-street.2013.en.srt\|the-wolf-of-wall-street.2013.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/the-wolf-of-wall-street/the-wolf-of-wall-street.2013.scenes\|the-wolf-of-wall-street.2013.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/the-wolf-of-wall-street/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/the-wolf-of-wall-street/README\|README]] |
+
+**搜索关键字：** `The Wolf of Wall Street 2013 English subtitle`
+
+### 3.10 楚门的世界（1998）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/the-truman-show/the-truman-show.1998.en.srt\|the-truman-show.1998.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/the-truman-show/the-truman-show.1998.scenes\|scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/the-truman-show/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/the-truman-show/README\|README]] |
+
+**搜索关键字：** `The Truman Show 1998 English subtitle`
+
 ---
 
 ## 4. 一分钟自检
