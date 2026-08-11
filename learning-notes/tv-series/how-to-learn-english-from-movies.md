@@ -72,6 +72,73 @@ aliases:
 | 片目录说明 | [[learning-notes/tv-series/forrest-gump/README\|README]] |
 
 **搜索关键字：** `Forrest Gump 1994 English subtitle`
+
+### 3.3 疯狂动物城 1（2016）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/zootopia/zootopia.2016.en.srt\|zootopia.2016.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/zootopia/zootopia.2016.scenes\|zootopia.2016.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/zootopia/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/zootopia/README\|README]] |
+
+**搜索关键字：** `Zootopia 2016 English subtitle`
+
+### 3.4 功夫熊猫 1（2008）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/kung-fu-panda/kung-fu-panda.2008.en.srt\|kung-fu-panda.2008.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/kung-fu-panda/kung-fu-panda.2008.scenes\|kung-fu-panda.2008.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/kung-fu-panda/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/kung-fu-panda/README\|README]] |
+
+**搜索关键字：** `Kung Fu Panda 2008 English subtitle`
+
+### 3.5 肖申克的救赎（1994）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/the-shawshank-redemption/the-shawshank-redemption.1994.en.srt\|the-shawshank-redemption.1994.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/the-shawshank-redemption/the-shawshank-redemption.1994.scenes\|scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/the-shawshank-redemption/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/the-shawshank-redemption/README\|README]] |
+
+**搜索关键字：** `The Shawshank Redemption 1994 English subtitle`
+
+### 3.6 当幸福来敲门（2006）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/the-pursuit-of-happyness/the-pursuit-of-happyness.2006.en.srt\|the-pursuit-of-happyness.2006.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/the-pursuit-of-happyness/the-pursuit-of-happyness.2006.scenes\|scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/the-pursuit-of-happyness/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/the-pursuit-of-happyness/README\|README]] |
+
+**搜索关键字：** `The Pursuit of Happyness 2006 English subtitle`
+
+### 3.7 初恋 50 次（2004）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/50-first-dates/50-first-dates.2004.en.srt\|50-first-dates.2004.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/50-first-dates/50-first-dates.2004.scenes\|50-first-dates.2004.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/50-first-dates/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/50-first-dates/README\|README]] |
+
+**搜索关键字：** `50 First Dates 2004 English subtitle`
+
+### 3.8 黑客帝国 1（1999）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/the-matrix/the-matrix.1999.en.srt\|the-matrix.1999.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/the-matrix/the-matrix.1999.scenes\|scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/the-matrix/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/the-matrix/README\|README]] |
+
+**搜索关键字：** `The Matrix 1999 English subtitle`
+
 ---
 
 ## 4. 一分钟自检

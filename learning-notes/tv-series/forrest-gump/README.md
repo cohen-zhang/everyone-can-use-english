@@ -14,6 +14,8 @@
 
 **学习顺序（ch.8）：** 精读词表 → 无字幕试看 → 吃力开英文字幕（不开中字）→ 复习词表 → 二刷。
 
+**相关：** [[learning-notes/tv-series/the-pursuit-of-happyness/README|当幸福来敲门]]（同类人生叙事金句对照）
+
 **搜索关键字（对照原书）：**
 
 > Forrest Gump 1994 English subtitle

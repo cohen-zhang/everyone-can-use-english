@@ -13,3 +13,5 @@
 **说明：** 英文字幕（SRT，HI 听障标注版，含角色名 / 音效提示）。来源 OpenSubtitles #7679502（BluRay SPARKS 时间轴）；已去掉站点广告条。仅供个人英语学习使用。
 
 **学习顺序（ch.8）：** 精读词表 → 无字幕试看 → 吃力开英文字幕（不开中字）→ 复习词表 → 二刷。
+
+**相关：** [[learning-notes/tv-series/the-matrix/README|The Matrix · 黑客帝国 1]]（*glitch / believe / free your mind* 等跨片对照）
