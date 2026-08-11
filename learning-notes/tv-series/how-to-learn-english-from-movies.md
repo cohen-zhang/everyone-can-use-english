@@ -161,6 +161,28 @@ aliases:
 
 **搜索关键字：** `The Truman Show 1998 English subtitle`
 
+### 3.11 海底总动员 1（2003）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/finding-nemo/finding-nemo.2003.en.srt\|finding-nemo.2003.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/finding-nemo/finding-nemo.2003.scenes\|finding-nemo.2003.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/finding-nemo/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/finding-nemo/README\|README]] |
+
+**搜索关键字：** `Finding Nemo 2003 English subtitle`
+
+### 3.12 机器人总动员 / 机器总动员 1（2008）
+
+| 项 | 路径 |
+| --- | --- |
+| 英文字幕 (srt) | [[learning-notes/tv-series/wall-e/wall-e.2008.en.srt\|wall-e.2008.en.srt]] |
+| 场景剧本 | [[learning-notes/tv-series/wall-e/wall-e.2008.scenes\|wall-e.2008.scenes.md]] |
+| **词表示例** | [[learning-notes/tv-series/wall-e/vocabulary\|vocabulary · 本片词汇]] |
+| 片目录说明 | [[learning-notes/tv-series/wall-e/README\|README]] |
+
+**搜索关键字：** `WALL-E 2008 English subtitle`
+
 ---
 
 ## 4. 一分钟自检

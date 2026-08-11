@@ -63,7 +63,7 @@ tags:
 
 ### 软件与内容
 
-- 全英文动画/电影：Peppa Pig、Teletubbies、[[learning-notes/tv-series/kung-fu-panda/README|Kung Fu Panda]]、海底/玩具/汽车总动员系列
+- 全英文动画/电影：Peppa Pig、Teletubbies、[[learning-notes/tv-series/kung-fu-panda/README|Kung Fu Panda]]、[[learning-notes/tv-series/finding-nemo/README|Finding Nemo]]、[[learning-notes/tv-series/wall-e/README|WALL-E]]、玩具/汽车总动员系列
 - 互动英语学习 App：叽里呱啦、多纳英语
 
 ## 当前实践方法（先粗分类，后填坑）

@@ -1,0 +1,1580 @@
+---
+tags:
+  - tv-series
+  - finding-nemo
+  - transcript
+aliases:
+  - Finding Nemo scene transcript
+---
+
+# Finding Nemo (2003) — Scene transcript
+
+**Source:** [[learning-notes/tv-series/finding-nemo/finding-nemo.2003.en.srt|finding-nemo.2003.en.srt]]  
+**Vocab:** [[learning-notes/tv-series/finding-nemo/vocabulary|vocabulary]] · **Index:** [[learning-notes/tv-series/finding-nemo/README|README]]
+
+English-only scene script (timestamps removed). Segmented by plot beats in the style of Forrest Gump / Kung Fu Panda scenes. Pure sound-effect tags omitted.
+
+---
+
+## Plot beats
+
+### A. Anemone home — Coral & the Drop Off
+
+*Marlin and Coral settle by the Drop Off; tragedy strikes the eggs.*
+
+- **Improved By: Fidel33 Sub Upload Date: July 20, 2016**
+- **- MALE FISH: Wow. - FEMALE FISH: Mmm.**
+- **- Wow. - Mmm-hmm.**
+- **- Wow. - Yes, Marlin.**
+- **No, I see it. It's beautiful.**
+- **So, Coral, when you said you wanted an ocean view,**
+- **you didn't think that we're going to get the whole ocean, did you? Huh?**
+- **(INHALES DEEPLY) Oh, yeah!**
+- **A fish can breathe out here. Did your man deliver or did he deliver?**
+- **- My man delivered. - And It wasn't so easy.**
+- **Because a lot of other clownfish had their eyes on this place.**
+- **You better believe they did. Every single one of them.**
+- **Mmm-hm. You did good and the neighbourhood is awesome.**
+- **- So you do like it, don't you? - No, no, I do, I do, I really do like it.**
+- **But, Marlin, I know that the Drop Off is desirable,**
+- **with a great schools and the amazing view and all...**
+- **but do we really need so much space?**
+- **Coral, honey, these are our kids we're talking about.**
+- **They deserve the best. Look, look, look.**
+- **They'll wake up, poke their little heads out and they see a whale!**
+- **- See right by their bedroom window! - (CHUCKLES) Shh!**
+- **- You're going to wake the kids. - Oh, right. Right.**
+- **Aw, look.**
+- **They're dreaming.**
+- **- We still have to name them. - You want to name all of them? Right now?**
+- **All right. We'll name this half Marlin Jr.**
+- **And then this half Coral Jr.**
+- **- Okay, we're done. - I like Nemo.**
+- **Nemo?**
+- **We'll name one Nemo, but I'd like most of them to be Marlin Jr.**
+- **Just think in a couple of days, we're going to be parents!**
+- **Yeah.**
+- **- What if they don't like me? - Marlin...**
+- **- No, really. - There's over 400 eggs.**
+- **Odds are one of them is bound to like you.**
+- **What?**
+- **- You remember how we met? - Well, I try not to.**
+- **Well, I remember.**
+- **Excuse me, Miss. Can you check if I have a hook in my lip?**
+- **- Marlin. - Oh, you gotta look closer.**
+- **- (SQUEALS) Get away! Get away! - Here he is. Cutie's here!**
+- **Where did everybody go?**
+- **Coral. Get inside the house, Coral.**
+- **No, no, Coral, don't. They'll be fine. Just get inside.**
+- **You. Right now.**
+- **No! Ow!**
+- **Coral!**
+- **Coral? Coral?**
+- **(SOBS, VOICE BREAKING) Coral! Coral?**
+- **Coral?**
+- **There, there, there.**
+- **It's okay. Daddy's here.**
+- **Daddy's got you.**
+- **I promise I will never let anything happen to you,**
+- **Nemo.**
+
+### B. First day of school
+
+*Nemo's lucky fin; Marlin's overprotection; school and the Drop Off.*
+
+- **First day of school! Wake up! Wake up! Come on. First day of school.**
+- **I don't want to go to school. Five more minutes.**
+- **- Not you, Dad. Me. - Okay.**
+- **- Get up! Get up! Time for school! - Huh? What is...?**
+- **- All right, I'm up. It's time for school. - Oh, boy! Oh, boy! Whoa!**
+- **Nemo!**
+- **- First day of school! - Nemo, don't move. Don't move!**
+- **You'll never get out of there yourself. I'll... I'll do it.**
+- **All right, where's the break? You feel a break? No.**
+- **Sometimes you can't talk because fluid is rushing to the area. Now, any rushing fluids?**
+- **- No. No. - Are you whoozy? How many stripes do I have?**
+- **- Answer the stripe question. - I'm fine. Three.**
+- **No! See! Something's wrong with you. I have one, two...**
+- **Three. That's all I have? Oh.**
+- **You're okay. How's the lucky fin?**
+- **- Lucky. - Let's see.**
+- **Now, you sure want to go to school this year? There's no problem if you don't.**
+- **- You can wait five or six years. - Come on, Dad. It's time for school.**
+- **- Forgot to brush. - (SIGHS)**
+- **Do you want this anemone to sting you?**
+- **- Yes. (GROANS) - Brush.**
+- **- Okay. I'm done. - You missed a spot.**
+- **- Where? - There.**
+- **- (LAUGHING) - Right there. And here and here.**
+- **We're excited. First day of school. Here we go. We're ready to learn to get some knowledge.**
+- **Now, what's the one thing we have to remember about the ocean?**
+- **- It's not safe. - That's my boy.**
+- **So, first: we check to see that the coast is clear. We go out and back in.**
+- **And then we go out and back in.**
+- **And then one more time. Out and back in.**
+- **- If you want to do it four times... - Dad...**
+- **All right. Come on, boy.**
+- **Dad, maybe while I'm at school, I'll see a shark.**
+- **- I highly doubt that. - Have you ever met a shark?**
+- **- No, and I don't plan to. - How old are sea turtles?**
+- **Sea turtles? I... I don't know.**
+- **Sandy Plankton from next door he said that**
+- **sea turtles said (STAMMERS) they live to be about 100 years old.**
+- **If I ever meet a sea turtle, I'll ask him, after I'm done talking to the shark.**
+- **Okay? Whoa, whoa, whoa. Hold on. Wait to cross.**
+- **Hold my fin. Hold my fin.**
+- **Dad, you're not going to freak out like you did at the petting zoo, are you?**
+- **Hey, that snail was about to charge.**
+- **Hmm. I wonder where we're supposed to go.**
+- **- FISHES: Bye, Mom. - I'll pick you up after school.**
+- **Come on, you guys. Stop it. Give it back.**
+- **Come on. We'll try over there.**
+- **Excuse me. Is this where we meet his teacher?**
+- **- Well, look who's out of the anemone. - Yes, shocking, I know.**
+- **- Marty, right? - Marlin.**
+- **- Bob. - Ted.**
+- **Phil. Hey, you're a clownfish.**
+- **You're funny, right? Hey, tell us a joke.**
+- **- Yeah. Good idea. - (ALL AGREEING)**
+- **Well, acutally that's a common misconception. Clownfish are no funnier than any other fish.**
+- **- Aw, Come on, Clowny. - Yeah, do something funny.**
+- **- Yeah! - All right. I know one joke.**
+- **There's a mollusk. See, and he walks up to...**
+- **Well, he doesn't walk up, he swims up.**
+- **But, actually, the mollusk isn't moving. He's in one place.**
+- **And then the sea cucumber... Well, they...**
+- **I'm mixed up. There was a mollusk and a sea cucumber.**
+- **None of them were walking...**
+- **Sheldon! Get out of Mr. Johanssen's yard now!**
+- **All right, you kids!**
+- **Where'd you go? Where'd you go? Where'd you go?**
+- **Dad, dad. Can I go play, too? Can I?**
+- **I would feel better if you go play over on the sponge beds.**
+- **- (MOTHER GASPS) - (BABY CRIES)**
+- **That's where I would play.**
+- **- What's wrong with his fin? - He looks funny.**
+- **- Hey, what did I do? What did I do? - Be nice. It's his first time at school.**
+- **He was born with it, kids. We call it his lucky fin.**
+- **Dad...**
+- **See this tentacle? It's actually shorter than all my other tentacles.**
+- **But you can't really tell. Especially when I twirl them like this.**
+- **I'm an H20 intolerant.**
+- **I'm obnoxious.**
+- **♪ Let's name the zones, the zones, the zones ♪**
+- **♪ Let's name the zones of the open sea ♪**
+- **Mr. Ray!**
+- **- Come on, Nemo. - Oh, you better stay with me.**
+- **♪ There's epipelagic, mesopelagic, bathyal, abyssopelagic ♪**
+- **♪ All the rest are too deep for you and me to see ♪**
+- **Huh? I wonder where my class has gone.**
+- **ALL: We're under here.**
+- **Aw, There you are! Come aboard, explorers.**
+- **♪ Knowledge exploring is oh so lyrical ♪**
+- **♪ When you think thoughts that are empirical ♪**
+- **Dad, you can go now.**
+- **- Well, hello. Who is this? - I'm Nemo.**
+- **Nemo, all new explorers must answer a science question.**
+- **- Okay. - You live in what kind of home?**
+- **In an anemoninny. Anemonemenemone.**
+- **Okay, okay, don't hurt yourself. Welcome aboard, explorerer!**
+- **Just so you know, he's got a little fin.**
+- **If he's having trouble swimming, let him take a break. 10-15 minutes.**
+- **Dad, it's time for you to go now.**
+- **Don't worry. We're going to stay together as a group.**
+- **Okay, class. Optical orbits up front.**
+- **Remember, we keep our supraesophageal ganglion to ourselves.**
+- **- That means you, Jimmy. - Oh, man!**
+- **- Bye, Nemo. - Bye, Dad.**
+- **Bye, son.**
+- **Be safe.**
+- **Hey, you're doing pretty well for a first-timer.**
+- **Well, you can't hold on to them forever, can you?**
+- **I had a tough time when my eldest went out on the Drop Off.**
+- **The Drop Off! They're going to the Drop Off?**
+- **What? Are you insane?**
+- **Why don't we just fry them up now and serve them with chips?**
+- **Hey, Marty, calm down.**
+- **Don't tell me to be calm, pony-boy.**
+- **Pony-boy?**
+- **You know for a clownfish, he really isn't that funny.**
+- **Pity.**
+- **♪ Let's name the species, the species, the species ♪**
+- **♪ Let's name the species that live in the sea ♪**
+- **♪ Mollusca and gastropoda, arthropoda, echinoderma, chordata ♪**
+- **♪ And some fish like you and me! ♪**
+- **Come on. Sing with me.**
+- **♪ Seaweed is cool, seaweed is fun ♪**
+- **♪ It makes its food from the rays of the sun ♪**
+- **Okay, the Drop Off.**
+- **All right, kids. Feel free to explore, but stay close.**
+- **(GASPS) Stromatolitic cyanobacteria! Gather.**
+- **An entire ecosystem contained in one infinitesimal speck.**
+- **Come on. Let's go.**
+- **Come on. Sing with me.**
+- **♪ There's porifera, coelenterata, hydrozoa, scyphozoa ♪**
+- **♪ Anthozoa, ctenophora, bryozoas three ♪**
+- **Hey, guys, wait up.**
+- **Whoa!**
+- **Cool.**
+- **- Saved your life! - Ahh! Oh.**
+- **- You guys made me ink. - (BOTH LAUGHING)**
+- **What's that?**
+- **I know what that is. Oh, Oh! Sandy Plankton saw one.**
+- **He called... He said it was called a butt.**
+- **Wow. That's a pretty big butt.**
+
+### C. Touch the butt — Nemo taken
+
+*Nemo defies Marlin; diver boat takes him; Marlin begins the chase.*
+
+- **Oh! Look at me. I'm gonna go touch the butt.**
+- **Oh, yeah? Let's see you get closer.**
+- **Okay.**
+- **Beat that.**
+- **Come on, Nemo. How far can you go?**
+- **- My dad says it's not safe. - Nemo, no!**
+- **Dad?**
+- **You were about to swim into open water.**
+- **No! I wasn't gonna go out...**
+- **It was just a good thing I was here. If I haven't shown up, I don't...**
+- **- Sorry, he wasn't going to go. - Yeah, he was too afraid.**
+- **- No, I wasn't. - This does not concern you kids.**
+- **And you're lucky I don't tell your parents you were out there. You know you can't swim well.**
+- **- I can swim fine, Dad, okay? - No. It's not okay.**
+- **You shouldn't be anywhere near here.**
+- **Okay, I was right. You know what? You'll start school in a year or two.**
+- **No, dad. Just because you're scared of the ocean...**
+- **Clearly you're not ready. And you're not coming back until you are.**
+- **You think you can do these things, but you just can't, Nemo!**
+- **I hate you.**
+- **♪ There's... ♪**
+- **Nothing to see. Gather, uh, over there.**
+- **Excuse me? Is there anything I can do? I am a scientist, sir. Is there any problem?**
+- **You know, I'm sorry. I didn't mean to interrupt things. He isn't a good swimmer.**
+- **And I just think it's a little too soon for him to be out here unsupervised.**
+- **MR. RAY: Well, I can assure you, he's quite safe with me.**
+- **MARLIN: Look, I'm sure he is.**
+- **But you have a large class and he can get lost, you know, from sight**
+- **if you're not looking. I'm not saying you're not looking...**
+- **Oh, my gosh! Nemo's swimming out to sea.**
+- **Nemo!**
+- **What do you think you're doing?**
+- **You're gonna get stuck out there**
+- **and I'm gonna have to get you before another fish does.**
+- **Get back here.**
+- **I said get back here now!**
+- **Stop.**
+- **You take one more move, mister...**
+- **Don't you dare. If you put one fin on that boat...**
+- **Are you listening to me?**
+- **Don't touch the boa...**
+- **Nemo!**
+- **He touched the butt.**
+- **You just paddle your little tail right back here, Nemo.**
+- **That's right. You are in big trouble, young man.**
+- **Do you hear me? Big...**
+- **Aagghh!**
+- **Daddy, help me!**
+- **I'm coming, Nemo.**
+- **Get under me, kids.**
+- **No! Dad! Daddy!**
+- **Nemo!**
+- **Nemo! Nemo, no!**
+- **Nemo!**
+- **Nemo, Nemo!**
+- **No!**
+- **Nemo, Nemo!**
+- **Hold on!**
+- **Oh, no.**
+- **No. No, It's gone. It's gone.**
+- **No, no! It can't be gone. No. No!**
+- **Nemo! Nemo...**
+- **Nemo!**
+- **No.**
+- **Nemo! Nemo!**
+- **No.**
+- **No. Please, no.**
+- **No, no.**
+- **Has anybody seen a boat?**
+- **- Please. A white boat? - (FISHES CLAMORING)**
+- **He took my son! My son!**
+- **Help me. Please.**
+- **- Look out! - Ahh!**
+- **Oh, sorry. I didn't see you, Sir.**
+- **Are you okay?**
+- **- He's gone. He's gone. - There, there.**
+- **- No, He's gone. He's gone. - It's all right.**
+- **- It'll be okay. - No, no, they took him away.**
+- **I gotta have to find the boat.**
+- **- A boat? Hey, I've seen a boat. - You have?**
+- **- Uh-huh, and it passed by not too long ago. - A white one?**
+
+### D. Meet Dory — short-term memory
+
+*Dory joins; short-term memory loss; the search begins.*
+
+- **- Hi. I'm Dory. - Where? Which way?**
+- **Oh. Oh, oh, oh! It went, um, this way. It went this way!**
+- **- Follow me. - Thank you. Thank you.**
+- **Thank you so much.**
+- **No problem.**
+- **Wait.**
+- **Will you quit it? I'm trying to swim here. What, ocean big enough for you?**
+- **Something like that? You got a problem, buddy? Huh? Huh?**
+- **Do you? Do you? Do you?**
+- **Want a piece of me? Yeah. Yeah.**
+- **Ooh! I'm scared now! What!?**
+- **- Wait a minute... - Stop following me, okay?**
+- **What are you talking about? You're showing me which way the boat went.**
+- **A boat? Hey, I've seen a boat. It passed by not too long ago.**
+- **It went, um, this way. It went this way! Follow me!**
+- **Wait a minute. Wait a minute. What is going on?**
+- **You already told me which way the boat was going.**
+- **I did? Oh, no.**
+- **If this is some kind of practical joke, it's not funny and I know funny.**
+- **- I'm a clownfish. - No, it's not. I know it's not. I'm so sorry.**
+- **See, I suffer from short-term memory loss.**
+- **Short-term memory loss?**
+- **- I don't believe this. - No. It's true.**
+- **I forget things almost instantly. It runs in my family.**
+- **Well, at least I think it does. Uh... Hmm?**
+- **Where are they?**
+- **Can I help you?**
+- **Something's wrong with you. Really.**
+- **You're wasting my time.**
+- **I have to find my son.**
+- **Hello.**
+- **Well, hi!**
+- **Name's Bruce.**
+- **It's all right. I understand.**
+- **Why trust a shark, right?**
+- **So, what's a couple of bites like you doing out so late, eh?**
+- **Nothing. We're not doing anything. We're not even out.**
+- **Great.**
+- **Then how would you morsels like to come to a little get-together I'm having?**
+- **- You mean like a party? - Yeah. Yeah, right. A party.**
+- **- What do you say? - I love parties. That sounds like fun.**
+- **You know, Parties are fun and it's tempting, but we can't because...**
+- **Oh, Come on. I insist.**
+- **Okay. That's all that matters.**
+- **DORY: Hey, Look. Balloons. It is a party.**
+- **Mind your distance, though. Those balloons can be a bit dodgy.**
+- **You wouldn't want one of them to pop.**
+- **Anchor! Chum!**
+- **There you are, Bruce. Finally.**
+- **- We got company. - Oh, It's about time, mate.**
+- **We've already gone through the snacks and I'm still starving.**
+- **We almost had to have a feeding frenzy.**
+- **Come on. Let's get this over with.**
+- **Right then. The meeting has officially come to order.**
+- **Let us all say the pledge.**
+- **ALL: I am a nice shark,**
+- **not a mindless eating machine.**
+- **If I am to change this image, I must first change myself.**
+
+### E. Fish are friends — sharks
+
+*Bruce's Fish-Friendly meeting; blood panic; escape through the minefield.*
+
+- **Fish are friends, not food.**
+- **Except stinking dolphins.**
+- **Dolphins! Yeah, they think they're so cute.**
+- **Oh, Look at me, I'm a flipping little dolphin. Let me flip for you. Ain't I something?**
+- **Right then, today's meeting is step five "Bring a Fish Friend".**
+- **- Now, Do you all have your friends? - Got mine.**
+- **- DORY: Hey there! - BRUCE: How about you, Chum?**
+- **Oh. Well, I seem to have misplaced my**
+- **- friend. - (MARLIN GASPS)**
+- **BRUCE: It's all right, Chum.**
+- **You can help yourself to one of my friends.**
+- **Oh. Thanks, mate. A little chum for Chum, eh?**
+- **I'll start the testimonies. Hello. My name is Bruce.**
+- **ANCHOR & CHUM: Hello, Bruce.**
+- **It has been three weeks since my last fish, on my honour,**
+- **or may I be chopped up and made into soup.**
+- **- You're an inspiration to all of us. - Amen.**
+- **- Right, then. Who's next? - Oh, Oh! Pick me. Pick me. Pick me!**
+- **- Yes, The little Sheila down the front. - Whoo!**
+- **Come on up here.**
+- **Hi. I'm Dory.**
+- **SHARKS: Hello, Dory.**
+- **And... Well, I don't think I've ever eaten a fish.**
+- **- All right, that's incredible, Dory. - Good on you, mate!**
+- **I'm glad I got that off my chest.**
+- **All right. Anyone else? Hello, how about you, mate? What's your problem?**
+- **Me? I don't... I don't have a problem.**
+- **- Oh? Okay. - SHARKS: Denial.**
+- **Just start with your name.**
+- **Okay. Uh, Hello.**
+- **My name is Marlin. I'm a clownfish.**
+- **- A clownfish? Really? - Go on. Tell us a joke.**
+- **Ooh! I love jokes.**
+- **Well, I actually do know one that's pretty good.**
+- **There was this mollusk and he walks up to a sea cucumber.**
+- **Normally they don't talk, sea cucumbers, but in a joke, everyone talks.**
+- **So, the sea mollusk says to the cucumber...**
+- **Daddy!**
+- **Nemo!**
+- **Nemo! Ha-ha-ha! Nemo!**
+- **- I don't get it. - For a clownfish he's not that funny.**
+- **No, no, no, he's my son. He was taken by these divers.**
+- **(GASPS) Oh, my. You poor fish.**
+- **- Humans. Think they own everything. - Probably American.**
+- **(TEARFULLY) Now, there is a father looking for his little boy.**
+- **MARLIN: Ugh! What do these markings mean?**
+- **- (SOBS) I never knew my father. - Come here.**
+- **- We're all mates here, mate. - I can't read human.**
+- **Well, then we gotta find a fish that can read this. Hey, Look. Sharks!**
+- **- Guys. Guys, guys. - No, no, no, Dory. No, Dory.**
+- **- Hey, that's mine. Give it back. Gimme! - Dory, Cut it out.**
+- **- Ow! Ow, ow! - Oh, I'm sorry. Are you okay? I'm so sorry.**
+- **You really clocked me there. Am I bleeding?**
+- **Dory, are you oka... (SNIFFS)**
+- **Oh! Oh!**
+- **That's good.**
+- **BOTH: (GASPS) Intervention!**
+- **- Just a bite. - You hold it together, mate.**
+- **- Fish are friends, not food. - Food!**
+- **- Dory, look out. - Ahh!**
+- **I'm having fish tonight.**
+- **Remember the steps, mate.**
+- **Just one bite.**
+- **G'day.**
+- **There's no way out. There's gotta be a way to escape.**
+- **- Who is it? - Dory, help me find a way out.**
+- **Sorry. You'll have to come back later. We're trying to escape.**
+- **Okay. There's no way out. There's gotta be a way out.**
+- **Look, here's something. "Es-ca-pé." I wonder what that means. It's funny...**
+- **- It's spelled just like the word "escape." - Let's go.**
+- **Here's Brucie!**
+- **- Wait a minute. You can read? - I can read? That's right! I can read!**
+- **Well, then here. Read this now.**
+- **He really doesn't mean it. You know, he never even knew his father.**
+- **Don't fall off the wagon.**
+- **Oh, no! It's blocked.**
+- **No, Bruce! Focus!**
+- **Sorry about... Bruce, mate.**
+- **He's really... A nice guy.**
+- **I need to get that mask.**
+- **You want that mask? Okay.**
+- **- No, no, no, no! - Whoo!**
+- **Quick. Grab the mask. Grab it!**
+- **Oh, no. Bruce.**
+- **What?**
+- **Swim away! Swin away!**
+- **DORY: Oh, Is the party over?**
+- **Nice.**
+- **Dad?!**
+- **Daddy?**
+- **- DR. PHILIP: Barbara. - BARBARA: Uh-huh?**
+- **Prep for his anterior crown, would you, please?**
+- **- And I really need a few more cotton rolls. - Okay.**
+- **Hello, little fella.**
+- **Beauty, isn't he?**
+- **I found that guy struggling for life off at the reef, and I saved him.**
+- **- So, that Novocain kicked in yet? - (PATIENT GABBLES)**
+- **Bubbles!**
+- **- My bubbles. - He likes bubbles.**
+- **No, no, no, no!**
+- **- Bonjour. - Aagghh!**
+- **Slow down, little fella. There's nothing to worry about.**
+- **- Oh, he's scared to death. - I want to go home.**
+- **Do you know where my dad is?**
+- **Honey, your dad's probably back at the pet store.**
+- **- Pet store? - Yeah.**
+- **- Like I'm from Bob's Fish Mart. - Pet Palace.**
+- **- Fish-O-Rama. - Mail order.**
+- **E-Bay.**
+- **- So, which one is it? - I'm from the ocean.**
+- **Ah, the ocean. The ocean! Aagghh!**
+- **He hasn't been decontaminated yet. Jacques!**
+- **- Clean him! - Oui. Oui.**
+- **- Ocean. - Ooh, La mer.**
+- **Voilà. He is clean.**
+- **Wow. The big blue. What's it like?**
+- **Uh... Big and blue?**
+- **I knew it.**
+- **Kid, If there's anything you need, just ask your Auntie Deb. That's me.**
+- **Or If I'm not around you can always talk to my sister, Flo. Hi. How are you?**
+- **Don't listen to anything my sister says. She's nuts.**
+- **- Can't hear you, Peach. - I said we got a live one.**
+- **- Yes! - Boy, oh, boy.**
+- **- What have we got? - Root canal. And by the looks of those X-Rays.**
+- **It's not gonna be pretty.**
+- **Aagghh!**
+- **- Repedemic Clamp installed? - Yup.**
+- **- What did he use to open? - Glader Glidden drill.**
+- **- He seems to be favouring that one latey. - Ugh, I can't see, Flo.**
+- **(MUMBLING) Agh!**
+- **- Now, he's doing The Schilder Technique. - Oh, he's using a Hedstrom file.**
+- **That's not a Hedstrom file. That's a K-Flex.**
+- **It's got a teardrop cross section. Clearly, a Hedstrom.**
+- **- No, no. K-Flex! K-Flex! - Hedstrom! Hedstrom!**
+- **There I go. Little help. Over here.**
+- **I'll go deflate him.**
+- **All right. Go ahead and rinse.**
+- **Ugh! The human mouth is a disgusting place.**
+- **- Hey, Nigel. - What did I Miss? Am I late?**
+- **- Root canal. And it's a doozy. - Root Canal, huh? What did he use to open?**
+- **- Glader Glidden drill. - He's been favouring that one.**
+- **I hope he doesn't get surplus sealer at the portal terminus.**
+- **- Hello. Who's this? - New guy.**
+- **- The dentist took him off the reef. - An outie.**
+- **From my neck of the woods, eh? Sorry if I ever took a snap at you.**
+- **- Fish gotta swim. Birds gotta eat. - Hey! No, no, no!**
+- **Those aren't your fish. They're my fish. Come on. Go! Go, on! Shoo! Shoo!**
+- **The picture broke. This here's Darla. She's my niece.**
+- **She's gonna be eight this week.**
+- **Hey, little fella. Say hello to your new mummy.**
+- **She's gonna be here Friday to pick you up.**
+- **You're her present.**
+- **Oh, Shh, Shh, Shh! It's our little secret.**
+- **Well, Mr. Tucker,**
+- **while that sets up, I'm going to go see a man about a wallaby.**
+- **Oh, Darla!**
+- **- What? What's wrong with her? - She wouldn't stop shaking the bag.**
+- **- Poor Chuckles. - He was her present last year.**
+- **Hitched a ride on the porcelain express.**
+- **She's a fish killer.**
+- **I can't go with that girl. I have to get back to my dad.**
+- **- Daddy! Help me! - Oh, he's stuck.**
+- **Nobody touch him! Nobody touch him.**
+- **Can you help me?**
+- **No. You got yourself in there, you can get yourself out.**
+- **- Ugh, Gill... - I just want to see him do it, okay?**
+- **Calm down. Now, alternate wiggling your fins and your tail.**
+- **I can't. I have a bad fin.**
+- **Never stopped me.**
+- **Just think about what you need to do.**
+- **Come on.**
+- **Perfect.**
+- **- You did it. - Good squirming.**
+- **Wow, from the ocean! Just like you, Gill.**
+- **Yeah.**
+- **I've seen that look before. What are you thinking about?**
+- **I'm thinking tonight we give the kid a proper reception.**
+- **- Okay, kid, you got a name or what? - Nemo.**
+- **I'm Nemo.**
+- **Nemo. Nemo.**
+- **DORY: (IN SLEEP) Are you gonna eat that?**
+- **Hey, careful with that hammer.**
+- **- Dory! - Sea-Monkey has my money.**
+- **Wake up. Get up. Come on! Get up!**
+- **- Come on. - Yes, I'm a natural blue.**
+- **- Get up! - Look out. Sharks eat fish!**
+- **(COUGHING) Wow. Dusty.**
+- **The mask. Where's the mask?**
+- **No! No, the mask! Get it!**
+- **Get the mask! Get the mask! Get it!**
+- **Whoo-hoo! La-la-la-la.**
+- **Just keeps going on, doesn't it?**
+- **Echo! Echo!**
+- **- Hey, what are you doing? - It's gone. I've lost the mask.**
+- **- What, did you drop it? - You dropped it!**
+- **That was my only chance of finding my son. Now it's gone.**
+- **Hey, Mr. Grumpy Gills.**
+- **When life gets you down, you know what you gotta do?**
+
+### F. Just keep swimming — the mask
+
+*Anglerfish; reading the diver mask: P. Sherman, 42 Wallaby Way, Sydney.*
+
+- **- I don't want to know, what you gotta do. - ♪ Just keep swimming ♪**
+- **♪ Just keep swimming, swimming, swimming ♪**
+- **♪ What do we do? We swim, swim ♪**
+- **- Dory, no singing. - Ho-ho-ho-ho-ho!**
+- **♪ I love to swim ♪**
+- **♪ And when you want to swim you want to... ♪**
+- **See, I'm gonna get stuck now, with that song. Now, It's in my head!**
+- **DORY: Sorry.**
+- **- MARLIN: Dory, do you see anything? - DORY: Something's got me!**
+- **- That was me. I'm Sorry. - Who's that?**
+- **Who could it be? It's me.**
+- **DORY: Are... Are you my conscience?**
+- **MARLIN: Yeah, yeah. I'm your conscience.**
+- **We haven't spoken for a while. How are you?**
+- **- Oh, Can't complain. - Yeah, good.**
+- **Now, Dory, I want you to tell me, do you see anything?**
+- **I see a...**
+- **- I see a light. - A light?**
+- **Yeah. Over there.**
+- **Hey, conscience, am I dead?**
+- **I see it, too.**
+- **What is it?**
+- **It's so pretty!**
+- **I...**
+- **I'm feeling happy.**
+- **Which is a big deal for me.**
+- **I want to touch it.**
+- **Hey, come back. Come on back here.**
+- **- I'm gonna get you. - I'm gonna get you.**
+- **- I'm gonna get you. I'm gonna get you. - ♪ I'm going to swim with you ♪**
+- **♪ I'm going to be your best friend ♪**
+- **Good feeling's gone.**
+- **I can't see. I don't know where I'm going.**
+- **- The mask! - Ugh. What mask?**
+- **Okay. I can't see a thing.**
+- **Whoa, geez.**
+- **- Hey, look. A mask. - Read it!**
+- **Uh, I'm sorry, but if you could bring it a little closer. I kinda need the light.**
+- **That's great. Keep it right there.**
+- **- Just read it! - Okay, okay.**
+- **Mr. Bossy.**
+- **"P." Okay. P.**
+- **"Sher..."**
+- **P. Sher... P. Shirley...**
+- **P not Shirley.**
+- **Oh! The first line's "P. Sherman."**
+- **"P. Sherman" doesn't make any sense!**
+- **Okay, Uh, second line.**
+- **- "42... 42..." - Don't eat me. Don't eat me.**
+- **DORY: Light, please.**
+- **- "Walla... Wallaby." - (MARLIN MUFFLED MUMBLING)**
+- **The second line's "42 Wallaby Way."**
+- **That's great! Just finish up, here. Speed read. Take your time. No pressure.**
+- **There's a lot of pressure! Take a guess, now! With pressure.**
+- **- Sydney. It's Sydney! - Duck!**
+- **MARLIN: (PANTS) I'm dead. I'm dead.**
+- **I died. I'm dead.**
+- **Whoo-hoo!**
+- **♪ We did it, we did it ♪**
+- **♪ Oh, yeah, yeah, yeah ♪**
+- **♪ No eating here tonight, whoo! eating here tonight ♪**
+- **♪ No, no, no, eating here tonight You're on a diet ♪**
+- **Dory. Dory. What did it say? What did the mask say?**
+- **P. Sherman, 42 Wallaby Way, Sydney. (GASPS)**
+- **I remembered what it said! I usually forget things, but I remembered it that time.**
+- **- P. Sherman... - Wait! Where is that?**
+- **I don't know. But who cares? Ha-ha! I remembered.**
+- **P. Sherman, 42 Wallaby Way, Sydney. I remembered it again!**
+- **Psst!**
+- **(WHISPERS) Nemo.**
+- **Nemo!**
+- **Huh?**
+- **Suivez-moi.**
+- **Follow me.**
+- **ALL: Hoo!**
+- **State your name.**
+- **Nemo.**
+- **Brother Bloat, proceed.**
+- **Nemo, newcomer of orange and white.**
+- **You have been called forth to the summit of Mount Wannahockaloogie**
+- **to join with us in the fraternal bonds of tankhood.**
+- **Huh?**
+- **- We want you in our club, kid. - Really?**
+- **If you are able to swim through...**
+- **the Ring of Fire!**
+- **Turn on the Ring of Fire. The Ring of Fire. You said you could do it.**
+- **The Ring of Fire!**
+- **Bubbles, bubbles. Let me...**
+- **Isn't there another way? He's just a boy.**
+- **From this moment on, you will now be known as Sharkbait.**
+- **Sharkbait! Oo-ha-ha!**
+- **Welcome, Brother Sharkbait.**
+- **Sharkbait! Oo-ha-ha!**
+- **- Enough with the Sharkbait. - Sharkbait, oo-ba-badoo...**
+- **- Okay, Sharkbait's one of us now. Agreed? - Agreed.**
+- **And we can't send him to his death. Darla's coming in five days.**
+- **So what are we gonna do?**
+- **I'll tell you what we're gonna do.**
+
+### G. Tank Gang — escape plan
+
+*Nemo in the dentist tank; Gill's filter plan; Peach and the gang.*
+
+- **We're going to get him out of here. We're gonna help him escape.**
+- **- Escape? Really? - We're all going to escape.**
+- **Gill, please. Not another one of your escape plans.**
+- **Sorry, but they just... they never work.**
+- **Yeah, why should this be any different?**
+- **- 'Cause we've got him. - Me?**
+- **- You see that filter? - Yeah.**
+- **You're the only one who can get in and out of that thing.**
+- **What we need you to do, is to take a pebble inside there and jam the gears.**
+- **You do that and this tank's going to get filthier and filthier by the minute.**
+- **Pretty soon the dentist will have to clean the tank himself.**
+- **And when he does, he'll take us out of the tank, put us in individual baggies,**
+- **then we'll roll ourselves down the counter, out of the window,**
+- **off the awning, into the bushes, across the street and into the harbour.**
+- **It's foolproof.**
+- **- Who's with me? - I.**
+- **- I think you're nuts. - (SIGHS)**
+- **No offense, kid, but you're not the best swimmer.**
+- **He's fine. He can do this.**
+- **So, Sharkbait, what do you think?**
+- **Let's do it!**
+- **P. Sherman, 42 Wallaby Way, Sydney. Where are you going?**
+- **I'm going to P. Sherman, 42 Wallaby Way, Sydney.**
+- **If you ask where I'm going, I'll tell you this. Where I'm going is...**
+- **P. Sherman, 42 Wallaby Way, Sydney. Where? I'm sorry. I didn't hear you.**
+- **Excuse me. Ex... Excuse me. Uhm.**
+- **Hi. Do you know how to get... Hello?**
+- **Wait. Wait. Can you tell me... Hey!**
+- **Hold it!**
+- **Wait a minute. I'm trying to talk to you.**
+- **Okay, fellas. Come back here, please.**
+- **One quick question. I need to... And they're gone again.**
+- **P. Sherman, 42 Wallaby Way, Sydney.**
+- **Why do I have to tell you over and over again? I'll tell you again.**
+- **- I don't get tired of it. P. Sher... - All right. All right, here's the thing.**
+- **I think it's best if I just carry on from here by...**
+- **- By myself. - Okay.**
+- **- You know. Alone. - Uh-huh.**
+- **Without... Well, not without you, but I don't want you with me.**
+- **- Huh? - Am I... I don't want to hurt your feelings.**
+- **- You want me to leave? - Well, I mean not... Yes. Yeah.**
+- **It's just you know, I just can't afford any more delays.**
+- **And you're one of those fish that 'cause delays.**
+- **Sometimes it's a good thing. There's a whole group of fish.**
+- **- They're delay fish. - You mean...**
+- **- You mean you don't like me? - No, of course I like you.**
+- **It's because I like you I don't want to be with you.**
+- **It's a complicated emotion.**
+- **Don't cry. I like you.**
+- **Hey, you!**
+- **Lady, is this guy bothering you?**
+- **- I don't remember. Were you? - No, no, no. We're just...**
+- **Hey, do you guys know how I can get to...**
+- **Look, pal. We're talking to the lady, not you. Hey, hey. You like impressions?**
+- **Mmm-hmm.**
+- **Okay. Just like in rehearsals, gentlemen.**
+- **So, what are we? Take a guess.**
+- **- DORY: Ooh, I've seen one of those. - I'm a fish with a nose like a sword.**
+- **- Wait. Wait, um... - It's a swordfish.**
+- **Hey, clown-boy, let the lady guess.**
+- **Where's the butter?**
+- **- It's on the tip of my tongue. - Lobster.**
+- **- Saw that. - What?**
+- **- Lots of legs. - DORY: Clam?**
+- **Close enough.**
+- **♪ Oh, It's a whale of a tale I'll tell you, lad ♪**
+- **- Oh, They're good. - Would somebody please give me directions?**
+- **- "Would somebody please give me directions?" - (DORY LAUGHING)**
+- **- I'm serious. - Blah, blah, me, me, blah.**
+- **Blah, blah, blah, me, me, me.**
+- **Thank you.**
+- **Oh, dear. Hey. Hey, come back.**
+- **- Hey, what's the matter? - What's the matter?**
+- **Well, they're doing their silly little impressions,**
+- **I am miles from home**
+- **with a fish that can't even remember her own name.**
+- **- Well, I bet that's frustrating. - Meanwhile, my son is out there.**
+- **- Your son Chico? Right got it. - Nemo.**
+- **It doesn't matter. 'Cause no fish in this entire ocean is gonna help me.**
+- **Well, I'm helping you.**
+- **Wait right here.**
+- **- Guys. - What? Is he bothering you again?**
+- **No, no, he's a good guy.**
+- **Go easy on him. He's lost his son Fabio.**
+- **Any of you heard of P. Sherman, 42 Wallaby Way, Sydney?**
+- **Sydney? Oh, sure.**
+- **Ted here's got relatives in Sydney. Don't you, Ted?**
+- **- TED: Sure do. - Ooh. Hey, they know Sydney!**
+- **- You wouldn't know how to get there? Would you? - What you wanna do is follow the EAC.**
+
+### H. East Australian Current
+
+*Directions from the moonfish; jellyfish; ride with the turtles.*
+
+- **That's, uh, East Australian Current.**
+- **Big current. You can't Miss it. It's in...**
+- **that direction.**
+- **And then you gotta follow that for about, I don't know...**
+- **What do you guys think? About three leagues?**
+- **Well, that baby's going to float you right past Sydney.**
+- **MARLIN: Great! That's great!**
+- **- Dory, you did it. - Oh, please.**
+- **I'm just your little helper. Helping along. That's me.**
+- **- Well, listen fellas, thank you. - Don't mention it.**
+- **Just loosen up. Okay, buddy?**
+- **Oh, You guys! You really nailed him. Bye.**
+- **- Oh. Hey, Ma'am. One more thing. - Yes?**
+- **When you come to this trench, swim through it, not over it.**
+- **Trench. Through it. Not over it. I'll remember.**
+- **Hey, hey! Hey!**
+- **Hey! Hey, Wait up, partner. Hold on.**
+- **Wait, wait. I've got to tell you something. Whoa.**
+- **Nice trench.**
+- **Hello! (ECHOING)**
+- **- Okay, Let's go. - No, no. Bad trench. Bad trench.**
+- **- Come on. We're gonna swim over this thing. - Whoa, partner. Little red flag going up.**
+- **Something's telling me we should swim through it, not over it.**
+- **Are you even looking at this thing? It's got death written all over it.**
+- **I'm sorry, but I really, really, really think we should swim through.**
+- **And I'm really, really, really done talking about this. Over we go.**
+- **Come on. Trust me on this.**
+- **- Trust you? - Yes. Trust. It's what friends do.**
+- **- Look! Something shiny! - Where?**
+- **It just swam over the trench. Come on. We'll follow it. Okay.**
+- **- Boy, it sure is clear up here. - Exactly.**
+- **And look at that.**
+- **There's the current. We should be there in no time.**
+- **- Hey, little guy. - You wanted to go through the trench.**
+- **I shall call him Squishy and he shall be mine. And he shall be my squishy.**
+- **Come here, Squishy. Come here, little Squishy.**
+- **- Ow! - Dory.**
+- **- That's a jellyfish! Shoo! - Bad Squishy. Bad Squishy.**
+- **Shoo! Shoo! Get away.**
+- **- Come here. Let me see that. - Don't touch it. Don't touch it.**
+- **I'm not gonna touch it. I just want to look.**
+- **Hey, how come it didn't sting you?**
+- **- It did. It's just that... Hold still. - Ow! Ow, ow.**
+- **I live in this anemone and I'm used to these kind of stings. Come here.**
+- **It doesn't look bad. You're going to be fine.**
+- **But now we know, don't we? That we don't want to touch these again.**
+- **Let's be thankful this time it was just a little one.**
+- **Don't move.**
+- **- This is bad, Dory. - Hey, watch this.**
+- **- Boing. Boing. - Dory!**
+- **- You can't catch me. - Dory!**
+- **Don't bounce on the tops. They will...**
+- **not sting you!**
+- **- The tops don't sting you. That's it. - DORY: Two in a row. Beat that.**
+- **Dory. All right, listen to me. I have an idea.**
+- **- A game. A game. - A game? A game?**
+- **Oh, I love games. Pick me.**
+- **Here's the game. Whoever can hop the fastest out of these jellyfish wins.**
+- **- Okay! Okay. - Rules. Rules, rules.**
+- **You can't touch the tentacles. Only the tops.**
+- **Something about tentacles. Got it. On your Mark. Get set. Go!**
+- **Wait! Not something about them. It's all about them. Wait, Dory!**
+- **Gotta go faster if you want to win.**
+- **- Dory! - Boing, boing, boing!**
+- **Wait a minute, Dory!**
+- **Whee!**
+- **So, we're cheating death now.**
+- **That's what we're doing. We're having fun at the same time.**
+- **- I can do this. Just be careful. - Yeah.**
+- **Careful I don't make you cry when I win.**
+- **Oh, I don't think so!**
+- **Give it up, old man. You can't fight evolution. I was built for speed.**
+- **- The question is, Dory. Are you hungry? - Hungry?**
+- **Yeah. 'Cause you're about to eat my bubbles!**
+- **Duck to the left, back and coming over, right there!**
+- **The clownfish is the winner! Whoohoo!**
+- **We did it. Look at us!**
+- **Dory?**
+- **Oh, no.**
+- **Dory! Dory! Dory!**
+- **Dory!**
+- **DORY: Am I disqualified?**
+- **No, You're doing fine. You're actually winning.**
+- **You gotta stay awake. Where does P. Sherman live?**
+- **P. Sherman, Wallaby Way, Sydney.**
+- **That's it!**
+- **Stay awake. Stay awake. Stay awake.**
+- **Stay awake!**
+- **- (WEAKLY) Awake... - P. Sherman...**
+- **- Awake... - 42 Wallaby Way...**
+- **- Wake up. - Sydney.**
+- **MARLIN: Nemo...**
+- **You Miss your dad, don't you, Sharkbait?**
+- **Yeah.**
+- **Well, you're lucky to have someone out there who's looking for you.**
+- **He's not looking for me.**
+- **He's scared of the ocean.**
+- **Peach? Any movement?**
+- **He's had atleast four cups of coffee. It's got to be soon.**
+- **Keep on him.**
+- **My first escape, landed on dental tools.**
+- **- I was aiming for the toilet. - The toilet?**
+- **All drains lead to the ocean, kid.**
+- **Wow. How many times have you tried to get out?**
+- **I've lost count. Fish aren't meant to be in a box, kid. It does things to you.**
+- **The bubbles, the bubbles!**
+- **Potty break! Potty break! He just grabbed the Reader's Digest. We have 4.2 minutes.**
+- **That's your cue, Sharkbait.**
+- **- You can do it, kid. - Okay. We got to be quick.**
+- **Once you get in, you swim down to the bottom of the chamber and I'll talk you through the rest.**
+- **Okay.**
+- **- Go on. It'll be a piece of kelp. - (INHALES DEEPLY)**
+- **- Nicely done. Can you hear me? - Yeah.**
+- **Here comes the pebble.**
+- **- Now, do you see a small opening? - Uh-huh.**
+- **Okay. Inside it you'll see a rotating fan.**
+- **Very carefully, wedge that pebble into the fan to stop it turning.**
+- **Easy, easy. Careful, Sharkbait.**
+- **- I can't do it. - Gill, this isn't a good idea.**
+- **He'll be fine. Try again!**
+- **Okay.**
+- **GILL: That's it, Sharkbait.**
+- **Nice and steady.**
+- **- I got it, I got it! - He did it.**
+- **That's great, kid. Now, swim up the tube and out.**
+- **Oh, no! Gill! Gill!**
+- **- Sharkbait! Get him out of there! - Oh, my gosh. Get him out of there!**
+- **- Help him! - What do we do? What do we do?**
+- **- Oh, no! - Stay calm, kid. Just don't panic.**
+- **- Help me! - Sharkbait, grab hold of this.**
+- **No, no!**
+- **- Feed me more. - That's it!**
+- **Come on, Sharkbait. Grab it.**
+- **- I got it. - Pull!**
+- **Gill, don't make him go back in there.**
+- **No. We're done.**
+- **CRUSH: Dude?**
+- **Dude?**
+- **Focus, dude.**
+- **Dude?**
+- **Oh, he lives. Hey, dude.**
+- **- What happened? - I saw the whole thing, dude.**
+- **First you were all, like, whoa! And then we were all, like, whoa!**
+- **- Then you were, like, whoa... - What are you talking about?**
+- **You, mini-man! Taking on the jellies. You got serious thrill issues, dude.**
+- **Awesome.**
+- **Oh, my stomach.**
+- **Oh, man, no hurling on the shell, dude. Okay? I just waxed it.**
+- **- So, Mr. Turtle... - Whoa. Dude, Mr. Turtle is my father.**
+- **Name's Crush.**
+- **Crush? Really?**
+- **Okay, Crush.**
+- **Listen, I need to get to the East Australian Current.**
+- **EAC?**
+- **Dude...**
+- **You're riding it, dude.**
+- **Check it out.**
+- **Okay, grab shell, dude.**
+- **Grab what?**
+- **Ho-ho! Righteous! Righteous!**
+- **So,**
+- **what brings you on this fine day to the EAC?**
+- **Well, Dory and I need to get to Sydney.**
+- **Dory? Dory! Is she all right?**
+- **Oh, little blue.**
+- **She is sub-level, dude.**
+- **Dory, Dory! Dory!**
+- **Oh, Dory.**
+- **I'm so sorry.**
+- **This is all my fault. It's my fault.**
+- **Twenty-nine, 30! Ready or not, here I come!**
+- **There you are.**
+- **Catch me if you can.**
+- **Up you go!**
+- **Oh, my goodness.**
+- **Kill the motor, dude. Let us see what Squirt does flying solo.**
+- **Whoa! That was so cool.**
+- **Hey, Dad. Did you see that? Did you see me?**
+- **- Did you see what I did? - You so totally rock, Squirt.**
+- **Give me some fin.**
+- **Noggin.**
+- **Dude.**
+- **Intro. Jellyman, Offspring. Offspring, Jellyman.**
+- **- Jellies? Sweet. - Totally.**
+- **Well, apparently. I must have done something you all liked, dudes.**
+- **- You rock, dude. - Ow.**
+- **Curl away, my son.**
+- **It's awesome, Jellyman.**
+- **When the little dudes are eggs we leave them on a beach to hatch,**
+- **and coo-coo-cachoo, they find their way back to the big ol' blue.**
+- **- All by themselves? - Yeah!**
+- **But, dude, how do you know when they're ready?**
+- **Well, you never really know, but when they know, you'll know. You know?**
+- **- Hey, look, everybody. - I know that dude.**
+- **It's the Jellyman.**
+- **- Well go on. Jump on him. - Turtle pile!**
+- **Wait. Kids!**
+- **- Are you funny? - Where's your shell?**
+- **- Do your stripes come off? - I need to breathe.**
+- **Did you really cross the jellyfish Forest?**
+- **- One at a time. - Mr. Fish, did you die?**
+- **Sorry. I was a little vague on the details.**
+- **- So where are you going? - Well, you see, my son was taken.**
+- **My son was taken away from me.**
+- **- No way! - What happened?**
+- **No, no, kids. I don't want to talk about it.**
+- **- Aw, Come on. - Please.**
+- **Well, okay.**
+- **I live on this reef, a long, long way from here.**
+- **Oh, boy. This is gonna be good. I can tell.**
+
+### I. Story spreads — toward Sydney
+
+*Marlin's tale travels the ocean; Nemo hears his dad is coming.*
+
+- **And my son, Nemo. He was mad at me.**
+- **Maybe he wouldn't have done it if I hadn't been so tough on him.**
+- **I don't know.**
+- **Anyway, he swam out in the open water to this boat**
+- **and when he was out there these divers appeared and I tried to stop them.**
+- **The boat was too fast, so we swam out in the ocean...**
+- **He couldn't stop them.**
+- **Then Nemo's dad, he swims out to the ocean**
+- **and they bump into three ferocious sharks.**
+- **He scares away the sharks by blowing them up.**
+- **- God, that's amazing. - And then dives thousands of feet...**
+- **Straight down into the dark. It's like wicked dark down there. You can't see a thing.**
+- **How's it going, Bob? And the only thing they can see down there is...**
+- **This big, horrible creature with razor-sharp teeth! Nice parry, old man.**
+- **Then he has to blast his way...**
+- **These fish have been searching the ocean for days**
+- **on the East Australian Current.**
+- **I suppose, he may be on his way here right now.**
+- **That should put him in Sydney Harbour...**
+- **In a matter of days.**
+- **I mean, It sounds like this guy's not gonna stop at nothing...**
+- **stop at nothing until he finds his son. I sure hope he makes it.**
+- **That's one dedicated father, if you ask me.**
+- **Mine. Mine. Mine.**
+- **Oh, would you just shut up?**
+- **- You're rats with wings. Nemo? - This bloke's been looking for his boy, Nemo.**
+- **- He was taken off the reef by divers... - There. Take it.**
+- **Hey, hey. Say that again. You just said something about Nemo. What was it?**
+- **Mine. Mine. Mine.**
+- **Mine.**
+- **Last I heard, he's heading towards the harbour.**
+- **Brilliant!**
+- **Is he doing okay?**
+- **I don't know, but whatever you do, don't mention D-A-R...**
+- **It's okay. I know who you're talking about.**
+- **Gill? Gill?**
+- **Hey, Sharkbait.**
+- **- I'm sorry I couldn't stop... - GILL: I'm the one who should be sorry.**
+- **I was so ready to get out, so ready to taste that ocean,**
+- **I was willing to put you in harm's way to get there.**
+- **Nothing should be worth that.**
+- **I'm sorry I couldn't get you back to your father, kid.**
+- **All right. Hey, hey, hey!**
+- **- What the... - (PATIENT SCREAMS)**
+- **Well, that's one way to pull a tooth. (LAUGHS)**
+- **Darn kids. Well, good thing I pulled the right one, eh?**
+- **Hey, hey. Pssst!**
+- **Oh, Nigel, you just missed an extraction.**
+- **Has he loosened the periodontal ligament yet?**
+- **What am I talking about? Nemo. Where's Nemo?**
+- **- I've got to speak with him. - What? What is it?**
+- **Your dad's been fighting the ocean looking for you.**
+- **- My father? Really? - Oh, wow!**
+- **Oh, yeah. He's travelled hundreds of miles.**
+- **- He's been battling sharks and jellyfish. - Sharks?**
+- **- That can't be him. - Are you sure? What was his name?**
+- **Some sort of sport fish or something. Tuna? A Trout?**
+- **- Marlin? - That's it. Marlin.**
+- **- The little clownfish from the reef. - It's my dad! He took on a shark!**
+- **- I heard he took on three. - Three?**
+- **- Three sharks? - That's got to be 4,800 teeth!**
+- **You see kid. After you were taken by Diver Dan,**
+- **your dad followed the boat all over like a maniac.**
+- **- Really? - He's swimming.**
+- **He's swimming. He's giving it all he's got and then three gigantic sharks captured him.**
+- **He blows 'em up and then dives thousands of feet**
+- **and gets chased by a monster with huge teeth!**
+- **He ties this demon to a rock. And what does he get for a reward?**
+- **He gets to battle an entire jellyfish Forest.**
+- **And now he's riding with a bunch of sea turtles on the East Australian Current**
+- **and the word is he's headed this way, right now, to Sydney!**
+- **- Oh, What a good daddy. - He was looking for you after all, Sharkbait.**
+- **- He's swimming in the filter! - Not again!**
+- **Sharkbait!**
+- **- No! - You've got your life ahead of you.**
+- **- We'll help you, kid. - Gotta get him out.**
+- **- Get him out of there. - Come on, kid. Grab the end.**
+- **- Sharkbait! - Sharkbait, are you okay?**
+- **Can you hear me, Sharkbait? Nemo? Can you hear me?**
+- **Yeah, I can hear you.**
+- **Sharkbait, you did it!**
+- **Sharkbait, you're... Covered with germs!**
+- **That took guts, kid.**
+- **All right, gang. We have less than 48 hours before Darla gets here.**
+- **This tank will get plenty dirty in that time,**
+- **but we have to help it along anyway we can.**
+- **- Jacques, no cleaning. - Oui. I shall resist.**
+- **GILL: Everybody else, be as gross as possible.**
+- **Think dirty thoughts.**
+- **We're going to make this tank so filthy, the dentist'll have to clean it.**
+- **- (BURPS) - Good work.**
+- **All right, we're here, dudes.**
+- **Get ready! Your exit's coming up, man.**
+- **- Where? I don't see it. - Right there. I see it. I see it.**
+- **- You mean the swirling vortex of terror? - That's it, dude.**
+- **- Of course it is. - Okay. First, find your exit buddy.**
+- **- Do you have your exit buddy? - Yes.**
+- **Squirt here will now give you a rundown on proper exiting technique.**
+- **Good afternoon. We're going to have a great jump today.**
+- **Crank a hard cutback as you hit the wall.**
+- **There's a screaming bottom turn, so watch out.**
+- **Remember, rip it, roll it and punch it!**
+- **It's like he's trying to speak to me, I know it.**
+- **You're really cute, but I don't know what you're saying. Say the first thing again.**
+- **Okay, Jellyman. Go, go, go!**
+- **- Whoa! - Whoa!**
+- **Whoo!**
+- **That was fun.**
+- **I actually enjoyed that.**
+- **Hey, look! Turtles.**
+- **Most excellent.**
+- **Now, turn your fishy tails round and swim straight on through to Sydney.**
+- **No worries, man.**
+- **No worries. Thank you, Dude Crush.**
+- **- ALL: Bye. - Bye, Jellyman.**
+- **Tell your little dude I said hi, okay?**
+- **- See ya later, dudes. - DORY: Bye, everyone.**
+- **Oh, Nemo would've loved this.**
+- **Hey, Crush. Crush, I forgot. How old are you?**
+- **CRUSH: 150, dude!**
+- **And still young. Rock on!**
+- **150. 150. I got to remember that.**
+- **Whoa.**
+- **- We going in there? - Yep.**
+- **P. Sherman, 42 Wallaby Way, Sydney?**
+- **Yep.**
+- **We're going to just swim straight.**
+- **♪ Just keep swimming ♪**
+- **MARLIN: Dory...**
+- **MARLIN: Boy, this is taking a while.**
+- **DORY: Hey, how about we play a game?**
+- **MARLIN: Okay.**
+- **Okay, I'm thinking of something orange.**
+- **- And it's small... - It's me.**
+- **Right.**
+- **This one you'll never guess. It's orange and small.**
+- **It's me.**
+- **All righty, Mr. Smarty Pants.**
+- **It's orange and small and white stripes...**
+- **Me. And the next one, just a guess, me.**
+- **Okay. That's just scary.**
+- **Wait. I have definitely seen this floating speck before.**
+- **That means we've passed it before. And that means we're going circles.**
+- **That means we're not going straight.**
+- **We got to get to the surface. We'll figure it out there. Let's go. Follow me.**
+- **- Hey! Hey! - What?**
+- **Relax. Take a deep breath.**
+- **Now, let's ask somebody for directions.**
+- **Oh, Fine. Who do you want to ask? The speck? There's nobody here!**
+- **Well, there has to be someone. It's the ocean. Silly.**
+- **We're not the only two in here. Let's see...**
+- **Okay, no one there.**
+- **Nope.**
+- **Nada.**
+- **- There's somebody. Hey, excu... - Dory! Dory!**
+- **Okay. Now, It's my turn. I'm thinking of something dark and mysterious.**
+- **It's a fish we don't know, and if we ask directions, it could ingest us. And spit out our bones!**
+- **What is it with men and asking for directions?**
+- **Oh, I don't want to play the gender card right now. Let's play the "let's not die" card.**
+- **- You want to get out of here? - Of course I do.**
+- **How are we going to do that unless we give it a shot and hope for the best?**
+- **- You don't fully understand. - Come on. Trust me on this.**
+- **All right.**
+- **Excuse me? Whoo-hoo! Little fella?**
+- **Hello.**
+- **Don't be rude. Say hi.**
+- **Hello.**
+- **- His son Bingo... - Nemo.**
+- **- ...was taken to... - Sydney.**
+- **Sydney, yes.**
+- **And It's really, really important that we get there as fast as we can.**
+- **So, can you help us out?**
+- **Come on, little fella. Come on.**
+- **Dory, I'm a little fella.**
+- **I don't think that's a little fella.**
+- **Big fella. Whale. Okay.**
+- **Maybe he only speaks whale.**
+- **(IMITATING WHALE) We need...**
+- **- to find his son. - Uh, Dory? What are you doing?**
+- **What are you doing? Are you sure you speak whale?**
+- **Can you give us...**
+- **- Heaven knows what you're saying. - ... Directions?**
+- **- MARLIN: See, he's swimming away. - Come back.**
+- **He's not coming back. You've offended him.**
+- **Maybe a different dialect. (MOOING)**
+- **Dory, this is not whale. You're speaking, like, upset stomach.**
+- **- Maybe I should try humpback. - No, don't try humpback.**
+- **- You actually sound sick. - Maybe louder, huh?**
+- **- Don't do that. - Too much orca.**
+- **- Didn't that sound a little orca-ish? - It sounds like nothing I've ever heard.**
+- **- (MOOING) - (GROANS)**
+- **Just as well. He might be hungry.**
+- **Don't worry. Whales don't eat clownfish. They eat krill.**
+- **- KRILLS: Swim away! - Oh, look. Krill!**
+- **Move, Dory! Move!**
+- **Look at that. Would you look at that?**
+- **Filthy. Absolutely filthy.**
+- **And it's all thanks to you, kid. You made it possible.**
+- **Jacques, I said no cleaning.**
+- **I am ashamed.**
+- **Look. Scum Angel.**
+- **Bubbles! I love the bubbles. (COUGHING)**
+- **Flo? Has anybody seen Flo? Flo!**
+- **9:00 o'clock, and cue dentist.**
+- **Hello, Barbara. Sorry I'm late.**
+- **Okay. Okay, here we go. Here we go. Okay.**
+- **Little Davey Reynolds.**
+- **- Walks to the counter, drops the keys... - Bloat, that's disgusting.**
+- **Tastes pretty good to me. (BURPS)**
+- **Don't you people realise we are swimming in our own...**
+- **- Shh! Here he comes. - What the...**
+- **Crikey. What a state.**
+- **Barbara, what's my earliest appointment tomorrow?**
+- **- 10:00 o'clock, love. - Leave it open, would you?**
+- **I've got to clean the fish tank before Darla gets here.**
+- **- Did you hear that, Sharkbait? - Yay! He's going to clean the tank!**
+- **Yeah, we're going to be clean!**
+- **- You ready to see your dad? - Uh-huh.**
+- **'Course you are.**
+- **I wouldn't be surprised if he's out there in the harbour waiting for you right now.**
+- **Yeah.**
+- **DORY: Whoo!**
+- **Here comes a big one! Come on. You got to try this.**
+- **- MARLIN: Will you just stop it? - Why? What's wrong?**
+- **- We're in a whale. Don't you get it? - A whale?**
+- **A whale! 'Cause you had to ask for help. And now we're stuck here.**
+- **- A whale? You know, I speak whale. - No, you're insane. You can't speak whale.**
+- **I have to get out. I have to find my son.**
+- **I have to tell him how old sea turtles are!**
+- **Hey.**
+- **You okay?**
+- **There, there.**
+- **It's all right. It'll be okay.**
+- **No. No, It won't.**
+- **Sure it will. You'll see.**
+- **No. I promised him I'd never let anything happen to him.**
+- **Huh. That's a funny thing to promise.**
+- **What?**
+- **Well, you can't never let anything happen to him.**
+- **Then nothing would ever happen to him.**
+- **Not much fun for little Harpo.**
+- **- What's going on? - Don't know. I'll ask him.**
+- **- (MOOS) What's... - Dory.**
+- **- Going... - Dory.**
+- **on?**
+- **- I think he says we've stopped. - Of course we've stopped.**
+- **Stop trying to speak whale. You're gonna make things worse.**
+- **What is that noise?**
+- **Oh, no. Look what you did.**
+- **The water's going down. It's going down!**
+- **- Really? You sure about that? - Look. Already it's half-empty.**
+- **- Hmm. I'd say it's half-full. - Stop that. It's half-empty!**
+- **Okay, that one was a little tougher.**
+- **He either said we should go to the back of the throat**
+- **or he wants a root beer float.**
+- **Of course he wants us to go there. That's eating us!**
+- **How do I taste, Moby? Huh? Do I taste good?**
+- **You tell him I'm not interested in being lunch.**
+- **- Okay. He's... - Stop talking to him.**
+- **- What is going on? - I'll check. What...**
+- **No. No more whale. You can't speak whale.**
+- **Yes, I can.**
+- **No, you can't.**
+- **You think you can do these things, but you can't, Nemo.**
+- **- Okay. - Dory!**
+- **He says it's time to let go.**
+- **Everything's going to be all right.**
+- **How do you know?**
+- **How do you know something bad isn't going to happen?**
+- **I don't!**
+- **(CACKLES) We're alive!**
+- **Look. Syd-ney.**
+- **Sydney! Sydney.**
+- **Sydney again.**
+- **You were right, Dory. We made it!**
+- **We're going to find my son.**
+- **Thank you, Sir.**
+- **Wow. I wish I could speak whale.**
+- **Okay. All we gotta do, is find the board that took him.**
+- **- Right. - Come on, Dory. We can do this!**
+- **Morning. It's morning, everyone.**
+- **Today's the day. The sun is shining, the tank is clean and we are getting out of...**
+- **(GASPS) The tank is clean.**
+- **The tank is clean!**
+- **But how?**
+- **Boss must have installed it last night, while we were sleeping.**
+- **- What are we going to do? - What's it say, Peach?**
+- **I can't hear you, Peach.**
+- **The Aqua Scum 2003 is an all-purpose, self-cleaning maintenance free salt-water purifier**
+- **that is guaranteed even extends the life of your aquarium fish.**
+- **Stop it!**
+- **The Aqua Scum is programmed to scan your tank environment every five minutes?**
+- **Scan? What does that mean?**
+- **AUTOMATED VOICE: Temperature 82 degrees, PH balance normal.**
+- **ALL: Oooh!**
+- **Nice.**
+- **Curse you, Aqua Scum!**
+- **- That's it for the escape plan. It's ruined. - Then what are we going to do about...**
+- **ALL: (GASPS) Darla!**
+- **Stay down, kid.**
+- **- False alarm. - My nerves can't take much more of this.**
+- **BLOAT: What are we going to do when that little brat gets here?**
+- **- I'm thinking, I'm thinking. - NEMO: No! Help!**
+- **- Help me! Help me! - Hold on. I'm coming.**
+- **Help me!**
+- **Swim down! Come on, kid. Swim down! Come on.**
+- **- Everybody jump in. That's it. - Swim down!**
+- **What the...**
+- **Good work.**
+- **- Gill! - Sharkbait!**
+- **- Roll, kid! Lean, kid! Roll! - Go to the window.**
+- **DR. PHILIP: Whoops! That would have been a nasty fall.**
+- **- Gill, I don't want to go belly-up! - Just calm down, Nemo.**
+- **You won't go belly-up. I promise.**
+- **You're going to be okay.**
+- **ALL: (GASPS) Darla!**
+- **Do any of these boats look familiar to you?**
+- **No, but the boat has to be here somewhere.**
+- **- Come on, Dory. We're gonna find it. - I'm totally excited.**
+- **- (YAWNS) Are you excited? - Dory, wake up. Wake up. Come on.**
+- **Duck!**
+- **That's not a duck. It's a pelican!**
+- **No! I didn't come this far to be breakfast.**
+- **Hey. Hey, Nigel. Would you look at that?**
+- **What?**
+- **Sun's barely up and already Gerald's had more than he can handle.**
+- **Yeah. Reckon somebody ought to help the poor guy.**
+- **Well, don't everybody fly off at once!**
+- **All right, Gerald. What is it?**
+- **Fish got your tongue?**
+- **Love a duck!**
+- **I've got to find my son Nemo.**
+- **Nemo?**
+
+### J. Reunion & fishing net
+
+*Father and son reunite; fishing net crisis; Just keep swimming; home.*
+
+- **He's that fish the one we've been talking about that's been fighting the whole ocean.**
+- **Hey, I know where your son...**
+- **Hey, wait. Come back.**
+- **- Stop! - Don't. Keep going. He's crazy.**
+- **I've got something to tell you.**
+- **Mine.**
+- **Okay. Don't make any sudden moves.**
+- **Hop inside my mouth if you want to live.**
+- **Hop in your mouth, huh? And how does that make me live?**
+- **- Mine? - Because I can take you to your son.**
+- **Yeah, right!**
+- **No. I know your son. He's orange. He's got a gimpy fin on one side.**
+- **- That's Nemo! - Mine! Mine! Mine!**
+- **Fasten your seat belts!**
+- **Mine! Mine! Mine!**
+- **DORY: Whoo-hoo!**
+- **Everybody hold on!**
+- **Mine! Mine! Mine!**
+- **- (ALL SCREAMS) - Too loud. Too loud for me.**
+- **♪ Twinkle, twinkle, little star ♪**
+- **Find a happy place. Find a happy place!**
+- **BARBARA: Darla, your uncle will see you now.**
+- **All right. Let's see those Pearly whites.**
+- **I'm a piranha.**
+- **There in the Amazon.**
+- **And a piranha's a fish. Just like your present.**
+- **- DARLA: I got a fishy! - Oh, no.**
+- **Poor little guy.**
+- **- He's dead. - Sharkbait!**
+- **Yay! Fishy, fishy, fishy!**
+- **Must have left your present in the car, sweetie. I'll go and get it.**
+- **He's still alive!**
+- **What's happening? Why is he playing dead?**
+- **He's going to get flushed down the toilet.**
+- **He's going to get out of here.**
+- **- What a smart little guy. - Oh, no. Not the trash can!**
+- **Hey! I found his dad.**
+- **- Where's Nemo? Where is he? - Dentist! Dentist!**
+- **- He's over there. - What's a dentist? What is that?**
+- **- Nigel, get in there. - I can't go in there.**
+- **Oh, yes you can. Charge!**
+- **- (SCREAMS) - What the...**
+- **Darla, sweetie, look out.**
+- **Hold still. Hold still. Easy, easy.**
+- **Hold still!**
+- **It's all right. Nobody's going to hurt you.**
+- **Nemo.**
+- **- Oh, my goodness. - Gotcha!**
+- **- MARLIN: Nemo! - Daddy?**
+- **DR. PHILIP: Out with you. And stay out!**
+- **- Daddy? - Fishy?**
+- **Fishy!**
+- **Wake up! Wake up!**
+- **- Oh, no! - Quick! To the top...**
+- **of Mount Wannahockaloogie.**
+- **Why are you sleeping?**
+- **- Hurry! - Bloat!**
+- **Ring of Fire!**
+- **Fishy!**
+- **- DARLA: Get it out! - Crikey!**
+- **All the animals have gone mad!**
+- **DARLA: (SCREAMS) Get it out!**
+- **- Smack her in the head! - Go, Gill, go!**
+- **There's a fish in my hair!**
+- **- Gill. - Sharkbait.**
+- **Tell your dad I said hi.**
+- **- Go get him. - (DR. PHILIP GROANS)**
+- **He did it!**
+- **- I'm so happy. - Is he going to be okay, Gill?**
+- **Don't worry. All drains lead to the ocean.**
+- **Fishy!**
+- **Daddy!**
+- **I'm... I'm so sorry.**
+- **Truly I am.**
+- **- Hey... - Dory.**
+- **If it wasn't for you, I never would have even made it here.**
+- **So thank you.**
+- **Hey, wait a minute.**
+- **Wait. Where are you going?**
+- **It's over, Dory. We were too late.**
+- **Nemo's gone.**
+- **I'm going home now.**
+- **No. No, you can't.**
+- **Stop!**
+- **Please don't go away. Please?**
+- **No one's ever stuck with me for so long before.**
+- **And if you leave... If you leave...**
+- **I just... I remember things better with you. Look.**
+- **P. Sherman, 42...**
+- **42...**
+- **(GROANS) I remember it. I do. It's there. I know it is.**
+- **Because when I look at you, I can feel it.**
+- **And I look at you and I...**
+- **I'm home.**
+- **Please. I don't want that to go away.**
+- **I don't want to forget.**
+- **I'm sorry, Dory,**
+- **but I do.**
+- **- Manna from heaven. - Sweet nectar of life.**
+- **- Hey! - Hey! Hey!**
+- **- This is our spot. - Go on. Get out of here.**
+- **- Hey, hey, hey. - Hey, hey!**
+- **Yeah, that's it fella. Just keep on swimmin'. You got that?**
+- **Too right, mate!**
+- **Oh, oh! I got a live one here!**
+- **- Wait. Have you seen my dad? - Gotcha!**
+- **- Come back here. - You let him go!**
+- **Dad!**
+- **DORY: No!**
+- **- Excuse me. - No.**
+- **- Are you all right? - I don't know where I am.**
+- **I don't know what's going on. I think I lost somebody,**
+- **but I can't remember.**
+- **- It's okay. - I can't remember.**
+- **I'm looking for someone, too. Hey, we can look together.**
+- **- I'm Dory. - I'm Nemo.**
+- **Nemo?**
+- **That's a nice name.**
+- **- Dad! - Dad!**
+- **- Dad. - Dad.**
+- **Wait a minute. Is it your dad or my dad?**
+- **My dad.**
+- **- Got it. Dad! - Where are we anyway?**
+- **Dad!**
+- **Huh. Syl... Schai...**
+- **Sydney.**
+- **P. Sherman, 42 Wallaby Way, Sydney.**
+- **- Nemo! - What?**
+- **It's you! Nemo!**
+- **Yes, yes. I'm Nemo.**
+- **You're Nemo. You were dead. I saw you.**
+- **And then... Here you are. I found you, and you're not dead.**
+- **And your father... Your father!**
+- **My father? You know my father? Where is he?**
+- **He went this way. Quick!**
+- **- DORY: Hey, hey, hey! - CRABS: Hey, hey, hey!**
+- **Have you seen an orange fish swim by?**
+- **- It looks just like him. - But bigger.**
+- **Yeah, I saw him, but I'm not telling you where he went.**
+- **And there's no way you're going to make me.**
+- **Mine.**
+- **(SCREAMS) All right. I'll talk! I'll talk.**
+- **He went to the fishing grounds.**
+- **- Hey, look out. - Sorry.**
+- **I'm just trying to get home.**
+- **NEMO: (INDISTINCT) Daddy!**
+- **- Nemo? - NEMO: Daddy!**
+- **Nemo?**
+- **- NEMO: Dad! - DORY: Nemo's alive!**
+- **Dory?**
+- **- Nemo! - Daddy!**
+- **- Nemo! I'm coming, Nemo! - Dad!**
+- **Nemo! Oh, thank goodness.**
+- **It's all right, son. It's going to be okay.**
+- **FISH: Turn around! You're going the wrong way.**
+- **- (SCREAMS) Look out! - Move!**
+- **- Dory! - Come on.**
+- **Help! Get us out!**
+- **No, no, no! Dory!**
+- **- Dad, I know what to do. - Nemo, no!**
+- **We have to tell all the fish to swim down together.**
+- **- Get out of there now! - I know this will work.**
+- **No, I am not gonna lose you again.**
+- **Dad, there's no time. It's the only way we can save Dory.**
+- **I can do this!**
+- **You're right. I know you can.**
+- **- NEMO: Lucky fin. - Now, go. Hurry!**
+- **Tell all the fish to swim down.**
+- **Well, you heard my son. Come on.**
+- **- Dory, you have to tell everybody to... - Swim down together.**
+- **Do you understand what I'm saying to you?**
+- **Swim down!**
+- **- Everybody swim down. Swim down, Okay? - Come on. You have to swim down.**
+- **Down! Swim down!**
+- **Swim down! Swim down!**
+- **Don't give up! Keep swimming!**
+- **Just keep swimming!**
+- **MARLIN: That's it!**
+- **It's working!**
+- **ALL: Keep swimming!**
+- **Just keep swimming!**
+- **- Come on, Dad! - You're doing great, son.**
+- **- That's my dad. - How about we get to the bottom.**
+- **♪ Just keep swimming, Just keep swimming ♪**
+- **MARLIN: Almost there. Keep swimming!**
+- **ALL: Keep swimming!**
+- **- Hey! - Dory!**
+- **Where's Nemo?**
+- **There!**
+- **Oh, no. Nemo!**
+- **Nemo?**
+- **It's okay. Daddy's here. Daddy's got you.**
+- **- Daddy? - Oh, thank goodness.**
+- **Daddy...**
+- **- I don't hate you. - Oh, no, no, no.**
+- **I'm so sorry, Nemo.**
+- **Hey, guess what?**
+- **- What? - Sea turtles...**
+- **I met one.**
+- **And he was 150 years old.**
+- **150?**
+- **Yep.**
+- **'Cause Sandy Plankton said they only lived to be 100.**
+- **Sandy Plankton?**
+- **Think I would cross the ocean and not know as much as Sandy Plankton?**
+- **He was 150! Not 100.**
+- **Who is this Sandy Plankton that knows everything wrong?**
+- **Time for school! Time for school! Get up! Let's go! Let's go!**
+- **- I'm going to win. - No, you're not.**
+- **- I did it. - Oh, my own son beats me.**
+- **Climb aboard, explorers.**
+- **So jsut then the sea cucumber looks over at the mollusk and says,**
+- **"With fronds like these, who needs anemones?"**
+- **Well, hello, Nemo. Who's this?**
+- **- Exchange student. - I'm from the EAC, dude.**
+- **- Sweet. - Totally.**
+- **Seriously, Marty, did you really do all the things you say you did?**
+- **BRUCE: Pardon me.**
+- **Hello.**
+- **Don't be alarmed.**
+- **We just wanted to make sure our newest member got home safely.**
+- **- Thanks guys. - We'll see you next week.**
+- **- Keep up with the programme, Dory. - Remember, fish are friends.**
+- **Not food! Bye!**
+- **Hold on. Here we go.**
+- **Next stop, knowledge.**
+- **Bye, son. Have fun.**
+- **NEMO: Bye, Dad.**
+- **Oh! Mr. Ray, wait. I forgot something.**
+- **Love you, Dad.**
+- **I love you, too, son.**
+- **Uh, Dad? You can let go now.**
+- **Sorry.**
+- **Now go have an adventure.**
+- **Goodbye. See you later, dudes!**
+- **- Bye, Elmo. - Nemo.**
+- **- Nemo. Bye, Nemo. - See you after school, Dory.**
+- **NEMO: Bye, Dad!**
+- **Bye, son.**
+- **DR. PHILIP: Barbara. BARBARA: Mmm-hmm?**
+- **I don't understand it.**
+- **Here this thing has a lifetime guarantee and it breaks.**
+- **Had to clean the tank myself, take the fish out, put 'em in bags and...**
+- **Where'd the fish go?**
+- **- Come on, Peach! - Hurry!**
+- **You got it. That's it. You can do it.**
+- **That's the shortest red light I've ever seen.**
+- **Come on, Peach.**
+- **Now what?**
