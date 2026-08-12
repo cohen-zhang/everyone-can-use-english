@@ -42,17 +42,37 @@ Java 程序由**类**组织。每个值在编译期都有确定的**类型**，�
 
 ### 1. Primitive Types & Wrappers — 基本类型与包装类
 
-Java has **8 primitive types** (`int`, `long`, `double`, `boolean`, ...) that are stored **by value**, and **wrapper classes** (`Integer`, `Long`, ...) that are objects. **Autoboxing** converts between them automatically.
+Java has **8 primitive types**. They are stored **by value** (not as heap objects). Each has a matching **wrapper class**. **Autoboxing** converts primitive → wrapper; **unboxing** goes the other way.
 
-Java 有 **8 种基本类型**（`int`、`long`、`double`、`boolean` 等），按**值**存储；**包装类**（`Integer`、`Long` 等）是对象。**自动装箱**在两者之间自动转换。
+Java 有 **8 种基本类型**，按**值**存储（不是堆上的对象）。每种都有对应的**包装类**。**自动装箱**把基本类型变成包装类；**拆箱**则相反。
+
+`String` and `void` are **not** primitives. `String` is a class; `void` is a **keyword** for “no return value.” — `String` 和 `void` **不是**基本类型。`String` 是类；`void` 是表示「无返回值」的**关键字**。详见 [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]]。
+
+| Primitive `术语` | Bits | Wrapper | Default | Range / note — 范围 / 备注 |
+| --- | --- | --- | --- | --- |
+| **`byte`** | 8 | `Byte` | `0` | −128 … 127 |
+| **`short`** | 16 | `Short` | `0` | −32,768 … 32,767 |
+| **`int`** | 32 | `Integer` | `0` | −2³¹ … 2³¹−1（日常默认整数） |
+| **`long`** | 64 | `Long` | `0L` | 字面量加 `L`，如 `42L` |
+| **`float`** | 32 | `Float` | `0.0f` | IEEE 754；字面量加 `f` |
+| **`double`** | 64 | `Double` | `0.0d` | 日常默认浮点 |
+| **`char`** | 16 | `Character` | `'\u0000'` | **unsigned** Unicode 码元 — 无符号 |
+| **`boolean`** | JVM-defined | `Boolean` | `false` | 只有 `true` / `false`（不是 0/1） |
 
 ```java
 int primitive = 42;              // Stored by value — 按值存储
 Integer boxed = primitive;       // Autoboxing — 自动装箱
 int back = boxed;                // Unboxing — 拆箱
+
+long nanos = 1_000_000_000L;     // long literal — long 字面量
+float ratio = 0.5f;              // float literal — float 字面量
+char letter = 'A';               // 16-bit code unit — 16 位码元
+boolean ready = true;            // not an int — 不是整数
 ```
 
 **Pitfall — 注意**: `Integer` can be `null`; unboxing `null` throws `NullPointerException` — 包装类可为 `null`，拆箱时抛 NPE。
+
+**Cache — 缓存**: `Integer.valueOf` caches **−128 … 127**. `==` can lie outside that range. — `Integer.valueOf` 缓存 **−128 … 127**；超出后 `==` 可能为假。
 
 ### 2. String & the Constant Pool — String 与常量池
 
@@ -168,7 +188,7 @@ Iterators returned by `ArrayList` are **fail-fast**: modifying the collection st
 - [The Java Language Specification](https://docs.oracle.com/javase/specs/)
 - [Baeldung: Java String Pool](https://www.baeldung.com/java-string-pool)
 - [Baeldung: Dynamic Proxies in Java](https://www.baeldung.com/java-dynamic-proxies)
-- Related: [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]]
+- Related: [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]] · [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]]
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/java-base/README.en.md
 
 ---
@@ -197,6 +217,7 @@ Iterators returned by `ArrayList` are **fail-fast**: modifying the collection st
 ### A. 分句场景链（按正文顺序朗读）
 
 - **Java is statically typed and object-oriented.** — Java 是静态类型、面向对象的。
+- **Java has eight primitive types, stored by value.** — Java 有八种基本类型，按值存储。
 - **String literals live in the constant pool.** — 字符串字面量存放在常量池中。
 - **Use equals, never ==, for object content.** — 比较对象内容用 equals，不要用 ==。
 - **A dynamic proxy routes calls through a handler.** — 动态代理把调用路由到处理器。
@@ -204,14 +225,14 @@ Iterators returned by `ArrayList` are **fail-fast**: modifying the collection st
 
 ### B. 一段串联（连续口语）
 
-**Java is statically typed and object-oriented. String literals live in the constant pool. Use equals, never ==, for object content. A dynamic proxy routes calls through a handler. Fail-fast iterators detect structural changes.**
+**Java is statically typed and object-oriented. Java has eight primitive types, stored by value. String literals live in the constant pool. Use equals, never ==, for object content. A dynamic proxy routes calls through a handler. Fail-fast iterators detect structural changes.**
 
-**简中：** Java 是静态类型、面向对象的。字符串字面量存放在常量池中。比较对象内容用 equals，不要用 ==。动态代理把调用路由到处理器。快速失败迭代器能发现结构性修改。
+**简中：** Java 是静态类型、面向对象的。Java 有八种基本类型，按值存储。字符串字面量存放在常量池中。比较对象内容用 equals，不要用 ==。动态代理把调用路由到处理器。快速失败迭代器能发现结构性修改。
 
 ### C. 一分钟复盘（5 句）
 
 1. **Java is statically typed and object-oriented.** — Java 是静态类型、面向对象的。
-2. **String literals live in the constant pool.** — 字符串字面量存放在常量池中。
-3. **Use equals, never ==, for object content.** — 比较对象内容用 equals，不要用 ==。
-4. **A dynamic proxy routes calls through a handler.** — 动态代理把调用路由到处理器。
-5. **Fail-fast iterators detect structural changes.** — 快速失败迭代器能发现结构性修改。
+2. **Java has eight primitive types, stored by value.** — Java 有八种基本类型，按值存储。
+3. **String literals live in the constant pool.** — 字符串字面量存放在常量池中。
+4. **Use equals, never ==, for object content.** — 比较对象内容用 equals，不要用 ==。
+5. **A dynamic proxy routes calls through a handler.** — 动态代理把调用路由到处理器。

@@ -19,6 +19,7 @@ aliases:
 - [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] — KTV 歌词体、**kiss** 用法、恋爱叙事
 - [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 长期关系纪念日口语
 - [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪表达 · 成人版]] — **love / like / crush** 等情感词扩展
+- [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]] — 书面金句，可与电影台词对照摘抄
 
 > **说明：** 下列对白为学习与跟读用途；奥斯卡标注为该片当年 Academy Awards 主要获奖或提名记录（非完整名单）。台词略有剪辑差异时，以你熟悉的影院/流媒体版本为准。
 

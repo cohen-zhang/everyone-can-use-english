@@ -178,7 +178,7 @@ Compose async pipelines without blocking: `supplyAsync` → `thenApply` → `the
 - [java.util.concurrent package](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/package-summary.html)
 - *Java Concurrency in Practice* (Brian Goetz)
 - [Baeldung: Java Concurrency](https://www.baeldung.com/java-concurrency)
-- Related: [[learning-notes/personal-english-book/study/completablefuture-java-guide|CompletableFuture 指南]] · [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
+- Related: [[learning-notes/personal-english-book/study/completablefuture-java-guide|CompletableFuture 指南]] · [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]]（`synchronized` / `volatile`） · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/concurrency/README.en.md · Metaphor guide: [JUC_GUIDE](https://github.com/zhangze2/awesome-demo/blob/master/concurrency/JUC_GUIDE.md)
 
 ---

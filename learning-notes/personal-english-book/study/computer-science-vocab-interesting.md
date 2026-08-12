@@ -531,7 +531,7 @@ grep "bug" myfile.txt
 
 **Vocabulary hub:** https://github.com/zhangze2/awesome-demo/blob/master/docs/english/vocab-java-core.md（各模块见 `VOCAB.md`）
 
-**系列笔记：** [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/java-concurrency|并发编程]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
+**系列笔记：** [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]] · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/java-concurrency|并发编程]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
 
 ---
 
