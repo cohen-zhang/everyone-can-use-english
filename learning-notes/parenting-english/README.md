@@ -107,6 +107,7 @@ aliases:
 - **Peppa 第一季剧本**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README.md|Peppa Pig S01 README]]
 - **Peppa 家庭人物讲解**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README.md|Peppa Pig S01 · Family Character Guides]]
 - **节日（活动 + 祝福 + 名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|剧摘 · 夸奖与祝福]]
+- **主题名言（爱情 / 阅读 / 励志 / 健康）：** [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言四主题]] — 可与节日名言、电影台词对照摘抄
 
 ---
 

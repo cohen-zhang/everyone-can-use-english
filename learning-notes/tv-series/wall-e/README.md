@@ -1,4 +1,4 @@
-# WALL-E（机器人总动员 / 机器总动员 1）
+# WALL-E（机器人总动员/机器人瓦力）
 
 **索引：** [[learning-notes/tv-series/README|tv-series 索引]] · [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法]]
 
