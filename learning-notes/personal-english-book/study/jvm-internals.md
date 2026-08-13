@@ -17,7 +17,8 @@ The JVM executes Java **bytecode**: it **loads** classes, manages **memory areas
 
 JVM 执行 Java **字节码**：负责**加载**类、管理**内存区域**并自动回收垃圾。理解这些内部机制，能把神秘的崩溃变成可诊断的事件。
 
-**Demo bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]
+**Demo bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]  
+**轻松一笑：** [[learning-notes/personal-english-book/study/java-joke-Jeff-Dean|Java Facts · Jeff Dean 风格]]（GC / JIT / ClassLoader 梗）
 
 **Demo repo:** https://github.com/zhangze2/awesome-demo/tree/master/jvm-tool · **Local sibling:** `../awesome-java-demo/jvm-tool/`
 
@@ -176,7 +177,7 @@ while (true) leak.add(new byte[1024 * 1024]);
 - [The Java Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se17/html/)
 - [Baeldung: JVM Memory Model](https://www.baeldung.com/java-jvm-memory-model)
 - [Baeldung: Java ClassLoaders](https://www.baeldung.com/java-classloaders)
-- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-concurrency|并发编程]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]]
+- Related: [[learning-notes/personal-english-book/study/jvm|JVM 运行时数据区图解]] · [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-concurrency|并发编程]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]]
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/jvm-tool/README.en.md
 
 ---

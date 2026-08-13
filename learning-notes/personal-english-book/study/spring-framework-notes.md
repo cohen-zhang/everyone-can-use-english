@@ -389,7 +389,7 @@ Boot 根据**类路径**、已有 Bean 与配置项，**有条件地**注册合�
 - [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [Baeldung: Spring IoC](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
 - [Baeldung: Spring AOP](https://www.baeldung.com/spring-aop)
-- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/java-concurrency|并发]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]]
+- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-exception-handling|异常处理]] · [[learning-notes/personal-english-book/study/java-concurrency|并发]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/java-joke-Jeff-Dean|Java Facts · Jeff Dean 风格]]（Bean / IoC / AOP 梗）
 
 **Tags**: `技术`, `Java`, `Spring`, `IoC`, `AOP`, `Spring Boot`
 

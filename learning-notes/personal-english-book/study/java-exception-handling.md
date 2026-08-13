@@ -193,7 +193,7 @@ public class RestControllerExceptionHandler {
 - [Oracle Tutorial: Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
 - [Baeldung: Java Exceptions](https://www.baeldung.com/java-exceptions)
 - [Baeldung: Common Java Exceptions](https://www.baeldung.com/java-common-exceptions)
-- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]]（`throw` / `throws` / `try`） · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]]
+- Related: [[learning-notes/personal-english-book/study/java-fundamentals|Java 基础]] · [[learning-notes/personal-english-book/study/java-keywords|Java 关键字]]（`throw` / `throws` / `try`） · [[learning-notes/personal-english-book/study/java-io-streams|IO 流]] · [[learning-notes/personal-english-book/study/jvm-internals|JVM 内部机制]] · [[learning-notes/personal-english-book/study/spring-framework-notes|Spring Framework]] · [[learning-notes/personal-english-book/study/java-joke-Jeff-Dean|Java Facts · Jeff Dean 风格]]（NPE / OOM 梗）
 - Source README (demo): https://github.com/zhangze2/awesome-demo/blob/master/exception/README.md
 
 ---
