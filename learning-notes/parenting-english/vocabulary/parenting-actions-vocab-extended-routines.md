@@ -375,7 +375,7 @@ tags:
 
 ## 9. 家庭整理与作业指令 — Home & Study Routines `亲子`
 
-收纳动词（sort, stack, fold）见 [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]；作业流程见 [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|家庭作业打卡]]。
+收纳动词（sort, stack, fold）见 [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]；作业流程见 [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|家庭作业打卡]]。不多（Celine）「不乱丢」咒语见 [[learning-notes/personal-english-book/parenting-self-talk-phrases#celine-tidying-mantra|家长自说自话 · 收拾整洁]]。
 
 | 英文动作 | IPA（美） | 中文 | 常用口令（English — 中文） |
 | --- | --- | --- | --- |

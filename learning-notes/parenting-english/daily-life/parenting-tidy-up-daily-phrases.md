@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）；乱丢乱扔、收拾书包、挂毛巾、分类摞放等动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 — 分类总表 §9 家庭与作业]]（与此页相向互链）。
+**相关：** *clean*／*messy*／*dirty* 等反义对比可配合游戏记忆 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（「状态与描述类」表；与此页相向互链。）；乱丢乱扔、收拾书包、挂毛巾、分类摞放等动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 — 分类总表 §9 家庭与作业]]（与此页相向互链）。不多（Celine）的收拾咒语见 [[learning-notes/personal-english-book/parenting-self-talk-phrases#celine-tidying-mantra|家长自说自话 · 收拾整洁]]。
 
 ---
 
