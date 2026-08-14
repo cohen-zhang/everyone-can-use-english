@@ -4,9 +4,10 @@ disable-model-invocation: true
 description: >-
   Segments US TV bilingual transcript .txt files by shot/scene for dialogue context:
   scene index table, 【场景 xx / N】 blocks (地点·剧情·人物·时间线), anchors on first English
-  line per scene. Never splits an English line from its Chinese gloss. Use when marking
+  line per scene. Keep each scene's English block and Chinese block together
+  (same count, same order). Use when marking
   镜头场景、场景分段、transcript scene breaks, Modern Family / tv-series transcript layout,
-  or fixing markers that broke 英中字幕对.
+  or fixing markers that broke 英中字幕段.
 ---
 
 # TV transcript scene markers（美剧台词 · 场景分段）
@@ -21,15 +22,38 @@ Use when the user wants **shot/scene boundaries** in a **bilingual subtitle tran
 
 ## Input assumptions（本仓库字幕格式）
 
-Each **subtitle block** is exactly:
+Each **scene** is: header, then **all English**, then **all Chinese** (same count, same order):
 
 ```text
-- English line (may start with spaces after `-`)
- Chinese gloss line (no leading `-`)
+----------------------
+【场景 01 / N】邓菲家 · 清晨客厅
+★ 剧情：…
+★ 人物：Phil, Claire
+★ 时间线：…
+----------------------
+- Kids, breakfast!
 
+- Phil, would you get them?
+
+
+孩子们  吃早饭了 
+
+菲尔  把他们叫下来好吗 
 ```
 
-Blank line between blocks is optional. File **header** (keep untouched):
+English lines start with `- `. Chinese lines do not. Blank line between the two blocks.
+
+To regroup an existing interleaved file:
+
+```bash
+python .cursor/skills/tv-transcript-scene-markers/scripts/regroup_en_zh_by_scene.py \
+  learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e01-transcript.txt
+# or all files:
+python .cursor/skills/tv-transcript-scene-markers/scripts/regroup_en_zh_by_scene.py \
+  --dir learning-notes/tv-series/modern-family/s01/transcript
+```
+
+File **header** (keep untouched):
 
 1. Obsidian wikilinks to `notes/*-daily-lines.md` and `transcript/README.md`
 2. Episode label line (e.g. `S01E09`)
@@ -77,29 +101,34 @@ Blank line between blocks is optional. File **header** (keep untouched):
 
 ### 3) Placement rule（硬性）
 
-Insert the separator **after** the previous block’s **Chinese** line and **before** the **next** block’s `- English` line.
+Insert the separator **after** the previous scene’s **last Chinese** line and **before** the **next** scene’s first `- English` line. Do not put a scene marker between a scene’s English block and its Chinese block.
 
-**Wrong** (splits pair):
+**Wrong** (splits a scene’s EN/ZH blocks):
 
 ```text
 - Let's go. We're gonna be late.
+
 ----------------------
 【场景 16 / 26】…
 ----------------------
- 快走吧  要迟到了 
+快走吧  要迟到了 
 ```
 
 **Right:**
 
 ```text
 - Let's go. We're gonna be late.
- 快走吧  要迟到了 
+
+
+快走吧  要迟到了 
 
 ----------------------
 【场景 16 / 26】…
 ----------------------
 - Mind if I come in?
- 介意我也进来吗 
+
+
+介意我也进来吗 
 ```
 
 ---
@@ -142,7 +171,7 @@ python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py
   learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-scenes.yaml
 ```
 
-Script preserves header wikilinks, rebuilds index table, inserts separators, and **exits non-zero** if any English line is immediately followed by a scene marker (split pair).
+Script preserves header wikilinks, rebuilds index table, writes each scene as English block then Chinese block, and **exits non-zero** if an English line is immediately followed by a scene marker.
 
 ### Step 5 — Manual fix pass
 
@@ -171,8 +200,8 @@ Script cannot infer scenes. After apply:
 
 ## Validation checklist
 
-- [ ] Every `- English` line has Chinese on the next line (or document rare exceptions).
-- [ ] `grep` / script: **0** split pairs (English then `----------------------` or `【场景`).
+- [ ] Every scene has the same number of English and Chinese lines, in the same order.
+- [ ] `grep` / script: **0** English lines immediately followed by `----------------------` or `【场景`.
 - [ ] Scene IDs contiguous `01 … N`; body count matches index `N`.
 - [ ] Header Obsidian links still present.
 - [ ] Anchors appear in chronological **file** order (not necessarily story order if flashbacks).

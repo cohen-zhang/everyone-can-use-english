@@ -64,11 +64,13 @@ scenes:
 
 ## Correct boundary example (scenes 15 → 16)
 
-From the transcript — marker sits **between** complete blocks:
+From the transcript — marker sits **between** complete scenes (after the Chinese block):
 
 ```text
 - Let's go. We're gonna be late.
- 快走吧  要迟到了 
+
+
+快走吧  要迟到了 
 
 ----------------------
 【场景 16 / 26】Jay 家 · 客厅
@@ -77,7 +79,9 @@ From the transcript — marker sits **between** complete blocks:
 ★ 时间线：派对中段
 ----------------------
 - Mind if I come in?
- 介意我也进来吗 
+
+
+介意我也进来吗 
 ```
 
 ---

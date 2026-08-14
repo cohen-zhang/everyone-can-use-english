@@ -164,23 +164,30 @@ def episode_num_from_name(path: Path) -> int:
 
 
 def parse_pairs(text: str) -> list[tuple[str, str]]:
-    lines = text.splitlines()
-    pairs: list[tuple[str, str]] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
+    ens: list[str] = []
+    zhs: list[str] = []
+    started = False
+    for line in text.splitlines():
         if line.startswith("- "):
-            eng = line[2:].strip()
-            zh = ""
-            if i + 1 < len(lines):
-                nxt = lines[i + 1]
-                if nxt.strip() and not nxt.startswith("- "):
-                    zh = nxt.strip()
-                    i += 1
-            if eng:
-                pairs.append((eng, zh))
-        i += 1
-    return pairs
+            started = True
+            ens.append(line[2:].strip())
+            continue
+        if not started:
+            continue
+        s = line.strip()
+        if (
+            not s
+            or s == "----------------------"
+            or s.startswith("【场景")
+            or s.startswith("★ ")
+            or s.startswith("#")
+            or s.startswith("|")
+        ):
+            continue
+        zhs.append(s)
+    if ens and len(ens) != len(zhs):
+        raise SystemExit(f"transcript EN/ZH mismatch: EN={len(ens)} ZH={len(zhs)}")
+    return list(zip(ens, zhs))
 
 
 def usable(eng: str) -> bool:

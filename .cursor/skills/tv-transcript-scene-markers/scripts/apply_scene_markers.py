@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Insert TV transcript scene markers between complete EN/ZH subtitle blocks.
+"""Insert TV transcript scene markers; write each scene as English block then Chinese block.
 
 Usage:
   python apply_scene_markers.py <transcript.txt> <scenes.yaml>
 
-Exits 1 if any anchor is missing or if a scene marker would split an EN/ZH pair.
+Exits 1 if any anchor is missing or if a scene marker would split an English block from its Chinese block.
 """
 
 from __future__ import annotations
@@ -38,32 +38,19 @@ def is_scene_line(line: str) -> bool:
 
 
 def parse_blocks(body_lines: list[str]) -> list[tuple[str, str]]:
-    blocks: list[tuple[str, str]] = []
-    i = 0
-    while i < len(body_lines):
-        line = body_lines[i]
+    """Parse `- EN` / ZH in file order. Works for interleaved or grouped-by-scene."""
+    ens: list[str] = []
+    zhs: list[str] = []
+    for line in body_lines:
         if is_scene_line(line) or not line.strip():
-            i += 1
             continue
         if line.startswith("- "):
-            en = line.rstrip("\n")
-            zh = ""
-            if (
-                i + 1 < len(body_lines)
-                and body_lines[i + 1].strip()
-                and not body_lines[i + 1].startswith("- ")
-                and not is_scene_line(body_lines[i + 1])
-            ):
-                zh = body_lines[i + 1].rstrip("\n")
-                i += 2
-            else:
-                i += 1
-            blocks.append((en, zh))
-            continue
-        if blocks and not blocks[-1][1] and line.strip():
-            blocks[-1] = (blocks[-1][0], line.rstrip("\n"))
-        i += 1
-    return blocks
+            ens.append(line)
+        else:
+            zhs.append(line)
+    if len(ens) != len(zhs):
+        raise SystemExit(f"EN/ZH count mismatch: EN={len(ens)} ZH={len(zhs)}")
+    return list(zip(ens, zhs))
 
 
 def scene_header(scene: dict, total: str) -> list[str]:
@@ -185,13 +172,24 @@ def apply(transcript_path: Path, config_path: Path) -> None:
     out.append("")
     out.extend(build_index(cfg))
 
-    for bi, (en, zh) in enumerate(blocks):
-        if scene_at[bi] is not None:
-            out.extend(scene_header(scenes[scene_at[bi]], total))
-        out.append(en)
-        if zh:
-            out.append(zh)
+    i = 0
+    n = len(blocks)
+    while i < n:
+        if scene_at[i] is not None:
+            out.extend(scene_header(scenes[scene_at[i]], total))
+        j = i + 1
+        while j < n and scene_at[j] is None:
+            j += 1
+        run = blocks[i:j]
+        for en, _zh in run:
+            out.append(en)
+            out.append("")
         out.append("")
+        for _en, zh in run:
+            if zh:
+                out.append(zh)
+                out.append("")
+        i = j
 
     while out and out[-1] == "":
         out.pop()
@@ -200,17 +198,16 @@ def apply(transcript_path: Path, config_path: Path) -> None:
     result = "\n".join(out)
     transcript_path.write_text(result, encoding="utf-8")
 
-    # validate split pairs
     result_lines = result.splitlines()
     splits = []
-    for i, line in enumerate(result_lines):
-        if line.startswith("- ") and i + 1 < len(result_lines):
-            nxt = result_lines[i + 1].strip()
+    for idx, line in enumerate(result_lines):
+        if line.startswith("- ") and idx + 1 < len(result_lines):
+            nxt = result_lines[idx + 1].strip()
             if nxt.startswith("----------------------") or nxt.startswith("【场景"):
                 splits.append(line[:70])
     if splits:
-        raise SystemExit(f"Split EN/ZH pairs: {len(splits)} e.g. {splits[0]}")
-    print(f"OK: {len(blocks)} blocks, {len(scenes)} scenes, 0 split pairs")
+        raise SystemExit(f"English immediately followed by scene marker: {len(splits)} e.g. {splits[0]}")
+    print(f"OK: {len(blocks)} blocks, {len(scenes)} scenes, 0 split scenes")
 
 
 def main() -> None:
