@@ -63,11 +63,11 @@ Application ClassLoader      — your classpath — 应用类路径
 
 | Area | Holds | 内容 | Per-… |
 |------|-------|------|-------|
-| **Heap** | objects, arrays — 对象、数组 | shared — 共享 |
-| **Method area / Metaspace** | class metadata — 类元数据 | shared |
-| **JVM stack** | frames: locals, operands — 栈帧：局部变量、操作数 | thread — 每线程 |
-| **PC register** | current instruction — 当前指令 | thread |
-| **Native stack** | JNI calls — 本地方法 | thread |
+| **Heap** | objects, arrays | 对象、数组 | shared — 所有线程共享 |
+| **Method area / Metaspace** | class metadata | 类元数据 | shared — 所有线程共享 |
+| **JVM stack** | frames: locals, operands | 栈帧：局部变量、操作数 | thread — 每线程一份 |
+| **PC register** | current instruction | 当前指令 | thread — 每线程一份 |
+| **Native stack** | JNI calls | 本地方法 | thread — 每线程一份 |
 
 **StackOverflowError** = stack frames too deep (unbounded recursion); **OutOfMemoryError** = heap cannot fit a new object.
 
