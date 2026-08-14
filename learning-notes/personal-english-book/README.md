@@ -116,6 +116,8 @@ cssclasses:
 
 ## study — 学习与泛技术英语
 
+侧栏入口：[[learning-notes/personal-english-book/study/index.md|study · 学习]]（`personal-english-book/study/`）。
+
 - [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写与成分换序示范]] — 主谓宾状补、扩写阶梯、同一画面换序（已迁至 grammar-lab）
 - [[learning-notes/pronunciation/README|发音资料索引]] — 音标、音节划分、易读错词汇 149（已从 study/ 迁出）
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting.md|有趣计科词汇]]

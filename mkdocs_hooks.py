@@ -504,6 +504,7 @@ def _rename_nav_sections(items) -> None:
 # Folder slug (from URL) → left-nav display title.
 _NAV_FOLDER_DISPLAY = {
     "one-minute-drill": "one-minute-drill · 1分钟练习",
+    "study": "study · 学习",
 }
 
 # Fallback map when a section has no inferable path (rare).
