@@ -99,6 +99,13 @@
 - **Happy barbecue.** — 烧烤快乐。
 - **I would be happy to let her change in my room.** — 我自愿提供我的卧室让她换衣服。（主动提供帮助）
 
+### 对爱人的夸奖词集锦
+
+You are fascinating, stunning, amazing, outstanding, hardworking, flourishing, reliable, remarkable, phenomenal, incredible, wonderful, responsible, magical, the weighty, delicate, motivated, committed, focused, disciplined, persistent, excellent, diligent, brilliant, persevering, artist, athletic, fantastic, enthusiastic, impressive, creative, ambitious, conscientious and superb. You know that. Pardon?
+
+
+@穆如清风许山河: You’re attractive, beautiful, Charming, delightful,Diligent, Elegant, Fabulous, Generous, handsom/Humorous, inspiring/Insightful, Joyful, kindhearted/Kind, Lovable, marvelous/Magnificent, nice/Noble, optimistic/Outstanding, passionate/Patient, Quick-witted, resilient/Reliable, stylish/Sincere, thoughtful/Talented, Unique, vibrant/Versatile, Warm/Warmhearted, Xenodochial, Youthful, Zealous,  And you are supercalifragilisticexpialidocious. Yes you are 
+
 ---
 
 ## 三、亲子场景实用夸奖

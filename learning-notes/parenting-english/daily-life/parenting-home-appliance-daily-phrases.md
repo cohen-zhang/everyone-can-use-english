@@ -198,7 +198,11 @@ tags:
 | **reheat**                                | 用微波炉等再热         | 厨房        |
 | **spin cycle**                            | （洗衣机）脱水         | 孩子可能好奇响动  |
 | **buffer**                                | （视频）缓冲、转圈       | 屏类 `技术`   |
-| **charge / charging cable**               | 充电 / 充电线        | 数码        |
+| **charging cable**                        | 充电线             | 线本身       |
+| **plug**                                  | 插头              | 插墙插 / 插手机的那头 |
+| **charger**                               | 充电器             | **cable** + **plug**，**connect** / **plug in** 接上 = **charger** |
+
+`亲子` 记忆钩子：**cable + plug → connect → charger** — 充电线加插头，接上才叫充电器。
 
 
 ---
