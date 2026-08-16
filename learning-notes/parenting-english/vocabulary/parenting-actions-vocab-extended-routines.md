@@ -87,7 +87,7 @@ tags:
 
 ## 2. 手脚与肢体 — Hands, Feet & Body `亲子`
 
-手脚边界（不打人、不踢人）在 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab#手和脚的动作--hand--foot-actions-亲子|日常物品场景 · 手脚动作]] 已有示例；下表补**全身指令**与体育课常练动词。
+手脚边界（不打人、不踢人）在 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab#手和脚的动作--hand--foot-actions-亲子|日常物品场景 · 手脚动作]] 已有示例；**同一只矿泉水瓶**对照 14 个提手旁动词（touch / tap / hold / clutch / squeeze 等）见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab#提手旁动作--矿泉水瓶--14-hand-actions-亲子|日常物品场景 · 提手旁动作]]。下表补**全身指令**与体育课常练动词。
 
 ### 2.1 手臂与手 — Arms & hands
 

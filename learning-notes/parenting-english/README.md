@@ -44,7 +44,7 @@ aliases:
 
 ## vocabulary — 词汇表
 
-- [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab.md|动作 — 日常物品场景]] — 拿起、穿上等
+- [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab.md|动作 — 日常物品场景]] — 拿起、穿上、提手旁矿泉水瓶动作等
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines.md|动作动词 — 分类总表]] — 手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭与作业指令等分主题动词表
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词]] — 动物 + 猜谜提示
 - [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 蔬果肉主食零食

@@ -87,7 +87,7 @@ tags:
 
 ### 动作类 — 亲子日常指令
 
-**（扩展练习）** 同一批动词／指令的整句跟读与组合场景见：[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]；手脚、表情、动物、运动等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]；梳头、照镜子时常用到的 *look up*／*look down* 等见 [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]] — 与此小节 **相向互链**。
+**（扩展练习）** 同一批动词／指令的整句跟读与组合场景见：[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]（**tighten ↔ loosen**、**hold ↔ let go** 可用矿泉水瓶练，见该页 **提手旁动作**）；手脚、表情、动物、运动等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]；梳头、照镜子时常用到的 *look up*／*look down* 等见 [[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]] — 与此小节 **相向互链**。
 
 | 英文           | 中文     | 反义词（英文）         | 反义词（中文） | 亲子场景例句                                                       |
 | ------------ | ------ | --------------- | ------- | ------------------------------------------------------------ |
@@ -98,6 +98,8 @@ tags:
 | **push**     | 推      | **pull**        | 拉       | Push the chair in. / Pull out the drawer. — 把椅子推进去 / 把抽屉拉出来  |
 | **turn on**  | 打开（电器） | **turn off**    | 关掉（电器）  | Turn on the light. / Turn off the TV. — 开灯 / 关电视             |
 | **put on**   | 穿上     | **take off**    | 脱掉      | Put on your jacket. / Take off your shoes. — 穿上外套 / 脱掉鞋子     |
+| **tighten**  | 拧紧     | **loosen**      | 拧松      | Tighten the cap. / Loosen the cap. — 把瓶盖拧紧 / 把瓶盖拧松         |
+| **hold**     | 拿着     | **let go**      | 松开      | Hold the bottle. / Let go. — 拿着瓶子 / 松开手                       |
 | **wake up**  | 醒来     | **go to sleep** | 去睡觉     | Wake up, Celine! / Time to go to sleep. — Celine 起床啦！/ 该睡觉了  |
 
 **（扩展）** 配儿歌 *Are You Sleeping?* 扮 Brother John 装睡、再 *Wake up!* 叫醒，见 [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] — 与此行相向互链。

@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）**脱下泥衣服、去上班**等整句角色扮演扩展 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]。手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭作业等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]（与此页相向互链；本页侧重拿放、开关、穿衣等**日常物品操控**）。和材质、形状搭配表达（glass / wood / circle / 3D 等）见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]。**Take out a piece of paper** 等容器量词 — [[learning-notes/grammar-lab/量词|量词实验室]]。
+**相关：** 同一批动词可配对玩反义词 — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（见「亲子场景反义词 → **动作类 — 亲子日常指令**」表格；与此页 **相向互链**。）**脱下泥衣服、去上班**等整句角色扮演扩展 — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]。手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭作业等**分类总表**见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表（亲子）]]（与此页相向互链；本页侧重拿放、开关、穿衣等**日常物品操控**；**提手旁 14 词 · 矿泉水瓶**对照见本页下节，总表 §2.1 手臂与手 可并练）。和材质、形状搭配表达（glass / wood / circle / 3D 等）见 [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]。**Take out a piece of paper** 等容器量词 — [[learning-notes/grammar-lab/量词|量词实验室]]。
 
 ---
 
@@ -167,6 +167,84 @@ tags:
 
 ---
 
+## 提手旁动作 · 矿泉水瓶 — 14 Hand Actions `亲子`
+
+中文里很多「用手做」的动词带**提手旁（扌）**：拍、打、摸、捶、摇、拧、挤、撕、擦、持、抓、抢、接、换。  
+用**同一只手里的矿泉水瓶**对照 14 个常用英语动词，按**力度和意图**分组，方便和不多（Celine）边做边说。
+
+**怎么记：** 同一只瓶子，换的是手怎么碰它——轻碰、拍、捶、握、拧、撕、擦、接、抢、换。
+
+| 提手旁 | 英文 | IPA（美） | 力度 / 意图 | 矿泉水瓶口令（English — 中文） |
+| --- | --- | --- | --- | --- |
+| 摸 | **touch** | /tʌtʃ/ | 碰上，几乎不发力 | Touch the bottle. Is it cold? — 摸摸瓶子，凉吗？ |
+| 拍 | **tap** | /tæp/ | 轻敲一下 | Tap the cap twice. — 轻轻敲两下瓶盖。 |
+| 打 | **smack** | /smæk/ | 掌心拍打，比 tap 重 | Don't smack the bottle. — 别拍打瓶子。 |
+| 捶 | **punch** | /pʌntʃ/ | 出拳捶打 | Don't punch the bottle. It's not a punching bag. — 别用拳头捶瓶子，它不是沙袋。 |
+| 持 / 拿 | **hold** | /hoʊld/ | 拿着，普通握 | Hold the water bottle. — 拿着这瓶矿泉水。 |
+| 抓 | **clutch** | /klʌtʃ/ | 抓紧（怕掉 / 不想给） | Don't clutch it so tight. — 别抓得那么紧。 |
+| 挤 | **squeeze** | /skwiːz/ | 捏紧、挤瓶身 | Squeeze the bottle a little. Hear the plastic? — 轻轻挤一下瓶子，听到塑料声了吗？ |
+| 摇 | **shake** | /ʃeɪk/ | 来回晃 | Shake the bottle gently. — 轻轻摇一摇瓶子。 |
+| 拧 | **tighten** | /ˈtaɪtn/ | 拧紧（瓶盖） | Tighten the cap. — 把瓶盖拧紧。 |
+| 撕 / 揭 | **peel off** | /piːl ɔːf/ | 撕掉表层 | Peel off the label. — 把标签撕下来。 |
+| 擦 | **wipe** | /waɪp/ | 擦净 / 擦干 | Wipe the bottle. It's wet. — 擦擦瓶子，它是湿的。 |
+| 接 | **catch** | /kætʃ/ | 接住飞过来的东西 | Catch the bottle! — 接住瓶子！ |
+| 抢 | **snatch** | /snætʃ/ | 从别人手里一把抢走 | Don't snatch it. Ask first. — 别抢，先问一声。 |
+| 换 | **switch** | /swɪtʃ/ | 交换 / 换一个 | Switch bottles with me. — 跟我换一下瓶子。 |
+
+**易混三组：**
+
+- **touch → tap → smack → punch** — 碰一下 → 轻敲 → 掌心拍 → 出拳捶（越来越重）。
+- **hold vs clutch vs squeeze** — hold 是普通拿着；clutch 是抓紧不放；squeeze 是捏/挤，瓶身会变形。
+- **catch vs snatch** — catch 是接住递来或抛来的；snatch 是从别人手里抢走。
+
+**和本页「Switch on / Switch off」的区别：** 这里的 **switch** 是「换」；电器开关仍用 **switch on / switch off**。
+
+### 接触：touch / tap / smack / punch
+
+- **Touch the bottle with one finger.**  
+用一根手指摸摸瓶子。
+- **Tap the cap. Don't smack it.**  
+轻轻敲瓶盖。别拍打它。
+- **Don't punch the bottle. Use gentle hands.**  
+不要用拳头捶瓶子。用手轻一点。
+
+### 握与控：hold / clutch / squeeze / shake / tighten
+
+- **Hold the water bottle in one hand.**  
+一只手拿着矿泉水瓶。
+- **You're clutching it. Relax your fingers.**  
+你抓得太紧了。手指松开一点。
+- **Squeeze it a little—don't crush it.**  
+轻轻挤一下，别把瓶子挤瘪。
+- **Shake it. Do you hear the water?**  
+摇一摇。听到水声了吗？
+- **Tighten the cap, or it'll leak.**  
+把瓶盖拧紧，不然会漏。  
+  （反义：**Loosen the cap.** — 把盖子拧松。）
+
+### 处理表面：peel off / wipe
+
+- **Peel off the sticky label.**  
+把粘着的标签撕下来。
+- **Wipe the bottle with a napkin.**  
+用餐巾纸擦擦瓶子。
+
+### 给与拿：catch / snatch / switch
+
+- **I'll toss it. Catch!**  
+我抛过去。接住！
+- **Don't snatch it from my hand. Say, "Can I have it?"**  
+别从我手里抢。要说：我可以拿吗？
+- **Switch bottles. You take the cold one.**  
+换瓶子。你拿冰的那瓶。
+
+**边界提醒（亲子）：** **No punching. No smacking people. No snatching.** — 不可以出拳、不可以打人、不可以抢。瓶子只用来练词，不是出气筒。
+
+**30 秒口令（阿泽 ↔ Celine）：**  
+Hold it. Tap the cap. Shake it. Tighten it. Peel off the label. Wipe it. Switch with me. Catch! Don't snatch.
+
+---
+
 ## 组合场景练习
 
 
@@ -176,6 +254,7 @@ tags:
 | 吃零食     | Take out a cookie and put the lid back on.  | 拿出一块饼干，然后把盖子盖回去。 |
 | 准备画画    | Take out a piece of paper. Open the marker. | 拿出一张纸。打开马克笔。     |
 | bedtime | Close the book and put it down.             | 把书合上，然后放下。       |
+| 矿泉水瓶    | Hold the bottle, tighten the cap, then wipe it. | 拿着瓶子，拧紧盖子，再擦一擦。 |
 
 ---
 
@@ -227,10 +306,12 @@ After dinner, I say, "Please **pick up** the spoon, **put it in** the sink, and 
 During playtime, we practice opposites: "**push in** the chair, then **pull out** the box."  
 At bedtime, she **switches off** the lamp, **puts down** the book, and **goes out** of the study quietly.  
 When she forgets, I repeat with rhythm, and she answers: "I can **put away** toys. I can't **throw around** things."  
+With one water bottle, we drill hand verbs: **hold** it, **tap** the cap, **shake** it, **tighten** it, **wipe** it, then **catch**—don't **snatch**.  
 
 **简中（扩展）：**  
 上学前我会说：进来、打开衣柜、拿出外套、穿上鞋子。  
 晚饭后我会说：把勺子拿起来、放进水槽、把柜门关上。  
 玩耍时专练反义：把椅子推进去，再把盒子拉出来。  
 睡前她会关灯、放下书、安静离开书房。  
-如果忘了，我就用节奏重复，她再用 can / can't 复述，动作短语会更快固化。
+如果忘了，我就用节奏重复，她再用 can / can't 复述，动作短语会更快固化。  
+一只矿泉水瓶也能练提手旁动作：拿着、轻敲盖子、摇一摇、拧紧、擦一擦，再接住——不可以抢。
