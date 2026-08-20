@@ -20,6 +20,8 @@ aliases:
 
 **相关（主题名言 · 扩展）：** [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]] — 非节日向的书面金句，可与本节贺卡名言对照摘抄。
 
+**相关（财富祝福 · 扩展）：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] — 同类 *May you…* 句式，场景换成持仓与财务自由。
+
 **亲子英文总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 ---

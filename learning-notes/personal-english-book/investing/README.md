@@ -45,6 +45,7 @@ cssclasses:
 
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]] — 宏观、衍生品、合规、机构用语
 - [[learning-notes/personal-english-book/work/finance-business-stories|金融和商务主题故事集]] — 8 个分类情景故事
+- [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] — 财富主题短视频祝福（涨势动词、财务自由）
 - [[learning-notes/personal-english-book/work/financial-system-issue-analysis|金融系统问题梳理]] — 清算、交易时段（从业 IM 视角）
 
 ---
@@ -54,6 +55,7 @@ cssclasses:
 - **研究 ↔ 交易：** [[learning-notes/personal-english-book/investing/listed-stock-fundamentals-and-analysis-en|基本面与估值分析]] ↔ [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]]（读研报语言 ↔ 下单语言）
 - **投资者必备 ↔ 经纪访谈：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes|证券与商品经纪访谈]]（实操句 ↔ 从业者口述）
 - **投资者 ↔ 大词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]（portfolio、rally 等扩展）
+- **祝福字幕 ↔ 大词表：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]
 - **股票 ↔ 加密交易：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|交易所 APP 常用场景]]（限价单、止损、仓位等通用概念）
 
 ---
