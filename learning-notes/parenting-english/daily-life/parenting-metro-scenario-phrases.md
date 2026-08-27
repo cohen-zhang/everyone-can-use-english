@@ -329,51 +329,104 @@ tags:
 
 **English**
 
-When I take Celine on the Shenzhen Metro, I start with safety rules before we enter.  
-I remind her to stay close, hold hands on escalators, and stand behind the yellow line on platforms.  
+#### 行程背景 · Trip background
 
-At the station entrance, we follow signs to tickets and gates.  
-If we need help, I ask staff at customer service instead of guessing.  
-At the gate, I go first, then Celine follows right behind me.  
+Over summer break I bought high-speed rail tickets to take Celine back to our hometown in Hubei.  
+We chose to ride the metro to Shenzhen North Station.
 
-On the platform, I repeat three short lines:  
+#### 进站前 · Before we enter
+
+Before we go in, I go over the safety rules:  
+Stay close when it's crowded.  
+Hold hands or hold the rail on escalators.  
+Stand behind the yellow line on the platform.
+
+#### 进站 · Entering the station
+
+We enter at Exit A of Baolong Station and take the escalator down.  
+After we're inside, we put our bags through security first. If we're carrying liquids, they need a separate liquid check.  
+Then we follow the signs to the gates and the platform.  
+If we're not sure, we ask at customer service—we don't guess.
+
+#### 过闸 · At the gate
+
+When Celine was in kindergarten, she didn't need her own card. I'd swipe first, and she'd follow right behind—no stopping at the gate.  
+Now she uses her child transit card, goes through the concession lane, and rides at half price.
+
+#### 站台 · On the platform
+
+On the platform I repeat three short lines:  
 "Stand behind the line."  
-"Let passengers get off first."  
+"Let people off first, then get on."  
 "Mind the gap when you step in."  
-Simple language works best in noisy places.  
+Short lines work best in a noisy place.
 
-Inside the train, we move away from the door and hold a pole.  
-If seats are full, we stand still and keep bags close.  
-If we get a seat, I remind her to sit properly and stay alert before our stop.  
+#### 车厢内 · Inside the train
 
-When we transfer, we follow clear signs and walk with the crowd without rushing.  
-At the destination, we check the correct exit and keep calm in busy corridors.  
+Once we're on board, we move away from the doors and hold a pole.  
+If there are no seats, we stand steady and keep our bags tucked in. If we get a seat, she sits properly and we get ready to get off before our stop.
 
-If a foreigner asks where a restaurant is in the mall, I point to the exit sign first.  
-I wait until they see it. Then I tell them to go through that exit.
+#### 广播与到站 · Announcements
 
-Metro rides are not only transportation for us.  
-They are daily training in public safety, polite behavior, and practical English.
+We watch the display for the next stop and listen to the train announcements.
+
+For example: "Next stop, Buji. Please exit in the direction shown above this door. You may transfer to Line 5 here, or continue to Shenzhen North Station for the railway."
+
+#### 换乘与出站 · Transfer and exit
+
+When we transfer, we read the arrows and line numbers and walk with the crowd without pushing.  
+At our stop we confirm the right exit and keep a steady pace in the corridors—no panic, no running.
+
+#### 小结 · Closing
+
+For us, the metro isn't just transportation.  
+It's a daily practice ground for public safety, polite behavior, and practical English.
 
 **简中：**
 
-我带 Celine 坐深圳地铁时，进站前先讲安全规则：  
-人多要靠近、扶梯要牵手、站台要站黄线后。  
+#### 行程背景
 
-进站后按指示牌走到闸机和站台。  
-不确定就问客服，不靠猜。过闸时我先过，孩子紧跟，不在闸口停留。  
+暑假我买了高铁票带 Celine 回湖北老家，我们选择坐地铁到深圳北站；
+
+#### 进站前
+
+坐地铁时，进站前先讲安全规则：  
+人多要靠近、扶梯要牵手或者扶好、站台要站黄线后。
+
+#### 进站
+
+我们从宝龙地铁站的 A 口进站，然后乘坐扶梯下楼。  
+进站后，先把包过安检，如果有带液体还要进行液体检测；  
+然后按指示牌走到闸机和站台。  
+不确定就问客服，不靠猜。
+
+#### 过闸
+
+以前她上幼儿园不需要单独刷卡，过闸时我先过，孩子紧跟，不在闸口停留。  
+现在她需要刷儿童卡，走优惠通道，享受半价优惠；
+
+#### 站台
 
 站台上我会反复三句短口令：  
 站在线后、先下后上、上车注意缝隙。  
-噪声环境里，短句最有效。  
+噪声环境里，短句最有效。
+
+#### 车厢内
 
 上车后先离开车门，扶好立杆。  
-没座位就稳稳站好、包放好；有座位也要坐稳，并提前准备下车。  
+没座位就稳稳站好、包放好；有座位也要坐稳，并提前准备下车。
+
+#### 广播与到站
+
+我们会注意看显示屏到站信息和听列车广播；
+
+比如：下一站布吉，请按本车门上方指示方向下车。可在该站换乘 5 号线，或前往深圳北站（铁路）。
+
+#### 换乘与出站
 
 换乘时看清箭头和线路，跟着人流走但不抢。  
-到站后确认正确出口，在通道里保持节奏，不慌不跑。  
+到站后确认正确出口，在通道里保持节奏，不慌不跑。
 
-如果有外国人问商场里那家餐馆，我先指出口标识。  
-等对方看见了，再让他们从那个出口出去。
+#### 小结
 
 对我们来说，地铁不只是交通工具，还是每天可复用的公共安全、礼貌行为和实用英语训练场。
