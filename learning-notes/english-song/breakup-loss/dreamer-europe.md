@@ -21,7 +21,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（孤独、压抑与「还在撑」的表达）。
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（孤独、压抑与「还在撑」的表达） · [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado — Eagles]]（独行与封闭；*walking through this world all alone* ↔ 本曲河边孤独）
 
 ---
 
