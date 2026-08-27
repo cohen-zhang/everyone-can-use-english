@@ -253,7 +253,7 @@ tags:
 **Foreigner**: Excuse me, could you tell me where that restaurant is in this mall?  
 （外国人：打扰一下，你能告诉我商场里那家餐馆在哪吗？）
 
-**You**: Sure. Do you see the **exit sign** over there, not far from us?  
+**You**: Sure. Do you see the exit sign over there, not far from us?  
 （你：好的。你能看到不远处那个出口标识吗？）
 
 **Foreigner**: Oh yeah, I see it.  
@@ -262,7 +262,7 @@ tags:
 **You**: Great. Go through that exit, and you’ll walk right into the mall.  
 （你：很好。从那个出口出去，就直接进商场了。）
 
-**You**: The restaurant is on the first floor, just past the **food court**.  
+**You**: The restaurant is on the first floor, just past the food court.  
 （你：餐馆在一楼，过了美食广场就到。）
 
 **Foreigner**: Got it. Thanks so much!  
