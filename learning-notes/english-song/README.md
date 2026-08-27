@@ -1305,3 +1305,9 @@ aliases:
 ## 精编进度
 
 播放列表 **#1–#109** 已全部精编完成（含简介、英文歌词 + 中文翻译分块、重点表达与听歌提示）。
+
+## 精编补充（播放列表外）
+
+| 歌名 | 歌手 | 主题 | 笔记 |
+| --- | --- | --- | --- |
+| Desperado | Eagles | 生活态度 · 情绪 · 恋爱 | [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado]] |

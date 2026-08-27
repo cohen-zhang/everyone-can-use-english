@@ -28,6 +28,7 @@ aliases:
 - [[learning-notes/english-song/love-romance/treasure-bruno-mars|Treasure — Bruno Mars]] — 轻快夸赞；*golden star*、*let me treasure you* ↔ 本文甜蜜称呼
 - [[learning-notes/english-song/breakup-loss/you-belong-with-me-taylor-swift|You Belong With Me — Taylor Swift]] — 暗恋闺蜜视角；*you belong with me*、*I know you better than that* ↔ 本文暗恋与对比叙事
 - [[learning-notes/english-song/love-romance/one-man-band-old-dominion|One Man Band — Old Dominion]] — 不想再单飞；*one man band*、*same key*、*take our show on the road* ↔ 本文认定对方、一起走下去的表达
+- [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado — Eagles]] — 经典劝爱 ballad；*let somebody love you*、*before it's too late* ↔ 本文敞开心扉、接受被爱句型
 
 > For 阿泽 (泽哥) — A dream: singing only English songs at KTV 🎤
 一个期望，在 KTV 都唱英文歌
