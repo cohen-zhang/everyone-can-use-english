@@ -25,7 +25,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（安慰他人、走出痛苦可对照主歌）
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（安慰他人、走出痛苦可对照主歌） · [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado — Eagles]]（同为劝人接纳爱；*let somebody love you* ↔ *let her into your heart*）
 
 ---
 

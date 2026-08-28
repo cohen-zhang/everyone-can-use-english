@@ -26,7 +26,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases.md|家电日常]] — 家电相关表达
 - [[learning-notes/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases.md|亲子 Hiking 场景]] — 带娃徒步口语、边界提醒与鼓励句
 - [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases.md|作业检查日常]] — 作业、学习跟进
-- [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 地铁出行
+- [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 地铁出行、站内指路、外国人问商场餐馆
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动自行车接送 — 校门通勤]] — school run、e‑bike 安全口令
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine.md|不多的一天（上）]] — 一日流记录
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2.md|不多的一天（下）]] — 一日流记录续

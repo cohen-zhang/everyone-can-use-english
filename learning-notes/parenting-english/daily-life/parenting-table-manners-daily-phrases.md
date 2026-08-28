@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 家庭总规矩、作息和“说到做到”见 [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases.md|家庭守则与作息 — Family Rules & Daily Routine]]（与本页相向互链）；擦嘴、递给我、吹一下等餐桌动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#10-餐桌与护理--meals--care|动作动词 — 分类总表 §10 餐桌与护理]]（与本页相向互链）。
+**相关：** 家庭总规矩、作息和“说到做到”见 [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases.md|家庭守则与作息 — Family Rules & Daily Routine]]（与本页相向互链）；擦嘴、递给我、吹一下等餐桌动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#10-餐桌与护理--meals--care|动作动词 — 分类总表 §10 餐桌与护理]]（与本页相向互链）；地铁出口接商场、外国人问路餐馆见 [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景 · 外国人问路]]（与本页相向互链）。
 
 
 家庭高频礼貌表达 + 吃饭场景规则，句子尽量短，方便不多 / Celine 跟读。`亲子`

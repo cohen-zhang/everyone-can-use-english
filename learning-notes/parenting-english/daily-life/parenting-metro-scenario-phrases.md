@@ -17,6 +17,7 @@ tags:
 ## 本页在做什么
 
 面向**带娃坐地铁**时的英语输入：站里**标识语**一眼能对上中文意思，**短对话**可照读或改写。  
+含**外国人问路**：地铁出口常直连商场，对方问餐馆时，先锁**出口标识**再指路。  
 **用词说明** — 美国常说 **subway**；英国伦敦多为 **Underground / Tube**；国内与不少亚洲城市用 **metro**；本文以 **metro / subway** 为主，差异处单独标注。
 
 ---
@@ -27,6 +28,7 @@ tags:
 | ------------------------------------- | ----------- | ------------------------ |
 | **Entrance** `/ˈentrəns/`                          | 入口          | 进站口                      |
 | **Exit** `/ˈeksɪt/` / **Way out**                | 出口          | 英国站里更常见 *Way out*        |
+| **Exit sign**                         | 出口标识        | 指路地标；绿底白字 *EXIT*；完整情景见 **外国人向你问路** |
 | **No entry**                          | 禁止入内        | 单向通道反方向                  |
 | **No smoking**                        | 禁止吸烟        |                          |
 | **Ticket office** / **Tickets**       | 售票处 / 售票    |                          |
@@ -131,6 +133,7 @@ tags:
 | **Exit A / B / C …** | A/B/C……出口 | 听字母找出口屏 |
 | **Customer service center** | 客服中心 | 广播指路时 |
 | **Please keep an eye on your belongings.** | 请保管好随身物品。 | 防遗失 |
+| **This exit leads to the mall.** | 此出口通往商场 | 枢纽站常见；指路时对照屏上 *mall* / 商场名 |
 
 **家长顺带练一句**：到站前让 Celine 先重复 **Doors open on the left or right**，再一起走，减少冲门——和深圳广播的节奏正好合拍。
 
@@ -179,6 +182,8 @@ tags:
 - **How do I transfer to …?** — 我怎么换乘到……？  
 - **Is this the right platform for …?** — 去……是这个站台吗？  
 - **Where is the exit for … Street?** — 去……街从哪个出口出？
+
+外国人来问你「商场里那家餐馆」时，用后面 **外国人向你问路** 那一节完整情景，不要只丢一句 *Exit A*。
 
 ### 带娃应急用语
 
@@ -236,7 +241,66 @@ tags:
 #### Celine 可跟说的一两句（家长先示范音量与距离）
 
 - **Do you need help?** — 您需要帮助吗？（声音轻、别着急）  
-- **My dad can help you.** — 我爸爸可以帮您。（孩子说时阿泽应声接话，别让娃单独带路太久）  
+- **My dad can help you.** — 我爸爸可以帮您。（孩子说时阿泽应声接话，别让娃单独带路太久）
+
+### 外国人向你问路（地铁出口接商场）
+
+上一节是你先开口；这一节是**对方先来问你**。深圳不少地铁站出站就是商场，对方常在站厅或通道里问「商场里那家餐馆怎么走」。  
+指路时先让对方**看见一个地标**（**exit sign** / 出口标识），确认看见了再往下说。语速放慢、手指方向；带娃时仍先牵好 Celine，别挡闸机口和扶梯口。
+
+#### 情景对话（先锁地标）
+
+**Foreigner**: Excuse me, could you tell me where that restaurant is in this mall?  
+（外国人：打扰一下，你能告诉我商场里那家餐馆在哪吗？）
+
+**You**: Sure. Do you see the exit sign over there, not far from us?  
+（你：好的。你能看到不远处那个出口标识吗？）
+
+**Foreigner**: Oh yeah, I see it.  
+（外国人：哦看到了。）
+
+**You**: Great. Go through that exit, and you’ll walk right into the mall.  
+（你：很好。从那个出口出去，就直接进商场了。）
+
+**You**: The restaurant is on the first floor, just past the food court.  
+（你：餐馆在一楼，过了美食广场就到。）
+
+**Foreigner**: Got it. Thanks so much!  
+（外国人：明白了，太感谢了！）
+
+**You**: No problem. Enjoy your meal.  
+（你：不客气，用餐愉快。）
+
+#### 本段关键词 `亲子`
+
+| English | 简中 | 备注 |
+| --- | --- | --- |
+| **mall** / **shopping mall** | 商场 | 美口常直接说 *mall*；地铁通道屏也会写商场名 |
+| **restaurant** | 餐馆 / 餐厅 | *that restaurant* 可配合手指，确认是哪一家 |
+| **exit sign** | 出口标识 | 指路地标；绿底白字 *EXIT* 最常见 |
+| **food court** | 美食广场 | 商场里餐馆常聚在这一层/这一区 |
+| **over there** | 在那边 | 配合手指；比单独说 *there* 更清楚 |
+| **not far from us** | 离我们不远 | 先报远近，再指路 |
+
+#### 句式拆开（可替换）
+
+确认对方看见地标后再给下一步，听起来更自然，也不容易指丢。
+
+- **Do you see the exit sign over there?** — 你看到那边那个出口标识了吗？  
+- **It’s not far from us.** — 离我们不远。  
+- **Oh yeah, I see it.** — 哦看到了。（对方确认时你会听到的短句）  
+- **Go through that exit.** — 从那个出口出去。  
+- **You’ll walk right into the mall.** — 一出去就进商场了。  
+- **The restaurant is on the first / second floor.** — 餐馆在一楼 / 二楼。（楼层照实说）  
+- **It’s just past the food court.** — 过了美食广场就到。  
+- **Follow the signs for the restaurant once you’re inside.** — 进商场后顺着餐馆指示牌走。  
+- **Which restaurant? Do you have the name?** — 哪一家？您有店名吗？（对方说 *that restaurant* 但你不确定时）  
+- **This exit goes to a different mall. You want Exit ….** — 这个口去另一座商场，您要走……出口。（照实替换字母）
+
+#### Celine 可跟说的一两句
+
+- **The exit sign is over there.** — 出口标识在那边。（手指方向、声音轻）  
+- **Go that way.** — 往那边走。（家长先指，孩子再重复，别让娃独自带路）  
 
 ---
 
@@ -245,6 +309,9 @@ tags:
 **Mind the gap. Stand behind the line. Hold hands on the escalator.**  
 — 注意缝隙、站在线后、扶梯牵好手；三句覆盖地铁带娃最高频安全提示。
 
+**Do you see the exit sign over there?**  
+— 外国人问路时先锁地标，确认看见了再往下说。
+
 ---
 
 ## 相关（扩展）
@@ -252,6 +319,7 @@ tags:
 - 电动两轮**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]
 - 酒店带娃入住与游乐场：[[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]]（与此页相向互链）
 - 成人通勤一日流水（地铁约 50 分钟、共享单车）：[[learning-notes/personal-english-book/one-minute-drill/a-weekday.md|A Weekday · 工作日的一天]]
+- 商场餐馆落座后的餐桌短句：[[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md|日常礼貌与餐桌礼仪]]（问路到店后可接此页）
 
 ---
 
@@ -261,57 +329,104 @@ tags:
 
 **English**
 
-When I take Celine on the Shenzhen Metro, I start with safety rules before we enter.  
-I remind her to stay close, hold hands on escalators, and stand behind the yellow line on platforms.  
+#### 行程背景 · Trip background
 
-At the station entrance, we follow signs to tickets and gates.  
-If we need help, I ask staff at customer service instead of guessing.  
-At the gate, I go first, then Celine follows right behind me.  
+Over summer break I bought high-speed rail tickets to take Celine back to our hometown in Hubei.  
+We chose to ride the metro to Shenzhen North Station.
 
-On the platform, I repeat three short lines:  
+#### 进站前 · Before we enter
+
+Before we go in, I go over the safety rules:  
+Stay close when it's crowded.  
+Hold hands or hold the rail on escalators.  
+Stand behind the yellow line on the platform.
+
+#### 进站 · Entering the station
+
+We enter at Exit A of Baolong Station and take the escalator down.  
+After we're inside, we put our bags through security first. If we're carrying liquids, they need a separate liquid check.  
+Then we follow the signs to the gates and the platform.  
+If we're not sure, we ask at customer service—we don't guess.
+
+#### 过闸 · At the gate
+
+When Celine was in kindergarten, she didn't need her own card. I'd swipe first, and she'd follow right behind—no stopping at the gate.  
+Now she uses her child transit card, goes through the concession lane, and rides at half price.
+
+#### 站台 · On the platform
+
+On the platform I repeat three short lines:  
 "Stand behind the line."  
-"Let passengers get off first."  
+"Let people off first, then get on."  
 "Mind the gap when you step in."  
-Simple language works best in noisy places.  
+Short lines work best in a noisy place.
 
-Inside the train, we move away from the door and hold a pole.  
-If seats are full, we stand still and keep bags close.  
-If we get a seat, I remind her to sit properly and stay alert before our stop.  
+#### 车厢内 · Inside the train
 
-When we transfer, we follow clear signs and walk with the crowd without rushing.  
-At the destination, we check the correct exit and keep calm in busy corridors.  
+Once we're on board, we move away from the doors and hold a pole.  
+If there are no seats, we stand steady and keep our bags tucked in. If we get a seat, she sits properly and we get ready to get off before our stop.
 
-Metro rides are not only transportation for us.  
-They are daily training in public safety, polite behavior, and practical English.
+#### 广播与到站 · Announcements
+
+We watch the display for the next stop and listen to the train announcements.
+
+For example: "Next stop, Buji. Please exit in the direction shown above this door. You may transfer to Line 5 here, or continue to Shenzhen North Station for the railway."
+
+#### 换乘与出站 · Transfer and exit
+
+When we transfer, we read the arrows and line numbers and walk with the crowd without pushing.  
+At our stop we confirm the right exit and keep a steady pace in the corridors—no panic, no running.
+
+#### 小结 · Closing
+
+For us, the metro isn't just transportation.  
+It's a daily practice ground for public safety, polite behavior, and practical English.
 
 **简中：**
 
+#### 行程背景
+
 暑假我买了高铁票带 Celine 回湖北老家，我们选择坐地铁到深圳北站；
 
-坐深圳地铁时，进站前先讲安全规则：  
-从 A 口进地铁站，然后乘坐扶梯下楼，提醒她要牵手、站台要站黄线后。  
+#### 进站前
 
-进站后，先把包过安检，如果有带液体还要进行液体检测，然后按指示牌走到闸机和站台。  
+坐地铁时，进站前先讲安全规则：  
+人多要靠近、扶梯要牵手或者扶好、站台要站黄线后。
+
+#### 进站
+
+我们从宝龙地铁站的 A 口进站，然后乘坐扶梯下楼。  
+进站后，先把包过安检，如果有带液体还要进行液体检测；  
+然后按指示牌走到闸机和站台。  
 不确定就问客服，不靠猜。
 
-以前她上幼儿园不需要单独刷卡，过闸时我先过，孩子紧跟，不在闸口停留。  
+#### 过闸
 
+以前她上幼儿园不需要单独刷卡，过闸时我先过，孩子紧跟，不在闸口停留。  
 现在她需要刷儿童卡，走优惠通道，享受半价优惠；
+
+#### 站台
 
 站台上我会反复三句短口令：  
 站在线后、先下后上、上车注意缝隙。  
-噪声环境里，短句最有效。  
+噪声环境里，短句最有效。
+
+#### 车厢内
 
 上车后先离开车门，扶好立杆。  
-没座位就稳稳站好、包放好；有座位也要坐稳，并提前准备下车。  
+没座位就稳稳站好、包放好；有座位也要坐稳，并提前准备下车。
 
-我们会注意看显示屏到站信息和听列车广播； 
+#### 广播与到站
 
+我们会注意看显示屏到站信息和听列车广播；
 
-下一站布吉，请按本车门上方指示方向下车。 | 报站+「门灯/箭头」提示；站名随线替换；14号线例：*Next station, Shiyaling...*（石芽岭） |
-可在该站换乘 5 号线，或前往深圳北站（铁路）。 
+比如：下一站布吉，请按本车门上方指示方向下车。可在该站换乘 5 号线，或前往深圳北站（铁路）。
+
+#### 换乘与出站
 
 换乘时看清箭头和线路，跟着人流走但不抢。  
-到站后确认正确出口，在通道里保持节奏，不慌不跑。  
+到站后确认正确出口，在通道里保持节奏，不慌不跑。
+
+#### 小结
 
 对我们来说，地铁不只是交通工具，还是每天可复用的公共安全、礼貌行为和实用英语训练场。
