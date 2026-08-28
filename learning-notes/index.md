@@ -7,7 +7,7 @@ search:
 
 本站由 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 从本仓库 `learning-notes/` 构建，便于在浏览器中阅读、搜索与目录导航。
 
-构建时会将仓库根目录 [`book/`](../book/)（《人人都能用英语》）同步进本站 `book/` 路径，下方链接可在 **GitHub Pages** 直接打开。
+上游开源内容（《人人都能用英语》、一千小时等）已从本仓库独立出去，请通过根目录 [README 链接映射](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射) 或下方外链阅读。
 
 ## 入口
 
@@ -21,38 +21,33 @@ search:
 
 ---
 
-## 《人人都能用英语》（book）
+## 《人人都能用英语》（上游）
 
-李笑来 · 仓库根目录 [`book/`](../book/) · 本站阅读路径 `book/`
+李笑来 · 阅读请打开上游仓库，不在本站镜像。
 
 ### 正文
 
 | 章节 | 链接 |
 | --- | --- |
-| 简介与前言 | [README / 目录](book/README.md) |
-| 第一章：起点 | [chapter1](book/chapter1.md) |
-| 第二章：口语 | [chapter2](book/chapter2.md) |
-| 第三章：语音 | [chapter3](book/chapter3.md) |
-| 第四章：朗读 | [chapter4](book/chapter4.md) |
-| 第五章：词典 | [chapter5](book/chapter5.md) |
-| 第六章：语法 | [chapter6](book/chapter6.md) |
-| 第七章：精读 | [chapter7](book/chapter7.md) |
-| 第八章：叮嘱 | [chapter8](book/chapter8.md) |
-| 后记 | [end](book/end.md) |
+| 简介与前言 | [README / 目录](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/README.md) |
+| 第一章：起点 | [chapter1](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter1.md) |
+| 第二章：口语 | [chapter2](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter2.md) |
+| 第三章：语音 | [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| 第四章：朗读 | [chapter4](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter4.md) |
+| 第五章：词典 | [chapter5](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter5.md) |
+| 第六章：语法 | [chapter6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter6.md) |
+| 第七章：精读 | [chapter7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter7.md) |
+| 第八章：叮嘱 | [chapter8](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md) |
+| 后记 | [end](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/end.md) |
 
-### 附录与扩展
+### 相关站点
 
-| 内容 | 链接 |
-| --- | --- |
-| 我要当老板 · 01 | [我要当老板/01](book/我要当老板/01.md) |
-| GRE Analytical Writing — Argument Task Topics | [files/GRE-Analytical-Writing-Argument-Task-Topics](book/files/GRE-Analytical-Writing-Argument-Task-Topics.md) |
-| GRE Analytical Writing — Issue Task Topics | [files/GRE-Analytical-Writing-Issue-Task-Topics](book/files/GRE-Analytical-Writing-Issue-Task-Topics.md) |
-| TOEFL Listening Part C — text 1–93 | [files/TOELFL-PartC-93/text/text-1-93](book/files/TOELFL-PartC-93/text/text-1-93.md) |
+- [一千小时](https://1000h.org/intro.html)
+- [Enjoy](https://enjoy.bot)
 
 ---
 
 ## 说明
 
 - 笔记中部分 **Obsidian** 语法（如个别嵌入图片）在网页中可能与桌面端显示不一致；以仓库内 Markdown 源文件为准。
-- 《人人都能用英语》**源文件**在仓库根目录 `book/`；编辑请改源文件，不要改构建生成的 `learning-notes/book/`（已加入 `.gitignore`）。
-- 仓库根目录的 `README.md` 含完整目录说明与上游项目介绍（网页站点主体收录 `learning-notes/`，并附带同步的 `book/`）。
+- 仓库根目录的 `README.md` 含完整目录说明与上游链接映射。

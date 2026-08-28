@@ -900,7 +900,7 @@ After setting work MBP to English last week, whole Apple ecosystem is in English
 见的多词根词缀的词典后，也喜欢拆词根词缀猜单词了
 After seeing more root-affix dictionaries, also like breaking down roots to guess words.
 
-**相关（扩展）：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀词汇（232）]] — 分类词表 + 词根词缀列；对照 [[1000-hours/sounds-of-american-english/6.4-parts-of-words|1000h · 6.4 常见词根词缀]]。
+**相关（扩展）：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀词汇（232）]] — 分类词表 + 词根词缀列；对照 [1000h · 6.4 常见词根词缀](https://1000h.org/sounds-of-american-english/6.4-parts-of-words.html)。
 
 明年的Apple music年度歌曲应该都是英文歌，从中学到不少单词。既是兴趣，也能学习
 Next year's Apple Music annual songs should all be English songs, learned many words from them. Both interest and learning.

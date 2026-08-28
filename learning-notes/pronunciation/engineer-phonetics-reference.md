@@ -28,7 +28,7 @@ aliases:
 
 **音素（phoneme）** 是自然语流中不可再分的声音单位；**音标（phonetic symbol）** 是记录音素的符号。学习顺序建议是：**先听声音，再把声音映射到符号**，最后做到「看到音标能发音，听到音素能大致写出音标」。
 
-> 参考来源：[[book/chapter3|《人人都能用英语》ch.3]] · [[1000-hours/sounds-of-american-english/1.1-phonemes|1000h · 1.1 音素与音标]] · [[new-edition-drafts/英文语音简明教程|英文语音简明教程]]
+> 参考来源：[《人人都能用英语》ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · [1000h · 1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html) · [英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
 
 ### 1.1 工程师怎么用这页
 
@@ -68,7 +68,7 @@ aliases:
 | **database** | /ˈdeɪtəbeɪs/ | 中间 `-ta-` |
 | **developer** | /dɪˈveləpər/ | `-lop-` 中的 `-lo-` |
 
-深入：[[1000-hours/sounds-of-american-english/3.1.1-ə|1000h · 3.1.1 ə/ɚ/ɝ]] · [[learning-notes/pronunciation/syllable-division-ipa-based#62-词内重音|音节划分 · 词内重音]]
+深入：[1000h · 3.1.1 ə/ɚ/ɝ](https://1000h.org/sounds-of-american-english/3.1.1-ə.html) · [[learning-notes/pronunciation/syllable-division-ipa-based#62-词内重音|音节划分 · 词内重音]]
 
 ### 1.4 美式标注速查
 
@@ -89,7 +89,7 @@ aliases:
 
 ### 2.1 学习用元音地图
 
-> 这是学习用简化表，不是完整音系论文。完整符号表见 [[1000-hours/sounds-of-american-english/1.1-phonemes|1000h · 1.1 音素与音标]]。
+> 这是学习用简化表，不是完整音系论文。完整符号表见 [1000h · 1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html)。
 
 | 组别 | 音标 | 技术 / 职场例词 | 阿泽要点 |
 | --- | --- | --- | --- |
@@ -217,15 +217,15 @@ aliases:
 
 ### 5.2 1000h 语音教程
 
-- [[1000-hours/sounds-of-american-english/0-intro|语音塑造]] —— 为什么要熟悉音标。
-- [[1000-hours/sounds-of-american-english/1.1-phonemes|音素与音标]] —— CEPD 体系、英美音素表。
-- [[1000-hours/sounds-of-american-english/3-details|音素详解]] —— 英美音素数量与练习提醒。
+- [语音塑造](https://1000h.org/sounds-of-american-english/0-intro.html) —— 为什么要熟悉音标。
+- [音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html) —— CEPD 体系、英美音素表。
+- [音素详解](https://1000h.org/sounds-of-american-english/3-details.html) —— 英美音素数量与练习提醒。
 
 ### 5.3 原书与新版草稿
 
-- [[book/chapter3|《人人都能用英语》第三章 · 语音]] —— 音标学习策略、语速、停顿、浊化、失爆、同化。
-- [[new-edition-drafts/英文语音简明教程|英文语音简明教程]] —— D.J. / K.K. / IPA、元音共鸣位置、辅音舌尖位置。
-- [[new-edition-drafts/第一轮讲解/15-元音辅音|元音辅音]] —— 为什么先抓元音，再处理少数关键辅音。
+- [《人人都能用英语》第三章 · 语音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) —— 音标学习策略、语速、停顿、浊化、失爆、同化。
+- [英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) —— D.J. / K.K. / IPA、元音共鸣位置、辅音舌尖位置。
+- [元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md) —— 为什么先抓元音，再处理少数关键辅音。
 
 ---
 

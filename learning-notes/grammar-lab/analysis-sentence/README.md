@@ -12,7 +12,7 @@ aliases:
 
 **索引：** [[learning-notes/grammar-lab/README|语法实验室索引]]
 
-**原理出处：** [[new-edition-drafts/第一轮讲解/17-疯狂输入|第一轮讲解 17 · 疯狂输入]] ——「写个 Python 脚本调用 spaCy 模块，瞬间帮你分析清楚整个句子的结构」；书稿附录 notebook：`new-edition-drafts/jupyter-notebooks/spaCy.ipynb`。
+**原理出处：** [第一轮讲解 17 · 疯狂输入](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/17-%E7%96%AF%E7%8B%82%E8%BE%93%E5%85%A5.md) ——「写个 Python 脚本调用 spaCy 模块，瞬间帮你分析清楚整个句子的结构」；书稿附录 notebook：[spaCy.ipynb](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/jupyter-notebooks/spaCy.ipynb)。
 
 **本页目的：** 任何一句读不懂的英文长句，丢进本目录，一条命令得到 **词性标注 + 依存关系 + 主句谓语(ROOT) + 依存结构图**，然后自己把「枝叶」摘掉、留下「主干」。
 

@@ -9,7 +9,7 @@ aliases:
 
 # tv-series · 影视学英语索引
 
-**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（[[book/chapter8|《人人都能用英语》ch.8 §6]]）  
+**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（[《人人都能用英语》ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)）  
 **个人材料书：** [[learning-notes/personal-english-book/README|personal-english-book]]
 
 ---

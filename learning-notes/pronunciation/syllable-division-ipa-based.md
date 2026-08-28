@@ -15,9 +15,9 @@ aliases:
 
 **索引：** [[learning-notes/pronunciation/README|发音资料索引]]
 
-**来源：** 李笑来《人人都能用英语》第三章 —— [[book/chapter3|chapter3]]（§11 音节划分 L227–251；§8 停顿 L160–174；§12 强读弱读 L253–292）
+**来源：** 李笑来《人人都能用英语》第三章 —— [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)（§11 音节划分 L227–251；§8 停顿 L160–174；§12 强读弱读 L253–292）
 
-**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词 · 重音与强弱读]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子 · 强读弱读]]
+**相关：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写 · IPA 成分表]] · 1000h [4.2 单词 · 重音与强弱读](https://1000h.org/sounds-of-american-english/4.2-words.html) · [4.5 句子 · 强读弱读](https://1000h.org/sounds-of-american-english/4.5-sentences.html)
 
 ---
 
@@ -58,7 +58,7 @@ aliases:
 
 以下均为**单音节**词；结构用 **C** = 辅音、**V** = 元音表示。
 
-> [[book/chapter3|ch.3 §11]]：而多音节单词，就用以上的模式去套，看看能够划分出多少个合乎以上模式的音节出来 —— **辅助原则很简单：多音节的单词，除了最后一个音节之外，基本上是以上 9 种之中的前 5 种居多。**
+> [ch.3 §11](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)：而多音节单词，就用以上的模式去套，看看能够划分出多少个合乎以上模式的音节出来 —— **辅助原则很简单：多音节的单词，除了最后一个音节之外，基本上是以上 9 种之中的前 5 种居多。**
 
 | # | 结构 | 例词 | IPA | 简中 |
 | --- | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ aliases:
 | **句内** | 弱读 | weak form | 句子里读得很轻的功能词（冠词、介词、助动词…） |
 
 > **原书区分（ch.3 §12）：** 音节强弱用「重音 / 次重音 / 非重音 / 重读」；整词在句中的强弱用「**强读**」与「**弱读**」。  
-> **1000h（[[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]]）：** 词典音标是**强读式**；自然语流里多数词是**弱读式**。
+> **1000h（[4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html)）：** 词典音标是**强读式**；自然语流里多数词是**弱读式**。
 
 ### 6.2 IPA 重音标记
 
@@ -166,7 +166,7 @@ aliases:
 | 例 | **sys** /ˈsɪ/ in *system* | **tem** /stəm/ |
 | 例 | **na** /ˈnæ/ in *analysis* | 其余 /əˈnæl-ə-sɪs/ |
 
-> **口诀：** 重读音节元音发「本音」或长音；非重读多向 **schwa** /ə/ 靠拢（见 [[1000-hours/sounds-of-american-english/3.1.1-ə|3.1.1 ə]]）。
+> **口诀：** 重读音节元音发「本音」或长音；非重读多向 **schwa** /ə/ 靠拢（见 [3.1.1 ə](https://1000h.org/sounds-of-american-english/3.1.1-ə.html)）。
 
 **重音改变词义 / 词性（1000h 4.2.1）：**
 
@@ -215,7 +215,7 @@ aliases:
 
 #### 6.4.4 衍生词：必须重新查
 
-同一词族重音**不会自动继承**（[[book/chapter3#9-很多的时候其实并不是不准而是干脆错了|ch.3 §9]]）：
+同一词族重音**不会自动继承**（[ch.3 §9](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#9-很多的时候其实并不是不准而是干脆错了)）：
 
 | 词族 | 词 | IPA | 易错点 |
 | --- | --- | --- | --- |
@@ -261,7 +261,7 @@ aliases:
 | **to** | /tuː/ | /tə/ |
 | **you** | /juː/ | /jə/ |
 
-> 完整列表见 [[book/chapter3|chapter3]] §12；句级讲解见 [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子]]。
+> 完整列表见 [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) §12；句级讲解见 [4.5 句子](https://1000h.org/sounds-of-american-english/4.5-sentences.html)。
 
 ### 6.6 与音节划分怎么配合
 
@@ -276,7 +276,7 @@ aliases:
 | 句内强弱 | §6.5 |
 | 输入 ˈˌ | [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] |
 | 工程师词表 | [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] |
-| 跟读材料 | 1000h [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] 多音节词列表 |
+| 跟读材料 | 1000h [4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html) 多音节词列表 |
 
 ---
 
@@ -301,4 +301,4 @@ aliases:
 
 ## 索引
 
-[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子节奏 · 按句型]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [[book/chapter3|《人人都能用英语》第三章]] · [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
+[[learning-notes/pronunciation/README|发音资料索引]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/sentence-rhythm-by-type|句子节奏 · 按句型]] · [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] · [《人人都能用英语》第三章](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · [1000h · 4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html)

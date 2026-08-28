@@ -34,10 +34,10 @@ aliases:
 
 **源文档（仓库内）：**
 
-- [[book/chapter3|《人人都能用英语》第三章 · 语音]] —— 策略、停顿、连读、浊化、失爆、同化、跟读步骤
-- [[new-edition-drafts/英文语音简明教程|英文语音简明教程]] —— D.J. / K.K. / IPA、元音共鸣位置、辅音舌尖位置、韵律
-- [[new-edition-drafts/第一轮讲解/15-元音辅音|元音辅音]] —— 为什么先元音后辅音、国人优先级
-- [[1000-hours/sounds-of-american-english/0-intro|1000h · 语音塑造]] · [[1000-hours/sounds-of-american-english/1.1-phonemes|1.1 音素与音标]] · [[1000-hours/sounds-of-american-english/3-details|3 音素详解]]
+- [《人人都能用英语》第三章 · 语音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) —— 策略、停顿、连读、浊化、失爆、同化、跟读步骤
+- [英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) —— D.J. / K.K. / IPA、元音共鸣位置、辅音舌尖位置、韵律
+- [元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md) —— 为什么先元音后辅音、国人优先级
+- [1000h · 语音塑造](https://1000h.org/sounds-of-american-english/0-intro.html) · [1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html) · [3 音素详解](https://1000h.org/sounds-of-american-english/3-details.html)
 
 ---
 
@@ -47,15 +47,15 @@ aliases:
 
 > 字母 → 音标 → 音素 → 音节 → 词汇 → 句子 → 阅读
 
-本仓库推荐的顺序（摘自 [[new-edition-drafts/第一轮讲解/15-元音辅音|元音辅音]]）：
+本仓库推荐的顺序（摘自 [元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md)）：
 
 > 开口 → 句子 → 停顿 / 音高 → 轻重强弱 → 音节 → 音素 → ……
 
 **要点：**
 
 - **顺序即策略** —— 注意力是单线程的；先抓对「更重要」的层，再在语流里微调音素。
-- **停顿与韵律** 往往比「每个音素都完美」更影响可懂度（ToBI 等研究；见 [[book/chapter3#8-比连读更重要的是停顿|ch.3 §8]]）。
-- 进入音素层后：**先元音，后辅音** —— 元音是音节的「核」；元音错更伤理解，辅音错多表现为口音（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]] 阿诺德·施瓦辛格例子）。
+- **停顿与韵律** 往往比「每个音素都完美」更影响可懂度（ToBI 等研究；见 [ch.3 §8](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#8-比连读更重要的是停顿)）。
+- 进入音素层后：**先元音，后辅音** —— 元音是音节的「核」；元音错更伤理解，辅音错多表现为口音（[15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md) 阿诺德·施瓦辛格例子）。
 - **不要因音素不完美而停滞** —— 音素级微调需要长期重复，但阅读、跟读、输出应并行（同上）。
 
 **本教程章节与 ch.3 对照：**
@@ -77,7 +77,7 @@ aliases:
 
 ### I.1 发音重要，但不是唯一
 
-发音影响第一印象与听力输入效率，但**流利度、词汇量、逻辑组织**同样决定沟通成败（[[book/chapter3#1-发音很重要但显然不是最重要的|ch.3 §1]]）。
+发音影响第一印象与听力输入效率，但**流利度、词汇量、逻辑组织**同样决定沟通成败（[ch.3 §1](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#1-发音很重要但显然不是最重要的)）。
 
 ### I.2 成年人完全可以改善
 
@@ -85,9 +85,9 @@ aliases:
 
 ### I.3 放慢语速 —— 国人高频问题
 
-中文韵母等长、音节均匀；英文有长短元音、词首词尾辅音簇，整体容易**读过快**（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]] § 语速）。
+中文韵母等长、音节均匀；英文有长短元音、词首词尾辅音簇，整体容易**读过快**（[15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md) § 语速）。
 
-> 摘自 [[book/chapter3#7-放慢你的语速|ch.3 §7]]：**「快」和「流利」不是一回事。** 听外语时，往往不是「因为人家说得太快所以我才听不懂」，而是「因为我听不懂所以才觉得人家说得太快」—— 例如句中出现不认识的词 *idiosyncratic*，大脑还在猜词义，讲话者已经说下去了，你就觉得「漏掉了信息、说得太快」。
+> 摘自 [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#7-放慢你的语速)：**「快」和「流利」不是一回事。** 听外语时，往往不是「因为人家说得太快所以我才听不懂」，而是「因为我听不懂所以才觉得人家说得太快」—— 例如句中出现不认识的词 *idiosyncratic*，大脑还在猜词义，讲话者已经说下去了，你就觉得「漏掉了信息、说得太快」。
 
 **国人典型读法 vs 目标读法：**
 
@@ -101,13 +101,13 @@ aliases:
 
 - 长元音够长，双元音够饱满
 - 辅音簇（如 **strict** /strɪkt/）留出时长 —— 中文声母都是单辅音、韵母末尾少辅音，*strict* 开头 *str*、结尾 *kt* 都要占时长
-- 「外国人说话快」常是**听不懂的幻觉** —— 语流里有意群、强弱、停顿（[[book/chapter3#7-放慢你的语速|ch.3 §7]]）
+- 「外国人说话快」常是**听不懂的幻觉** —— 语流里有意群、强弱、停顿（[ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#7-放慢你的语速)）
 
 ### I.4 停顿比连读更重要
 
-先学会在**意群之间、句内**适当停顿，再追求连读流畅（[[book/chapter3#8-比连读更重要的是停顿|ch.3 §8]]）。
+先学会在**意群之间、句内**适当停顿，再追求连读流畅（[ch.3 §8](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#8-比连读更重要的是停顿)）。
 
-> 摘自 [[book/chapter3#8-比连读更重要的是停顿|ch.3 §8]]：重音音节**之前**常有一个停顿（可短可夸张）。练习时在重音前故意停一下，重音会更清楚。
+> 摘自 [ch.3 §8](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#8-比连读更重要的是停顿)：重音音节**之前**常有一个停顿（可短可夸张）。练习时在重音前故意停一下，重音会更清楚。
 
 **词内停顿练习（`|` = 故意停顿）：**
 
@@ -126,7 +126,7 @@ aliases:
 
 ### I.5 音标五项能力
 
-摘自 [[1000-hours/sounds-of-american-english/0-intro|1000h · 语音塑造]]：
+摘自 [1000h · 语音塑造](https://1000h.org/sounds-of-american-english/0-intro.html)：
 
 1. 看到音标 → 说出音素  
 2. 听到音素 → 写出音标  
@@ -142,9 +142,9 @@ aliases:
 
 ### II.1 音素与音标
 
-**音素（phoneme）** 是语流中不可再分的声音单位；**音标** 是记录符号。英文音素分**元音**与**辅音**两大类（[[1000-hours/sounds-of-american-english/1.1-phonemes|1.1 音素与音标]]）。
+**音素（phoneme）** 是语流中不可再分的声音单位；**音标** 是记录符号。英文音素分**元音**与**辅音**两大类（[1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html)）。
 
-数量级（[[1000-hours/sounds-of-american-english/3-details|3 音素详解]]）：
+数量级（[3 音素详解](https://1000h.org/sounds-of-american-english/3-details.html)）：
 
 | 体系 | 元音 | 辅音 | 合计 |
 |------|------|------|------|
@@ -153,15 +153,15 @@ aliases:
 
 ### II.2 D.J.、K.K. 与 IPA
 
-权威词典多用 **D.J.**（剑桥、牛津、朗文、柯林斯等）。**K.K.** 常见于部分美式教材；**IPA** 为国际通用符号。工程师日常查词：**固定一个主词典**，见 IPA 即可，不必混用三套（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]] §2.4；[[learning-notes/pronunciation/engineer-phonetics-reference#13-schwa-ə弱读元音央元音|schwa §1.3]] · [[learning-notes/pronunciation/engineer-phonetics-reference#14-美式标注速查|速查 · §1.4]]）。
+权威词典多用 **D.J.**（剑桥、牛津、朗文、柯林斯等）。**K.K.** 常见于部分美式教材；**IPA** 为国际通用符号。工程师日常查词：**固定一个主词典**，见 IPA 即可，不必混用三套（[英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) §2.4；[[learning-notes/pronunciation/engineer-phonetics-reference#13-schwa-ə弱读元音央元音|schwa §1.3]] · [[learning-notes/pronunciation/engineer-phonetics-reference#14-美式标注速查|速查 · §1.4]]）。
 
 ### II.3 「纠正」还是「新建」
 
-母语发音方式**没有错**；学外语是在大脑里**新建**神经元连接，而非「删掉旧的」（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]]）。成年人听不出某些对立，是大脑过滤 + 可塑性仍可突破（[[1000-hours/sounds-of-american-english/3-details|3 音素详解]]）。
+母语发音方式**没有错**；学外语是在大脑里**新建**神经元连接，而非「删掉旧的」（[15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md)）。成年人听不出某些对立，是大脑过滤 + 可塑性仍可突破（[3 音素详解](https://1000h.org/sounds-of-american-english/3-details.html)）。
 
 ### II.4 别想当然读词 —— ch.3 经典反例
 
-> 摘自 [[book/chapter3#9-很多的时候其实并不是不准而是干脆错了|ch.3 §9]]：很多「发音不好」不是音素不标准，而是**整个词读错了**。
+> 摘自 [ch.3 §9](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#9-很多的时候其实并不是不准而是干脆错了)：很多「发音不好」不是音素不标准，而是**整个词读错了**。
 
 | 词 | 想当然误读 | 正确 IPA | 教训 |
 |----|-----------|----------|------|
@@ -173,13 +173,13 @@ aliases:
 | **penalize** | /ˈpenəlaɪz/（沿 penalty 猜） | /ˈpɪnəlaɪz/ | 衍生词也要查 |
 | **economics** | 与 economy 同读 /ɪ/ | 首音节 /e/ | economy /ɪ/，economics /e/ |
 
-**标注技巧（不必每次抄完整音标）：** *façade* 在 ç 旁标 /s/、第二 a 标 /ɑː/；*resumé* 在最后一个 e 标 /ˈeɪ/；*debt* 在 b 上划一道表示不发音（[[book/chapter3#10-一定要学会音标|ch.3 §10]]）。
+**标注技巧（不必每次抄完整音标）：** *façade* 在 ç 旁标 /s/、第二 a 标 /ɑː/；*resumé* 在最后一个 e 标 /ˈeɪ/；*debt* 在 b 上划一道表示不发音（[ch.3 §10](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#10-一定要学会音标)）。
 
 ---
 
 ## Part III · 元音（优先）
 
-**调节轴：口腔内气流共鸣位置**（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]] · [[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]]）。
+**调节轴：口腔内气流共鸣位置**（[英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) · [15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md)）。
 
 ### III.1 国人优先级速览
 
@@ -195,8 +195,8 @@ aliases:
 ### III.2 长短元音与双元音
 
 - 中文习惯「等长韵母」→ 英文**长元音 / 双元音必须拉长**（Part I §I.3）。
-- **ʌ** 与 **æ** 专章：[[book/chapter3#20-元音ʌ和æ|ch.3 §20]]
-- 双元音：[[book/chapter3#21-双元音|ch.3 §21]]
+- **ʌ** 与 **æ** 专章：[ch.3 §20](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#20-元音ʌ和æ)
+- 双元音：[ch.3 §21](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#21-双元音)
 
 **ch.3 §20 练习句：**
 
@@ -210,17 +210,17 @@ aliases:
 1. 张嘴夸张读三遍 /a/，每遍略长、升调，遍与遍之间略停
 2. 第四遍嘴唇不动，仅靠小舌滑动：/a/ 长 → 滑向 /ɪ/，整体降调
 
-完整元音表与美式符号：[[learning-notes/pronunciation/engineer-phonetics-reference#2-元音-vowels|工程师音标速查 · §2]] · [[1000-hours/sounds-of-american-english/1.1-phonemes|1.1 音素与音标]]
+完整元音表与美式符号：[[learning-notes/pronunciation/engineer-phonetics-reference#2-元音-vowels|工程师音标速查 · §2]] · [1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html)
 
 ### III.3 外部工具
 
-[Iowa Sounds of Speech](https://soundsofspeech.uiowa.edu/) —— 口型与发音部位示范（[[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]] 推荐）。
+[Iowa Sounds of Speech](https://soundsofspeech.uiowa.edu/) —— 口型与发音部位示范（[15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md) 推荐）。
 
 ---
 
 ## Part IV · 辅音
 
-**调节轴：舌尖起始位置**（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]] · [[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]]）。
+**调节轴：舌尖起始位置**（[英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) · [15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md)）。
 
 ### IV.1 国人需额外关注的辅音
 
@@ -229,16 +229,16 @@ aliases:
 | **θ / ð** | 舌尖贴上齿后（不必严格夹齿） | *think*, *this* |
 | **t, d, s, z** | 舌尖比中文声母**略高**（贴龈 / 近龈） | *student*, *students* |
 | **v** | 上齿轻触下唇 | *very*, *value* |
-| **l**（词尾） | 连读与音节尾常难点 | [[book/chapter3#14-攻克所谓连读从辅音l做起|ch.3 §14]] |
+| **l**（词尾） | 连读与音节尾常难点 | [ch.3 §14](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#14-攻克所谓连读从辅音l做起) |
 | **ʒ** | 出现少；*vision* | 可后期再练 |
 
 多数辅音 **b p k g m n ŋ ʃ ʧ ʤ r f w h j** 等对中文使用者压力较小。
 
 ### IV.2 /t/、/d/、/s/ 精雕细琢
 
-语流中的变体多，是 Part VI 核心（[[book/chapter3#13-精雕细琢td和s|ch.3 §13]]）。
+语流中的变体多，是 Part VI 核心（[ch.3 §13](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#13-精雕细琢td和s)）。
 
-> 摘自 [[book/chapter3#13-精雕细琢td和s|ch.3 §13]]：**中文 vs 英文舌尖位置**
+> 摘自 [ch.3 §13](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#13-精雕细琢td和s)：**中文 vs 英文舌尖位置**
 
 故意拉长「踢」「打」「死」，体会中文 [t][d][s] 舌尖**贴牙齿**；英文 /t/ /d/ /s/ 起点在**上牙龈**或龈上方一点，气流阻塞更少 —— 老外说话「送气感」更强，常源于此。
 
@@ -257,7 +257,7 @@ aliases:
 
 ### IV.3 其它辅音专章
 
-[[book/chapter3#22-其它辅音θðvʒ|ch.3 §22]] · 辅音总表 [[learning-notes/pronunciation/engineer-phonetics-reference#3-辅音-consonants|速查 · §3]]
+[ch.3 §22](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#22-其它辅音θðvʒ) · 辅音总表 [[learning-notes/pronunciation/engineer-phonetics-reference#3-辅音-consonants|速查 · §3]]
 
 **词尾 /l/ 与连读（ch.3 §14）：**
 
@@ -280,16 +280,16 @@ aliases:
 
 ### V.1 音节划分
 
-自然语流以**音节**为基本单位之一（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]]）。划分规则与 ch.3 原文：
+自然语流以**音节**为基本单位之一（[英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)）。划分规则与 ch.3 原文：
 
 - 操作步骤、九大结构、工程师示例词 → [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
-- 原书论述 → [[book/chapter3#11-音节的划分|ch.3 §11]]
+- 原书论述 → [ch.3 §11](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#11-音节的划分)
 
 ### V.2 词重音与句内强弱读
 
 - 词内：**主重音**位置错误会直接导致「听不懂」（*record* 名词 vs 动词）
-- 句内：功能词弱读、内容词强读 → [[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]]
-- 1000h 延伸：[[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] · [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子]]
+- 句内：功能词弱读、内容词强读 → [ch.3 §12](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#12-自然语流中的强读与弱读现象)
+- 1000h 延伸：[4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html) · [4.5 句子](https://1000h.org/sounds-of-american-english/4.5-sentences.html)
 
 **同一词两次出现 —— *community* 强读 vs 弱读：**
 
@@ -310,7 +310,7 @@ aliases:
 
 ## Part VI · 语流中的辅音变化
 
-以 **/t/** 为主线（[[book/chapter3#18-总结一下t|ch.3 §18]]）：
+以 **/t/** 为主线（[ch.3 §18](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#18-总结一下t)）：
 
 | 现象 | 说明 | ch.3 |
 |------|------|------|
@@ -340,9 +340,9 @@ aliases:
 
 → **按句型练节奏：** [[learning-notes/pronunciation/sentence-rhythm-by-type|句子发音节奏 · 按句型]]（陈述 / 疑问 / 祈使 / 感叹 + 职场 / 亲子例句）
 
-- **技巧加重点：「声调」** —— 句重音与 pitch accent（[[book/chapter3#19-技巧加重点声调|ch.3 §19]]）
-- **音调 Pitch**（[[book/chapter3#23-音调pitch|ch.3 §23]]）
-- 新版教程：**高低起伏轻重缓急** 八字诀（[[new-edition-drafts/英文语音简明教程|英文语音简明教程]]）
+- **技巧加重点：「声调」** —— 句重音与 pitch accent（[ch.3 §19](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#19-技巧加重点声调)）
+- **音调 Pitch**（[ch.3 §23](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#23-音调pitch)）
+- 新版教程：**高低起伏轻重缓急** 八字诀（[英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)）
 
 练习时同时关注：
 
@@ -373,11 +373,11 @@ aliases:
 
 ### VIII.1 第一次全面练习
 
-[[book/chapter3#24-第一次全面练习|ch.3 §24]] —— 含大量示例句；可与 [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] 对照。
+[ch.3 §24](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#24-第一次全面练习) —— 含大量示例句；可与 [[learning-notes/pronunciation/vocabulary-tricky-pronunciation-149|易读错词汇 149]] 对照。
 
 ### VIII.2 跟读训练步骤
 
-[[book/chapter3#26-跟读训练具体步骤|ch.3 §26]]：
+[ch.3 §26](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#26-跟读训练具体步骤)：
 
 1. 选材料（有文本 + 优质音频）  
 2. 先听全文，再分句  
@@ -388,11 +388,11 @@ aliases:
 
 ### VIII.3 口音与外教
 
-[[book/chapter3#25-关于口音和外教|ch.3 §25]] —— 可懂度优先；不必追求「零口音」。
+[ch.3 §25](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#25-关于口音和外教) —— 可懂度优先；不必追求「零口音」。
 
 ### VIII.4 要求不能过低
 
-[[book/chapter3#27-浪费生命的重要原因要求过低|ch.3 §27]] —— 音素层与语流层并行推进。
+[ch.3 §27](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#27-浪费生命的重要原因要求过低) —— 音素层与语流层并行推进。
 
 ### VIII.5 工程师词表与易错词
 
@@ -405,13 +405,13 @@ aliases:
 
 | 章节 | 内容 |
 |------|------|
-| [[1000-hours/sounds-of-american-english/0-intro|0 语音塑造]] | 目标与音标能力 |
-| [[1000-hours/sounds-of-american-english/1.1-phonemes|1.1 音素与音标]] | CEPD 体系、音素表 |
-| [[1000-hours/sounds-of-american-english/3-details|3 音素详解]] | 数量、难点、可塑性 |
-| [[1000-hours/sounds-of-american-english/4.2-words|4.2 单词]] | 重音、强弱读 |
-| [[1000-hours/sounds-of-american-english/4.5-sentences|4.5 句子]] | 句内节奏 |
+| [0 语音塑造](https://1000h.org/sounds-of-american-english/0-intro.html) | 目标与音标能力 |
+| [1.1 音素与音标](https://1000h.org/sounds-of-american-english/1.1-phonemes.html) | CEPD 体系、音素表 |
+| [3 音素详解](https://1000h.org/sounds-of-american-english/3-details.html) | 数量、难点、可塑性 |
+| [4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html) | 重音、强弱读 |
+| [4.5 句子](https://1000h.org/sounds-of-american-english/4.5-sentences.html) | 句内节奏 |
 
-（其余 1000h 章节可在站点内从 [[1000-hours/sounds-of-american-english/0-intro|语音塑造]] 目录继续。）
+（其余 1000h 章节可在站点内从 [语音塑造](https://1000h.org/sounds-of-american-english/0-intro.html) 目录继续。）
 
 ---
 
@@ -423,7 +423,7 @@ aliases:
 
 ## 附录 C · 原书 ch.3 语音示例库
 
-摘自 [[book/chapter3|《人人都能用英语》第三章]]，按主题归档；完整语流分析见 ch.3 §24。
+摘自 [《人人都能用英语》第三章](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)，按主题归档；完整语流分析见 ch.3 §24。
 
 ### C.1 中文母语：发音也「不标准」
 
@@ -486,7 +486,7 @@ ch.3 §1 自测 —— 十个词你能读标准几个？
 | 周次 | 重点 | 材料 |
 |------|------|------|
 | 1–2 | 放慢语速 + 停顿 + 听 | ch.3 §7–§8；任意 podcast |
-| 3–4 | 元音 ʌ æ ɪ + 双元音 | [[new-edition-drafts/第一轮讲解/15-元音辅音|15-元音辅音]]；Sounds of Speech |
+| 3–4 | 元音 ʌ æ ɪ + 双元音 | [15-元音辅音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%AE%B2%E8%A7%A3/15-%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3.md)；Sounds of Speech |
 | 5–6 | 辅音 θ ð v + t d s z 部位 | ch.3 §13, §22 |
 | 7–8 | 音节划分 + 词重音 | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] |
 | 9–10 | 连读 / 浊化 / 失爆 | ch.3 §14–§18 |

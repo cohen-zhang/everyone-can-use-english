@@ -1,3 +1,6 @@
+# Local archive of upstream open-source tree (not distributed)
+backup/
+
 .jupyter
 .ipynb_checkpoints
 

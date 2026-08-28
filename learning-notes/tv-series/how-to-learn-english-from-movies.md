@@ -11,7 +11,7 @@ aliases:
 
 # 看电影学英语 · 方法摘要
 
-**出处：** [[book/chapter8|《人人都能用英语》ch.8 §6]]  
+**出处：** [《人人都能用英语》ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)  
 **索引：** [[learning-notes/tv-series/README|tv-series 索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > 不是捷径；兴趣也没那么重要。真牛的是：**尽管没兴趣，但只要该学就能学会。**  

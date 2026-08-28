@@ -6,8 +6,8 @@ site_description: learning-notes（亲子 / 美剧 / 个人材料书等 Markdown
 # CI sets GITHUB_PAGES_SITE_URL; local default keeps search sane for mkdocs serve.
 site_url: !ENV [GITHUB_PAGES_SITE_URL, http://127.0.0.1:8000/]
 
-repo_url: https://github.com/ZuodaoTech/everyone-can-use-english
-edit_uri: edit/main/learning-notes/
+repo_url: https://github.com/cohen-zhang/everyone-can-use-english
+edit_uri: edit/master/learning-notes/
 
 docs_dir: learning-notes
 site_dir: site

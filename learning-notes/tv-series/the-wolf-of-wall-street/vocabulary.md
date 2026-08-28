@@ -12,7 +12,7 @@ aliases:
 
 # The Wolf of Wall Street · Vocabulary（本片词汇）
 
-**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（出自 [[book/chapter8|ch.8 §6]]）  
+**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（出自 [ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)）  
 **字幕：** [[learning-notes/tv-series/the-wolf-of-wall-street/the-wolf-of-wall-street.2013.en.srt|the-wolf-of-wall-street.2013.en.srt]] · [[learning-notes/tv-series/the-wolf-of-wall-street/the-wolf-of-wall-street.2013.scenes|scenes.md]]  
 **片目录：** [[learning-notes/tv-series/the-wolf-of-wall-street/README|README]]
 

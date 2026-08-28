@@ -28,9 +28,9 @@ aliases:
 | 词 | [[learning-notes/pronunciation/syllable-division-ipa-based#64-常见重音位置规则|音节划分 · §6.4]] | 词内重音、后缀规律 |
 | 句（通用） | [[learning-notes/pronunciation/syllable-division-ipa-based#65-句内强读与弱读|§6.5]] | 强读 / 弱读、community 例 |
 | **句（按句型）** | **本页** | 陈述 / 疑问 / 祈使 / 感叹的节奏差异 |
-| 理论延伸 | [[1000-hours/sounds-of-american-english/4.5-sentences|1000h · 4.5 句子]] · [[1000-hours/sounds-of-american-english/4.3-grouping|4.3 意群]] | pitch、声调、停/顿 |
+| 理论延伸 | [1000h · 4.5 句子](https://1000h.org/sounds-of-american-english/4.5-sentences.html) · [4.3 意群](https://1000h.org/sounds-of-american-english/4.3-grouping.html) | pitch、声调、停/顿 |
 
-**核心原则（[[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]]）：**
+**核心原则（[ch.3 §12](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#12-自然语流中的强读与弱读现象)）：**
 
 > 不能像词典一样逐词等重读；也不能以相同速度读每个音节。  
 > **节奏对了，口音重一点仍可听懂；节奏不对，音素再「标准」也显外国腔。**
@@ -39,17 +39,17 @@ aliases:
 
 ## 2. 节奏五要素
 
-摘自 [[new-edition-drafts/英文语音简明教程|英文语音简明教程]]「高低起伏轻重缓急」与 [[1000-hours/sounds-of-american-english/4.5-sentences|1000h · 4.5.6]]：
+摘自 [英文语音简明教程](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/new-edition-drafts/%E8%8B%B1%E6%96%87%E8%AF%AD%E9%9F%B3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)「高低起伏轻重缓急」与 [1000h · 4.5.6](https://1000h.org/sounds-of-american-english/4.5-sentences.html)：
 
 | 要素 | 英文 | 要点 | 延伸阅读 |
 |------|------|------|----------|
-| **停** | pause | 意群之间较长空隙，可换气；断句影响意义 | [[1000-hours/sounds-of-american-english/4.3-grouping#432-停暂停-pause|4.3.2 停]] |
-| **顿** | stop | 音节 / 词内极短空隙；失爆、连读前常见 | [[1000-hours/sounds-of-american-english/4.3-grouping#433-顿停顿-stop|4.3.3 顿]] |
+| **停** | pause | 意群之间较长空隙，可换气；断句影响意义 | [4.3.2 停](https://1000h.org/sounds-of-american-english/4.3-grouping.html#432-停暂停-pause) |
+| **顿** | stop | 音节 / 词内极短空隙；失爆、连读前常见 | [4.3.3 顿](https://1000h.org/sounds-of-american-english/4.3-grouping.html#433-顿停顿-stop) |
 | **轻重** | accent / weak | 内容词强读，功能词弱读 → schwa | [[learning-notes/pronunciation/syllable-division-ipa-based#65-句内强读与弱读|§6.5]] |
-| **起伏** | intonation | 重音音节上的平 / 升 / 降调 | [[book/chapter3#19-技巧加重点声调|ch.3 §19]] |
-| **缓急** | tempo | 强调词放慢，弱读词压缩 | [[1000-hours/sounds-of-american-english/4.5-sentences|4.5.6 语速]] |
+| **起伏** | intonation | 重音音节上的平 / 升 / 降调 | [ch.3 §19](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#19-技巧加重点声调) |
+| **缓急** | tempo | 强调词放慢，弱读词压缩 | [4.5.6 语速](https://1000h.org/sounds-of-american-english/4.5-sentences.html) |
 
-**Step-up-and-step-down（[[book/chapter3#23-音调pitch|ch.3 §23]]）：** 每个意群里，**第一个被强读的词**的重音音节 pitch 抬高，随后音节逐步降低——不必等整句开头。
+**Step-up-and-step-down（[ch.3 §23](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#23-音调pitch)）：** 每个意群里，**第一个被强读的词**的重音音节 pitch 抬高，随后音节逐步降低——不必等整句开头。
 
 **标记符号（跟读用）：**
 
@@ -79,7 +79,7 @@ aliases:
 
 | 场景 | 句子 | 节奏提示 |
 |------|------|----------|
-| 通用 | **Community** **service** is an **important** **component** of **education** **here** at our **university**. | 经典跟读段；第二处 *community* 弱读 → [[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]] |
+| 通用 | **Community** **service** is an **important** **component** of **education** **here** at our **university**. | 经典跟读段；第二处 *community* 弱读 → [ch.3 §12](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#12-自然语流中的强读与弱读现象) |
 | 职场 | The **deploy** failed at **midnight**. | *The* /ðə/ · *at* /ət/；**deploy**、**midnight** 拉长 |
 | 亲子 | The **ceramic** bowl is **hot**. | **ceramic** /sə-ˈræm-ɪk/ 词重音在第二音节；**hot** 句末降调 |
 
@@ -176,7 +176,7 @@ aliases:
 
 ## 4. 对比重音 · 同一句话，强调不同词
 
-摘自 [[1000-hours/sounds-of-american-english/4.5-sentences#452-强读词汇|1000h · 4.5.2]]：陈述句节奏不只由「句型」决定，还由**信息焦点**决定。
+摘自 [1000h · 4.5.2](https://1000h.org/sounds-of-american-english/4.5-sentences.html#452-强读词汇)：陈述句节奏不只由「句型」决定，还由**信息焦点**决定。
 
 **Marianna made the marmalade.** —— 四个版本，强读位置不同，含义不同：
 
@@ -199,7 +199,7 @@ aliases:
 
 ## 5. 标记与跟读工作流
 
-压缩自 [[book/chapter3#26-跟读训练具体步骤|ch.3 §26]]：
+压缩自 [ch.3 §26](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#26-跟读训练具体步骤)：
 
 ```text
 1. 精读：查生词 IPA + 词重音
@@ -210,9 +210,9 @@ aliases:
 6. 慢跟读 → 正常语速 → 录音 → 隔一周再听对比
 ```
 
-**虚词弱读表：** 不重复收录 → [[learning-notes/pronunciation/syllable-division-ipa-based#65-句内强读与弱读|§6.5]] · [[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]]
+**虚词弱读表：** 不重复收录 → [[learning-notes/pronunciation/syllable-division-ipa-based#65-句内强读与弱读|§6.5]] · [ch.3 §12](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#12-自然语流中的强读与弱读现象)
 
-**深度语流标注范例：** [[book/chapter3#24-第一次全面练习|ch.3 §24]]（community 整段「乐谱式」分析）
+**深度语流标注范例：** [ch.3 §24](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#24-第一次全面练习)（community 整段「乐谱式」分析）
 
 ---
 
@@ -222,9 +222,9 @@ aliases:
 |------|------------|
 | [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] | 陈述句长段 + 连读 / 弱读 |
 | [[learning-notes/pronunciation/english-phonetics-textbook#附录-c--原书-ch3-语音示例库|完整教程 · 附录 C]] | ch.3 community 主段 |
-| [[book/chapter3#24-第一次全面练习|ch.3 §24]] | 逐句 pitch / 失爆 / 连读标注 |
-| [[1000-hours/sounds-of-american-english/4.3-grouping|1000h · 4.3 意群]] | 停 vs 顿 |
-| [[1000-hours/sounds-of-american-english/4.5-sentences|1000h · 4.5 句子]] | pitch、声调、缓急全理论 |
+| [ch.3 §24](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#24-第一次全面练习) | 逐句 pitch / 失爆 / 连读标注 |
+| [1000h · 4.3 意群](https://1000h.org/sounds-of-american-english/4.3-grouping.html) | 停 vs 顿 |
+| [1000h · 4.5 句子](https://1000h.org/sounds-of-american-english/4.5-sentences.html) | pitch、声调、缓急全理论 |
 | [[learning-notes/grammar-lab/english-language-taxonomy|语法 · 句型分类]] | 写句后对照本页选节奏 |
 
 **改写练节奏（语法 + 语音）：**
@@ -244,7 +244,7 @@ aliases:
 - wh- 问句：wh- 词不能读成轻声；整体多降调收束。
 - 祈使句：动词拍要清楚（亲子 / 安全指令尤甚）。
 - 同一陈述句，换强调词 = 换节奏（§4）。
-- 节奏优先于「每个音素完美」—— [[book/chapter3#12-自然语流中的强读与弱读现象|ch.3 §12]]。
+- 节奏优先于「每个音素完美」—— [ch.3 §12](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md#12-自然语流中的强读与弱读现象)。
 
 ---
 

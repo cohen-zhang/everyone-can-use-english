@@ -7,7 +7,6 @@ on:
       - master
     paths:
       - "learning-notes/**"
-      - "book/**"
       - "mkdocs.yml"
       - "mkdocs_hooks.py"
       - "jieba_user_dict.txt"

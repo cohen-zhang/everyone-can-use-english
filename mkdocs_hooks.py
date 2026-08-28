@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import os
 import re
-import shutil
 from pathlib import Path, PurePosixPath
 
 try:
@@ -107,17 +106,6 @@ def _default_link_title(raw: str) -> str:
     return PurePosixPath(raw.replace("\\", "/")).name
 
 
-def _mirror_book_into_docs(docs_dir: Path, repo_root: Path) -> None:
-    """Mirror repo ``book/`` into ``learning-notes/book/`` so GHP can serve 人人都能用英语."""
-    src = repo_root / "book"
-    target = docs_dir / "book"
-    if not src.is_dir():
-        return
-    if target.exists():
-        shutil.rmtree(target)
-    shutil.copytree(src, target)
-
-
 def _fence_code(content: str, lang: str = "text") -> str:
     """Wrap content in a fenced code block (longer fence if body contains ```)."""
     fence = "```"
@@ -185,7 +173,6 @@ def on_config(config, **kwargs):
     if not _docs_dir.is_absolute():
         _docs_dir = _repo_root / _docs_dir
     _episode_titles = _load_episode_titles(_docs_dir)
-    _mirror_book_into_docs(_docs_dir, _repo_root)
     _generate_transcript_md_pages(_docs_dir, _episode_titles)
     return config
 
@@ -538,7 +525,6 @@ _NAV_SECTION_TITLES = {
     "Life": "life",
     "Study": "study",
     "Work": "work",
-    "Book": "book",
     "One minute drill": "one-minute-drill · 1分钟练习",
 }
 

@@ -12,7 +12,7 @@ aliases:
 
 # WALL-E · Vocabulary（本片词汇）
 
-**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（出自 [[book/chapter8|ch.8 §6]]）  
+**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（出自 [ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)）  
 **字幕：** [[learning-notes/tv-series/wall-e/wall-e.2008.en.srt|wall-e.2008.en.srt]] · [[learning-notes/tv-series/wall-e/wall-e.2008.scenes|scenes.md]]  
 **片目录：** [[learning-notes/tv-series/wall-e/README|README]]
 

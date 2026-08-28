@@ -19,7 +19,7 @@ aliases:
 > 
 > 本文档配合 [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]] 使用效果更佳。
 
-**收录来源：** 单词 APP 原表 · [[book/chapter3|《人人都能用英语》ch.3]] · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
+**收录来源：** 单词 APP 原表 · [《人人都能用英语》ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] · [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇]] · [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记]] · [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01 难词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记 · girl]] · [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]
 
 ---
 
@@ -36,7 +36,7 @@ aliases:
 | **易混淆词** | 12 对 | effect/affect, alter/altar, either/neither, chew/few, whale/wail, kale/pale, pull/pool … |
 | **国人易错模式** | 见 §0 | 元音等长、双元音汉语化、想当然拼读、重音错位、v/θ 等 |
 | **工程笔记补充** | 见 §9 | facade, specific, cache, Linux, hurray, fawning … |
-| **原书 ch.3 完整** | 见 §9.5 | [[book/chapter3|chapter3]] 全部语音示例词（含 *beach*） |
+| **原书 ch.3 完整** | 见 §9.5 | [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) 全部语音示例词（含 *beach*） |
 | **149 词全量主表** | 见 §8 | APP 导出完整清单；**主题** 列指向 §1–§7 交叉索引 |
 
 **标签说明：** 下表 **标签** 列中 **`国人易错`** = 本仓库多份笔记均指出**简中母语者**高发误读；**`已在§1–§8`** = 原 149 词表已有，此处只补国人误读说明与出处。**§8** 为 149 词全量主表；**§1–§7** 为按难点类型的主题索引（词条可重复出现）。
@@ -45,22 +45,22 @@ aliases:
 
 ## 0. 中国人常见误读模式（简中母语者）
 
-摘自 [[book/chapter3|chapter3]] §7–§9、[[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]；与亚洲语系「每字等长」习惯有关。
+摘自 [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) §7–§9、[[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音]]；与亚洲语系「每字等长」习惯有关。
 
 | 模式 | 国人常犯 | 正确方向 | 例词 |
 | --- | --- | --- | --- |
 | **元音等长** | 每个音节元音读成一样长、整体偏快 | 长元音 / 双元音要够长；短元音 /æ/ 勿缩成 /e/ | *apple* 勿成 epple；*important* /ɪmˈpɔːrtənt/ 非 /ɪmpɔtənt/ |
-| **/iː/ vs /ɪ/** | 长元音读短会改变词义 | *beach* 要够长，勿近 *bitch* /bɪtʃ/ | *beach* /biːtʃ/（[[book/chapter3|ch.3 §7]]） |
-| **/æ/ vs /e/** | 短元音混淆 | 听 *ab* /æb/ 与 *ebb* /eb/ 对比 | [[book/chapter3|ch.3 §7]] · §9.5 |
+| **/iː/ vs /ɪ/** | 长元音读短会改变词义 | *beach* 要够长，勿近 *bitch* /bɪtʃ/ | *beach* /biːtʃ/（[ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)） |
+| **/æ/ vs /e/** | 短元音混淆 | 听 *ab* /æb/ 与 *ebb* /eb/ 对比 | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · §9.5 |
 | **双元音汉语化** | /aɪ/ 读成中文「爱」；/oʊ/ 拖成单韵母 | 滑音饱满、两拍 | *ice* /aɪs/；*own* /oʊn/ |
 | **短元音 /ɪ/** | 用汉语「衣」长音代替 /ɪ/ | 短、松、不拉长 | *kid* /kɪd/ · *pig* /pɪɡ/（[[learning-notes/pronunciation/world-cinema-quick-notes|电影随记]]） |
 | **想当然拼读** | 按字母猜读音，不查 IPA | 每个生词查音标 + 标重音 | *facade* · *specific* · *create*（见 §9.1） |
 | **重音错位** | 衍生词沿用错重音；多音节当单音节 | 查词典主重音 `ˈ`；*penalty* ≠ *penalize* | *developer* · *analysis*（§3） |
 | **辅音替代** | /v/ 读成 /w/；*th* 读成 /s/ 或 /f/ | 上齿轻咬下唇发 /v/；*th* 分清浊 | *video* 非 bideo；*either* 用浊 [[ð]] 非 /θ/·/s/ |
-| **儿化 / 卷舌过度** | 非重读 /ə/ 一律读成 /ɚ/ | 非重读 schwa 不带儿化 | *focus* /ˈfoʊkəs/ 非 /ˈfoʊkɚs/（1000h [[1000-hours/sounds-of-american-english/3.1.1-ə|3.1.1 ə]]） |
+| **儿化 / 卷舌过度** | 非重读 /ə/ 一律读成 /ɚ/ | 非重读 schwa 不带儿化 | *focus* /ˈfoʊkəs/ 非 /ˈfoʊkɚs/（1000h [3.1.1 ə](https://1000h.org/sounds-of-american-english/3.1.1-ə.html)） |
 | **词尾 -l** | *girl* 读成 /ɡoʊ/ 或纯卷舌 | 舌尖抵齿龈发 /l/ + 中央元音 | *girl* /ɡɜːrl/（[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|佩奇笔记]]） |
 
-> **原书提醒：** 错音往往「自己听不出、别人一听就知」——宜录下自己的朗读与词典对照（[[book/chapter3|ch.3 §9]]）。
+> **原书提醒：** 错音往往「自己听不出、别人一听就知」——宜录下自己的朗读与词典对照（[ch.3 §9](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)）。
 
 ---
 
@@ -199,7 +199,7 @@ aliases:
 | --- | --- | --- |
 | **清辅音** | voiceless / unvoiced consonant | 声带不振动，如 /p/ /t/ /k/ /s/ |
 | **浊辅音** | voiced consonant | 声带振动，如 /b/ /d/ /g/ /z/ |
-| **浊化** | voicing | 语流中清辅音接近浊辅音，如 /t/ → /t̬/（见 [[book/chapter3|ch.3 §15]]） |
+| **浊化** | voicing | 语流中清辅音接近浊辅音，如 /t/ → /t̬/（见 [ch.3 §15](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)） |
 
 | 序号 | 单词 | 音标 | 释义 | 发音变化 | 发音提示 |
 |-----|------|------|------|---------|---------|
@@ -396,28 +396,28 @@ aliases:
 
 下列词条来自本仓库笔记，**未全部**出现在 §1–§8 原 149 表中；与上表重复者见 **标签** 列。
 
-### 9.1 原书 · 想当然拼读（[[book/chapter3|ch.3 §9]]）
+### 9.1 原书 · 想当然拼读（[ch.3 §9](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)）
 
 > 国内大学生「五个词至少错三个」：**cellist · facade · heir · niche · specific**（李笑来原书列举）。
 
 | 单词 | IPA | 国人常误读 ❌ | 简中 | 标签 | 出处 |
 | --- | --- | --- | --- | --- | --- |
-| **facade** / **façade** | /fəˈsɑːd/ | /ˈfækeɪd/ 按字母硬拼 | 门面；表面 | 国人易错 | [[book/chapter3|ch.3]] |
-| **specific** | /spəˈsɪfɪk/ | /ˈspesɪfɪk/ | 具体的 | 国人易错 | [[book/chapter3|ch.3]] |
-| **cellist** | /ˈtʃelɪst/ | /ˈselɪst/ 或忽略 double l | 大提琴手 | 国人易错 | [[book/chapter3|ch.3]] |
-| **heir** | /er/ | 读出 h 音 | 继承人 | 国人易错、不发音 h | [[book/chapter3|ch.3]] |
-| **niche** | /niːʃ/ 或 /nɪtʃ/ | /ˈnaɪtʃ/ 按拼写猜 | 壁龛；细分领域 | 国人易错 | [[book/chapter3|ch.3]] |
-| **penalize** | /ˈpɪnəlaɪz/ | /ˈpenəlaɪz/ 照搬 *penalty* 的 /ɛ/ | 处罚 | 国人易错、重音 | [[book/chapter3|ch.3]] · 已在§3 *penalty* |
-| **economy** | /ɪˈkɑːnəmi/ | 首音节读 /e/ | 经济 | 国人易错 | [[book/chapter3|ch.3]] |
-| **economics** | /ˌiːkəˈnɑːmɪks/ | 首音节读 /ɪ/ 或重音错 | 经济学 | 国人易错 | [[book/chapter3|ch.3]] |
-| **economist** | /ɪˈkɑːnəmɪst/ | 与 economics 混 | 经济学家 | 国人易错 | [[book/chapter3|ch.3]] |
+| **facade** / **façade** | /fəˈsɑːd/ | /ˈfækeɪd/ 按字母硬拼 | 门面；表面 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **specific** | /spəˈsɪfɪk/ | /ˈspesɪfɪk/ | 具体的 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **cellist** | /ˈtʃelɪst/ | /ˈselɪst/ 或忽略 double l | 大提琴手 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **heir** | /er/ | 读出 h 音 | 继承人 | 国人易错、不发音 h | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **niche** | /niːʃ/ 或 /nɪtʃ/ | /ˈnaɪtʃ/ 按拼写猜 | 壁龛；细分领域 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **penalize** | /ˈpɪnəlaɪz/ | /ˈpenəlaɪz/ 照搬 *penalty* 的 /ɛ/ | 处罚 | 国人易错、重音 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · 已在§3 *penalty* |
+| **economy** | /ɪˈkɑːnəmi/ | 首音节读 /e/ | 经济 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **economics** | /ˌiːkəˈnɑːmɪks/ | 首音节读 /ɪ/ 或重音错 | 经济学 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **economist** | /ɪˈkɑːnəmɪst/ | 与 economics 混 | 经济学家 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
 | **create** | /kriˈeɪt/ | /kriːt/ 当单音节 | 创建 | 国人易错、音节 | [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分]] |
-| **apple** | /ˈæpl/ | /ˈepl/ 元音过短（epple） | 苹果 | 国人易错、/æ/ | [[book/chapter3|ch.3 §7]] |
-| **beach** | /biːtʃ/ | /bɪtʃ/ 元音过短（歧义近 *bitch*） | 海滩 | 国人易错、/iː/ | [[book/chapter3|ch.3 §7]] |
-| **important** | /ɪmˈpɔːrtənt/ | /ɪmpɔtənt/ 省略长元音 /ɔː/ | 重要的 | 国人易错 | [[book/chapter3|ch.3 §7]] · §3 相关 |
-| **ab** | /æb/ | 与 *ebb* /eb/ 混淆 | 腹前缀；字母组合 ab | 国人易错、/æ/ | [[book/chapter3|ch.3 §7]]（对比 *ebb*） |
-| **ebb** | /eb/ | 与 *ab* /æb/ 混淆 | 退潮；衰退 | 国人易错、/e/ | [[book/chapter3|ch.3 §7]]（对比 *ab*） |
-| **video** | /ˈvɪdioʊ/ | /ˈbɪdioʊ/ 用 b 代 v | 视频 | 国人易错 | [[book/chapter3|ch.3]] |
+| **apple** | /ˈæpl/ | /ˈepl/ 元音过短（epple） | 苹果 | 国人易错、/æ/ | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **beach** | /biːtʃ/ | /bɪtʃ/ 元音过短（歧义近 *bitch*） | 海滩 | 国人易错、/iː/ | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
+| **important** | /ɪmˈpɔːrtənt/ | /ɪmpɔtənt/ 省略长元音 /ɔː/ | 重要的 | 国人易错 | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) · §3 相关 |
+| **ab** | /æb/ | 与 *ebb* /eb/ 混淆 | 腹前缀；字母组合 ab | 国人易错、/æ/ | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)（对比 *ebb*） |
+| **ebb** | /eb/ | 与 *ab* /æb/ 混淆 | 退潮；衰退 | 国人易错、/e/ | [ch.3 §7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)（对比 *ab*） |
+| **video** | /ˈvɪdioʊ/ | /ˈbɪdioʊ/ 用 b 代 v | 视频 | 国人易错 | [ch.3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
 
 ### 9.2 工程师 · 技术词（速查 + 计科词汇）
 
@@ -481,7 +481,7 @@ aliases:
 
 ### 9.5 《人人都能用英语》ch.3 语音示例词（完整收录）
 
-下列为 [[book/chapter3|chapter3]] 中**明确作为发音示范**出现的词（含 IPA、误读描述或练习要点）。与 §9.1 重复者仍列出，便于按原书章节核对。**§9.1 已录词条**在「录录」列标注。
+下列为 [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) 中**明确作为发音示范**出现的词（含 IPA、误读描述或练习要点）。与 §9.1 重复者仍列出，便于按原书章节核对。**§9.1 已录词条**在「录录」列标注。
 
 #### §7 语速 · 元音长短
 
@@ -603,7 +603,7 @@ aliases:
 | **pass** | /pæs/ | /pɑːs/ | 同上 | 本节 |
 | **apple** | /ˈæpl/ | epple | /æ/ 近长元音长度 | §9.1 |
 
-> **核对说明：** ch.3 §20 文末另列 abduct、brush、budget … 等 **/ʌ/ 练习词**、absolute、castle、cat … 等 **/æ/ 练习词**，为跟读清单而非逐词误读案例；需要全表可打开 [[book/chapter3|chapter3]] §20 对照朗读。
+> **核对说明：** ch.3 §20 文末另列 abduct、brush、budget … 等 **/ʌ/ 练习词**、absolute、castle、cat … 等 **/æ/ 练习词**，为跟读清单而非逐词误读案例；需要全表可打开 [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) §20 对照朗读。
 
 ---
 
@@ -611,11 +611,11 @@ aliases:
 
 - [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]]
 - [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]
-- [[book/chapter3|《人人都能用英语》第三章 · 语音]]
+- [《人人都能用英语》第三章 · 语音](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md)
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting|有趣计科词汇 · 易读错命令/单词]]
 - [[learning-notes/pronunciation/world-cinema-quick-notes|世界电影随记 · 发音笔记]]
 - [[learning-notes/pronunciation/indian-english-pronunciation-guide|印度式英文发音模仿]]
-- [[1000-hours/sounds-of-american-english/4.2-words|1000h · 4.2 单词]]
+- [1000h · 4.2 单词](https://1000h.org/sounds-of-american-english/4.2-words.html)
 - [[3.2-consonants|辅音详解 Consonants]]
 - [[3.1-vowels|元音详解 Vowels]]
 - [[4-natural-speech|自然语流 Natural Speech]]
