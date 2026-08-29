@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**CALVO**（Christopher Frahm，德国）是德国 **DJ、制作人兼主唱**，活跃于电子舞曲圈。作品发行于 **Armada Music**、**Spinnin' Records** 等厂牌，风格涵盖 **future house**、**deep house** 与 festival 向 EDM。*Vicious Girl* 之前，他以 Armada Deep 上的 **"Need U"** 等曲目获得关注。Frahm 亦以 **Davis Redfield** 等别名发表作品，并为国际艺人制作 remix。其 sound 以**温暖和弦与稳定 groove** 搭配适合 club 与电台的人声 hook。
+**CALVO**（Christopher Frahm，德国）是德国 **DJ、制作人兼主唱**，活跃于电子舞曲圈。作品发行于 **Armada Music**、**Spinnin' Records** 等厂牌，风格涵盖 **future house**、**deep house** 与音乐节向电子舞曲。*Vicious Girl* 之前，他以 Armada Deep 上的 **"Need U"** 等曲目获得关注。Frahm 亦以 **Davis Redfield** 等别名发表作品，并为国际艺人制作混音版。其声线以**温暖和弦与稳定 groove** 搭配适合夜店与电台的人声钩子句。
 
 ---
 
@@ -44,7 +44,7 @@ aliases:
 
 **中文**
 
-**"Vicious Girl"** 于 **2015 年 12 月 11 日**由 **Armada Music** 发行。建立在 **future house** groove 与男声之上，歌词讲**爱即危险**：歌手把心交给 *vicious girl*——*so beautiful* 却 *a killer*——接着又说 *I know I'm not gonna die*，仿佛越危险越上头。*shoot me with that look*、*smoke without a fire* 等意象把威胁与诱惑搅在一起；*I'm losing it tonight* 写向有毒却无法抗拒的人投降。歌曲收录于 *Armada Miami 2016* 等合辑，属于 2010 年代中期 festival **deep/future house** 浪潮。
+**"Vicious Girl"** 于 **2015 年 12 月 11 日**由 **Armada Music** 发行。建立在 **future house** 律动与男声之上，歌词讲**爱即危险**：歌手把心交给 *vicious girl*——*so beautiful* 却 *a killer*——接着又说 *I know I'm not gonna die*，仿佛越危险越上头。*shoot me with that look*、*smoke without a fire* 等意象把威胁与诱惑搅在一起；*I'm losing it tonight* 写向有毒却无法抗拒的人投降。歌曲收录于 *Armada Miami 2016* 等合辑，属于 2010 年代中期音乐节 **deep/future house** 浪潮。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -134,14 +134,14 @@ Uh, I lost my heart to a vicious girl
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 哦，我把心输给了一个狠女孩
 但她太美了（美，美）
 只有和狠女孩在一起才觉得对
 她是个心狠的美人
 
-#### Verse
+#### 主歌
 
 我知道她是杀手
 但我知道我不会死
@@ -154,21 +154,21 @@ Uh, I lost my heart to a vicious girl
 
 我的狠女孩
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 哦，我把心输给了一个狠女孩（狠女孩）
 狠女孩（狠女孩）
 我的狠女孩
 哦，我把心输给了一个狠女孩
 
-#### Bridge
+#### 桥段
 
 哦我失了心，我失了心，真美
 哦我失了心，我失了心（嗯）
 哦我失了心，我失了心，真美
 哦我失了心，我失了心
 
-#### Final Chorus & Outro
+#### 终段副歌 & 尾声
 
 哦，我把心输给了一个狠女孩（嗯）
 但她太美了（美，美）
@@ -189,7 +189,7 @@ Uh, I lost my heart to a vicious girl
 
 我的狠女孩
 
-#### Outro
+#### 尾声
 
 呃，我失了心
 呃，我把心输给了一个狠女孩
@@ -218,6 +218,6 @@ Uh, I lost my heart to a vicious girl
 
 - 副歌 *Vicious girl* 重复多、旋律稳定，适合 **KTV / 跟唱**；先练清 *lost my heart to a* 的连读。
 - 歌词短但**比喻密集**（killer、plastic sun、smoke without fire），适合当作「危险吸引力」词汇包记忆。
-- 男声在 drop 前后清晰，可用来练 **losing it tonight** 的重音与 *beautiful* 尾音。
+- 男声在爆发段前后清晰，可用来练 **losing it tonight** 的重音与 *beautiful* 尾音。
 - 与 #79 [[learning-notes/english-song/breakup-loss/aint-my-fault-zara-larsson|Ain't My Fault]] 对照：两首都是舞曲壳 + 恋爱主题，但本曲偏**危险痴迷**，#79 偏**俏皮调情**。
 - 延伸恋爱口语：[[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 中 *lost my heart* 相关句型。

@@ -34,7 +34,7 @@ This track features **Hugh Grant** and **Drew Barrymore** in their roles from th
 
 **中文**
 
-本曲出自 2007 年浪漫喜剧 **《K歌情人》（Music and Lyrics）**，由 **Hugh Grant** 与 **Drew Barrymore** 以片中人声演唱。**Hugh Grant** 饰演过气 1980 年代流行歌手 **Alex Fletcher**，正努力写新歌；**Drew Barrymore** 饰演古怪填词人 **Sophie Fisher**，帮他找回创作力，也擦出恋情。片中的 **demo 版**是两人边写边唱的粗糙钢琴二重唱；故事里完成版则由 Alex 与 **Cora Corman**（Haley Bennett 饰）演唱。歌曲由 Fountains of Wayne 的 **Adam Schlesinger** 创作，他常为影视写旋律抓耳的流行歌。Grant 与 Barrymore 是演员而非职业歌手——demo 里略带瑕疵、亲密感的演唱正是电影魅力之一。
+本曲出自 2007 年浪漫喜剧 **《K歌情人》（Music and Lyrics）**，由 **Hugh Grant** 与 **Drew Barrymore** 以片中人声演唱。**Hugh Grant** 饰演过气 1980 年代流行歌手 **Alex Fletcher**，正努力写新歌；**Drew Barrymore** 饰演古怪填词人 **Sophie Fisher**，帮他找回创作力，也擦出恋情。片中的 **demo 版**是两人边写边唱的粗糙钢琴二重唱；故事里完成版则由 Alex 与 **Cora Corman**（Haley Bennett 饰）演唱。歌曲由 Fountains of Wayne 的 **Adam Schlesinger** 创作，他常为影视写旋律抓耳的流行歌。Grant 与 Barrymore 是演员而非职业歌手——小样里略带瑕疵、亲密感的演唱正是电影魅力之一。
 
 ---
 
@@ -46,7 +46,7 @@ This track features **Hugh Grant** and **Drew Barrymore** in their roles from th
 
 **中文**
 
-**"Way Back Into Love"** 是《K歌情人》的情感核心：一首抒情曲，写**心碎后走不出来**——*living with a shadow overhead*、*trapped in the past*——却渴望**重新坠入爱河**，而不是将就一个只能陪你过夜的人。歌词用轻柔隐喻（头顶阴影、床上方乌云、星星不肯亮）衬托副歌里反复的希望：*All I wanna do is find a way back into love*。片中 Alex 与 Sophie 在公寓**钢琴边即兴写歌**——她哼旋律、他配和弦，一句句对出来直到副歌成型；这支粗糙的 **demo 二重唱**（即本曲）标志着两人作为创作伙伴、也作为彼此的真正靠近，之后故事里才有 Cora Corman 演唱的完成版。原声带于 **2007 年 2 月 13 日**发行；demo 因真挚、易跟唱而深受喜爱。
+**"Way Back Into Love"** 是《K歌情人》的情感核心：一首抒情曲，写**心碎后走不出来**——*living with a shadow overhead*、*trapped in the past*——却渴望**重新坠入爱河**，而不是将就一个只能陪你过夜的人。歌词用轻柔隐喻（头顶阴影、床上方乌云、星星不肯亮）衬托副歌里反复的希望：*All I wanna do is find a way back into love*。片中 Alex 与 Sophie 在公寓**钢琴边即兴写歌**——她哼旋律、他配和弦，一句句对出来直到副歌成型；这支粗糙的 **demo 二重唱**（即本曲）标志着两人作为创作伙伴、也作为彼此的真正靠近，之后故事里才有 Cora Corman 演唱的完成版。原声带于 **2007 年 2 月 13 日**发行；小样因真挚、易跟唱而深受喜爱。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -131,41 +131,41 @@ You know that I'll be there for you in the end
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1（Alex）
+#### 主歌 1（Alex）
 
 我一直活在头顶的阴影下
 我一直睡在床头上方的乌云里
 我孤独了太久
 困在过去，好像怎么也走不出来
 
-#### Verse 2（Sophie）
+#### 主歌 2（Sophie）
 
 我一直把希望和梦想藏起来
 以防哪天还会需要它们
 我一直在腾出时间
 好清出心里角落的一点空间
 
-#### Chorus（合唱）
+#### 副歌（合唱）
 
 我只想找到重新坠入爱河的路
 没有这条路，我撑不下去
 哦哦哦
 
-#### Verse 3（Alex）
+#### 主歌 3（Alex）
 
 我一直在等，星星却迟迟不亮
 我一直在找，却看不见任何迹象
 我知道它就在那里
 我的灵魂总该在某个地方有所寄托
 
-#### Verse 4（Sophie）
+#### 主歌 4（Sophie）
 
 我一直在找能照亮我的人
 不是那种只能陪我过夜的人
 我需要一点方向
 我愿意听你的建议
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 我只想找到重新坠入爱河的路
 没有这条路，我撑不下去
@@ -173,14 +173,14 @@ You know that I'll be there for you in the end
 我希望你最终会在我身边
 哦，哦，哦，哦，哦
 
-#### Bridge
+#### 桥段
 
 有些时刻我不知道这是不是真的
 或者有没有人和我一样
 我需要灵感
 不是又一场讨价还价
 
-#### Final Chorus
+#### 终段副歌
 
 我只想找到重新坠入爱河的路
 没有这条路，我撑不下去
@@ -214,8 +214,8 @@ You know that I'll be there for you in the end
 
 ## 听歌提示 · Listening Notes
 
-- 本片 demo 是**钢琴 + 双人合唱**，适合练**交替领唱**：奇数 Verse 由 Alex（Hugh）领，偶数 Verse 由 Sophie（Drew）领，副歌两人合 *Oh oh oh*。
+- 本片小样是**钢琴 + 双人合唱**，适合练**交替领唱**：奇数主歌由 Alex（Hugh）领，偶数主歌由 Sophie（Drew）领，副歌两人合 *Oh oh oh*。
 - 片中场景是 Alex 公寓里**边写边唱**——可对照歌词体会「一句他、一句她」如何拼成完整歌；与 Cora 完成版的 polished 录音形成对比。
 - 大量 **I've been + -ing** 结构（*I've been living / sleeping / hiding*），可用来练「一直……」的叙事口吻。
 - 副歌 *way back into love* 中 *back into* 连读明显，建议先慢速拆读再原速跟唱。
-- 想对照影视语境，可留意 demo 是「写歌过程」而非舞台演出——语气偏私密、试探。
+- 想对照影视语境，可留意小样是「写歌过程」而非舞台演出——语气偏私密、试探。

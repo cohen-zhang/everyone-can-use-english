@@ -27,11 +27,11 @@ aliases:
 
 **English**
 
-**Ellie Goulding** (born **Elena Jane Goulding**, 30 December 1986, Hereford, England) is a British **singer-songwriter** known for her airy, high-register voice and **synth-pop / electropop** sound. She studied at the **University of Kent** and was discovered while performing in London; her debut EP *An Introduction to Ellie Goulding* (2009) led to the album *Lights* (2010). The title track **"Lights"**—originally a UK hit—exploded in the US after a 2011 remix and re-release, peaking at **No. 2** on the Billboard Hot 100. Goulding has won **Brit Awards**, a **Grammy** nomination, and later scored global hits including *"Love Me Like You Do"* and *"Burn"*. Her lyrics often blend **intimacy, anxiety, and euphoria** over pulsing electronic production.
+**Ellie Goulding** (born **Elena Jane Goulding**, 30 December 1986, Hereford, England) is a British **singer-songwriter** known for her airy, high-register voice and **synth-pop / 电子流行** sound. She studied at the **University of Kent** and was discovered while performing in London; her debut EP *An Introduction to Ellie Goulding* (2009) led to the album *Lights* (2010). The title track **"Lights"**—originally a UK hit—exploded in the US after a 2011 remix and re-release, peaking at **No. 2** on the Billboard Hot 100. Goulding has won **Brit Awards**, a **Grammy** nomination, and later scored global hits including *"Love Me Like You Do"* and *"Burn"*. Her lyrics often blend **intimacy, anxiety, and euphoria** over pulsing electronic production.
 
 **中文**
 
-**Ellie Goulding**（本名 **Elena Jane Goulding**，1986 年 12 月 30 日生，英国赫里福德）是以清亮高音与 **合成器流行 / electropop** 著称的英国**创作型歌手**。她在 **University of Kent** 求学期间于伦敦演出时被发掘；2009 年 EP *An Introduction to Ellie Goulding* 后发行首张专辑 *Lights*（2010）。同名曲 **"Lights"** 先在英国走红，2011 年混音再版后在美国爆红，Billboard Hot 100 最高 **第 2** 位。Goulding 曾获 **全英音乐奖**、**格莱美**提名，后又以 *"Love Me Like You Do"*、*"Burn"* 等成为全球热门。歌词常在电子节拍上交织**亲密、焦虑与狂喜**。
+**Ellie Goulding**（本名 **Elena Jane Goulding**，1986 年 12 月 30 日生，英国赫里福德）是以清亮高音与 **合成器流行 / 电子流行** 著称的英国**创作型歌手**。她在 **University of Kent** 求学期间于伦敦演出时被发掘；2009 年迷你专辑 *An Introduction to Ellie Goulding* 后发行首张专辑 *Lights*（2010）。同名曲 **"Lights"** 先在英国走红，2011 年混音再版后在美国爆红，Billboard Hot 100 最高 **第 2** 位。Goulding 曾获 **全英音乐奖**、**格莱美**提名，后又以 *"Love Me Like You Do"*、*"Burn"* 等成为全球热门。歌词常在电子节拍上交织**亲密、焦虑与狂喜**。
 
 ---
 
@@ -43,7 +43,7 @@ aliases:
 
 **中文**
 
-**"Lights"** 于 **2010 年 3 月**发行，是 Ellie 第二支单曲，也是首张专辑同名曲。在**极简合成器节拍**上，歌把**光**当作隐喻：对方的存在让她不至于「变成石头」；独处时她梦见被**唤回家**。预副歌 *I can't breathe when you're not near* 把身体上的依赖写成情感语言——这是她早期作品的标志。 **Single Version**（3:30）为电台剪辑版。在美国，**Bassnectar 混音**助力这首歌成为 2010 年代初 electropop 代表作之一。
+**"Lights"** 于 **2010 年 3 月**发行，是 Ellie 第二支单曲，也是首张专辑同名曲。在**极简合成器节拍**上，歌把**光**当作隐喻：对方的存在让她不至于「变成石头」；独处时她梦见被**唤回家**。预副歌 *I can't breathe when you're not near* 把身体上的依赖写成情感语言——这是她早期作品的标志。 **Single Version**（3:30）为电台剪辑版。在美国，**Bassnectar 混音**助力这首歌成为 2010 年代初电子流行代表作之一。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ No one ever saved me but you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我曾经有一套办法
 却独自把一切都弄丢
@@ -136,7 +136,7 @@ No one ever saved me but you
 却什么也听不清
 恐惧占了上风
 
-#### Pre-Chorus
+#### 预副歌
 
 从找到你开始
 起初你把我搂进怀里
@@ -145,7 +145,7 @@ No one ever saved me but you
 告诉我怎么补救
 是我犯错了吗？
 
-#### Chorus
+#### 副歌
 
 你亮起的光让我不至于变成石头
 我独处时你仍照耀我
@@ -158,18 +158,18 @@ No one ever saved me but you
 当四周一片漆黑，我需要点亮一束光
 当四周一片漆黑，我需要点亮一束光
 
-#### Verse 2
+#### 主歌 2
 
 我真的不知道自己在做什么
 也不知道为什么
 更不知道发生了什么
 我想只有再次入睡才会明白
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 星星、街灯、月光
 但你眼中的光，也许某天会再见到你
@@ -179,7 +179,7 @@ No one ever saved me but you
 在这山顶上的这栋房子里
 除了你，没人救过我
 
-#### Final Chorus
+#### 终段副歌
 
 *(副歌重复至结尾)*
 

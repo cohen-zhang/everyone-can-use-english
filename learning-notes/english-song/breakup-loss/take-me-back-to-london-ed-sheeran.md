@@ -33,9 +33,9 @@ aliases:
 
 **中文**
 
-**Ed Sheeran**（1991 年 2 月 17 生于英格兰 Halifax）是英国**创作型歌手**，2008 年搬至**伦敦**，从小场地演出和 EP 起家，2011 年的 *No. 5 Collaborations Project* 已大量合作 **grime** 艺人。至 2019 年已是全球体育馆巡演级别的巨星；*No. 6 Collaborations Project* 让他再次回到英国说唱/ grime 圈。
+**Ed Sheeran**（1991 年 2 月 17 生于英格兰 Halifax）是英国**创作型歌手**，2008 年搬至**伦敦**，从小场地演出和迷你专辑起家，2011 年的 *No. 5 Collaborations Project* 已大量合作 **油炸说唱** 艺人。至 2019 年已是全球体育馆巡演级别的巨星；*No. 6 Collaborations Project* 让他再次回到英国说唱/ 油炸说唱圈。
 
-**Stormzy**（Michael Owuo Jr.，1993 年 7 月 26 生于伦敦南部 Croydon）是英国 **grime MC**，国内最具代表性的说唱明星之一。2017 年首张专辑 *Gang Signs & Prayer* 成为首张登顶英国专辑榜的 grime 专辑；2019 年**领衔 Glastonbury**——首位独自担纲 headline 的英国黑人艺人。以低沉 flow、社会议题与南伦敦认同著称，在全球舞台代表 **grime** 文化，同时强调「根在伦敦」。
+**Stormzy**（Michael Owuo Jr.，1993 年 7 月 26 生于伦敦南部 Croydon）是英国 **grime MC**，国内最具代表性的说唱明星之一。2017 年首张专辑 *Gang Signs & Prayer* 成为首张登顶英国专辑榜的油炸说唱专辑；2019 年**领衔 Glastonbury**——首位独自担纲压轴的英国黑人艺人。以低沉说唱节奏流、社会议题与南伦敦认同著称，在全球舞台代表 **油炸说唱** 文化，同时强调「根在伦敦」。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Take Me Back to London"** 于 **2019 年 7 月 12 日**发行，收录于 *No. 6 Collaborations Project*。Ed 的 hook 是一首**归乡 anthem**：飞机、锐舞派对、低音震天的夜——*take me back to London*。他的段落承认成名的代价（*Divide 巡演赚了半个 billion*），也写只想和老友去 pub 喝一杯的简单渴望。Stormzy 的 grime 段落代表**南伦敦**街头文化——俚语、地位与忠诚；结尾提到 **全英音乐奖**、**Glastonbury**，并以 *there ain't no place like home* 收束。单曲在英国单曲榜**连冠五周**。趣闻：Stormzy 曾拒绝原定参与的 **Jay-Z**，认为这首歌应保持「伦敦故事」的 intimate 气质。
+**"Take Me Back to London"** 于 **2019 年 7 月 12 日**发行，收录于 *No. 6 Collaborations Project*。Ed 的钩子句是一首**归乡 anthem**：飞机、锐舞派对、低音震天的夜——*take me back to London*。他的段落承认成名的代价（*Divide 巡演赚了半个 billion*），也写只想和老友去酒吧喝一杯的简单渴望。Stormzy 的油炸说唱段落代表**南伦敦**街头文化——俚语、地位与忠诚；结尾提到 **全英音乐奖**、**Glastonbury**，并以 *there ain't no place like home* 收束。单曲在英国单曲榜**连冠五周**。趣闻：Stormzy 曾拒绝原定参与的 **Jay-Z**，认为这首歌应保持「伦敦故事」的私密气质。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -173,14 +173,14 @@ So take me back to London
 
 ### 中文翻译 · Chinese Translation
 
-#### Hook（Ed）
+#### 钩子句（Ed）
 
 喷气机冲向天空
 在云里展开翅膀，嗨起来
 我们有一阵子没去锐舞派对了
 所以带我回伦敦（哟）
 
-#### Stormzy · Verse 1
+#### Stormzy · 主歌 1
 
 我做买卖，但从没被人敲竹杠（敲竹杠）
 走一步看一步，从没预案（预案）
@@ -199,7 +199,7 @@ So take me back to London
 我们当年还嫩，如今一条心
 南伦敦的兄弟，能把你钉死，我走了
 
-#### Ed · Verse
+#### Ed · 主歌
 
 到这时候了（呜）
 Big Mike 和 Teddy 要上 grime 了（呜）
@@ -219,7 +219,7 @@ Divide 巡演赚了半个 billion（哦）
 我离开好一阵，飞了一百万英里
 但我现在正回伦敦城
 
-#### Hook（重复）
+#### 钩子句（重复）
 
 喷气机冲向天空（冲向天空）
 在云里展开翅膀，嗨起来（呜，呜）
@@ -230,7 +230,7 @@ Divide 巡演赚了半个 billion（哦）
 没有哪个城像我家这样
 所以带我回伦敦（哟）
 
-#### Stormzy · Verse 2
+#### Stormzy · 主歌 2
 
 哟，当我用这支小笔「开火」
 混音版搞定，Ed 也上了 grime
@@ -250,7 +250,7 @@ grime 或 rap，我两样都给
 把 Bow 造出来的这声音
 做到全球，案子结了
 
-#### Ed & Stormzy · Outro Verse
+#### Ed & Stormzy · 尾声 主歌
 
 2015 年在 Badingham 一家 pub
 我跟 Stormz 说，两年后你就收工
@@ -261,7 +261,7 @@ grime 或 rap，我两样都给
 但当你远在千里之外、感到孤独
 得记住：没有地方比得上家
 
-#### Hook（最终）
+#### 钩子句（最终）
 
 喷气机冲向天空（冲向天空）
 在云里展开翅膀，嗨起来（嗨起来）
@@ -309,7 +309,7 @@ grime 或 rap，我两样都给
 
 ## 听歌提示 · Listening Notes
 
-- Ed 的 hook 旋律清楚，适合**跟唱**练连读：*take me back to* 常连读成 *take againme back t'*。
-- Stormzy 段落是**英式 grime flow**，语速快、俚语多；建议先读「重点表达」表再回听 Verse。
+- Ed 的钩子句旋律清楚，适合**跟唱**练连读：*take me back to* 常连读成 *take againme back t'*。
+- Stormzy 段落是**英式 grime flow**，语速快、俚语多；建议先读「重点表达」表再回听主歌。
 - 注意 **英美式差异**：*crisps*（薯片）、*pub*、*pint* 都是典型英式生活词。
 - 想延伸练**思乡与归属**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 comfort / home 的表达；同专辑拉丁风曲目见 [[learning-notes/english-song/love-romance/south-of-the-border-ed-sheeran|South of the Border]]。

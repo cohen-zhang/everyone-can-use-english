@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Catch a Grenade (The Hooligans Remix)"** 是 **"Grenade"** 的乐队 remix；原曲为 ***Doo-Wops & Hooligans***（2010）第二支单曲，收录于 ***The Grenade Sessions - EP***（2011）。由 Mars 与 **Philip Lawrence**、**Ari Levine**、**Brody Brown**、**Claude Kelly**、**Andrew Wyatt** 等合写；原版登顶 Billboard Hot 100，成为标志性的**单恋 / 不对等付出**神曲：*I'd catch a grenade for ya… but you won't do the same*。本 remix 保留同一套歌词戏剧，乐队更满、更冲。适合练**夸张牺牲句**（*catch a grenade / take a bullet*）与苦涩对比（*but you won't do the same*）。
+**"Catch a Grenade (The Hooligans Remix)"** 是 **"Grenade"** 的乐队混音版；原曲为 ***Doo-Wops & Hooligans***（2010）第二支单曲，收录于 ***The Grenade Sessions - EP***（2011）。由 Mars 与 **Philip Lawrence**、**Ari Levine**、**Brody Brown**、**Claude Kelly**、**Andrew Wyatt** 等合写；原版登顶 Billboard Hot 100，成为标志性的**单恋 / 不对等付出**神曲：*I'd catch a grenade for ya… but you won't do the same*。本混音版保留同一套歌词戏剧，乐队更满、更冲。适合练**夸张牺牲句**（*catch a grenade / take a bullet*）与苦涩对比（*but you won't do the same*）。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -146,7 +146,7 @@ No, no, no, no
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 来得容易，去得也快
 你就是这么活的
@@ -158,7 +158,7 @@ No, no, no, no
 你眼睛睁得大大的
 为什么睁着？
 
-#### Pre-Chorus
+#### 预副歌
 
 把我所有的都给了你
 你却扔进垃圾桶
@@ -167,7 +167,7 @@ No, no, no, no
 是我唯一求过的
 可你不懂的是
 
-#### Chorus
+#### 副歌
 
 我愿意为你接住一颗手榴弹
 愿意为你把手按在刀刃上
@@ -178,7 +178,7 @@ No, no, no, no
 是的，我愿意为你去死，宝贝
 可你不会为我这样做
 
-#### Verse 2
+#### 主歌 2
 
 不、不、不、不
 青一块紫一块
@@ -189,7 +189,7 @@ No, no, no, no
 你会当面冲我笑
 然后拆掉我车上的刹车
 
-#### Pre-Chorus & Chorus
+#### 预副歌 & 副歌
 
 把我所有的都给了你
 你却扔进垃圾桶
@@ -198,14 +198,14 @@ No, no, no, no
 是我唯一求过的
 因为你不懂的是
 
-#### Bridge
+#### 桥段
 
 要是我全身着火
 你会看着我烧成灰
 你说爱我——你是个骗子
 因为你从来、从来、从来没有爱过，宝贝
 
-#### Final Chorus
+#### 终段副歌
 
 可亲爱的，我还是愿意为你接住手榴弹
 愿意为你把手按在刀刃上

@@ -31,7 +31,7 @@ aliases:
 
 **中文**
 
-**Joshua Hyslop**（1987 年生于不列颠哥伦比亚省阿伯茨福德）是加拿大**民谣创作歌手**，签约 **Nettwerk Records**。成长于萨斯喀彻温，长期活跃于**温哥华**，后迁居**维多利亚**。2011 年 EP *Cold Wind* 出道以来，以 intimate、偏 acoustic 的作品积累数亿流媒体播放——*Where the Mountain Meets the Valley*（2012）、*In Deepest Blue*（2015）、*Echos*（2018）、*Ash & Stone*（2020）、*Westward*（2022）。写法常被比作 **Damien Rice**、**Iron & Wine**、**The Lumineers**；歌词多写安静的希望、记忆与情感诚实，而非大流行 hook。
+**Joshua Hyslop**（1987 年生于不列颠哥伦比亚省阿伯茨福德）是加拿大**民谣创作歌手**，签约 **Nettwerk Records**。成长于萨斯喀彻温，长期活跃于**温哥华**，后迁居**维多利亚**。2011 年迷你专辑 *Cold Wind* 出道以来，以私密、偏原声的作品积累数亿流媒体播放——*Where the Mountain Meets the Valley*（2012）、*In Deepest Blue*（2015）、*Echos*（2018）、*Ash & Stone*（2020）、*Westward*（2022）。写法常被比作 **Damien Rice**、**Iron & Wine**、**The Lumineers**；歌词多写安静的希望、记忆与情感诚实，而非大流行钩子句。
 
 ---
 
@@ -132,7 +132,7 @@ In a hopeless time
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 哦，温柔的心
 哦，单纯的灵魂
@@ -142,7 +142,7 @@ In a hopeless time
 别失去希望
 谁能说还剩多远要走？
 
-#### Bridge 1
+#### 桥段 1
 
 而所有这些夜晚
 你独自走过
@@ -156,7 +156,7 @@ In a hopeless time
 因为我们找到了希望
 在一个毫无希望的时代
 
-#### Verse 2
+#### 主歌 2
 
 哦，温柔的心
 哦，单纯的灵魂
@@ -178,7 +178,7 @@ In a hopeless time
 因为我们找到了希望
 在一个毫无希望的时代
 
-#### Bridge 2（重复，略变）
+#### 桥段 2（重复，略变）
 
 而所有这些夜晚
 你独自走过
@@ -192,7 +192,7 @@ In a hopeless time
 因为我们找到了希望
 在一个毫无希望的时代
 
-#### Outro
+#### 尾声
 
 哦，我们找到了希望
 在一个毫无希望的时代

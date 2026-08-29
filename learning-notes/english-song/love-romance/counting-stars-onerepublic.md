@@ -164,7 +164,7 @@ Sink in the river the lessons I've learned
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 最近我一直、一直睡不着
 梦见我们可能成为的样子
@@ -172,7 +172,7 @@ Sink in the river the lessons I've learned
 说：「别再数钞票，我们要数星星」
 是啊，我们要数星星
 
-#### Verse 2
+#### 主歌 2
 
 我把人生看成一根摆荡的藤
 把心荡过那条线
@@ -183,14 +183,14 @@ Sink in the river the lessons I've learned
 我不觉得世人全都信服
 只是照别人说的做
 
-#### Pre-Chorus 1
+#### 预副歌 1
 
 做错事时我反而觉得对
 做对事时我反而觉得不对
 我没法骗自己，没法骗，没法骗
 杀不死我的，让我更鲜活
 
-#### Chorus 1
+#### 副歌 1
 
 最近我一直、一直睡不着
 梦见我们可能成为的样子
@@ -198,7 +198,7 @@ Sink in the river the lessons I've learned
 说：「别再数钞票，我们要数星星」
 是啊，我们要数星星
 
-#### Chorus 2
+#### 副歌 2
 
 最近我一直、一直睡不着
 梦见我们能成为的样子
@@ -206,7 +206,7 @@ Sink in the river the lessons I've learned
 说：「别再数钞票，我们要、要数星星」
 是啊
 
-#### Verse 3
+#### 主歌 3
 
 我感受到你的爱，感到它燃烧
 顺这条河，每个转弯
@@ -217,17 +217,17 @@ Sink in the river the lessons I've learned
 我不觉得世人全都信服
 只是照别人说的做
 
-#### Pre-Chorus 2
+#### 预副歌 2
 
 做对事时我反而觉得不对
 我没法骗自己，没法骗，没法骗
 淹没我的，反而让我想飞
 
-#### Chorus 3（重复）
+#### 副歌 3（重复）
 
-#### Chorus 4（重复）
+#### 副歌 4（重复）
 
-#### Bridge
+#### 桥段
 
 哦，把钱拿去，看它燃烧
 沉入河里——我学到的教训
@@ -238,15 +238,15 @@ Sink in the river the lessons I've learned
 把钱拿去，看它燃烧
 沉入河里——我学到的教训
 
-#### Final Hook
+#### Final 钩子句
 
 杀不死我的，让我更鲜活
 
-#### Chorus 5（重复）
+#### 副歌 5（重复）
 
-#### Chorus 6（终段）
+#### 副歌 6（终段）
 
-#### Outro
+#### 尾声
 
 把钱拿去，看它燃烧
 沉入河里——我学到的教训
@@ -275,4 +275,4 @@ Sink in the river the lessons I've learned
 
 - 副歌 *Lately, I've been, I've been losing sleep* 节奏鲜明，适合 **KTV** 与通勤跟唱；注意 *counting dollars* 与 *counting stars* 的对比重音。
 - *Old, but I'm not that old / Young, but I'm not that bold* 是平行结构，可用来练「让步对比」句型。
-- Bridge 拍手跺脚段适合练**节奏感**；想延伸「人生选择」话题，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于内心冲突的表达。
+- 桥段拍手跺脚段适合练**节奏感**；想延伸「人生选择」话题，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于内心冲突的表达。

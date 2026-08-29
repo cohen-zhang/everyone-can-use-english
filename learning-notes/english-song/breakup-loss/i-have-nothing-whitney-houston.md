@@ -36,7 +36,7 @@ aliases:
 
 **中文**
 
-**Whitney Houston**（1963–2012）是美国 **R&B / 流行**歌手与演员，因嗓音力量、音域与控制力常被称作 **the Voice**。出生于**新泽西 Newark** 的福音音乐家庭（母亲 **Cissy Houston**；表姐包括 **Dionne Warwick**），签约 Arista 后于 1980 年代中期爆红，代表作有 *"Saving All My Love for You"*、*"How Will I Know"*、*"I Wanna Dance with Somebody"* 等。1992 年电影 *The Bodyguard* 及原声带（以 *"I Will Always Love You"* 领衔）让她成为全球偶像。多次获**格莱美**，唱片销量逾两亿，几乎定义了现代 power ballad 的唱法。
+**Whitney Houston**（1963–2012）是美国 **R&B / 流行**歌手与演员，因嗓音力量、音域与控制力常被称作 **the Voice**。出生于**新泽西 Newark** 的福音音乐家庭（母亲 **Cissy Houston**；表姐包括 **Dionne Warwick**），签约 Arista 后于 1980 年代中期爆红，代表作有 *"Saving All My Love for You"*、*"How Will I Know"*、*"I Wanna Dance with Somebody"* 等。1992 年电影 *The Bodyguard* 及原声带（以 *"I Will Always Love You"* 领衔）让她成为全球偶像。多次获**格莱美**，唱片销量逾两亿，几乎定义了现代力量抒情曲的唱法。
 
 ---
 
@@ -48,7 +48,7 @@ aliases:
 
 **中文**
 
-**"I Have Nothing"** 是 *The Bodyguard* 原声带（**1992 年 11 月 17 日**）上的**力量抒情曲**，**1993 年 2 月 20 日**作为第三支单曲发行。由 **David Foster** 与 **Linda Thompson** 创作、Foster 制作，是为电影量身写的原创（不像原声带里几首大热翻唱）。片中 Whitney 饰演的角色在台上演唱；唱片版成为全球热单（美国 Hot 100 第 4、Adult Contemporary 冠军），并获**奥斯卡**最佳原创歌曲提名。歌词是挽留的恳求：*I have nothing if I don't have you*——脆弱感裹在 Whitney 冲天的高音里。
+**"I Have Nothing"** 是 *The Bodyguard* 原声带（**1992 年 11 月 17 日**）上的**力量抒情曲**，**1993 年 2 月 20 日**作为第三支单曲发行。由 **David Foster** 与 **Linda Thompson** 创作、Foster 制作，是为电影量身写的原创（不像原声带里几首大热翻唱）。片中 Whitney 饰演的角色在台上演唱；唱片版成为全球热单（美国 Hot 100 第 4、成人当代冠军），并获**奥斯卡**最佳原创歌曲提名。歌词是挽留的恳求：*I have nothing if I don't have you*——脆弱感裹在 Whitney 冲天的高音里。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -134,7 +134,7 @@ If I don't have you, oh, you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 分享我的人生吧
 接受真实的我
@@ -146,7 +146,7 @@ If I don't have you, oh, you
 只要你的全部
 和你所做的一切
 
-#### Pre-Chorus
+#### 预副歌
 
 我其实不必再往别处找
 我不想不得不离开
@@ -156,7 +156,7 @@ If I don't have you, oh, you
 我逃不开自己
 无处可藏
 
-#### Chorus
+#### 副歌
 
 别再逼我关上另一扇门
 我不想再受伤了
@@ -166,7 +166,7 @@ If I don't have you, oh, you
 我一无所有、一无所有、一无所有
 如果没有你、没有你
 
-#### Verse 2
+#### 主歌 2
 
 你看穿了
 直抵我内心
@@ -178,11 +178,11 @@ If I don't have you, oh, you
 一段记忆能留下来吗？
 一段我能抓住的
 
-#### Pre-Chorus & Chorus（重复）
+#### 预副歌 & 副歌（重复）
 
 你的爱，我会永远记得)*
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 别再逼我关上另一扇门
 我不想再受伤了
@@ -223,6 +223,6 @@ If I don't have you, oh, you
 
 - 副歌 *Don't make me close one more door* 是**KTV 高光句**：先小声跟节奏，再练 Whitney 式拉长音，别一上来就喊破。
 - *I have nothing, nothing, nothing* 三连重复——练**重音落点**（nothing 的第一音节）。
-- Pre-Chorus 句子偏长，适合练**意群断句**：*I don't wanna have to go / where you don't follow*。
+- 预副歌句子偏长，适合练**意群断句**：*I don't wanna have to go / where you don't follow*。
 - *Don't you dare…* 比 *Don't walk away* 更硬、更急；听最终段情绪如何升级。
 - 想对照更多「挽留 / 离不开你」说法，见 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

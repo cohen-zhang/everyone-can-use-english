@@ -119,7 +119,7 @@ And seal it with a kiss just for you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 今早九点醒来
 心里装了太多话
@@ -129,20 +129,20 @@ And seal it with a kiss just for you
 谁都看得出来
 我已为你神魂颠倒
 
-#### Pre-Chorus
+#### 预副歌
 
 朋友们都听腻了
 我一坐下就聊你
 他们说早就听够了
 而你才是我该倾诉的人
 
-#### Chorus
+#### 副歌
 
 所以我要写下来
 以吻封缄，只为你
 以吻封缄，只为你
 
-#### Verse 2
+#### 主歌 2
 
 不知该从哪下笔
 把心敞开好难
@@ -152,11 +152,11 @@ And seal it with a kiss just for you
 每一天我都更喜欢你
 胜过前一天
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge / Outro
+#### 桥段 / 尾声
 
 我会一改再改
 没法否认
@@ -193,5 +193,5 @@ And seal it with a kiss just for you
 
 - 三重唱**和声**层次丰富：跟唱时可先练主旋律，再听第二、第三声部如何衬在底下。
 - *head over heels*、*crazy about you* 都是**热恋口语**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里类似句型。
-- 副歌 *seal it with a kiss* 节奏清楚，适合 **KTV** 跟唱；Verse 句子偏长，注意在逗号处换气。
+- 副歌 *seal it with a kiss* 节奏清楚，适合 **KTV** 跟唱；主歌句子偏长，注意在逗号处换气。
 - *swell*、*XOXO* 带一点**复古**味道，写情书或怀旧场景时很贴切。

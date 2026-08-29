@@ -36,7 +36,7 @@ aliases:
 
 **中文**
 
-**Bertie Higgins**（**1944** 年生于美国佛罗里达 **Tarpon Springs**）是美国**唱作人**，以 1982 年软摇滚金曲 *"Casablanca"* 最为人知。单飞前曾在地方乐队担任鼓手与写手；成名作专辑 ***Just Another Day in Paradise*** 把叙事抒情与 yacht-rock 的圆润制作结合。*"Casablanca"* 凭电影感的浪漫与好记旋律走红国际，在亚洲尤其长红。此后他仍持续发行偏怀旧、旅行与故事感的作品。
+**Bertie Higgins**（**1944** 年生于美国佛罗里达 **Tarpon Springs**）是美国**唱作人**，以 1982 年软摇滚金曲 *"Casablanca"* 最为人知。单飞前曾在地方乐队担任鼓手与写手；成名作专辑 ***Just Another Day in Paradise*** 把叙事抒情与游艇摇滚的圆润制作结合。*"Casablanca"* 凭电影感的浪漫与好记旋律走红国际，在亚洲尤其长红。此后他仍持续发行偏怀旧、旅行与故事感的作品。
 
 ---
 
@@ -114,7 +114,7 @@ I love you more and more each day, as time goes by
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 看着《卡萨布兰卡》，我爱上了你
 汽车电影院后排，灯光忽明忽暗
@@ -122,7 +122,7 @@ I love you more and more each day, as time goes by
 在记忆里变成了香槟和鱼子酱
 在漫长炎热的夏夜里缠绵
 
-#### Verse 2
+#### 主歌 2
 
 我以为你也是看着《卡萨布兰卡》爱上了我
 在吊扇下牵着手
@@ -131,14 +131,14 @@ I love you more and more each day, as time goes by
 你眼里映着摩洛哥的月光
 在我那辆旧雪佛兰里，电影旁制造魔法
 
-#### Chorus
+#### 副歌
 
 哦，在卡萨布兰卡，吻依然是吻
 可没有你的叹息，吻就不算吻
 求你回到卡萨布兰卡，回到我身边
 时光流转，我一天比一天更爱你
 
-#### Verse 3
+#### 主歌 3
 
 我想卡萨布兰卡一定有许多破碎的心
 你知道我其实从没去过那儿，所以我也说不准
@@ -146,11 +146,11 @@ I love you more and more each day, as time goes by
 出现在宽阔的大银幕上
 可看着你离开时，痛一点也不少
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 哦，在卡萨布兰卡，吻依然是吻
 可没有你的叹息，吻就不算吻
@@ -184,6 +184,6 @@ I love you more and more each day, as time goes by
 ## 听歌提示 · Listening Notes
 
 - 副歌四句结构固定，**KTV / 通勤跟唱**友好；先把 *as time goes by* 的节奏唱稳。
-- Verse 1→2 是「现实约会 → 脑内电影」：注意 *popcorn and cokes* 如何 *became champagne and caviar*，练叙事对比。
+- 主歌 1→2 是「现实约会 → 脑内电影」：注意 *popcorn and cokes* 如何 *became champagne and caviar*，练叙事对比。
 - *'neath / Casablanca / Chevrolet* 有点绕口，慢速跟两遍再提速。
 - 想延伸练**怀念、求复合、分手后的痛**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 与 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

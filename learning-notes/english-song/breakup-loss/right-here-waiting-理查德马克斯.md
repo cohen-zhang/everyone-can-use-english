@@ -113,7 +113,7 @@ You've got me going crazy
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 日复一日，远隔重洋
 我渐渐快要发疯
@@ -123,7 +123,7 @@ You've got me going crazy
 若相见几乎无望
 我们怎能谈永远？
 
-#### Chorus
+#### 副歌
 
 无论你去哪里
 无论你做什么
@@ -132,7 +132,7 @@ You've got me going crazy
 无论我心如何破碎
 我会就在这里等你
 
-#### Verse 2
+#### 主歌 2
 
 我曾把那么多时光
 视作理所当然、以为会永远
@@ -142,11 +142,11 @@ You've got me going crazy
 哦，难道你看不见吗，宝贝？
 你让我快要疯了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 我不知道这段感情
 我们怎能撑下去
@@ -156,7 +156,7 @@ You've got me going crazy
 哦，难道你看不见吗，宝贝？
 你让我快要疯了
 
-#### Final Chorus（重复至结尾）
+#### 终段副歌（重复至结尾）
 
 ## 重点表达 · Key Phrases
 
@@ -178,7 +178,7 @@ You've got me going crazy
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *Wherever you go…* 旋律舒缓、句型整齐，适合 **KTV 与通勤** 跟唱；先练副歌再练 Verse。
+- 副歌 *Wherever you go…* 旋律舒缓、句型整齐，适合 **KTV 与通勤** 跟唱；先练副歌再练主歌。
 - Marx 的咬字清楚，*waiting / whatever / forever* 等词可练 **-ing / -er** 弱读。
 - *next to never* 与 *take for granted* 是歌词外也好用的**书面口语**表达，可记入作文或邮件。
 - 想延伸「等待 + 后悔」主题，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 与 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

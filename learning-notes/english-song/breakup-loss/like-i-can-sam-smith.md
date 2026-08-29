@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Sam Smith**（1992 年 5 月 19 日生，伦敦）是英国**创作型歌手**，以高亢、富有灵魂感的嗓音和直白写爱情、心碎与自我认同的歌词著称。2012 年因与 Disclosure 合作 **"Latch"** 崭露头角；2014 年首张专辑 **In the Lonely Hour** 全球销量逾 1400 万，获 **四项格莱美**，包括 **"Stay With Me"** 的「年度制作」与「年度歌曲」。风格融合 **流行、灵魂乐与 R&B**；ballad 常带自白气质——脆弱、戏剧化又精准。后续代表作有 **"Too Good at Goodbyes"**、**"Unholy"** 及奥斯卡获奖曲 **"Writing's on the Wall"**（《007：幽灵党》）。Smith 使用 **they/them** 人称代词。
+**Sam Smith**（1992 年 5 月 19 日生，伦敦）是英国**创作型歌手**，以高亢、富有灵魂感的嗓音和直白写爱情、心碎与自我认同的歌词著称。2012 年因与 Disclosure 合作 **"Latch"** 崭露头角；2014 年首张专辑 **In the Lonely Hour** 全球销量逾 1400 万，获 **四项格莱美**，包括 **"Stay With Me"** 的「年度制作」与「年度歌曲」。风格融合 **流行、灵魂乐与 R&B**；抒情曲常带自白气质——脆弱、戏剧化又精准。后续代表作有 **"Too Good at Goodbyes"**、**"Unholy"** 及奥斯卡获奖曲 **"Writing's on the Wall"**（《007：幽灵党》）。Smith 使用 **they/them** 人称代词。
 
 ---
 
@@ -44,7 +44,7 @@ aliases:
 
 **中文**
 
-**"Like I Can"** 于 **2014 年 5 月 26 日**发行，为 *In the Lonely Hour* 第四支单曲。由 Smith 与 **Jimmy Napes**、**James Napier** 共同创作，是一首紧绷的**嫉妒 ballad**：歌手列举恋人可能选择的各类男人——绅士、牧师、律师、一夜情对象——然后坚称没人能**像我这样**爱她。核心比喻 *mine is the heart and the salt of the soul* 宣称自己才有灵魂的深度与滋味。Bridge 承认彼此都有心魔（*We both have demons*），却把它重述为亲密（*I love your demons*）。歌曲在英国单曲榜最高 **第 9**，因情绪层层推进及副歌 *can, can, can* 上的转音而成为歌迷最爱之一。
+**"Like I Can"** 于 **2014 年 5 月 26 日**发行，为 *In the Lonely Hour* 第四支单曲。由 Smith 与 **Jimmy Napes**、**James Napier** 共同创作，是一首紧绷的**嫉妒 ballad**：歌手列举恋人可能选择的各类男人——绅士、牧师、律师、一夜情对象——然后坚称没人能**像我这样**爱她。核心比喻 *mine is the heart and the salt of the soul* 宣称自己才有灵魂的深度与滋味。桥段承认彼此都有心魔（*We both have demons*），却把它重述为亲密（*I love your demons*）。歌曲在英国单曲榜最高 **第 9**，因情绪层层推进及副歌 *can, can, can* 上的转音而成为歌迷最爱之一。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -114,7 +114,7 @@ He'll never love you like I can, can, can
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 他可以是罪人，也可以是绅士
 你灵魂遭谴时，他可以是你的牧师
@@ -126,7 +126,7 @@ He'll never love you like I can, can, can
 他也许懂你的幽默，但我不明白，因为
 他永远没法像我这样爱你，能，能，能
 
-#### Chorus
+#### 副歌
 
 你为什么总往错的路上看？
 我的心才是灵魂的核心与滋味
@@ -134,25 +134,25 @@ He'll never love you like I can, can, can
 他们永远没法像我这样爱你，能，能，能
 他们永远没法像我这样爱你，能，能
 
-#### Verse 2
+#### 主歌 2
 
 一次偶然的邂逅
 宝贝，他像一句咒语，让你神魂颠倒
 在这混乱里，他也许是一阵沉默
 但话说回来，他永远没法像我这样爱你，能，能，能
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 我们都有各自无法忍受的心魔
 我却爱你的心魔，像魔鬼那样爱
 若你还在寻找一个诚实的人
 那就请别再欺骗了，天啊
 
-#### Final Chorus
+#### 终段副歌
 
 你为什么总往错的路上看？
 我的心才是灵魂的核心与滋味
@@ -188,6 +188,6 @@ He'll never love you like I can, can, can
 ## 听歌提示 · Listening Notes
 
 - 副歌 *never love you like I can* 的 **can** 常唱成三连音（*can, can, can*），跟唱时把最后一个 *can* 做轻处理或转音，别每个都咬死。
-- Verse 1 的排比 *He could be…* 适合练**虚拟语气式列举**：先练四个职业/身份，再一口气接 *But he'll never…*。
+- 主歌 1 的排比 *He could be…* 适合练**虚拟语气式列举**：先练四个职业/身份，再一口气接 *But he'll never…*。
 - *mine is the heart and the salt of the soul* 是全歌最难记的一句隐喻——可先理解「盐 = 灵魂里最有滋味、最本质的部分」再跟唱。
-- 歌曲短（约 2:48），情绪集中，适合**精研**时反复听 Bridge 里 *demons / devils* 的双关与语气转折。
+- 歌曲短（约 2:48），情绪集中，适合**精研**时反复听桥段里 *demons / devils* 的双关与语气转折。

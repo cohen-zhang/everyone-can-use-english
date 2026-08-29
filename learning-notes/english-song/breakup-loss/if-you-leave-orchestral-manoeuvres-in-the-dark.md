@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Orchestral Manoeuvres in the Dark**（简称 **OMD**）是 1978 年在英格兰 **默西塞德 Wirral** 成立的**电子 / 合成器流行**乐队，由中学好友 **Andy McCluskey**（主唱、贝斯）与 **Paul Humphreys**（键盘、和声）创立。受 Kraftwerk 与早期电子实验启发，凭 *"Electricity"*、*"Enola Gay"* 与专辑 *Architecture & Morality*（1981）打入英国主流。1980 年代中期转向更易听的流行音色；**"If You Leave"** 成为他们在美国最大的单曲。80 年代末分家、90 年代由 McCluskey 主导后，经典阵容于 **2006** 年重聚，持续巡演与出片。OMD 常被视作英国 synth-pop 先驱之一，全球销量数千万。
+**Orchestral Manoeuvres in the Dark**（简称 **OMD**）是 1978 年在英格兰 **默西塞德 Wirral** 成立的**电子 / 合成器流行**乐队，由中学好友 **Andy McCluskey**（主唱、贝斯）与 **Paul Humphreys**（键盘、和声）创立。受 Kraftwerk 与早期电子实验启发，凭 *"Electricity"*、*"Enola Gay"* 与专辑 *Architecture & Morality*（1981）打入英国主流。1980 年代中期转向更易听的流行音色；**"If You Leave"** 成为他们在美国最大的单曲。80 年代末分家、90 年代由 McCluskey 主导后，经典阵容于 **2006** 年重聚，持续巡演与出片。OMD 常被视作英国合成器流行先驱之一，全球销量数千万。
 
 ---
 
@@ -131,42 +131,42 @@ Don't look back
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 如果你要走，别现在就走
 求你别把我的心带走
 答应我，再给我一夜
 然后我们就各走各的路
 
-#### Verse 2
+#### 主歌 2
 
 我们一直觉得时间站在我们这边
 可现在它正在飞快溜走
 每一秒、每一刻
 我们得、我们一定得让它长久一点
 
-#### Chorus
+#### 副歌
 
 我碰你一次，再碰你一次
 无论什么代价，我都不放手
 我现在需要你，就像从前一样
 你总说，总有一天我们还会是朋友
 
-#### Verse 3
+#### 主歌 3
 
 如果你走了，我不会哭
 一天都不会白白浪费
 但如果你走了，别回头看
 我会朝相反的方向跑
 
-#### Verse 4
+#### 主歌 4
 
 七年就这么过去了
 仿佛时间曾静止不动
 天知道现在会怎样
 你得、你一定得说你会留下
 
-#### Chorus（变词）
+#### 副歌（变词）
 
 我碰你一次，再碰你一次
 无论什么代价，我都不放手
@@ -183,7 +183,7 @@ Don't look back
 我现在需要你，就像从前一样
 你总说，总有一天我们还会再见
 
-#### Outro
+#### 尾声
 
 如果你要走
 哦，如果你要走
@@ -212,7 +212,7 @@ Don't look back
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *I touch you once, I touch you twice* 节奏整齐，适合先抓 **chorus 跟唱**，再练 Verse 的叙事句。
+- 副歌 *I touch you once, I touch you twice* 节奏整齐，适合先抓 **chorus 跟唱**，再练主歌的叙事句。
 - 注意 *we've gotta / you've gotta* 的口语缩读；书面可写 *got to*。
 - *Seven years went under the bridge* 是习语变体，可对照 *water under the bridge*（往事已成定局）一起记。
 - 电影场景是舞会告别，情绪是「挽留 + 认命」并存；可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里的分手与怀念表达。

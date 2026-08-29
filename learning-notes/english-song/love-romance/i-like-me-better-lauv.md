@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Lauv**（本名 **Ari Staprans Leff**，1994 年 8 月 8 生于旧金山）是美国**创作型歌手**兼制作人。成长于旧金山、亚特兰大与费城郊区，在 **NYU 读音乐科技**，起初为他人写歌——合写 **"No Promises"**（Cheat Codes ft. Demi Lovato）与 **"Boys"**（Charli XCX）。艺名来自拉脱维亚语 ***lauva***（狮子），致敬母亲血统。2015 年 **"The Other"** 病毒式传播；**"I Like Me Better"**（2017）登 **Billboard Hot 100 第 27**，Spotify 播放逾 **20 亿**。2020 年专辑 *~how i'm feeling~* 巩固其「坦白型 electropop」——写焦虑、爱与身份。
+**Lauv**（本名 **Ari Staprans Leff**，1994 年 8 月 8 生于旧金山）是美国**创作型歌手**兼制作人。成长于旧金山、亚特兰大与费城郊区，在 **NYU 读音乐科技**，起初为他人写歌——合写 **"No Promises"**（Cheat Codes ft. Demi Lovato）与 **"Boys"**（Charli XCX）。艺名来自拉脱维亚语 ***lauva***（狮子），致敬母亲血统。2015 年 **"The Other"** 病毒式传播；**"I Like Me Better"**（2017）登 **Billboard Hot 100 第 27**，Spotify 播放逾 **20 亿**。2020 年专辑 *~how i'm feeling~* 巩固其「坦白型电子流行」——写焦虑、爱与身份。
 
 ---
 
@@ -40,11 +40,11 @@ aliases:
 
 **English**
 
-**"I Like Me Better"** was released **19 May 2017** and later compiled on *I met you when I was 18. (the playlist)* (2018)—a project chronicling Lauv's first year in **New York City** and falling in love. Written with **Michael Matosic** and produced by Lauv, the song grew from a **voice memo** he never replaced. The hook *I like me better when I'm with you* flips the usual love-song logic: it's about **liking who you become** beside someone, not just missing them. The track appeared in Netflix's *To All the Boys I've Loved Before* trailer and became a staple of late-2010s **indie-electropop**.
+**"I Like Me Better"** was released **19 May 2017** and later compiled on *I met you when I was 18. (the playlist)* (2018)—a project chronicling Lauv's first year in **New York City** and falling in love. Written with **Michael Matosic** and produced by Lauv, the song grew from a **voice memo** he never replaced. The hook *I like me better when I'm with you* flips the usual love-song logic: it's about **liking who you become** beside someone, not just missing them. The track appeared in Netflix's *To All the Boys I've Loved Before* trailer and became a staple of late-2010s **独立电子流行**.
 
 **中文**
 
-**"I Like Me Better"** 于 **2017 年 5 月 19 日**发行，后收录于 *I met you when I was 18. (the playlist)*（2018）——记录 Lauv 在**纽约**的第一年与恋爱。与 **Michael Matosic** 合写、Lauv 制作；源自一段他后来没换掉的**语音备忘录**。Hook *I like me better when I'm with you* 翻转常见情歌逻辑：重点是**和某人在一起时更喜欢自己**，而非单纯思念。歌曲曾用于 Netflix《*To All the Boys I've Loved Before*》预告，成为 2010 年代末 **indie-electropop** 代表作之一。
+**"I Like Me Better"** 于 **2017 年 5 月 19 日**发行，后收录于 *I met you when I was 18. (the playlist)*（2018）——记录 Lauv 在**纽约**的第一年与恋爱。与 **Michael Matosic** 合写、Lauv 制作；源自一段他后来没换掉的**语音备忘录**。钩子句 *I like me better when I'm with you* 翻转常见情歌逻辑：重点是**和某人在一起时更喜欢自己**，而非单纯思念。歌曲曾用于 Netflix《*To All the Boys I've Loved Before*》预告，成为 2010 年代末 **独立电子流行** 代表作之一。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -130,7 +130,7 @@ I'm with you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 在纽约年轻且恋爱（在纽约）
 不知自己是谁，但只要你在我就好
@@ -138,7 +138,7 @@ I'm with you
 从午夜喝到清晨咖啡
 聊着聊着把小时都烧光
 
-#### Chorus
+#### 副歌
 
 该死，和你在一起我更喜欢自己
 和你在一起我更喜欢自己
@@ -147,7 +147,7 @@ I'm with you
 我更喜欢自己当
 和你在一起我更喜欢自己
 
-#### Verse 2
+#### 主歌 2
 
 说不清是什么，但我有那种感觉（有那种感觉）
 在你旁边这张床上醒来
@@ -156,7 +156,7 @@ I'm with you
 我可能会说太多
 我可能要告诉你一些事
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 该死，和你在一起我更喜欢自己
 和你在一起我更喜欢自己
@@ -165,7 +165,7 @@ I'm with you
 我更喜欢自己当
 和你在一起我更喜欢自己
 
-#### Bridge
+#### 桥段
 
 多待一会儿，多待一会儿
 留在这里陪我
@@ -176,7 +176,7 @@ I'm with you
 躺在这里陪我
 诶诶，诶诶，哦
 
-#### Final Chorus
+#### 终段副歌
 
 和你在一起我更喜欢自己（是的，宝贝）
 和你在一起我更喜欢自己（哦不）
@@ -185,7 +185,7 @@ I'm with you
 我更喜欢自己当
 和你在一起我更喜欢自己
 
-#### Outro
+#### 尾声
 
 （我喜欢自己，我喜欢自己）
 （看你把我变成什么样，哦不）
@@ -214,6 +214,6 @@ I'm with you
 ## 听歌提示 · Listening Notes
 
 - 副歌 *I like me better when I'm with you* 适合 **KTV 跟唱**；注意 *better when I'm* 的连读。
-- Verse 1 三连 **To be…** 排比，可练不定式开场：*To be young / To not know / To be drunk*。
+- 主歌 1 三连 **To be…** 排比，可练不定式开场：*To be young / To not know / To be drunk*。
 - *Damn* 与 *somethin'* 是口语缩略，跟唱时不必咬太清；正式写作用 *something*。
 - 想延伸练**恋爱里的自我感**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 对照 *identity + romance* 句型。

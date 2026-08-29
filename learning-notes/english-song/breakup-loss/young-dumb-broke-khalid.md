@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Khalid**（本名 **Khalid Donnel Robinson**，1998 年 2 月 11 日生，乔治亚州 Fort Stewart）是美国**创作型歌手**，童年随军人家庭辗转多个基地。在得州 El Paso 读高中时开始在 SoundCloud 发布作品；2016 年首单 **"Location"** 获白金销量，并推出专辑 **American Teen**（2017）——大部分歌曲创作于青少年时期。Khalid 温暖、对话感的嗓音融合 **R&B、流行与灵魂乐**，歌词常写青春、初恋与小城生活。**"Young Dumb & Broke"** 成为 Z 世代 anthem；此后他获 **格莱美** 与 **Billboard 音乐奖**，并与 Billie Eilish、Calvin Harris 等合作。
+**Khalid**（本名 **Khalid Donnel Robinson**，1998 年 2 月 11 日生，乔治亚州 Fort Stewart）是美国**创作型歌手**，童年随军人家庭辗转多个基地。在得州 El Paso 读高中时开始在 SoundCloud 发布作品；2016 年首单 **"Location"** 获白金销量，并推出专辑 **American Teen**（2017）——大部分歌曲创作于青少年时期。Khalid 温暖、对话感的嗓音融合 **R&B、流行与灵魂乐**，歌词常写青春、初恋与小城生活。**"Young Dumb & Broke"** 成为 Z 世代颂歌；此后他获 **格莱美** 与 **Billboard 音乐奖**，并与 Billie Eilish、Calvin Harris 等合作。
 
 ---
 
@@ -118,7 +118,7 @@ But we still got love to give
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 所以你还在想着我
 就像我知道你会的那样
@@ -128,7 +128,7 @@ But we still got love to give
 是啊，我们只是年轻、犯傻又没钱
 但我们仍有爱可以付出
 
-#### Chorus
+#### 副歌
 
 趁我们还年轻、还犯傻
 年轻、年轻、犯傻又没钱
@@ -142,7 +142,7 @@ But we still got love to give
 （无词哼唱）
 年轻、犯傻、没钱的高中生
 
-#### Verse 2
+#### 主歌 2
 
 我们共同点很多
 却也一直吵架
@@ -153,17 +153,17 @@ But we still got love to give
 是啊，我们只是年轻、犯傻又没钱
 但我们仍有爱可以付出
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 纵身一跃，把一切押在爱的游戏里
 奔向「罪过」，一切只为好玩
 （无词过渡）
 
-#### Verse 3 + Outro
+#### 主歌 3 + 尾声
 
 此刻我情绪高涨
 我完全沉浸其中
@@ -189,6 +189,6 @@ But we still got love to give
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *young, dumb and broke* 节奏清楚，适合 **KTV 跟唱**；先练副歌再练 Verse。
+- 副歌 *young, dumb and broke* 节奏清楚，适合 **KTV 跟唱**；先练副歌再练主歌。
 - *caught up in this* 中 **caught up** 连读为 /kɔːtʌp/，跟读时注意 **t** 与 **up** 的衔接。
 - 想延伸读**年轻恋爱口语**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里关于约会、承诺的句型。

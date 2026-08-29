@@ -557,7 +557,7 @@ def build_listening_notes(meta: dict, title: str) -> str:
         f"- **年代标签：** {ERA_LABELS.get(meta['era'], meta['era'])}",
     ]
     if "use/ktv" in meta["uses"]:
-        lines.append(f"- 副歌 *{title.split('(')[0].strip()}* 适合 KTV 跟唱，先听清副歌再练 Verse。")
+        lines.append(f"- 副歌 *{title.split('(')[0].strip()}* 适合 KTV 跟唱，先听清副歌再练主歌。")
     if meta["level"] == "level/hard":
         lines.append("- 语速较快或词汇密度高，建议先慢速跟读再原速。")
     if "genre/jazz-standards" in meta["genres"]:

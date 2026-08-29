@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Lola Young**（2001 年 1 月 4 日生）是英国**创作型歌手**，成长于伦敦南部。她就读 **BRIT School**（与 Adele、Amy Winehouse 同校）， 11 岁起写歌。2021 年为 John Lewis 圣诞广告翻唱 *Together in Electric Dreams* 后知名度上升；2024 年发行第二张专辑 **This Wasn't Meant for You Anyway**，其中单曲 **"Messy"** 在 TikTok 爆红，登顶英国单曲榜，并获 **格莱美最佳流行独唱表演奖**（2026）。她的风格融合 **流行、灵魂、独立摇滚** 与 **R&B**；歌词常写亲密关系、心理健康、**ADHD**，以及「接受不完美的自己」而非迎合外界标准。
+**Lola Young**（2001 年 1 月 4 日生）是英国**创作型歌手**，成长于伦敦南部。她就读 **BRIT School**（与 Adele、Amy Winehouse 同校）， 11 岁起写歌。2021 年为 John Lewis 圣诞广告翻唱 *Together in Electric Dreams* 后知名度上升；2024 年发行第二张专辑 **This Wasn't Meant for You Anyway**，其中单曲 **"Messy"** 在 TikTok 爆红，登顶英国单曲榜，并获 **格莱美最佳流行独唱表演奖**（2026）。她的风格融合 **流行、灵魂、独立摇滚** 与 **节奏布鲁斯**；歌词常写亲密关系、心理健康、**ADHD**，以及「接受不完美的自己」而非迎合外界标准。
 
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Messy"** 于 **2024 年 5 月 30 日**发行，收录于专辑 *This Wasn't Meant for You Anyway*。Lola 称其为 **「ADHD  anthem」**：一首直白、带怒气的 pop-rock，写「怎么做都不对」——今天太乱，明天又太干净；太聪明又像太蠢。副歌用一组组**矛盾**（*I'm too messy, and then I'm too fucking clean*）呈现对方不断改标准、自己却只想**做回自己**的窒息感。单曲登顶**英国单曲榜**，在美国 Billboard Hot 100 最高 **第 14** 位。
+**"Messy"** 于 **2024 年 5 月 30 日**发行，收录于专辑 *This Wasn't Meant for You Anyway*。Lola 称其为 **「ADHD  anthem」**：一首直白、带怒气的流行摇滚，写「怎么做都不对」——今天太乱，明天又太干净；太聪明又像太蠢。副歌用一组组**矛盾**（*I'm too messy, and then I'm too fucking clean*）呈现对方不断改标准、自己却只想**做回自己**的窒息感。单曲登顶**英国单曲榜**，在美国 Billboard Hot 100 最高 **第 14** 位。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ Oh, and I'm too messy, and then I'm too fucking clean
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 你知道我没耐心
 那你干嘛让我在车站外面等
@@ -135,7 +135,7 @@ Oh, and I'm too messy, and then I'm too fucking clean
 我不瘦，还隔周就来一次「Britney 式崩溃」
 但放我一马吧，你到底想让我成为谁？
 
-#### Chorus
+#### 副歌
 
 因为我太乱，接着又太他妈干净
 你让我去找工作，又问我他妈去哪了
@@ -149,7 +149,7 @@ Oh, and I'm too messy, and then I'm too fucking clean
 你每一种都他妈讨厌
 你讨厌，你讨厌
 
-#### Verse 2
+#### 主歌 2
 
 你拖了老半天
 你还是不懂暗示，我又没要你写小作文
@@ -165,11 +165,11 @@ Oh, and I'm too messy, and then I'm too fucking clean
 因为我又嗨了
 忘了叠衣服
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro（加长副歌）
+#### 尾声（加长副歌）
 
 哦，我太乱，接着又太他妈干净
 *(副歌其余句重复至结尾)*

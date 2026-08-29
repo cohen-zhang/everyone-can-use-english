@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Old Dominion** 是 **2007 年**在 **Nashville** 成立的**乡村乐队**：**Matthew Ramsey**（主唱）、**Trevor Rosen** 与 **Whit Sellers**（均来自南卡）、**Geoff Sprung**（贝斯）、**Brad Tursi**（吉他）。走红前，成员曾为他人写歌——Ramsey 参与 The Band Perry 的 *"Chainsaw"*、James Arthur 的 *"Say You Won't Let Go"* 等。乐队自己的突破是 2015 年 *"Break Up with Him"*，随后发行专辑 **Happy Endings**（2017）。风格融合**当代乡村**与**流行副歌**，歌词机智、口语化；曾获多项 **CMA**、**ACM** 奖，包括「年度声乐组合」。
+**Old Dominion** 是 **2007 年**在 **Nashville** 成立的**乡村乐队**：**Matthew Ramsey**（主唱）、**Trevor Rosen** 与 **Whit Sellers**（均来自南卡）、**Geoff Sprung**（贝斯）、**Brad Tursi**（吉他）。走红前，成员曾为他人写歌——Ramsey 参与 The 乐队 Perry 的 *"Chainsaw"*、James Arthur 的 *"Say You Won't Let Go"* 等。乐队自己的突破是 2015 年 *"Break Up with Him"*，随后发行专辑 **Happy Endings**（2017）。风格融合**当代乡村**与**流行副歌**，歌词机智、口语化；曾获多项 **CMA**、**ACM** 奖，包括「年度声乐组合」。
 
 ---
 
@@ -130,7 +130,7 @@ I don't wanna be a one man band
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 独自飞了太久
 没人跟我唱和声
@@ -141,7 +141,7 @@ I don't wanna be a one man band
 你跟我唱在同一个调上
 我们让街上的人都跟着跳起舞来
 
-#### Chorus
+#### 副歌
 
 我不想再当一人乐队
 不想再一个人漂泊不定
@@ -153,7 +153,7 @@ I don't wanna be a one man band
 我不想再当一人乐队
 不要
 
-#### Verse 2
+#### 主歌 2
 
 我想追着你那些疯狂的梦一起跑
 想和你一起追每一次兴奋的高峰
@@ -173,13 +173,13 @@ I don't wanna be a one man band
 宝贝，牵我的手
 因为我不想再当一人乐队
 
-#### Bridge
+#### 桥段
 
 等聚光灯冷下来、幕布落下
 椅子都叠好了，周围一个人也没有
 就算没人买单，咱们也还在弹唱
 
-#### Final Chorus
+#### 终段副歌
 
 我不想再当一人乐队
 不想再一个人漂泊不定
@@ -222,5 +222,5 @@ I don't wanna be a one man band
 - 副歌 *I don't wanna be a one man band* 重复强、旋律顺，**KTV / 跟唱**友好；注意 *wanna*、*'Cause* 的口语连读。
 - 全曲用**乐队/巡演意象**讲恋爱：*harmony / same key / lay down the beat / carry the tune*——练「音乐词转生活隐喻」很合适。
 - *No base* 听感接近 *bass*；跟唱时按歌词文本即可，理解时记成「没贝斯」。
-- Bridge 三行画面感强（灯灭、椅子叠好、没人买单仍在弹），可单独练慢速跟读，体会 *goes cold / come down / stacked / paying / playing* 的押韵与节奏。
+- 桥段三行画面感强（灯灭、椅子叠好、没人买单仍在弹），可单独练慢速跟读，体会 *goes cold / come down / stacked / paying / playing* 的押韵与节奏。
 - 想延伸练**「想一起、不想单飞」**类恋爱口语，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]；同乐队另一首态度歌见 [[learning-notes/english-song/love-romance/no-such-thing-as-a-broken-heart-old-dominion|No Such Thing as a Broken Heart]]。

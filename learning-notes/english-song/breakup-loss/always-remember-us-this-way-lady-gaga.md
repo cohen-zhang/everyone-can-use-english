@@ -124,7 +124,7 @@ I'll always remember us this way
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 那片亚利桑那的天空
 在你眼里燃烧
@@ -135,7 +135,7 @@ I'll always remember us this way
 你找到了我身上的光
 我自己找不到的那束光
 
-#### Chorus
+#### 副歌
 
 所以当我哽咽说不出话
 却找不到词句
@@ -145,7 +145,7 @@ I'll always remember us this way
 乐队不再演奏
 我会一直记得我们那时的样子
 
-#### Verse 2
+#### 主歌 2
 
 夜里的恋人
 诗人努力想写诗
@@ -156,15 +156,15 @@ I'll always remember us this way
 我身上属于你的那部分
 永远不会消逝
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 我不想只变成一段回忆，宝贝
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 所以当我哽咽说不出话
 却找不到词句

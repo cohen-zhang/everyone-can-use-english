@@ -36,7 +36,7 @@ aliases:
 
 **中文**
 
-**弗兰克・辛纳特拉**（Frank Sinatra，1915–1998）是美国歌手、演员，常被称作 **Ol' Blue Eyes**，也是**二十世纪流行音乐**的标志性嗓音之一。早年随 Tommy Dorsey 大乐队出道，1940–50 年代以抒情与 swing 标准曲成为独唱巨星，先后签约 Columbia、**Capitol**、**Reprise**。他的乐句——略拖在拍后、像说话、情绪准——影响了几代人唱爵士与流行。与 Nelson Riddle、**Quincy Jones** 等编曲家，以及 **Count Basie** 大乐队的合作，留下多首经典 swing 录音。
+**弗兰克・辛纳特拉**（Frank Sinatra，1915–1998）是美国歌手、演员，常被称作 **Ol' Blue Eyes**，也是**二十世纪流行音乐**的标志性嗓音之一。早年随 Tommy Dorsey 大乐队出道，1940–50 年代以抒情与摇摆乐标准曲成为独唱巨星，先后签约 Columbia、**Capitol**、**Reprise**。他的乐句——略拖在拍后、像说话、情绪准——影响了几代人唱爵士与流行。与 Nelson Riddle、**Quincy Jones** 等编曲家，以及 **Count Basie** 大乐队的合作，留下多首经典摇摆乐录音。
 
 ---
 

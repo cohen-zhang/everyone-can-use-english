@@ -44,7 +44,7 @@ aliases:
 
 **中文**
 
-**"Against All Odds (Take a Look at Me Now)"** 由 Collins **词曲兼演唱**，为 **1984 年**新黑色电影 *Against All Odds*（翻拍自 *Out of the Past*）创作主题曲。导演 **Taylor Hackford** 因欣赏其嗓音而邀稿；旋律源自 1981 年未收录 demo *How Can You Just Sit There*。这首**强力抒情慢歌**写一个男人求前任 *take a look at me now*——明知复合希望渺茫（*against all odds*），仍愿赌一把。登美国 Hot 100 **冠军**（Collins 七首冠军之首）、英国 **第 2**，获 **1985 格莱美最佳流行男声**，并获奥斯卡最佳原创歌曲提名。
+**"Against All Odds (Take a Look at Me Now)"** 由 Collins **词曲兼演唱**，为 **1984 年**新黑色电影 *Against All Odds*（翻拍自 *Out of the Past*）创作主题曲。导演 **Taylor Hackford** 因欣赏其嗓音而邀稿；旋律源自 1981 年未收录小样 *How Can You Just Sit There*。这首**强力抒情慢歌**写一个男人求前任 *take a look at me now*——明知复合希望渺茫（*against all odds*），仍愿赌一把。登美国 Hot 100 **冠军**（Collins 七首冠军之首）、英国 **第 2**，获 **1985 格莱美最佳流行男声**，并获奥斯卡最佳原创歌曲提名。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -113,21 +113,21 @@ Take a look at me now
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我怎么能就这样让你走？
 让你不留痕迹地离开
 我还站在这里，每一次呼吸都与你同在，哦
 你是唯一真正懂我的人
 
-#### Verse 2
+#### 主歌 2
 
 你怎么能就这样离开我？
 当我只能眼睁睁看你离去
 因为我们曾分享欢笑与痛苦，甚至一起流泪
 你是唯一真正懂我的人
 
-#### Chorus 1
+#### 副歌 1
 
 那就看看现在的我，哦，只剩一片空白
 这里已没有任何东西让我想起
@@ -136,21 +136,21 @@ Take a look at me now
 你回到我身边，希望渺茫
 而这正是我必须面对的
 
-#### Verse 3
+#### 主歌 3
 
 我多想让你转过身来
 转过身，看见我哭泣
 我有太多话要对你说，太多理由
 你是唯一真正懂我的人
 
-#### Chorus 2
+#### 副歌 2
 
 那就看看现在的我，嗯，只剩一片空白
 这里已没有任何东西让我想起，只有你面容的记忆
 现在看看我，因为只剩一片空白
 但等待你是我唯一能做的，而这正是我必须面对的
 
-#### Chorus 3 / Outro
+#### 副歌 3 / 尾声
 
 好好看看现在的我，因为我会一直站在这里
 你回到我身边，希望渺茫
@@ -181,5 +181,5 @@ Take a look at me now
 
 - 副歌 *take a look at me now* 在整首歌中出现多次且措辞略有变化，适合练**同一句型的语调递进**（从 *So* 到 *Now* 到 *Take a good look*）。
 - *against the odds* 与 *against all odds* 在歌词中交替出现——跟唱时注意 Collins 有时更偏口语的 *against the odds* 发音。
-- Verse 与 Chorus 之间情绪从「质问」转为「恳求」，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 loss / longing 相关表达。
-- 钢琴与鼓点分明的 power ballad 结构，适合**精研**：先听清 Verse 叙事，再抓 Chorus 里 *empty space* 与 *against all odds* 的重音。
+- 主歌与副歌之间情绪从「质问」转为「恳求」，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 loss / longing 相关表达。
+- 钢琴与鼓点分明的力量抒情曲结构，适合**精研**：先听清主歌叙事，再抓副歌里 *empty space* 与 *against all odds* 的重音。

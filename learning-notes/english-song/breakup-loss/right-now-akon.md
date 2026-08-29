@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"Right Now (Na Na Na)"** 于 **2008 年 9 月 23 日**发行，为 Akon 第三张专辑 **Freedom** 主打歌。在 **欧式夜店 / dance-pop** 节拍上铺 R&B 人声，本质是一首分手后的**复合恳求**：歌手承认过错、思念前任，想立刻 **"make up"**（和好）并 **"link up"**（重新联系）——故有重复的 *na na* hook。桥段对比昔日亲密（*fly with me*、*dine with me*、*grind with me*）与如今的空缺。单曲在欧洲多国上榜，成为 **2000 年代末派对热曲**，但歌词底色是懊悔而非狂欢。
+**"Right Now (Na Na Na)"** 于 **2008 年 9 月 23 日**发行，为 Akon 第三张专辑 **Freedom** 主打歌。在 **欧式夜店 / dance-pop** 节拍上铺 R&B 人声，本质是一首分手后的**复合恳求**：歌手承认过错、思念前任，想立刻 **"make up"**（和好）并 **"link up"**（重新联系）——故有重复的 *na na* 钩子句。桥段对比昔日亲密（*fly with me*、*dine with me*、*grind with me*）与如今的空缺。单曲在欧洲多国上榜，成为 **2000 年代末派对热曲**，但歌词底色是懊悔而非狂欢。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -158,7 +158,7 @@ We need to link up right now na na
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 好久好久
 没见过你的脸
@@ -168,7 +168,7 @@ We need to link up right now na na
 抱着你、逗你、紧抱你
 告诉你我心里一直想的事
 
-#### Chorus
+#### 副歌
 
 我现在就想和好呐呐
 我现在就想和好呐呐
@@ -180,7 +180,7 @@ We need to link up right now na na
 真希望我们从没分手呐呐
 我们现在就得联系呐呐
 
-#### Verse 2
+#### 主歌 2
 
 女孩，我知道我们之间犯了错
 那晚我们出尽丑态，还说了些不是真心的话
@@ -188,11 +188,11 @@ We need to link up right now na na
 为什么不能回到从前
 因为你曾是我的哥们、爱人和朋友
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge 1
+#### 桥段 1
 
 我没法撒谎
 我太想你
@@ -204,7 +204,7 @@ We need to link up right now na na
 女孩，我太想你
 我太想你
 
-#### Bridge 1（重复，略有变词）
+#### 桥段 1（重复，略有变词）
 
 我没法撒谎
 我太想你
@@ -218,7 +218,7 @@ We need to link up right now na na
 
 *(同第一段副歌)*
 
-#### Bridge 2
+#### 桥段 2
 
 我想和你一起飞
 想和你一起飞
@@ -229,7 +229,7 @@ We need to link up right now na na
 那个愿与我厮守的人
 那个愿与我厮守的人
 
-#### Bridge 2（重复）
+#### 桥段 2（重复）
 
 我想和你一起飞
 想和你一起飞
@@ -240,7 +240,7 @@ We need to link up right now na na
 那个愿与我厮守的人
 哦，那个愿与我厮守的人
 
-#### Chorus（结尾）
+#### 副歌（结尾）
 
 我现在就想和好呐呐
 我现在就想和好呐呐
@@ -273,7 +273,7 @@ We need to link up right now na na
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *make up / link up right now na na* 节奏固定，适合 **KTV 先抓 hook** 再练 Verse。
+- 副歌 *make up / link up right now na na* 节奏固定，适合 **KTV 先抓 hook** 再练主歌。
 - *tryna / wont / somethings* 等为口语拼写，跟唱前对照表理解，不必改成书面语。
-- Bridge 里 *fly / lie / dine / grind* 四句排比，可单独慢速朗读练**尾韵**。
+- 桥段里 *fly / lie / dine / grind* 四句排比，可单独慢速朗读练**尾韵**。
 - 想延伸练「分手后想复合」的口语，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

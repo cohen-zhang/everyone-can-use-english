@@ -33,7 +33,7 @@ aliases:
 
 **中文**
 
-**Céline Dion**（1968 年 3 月 30 日生，加拿大魁北克）是加拿大**歌手**，全球唱片销量最高的艺人之一。青少年时期在法语圈成名，1990 年代以英文金曲成为国际流行巨星。她富有力量、控制精准的**高音 belt** 与抒情 ballad 定义了一代成人当代流行乐。代表作包括 **"My Heart Will Go On"**（《泰坦尼克号》）、**"The Power of Love"**、**"Because You Loved Me"**。Dion 获 **五项格莱美**，包括 *Falling Into You*（1997）的「年度专辑」，并曾在拉斯维加斯长期驻场演出。她以音准精准、戏剧化句读，以及把感恩与深情唱成「体育场级副歌」著称。
+**Céline Dion**（1968 年 3 月 30 日生，加拿大魁北克）是加拿大**歌手**，全球唱片销量最高的艺人之一。青少年时期在法语圈成名，1990 年代以英文金曲成为国际流行巨星。她富有力量、控制精准的**高音 belt** 与抒情抒情曲定义了一代成人当代流行乐。代表作包括 **"My Heart Will Go On"**（《泰坦尼克号》）、**"The Power of Love"**、**"Because You Loved Me"**。Dion 获 **五项格莱美**，包括 *Falling Into You*（1997）的「年度专辑」，并曾在拉斯维加斯长期驻场演出。她以音准精准、戏剧化句读，以及把感恩与深情唱成「体育场级副歌」著称。
 
 ---
 
@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"Because You Loved Me"** 由 **Diane Warren** 创作，**1996 年 2 月**发行，为罗伯特·雷德福与米歇尔·菲佛主演的爱情片 *Up Close and Personal* 主题曲，收录于 Dion 专辑 **Falling Into You**，并成为她第四首美国 **Billboard Hot 100 冠军单曲**。这是一封宏大的**感谢信**：写给那个在她无法相信自己时仍相信她的伴侣——*You were my strength when I was weak / You were my voice when I couldn't speak*。歌曲获**奥斯卡**与**金球奖**「最佳原创歌曲」提名，并赢得**格莱美「专为影视所写最佳歌曲」**。反复出现的 *I'm everything I am because you loved me* 使它成为婚礼、母亲节歌单与 KTV「感恩向」ballad 的经典。
+**"Because You Loved Me"** 由 **Diane Warren** 创作，**1996 年 2 月**发行，为罗伯特·雷德福与米歇尔·菲佛主演的爱情片 *Up Close and Personal* 主题曲，收录于 Dion 专辑 **Falling Into You**，并成为她第四首美国 **Billboard Hot 100 冠军单曲**。这是一封宏大的**感谢信**：写给那个在她无法相信自己时仍相信她的伴侣——*You were my strength when I was weak / You were my voice when I couldn't speak*。歌曲获**奥斯卡**与**金球奖**「最佳原创歌曲」提名，并赢得**格莱美「专为影视所写最佳歌曲」**。反复出现的 *I'm everything I am because you loved me* 使它成为婚礼、母亲节歌单与 KTV「感恩向」抒情曲的经典。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -122,7 +122,7 @@ Because you loved me
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 那些你始终站在我身边的日子
 那些你让我看见的真相
@@ -144,7 +144,7 @@ Because you loved me
 我如今的一切，都是因为你爱过我
 哦，宝贝
 
-#### Verse 2
+#### 主歌 2
 
 你给我翅膀，让我飞翔
 你触碰我的手，我便能触到天空
@@ -157,9 +157,9 @@ Because you loved me
 但我知道这一点千真万确
 我是幸运的，因为被你爱过
 
-#### Chorus（重复）
+#### 副歌（重复）
 
-#### Bridge
+#### 桥段
 
 你始终在我身边
 你是托住我的温柔的风
@@ -168,7 +168,7 @@ Because you loved me
 谎言之中，你是真相
 因你，我的世界更美好
 
-#### Final Chorus
+#### 终段副歌
 
 *(副歌重复；背景人声叠唱括号句至结尾)*
 
@@ -201,4 +201,4 @@ Because you loved me
 - 副歌 *You were my strength when I was weak* 四句排比结构清楚，适合练**平行句型**与**重音**：每句重读 *strength / voice / eyes / best*。
 - Dion 的 **belting** 在长句尾（*because you loved me*）会拉高音——跟唱前先分句换气，别一口气憋到底。
 - *stood by me / saw me through / lifted me up* 三个短语可连成一组「感恩动词」，对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里表达陪伴的句型。
-- KTV 难点在 Bridge 后反复副歌的情绪递进；先练 Verse 1 的排比 *For all those times…*，再进副歌更稳。
+- KTV 难点在桥段后反复副歌的情绪递进；先练主歌 1 的排比 *For all those times…*，再进副歌更稳。

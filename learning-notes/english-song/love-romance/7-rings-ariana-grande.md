@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"7 rings"** 于 **2019 年 1 月 18 日**发行，为 *thank u, next* 第二支单曲。旋律与 hook 借自音乐剧 **"My Favorite Things"**（《音乐之声》），改编成 **trap-pop** 热单。Ariana 说灵感来自分手后与闺蜜逛街、想给她们买同款戒指的一天。歌词庆祝**购物疗愈**、经济独立（*I see it, I like it, I want it, I got it*），以及拒绝被婚姻定义（*Wearing a ring, but ain't gon' be no "Mrs."*）。单曲首发即登 **Billboard Hot 100 榜首**，也引发关于文化挪用与炫富的讨论。
+**"7 rings"** 于 **2019 年 1 月 18 日**发行，为 *thank u, next* 第二支单曲。旋律与钩子句借自音乐剧 **"My Favorite Things"**（《音乐之声》），改编成 **trap-pop** 热单。Ariana 说灵感来自分手后与闺蜜逛街、想给她们买同款戒指的一天。歌词庆祝**购物疗愈**、经济独立（*I see it, I like it, I want it, I got it*），以及拒绝被婚姻定义（*Wearing a ring, but ain't gon' be no "Mrs."*）。单曲首发即登 **Billboard Hot 100 榜首**，也引发关于文化挪用与炫富的讨论。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -141,7 +141,7 @@ I see it, I like it, I want it, I got it (yep)
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 对，蒂芙尼早餐、香槟泡泡
 纹身女孩、爱惹事
@@ -152,21 +152,21 @@ I see it, I like it, I want it, I got it (yep)
 宁愿被电话缠住，不要情丝牵绊
 自己开支票，像写歌一样自在，耶
 
-#### Pre-Chorus
+#### 预副歌
 
 别盯我手腕，我脖子闪得晃眼
 大笔存款，唇彩亮得炸
 喜欢这头发？谢啦，刚买的
 看见、喜欢、想要、到手，耶
 
-#### Chorus
+#### 副歌
 
 想要就有，想要就有
 想要就有，想要就有
 喜欢这头发？谢啦，刚买的
 看见、喜欢、想要、到手（对）
 
-#### Verse 2
+#### 主歌 2
 
 戴着戒指，但不会当「某某太太」
 给六个闺蜜买了同款钻
@@ -177,18 +177,18 @@ I see it, I like it, I want it, I got it (yep)
 问「要哪个？」我说：「不，我全要」
 快乐和红底鞋一个价
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 笑容灿烂（耶），皮肤发亮（发亮）
 那光泽，我知道你见过（你见过）
 买房就为了（就为了）衣帽间（衣帽间）
 男女款都要，想要就有，耶
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 3
+#### 主歌 3
 
 小票长得跟电话号码似的
 不是钱的事，免谈
@@ -206,7 +206,7 @@ I see it, I like it, I want it, I got it (yep)
 在片场没有预算上限
 喜欢就拿，耶
 
-#### Chorus（结尾）
+#### 副歌（结尾）
 
 想要就有，想要就有（耶）
 想要就有，想要就有（哦耶）

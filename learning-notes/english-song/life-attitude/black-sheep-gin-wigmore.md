@@ -106,12 +106,12 @@ Once you go black, you never go back
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 哦，哦，哦……
 *(重复四轮，营造蓄势感)*
 
-#### Verse 1
+#### 主歌 1
 
 一堆吃醋的前任，都想把我追回来
 我这张嘴像把手枪，我妈遗传给我的
@@ -120,7 +120,7 @@ Once you go black, you never go back
 大家都在这么做，我他妈凭什么也要
 大家都在这么做，我他妈凭什么也要
 
-#### Chorus
+#### 副歌
 
 我不是好留住的女人
 惹火了我，我可不是来讨好的
@@ -129,7 +129,7 @@ Once you go black, you never go back
 我是那只黑羊
 我是那只黑羊
 
-#### Verse 2
+#### 主歌 2
 
 我不是天生选美冠军，但我接受
 也许电台不介意我唱得有点跑调
@@ -138,11 +138,11 @@ Once you go black, you never go back
 大家都在这么做，我他妈凭什么也要
 大家都在这么做，我他妈凭什么也要
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 我是那只黑羊
 我是那只黑羊

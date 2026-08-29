@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Macklemore**（本名 **Benjamin Hammond Haggerty**，1983 年 6 月 19 日生，西雅图）是美国**说唱歌手与词曲作者**，从西雅图独立 hip-hop 圈崛起。与制作人 **Ryan Lewis** 合作推出 **"Thrift Shop"**、**"Can't Hold Us"** 等全球热单（*The Heist* 2012 年双获格莱美）。成名后经历成瘾与**康复**，2017 年以个人专辑 **GEMINI** 回归。**"Glorious"**——**Skylar Grey** 演唱高亢副歌——为庆祝**第一个女儿**出生与人生第二次机会而写。他的风格融合**意识流说唱、流行 hook 与个人叙事**；常在精致制作下写戒断、家庭与 legacy。
+**Macklemore**（本名 **Benjamin Hammond Haggerty**，1983 年 6 月 19 日生，西雅图）是美国**说唱歌手与词曲作者**，从西雅图独立嘻哈圈崛起。与制作人 **Ryan Lewis** 合作推出 **"Thrift Shop"**、**"Can't Hold Us"** 等全球热单（*The Heist* 2012 年双获格莱美）。成名后经历成瘾与**康复**，2017 年以个人专辑 **GEMINI** 回归。**"Glorious"**——**Skylar Grey** 演唱高亢副歌——为庆祝**第一个女儿**出生与人生第二次机会而写。他的风格融合**意识流说唱、流行 hook 与个人叙事**；常在精致制作下写戒断、家庭与传奇遗产。
 
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Glorious"** 于 **2017 年 6 月 15 日**发行，为 *GEMINI* 主打单曲。Macklemore 在女儿 **Colette** 出生前一晚写下这首歌，把康复写成**荣耀**：*I made it through the darkest part of the night / And now I see the sunrise*。Verse 语速快——**lease on life**、*sleep when I die*、祖母的骄傲（*that boy got bars*）——Skylar Grey 的副歌则把歌推向**体育场流行**气质。单曲在 Hot 100 最高 **第 49** 位，常出现在**体育集锦与励志歌单**。注意：Verse 含轻度粗口（*shit I'm straight*）。
+**"Glorious"** 于 **2017 年 6 月 15 日**发行，为 *GEMINI* 主打单曲。Macklemore 在女儿 **Colette** 出生前一晚写下这首歌，把康复写成**荣耀**：*I made it through the darkest part of the night / And now I see the sunrise*。主歌语速快——**lease on life**、*sleep when I die*、祖母的骄傲（*that boy got bars*）——Skylar Grey 的副歌则把歌推向**体育场流行**气质。单曲在 Hot 100 最高 **第 49** 位，常出现在**体育集锦与励志歌单**。注意：主歌含轻度粗口（*shit I'm straight*）。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ The world is up for grabs
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 你知道我回来了，像从未离开
 又一次冲刺，又一步
@@ -158,7 +158,7 @@ The world is up for grabs
 两万人上街，像战士一样
 我妈说永远不要低头，哇！
 
-#### Chorus（Skylar Grey）
+#### 副歌（Skylar Grey）
 
 我感到光荣，光荣
 有机会重新开始
@@ -169,7 +169,7 @@ The world is up for grabs
 现在我感到光荣，光荣
 我感到光荣，光荣
 
-#### Verse 2
+#### 主歌 2
 
 我感到光荣
 房子像维多利亚式（哦没错）
@@ -185,11 +185,11 @@ The world is up for grabs
 又一个早晨，别让自我挡路
 我有呼吸、有信念，记得我为何而来
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 我们会没事的，我以生命担保
 当我睁开眼，希望看见你闪耀
@@ -200,7 +200,7 @@ The world is up for grabs
 我们插下一面他们不懂的旗
 世界任我们争取
 
-#### Final Chorus
+#### 终段副歌
 
 *(副歌重复至结尾)*
 
@@ -222,6 +222,6 @@ The world is up for grabs
 
 ## 听歌提示 · Listening Notes
 
-- Verse 1 语速快、词汇密，建议**先慢速跟读**再原速；注意 *lease on life* 与 *peace of mind* 两处重音。
+- 主歌 1 语速快、词汇密，建议**先慢速跟读**再原速；注意 *lease on life* 与 *peace of mind* 两处重音。
 - 副歌由 Skylar Grey 演唱，音域较高；练唱时可先哼旋律再填词。
-- 想延伸读**成人情绪与自我表达**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 resilience、identity 的句型。
+- 想延伸读**成人情绪与自我表达**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于韧性、identity 的句型。

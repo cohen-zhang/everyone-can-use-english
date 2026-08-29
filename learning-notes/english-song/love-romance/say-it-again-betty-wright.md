@@ -123,7 +123,7 @@ Oh, I love you come on, come on
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus（开篇）
+#### 副歌（开篇）
 
 再说一遍，哦亲爱的
 请再为我多说一次
@@ -135,7 +135,7 @@ Oh, I love you come on, come on
 我不敢相信我听对了
 你是不是说你爱我，嗯
 
-#### Verse 1
+#### 主歌 1
 
 我们是朋友，很久以来非常亲密的朋友
 我看得出你心里有件沉重的事
@@ -143,13 +143,13 @@ Oh, I love you come on, come on
 昨晚你说的时候，我确定你没说错（指昨晚表白）
 我爱你，哦
 
-#### Chorus
+#### 副歌
 
 *(同开篇副歌)*
 
 再说一遍，一遍又一遍
 
-#### Verse 2
+#### 主歌 2
 
 坐在这儿，你的脑子乱成一团
 别害怕，让这段感情开始吧
@@ -157,7 +157,7 @@ Oh, I love you come on, come on
 我永远有时间听你说
 我爱你（啊）
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 再说一遍，哦亲爱的
 请再为我多说一次
@@ -165,13 +165,13 @@ Oh, I love you come on, come on
 你是不是说你爱我
 再说一遍，一遍又一遍
 
-#### Bridge
+#### 桥段
 
 哦，抱着我，告诉我你在想什么
 我永远有时间听你说
 我爱你（啊）
 
-#### Outro
+#### 尾声
 
 我是不是听到你说爱我
 我是不是听到你说，你爱我，哦
@@ -203,5 +203,5 @@ Oh, I love you come on, come on
 ## 听歌提示 · Listening Notes
 
 - 副歌 *Say it again* 节奏舒缓，适合练**重读 + 拖长元音**：*Say it agaaain, ooh honey*。
-- Verse 里 *hangin*、*somethin'* 等**口语缩略**很常见，跟唱时注意轻读。
+- 主歌里 *hangin*、*somethin'* 等**口语缩略**很常见，跟唱时注意轻读。
 - 想延伸练**恋爱里「要对方说清楚」**的句型，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里请求确认、表达不确定的段落。

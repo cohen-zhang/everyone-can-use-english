@@ -27,7 +27,7 @@ aliases:
 
 ### 英文歌词 · English Lyrics
 
-#### 1 · 经典一节 · Classic verse
+#### 1 · 经典一节 · 经典主歌
 
 Twinkle, twinkle, little star,  
 How I wonder what you are!  
@@ -40,7 +40,7 @@ How I wonder what you are!
 
 ### 中文翻译 · Chinese Translation
 
-#### 1 · 经典一节 · Classic verse
+#### 1 · 经典一节 · 经典主歌
 
 闪呀闪，小星星，你究竟是什么？高高挂在天上，像颗钻石。再唱一遍。
 

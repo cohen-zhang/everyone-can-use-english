@@ -134,7 +134,7 @@ The cold never bothered me anyway
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 今夜山上白雪闪耀
 看不见一丝足迹
@@ -143,14 +143,14 @@ The cold never bothered me anyway
 风在呼啸，像我内心翻涌的风暴
 再也藏不住了，天知道我试过
 
-#### Pre-Chorus
+#### 预副歌
 
 别让他们进来，别让他们看见
 做那个你永远得做的乖乖女
 隐藏，别去感受，别让他们知道
 好吧，现在他们知道了
 
-#### Chorus
+#### 副歌
 
 放开吧，放开吧
 再也憋不住了
@@ -160,7 +160,7 @@ The cold never bothered me anyway
 让风暴继续肆虐吧
 反正寒冷从来伤不了我
 
-#### Verse 2
+#### 主歌 2
 
 有趣的是，拉开一点距离，一切就显得渺小
 曾经控制我的恐惧，再也碰不到我
@@ -170,7 +170,7 @@ The cold never bothered me anyway
 没有对错，没有规矩管得住我
 我自由了
 
-#### Chorus（重复 + 变奏）
+#### 副歌（重复 + 变奏）
 
 放开吧，放开吧
 我与风与天融为一体
@@ -179,14 +179,14 @@ The cold never bothered me anyway
 我就站在这里，就在这里留下
 让风暴继续肆虐吧
 
-#### Bridge
+#### 桥段
 
 我的力量如雪花掠过空气，渗入大地
 我的灵魂在四周冰封的碎形中盘旋
 一个念头如冰暴般凝结
 我绝不回头，过去就留在过去
 
-#### Final Chorus
+#### 终段副歌
 
 放开吧，放开吧
 我将如破晓般升起
@@ -222,7 +222,7 @@ The cold never bothered me anyway
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *Let it go* 重复极高，适合**通勤**跟唱；难点在 Bridge 与第三段副歌的 **belting** 高音——先哼旋律找换气点，再填词。
+- 副歌 *Let it go* 重复极高，适合**通勤**跟唱；难点在桥段与第三段副歌的 **belting** 高音——先哼旋律找换气点，再填词。
 - *Conceal, don't feel* 三词短句可练**命令式排比**；与 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里压抑、释放对照阅读。
 - 结尾 *The cold never bothered me anyway* 语气要轻松、带点挑衅——不是抱怨冷，而是「我根本不在乎」。
 - 电影版与 Demi Lovato 片尾版歌词略有不同；本笔记为 **Idina Menzel 电影版**，KTV 选曲时认准版本。

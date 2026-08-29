@@ -38,7 +38,7 @@ aliases:
 
 **Cardi B**（本名 **Belcalis Marlenis Almánzar**，1992 年 10 月 11 日生于纽约布朗克斯）是美国**说唱歌手、词曲作者**。从社交媒体与真人秀杀入主流，凭 *"Bodak Yellow"*（2017）成为自 Lauryn Hill 以来首位独唱女说唱登顶 Billboard Hot 100 的艺人；专辑 ***Invasion of Privacy***（2018）获格莱美。风格混合布朗克斯式直球、幽默与毫不掩饰的性表达。
 
-**Megan Thee Stallion**（本名 **Megan Jovon Ruth Pete**，1995 年 2 月 15 日生于德州休斯顿）是美国**说唱歌手**，以高速 flow、南方气场及 *"Savage"*、*"Hot Girl Summer"* 文化著称。两人合作的 **"WAP"** 成为 2020 年讨论度最高的跨界热单之一。
+**Megan Thee Stallion**（本名 **Megan Jovon Ruth Pete**，1995 年 2 月 15 日生于德州休斯顿）是美国**说唱歌手**，以高速说唱节奏流、南方气场及 *"Savage"*、*"Hot Girl Summer"* 文化著称。两人合作的 **"WAP"** 成为 2020 年讨论度最高的跨界热单之一。
 
 ---
 
@@ -117,20 +117,20 @@ There's some wh- in this house
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro / Hook（委婉）
+#### 前奏 / 钩子句（委婉）
 
 这屋里有点「狂野」的味道（原词更粗）
 （重复）
 我是认证的「玩得开」，一周七天都这样
 （露骨性暗示，略译）让对方招架不住
 
-#### Chorus Hook（委婉）
+#### 副歌 钩子句（委婉）
 
 对，你面对的是「湿又滑」那一套（性暗示俚语）
 得准备水桶和拖把——夸张说「水太多」
 为这个，把你所有的都给我
 
-#### Verse 1 — Cardi B（摘要）
+#### 主歌 1 — Cardi B（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
@@ -139,7 +139,7 @@ There's some wh- in this house
 我不做饭，也不打扫
 但告诉你，我这儿有「真本事」（原词双关更露骨）
 
-#### Verse 过渡 / Pre（摘要）
+#### 主歌 过渡 / Pre（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
@@ -149,7 +149,7 @@ There's some wh- in this house
 付我学费，就为亲一下（夸张权力感）
 想看的话就「撒钱如雨」（俱乐部用语）
 
-#### Verse 2 — Megan Thee Stallion（摘要）
+#### 主歌 2 — Megan Thee Stallion（摘要）
 
 （露骨段落略译 / 跟唱以原词为准）
 
@@ -159,7 +159,7 @@ There's some wh- in this house
 换顶假发，让他觉得自己在偷吃
 打架从没输过，但我在找人「收拾」我（双关：床第 / 打斗）
 
-#### Final Chorus / Outro（委婉）
+#### 终段副歌 / 尾声（委婉）
 
 （采样原词；粗口，公共场合慎用）
 对，你面对的是这一套
@@ -198,4 +198,4 @@ There's some wh- in this house
 - 学习重点放在：**hook 节奏**、*dealin' with / seven days a week / make it rain* 等可迁移口语，而不是背诵露骨细节。
 - Cardi 与 Megan 的咬字快、连读多；先慢速跟 *wet and gushy / bucket and a mop* 的节奏型，再听原速。
 - 文化层面：这首歌把女性性话语推到主流流行前沿，也引发审查与性别政治争论——听懂「为什么吵」和听懂每个脏词一样有用。
-- 若只想练浪漫/亲密英语而非露骨说唱，优先 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 或其他非 explicit 曲目。
+- 若只想练浪漫/亲密英语而非露骨说唱，优先 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 或其他非脏词版曲目。

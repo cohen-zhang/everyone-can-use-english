@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Grover Washington, Jr.**（1943－1999）是美国**爵士放克萨克斯手**，来自纽约州 Buffalo，是当年最畅销的爵士器乐艺人之一。以流畅、旋律感强的次中音与高音萨克斯著称，1970–80 年代助力定义 **「平滑爵士」**。**Bill Withers**（1938－2020）是**创作型歌手**，来自西弗吉尼亚 **Slab Fork**，在海军服役九年后才入行。**"Ain't No Sunshine"**、**"Lean on Me"**、**"Lovely Day"** 等让他成为灵魂／民谣偶像，歌词朴实 universal。在 **"Just the Two of Us"** 里，Withers 为 Washington **1980** 年作品主唱——Washington 的萨克斯负责器乐主旋律，Withers 演绎浪漫人声。
+**Grover Washington, Jr.**（1943－1999）是美国**爵士放克萨克斯手**，来自纽约州 Buffalo，是当年最畅销的爵士器乐艺人之一。以流畅、旋律感强的次中音与高音萨克斯著称，1970–80 年代助力定义 **「平滑爵士」**。**Bill Withers**（1938－2020）是**创作型歌手**，来自西弗吉尼亚 **Slab Fork**，在海军服役九年后才入行。**"Ain't No Sunshine"**、**"Lean on Me"**、**"Lovely Day"** 等让他成为灵魂／民谣偶像，歌词朴实普世。在 **"Just the Two of Us"** 里，Withers 为 Washington **1980** 年作品主唱——Washington 的萨克斯负责器乐主旋律，Withers 演绎浪漫人声。
 
 ---
 
@@ -127,7 +127,7 @@ Just the two of us, you and I
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我看见晶莹的雨滴落下
 而这一切的美好
@@ -136,7 +136,7 @@ Just the two of us, you and I
 当我某刻想起你
 我就想和你共度时光
 
-#### Chorus
+#### 副歌
 
 就我们俩，只要我们努力就能成
 就我们俩（就我们俩）
@@ -144,7 +144,7 @@ Just the two of us, you and I
 在天上筑城堡
 就我们俩，你和我
 
-#### Verse 2
+#### 主歌 2
 
 我们寻找爱，没时间流泪
 白白流掉的水仅此而已
@@ -153,7 +153,7 @@ Just the two of us, you and I
 但不会留给等太久的人
 我们得为所知的一切全力一搏
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 就我们俩，只要我们努力就能成
 就我们俩（就我们俩）
@@ -161,7 +161,7 @@ Just the two of us, you and I
 在天上筑那些城堡
 就我们俩，你和我
 
-#### Verse 3
+#### 主歌 3
 
 我听见晶莹的雨滴落下
 打在大厅尽头的窗上
@@ -176,7 +176,7 @@ Just the two of us, you and I
 在高处筑大大的城堡
 就我们俩，你和我
 
-#### Outro（即兴重复）
+#### 尾声（即兴重复）
 
 （就我们俩）对，就我们俩
 （就我们俩）宝贝，我们在一起吧

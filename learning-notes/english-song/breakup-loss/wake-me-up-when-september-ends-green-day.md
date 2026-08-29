@@ -115,7 +115,7 @@ Wake me up when September ends
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 夏天来了又走了
 天真的日子总留不住
@@ -125,7 +125,7 @@ Wake me up when September ends
 七年过得好快
 九月过完再叫醒我
 
-#### Chorus
+#### 副歌
 
 雨又来了
 从星星上落下来
@@ -136,7 +136,7 @@ Wake me up when September ends
 却从未忘记我失去的
 九月过完再叫醒我
 
-#### Verse 2
+#### 主歌 2
 
 夏天来了又走了
 天真的日子总留不住
@@ -146,11 +146,11 @@ Wake me up when September ends
 像春天刚开始时那样
 九月过完再叫醒我
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 3 / Outro
+#### 主歌 3 / 尾声
 
 夏天来了又走了
 天真的日子总留不住
@@ -186,6 +186,6 @@ Wake me up when September ends
 
 - 标题句 *Wake me up when September ends* 重复多、节奏稳，适合**跟唱练连读**（*wake me up* → /ˈweɪk miː ʌp/）。
 - 注意 *come to pass* 与日常 *pass away* 的语感差别：歌词更书面、更沉重。
-- Verse 里 *seven years* → *20 years* 是时间跳跃；听时可对照自己「某段伤痛过了多久」。
+- 主歌里 *seven years* → *20 years* 是时间跳跃；听时可对照自己「某段伤痛过了多久」。
 - 开头木吉他偏轻，副歌电吉他进来后音量拉大——练听**动态起伏**，别一上来就喊。
 - 想延伸练**丧亲 / 记忆**表达，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Nana**（Nana Kwame Abrokwa，1968 年 10 月 5 日生于加纳 Accra）是**加纳裔德国**说唱歌手与 DJ，亦称 **Darkman**。*"Nana"* 是加纳贵族头衔，并非本名。十岁移居**汉堡**，先在嘻哈俱乐部当 DJ，曾短暂加入 eurodance 组合 Darkness，后以 **Booya Music** 厂牌出道。同名首专 *Nana*（1997）在德国与瑞士获金唱片；单曲 **"Lonely"** 使他成为 **1990 年代 Euro-rap** 的代表声音之一。后创立 **Darkman Records**，仍在欧洲发行与巡演。
+**Nana**（Nana Kwame Abrokwa，1968 年 10 月 5 日生于加纳 Accra）是**加纳裔德国**说唱歌手与 DJ，亦称 **Darkman**。*"Nana"* 是加纳贵族头衔，并非本名。十岁移居**汉堡**，先在嘻哈俱乐部当 DJ，曾短暂加入欧陆舞曲组合 Darkness，后以 **Booya Music** 厂牌出道。同名首专 *Nana*（1997）在德国与瑞士获金唱片；单曲 **"Lonely"** 使他成为 **1990 年代 Euro-rap** 的代表声音之一。后创立 **Darkman Records**，仍在欧洲发行与巡演。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Lonely"** 于 **1997 年 4 月 7 日**发行，为 Nana 首专 *Nana* 的第二支单曲。由 **Bülent Aris**、**Toni Cottura** 制作并合写，**pop-rap** 说唱段叠上合唱副歌（*I am lonely… God help me to survive*）。副歌由 **Alexandra Prince**、**Jan van der Toorn**、**Mazaya** 演唱（常未标 featuring）。单曲登上**德国**与**瑞士**榜首，德国获**白金**，是当时最畅销的德语区说唱单曲之一。主题：友谊失落、街头戒备（*snakes*）、信仰与孤独。**专辑版约 6:21**；电台版更短。俚语密度高 → **难度难**。
+**"Lonely"** 于 **1997 年 4 月 7 日**发行，为 Nana 首专 *Nana* 的第二支单曲。由 **Bülent Aris**、**Toni Cottura** 制作并合写，**pop-rap** 说唱段叠上合唱副歌（*I am lonely… God help me to survive*）。副歌由 **Alexandra Prince**、**Jan van der Toorn**、**Mazaya** 演唱（常未标客串标注）。单曲登上**德国**与**瑞士**榜首，德国获**白金**，是当时最畅销的德语区说唱单曲之一。主题：友谊失落、街头戒备（*snakes*）、信仰与孤独。**专辑版约 6:21**；电台版更短。俚语密度高 → **难度难**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -167,14 +167,14 @@ And damn, I'm alone
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 我好孤独，孤独，孤独
 我这一生好孤独
 我好孤独，孤独，孤独
 上帝啊，帮帮我活下去！
 
-#### Verse 1
+#### 主歌 1
 
 还记得我们第一次见面，第一天
 孩子在花园里玩
@@ -201,11 +201,11 @@ Nana 在这儿告诉你
 我看见的就是我感觉到的
 该死，我是一个人
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 2
+#### 主歌 2
 
 人人都跟我过不去
 哦主啊，求你帮帮我
@@ -241,7 +241,7 @@ Nana 在这儿告诉你
 
 *(同第一段副歌)*
 
-#### Verse 3
+#### 主歌 3
 
 敲我的门，你在找谁
 是梦还是现实，敌人就在门口
@@ -288,7 +288,7 @@ Nana 在这儿告诉你
 
 ## 听歌提示 · Listening Notes
 
-- 副歌极重复、旋律简单，可先**只跟唱 chorus**；Verse 语速快、俚语密，属 **level/hard**。
+- 副歌极重复、旋律简单，可先**只跟唱副歌**；主歌语速快、俚语密，属 **level/hard**。
 - 流媒体歌词有 OCR/拼写噪声（*stiked*→stuck、*shepard*→shepherd、*Cheppin'*→Steppin'），以听感与上表为准。
 - *snakes / diggity / on my jock* 等 90 年代嘻哈口语，精听时对照 Key Phrases，不必逐词模仿粗话场合。
-- 主题是「曾经有真朋友，如今只剩孤独与信仰」；可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 loneliness 与 trust 的表达。
+- 主题是「曾经有真朋友，如今只剩孤独与信仰」；可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于孤独与 trust 的表达。

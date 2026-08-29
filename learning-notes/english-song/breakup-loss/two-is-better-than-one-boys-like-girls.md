@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Boys Like Girls** 是 2005 年在**波士顿**成立的美国**流行摇滚**乐队，核心为创作型主唱 **Martin Johnson**。首张同名专辑（2006）与第二张 **Love Drunk**（2009）融合 **emo-pop**、**强力流行** 与体育场式副歌，代表曲包括 **"The Great Escape"**、**"Love Drunk"**。Johnson 与当时刚为乐队做巡演嘉宾、凭 *Fearless* 快速走红的 **Taylor Swift** 合写 **"Two Is Better Than One"**；录音版里 Swift 负责**女声与和声**（副歌与 Outro 最明显，并非独立 featured verse）。乐队 2010 年代暂停活动；Johnson 后为他人创作热门曲，并组建 **The Night Game**。Swift 则在此后成为一代最具影响力的流行创作人之一。
+**Boys Like Girls** 是 2005 年在**波士顿**成立的美国**流行摇滚**乐队，核心为创作型主唱 **Martin Johnson**。首张同名专辑（2006）与第二张 **Love Drunk**（2009）融合 **情绪流行**、**强力流行** 与体育场式副歌，代表曲包括 **"The Great Escape"**、**"Love Drunk"**。Johnson 与当时刚为乐队做巡演嘉宾、凭 *Fearless* 快速走红的 **Taylor Swift** 合写 **"Two Is Better Than One"**；录音版里 Swift 负责**女声与和声**（副歌与尾声最明显，并非独立客串主歌段）。乐队 2010 年代暂停活动；Johnson 后为他人创作热门曲，并组建 **The Night Game**。Swift 则在此后成为一代最具影响力的流行创作人之一。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Two Is Better Than One"** 于 **2009 年 9 月 8 日**发行，为 *Love Drunk* 第二支单曲。Johnson 与 **Taylor Swift** 在 Swift 为乐队做巡演嘉宾后合写此曲；录音版中 Swift 负责**女声与和声**（副歌与 Outro 尤其明显，并非独立 featured verse，但辨识度很高）。这是一首**中速流行抒情曲**，写对意外心动对象的沦陷——*I remember what you wore on the first day*——并发现自己**离不开对方**，尽管嘴上还说人生还有很多时间 *to figure out the rest of my life*。歌名钩子 *Two is better than one* 简单好记；Swift 的和声为 Johnson 主唱添了一层温柔。单曲在 Billboard Hot 100 最高 **第 18** 位，成为 2000 年代末原声流行歌单与婚礼翻唱常客。
+**"Two Is Better Than One"** 于 **2009 年 9 月 8 日**发行，为 *Love Drunk* 第二支单曲。Johnson 与 **Taylor Swift** 在 Swift 为乐队做巡演嘉宾后合写此曲；录音版中 Swift 负责**女声与和声**（副歌与尾声尤其明显，并非独立客串主歌段，但辨识度很高）。这是一首**中速流行抒情曲**，写对意外心动对象的沦陷——*I remember what you wore on the first day*——并发现自己**离不开对方**，尽管嘴上还说人生还有很多时间 *to figure out the rest of my life*。歌名钩子 *Two is better than one* 简单好记；Swift 的和声为 Johnson 主唱添了一层温柔。单曲在 Billboard Hot 100 最高 **第 18** 位，成为 2000 年代末原声流行歌单与婚礼翻唱常客。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ Two is better than one
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我记得你第一天穿的什么
 你走进我的生活，我想，嘿
@@ -146,7 +146,7 @@ Two is better than one
 你知道这些都让我屏息
 而现在我心里什么都不剩（只剩你）
 
-#### Chorus
+#### 副歌
 
 所以也许这是真的
 我离不开你
@@ -156,7 +156,7 @@ Two is better than one
 而你早已让我溃不成军
 我在想，两个人在一起更好
 
-#### Verse 2
+#### 主歌 2
 
 我记得你脸上每一个表情
 你翻白眼的样子，你吻的味道
@@ -166,7 +166,7 @@ Two is better than one
 想到你，一切都好
 我终于开始相信了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 那时也许这是真的
 我离不开你
@@ -176,12 +176,12 @@ Two is better than one
 而你早已让我溃不成军
 我在想，两个人在一起更好
 
-#### Bridge
+#### 桥段
 
 我记得你第一天穿的什么
 你走进我的生活，我想，嘿（嘿，嘿）
 
-#### Chorus（Bridge 后）
+#### 副歌（桥段 后）
 
 也许这是真的
 我离不开你
@@ -190,7 +190,7 @@ Two is better than one
 去弄清余下的人生该怎么过
 而你早已让我溃不成军
 
-#### Outro
+#### 尾声
 
 我在想，哦
 我离不开你
@@ -223,8 +223,8 @@ Two is better than one
 
 ## 听歌提示 · Listening Notes
 
-- 副歌旋律平缓，**通勤跟听 + 跟唱**都很友好；先熟 *Two is better than one* 再练 Pre-Chorus 长句。
-- **Taylor Swift** 的和声在第二遍副歌与 Outro 最明显（*'Cause baby, two is better than one*），可先听清她的层再跟 Johnson 主唱。
+- 副歌旋律平缓，**通勤跟听 + 跟唱**都很友好；先熟 *Two is better than one* 再练预副歌长句。
+- **Taylor Swift** 的和声在第二遍副歌与尾声最明显（*'Cause baby, two is better than one*），可先听清她的层再跟 Johnson 主唱。
 - *takes my breath away*、*coming undone* 两处适合练**连读与重音**：breath / undone 可略拖长。
-- **feat. Taylor Swift** 段落人声轻柔，适合练男女声交替：Johnson 主唱 Verse，Swift 和声叠在副歌 *two is better than one*。
+- **feat. Taylor Swift** 段落人声轻柔，适合练男女声交替：Johnson 主唱主歌，Swift 和声叠在副歌 *two is better than one*。
 - 想延伸 Taylor Swift 同类型抒情表达，可打开 [[learning-notes/english-song/breakup-loss/you-belong-with-me-taylor-swift|You Belong With Me]] 对照 *I can't live without you* 与「暗恋 / 认定对方」叙事。

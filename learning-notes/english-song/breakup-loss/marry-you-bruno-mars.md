@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Marry You"** 是 ***Doo-Wops & Hooligans***（2010）第六轨，由 Mars 与 **Philip Lawrence**、**Ari Levine** 共同创作。Mars 说 hook 来自**拉斯维加斯**一夜后即兴哼出 *I think I wanna marry you!*——那种*喝太多*、爱所有人、想做点*明天会后悔*的事的感觉。虽未在美国正式发单曲，却成为全球**婚礼与求婚常备曲**；2010 年 **Glee** 翻唱后登上 Billboard Hot 100 **第 85** 位。音乐上走 **60 年代流行** 与 **girl-group** 式的 playful、冲动副歌。
+**"Marry You"** 是 ***Doo-Wops & Hooligans***（2010）第六轨，由 Mars 与 **Philip Lawrence**、**Ari Levine** 共同创作。Mars 说钩子句来自**拉斯维加斯**一夜后即兴哼出 *I think I wanna marry you!*——那种*喝太多*、爱所有人、想做点*明天会后悔*的事的感觉。虽未在美国正式发单曲，却成为全球**婚礼与求婚常备曲**；2010 年 **Glee** 翻唱后登上 Billboard Hot 100 **第 85** 位。音乐上走 **60 年代流行** 与 **girl-group** 式的俏皮、冲动副歌。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -120,21 +120,21 @@ Who cares, baby? I think I wanna marry you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 夜色真美，我们想找点蠢事做
 嘿宝贝，我想我好想娶你
 是你眼神，还是这「跳舞酒劲」？
 谁在乎呢宝贝？我想我好想娶你
 
-#### Pre-Chorus
+#### 预副歌
 
 我知道林荫大道上有座小教堂，我们可以去
 没人会知道，哦来吧姑娘
 烂醉又怎样？兜里现金够我们造
 几杯 Patrón 龙舌兰，派对开始，姑娘
 
-#### Chorus
+#### 副歌
 
 别说不不不不不
 就说好好好好好
@@ -146,24 +146,24 @@ Who cares, baby? I think I wanna marry you
 是你眼神，还是这跳舞酒劲？
 谁在乎呢宝贝？我想我好想娶你，哦
 
-#### Verse 2
+#### 主歌 2
 
 我去买枚戒指，让 choir 钟声像 ooh 那样响
 你想怎样？咱们就跑吧姑娘
 若醒来你想分手，也行
 不，我不怪你，挺开心的，姑娘
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 就说「我愿意」
 现在就告诉我，宝贝
 现在就告诉我，宝贝，宝贝
 
-#### Final Chorus
+#### 终段副歌
 
 夜色真美，我们想找点蠢事做
 嘿宝贝，我想我好想娶你
@@ -195,4 +195,4 @@ Who cares, baby? I think I wanna marry you
 - 副歌 *Marry You* 节奏清楚，**KTV 首选**；先练 *Don't say no / Just say yeah* 的 call-and-response。
 - Bruno 的 **doo-wop 咬字**偏复古清晰，*beautiful*、*marry* 等词适合练美式元音。
 - *dancing juice*、*trashed*、*that's cool* 都是**非正式口语**；正式场合慎用 *trashed*。
-- 想延伸练**恋爱与轻松承诺**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 playful proposal 类表达。
+- 想延伸练**恋爱与轻松承诺**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里俏皮 proposal 类表达。

@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Lewis Capaldi**（1996 年 10 月 7 日生）是苏格兰**创作型歌手**，来自 **West Lothian** 的 **Bathgate**。少年时在 **SoundCloud** 与 **YouTube** 发翻唱，2017 年 **"Bruises"** 病毒传播后被发掘。首张专辑 **Divinely Uninspired To A Hellish Extent**（2019）成为英国十年最畅销唱片之一。他以**有力、沙哑的嗓音**和直白的失恋、深情 ballad 著称；2020 年获 **全英音乐奖「最佳新人」**；影响包括 **Adele** 与 **Travis**。2023 年因 **妥瑞症** 与心理健康暂别乐坛，之后回归发新曲。
+**Lewis Capaldi**（1996 年 10 月 7 日生）是苏格兰**创作型歌手**，来自 **West Lothian** 的 **Bathgate**。少年时在 **SoundCloud** 与 **YouTube** 发翻唱，2017 年 **"Bruises"** 病毒传播后被发掘。首张专辑 **Divinely Uninspired To A Hellish Extent**（2019）成为英国十年最畅销唱片之一。他以**有力、沙哑的嗓音**和直白的失恋、深情抒情曲著称；2020 年获 **全英音乐奖「最佳新人」**；影响包括 **Adele** 与 **Travis**。2023 年因 **妥瑞症** 与心理健康暂别乐坛，之后回归发新曲。
 
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Grace"** 于 **2018 年 9 月 21 日**发行，是 Capaldi 第二支重要单曲，早于首张专辑数月。与 **TMS**（Tom Barnes、Ben Kohn、Peter Kelleher）及 **Romans** 共同创作，是一首带**福音感**的流行 ballad：紧抓住那个像救赎一样的人——*'Till I found salvation in the form of your grace*（直到我在你的恩典里找到救赎）。**grace** 一语双关：宗教里的**恩典／赦免**，也指爱人本身。 *I'm not ready to be just another of your mistakes*（我还没准备好当你又一个错误）与 *Don't take it away*（别把它拿走）写怕被抛弃。单曲在英国榜最高 **第 5**，为 **"Someone You Loved"** 铺路。
+**"Grace"** 于 **2018 年 9 月 21 日**发行，是 Capaldi 第二支重要单曲，早于首张专辑数月。与 **TMS**（Tom Barnes、Ben Kohn、Peter Kelleher）及 **Romans** 共同创作，是一首带**福音感**的流行抒情曲：紧抓住那个像救赎一样的人——*'Till I found salvation in the form of your grace*（直到我在你的恩典里找到救赎）。**grace** 一语双关：宗教里的**恩典／赦免**，也指爱人本身。 *I'm not ready to be just another of your mistakes*（我还没准备好当你又一个错误）与 *Don't take it away*（别把它拿走）写怕被抛弃。单曲在英国榜最高 **第 5**，为 **"Someone You Loved"** 铺路。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -138,53 +138,53 @@ Don't take it away
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 我还没准备好当你又一个错误
 
-#### Verse 1
+#### 主歌 1
 
 我好像怎么也没法把你从脑海里淹掉够久
 我栽在你爱的声音里
 你像一首我还不想停的歌
 我脑子里只有你
 
-#### Pre-Chorus
+#### 预副歌
 
 我还没准备好当你又一个错误
 不想让一切分崩离析
 我离彻底荒废只差一口气
 直到我在你的……里找到救赎
 
-#### Chorus
+#### 副歌
 
 你的恩典，你的恩典，你的恩典
 别把它拿走
 你的恩典，你的恩典，你的恩典
 别把它拿走
 
-#### Verse 2
+#### 主歌 2
 
 几乎要把你榨干、榨到流血
 我们是不是伤得太重，再也落不回地面？
 哦，我多么渴望我们能找到共同点
 我脑子里只有你
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 我还没准备好当你又一个错误
 不想让一切分崩离析
 我离彻底荒废只差一口气
 直到我在你的……里找到救赎
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 你的恩典，你的恩典，你的恩典
 别把它拿走
 你的恩典，你的恩典，你的恩典
 别拿走，拿走
 
-#### Bridge
+#### 桥段
 
 靠得太近，连你的安逸都被染上了色
 打扮整齐却一直被藏着
@@ -193,7 +193,7 @@ Don't take it away
 你的恩典，你的恩典，你的恩典
 别把它拿走
 
-#### Pre-Chorus / Final Chorus（重复至结尾）
+#### 预副歌 / 终段副歌（重复至结尾）
 
 我还没准备好当你又一个错误
 不想让一切分崩离析

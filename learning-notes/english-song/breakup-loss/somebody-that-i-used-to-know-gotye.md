@@ -135,7 +135,7 @@ I used to know somebody
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1（Gotye）
+#### 主歌 1（Gotye）
 
 偶尔我会想起我们还在一起的时候
 比如你说你开心到可以去死
@@ -143,7 +143,7 @@ I used to know somebody
 可跟你在一起时，我却那么孤独
 可那就是爱，那种隐痛我到现在还记得
 
-#### Verse 1b
+#### 主歌 1b
 
 人会对某一种悲伤上瘾
 像是认命地等着结局，总是结局
@@ -151,7 +151,7 @@ I used to know somebody
 你说我们还可以做朋友
 可我得承认：结束了我其实松了口气
 
-#### Chorus
+#### 副歌
 
 可你不必把我彻底切断
 装作从没发生过、我们什么都不是
@@ -165,7 +165,7 @@ I used to know somebody
 现在你只是我曾经认识的某个人
 现在你只是我曾经认识的某个人
 
-#### Verse 2（Kimbra）
+#### 主歌 2（Kimbra）
 
 偶尔我会想起你一次次坑我、伤我的时候
 却让我相信：总是我做错了什么
@@ -174,7 +174,7 @@ I used to know somebody
 你说过你可以放下
 也不会看到你还纠结于某个「曾经认识的人」
 
-#### Chorus（双声部）
+#### 副歌（双声部）
 
 可你不必把我彻底切断
 装作从没发生过、我们什么都不是
@@ -186,7 +186,7 @@ I used to know somebody
 不过我想我也不需要那些了
 现在你只是我曾经认识的某个人
 
-#### Outro
+#### 尾声
 
 我曾经认识的某个人
 某个人（现在你只是我曾经认识的某个人）
@@ -224,7 +224,7 @@ I used to know somebody
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中——旋律好跟，但词密、连读多（*used to know*、*make out like*）；原 catalog 标 hard，精研时按 medium–hard 处理即可。
+- **难度：** 中——旋律好跟，但词密、连读多（*used to know*、*make out like*）；原作品目录标 hard，精研时按 medium–hard 处理即可。
 - **标题怎么译：** *somebody that I used to know* = **「我曾经认识的某个人」** / **「一个过去的人」**——强调关系已成过去，不是字面「我过去常常认识」。
 - **双视角：** Gotye 段写「被抹掉」的委屈；Kimbra 段翻案——*you screwed me over*、*hung up on somebody*。听第二遍时专门跟 Kimbra 声线。
 - **高频口语：** *cut me off*、*make out like*、*stoop so low*、*hung up on* 都可直接进日常分手/断联话题。

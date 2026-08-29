@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Charlie Puth**（本名 **Charles Otto Puth Jr.**，1991 年生于新泽西 **Rumson**）是美国创作型歌手与制作人，以**绝对音感**、旋律感强的流行 hook，以及为自己和他人写歌著称。早年靠 YouTube 翻唱与 Vine 短视频积累粉丝，后因与 Wiz Khalifa 合作的 **"See You Again"**（《速度与激情 7》主题曲）一举成名。首专 ***Nine Track Mind***（2016）推出 *"Marvin Gaye"*、*"One Call Away"*，以及与 **Selena Gomez** 合唱的 **"We Don't Talk Anymore"**——一首从双方视角写分手后失联的对唱。后续代表作还有 *"Attention"*、*"How Long"* 等。
+**Charlie Puth**（本名 **Charles Otto Puth Jr.**，1991 年生于新泽西 **Rumson**）是美国创作型歌手与制作人，以**绝对音感**、旋律感强的流行钩子句，以及为自己和他人写歌著称。早年靠 YouTube 翻唱与 Vine 短视频积累粉丝，后因与 Wiz Khalifa 合作的 **"See You Again"**（《速度与激情 7》主题曲）一举成名。首专 ***Nine Track Mind***（2016）推出 *"Marvin Gaye"*、*"One Call Away"*，以及与 **Selena Gomez** 合唱的 **"We Don't Talk Anymore"**——一首从双方视角写分手后失联的对唱。后续代表作还有 *"Attention"*、*"How Long"* 等。
 
 ---
 
@@ -171,7 +171,7 @@ We don't talk anymore
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 我们不再说话了
 我们不再说话了
@@ -182,7 +182,7 @@ We don't talk anymore
 哦，我们不再说话了
 不像从前那样
 
-#### Verse 1（Charlie）
+#### 主歌 1（Charlie）
 
 我刚听说你找到了你一直在找的那个人
 你一直在找的那个人
@@ -191,7 +191,7 @@ We don't talk anymore
 为什么我走不出来
 而你怎么就能这么轻易地放下？
 
-#### Pre-Chorus
+#### 预副歌
 
 我不想知道
 你今晚穿的是哪条裙子
@@ -202,11 +202,11 @@ We don't talk anymore
 现在我满脑子都是你，赶也赶不走
 唉，真是太可惜了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 2（Selena）
+#### 主歌 2（Selena）
 
 我只希望你身边躺着的那个人
 懂得怎么像我一样爱你
@@ -215,7 +215,7 @@ We don't talk anymore
 你也许希望我突然出现在你家门口
 可我又太怕自己想错了
 
-#### Pre-Chorus（Selena）
+#### 预副歌（Selena）
 
 我不想知道
 你是不是正看着她的眼睛
@@ -226,7 +226,7 @@ We don't talk anymore
 现在我满脑子都是你，赶也赶不走
 唔，真是太可惜了
 
-#### Chorus（带和声）
+#### 副歌（带和声）
 
 我们不再说话了（我们不了，我们不了）
 我们不再说话了（我们不了，我们不了）
@@ -239,7 +239,7 @@ We don't talk anymore
 
 不像从前那样
 
-#### Pre-Chorus（变奏）
+#### 预副歌（变奏）
 
 我不想知道
 你今晚穿的是哪条裙子
@@ -250,7 +250,7 @@ We don't talk anymore
 现在我满脑子都是你，赶也赶不走
 唉，真是太可惜了
 
-#### Final Chorus
+#### 终段副歌
 
 我们不再说话了（我们不了，我们不了）
 我们不再说话了（我们不了，我们不了）
@@ -261,7 +261,7 @@ We don't talk anymore
 哦，我们不再说话了
 不像从前那样
 
-#### Outro（叠唱）
+#### 尾声（叠唱）
 
 （我们不再说话了）我不想知道
 你今晚穿的是哪条裙子（哦）
@@ -298,7 +298,7 @@ We don't talk anymore
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *We don't talk anymore / Like we used to do* 短、重复，**KTV 跟唱**友好；先把副歌唱稳，再练 Verse 的叙事句。
+- 副歌 *We don't talk anymore / Like we used to do* 短、重复，**KTV 跟唱**友好；先把副歌唱稳，再练主歌的叙事句。
 - 注意对唱结构：**Charlie = 被甩后还走不出来**；**Selena = 另一侧也在猜、也在怕**。同一句 *Don't wanna know*，视角一换，嫉妒对象从 *he* 变成 *she*。
 - *Should've known*（= should have known）连读成 /ˈʃʊdəv/，跟唱时别把三个词咬死。
 - *I overdosed* 在歌里是比喻，不是字面「吸毒」；学着用 *overdose on something* 表达「对……上瘾过头」。

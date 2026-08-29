@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"Bad Romance"** 于 **2009 年 10 月 26 日**发行，为 *The Fame Monster* 主打单曲，由 Gaga 与制作人 **RedOne** 共同创作。在顿挫的 **electro-club** 节拍上，歌写**执迷、自毁式的爱**：叙述者想要伴侣的一切——丑陋、病态、戏剧性——明知会受伤。Hook *Want your bad romance* 把激情框成危险却无法抗拒的东西。Bridge 混用英法文（*J'veux ton amour, et je veux ta revanche* = 我要你的爱，也要你的报复），随后拒绝只做朋友：*I don't wanna be friends*。MV——白色浴缸、国际象棋、火焰、前卫时装——成为经典。歌曲横扫全球榜单，销量逾 1200 万，获**格莱美「最佳流行女声演唱」**。
+**"Bad Romance"** 于 **2009 年 10 月 26 日**发行，为 *The Fame Monster* 主打单曲，由 Gaga 与制作人 **RedOne** 共同创作。在顿挫的 **electro-club** 节拍上，歌写**执迷、自毁式的爱**：叙述者想要伴侣的一切——丑陋、病态、戏剧性——明知会受伤。钩子句 *Want your bad romance* 把激情框成危险却无法抗拒的东西。桥段混用英法文（*J'veux ton amour, et je veux ta revanche* = 我要你的爱，也要你的报复），随后拒绝只做朋友：*I don't wanna be friends*。MV——白色浴缸、国际象棋、火焰、前卫时装——成为经典。歌曲横扫全球榜单，销量逾 1200 万，获**格莱美「最佳流行女声演唱」**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -150,7 +150,7 @@ Want your bad romance
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro / Hook
+#### 前奏 / 钩子句
 
 哦，陷入一段糟糕的恋情
 哦，陷入一段糟糕的恋情
@@ -162,7 +162,7 @@ Gaga，乌—啦啦
 
 *(以上四句重复)*
 
-#### Verse 1
+#### 主歌 1
 
 我要你的丑，我要你的病
 我要你的一切，只要是免费的
@@ -178,7 +178,7 @@ Gaga，乌—啦啦
 你知道我需要你
 我超想要，你这段糟糕的恋情
 
-#### Pre-Chorus
+#### 预副歌
 
 我要你的爱，也要你的报复
 你我就能写一段糟糕的恋情（哦）
@@ -188,7 +188,7 @@ Gaga，乌—啦啦
 哦，陷入一段糟糕的恋情
 哦，陷入一段糟糕的恋情
 
-#### Verse 2
+#### 主歌 2
 
 我要你的恐怖，我要你的设计
 因为只要你属于我，你就是罪犯
@@ -204,11 +204,11 @@ Gaga，乌—啦啦
 你知道我需要你（因为我是自由的婊子，宝贝）
 我超想要，你这段糟糕的恋情
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 *(同前)*
 
-#### Bridge（时装步 + 法英混唱）
+#### 桥段（时装步 + 法英混唱）
 
 走，走，时尚，宝贝
 动起来，把那妞逼疯
@@ -229,7 +229,7 @@ Gaga，乌—啦啦
 陷入一段糟糕的恋情
 想要你这段糟糕的恋情
 
-#### Final Chorus & Outro
+#### 终段副歌 & 尾声
 
 ## 重点表达 · Key Phrases
 
@@ -254,8 +254,8 @@ Gaga，乌—啦啦
 
 ## 听歌提示 · Listening Notes
 
-- Hook 里 *Rah, rah, ah-ah-ah / Roma, roma-ma* 无实义，跟唱时抓**节奏**即可；重音在 *Want your bad romance*。
-- Verse 排比 *I want your ugly / disease / drama* 适合练「我要你的……」句型；注意 *everything as long as it's free* 的讽刺语气。
-- Bridge 法文句可先记发音再记意思：*J'veux ton amour* ≈ 「热佛 东 阿木尔」。
-- 全曲 **level/easy** 在于重复度高；难点在 Bridge 语速与 *move that bitch crazy* 等粗口——KTV 场合注意受众。
+- 钩子句里 *Rah, rah, ah-ah-ah / Roma, roma-ma* 无实义，跟唱时抓**节奏**即可；重音在 *Want your bad romance*。
+- 主歌排比 *I want your ugly / disease / drama* 适合练「我要你的……」句型；注意 *everything as long as it's free* 的讽刺语气。
+- 桥段法文句可先记发音再记意思：*J'veux ton amour* ≈ 「热佛 东 阿木尔」。
+- 全曲 **level/easy** 在于重复度高；难点在桥段语速与 *move that bitch crazy* 等粗口——KTV 场合注意受众。
 - 想延伸读**矛盾情欲**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里爱与恨交织的表达。

@@ -110,13 +110,13 @@ Who waits forever anyway?
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我们没有时间
 我们没有容身之处
 是什么构筑梦想，却又从指间溜走
 
-#### Chorus 1
+#### 副歌 1
 
 谁想永生
 谁想永生
@@ -125,7 +125,7 @@ Who waits forever anyway?
 一切早已注定
 这世界只留给我们一个甜蜜瞬间
 
-#### Chorus 2
+#### 副歌 2
 
 谁想永生
 谁想永生
@@ -133,7 +133,7 @@ Who waits forever anyway?
 谁敢爱到天荒地老
 哦，当爱必须消逝
 
-#### Verse 2 / Bridge
+#### 主歌 2 / 桥段
 
 但请用双唇触碰我的泪
 用指尖触碰我的世界
@@ -141,7 +141,7 @@ Who waits forever anyway?
 我们便能永远相爱
 永远就是我们的今天
 
-#### Chorus 3 / Outro
+#### 副歌 3 / 尾声
 
 谁想永生
 谁想永生
@@ -170,6 +170,6 @@ Who waits forever anyway?
 ## 听歌提示 · Listening Notes
 
 - 副歌 *Who wants to live forever* 音域较高、拖长——适合 **KTV 前** 先哼旋律找音，再练词。
-- 歌曲由慢到情绪爆发，Orchestra 与 rock 交织；精研时可留意 **May 吉他** 与弦乐进入的时机。
+- 歌曲由慢到情绪爆发，Orchestra 与摇滚交织；精研时可留意 **May 吉他** 与弦乐进入的时机。
 - *Forever is our today* 把抽象 *forever* 拉回「此刻」，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 loss 与 acceptance 的表达。
 - 电影 *Highlander* 中此曲配 Heather 离世场景；了解背景有助于理解 *when love must die* 为何如此沉重。

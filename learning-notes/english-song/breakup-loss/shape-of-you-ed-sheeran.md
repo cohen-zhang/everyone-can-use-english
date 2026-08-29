@@ -37,7 +37,7 @@ aliases:
 
 **中文**
 
-**Ed Sheeran**（1991 年 2 月 17 生于英格兰 Halifax）是英国**创作型歌手**，从**街头卖唱**和伦敦小场地演出一路走到全球体育馆巡演。早期偏木吉他（*+*，2011），后在 **÷**（*Divide*，2017）交出多首流行巨作。他先旋律后歌词，常融合 **民谣、流行、嘻哈与 dancehall**；获 **四座格莱美**，并保有史上**流媒体播放量最高**歌曲之一的纪录。以贴近生活的叙事和 loop 踏板现场著称，也为 Justin Bieber、Taylor Swift、One Direction 等写歌。
+**Ed Sheeran**（1991 年 2 月 17 生于英格兰 Halifax）是英国**创作型歌手**，从**街头卖唱**和伦敦小场地演出一路走到全球体育馆巡演。早期偏木吉他（*+*，2011），后在 **÷**（*Divide*，2017）交出多首流行巨作。他先旋律后歌词，常融合 **民谣、流行、嘻哈与 dancehall**；获 **四座格莱美**，并保有史上**流媒体播放量最高**歌曲之一的纪录。以贴近生活的叙事和循环踏板现场著称，也为 Justin Bieber、Taylor Swift、One Direction 等写歌。
 
 ---
 
@@ -49,7 +49,7 @@ aliases:
 
 **中文**
 
-**"Shape of You"** 于 **2017 年 1 月 6 日**发行，与 *"Castle on the Hill"* 同为 *÷* 双主打。与 **Steve Mac**、**Johnny McDaid** 共同创作，最初是按 **Rihanna** 的辛辣夜店曲写的，Sheeran 留下并改了部分词。曲风建立在 **dancehall / tropical house** 律动（马林巴 riff）上，讲在酒吧相识、跟着 **Van Morrison** 跳舞、节俭约会与身体吸引——*I'm in love with the shape of you*。在 Billboard Hot 100 **连冠 12 周**，并成为 Spotify 上**首支突破 30 亿次播放**的歌曲。全球派对、健身房与跟唱歌单常客。
+**"Shape of You"** 于 **2017 年 1 月 6 日**发行，与 *"Castle on the Hill"* 同为 *÷* 双主打。与 **Steve Mac**、**Johnny McDaid** 共同创作，最初是按 **Rihanna** 的辛辣夜店曲写的，Sheeran 留下并改了部分词。曲风建立在 **dancehall / tropical house** 律动（马林巴即兴短句）上，讲在酒吧相识、跟着 **Van Morrison** 跳舞、节俭约会与身体吸引——*I'm in love with the shape of you*。在 Billboard Hot 100 **连冠 12 周**，并成为 Spotify 上**首支突破 30 亿次播放**的歌曲。全球派对、健身房与跟唱歌单常客。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -161,7 +161,7 @@ I'm in love with the shape of you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 夜店不是找恋人的最佳地点
 所以我去酒吧（嗯嗯）
@@ -173,7 +173,7 @@ I'm in love with the shape of you
 然后我们开始跳舞
 现在我唱得像——
 
-#### Pre-Chorus
+#### 预副歌
 
 姑娘，你知道我想要你的爱
 你的爱像为像我这样的人量身定做
@@ -185,7 +185,7 @@ I'm in love with the shape of you
 来，来吧，跟着我的节奏
 （嗯嗯）
 
-#### Chorus
+#### 副歌
 
 我爱上了你的身形
 我们像磁铁一样推拉试探
@@ -196,7 +196,7 @@ I'm in love with the shape of you
 每天都在发现全新的你
 哦，我爱上了你的身体
 
-#### Post-Chorus
+#### 后副歌
 
 哦 I，哦 I，哦 I，哦 I
 哦，我爱上了你的身体
@@ -207,7 +207,7 @@ I'm in love with the shape of you
 每天都在发现全新的你
 我爱上了你的身形
 
-#### Verse 2
+#### 主歌 2
 
 一周过去，故事正式开始
 我们第一次约会（嗯嗯）
@@ -219,17 +219,17 @@ I'm in love with the shape of you
 叫司机把收音机打开
 然后我唱得像——
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 *(同第一段)*
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Post-Chorus（重复）
+#### 后副歌（重复）
 
-#### Breakdown
+#### 分解段
 
 来吧，做我的宝贝，来吧
 来吧，做我的宝贝，来吧
@@ -242,7 +242,7 @@ I'm in love with the shape of you
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 来吧，做我的宝贝，来吧
 来吧，做我的宝贝，来吧（我爱上了你的身体）
@@ -294,8 +294,8 @@ I'm in love with the shape of you
 
 ## 听歌提示 · Listening Notes
 
-- 马林巴 riff 一响起就是识别点；跟唱时可先把 **Pre-Chorus** *follow my lead* 练熟，再进副歌。
+- 马林巴即兴短句一响起就是识别点；跟唱时可先把 **Pre-Chorus** *follow my lead* 练熟，再进副歌。
 - *Van the Man* 指 **Van Morrison**；不熟悉可先听他的 *Brown Eyed Girl*，再回来看 *put "Van the Man" on the jukebox* 的画面感。
 - 副歌 *push and pull like a magnet do* 注意 **magnet do** 的口语语法（正式写作会说 *as a magnet does*）。
-- 重复段落多：Pre-Chorus / Chorus / Post-Chorus 用 *(同前)* 记结构即可，跟唱时重点抓 **shape of you** 与 **your body** 两句。
+- 重复段落多：预副歌 / 副歌 / 后副歌用 *(同前)* 记结构即可，跟唱时重点抓 **shape of you** 与 **your body** 两句。
 - 想练**夜店搭讪与约会**口语，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里类似场景。

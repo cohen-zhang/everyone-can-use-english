@@ -40,9 +40,9 @@ aliases:
 
 **Ed Sheeran**（1991 年生，英格兰）是全球**流行创作歌手**，以木吉他叙事和跨界热单著称（*Shape of You*、*Perfect*）。在 *No. 6 Collaborations Project* 里他与各流派艺人合作；本曲用英文铺陈**拉丁风情**恋爱幻想。
 
-**Camila Cabello**（1997 年 3 月 3 生于古巴 Havana）是**古巴裔美国歌手**。随 Fifth Harmony 出道，后以 **"Havana"**（2017）单飞爆红。她的段落加入**西班牙语**调情与舞池能量，呼应拉丁背景与双语听众。
+**Camila Cabello**（1997 年 3 月 3 生于古巴 Havana）是**古巴裔美国歌手**。随 Fifth 和声出道，后以 **"Havana"**（2017）单飞爆红。她的段落加入**西班牙语**调情与舞池能量，呼应拉丁背景与双语听众。
 
-**Cardi B**（Belcalis Almanzar，1992 年 10 月 11 生于纽约）是多米尼加与特立尼达裔美国**说唱歌手**。从 Instagram 红人做到**格莱美**级明星（*Invasion of Privacy*，2018）。本曲 feature 带来**奢华意象**、幽默感和关于布宜诺斯艾利斯之夜的收尾段。
+**Cardi B**（Belcalis Almanzar，1992 年 10 月 11 生于纽约）是多米尼加与特立尼达裔美国**说唱歌手**。从 Instagram 红人做到**格莱美**级明星（*Invasion of Privacy*，2018）。本曲客串带来**奢华意象**、幽默感和关于布宜诺斯艾利斯之夜的收尾段。
 
 ---
 
@@ -176,7 +176,7 @@ Come south of the border with me
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1（Ed）
+#### 主歌 1（Ed）
 
 她有，嗯，棕眸、焦糖色的大腿
 长发，没婚戒，嘿
@@ -187,7 +187,7 @@ Come south of the border with me
 那，嗯，棕眸、美丽的笑
 你知道我爱看你做你的事
 
-#### Pre-Chorus & Chorus
+#### 预副歌 & 副歌
 
 我爱她的臀、曲线，唇说着
 「我爱你，宝贝，啊，我爱你，宝贝」
@@ -202,7 +202,7 @@ Come south of the border with me
 跳进那水里，自由吧
 跟我到边境以南来
 
-#### Verse 2（Camila）
+#### 主歌 2（Camila）
 
 他有，嗯，绿眸，给我信号
 说他真想知道我叫什么，嘿
@@ -217,7 +217,7 @@ Come south of the border with me
 「我爱你，宝贝，啊，我爱你，宝贝」
 别醒来，这份爱像梦
 
-#### Chorus（Camila 段后）
+#### 副歌（Camila 段后）
 
 所以来我这张床上
 贴上来，流汗，亲爱的
@@ -228,13 +228,13 @@ Come south of the border with me
 跳进那水里，自由吧
 跟我到边境以南来
 
-#### Bridge（Cardi B · 过渡）
+#### 桥段（Cardi B · 过渡）
 
 完美无瑕的钻石
 在布宜诺斯艾利斯附近的绿野
 直到日出
 
-#### Verse 3（Cardi B）
+#### 主歌 3（Cardi B）
 
 宝贝，呃
 不冒险就谈不上活过（活）
@@ -260,7 +260,7 @@ Come south of the border with me
 跳进那水里，自由吧
 跟我到边境以南来
 
-#### Outro（副歌重复）
+#### 尾声（副歌重复）
 
 跳进那水里，自由吧
 跟我到边境以南来
@@ -312,5 +312,5 @@ Come south of the border with me
 - 副歌 *Come south of the border with me* 重复多、旋律好记，适合 **KTV 跟唱**；先练清 *jump in that water* 的重音。
 - Camila 段含**西班牙语**，可先背 *Ven para acá, quiero bailar, toma mi mano* 四句再听整段。
 - Ed 与 Camila **交替视角**（他看她 / 她看他），可用来练「酒吧搭讪 → 回应」的对话句型；详见 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。
-- Cardi 段含**露骨双关与奢华 brag**，建议先读「重点表达」再回听 Verse 3；若只想练副歌，可先掌握 Chorus。
+- Cardi 段含**露骨双关与奢华 brag**，建议先读「重点表达」再回听主歌 3；若只想练副歌，可先掌握副歌。
 - 同专辑英伦风对比：[[learning-notes/english-song/breakup-loss/take-me-back-to-london-ed-sheeran|Take Me Back to London]]（#77）。

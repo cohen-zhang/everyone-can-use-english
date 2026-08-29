@@ -108,7 +108,7 @@ And where you go I'll follow
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我会跟随你
 无论你走到哪里
@@ -121,14 +121,14 @@ And where you go I'll follow
 没有什么能把你从我这里夺走
 你是我的命中注定
 
-#### Chorus
+#### 副歌
 
 我爱你，我爱你，我爱你
 你去哪我就跟去哪
 你永远是我的真爱
 从现在直到永远
 
-#### Verse 2
+#### 主歌 2
 
 我会跟随你
 无论你走到哪里
@@ -136,11 +136,11 @@ And where you go I'll follow
 没有山高得能
 把我隔开，远离我的爱人
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 3 / Outro
+#### 主歌 3 / 尾声
 
 我会跟随你
 无论你走到哪里

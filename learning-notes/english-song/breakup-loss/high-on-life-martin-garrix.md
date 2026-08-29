@@ -44,7 +44,7 @@ aliases:
 
 **中文**
 
-**"High on Life"** 于 **2018 年 7 月 29 日**发行，在比利时 **Tomorrowland 2018** 压轴首演——Bonn 登台合唱，烟火满天；官方 MV 同时是音乐节 aftermovie。这是一首**渐进浩室抒情曲**：告别麻木的快节奏生活，迎来真正的联结（*Killed the demons of my mind / Ever since you came around*）。**high on life** 指因活着本身而亢奋——不是药物。**walk a million miles just to see you smile** 的副歌誓言，让它成为音乐节大合唱和浪漫歌单里的常客。
+**"High on Life"** 于 **2018 年 7 月 29 日**发行，在比利时 **Tomorrowland 2018** 压轴首演——Bonn 登台合唱，烟火满天；官方 MV 同时是音乐节活动纪录短片。这是一首**渐进浩室抒情曲**：告别麻木的快节奏生活，迎来真正的联结（*Killed the demons of my mind / Ever since you came around*）。**high on life** 指因活着本身而亢奋——不是药物。**walk a million miles just to see you smile** 的副歌誓言，让它成为音乐节大合唱和浪漫歌单里的常客。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ But I can only see your ghost
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 驱走了心里的恶魔
 自从你出现
@@ -112,7 +112,7 @@ But I can only see your ghost
 出现又消失，像频闪灯
 和你在一起，我才感到真实
 
-#### Chorus
+#### 副歌
 
 我愿走一百万英里，只为看你笑
 直到我死去那天
@@ -120,7 +120,7 @@ But I can only see your ghost
 直到我们一起死去那天
 为活着而狂喜，直到死去那天
 
-#### Verse 2
+#### 主歌 2
 
 从指缝溜走，看不见了
 我怎么会让你走？
@@ -147,6 +147,6 @@ But I can only see your ghost
 ## 听歌提示 · Listening Notes
 
 - 副歌 *High on life 'til the day we die* 旋律上口，适合**跟唱**；注意 *'til* 几乎不发音，常连读成 *til-the-day-we-die*。
-- Drop 前后人声对比明显：先练 **Verse 慢速朗读**，再跟副歌，避免被电子节拍带跑。
+- 爆发段前后人声对比明显：先练 **Verse 慢速朗读**，再跟副歌，避免被电子节拍带跑。
 - 歌里 **对比结构** 鲜明（*numb out* vs *something real*；*fast life* vs *high on life*），可用来练「以前……现在……」叙事。
 - 想积累**恋爱承诺句型**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里的距离与忠诚表达。

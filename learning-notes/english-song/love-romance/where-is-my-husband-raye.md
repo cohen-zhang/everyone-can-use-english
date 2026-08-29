@@ -155,7 +155,7 @@ Where is my husband? (Ah)
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 宝贝（呜呼），我丈夫到底在哪？（呜呼）
 他怎么找我找了这么久？（呜呼）
@@ -164,7 +164,7 @@ Where is my husband? (Ah)
 要是你看见他，宝贝，看见了就告诉他（告诉他）
 让他喊一声、联系我
 
-#### Verse 1
+#### 主歌 1
 
 这帅哥干嘛非等我变老？
 他怎么已经在考验我的耐心？
@@ -175,7 +175,7 @@ Where is my husband? (Ah)
 向上帝祷告，把他送到我怀里
 尽管我很烦躁
 
-#### Pre-Chorus
+#### 预副歌
 
 他一定需要我（他一定需要我）
 完完全全地（完完全全）
@@ -186,11 +186,11 @@ Where is my husband? (Ah)
 呃，帮帮我，帮帮我，主啊
 我需要你告诉我
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 2
+#### 主歌 2
 
 我在做孤独的杂技：凌晨两点自己解裙子
 我受够了这样过日子
@@ -201,9 +201,9 @@ Where is my husband? (Ah)
 求主赶紧、赶紧把你推过来
 宝贝，我打算催你一把
 
-#### Pre-Chorus & Chorus（重复）
+#### 预副歌 & 副歌（重复）
 
-#### Bridge
+#### 桥段
 
 告、告、告诉他我……嗯，告诉他我……带着……嗯嗯嗯
 告诉他我人心好，告诉他我身高五英尺五
@@ -224,7 +224,7 @@ Where is my husband? (Ah)
 呃，帮帮我，帮帮我，主啊
 我需要你告诉我
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 宝贝（呜呼），我丈夫到底在哪？（呜呼）
 他怎么找我找了这么久？（呜呼）
@@ -274,6 +274,6 @@ Where is my husband? (Ah)
 
 - 副歌 *where the hell is my husband?* 短、冲、好喊——**KTV / 通勤**先拿下这句；*hell* 咬清楚但不需真生气，戏谑感更对。
 - 注意英式口音里 *husband*、*holler*、*tell him off* 的节奏；跟唱时抓住铜管空隙换气。
-- Verse 的幽默点在于把找对象说成 *reviewing applications*——可练「一本正经说荒诞事」的语气。
-- Bridge *I would like a ring* 像许愿清单，重复多，适合练 **would like** 的礼貌请求语感。
+- 主歌的幽默点在于把找对象说成 *reviewing applications*——可练「一本正经说荒诞事」的语气。
+- 桥段 *I would like a ring* 像许愿清单，重复多，适合练 **would like** 的礼貌请求语感。
 - *I'ma / 'bout to / ain't / ya* 全是口语缩略；学意思即可，正式写作改回完整形式。

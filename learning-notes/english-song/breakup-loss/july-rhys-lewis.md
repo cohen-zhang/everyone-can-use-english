@@ -33,7 +33,7 @@ aliases:
 
 **中文**
 
-**Rhys Lewis**（1991 年 3 月 18 日生）是英国**创作型歌手兼多乐器演奏者**，来自牛津郡。他就读 **London Centre of Contemporary Music**，2016 年签约 **Decca Records**，并舍弃大部分早期 demo 以找到真实声音。首张专辑 **Things I Chose to Remember**（2020）用**模拟磁带**录制，融合 **新灵魂、流行、蓝调** 与 **美式民谣**。他以 **"No Right to Love You"** 等心碎抒情曲和灵魂感嗓音著称。亦曾参与挪威 DJ **Kygo** 单曲 **"Hurting"**。
+**Rhys Lewis**（1991 年 3 月 18 日生）是英国**创作型歌手兼多乐器演奏者**，来自牛津郡。他就读 **London Centre of Contemporary Music**，2016 年签约 **Decca Records**，并舍弃大部分早期小样以找到真实声音。首张专辑 **Things I Chose to Remember**（2020）用**模拟磁带**录制，融合 **新灵魂、流行、蓝调** 与 **美式民谣**。他以 **"No Right to Love You"** 等心碎抒情曲和灵魂感嗓音著称。亦曾参与挪威 DJ **Kygo** 单曲 **"Hurting"**。
 
 ---
 
@@ -116,7 +116,7 @@ I'm not enough, but I still stay
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我一直憋着气
 数到十
@@ -125,12 +125,12 @@ I'm not enough, but I still stay
 而你一杯接一杯地灌啤酒
 我独自躺在床上
 
-#### Pre-Chorus
+#### 预副歌
 
 你知道我，我怕改变
 我想这就是为什么我们一成不变
 
-#### Chorus
+#### 副歌
 
 那就叫我走
 我会收拾行李上路
@@ -142,7 +142,7 @@ I'm not enough, but I still stay
 如果你想让我走
 开口就行，宝贝，我会走
 
-#### Verse 2
+#### 主歌 2
 
 光是熬过去就像一辈子
 我们内心都在枯萎
@@ -150,15 +150,15 @@ I'm not enough, but I still stay
 爱你就是其中之一
 但我走不出来
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 *(同第一段)*
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 宝贝，我会走
 宝贝，我会走

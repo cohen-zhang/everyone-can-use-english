@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"These Days"** 于 **2002 年 6 月**发行，为专辑 *Melt* 第二支单曲。由 **Jeffrey Steele**、**Steve Robson**、**Wayne Hector** 创作，讲一次**偶遇**：叙述者多年后在街上碰见大学时代的旧爱，寒暄她嫁到 Vegas 的新生活，才发觉自己从未走出来。副歌 *Punch the clock, head for home, check the phone … that's what I'm doin' these days* 写的是一种孤独日常：上班、回家、查手机、睡前还想她。这是 Rascal Flatts 在 Billboard Hot Country Songs 的**首支冠军单曲**，也奠定了他们抒情慢歌的路线。
+**"These Days"** 于 **2002 年 6 月**发行，为专辑 *Melt* 第二支单曲。由 **Jeffrey Steele**、**Steve Robson**、**Wayne Hector** 创作，讲一次**偶遇**：叙述者多年后在街上碰见大学时代的旧爱，寒暄她嫁到 Vegas 的新生活，才发觉自己从未走出来。副歌 *Punch the clock, head for home, check the phone … that's what I'm doin' these days* 写的是一种孤独日常：上班、回家、查手机、睡前还想她。这是 Rascal Flatts 在 Billboard Hot Country 歌曲的**首支冠军单曲**，也奠定了他们抒情慢歌的路线。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ To see an old friend, and until then
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 嘿宝贝，是你吗？
 哇，你头发好长了
@@ -135,7 +135,7 @@ To see an old friend, and until then
 做旧梦，许旧愿
 好像你会回来
 
-#### Chorus
+#### 副歌
 
 醒来泪滴如雨下
 放上那首我们一起跳舞的老歌
@@ -146,7 +146,7 @@ To see an old friend, and until then
 这些日子我就是这样过的
 是啊，我就是这样过的
 
-#### Verse 2
+#### 主歌 2
 
 有人说你大学毕业后跑去 Vegas
 嫁了个 rodeo 牛仔，为什么？
@@ -155,7 +155,7 @@ To see an old friend, and until then
 还在理清人生，但还算过得去
 嗯，也很高兴见到你
 
-#### Verse 3
+#### 主歌 3
 
 嘿，姑娘，你要迟到了
 飞机可不等人
@@ -163,11 +163,11 @@ To see an old friend, and until then
 答应我会进来看看
 见见老朋友；在那之前
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro（副歌重复，渐弱）
+#### 尾声（副歌重复，渐弱）
 
 ## 重点表达 · Key Phrases
 
@@ -191,5 +191,5 @@ To see an old friend, and until then
 
 - 故事是**偶遇前任**的三段式叙事：寒暄 → 各自近况 → 道别；跟唱前先理清时间线，情感更到位。
 - *Norma Jean* 指 **Shooter Jennings** 的歌（2001），不是 Marilyn Monroe 本名；歌里当作两人当年的「我们的歌」。
-- 副歌 *Punch the clock … these days* 六行节奏稳定，适合**通勤跟唱**；Outro 重复时可专注 *teardrops fall down like rain* 的连读。
+- 副歌 *Punch the clock … these days* 六行节奏稳定，适合**通勤跟唱**；尾声重复时可专注 *teardrops fall down like rain* 的连读。
 - 想练**旧情难忘**口语，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里类似场景句型。

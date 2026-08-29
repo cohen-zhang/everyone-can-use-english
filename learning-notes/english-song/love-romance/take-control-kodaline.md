@@ -31,7 +31,7 @@ aliases:
 
 **中文**
 
-**Kodaline** 是来自**都柏林**的**爱尔兰摇滚乐队**，2011 年成立。核心成员包括主唱 **Steve Garrigan**、吉他手 **Mark Prendergast**、贝斯手 **Jason Boland**、鼓手 **Vinny May**。2012 年失恋 ballad **"All I Want"** 打开国际知名度；2013 年首张专辑 ***In a Perfect World*** 登顶**爱尔兰专辑榜**、**英国榜第 3**。风格融合 **独立摇滚、流行摇滚、另类摇滚**；Garrigan 的歌词常像日记——写分手、怀疑与复原；较大气的 anthem 则强调**自我主宰**与韧性。
+**Kodaline** 是来自**都柏林**的**爱尔兰摇滚乐队**，2011 年成立。核心成员包括主唱 **Steve Garrigan**、吉他手 **Mark Prendergast**、贝斯手 **Jason Boland**、鼓手 **Vinny May**。2012 年失恋抒情曲 **"All I Want"** 打开国际知名度；2013 年首张专辑 ***In a Perfect World*** 登顶**爱尔兰专辑榜**、**英国榜第 3**。风格融合 **独立摇滚、流行摇滚、另类摇滚**；Garrigan 的歌词常像日记——写分手、怀疑与复原；较大气的颂歌则强调**自我主宰**与韧性。
 
 ---
 
@@ -43,7 +43,7 @@ aliases:
 
 **中文**
 
-**"Take Control"** 收录于 ***In a Perfect World***（2013）。与专辑里以分手为主的热曲不同，这是一首**赋能 anthem**：反复命令 *take control of who you are*、*stay the same, don't let them change you*。副歌承认生活 *comes apart*——但答案永远是 *start again*、*open up your heart*。*ain't nobody gonna save you*、*show the people what you are made of* 等句适合练**口语否定**与**祈使语气**。中速摇滚编曲，hook 很适合齐唱。
+**"Take Control"** 收录于 ***In a Perfect World***（2013）。与专辑里以分手为主的热曲不同，这是一首**赋能 anthem**：反复命令 *take control of who you are*、*stay the same, don't let them change you*。副歌承认生活 *comes apart*——但答案永远是 *start again*、*open up your heart*。*ain't nobody gonna save you*、*show the people what you are made of* 等句适合练**口语否定**与**祈使语气**。中速摇滚编曲，钩子句很适合齐唱。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ Take control of who you are
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 掌控你自己
 保持本色，别让他们改变你
@@ -137,14 +137,14 @@ Take control of who you are
 掌控你自己
 保持本色，别让他们改变你
 
-#### Chorus
+#### 副歌
 
 但当一切分崩离析
 当一切分崩离析，就重新开始
 并敞开你的心
 掌控你自己
 
-#### Verse 2
+#### 主歌 2
 
 掌控你自己
 当你照着镜子
@@ -156,27 +156,27 @@ Take control of who you are
 掌控你自己
 让人们看看你是什么料
 
-#### Chorus 2
+#### 副歌 2
 
 而当一切分崩离析
 当一切分崩离析，就重新开始
 敞开你的心
 掌控你自己
 
-#### Chorus 3
+#### 副歌 3
 
 而当一切分崩离析
 当一切分崩离析，就重新开始
 敞开你的心
 掌控你自己
 
-#### Bridge
+#### 桥段
 
 你压不垮我
 你压不垮我
 你压不垮我
 
-#### Outro
+#### 尾声
 
 当一切分崩离析
 而当一切分崩离析，就重新开始
@@ -209,4 +209,4 @@ Take control of who you are
 - 主句 *Take control of who you are* 重复极多，适合**跟唱**练祈使句重音：重读 **control**、**you**。
 - 注意 **ain't nobody** 双重否定在口语里仍表否定；读成「没人」即可，不要按字面翻成肯定。
 - *comes apart* 与 *start again* 常连读；可先分句慢读，再跟原速副歌。
-- 想延伸练**态度与边界**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 self-talk / resilience 相关表达。
+- 想延伸练**态度与边界**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 self-talk / 韧性相关表达。

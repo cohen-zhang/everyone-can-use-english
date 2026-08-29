@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Lewis Capaldi**（1996 年 10 月 7 日生）是苏格兰**创作型歌手**，来自 **West Lothian** 的 **Bathgate**。少年时在 **SoundCloud** 与 **YouTube** 发翻唱，2017 年 **"Bruises"** 病毒传播后被发掘。首张专辑 **Divinely Uninspired To A Hellish Extent**（2019）成为英国十年最畅销唱片之一。他以**有力、沙哑的嗓音**和直白的失恋、哀悼 ballad 著称；2020 年获 **全英音乐奖「最佳新人」**；影响包括 **Adele** 与 **Travis**。2023 年因 **妥瑞症** 与心理健康暂别乐坛，之后回归发新曲。
+**Lewis Capaldi**（1996 年 10 月 7 日生）是苏格兰**创作型歌手**，来自 **West Lothian** 的 **Bathgate**。少年时在 **SoundCloud** 与 **YouTube** 发翻唱，2017 年 **"Bruises"** 病毒传播后被发掘。首张专辑 **Divinely Uninspired To A Hellish Extent**（2019）成为英国十年最畅销唱片之一。他以**有力、沙哑的嗓音**和直白的失恋、哀悼抒情曲著称；2020 年获 **全英音乐奖「最佳新人」**；影响包括 **Adele** 与 **Travis**。2023 年因 **妥瑞症** 与心理健康暂别乐坛，之后回归发新曲。
 
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Someone You Loved"** 于 **2018 年 11 月 8 日**发行，后成为 Capaldi 首张专辑的核心曲目。与 **TMS**（Tom Barnes、Ben Kohn、Peter Kelleher）及 **Romans** 共同创作，这首钢琴 ballad 写失去那个曾让你感到安全的人之后的空洞——*I was getting kinda used to being someone you loved*（我差不多习惯了当你爱的那个人）。Lewis 说灵感部分来自**祖母去世**、部分来自分手；哀悼写得够 universal，两种情境都说得通。*the day bleeds into nightfall* 写溺水般的日子里白昼与黑夜糊成一片。单曲在英国榜首停留七周，2020 年登顶 **Billboard Hot 100**。
+**"Someone You Loved"** 于 **2018 年 11 月 8 日**发行，后成为 Capaldi 首张专辑的核心曲目。与 **TMS**（Tom Barnes、Ben Kohn、Peter Kelleher）及 **Romans** 共同创作，这首钢琴抒情曲写失去那个曾让你感到安全的人之后的空洞——*I was getting kinda used to being someone you loved*（我差不多习惯了当你爱的那个人）。Lewis 说灵感部分来自**祖母去世**、部分来自分手；哀悼写得够普世，两种情境都说得通。*the day bleeds into nightfall* 写溺水般的日子里白昼与黑夜糊成一片。单曲在英国榜首停留七周，2020 年登顶 **Billboard Hot 100**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ I was getting kinda used to being someone you loved
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我要沉下去了，这次我怕没人能救我
 这种孤注一掷真的把我逼疯
@@ -129,14 +129,14 @@ I was getting kinda used to being someone you loved
 说起来容易，感觉却永远不一样
 我想我有点怀念你帮我麻木所有痛苦的方式
 
-#### Pre-Chorus / Chorus
+#### 预副歌 / 副歌
 
 如今白昼淌进夜幕
 而你不在，陪我熬过这一切
 我卸下防备，你却抽走了地毯
 我差不多习惯了当你爱的那个人
 
-#### Verse 2
+#### 主歌 2
 
 我要沉下去了，这次我怕无人可求
 这种非黑即白的爱法让我独眠
@@ -146,17 +146,17 @@ I was getting kinda used to being someone you loved
 说起来容易，感觉却永远不一样
 我想我有点怀念你帮我逃避的方式
 
-#### Pre-Chorus / Chorus（重复）
+#### 预副歌 / 副歌（重复）
 
 *(同第一段)*
 
-#### Bridge
+#### 桥段
 
 有时痛的时候我会闭上眼
 我跌入你的怀抱
 在你声音里我会安全，直到我回过神来
 
-#### Pre-Chorus / Chorus（重复至结尾）
+#### 预副歌 / 副歌（重复至结尾）
 
 此刻白昼淌进夜幕
 而你不在，陪我熬过这一切

@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Seal**（本名 **Seal Henry Olusegun Olumide Adeola Samuel**，1963 年 2 月 19 日生，伦敦）是英国**创作型歌手**，以沙哑、富有磁性的**男高音**及 **灵魂、流行、R&B** 融合著称。由威斯敏斯特的寄养家庭抚养长大，曾学建筑，后转向音乐。1991 年 **"Crazy"**、1994 年 **"Kiss from a Rose"**（获**格莱美年度制作奖**）使其国际成名，全球专辑销量逾 **2000 万**。2008 年翻唱专辑 **Soul** 由 **David Foster** 制作，以管弦编曲重新演绎 1960–70 年代灵魂经典——本笔记所录 **"Stand By Me"** 即此版，而非 Ben E. King 1961 年原版。
+**Seal**（本名 **Seal Henry Olusegun Olumide Adeola Samuel**，1963 年 2 月 19 日生，伦敦）是英国**创作型歌手**，以沙哑、富有磁性的**男高音**及 **灵魂、流行、R&B** 融合著称。由威斯敏斯特的寄养家庭抚养长大，曾学建筑，后转向音乐。1991 年 **"Crazy"**、1994 年 **"Kiss from a Rose"**（获**格莱美年度制作奖**）使其国际成名，全球专辑销量逾 **2000 万**。2008 年翻唱专辑 **灵魂乐** 由 **David Foster** 制作，以管弦编曲重新演绎 1960–70 年代灵魂经典——本笔记所录 **"Stand By Me"** 即此版，而非 Ben E. King 1961 年原版。
 
 ---
 
@@ -44,7 +44,7 @@ aliases:
 
 **中文**
 
-Seal 在 *Soul* 中的 **"Stand By Me"** 是对 1961 年经典的情歌**灵魂/R&B 翻唱**，原曲由 **Ben E. King**、**Jerry Leiber**、**Mike Stoller** 创作（King 与 The Drifters 首唱）。Seal 版由 David Foster 制作，**2008 年 11 月 10 日**随专辑发行——放慢速度，加入弦乐与福音式即兴（*Ma-ma-my*、*Whoa-oh-oh*），时长 **4:02**。歌词承诺坚定陪伴：当黑夜降临或天地崩塌，*just as long as you stand by me*（只要你守在我身边）。Seal 的诠释偏温暖与 devotion，适合练 **as long as**、**won't shed a tear** 及歌名 **stand by me**（支持我、与我同在）。
+Seal 在 *Soul* 中的 **"Stand By Me"** 是对 1961 年经典的情歌**灵魂/R&B 翻唱**，原曲由 **Ben E. King**、**Jerry Leiber**、**Mike Stoller** 创作（King 与 The Drifters 首唱）。Seal 版由 David Foster 制作，**2008 年 11 月 10 日**随专辑发行——放慢速度，加入弦乐与福音式即兴（*Ma-ma-my*、*Whoa-oh-oh*），时长 **4:02**。歌词承诺坚定陪伴：当黑夜降临或天地崩塌，*just as long as you stand by me*（只要你守在我身边）。Seal 的诠释偏温暖与忠诚奉献，适合练 **as long as**、**won't shed a tear** 及歌名 **stand by me**（支持我、与我同在）。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ Come on, come on, stand, stand right here
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 当夜晚降临
 大地一片漆黑
@@ -135,26 +135,26 @@ Come on, come on, stand, stand right here
 不，我不会害怕
 只要你守在我身边
 
-#### Chorus 1
+#### 副歌 1
 
 所以亲爱的，请守在我身边
 哦，守在我身边
 哦，守在我身边
 
-#### Verse 2
+#### 主歌 2
 
 若我们仰望的天空崩塌坠落
 或群山倾入大海
 我不会哭，不会哭，不，我不会流一滴泪
 只要你守在我身边
 
-#### Chorus 2
+#### 副歌 2
 
 亲爱的，请守在我身边
 哦，守在我身边
 哦亲爱的，守在我身边
 
-#### Bridge / Ad-lib
+#### 桥段 / 即兴
 
 （即兴）
 （即兴）
@@ -162,13 +162,13 @@ Come on, come on, stand, stand right here
 若群山倾入大海
 （即兴）
 
-#### Verse 3（重复 Verse 1，略有变化）
+#### 主歌 3（重复 主歌 1，略有变化）
 
 当夜晚降临
 而，而大地一片漆黑
 月亮是我们唯一、唯一的光
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 所以亲爱的，请守在我身边
 哦亲爱的，守在我身边
@@ -202,6 +202,6 @@ Come on, come on, stand, stand right here
 ## 听歌提示 · Listening Notes
 
 - 本版比 Ben E. King 原版**更慢、更 soul**，Seal 会在词与词之间**拖长音**——跟唱时不必赶拍，跟着呼吸即可。
-- 副歌 *Stand by me* 重复多次，是 **KTV / 通勤** 友好句型；先练 Chorus 再练 Verse 里的 *tumble and fall*。
+- 副歌 *Stand by me* 重复多次，是 **KTV / 通勤** 友好句型；先练副歌再练主歌里的 *tumble and fall*。
 - *just as long as* 与结尾 *as long as I know* 是同一结构的两种说法，可用来记 **「只要……就……」** 英文条件句。
-- 翻唱专辑 *Soul* 整体偏管弦 + 复古灵魂风；想对比原版，可再听 Ben E. King 1961 录音，体会 Seal 版在 tempo 与 ad-lib 上的差异。
+- 翻唱专辑 *Soul* 整体偏管弦 + 复古灵魂风；想对比原版，可再听 Ben E. King 1961 录音，体会 Seal 版在速度与即兴上的差异。

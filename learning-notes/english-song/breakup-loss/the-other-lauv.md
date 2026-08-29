@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"The Other"** 是 LAUV 最早的作品之一，约 **2015 年**先上传 **SoundCloud**，后收入合辑 *I met you when I was 18. (the playlist)*。这首 minimalist 钢琴 ballad 写一段「还没彻底坏掉、却**感觉不对**」的关系 limbo——*nothing quite wrong but it don't feel right*。核心隐喻 *Either your head or your heart, you set the other on fire* 写理智与情感的战争：你牺牲一边去点燃另一边。*Who wrote the book on goodbye?* 感叹「分手没有标准答案」。这首歌奠定了 LAUV 标志性的 soft、焦虑而 painfully honest 的基调。
+**"The Other"** 是 LAUV 最早的作品之一，约 **2015 年**先上传 **SoundCloud**，后收入合辑 *I met you when I was 18. (the playlist)*。这首极简钢琴抒情曲写一段「还没彻底坏掉、却**感觉不对**」的关系悬置状态——*nothing quite wrong but it don't feel right*。核心隐喻 *Either your head or your heart, you set the other on fire* 写理智与情感的战争：你牺牲一边去点燃另一边。*Who wrote the book on goodbye?* 感叹「分手没有标准答案」。这首歌奠定了 LAUV 标志性的柔和、焦虑而痛苦地坦诚的基调。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ You set the other on fire
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 像聚光灯，水打在我身上
 把水开得很冷，好把话从嘴里抖出来
@@ -135,14 +135,14 @@ You set the other on fire
 而我一直等着，好像
 你会改变主意
 
-#### Pre-Chorus
+#### 预副歌
 
 谁写了那本关于告别的书？
 从来没有办法让这一切变容易
 当没什么大错，却感觉不对
 要么是头脑，要么是心，你把另一边点燃
 
-#### Verse 2
+#### 主歌 2
 
 来回摇摆，我现在感到愧疚
 因为我停不下来脑子里的钟摆
@@ -153,11 +153,11 @@ You set the other on fire
 你会改变主意
 再给我一夜
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 *(同第一段)*
 
-#### Bridge
+#### 桥段
 
 没人知道
 哦哦，哦哦，哦哦
@@ -170,7 +170,7 @@ You set the other on fire
 我想要的和我所知道的
 当他们说「你就是会知道」
 
-#### Pre-Chorus / Outro
+#### 预副歌 / 尾声
 
 谁写了那本关于告别的书？
 从来没有办法让这一切变容易
@@ -206,5 +206,5 @@ You set the other on fire
 ## 听歌提示 · Listening Notes
 
 - 副歌 *Either your head or your heart* 节奏稳定，适合**通勤精听**；注意 *it don't feel right* 是口语，正式写作常用 *doesn't*。
-- Bridge 里 *caught in between what I wish and what I know* 是整首歌主题句，可用来练「wish vs know」的对照结构。
+- 桥段里 *caught in between what I wish and what I know* 是整首歌主题句，可用来练「wish vs know」的对照结构。
 - 想延伸读**分手与情绪表达**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 与 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

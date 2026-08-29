@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Relient K** 是 1998 年在**俄亥俄 Canton** 成立的美国**基督教摇滚 / pop-punk** 乐队。队名双关车型 **Pontiac Reliant K** 与 **reliant on God**（依靠上帝）。主唱 **Matt Thiessen**（人声、钢琴、吉他）与吉他手 **Matt Hoopes** 是核心；历任成员包括贝斯 John Warne、鼓手 Ethan Luck 等。乐队以机智、自省的歌词和旋律 hook 著称，凭 *"Be My Escape"*、*"Who I Am Hates Who I've Been"* 等打入主流，2013 年 *Collapsible Lung* 转向更干净的**流行**音色。曾获多项 **格莱美** 与 **GMA Dove** 提名。
+**Relient K** 是 1998 年在**俄亥俄 Canton** 成立的美国**基督教摇滚 / pop-punk** 乐队。队名双关车型 **Pontiac Reliant K** 与 **reliant on God**（依靠上帝）。主唱 **Matt Thiessen**（人声、钢琴、吉他）与吉他手 **Matt Hoopes** 是核心；历任成员包括贝斯 John Warne、鼓手 Ethan Luck 等。乐队以机智、自省的歌词和旋律钩子句著称，凭 *"Be My Escape"*、*"Who I Am Hates Who I've Been"* 等打入主流，2013 年 *Collapsible Lung* 转向更干净的**流行**音色。曾获多项 **格莱美** 与 **GMA Dove** 提名。
 
 ---
 
@@ -143,7 +143,7 @@ But I can't complain
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 从后视镜里看着警察
 本该停车，但人行横道是空的
@@ -153,13 +153,13 @@ But I can't complain
 可能要下雨，但我的 outlook 是晴朗的
 我就当自己在墨西哥晒太阳
 
-#### Pre-Chorus
+#### 预副歌
 
 因为我知道快乐总得伴随痛苦
 我知道事情不会总顺我的意
 我知道有些日子生活会很糟
 
-#### Chorus
+#### 副歌
 
 但我不能抱怨
 我不能抱怨
@@ -174,7 +174,7 @@ But I can't complain
 我知道有些日子生活会很糟
 但我不能抱怨
 
-#### Verse 2
+#### 主歌 2
 
 在道口等一列永远不来的火车
 毫不在意，因为你一直在说话
@@ -184,9 +184,9 @@ But I can't complain
 迫不及待想回到我在乎的人身边
 微笑着幻想家里床上的小狗
 
-#### Pre-Chorus & Chorus（重复）
+#### 预副歌 & 副歌（重复）
 
-#### Bridge
+#### 桥段
 
 如果你说不出好话
 那就别说话
@@ -198,7 +198,7 @@ But I can't complain
 哦哦哦哦哦
 别让它白白浪费
 
-#### Final Chorus
+#### 终段副歌
 
 现在我不能抱怨
 我不能抱怨
@@ -235,6 +235,6 @@ But I can't complain
 ## 听歌提示 · Listening Notes
 
 - 副歌 *I can't complain* 短、重复，**通勤跟唱**友好；注意 *complain* 重音在第二音节。
-- 每段 Verse 都用 **I'll just imagine…** 做「自我安慰式重构」，可用来练假设语气。
-- Bridge 的 *Don't say nothing* 是**双重否定**口语，学习时记「实际意思 = 别说话」，但别在正式写作里模仿。
+- 每段主歌都用 **I'll just imagine…** 做「自我安慰式重构」，可用来练假设语气。
+- 桥段的 *Don't say nothing* 是**双重否定**口语，学习时记「实际意思 = 别说话」，但别在正式写作里模仿。
 - 想延伸练**积极 reframing**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 gratitude 与 daily attitude 的表达。

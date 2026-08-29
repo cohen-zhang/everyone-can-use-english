@@ -33,9 +33,9 @@ aliases:
 
 **中文**
 
-**Zara Larsson**（1997 年 12 月 16 生于瑞典 Stockholm）是瑞典**流行歌手**。10 岁赢得 *Talang*（瑞典达人），2015 年以 **"Lush Life"** 国际走红。首张专辑 *So Good*（2017）以自信、带调情感的词和强声线确立**舞曲流行**地位。获多项 **MTV** 与 **Teen Choice** 奖，是瑞典最具代表性的 pop 输出之一。
+**Zara Larsson**（1997 年 12 月 16 生于瑞典 Stockholm）是瑞典**流行歌手**。10 岁赢得 *Talang*（瑞典达人），2015 年以 **"Lush Life"** 国际走红。首张专辑 *So Good*（2017）以自信、带调情感的词和强声线确立**舞曲流行**地位。获多项 **MTV** 与 **Teen Choice** 奖，是瑞典最具代表性的流行输出之一。
 
-**R3HAB**（Fadil El Ghoul，1986 年 4 月 2 生于荷兰 Breda）是荷兰 **DJ 兼制作人**，擅长 **EDM** 与 festival remix。曾为 Calvin Harris、Bruno Mars 等制作混音；本曲 **R3hab Remix** 在保留 Zara 人声 hook 的同时加入更硬的 club drop。
+**R3HAB**（Fadil El Ghoul，1986 年 4 月 2 生于荷兰 Breda）是荷兰 **DJ 兼制作人**，擅长 **电子舞曲** 与音乐节混音版。曾为 Calvin Harris、Bruno Mars 等制作混音；本曲 **R3hab Remix** 在保留 Zara 人声钩子句的同时加入更硬的夜店爆发段。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Ain't My Fault"** 于 **2016 年 9 月 2 日**发行，为 Zara Larsson 专辑 *So Good* 第三支单曲；**R3hab Remix**（2016 年 10 月 7 日）随后推出，成为 club 常客。与 **MNEK**（Uzoechi Emenike）、**Markus Sepehrmanesh** 等共同创作，歌曲是一句**俏皮的免责声明**：歌手遇见无法抗拒的对象，坚称若事态升级 *it ain't my fault*——*you keep turning me on*。语气自信、戏谑，而非心碎；hook 像咒语一样重复。原版在欧洲多国**前十**；混音版让这首歌在全球舞池里续航更久。
+**"Ain't My Fault"** 于 **2016 年 9 月 2 日**发行，为 Zara Larsson 专辑 *So Good* 第三支单曲；**R3hab Remix**（2016 年 10 月 7 日）随后推出，成为夜店常客。与 **MNEK**（Uzoechi Emenike）、**Markus Sepehrmanesh** 等共同创作，歌曲是一句**俏皮的免责声明**：歌手遇见无法抗拒的对象，坚称若事态升级 *it ain't my fault*——*you keep turning me on*。语气自信、戏谑，而非心碎；钩子句像咒语一样重复。原版在欧洲多国**前十**；混音版让这首歌在全球舞池里续航更久。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -141,14 +141,14 @@ It ain't my fault
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 不怪我，是你老让我心动
 不怪我，是你让我神魂颠倒
 不怪我，我不会一个人走
 不怪我，是你老让我心动
 
-#### Verse 1
+#### 主歌 1
 
 现在没法说话，我看着，我喜欢我看到的
 现在有点震惊
@@ -158,7 +158,7 @@ It ain't my fault
 想让你插手我全部生活
 宝贝我坚持，接下来发生啥别怪我
 
-#### Pre-Chorus
+#### 预副歌
 
 不，我不能负责
 要是我现在让你惹上麻烦
@@ -170,11 +170,11 @@ It ain't my fault
 不，我不能负责，不能负责
 不怪我
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 2
+#### 主歌 2
 
 不怪我，你是这副模样来的
 你让我绊倒，摔在你腿上
@@ -188,7 +188,7 @@ It ain't my fault
 想让你插手我全部生活
 宝贝我坚持，接下来发生啥别怪我
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 不，我不能负责
 要是我现在让你惹上麻烦
@@ -204,7 +204,7 @@ It ain't my fault
 不怪我，我不会一个人走
 不怪我，是你老让我心动
 
-#### Outro（R3hab Remix 收尾）
+#### 尾声（R3hab Remix 收尾）
 
 你的身体在呼唤我
 我知道无论你在哪
@@ -238,7 +238,7 @@ It ain't my fault
 ## 听歌提示 · Listening Notes
 
 - 副歌 *It ain't my fault* 四句结构相同，适合**跟唱**练 *ain't* 的弱读与 *turning me on* 连读。
-- 歌里是**主动、自信**的调情语气，不是分手歌；可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 playful / flirty 句型。
-- Verse 2 的 *Missed me with that* 很**美式口语**，适合记作「拒绝老套搭讪」模板。
-- R3hab Remix  drop 较重，精听歌词建议先听**原声版**再听 remix；本笔记歌词两版通用。
+- 歌里是**主动、自信**的调情语气，不是分手歌；可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里俏皮 / flirty 句型。
+- 主歌 2 的 *Missed me with that* 很**美式口语**，适合记作「拒绝老套搭讪」模板。
+- R3hab 混音版爆发段较重，精听歌词建议先听**原声版**再听混音版；本笔记歌词两版通用。
 - 同列表舞曲恋爱向可延伸：[[learning-notes/english-song/breakup-loss/vicious-girl-calvo|Vicious Girl]]（#80）。

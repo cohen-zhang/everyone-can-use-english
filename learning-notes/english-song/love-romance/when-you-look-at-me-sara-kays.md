@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Sara Kays**（1999 年 11 月 24 日生）是美国**创作型歌手**，来自**马里兰州银泉市**。13 岁开始写歌，通过在 YouTube 和 TikTok 发布私密、日记感的 **独立流行** 与 **民谣流行抒情曲** 获得关注。歌词常写焦虑、身体形象、恋爱里的细碎瞬间。**"When You Look At Me"**（2022，**Atlantic Records**）是她播放量最高的作品之一；此前已有 EP *Camera Shy*（2020）与爆款单曲 **"Remember That Night?"**，并为 **Lauv**、**AJR** 等艺人担任开场嘉宾巡演。
+**Sara Kays**（1999 年 11 月 24 日生）是美国**创作型歌手**，来自**马里兰州银泉市**。13 岁开始写歌，通过在 YouTube 和 TikTok 发布私密、日记感的 **独立流行** 与 **民谣流行抒情曲** 获得关注。歌词常写焦虑、身体形象、恋爱里的细碎瞬间。**"When You Look At Me"**（2022，**Atlantic Records**）是她播放量最高的作品之一；此前已有迷你专辑 *Camera Shy*（2020）与爆款单曲 **"Remember That Night?"**，并为 **Lauv**、**AJR** 等艺人担任开场嘉宾巡演。
 
 ---
 
@@ -126,26 +126,26 @@ When you look at me (when you look at me)
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我觉得你最近好像不太喜欢我了
 我觉得自己不够好看
 我身上还有那种光吗
 像那晚在城市里一样？
 
-#### Pre-Chorus
+#### 预副歌
 
 当你说我让你想起月亮
 我仍抓着那句话，也抓着你
 
-#### Chorus
+#### 副歌
 
 当你看着我，你还觉得
 我比谁都更亮吗？
 还是你最近遇见了别人
 让你想起太阳？
 
-#### Verse 2
+#### 主歌 2
 
 从九月末起我就一直在盼
 盼你像以前那样对我
@@ -155,18 +155,18 @@ When you look at me (when you look at me)
 你曾说我想起月亮
 你会抱着我——可现在再也不了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Post-Chorus
+#### 后副歌
 
 当你看着我（当你看着我）
 当你看着我（当你看着我）
 当你看着我
 当你看着我（当你看着我）
 
-#### Bridge
+#### 桥段
 
 我知道在你家门口
 我不会再被耍得团团转
@@ -179,7 +179,7 @@ When you look at me (when you look at me)
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 当你看着我（当你看着我）
 当你看着我（当你看着我）
@@ -207,6 +207,6 @@ When you look at me (when you look at me)
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *When you look at me* 重复多遍，适合 **KTV 跟唱**；先听清 moon/sun 两句再练 Verse。
+- 副歌 *When you look at me* 重复多遍，适合 **KTV 跟唱**；先听清 moon/sun 两句再练主歌。
 - 注意 *I don't feel like you **like** me* 里两个 *like* 不同用法：第一个是「觉得」，第二个是「喜欢」。
 - 想延伸练**恋爱里的自我怀疑**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 对照不安、委屈类表达。

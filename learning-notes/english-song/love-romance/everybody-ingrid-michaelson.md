@@ -122,14 +122,14 @@ Everybody, everybody wants to be loved
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 今晚我们又跌倒了
 在这世上，很难把事情做对
 想让心像手套一样严丝合缝
 它真正需要的是爱、爱、爱
 
-#### Chorus
+#### 副歌
 
 每个人、每个人都想去爱
 每个人、每个人都想被爱
@@ -138,18 +138,18 @@ Everybody, everybody wants to be loved
 每个人、每个人都想被爱
 哦哦哦，哦哦哦
 
-#### Verse 2
+#### 主歌 2
 
 还能感到痛的心，才是幸福的
 黑暗会退去，光会再来
 敞开心胸，让它进来
 就让爱、爱、爱开始吧
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 每个人都认识爱
 每个人都握着爱
@@ -160,7 +160,7 @@ Everybody, everybody wants to be loved
 哦哦哦
 就让爱、爱、爱开始吧
 
-#### Final Chorus
+#### 终段副歌
 
 每个人、每个人都想去爱
 每个人、每个人都想被爱
@@ -198,6 +198,6 @@ Everybody, everybody wants to be loved
 
 - 副歌 *Everybody, everybody wants to…* 节奏规整、词少，**通勤跟唱**友好；注意 *everybody* 重音在第一音节。
 - *wants to love* vs *wants to be loved*——主动爱与被爱，练听 **to be** 的弱读。
-- Bridge 一串动词（*knows / holds / falls / feels / steals / heals*）适合当**动词闪卡**跟唱。
+- 桥段一串动词（*knows / holds / falls / feels / steals / heals*）适合当**动词闪卡**跟唱。
 - *fit like a glove* 是地道习语，可记进口语：*This job fits me like a glove.*
 - 想延伸「孤独 / 被理解」表达，对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

@@ -36,7 +36,7 @@ aliases:
 
 **中文**
 
-**Wiz Khalifa**（本名 **Cameron Jibril Thomaz**，1987 年 9 月 8 日生于北达科他 Minot）是美国**说唱歌手、词曲作者与创业者**，主要在**宾州匹兹堡**长大。早期靠 mixtape 与独立专辑 *Show and Prove*（2006）起家，签约 **Atlantic** 后凭 **"Black and Yellow"**（2010）——向家乡致敬的热单——登顶 Billboard Hot 100，并推出大厂首专 *Rolling Papers*（2011）。以旋律感强、松弛的 **pop-rap** 与 **Taylor Gang** 厂牌著称，另有 *"Young, Wild & Free"*（与 Snoop Dogg）、*"We Dem Boyz"* 等热单。**"See You Again"**（feat. **Charlie Puth**）成为他全球影响力最大的单曲。
+**Wiz Khalifa**（本名 **Cameron Jibril Thomaz**，1987 年 9 月 8 日生于北达科他 Minot）是美国**说唱歌手、词曲作者与创业者**，主要在**宾州匹兹堡**长大。早期靠混音带与独立专辑 *Show and Prove*（2006）起家，签约 **Atlantic** 后凭 **"Black and Yellow"**（2010）——向家乡致敬的热单——登顶 Billboard Hot 100，并推出大厂首专 *Rolling Papers*（2011）。以旋律感强、松弛的 **pop-rap** 与 **Taylor Gang** 厂牌著称，另有 *"Young, Wild & Free"*（与 Snoop Dogg）、*"We Dem Boyz"* 等热单。**"See You Again"**（feat. **Charlie Puth**）成为他全球影响力最大的单曲。
 
 **Charlie Puth**（1991 年生，新泽西）——Berklee 出身的唱作人与制作人——演唱并参与创作钢琴副歌；此曲让他一举进入主流，随后推出 *Nine Track Mind*（2016）。
 
@@ -50,7 +50,7 @@ aliases:
 
 **中文**
 
-**"See You Again"** 于 **2015 年 3 月 10 日**发行，为 *Furious 7* 原声带主打单曲——献给 **Paul Walker**（2013 年车祸去世）的**致敬之作**。Wiz Khalifa 的 Verse 写**友情、家人与兄弟情**（*family's all that we got*）；Charlie Puth 的钢琴副歌托住那句心酸的 *I'll tell you all about it when I see you again*。片尾 Dom 与 Brian 在山路分道扬镳时响起此曲。单曲在 **Billboard Hot 100 非连续登顶 12 周**，并登顶英国等多国榜单；获多项 **格莱美** 提名（含年度歌曲），MV 长期位居 YouTube 最高播放量前列。IFPI 将其评为 **2015 年全球畅销单曲**。
+**"See You Again"** 于 **2015 年 3 月 10 日**发行，为 *Furious 7* 原声带主打单曲——献给 **Paul Walker**（2013 年车祸去世）的**致敬之作**。Wiz Khalifa 的主歌写**友情、家人与兄弟情**（*family's all that we got*）；Charlie Puth 的钢琴副歌托住那句心酸的 *I'll tell you all about it when I see you again*。片尾 Dom 与 Brian 在山路分道扬镳时响起此曲。单曲在 **Billboard Hot 100 非连续登顶 12 周**，并登顶英国等多国榜单；获多项 **格莱美** 提名（含年度歌曲），MV 长期位居 YouTube 最高播放量前列。IFPI 将其评为 **2015 年全球畅销单曲**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -139,7 +139,7 @@ See you again
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus（Charlie Puth）
+#### 副歌（Charlie Puth）
 
 没有你的日子真漫长啊，我的朋友
 等再见到你，我把一切都讲给你听
@@ -147,7 +147,7 @@ See you again
 哦，等再见到你，我把一切都讲给你听
 等我再见到你
 
-#### Verse 1（Wiz Khalifa）
+#### 主歌 1（Wiz Khalifa）
 
 该死，谁能想到呢？
 一起飞过那么多航线，一起走过那么多好日子
@@ -159,19 +159,19 @@ See you again
 现在我看见你在更好的地方（在更好的地方）
 嗯
 
-#### Pre-Chorus
+#### 预副歌
 
 家人是我们仅有的一切，怎么能不提家人？
 我经历的每件事，你都站在我身边
 而现在，你会陪我走完这最后一程
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 我们已经走了好远（对，走了好远）
 从我们开始的地方（你知道我们是从哪儿起步的）
 等我再见到你
 
-#### Verse 2（Wiz Khalifa）
+#### 主歌 2（Wiz Khalifa）
 
 一开始，你们都特别用心，感觉特别对
 小事变成友情，友情又变成羁绊
@@ -180,16 +180,16 @@ See you again
 那条线必须划清时，是我们自己立下的规矩
 那条线，我们走到了；所以我不在了，也请记得我（记得我）
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
-#### Bridge（Charlie Puth）
+#### 桥段（Charlie Puth）
 
 那就让光为你引路，yeah
 一路走，把每一段回忆都握紧
 你走的每一条路
 终会带你回家，回家
 
-#### Final Chorus
+#### 终段副歌
 
 没有你的日子真漫长啊，我的朋友
 等再见到你，我把一切都讲给你听
@@ -231,7 +231,7 @@ See you again
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 难（`level/hard`）——Wiz 的 rap Verse 语速与连读密，适合精听拆句；**Charlie Puth 副歌旋律缓、音域友好，KTV 优先跟唱副歌与 Bridge**。
-- 先把副歌 *It's been a long day… / when I see you again* 唱稳，再逐句跟 Verse；注意 *'Bout*、*gon'*、*we been through* 等口语缩略。
+- **难度：** 难（`level/hard`）——Wiz 的说唱主歌语速与连读密，适合精听拆句；**Charlie Puth 副歌旋律缓、音域友好，KTV 优先跟唱副歌与 Bridge**。
+- 先把副歌 *It's been a long day… / when I see you again* 唱稳，再逐句跟主歌；注意 *'Bout*、*gon'*、*we been through* 等口语缩略。
 - *in a better place*、*the last ride*、*remember me when I'm gone* 是**悼念/致敬**语境，日常慎用；练口语时更实用的是 *come a long way*、*hit the road*、*see the bigger picture*、*by my side*。
 - 想延伸练**失去、怀念、友情告别**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]；同列表 #85 [[learning-notes/english-song/breakup-loss/we-dont-talk-anymore-charlie-puth|We Don't Talk Anymore — Charlie Puth]] 可对照 Puth 的分手向副歌音色。

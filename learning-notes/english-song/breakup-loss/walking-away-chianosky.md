@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**ChianoSky**（全名 **ChianoSky Kruger**，1993 年生于南非姆普马兰加省 Mbombela）是南非**创作歌手**与模特。ChianoSky 是本名而非艺名——母亲把朋友名里的 "Chiano" 与 "Sky" 拼在一起，寓意无限可能。她曾就读 **National School of the Arts**，打工时被发掘，签约 **EMI**。首专 ***Hungry***（2012）融合爵士流行、灵魂与带 cabaret 气质的情歌，获 **五项南非音乐奖（SAMA）提名**。热单包括 *"Sick Sick"*、*"Walking Away"*、*"Home Sweet Home"*。
+**ChianoSky**（全名 **ChianoSky Kruger**，1993 年生于南非姆普马兰加省 Mbombela）是南非**创作歌手**与模特。ChianoSky 是本名而非艺名——母亲把朋友名里的 "Chiano" 与 "Sky" 拼在一起，寓意无限可能。她曾就读 **National School of the Arts**，打工时被发掘，签约 **EMI**。首专 ***Hungry***（2012）融合爵士流行、灵魂与带卡巴莱气质的情歌，获 **五项南非音乐奖（SAMA）提名**。热单包括 *"Sick Sick"*、*"Walking Away"*、*"Home Sweet Home"*。
 
 ---
 
@@ -135,7 +135,7 @@ I wanna know what it feels like to be haunted by you, ohhh!
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 你说你爱我
 才一分钟
@@ -146,7 +146,7 @@ I wanna know what it feels like to be haunted by you, ohhh!
 你却不表现出来，我心里清楚
 若爱上一个人这么容易，那我为什么在哭？
 
-#### Pre-Chorus
+#### 预副歌
 
 不该是这样的
 我想知道自己站在哪
@@ -154,12 +154,12 @@ I wanna know what it feels like to be haunted by you, ohhh!
 想感觉到自己被需要
 被你需要
 
-#### Chorus
+#### 副歌
 
 我想知道被你缠住、挥之不去是什么感觉，哦！
 我想知道被你渴望是什么感觉，哦！
 
-#### Verse 2
+#### 主歌 2
 
 你吻我，亲爱的，像是想让我留下
 爱那么难得到，扔掉却那么快
@@ -171,19 +171,19 @@ I wanna know what it feels like to be haunted by you, ohhh!
 这可不是谁都能玩的游戏
 不该是这样的
 
-#### Pre-Chorus 2
+#### 预副歌 2
 
 我想弄明白
 想尽我所能
 我觉得自己被需要
 被你需要
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 我想知道被你缠住、挥之不去是什么感觉，哦！
 我想知道被你渴望是什么感觉，哦！
 
-#### Bridge
+#### 桥段
 
 只是浅尝辄止、碰一下就走
 可给我、给我
@@ -192,7 +192,7 @@ I wanna know what it feels like to be haunted by you, ohhh!
 我们曾经拥有的，曾经拥有的
 （衬词）
 
-#### Final Chorus
+#### 终段副歌
 
 我想知道（我想知道）被你缠住是什么感觉（我得知道），哦！
 我想知道被你渴望是什么感觉（我得知道），哦！
@@ -224,7 +224,7 @@ I wanna know what it feels like to be haunted by you, ohhh!
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 中——旋律好唱，注意 *haunted / wanted* 元音与副歌长音；Bridge 节奏稍密。
+- **难度：** 中——旋律好唱，注意 *haunted / wanted* 元音与副歌长音；桥段节奏稍密。
 - **核心对立：** *You said you love me* vs *you're walking away*；*you don't show it, I know it*——练「言行不一」类口语。
 - **两个 want：** *haunted by you*（被缠住）与 *wanted by you*（被渴望）是副歌双核；跟唱时把重音放在 *haunted* / *wanted* 上。
 - **校正说明：** 旧稿 *your walking* → *you're walking*；*you to scared* → *you're too scared*；*feel like am needed* → *feel like I'm needed*；跟唱以本笔记为准。

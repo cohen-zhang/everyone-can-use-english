@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Ed Sheeran**（1991 年 2 月 17 日生，英国 Halifax）是英格兰**创作型歌手**，同世代最畅销艺人之一。少年时移居伦敦，睡沙发、疯狂跑场，以 EP 与现场积累粉丝；*+*（2014）与 *÷*（2017）使其成为全球巨星。Sheeran 的**原声流行与抒情 ballad** 偏爱平实直白的语言——情歌像**私下对话**一样。他获 **格莱美**、**全英**、**Ivor Novello** 等奖；**"Perfect"** 成为全球最常播放的**婚礼第一支舞**歌曲之一。他常从真实关系取材，包括后来的妻子 **Cherry Seaborn**。
+**Ed Sheeran**（1991 年 2 月 17 日生，英国 Halifax）是英格兰**创作型歌手**，同世代最畅销艺人之一。少年时移居伦敦，睡沙发、疯狂跑场，以迷你专辑与现场积累粉丝；*+*（2014）与 *÷*（2017）使其成为全球巨星。Sheeran 的**原声流行与抒情曲** 偏爱平实直白的语言——情歌像**私下对话**一样。他获 **格莱美**、**全英**、**Ivor Novello** 等奖；**"Perfect"** 成为全球最常播放的**婚礼第一支舞**歌曲之一。他常从真实关系取材，包括后来的妻子 **Cherry Seaborn**。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Perfect"** 于 **2017 年 3 月 3 日**发行，为 *÷ (Divide)* 第四支单曲。Sheeran 为 **Cherry Seaborn** 而写——中学同学，在纽约重逢——把爱情写成**年少时**种下、一路长成终身承诺（*share her home*、*carry children of our own*）。华尔兹节奏的 ballad（*dancing in the dark*、*barefoot on the grass*）刻意呼应**经典婚礼慢舞**。单曲在英国与美国均登 **榜一**，2017 年成为英国 **圣诞榜一**。注意：Verse 1 用英式拼写 *favourite*，后续 Verse 用美式 *favorite*——官方版本均有出现。
+**"Perfect"** 于 **2017 年 3 月 3 日**发行，为 *÷ (Divide)* 第四支单曲。Sheeran 为 **Cherry Seaborn** 而写——中学同学，在纽约重逢——把爱情写成**年少时**种下、一路长成终身承诺（*share her home*、*carry children of our own*）。华尔兹节奏的抒情曲（*dancing in the dark*、*barefoot on the grass*）刻意呼应**经典婚礼慢舞**。单曲在英国与美国均登 **榜一**，2017 年成为英国 **圣诞榜一**。注意：主歌 1 用英式拼写 *favourite*，后续主歌用美式 *favorite*——官方版本均有出现。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -130,7 +130,7 @@ You look perfect tonight
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我找到了属于我的爱
 亲爱的，只管投入，跟着我的引导
@@ -143,7 +143,7 @@ You look perfect tonight
 你的心是我所拥有的一切
 在你眼中，你也握着我的目光
 
-#### Chorus
+#### 副歌
 
 宝贝，我在昏暗中跳舞
 你在我双臂之间
@@ -154,7 +154,7 @@ You look perfect tonight
 但你听见了
 亲爱的，你今晚美极了
 
-#### Verse 2
+#### 主歌 2
 
 我找到一位比任何人都坚强的女人
 她分享我的梦想，我希望有一天能与她共有一个家
@@ -167,7 +167,7 @@ You look perfect tonight
 做我的女孩，我来做你的男人
 我在你眼中看见未来
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 宝贝，我在昏暗中跳舞
 你在我双臂之间
@@ -177,7 +177,7 @@ You look perfect tonight
 我不配拥有这一切
 亲爱的，你今晚美极了
 
-#### Outro
+#### 尾声
 
 宝贝，我在昏暗中跳舞
 你在我双臂之间
@@ -208,6 +208,6 @@ You look perfect tonight
 
 ## 听歌提示 · Listening Notes
 
-- 华尔兹节奏（3/4 拍），**通勤或 KTV** 都适合；副歌 *you look perfect tonight* 先练熟再练 Verse。
+- 华尔兹节奏（3/4 拍），**通勤或 KTV** 都适合；副歌 *you look perfect tonight* 先练熟再练主歌。
 - *darling, just kiss me slow* 中 **kiss me slow** 连读自然，注意 **slow** 拖长。
 - 想延伸读**浪漫告白句型**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 wedding / compliment 相关表达。

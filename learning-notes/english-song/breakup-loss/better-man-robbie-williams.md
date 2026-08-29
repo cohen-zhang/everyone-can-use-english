@@ -131,7 +131,7 @@ To be a better man
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 派个人来爱我
 我需要在怀抱里歇息
@@ -142,14 +142,14 @@ To be a better man
 觉得自己在变老
 太早、太早
 
-#### Chorus
+#### 副歌
 
 当灵魂抚平羞耻
 我会在痛里成长
 主啊，我已竭尽全力
 只为成为一个更好的人
 
-#### Verse 2
+#### 主歌 2
 
 请饶了我的良心
 因为不是我的错
@@ -160,14 +160,14 @@ To be a better man
 带我走出这里
 我很痛苦
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 当灵魂抚平羞耻
 我会在痛里成长
 主啊，我已竭尽全力
 只为成为一个更好的人
 
-#### Bridge
+#### 桥段
 
 一旦找到那个爱人
 你便踏上归途
@@ -176,7 +176,7 @@ To be a better man
 我知道有人摔在顽石地上
 但爱仍无处不在
 
-#### Verse 1（重复）
+#### 主歌 1（重复）
 
 派个人来爱我
 我需要在怀抱里歇息
@@ -187,7 +187,7 @@ To be a better man
 觉得自己在变老
 太早、太早
 
-#### Chorus（结尾）
+#### 副歌（结尾）
 
 当灵魂抚平羞耻
 我会在痛里成长
@@ -216,7 +216,7 @@ To be a better man
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *to be a better man* 旋律上行、词义清楚，适合 **KTV 先练副歌** 再回头啃 Verse。
+- 副歌 *to be a better man* 旋律上行、词义清楚，适合 **KTV 先练副歌** 再回头啃主歌。
 - 注意 **Lord** 多处出现：不是每句都重读，跟唱时多在弱拍轻带过。
 - *Love is all around* 段可单独慢速朗读，练**元音拉长**与和声感。
 - 想对照「自责 vs 自我成长」的口语，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 相关章节。

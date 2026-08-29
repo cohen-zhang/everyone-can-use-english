@@ -36,7 +36,7 @@ aliases:
 
 **中文**
 
-**Nicki Minaj**（本名 **Onika Tanya Maraj**，1982 年 12 月 8 日生于特立尼达 Saint James，成长于纽约皇后区）是特立尼达裔美国**说唱歌手**、**歌手**与**词曲作者**。2000 年代末靠 mixtape 崭露头角，2010 年以 ***Pink Friday*** 正式出道。以高速 flow、戏剧化人设与流行说唱 hook 著称，是同代销量最高的女说唱歌手之一。后续专辑包括 ***Pink Friday: Roman Reloaded***（2012）、***The Pinkprint***（2014）。多首单曲打入 Billboard Hot 100，常被视作拓宽主流女说唱空间的关键人物。
+**Nicki Minaj**（本名 **Onika Tanya Maraj**，1982 年 12 月 8 日生于特立尼达 Saint James，成长于纽约皇后区）是特立尼达裔美国**说唱歌手**、**歌手**与**词曲作者**。2000 年代末靠混音带崭露头角，2010 年以 ***Pink Friday*** 正式出道。以高速说唱节奏流、戏剧化人设与流行说唱钩子句著称，是同代销量最高的女说唱歌手之一。后续专辑包括 ***Pink Friday: Roman Reloaded***（2012）、***The Pinkprint***（2014）。多首单曲打入 Billboard Hot 100，常被视作拓宽主流女说唱空间的关键人物。
 
 ---
 
@@ -193,14 +193,14 @@ Hey, hey, hey!
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro / Chorus（采样 hook · Sir Mix-a-Lot）
+#### 前奏 / 副歌（采样 hook · Sir Mix-a-Lot）
 
 我的蟒蛇不要
 我的蟒蛇不要
 我的蟒蛇什么都不要
 除非你有翘臀，亲
 
-#### Verse 1
+#### 主歌 1
 
 玩伴叫 Troy，以前住底特律
 贩毒赚大钱，他在捞钱
@@ -212,7 +212,7 @@ Hey, hey, hey!
 我嗨得要死，才吃了半片药
 我现在就是在犯傻、瞎玩
 
-#### Pre-Chorus
+#### 预副歌
 
 顺便问一句，他怎么说？（嘿，嘿）
 他看得出我顿顿没少吃（嘿）
@@ -223,14 +223,14 @@ Hey, hey, hey!
 于是我开着捷豹到场，给他来一记 jab（嘿）
 Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 
-#### Chorus
+#### 副歌
 
 我的蟒蛇不要
 我的蟒蛇不要
 我的蟒蛇什么都不要
 除非你有翘臀，亲
 
-#### Post-Chorus（*Baby Got Back* 采样）
+#### 后副歌（*Baby Got Back* 采样）
 
 天哪，看她的屁股
 天哪，看她的屁股（哦哦哦）
@@ -238,7 +238,7 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 看她的屁股，看、看、看
 看她的屁股
 
-#### Verse 2
+#### 主歌 2
 
 有个叫 Michael 的家伙以前爱骑摩托
 鸡巴比塔还大，我说的可不是埃菲尔
@@ -250,7 +250,7 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 完事之后，我让他给我买 Balmain
 我现在就是在犯傻、瞎玩
 
-#### Pre-Chorus
+#### 预副歌
 
 顺便问一句，他怎么说？（嘿，嘿）
 他看得出我顿顿没少吃（嘿）
@@ -261,14 +261,14 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 于是我开着捷豹到场，像 Mayweather 出 jab（嘿）
 Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 
-#### Chorus
+#### 副歌
 
 我的蟒蛇不要
 我的蟒蛇不要
 我的蟒蛇什么都不要
 除非你有翘臀，亲
 
-#### Post-Chorus
+#### 后副歌
 
 天哪，看她的屁股
 天哪，看她的屁股
@@ -276,14 +276,14 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 看她的屁股，看、看、看
 看她的屁股
 
-#### Breakdown
+#### 分解段
 
 腰细，但后面很有料
 腰细，但后面很有料
 腰细，但后面很有料
 天哪，看她的屁股
 
-#### Chorus（变奏）
+#### 副歌（变奏）
 
 我的蟒蛇不要
 我的蟒蛇不要
@@ -292,7 +292,7 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 不要，我的蟒蛇不要
 什么都不要，除非你有翘臀，亲
 
-#### Post-Chorus（叠唱）
+#### 后副歌（叠唱）
 
 天哪，看她的屁股（*腰细，但后面很有料*）
 天哪，看她的屁股（*腰细，但后面很有料*）
@@ -300,7 +300,7 @@ Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
 天哪（看她的屁股，看、看、看）
 看她的屁股
 
-#### Outro
+#### 尾声
 
 对，他就爱这肥屁股
 对，这首是送给俱乐部里那些有肥屁股的婊子们的
@@ -346,8 +346,8 @@ Kyuh，来啊
 
 ## 听歌提示 · Listening Notes
 
-- **难度：** 难——语速快、俚语密、双重否定多（*don't want none*、*ain't missing no meals*）；Verse 2 性双关最密。
+- **难度：** 难——语速快、俚语密、双重否定多（*don't want none*、*ain't missing no meals*）；主歌 2 性双关最密。
 - **先攻副歌：** *My anaconda don't… unless you got buns, hun* 重复度高，适合练节奏与连读；再听 *Oh my gosh, look at her butt*。
-- **采样语境：** 对照 Sir Mix-a-Lot *Baby Got Back*（1992）能听出 hook 从哪来；本笔记不另建该曲文件，听原曲即可。
-- **与 WAP：** 同属女说唱 explicit 路线。见 [[learning-notes/english-song/love-romance/wap-cardi-b|WAP — Cardi B]]。
+- **采样语境：** 对照 Sir Mix-a-Lot *Baby Got Back*（1992）能听出钩子句从哪来；本笔记不另建该曲文件，听原曲即可。
+- **与 WAP：** 同属女说唱脏词版路线。见 [[learning-notes/english-song/love-romance/wap-cardi-b|WAP — Cardi B]]。
 - **场合：** 成人向；职场 / 亲子场景请跳过本曲。

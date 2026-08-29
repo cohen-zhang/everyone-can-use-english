@@ -133,7 +133,7 @@ Without you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 想永远待在你身边，女孩
 你知道我有多爱你
@@ -144,12 +144,12 @@ Without you
 你尽管把我征服就好
 你愿意吗
 
-#### Pre-Chorus
+#### 预副歌
 
 别把目光放太远，亲爱的
 因为我想要你——这坏习惯，ooh
 
-#### Chorus
+#### 副歌
 
 要是我说了算
 我愿意把灵魂都给你
@@ -160,7 +160,7 @@ Without you
 我就像个死人
 我就像个死人
 
-#### Verse 2
+#### 主歌 2
 
 比天气还烫，女孩
 让我帮你降降温
@@ -183,7 +183,7 @@ Without you
 你就是我的女人
 你就是我的女人
 
-#### Bridge / Final
+#### 桥段 / Final
 
 别把目光放太远，亲爱的
 因为我想让你失控 oooh 宝贝
@@ -220,7 +220,7 @@ Without you
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *I'm a dead man* 短、重复，先跟唱 hook，再补 Verse 的暧昧细节。
+- 副歌 *I'm a dead man* 短、重复，先跟唱钩子句，再补主歌的暧昧细节。
 - 注意 *I'd give you my soul* 里 *I'd* 与 *give* 的连读；*If it was up to me* 练条件口语。
 - *adore ya / for ya* 的 *ya* 是美式口语弱读，别咬成完整 *you*。
 - 部分歌词偏成人向；学习时抓**夸张表白结构**即可，不必逐字模仿露骨表达。

@@ -131,12 +131,12 @@ And just one last dance
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 就再跳最后一支舞
 就再跳最后一支舞
 
-#### Verse 1
+#### 主歌 1
 
 我们夜里在西班牙咖啡馆相遇
 我望着你的眼睛，不知该说什么
@@ -145,12 +145,12 @@ And just one last dance
 明天会来，是时候认清现实
 我们的爱已经永远结束了
 
-#### Pre-Chorus
+#### 预副歌
 
 我多希望能跟你走
 我多希望我们能撑过去
 
-#### Chorus
+#### 副歌
 
 就再跳最后一支舞
 在我们说再见之前
@@ -163,22 +163,22 @@ And just one last dance
 而我不知道自己属于哪里
 就再跳最后一支舞
 
-#### Verse 2
+#### 主歌 2
 
 酒、灯光，还有西班牙吉他
 我永远忘不了它们有多浪漫
 可我知道，明天我会失去我爱的人
 
-#### Pre-Chorus 2
+#### 预副歌 2
 
 没法跟你走
 只能这么做了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 就再跳最后一支舞
 在我们说再见之前
@@ -215,7 +215,7 @@ And just one last dance
 
 ## 听歌提示 · Listening Notes
 
-- 副歌 *Just one last dance / Just one more chance* 对仗整齐，**KTV 先抓这两句**再练 Verse 叙事。
+- 副歌 *Just one last dance / Just one more chance* 对仗整齐，**KTV 先抓这两句**再练主歌叙事。
 - *'Cause* = because；*'til* = until——跟唱时注意缩略，不必改成书面全拼。
 - *drowning in salty water* 是泪水意象，比直说 *I'm crying* 更有画面感，可整句背。
 - 想延伸练**告别与挽留**口语，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 与 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

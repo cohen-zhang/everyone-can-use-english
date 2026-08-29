@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Caron Nightingale**（亦作 **Caron Lyn Nightingale**）是加拿大**创作歌手**，长期活跃于 **production music** 与 adult-contemporary ballad 领域。她与 **Dean Landon** 共同创作 **"Promises Don't Come Easy"**；其原唱版在中国英语学习歌单里很常见，而 **Ronan Keating** 1999 年翻唱则让这首歌登上全球主流榜单。Nightingale 的嗓音温暖、吐字清楚——适合想练**经典流行英文**、又不想碰太多俚语的学习者。
+**Caron Nightingale**（亦作 **Caron Lyn Nightingale**）是加拿大**创作歌手**，长期活跃于**制作配乐**与**成人当代**抒情曲领域。她与 **Dean Landon** 共同创作 **"Promises Don't Come Easy"**；其原唱版在中国英语学习歌单里很常见，而 **Ronan Keating** 1999 年翻唱则让这首歌登上全球主流榜单。Nightingale 的嗓音温暖、吐字清楚——适合想练**经典流行英文**、又不想碰太多俚语的学习者。
 
 ---
 
@@ -115,21 +115,21 @@ What can I do to make it up to you?
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我早该察觉，一直就不对劲
 只是我从没读懂弦外之音
 直到有一天醒来，发现你要离开
 只留下一颗心碎的我
 
-#### Chorus
+#### 副歌
 
 我能做什么来弥补你？
 承诺不是随口就来
 但若还有办法让你回家、留下来
 我愿意为你承诺任何事
 
-#### Verse 2
+#### 主歌 2
 
 我一直低着头四处游荡
 不知该怎么办
@@ -137,21 +137,21 @@ What can I do to make it up to you?
 我才明白我更需要你
 而不是赌一把失去你
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 我能做什么来弥补你？
 承诺不是随口就来
 你知道我已下定决心，这次要认真
 这是我给你的承诺
 
-#### Bridge
+#### 桥段
 
 你从没想到我爱过你
 大概也以为我从不在乎
 我只是太骄傲，说不出口
 现在我懂了，该放下自尊说出感受，所以告诉我
 
-#### Final Chorus
+#### 终段副歌
 
 我能做什么来弥补你？
 承诺不是随口就来

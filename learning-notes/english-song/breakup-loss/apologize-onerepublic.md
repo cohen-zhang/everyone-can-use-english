@@ -48,7 +48,7 @@ aliases:
 
 **中文**
 
-**"Apologize"** 由 **Ryan Tedder** 创作，约于 **2006 年 4 月 30 日**作为单曲发行，后收录于 OneRepublic 首专 ***Dreaming Out Loud***（2007）。这是一首中速**流行抒情曲**，写**背叛与情感断崖**：对方嘴上说「我需要你」，转头又把你砍倒；等对方终于道歉时，歌者只回一句——**道歉已经太迟了**。**Timbaland remix**（收录于 Timbaland 专辑 *Shock Value*，2007）让这首歌成为全球爆款，多国登顶，成为 2000 年代末电台代表作之一。乐队原版偏钢琴、更私密；remix 加上 Timbaland 标志性节奏，但保留 Tedder 人声与那句难忘的副歌 hook。
+**"Apologize"** 由 **Ryan Tedder** 创作，约于 **2006 年 4 月 30 日**作为单曲发行，后收录于 OneRepublic 首专 ***Dreaming Out Loud***（2007）。这是一首中速**流行抒情曲**，写**背叛与情感断崖**：对方嘴上说「我需要你」，转头又把你砍倒；等对方终于道歉时，歌者只回一句——**道歉已经太迟了**。**Timbaland remix**（收录于 Timbaland 专辑 *Shock Value*，2007）让这首歌成为全球爆款，多国登顶，成为 2000 年代末电台代表作之一。乐队原版偏钢琴、更私密；混音版加上 Timbaland 标志性节奏，但保留 Tedder 人声与那句难忘的副歌钩子句。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -121,27 +121,27 @@ Got me ten feet off the ground
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我抓着你抛来的绳子不放
 把我吊在半空，脚不沾地
 你说的话我都听得见
 可我就是发不出声
 
-#### Pre-Chorus
+#### 预副歌
 
 你说你需要我
 转头又把我打落——可等等
 你又说你很抱歉
 没想到我会转身回你一句
 
-#### Chorus
+#### 副歌
 
 道歉已经太晚了，太晚了
 我说了，道歉已经太晚了，太晚了
 太晚了，哦
 
-#### Verse 2
+#### 主歌 2
 
 我愿意再赌一次，再摔一次
 为你再拼一把
@@ -153,19 +153,19 @@ Got me ten feet off the ground
 老天曾让我以为，那天使就是你
 可我怕了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 道歉已经太晚了，太晚了
 我说了，道歉已经太晚了，太晚了
 
-#### Final Chorus
+#### 终段副歌
 
 道歉已经太晚了，太晚了
 我说了，道歉已经太晚了，太晚了
 我说了，道歉已经太晚了，太晚了
 我说了，道歉已经太晚了，太晚了
 
-#### Outro
+#### 尾声
 
 我抓着你抛来的绳子不放
 把我吊在半空，脚不沾地
@@ -195,7 +195,7 @@ Got me ten feet off the ground
 ## 听歌提示 · Listening Notes
 
 - 副歌 *it's too late to apologize* 极短、极重复，**KTV / 通勤跟唱**友好；注意 *apologize* 重音在第二音节（a-**pol**-o-gize）。
-- Verse 1 的 *holding on your rope / ten feet off the ground* 是整首歌的**悬空意象**：先听清画面，再跟唱节奏。
-- Pre-Chorus 里 *need me → cut me down → you're sorry* 三连转折，适合练**叙事语气**与情绪递进。
+- 主歌 1 的 *holding on your rope / ten feet off the ground* 是整首歌的**悬空意象**：先听清画面，再跟唱节奏。
+- 预副歌里 *need me → cut me down → you're sorry* 三连转折，适合练**叙事语气**与情绪递进。
 - *I need you like a heart needs a beat* 是经典明喻句，可单独抽出来练节奏与连读（*like a* → /ˈlaɪkə/）。
 - 想延伸练**分手、拒绝道歉、受伤后的边界感**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 与 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

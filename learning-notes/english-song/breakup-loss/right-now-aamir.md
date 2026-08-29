@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Aamir** 是常驻**多伦多**的**加拿大 R&B** 歌手。在流媒体上以**翻唱 / rendition** 作品见长：把 2000 年代末至 2010 年代的 R&B、流行热曲，用更柔和、更贴近的人声重新演绎。2017 年作品集 ***Renditions*** 收录多首此类翻唱，包括 **"Right Now (Na Na Na)"**——保留熟悉 hook，但弱化原版的夜店制作感。他后来也与 ConKi、marchy 等制作人合作推出电子更新版。对学习者而言，吐字更清晰、时长更短，适合作为 Akon 原唱的跟唱陪练。
+**Aamir** 是常驻**多伦多**的**加拿大 R&B** 歌手。在流媒体上以**翻唱 / rendition** 作品见长：把 2000 年代末至 2010 年代的 R&B、流行热曲，用更柔和、更贴近的人声重新演绎。2017 年作品集 ***Renditions*** 收录多首此类翻唱，包括 **"Right Now (Na Na Na)"**——保留熟悉钩子句，但弱化原版的夜店制作感。他后来也与 ConKi、marchy 等制作人合作推出电子更新版。对学习者而言，吐字更清晰、时长更短，适合作为 Akon 原唱的跟唱陪练。
 
 ---
 
@@ -120,7 +120,7 @@ We need to link up right now, na-na
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 好久好久
 没见过你的脸
@@ -131,7 +131,7 @@ We need to link up right now, na-na
 抱着你、逗你
 紧抱你，告诉你我心里一直想的事
 
-#### Chorus
+#### 副歌
 
 我现在就想和好，呐呐
 我现在就想和好，呐呐
@@ -143,7 +143,7 @@ We need to link up right now, na-na
 真希望我们从没分手，呐呐
 我们现在就得联系，呐呐
 
-#### Verse 2
+#### 主歌 2
 
 女孩，我知道我们俩之间犯了错
 那晚我们眼里都写满了情绪
@@ -153,18 +153,18 @@ We need to link up right now, na-na
 为什么不能回到从前？
 你曾是我的哥们、爱人、朋友
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 我想和你一起飞
 我怀念你和我躺在一起
 只希望你能和我共进晚餐
 那个愿与我厮守的人，愿与我厮守，yeah
 
-#### Final Chorus
+#### 终段副歌
 
 现在就需要你，现在，呐呐呐呐呐
 哦，我现在就想和好，呐呐
@@ -191,7 +191,7 @@ We need to link up right now, na-na
 
 ## 听歌提示 · Listening Notes
 
-- Aamir 版时长更短、人声更靠前，适合 **先抓副歌 hook**（*make up / link up right now*）再练 Verse。
+- Aamir 版时长更短、人声更靠前，适合 **先抓副歌 hook**（*make up / link up right now*）再练主歌。
 - *tryna / why'd / somethings* 等为口语拼写，跟唱前对照表理解即可。
-- Bridge 的 *fly / lie / dine / grind* 四句排比，可单独慢速朗读练**尾韵**。
+- 桥段的 *fly / lie / dine / grind* 四句排比，可单独慢速朗读练**尾韵**。
 - 对照 [[learning-notes/english-song/breakup-loss/right-now-akon|Akon 原唱]]：原版更夜店、更长；本版更适合精听吐字。想延伸「想复合」口语，见 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

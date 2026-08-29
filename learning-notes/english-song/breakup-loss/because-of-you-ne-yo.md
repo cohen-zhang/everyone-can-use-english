@@ -49,7 +49,7 @@ aliases:
 
 **中文**
 
-**"Because of You"** 于 **2007 年 3 月 27 日**发行，为专辑 *Because of You* **同名第二支单曲**。Ne-Yo 与 **Stargate**、**Tor Erik Hermansen** 共同创作制作，用**上瘾隐喻**写爱：*you have become my addiction*、*strung out on you*、*she's the sweetest drug*。叙述者明知可能不健康（*know I should stay away*）却戒不掉。单曲在 Billboard Hot 100 最高 **第 53**，Hot R&B/Hip-Hop Songs **第 4**。注意：这与 Kelly Clarkson 2005 年同名抒情曲**不是同一首歌**。
+**"Because of You"** 于 **2007 年 3 月 27 日**发行，为专辑 *Because of You* **同名第二支单曲**。Ne-Yo 与 **Stargate**、**Tor Erik Hermansen** 共同创作制作，用**上瘾隐喻**写爱：*you have become my addiction*、*strung out on you*、*she's the sweetest drug*。叙述者明知可能不健康（*know I should stay away*）却戒不掉。单曲在 Billboard Hot 100 最高 **第 53**，Hot R&B/嘻哈歌曲 **第 4**。注意：这与 Kelly Clarkson 2005 年同名抒情曲**不是同一首歌**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -151,13 +151,13 @@ She's the sweetest drug
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 哦，哦，哦……
 哦，哇哦……
 哦
 
-#### Verse 1
+#### 主歌 1
 
 想停，但忍不住，我爱这种感觉
 这让我困在幻想与现实之间
@@ -168,14 +168,14 @@ She's the sweetest drug
 就算知道，也不确定会不会戒，我表示怀疑
 光想想我就沦陷了
 
-#### Pre-Chorus
+#### 预副歌
 
 而我很清楚这一点
 宝贝，你已成我的瘾
 我为你神魂颠倒
 几乎动弹不得，但我喜欢
 
-#### Chorus
+#### 副歌
 
 全是因为你（都是因为你）
 全是因为你（都是因为你）
@@ -184,7 +184,7 @@ She's the sweetest drug
 永远不够
 她是最甜的那种药（哦，哦，哦）
 
-#### Verse 2
+#### 主歌 2
 
 每秒都在想，什么事都做不成
 唯一惦记的是下次什么时候再得到
@@ -195,15 +195,15 @@ She's the sweetest drug
 就算知道，也不确定会不会戒，我表示怀疑
 光想想我就沦陷了，嘿
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 *(同第一段)*
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 毫无疑问（毫无疑问，嘿）
 神魂颠倒（神魂颠倒，哦，嘿）
@@ -218,7 +218,7 @@ She's the sweetest drug
 哦不，永远不够
 她是最甜的那种药
 
-#### Final Pre-Chorus / Chorus
+#### Final 预副歌 / 副歌
 
 而我很清楚这一点
 宝贝，你已成我的瘾（我的瘾）
@@ -254,6 +254,6 @@ She's the sweetest drug
 ## 听歌提示 · Listening Notes
 
 - 全曲用**上瘾 / 药物**隐喻写爱，可留意 *addiction*、*strung out*、*drug* 如何反复呼应；与 Kelly Clarkson 同名歌完全不同路数。
-- 副歌 *And it's all because of you* 节奏清楚，适合**通勤跟唱**；Bridge 的 *Over you* 可练延长音。
+- 副歌 *And it's all because of you* 节奏清楚，适合**通勤跟唱**；桥段的 *Over you* 可练延长音。
 - *I can't get nothing done* 是口语双重否定（= can't get anything done），注意**语法**与**语感**的差别。
 - 想延伸**执念与情绪**表达，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 对照相关句型。

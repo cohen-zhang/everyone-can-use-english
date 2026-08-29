@@ -121,12 +121,12 @@ It's easy, take me to your heart
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 嗯，嗯，是啊
 嗯，嗯
 
-#### Verse 1
+#### 主歌 1
 
 躲着雨雪
 努力忘记，却放不下
@@ -136,7 +136,7 @@ It's easy, take me to your heart
 世上那么多人
 告诉我，去哪找像你这样的女孩？
 
-#### Chorus
+#### 副歌
 
 带我走进你心里，走进你灵魂
 趁我还没老，把手给我
@@ -153,7 +153,7 @@ It's easy, take me to your heart
 告诉我爱是什么，做我的指路星
 很简单，带我走进你心里
 
-#### Verse 2
+#### 主歌 2
 
 站在高高的山上
 透过湛蓝天空望着月亮
@@ -163,11 +163,11 @@ It's easy, take me to your heart
 不需要太多言语——什么都不用说
 我只需要一个让我想唱歌的人
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 （带我，带我）
 带我走进你心里，走进你灵魂

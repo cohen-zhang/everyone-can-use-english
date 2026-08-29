@@ -31,7 +31,7 @@ aliases:
 
 **中文**
 
-**Hayd**（本名 **Hayden Hubers**，2001 年 5 月 25 日生）是美国**创作型歌手**、多乐器演奏者与制作人，成长于**密歇根州西部**（Muskegon 一带）。自幼学钢琴，高中起写歌并在家里录制发布。他的 **独立流行** 风格温暖、内省，常以钢琴、木吉他和轻柔人声为底色；2019 年单曲 **"Vacant Eyes"** 后，在流媒体和 TikTok 上积累听众。签约 **Interscope Records** 后发行 2021 年 EP *Changes*（收录 **"Head In The Clouds"**）；与密歇根同乡 **Quinn XCII** 是**表亲**（同一位姨妈），歌词多写友谊、爱情与成长。
+**Hayd**（本名 **Hayden Hubers**，2001 年 5 月 25 日生）是美国**创作型歌手**、多乐器演奏者与制作人，成长于**密歇根州西部**（Muskegon 一带）。自幼学钢琴，高中起写歌并在家里录制发布。他的 **独立流行** 风格温暖、内省，常以钢琴、木吉他和轻柔人声为底色；2019 年单曲 **"Vacant Eyes"** 后，在流媒体和 TikTok 上积累听众。签约 **Interscope Records** 后发行 2021 年迷你专辑 *Changes*（收录 **"Head In The Clouds"**）；与密歇根同乡 **Quinn XCII** 是**表亲**（同一位姨妈），歌词多写友谊、爱情与成长。
 
 ---
 
@@ -43,7 +43,7 @@ aliases:
 
 **中文**
 
-**"Head In The Clouds"** 于 **2021 年 9 月 17 日**发行，收录于 EP *Changes*。歌回望一段年轻时觉得无所不能的亲密友谊——杯子总是**半满**、计划着**远走高飞**——后来却发现人像太空中的飞机一样**慢慢漂远**。**Head in the clouds** 指「想得太美、不接地气」；副歌前那句 *expiration dates on the friends you make*（你交的朋友也有「保质期」）则直白点出：并非每段关系都能走到最后。旋律轻柔、怀旧共鸣强，在 **TikTok** 与流媒体上传播很广；Spotify 播放量逾 **8000 万**，是 Hayd 在 *Changes* EP 上的代表作。
+**"Head In The Clouds"** 于 **2021 年 9 月 17 日**发行，收录于迷你专辑 *Changes*。歌回望一段年轻时觉得无所不能的亲密友谊——杯子总是**半满**、计划着**远走高飞**——后来却发现人像太空中的飞机一样**慢慢漂远**。**Head in the clouds** 指「想得太美、不接地气」；副歌前那句 *expiration dates on the friends you make*（你交的朋友也有「保质期」）则直白点出：并非每段关系都能走到最后。旋律轻柔、怀旧共鸣强，在 **TikTok** 与流媒体上传播很广；Spotify 播放量逾 **8000 万**，是 Hayd 在 *Changes* 迷你专辑上的代表作。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Philosophers guess but they just don't know (but they just-)
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我想念日子还那么单纯的时候
 总觉得杯子一直是半满的
@@ -124,13 +124,13 @@ Philosophers guess but they just don't know (but they just-)
 那时我们还不害怕未知
 但那是很久以前的事了
 
-#### Pre-Chorus
+#### 预副歌
 
 谁能说前路会通向哪里？
 哲学家猜来猜去也说不清
 也许正因如此
 
-#### Chorus
+#### 副歌
 
 我们曾把脑袋埋在云里（想得太美）
 以为一切都想明白了
@@ -143,7 +143,7 @@ Philosophers guess but they just don't know (but they just-)
 如今都只是回忆
 都只是回忆了
 
-#### Verse 2
+#### 主歌 2
 
 我不确定一切是从哪里开始错的
 但我知道我们落在了各自该在的地方
@@ -151,17 +151,17 @@ Philosophers guess but they just don't know (but they just-)
 你交的朋友也有「保质期」
 这话听起来也许很刺耳
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 谁能说前路会通向哪里？
 哲学家猜来猜去也说不清
 也许正因如此
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Outro
+#### 尾声
 
 谁能说前路会通向哪里？
 哲学家也说不清（渐渐淡出）

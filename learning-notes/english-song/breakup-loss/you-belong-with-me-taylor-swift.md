@@ -158,7 +158,7 @@ You belong with me
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 你在和女友打电话，她在生气
 她在为你说的某句话发火
@@ -168,7 +168,7 @@ You belong with me
 我在听她不喜欢的音乐
 而她永远不会像我这样懂你的故事
 
-#### Pre-Chorus
+#### 预副歌
 
 可她穿短裙
 我穿 T 恤
@@ -176,7 +176,7 @@ You belong with me
 梦想着有一天你醒来发现
 你一直在找的人其实一直都在
 
-#### Chorus
+#### 副歌
 
 如果你能看见我才是那个人
 最懂你的人
@@ -185,7 +185,7 @@ You belong with me
 你本该和我在一起
 你本该和我在一起
 
-#### Verse 2
+#### 主歌 2
 
 穿着你磨旧的牛仔裤和你一起走在街上
 我不禁想本该就是这样
@@ -199,7 +199,7 @@ You belong with me
 你说没事，我可比你更清楚
 嘿，你和那样的女孩在一起干嘛？
 
-#### Pre-Chorus（Verse 2）
+#### 预副歌（主歌 2）
 
 可她穿高跟鞋
 我穿球鞋
@@ -207,7 +207,7 @@ You belong with me
 梦想着有一天你醒来发现
 你一直在找的人其实一直都在
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 如果你能看见我才是那个人
 最懂你的人
@@ -216,7 +216,7 @@ You belong with me
 你本该和我在一起
 你本该和我在一起
 
-#### Bridge
+#### 桥段
 
 守在你后门边等着
 这么久你怎么会不知道，宝贝？
@@ -232,7 +232,7 @@ You belong with me
 我想我知道你该属于哪里
 我想我知道是和我在一起
 
-#### Final Chorus
+#### 终段副歌
 
 你难道看不见我才是那个人
 最懂你的人？
@@ -270,6 +270,6 @@ You belong with me
 ## 听歌提示 · Listening Notes
 
 - 副歌 *You belong with me* 句式短、重复多，**通勤跟唱**极易上手；注意 *belong with* 连读。
-- Pre-Chorus 对比结构 **She… I…** 适合练排比：*she wears… I wear…*，可先朗读再跟唱。
+- 预副歌对比结构 **She… I…** 适合练排比：*she wears… I wear…*，可先朗读再跟唱。
 - *'bout to cry*、*isn't this easy* 等缩略在口语中极常见，跟读时练习弱读 *'bout*、*isn't*。
 - 与 [[learning-notes/english-song/breakup-loss/two-is-better-than-one-boys-like-girls|Two Is Better Than One]] 对照，可比较 Taylor 在「认定对方」叙事上的不同角度：暗恋闺蜜 vs 突然沦陷。

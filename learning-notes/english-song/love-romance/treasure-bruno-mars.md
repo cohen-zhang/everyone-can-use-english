@@ -131,11 +131,11 @@ You are my treasure, yeah, you, you, you, you are
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 小松鼠宝贝，你真他妈性感
 
-#### Verse 1
+#### 主歌 1
 
 给我你的，给我你的
 把注意力给我，宝贝（注意力，宝贝）
@@ -143,7 +143,7 @@ You are my treasure, yeah, you, you, you, you are
 你很棒、完美，哦，你是个性感女士
 可你在这儿走来走去，像想成为别人
 
-#### Pre-Chorus
+#### 预副歌
 
 哦，哇
 我知道你不知道
@@ -152,7 +152,7 @@ You are my treasure, yeah, you, you, you, you are
 哦女孩，我要让你看见
 当你属于我，哦，属于我
 
-#### Chorus
+#### 副歌
 
 宝贝，你就是珍宝
 亲爱的，你是我的金星
@@ -160,7 +160,7 @@ You are my treasure, yeah, you, you, you, you are
 若你愿意让我珍藏你
 若你愿意让我珍藏你，哦，哦，哦
 
-#### Verse 2
+#### 主歌 2
 
 漂亮女孩，漂亮女孩，漂亮女孩
 你应该在笑
@@ -168,7 +168,7 @@ You are my treasure, yeah, you, you, you, you are
 你是我梦里看见的一切
 若不是真的，我不会对你说
 
-#### Pre-Chorus（重复）
+#### 预副歌（重复）
 
 哦，哇
 我知道你不知道
@@ -177,7 +177,7 @@ You are my treasure, yeah, you, you, you, you are
 哦女孩，我要让你看见
 当你属于我，哦，属于我
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 宝贝，你就是珍宝
 亲爱的，你是我的金星
@@ -185,7 +185,7 @@ You are my treasure, yeah, you, you, you, you are
 若你愿意让我珍藏你
 若你愿意让我珍藏你，哦，哦，哦
 
-#### Outro
+#### 尾声
 
 你是我的珍宝，你是我的珍宝
 你是我的珍宝，对，你就是你
@@ -215,5 +215,5 @@ You are my treasure, yeah, you, you, you, you are
 
 - 歌曲仅约 **3 分钟**，副歌重复多，适合 **KTV 热身** 或练迪斯科节奏跟拍。
 - *Treasure* 作动词时重读在第一个音节 **TRE-asure**，跟唱时注意与名词用法一致。
-- 开场粗口在课堂 / 正式场合避免；练口语可选电台净版或直接从 Verse 1 *Give me your attention* 切入。
+- 开场粗口在课堂 / 正式场合避免；练口语可选电台净版或直接从主歌 1 *Give me your attention* 切入。
 - 复古放克 bass 线清楚，可一边跟唱一边练 **重音落在偶数拍** 的律动感。

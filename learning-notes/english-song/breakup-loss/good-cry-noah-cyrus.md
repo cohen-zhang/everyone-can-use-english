@@ -37,7 +37,7 @@ aliases:
 
 **中文**
 
-**Noah Lindsey Cyrus**（2000 年 1 月 8 日生）是美国**创作型歌手**，来自田纳西 Nashville，Billy Ray Cyrus 幼女、Miley Cyrus 的妹妹。2016 年与 Labrinth 合作 **"Make Me (Cry)"** 出道，以坦白、偏 **emo 气质** 的流行曲风及与 XXXTentacion、PJ Harding 等合作积累听众。首张 EP **Good Cry**（2018）直面焦虑、抑郁与一段长达两年、长期未公开的恋情结束。Noah 称写歌是她的**日记**，偏爱悲伤、真实的表达而非快歌。
+**Noah Lindsey Cyrus**（2000 年 1 月 8 日生）是美国**创作型歌手**，来自田纳西 Nashville，Billy Ray Cyrus 幼女、Miley Cyrus 的妹妹。2016 年与 Labrinth 合作 **"Make Me (Cry)"** 出道，以坦白、偏 **emo 气质** 的流行曲风及与 XXXTentacion、PJ Harding 等合作积累听众。首张迷你专辑 **Good Cry**（2018）直面焦虑、抑郁与一段长达两年、长期未公开的恋情结束。Noah 称写歌是她的**日记**，偏爱悲伤、真实的表达而非快歌。
 
 ---
 
@@ -49,7 +49,7 @@ aliases:
 
 **中文**
 
-**"Good Cry"** 于 **2018 年 9 月 21 日**发行，为 Noah Cyrus 首张 EP 同名曲。她在抑郁、焦虑与濒临破裂的感情交织的低谷期写下这首歌——**把酒吧喝干**，无法独处、**从黄昏找到天亮**也找不回原来的自己。副歌把悲伤重新定义为正当需求：*Oh, I just need a good cry*（我只是需要好好哭一场）。Noah 表示 EP 并非写某段八卦恋情，而是关于**内心魔鬼**与「允许自己绝望」。曲风为稀疏吉他配灵魂感嗓音的慢 **3/4 华尔兹**。
+**"Good Cry"** 于 **2018 年 9 月 21 日**发行，为 Noah Cyrus 首张迷你专辑同名曲。她在抑郁、焦虑与濒临破裂的感情交织的低谷期写下这首歌——**把酒吧喝干**，无法独处、**从黄昏找到天亮**也找不回原来的自己。副歌把悲伤重新定义为正当需求：*Oh, I just need a good cry*（我只是需要好好哭一场）。Noah 表示迷你专辑并非写某段八卦恋情，而是关于**内心魔鬼**与「允许自己绝望」。曲风为稀疏吉他配灵魂感嗓音的慢 **3/4 华尔兹**。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -150,11 +150,11 @@ I just need a good cry
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 嗯
 
-#### Verse 1
+#### 主歌 1
 
 这几天我把这地方喝干了
 吧台对面那人教我怎么喝
@@ -165,13 +165,13 @@ I just need a good cry
 我从黄昏找到天亮
 我想那个女孩已经不在了
 
-#### Pre-Chorus
+#### 预副歌
 
 我好好看了自己一眼，天啊
 现实像火车一样撞过来
 不知为何睁开眼，我发现自己
 
-#### Chorus
+#### 副歌
 
 绝望，好绝望
 宝贝，我喝到想吐
@@ -182,7 +182,7 @@ I just need a good cry
 忧郁缠得我够呛
 哦，我只是需要好好哭一场
 
-#### Verse 2
+#### 主歌 2
 
 我已经六天五夜没睡
 我吞下药片打发时间
@@ -192,7 +192,7 @@ I just need a good cry
 什么都压不住这痛
 宝贝，所以我才说自己好
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 绝望，好绝望
 宝贝，我喝到想吐
@@ -203,11 +203,11 @@ I just need a good cry
 忧郁缠得我够呛
 我只是需要好好哭一场
 
-#### Interlude
+#### 间奏
 
 嗯
 
-#### Chorus（第三遍 · 加长）
+#### 副歌（第三遍 · 加长）
 
 哦，绝望，好绝望
 宝贝，我会喝到想吐
@@ -218,7 +218,7 @@ I just need a good cry
 忧郁缠得我够呛
 哦，我只是需要好好哭一场，呜
 
-#### Outro
+#### 尾声
 
 亲爱的，对不起
 亲爱的，对不起
@@ -252,5 +252,5 @@ I just need a good cry
 
 - 副歌 *Hopeless… loveless… good cry* 三行结构重复，适合**通勤跟听**练情绪词发音。
 - *dusk to dawn* 与 *six days and five nights* 可对照学**时间跨度**的英文说法。
-- 整首歌语速慢、3/4 华尔兹拍，适合初学者练**跟唱**；Outro 反复 *Darling, I'm sorry* 可单独练情绪渐弱。
+- 整首歌语速慢、3/4 华尔兹拍，适合初学者练**跟唱**；尾声反复 *Darling, I'm sorry* 可单独练情绪渐弱。
 - 想延伸读情绪表达可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 **Unpleasant / Very Unpleasant** 相关句型。

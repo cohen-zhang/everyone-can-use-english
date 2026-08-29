@@ -122,7 +122,7 @@ Please (please), please (please), please
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我知道自己判断力不错、品味也好
 好笑又讽刺，好像只有我这么觉得
@@ -134,11 +134,11 @@ Please (please), please (please), please
 我跟他们说这是你的「文化」，大家都翻白眼
 是啊，我知道
 
-#### Pre-Chorus
+#### 预副歌
 
 我就这一个要求，宝贝
 
-#### Chorus
+#### 副歌
 
 求你了，别证明我看走眼
 求你了
@@ -147,14 +147,14 @@ Please (please), please (please), please
 我求你，别让我难堪，混蛋
 求你了
 
-#### Verse 2
+#### 主歌 2
 
 我有个好主意，宝贝（嗯哼），也许就待在家里
 我知道你想要新鲜空气，但吊扇也很舒服（很舒服吧？）
 要是没人知道我们在一起，我们会过得很开心
 开玩笑的，但说真的（有点），真的
 
-#### Chorus（第二遍）
+#### 副歌（第二遍）
 
 求你了（求你别证明我看走眼）
 别证明我看走眼
@@ -164,7 +164,7 @@ Please (please), please (please), please
 我求你，别让我难堪，混蛋
 求你了
 
-#### Outro
+#### 尾声
 
 你要犯蠢，别在我面前
 不想对着我的歌哭，就别让我恨你到骨子里
@@ -203,5 +203,5 @@ Please (please), please (please), please
 
 - 副歌三声 *please* 节奏鲜明，适合练**重音与停顿**：三声渐强，*don't prove I'm right* 是全句重心。
 - *Heartbreak is one thing, my ego's another* 是整首歌的**金句**，可单独背诵用于表达「可以伤心但不能丢脸」。
-- Verse 2 *I'm just kidding, but really* 是**口是心非**的经典转折，可先练这句再串副歌。
+- 主歌 2 *I'm just kidding, but really* 是**口是心非**的经典转折，可先练这句再串副歌。
 - Sabrina 在 *please* 与 *motherfucker* 之间语气切换很快，跟唱时注意**情绪反差**。

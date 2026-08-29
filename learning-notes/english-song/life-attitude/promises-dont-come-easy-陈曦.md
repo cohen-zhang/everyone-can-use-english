@@ -30,7 +30,7 @@ aliases:
 
 **中文**
 
-**陈曦**是以英文**翻唱**西方流行与 soft-rock ballad 见长的**中国歌手**。2010 年专辑 **Yesterday Once More** 收录多首经典英文歌——不少在中国听众耳里已有电影、电视或国际热单印象——咬字清楚，适合**跟唱学习**。本曲为 **"Promises Don't Come Easy"** 的翻唱，保留**英文原词**，未改中文填词。
+**陈曦**是以英文**翻唱**西方流行与软摇滚抒情曲见长的**中国歌手**。2010 年专辑 **Yesterday Once More** 收录多首经典英文歌——不少在中国听众耳里已有电影、电视或国际热单印象——咬字清楚，适合**跟唱学习**。本曲为 **"Promises Don't Come Easy"** 的翻唱，保留**英文原词**，未改中文填词。
 
 ---
 
@@ -106,21 +106,21 @@ What can I do to make it up to you?
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我早该察觉，一直就不对劲
 只是我从没读懂弦外之音
 直到有一天醒来，发现你要离开
 只留下一颗心碎的我
 
-#### Chorus
+#### 副歌
 
 我能做什么来弥补你？
 承诺不是随口就来
 但若还有办法让你回家、留下来
 我愿意为你承诺任何事
 
-#### Verse 2
+#### 主歌 2
 
 我一直低着头四处游荡
 不知该怎么办
@@ -128,18 +128,18 @@ What can I do to make it up to you?
 我才明白我更需要你
 而不是赌一把失去你
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 你从没想到我爱过你
 大概也以为我从不在乎
 我只是太骄傲，说不出口
 现在我懂了，该放下自尊说出感受，所以告诉我
 
-#### Final Chorus
+#### 终段副歌
 
 我能做什么来弥补你？
 承诺不是随口就来
@@ -172,4 +172,4 @@ What can I do to make it up to you?
 - 若熟悉 **Ronan Keating** 版，可用陈曦版练**更清晰咬字**；对照原版见 [[learning-notes/english-song/love-romance/what-can-i-do-caron-nightingale|Caron Nightingale 笔记]]。
 - 副歌 *What can I do… / Promises don't come easy* 句子不长、节奏稳，适合**精研连读**：*What can I do* → *t'make it up to you*。
 - 整首歌重复 **make it up / promises / make it work** 三组表达，适合记「道歉 + 重建信任」口语模板。
-- Verse 2 的 *walkin'*、*Wondrin'* 是 **goin' / walkin'** 式口语缩略，跟唱时注意 **-ing** 的弱读。
+- 主歌 2 的 *walkin'*、*Wondrin'* 是 **goin' / walkin'** 式口语缩略，跟唱时注意 **-ing** 的弱读。

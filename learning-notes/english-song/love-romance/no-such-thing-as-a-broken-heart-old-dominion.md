@@ -34,7 +34,7 @@ aliases:
 
 **中文**
 
-**Old Dominion** 是 **2007 年**在 **Nashville** 成立的**乡村乐队**：**Matthew Ramsey**（主唱）、**Trevor Rosen** 与 **Whit Sellers**（均来自南卡）、**Geoff Sprung**（贝斯）、**Brad Tursi**（吉他）。走红前，成员曾为他人写歌——Ramsey 参与 The Band Perry 的 *"Chainsaw"*、James Arthur 的 *"Say You Won't Let Go"* 等。乐队自己的突破是 2015 年 *"Break Up with Him"*，随后发行专辑 **Happy Endings**（2017）。风格融合**当代乡村**与**流行副歌**，歌词机智、口语化；曾获多项 **CMA**、**ACM** 奖，包括「年度声乐组合」。
+**Old Dominion** 是 **2007 年**在 **Nashville** 成立的**乡村乐队**：**Matthew Ramsey**（主唱）、**Trevor Rosen** 与 **Whit Sellers**（均来自南卡）、**Geoff Sprung**（贝斯）、**Brad Tursi**（吉他）。走红前，成员曾为他人写歌——Ramsey 参与 The 乐队 Perry 的 *"Chainsaw"*、James Arthur 的 *"Say You Won't Let Go"* 等。乐队自己的突破是 2015 年 *"Break Up with Him"*，随后发行专辑 **Happy Endings**（2017）。风格融合**当代乡村**与**流行副歌**，歌词机智、口语化；曾获多项 **CMA**、**ACM** 奖，包括「年度声乐组合」。
 
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"No Such Thing as a Broken Heart"** 于 **2017 年 3 月 10 日**发行，为 *Happy Endings* 主打单曲。由乐队成员与 **Shane McAnally**、**Trent Tomlinson** 共同创作，是一首**轻快节奏的乡村流行 anthem**：即使生活颠簸，仍选择大胆去爱——地震挡不住、夕阳拦不住，不如像**从绳秋千上跳下去**一样，爱得像「心碎不存在」。开头提到 **"Jack and Diane"**（John Mellencamp 1982 年写小镇青春恋爱的名曲），问那对少年后来有没有走下去。单曲在 Billboard Hot Country Songs 最高 **第 3**，并打入流行电台。
+**"No Such Thing as a Broken Heart"** 于 **2017 年 3 月 10 日**发行，为 *Happy Endings* 主打单曲。由乐队成员与 **Shane McAnally**、**Trent Tomlinson** 共同创作，是一首**轻快节奏的乡村流行 anthem**：即使生活颠簸，仍选择大胆去爱——地震挡不住、夕阳拦不住，不如像**从绳秋千上跳下去**一样，爱得像「心碎不存在」。开头提到 **"Jack and Diane"**（John Mellencamp 1982 年写小镇青春恋爱的名曲），问那对少年后来有没有走下去。单曲在 Billboard Hot Country 歌曲最高 **第 3**，并打入流行电台。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -126,11 +126,11 @@ You gotta love like there's no such thing as a broken heart
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 抬起下巴；别灰心
 
-#### Verse 1
+#### 主歌 1
 
 我在想 Jack 和 Diane 后来有没有走下去
 鼓声吉他声都散去之后
@@ -140,7 +140,7 @@ You gotta love like there's no such thing as a broken heart
 若有过挣扎，我们从未察觉
 我想他们有彼此，那就够了
 
-#### Chorus
+#### 副歌
 
 你知道挡不住大地摇晃
 无论你多努力
@@ -151,7 +151,7 @@ You gotta love like there's no such thing as a broken heart
 你得爱得像心碎这种东西不存在
 你得爱得像心碎这种东西不存在
 
-#### Verse 2
+#### 主歌 2
 
 孩子们看见这些，我该怎么跟他们说
 电视上天天演的这些烂事？
@@ -161,15 +161,15 @@ You gotta love like there's no such thing as a broken heart
 追梦想，别追钱
 知道我们有彼此，这就够了
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 你得爱得像心碎这种东西不存在
 
-#### Final Chorus（变体）
+#### 终段副歌（变体）
 
 因为挡不住大地摇晃
 无论你多努力

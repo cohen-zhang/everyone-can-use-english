@@ -33,7 +33,7 @@ aliases:
 
 **中文**
 
-**Kim Taylor**（1973 年 12 月 20 日生，佛罗里达迈阿密）是定居**辛辛那提**的美国**独立创作歌手**。童年吹长笛、在教堂唱歌；1996 年为读英文专业迁居辛辛那提，随后进入当地民谣圈。专辑 *So Black, So Bright*（2002）与 *I Feel Like a Fading Light*（2006）在 Midwest 积累口碑；她曾经营咖啡店 **Pleasant Perk** 多年。Taylor 曾为 **Over the Rhine** 巡演暖场，作品被 *Justified*、*Flashpoint*、*Hawthorne* 等剧选用。她温暖、偏 acoustic 的**民谣流行**嗓音与文学性歌词，常写爱、信念与自我发现。
+**Kim Taylor**（1973 年 12 月 20 日生，佛罗里达迈阿密）是定居**辛辛那提**的美国**独立创作歌手**。童年吹长笛、在教堂唱歌；1996 年为读英文专业迁居辛辛那提，随后进入当地民谣圈。专辑 *So Black, So Bright*（2002）与 *I Feel Like a Fading Light*（2006）在 Midwest 积累口碑；她曾经营咖啡店 **Pleasant Perk** 多年。Taylor 曾为 **Over the Rhine** 巡演暖场，作品被 *Justified*、*Flashpoint*、*Hawthorne* 等剧选用。她温暖、偏原声的**民谣流行**嗓音与文学性歌词，常写爱、信念与自我发现。
 
 ---
 
@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"I Am You"** 最初为肥皂剧 *Days of Our Lives* 一条**跨性别角色线**合写，该剧情未采用；Taylor 与制作人 **Mike Denneen** 完成录音，**2008 年**以数字单曲发行。后成为代表作，收录于 *Build You Up*（2011），2021 年 remaster 版见于 *Acoustic and Unreleased*。在轻柔的 *la di da* 旋律上，歌词用锚与引力比喻两人身份交融：*I am you, everything you do*。它更像一首关于**共情与认同**的歌，而非典型情歌。
+**"I Am You"** 最初为肥皂剧 *Days of Our Lives* 一条**跨性别角色线**合写，该剧情未采用；Taylor 与制作人 **Mike Denneen** 完成录音，**2008 年**以数字单曲发行。后成为代表作，收录于 *Build You Up*（2011），2021 年重新母带版见于 *Acoustic and Unreleased*。在轻柔的 *la di da* 旋律上，歌词用锚与引力比喻两人身份交融：*I am you, everything you do*。它更像一首关于**共情与认同**的歌，而非典型情歌。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -125,14 +125,14 @@ I am you
 
 ### 中文翻译 · Chinese Translation
 
-#### Intro
+#### 前奏
 
 啦滴哒滴哒哒
 啦滴哒滴哒哒
 啦滴哒滴哒哒
 啦哒哒
 
-#### Verse 1
+#### 主歌 1
 
 我被真相拴住，像锚一样
 锚在一片没有底的海里
@@ -143,7 +143,7 @@ I am you
 全是因为爱
 尽管有时你并不了解我是谁
 
-#### Chorus
+#### 副歌
 
 我就是你，你所做的一切
 你说的任何话，你想让我成为的样子
@@ -151,13 +151,13 @@ I am you
 永远连在一起，在我们无法撤销的事里
 而我就是你
 
-#### Interlude
+#### 间奏
 
 啦滴哒滴哒哒
 啦滴哒滴哒哒
 啦哒哒
 
-#### Verse 2
+#### 主歌 2
 
 所有感官都被变化唤醒
 我在自己的皮肤里感到活着
@@ -168,7 +168,7 @@ I am you
 而一切都是为了爱
 尽管有时，我不知道自己是谁
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 我就是你，你所做的一切
 你说的任何话，你想让我成为的样子
@@ -176,7 +176,7 @@ I am you
 永远连在一起，在我们无法撤销的事里
 我就是你
 
-#### Outro
+#### 尾声
 
 我就是你
 
@@ -202,6 +202,6 @@ I am you
 ## 听歌提示 · Listening Notes
 
 - 副歌 *I am you* 旋律简单、重复多，适合**跟唱**练长元音：*you / do / undo*。
-- Verse 1 与 Verse 2 各有一对**对比隐喻**（anchor/sea vs. skin/home），可用来练「一边……一边……」的英文排比。
+- 主歌 1 与主歌 2 各有一对**对比隐喻**（anchor/sea vs. skin/home），可用来练「一边……一边……」的英文排比。
 - *La di da* 段不必逐字翻译，当作**哼唱练习**即可；注意 Taylor 咬字轻、气声多。
 - 想延伸练**恋爱与自我认同**，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里关于 *identity in love* 的表达。

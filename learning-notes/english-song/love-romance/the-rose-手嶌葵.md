@@ -108,7 +108,7 @@ In the spring becomes the rose
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 有人说，爱是一条河
 会淹没柔弱的芦苇
@@ -119,7 +119,7 @@ In the spring becomes the rose
 我说，爱是一朵花
 而你，是它唯一的种子
 
-#### Verse 2
+#### 主歌 2
 
 是那颗怕碎的心
 永远学不会跳舞
@@ -130,7 +130,7 @@ In the spring becomes the rose
 还有那怕死的灵魂
 永远学不会活着
 
-#### Verse 3
+#### 主歌 3
 
 当夜晚太过孤独
 路也走得太长

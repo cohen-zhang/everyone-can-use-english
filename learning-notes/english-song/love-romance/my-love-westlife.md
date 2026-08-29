@@ -32,7 +32,7 @@ aliases:
 
 **中文**
 
-**Westlife** 是 1998 年在**斯莱戈**成立的**爱尔兰流行 vocal 组合**。经典阵容——**Shane Filan**、**Mark Feehily**、**Kian Egan**、**Nicky Byrne**，以及（至 2004 年）**Brian McFadden**——由 **Louis Walsh** 管理，**Boyzone** 的 Ronan Keating 指导。Westlife 成为史上最畅销的男团之一，拥有 **14 首英国冠军单曲**，大量 power ballad 适合全场大合唱。风格融合 **流行、软摇滚、成人当代**； hiatus 与重组后仍全球巡演。对学习者而言，咬字清楚、情绪 hook 大，是可靠的 **KTV 与发音** 素材。
+**Westlife** 是 1998 年在**斯莱戈**成立的**爱尔兰流行人声组合**。经典阵容——**Shane Filan**、**Mark Feehily**、**Kian Egan**、**Nicky Byrne**，以及（至 2004 年）**Brian McFadden**——由 **Louis Walsh** 管理，**Boyzone** 的 Ronan Keating 指导。Westlife 成为史上最畅销的男团之一，拥有 **14 首英国冠军单曲**，大量力量抒情曲适合全场大合唱。风格融合 **流行、软摇滚、成人当代**；休团与重组后仍全球巡演。对学习者而言，咬字清楚、情绪钩子句大，是可靠的 **KTV 与发音** 素材。
 
 ---
 
@@ -133,7 +133,7 @@ To see you once again, my love
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 空荡的街
 空荡的屋
@@ -146,7 +146,7 @@ To see you once again, my love
 我们共度的日子
 我们一起唱过的歌，哦 yeah
 
-#### Chorus
+#### 副歌
 
 哦，我的爱人
 我会永远坚持
@@ -162,7 +162,7 @@ To see you once again, my love
 那里田野翠绿
 再见到你一次，我的爱人
 
-#### Verse 2
+#### 主歌 2
 
 我试着读点书
 我去上班
@@ -175,11 +175,11 @@ To see you once again, my love
 我们共度的日子
 我们一起唱过的歌，哦 yeah
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 把你拥入怀中
 向你许诺我的爱
@@ -188,7 +188,7 @@ To see you once again, my love
 
 伸手去够那似乎遥不可及的 love
 
-#### Final Chorus
+#### 终段副歌
 
 于是我做一个小小祷告
 希望梦能带我去那里
@@ -229,4 +229,4 @@ To see you once again, my love
 - 副歌 *My love* 旋律高、重复多，**KTV 首选**；先练 *So I say a little prayer* 整句连读。
 - Westlife 的 **pop 咬字**偏清晰，*overseas*、*once again* 适合练英式/爱尔兰元音与重音。
 - 歌里大量 **wonder / hope / pray** 结构，可用来练「我想知道…… / 我希望……」的英文语气。
-- 想延伸练**远距离恋爱与思念**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 longing / reunion 类句型。
+- 想延伸练**远距离恋爱与思念**，可打开 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里 longing / 重组类句型。

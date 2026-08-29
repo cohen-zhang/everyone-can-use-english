@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Ali Gatie**（1997 年 5 月 30 日生）是**伊拉克裔加拿大** **创作型歌手**，出生于巴格达，在**安大略省滑铁卢**长大。他在卧室里做音乐并发布片段上网；**"It's You"** 于 2019 年在 YouTube 和 TikTok 爆红，播放量达数百万，并透过自有厂牌 **LISN** 独家授权签约 **Warner Records**。风格融合 **R&B**、**流行** 与 **嘻哈** 元素，声线柔软、易碎。歌词常写心碎、忠诚、以及害怕再次受伤。已发行 *WHO HURT YOU?* 等作品，并与流行 / R&B 艺人合作。
+**Ali Gatie**（1997 年 5 月 30 日生）是**伊拉克裔加拿大** **创作型歌手**，出生于巴格达，在**安大略省滑铁卢**长大。他在卧室里做音乐并发布片段上网；**"It's You"** 于 2019 年在 YouTube 和 TikTok 爆红，播放量达数百万，并透过自有厂牌 **LISN** 独家授权签约 **Warner Records**。风格融合 **节奏布鲁斯**、**流行** 与 **嘻哈** 元素，声线柔软、易碎。歌词常写心碎、忠诚、以及害怕再次受伤。已发行 *WHO HURT YOU?* 等作品，并与流行 / R&B 艺人合作。
 
 ---
 
@@ -137,7 +137,7 @@ Trust me, I've been broken before
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus
+#### 副歌
 
 是你，一直都是你
 若我终将坠入爱河
@@ -145,7 +145,7 @@ Trust me, I've been broken before
 是你，一直都是你
 我见过很多人，但没人像你
 
-#### Verse 1
+#### 主歌 1
 
 所以，请别伤我的心
 别把我撕碎
@@ -156,7 +156,7 @@ Trust me, I've been broken before
 请别伤我的心
 相信我，我以前心碎过
 
-#### Bridge 1
+#### 桥段 1
 
 我受过伤，是啊
 我知道那是什么感觉
@@ -166,20 +166,20 @@ Trust me, I've been broken before
 内心仍在疼
 我好怕再恋爱，但若是为你，我愿意试
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 1（重复）
+#### 主歌 1（重复）
 
-#### Bridge 2
+#### 桥段 2
 
 我知道自己不太会挑对象
 我们都知道我的过去不言自明
 若你觉得我们并不合适
 那就请别让历史重演
 
-#### Pre-Chorus
+#### 预副歌
 
 因为我想要你，我想要你
 我什么都不想要
@@ -193,7 +193,7 @@ Trust me, I've been broken before
 我见过很多人
 但没人像你
 
-#### Outro
+#### 尾声
 
 所以，请别伤我的心
 别把我撕碎
@@ -226,5 +226,5 @@ Trust me, I've been broken before
 ## 听歌提示 · Listening Notes
 
 - 副歌 *It's you, it's always you* 句式短、重复多，适合**通勤跟唱**和练 *gon' be* 的弱读。
-- Verse 里 *please don't break my heart / trust me, I've been broken before* 成对出现，可练「恳求 + 坦白过往」的语气。
+- 主歌里 *please don't break my heart / trust me, I've been broken before* 成对出现，可练「恳求 + 坦白过往」的语气。
 - 想延伸**信任与脆弱**，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于受伤、害怕的表达。

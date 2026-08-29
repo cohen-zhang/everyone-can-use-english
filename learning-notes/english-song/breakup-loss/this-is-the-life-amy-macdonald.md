@@ -33,7 +33,7 @@ aliases:
 
 **中文**
 
-**Amy Macdonald**（1987 年 8 月 25 日生）是苏格兰**创作型歌手**，来自格拉斯哥附近的 Bishopbriggs。12 岁自学吉他，在网上发布 demo 后被发掘。首张专辑 **This Is the Life**（2007）在全欧热卖，在德国、奥地利、瑞士及英国皆成明星。她的嗓音常被比作 **Fran Healy**（Travis）或 **Sharleen Spiteri**；作品融合**民谣摇滚与流行**，歌词多观察青年夜生活、小镇与漂泊感。此后多张专辑，是苏格兰当代最具代表性的艺人之一。
+**Amy Macdonald**（1987 年 8 月 25 日生）是苏格兰**创作型歌手**，来自格拉斯哥附近的 Bishopbriggs。12 岁自学吉他，在网上发布小样后被发掘。首张专辑 **This Is the Life**（2007）在全欧热卖，在德国、奥地利、瑞士及英国皆成明星。她的嗓音常被比作 **Fran Healy**（Travis）或 **Sharleen Spiteri**；作品融合**民谣摇滚与流行**，歌词多观察青年夜生活、小镇与漂泊感。此后多张专辑，是苏格兰当代最具代表性的艺人之一。
 
 ---
 
@@ -104,7 +104,7 @@ Where you're gonna sleep tonight?
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 哦，风呼啸而过
 今夜冷清黑暗的街道
@@ -116,7 +116,7 @@ Where you're gonna sleep tonight?
 歌越来越响
 一首比一首带劲
 
-#### Chorus
+#### 副歌
 
 你唱着那些歌
 觉得这就是人生
@@ -125,7 +125,7 @@ Where you're gonna sleep tonight?
 你要去哪？你要去哪？
 今晚睡哪儿？
 
-#### Verse 2
+#### 主歌 2
 
 于是你沿路而行
 坐着四人出租车
@@ -136,7 +136,7 @@ Where you're gonna sleep tonight?
 聊着要去哪
 今晚睡哪儿
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 ## 重点表达 · Key Phrases
 

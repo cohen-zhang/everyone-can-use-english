@@ -30,7 +30,7 @@ aliases:
 
 **English**
 
-**Carpenters** were an American **soft-rock** duo: **Karen Carpenter** (1950–1983) on **drums and lead vocals**, and **Richard Carpenter** on keyboards and arrangements. From Downey, California, they defined early-1970s **adult contemporary** with Karen's warm contralto and Richard's meticulous production. Hits include **"Close to You," "We've Only Just Begun,"** and **"Top of the World."** Karen's death from complications related to anorexia cut the duo short, but their catalog remains among the best-selling in U.S. pop history. For English learners, Karen's diction is **clear, gentle, and singable**—ideal for **easy-level** listening.
+**Carpenters** were an American **软摇滚** duo: **Karen Carpenter** (1950–1983) on **drums and lead vocals**, and **Richard Carpenter** on keyboards and arrangements. From Downey, California, they defined early-1970s **adult contemporary** with Karen's warm contralto and Richard's meticulous production. Hits include **"Close to You," "We've Only Just Begun,"** and **"Top of the World."** Karen's death from complications related to anorexia cut the duo short, but their catalog remains among the best-selling in U.S. pop history. For English learners, Karen's diction is **clear, gentle, and singable**—ideal for **easy-level** listening.
 
 **中文**
 
@@ -46,7 +46,7 @@ aliases:
 
 **中文**
 
-**"Yesterday Once More"**（1973）是 Carpenters 专辑 *Now & Then* 的**同名主打**，一首关于**怀旧**的歌：电台里旧歌响起，人又回到**「不久以前的快乐时光」**。Richard 的编配嵌入 **1960 年代 pop** 的 *sha-la-la*、*whoa-oh* 等 hook，Karen 的嗓音贴近、像在对你说。Bridge 提到那些**伤心的情歌**「又像从前一样让我哭」。在许多中文课堂与 KTV 歌单里，这是**入门英文歌**：一般过去时、熟悉的电台意象、副歌哼得出来就算漏词。
+**"Yesterday Once More"**（1973）是 Carpenters 专辑 *Now & Then* 的**同名主打**，一首关于**怀旧**的歌：电台里旧歌响起，人又回到**「不久以前的快乐时光」**。Richard 的编配嵌入 **1960 年代 pop** 的 *sha-la-la*、*whoa-oh* 等钩子句，Karen 的嗓音贴近、像在对你说。桥段提到那些**伤心的情歌**「又像从前一样让我哭」。在许多中文课堂与 KTV 歌单里，这是**入门英文歌**：一般过去时、熟悉的电台意象、副歌哼得出来就算漏词。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -132,7 +132,7 @@ It's yesterday once more
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 当我年轻时
 我会听电台
@@ -147,7 +147,7 @@ It's yesterday once more
 像一位失散多年的老友
 所有我深爱的歌
 
-#### Chorus
+#### 副歌
 
 每一句 sha-la-la-la
 每一句 whoa-oh-whoa
@@ -156,7 +156,7 @@ It's yesterday once more
 他们开始唱的那些
 如此美好
 
-#### Verse 2
+#### 主歌 2
 
 当他们唱到那一段
 他伤她心的那一段
@@ -176,7 +176,7 @@ It's yesterday once more
 对我来说依旧动听
 仿佛融化了岁月
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 每一句 sha-la-la-la
 每一句 whoa-oh-whoa
@@ -185,7 +185,7 @@ It's yesterday once more
 他们开始唱的那些
 如此美好
 
-#### Outro
+#### 尾声
 
 我所有最好的记忆
 都清晰地回到身边
@@ -218,5 +218,5 @@ It's yesterday once more
 - **入门友好**：一般过去时（*When I was young… I'd listen…*）与现在时交替，适合通勤跟听。
 - 副歌 *sha-la-la-la / whoa-oh-whoa* 即使听不清词也能**跟哼**，可先练哼再补词。
 - *Waitin' / Lookin' / breakin' / startin'* 是 **-ing** 口语弱读，跟 Karen 版注意尾音轻轻带过。
-- Bridge *It's yesterday once more* 是全曲主题句，KTV 与背诵都可从这里切入。
+- 桥段 *It's yesterday once more* 是全曲主题句，KTV 与背诵都可从这里切入。
 - 想延伸「怀旧 + 情绪」表达，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里关于 memory、longing 的句型。

@@ -48,7 +48,7 @@ aliases:
 
 **中文**
 
-**"Relax, Take It Easy"** 是 MIKA 的**出道单曲**，**2006 年 10 月**发行，后收录于 *Life in Cartoon Motion*（2007）。在强劲的 electropop 节奏上，歌写感情破裂后的恐慌——搭上一列「坏掉的车」、孤身一人——再转向安慰：*我们无能为力*，所以**放轻松**，别离开彼此。反复出现的 *it's as if I'm playing with fire* 点出「爱一个可能伤害你的人」的险境。注意：部分歌词网站误附一段关于婚礼的粉丝文字；**官方版本不含该段**，以重复的 *Relax* 口白收尾。
+**"Relax, Take It Easy"** 是 MIKA 的**出道单曲**，**2006 年 10 月**发行，后收录于 *Life in Cartoon Motion*（2007）。在强劲的电子流行节奏上，歌写感情破裂后的恐慌——搭上一列「坏掉的车」、孤身一人——再转向安慰：*我们无能为力*，所以**放轻松**，别离开彼此。反复出现的 *it's as if I'm playing with fire* 点出「爱一个可能伤害你的人」的险境。注意：部分歌词网站误附一段关于婚礼的粉丝文字；**官方版本不含该段**，以重复的 *Relax* 口白收尾。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -121,28 +121,28 @@ Relax
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 搭车坐到线路尽头，没人会去的那种地方
 上了一列坏掉的车，周围没有一个认识的人
 但痛苦与 longing 在你「快撑不住」时都一样
 现在我迷失了，独自尖叫着求救
 
-#### Chorus
+#### 副歌
 
 放松，别紧张
 因为我们无能为力
 放松，别紧张
 怪我也好，怪你也罢
 
-#### Verse 2
+#### 主歌 2
 
 好像我很害怕，好像我 terrified
 好像我很害怕，好像在玩火
 害怕，好像我 terrified
 你怕吗？我们是在玩火吗？
 
-#### Bridge
+#### 桥段
 
 放松（爱）
 最黑暗的时刻也有答案
@@ -151,7 +151,7 @@ Relax
 我相信我们同舟共济
 别尖叫，前面还有很多条路
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(副歌重复多遍；结构与第一段副歌相同)*
 
@@ -160,14 +160,14 @@ Relax
 放松，别紧张
 怪我也好，怪你也罢
 
-#### Verse 2（重复）
+#### 主歌 2（重复）
 
 好像我很害怕（放松），好像我 terrified
 好像我很害怕，好像在玩火（放松）
 害怕，好像我 terrified
 你怕吗？我们是在玩火吗？
 
-#### Outro
+#### 尾声
 
 放松
 放松
@@ -194,6 +194,6 @@ Relax
 ## 听歌提示 · Listening Notes
 
 - 副歌 *Relax, take it easy* 节奏稳定，适合**通勤跟唱**；注意 *relax* 与 *take it* 之间的连读。
-- Verse 2 的 *It's as if I'm scared* 四句结构相同，可用来练**平行句型**与重音落在 *scared / fire* 上。
-- Bridge 里 *Don't scream, there are so many roads left* 是全歌最「劝慰」的一句，语气从 panic 切到 calm，听时可对比前后动态。
+- 主歌 2 的 *It's as if I'm scared* 四句结构相同，可用来练**平行句型**与重音落在 *scared / fire* 上。
+- 桥段里 *Don't scream, there are so many roads left* 是全歌最「劝慰」的一句，语气从 panic 切到 calm，听时可对比前后动态。
 - 想延伸练**分手/情绪口语**，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 对照 fear、reassurance 相关表达。

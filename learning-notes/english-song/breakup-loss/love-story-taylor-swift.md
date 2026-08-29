@@ -37,7 +37,7 @@ aliases:
 
 **中文**
 
-**Taylor Swift**（1989 年 12 月 13 日生，宾州 West Reading）是美国**创作型歌手**，从**乡村**跨到全球**流行**，歌词始终叙事、细节满满。15 岁签约 Big Machine，2006 年以 *Tim McGraw* 崭露头角；**Fearless** 时期（2008–2010）成为 country-pop 最具跨圈影响力的阶段之一。因早期母带版权纠纷，她开始以 **「Taylor's Version」** 重录旧作；**Fearless (Taylor's Version)**（2021）收回了 **"Love Story"** 等热门曲版权。Swift 多次获 **格莱美年度专辑**，擅长把私人故事写成全民跟唱 anthem。
+**Taylor Swift**（1989 年 12 月 13 日生，宾州 West Reading）是美国**创作型歌手**，从**乡村**跨到全球**流行**，歌词始终叙事、细节满满。15 岁签约 Big Machine，2006 年以 *Tim McGraw* 崭露头角；**Fearless** 时期（2008–2010）成为乡村流行最具跨圈影响力的阶段之一。因早期母带版权纠纷，她开始以 **「Taylor's Version」** 重录旧作；**Fearless (Taylor's Version)**（2021）收回了 **"Love Story"** 等热门曲版权。Swift 多次获 **格莱美年度专辑**，擅长把私人故事写成全民跟唱颂歌。
 
 ---
 
@@ -149,7 +149,7 @@ Oh, oh-oh, oh
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 初次见你时我们都还年轻
 我闭上眼，闪回开始
@@ -160,7 +160,7 @@ Oh, oh-oh, oh
 说声「Hello」
 我哪里知道
 
-#### Pre-Chorus
+#### 预副歌
 
 你就是 Romeo，在扔小石子
 爸爸却说：「离 Juliet 远点」
@@ -168,21 +168,21 @@ Oh, oh-oh, oh
 求你：「请不要走」
 我说
 
-#### Chorus
+#### 副歌
 
 Romeo，带我去能独处的地方
 我会等着，剩下的事就是奔跑
 你是王子，我是公主
 这是爱情故事，宝贝，只要说 yes
 
-#### Verse 2
+#### 主歌 2
 
 于是我溜去花园见你
 我们屏息，被发现了就完了
 那就闭上眼
 暂时逃离这座小镇
 
-#### Pre-Chorus 2
+#### 预副歌 2
 
 因为你是 Romeo，我却是「红字」
 爸爸又说：「离 Juliet 远点」
@@ -190,11 +190,11 @@ Romeo，带我去能独处的地方
 我求你：「请不要走」
 我说
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge
+#### 桥段
 
 Romeo，救救我，他们想告诉我该怎么感受
 这份爱很难，但是真的
@@ -203,7 +203,7 @@ Romeo，救救我，他们想告诉我该怎么感受
 
 哦，哦——
 
-#### Verse 3
+#### 主歌 3
 
 我等累了
 怀疑你是否还会现身
@@ -217,7 +217,7 @@ Romeo，救救我，我好孤独
 他跪地掏出一枚戒指
 他说
 
-#### Final Chorus / Proposal
+#### 终段副歌 / Proposal
 
 嫁给我吧 Juliet，你再也不用孤单
 我爱你，这是我真正确知的一切
@@ -252,7 +252,7 @@ Romeo，救救我，我好孤独
 ## 听歌提示 · Listening Notes
 
 - 全曲用**过去时讲故事**，适合练叙事口语：*We were both young… I close my eyes…*
-- 副歌 *It's a love story, baby, just say yes* 节奏清楚，**KTV 首选**；先熟副歌再练 Verse 1。
+- 副歌 *It's a love story, baby, just say yes* 节奏清楚，**KTV 首选**；先熟副歌再练主歌 1。
 - 注意 **Romeo / Juliet / scarlet letter** 三个文化典故，读歌词时可一并记文学背景。
 - *'cause we're dead if they knew* 里 **dead** 不是真死，是「完蛋了」的夸张说法。
 - Taylor's Version 与 2008 原版歌词一致；可对比两版**咬字与情绪**，选更适合跟唱的一版。

@@ -150,7 +150,7 @@ I'ma tie her to the bed and set this house on fire
 
 ### 中文翻译 · Chinese Translation
 
-#### Chorus（Rihanna）
+#### 副歌（Rihanna）
 
 你就站那儿看我燃烧吗？
 好吧，没关系，因为我喜欢这种痛
@@ -158,7 +158,7 @@ I'ma tie her to the bed and set this house on fire
 好吧，没关系，因为我爱你撒谎的样子
 我爱你撒谎的样子
 
-#### Verse 1（Eminem）
+#### 主歌 1（Eminem）
 
 我没法告诉你这到底是什么
 只能告诉你是什么感觉
@@ -183,7 +183,7 @@ I'ma tie her to the bed and set this house on fire
 
 *(同第一段副歌)*
 
-#### Verse 2（Eminem）
+#### 主歌 2（Eminem）
 
 你有没有那么爱过一个人
 和她在一起几乎喘不过气？
@@ -210,7 +210,7 @@ I'ma tie her to the bed and set this house on fire
 
 我爱你撒谎的样子
 
-#### Verse 3（Eminem）
+#### 主歌 3（Eminem）
 
 我们知道说过、做过并非本意的事
 然后又跌回同样的模式、同样的套路
@@ -231,7 +231,7 @@ I'ma tie her to the bed and set this house on fire
 我知道我是骗子——若她再敢他妈离开
 我就把她绑在床上，放火烧了这房子
 
-#### Final Chorus（Rihanna）
+#### 终段副歌（Rihanna）
 
 *(同第一段副歌，至结尾)*
 
@@ -257,8 +257,8 @@ I'ma tie her to the bed and set this house on fire
 
 ## 听歌提示 · Listening Notes
 
-- 副歌由 **Rihanna** 演唱，旋律清楚，适合先练副歌再攻 Eminem 的快嘴 Verse。
-- Eminem 的 Verse **语速极快**，建议 0.75× 跟读，注意 *gonna / 'em / 'cause* 等弱读。
+- 副歌由 **Rihanna** 演唱，旋律清楚，适合先练副歌再攻 Eminem 的快嘴主歌。
+- Eminem 的主歌 **语速极快**，建议 0.75× 跟读，注意 *gonna / 'em / 'cause* 等弱读。
 - 歌里大量 **矛盾修辞**（爱痛并存、道歉与威胁连着说），可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 练「愤怒 + 愧疚」的表达。
 - *windowpane* 与 *pain* 的谐音是刻意 **wordplay**；读歌词时可单独标出。
 - 内容涉及家暴，**仅作语言与叙事学习**；勿在不当场合引用暴力威胁句（如最后一段）。

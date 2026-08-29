@@ -107,7 +107,7 @@ Make me do for love what I would not do
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 我想你好奇我去哪了
 我四处找过，想在心里找到一份爱
@@ -119,7 +119,7 @@ Make me do for love what I would not do
 我回来是想告诉你
 我对你有意思，没法放手
 
-#### Chorus
+#### 副歌
 
 有人为爱走遍世界
 却可能永远找不到梦想中的那份
@@ -128,7 +128,7 @@ Make me do for love what I would not do
 在我的世界里，只有你让我
 为爱去做我本不会做的事
 
-#### Verse 2
+#### 主歌 2
 
 我朋友都好奇我怎么了
 嗯，你看，我被你的爱弄得神魂颠倒

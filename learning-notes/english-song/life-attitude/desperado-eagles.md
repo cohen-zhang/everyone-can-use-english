@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**The Eagles**（老鹰乐队）是 **1971 年**在洛杉矶成立的美国**摇滚乐队**，创始成员 **Glenn Frey**、**Don Henley**、**Bernie Leadon**、**Randy Meisner**。他们以 **country-rock**、**soft rock** 与精致和声融合，成为史上最畅销的乐队之一——*Take It Easy*、*Hotel California*、*Desperado* 几乎定义了七十年代加州摇滚之声。**Frey** 与 **Henley** 写下大部分金曲并分担主唱；录音室制作（常与制作人 **Glyn Johns** 合作）为 mainstream rock 树立了范本。1980 年解散，1994 年重组，持续巡演至 Frey 2016 年逝世。六座格莱美、全球唱片销量逾 **1.5 亿**，是摇滚史上最长青的 catalog 之一。
+**The Eagles**（老鹰乐队）是 **1971 年**在洛杉矶成立的美国**摇滚乐队**，创始成员 **Glenn Frey**、**Don Henley**、**Bernie Leadon**、**Randy Meisner**。他们以 **乡村摇滚**、**软摇滚** 与精致和声融合，成为史上最畅销的乐队之一——*Take It Easy*、*Hotel California*、*Desperado* 几乎定义了七十年代加州摇滚之声。**Frey** 与 **Henley** 写下大部分金曲并分担主唱；录音室制作（常与制作人 **Glyn Johns** 合作）为主流摇滚树立了范本。1980 年解散，1994 年重组，持续巡演至 Frey 2016 年逝世。六座格莱美、全球唱片销量逾 **1.5 亿**，是摇滚史上最长青的作品目录之一。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Desperado"** 是老鹰乐队第二张专辑 ***Desperado***（**1973 年 4 月 17 日**发行）的开场曲，由 **Glenn Frey** 与 **Don Henley** 共同创作；Henley 主唱并弹奏钢琴。创作始于 Henley 在 Laurel Canyon 俯瞰洛杉矶时，受 **Ray Charles** 的 *Modern Sounds in Country and Western Music* 启发写下的 ballad——Frey 催他写完。整张专辑是以西部亡命徒为主题的**概念专辑**；*Desperado* 对一位亡命徒说话：他一直在 *ridin' fences*（骑 fence 巡逻），迟迟不肯安定。Henley 后来表示，乐队把自己看作摇滚界的亡命徒——活在常规之外——歌词也可读作对任何以 isolation 代替 love 之人的劝诫。起初并非大热单曲，却成为**标志性抒情曲**；**Linda Ronstadt** 1973 年翻唱进一步推高了知名度。
+**"Desperado"** 是老鹰乐队第二张专辑 ***Desperado***（**1973 年 4 月 17 日**发行）的开场曲，由 **Glenn Frey** 与 **Don Henley** 共同创作；Henley 主唱并弹奏钢琴。创作始于 Henley 在 Laurel Canyon 俯瞰洛杉矶时，受 **Ray Charles** 的 *Modern Sounds in Country and Western Music* 启发写下的抒情曲——Frey 催他写完。整张专辑是以西部亡命徒为主题的**概念专辑**；*Desperado* 对一位亡命徒说话：他一直在 *ridin' fences*（骑围栏巡逻），迟迟不肯安定。Henley 后来表示，乐队把自己看作摇滚界的亡命徒——活在常规之外——歌词也可读作对任何以自我封闭代替爱之人的劝诫。起初并非大热单曲，却成为**标志性抒情曲**；**Linda Ronstadt** 1973 年翻唱进一步推高了知名度。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Before it's too late
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 亡命徒啊，你怎么还不醒悟
 你骑 fence 巡逻已经太久
@@ -124,7 +124,7 @@ Before it's too late
 那些让你快活的事
 总有一天会伤到你
 
-#### Verse 2
+#### 主歌 2
 
 别去抽方块 Q 啊，孩子
 她要是能赢，就会把你击败
@@ -134,14 +134,14 @@ Before it's too late
 可你只想要
 那些你得不到的
 
-#### Chorus
+#### 副歌
 
 亡命徒啊，哦，你不再年轻了
 你的痛苦与饥渴，正驱使你回家
 而自由，哦自由，那不过是些人的空谈
 你的牢笼，就是独自在这世上行走
 
-#### Bridge
+#### 桥段
 
 冬天里你的脚不会冷吗
 天不下雪，太阳也不照耀
@@ -149,7 +149,7 @@ Before it's too late
 你正失去所有的高低起伏
 感觉就这么消失，难道不讽刺吗
 
-#### Verse 3 · Outro
+#### 主歌 3 · 尾声
 
 亡命徒啊，你怎么还不醒悟
 从 fence 上下来，把门打开
@@ -193,6 +193,6 @@ Before it's too late
 
 - 节奏舒缓、Henley 咬字清楚，适合**精研发音**；注意 *ridin'*、*pleasin'*、*rainin'* 等 **-in'** 口语缩读。
 - 扑克意象（*queen of diamonds* / *queen of hearts*）不必逐字背，先理解「算计 vs 真情」的对照即可。
-- 结尾 **Let somebody love you** 重复三遍，跟唱时可先练这一句，再串 Verse 1 的 *come to your senses*。
+- 结尾 **Let somebody love you** 重复三遍，跟唱时可先练这一句，再串主歌 1 的 *come to your senses*。
 - *Your prison is walking through this world all alone* 是全曲核心——可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 里 **Lonely**、封闭与求助表达。
-- 与 [[learning-notes/english-song/breakup-loss/hey-jude-the-beatles|Hey Jude]] 同为「劝人走出封闭、接纳爱」的经典 ballad，可对照 *let her into your heart* 与 *let somebody love you*。
+- 与 [[learning-notes/english-song/breakup-loss/hey-jude-the-beatles|Hey Jude]] 同为「劝人走出封闭、接纳爱」的经典抒情曲，可对照 *let her into your heart* 与 *let somebody love you*。

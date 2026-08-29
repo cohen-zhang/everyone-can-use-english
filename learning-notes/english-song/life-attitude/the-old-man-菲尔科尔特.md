@@ -30,7 +30,7 @@ aliases:
 
 **中文**
 
-**Phil Coulter**（菲尔·科尔特，1942 年 2 月 19 日生，北爱尔兰 Derry）是爱尔兰**音乐家、词曲作者、制作人**。成长于音乐家庭——父亲拉小提琴，母亲弹钢琴——就读于贝尔法斯特女王大学，1960 年代赴伦敦，为 **Van Morrison**、**Cliff Richard**、**The Bay City Rollers** 等写歌。与 **Bill Martin** 合作写出 **欧洲歌唱大赛** 冠军曲 *Puppet on a String*（1967）与 *Congratulations*（1968）。个人创作涵盖**民谣、流行与凯尔特抒情**；亦创作爱尔兰橄榄球 anthem **Ireland's Call**。*Classic Tranquility*（1984）等钢琴 instrumental 专辑销量极高。获 **5 座 Ivor Novello 奖**及**格莱美提名**。
+**Phil Coulter**（菲尔·科尔特，1942 年 2 月 19 日生，北爱尔兰 Derry）是爱尔兰**音乐家、词曲作者、制作人**。成长于音乐家庭——父亲拉小提琴，母亲弹钢琴——就读于贝尔法斯特女王大学，1960 年代赴伦敦，为 **Van Morrison**、**Cliff Richard**、**The Bay City Rollers** 等写歌。与 **Bill Martin** 合作写出 **欧洲歌唱大赛** 冠军曲 *Puppet on a String*（1967）与 *Congratulations*（1968）。个人创作涵盖**民谣、流行与凯尔特抒情**；亦创作爱尔兰橄榄球颂歌 **Ireland's Call**。*Classic Tranquility*（1984）等钢琴器乐专辑销量极高。获 **5 座 Ivor Novello 奖**及**格莱美提名**。
 
 ---
 
@@ -116,7 +116,7 @@ For everything he's done
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 眼泪都已流尽
 我们已作最后的告别
@@ -129,7 +129,7 @@ For everything he's done
 在我们曾一起弹奏的曲调里
 当我们独自演奏那些曲子
 
-#### Chorus
+#### 副歌
 
 我永远不会忘记他
 因为他造就了今天的我
@@ -137,7 +137,7 @@ For everything he's done
 记忆久久萦绕
 我想念他，那位老人
 
-#### Verse 2
+#### 主歌 2
 
 小时候，他会带我去散步
 过山、穿野、沿溪
@@ -150,11 +150,11 @@ For everything he's done
 以及如何钓鱼、如何许愿
 在冬青树旁
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*  
 
-#### Verse 3
+#### 主歌 3
 
 我以为他会永远活着
 他看起来那么高大强壮
@@ -192,6 +192,6 @@ For everything he's done
 ## 听歌提示 · Listening Notes
 
 - 歌曲节奏舒缓、咬字清楚，适合**精研发音**与跟读；注意爱尔兰英语里部分元音与美式略有不同，但以清晰辅音为主。
-- 三段 Verse + 重复 Chorus 结构规整，可先背 Chorus *I never will forget him*，再练 Verse 2 的田园意象（*pheasant*、*holly tree*）。
+- 三段主歌 + 重复副歌结构规整，可先背副歌 *I never will forget him*，再练主歌 2 的田园意象（*pheasant*、*holly tree*）。
 - *No second chance to tell him thanks* 是全文情感高点，可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] 中关于 grief 与 regret 的表达。
-- 与 [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man — Yom]] 同名不同曲；本曲为 Coulter 经典凯尔特民谣，Yom 版为爵士 instrumental 向作品。
+- 与 [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man — Yom]] 同名不同曲；本曲为 Coulter 经典凯尔特民谣，Yom 版为爵士器乐向作品。

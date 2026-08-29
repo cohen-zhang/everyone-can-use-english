@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Harry Styles**（1994 年 2 月 1 日生）是英国**创作型歌手**兼演员，来自柴郡 **Holmes Chapel**。他在史上最畅销男团之一 **One Direction** 中成名，2017 年以同名首张个人专辑开启 solo 生涯。第二张专辑 **Fine Line**（2019）更敢 experiment，融合 funk 与 rock，获评论界好评。Styles 多次获 **格莱美** 与 **全英音乐奖**；第三张 *Harry's House*（2022）获格莱美**年度专辑**。他以张扬时尚与温暖舞台魅力著称；歌词常写浪漫奉献、脆弱与 playful 意象并存。
+**Harry Styles**（1994 年 2 月 1 日生）是英国**创作型歌手**兼演员，来自柴郡 **Holmes Chapel**。他在史上最畅销男团之一 **One Direction** 中成名，2017 年以同名首张个人专辑开启独唱生涯。第二张专辑 **Fine Line**（2019）更敢实验，融合放克与摇滚，获评论界好评。Styles 多次获 **格莱美** 与 **全英音乐奖**；第三张 *Harry's House*（2022）获格莱美**年度专辑**。他以张扬时尚与温暖舞台魅力著称；歌词常写浪漫奉献、脆弱与俏皮意象并存。
 
 ---
 
@@ -121,7 +121,7 @@ Like it's the only thing I'll ever do
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 走进你的彩虹天堂（天堂）
 草莓唇膏般的心境（心境）
@@ -132,7 +132,7 @@ Like it's the only thing I'll ever do
 你什么都不用说
 你不必说你是我的
 
-#### Chorus
+#### 副歌
 
 亲爱的（啊）
 我愿意为你赴汤蹈火
@@ -143,7 +143,7 @@ Like it's the only thing I'll ever do
 像这是我唯一会做的事
 像这是我唯一会做的事
 
-#### Verse 2
+#### 主歌 2
 
 夏日天空下你的美好（夏日天空）
 棕肤与加冰的柠檬
@@ -153,11 +153,11 @@ Like it's the only thing I'll ever do
 我只想告诉你一件事
 最近，你一直在脑海里
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Bridge / Outro
+#### 桥段 / 尾声
 
 这是我唯一会做的事
 *(重复多遍，渐弱)*  

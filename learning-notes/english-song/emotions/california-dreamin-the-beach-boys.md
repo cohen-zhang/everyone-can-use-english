@@ -114,7 +114,7 @@ California dreamin' (California dreamin')
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 叶子都黄了
 天空灰蒙蒙的
@@ -123,12 +123,12 @@ California dreamin' (California dreamin')
 我会又安全又暖和
 要是我在洛杉矶的话
 
-#### Chorus
+#### 副歌
 
 梦见加州（梦见加州）
 （在这样的冬日里）
 
-#### Verse 2
+#### 主歌 2
 
 走进一座教堂
 路过时看见的那座
@@ -137,11 +137,11 @@ California dreamin' (California dreamin')
 你知道，牧师喜欢这寒冷（牧师喜欢寒冷）
 他知道我会留下来（知道我会留下来）
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### Verse 3 / Final
+#### 主歌 3 / Final
 
 叶子都黄了（叶子都黄了）
 天空灰蒙蒙的（天空灰蒙蒙的）

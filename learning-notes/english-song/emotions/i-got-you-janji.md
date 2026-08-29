@@ -33,7 +33,7 @@ aliases:
 
 **中文**
 
-**Janji** 是芬兰 **EDM / progressive house** 制作人与 DJ，代表作是 2015 年 NCS 爆款 **"Heroes Tonight" (feat. Johnning)**——游戏集锦与健身歌单里的常客。他常与瑞典唱作人 **Johnning**（Jonathan Nilsson）合作：Johnning 清晰的流行人声叠在大房舞曲 drop 与旋律铺垫之上。Janji 的歌偏**振奋、合唱感强**：英文 hook 简单，现场感足，副歌情绪饱满，电子制作也不妨碍跟唱。
+**Janji** 是芬兰 **EDM / progressive house** 制作人与 DJ，代表作是 2015 年 NCS 爆款 **"Heroes Tonight" (feat. Johnning)**——游戏集锦与健身歌单里的常客。他常与瑞典唱作人 **Johnning**（Jonathan Nilsson）合作：Johnning 清晰的流行人声叠在大房舞曲爆发段与旋律铺垫之上。Janji 的歌偏**振奋、合唱感强**：英文钩子句简单，现场感足，副歌情绪饱满，电子制作也不妨碍跟唱。
 
 ---
 
@@ -45,7 +45,7 @@ aliases:
 
 **中文**
 
-**"I Got You (feat. Johnning)"** 于 **2016 年 5 月 20 日**以单曲发行（FRSH Helsinki / Warner Music Finland）。这是一首**振奋型舞曲流行**，写在恐惧与孤独里**有人撑着你**：恐慌压过来、眼泪失控时，歌者反复说 *I got you*——我在；有我呢。中段转向寻找**新生活 / 新开始**，因为 *I need you and you need me*。英文短、重复多，适合练发音与通勤跟唱；情绪主要靠 drop 托住。
+**"I Got You (feat. Johnning)"** 于 **2016 年 5 月 20 日**以单曲发行（FRSH Helsinki / Warner Music Finland）。这是一首**振奋型舞曲流行**，写在恐惧与孤独里**有人撑着你**：恐慌压过来、眼泪失控时，歌者反复说 *I got you*——我在；有我呢。中段转向寻找**新生活 / 新开始**，因为 *I need you and you need me*。英文短、重复多，适合练发音与通勤跟唱；情绪主要靠爆发段托住。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -137,7 +137,7 @@ I got you
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 当恐惧占了上风
 你连气都喘不上来
@@ -148,7 +148,7 @@ I got you
 有我在
 有我在
 
-#### Chorus
+#### 副歌
 
 当恐惧占了上风
 有我在
@@ -163,7 +163,7 @@ I got you
 当恐惧占了上风
 有我在
 
-#### Verse 2 / Bridge
+#### 主歌 2 / 桥段
 
 我一直在找一种新生活
 一个新的开始
@@ -174,7 +174,7 @@ I got you
 因为我需要你
 而你也需要我
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 当你的脑子彻底失控
 整个人像被撕碎、垮掉
@@ -194,7 +194,7 @@ I got you
 当恐惧占了上风
 有我在
 
-#### Outro
+#### 尾声
 
 我一直在找一种新生活
 一个新的开始
@@ -224,5 +224,5 @@ I got you
 
 - 副歌 *I got you* 极短、极重复，适合**通勤跟唱**；注意 *got* 的短元音，别拖成 *gaht*。
 - *can't breathe* 里 **breathe**（动词）与 *breath*（名词）易混；歌词站常误写成 *breath*，跟唱按「动词」理解即可。
-- Drop 前的 *When the fear takes it over* 可当**一口气跟读**练习：连读 *takes-it-over*。
+- 爆发段前的 *When the fear takes it over* 可当**一口气跟读**练习：连读 *takes-it-over*。
 - 想延伸练「安慰别人」的口语，可打开 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]，对照 *I'm here for you* / *I've got your back*。

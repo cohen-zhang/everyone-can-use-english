@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Always Remember Us This Way"** 由 **Lady Gaga**、**Natalie Hemby**、**Hillary Lindsey**、**Lori McKenna** 为 2018 年电影 **《一个明星的诞生》（*A Star Is Born*）** 创作，片中由 Gaga 饰演的 rising 歌手 **Ally** 演唱。这是一首**钢琴主导的乡村抒情曲**，写「把感情最亮的样子留在心里」——*when the sun goes down and the band won't play, I'll always remember us this way*（日头落下、乐队散场，我仍会记得我们那时的样子）。原声单曲登上 **Billboard Hot 100**，成为十年间被翻唱最多的情歌之一。**本播放列表条目为 Brenda Mullen 翻唱版**（2019 年 7 月发行）；下列歌词与原版一致，适合 KTV 与通勤跟唱练习。
+**"Always Remember Us This Way"** 由 **Lady Gaga**、**Natalie Hemby**、**Hillary Lindsey**、**Lori McKenna** 为 2018 年电影 **《一个明星的诞生》（*A Star Is Born*）** 创作，片中由 Gaga 饰演的崭露头角歌手 **Ally** 演唱。这是一首**钢琴主导的乡村抒情曲**，写「把感情最亮的样子留在心里」——*when the sun goes down and the band won't play, I'll always remember us this way*（日头落下、乐队散场，我仍会记得我们那时的样子）。原声单曲登上 **Billboard Hot 100**，成为十年间被翻唱最多的情歌之一。**本播放列表条目为 Brenda Mullen 翻唱版**（2019 年 7 月发行）；下列歌词与原版一致，适合 KTV 与通勤跟唱练习。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -114,7 +114,7 @@ I'll always remember us this way
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 亚利桑那的天空，在你眼里燃烧
 你看着我，宝贝
@@ -123,7 +123,7 @@ I'll always remember us this way
 你找到了我身上的光
 我自己找不到的那束光
 
-#### Chorus
+#### 副歌
 
 所以当我哽咽说不出话
 却找不到词句
@@ -133,7 +133,7 @@ I'll always remember us this way
 乐队不再演奏
 我会一直记得我们那时的样子
 
-#### Verse 2
+#### 主歌 2
 
 夜里的恋人
 诗人努力想写诗
@@ -143,11 +143,11 @@ I'll always remember us this way
 你就是我想去的地方
 我身上属于你的那部分，永远不会消逝
 
-#### Chorus（重复）
+#### 副歌（重复）
 
 *(同第一段副歌；第二遍末尾可加哼唱)*
 
-#### Bridge / Outro
+#### 桥段 / 尾声
 
 所以当我哽咽说不出话
 却找不到词句

@@ -35,7 +35,7 @@ aliases:
 
 **中文**
 
-**Dua Lipa**（1995 年 8 月 22 日生于伦敦）是英裔阿尔巴尼亚**歌手、词曲作者**。以同名首专（2017）和 *"New Rules"* 出圈，再以 ***Future Nostalgia***（2020）统治 2020 年代初——这张利落的 **disco-pop** 专辑拿下**格莱美最佳流行演唱专辑**。以抓耳 hook、舞池自信与复古未来感制作著称，是同代流行乐的代表声线之一。含 **DaBaby** 的 *"Levitating"* remix 等合作进一步推高全球榜单表现。
+**Dua Lipa**（1995 年 8 月 22 日生于伦敦）是英裔阿尔巴尼亚**歌手、词曲作者**。以同名首专（2017）和 *"New Rules"* 出圈，再以 ***Future Nostalgia***（2020）统治 2020 年代初——这张利落的 **disco-pop** 专辑拿下**格莱美最佳流行演唱专辑**。以抓耳钩子句、舞池自信与复古未来感制作著称，是同代流行乐的代表声线之一。含 **DaBaby** 的 *"Levitating"* 混音版等合作进一步推高全球榜单表现。
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 **中文**
 
-**"Levitating"** 是 ***Future Nostalgia***（2020 年 3 月 27 日）的亮点曲，由 Dua Lipa 与 **Clarence Coffee Jr.**、**Sarah Hudson**、**Stephen Kozmeniuk** 合写。轻快的 **nu-disco / 舞曲流行**：亮片、星系、来电时飘起来的感觉——*I'm levitating*。副歌把 *moonlight / starlight* 和 *come on, dance with me* 绑在一起；主歌邀请一起 *run away* 去 *galaxy*、在火星上 *get lost*。后来与 **DaBaby** 的 remix 成为美国电台大热。通勤与 KTV 都很友好——元音清楚、hook 重复、太空隐喻好玩好记。
+**"Levitating"** 是 ***Future Nostalgia***（2020 年 3 月 27 日）的亮点曲，由 Dua Lipa 与 **Clarence Coffee Jr.**、**Sarah Hudson**、**Stephen Kozmeniuk** 合写。轻快的 **nu-disco / 舞曲流行**：亮片、星系、来电时飘起来的感觉——*I'm levitating*。副歌把 *moonlight / starlight* 和 *come on, dance with me* 绑在一起；主歌邀请一起 *run away* 去 *galaxy*、在火星上 *get lost*。后来与 **DaBaby** 的混音版成为美国电台大热。通勤与 KTV 都很友好——元音清楚、钩子句重复、太空隐喻好玩好记。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -142,7 +142,7 @@ I'm levitating
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 如果你想跟我私奔，我知道有个星系
 我可以带你去兜风
@@ -153,13 +153,13 @@ I'm levitating
 如果你觉得需要一点陪伴
 你遇见我的时机刚刚好
 
-#### Pre-Chorus
+#### 预副歌
 
 你要我，我也要你，宝贝
 我的小甜心，我飘起来了
 在银河里，我们当叛逆者
 
-#### Chorus
+#### 副歌
 
 我抓住你了，月光，你是我的星光
 我整晚都需要你，来，跟我跳舞
@@ -168,7 +168,7 @@ I'm levitating
 我整晚都需要你，来，跟我跳舞
 我飘起来了
 
-#### Verse 2
+#### 主歌 2
 
 我相信你是为我而来，我从我们的能量里感觉到了
 我看见我们写在星星上
@@ -179,9 +179,9 @@ I'm levitating
 每次在一起，我都觉得我们会永远
 不过随便啦，我们去火星迷路吧
 
-#### Pre-Chorus & Chorus（重复）
+#### 预副歌 & 副歌（重复）
 
-#### Post-Chorus / Bridge
+#### 后副歌 / 桥段
 
 今晚你可以跟我一起飞走
 今晚你可以跟我一起飞走
@@ -192,7 +192,7 @@ I'm levitating
 我感觉全身带电，跳到腿软
 就算我想停也停不下来
 
-#### Final Chorus / Outro
+#### 终段副歌 / 尾声
 
 你要我，我也要你，宝贝
 我的小甜心，我飘起来了
@@ -236,5 +236,5 @@ I'm levitating
 - 副歌 *I'm levitating* + *moonlight / starlight* 极适合通勤跟唱；注意 *levitating* 四音节节奏。
 - *sugarboo*、*come on, dance with me* 练亲昵邀请语气，别咬太死板。
 - *music don't stop*、*dance my arse off* 是口语/英式色彩，学习时认意思即可。
-- Bridge 的 *blast off / electric* 可当「能量词」小清单，派对英语很实用。
+- 桥段的 *blast off / electric* 可当「能量词」小清单，派对英语很实用。
 - 想延伸甜蜜称呼，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]。

@@ -131,7 +131,7 @@ When I was your man
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 还是同一张床，却觉得稍微空了一点
 电台放着我们的歌，听起来却不一样了
@@ -140,12 +140,12 @@ When I was your man
 因为我的心会轻轻碎一下
 每当听到你的名字
 
-#### Pre-Chorus
+#### 预副歌
 
 一切听起来只剩 ooh-ooh、ooh-ooh
 嗯，太年轻、太傻，没明白
 
-#### Chorus
+#### 副歌
 
 我本该给你买花
 牵着你的手
@@ -156,7 +156,7 @@ When I was your man
 现在我的宝贝在跳舞
 可她是在和别人跳
 
-#### Verse 2
+#### 主歌 2
 
 我的骄傲、自我、需求，还有自私的那一套
 害得像你这样坚强又好的女人
@@ -164,9 +164,9 @@ When I was your man
 如今我再也没法收拾自己捅的娄子
 每次闭上眼，它都缠着我
 
-#### Pre-Chorus & Chorus（重复）
+#### 预副歌 & 副歌（重复）
 
-#### Bridge
+#### 桥段
 
 虽然很痛
 我愿意第一个承认：是我错了
@@ -174,7 +174,7 @@ When I was your man
 再想为错误道歉
 但我只想让你知道
 
-#### Final Chorus
+#### 终段副歌
 
 希望他会给你买花
 希望他会牵你的手
@@ -215,6 +215,6 @@ When I was your man
 
 - **难度：** 易——语速慢、咬字清楚，钢琴伴奏几乎不挡人声；适合通勤跟唱与精研发音。
 - **语法焦点：** 整首歌是 *should've + V* 后悔句式的活教材；注意歌词 *Should've gave* 是口语非标准，写作请用 *should've given*。
-- **情绪弧线：** Verse 写「空」与「听到名字就碎」→ Chorus 列清单式后悔 → Bridge 承认错误 → 末段把祝福转给新男友（*I hope he…*），比单纯抱怨更成熟。
+- **情绪弧线：** 主歌写「空」与「听到名字就碎」→ 副歌列清单式后悔 → 桥段承认错误 → 末段把祝福转给新男友（*I hope he…*），比单纯抱怨更成熟。
 - **Bruno 对照：** 同文件夹还有轻快的 [[learning-notes/english-song/breakup-loss/marry-you-bruno-mars|Marry You]]、[[learning-notes/english-song/love-romance/treasure-bruno-mars|Treasure]]，以及 [[learning-notes/english-song/breakup-loss/catch-a-grenade-bruno-mars|Catch a Grenade]]；本曲是他最「安静」的后悔球。
 - **延伸：** 分手后悔与道歉表达可对照 [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]。

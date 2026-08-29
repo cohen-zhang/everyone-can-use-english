@@ -48,7 +48,7 @@ aliases:
 
 **中文**
 
-**"Everybody Knows"** 是 **Sigrid 为** *Justice League*（2017）**原声带录制的版本**——在片头字幕上播放，由导演 **Joss Whedon** 选定。本笔记以 Apple Music 上的 **Sigrid 版**为准（非 Leonard Cohen 1988 年原版录音）。词作 **Leonard Cohen** 与 **Sharon Robinson**；Sigrid 以更清晰、偏 pop 的演绎呈现，合成器脉冲托底。歌词像一份黑色幽默清单，罗列*人人都懂却不说*的事——内定比赛、漏水的船、不忠的情人——以 *take one last look before it blows* 收尾。
+**"Everybody Knows"** 是 **Sigrid 为** *Justice League*（2017）**原声带录制的版本**——在片头字幕上播放，由导演 **Joss Whedon** 选定。本笔记以 Apple Music 上的 **Sigrid 版**为准（非 Leonard Cohen 1988 年原版录音）。词作 **Leonard Cohen** 与 **Sharon Robinson**；Sigrid 以更清晰、偏流行的演绎呈现，合成器脉冲托底。歌词像一份黑色幽默清单，罗列*人人都懂却不说*的事——内定比赛、漏水的船、不忠的情人——以 *take one last look before it blows* 收尾。
 
 | 项目 | English | 信息 |
 | --- | --- | --- |
@@ -149,7 +149,7 @@ Everybody knows
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 人人都知道骰子做了手脚
 人人都交叉手指掷骰
@@ -160,7 +160,7 @@ Everybody knows
 就是这样
 人人都知道
 
-#### Verse 2
+#### 主歌 2
 
 人人都知道船在漏水
 人人都知道船长撒了谎
@@ -171,7 +171,7 @@ Everybody knows
 和一支长茎玫瑰
 人人都知道
 
-#### Verse 3
+#### 主歌 3
 
 人人都知道你爱我，宝贝
 人人都知道你是真的
@@ -182,7 +182,7 @@ Everybody knows
 而且都不穿衣服
 人人都知道
 
-#### Chorus
+#### 副歌
 
 人人都知道，人人都知道
 就是这样
@@ -191,7 +191,7 @@ Everybody knows
 就是这样
 人人都知道
 
-#### Verse 4
+#### 主歌 4
 
 人人都知道现在是最后机会
 人人都知道是你还是我
@@ -202,7 +202,7 @@ Everybody knows
 为了你的丝带和蝴蝶结
 人人都知道
 
-#### Verse 5
+#### 主歌 5
 
 人人都知道瘟疫要来
 人人都知道它蔓延很快
@@ -213,7 +213,7 @@ Everybody knows
 它会揭露
 人人都知道的事
 
-#### Verse 6
+#### 主歌 6
 
 人人都知道你 trouble 了
 人人都知道你经历了什么

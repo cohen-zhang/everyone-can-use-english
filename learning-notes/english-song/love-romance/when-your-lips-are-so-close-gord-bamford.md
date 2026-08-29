@@ -30,7 +30,7 @@ aliases:
 
 **中文**
 
-**Gord Bamford**（1976 年 4 月 17 日生，澳大利亚 Traralgon）是**澳裔、阿尔伯塔长大**的加拿大**乡村创作歌手**。父母离异后，5 岁随母亲移居阿尔伯塔 **Lacombe**；母亲曾是巡回乡村歌手，鼓励他走音乐路。1995 年在电台选秀中崭露头角，此后以新传统主义（neo-traditional）乡村风格积累口碑。他是加拿大获奖最多的乡村艺人之一，获 **26 座 CCMA 奖**、多次 **JUNO** 提名，并两夺 **CMA 全球乡村艺人奖**。嗓音温厚，擅长用叙事型歌词写日常与感情。
+**Gord Bamford**（1976 年 4 月 17 日生，澳大利亚 Traralgon）是**澳裔、阿尔伯塔长大**的加拿大**乡村创作歌手**。父母离异后，5 岁随母亲移居阿尔伯塔 **Lacombe**；母亲曾是巡回乡村歌手，鼓励他走音乐路。1995 年在电台选秀中崭露头角，此后以新传统主义（新传统）乡村风格积累口碑。他是加拿大获奖最多的乡村艺人之一，获 **26 座 CCMA 奖**、多次 **JUNO** 提名，并两夺 **CMA 全球乡村艺人奖**。嗓音温厚，擅长用叙事型歌词写日常与感情。
 
 ---
 
@@ -108,7 +108,7 @@ Lips are so close
 
 ### 中文翻译 · Chinese Translation
 
-#### Verse 1
+#### 主歌 1
 
 女孩，我就知道是你，这房间一下子更热了
 你走进来，投来那记「旋转」目光（撩人的眼神/姿态）
@@ -116,7 +116,7 @@ Lips are so close
 我用渴切的目光把你「饮」进去
 你 cool 的微笑像让我长饮一口
 
-#### Pre-Chorus / Chorus 1
+#### 预副歌 / 副歌 1
 
 女孩，我想伸手把你搂进怀里
 永不松手，永不松手
@@ -125,7 +125,7 @@ Lips are so close
 离你这么近，嘴唇近在咫尺，却又像够不着
 当你的唇那么近
 
-#### Verse 2
+#### 主歌 2
 
 你或许就在我身旁
 但女孩，感觉我们之间隔了英里
@@ -134,7 +134,7 @@ Lips are so close
 闲聊根本不够
 我等不及你的触碰
 
-#### Chorus 2
+#### 副歌 2
 
 女孩，我想伸手把你搂进怀里
 永不松手，永不松手
@@ -143,7 +143,7 @@ Lips are so close
 离你这么近，嘴唇近在咫尺，却又像够不着
 当你的唇那么近
 
-#### Chorus 3 / Outro
+#### 副歌 3 / 尾声
 
 *(同第二段副歌)*  
 
@@ -174,6 +174,6 @@ Lips are so close
 ## 听歌提示 · Listening Notes
 
 - 副歌 *When your lips are so close* 重复多遍，适合练**连读**：*lips are so close* 常读成连贯的一串音节。
-- Verse 里 **drink you in / thirsty eyes / cool smile** 是典型乡村「感官描写」，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里的 desire 表达。
+- 主歌里 **drink you in / thirsty eyes / cool smile** 是典型乡村「感官描写」，可对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里的 desire 表达。
 - *drives me crazy*、*can't wait*、*gotta* 等缩略在快语速下几乎听不清辅音，建议先慢速跟读再原速。
 - 注意 **so far away** 与 **so close** 的对比重音——两句押韵对立，跟唱时把重音落在 *far* 和 *close* 上更有力。
