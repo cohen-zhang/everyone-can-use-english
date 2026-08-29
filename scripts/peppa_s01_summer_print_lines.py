@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-EP_DIR = REPO / "learning-notes/tv-series/Peppa Pig S01.英文剧本"
+EP_DIR = REPO / "learning-notes/tv-series/peppa-pig/s01/scripts"
 OUT_DIR = REPO / "learning-notes/parenting-english/learning-management/summer-60d-print"
 OUT_FILE = OUT_DIR / "peppa-s01-e01-e45-print-lines.md"
 
@@ -182,15 +182,15 @@ def load_external_glosses() -> dict[str, str]:
                 gloss[eng.rstrip(".?!")] = zh
 
     for rel in (
-        "learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category.md",
-        "learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category.md",
+        "learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category.md",
+        "learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category.md",
         "learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md",
     ):
         p = repo / rel
         if p.exists():
             add_from_table_rows(p.read_text(encoding="utf-8"))
 
-    char_dir = repo / "learning-notes/tv-series/Peppa Pig S01.英文剧本/characters"
+    char_dir = repo / "learning-notes/tv-series/peppa-pig/s01/scripts/characters"
     for md in char_dir.glob("*.md"):
         if md.name == "README.md":
             continue

@@ -14,7 +14,7 @@ aliases:
 **儿歌：** *Are You Sleeping?*（英文版 *Frère Jacques* / *Brother John*）  
 **给 Celine 跟唱用** — 一问一答式叠句；结尾模仿**晨钟** *Ding, dang, dong.*
 
-**相关：** [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]]（身体／日常儿歌）· [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（睡前／星空）· [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]]（*wake up* ↔ *go to sleep*）· [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭规则与作息]]（*bedtime*）· [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]]（身体／日常儿歌）· [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（睡前／星空）· [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]]（*wake up* ↔ *go to sleep*）· [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭规则与作息]]（*bedtime*）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 

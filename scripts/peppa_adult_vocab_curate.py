@@ -16,7 +16,7 @@ if str(_SCRIPT_DIR) not in sys.path:
 from peppa_lemma_zh_data import zh_for_lemma
 
 REPO = Path(__file__).resolve().parent.parent
-DEFAULT_DIR = REPO / "learning-notes/tv-series/Peppa Pig S01.英文剧本"
+DEFAULT_DIR = REPO / "learning-notes/tv-series/peppa-pig/s01/scripts"
 VOCAB_HEADER = "## Episode vocabulary（本集词汇）"
 EMPTY_ADULT_VOCAB_NOTE = "*本集无符合成人向收束标准的词条（剔除后无表内行）。*"
 ADULT_NOTE = (

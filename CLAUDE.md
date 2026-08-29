@@ -33,10 +33,23 @@ pip install -r requirements-tts.txt          # edge TTS helpers
 
 ### Learning Notes (MkDocs)
 
-- MkDocs Material theme with Chinese language support
-- **Custom Python hooks** (`mkdocs_hooks.py`) convert Obsidian-style wikilinks to regular Markdown links, and generate companion pages for transcript `.txt` / scene YAML
-- Content organized in `learning-notes/` with hierarchical structure
+- MkDocs Material theme with Chinese language support; top **tabs** for the six zones (`tv-series`, `english-song`, `parenting-english`, `personal-english-book`, `pronunciation`, `grammar-lab`)
+- **Custom Python hooks** (`mkdocs_hooks.py`) convert Obsidian-style wikilinks to regular Markdown links, generate companion pages for transcript `.txt` / scene YAML, and rename nav folders to Chinese titles
+- Sidebar is slimmed via `not_in_nav` in `mkdocs.yml`: hide `tv-series/**/transcript/**`, Peppa episode scripts, and individual song pages under theme folders (keep theme `README.md` hubs). Leaves remain searchable
 - Built and deployed via [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml) to GitHub Pages
+
+### Where to put new notes
+
+| Content | Directory |
+| --- | --- |
+| Movie / series vocabulary & episode notes | `learning-notes/tv-series/<title>/` |
+| Song notes | `learning-notes/english-song/<theme>/` (kids songs → `celine-kids/`) |
+| Parenting English | `learning-notes/parenting-english/<area>/` |
+| Personal life / work / study materials | `learning-notes/personal-english-book/<area>/` |
+| Pronunciation | `learning-notes/pronunciation/` |
+| Grammar | `learning-notes/grammar-lab/` |
+
+Do not put bulk transcripts or Peppa episode scripts into sidebar-critical hubs; follow existing `transcript/` / `scripts/` layouts so `not_in_nav` keeps applying.
 
 ### Python Scripts
 

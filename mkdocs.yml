@@ -18,9 +18,25 @@ exclude_docs: |
   *.json
   **/.pages
 
-# Keep scene-index transcripts out of the sidebar; song notes are listed under english-song/.
+# Slim sidebar: keep section/theme README hubs; hide bulky leaves (still searchable).
+# Patterns are .gitignore-style (negation with ! is supported).
 not_in_nav: |
-  tv-series/**/transcript/*-scenes.md
+  tv-series/**/transcript/**
+  tv-series/peppa-pig/**/scripts/Peppa.Pig.*.md
+  english-song/breakup-loss/*
+  !english-song/breakup-loss/README.md
+  english-song/love-romance/*
+  !english-song/love-romance/README.md
+  english-song/emotions/*
+  !english-song/emotions/README.md
+  english-song/life-attitude/*
+  !english-song/life-attitude/README.md
+  english-song/relationships/*
+  !english-song/relationships/README.md
+  english-song/celine-kids/children-song/*
+  !english-song/celine-kids/children-song/README.md
+  english-song/celine-kids/classic-books-with-holes/*
+  !english-song/celine-kids/classic-books-with-holes/README.md
 
 theme:
   name: material
@@ -41,9 +57,14 @@ theme:
         icon: material/brightness-4
         name: 切换至浅色
   features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.top
     - navigation.indexes
     - toc.follow
     - content.code.copy
+    - content.action.edit
     - search.suggest
     - search.highlight
 

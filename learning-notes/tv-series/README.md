@@ -42,7 +42,7 @@ aliases:
 | **Finding Nemo**（2003）海底总动员 1 | [[learning-notes/tv-series/finding-nemo/finding-nemo.2003.en.srt\|英文字幕 srt]] · [[learning-notes/tv-series/finding-nemo/finding-nemo.2003.scenes\|场景剧本]] · [[learning-notes/tv-series/finding-nemo/README\|README]] | [[learning-notes/tv-series/finding-nemo/vocabulary\|本片词汇]] |
 | **WALL-E**（2008）机器人总动员 / 机器总动员 1 | [[learning-notes/tv-series/wall-e/wall-e.2008.en.srt\|英文字幕 srt]] · [[learning-notes/tv-series/wall-e/wall-e.2008.scenes\|场景剧本]] · [[learning-notes/tv-series/wall-e/README\|README]] | [[learning-notes/tv-series/wall-e/vocabulary\|本片词汇]] |
 | Modern Family S01 | [[learning-notes/tv-series/modern-family/s01/transcript/README\|transcript]] | [[learning-notes/tv-series/modern-family/s01/notes/README\|notes]] |
-| Peppa Pig S01 | [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README\|英文剧本]] | 各集 `Episode vocabulary` |
+| Peppa Pig S01 | [[learning-notes/tv-series/peppa-pig/s01/scripts/README\|英文剧本]] | 各集 `Episode vocabulary` |
 | A Day in the Life of Jeff | — | [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README\|episode-notes]] |
 
 ---

@@ -13,7 +13,7 @@ aliases:
 **儿歌：** *Head, Shoulders, Knees and Toes*（传统英文身体部位歌）  
 **给 Celine 跟唱用** — 边唱边**从上到下**指身体；可越唱越快，逐轮**省略**部位词练记忆。
 
-**相关：** [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（日常儿歌）· [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|亲子动作动词扩展]]（§2 手脚与肢体 · §3 头面与表情）· [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]] · [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（日常儿歌）· [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|亲子动作动词扩展]]（§2 手脚与肢体 · §3 头面与表情）· [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]] · [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 

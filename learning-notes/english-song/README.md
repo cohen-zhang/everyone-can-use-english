@@ -11,7 +11,7 @@ aliases:
 
 **先读：** [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]] — 歌曲段落（Verse / Chorus）、曲风与主题、歌名里 **feat.** / Remix / Cover 等。
 
-**目录结构：** 按主主题分文件夹（`breakup-loss` 分手·思念、`love-romance` 恋爱、`emotions` 情绪、`life-attitude` 生活态度、`relationships` 关系等）；儿歌仍在 `Celine/`。多标签歌曲按优先级归入一个主文件夹。
+**目录结构：** 按主主题分文件夹（`breakup-loss` 分手·思念、`love-romance` 恋爱、`emotions` 情绪、`life-attitude` 生活态度、`relationships` 关系等）；儿歌在 `celine-kids/`。多标签歌曲按优先级归入一个主文件夹。GitHub Pages 侧栏只显示各主题 README；单曲从本表或主题 README 进入。
 
 **歌词学习方式：** 每首笔记的「歌词」区已拆成 **英文歌词** 与 **中文翻译** 两块——先只看英文跟唱，需要核对意思时再往下看中文，避免大脑偷懒直接读翻译。
 

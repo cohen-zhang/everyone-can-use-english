@@ -139,5 +139,5 @@ Celine 可以回答：“别担心，George。我们会找到他的。”
   George 的姐姐。
 - [[grandpa-pig|Grandpa Pig]] — helps George eat vegetables with a dinosaur trick.  
   用恐龙小办法帮 George 吃蔬菜。
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]] — sad, happy, shy, and worried lines.  
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]] — sad, happy, shy, and worried lines.  
   可搭配练习伤心、开心、害羞和担心。

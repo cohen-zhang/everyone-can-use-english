@@ -20,7 +20,7 @@ cssclasses:
 
 > **给 AI / 检索用速览**：本目录共 **52** 份剧集 Markdown，命名 `Peppa.Pig.S01E{NN}.{Title}.md`；正文为**整集英文台词**（按场景分段），文末（多数集）有 `## Episode vocabulary（本集词汇）` **成人向精简词表**。维护词表与合并正字可执行仓库内 `scripts/peppa_adult_vocab_curate.py`（见下文「自动化」）。
 
-仓库中另存在拼写为 `Peper Pig S01.英文剧本` 的旧路径副本时，**以本目录 `Peppa Pig S01.英文剧本` 为准**。
+规范路径为本目录 `tv-series/peppa-pig/s01/scripts/`（kebab-case）。
 
 ### 给自动化 / RAG 的硬信息（可原样抽取）
 
@@ -37,10 +37,10 @@ cssclasses:
 | 用途 | 建议 |
 | --- | --- |
 | **图谱 / 反向链接** | 将本仓库或 `learning-notes/` 作为库根时，可用 `[[Peppa.Pig.S01E01.Muddy.Puddles]]` 等形式链到单集（文件名在库内唯一时最省事）。若有多套副本，请用**完整相对路径**链到本文件夹下的文件。 |
-| **亲子手记（与本页双向跳转）** | **[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则笔记（不多的 Peppa Pig 手记）]]**：该手记内已链回本说明页 **`[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 README]]`**，图谱与 outgoing / incoming backlinks 会互显；从手记仍可短链跳入各集 **`[[Peppa.Pig.S01ENN…]]`**。 |
-| **问句清单（按沟通意图分类）** | **[[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]**：从全 52 集台词精选高频可复用问句，按请求/许可、意愿/邀请、状态/确认、Wh- 探询等归类，每条标注来源集；与 **[[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单]]** 同文风、可对照复用。 |
-| **情绪词汇/句子（按分类）** | **[[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子（按分类）]]**：从全 52 集台词提取 happy / scared / not well / Don't worry 等情绪词与可跟读句，与 **[[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]]**、**[[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]]** 相向互链。 |
-| **家庭人物讲解（亲子对话）** | **[[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README|Peppa Pig S01 · Family Character Guides]]**：分别介绍 Peppa、George、Mummy Pig、Daddy Pig、Granny Pig、Grandpa Pig、Chloe 与亲戚称呼，按身份、关系、兴趣、食物、好笑场景和亲子 Q&A 组织；与 **[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 手记]]** 相向互链。 |
+| **亲子手记（与本页双向跳转）** | **[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则笔记（不多的 Peppa Pig 手记）]]**：该手记内已链回本说明页 **`[[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 README]]`**，图谱与 outgoing / incoming backlinks 会互显；从手记仍可短链跳入各集 **`[[Peppa.Pig.S01ENN…]]`**。 |
+| **问句清单（按沟通意图分类）** | **[[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]**：从全 52 集台词精选高频可复用问句，按请求/许可、意愿/邀请、状态/确认、Wh- 探询等归类，每条标注来源集；与 **[[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单]]** 同文风、可对照复用。 |
+| **情绪词汇/句子（按分类）** | **[[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子（按分类）]]**：从全 52 集台词提取 happy / scared / not well / Don't worry 等情绪词与可跟读句，与 **[[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]]**、**[[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]]** 相向互链。 |
+| **家庭人物讲解（亲子对话）** | **[[learning-notes/tv-series/peppa-pig/s01/scripts/characters/README|Peppa Pig S01 · Family Character Guides]]**：分别介绍 Peppa、George、Mummy Pig、Daddy Pig、Granny Pig、Grandpa Pig、Chloe 与亲戚称呼，按身份、关系、兴趣、食物、好笑场景和亲子 Q&A 组织；与 **[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 手记]]** 相向互链。 |
 | **暑假 60 天打印学习计划** | **[[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]** + [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|精选台词（E01–E45 打印版）]] + [[learning-notes/parenting-english/learning-management/summer-60d-mom-operation-card|妈妈操作卡]]；与 **[[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|90 天亲子计划]]** 相向互链。 |
 | **亲子词汇扩展（职业／扮装）** | **[[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]** 以 **[[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]** 为示例集；单集文末 **Related** 节与此页 **相向互链**。 |
 | **标签** | 本 README 已设 frontmatter `tags`；若你希望按集打标签，可在单集笔记顶部增加 YAML（示例见下节）。 |
@@ -180,7 +180,7 @@ python3 scripts/peppa_adult_vocab_curate.py --lemma-zh
 
 ```dataview
 LIST file.link
-WHERE contains(file.path, "Peppa Pig S01.英文剧本") AND startswith(file.name, "Peppa.Pig.S01")
+WHERE contains(file.path, "peppa-pig/s01/scripts") AND startswith(file.name, "Peppa.Pig.S01")
 SORT file.name ASC
 ```
 

@@ -42,56 +42,41 @@
 
 ```text
 learning-notes/
-  tv-series/
-    modern-family/
-      s01/
-        transcript/   # 原始台词与转录（txt/md）
-        notes/        # 每集学习笔记（md）
-    a-day-in-the-life-of-jeff/
-      episode-notes/  # Jeff 系列逐集笔记与转录
-
-  grammar-lab/        # 语法学习与语法体系
-  english-song/       # 英文歌曲笔记（Apple Music 播放列表 · 歌词与重点表达）
-
-  parenting-english/  # 亲子场景英语（不多 / Celine）
-    daily-life/               # 日常生活
-    communication-patterns/   # 互动句型
-    vocabulary/               # 主题词汇
-    games-and-activities/     # 游戏与练习
-    school-life/              # 校园与课程
-    learning-management/      # 学习管理
-    reference-guides/         # 索引与说明
-
-  personal-english-book/
-    life/             # 生活主题英语
-    work/             # 工作与职场英语
-    study/            # 学习与技术英语
-    hedging-platform-bos-overview-design/  # 专题技术文档
+  tv-series/              # 美剧与影视（modern-family / peppa-pig / 影片词表等）
+  english-song/           # 英文歌曲（主题夹 + celine-kids 儿歌）
+  parenting-english/      # 亲子英语（daily-life / vocabulary / …）
+  personal-english-book/  # 个人材料书（life / work / study / investing / …）
+  pronunciation/          # 发音
+  grammar-lab/            # 语法
+  index.md                # GitHub Pages 首页
 ```
+
+更细的文件清单以各分区 `README.md` 为准（站点侧栏也以这些索引为主，单曲与字幕 transcript 默认不进侧栏）。
 
 ### 分类说明（英文目录名对应中文）
 
 | 英文目录 | 中文说明 | 典型内容 |
 | --- | --- | --- |
-| `tv-series` | 美剧与情景素材 | `modern-family`、`a-day-in-the-life-of-jeff` |
-| `grammar-lab` | 语法实验室 | 语法体系、语法笔记、语法专项材料 |
-| `english-song` | 英文歌曲笔记 | Apple Music 播放列表、歌词、重点表达与听歌提示 |
-| `parenting-english` | 亲子英语资料库 | 日常场景、词汇表、互动游戏、学习计划与索引 |
-| `daily-life` | 日常生活子类 | 吃饭、穿衣、手机、地铁、情绪、礼仪等 |
-| `communication-patterns` | 互动句型子类 | `Can you` 提问与回应句型 |
-| `vocabulary` | 词汇子类 | 动作、动物、食物、符号、表情词汇 |
-| `games-and-activities` | 游戏练习子类 | 猜词游戏、互动练习、动画笔记 |
-| `school-life` | 校园子类 | 小学课程相关词汇 |
-| `learning-management` | 学习管理子类 | 90天计划、复盘与跟踪 |
-| `reference-guides` | 参考说明子类 | 场景索引、讲解示范文档 |
-| `personal-english-book` | 个人英语材料书 | 生活、工作、学习三大分区 |
-| `life` | 生活场景 | 情绪、天气、社区、日常表达 |
-| `work` | 工作场景 | IM沟通、会议、出差、流程与业务表达 |
-| `study` | 学习场景 | 技术英语、学习日志、术语积累 |
+| `tv-series` | 美剧与影视 | `modern-family`、`peppa-pig`、`a-day-in-the-life-of-jeff`、影片词表 |
+| `english-song` | 英文歌曲 | `breakup-loss`、`love-romance`、`celine-kids` 等 |
+| `parenting-english` | 亲子英语 | `daily-life`、`vocabulary`、`games-and-activities`、`reference-guides` |
+| `personal-english-book` | 个人材料书 | `life`、`work`、`study`、`investing`、`one-minute-drill`、`vocab-story` |
+| `pronunciation` | 发音 | 音标教程、节奏、音节划分 |
+| `grammar-lab` | 语法 | 体系总览、句子分析 |
 
-### 文件列表与中文说明（按目录）
+### 分区索引（代替冗长文件表）
 
-以下清单基于当前 `learning-notes/` 实际文件遍历结果整理。
+- [美剧与影视](learning-notes/tv-series/README.md)
+- [英文歌曲](learning-notes/english-song/README.md)
+- [亲子英语](learning-notes/parenting-english/README.md)
+- [个人材料书](learning-notes/personal-english-book/README.md)
+- [发音](learning-notes/pronunciation/README.md)
+- [语法](learning-notes/grammar-lab/README.md)
+
+<details>
+<summary>历史详细文件表（可折叠，可能滞后于仓库）</summary>
+
+以下为较早整理的文件说明，新增内容请以各区 README 为准。
 
 #### `grammar-lab/`（语法实验室）
 
@@ -267,6 +252,8 @@ learning-notes/
 | `modern-family-s01e02-key-to-being-a-great-dad.md` | S01E02 亲子主题精编对话笔记 |
 | `readme.md` | 本目录索引与使用说明 |
 | `scripts/build-modern-family-s01-md.py` | 批量生成 S01 笔记的脚本 |
+
+</details>
 
 ### 命名与维护规则（简版）
 

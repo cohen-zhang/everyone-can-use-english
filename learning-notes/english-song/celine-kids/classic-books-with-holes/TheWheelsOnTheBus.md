@@ -14,7 +14,7 @@ aliases:
 **Illustrator:** Annie Kubler · **Publisher:** Child's Play International  
 **给 Celine 跟唱用** — 每节重复三次中间行，结尾唱 *All day long.*
 
-**相关：** [[learning-notes/english-song/Celine/ClassicBooksWithHoles/DownByTheStation|Down by the Station]] · [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men in a Flying Saucer]]（同系列）· [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]]（儿歌 *Open Shut Them* 等可一起练动作）· [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/classic-books-with-holes/DownByTheStation|Down by the Station]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men in a Flying Saucer]]（同系列）· [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]]（儿歌 *Open Shut Them* 等可一起练动作）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 
@@ -243,7 +243,7 @@ The wheels on the bus **go** round and round, **all day long**. — 轮子**一�
 
 ### 4 · 和《Five Little Men》对比：现场 vs 讲故事
 
-| | 本歌 *The Wheels on the Bus* | [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men in a Flying Saucer]] |
+| | 本歌 *The Wheels on the Bus* | [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men in a Flying Saucer]] |
 | --- | --- | --- |
 | 时态 | **现在时** go, goes, say, says | **过去时** flew, looked, didn't like |
 | 感觉 | 上车跟唱，动作**正在发生** | *One day* 那天**已经发生过** |

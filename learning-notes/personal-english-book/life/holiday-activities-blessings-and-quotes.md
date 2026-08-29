@@ -18,7 +18,7 @@ aliases:
 
 **相关（纪念日场景）：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年场景英语表达]] — 长期关系里的庆祝与情话，可与本节「纪念日 / 情人节」祝福语对照。
 
-**相关（主题名言 · 扩展）：** [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]] — 非节日向的书面金句，可与本节贺卡名言对照摘抄。
+**相关（主题名言 · 扩展）：** [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]] — 非节日向的书面金句，可与本节贺卡名言对照摘抄。
 
 **相关（财富祝福 · 扩展）：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] — 同类 *May you…* 句式，场景换成持仓与财务自由。
 

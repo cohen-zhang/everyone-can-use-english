@@ -13,7 +13,7 @@ tags:
 **相关（Obsidian · 相向互链）：**
 
 - 本页主案例剧集：**[[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]**（台词全文见该文件；文末 **Related** 节回链本页）。
-- 第一季剧本索引：**[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 README]]**。
+- 第一季剧本索引：**[[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 README]]**。
 - Peppa 与学习手记：**[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则笔记]]**。
 - 学校里「老师、科目」日常：**[[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]**。
 - **真·穿衣** routine（与 *dress up* 扮装对照）：**[[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Getting Dressed in Shenzhen]]**。

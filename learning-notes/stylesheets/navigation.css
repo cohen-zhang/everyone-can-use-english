@@ -9,10 +9,21 @@
   border-left: 1px solid var(--md-default-fg-color--lightest);
 }
 
+/* Cap runaway indent on deep trees (e.g. modern-family/s01/notes). */
+.md-nav--primary .md-nav__list .md-nav__list .md-nav__list .md-nav__list .md-nav__list {
+  margin-left: 0;
+  padding-left: 0.4rem;
+}
+
 .md-nav--primary .md-nav__item .md-nav__link {
   border-radius: 0.25rem;
 }
 
 .md-nav--primary .md-nav__item .md-nav__link:hover {
   background: var(--md-accent-fg-color--transparent);
+}
+
+/* Tabs: clearer current section */
+.md-tabs__link--active {
+  font-weight: 700;
 }

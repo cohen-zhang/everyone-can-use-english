@@ -27,9 +27,9 @@ aliases:
 - 时间反义词 → [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#时间类|正反义词 · 时间类]]
 - 分类游戏时间篮 → [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#11-时间季节与天文--time-seasons--space|分类归类 · §11]]
 - 介词 at / on / in → [[learning-notes/grammar-lab/介词|介词实验室]]
-- *What time is it?* 动画例 → [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E43.My.Birthday.Party|Peppa S01E43]]
-- *Just for a little while*（一会儿）→ [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E04.Best.Friend|Peppa S01E04 Best Friend]]
-- 起床／睡前儿歌 → [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle]]
+- *What time is it?* 动画例 → [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E43.My.Birthday.Party|Peppa S01E43]]
+- *Just for a little while*（一会儿）→ [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E04.Best.Friend|Peppa S01E04 Best Friend]]
+- 起床／睡前儿歌 → [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle]]
 
 ---
 
@@ -75,7 +75,7 @@ aliases:
 | **Is it time for …?** | 到……的时间了吗？ |
 | **It's time for … / It's time to …** | 该……了 |
 
-**动画例：** *What time is it? — It's five o'clock in the morning.*（见 [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E43.My.Birthday.Party|Peppa S01E43]]）
+**动画例：** *What time is it? — It's five o'clock in the morning.*（见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E43.My.Birthday.Party|Peppa S01E43]]）
 
 ### 整点与半点（先练）
 
@@ -227,7 +227,7 @@ Jeff 笔记里有 *6:45 a.m. = quarter to seven* 一类对照（见 [[learning-n
 | 再五分钟就停 | *Five more minutes.*（可设 timer） |
 | 我过一会儿再帮你 | *In a little while.* / *In a minute.* |
 
-**Peppa 原句（过家家当医生）：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E04.Best.Friend|S01E04 Best Friend]]
+**Peppa 原句（过家家当医生）：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E04.Best.Friend|S01E04 Best Friend]]
 
 > Can the patient have a visitor?  
 > **Just for a little while.**  
@@ -367,11 +367,11 @@ Jeff 笔记里有 *6:45 a.m. = quarter to seven* 一类对照（见 [[learning-n
 | 反义词 | [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#时间类\|时间类]] |
 | 分类游戏 | [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#11-时间季节与天文--time-seasons--space\|§11]] |
 | 介词 | [[learning-notes/grammar-lab/介词\|介词实验室]] |
-| Peppa 几点 | [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E43.My.Birthday.Party\|E43]] |
-| Peppa 一会儿 | [[learning-notes/tv-series/Peppa Pig S01.英文剧本/Peppa.Pig.S01E04.Best.Friend\|E04 · *a little while*]] |
+| Peppa 几点 | [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E43.My.Birthday.Party\|E43]] |
+| Peppa 一会儿 | [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E04.Best.Friend\|E04 · *a little while*]] |
 | Jeff 起床／睡前 | [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes\|E01]] · [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e10-ready-for-bed-notes\|E10]] |
 | 节日日历 | [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes\|节日祝福]] |
-| 起床儿歌 | [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping\|Are You Sleeping?]] |
+| 起床儿歌 | [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping\|Are You Sleeping?]] |
 
 **Seasons *in*, days *on*, clock *at*—three layers of time.** — 季节用 in，星期用 on，钟点用 at：时间三层。
 

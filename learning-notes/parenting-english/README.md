@@ -67,7 +67,7 @@ aliases:
 - [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game.md|广义对举词游戏]] — 不止反义词（诗词对举、问答对、进出与新旧等）
 - [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game.md|分类归类游戏]] — 动物/衣服/房间/情绪/学科/电商/词类/句子成分等主题分篮与详表入口
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes.md|Peppa Pig 手记]] — 佩奇 + 外链剧本
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README.md|Peppa Pig 家庭人物讲解]] — Peppa 一家人的身份、关系、爱好、食物、口头禅和亲子 Q&A
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/characters/README.md|Peppa Pig 家庭人物讲解]] — Peppa 一家人的身份、关系、爱好、食物、口头禅和亲子 Q&A
 - [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases.md|蛋仔派对]] — 手游闯关亲子句
 
 ---
@@ -104,10 +104,10 @@ aliases:
 - **个人英文材料书（成人主题 MOC）：** [[learning-notes/personal-english-book/README|个人英文材料书索引]] — 生活 / 工作 / 学习分区与 `peb/*` tags。
 - **情绪（成人版对照）**：[[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ 本目录 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|亲子情绪]]
 - **美剧「吃饭」亲子句**：[[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|摩登家庭 · 吃 / Eat]] ↔ [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]]
-- **Peppa 第一季剧本**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/README.md|Peppa Pig S01 README]]
-- **Peppa 家庭人物讲解**：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README.md|Peppa Pig S01 · Family Character Guides]]
+- **Peppa 第一季剧本**：[[learning-notes/tv-series/peppa-pig/s01/scripts/README.md|Peppa Pig S01 README]]
+- **Peppa 家庭人物讲解**：[[learning-notes/tv-series/peppa-pig/s01/scripts/characters/README.md|Peppa Pig S01 · Family Character Guides]]
 - **节日（活动 + 祝福 + 名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|剧摘 · 夸奖与祝福]]
-- **主题名言（爱情 / 阅读 / 励志 / 健康）：** [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言四主题]] — 可与节日名言、电影台词对照摘抄
+- **主题名言（爱情 / 阅读 / 励志 / 健康）：** [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|经典名言四主题]] — 可与节日名言、电影台词对照摘抄
 
 ---
 

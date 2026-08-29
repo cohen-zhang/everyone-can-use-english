@@ -60,7 +60,7 @@ tags:
 | Are you ready? | 你准备好了吗？ |
 | How do you feel? | 你感觉怎么样？ |
 
-更多见：[[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa S01 问句清单]]
+更多见：[[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa S01 问句清单]]
 
 ---
 
@@ -101,4 +101,4 @@ tags:
 
 - [[learning-notes/parenting-english/learning-management/learning-plan-60d-summer-peppa|暑假 60 天学习计划]]
 - [[learning-notes/parenting-english/learning-management/summer-60d-audio-recording-schedule|阿泽示范朗读录音计划]]
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README|Peppa 家庭人物讲解]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/characters/README|Peppa 家庭人物讲解]]

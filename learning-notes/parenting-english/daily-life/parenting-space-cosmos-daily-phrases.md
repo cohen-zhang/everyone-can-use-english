@@ -18,8 +18,8 @@ aliases:
 - 太阳系与「地球在宇宙哪一环」基础词 — [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab.md|季节月份星座太空]]（与此页 **相向互链**；本页偏**口语场景句**，该页偏**词表与尺度**。）
 - 职业词里的 **astronaut** — [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]]（与此页相向互链。）
 - **兴奋**、追问感受 — [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]（与此页相向互链。）
-- 儿歌 *Five Little Men in a Flying Saucer*（*flying saucer* 跟唱）— [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men — Classic Books with Holes]]（与此页相向互链。）
-- 睡前儿歌 *Twinkle, Twinkle, Little Star*（*star* · *night sky* 跟唱）— [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（与此页 §2 相向互链。）
+- 儿歌 *Five Little Men in a Flying Saucer*（*flying saucer* 跟唱）— [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men — Classic Books with Holes]]（与此页相向互链。）
+- 睡前儿歌 *Twinkle, Twinkle, Little Star*（*star* · *night sky* 跟唱）— [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（与此页 §2 相向互链。）
 
 ---
 

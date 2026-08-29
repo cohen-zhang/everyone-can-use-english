@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]（**方向与空间对** 含 **upstairs ↔ downstairs** 等楼层方向练习）。**按主题归类**（动物、衣服、房间、学科等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类归类游戏 — Category Sorting]] — 与此页相向互链。**时间类**（day/night、today/tomorrow、before/after）可与 [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]] 联练。儿歌 *Are You Sleeping?* 与 *wake up* ↔ *go to sleep* 配对练见 [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]]。
+**（扩展）** 更广义的“对举/对应词”（不只反义）见 [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]（**方向与空间对** 含 **upstairs ↔ downstairs** 等楼层方向练习）。**按主题归类**（动物、衣服、房间、学科等）见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类归类游戏 — Category Sorting]] — 与此页相向互链。**时间类**（day/night、today/tomorrow、before/after）可与 [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]] 联练。儿歌 *Are You Sleeping?* 与 *wake up* ↔ *go to sleep* 配对练见 [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]]。
 
 
 通过正反义词游戏帮助孩子扩展词汇量、理解对比概念，同时增进亲子互动。
@@ -102,7 +102,7 @@ tags:
 | **hold**     | 拿着     | **let go**      | 松开      | Hold the bottle. / Let go. — 拿着瓶子 / 松开手                       |
 | **wake up**  | 醒来     | **go to sleep** | 去睡觉     | Wake up, Celine! / Time to go to sleep. — Celine 起床啦！/ 该睡觉了  |
 
-**（扩展）** 配儿歌 *Are You Sleeping?* 扮 Brother John 装睡、再 *Wake up!* 叫醒，见 [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] — 与此行相向互链。
+**（扩展）** 配儿歌 *Are You Sleeping?* 扮 Brother John 装睡、再 *Wake up!* 叫醒，见 [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] — 与此行相向互链。
 | **stand up** | 站起来    | **sit down**    | 坐下      | Stand up, please. / Sit down on your potty. — 请站起来 / 坐在小马桶上  |
 | **look up**  | 抬头     | **look down**   | 低头      | Look up a little. / Look down at your book. — 稍微抬头 / 低头看书    |
 

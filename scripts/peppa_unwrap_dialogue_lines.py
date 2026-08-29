@@ -142,8 +142,8 @@ def process_file(path: Path) -> str:
 
 def main() -> None:
     bases = [
-        Path(__file__).resolve().parent.parent / "learning-notes/tv-series/Peppa Pig S01.英文剧本",
-        Path(__file__).resolve().parent.parent / "learning-notes/tv-series/Peper Pig S01.英文剧本",
+        Path(__file__).resolve().parent.parent / "learning-notes/tv-series/peppa-pig/s01/scripts",
+        Path(__file__).resolve().parent.parent / "learning-notes/tv-series/peppa-pig/s01/scripts",
     ]
     roots = [r for r in bases if r.is_dir()]
     if not roots:

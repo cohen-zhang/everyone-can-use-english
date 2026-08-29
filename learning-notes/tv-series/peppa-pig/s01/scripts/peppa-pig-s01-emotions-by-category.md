@@ -8,15 +8,15 @@ tags:
 
 # Peppa Pig S01 情绪词汇与句子（按分类）
 
-**索引：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+**索引：** [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 
-从 [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本库]] 52 集台词中提取情绪相关**词汇**与**可跟读句子**，按与 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子英文表达]]、[[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]] 一致的分类体系整理。OCR 笔误已规范为自然英文；去重后保留最具代表性的例句与来源集。
+从 [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本库]] 52 集台词中提取情绪相关**词汇**与**可跟读句子**，按与 [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子英文表达]]、[[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]] 一致的分类体系整理。OCR 笔误已规范为自然英文；去重后保留最具代表性的例句与来源集。
 
 **相关（相向互链）：**
 
 - 亲子情绪表达（问感受、安慰、基础形容词）— [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子英文表达]]
 - 成人情绪档位（Very Pleasant ↔ Very Unpleasant）— [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]]
-- 问句清单 — [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]
+- 问句清单 — [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]
 - 情绪分篮归类 — [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]
 
 > 来源列为剧集 wikilink（同一句多次出现时取最具代表性的一集）。
@@ -281,9 +281,9 @@ tags:
 
 ## 相关
 
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 - [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子英文表达]]
 - [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 · 成人版]]
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（按沟通意图分类）]]
 - [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则亲子笔记]]

@@ -14,7 +14,7 @@ aliases:
 **儿歌：** *Twinkle, Twinkle, Little Star*（传统英文摇篮曲；旋律同 *Baa, Baa, Black Sheep*、*The Alphabet Song*）  
 **给 Celine 跟唱用** — 睡前看夜空；开头结尾重复 **twinkle**；中间用 **wonder** 发问、**diamond** 打比方。
 
-**相关：** [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]]（日常儿歌）· [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men in a Flying Saucer]] · [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/星空亲子口语]]（*star* · *night sky*）· [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭规则与作息]]（睡前）· [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]]（日常儿歌）· [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men in a Flying Saucer]] · [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/星空亲子口语]]（*star* · *night sky*）· [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭规则与作息]]（睡前）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 

@@ -12,7 +12,7 @@ tags:
 
 # Peppa Pig S01 · Family Character Guides
 
-**索引：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+**索引：** [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 
 These guides introduce Peppa's family in simple parent-child English.  
 这些文档用简单亲子英文介绍 Peppa 的一家人，方便边看动画边讲解、提问和对话。
@@ -91,7 +91,7 @@ Example pattern:
   亲子侧 Peppa 入口。
 - [[learning-notes/parenting-english/README|亲子英文材料索引]] — parenting English hub.  
   亲子英文总索引。
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单]] — reusable questions for family conversations.  
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单]] — reusable questions for family conversations.  
   可复用的亲子问句。
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]] — emotion words for character talks.  
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]] — emotion words for character talks.  
   聊人物性格和情绪时可搭配使用。

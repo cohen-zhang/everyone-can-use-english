@@ -5,49 +5,37 @@ search:
 
 # 学习笔记站点
 
-本站由 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 从本仓库 `learning-notes/` 构建，便于在浏览器中阅读、搜索与目录导航。
+本站由 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 从本仓库 `learning-notes/` 构建。
 
-上游开源内容（《人人都能用英语》、一千小时等）已从本仓库独立出去，请通过根目录 [README 链接映射](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射) 或下方外链阅读。
+顶栏为六大分区；侧栏以各区 **README 索引** 为主。单曲、字幕 transcript、Peppa 分集剧本等叶子页仍可搜索打开，但不塞满侧栏。
 
-## 入口
+上游《人人都能用英语》等请见根目录 [README 链接映射](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射)。
 
-- [亲子英文资料库（索引）](parenting-english/README.md)
-- [个人英文材料书（MOC）](personal-english-book/README.md)
-- [发音资料（索引）](pronunciation/README.md) — [完整教程](pronunciation/english-phonetics-textbook.md) · [句子节奏](pronunciation/sentence-rhythm-by-type.md) · [工程师音标速查](pronunciation/engineer-phonetics-reference.md) · [音节划分与重音](pronunciation/syllable-division-ipa-based.md) · [音标输入](pronunciation/phonetics-input-guide.md) · [电影随记](pronunciation/world-cinema-quick-notes.md)
-- [语法实验室（索引）](grammar-lab/README.md) — [英语语言单位分类](grammar-lab/english-language-taxonomy.md) · [语法体系总览](grammar-lab/english-grammar-system-overview-yingyutu.md)
-- [英文歌曲（索引）](english-song/README.md) — Apple Music 播放列表 109 首 · 歌词与重点表达（左侧菜单可展开全部歌曲）
+## 六大入口
 
-左侧目录为全库页面树（含英文歌曲各篇）；站内搜索支持中英文关键词。
+| 分区 | 说明 | 入口 |
+| --- | --- | --- |
+| 美剧与影视 | 影片词表、Modern Family、Peppa、Jeff 等 | [tv-series](tv-series/README.md) |
+| 英文歌曲 | 主题索引 + 播放列表总表；单曲从索引进入 | [english-song](english-song/README.md) |
+| 亲子英语 | 日常场景、词汇、游戏、学习计划 | [parenting-english](parenting-english/README.md) |
+| 个人材料书 | 生活 / 工作 / 学习 / 投资等 | [personal-english-book](personal-english-book/README.md) |
+| 发音 | 音标、节奏、音节与输入 | [pronunciation](pronunciation/README.md) |
+| 语法 | 体系总览与句子分析 | [grammar-lab](grammar-lab/README.md) |
 
----
+### 快捷链
 
-## 《人人都能用英语》（上游）
+- 发音：[完整教程](pronunciation/english-phonetics-textbook.md) · [句子节奏](pronunciation/sentence-rhythm-by-type.md) · [工程师音标速查](pronunciation/engineer-phonetics-reference.md) · [音标输入](pronunciation/phonetics-input-guide.md)
+- 语法：[语言单位分类](grammar-lab/english-language-taxonomy.md) · [语法体系总览](grammar-lab/english-grammar-system-overview-yingyutu.md)
+- 歌曲：[音乐基础](english-song/music-english-song-basics.md) · [儿歌·亲子](english-song/celine-kids/README.md)
+- 影视：[看电影学英语](tv-series/how-to-learn-english-from-movies.md) · [Peppa](tv-series/peppa-pig/README.md) · [摩登家庭](tv-series/modern-family/README.md)
 
-李笑来 · 阅读请打开上游仓库，不在本站镜像。
+## 上游阅读（外链）
 
-### 正文
+李笑来《人人都能用英语》不在本站镜像：[上游 book/](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/README.md) · [一千小时](https://1000h.org/intro.html) · [Enjoy](https://enjoy.bot)
 
-| 章节 | 链接 |
-| --- | --- |
-| 简介与前言 | [README / 目录](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/README.md) |
-| 第一章：起点 | [chapter1](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter1.md) |
-| 第二章：口语 | [chapter2](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter2.md) |
-| 第三章：语音 | [chapter3](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter3.md) |
-| 第四章：朗读 | [chapter4](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter4.md) |
-| 第五章：词典 | [chapter5](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter5.md) |
-| 第六章：语法 | [chapter6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter6.md) |
-| 第七章：精读 | [chapter7](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter7.md) |
-| 第八章：叮嘱 | [chapter8](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md) |
-| 后记 | [end](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/end.md) |
-
-### 相关站点
-
-- [一千小时](https://1000h.org/intro.html)
-- [Enjoy](https://enjoy.bot)
-
----
+完整章节表见仓库根 [README](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射)。
 
 ## 说明
 
-- 笔记中部分 **Obsidian** 语法（如个别嵌入图片）在网页中可能与桌面端显示不一致；以仓库内 Markdown 源文件为准。
-- 仓库根目录的 `README.md` 含完整目录说明与上游链接映射。
+- 部分 Obsidian 语法在网页中可能与桌面端不一致；以仓库内 Markdown 为准。
+- 新增笔记：按内容放入上表对应分区；`tv-series/**/transcript/**` 与歌曲主题下单曲默认不进侧栏（见 `mkdocs.yml` 的 `not_in_nav`）。

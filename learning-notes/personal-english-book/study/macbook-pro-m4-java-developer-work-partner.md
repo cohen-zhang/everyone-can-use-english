@@ -10,7 +10,7 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者工作日记]] · [[learning-notes/personal-english-book/parenting-english/what-does-daddy-do-software-engineer.md|爸爸是软件工程师（亲子说明）]]
+**相关：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者工作日记]] · [[learning-notes/parenting-english/reference-guides/what-does-daddy-do-software-engineer.md|爸爸是软件工程师（亲子说明）]]
 
 ---
 

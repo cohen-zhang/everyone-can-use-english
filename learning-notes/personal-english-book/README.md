@@ -153,8 +153,8 @@ cssclasses:
 ## parenting（成人向亲子自述）
 
 - [[learning-notes/personal-english-book/parenting-self-talk-phrases.md|家长自说自话用语]]
-- [[learning-notes/personal-english-book/parenting-english/what-does-daddy-do-software-engineer.md|爸爸是软件工程师]]
-- [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]]
+- [[learning-notes/parenting-english/reference-guides/what-does-daddy-do-software-engineer.md|爸爸是软件工程师]]
+- [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|经典名言 · 爱情 / 阅读 / 励志 / 健康]]
 
 ---
 
@@ -167,9 +167,9 @@ cssclasses:
 
 ## 主题互链（便于图谱跳转）
 
-- **纪念日 ↔ 情歌 ↔ 电影 ↔ 经典名言：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年]] ↔ [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌]] ↔ [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影台词]] ↔ [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|爱情等主题名言]]。
+- **纪念日 ↔ 情歌 ↔ 电影 ↔ 经典名言：** [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes|结婚十周年]] ↔ [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌]] ↔ [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影台词]] ↔ [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|爱情等主题名言]]。
 - **夸奖（剧摘 ↔ 纪念场景）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/personal-english-book/life/10th-wedding-anniversary-scenes.md|结婚十周年]]。
-- **节日（活动 + 祝福 + 名言 ↔ 剧摘祝福 ↔ 主题名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/personal-english-book/parenting-english/classic-quotes-love-reading-inspiration-health|爱情 / 阅读 / 励志 / 健康名言]]。
+- **节日（活动 + 祝福 + 名言 ↔ 剧摘祝福 ↔ 主题名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|爱情 / 阅读 / 励志 / 健康名言]]。
 - **财富祝福 ↔ 金融词表：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]（11 句原版 ↔ 30 词扩充）。
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
 - **语音教程 ↔ 速查 ↔ 音节重音：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] ↔ [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] ↔ [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]（见 [[learning-notes/pronunciation/README|发音资料索引]]）。

@@ -7,9 +7,9 @@ tags:
 
 # Peppa Pig S01 问句清单（按沟通意图分类）
 
-**索引：** [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+**索引：** [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 
-从 [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本库]] 52 集台词中提取高频、可直接开口复用的问句，按**沟通意图**归类，便于亲子跟读与场景套用。
+从 [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本库]] 52 集台词中提取高频、可直接开口复用的问句，按**沟通意图**归类，便于亲子跟读与场景套用。
 仿照 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单]] 的结构：英 + 简中 + 来源集（去重、合并了相似句，OCR 笔误已规范为自然英文）。
 
 > 来源列为剧集 wikilink（同一句多次出现时取最具代表性的一集）。
@@ -140,8 +140,8 @@ tags:
 
 ## 相关
 
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子（按分类）]]
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子（按分类）]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 - [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子英文问句分类清单（沟通意图）]]
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts|提问句 — Can you / Are you / Will you]]
 - [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则亲子笔记]]

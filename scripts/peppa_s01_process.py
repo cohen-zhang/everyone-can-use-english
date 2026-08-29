@@ -13,7 +13,7 @@ from typing import List, Sequence, Tuple
 SCRIPT_DIR = Path(__file__).resolve().parent
 OCR_IL_TSV = SCRIPT_DIR / "peppa_s01_ocr_il.tsv"
 
-DEFAULT_DIR = SCRIPT_DIR.parent / "learning-notes/tv-series/Peper Pig S01.英文剧本"
+DEFAULT_DIR = SCRIPT_DIR.parent / "learning-notes/tv-series/peppa-pig/s01/scripts"
 
 EPISODE_ZH = {
     "Muddy Puddles": "泥坑",

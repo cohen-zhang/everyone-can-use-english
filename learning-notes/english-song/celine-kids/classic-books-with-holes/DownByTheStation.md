@@ -14,7 +14,7 @@ aliases:
 **Illustrator:** Jess Stockham · **Publisher:** Child's Play International  
 **给 Celine 跟唱用** — 清晨车站边，六种交通工具**排成一排**出发；每节结尾 *And off we go!*
 
-**相关：** [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men in a Flying Saucer]]（同系列）· [[learning-notes/english-song/Celine/ChildrenSong/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/Celine/ChildrenSong/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/Celine/ChildrenSong/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases|地铁/公交场景口语]] · [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men in a Flying Saucer]]（同系列）· [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases|地铁/公交场景口语]] · [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 
@@ -226,7 +226,7 @@ Busy buses 排成排；司机喊乘客上车——嗡！出发！
 
 ## 时态说明 · Tense in the lyrics
 
-像在描述**每天早上车站边正在发生**的一幕，动词以**一般现在时**为主（与 [[learning-notes/english-song/Celine/ClassicBooksWithHoles/TheWheelsOnTheBus|The Wheels on the Bus]] 同类）。
+像在描述**每天早上车站边正在发生**的一幕，动词以**一般现在时**为主（与 [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] 同类）。
 
 ### 1 · 时间标志：Early in the morning
 
@@ -254,7 +254,7 @@ Busy buses 排成排；司机喊乘客上车——嗡！出发！
 
 ### 4 · 和《Five Little Men》对比
 
-| | 本歌 *Down by the Station* | [[learning-notes/english-song/Celine/ClassicBooksWithHoles/FiveLittleMen|Five Little Men]] |
+| | 本歌 *Down by the Station* | [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men]] |
 | --- | --- | --- |
 | 时态 | **现在时** see, pull, calling, off we go | **过去时** flew, looked, came back |
 | 感觉 | 清晨车站**正在热闹** | *One day* **已经发生过**的事 |

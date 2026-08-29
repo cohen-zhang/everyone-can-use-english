@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相向互链：** [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|90 天亲子英文计划]] · [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+**相向互链：** [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|90 天亲子英文计划]] · [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 
 面向 **阿泽** 与 **不多（Celine）** 的暑假方案：老家白天约 **2.5 小时**（妈妈陪读），晚间 **45–60 分钟**（阿泽远程口语）。主线 **Peppa S01 E01–E30**，每集 **2 天**（新学 + 复习）。`亲子`
 
@@ -49,7 +49,7 @@ tags:
 ### 上午（约 90 min）— 妈妈
 
 1. 听 + 读精选台词（25 min）
-2. 人物卡问答（20 min）— [[learning-notes/tv-series/Peppa Pig S01.英文剧本/characters/README|家庭人物讲解]]
+2. 人物卡问答（20 min）— [[learning-notes/tv-series/peppa-pig/s01/scripts/characters/README|家庭人物讲解]]
 3. 游戏 / 词汇（25 min）— [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词]]、[[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|分类]]、[[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|动物猜猜猜]]
 4. 录音发群（10 min）
 5. 休息（10 min）
@@ -66,7 +66,7 @@ tags:
 | --- | --- | --- |
 | 热身 | 5 min | 听录音 + 复习 3 句旧句 |
 | 跟读 | 15 min | 当天精选台词 shadowing |
-| 问答 | 15 min | [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-question-bank-by-category|问句清单]] 5–8 题 + 人物卡 2 题 |
+| 问答 | 15 min | [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|问句清单]] 5–8 题 + 人物卡 2 题 |
 | 角色扮演 | 10 min | Catchphrases + 当天 3 句 |
 | 收尾 | 5 min | 明日 5 句写入复习表 D0 |
 
@@ -104,21 +104,21 @@ tags:
 | 13 | E07 Mummy Pig at Work | 新学 | P1 | [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家规与作息]] / [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases|餐桌礼仪]] | 跟读+问答 |
 | 14 | E07 Mummy Pig at Work | 复习 | P1 | [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家规与作息]] / [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases|餐桌礼仪]] | 角色扮演+复述 |
 | 15 | E08 Camping | 新学 | P1 | [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家规与作息]] / [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases|餐桌礼仪]] | 跟读+问答 |
-| 16 | E08 Camping | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 17 | E09 Gardening | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 18 | E09 Gardening | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 19 | E10 Bicycles | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 20 | E10 Bicycles | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 21 | E11 The New Car | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 22 | E11 The New Car | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 23 | E12 Snow | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 24 | E12 Snow | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 25 | E13 Flying a Kite | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 26 | E13 Flying a Kite | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 27 | E14 My Cousin Chloe | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 28 | E14 My Cousin Chloe | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
-| 29 | E15 Daddy Loses his Glasses | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
-| 30 | E15 Daddy Loses his Glasses | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/Peppa Pig S01.英文剧本/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 16 | E08 Camping | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 17 | E09 Gardening | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 18 | E09 Gardening | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 19 | E10 Bicycles | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 20 | E10 Bicycles | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 21 | E11 The New Car | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 22 | E11 The New Car | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 23 | E12 Snow | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 24 | E12 Snow | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 25 | E13 Flying a Kite | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 26 | E13 Flying a Kite | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 27 | E14 My Cousin Chloe | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 28 | E14 My Cousin Chloe | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
+| 29 | E15 Daddy Loses his Glasses | 新学 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 跟读+问答 |
+| 30 | E15 Daddy Loses his Glasses | 复习 | P2 | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪 · 亲子]] + [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa 情绪句]] | 角色扮演+复述 |
 | 31 | E16 Hiccups | 新学 | P3 | [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]] / [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业启动]] | 跟读+问答 |
 | 32 | E16 Hiccups | 复习 | P3 | [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]] / [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业启动]] | 角色扮演+复述 |
 | 33 | E17 Picnic | 新学 | P3 | [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]] / [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业启动]] | 跟读+问答 |
@@ -243,7 +243,7 @@ tags:
 ## Related
 
 - [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|90 天亲子英文计划]]
-- [[learning-notes/tv-series/Peppa Pig S01.英文剧本/README|Peppa Pig S01 剧本说明]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 剧本说明]]
 - [[learning-notes/parenting-english/learning-management/summer-60d-mom-operation-card|妈妈操作卡]]
 - [[learning-notes/parenting-english/learning-management/summer-60d-audio-recording-schedule|示范朗读录音计划]]
 - [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|Peppa S01 精选台词（打印）]]
