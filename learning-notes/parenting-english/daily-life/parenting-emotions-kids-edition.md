@@ -23,6 +23,7 @@ aliases:
 - 太空话题聊得太兴奋、要收束睡觉时 — [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases.md|宇宙/航天/黑洞/外星人/UFO — 亲子口语]]（§8 *When to pause*；与此页相向互链。）
 - **情绪分篮归类**（开心类／难过类／身体感受）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#4-情绪--emotions|分类归类游戏 · 情绪]]（与此页相向互链）。
 - **面部表情动作**（smile, frown, nod, cry 等动词）— [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#3-头面与表情--face-head--expressions|动作动词 — 分类总表 §3]]（与此页相向互链）。
+- 沪教牛津英语三上 **Unit 1 How do we feel?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u01-how-do-we-feel|三上 U1 核心词句]]（与此页相向互链）。
 - **Peppa S01 台词情绪语料**（按分类的可跟读例句，happy / scared / not well / Don't worry 等）— [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-emotions-by-category|Peppa Pig S01 情绪词汇与句子]]（与此页 **相向互链**；Cross-reference 节对照本页各 §）。
 
 ---

@@ -20,6 +20,8 @@ tags:
 
 **相关：** **理发**（出门去理发店、发型沟通、过程安抚）— [[learning-notes/parenting-english/daily-life/parenting-haircut-daily-phrases.md|理发 — Haircut (Boys & Girls)]]（与此页相向互链）。
 
+**相关：** 沪教牛津三下 **Unit 3 What do we wear?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 核心词句]]；三上 **Unit 7 What do we know about weather?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 核心词句]]；四上 **Unit 5 How are the seasons different?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u05-how-are-the-seasons-different|四上 U5 核心词句]]（与此页相向互链）。
+
 ---
 
 ## 1. 早上穿衣 — Getting Dressed in the Morning

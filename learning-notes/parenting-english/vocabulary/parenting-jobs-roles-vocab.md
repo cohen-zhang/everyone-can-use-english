@@ -16,6 +16,7 @@ tags:
 - 第一季剧本索引：**[[learning-notes/tv-series/peppa-pig/s01/scripts/README|Peppa Pig S01 README]]**。
 - Peppa 与学习手记：**[[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa Pig 与几则笔记]]**。
 - 学校里「老师、科目」日常：**[[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]**。
+- 沪教牛津四上 **Unit 8 What do our grandparents do?** 课本进度对照：**[[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u08-what-do-our-grandparents-do|四上 U8 核心词句]]**。
 - **真·穿衣** routine（与 *dress up* 扮装对照）：**[[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Getting Dressed in Shenzhen]]**。
 - **梳妆**（本集中有玩 *make-up*，可与真实仪容习惯对比）：**[[learning-notes/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮 — Girl Version]]**。
 - **拿起／穿上／脱下** 等动作句：**[[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]**。

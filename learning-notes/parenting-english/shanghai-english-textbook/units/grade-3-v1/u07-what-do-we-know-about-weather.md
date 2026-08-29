@@ -1,0 +1,71 @@
+---
+tags:
+  - parenting-english
+  - parenting/school-life
+  - textbook/shanghai
+  - textbook/unit
+aliases:
+  - 沪教三上 U7
+  - What do we know about weather
+---
+
+# Unit 7 · What do we know about weather? — 核心词句
+
+**册别：** 三年级上 · Unit 7  
+**中文理解：** 关于天气我们知道什么？
+
+**夹索引：** [[learning-notes/parenting-english/shanghai-english-textbook/README|沪教牛津版英语目录]]  
+**册目录：** [[learning-notes/parenting-english/shanghai-english-textbook/grade-3-volume-1-toc|三年级上册目录]]  
+**总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
+
+**扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣与天气]]
+
+---
+
+## 1. 核心句型 — Key patterns
+
+| Pattern | 中文 | 例句（可跟读） |
+| --- | --- | --- |
+| What's the weather like today? | 今天天气怎么样？ | It's sunny. / It's rainy. |
+| How's the weather? | 天气怎么样？ | How's the weather? — It's cloudy. |
+| It's … | 天气…… | It's hot. / It's windy. |
+| I like … weather. | 我喜欢……的天气 | I like sunny weather. |
+| We can go out when it's … | ……的时候我们可以出门 | We can go out when it's sunny. |
+
+## 2. 单词 — Words
+
+| Word | 中文 | 亲子提示 |
+| --- | --- | --- |
+| **weather** | 天气 |  |
+| **sunny** | 晴朗的 | sun |
+| **cloudy** | 多云的 | cloud |
+| **rainy** | 下雨的 | rain |
+| **windy** | 有风的 | wind |
+| **hot** | 热的 |  |
+| **cool** | 凉爽的 |  |
+| **cold** | 冷的 |  |
+| **today** | 今天 |  |
+| **hat** | 帽子 | wear a hat |
+| **plant** | 植物 | have a big harvest 拓展 |
+| **very** | 非常 | very hot |
+
+## 3. 词组 — Phrases
+
+| Phrase | 中文 | 例句 |
+| --- | --- | --- |
+| **What's the weather like?** | 天气怎么样？ |  |
+| **It's sunny / rainy / windy** | 晴／雨／有风 |  |
+| **go out** | 出去 | Let's go out. |
+| **have a big harvest** | 获得大丰收 | 拓展课文短语 |
+
+## 4. 亲子练一句 — At home with Celine
+
+- **What's the weather like in Shenzhen today?** — 深圳今天天气怎么样？ `亲子`
+- **It's sunny. Let's go out!** — 很晴。我们出门吧！ `亲子`
+- **Wear a hat when it's hot.** — 天热时戴帽子。 `亲子`
+
+---
+
+## 来源说明
+
+沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。

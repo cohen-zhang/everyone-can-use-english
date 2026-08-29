@@ -22,6 +22,7 @@ aliases:
 - 收拾时按色分类 → [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]
 - 穿衣配色 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常]] · [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases|夸奖赞美]]
 - 材质／形状（和颜色一起描述物品）→ [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|材质 · 形状 · 维度]]
+- 沪教牛津三下 **Unit 5 Where can we see colours?** → [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u05-where-can-we-see-colours|三下 U5 核心词句]]
 
 ---
 

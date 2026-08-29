@@ -8,6 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+**相关：** 沪教牛津四上 **Unit 2 Where do animals live?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u02-where-do-animals-live|四上 U2 核心词句]]；三上 **Unit 6 What do we like about small animals?** — [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u06-what-do-we-like-about-small-animals|三上 U6 核心词句]]。
 
 ## 本页在做什么
 

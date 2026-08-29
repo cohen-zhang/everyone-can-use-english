@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关（Obsidian · 相向互链）：** 美剧台词向「吃饭」亲子句 — [[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat（摩登家庭 S01）]]。**食物分篮**（主食／蔬菜／水果等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#6-食物--food|分类归类游戏 · 食物]]。**数量词**（**pinch / handful / two apples and one pomelo** 等）— [[learning-notes/grammar-lab/量词|量词实验室 · 按场景查表]]。
+**相关（Obsidian · 相向互链）：** 美剧台词向「吃饭」亲子句 — [[learning-notes/tv-series/modern-family/s01/notes/parenting-eating-daily-phrases.md|吃 / Eat（摩登家庭 S01）]]。**食物分篮**（主食／蔬菜／水果等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#6-食物--food|分类归类游戏 · 食物]]。**数量词**（**pinch / handful / two apples and one pomelo** 等）— [[learning-notes/grammar-lab/量词|量词实验室 · 按场景查表]]。沪教牛津三上 **Unit 5 What do we eat?** / 四上 **Unit 4 What do we buy?** → [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u05-what-do-we-eat|三上 U5 词句]] · [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u04-what-do-we-buy|四上 U4 词句]]。
 
 **音标：**加粗词条后附有 **美式 IPA**（`/…/`，可查 Merriam-Webster）；菜名含粤语拼音／专名时在行内括号补读法。**义项很长**者只保留最常用一读。
 

@@ -78,6 +78,15 @@ aliases:
 
 ---
 
+## shanghai-english-textbook — 沪教版英语（上海教育出版社）
+
+- [[learning-notes/parenting-english/shanghai-english-textbook/README|沪教版英语目录]] — 沪教牛津（六三制一起 · 2024 · 广深用）夹索引；含 **24 单元核心词句**入口
+- [[learning-notes/parenting-english/shanghai-english-textbook/grade-3-volume-1-toc|三年级上册目录]] — Unit 1–8 + 词句笔记
+- [[learning-notes/parenting-english/shanghai-english-textbook/grade-3-volume-2-toc|三年级下册目录]] — Unit 1–8 + 词句笔记
+- [[learning-notes/parenting-english/shanghai-english-textbook/grade-4-volume-1-toc|四年级上册目录]] — Unit 1 Where do people live? … Unit 8 + 词句笔记
+
+---
+
 ## communication-patterns — 口语模式
 
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md|Can you 提示句]] — 提示集

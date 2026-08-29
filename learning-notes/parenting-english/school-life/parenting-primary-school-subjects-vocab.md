@@ -20,6 +20,8 @@ tags:
 
 **相关：** **放学几点、第几节、deadline、星期几交作业** 等时间说法总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#6-作息与学校日程摘要--routines--school|时间表达汇总 · 学校日程]]。
 
+**相关：** **沪教版（上海教育出版社）英语课本单元目录** — [[learning-notes/parenting-english/shanghai-english-textbook/README|沪教版英语目录]]（[[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u07-what-do-we-do-at-school|三下 U7 What do we do at school?]] · [[learning-notes/parenting-english/shanghai-english-textbook/grade-3-volume-1-toc|三上]] · [[learning-notes/parenting-english/shanghai-english-textbook/grade-4-volume-1-toc|四上]]；与此页相向互链：此处讲科目与在校说法，彼处讲课本 Unit 进度与词句）。
+
 ---
 
 ## 1. 学年与学期 — The School Year

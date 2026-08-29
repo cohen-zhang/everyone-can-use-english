@@ -11,7 +11,7 @@ tags:
 
 面向**国内城市亲子日常**：用英语聊「喜欢做什么、上什么兴趣班、周末玩什么」，涵盖中国家庭里**常见但不说教**的表达。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 
-**相关：** 平板手游 **蛋仔派对（Eggy Party）** 的开玩、过关、组队与屏幕时间句 — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对 — Eggy Party]]（与此页相向互链）。**How often / twice a week / ninety-minute slots** 等频率说法总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#5-多频多久一次--frequency|时间表达汇总 · 多频]]。
+**相关：** 平板手游 **蛋仔派对（Eggy Party）** 的开玩、过关、组队与屏幕时间句 — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对 — Eggy Party]]（与此页相向互链）。**How often / twice a week / ninety-minute slots** 等频率说法总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#5-多频多久一次--frequency|时间表达汇总 · 多频]]。沪教牛津三上 **Unit 4 How do we have fun?** / 三下 **Unit 1 How do we spend our free time?** → [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 词句]] · [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u01-how-do-we-spend-our-free-time|三下 U1 词句]]。
 
 ---
 

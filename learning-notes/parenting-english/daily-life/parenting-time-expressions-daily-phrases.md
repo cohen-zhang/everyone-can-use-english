@@ -21,6 +21,7 @@ aliases:
 - 家庭钟点作息 → [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]
 - 一日叙事 → [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine|不多的一天（上）]] · [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2|（下）]]
 - 学校一日／截止 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|小学课程与在校日常]]
+- 沪教牛津英语四上 **Unit 3 How do we use numbers?** / **Unit 5 How are the seasons different?** → [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u03-how-do-we-use-numbers|四上 U3 词句]] · [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u05-how-are-the-seasons-different|四上 U5 词句]]
 - 作业时长／九点前打卡 → [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|家庭作业打卡]]
 - 兴趣班频率 → [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|爱好 — 国内常见场景]]
 - 钟／闹钟／计时器 → [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en|儿童房物品 · Clock·Alarm·Timer]]

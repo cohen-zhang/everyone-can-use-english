@@ -37,6 +37,8 @@ not_in_nav: |
   !english-song/celine-kids/children-song/README.md
   english-song/celine-kids/classic-books-with-holes/*
   !english-song/celine-kids/classic-books-with-holes/README.md
+  # Keep shanghai-english-textbook hubs (README + grade TOCs); hide per-unit leaves (still searchable).
+  parenting-english/shanghai-english-textbook/units/**
 
 theme:
   name: material
