@@ -66,6 +66,33 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（Grandparents' daily life）与 **Extend**（The Double Ninth Festival）原文 + 简中对照。
+
+### Explore · Grandparents' daily life
+
+> **Junjun and his sister are at their grandparents' house.** — 君君和妹妹在祖父母家。  
+> **Grandma and Junjun go shopping on Sundays.** — 奶奶和君君星期天去购物。  
+> **Grandpa has lots of plants. He likes gardening.** — 爷爷有很多植物。他喜欢园艺。  
+> **Grandpa often does tai chi in the park with his friends.** — 爷爷经常在公园和朋友打太极。  
+> **In the evening, Grandma shows us her food vlog.** — 晚上，奶奶给我们看她的美食视频。
+
+**Think（课本问）：** What do Junjun's grandparents like doing? — 购物、园艺、太极、拍美食 vlog。
+
+---
+
+### Extend · The Double Ninth Festival
+
+> **The Double Ninth Festival is a special day for families to get together with grandparents.** — 重阳节是家人和祖父母团聚的特别日子。  
+> **Families climb mountains on the Double Ninth Festival.** — 重阳节家人一起登山。  
+> **People drink flower tea and eat Chongyang cakes.** — 人们喝菊花茶、吃重阳糕。  
+> **Children visit their grandparents and bring them gifts.** — 孩子们看望祖父母并带礼物。
+
+**Think（课本问）：** What do you want to do with your grandparents on the next Double Ninth Festival? — 下一个重阳节你想和祖父母做什么？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 8 Explore / Extend** 课文原文（Grandparents' daily life · The Double Ninth Festival）+ 公开教辅句型词汇；以家中实体书为准核对。

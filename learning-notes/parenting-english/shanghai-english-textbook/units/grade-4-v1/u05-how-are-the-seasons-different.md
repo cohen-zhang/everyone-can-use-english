@@ -66,6 +66,32 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（The four seasons）与 **Extend**（Arnold's apple tree）原文 + 简中对照。
+
+### Explore · The four seasons
+
+> **In spring, it gets warm. The rain helps plants grow.** — 春天变暖。雨帮助植物生长。  
+> **In summer, it gets hot. Days are long and nights are short. The sun helps fruit and flowers grow.** — 夏天变热。昼长夜短。太阳帮助果实和花朵生长。  
+> **In autumn, it gets cool. Leaves turn red, yellow and orange. Leaves fall.** — 秋天变凉。叶子变红、黄、橙。叶子落下。  
+> **In winter, it gets cold. Days are short and nights are long. It often snows. Many trees don't have leaves.** — 冬天变冷。昼短夜长。常下雪。许多树没有叶子。
+
+**Think（课本问）：** What is each season like in your city? — 你所在城市每个季节什么样？
+
+---
+
+### Extend · Arnold's apple tree
+
+> **It's spring. There are lots of flowers on my apple tree. Honeybees look for food.** — 春天。苹果树上有很多花。蜜蜂找食物。  
+> **It's summer. I build a tree house in my apple tree. I watch small apples grow.** — 夏天。我在苹果树上建树屋。我看小苹果长大。  
+> **It's autumn. My apple tree now has big, red apples. My family and I make apple pies.** — 秋天。苹果树上有又大又红的苹果。我们全家做苹果派。  
+> **It's winter. There is lots of snow. I make a snowman. There are no leaves on the apple tree now.** — 冬天。雪很多。我堆雪人。苹果树现在没有叶子了。
+
+**Think（课本问）：** How does Arnold's apple tree change through the year? — Arnold 的苹果树一年四季怎么变化？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 5 Explore / Extend** 课文原文（The four seasons · Arnold's apple tree）+ 公开教辅句型词汇；以家中实体书为准核对。

@@ -66,6 +66,35 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（How do we use numbers?）与 **Extend**（Numbers in our lives）原文 + 简中对照。
+
+### Explore · How do we use numbers?
+
+> **We use numbers every day. They help us count things.** — 我们每天都用数字。它们帮我们数数。  
+> **Some numbers are even, and some numbers are odd.** — 有些数是偶数，有些是奇数。  
+> **You have five orange pencils. I have six green pencils. How many pencils do we have? — We have eleven pencils. Five plus six equals eleven.** — 你有五支橙铅笔。我有六支绿铅笔。我们有多少支？——十一支。五加六等于十一。  
+> **You have five apples. Your sister eats one apple. Now how many apples do you have? — I have four apples now. Five minus one equals four.** — 你有五个苹果。妹妹吃了一个。现在还有几个？——四个。五减一等于四。
+
+**Think（课本问）：** What do you learn about numbers? — 数字帮助计数；有奇数偶数；可以加减。
+
+---
+
+### Extend · Numbers in our lives
+
+| Where | English | 中文 |
+| --- | --- | --- |
+| 学校 | class number, student number, floor number | 班级号、学号、楼层 |
+| 购物 | prices on tags | 价签上的价格 |
+| 通讯 | telephone numbers | 电话号码 |
+| 出行 | bus numbers, licence plates | 公交车号、车牌 |
+| 阅读 | page numbers in books | 书页页码 |
+
+**Think（课本问）：** Where else do you see numbers? — 你还在哪里看到数字？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 3 Explore / Extend** 课文原文（How do we use numbers? · Numbers in our lives）+ 公开教辅句型词汇；以家中实体书为准核对。

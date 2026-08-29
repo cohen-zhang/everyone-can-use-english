@@ -70,6 +70,38 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（A funny food face）与 **Extend**（Parts of plants）原文 + 简中对照。
+
+### Explore · A funny food face
+
+> **1 Wenwen: What do you have, Mum? Chenchen: Do you have any apples? Mum: Let's see.** — 文文：妈妈，我们有什么？晨晨：有苹果吗？妈妈：看看。  
+> **2 Chenchen: Here are some fruit and vegetables. Wenwen: Oh no! I don't like carrots. Mum: Let's cut the fruit and vegetables. We can have some fun.** — 晨晨：这儿有些水果蔬菜。文文：哦不！我不喜欢胡萝卜。妈妈：我们把水果蔬菜切一切。可以玩得开心点。  
+> **3 Huihui: Do you like carrots, Chenchen? Chenchen: No, I don't. Mum: Carrots are good for you.** — 慧慧：晨晨，你喜欢胡萝卜吗？晨晨：不，我不喜欢。妈妈：胡萝卜对你有好处。  
+> **4 Mum: What do you like, Huihui? Huihui: I like carrots! Mum: OK … Carrots for the "eyes".** — 妈妈：慧慧，你喜欢什么？慧慧：我喜欢胡萝卜！妈妈：好……胡萝卜做“眼睛”。  
+> **5 Chenchen: I like apples. Wenwen: I like bananas. Huihui: Ha! Ha! This is fun!** — 晨晨：我喜欢苹果。文文：我喜欢香蕉。慧慧：哈哈！真好玩！  
+> **6 Chenchen: We like the food face, Mum. Mum: That's great.** — 晨晨：妈妈，我们喜欢这个食物脸。妈妈：太棒了。
+
+**Think（课本问）：** What fruit and vegetables do the children eat? — 胡萝卜、苹果、香蕉等。
+
+---
+
+### Extend · Parts of plants
+
+> **We eat different parts of plants. Some of the parts are roots, fruit or leaves.** — 我们吃植物的不同部分。有些部分是根、果实或叶子。  
+> **Carrots are long and orange. Tomatoes are round and red. Lettuce is big and green.** — 胡萝卜又长又橙。番茄又圆又红。生菜又大又绿。
+
+| Part | 中文 |
+| --- | --- |
+| **roots** | 根 |
+| **fruit** | 果实 |
+| **leaves** | 叶子 |
+
+**Think（课本问）：** What parts of plants do you like to eat? What other parts can we eat? — 你喜欢吃植物的哪些部分？还能吃哪些部分？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）三年级上册 **Unit 5 Explore / Extend** 课文原文（A funny food face · Parts of plants）+ 公开教辅句型词汇；以家中实体书为准核对。

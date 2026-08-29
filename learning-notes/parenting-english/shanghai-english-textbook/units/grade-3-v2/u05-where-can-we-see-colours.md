@@ -67,6 +67,36 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（Who's in the tree? / Colours of the sky）与 **Extend**（Happy geese · 咏鹅）原文 + 简中对照。
+
+### Explore · Who's in the tree?（诗）
+
+> **Out in the garden, up in the tree, there are six red butterflies. Can you see?** — 在花园外、在树上，有六只红蝴蝶。你能看见吗？  
+> **There are five green lizards … four brown birds … three purple cats … two yellow dogs …** — 有五只绿蜥蜴……四只棕鸟……三只紫猫……两只黄狗……  
+> **Now there's a problem. Look at the tree! There are twenty animals! Can you see?** — 现在有问题了。看看那棵树！有二十只动物！你能看见吗？
+
+---
+
+### Explore · Colours of the sky（诗）
+
+> **The sky is blue. The clouds are white. They all look black in the dark, dark night.** — 天是蓝的。云是白的。在漆黑的夜里，它们看起来都是黑的。
+
+**Think（课本问）：** How do you feel about the colours in the poems? — 你对诗里的颜色有什么感受？
+
+---
+
+### Extend · Happy geese（adapted from 咏鹅）
+
+> **My name is Luo Binwang. I'm seven. This is my poem. Do you like it?** — 我叫骆宾王。我七岁。这是我的诗。你喜欢吗？  
+> **Geese! Geese! Geese! Look at their long necks. They sing songs into the sky.** — 鹅！鹅！鹅！看它们的长脖子。它们向天空唱歌。  
+> **White feathers, green water, red feet. Nice! Nice! Nice!** — 白羽毛，绿水，红脚掌。好！好！好！
+
+**Think（课本问）：** Do you know other poems with colours in them? What are they about? — 你还知道哪些带颜色的诗？它们讲什么？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）三年级下册 **Unit 5 Explore / Extend** 课文原文（Who's in the tree? · Happy geese）+ 公开教辅句型词汇；以家中实体书为准核对。

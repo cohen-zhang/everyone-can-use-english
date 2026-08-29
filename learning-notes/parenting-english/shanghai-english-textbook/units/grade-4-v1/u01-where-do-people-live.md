@@ -71,6 +71,31 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（Where's your home?）与 **Extend**（City Mouse and Country Mouse）原文 + 简中对照。
+
+### Explore · Where's your home?
+
+> **People live in all kinds of homes. Some live in flats and some live in houses. Some homes are big, and some are small. Some homes are in cities, and some are in the country.** — 人们住在各种各样的家里。有人住公寓，有人住房子。有的在城里，有的在乡村。  
+> **There are a lot of people, streets and big buildings in cities. Many people live in flats. Where do you live, Ningning? — I live in Shenzhen. Shenzhen is a big city.** — 城市里有很多人、街道和大楼。许多人住公寓。宁宁，你住哪里？——我住深圳。深圳是大城市。  
+> **In the country, there are farms. People live in houses. Where do you live, Kate? — I live on a farm in the country.** — 乡村有农场。人们住房子。Kate，你住哪里？——我住在乡村的农场。
+
+**Think（课本问）：** Where do Ningning and Kate live? — 宁宁住大城市；Kate 住乡村农场。
+
+---
+
+### Extend · City Mouse and Country Mouse
+
+> **City Mouse lives in a city. There are too many people and cars here. Let me visit my friend in the country.** — 城市鼠住在城里。城里人太多、车太多。我去乡下看朋友。  
+> **Country Mouse: Welcome to my home! In the country, they eat apples for dinner. City Mouse: It's quiet here, but it's not fun. Come with me to the city!** — 乡村鼠：欢迎来我家！在乡下，他们晚餐吃苹果。城市鼠：这里安静，但不好玩。跟我去城里！  
+> **In the city, they eat some nice food. Have some cheese. Yummy, yummy! Listen! What can you hear? A big cat! Run!** — 在城里，他们吃好吃的。吃点奶酪。好吃！听！你听到什么？大猫！跑！  
+> **Come with me to the country. It's safe there. Oh no. The country is good for you, but the city is good for me. The two mice say goodbye. They go back to their homes.** — 跟我回乡下。那里安全。哦不。乡村适合你，城市适合我。两只老鼠道别，各自回家。
+
+**Think（课本问）：** Why doesn't City Mouse want to go to the country again? — 城市鼠为什么不想再回乡村？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 1 Explore / Extend** 课文原文（Where's your home? · City Mouse and Country Mouse）+ 公开教辅句型词汇；以家中实体书为准核对。

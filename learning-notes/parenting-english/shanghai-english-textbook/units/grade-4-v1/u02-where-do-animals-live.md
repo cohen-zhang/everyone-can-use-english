@@ -71,6 +71,30 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（动物栖息地）与 **Extend**（Panda Taotao）原文 + 简中对照。
+
+### Explore · Where do animals live?
+
+> **Eagles live in big nests. Where are their nests? They are in the trees.** — 鹰住在大的巢里。巢在树上。  
+> **Where do owls live? They live in tree holes. They are safe there. Owls come out at night. They eat mice and snakes.** — 猫头鹰住在树洞里。那里安全。它们晚上出来，吃老鼠和蛇。  
+> **Honeybees live in a hive. There, they make honey. They have food in winter. Honeybees have five eyes. They can't see the colour red.** — 蜜蜂住在蜂巢里。它们酿蜜。冬天有食物。蜜蜂有五只眼睛，看不见红色。
+
+**Think（课本问）：** Where do eagles / owls / honeybees live? — 鹰在树上、猫头鹰在树洞、蜜蜂在蜂巢。
+
+---
+
+### Extend · Panda Taotao
+
+> **A panda mum has a baby in a panda centre. People take care of him. They call him Taotao.** — 熊猫妈妈在熊猫中心生了宝宝。人们照顾他。他们叫他涛涛。  
+> **Taotao is one year old. He loves his mum. Wow! Taotao is now a big, strong panda.** — 涛涛一岁了。他爱妈妈。哇！涛涛现在是又大又壮的熊猫。  
+> **Where is Taotao? He is up in a tree. Taotao now lives in the wild. That is amazing!** — 涛涛在哪里？他在树上。涛涛现在住在野外。太奇妙了！
+
+**Think（课本问）：** Where does Taotao live now? Why do we have panda centres? — 涛涛现在住野外。为什么要有熊猫中心？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 2 Explore / Extend** 课文原文（动物栖息地 · Panda Taotao）+ 公开教辅句型词汇；以家中实体书为准核对。

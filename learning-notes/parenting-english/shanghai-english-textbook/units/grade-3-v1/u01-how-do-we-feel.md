@@ -68,6 +68,47 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（How are you?）与 **Extend**（A thirsty bird）原文 + 简中对照。
+
+### Explore · How are you?
+
+> **Good morning, boys and girls! How are you?** — 同学们早上好！你们好吗？  
+> **Not so good. I'm cold.** — 不太好。我冷。  
+> **OK, Wen Jie. Let's close the window.** — 好的，文杰。我们把窗关上。  
+> **I'm sad. I can't find my pencil.** — 我难过。我找不到铅笔。  
+> **Look, Jia Li. Here's a pencil.** — 看，佳莉。这儿有支铅笔。  
+> **What about you two? — I'm happy. I'm happy too!** — 你们俩呢？——我开心。我也开心！  
+> **Well, let's start again. How are you? — Fine, thank you.** — 那我们重新开始。你们好吗？——很好，谢谢。
+
+**Think（课本问）：** How do the children feel? — 孩子们分别感觉冷、难过、开心；同学互相帮助后感觉变好。
+
+---
+
+### Explore · Chant（How are you?）
+
+> **How are you? How are you? How are you this morning?** — 你好吗？你好吗？你今天早上好吗？  
+> **I'm fine. I'm fine. You're very kind.** — 我很好。我很好。你真好。  
+> **How are you? How are you? How are you this afternoon?** — 你好吗？你好吗？你今天下午好吗？  
+> **Very good. Very good. I'm very good.** — 非常好。非常好。我非常好。
+
+---
+
+### Extend · A thirsty bird
+
+> **I'm thirsty.** — 我口渴了。  
+> **Water!** — 水！  
+> **I can't drink the water.** — 我喝不到水。  
+> **The bird is sad.** — 小鸟很难过。  
+> **I have a good idea!** — 我有个好主意！  
+> **I can drink the water now!** — 我现在能喝到水了！  
+> **Look! The bird is happy.** — 看！小鸟开心了。
+
+**Think（课本问）：** How do you make yourself feel better? — 你怎样让自己感觉好起来？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）三年级上册 **Unit 1 Explore / Extend** 课文原文（How are you? · A thirsty bird）+ 公开教辅句型词汇；以家中实体书为准核对。

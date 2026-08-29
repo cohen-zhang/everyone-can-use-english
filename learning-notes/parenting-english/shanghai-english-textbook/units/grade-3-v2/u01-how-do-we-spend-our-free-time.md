@@ -66,6 +66,39 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（At Happy Children's Centre）与 **Extend**（Ben and Bob）原文 + 简中对照。
+
+### Explore · At Happy Children's Centre
+
+> **Hello, children! Welcome to our centre! Let's talk about hobbies! What do you like doing in your free time? Send us your photos!** — 孩子们好！欢迎来到我们的中心！我们来聊聊爱好！空闲时你喜欢做什么？把照片发给我们！  
+> **Leilei: I like music. I like singing and dancing. This is me in my dance class. Look at my purple skirt!** — 磊磊：我喜欢音乐。我喜欢唱歌跳舞。这是我在舞蹈班。看我的紫色短裙！  
+> **Xiaolan: I like reading. I like painting too. This is me in my favourite park.** — 小兰：我喜欢阅读。我也喜欢画画。这是我在最喜欢的公园里。  
+> **Congcong: I'm good at sport. I like playing ping-pong and riding my bike. This is me on my bike.** — 聪聪：我擅长运动。我喜欢打乒乓球和骑车。这是我在自行车上。  
+> **Xiaoyuan: I like sport! I swim a lot. I play basketball too. This is me at the basketball court.** — 小远：我喜欢运动！我经常游泳。我也打篮球。这是我在篮球场上。
+
+**Think（课本问）：** What do the children like doing in their free time? — 唱歌跳舞、阅读画画、乒乓骑车、游泳篮球等。
+
+---
+
+### Explore · Chant（Come and join us!）
+
+> **Do you like rowing a boat? Yes, I do. Come and join us!** — 你喜欢划船吗？是的，我喜欢。来加入我们吧！
+
+---
+
+### Extend · Ben and Bob
+
+> **1 It's warm and sunny! I like climbing trees. What do you like doing, Ben? — It's hot. I like dancing.** — 天气温暖晴朗！我喜欢爬树。Ben，你喜欢做什么？——很热。我喜欢跳舞。  
+> **2 Sorry, Bob. Come and dance! — I have work to do.** — 对不起，Bob。来跳舞吧！——我有工作要做。  
+> **3 The weather is cool. I like singing. Come here, Ben! — No. I have to get some food.** — 天气凉爽。我喜欢唱歌。Ben，过来！——不。我得去找食物。  
+> **4 It's cold outside. It's so cold. I have no food. I have no home. — Come in! You can share my food. I'll get food next year. — Thank you!** — 外面很冷。非常冷。我没有食物。我没有家。——进来！你可以分享我的食物。我明年会找食物。——谢谢！
+
+**Think（课本问）：** How can you spend your free time wisely? — 怎样明智地度过空闲时间？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）三年级下册 **Unit 1 Explore / Extend** 课文原文（At Happy Children's Centre · Ben and Bob）+ 公开教辅句型词汇；以家中实体书为准核对。

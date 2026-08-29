@@ -70,6 +70,30 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（Let's go shopping!）与 **Extend**（Farmer Thomas and Rosa）原文 + 简中对照。
+
+### Explore · Let's go shopping!
+
+> **Mum: We need some bread and a box of eggs. Chen Lei: Here they are. — Mum: How much are the eggs? — Chen Lei: They're 15 yuan. And the bread is 12 yuan.** — 妈妈：我们需要面包和一盒鸡蛋。陈磊：在这儿。——妈妈：鸡蛋多少钱？——陈磊：15 元。面包 12 元。  
+> **Dad: We need some apples. Chen Wei: Here they are. And some carrots. — Dad: How much are they? — Chen Wei: This bag of apples is 12 yuan. This bag of carrots is 5 yuan.** — 爸爸：我们需要苹果和胡萝卜。陈薇：在这儿。——爸爸：多少钱？——陈薇：苹果 12 元。胡萝卜 5 元。  
+> **Mum: We still have 16 yuan. What would you like, Chen Lei? — Chen Lei: I'd like a bar of chocolate. I can share it with you all.** — 妈妈：我们还剩 16 元。陈磊，你想要什么？——陈磊：我想要一条巧克力。我可以和大家分享。
+
+**Think（课本问）：** What do they buy in the supermarket? — 面包、鸡蛋、苹果、胡萝卜、巧克力。
+
+---
+
+### Extend · Farmer Thomas and Rosa
+
+> **Farmer Thomas has a cow. It gives milk every day. His wife, Rosa, sells the milk.** — 农夫 Thomas 有头牛。它每天产奶。妻子 Rosa 卖牛奶。  
+> **One day, Thomas asks Rosa to go to a dance. "No," says Rosa, "I don't have a dress." Thomas sells the cow and buys a beautiful dress for Rosa.** — 一天 Thomas 请 Rosa 去跳舞。Rosa 说没有裙子。Thomas 卖了牛，买了漂亮裙子。  
+> **Rosa is angry! "Our cow gives us milk every day. We sell the milk and buy food! We can't eat the dress. We need our cow!" Thomas buys his cow back.** — Rosa 生气了！“牛每天给我们奶。我们卖奶买食物！不能吃裙子。我们需要牛！”Thomas 把牛买回来了。
+
+**Think（课本问）：** Why is the cow important to Thomas and Rosa? — 牛为什么对他们很重要？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 4 Explore / Extend** 课文原文（Let's go shopping! · Farmer Thomas and Rosa）+ 公开教辅句型词汇；以家中实体书为准核对。

@@ -67,6 +67,40 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（What's outside?）与 **Extend**（Gu Dong is coming!）原文 + 简中对照。
+
+### Explore · What's outside?（诗）
+
+> **Let's go outside — just you and me! What can you hear? What can you see?** — 我们到外面去——就你和我！你能听到什么？你能看到什么？  
+> **Chirp, chirp! A nice bird in a tree. Buzz, buzz! A black and yellow bee.** — 啾啾！树上有只漂亮的小鸟。嗡嗡！一只黑黄相间的蜜蜂。  
+> **Down by the river — just you and me! Swish, swish! The wind blows the grass. Quack, quack! A duck swims past.** — 河边——就你和我！沙沙！风吹草动。嘎嘎！一只鸭子游过去。  
+> **Walk along the path — just you and me! Pitter-patter! I can hear the rain. I think it's time to go home again!** — 沿着小路走——就你和我！啪嗒啪嗒！我听见雨声。我想该回家了！
+
+**Think（课本问）：** What sounds can the children hear in the different places? — 鸟叫、蜂鸣、风声、鸭叫、雨声。
+
+---
+
+### Explore · Chant（What can you hear?）
+
+> **What can you hear? I can hear a bird. What can you hear? I can hear the rain.** — 你能听到什么？我能听到鸟叫。你能听到什么？我能听到雨声。
+
+---
+
+### Extend · Gu Dong is coming!
+
+> **1 Rabbit 1: Listen! What can you hear? — Rabbit 2: I can hear "Gu Dong"! — Rabbit 1: Help! Help! Gu Dong is coming!** — 兔子 1：听！你能听到什么？——兔子 2：我听到“咕咚”！——兔子 1：救命！救命！咕咚来了！  
+> **2 Rabbit 2: It has green eyes! — Monkey: Run! Run! Gu Dong is coming!** — 兔子 2：它有绿眼睛！——猴子：跑！跑！咕咚来了！  
+> **3 Rabbit 1: It has eight legs! — Fox: Help! Gu Dong is coming!** — 兔子 1：它有八条腿！——狐狸：救命！咕咚来了！  
+> **4 Monkey: It has nine legs! — Elephant: What's Gu Dong?** — 猴子：它有九条腿！——大象：咕咚是什么？  
+> **5 Bear: It has four green eyes and ten legs. — Elephant: What's Gu Dong?** — 熊：它有四只绿眼睛和十条腿。——大象：咕咚是什么？  
+> **6 Fox: It's in the lake. — Elephant: Don't worry. Look! It's a papaya.** — 狐狸：在湖里。——大象：别担心。看！是个木瓜。
+
+**Think（课本问）：** What sounds are you afraid of? Why? — 你害怕什么声音？为什么？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）三年级下册 **Unit 4 Explore / Extend** 课文原文（What's outside? · Gu Dong is coming!）+ 公开教辅句型词汇；以家中实体书为准核对。

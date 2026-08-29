@@ -68,6 +68,36 @@ aliases:
 
 ---
 
+## 5. 课文 — Explore & Extend
+
+课本 **Explore**（Road safety）与 **Extend**（Traffic signs）原文 + 简中对照。
+
+### Explore · Road safety
+
+> **Can I skate to school? — No, you can't. It's not safe.** — 我可以滑滑板上学吗？——不，不可以。不安全。  
+> **Can I ride a bike to school, Dad? — No, you can't. Children under 12 can't ride on the road.** — 爸爸，我能骑车上学吗？——不，不可以。12 岁以下孩子不能在马路上骑车。  
+> **Wait for the green light. Look left and right before you cross. It's safe to cross.** — 等绿灯。过马路前左右看。这样过马路才安全。  
+> **Don't run on the road. Wait on the pavement until it turns green.** — 别在马路上跑。在人行道上等到绿灯。
+
+**Think（课本问）：** How do we keep safe on the road? — 我们怎样在路上保持安全？
+
+---
+
+### Extend · Traffic signs
+
+| Sign | English | 中文 |
+| --- | --- | --- |
+| 右转 | **Turn right.** | 向右转。 |
+| 左转 | **Turn left.** | 向左转。 |
+| 减速 | **Slow down.** | 减速。 |
+| 禁止骑行 | **Don't ride.** | 禁止骑行。 |
+| 红灯 | **Red light. We should wait.** | 红灯。我们应该等待。 |
+| 绿灯 | **Green light. We can cross the road.** | 绿灯。我们可以过马路。 |
+
+**Think（课本问）：** How do traffic signs help us? — 交通标志怎样帮助我们？
+
+---
+
 ## 来源说明
 
-沪教牛津版（六三制一起 · 2024）公开教辅知识清单 / 教案交叉整理；以家中实体书为准核对。
+沪教牛津版（六三制一起 · 2024）四年级上册 **Unit 7 Explore / Extend** 课文原文（Road safety · Traffic signs）+ 公开教辅句型词汇；以家中实体书为准核对。
