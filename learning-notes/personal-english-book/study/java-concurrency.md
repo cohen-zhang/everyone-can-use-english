@@ -205,26 +205,40 @@ Compose async pipelines without blocking: `supplyAsync` → `thenApply` → `the
 
 ## 朗读串联记忆 · Read-aloud chain
 
-*约 1 分钟 · 词汇来自上文 · 先英后对照简中*
+*约 2 分钟 · 拟人口吻 · 讲清原理与场景 · 先英后对照简中*
 
-### A. 分句场景链（按正文顺序朗读）
+I am **concurrency**. Programs call me in when one **thread** cannot keep up with I/O, CPU cores, or incoming requests. I let many threads make progress **at the same time**. They share cores — and they share memory. Shared mutable state is why coordination is required.
 
-- **Volatile gives visibility, not atomicity.** — volatile 保证可见性，不保证原子性。
-- **Always unlock in a finally block.** — 永远在 finally 块里解锁。
-- **A latch waits for N events to finish.** — 闩锁等待 N 个事件完成。
-- **ConcurrentHashMap avoids a global lock.** — ConcurrentHashMap 避免全局锁。
-- **Pools reuse threads and add back-pressure.** — 线程池复用线程并提供背压。
+**简中：** 我是并发。当一条线程跟不上 I/O、CPU 核心或涌入的请求时，程序会把我请来。我让多条线程**同时**推进。它们共享核心，也共享内存。共享可变状态，正是需要协调的原因。
 
-### B. 一段串联（连续口语）
+Without coordination, thread interleaving is unpredictable. You get **race conditions** — wrong results that depend on timing. You get **visibility** failures — one thread never sees another's write. You get **deadlock** — threads wait in a circle, each holding what the other needs. I exist to prevent those three failures, not merely to run faster.
 
-**Volatile gives visibility, not atomicity. Always unlock in a finally block. A latch waits for N events to finish. ConcurrentHashMap avoids a global lock. Pools reuse threads and add back-pressure.**
+**简中：** 缺少协调时，线程交错不可预测。会出现**竞态条件**——结果随时机而错。会出现**可见性**失效——一条线程看不见另一条的写入。会出现**死锁**——线程循环等待，各自握着对方需要的东西。我存在是为了挡住这三类失败，不只是为了跑得更快。
 
-**简中：** volatile 保证可见性，不保证原子性。永远在 finally 块里解锁。闩锁等待 N 个事件完成。ConcurrentHashMap 避免全局锁。线程池复用线程并提供背压。
+My first rule is: prefer **immutability** and **confine** state. No shared mutable data means no lock. When sharing is unavoidable, use the JUC library — locks, atomics, synchronizers, concurrent collections, and executors. Do not hand-roll thread safety.
 
-### C. 一分钟复盘（5 句）
+**简中：** 第一条原则：优先**不可变**，并**封闭**状态。没有共享可变数据，就不需要锁。必须共享时，用 JUC 库——锁、原子类、同步器、并发容器和执行器。不要手写线程安全。
 
-1. **Volatile gives visibility, not atomicity.** — volatile 保证可见性，不保证原子性。
-2. **Always unlock in a finally block.** — 永远在 finally 块里解锁。
-3. **A latch waits for N events to finish.** — 闩锁等待 N 个事件完成。
-4. **ConcurrentHashMap avoids a global lock.** — ConcurrentHashMap 避免全局锁。
-5. **Pools reuse threads and add back-pressure.** — 线程池复用线程并提供背压。
+**Volatile** gives **visibility**, not **atomicity**. I use it for flags such as `running`. `count++` is three steps: read, add, write. Two threads can both read the same value and both write plus one. For compound actions, use **`synchronized`** or an atomic class. **`synchronized`** also gives **mutual exclusion** and a **happens-before** edge: writes before unlock are visible after the next lock.
+
+**简中：** **volatile** 保证**可见性**，不保证**原子性**。我把它用在 `running` 这类标志上。`count++` 是读、加、写三步。两条线程可能读到同一个值，各自只加一。复合动作要用 **`synchronized`** 或原子类。**`synchronized`** 还提供**互斥**和 **happens-before**：解锁前的写入，对下一次加锁可见。
+
+**ReentrantLock** behaves like the built-in monitor, with extras: `tryLock`, timed waits, interruptible acquisition, and fairness. Always **unlock** in a **`finally`** block. Miss that, and the lock is never released — other threads wait forever. **ReadWriteLock** lets many readers proceed together; a writer excludes everyone. Use it on read-heavy caches.
+
+**简中：** **ReentrantLock** 行为接近内置监视器，但多了 `tryLock`、超时等待、可中断获取和公平性。永远在 **`finally`** 里 **unlock**。漏了这一步，锁永不释放——其他线程会一直等。**ReadWriteLock** 允许多读并发，写则独占。适合读多写少的缓存。
+
+A **CountDownLatch** is one-shot: one or more threads wait until N events finish. A **CyclicBarrier** is reusable: a fixed group meets at the same point again and again. A **Semaphore** issues counting permits and caps how many threads enter at once. Pick the synchronizer that matches the wait pattern — do not force one tool to do all three jobs.
+
+**简中：** **CountDownLatch** 是一次性的：一条或多条线程等待 N 个事件完成。**CyclicBarrier** 可复用：固定一组线程反复在同一点会合。**Semaphore** 发放计数许可，限制同时进入的线程数。按等待模式选同步器——不要用一种工具硬扛三种活。
+
+**ConcurrentHashMap** partitions the map, so most operations need no **global lock**. **BlockingQueue** makes producer–consumer straightforward: `put` blocks when the queue is full; `take` blocks when it is empty. Do not share a plain `HashMap` across threads and then add a lock after the bug appears.
+
+**简中：** **ConcurrentHashMap** 对映射分区，多数操作无需**全局锁**。**BlockingQueue** 让生产者–消费者变直接：队列满时 `put` 阻塞，空时 `take` 阻塞。不要先让普通 `HashMap` 跨线程共享，出了 bug 再补一把锁。
+
+Do not create raw threads for every task. Submit work to a **ThreadPoolExecutor** with an explicit queue, core and max size, and a rejection policy. Pools **reuse** threads — creation is expensive. They **bound** concurrency so you do not exhaust memory. A policy such as `CallerRunsPolicy` adds **back-pressure**: when the queue is full, the caller runs the task and slows down. **CompletableFuture** then composes async steps without blocking the caller: `supplyAsync` → `thenApply` → `thenCombine`.
+
+**简中：** 不要为每个任务裸建线程。把工作提交给显式配置了队列、核心/最大线程数和拒绝策略的 **ThreadPoolExecutor**。线程池**复用**线程——创建代价高。它们**约束**并发，避免耗尽内存。`CallerRunsPolicy` 这类策略提供**背压**：队列满时由调用者自己跑任务，从而降速。**CompletableFuture** 再把异步步骤编排起来，而不阻塞调用方：`supplyAsync` → `thenApply` → `thenCombine`。
+
+You need me for I/O-bound services, parallel CPU work, shared caches, producer–consumer pipelines, and request spikes. Follow these rules and I raise throughput. Skip them and I produce races, stale reads, leaked locks, and pool exhaustion. The cost is not speed — it is correctness under interleaving.
+
+**简中：** I/O 密集服务、可并行的 CPU 工作、共享缓存、生产者–消费者流水线、请求峰值，都需要我。按这些规则来，我提高吞吐。跳过它们，就会出现竞态、读到旧值、锁泄漏和线程池耗尽。代价不是速度，而是交错执行下的正确性。

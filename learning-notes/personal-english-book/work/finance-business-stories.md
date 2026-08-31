@@ -623,6 +623,7 @@ A **buck** is slang for one dollar. — **Buck** 是一美元的俚语.
 - 系统问题分析：[[learning-notes/personal-english-book/work/financial-system-issue-analysis|金融系统问题梳理]]
 - 投资者场景：[[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 故事化复习后练个人投资者跟读句
 - 加密交易场景：[[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — B 节 crypto/perpetual 词汇 ↔ App 实操句
+- 比特币白皮书：[[learning-notes/personal-english-book/investing/bitcoin-whitepaper|比特币白皮书 — BTC]] — B 节 Bitcoin / crypto 行情句 ↔ 白皮书原理词（双花、工作量证明、最长链）
 
 ---
 

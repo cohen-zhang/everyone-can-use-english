@@ -15,6 +15,7 @@ aliases:
 **索引：** [[learning-notes/personal-english-book/investing/README|投资英语场景索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 **相关（扩展）：**
+- [[learning-notes/personal-english-book/investing/bitcoin-whitepaper|比特币白皮书 — BTC]] — 双花、工作量证明、最长链、链上确认（原理 ↔ 本页 App 操作）
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 限价单、止损、仓位等通用交易概念
 - [[learning-notes/personal-english-book/work/finance-business-stories|金融和商务主题故事集]] — **crypto**、**perpetual**、**hedge** 等故事化复习（B 节行情故事）
 - [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表（149）]] — 宏观与机构用语扩展

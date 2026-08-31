@@ -92,6 +92,7 @@ cssclasses:
 
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] — 账户、下单、盘口、盈亏、行情、风控（英 + 简中）
 - [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、闪兑、P2P、合约、理财
+- [[learning-notes/personal-english-book/investing/bitcoin-whitepaper.md|比特币白皮书 — BTC]] — Satoshi 2008：点对点现金、双花、工作量证明、最长链
 - [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] — 证券从业者口语实录
 
 ---
@@ -182,6 +183,7 @@ cssclasses:
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
 - **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 - **投资者必备 ↔ 经纪访谈 ↔ 金融词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]]。
+- **比特币白皮书 ↔ 交易所 App：** [[learning-notes/personal-english-book/investing/bitcoin-whitepaper.md|比特币白皮书 — BTC]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|交易所 APP 常用场景]]（原理词 ↔ 充提币 / 链上确认）。
 - **词根词缀 ↔ 计科 AI ↔ 金融词表 ↔ 1000h：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀]] ↔ [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]] ↔ [1000h · 6.4 常见词根词缀](https://1000h.org/sounds-of-american-english/6.4-parts-of-words.html) · [6.1 有效记忆](https://1000h.org/sounds-of-american-english/6.1-effectiveness.html)。
 - **Psychology Health ↔ 情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health]] ↔ [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 

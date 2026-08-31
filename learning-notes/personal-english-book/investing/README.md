@@ -32,6 +32,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] — 账户、下单、盘口、盈亏、行情、风控（英 + 简中跟读句）
 - [[learning-notes/personal-english-book/investing/listed-stock-fundamentals-and-analysis-en|上市公司 — 基本面与估值分析]] — 基本面、财报、估值、资金、消息面、风控原则、宏观（英 + 简中 · 分节术语表）
 - [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|加密货币 — 交易所 APP 常用场景]] — 充提币、现货、闪兑、P2P、合约、理财、网格、期权、广场讨论（英 + 简中 · 分类术语表）
+- [[learning-notes/personal-english-book/investing/bitcoin-whitepaper|比特币白皮书 — BTC]] — Satoshi 2008 原文结构：双花、工作量证明、最长链、激励、SPV（英 + 简中跟读）
 
 ---
 
@@ -57,6 +58,7 @@ cssclasses:
 - **投资者 ↔ 大词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]（portfolio、rally 等扩展）
 - **祝福字幕 ↔ 大词表：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]
 - **股票 ↔ 加密交易：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|交易所 APP 常用场景]]（限价单、止损、仓位等通用概念）
+- **白皮书 ↔ 交易所 App：** [[learning-notes/personal-english-book/investing/bitcoin-whitepaper|比特币白皮书]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios|交易所 APP 常用场景]]（双花 / 确认 / 节点 ↔ 充提币、链上确认）
 
 ---
 
