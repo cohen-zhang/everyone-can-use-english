@@ -63,10 +63,8 @@ aliases:
 
 > 原文含粗口与英国街头俚语，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Hook（Ed）
 
@@ -74,6 +72,13 @@ Jet-plane headed up to the sky
 Spread wings in the clouds, getting high
 We ain't hit a rave in a while
 So take me back to London (Yo)
+
+#### 钩子句（Ed）
+
+喷气机冲向天空
+在云里展开翅膀，嗨起来
+我们有一阵子没去锐舞派对了
+所以带我回伦敦（哟）
 
 #### Stormzy · Verse 1
 
@@ -93,6 +98,25 @@ My shooter ride (ride), he shoot a guy (guy)
 Leave you wet like you scuba dived
 We were younger then and now we're unified
 South London boys, get you crucified, I'm gone
+
+#### Stormzy · 主歌 1
+
+我做买卖，但从没被人敲竹杠（敲竹杠）
+走一步看一步，从没预案（预案）
+手下都是从帮派出来的（帮派）
+在我那儿胡说八道，就会挨揍（啥？）
+在我那儿乱喷，就让 12 号霰弹枪响
+握在手里那感觉，真他妈带劲（手）
+我不混那些光鲜浮华圈（浮华）
+网上这些蠢货
+我不搞网上骂战，也不跟蹩脚 grime 小角色较劲
+我段位太高，懒得跟 grime 书呆子吵
+买了块 AP 帮我对时
+我的枪手随车待命，我一开口他就动
+枪手出动（出动），开枪打那人（那人）
+让你湿透了，像刚深潜上来
+我们当年还嫩，如今一条心
+南伦敦的兄弟，能把你钉死，我走了
 
 #### Ed · Verse
 
@@ -114,6 +138,26 @@ And never let 'em take your crown
 I've been away for a while, travelled a million miles
 But I'm heading back to London town right now
 
+#### Ed · 主歌
+
+到这时候了（呜）
+Big Mike 和 Teddy 要上 grime 了（呜）
+我想试新东西，他们只想让我唱
+因为没人信我自己写词（啵）
+现在我回到街区，和兄弟在一起
+一杯 pint 配一包薯片给我
+我联系朋友，直奔 pub
+因为我太久没及时回家，是的，我——
+
+但这是我的错（哦）
+Divide 巡演赚了半个 billion（哦）
+没开玩笑，我撒谎图啥？（哦）
+但现在我又和 Big Michael 回到轨上（哇）
+他说 Teddy，别一直摆架子
+别让人夺走你的王冠
+我离开好一阵，飞了一百万英里
+但我现在正回伦敦城
+
 #### Hook（重复）
 
 Jet plane headed up to the sky (to the sky)
@@ -124,6 +168,17 @@ Bass high, middle nights, ceilin' low (ceilin' low)
 Sweat brow drippin' down, when in Rome (when in Rome)
 No town does it quite like my home
 So take me back to London (yo)
+
+#### 钩子句（重复）
+
+喷气机冲向天空（冲向天空）
+在云里展开翅膀，嗨起来（呜，呜）
+我们有一阵子没去锐舞派对了（有一阵子）
+所以带我回伦敦
+低音震天，深夜里，天花板都低了（天花板低）
+汗从额头滴下，入乡随俗（入乡随俗）
+没有哪个城像我家这样
+所以带我回伦敦（哟）
 
 #### Stormzy · Verse 2
 
@@ -145,6 +200,26 @@ Grime or rap, man, I gave them both
 Took this sound that was made in Bow
 Went global, man, now the case is closed
 
+#### Stormzy · 主歌 2
+
+哟，当我用这支小笔「开火」
+混音版搞定，Ed 也上了 grime
+这跟我任何一首 top ten 都不一样
+我提前到了温布利
+那是体育馆级别，兄弟们都像外星人
+我喝 supermalt，像振金一样硬
+我有 RM11 钛金属款
+日常戴 5970
+
+但我要灵魂感，我要 flow
+不需要价签撕我衣服
+不需要蠢货狂打电话
+Ted 说：「事情就是这样」
+就是这样，flow 太绝了
+grime 或 rap，我两样都给
+把 Bow 造出来的这声音
+做到全球，案子结了
+
 #### Ed & Stormzy · Outro Verse
 
 2015 in a Badingham pub
@@ -155,6 +230,17 @@ But when you get to the top, man, it's never enough
 And you can do Glasto (headline slot)
 But when you're miles away and you're feeling alone
 Gotta remember that there ain't no place like home
+
+#### Ed & Stormzy · 尾奏 主歌
+
+2015 年在 Badingham 一家 pub
+我跟 Stormz 说，两年后你就收工
+你会和爱的人一起流泪
+但到顶了，兄弟，永远还不够
+你能拿全英奖（停不下来）
+你能 headline Glasto（主舞台）
+但当你远在千里之外、感到孤独
+得记住：没有地方比得上家
 
 #### Hook（最终）
 
@@ -168,98 +254,6 @@ No town does it quite like my home (like my home)
 So take me back to London
 
 So take me back to London
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 钩子句（Ed）
-
-喷气机冲向天空
-在云里展开翅膀，嗨起来
-我们有一阵子没去锐舞派对了
-所以带我回伦敦（哟）
-
-#### Stormzy · 主歌 1
-
-我做买卖，但从没被人敲竹杠（敲竹杠）
-走一步看一步，从没预案（预案）
-手下都是从帮派出来的（帮派）
-在我那儿胡说八道，就会挨揍（啥？）
-在我那儿乱喷，就让 12 号霰弹枪响
-握在手里那感觉，真他妈带劲（手）
-我不混那些光鲜浮华圈（浮华）
-网上这些蠢货
-我不搞网上骂战，也不跟蹩脚 grime 小角色较劲
-我段位太高，懒得跟 grime 书呆子吵
-买了块 AP 帮我对时
-我的枪手随车待命，我一开口他就动
-枪手出动（出动），开枪打那人（那人）
-让你湿透了，像刚深潜上来
-我们当年还嫩，如今一条心
-南伦敦的兄弟，能把你钉死，我走了
-
-#### Ed · 主歌
-
-到这时候了（呜）
-Big Mike 和 Teddy 要上 grime 了（呜）
-我想试新东西，他们只想让我唱
-因为没人信我自己写词（啵）
-现在我回到街区，和兄弟在一起
-一杯 pint 配一包薯片给我
-我联系朋友，直 pub
-因为我太久没及时回家，是的，我——
-
-但这是我的错（哦）
-Divide 巡演赚了半个 billion（哦）
-没开玩笑，我撒谎图啥？（哦）
-但现在我又和 Big Michael 回到轨上（哇）
-他说 Teddy，别一直摆架子
-别让人夺走你的王冠
-我离开好一阵，飞了一百万英里
-但我现在正回伦敦城
-
-#### 钩子句（重复）
-
-喷气机冲向天空（冲向天空）
-在云里展开翅膀，嗨起来（呜，呜）
-我们有一阵子没去锐舞派对了（有一阵子）
-所以带我回伦敦
-低音震天，深夜里，天花板都低了（天花板低）
-汗从额头滴下，入乡随俗（入乡随俗）
-没有哪个城像我家这样
-所以带我回伦敦（哟）
-
-#### Stormzy · 主歌 2
-
-哟，当我用这支小笔「开火」
-混音版搞定，Ed 也上了 grime
-这跟我任何一首 top ten 都不一样
-我提前到了温布利
-那是体育馆级别，兄弟们都像外星人
-我喝 supermalt，像振金一样硬
-我有 RM11 钛金属款
-日常戴 5970（Richard Mille 表款）
-
-但我要灵魂感，我要 flow
-不需要价签撕我衣服
-不需要蠢货狂打电话
-Ted 说：「事情就是这样」
-就是这样，flow 太绝了
-grime 或 rap，我两样都给
-把 Bow 造出来的这声音
-做到全球，案子结了
-
-#### Ed & Stormzy · 尾声 主歌
-
-2015 年在 Badingham 一家 pub
-我跟 Stormz 说，两年后你就收工
-你会和爱的人一起流泪
-但到顶了，兄弟，永远还不够
-你能拿全英奖（停不下来）
-你能 headline Glasto（主舞台）
-但当你远在千里之外、感到孤独
-得记住：没有地方比得上家
 
 #### 钩子句（最终）
 

@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -72,6 +70,14 @@ Dreaming about the things that we could be
 But baby, I've been, I've been praying hard
 Said, "No more counting dollars, we'll be counting stars"
 Yeah, we'll be counting stars
+
+#### 主歌 1
+
+最近我一直、一直睡不着
+梦见我们可能成为的样子
+可是宝贝，我一直在拼命祈祷
+说：「别再数钞票，我们要数星星」
+是啊，我们要数星星
 
 #### Verse 2
 
@@ -84,12 +90,30 @@ Young, but I'm not that bold
 And I don't think the world is sold
 On just doing what we're told
 
+#### 主歌 2
+
+我把这人生看成一根荡来荡去的藤
+把心荡过那条界线
+眼前闪过种种信号
+去寻吧，你自会寻见
+老了，但我还没那么老
+年轻，但我还没那么敢
+我不信这世界已经买账
+只消照别人吩咐去做
+
 #### Pre-Chorus 1
 
 I feel something so right, doing the wrong thing
 And I feel something so wrong, doing the right thing
 I couldn't lie, couldn't lie, couldn't lie
 Everything that kills me makes me feel alive
+
+#### 预副歌 1
+
+做错事时，我反而觉得对
+做对事时，我反而觉得不对
+我没法骗自己，没法骗，没法骗
+杀不死我的，让我更鲜活
 
 #### Chorus 1
 
@@ -99,6 +123,14 @@ But baby, I've been, I've been praying hard
 Said, "No more counting dollars, we'll be counting stars"
 Yeah, we'll be counting stars
 
+#### 副歌 1
+
+最近我一直、一直睡不着
+梦见我们可能成为的样子
+可是宝贝，我一直在拼命祈祷
+说：「别再数钞票，我们要数星星」
+是啊，我们要数星星
+
 #### Chorus 2
 
 Lately, I've been, I've been losing sleep
@@ -106,6 +138,14 @@ Dreaming about the things we could be
 But baby, I've been, I've been praying hard
 Said, "No more counting dollars, we'll be, we'll be counting stars"
 Yeah
+
+#### 副歌 2
+
+最近我一直、一直睡不着
+梦见我们能成为的样子
+可是宝贝，我一直在拼命祈祷
+说：「别再数钞票，我们要、要数星星」
+是啊
 
 #### Verse 3
 
@@ -118,19 +158,44 @@ Young, but I'm not that bold
 And I don't think the world is sold
 On just doing what we're told
 
+#### 主歌 3
+
+我感受到你的爱，感到它燃烧
+顺这条河，每一个转弯
+希望是我们那个四字母的词
+把钱赚来，再看它烧掉
+老了，但我还没那么老
+年轻，但我还没那么敢
+我不信这世界已经买账
+只消照别人吩咐去做
+
 #### Pre-Chorus 2
 
 And I feel something so wrong, doing the right thing
 I couldn't lie, couldn't lie, couldn't lie
 Everything that drowns me makes me wanna fly
 
+#### 预副歌 2
+
+做对事时，我反而觉得不对
+我没法骗自己，没法骗，没法骗
+淹没我的，反而让我想飞
+
 #### Chorus 3（重复）
 
 *(同 Chorus 2)*
 
+#### 副歌 3（重复）
+
+*(同副歌 2)*
+
 #### Chorus 4（重复）
 
 *(同 Chorus 2)*
+
+#### 副歌 4（重复）
+
+*(同副歌 2)*
 
 #### Bridge
 
@@ -143,114 +208,50 @@ Sink in the river the lessons I've learned
 Take that money, watch it burn
 Sink in the river the lessons I've learned
 
+#### 桥段
+
+哦，把钱拿去，看它燃烧
+把我学过的功课沉进河里
+把钱拿去，看它燃烧
+把我学过的功课沉进河里
+把钱拿去，看它燃烧
+把我学过的功课沉进河里
+把钱拿去，看它燃烧
+把我学过的功课沉进河里
+
 #### Final Hook
 
 Everything that kills me makes me feel alive
+
+#### 终段钩子句
+
+杀不死我的，让我更鲜活
 
 #### Chorus 5（重复）
 
 *(同 Chorus 2)*
 
+#### 副歌 5（重复）
+
+*(同副歌 2)*
+
 #### Chorus 6（终段）
 
 *(同 Chorus 2)*
+
+#### 副歌 6（终段）
+
+*(同副歌 2)*
 
 #### Outro
 
 Take that money, watch it burn
 Sink in the river the lessons I've learned
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-最近我一直、一直睡不着
-梦见我们可能成为的样子
-可是宝贝，我一直在努力祈祷
-说：「别再数钞票，我们要数星星」
-是啊，我们要数星星
-
-#### 主歌 2
-
-我把人生看成一根摆荡的藤
-把心荡过那条线
-眼前闪过种种信号
-去寻找，你就会找到
-老了，但我还没那么老
-年轻，但我还没那么敢
-我不觉得世人全都信服
-只是照别人说的做
-
-#### 预副歌 1
-
-做错事时我反而觉得对
-做对事时我反而觉得不对
-我没法骗自己，没法骗，没法骗
-杀不死我的，让我更鲜活
-
-#### 副歌 1
-
-最近我一直、一直睡不着
-梦见我们可能成为的样子
-可是宝贝，我一直在努力祈祷
-说：「别再数钞票，我们要数星星」
-是啊，我们要数星星
-
-#### 副歌 2
-
-最近我一直、一直睡不着
-梦见我们能成为的样子
-可是宝贝，我一直在努力祈祷
-说：「别再数钞票，我们要、要数星星」
-是啊
-
-#### 主歌 3
-
-我感受到你的爱，感到它燃烧
-顺这条河，每个转弯
-希望是我们四个字母的词
-把钱赚来，看它烧掉
-老了，但我还没那么老
-年轻，但我还没那么敢
-我不觉得世人全都信服
-只是照别人说的做
-
-#### 预副歌 2
-
-做对事时我反而觉得不对
-我没法骗自己，没法骗，没法骗
-淹没我的，反而让我想飞
-
-#### 副歌 3（重复）
-
-#### 副歌 4（重复）
-
-#### 桥段
-
-哦，把钱拿去，看它燃烧
-沉入河里——我学到的教训
-把钱拿去，看它燃烧
-沉入河里——我学到的教训
-把钱拿去，看它燃烧
-沉入河里——我学到的教训
-把钱拿去，看它燃烧
-沉入河里——我学到的教训
-
-#### Final 钩子句
-
-杀不死我的，让我更鲜活
-
-#### 副歌 5（重复）
-
-#### 副歌 6（终段）
-
-#### 尾声
+#### 尾奏
 
 把钱拿去，看它燃烧
-沉入河里——我学到的教训
-*(以上两句重复至结尾)*
+把我学过的功课沉进河里
 
 ## 重点表达 · Key Phrases
 

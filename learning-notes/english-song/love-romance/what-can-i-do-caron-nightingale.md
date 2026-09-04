@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -73,12 +71,26 @@ I just never read between the lines
 Then I woke up one day and found you on your way
 Leaving nothing but my heart behind
 
+#### 主歌 1
+
+我早该察觉，一直就不对劲
+只是我从没读懂弦外之音
+直到有一天醒来，发现你已要离开
+只把我的心留在原地
+
 #### Chorus
 
 What can I do to make it up to you?
 Promises don't come easy
 But tell me if there's a way to bring you back home to stay
 Well, I'd promise anything to you
+
+#### 副歌
+
+我能做什么来弥补你？
+承诺从来不是轻易出口的话
+可若还有办法让你回家、留下来
+我愿意为你许下任何承诺
 
 #### Verse 2
 
@@ -88,6 +100,14 @@ Wondering what I'm gonna do
 I knew I needed you more
 Than to take a chance on losing you
 
+#### 主歌 2
+
+我低着头四处游荡
+不知该怎么办
+因为当你走出那扇门
+我才明白我更需要你
+绝不愿再拿失去你去赌
+
 #### Chorus（重复）
 
 What can I do to make it up to you?
@@ -95,12 +115,26 @@ Promises don't come easy
 You know I've made up my mind to make it work this time
 That's the promise that I give to you
 
+#### 副歌（重复）
+
+我能做什么来弥补你？
+承诺从来不是轻易出口的话
+你知道我已下定决心，这次要认真
+这是我给你的承诺
+
 #### Bridge
 
 You never thought I loved you
 I guess you never thought I cared
 Well, I was just too proud to say it out loud
 Now I know, to let my feelings go, so tell me
+
+#### 桥段
+
+你从没想过我爱过你
+大概也以为我从不在乎
+我只是太骄傲，说不出口
+现在我懂了：该把感情放出来——所以告诉我
 
 #### Final Chorus
 
@@ -111,50 +145,10 @@ That's the promise I can give to you
 
 What can I do to make it up to you?
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我早该察觉，一直就不对劲
-只是我从没读懂弦外之音
-直到有一天醒来，发现你要离开
-只留下一颗心碎的我
-
-#### 副歌
-
-我能做什么来弥补你？
-承诺不是随口就来
-但若还有办法让你回家、留下来
-我愿意为你承诺任何事
-
-#### 主歌 2
-
-我一直低着头四处游荡
-不知该怎么办
-因为当你走出门那一刻
-我才明白我更需要你
-而不是赌一把失去你
-
-#### 副歌（重复）
-
-我能做什么来弥补你？
-承诺不是随口就来
-你知道我已下定决心，这次要认真
-这是我给你的承诺
-
-#### 桥段
-
-你从没想到我爱过你
-大概也以为我从不在乎
-我只是太骄傲，说不出口
-现在我懂了，该放下自尊说出感受，所以告诉我
-
 #### 终段副歌
 
 我能做什么来弥补你？
-承诺不是随口就来
+承诺从来不是轻易出口的话
 你知道我已下定决心，这次要认真
 这是我能给你的承诺
 

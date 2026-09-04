@@ -65,10 +65,8 @@ aliases:
 
 > 以下歌词对应 **Sigrid 版**录音；与 Cohen 原作文本一致。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -81,6 +79,17 @@ The poor stay poor, the rich get rich
 That's how it goes
 Everybody knows
 
+#### 主歌 1
+
+人人都知道骰子做了手脚
+人人都交叉着手指去赌
+人人都知道仗已经打完
+人人都知道好人输了
+人人都知道这场架早内定
+穷人依旧穷，富人越来越富
+世道就是这样
+人人都知道
+
 #### Verse 2
 
 Everybody knows that the boat is leaking
@@ -91,6 +100,17 @@ Everybody talking to their pockets
 Everybody wants a box of chocolates
 And a long-stem rose
 Everybody knows
+
+#### 主歌 2
+
+人人都知道船在漏水
+人人都知道船长撒了谎
+人人心里都碎着一块
+像刚失去父亲，或刚失去爱犬
+人人都对着自己的口袋说话
+人人都想要一盒巧克力
+再加一支长茎玫瑰
+人人都知道
 
 #### Verse 3
 
@@ -103,6 +123,17 @@ But there were so many people you just had to meet
 Without your clothes
 Everybody knows
 
+#### 主歌 3
+
+人人都知道你爱我，宝贝
+人人都知道你是真心的
+人人都知道你一直忠贞
+哦，顶多差那么一两晚
+人人都知道你够小心
+可你总有那么多人非见不可
+还不穿衣服
+人人都知道
+
 #### Chorus
 
 Everybody knows, everybody knows
@@ -111,6 +142,15 @@ Everybody knows
 Everybody knows, everybody knows
 That's how it goes
 Everybody knows
+
+#### 副歌
+
+人人都知道，人人都知道
+世道就是这样
+人人都知道
+人人都知道，人人都知道
+世道就是这样
+人人都知道
 
 #### Verse 4
 
@@ -123,6 +163,17 @@ Old Black Joe's still picking cotton
 For your ribbons and bows
 And everybody knows
 
+#### 主歌 4
+
+人人都知道此刻不搏便再无机会
+人人都知道不是你死就是我活
+人人都知道你能长生不老
+只要吸上一两行
+人人都知道这笔买卖烂透了
+老黑乔还在摘棉花
+好给你丝带和蝴蝶结
+人人都知道
+
 #### Verse 5
 
 And everybody knows that the plague is coming
@@ -133,6 +184,17 @@ Everybody knows the scene is dead
 But there's gonna be a meter on your bed
 That will disclose
 What everybody knows
+
+#### 主歌 5
+
+人人都知道瘟疫将至
+人人都知道它来势很快
+人人都知道那对赤裸的男女
+不过是往日闪光的遗物
+人人都知道这场面已经死了
+可你床上终会装上计量表
+它会揭开
+人人都知道的那些事
 
 #### Verse 6
 
@@ -145,83 +207,15 @@ Take one last look at this Sacred Heart
 Before it blows
 Everybody knows
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-人人都知道骰子做了手脚
-人人都交叉手指掷骰
-人人都知道战争结束了
-人人都知道好人输了
-人人都知道比赛内定
-穷人依旧穷，富人越来越富
-就是这样
-人人都知道
-
-#### 主歌 2
-
-人人都知道船在漏水
-人人都知道船长撒了谎
-人人心里都有这种破碎感
-像刚失去父亲或爱犬
-人人都在跟自己的口袋说话
-人人都想要一盒巧克力
-和一支长茎玫瑰
-人人都知道
-
-#### 主歌 3
-
-人人都知道你爱我，宝贝
-人人都知道你是真的
-人人都知道你一直忠诚
-哦，顶多差个一两晚
-人人都知道你够 discreet
-但你要见的人实在太多
-而且都不穿衣服
-人人都知道
-
-#### 副歌
-
-人人都知道，人人都知道
-就是这样
-人人都知道
-人人都知道，人人都知道
-就是这样
-人人都知道
-
-#### 主歌 4
-
-人人都知道现在是最后机会
-人人都知道是你还是我
-人人都知道你吸一两口就能「永生」
-当你吸了一两行之后
-人人都知道这笔交易烂透了
-老 Black Joe 还在摘棉花
-为了你的丝带和蝴蝶结
-人人都知道
-
-#### 主歌 5
-
-人人都知道瘟疫要来
-人人都知道它蔓延很快
-人人都知道裸体的男人和女人
-只是过去闪光的遗迹
-人人都知道这场景已死
-但你的床上会装个计量器
-它会揭露
-人人都知道的事
-
 #### 主歌 6
 
-人人都知道你 trouble 了
-人人都知道你经历了什么
-从 Calvary 顶上血淋淋的十字架
-到 Malibu 的海滩
-人人都知道一切在分崩离析
-在这 Sacred Heart 消失前最后看一眼
-在它爆炸之前
+人人都知道你惹上了麻烦
+人人都知道你熬过了什么
+从髑髅地山顶那血淋淋的十字架
+到马里布的海滩
+人人都知道一切正在崩裂
+再看这颗圣心最后一眼
+在它炸开之前
 人人都知道
 
 ## 重点表达 · Key Phrases

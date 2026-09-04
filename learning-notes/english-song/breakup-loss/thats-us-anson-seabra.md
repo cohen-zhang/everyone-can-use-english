@@ -63,10 +63,8 @@ aliases:
 
 > 原文含粗口（*God damn*），为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,14 @@ I shoulda known it 'cause it happens every God damn time
 Almost thought we could've been something
 Almost thought we could have tried, but
 It didn't happen so I need you to get out my life
+
+#### 主歌 1
+
+我早该知道成不了，因为本来就不对
+我早该知道——这他妈每次都会重演
+差点以为我们能成点什么
+差点以为我们还能再试一次，可是
+没成，所以我要你滚出我的生活
 
 #### Pre-Chorus
 
@@ -86,6 +92,16 @@ Oh, this could never end well
 Know it's only human but I never learn
 I want you for myself
 
+#### 预副歌
+
+可前几天夜里，你又钻进我脑子里
+给你打了电话
+明明说过想一个人，却还想你来占用我的时间
+哦，我早该知道这行不通
+哦，这绝不会有好下场
+知道这不过是人性，可我永远学不乖
+我还是想独占你
+
 #### Chorus
 
 I can take the fall, the pain, the pleasure
@@ -95,6 +111,15 @@ What if we're not all that we thought?
 Then we won't make it along
 But hey, I guess that's us
 
+#### 副歌
+
+坠落、痛苦、欢愉，我都能承受
+好坏你也都拿走
+可万一我们错了呢？
+万一我们没自己想得那么好？
+那我们就走不下去
+不过嘿，我想这就是我们
+
 #### Verse 2
 
 We couldn't help it but you know that doesn't make it right
@@ -102,6 +127,14 @@ You say I'm selfish but I know you felt the same inside
 Everybody says it's all okay
 Everybody says we're fine, but
 Guess someone else is what you need to make you feel alright
+
+#### 主歌 2
+
+我们由不得自己，可你知道这并不等于对
+你说我自私，我知道你心里也一样
+人人都说没事
+人人都说我们挺好，可是
+看来你需要别人，才能觉得好过
 
 #### Pre-Chorus（重复）
 
@@ -113,7 +146,23 @@ Oh and I should know this could never work
 Oh, this could never end well
 Know it's only human, but I never learn, I need you for myself
 
+#### 预副歌（重复）
+
+可明晚我大概会叫辆车
+出现在你门口
+夜里爱你，清晨把你留在床上
+发着冷，却又渴望更多
+哦，我早该知道这行不通
+哦，这绝不会有好下场
+知道这不过是人性，可我永远学不乖，我还是想独占你
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Instrumental
 
@@ -121,6 +170,13 @@ Hmmm
 Hmmm
 Hmmm
 Hmmm
+
+#### 间奏
+
+嗯……
+嗯……
+嗯……
+嗯……
 
 #### Final Chorus
 
@@ -131,69 +187,9 @@ What if we're not all that we thought?
 Then we won't make it along
 But hey, I guess that's love
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我早该知道成不了，因为本来就不对
-我早该知道——这他妈每次都会重演
-差点以为我们能有点什么
-差点以为我们还能试试，可是
-没成，所以我需要你滚出我的生活
-
-#### 预副歌
-
-可前几天夜里我又想起你
-给你打了电话
-明明说过想一个人，却还想你占用我的时间
-哦，我早该知道这行不通
-哦，这绝不会有好下场
-知道这只是人性，可我永远学不乖
-我还是想独占你
-
-#### 副歌
-
-坠落、痛苦、欢愉我都能承受
-好坏你也都拿走
-可万一我们错了呢？
-万一我们没自己想得那么好？
-那我们就走不下去
-不过嘿，我想这就是我们
-
-#### 主歌 2
-
-我们控制不住，但你知道这并不代表对
-你说我自私，但我知道你内心也一样
-人人都说没事
-人人都说我们挺好，可是
-看来你需要别人才能觉得好过
-
-#### 预副歌（重复）
-
-但明晚我大概会叫辆出租车
-出现在你门口
-夜里爱你，清晨留你在床上
-冷清，却又渴望更多
-哦，我早该知道这行不通
-哦，这绝不会有好下场
-知道这只是人性，可我永远学不乖，我还是想独占你
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### Instrumental
-
-嗯……
-嗯……
-嗯……
-嗯……
-
 #### 终段副歌
 
-坠落、痛苦、欢愉我都能承受
+坠落、痛苦、欢愉，我都能承受
 好坏你也都拿走
 可万一我们错了呢？
 万一我们没自己想得那么好？

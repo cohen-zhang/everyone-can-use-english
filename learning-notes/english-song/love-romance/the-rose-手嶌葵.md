@@ -66,10 +66,8 @@ aliases:
 
 > 标准歌词（Amanda McBroom / Bette Midler 经典版）；手嶌葵翻唱同词。原文件误嵌 *"Alfie"*，已更正。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -82,6 +80,17 @@ An endless aching need
 I say love, it is a flower
 And you, its only seed
 
+#### 主歌 1
+
+有人说，爱是一条河
+会把柔弱的芦苇淹没
+有人说，爱是一把剃刀
+会让灵魂淌血
+有人说，爱是一种饥饿
+一种没完没了的隐痛与渴求
+我说，爱是一朵花
+而你，是它唯一的种子
+
 #### Verse 2
 
 It's the heart afraid of breaking
@@ -92,6 +101,17 @@ It's the one who won't be taken
 Who cannot seem to give
 And the soul afraid of dying
 That never learns to live
+
+#### 主歌 2
+
+是那颗怕碎的心
+永远学不会跳舞
+是那不敢醒来的梦
+永远不敢去试一次
+是那个不愿被带走的人
+似乎怎么也给不出去
+还有那惧死的灵魂
+永远学不会活着
 
 #### Verse 3
 
@@ -104,35 +124,9 @@ Far beneath the bitter snow
 Lies the seed that with the sun's love
 In the spring becomes the rose
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-有人说，爱是一条河
-会淹没柔弱的芦苇
-有人说，爱是一把刀
-会让你的灵魂流血
-有人说，爱是一种饥饿
-一种没完没了的隐痛与渴求
-我说，爱是一朵花
-而你，是它唯一的种子
-
-#### 主歌 2
-
-是那颗怕碎的心
-永远学不会跳舞
-是那怕醒来的梦
-永远不敢去试一次
-是那个不愿被带走的人
-似乎怎么也给不出去
-还有那怕死的灵魂
-永远学不会活着
-
 #### 主歌 3
 
-当夜晚太过孤独
+当夜太孤独
 路也走得太长
 你以为爱不过是
 幸运者与强者的事

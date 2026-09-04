@@ -61,10 +61,8 @@ Seal 在 *Soul* 中的 **"Stand By Me"** 是对 1961 年经典的情歌**灵魂/
 
 > 本笔记为 **Seal 2008 年翻唱版**；结构与 Ben E. King 原版相同，但编曲更慢、更 soul，并含额外 ad-lib。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,11 +74,27 @@ No, I won't be afraid
 No, I won't be afraid
 Just as long as you stand, stand by me
 
+#### 主歌 1
+
+当夜晚降临
+大地一片漆黑
+月亮是我们唯一能见的光
+
+不，我不会害怕
+不，我不会害怕
+只要你守在我身边
+
 #### Chorus 1
 
 So darlin', darlin', stand by me
 Oh-oh, stand by me
 Oh stand, stand by me, stand by me
+
+#### 副歌 1
+
+所以亲爱的，亲爱的，守在我身边
+哦——哦，守在我身边
+哦，守着，守在我身边，守在我身边
 
 #### Verse 2
 
@@ -89,11 +103,24 @@ Or the mountains should crumble to the sea
 I won't cry, I won't cry, no-no-no, I won't shed a tear
 Just as long as you stand by me
 
+#### 主歌 2
+
+若我们仰望的天空崩塌坠落
+或群山碎入大海
+我不会哭，不会哭，不——不，我不会落一滴泪
+只要你守在我身边
+
 #### Chorus 2
 
 And darlin', darlin', stand by me
 Oh-oh-oh, stand by me
 Oh darling, stand by me, stand by me, stand by me
+
+#### 副歌 2
+
+亲爱的，亲爱的，守在我身边
+哦——哦——哦，守在我身边
+哦亲爱的，守在我身边，守在我身边，守在我身边
 
 #### Bridge / Ad-lib
 
@@ -103,11 +130,25 @@ Ma-ma-my, my-ee
 If the mountains should crumble to the sea
 Ma-ma-my-my-my
 
+#### 桥段 / 即兴
+
+喔——哦——哦，哎——哎
+玛——玛——迈，迈——咦
+
+若群山碎入大海
+玛——玛——迈迈迈
+
 #### Verse 3（重复 Verse 1，略有变化）
 
 When the night has come
 And, and the land is dark
 And the moon is the only, only light we'll see
+
+#### 主歌 3（重复 Verse 1，略有变化）
+
+当夜晚降临
+而，而大地一片漆黑
+月亮是我们唯一、唯一能见的光
 
 #### Final Chorus / Outro
 
@@ -121,64 +162,17 @@ As long as I know I got you right here
 Right here by my side
 Come on, come on, stand, stand right here
 
----
+#### 终段副歌 / 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-当夜晚降临
-大地一片漆黑
-月亮是我们唯一能见的光
-
-不，我不会害怕
-不，我不会害怕
-只要你守在我身边
-
-#### 副歌 1
-
-所以亲爱的，请守在我身边
-哦，守在我身边
-哦，守在我身边
-
-#### 主歌 2
-
-若我们仰望的天空崩塌坠落
-或群山倾入大海
-我不会哭，不会哭，不，我不会流一滴泪
-只要你守在我身边
-
-#### 副歌 2
-
-亲爱的，请守在我身边
-哦，守在我身边
-哦亲爱的，守在我身边
-
-#### 桥段 / 即兴
-
-（即兴）
-（即兴）
-
-若群山倾入大海
-（即兴）
-
-#### 主歌 3（重复 主歌 1，略有变化）
-
-当夜晚降临
-而，而大地一片漆黑
-月亮是我们唯一、唯一的光
-
-#### 终段副歌 / 尾声
-
-所以亲爱的，请守在我身边
-哦亲爱的，守在我身边
+所以亲爱的，亲爱的，守在我身边，哦——哦，守在我身边
+哦亲爱的，守在我身边，守在我身边
 每当你陷入困境，能否守在我身边
-哦，守在我身边
+哦——哦——哦，守在我身边，守在我身边，守在我身边
 
-所以亲爱的……（即兴）
-只要我知道你就守在这里
+所以亲爱的，亲爱的，守着，哦——哦，呜——呜，哦——哦
+只要我知道你就在这里
 就在我身旁
-来吧，来吧，就守在这里
+来吧，来吧，守着，就守在这里
 
 ## 重点表达 · Key Phrases
 

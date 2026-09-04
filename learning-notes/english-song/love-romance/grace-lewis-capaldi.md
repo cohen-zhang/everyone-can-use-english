@@ -60,14 +60,16 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 I'm not ready to be just another of your mistakes
+
+#### 前奏
+
+我还没准备好，沦为你又一次失手
 
 #### Verse 1
 
@@ -76,12 +78,26 @@ I fell victim to the sound of your love
 You're like a song that I ain't ready to stop
 I got nothing but you on my mind
 
+#### 主歌 1
+
+我总也没法把你从脑海里淹灭够久
+我栽进了你爱的声响里
+你像一首我还不想按下停止的歌
+满脑子里，只剩你
+
 #### Pre-Chorus
 
 I'm not ready to be just another of your mistakes
 Don't wanna let the pieces fall out of place
 I was only just a breath removed from going to waste
 'Till I found salvation in the form of your
+
+#### 预副歌
+
+我还没准备好，沦为你又一次失手
+不想让这些碎片从原处散落
+我离彻底荒废，只差一口气
+直到我在你的……里找到救赎
 
 #### Chorus
 
@@ -90,12 +106,26 @@ Don't take it away
 Your grace, your grace, your grace
 Don't take it away
 
+#### 副歌
+
+你的恩典，你的恩典，你的恩典
+别把它拿走
+你的恩典，你的恩典，你的恩典
+别把它拿走
+
 #### Verse 2
 
 On the verge of almost bleeding you out
 Are we too wounded now to ever come down?
 Oh, how I long for us to find common ground
 I got nothing but you on my mind
+
+#### 主歌 2
+
+几乎要把你放尽、榨到见血
+我们是不是伤得太深，再也落不回地面？
+哦，我多么渴望我们能找到一块共同的土地
+满脑子里，只剩你
 
 #### Pre-Chorus（重复）
 
@@ -104,12 +134,23 @@ Don't wanna let the pieces fall out of place
 I was only just a breath removed from going to waste
 'Till I found salvation in the form of your
 
+#### 预副歌（重复）
+
+*(同预副歌)*
+
 #### Chorus（重复）
 
 Your grace, your grace, your grace
 Don't take it away
 Your grace, your grace, your grace
 Don't take it, take it
+
+#### 副歌（重复）
+
+你的恩典，你的恩典，你的恩典
+别把它拿走
+你的恩典，你的恩典，你的恩典
+别拿走，拿走
 
 #### Bridge
 
@@ -119,6 +160,15 @@ Way too close to colour your comfort
 All dressed up but kept undercover
 Your grace, your grace, your grace
 Don't take it away
+
+#### 桥段
+
+靠得太近，连你的安逸都被染了色
+盛装打扮，却始终藏在暗处
+靠得太近，连你的安逸都被染了色
+盛装打扮，却始终藏在暗处
+你的恩典，你的恩典，你的恩典
+别把它拿走
 
 #### Pre-Chorus / Final Chorus（重复至结尾）
 
@@ -134,70 +184,11 @@ Your grace, your grace, your grace
 Your grace, your grace
 Don't take it away
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-我还没准备好当你又一个错误
-
-#### 主歌 1
-
-我好像怎么也没法把你从脑海里淹掉够久
-我栽在你爱的声音里
-你像一首我还不想停的歌
-我脑子里只有你
-
-#### 预副歌
-
-我还没准备好当你又一个错误
-不想让一切分崩离析
-我离彻底荒废只差一口气
-直到我在你的……里找到救赎
-
-#### 副歌
-
-你的恩典，你的恩典，你的恩典
-别把它拿走
-你的恩典，你的恩典，你的恩典
-别把它拿走
-
-#### 主歌 2
-
-几乎要把你榨干、榨到流血
-我们是不是伤得太重，再也落不回地面？
-哦，我多么渴望我们能找到共同点
-我脑子里只有你
-
-#### 预副歌（重复）
-
-我还没准备好当你又一个错误
-不想让一切分崩离析
-我离彻底荒废只差一口气
-直到我在你的……里找到救赎
-
-#### 副歌（重复）
-
-你的恩典，你的恩典，你的恩典
-别把它拿走
-你的恩典，你的恩典，你的恩典
-别拿走，拿走
-
-#### 桥段
-
-靠得太近，连你的安逸都被染上了色
-打扮整齐却一直被藏着
-靠得太近，连你的安逸都被染上了色
-打扮整齐却一直被藏着
-你的恩典，你的恩典，你的恩典
-别把它拿走
-
 #### 预副歌 / 终段副歌（重复至结尾）
 
-我还没准备好当你又一个错误
-不想让一切分崩离析
-我离彻底荒废只差一口气
+我还没准备好，沦为你又一次失手
+不想让这些碎片从原处散落
+我离彻底荒废，只差一口气
 直到我在你的……里找到救赎
 
 你的恩典，你的恩典，你的恩典

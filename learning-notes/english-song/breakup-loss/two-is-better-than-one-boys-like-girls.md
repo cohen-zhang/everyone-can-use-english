@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,6 +75,16 @@ You know this could be something
 You know that it all takes my breath away
 And now I'm left with nothing
 
+#### 主歌 1
+
+我记得你第一天穿的什么
+你走进我的生活，我想，嘿
+你知道这可能会发展成什么
+
+因为你的一举一动、一言一语
+你知道这些都让我屏息
+而现在我心里什么都不剩
+
 #### Chorus
 
 So maybe it's true
@@ -86,6 +94,16 @@ But there's so much time
 To figure out the rest of my life
 And you've already got me coming undone
 And I'm thinking two is better than one
+
+#### 副歌
+
+所以也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
+我在想，两个人在一起更好
 
 #### Verse 2
 
@@ -97,6 +115,16 @@ You make it hard for breathing
 I think of you and everything's okay
 I'm finally now believing
 
+#### 主歌 2
+
+我记得你脸上每一个表情
+你翻白眼的样子，你吻的味道
+你让我呼吸困难
+
+因为当我闭眼、神游时
+想到你，一切都好
+我终于开始相信了
+
 #### Chorus（重复）
 
 Then maybe it's true
@@ -107,10 +135,25 @@ To figure out the rest of my life
 And you've already got me coming undone
 And I'm thinking two is better than one
 
+#### 副歌（重复）
+
+那时也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
+我在想，两个人在一起更好
+
 #### Bridge
 
 I remember what you wore on the first day
 You came into my life and I thought, hey (hey, hey)
+
+#### 桥段
+
+我记得你第一天穿的什么
+你走进我的生活，我想，嘿（嘿，嘿）
 
 #### Chorus（Bridge 后）
 
@@ -120,6 +163,15 @@ And maybe two is better than one
 But there's so much time
 To figure out the rest of my life
 And you've already got me coming undone
+
+#### 副歌（桥段 后）
+
+也许这是真的
+我离不开你
+也许两个人在一起更好
+但人生还有那么多时间
+去弄清余下的人生该怎么过
+而你早已让我溃不成军
 
 #### Outro
 
@@ -132,65 +184,7 @@ But I've figured out when all that's said and done
 Two is better than one
 Two is better than one
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我记得你第一天穿的什么
-你走进我的生活，我想，嘿
-你知道这可能会发展成什么
-
-因为你的一举一动、一言一语
-你知道这些都让我屏息
-而现在我心里什么都不剩（只剩你）
-
-#### 副歌
-
-所以也许这是真的
-我离不开你
-也许两个人在一起更好
-但人生还有那么多时间
-去弄清余下的人生该怎么过
-而你早已让我溃不成军
-我在想，两个人在一起更好
-
-#### 主歌 2
-
-我记得你脸上每一个表情
-你翻白眼的样子，你吻的味道
-你让我呼吸困难（太心动）
-
-因为当我闭眼、神游时
-想到你，一切都好
-我终于开始相信了
-
-#### 副歌（重复）
-
-那时也许这是真的
-我离不开你
-也许两个人在一起更好
-但人生还有那么多时间
-去弄清余下的人生该怎么过
-而你早已让我溃不成军
-我在想，两个人在一起更好
-
-#### 桥段
-
-我记得你第一天穿的什么
-你走进我的生活，我想，嘿（嘿，嘿）
-
-#### 副歌（桥段 后）
-
-也许这是真的
-我离不开你
-也许两个人在一起更好
-但人生还有那么多时间
-去弄清余下的人生该怎么过
-而你早已让我溃不成军
-
-#### 尾声
+#### 尾奏
 
 我在想，哦
 我离不开你

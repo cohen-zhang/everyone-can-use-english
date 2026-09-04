@@ -61,14 +61,17 @@ aliases:
 
 > 开场含粗口，为歌曲原词；学习时注意场合与版本（电台版会替换）。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Baby squirrel, you's a sexy motherfucker
+*(电台版常改为 sexy thing 等)*
+
+#### 前奏
+
+小松鼠宝贝，你真他妈性感
 *(电台版常改为 sexy thing 等)*
 
 #### Verse 1
@@ -79,6 +82,14 @@ I got to tell you a little something about yourself (self)
 You're wonderful, flawless, ooh, you're a sexy lady (sexy lady)
 But you walk around here like you wanna be someone else (else)
 
+#### 主歌 1
+
+给我你的，给我你的
+把注意力给我，宝贝（注意力，宝贝）
+我得跟你说点关于你自己的事（自己）
+你很棒、完美无瑕，哦，你是个性感的女人（性感的女人）
+可你在这儿走来走去，像想成为别人（别人）
+
 #### Pre-Chorus
 
 Oh, whoa
@@ -88,6 +99,15 @@ Oh, whoa
 Oh girl, I'm gonna show you
 When you're mine, oh, mine (mine, oh, mine)
 
+#### 预副歌
+
+哦，哇
+我知道你自己不知道
+但你很美，美得发光（美得发光）
+哦，哇
+哦女孩，我要让你看见
+当你属于我，哦，属于我（属于我，哦，属于我）
+
 #### Chorus
 
 Treasure, that is what you are
@@ -96,6 +116,14 @@ You know you can make my wish come true
 If you let me treasure you
 If you let me treasure you, oh, oh, oh
 
+#### 副歌
+
+珍宝，你就是珍宝
+亲爱的，你是我的金星
+你知道你能让我愿望成真
+若你愿意让我珍藏你
+若你愿意让我珍藏你，哦，哦，哦
+
 #### Verse 2
 
 Pretty girl, pretty girl, pretty girl
@@ -103,6 +131,14 @@ You should be smiling (you should be smiling)
 A girl like you should never look so blue (blue)
 You're everything I see in my dreams
 I wouldn't say that to you if it wasn't true (true)
+
+#### 主歌 2
+
+漂亮女孩，漂亮女孩，漂亮女孩
+你应该在笑（你应该在笑）
+像你这样的女孩不该这么忧郁（忧郁）
+你是我梦里看见的一切
+若不是真的，我不会对你说（真的）
 
 #### Pre-Chorus（重复）
 
@@ -113,6 +149,10 @@ Oh, whoa
 Oh girl, I'm gonna show you
 When you're mine, oh, mine (mine, oh, mine)
 
+#### 预副歌（重复）
+
+*(同第一段预副歌)*
+
 #### Chorus（重复）
 
 Treasure, that is what you are
@@ -121,74 +161,21 @@ You know you can make my wish come true
 If you let me treasure you
 If you let me treasure you, oh, oh, oh
 
+#### 副歌（重复）
+
+*(同第一段副歌)*
+
 #### Outro
 
 You are my treasure, you are my treasure
 You are my treasure, yeah, you, you, you, you are
 *(Chorus repeats and ad-libs to the end)*
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-小松鼠宝贝，你真他妈性感
-
-#### 主歌 1
-
-给我你的，给我你的
-把注意力给我，宝贝（注意力，宝贝）
-我得跟你说点关于你的事
-你很棒、完美，哦，你是个性感女士
-可你在这儿走来走去，像想成为别人
-
-#### 预副歌
-
-哦，哇
-我知道你不知道
-但你很美，非常美
-哦，哇
-哦女孩，我要让你看见
-当你属于我，哦，属于我
-
-#### 副歌
-
-宝贝，你就是珍宝
-亲爱的，你是我的金星
-你知道你能让我愿望成真
-若你愿意让我珍藏你
-若你愿意让我珍藏你，哦，哦，哦
-
-#### 主歌 2
-
-漂亮女孩，漂亮女孩，漂亮女孩
-你应该在笑
-像你这样的女孩不该这么忧郁
-你是我梦里看见的一切
-若不是真的，我不会对你说
-
-#### 预副歌（重复）
-
-哦，哇
-我知道你不知道
-但你很美，非常美
-哦，哇
-哦女孩，我要让你看见
-当你属于我，哦，属于我
-
-#### 副歌（重复）
-
-宝贝，你就是珍宝
-亲爱的，你是我的金星
-你知道你能让我愿望成真
-若你愿意让我珍藏你
-若你愿意让我珍藏你，哦，哦，哦
-
-#### 尾声
+#### 尾奏
 
 你是我的珍宝，你是我的珍宝
-你是我的珍宝，对，你就是你
+你是我的珍宝，对，你、你、你，就是你
+*(副歌重复，即兴至结尾)*
 
 ## 重点表达 · Key Phrases
 

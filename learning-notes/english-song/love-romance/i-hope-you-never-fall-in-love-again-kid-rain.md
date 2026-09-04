@@ -60,10 +60,8 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -72,6 +70,14 @@ I hope that every guy you meet is a weirdo
 I hope you never make it out of the friend zone
 You're so low, oh no
 I hope you never fall in love again
+
+#### 副歌
+
+但愿你再也爱不上谁
+但愿你遇见的每个男人都是怪胎
+但愿你永远走不出朋友区
+你跌得这么惨，哦不
+但愿你再也爱不上谁
 
 #### Verse 1
 
@@ -85,6 +91,18 @@ But he turns up late, in his mummy's estate
 Oh no, it's going downhill
 And now he wants to split
 
+#### 主歌 1
+
+对，但愿你右滑配对成功
+遇见一个「好男人」
+跟闺蜜说他眼睛很好看
+他还跟你喜欢同一类音乐
+但怎么会有人爱 Blink-182 胜过 Beatles？
+但愿你花整整六个钟头打扮去约会
+他却迟到，还住在妈妈的房子里
+哦不，一路下坡
+这会儿他还想 AA
+
 #### Chorus（变体 · 第一段后）
 
 I hope you never fall in love again
@@ -97,6 +115,18 @@ I hope they meet your best friend and they chose her
 So one, two
 Fuck you!
 
+#### 副歌（变体 · 第一段后）
+
+但愿你再也爱不上谁
+但愿你遇见的每个男人都是怪胎
+但愿你永远走不出朋友区
+你跌得这么惨，哦不
+但愿你再也爱不上谁
+但愿你遇见的每个男人都是废柴
+但愿他们遇见闺蜜却选了她
+那么，一、二
+去你的！
+
 #### Verse 2
 
 I hope you get stuck in the talking stage
@@ -106,6 +136,16 @@ But earn half the pay, and forget your name
 I hope you have bad dates, and heartbreaks
 Staying up too late on weekdays, thinkin' bout
 Everything we had that you threw away
+
+#### 主歌 2
+
+但愿你困在暧昧期
+跟一群年纪大你一倍的男人
+赚得只有你一半，还记不住你名字
+（我叫 Sarah，你这混蛋）
+但愿你约会翻车、心碎不断
+工作日熬到太晚，想着
+你扔掉的、我们曾经拥有的一切
 
 #### Chorus + Outro
 
@@ -120,63 +160,18 @@ So one, two
 Fuck you!
 *(Chorus and *Fuck you!* repeated to the end)*
 
----
+#### 副歌 + 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-我希望你再也不要谈恋爱
-希望你遇到的每个男人都是怪胎
-希望你永远走不出朋友区
-你真够惨，哦不
-我希望你再也不要谈恋爱
-
-#### 主歌 1
-
-对，希望你右滑配对成功
-遇见一个「好男人」
-跟闺蜜说他眼睛很好看
-他还跟你喜欢同一类音乐
-但怎么会有人爱 Blink-182 胜过 Beatles？
-希望你花六小时打扮去约会
-他却迟到，还住在妈妈家
-哦不，一路下坡
-现在他还想 AA 结账
-
-#### 副歌（变体 · 第一段后）
-
-我希望你再也不要谈恋爱
-希望你遇到的每个男人都是怪胎
-希望你永远走不出朋友区
-你真够惨，哦不
-我希望你再也不要谈恋爱
-希望你遇到的每个男人都是 loser
-希望他们遇见闺蜜却选了她
+但愿你再也爱不上谁
+但愿你遇见的每个男人都是怪胎
+但愿你永远走不出朋友区
+你跌得这么惨，哦不
+但愿你再也爱不上谁
+但愿你遇见的每个男人都是废柴
+但愿他们遇见闺蜜却选了她
 那么，一、二
 去你的！
-
-#### 主歌 2
-
-希望你困在暧昧期
-跟一群年纪大你一倍的男人
-赚得只有你一半，还记不住你名字
-（我叫 Sarah，你这混蛋）
-希望你约会翻车、心碎不断
-工作日熬夜，想着
-你扔掉的一切
-
-#### 副歌 + 尾声
-
-我希望你再也不要谈恋爱
-希望遇到的每个男人都是怪胎
-希望你永远走不出朋友区
-你真够惨，哦不
-我希望你再也不要谈恋爱
-希望你遇到的每个男人都是 loser
-希望他们遇见闺蜜却选了她
-那么，一、二
-去你的！
+*(副歌与「去你的！」重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

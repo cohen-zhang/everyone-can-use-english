@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -74,6 +72,16 @@ Wake me up when September ends
 Like my father's come to pass
 Seven years has gone so fast
 Wake me up when September ends
+
+#### 主歌 1
+
+夏天来了又走了
+天真从来留不久
+九月过完再叫醒我
+
+就像我父亲已经离去
+七年过得好快
+九月过完再叫醒我
 
 #### Chorus
 
@@ -86,6 +94,17 @@ As my memory rests
 But never forgets what I lost
 Wake me up when September ends
 
+#### 副歌
+
+雨又来了
+从星星上落下来
+又一次被痛浸透
+我们慢慢变成现在的自己
+
+记忆暂时歇下
+却从未忘记我失去的
+九月过完再叫醒我
+
 #### Verse 2
 
 Summer has come and passed
@@ -96,7 +115,19 @@ Ring out the bells again
 Like we did when spring began
 Wake me up when September ends
 
+#### 主歌 2
+
+夏天来了又走了
+天真从来留不久
+九月过完再叫醒我
+
+钟声再一次敲响
+像春天刚开始时那样
+九月过完再叫醒我
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Verse 3 / Outro
 
@@ -111,49 +142,10 @@ Wake me up when September ends
 Wake me up when September ends
 Wake me up when September ends
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
+#### 主歌 3 / 尾奏
 
 夏天来了又走了
-天真的日子总留不住
-九月过完再叫醒我
-
-就像我父亲已经离去
-七年过得好快
-九月过完再叫醒我
-
-#### 副歌
-
-雨又来了
-从星星上落下来
-又一次被痛浸透
-我们慢慢变成现在的自己
-
-记忆暂时歇下
-却从未忘记我失去的
-九月过完再叫醒我
-
-#### 主歌 2
-
-夏天来了又走了
-天真的日子总留不住
-九月过完再叫醒我
-
-钟声再一次敲响
-像春天刚开始时那样
-九月过完再叫醒我
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 3 / 尾声
-
-夏天来了又走了
-天真的日子总留不住
+天真从来留不久
 九月过完再叫醒我
 
 就像我父亲已经离去

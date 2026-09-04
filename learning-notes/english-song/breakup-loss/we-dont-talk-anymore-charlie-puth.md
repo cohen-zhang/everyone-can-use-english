@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -78,6 +76,17 @@ What was all of it for?
 Oh, we don't talk anymore
 Like we used to do
 
+#### 副歌
+
+我们不再说话了
+我们不再说话了
+我们不再说话了
+不像从前那样
+我们也不再相爱了
+那一切到底是为了什么？
+哦，我们不再说话了
+不像从前那样
+
 #### Verse 1（Charlie）
 
 I just heard you found the one you've been looking
@@ -86,6 +95,15 @@ I wish I would have known that wasn't me
 'Cause even after all this time I still wonder
 Why I can't move on
 Just the way you did so easily?
+
+#### 主歌 1（Charlie）
+
+我刚听说你找到了一直在找的那个人
+你一直在找的那个人
+真希望我早点知道，那个人不是我
+因为过了这么久，我仍想不通
+为什么我走不出来
+而你怎么就能这么轻易放下？
 
 #### Pre-Chorus
 
@@ -98,7 +116,24 @@ Should've known your love was a game
 Now I can't get you out of my brain
 Oh, it's such a shame
 
+#### 预副歌
+
+我不想知道
+你今晚穿的是哪条裙子
+他是不是把你抱得那么紧
+像我从前那样
+我已经沉溺过头了
+早该看出来，你的爱不过是场游戏
+如今满脑子都是你，赶也赶不走
+唉，真是可惜
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 2（Selena）
 
@@ -108,6 +143,15 @@ There must be a good reason that you're gone
 Every now and then I think you
 Might want me to come show up at your door
 But I'm just too afraid that I'll be wrong
+
+#### 主歌 2（Selena）
+
+我只希望你身边躺着的那个人
+懂得怎么像我一样爱你
+你离开，一定有个说得过去的理由
+偶尔我会觉得
+你也许希望我突然出现在你家门口
+可我又太怕自己想错了
 
 #### Pre-Chorus（Selena）
 
@@ -119,6 +163,17 @@ I overdosed
 Should've known your love was a game
 Now I can't get you out of my brain
 Ooh, it's such a shame
+
+#### 预副歌（Selena）
+
+我不想知道
+你是不是正望进她的眼睛
+她是不是把你抱得那么紧
+像我从前那样
+我已经沉溺过头了
+早该看出来，你的爱不过是场游戏
+如今满脑子都是你，赶也赶不走
+唔，真是可惜
 
 #### Chorus（带和声）
 
@@ -133,99 +188,6 @@ Like we used to do
 
 Like we used to do
 
-#### Pre-Chorus（变奏）
-
-Don't wanna know
-What kind of dress you're wearing tonight
-If he's giving it to you just right
-The way I did before
-I overdosed
-Should've known your love was a game
-Now I can't get you out of my brain
-Oh, it's such a shame
-
-#### Final Chorus
-
-That we don't talk anymore (we don't, we don't)
-We don't talk anymore (we don't, we don't)
-We don't talk anymore
-Like we used to do
-We don't love anymore (we don't, we don't)
-What was all of it for? (we don't, we don't)
-Oh, we don't talk anymore
-Like we used to do
-
-#### Outro（叠唱）
-
-(We don't talk anymore) Don't wanna know
-What kind of dress you're wearing tonight (oh)
-If he's holding onto you so tight (oh)
-The way I did before
-(We don't talk anymore) I overdosed
-Should've known your love was a game (oh)
-Now I can't get you out of my brain (woah)
-Ooh, it's such a shame
-We don't talk anymore
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-我们不再说话了
-我们不再说话了
-我们不再说话了
-不像从前那样
-我们也不再相爱了
-那一切到底是为了什么？
-哦，我们不再说话了
-不像从前那样
-
-#### 主歌 1（Charlie）
-
-我刚听说你找到了你一直在找的那个人
-你一直在找的那个人
-真希望我早点知道，那个人不是我
-因为过了这么久，我还是想不通
-为什么我走不出来
-而你怎么就能这么轻易地放下？
-
-#### 预副歌
-
-我不想知道
-你今晚穿的是哪条裙子
-他是不是把你抱得那么紧
-像我从前那样
-我已经沉溺过头了
-早该看出来，你的爱不过是场游戏
-现在我满脑子都是你，赶也赶不走
-唉，真是太可惜了
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 2（Selena）
-
-我只希望你身边躺着的那个人
-懂得怎么像我一样爱你
-你离开，一定有个说得过去的理由
-偶尔我会觉得
-你也许希望我突然出现在你家门口
-可我又太怕自己想错了
-
-#### 预副歌（Selena）
-
-我不想知道
-你是不是正看着她的眼睛
-她是不是把你抱得那么紧
-像我从前那样
-我已经沉溺过头了
-早该看出来，你的爱不过是场游戏
-现在我满脑子都是你，赶也赶不走
-唔，真是太可惜了
-
 #### 副歌（带和声）
 
 我们不再说话了（我们不了，我们不了）
@@ -239,6 +201,17 @@ We don't talk anymore
 
 不像从前那样
 
+#### Pre-Chorus（变奏）
+
+Don't wanna know
+What kind of dress you're wearing tonight
+If he's giving it to you just right
+The way I did before
+I overdosed
+Should've known your love was a game
+Now I can't get you out of my brain
+Oh, it's such a shame
+
 #### 预副歌（变奏）
 
 我不想知道
@@ -247,8 +220,19 @@ We don't talk anymore
 像我从前那样
 我已经沉溺过头了
 早该看出来，你的爱不过是场游戏
-现在我满脑子都是你，赶也赶不走
-唉，真是太可惜了
+如今满脑子都是你，赶也赶不走
+唉，真是可惜
+
+#### Final Chorus
+
+That we don't talk anymore (we don't, we don't)
+We don't talk anymore (we don't, we don't)
+We don't talk anymore
+Like we used to do
+We don't love anymore (we don't, we don't)
+What was all of it for? (we don't, we don't)
+Oh, we don't talk anymore
+Like we used to do
 
 #### 终段副歌
 
@@ -261,7 +245,19 @@ We don't talk anymore
 哦，我们不再说话了
 不像从前那样
 
-#### 尾声（叠唱）
+#### Outro（叠唱）
+
+(We don't talk anymore) Don't wanna know
+What kind of dress you're wearing tonight (oh)
+If he's holding onto you so tight (oh)
+The way I did before
+(We don't talk anymore) I overdosed
+Should've known your love was a game (oh)
+Now I can't get you out of my brain (woah)
+Ooh, it's such a shame
+We don't talk anymore
+
+#### 尾奏（叠唱）
 
 （我们不再说话了）我不想知道
 你今晚穿的是哪条裙子（哦）
@@ -269,8 +265,8 @@ We don't talk anymore
 像我从前那样
 （我们不再说话了）我已经沉溺过头了
 早该看出来，你的爱不过是场游戏（哦）
-现在我满脑子都是你，赶也赶不走（哇）
-唔，真是太可惜了
+如今满脑子都是你，赶也赶不走（哇）
+唔，真是可惜
 我们不再说话了
 
 ## 重点表达 · Key Phrases

@@ -61,10 +61,8 @@ This version is Rhys Lewis's **cover** of **Noah Cyrus**'s **"July"**, recorded 
 
 > 本版为 Rhys Lewis 翻唱 Noah Cyrus 原曲。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,10 +73,24 @@ And I've been holding back tears
 While you're throwing back beers
 I'm alone in bed
 
+#### 主歌 1
+
+我一直憋着气
+数到十
+因为你说的某句话
+我一直忍着眼泪
+而你一杯接一杯地灌啤酒
+我独自躺在床上
+
 #### Pre-Chorus
 
 You know I, I'm afraid of change
 I guess that's why we stay the same
+
+#### 预副歌
+
+你知道我，我怕改变
+我想这就是为什么我们一成不变
 
 #### Chorus
 
@@ -92,44 +104,6 @@ I'm not enough, but I still stay
 If you want me to leave
 Just tell me to leave and baby I'll go
 
-#### Verse 2
-
-It feels like a lifetime just trying to get by
-When we're dying inside
-I've done a lot of things wrong
-Loving you being one
-But I can't move on
-
-#### Pre-Chorus（重复）
-
-#### Chorus（重复）
-
-#### Outro
-
-Baby I'll go
-Baby I'll go
-Baby I'll go
-'Cause you remind me every day
-I'm not enough, but I still stay
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我一直憋着气
-数到十
-因为你说的某句话
-我一直忍着眼泪
-而你一杯接一杯地灌啤酒
-我独自躺在床上
-
-#### 预副歌
-
-你知道我，我怕改变
-我想这就是为什么我们一成不变
-
 #### 副歌
 
 那就叫我走
@@ -142,6 +116,14 @@ I'm not enough, but I still stay
 如果你想让我走
 开口就行，宝贝，我会走
 
+#### Verse 2
+
+It feels like a lifetime just trying to get by
+When we're dying inside
+I've done a lot of things wrong
+Loving you being one
+But I can't move on
+
 #### 主歌 2
 
 光是熬过去就像一辈子
@@ -150,22 +132,29 @@ I'm not enough, but I still stay
 爱你就是其中之一
 但我走不出来
 
+#### Pre-Chorus（重复）
+
 #### 预副歌（重复）
 
-*(同第一段)*
+#### Chorus（重复）
 
 #### 副歌（重复）
 
-*(同第一段副歌)*
+#### Outro
 
-#### 尾声
+Baby I'll go
+Baby I'll go
+Baby I'll go
+'Cause you remind me every day
+I'm not enough, but I still stay
+
+#### 尾奏
 
 宝贝，我会走
 宝贝，我会走
 宝贝，我会走
 因为你每天提醒
 我不够好，可我还留着
-*(以上五句重复多遍至结尾)*
 
 ## 重点表达 · Key Phrases
 

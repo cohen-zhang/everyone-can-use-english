@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -73,6 +71,14 @@ If I'm ever gonna fall in love
 I know it's gon' be you
 It's you, it's always you
 Met a lot of people, but nobody feels like you
+
+#### 副歌
+
+是你，一直都是你
+若我终将坠入爱河
+我知道那个人只会是你
+是你，一直都是你
+我见过很多人，但没人像你
 
 #### Verse 1
 
@@ -85,6 +91,17 @@ I am delicate
 Please, don't break my heart
 Trust me, I've been broken before
 
+#### 主歌 1
+
+所以，请别伤我的心
+别把我撕碎
+我知道是怎么开始的
+相信我，我以前心碎过
+别再伤我一次
+我很脆弱
+请别伤我的心
+相信我，我以前心碎过
+
 #### Bridge 1
 
 I've been broken, yeah
@@ -95,11 +112,27 @@ I'm still hurting, yeah
 I'm hurting inside
 I'm so scared to fall in love, but if it's you, then I'll try
 
+#### 桥段 1
+
+我受过伤，耶
+我知道那是什么感觉
+敞开自己
+却发现对方的爱并不真
+我还在痛，耶
+内心仍在疼
+我好怕再恋爱，但若是为你，我愿意试
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Verse 1（重复）
 
 *(同 Verse 1)*
+
+#### 主歌 1（重复）
+
+*(同主歌 1)*
 
 #### Bridge 2
 
@@ -107,6 +140,13 @@ I know I'm not the best at choosing lovers
 We both know my past speaks for itself (for itself)
 If you don't think that we're right for each other (for each other)
 Then please don't let history repeat itself
+
+#### 桥段 2
+
+我知道自己不太会挑对象
+我们都知道我的过去不言自明（不言自明）
+若你觉得我们并不合适（并不合适）
+那就请别让历史重演
 
 #### Pre-Chorus
 
@@ -122,63 +162,6 @@ It's you, it's always you
 Met a lot of people
 But nobody feels like you
 
-#### Outro
-
-So, please don't break my heart
-Don't tear me apart
-I know how it starts
-Trust me, I've been broken before
-Don't break me again
-I am delicate
-Please, don't break my heart
-Trust me, I've been broken before
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-是你，一直都是你
-若我终将坠入爱河
-我知道那个人只会是你
-是你，一直都是你
-我见过很多人，但没人像你
-
-#### 主歌 1
-
-所以，请别伤我的心
-别把我撕碎
-我知道是怎么开始的
-相信我，我以前心碎过
-别再伤我一次
-我很脆弱
-请别伤我的心
-相信我，我以前心碎过
-
-#### 桥段 1
-
-我受过伤，是啊
-我知道那是什么感觉
-敞开自己
-却发现对方的爱并不真
-我还在痛
-内心仍在疼
-我好怕再恋爱，但若是为你，我愿意试
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 1（重复）
-
-#### 桥段 2
-
-我知道自己不太会挑对象
-我们都知道我的过去不言自明
-若你觉得我们并不合适
-那就请别让历史重演
-
 #### 预副歌
 
 因为我想要你，我想要你
@@ -193,7 +176,18 @@ Trust me, I've been broken before
 我见过很多人
 但没人像你
 
-#### 尾声
+#### Outro
+
+So, please don't break my heart
+Don't tear me apart
+I know how it starts
+Trust me, I've been broken before
+Don't break me again
+I am delicate
+Please, don't break my heart
+Trust me, I've been broken before
+
+#### 尾奏
 
 所以，请别伤我的心
 别把我撕碎

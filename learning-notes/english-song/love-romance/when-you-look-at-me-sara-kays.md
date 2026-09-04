@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -73,10 +71,22 @@ I don't feel like I'm pretty
 Do I have the same glow about me
 As that night in the city?
 
+#### 主歌 1
+
+我觉得你最近好像不太喜欢我了
+我觉得自己不够好看
+我身上还有那种光吗
+像那晚在城市里一样？
+
 #### Pre-Chorus
 
 When you told me, I remind you of the moon
 I'm still holding on to that and on to you
+
+#### 预副歌
+
+当你说我让你想起月亮
+我仍抓着那句话，也抓着你
 
 #### Chorus
 
@@ -84,6 +94,13 @@ When you look at me, do you still think
 That I shine brighter than anyone?
 Or have you seen somebody else lately
 Who reminds you of the sun?
+
+#### 副歌
+
+当你看着我，你还觉得
+我比谁都更亮吗？
+还是你最近遇见了别人
+让你想起太阳？
 
 #### Verse 2
 
@@ -95,7 +112,21 @@ Hate that I have to tell you
 How you told me, I remind you of the moon
 And you'd hold me, and that now you never do
 
+#### 主歌 2
+
+从九月末起我就一直在盼
+盼你像以前那样对我
+你总说你不记得了
+讨厌还得由我来提醒你
+
+你曾说我让你想起月亮
+你会抱着我——可现在再也不了
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Post-Chorus
 
@@ -103,6 +134,13 @@ When you look at me (when you look at me)
 When you look at me (when you look at me)
 When you look at me
 When you look at me (when you look at me)
+
+#### 后副歌
+
+当你看着我（当你看着我）
+当你看着我（当你看着我）
+当你看着我
+当你看着我（当你看着我）
 
 #### Bridge
 
@@ -115,57 +153,6 @@ That I won't be spun around anymore
 And I know what I'm in for
 When I hope you love me like you did before
 
-#### Outro
-
-When you look at me (when you look at me)
-When you look at me (when you look at me)
-When you look at me
-When you look at me (when you look at me)
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我觉得你最近好像不太喜欢我了
-我觉得自己不够好看
-我身上还有那种光吗
-像那晚在城市里一样？
-
-#### 预副歌
-
-当你说我让你想起月亮
-我仍抓着那句话，也抓着你
-
-#### 副歌
-
-当你看着我，你还觉得
-我比谁都更亮吗？
-还是你最近遇见了别人
-让你想起太阳？
-
-#### 主歌 2
-
-从九月末起我就一直在盼
-盼你像以前那样对我
-你总说你不记得了
-讨厌还得由我提醒
-
-你曾说我想起月亮
-你会抱着我——可现在再也不了
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 后副歌
-
-当你看着我（当你看着我）
-当你看着我（当你看着我）
-当你看着我
-当你看着我（当你看着我）
-
 #### 桥段
 
 我知道在你家门口
@@ -177,9 +164,14 @@ When you look at me (when you look at me)
 我也知道等待我的是什么
 当我盼你还像从前那样爱我
 
-*(同第一段副歌)*
+#### Outro
 
-#### 尾声
+When you look at me (when you look at me)
+When you look at me (when you look at me)
+When you look at me
+When you look at me (when you look at me)
+
+#### 尾奏
 
 当你看着我（当你看着我）
 当你看着我（当你看着我）

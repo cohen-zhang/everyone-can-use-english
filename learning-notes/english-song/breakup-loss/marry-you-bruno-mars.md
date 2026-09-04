@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -73,12 +71,26 @@ Hey, baby, I think I wanna marry you
 Is it the look in your eyes, or is it this dancing juice?
 Who cares, baby? I think I wanna marry you
 
+#### 主歌 1
+
+夜色真美，我们想找点蠢事做
+嘿，宝贝，我想我好想娶你
+是你眼里的光，还是这跳舞的酒劲？
+谁在乎呢，宝贝？我想我好想娶你
+
 #### Pre-Chorus
 
 Well, I know this little chapel on the boulevard we can go
 No one will know, oh, come on girl
 Who cares if we're trashed? Got a pocket full of cash we can blow
 Shots of Patrón and it's on, girl
+
+#### 预副歌
+
+我知道林荫大道上有座小教堂，我们可以去
+没人会知道，哦，来吧，姑娘
+烂醉又怎样？兜里现金够我们挥霍
+几杯 Patrón 龙舌兰，派对走起，姑娘
 
 #### Chorus
 
@@ -92,6 +104,18 @@ Hey, baby, I think I wanna marry you
 Is it the look in your eyes, or is it this dancing juice?
 Who cares, baby? I think I wanna marry you, oh
 
+#### 副歌
+
+别说不、不、不、不、不
+就说耶、耶、耶、耶、耶
+然后我们就走、走、走、走、走
+你若准备好了，就像我一样
+
+因为夜色真美，我们想找点蠢事做
+嘿，宝贝，我想我好想娶你
+是你眼里的光，还是这跳舞的酒劲？
+谁在乎呢，宝贝？我想我好想娶你，哦
+
 #### Verse 2
 
 I'll go get a ring, let the choir bells sing like, ooh
@@ -99,7 +123,18 @@ So what ya wanna do? Let's just run, girl
 If we wake up and you wanna break up, that's cool
 No, I won't blame you, it was fun, girl
 
+#### 主歌 2
+
+我去买枚戒指，让唱诗班的钟声响起来，哦
+你想怎样？咱们就跑吧，姑娘
+若醒来你想分手，也行
+不，我不怪你，挺开心的，姑娘
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -109,6 +144,14 @@ Tell me right now, baby, baby
 
 *(Bridge 重复一轮)*
 
+#### 桥段
+
+就说「我愿意」
+现在就告诉我，宝贝
+现在就告诉我，宝贝，宝贝
+
+*(桥段再重复一轮)*
+
 #### Final Chorus
 
 It's a beautiful night, we're looking for something dumb to do
@@ -116,59 +159,12 @@ Hey, baby, I think I wanna marry you
 Is it the look in your eyes, or is it this dancing juice?
 Who cares, baby? I think I wanna marry you
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-夜色真美，我们想找点蠢事做
-嘿宝贝，我想我好想娶你
-是你眼神，还是这「跳舞酒劲」？
-谁在乎呢宝贝？我想我好想娶你
-
-#### 预副歌
-
-我知道林荫大道上有座小教堂，我们可以去
-没人会知道，哦来吧姑娘
-烂醉又怎样？兜里现金够我们造
-几杯 Patrón 龙舌兰，派对开始，姑娘
-
-#### 副歌
-
-别说不不不不不
-就说好好好好好
-然后我们就走走走走走
-你若准备好了，就像我一样
-
-因为夜色真美，我们想找点蠢事做
-嘿宝贝，我想我好想娶你
-是你眼神，还是这跳舞酒劲？
-谁在乎呢宝贝？我想我好想娶你，哦
-
-#### 主歌 2
-
-我去买枚戒指，让 choir 钟声像 ooh 那样响
-你想怎样？咱们就跑吧姑娘
-若醒来你想分手，也行
-不，我不怪你，挺开心的，姑娘
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-就说「我愿意」
-现在就告诉我，宝贝
-现在就告诉我，宝贝，宝贝
-
 #### 终段副歌
 
 夜色真美，我们想找点蠢事做
-嘿宝贝，我想我好想娶你
-是你眼神，还是这跳舞酒劲？
-谁在乎呢宝贝？我想我好想娶你
+嘿，宝贝，我想我好想娶你
+是你眼里的光，还是这跳舞的酒劲？
+谁在乎呢，宝贝？我想我好想娶你
 
 ## 重点表达 · Key Phrases
 

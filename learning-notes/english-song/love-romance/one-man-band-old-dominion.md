@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,17 @@ And I found you like a melody
 You were singing in the same key as me
 We had 'em dancing in the streets
 
+#### 主歌 1
+
+独自飞了太久
+没人跟我唱和声
+台上就我和我的影子
+没贝斯、没吉他、没铃鼓
+
+然后我遇见你，像撞上一段旋律
+你跟我唱在同一个调上
+我们让街上的人都跟着跳起舞来
+
 #### Chorus
 
 I don't wanna be a one man band
@@ -87,6 +96,18 @@ We'll get tattoos, and we'll trash hotel rooms
 Baby, take my hand
 I don't wanna be a one man band
 No
+
+#### 副歌
+
+我不想再当一人乐队
+不想再当一颗独自滚着的石头
+开着破旧的面包车一路堆里程
+宝贝，咱们可以把这场演出自己带上路
+我打下鼓点，你来扛住旋律
+一起纹身，一起把酒店房间闹翻天
+宝贝，牵我的手
+我不想再当一人乐队
+不要
 
 #### Verse 2
 
@@ -108,11 +129,37 @@ We'll get tattoos, and we'll trash hotel rooms
 Baby, take my hand
 'Cause I don't wanna be a one man band
 
+#### 主歌 2
+
+我想追着你那些狂野的梦一起跑
+想和你一起追每一次兴奋的高峰
+数一数这条旧牛仔裤上的每一道破口
+咱们永远学不会唱那些伤感的布鲁斯
+
+要是我注定要出名
+姑娘，我想和你一起出名
+咱们有自己那点小节奏
+
+我不想再当一人乐队
+不想再当一颗独自滚着的石头
+开着破旧的面包车一路堆里程
+宝贝，咱们可以把这场演出自己带上路
+我打下鼓点，你来扛住旋律
+一起纹身，一起把酒店房间闹翻天
+宝贝，牵我的手
+因为我不想再当一人乐队
+
 #### Bridge
 
 When the spotlight goes cold, and the curtains come down
 The chairs are all stacked, and there's no one around
 And nobody's paying, we'll still be playing
+
+#### 桥段
+
+等聚光灯冷下来、幕布落下
+椅子都叠好了，周围一个人也没有
+就算没人买单，咱们也还在弹唱
 
 #### Final Chorus
 
@@ -126,66 +173,13 @@ Baby, take my hand
 'Cause I don't wanna be a one man band
 I don't wanna be a one man band
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-独自飞了太久
-没人跟我唱和声
-台上就我和我的影子
-没贝斯、没吉他、没铃鼓
-
-然后我遇见你，像撞上一段旋律
-你跟我唱在同一个调上
-我们让街上的人都跟着跳起舞来
-
-#### 副歌
-
-我不想再当一人乐队
-不想再一个人漂泊不定
-开着破旧的面包车一路狂奔
-宝贝，咱们可以一起把这场演出带上路
-我打底鼓点，你来扛主旋律
-一起纹身，一起把酒店房间闹翻天
-宝贝，牵我的手
-我不想再当一人乐队
-不要
-
-#### 主歌 2
-
-我想追着你那些疯狂的梦一起跑
-想和你一起追每一次兴奋的高峰
-数一数这条旧牛仔裤上的每一道破口
-咱们永远学不会唱那些伤感的布鲁斯
-
-要是我注定要出名
-姑娘，我想和你一起出名
-咱们有自己那点小节奏
-
-我不想再当一人乐队
-不想再一个人漂泊不定
-开着破旧的面包车一路狂奔
-宝贝，咱们可以一起把这场演出带上路
-我打底鼓点，你来扛主旋律
-一起纹身，一起把酒店房间闹翻天
-宝贝，牵我的手
-因为我不想再当一人乐队
-
-#### 桥段
-
-等聚光灯冷下来、幕布落下
-椅子都叠好了，周围一个人也没有
-就算没人买单，咱们也还在弹唱
-
 #### 终段副歌
 
 我不想再当一人乐队
-不想再一个人漂泊不定
-开着破旧的面包车一路狂奔
-宝贝，咱们可以一起把这场演出带上路
-我打底鼓点，你来扛主旋律
+不想再当一颗独自滚着的石头
+开着破旧的面包车一路堆里程
+宝贝，咱们可以把这场演出自己带上路
+我打下鼓点，你来扛住旋律
 一起纹身，一起把酒店房间闹翻天
 宝贝，牵我的手
 因为我不想再当一人乐队

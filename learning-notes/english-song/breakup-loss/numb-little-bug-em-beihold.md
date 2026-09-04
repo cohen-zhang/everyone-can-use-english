@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -78,6 +76,20 @@ Like a floating ball that's bound to break
 Snap my psyche like a twig
 
 And I just wanna see if you feel the same as me
+
+#### 主歌 1
+
+我什么都感觉不到
+是药下太猛了吗？
+好几周没跟朋友们联系了
+现在我们渐渐疏远了
+
+我一直在洛杉矶开车
+这世界大得让我承受不了
+像颗随时会碎的气球
+把我的精神像小树枝一样折断
+
+我只是想知道，你是不是也和我一样
 
 #### Chorus
 
@@ -98,45 +110,9 @@ I'm barely breathing, trying to stay afloat
 So, I've got these quick repairs to cope
 Guess I'm just broken and broke
 
-#### Verse 2
-
-The prescription's on its way
-With a name I can't pronounce
-And the dose I gotta take
-Boy, I wish that I could count
-
-'Cause I just want to see if this could make me happy
-
-#### Chorus（重复）
-
-#### Final Chorus
-
-Do you ever get a little bit tired of life?
-Like you're not really happy, but you don't wanna die
-Like a numb little bug that's gotta survive
-That's gotta survive
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我什么都感觉不到
-是药下太猛了吗？
-好几周没跟朋友们联系了
-现在我们渐渐疏远了
-
-我一直在洛杉矶开车
-这世界大得让我承受不了
-像颗随时会碎的气球
-把我的精神像小树枝一样折断
-
-我只是想知道，你是不是也和我一样
-
 #### 副歌
 
-你有没有偶尔觉得，生活有点累？
+你有没有偶尔觉得，活着有点累？
 不算真的开心，但也不想死
 像悬在一根线上，但你还得活下去
 因为你得活下去
@@ -153,6 +129,15 @@ That's gotta survive
 所以，我用这些临时办法应付
 大概我就是又坏又穷吧
 
+#### Verse 2
+
+The prescription's on its way
+With a name I can't pronounce
+And the dose I gotta take
+Boy, I wish that I could count
+
+'Cause I just want to see if this could make me happy
+
 #### 主歌 2
 
 处方已经在路上了
@@ -162,13 +147,20 @@ That's gotta survive
 
 因为我只想看看，这能不能让我开心一点
 
+#### Chorus（重复）
+
 #### 副歌（重复）
 
-*(同第一段副歌)*
+#### Final Chorus
+
+Do you ever get a little bit tired of life?
+Like you're not really happy, but you don't wanna die
+Like a numb little bug that's gotta survive
+That's gotta survive
 
 #### 终段副歌
 
-你有没有偶尔觉得，生活有点累？
+你有没有偶尔觉得，活着有点累？
 不算真的开心，但也不想死
 像只麻木的小虫，还得活下去
 还得活下去

@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,6 +75,18 @@ Well, I'm in a daze from your love, you see
 I came back to let you know
 Got a thing for you and I can't let go
 
+#### 主歌 1
+
+我想你好奇我去哪了
+我四处找过，想在心里找到一份爱
+我回来是想告诉你
+我对你有意思，没法放手
+
+我朋友都好奇我怎么了
+嗯，你看，我被你的爱弄得神魂颠倒
+我回来是想告诉你
+我对你有意思，没法放手
+
 #### Chorus
 
 Some people go around the world for love
@@ -85,6 +95,15 @@ What you won't do, do for love
 You've tried everything, but you don't give up
 In my world only you make me do
 For love what I would not do
+
+#### 副歌
+
+有人为爱走遍世界
+却可能永远找不到梦想中的那份
+你平时不肯做的，为爱你会做
+你什么都试过了，却不放弃
+在我的世界里，只有你让我
+为爱去做我本不会做的事
 
 #### Verse 2
 
@@ -102,31 +121,6 @@ For love what I would not do
 Make me do for love what I would not do
 Make me do for love what I would not do
 Make me do for love what I would not do
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我想你好奇我去哪了
-我四处找过，想在心里找到一份爱
-我回来是想告诉你
-我对你有意思，没法放手
-
-我朋友都好奇我怎么了
-嗯，你看，我被你的爱弄得神魂颠倒
-我回来是想告诉你
-我对你有意思，没法放手
-
-#### 副歌
-
-有人为爱走遍世界
-却可能永远找不到梦想中的那份
-你平时不肯做的，为爱你会做
-你什么都试过了，却不放弃
-在我的世界里，只有你让我
-为爱去做我本不会做的事
 
 #### 主歌 2
 

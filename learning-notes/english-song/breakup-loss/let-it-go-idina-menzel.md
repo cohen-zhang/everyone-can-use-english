@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,12 +74,28 @@ And it looks like I'm the queen
 The wind is howling like this swirling storm inside
 Couldn't keep it in, heaven knows I tried
 
+#### 主歌 1
+
+今夜山上白雪闪耀
+看不见一丝足迹
+一座孤立的王国
+看来我就是女王
+风在呼啸，像我内心翻涌的风暴
+再也藏不住了，天知道我试过
+
 #### Pre-Chorus
 
 Don't let them in, don't let them see
 Be the good girl you always have to be
 Conceal, don't feel, don't let them know
 Well, now they know
+
+#### 预副歌
+
+别让他们进来，别让他们看见
+做那个你永远得做的乖乖女
+隐藏，别去感受，别让他们知道
+好吧，现在他们知道了
 
 #### Chorus
 
@@ -93,63 +107,6 @@ I don't care what they're going to say
 Let the storm rage on
 The cold never bothered me anyway
 
-#### Verse 2
-
-It's funny how some distance makes everything seem small
-And the fears that once controlled me can't get to me at all
-
-It's time to see what I can do
-To test the limits and break through
-No right, no wrong, no rules for me
-I'm free
-
-#### Chorus（重复 + 变奏）
-
-Let it go, let it go
-I am one with the wind and sky
-Let it go, let it go
-You'll never see me cry
-Here I stand and here I'll stay
-Let the storm rage on
-
-#### Bridge
-
-My power flurries through the air into the ground
-My soul is spiraling in frozen fractals all around
-And one thought crystallizes like an icy blast
-I'm never going back, the past is in the past
-
-#### Final Chorus
-
-Let it go, let it go
-And I'll rise like the break of dawn
-Let it go, let it go
-That perfect girl is gone
-Here I stand in the light of day
-Let the storm rage on
-
-The cold never bothered me anyway
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-今夜山上白雪闪耀
-看不见一丝足迹
-一座孤立的王国
-看来我就是女王
-风在呼啸，像我内心翻涌的风暴
-再也藏不住了，天知道我试过
-
-#### 预副歌
-
-别让他们进来，别让他们看见
-做那个你永远得做的乖乖女
-隐藏，别去感受，别让他们知道
-好吧，现在他们知道了
-
 #### 副歌
 
 放开吧，放开吧
@@ -159,6 +116,16 @@ The cold never bothered me anyway
 我不在乎他们会说什么
 让风暴继续肆虐吧
 反正寒冷从来伤不了我
+
+#### Verse 2
+
+It's funny how some distance makes everything seem small
+And the fears that once controlled me can't get to me at all
+
+It's time to see what I can do
+To test the limits and break through
+No right, no wrong, no rules for me
+I'm free
 
 #### 主歌 2
 
@@ -170,6 +137,15 @@ The cold never bothered me anyway
 没有对错，没有规矩管得住我
 我自由了
 
+#### Chorus（重复 + 变奏）
+
+Let it go, let it go
+I am one with the wind and sky
+Let it go, let it go
+You'll never see me cry
+Here I stand and here I'll stay
+Let the storm rage on
+
 #### 副歌（重复 + 变奏）
 
 放开吧，放开吧
@@ -179,12 +155,30 @@ The cold never bothered me anyway
 我就站在这里，就在这里留下
 让风暴继续肆虐吧
 
+#### Bridge
+
+My power flurries through the air into the ground
+My soul is spiraling in frozen fractals all around
+And one thought crystallizes like an icy blast
+I'm never going back, the past is in the past
+
 #### 桥段
 
 我的力量如雪花掠过空气，渗入大地
 我的灵魂在四周冰封的碎形中盘旋
 一个念头如冰暴般凝结
 我绝不回头，过去就留在过去
+
+#### Final Chorus
+
+Let it go, let it go
+And I'll rise like the break of dawn
+Let it go, let it go
+That perfect girl is gone
+Here I stand in the light of day
+Let the storm rage on
+
+The cold never bothered me anyway
 
 #### 终段副歌
 

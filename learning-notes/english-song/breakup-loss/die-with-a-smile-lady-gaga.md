@@ -69,14 +69,16 @@ Together on **"Die With a Smile"** (2024), they blend Gaga's emotional belt with
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 (Ooh)
+
+#### 前奏
+
+（哦）
 
 #### Verse 1
 
@@ -85,12 +87,26 @@ Where you and I had to say goodbye
 And I don't know what it all means
 But since I survived, I realized
 
+#### 主歌 1
+
+我，我刚从一场梦里醒来
+梦里你和我不得不告别
+我不知道这一切意味着什么
+可既然我醒过来了，我明白了
+
 #### Pre-Chorus
 
 Wherever you go, that's where I'll follow
 Nobody's promised tomorrow
 So I'ma love you every night like it's the last night
 Like it's the last night
+
+#### 预副歌
+
+你去哪，我就跟到哪
+没人能保证有明天
+所以每晚爱你，都像最后一晚
+就像最后一晚
 
 #### Chorus
 
@@ -100,6 +116,14 @@ I'd wanna hold you just for a while and die with a smile
 If the world was ending, I'd wanna be next to you
 (Ooh)
 
+#### 副歌
+
+若世界即将终结，我想紧挨着你
+若派对已散、我们在世上的时光已尽
+我想抱你一会儿，微笑着离去
+若世界即将终结，我想紧挨着你
+（哦）
+
 #### Verse 2
 
 Oh, lost, lost in the words that we scream
@@ -107,7 +131,20 @@ I don't even wanna do this anymore
 'Cause you already know what you mean to me
 And our love's the only war worth fighting for
 
+#### 主歌 2
+
+哦，迷失在我们嘶吼的话语里
+我甚至不想再这样吵下去
+因为你早已明白你对我意味着什么
+而我们的爱，是唯一值得为之奋战的那场战争
+
 #### Pre-Chorus & Chorus（重复）
+
+*(同第一段预副歌与副歌)*
+
+#### 预副歌 & 副歌（重复）
+
+*(同第一段预副歌与副歌)*
 
 #### Outro
 
@@ -118,55 +155,13 @@ Oh-oh, oh
 
 I'd wanna be next to you
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-（哦）
-
-#### 主歌 1
-
-我，我刚从一场梦里醒来
-梦里你和我不得不告别
-我不知道这一切意味着什么
-但既然我醒过来了，我明白了
-
-#### 预副歌
-
-你去哪，我就跟到哪
-没人能保证有明天
-所以每晚爱你，都像最后一晚
-就像最后一晚
-
-#### 副歌
-
-若世界即将终结，我想紧挨着你
-若派对已散、我们在世上的时光已尽
-我想抱你一会儿，微笑着离去
-若世界即将终结，我想紧挨着你
-（哦）
-
-#### 主歌 2
-
-哦，迷失在我们嘶吼的话语里
-我甚至不想再这样争吵下去
-因为你早已明白你对我意味着什么
-而我们的爱是唯一值得为之奋战的那场战争
-
-#### 预副歌 & 副歌（重复）
-
-*(同前)*
-
-#### 尾声
+#### 尾奏
 
 就在你身旁
 在你身旁
 就在你身旁
 哦哦，哦
 
-*(副歌再重复；结尾)*  
 我想紧挨着你
 
 ## 重点表达 · Key Phrases

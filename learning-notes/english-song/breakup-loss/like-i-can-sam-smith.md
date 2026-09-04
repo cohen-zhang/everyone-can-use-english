@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,18 @@ He could be a trophy of a one-night stand
 He could have your humor, but I don't understand, 'cause
 He'll never love you like I can, can, can
 
+#### 主歌 1
+
+他可以是罪人，也可以是绅士
+你灵魂遭谴时，他可以当你的牧师
+在证人席上，他可以当你的律师
+可他永远没法像我这样爱你，能，能
+
+他可以是那个你多看一眼的陌生人
+他可以是某次一夜情的战利品
+他也许懂你的幽默，可我不明白，因为
+他永远没法像我这样爱你，能，能，能
+
 #### Chorus
 
 Why are you looking down all the wrong roads?
@@ -84,6 +94,14 @@ There may be lovers who hold out their hands, but
 They'll never love you like I can, can, can
 They'll never love you like I can, can
 
+#### 副歌
+
+你为什么总往错的路上望？
+我的心才是灵魂里那一点咸味
+也许有恋人向你伸出手，可是
+他们永远没法像我这样爱你，能，能，能
+他们永远没法像我这样爱你，能，能
+
 #### Verse 2
 
 A chance encounter of circumstance
@@ -91,7 +109,20 @@ Baby, he's a mantra, keeps your mind entranced
 He could be a silence in this mayhem
 But then again, he'll never love you like I can, can, can
 
+#### 主歌 2
+
+一次偶然的邂逅
+宝贝，他像一句咒语，让你神魂颠倒
+在这混乱里，他也许是一阵沉默
+可话说回来，他永远没法像我这样爱你，能，能，能
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -99,6 +130,13 @@ We both have demons that we can't stand
 I love your demons, like devils can
 If you're still seeking an honest man
 Then stop deceiving, Lord, please
+
+#### 桥段
+
+我们都有各自无法忍受的心魔
+我却爱你的心魔，像魔鬼那样爱
+若你还在寻找一个诚实的人
+那就请别再自欺了，天啊
 
 #### Final Chorus
 
@@ -110,53 +148,11 @@ They'll never love you like I can, can, can
 
 He'll never love you like I can, can, can
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-他可以是罪人，也可以是绅士
-你灵魂遭谴时，他可以是你的牧师
-在证人席上，他可以是你的律师
-但他永远没法像我这样爱你，能，能
-
-他可以是那个你多看一眼的陌生人
-他可以是某次一夜情的战利品
-他也许懂你的幽默，但我不明白，因为
-他永远没法像我这样爱你，能，能，能
-
-#### 副歌
-
-你为什么总往错的路上看？
-我的心才是灵魂的核心与滋味
-也许有恋人向你伸出手，但是
-他们永远没法像我这样爱你，能，能，能
-他们永远没法像我这样爱你，能，能
-
-#### 主歌 2
-
-一次偶然的邂逅
-宝贝，他像一句咒语，让你神魂颠倒
-在这混乱里，他也许是一阵沉默
-但话说回来，他永远没法像我这样爱你，能，能，能
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-我们都有各自无法忍受的心魔
-我却爱你的心魔，像魔鬼那样爱
-若你还在寻找一个诚实的人
-那就请别再欺骗了，天啊
-
 #### 终段副歌
 
-你为什么总往错的路上看？
-我的心才是灵魂的核心与滋味
-也许有恋人向你伸出手，但是
+你为什么总往错的路上望？
+我的心才是灵魂里那一点咸味
+也许有恋人向你伸出手，可是
 他们永远没法像我这样爱你，能，能，能
 他们永远没法像我这样爱你，能，能，能
 

@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -72,6 +70,15 @@ I'll send you all my love
 Everyday in a letter
 Sealed with a kiss
 
+#### 主歌 1
+
+虽然我们必须道别
+为了这个夏天
+亲爱的，我向你保证
+我会把我的爱全寄给你
+每天写在信里
+以吻封缄
+
 #### Verse 2
 
 Yes it's gonna be cold, lonely summer
@@ -80,12 +87,27 @@ I'll send you all my dreams
 Everyday in a letter
 Sealed with a kiss
 
+#### 主歌 2
+
+是啊，这会是个冷清孤独的夏天
+可我会填满那份空落
+我会把我的梦全寄给你
+每天写在信里
+以吻封缄
+
 #### Verse 3
 
 I'll see you in the sunlight
 I'll hear your voice everywhere
 I'll run to tenderly hold you
 But, Darlin' you won't be there
+
+#### 主歌 3
+
+我会在阳光里看见你
+处处都能听见你的声音
+我会跑去温柔抱住你
+可是亲爱的，你不在那儿
 
 #### Verse 4
 
@@ -96,48 +118,20 @@ Let us make a pledge
 To meet in September
 And seal it with a kiss
 
+#### 主歌 4
+
+我不想说再见
+为了这个夏天
+明知这份爱我们都会想念
+让我们许下诺言
+九月再相聚
+并以吻封缄
+
 #### Chorus
 
 Sealed with a kiss
 Sealed with a kiss
 Sealed with a kiss
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-虽然我们必须道别
-为了这个夏天
-亲爱的，我向你保证
-我会把我的爱全寄给你
-每天在信里
-以吻封缄
-
-#### 主歌 2
-
-是啊，这会是个冷清孤独的夏天
-但我会填满空虚
-我会把我的梦全寄给你
-每天在信里
-以吻封缄
-
-#### 主歌 3
-
-我会在阳光里看见你
-处处都能听见你的声音
-我会跑去温柔拥抱你
-可是亲爱的，你不在那儿
-
-#### 主歌 4
-
-我不想说再见
-为了这个夏天
-明知我们会思念这份爱
-让我们许下诺言
-九月再相聚
-并以吻封缄
 
 #### 副歌
 

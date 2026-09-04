@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,39 +74,6 @@ And time passes by
 Gathering thoughts of the past
 And maybe he'll cry
 
-#### Bridge
-
-So they say he's a madman
-But he don't understand
-But I know that he's tryin' hard
-To act like a man
-All those years he has suffered, my friends
-All those years of pain
-But I don't think he knows for sure
-If those years were in vain, no
-
-#### Chorus
-
-He's a dreamer
-But he's fightin' for his life
-He's tryin' to understand
-He's a dreamer
-But he wants to carry on
-And I know he's a lonely man
-Lonely man
-
-#### Verse 2
-
-*(Same as Verse 1 — second narrative pass)*
-
-#### Chorus（重复与变奏）
-
-*(副歌多遍重复；注意第二遍偶现 *That he wants to carry on* 的演唱变体，标准词为 *But he wants to carry on*)*
-
----
-
-### 中文翻译 · Chinese Translation
-
 #### 主歌 1
 
 他待在河边
@@ -120,16 +85,37 @@ Lonely man
 搜集过往的念头
 也许他会哭
 
+#### Bridge
+
+So they say he's a madman
+But he don't understand
+But I know that he's tryin' hard
+To act like a man
+All those years he has suffered, my friends
+All those years of pain
+But I don't think he knows for sure
+If those years were in vain, no
+
 #### 桥段
 
 所以他们说他是疯子
-但他不明白（自己哪里疯了）
+但他不明白
 但我知道他在努力
 装成一个「男人」该有的样子
 朋友们，他受苦了那么多年
 那么多年的痛
 但我不确定他是否明白
 那些岁月是否白费了，不
+
+#### Chorus
+
+He's a dreamer
+But he's fightin' for his life
+He's tryin' to understand
+He's a dreamer
+But he wants to carry on
+And I know he's a lonely man
+Lonely man
 
 #### 副歌
 
@@ -141,9 +127,21 @@ Lonely man
 我知道他是个孤独的人
 孤独的人
 
+#### Verse 2
+
+*(Same as Verse 1 — second narrative pass)*
+
 #### 主歌 2
 
+*(同主歌 1——第二遍叙事)*
+
+#### Chorus（重复与变奏）
+
+*(副歌多遍重复；注意第二遍偶现 *That he wants to carry on* 的演唱变体，标准词为 *But he wants to carry on*)*
+
 #### 副歌（重复与变奏）
+
+*(副歌多遍重复；注意第二遍偶现 *That he wants to carry on* 的演唱变体，标准词为 *But he wants to carry on*)*
 
 ## 重点表达 · Key Phrases
 

@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,12 +73,29 @@ Somebody to have, somebody to hold
 It's easy to say, but it's never the same
 I guess I kinda liked the way you numbed all the pain
 
+#### 主歌 1
+
+我要沉下去了，这次怕是没人能救我
+这种孤注一掷，总有办法把我逼疯
+
+我需要有人来治愈，有人懂
+有人拥有，有人拥抱
+说起来容易，感觉却从来不同
+我想我有点怀念你把痛全部麻掉的方式
+
 #### Pre-Chorus / Chorus
 
 Now the day bleeds into nightfall
 And you're not here to get me through it all
 I let my guard down, and then you pulled the rug
 I was getting kinda used to being someone you loved
+
+#### 预副歌 / 副歌
+
+如今白昼淌进夜色
+而你不在，陪我熬过这一切
+我卸下防备，你却抽走了脚下的地
+我差不多习惯了，当那个被你爱着的人
 
 #### Verse 2
 
@@ -92,13 +107,35 @@ Somebody to have, just to know how it feels
 It's easy to say, but it's never the same
 I guess I kinda liked the way you helped me escape
 
+#### 主歌 2
+
+我要沉下去了，这次怕是无人可求
+这种非黑即白的爱法，让我夜里独自睡去
+
+现在，我需要有人懂，有人来治愈
+有人拥有，只为知道那是什么感觉
+说起来容易，感觉却从来不同
+我想我有点怀念你帮我逃开的方式
+
 #### Pre-Chorus / Chorus（重复）
+
+*(同第一段预副歌 / 副歌)*
+
+#### 预副歌 / 副歌（重复）
+
+*(同第一段预副歌 / 副歌)*
 
 #### Bridge
 
 And I tend to close my eyes when it hurts sometimes
 I fall into your arms
 I'll be safe in your sound 'til I come back around
+
+#### 桥段
+
+有时痛了，我会闭上眼
+跌进你的怀里
+在你声音里我会安稳，直到我回过神来
 
 #### Pre-Chorus / Chorus（重复至结尾）
 
@@ -115,61 +152,20 @@ I was getting kinda used to being someone you loved
 I let my guard down, and then you pulled the rug
 I was getting kinda used to being someone you loved
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我要沉下去了，这次我怕没人能救我
-这种孤注一掷真的把我逼疯
-
-我需要有人治愈，有人懂
-有人拥有，有人拥抱
-说起来容易，感觉却永远不一样
-我想我有点怀念你帮我麻木所有痛苦的方式
-
-#### 预副歌 / 副歌
-
-如今白昼淌进夜幕
-而你不在，陪我熬过这一切
-我卸下防备，你却抽走了地毯
-我差不多习惯了当你爱的那个人
-
-#### 主歌 2
-
-我要沉下去了，这次我怕无人可求
-这种非黑即白的爱法让我独眠
-
-现在，我需要有人懂，有人治愈
-有人拥有，只为知道那是什么感觉
-说起来容易，感觉却永远不一样
-我想我有点怀念你帮我逃避的方式
-
-#### 预副歌 / 副歌（重复）
-
-*(同第一段)*
-
-#### 桥段
-
-有时痛的时候我会闭上眼
-我跌入你的怀抱
-在你声音里我会安全，直到我回过神来
-
 #### 预副歌 / 副歌（重复至结尾）
 
-此刻白昼淌进夜幕
+此刻白昼淌进夜色
 而你不在，陪我熬过这一切
-我卸下防备，你却抽走了地毯
-我差不多习惯了当你爱的那个人
+我卸下防备，你却抽走了脚下的地
+我差不多习惯了，当那个被你爱着的人
 
-但现在白昼淌进夜幕
+可如今白昼淌进夜色
 而你不在，陪我熬过这一切
-我卸下防备，你却抽走了地毯
-我差不多习惯了当你爱的那个人
+我卸下防备，你却抽走了脚下的地
+我差不多习惯了，当那个被你爱着的人
 
-我卸下防备，你却抽走了地毯
-我差不多习惯了当你爱的那个人
+我卸下防备，你却抽走了脚下的地
+我差不多习惯了，当那个被你爱着的人
 
 ## 重点表达 · Key Phrases
 

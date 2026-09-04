@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,6 +75,16 @@ I'm in the room, it's a typical Tuesday night
 I'm listening to the kind of music she doesn't like
 And she'll never know your story like I do
 
+#### 主歌 1
+
+你在和女友打电话，她在生气
+她为你说的那句话大发雷霆
+因为她不像我，懂你的幽默
+
+我在房间里，又是一个平常的周二晚上
+我听着她不会喜欢的那种音乐
+而她永远不会像我这样，懂你的故事
+
 #### Pre-Chorus
 
 But she wears short skirts
@@ -84,6 +92,14 @@ I wear T-shirts
 She's Cheer Captain, and I'm on the bleachers
 Dreaming about the day when you wake up and find
 That what you're looking for has been here the whole time
+
+#### 预副歌
+
+可她穿短裙
+我穿 T 恤
+她是啦啦队长，我坐在看台上
+梦想有一天你醒来，终于发现
+你一直在找的，其实始终都在
 
 #### Chorus
 
@@ -93,6 +109,15 @@ Been here all along
 So, why can't you see?
 You belong with me
 You belong with me
+
+#### 副歌
+
+如果你能看见，我才是那个人
+最懂你的人
+一直都在
+所以，你为什么看不见？
+你本该和我在一起
+你本该和我在一起
 
 #### Verse 2
 
@@ -108,6 +133,20 @@ Since she brought you down
 You say you're fine, I know you better than that
 Hey, what you doing with a girl like that?
 
+#### 主歌 2
+
+穿着你磨旧的牛仔裤，和你走在街上
+我不禁想，本该就是这样
+坐在公园长椅上笑着，心里说
+嘿，这不就很轻松吗？
+
+而且你的笑容
+能照亮整座城
+我已经有一阵子没见过了
+自从她把你拖进低谷
+你说没事，我可比你更清楚
+嘿，你和那样的女孩在一起干什么？
+
 #### Pre-Chorus（Verse 2）
 
 But she wears high heels
@@ -115,6 +154,14 @@ I wear sneakers
 She's Cheer Captain, and I'm on the bleachers
 Dreaming about the day when you wake up and find
 That what you're looking for has been here the whole time
+
+#### 预副歌（Verse 2）
+
+可她穿高跟鞋
+我穿球鞋
+她是啦啦队长，我坐在看台上
+梦想有一天你醒来，终于发现
+你一直在找的，其实始终都在
 
 #### Chorus（重复）
 
@@ -124,6 +171,15 @@ Been here all along
 So, why can't you see?
 You belong with me
 You belong with me
+
+#### 副歌（重复）
+
+如果你能看见，我才是那个人
+最懂你的人
+一直都在
+所以，你为什么看不见？
+你本该和我在一起
+你本该和我在一起
 
 #### Bridge
 
@@ -141,6 +197,22 @@ And you tell me 'bout your dreams
 Think I know where you belong
 Think I know it's with me
 
+#### 桥段
+
+守在你后门边等着
+这么久了，你怎么会不知道，宝贝？
+你本该和我在一起
+你本该和我在一起
+
+哦，我记得你开车来我家
+就在深夜
+我是那个逗你笑的人
+当你知道自己快要哭的时候
+我知道你最爱的歌
+你会跟我说你的梦
+我想我知道你该属于哪里
+我想我知道，是和我在一起
+
 #### Final Chorus
 
 Can't you see that I'm the one
@@ -154,94 +226,16 @@ Have you ever thought just maybe
 You belong with me
 You belong with me
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-你在和女友打电话，她在生气
-她在为你说的某句话发火
-因为她不像我这么懂你的幽默
-
-我在房间里，这是个平常的周二晚上
-我在听她不喜欢的音乐
-而她永远不会像我这样懂你的故事
-
-#### 预副歌
-
-可她穿短裙
-我穿 T 恤
-她是啦啦队长，我在看台上
-梦想着有一天你醒来发现
-你一直在找的人其实一直都在
-
-#### 副歌
-
-如果你能看见我才是那个人
-最懂你的人
-一直在这里
-所以，你为什么看不见？
-你本该和我在一起
-你本该和我在一起
-
-#### 主歌 2
-
-穿着你磨旧的牛仔裤和你一起走在街上
-我不禁想本该就是这样
-坐在公园长椅上笑着心想
-嘿，这不很轻松吗？
-
-而且你的笑容
-能照亮整座城镇
-我已经有一阵子没见过了
-自从她让你消沉以来
-你说没事，我可比你更清楚
-嘿，你和那样的女孩在一起干嘛？
-
-#### 预副歌（主歌 2）
-
-可她穿高跟鞋
-我穿球鞋
-她是啦啦队长，我在看台上
-梦想着有一天你醒来发现
-你一直在找的人其实一直都在
-
-#### 副歌（重复）
-
-如果你能看见我才是那个人
-最懂你的人
-一直在这里
-所以，你为什么看不见？
-你本该和我在一起
-你本该和我在一起
-
-#### 桥段
-
-守在你后门边等着
-这么久你怎么会不知道，宝贝？
-你本该和我在一起
-你本该和我在一起
-
-哦，我记得你半夜开车来我家
-在深夜
-我是那个逗你笑的人
-当你知道自己快要哭的时候
-我知道你最喜欢的歌
-你会跟我说你的梦想
-我想我知道你该属于哪里
-我想我知道是和我在一起
-
 #### 终段副歌
 
-你难道看不见我才是那个人
+你难道看不见，我才是那个人
 最懂你的人？
-一直在这里
+一直都在
 所以，你为什么看不见？
 你本该和我在一起
 你本该和我在一起
 
-你有没有想过也许
+你有没有想过，也许
 你本该和我在一起
 你本该和我在一起
 

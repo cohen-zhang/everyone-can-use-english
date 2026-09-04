@@ -64,10 +64,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,13 @@ We have fallen down again tonight
 In this world it's hard to get it right
 Trying to make your heart fit like a glove
 What it needs is love, love, love
+
+#### 主歌 1
+
+今晚我们又跌倒了
+在这世上，很难把事情做对
+想让心像手套一样严丝合缝
+它真正需要的，是爱、爱、爱
 
 #### Chorus
 
@@ -85,6 +90,15 @@ Everybody, everybody wants to love
 Everybody, everybody wants to be loved
 Oh oh oh, oh oh oh
 
+#### 副歌
+
+每个人、每个人都想去爱
+每个人、每个人都想被爱
+哦哦哦，哦哦哦
+每个人、每个人都想去爱
+每个人、每个人都想被爱
+哦哦哦，哦哦哦
+
 #### Verse 2
 
 Happy is the heart that still feels pain
@@ -92,7 +106,18 @@ Darkness drains and light will come again
 Swing open up your chest and let it in
 Just let the love, love, love begin
 
+#### 主歌 2
+
+还能感到痛的心，才是幸福的
+黑暗会流尽，光会再来
+敞开心胸，让它进来
+就让爱、爱、爱开始吧
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -104,6 +129,17 @@ Everybody steals the love
 Everybody heals with love
 Oh oh oh
 Just let the love, love, love begin
+
+#### 桥段
+
+每个人都认识爱
+每个人都握着爱
+每个人都会为爱沦陷
+每个人都感受得到爱
+每个人都偷走过爱
+每个人都靠爱疗愈
+哦哦哦
+就让爱、爱、爱开始吧
 
 #### Final Chorus
 
@@ -117,48 +153,6 @@ Oh oh oh, oh oh oh
 
 Everybody, everybody wants to love
 Everybody, everybody wants to be loved
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-今晚我们又跌倒了
-在这世上，很难把事情做对
-想让心像手套一样严丝合缝
-它真正需要的是爱、爱、爱
-
-#### 副歌
-
-每个人、每个人都想去爱
-每个人、每个人都想被爱
-哦哦哦，哦哦哦
-每个人、每个人都想去爱
-每个人、每个人都想被爱
-哦哦哦，哦哦哦
-
-#### 主歌 2
-
-还能感到痛的心，才是幸福的
-黑暗会退去，光会再来
-敞开心胸，让它进来
-就让爱、爱、爱开始吧
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-每个人都认识爱
-每个人都握着爱
-每个人都会为爱沦陷
-每个人都感受得到爱
-每个人都偷走过爱
-每个人都靠爱疗愈
-哦哦哦
-就让爱、爱、爱开始吧
 
 #### 终段副歌
 

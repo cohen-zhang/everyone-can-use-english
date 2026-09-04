@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -75,6 +73,15 @@ Oh, baby, where the hell is my lover?
 Getting down with another? (Whoo-hoo, yeah)
 Tell him if you see him, baby, if you see him, tell him (tell him)
 He should holler
+
+#### 副歌
+
+宝贝（呜呼），我丈夫到底在哪？（呜呼）
+他怎么找我找了这么久？（呜呼）
+哦宝贝，我的爱人到底在哪？
+是不是正跟别人玩得起劲？（呜呼，yeah）
+要是你看见他，宝贝，看见了就告诉他（告诉他）
+让他喊一声、联系我
 
 #### Verse 1
 
@@ -87,6 +94,17 @@ For how long he kept me waiting, anticipating
 Praying to the Lord to give him to my loving arms
 And despite my frustrations
 
+#### 主歌 1
+
+这帅哥干嘛非等我变老？
+他怎么已经在考验我的耐心？
+我只怕他正跟别的女人耗时间，而不是我
+而我这边还在审「求爱简历」
+等我逮到他，我可要好好训他一顿
+就为他让我等了这么久、盼了这么久
+向上帝祷告，把他送到我怀里
+尽管我很烦躁
+
 #### Pre-Chorus
 
 And he must need me (he must need me)
@@ -98,7 +116,22 @@ This man is testing me, uh-huh, uh-huh
 Uh, help me, help me, help me, Lord
 I need you to tell me
 
+#### 预副歌
+
+他一定需要我（他一定需要我）
+完完全全地（完完全全）
+我的心有多渴望他
+他在很远的地方吗？（他在很远吗？）
+他还好吗？（他还好吗？）
+这男人在考验我，嗯哼，嗯哼
+呃，帮帮我，帮帮我，主啊
+我需要你告诉我
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同副歌)*
 
 #### Verse 2
 
@@ -111,9 +144,24 @@ For how much I'm 'bout to love ya, no one above ya
 Praying to the Lord to hurry, hurry you along
 Baby, I intend to rush ya
 
+#### 主歌 2
+
+我在做孤独的杂技：凌晨两点自己解裙子
+我受够了这样过日子
+他一定在外头准备着，正努力打好领带
+呃，嗯哼，喂？你老婆在这儿呢
+等我把你的心跳弄起来，我也要把火力开大
+就冲我马上要给你的爱，没人能排你上面
+求主赶紧、赶紧把你推过来
+宝贝，我打算催你一把
+
 #### Pre-Chorus & Chorus（重复）
 
 *(同第一段 Pre-Chorus 与 Chorus)*
+
+#### 预副歌 & 副歌（重复）
+
+*(同第一段预副歌与副歌)*
 
 #### Bridge
 
@@ -136,73 +184,6 @@ This man is testing me, uh-huh, uh-huh
 Uh, help me, help me, help me, Lord
 I need you to tell me
 
-#### Final Chorus / Outro
-
-Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo)
-What is taking him so long (whoo-hoo) to find me?
-Oh, baby, where the hell is my lover?
-Getting down with another? (Whoo-hoo, yeah)
-Tell him that my grandma said it, tell him grandma said it
-(Your husband is coming)
-
-I would like a ring, I would like a ring
-I would like a diamond ring on my wedding finger
-I would like a big and shiny (ooh) diamond (yes), diamond (yes)
-Diamond (yes), diamond (yes), diamond (yes), oh
-Where is my husband? (Ah)
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-宝贝（呜呼），我丈夫到底在哪？（呜呼）
-他怎么找我找了这么久？（呜呼）
-哦宝贝，我的爱人到底在哪？
-是不是正跟别人玩得起劲？（呜呼，yeah）
-要是你看见他，宝贝，看见了就告诉他（告诉他）
-让他喊一声、联系我
-
-#### 主歌 1
-
-这帅哥干嘛非等我变老？
-他怎么已经在考验我的耐心？
-我只怕他正跟别的女人耗时间，而不是我
-而我这边还在审「求爱简历」
-等我逮到他，我可要好好训他一顿
-就为他让我等了这么久、盼了这么久
-向上帝祷告，把他送到我怀里
-尽管我很烦躁
-
-#### 预副歌
-
-他一定需要我（他一定需要我）
-完完全全地（完完全全）
-我的心有多渴望他
-他在很远的地方吗？（他在很远吗？）
-他还好吗？（他还好吗？）
-这男人在考验我，嗯哼，嗯哼
-呃，帮帮我，帮帮我，主啊
-我需要你告诉我
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 2
-
-我在做孤独的杂技：凌晨两点自己解裙子
-我受够了这样过日子
-他一定在外头准备着，正努力打好领带
-呃，嗯哼，喂？你老婆在这儿呢
-等我把你的心跳弄起来，我也要把火力开大
-就冲我马上要给你的爱，没人能排你上面
-求主赶紧、赶紧把你推过来
-宝贝，我打算催你一把
-
-#### 预副歌 & 副歌（重复）
-
 #### 桥段
 
 告、告、告诉他我……嗯，告诉他我……带着……嗯嗯嗯
@@ -224,7 +205,22 @@ Where is my husband? (Ah)
 呃，帮帮我，帮帮我，主啊
 我需要你告诉我
 
-#### 终段副歌 / 尾声
+#### Final Chorus / Outro
+
+Baby (whoo-hoo), where the hell is my husband? (Whoo-hoo)
+What is taking him so long (whoo-hoo) to find me?
+Oh, baby, where the hell is my lover?
+Getting down with another? (Whoo-hoo, yeah)
+Tell him that my grandma said it, tell him grandma said it
+(Your husband is coming)
+
+I would like a ring, I would like a ring
+I would like a diamond ring on my wedding finger
+I would like a big and shiny (ooh) diamond (yes), diamond (yes)
+Diamond (yes), diamond (yes), diamond (yes), oh
+Where is my husband? (Ah)
+
+#### 终段副歌 / 尾奏
 
 宝贝（呜呼），我丈夫到底在哪？（呜呼）
 他怎么找我找了这么久？（呜呼）

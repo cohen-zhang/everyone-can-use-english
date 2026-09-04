@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -81,44 +79,6 @@ And the next thing ya know, I'm reminiscin'
 Dreaming old dreams, wishing old wishes
 Like you would be back again
 
-#### Chorus
-
-I wake up and teardrops, they fall down like rain
-I put on that old song we danced to and then
-I head off into my job, guess not much has changed
-Punch the clock, head for home
-Check the phone, just in case
-Go to bed, dream of you
-That's what I'm doin' these days
-Yeah, that's what I'm doin'
-
-#### Verse 2
-
-Someone told me, after college, you ran off to Vegas
-You married a rodeo cowboy, why?
-That ain't the girl I knew
-Me, I've been a few places, mostly here and there once or twice
-Still sortin' out life, but I'm doin' all right
-Yeah, it's good to see you, too
-
-#### Verse 3
-
-Well, hey girl, you're late
-And those planes, they don't wait
-But if you ever come back around this sleepy old town
-Promise me you'll stop in
-To see an old friend, and until then
-
-#### Chorus（重复）
-
-#### Outro（副歌重复，渐弱）
-
-*(Chorus lines repeated to the end; recording stacks *teardrops* / *old song*)*
-
----
-
-### 中文翻译 · Chinese Translation
-
 #### 主歌 1
 
 嘿宝贝，是你吗？
@@ -135,6 +95,17 @@ To see an old friend, and until then
 做旧梦，许旧愿
 好像你会回来
 
+#### Chorus
+
+I wake up and teardrops, they fall down like rain
+I put on that old song we danced to and then
+I head off into my job, guess not much has changed
+Punch the clock, head for home
+Check the phone, just in case
+Go to bed, dream of you
+That's what I'm doin' these days
+Yeah, that's what I'm doin'
+
 #### 副歌
 
 醒来泪滴如雨下
@@ -146,14 +117,31 @@ To see an old friend, and until then
 这些日子我就是这样过的
 是啊，我就是这样过的
 
+#### Verse 2
+
+Someone told me, after college, you ran off to Vegas
+You married a rodeo cowboy, why?
+That ain't the girl I knew
+Me, I've been a few places, mostly here and there once or twice
+Still sortin' out life, but I'm doin' all right
+Yeah, it's good to see you, too
+
 #### 主歌 2
 
 有人说你大学毕业后跑去 Vegas
-嫁了个 rodeo 牛仔，为什么？
+嫁了个牛仔，为什么？
 那不像我认识的姑娘
 我呢，去过一些地方，多半这里那里各一两次
 还在理清人生，但还算过得去
 嗯，也很高兴见到你
+
+#### Verse 3
+
+Well, hey girl, you're late
+And those planes, they don't wait
+But if you ever come back around this sleepy old town
+Promise me you'll stop in
+To see an old friend, and until then
 
 #### 主歌 3
 
@@ -163,11 +151,19 @@ To see an old friend, and until then
 答应我会进来看看
 见见老朋友；在那之前
 
+#### Chorus（重复）
+
 #### 副歌（重复）
 
-*(同第一段副歌)*
+*(同副歌)*
 
-#### 尾声（副歌重复，渐弱）
+#### Outro（副歌重复，渐弱）
+
+*(Chorus lines repeated to the end; recording stacks *teardrops* / *old song*)*
+
+#### 尾奏（副歌重复，渐弱）
+
+*(副歌句重复至结尾；录音叠着「泪滴」与「老歌」)*
 
 ## 重点表达 · Key Phrases
 

@@ -63,16 +63,20 @@ aliases:
 
 > 专辑版：第一段由 Brian May 演唱，其余由 Freddie Mercury 主唱；本笔记不区分演唱者，按歌词结构标注。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
 There's no time for us
 There's no place for us
 What is this thing that builds our dreams, yet slips away from us
+
+#### 主歌 1
+
+我们没有时间
+我们没有容身之处
+是什么构筑梦想，却又从指间溜走
 
 #### Chorus 1
 
@@ -83,39 +87,6 @@ There's no chance for us
 It's all decided for us
 This world has only one sweet moment set aside for us
 
-#### Chorus 2
-
-Who wants to live forever
-Who wants to live forever
-Ooh
-Who dares to love forever
-Oh oo woh, when love must die
-
-#### Verse 2 / Bridge
-
-But touch my tears with your lips
-Touch my world with your fingertips
-And we can have forever
-And we can love forever
-Forever is our today
-
-#### Chorus 3 / Outro
-
-Who wants to live forever
-Who wants to live forever
-Forever is our today
-Who waits forever anyway?
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我们没有时间
-我们没有容身之处
-是什么构筑梦想，却又从指间溜走
-
 #### 副歌 1
 
 谁想永生
@@ -125,13 +96,29 @@ Who waits forever anyway?
 一切早已注定
 这世界只留给我们一个甜蜜瞬间
 
+#### Chorus 2
+
+Who wants to live forever
+Who wants to live forever
+Ooh
+Who dares to love forever
+Oh oo woh, when love must die
+
 #### 副歌 2
 
 谁想永生
 谁想永生
 哦
 谁敢爱到天荒地老
-哦，当爱必须消逝
+哦哦喔，当爱必须消逝
+
+#### Verse 2 / Bridge
+
+But touch my tears with your lips
+Touch my world with your fingertips
+And we can have forever
+And we can love forever
+Forever is our today
 
 #### 主歌 2 / 桥段
 
@@ -141,7 +128,14 @@ Who waits forever anyway?
 我们便能永远相爱
 永远就是我们的今天
 
-#### 副歌 3 / 尾声
+#### Chorus 3 / Outro
+
+Who wants to live forever
+Who wants to live forever
+Forever is our today
+Who waits forever anyway?
+
+#### 副歌 3 / 尾奏
 
 谁想永生
 谁想永生

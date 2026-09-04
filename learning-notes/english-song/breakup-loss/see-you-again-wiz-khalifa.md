@@ -65,10 +65,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus（Charlie Puth）
 
@@ -77,6 +75,14 @@ And I'll tell you all about it when I see you again
 We've come a long way from where we began
 Oh, I'll tell you all about it when I see you again
 When I see you again
+
+#### 副歌（Charlie Puth）
+
+没有你的这一天，真是漫长啊，我的朋友
+等再见到你，我把这一路都讲给你听
+从起点走到现在，我们已经走出好远
+哦，等再见到你，我把这一路都讲给你听
+等我再见到你
 
 #### Verse 1（Wiz Khalifa）
 
@@ -90,11 +96,29 @@ Those were the days, hard work forever pays
 Now I see you in a better place (see you in a better place)
 Uh
 
+#### 主歌 1（Wiz Khalifa）
+
+该死，谁能料到呢？
+一起飞过那么多航线，一起熬过那么多好时光
+我会站在这儿，跟你说着话
+聊另一条路；我知道我们最爱上路、一路大笑
+可心里有个声音说：这不会一直这样
+得换个活法，换个角度看事，把格局看大一点
+那才叫好日子；努力终会有回报
+现在我看见你在更好的地方（在更好的地方）
+嗯
+
 #### Pre-Chorus
 
 How can we not talk about family when family's all that we got?
 Everything I went through, you were standing there by my side
 And now you gon' be with me for the last ride
+
+#### 预副歌
+
+家人是我们仅有的一切，怎么能不提家人？
+我经历的每件事，你都站在我身边
+而现在，你会陪我走完这最后一程
 
 #### Chorus（重复）
 
@@ -102,6 +126,13 @@ And now you gon' be with me for the last ride
 We've come a long way (yeah, we came a long way)
 From where we began (you know we started)
 When I see you again
+
+#### 副歌（重复）
+
+*(同第一段副歌；现场/录音常加即兴：)*
+我们已经走出好远（耶，我们走出好远）
+从我们开始的地方（你知道我们是从哪儿起步的）
+等我再见到你
 
 #### Verse 2（Wiz Khalifa）
 
@@ -112,9 +143,22 @@ And when brotherhood come first, then the line will never be crossed
 Established it on our own when that line had to be drawn
 And that line is what we reached, so remember me when I'm gone (remember me when I'm gone)
 
+#### 主歌 2（Wiz Khalifa）
+
+一开始，你们都特别用心，气场对得要命
+小事变成友情，友情又变成羁绊
+这羁绊永远不会断，这份爱永远不会丢（永远不会丢）
+兄弟情放第一，那条线就永远不会被越过
+那条线必须划清时，是我们自己立下的规矩
+那条线，我们走到了；所以我不在了，也请记得我（记得我）
+
 #### Pre-Chorus（重复）
 
 *(同第一段 Pre-Chorus)*
+
+#### 预副歌（重复）
+
+*(同第一段预副歌)*
 
 #### Bridge（Charlie Puth）
 
@@ -122,6 +166,13 @@ So let the light guide your way, yeah
 Hold every memory as you go
 And every road you take
 Will always lead you home, home
+
+#### 桥段（Charlie Puth）
+
+那就让光为你引路，耶
+一路走，把每一段回忆都握紧
+你走的每一条路
+终会带你回家，回家
 
 #### Final Chorus
 
@@ -135,68 +186,15 @@ When I see you again
 When I see you again
 See you again
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌（Charlie Puth）
-
-没有你的日子真漫长啊，我的朋友
-等再见到你，我把一切都讲给你听
-从起点走到现在，我们已经走了好远
-哦，等再见到你，我把一切都讲给你听
-等我再见到你
-
-#### 主歌 1（Wiz Khalifa）
-
-该死，谁能想到呢？
-一起飞过那么多航线，一起走过那么多好日子
-我会站在这儿，跟你说着话
-聊另一条路；我知道我们最爱上路瞎逛、一路大笑
-可心里有个声音说：这不会一直这样
-得换个活法，换个角度看事，把格局看大一点
-那才是好日子；努力终会有回报
-现在我看见你在更好的地方（在更好的地方）
-嗯
-
-#### 预副歌
-
-家人是我们仅有的一切，怎么能不提家人？
-我经历的每件事，你都站在我身边
-而现在，你会陪我走完这最后一程
-
-#### 副歌（重复）
-
-我们已经走了好远（对，走了好远）
-从我们开始的地方（你知道我们是从哪儿起步的）
-等我再见到你
-
-#### 主歌 2（Wiz Khalifa）
-
-一开始，你们都特别用心，感觉特别对
-小事变成友情，友情又变成羁绊
-这羁绊永远不会断，这份爱永远不会丢（永远不会丢）
-兄弟情放第一，那条线就永远不会被越过
-那条线必须划清时，是我们自己立下的规矩
-那条线，我们走到了；所以我不在了，也请记得我（记得我）
-
-#### 预副歌（重复）
-
-#### 桥段（Charlie Puth）
-
-那就让光为你引路，yeah
-一路走，把每一段回忆都握紧
-你走的每一条路
-终会带你回家，回家
-
 #### 终段副歌
 
-没有你的日子真漫长啊，我的朋友
-等再见到你，我把一切都讲给你听
-从起点走到现在，我们已经走了好远
-哦，等再见到你，我把一切都讲给你听
+没有你的这一天，真是漫长啊，我的朋友
+等再见到你，我把这一路都讲给你听
+从起点走到现在，我们已经走出好远
+哦，等再见到你，我把这一路都讲给你听
 等我再见到你
 
+*(尾奏哼唱 / 即兴：)*
 等我再见到你
 再见
 

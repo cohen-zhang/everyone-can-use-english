@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,12 +73,31 @@ When the world is getting stranger
 Take control of who you are
 Stay the same, don't let them change you
 
+#### 主歌 1
+
+掌管你是谁
+保持本色，别让他们改掉你
+掌管你是谁
+因为没人会来救你
+
+掌管你是谁
+当这世界越来越陌生
+掌管你是谁
+保持本色，别让他们改掉你
+
 #### Chorus
 
 But when it comes apart
 When it comes apart, just start again
 And open up your heart
 Take control of who you are
+
+#### 副歌
+
+但当一切分崩离析
+当一切分崩离析，就重新开始
+并敞开你的心
+掌管你是谁
 
 #### Verse 2
 
@@ -94,12 +111,31 @@ When the world is getting stranger
 Take control of who you are
 Show the people what you are made of
 
+#### 主歌 2
+
+掌管你是谁
+当你照着镜子
+在天空之下
+你会看得更清楚一些
+
+掌管你是谁
+当这世界越来越陌生
+掌管你是谁
+让人们看看你是什么料
+
 #### Chorus 2
 
 And when it comes apart
 When it comes apart, just start again
 Open up your heart
 Take control of who you are
+
+#### 副歌 2
+
+而当一切分崩离析
+当一切分崩离析，就重新开始
+敞开你的心
+掌管你是谁
 
 #### Chorus 3
 
@@ -108,11 +144,24 @@ When it comes apart, just start again
 Open up your heart
 Take control of who you are
 
+#### 副歌 3
+
+而当一切分崩离析
+当一切分崩离析，就重新开始
+敞开你的心
+掌管你是谁
+
 #### Bridge
 
 You won't break me down
 You won't break me down
 You won't break me down
+
+#### 桥段
+
+你压不垮我
+你压不垮我
+你压不垮我
 
 #### Outro
 
@@ -121,67 +170,12 @@ And when it comes apart, just start again
 Open up your heart
 Take control of who you are
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-掌控你自己
-保持本色，别让他们改变你
-掌控你自己
-因为没人会来救你
-
-掌控你自己
-当这世界越来越陌生
-掌控你自己
-保持本色，别让他们改变你
-
-#### 副歌
-
-但当一切分崩离析
-当一切分崩离析，就重新开始
-并敞开你的心
-掌控你自己
-
-#### 主歌 2
-
-掌控你自己
-当你照着镜子
-在天空之下
-你会看得更清楚一些
-
-掌控你自己
-当这世界越来越陌生
-掌控你自己
-让人们看看你是什么料
-
-#### 副歌 2
-
-而当一切分崩离析
-当一切分崩离析，就重新开始
-敞开你的心
-掌控你自己
-
-#### 副歌 3
-
-而当一切分崩离析
-当一切分崩离析，就重新开始
-敞开你的心
-掌控你自己
-
-#### 桥段
-
-你压不垮我
-你压不垮我
-你压不垮我
-
-#### 尾声
+#### 尾奏
 
 当一切分崩离析
 而当一切分崩离析，就重新开始
 敞开你的心
-掌控你自己
+掌管你是谁
 
 ## 重点表达 · Key Phrases
 

@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,12 +73,30 @@ Lord, I fear the cold
 Feel I'm getting old
 Before my time
 
+#### 主歌 1
+
+派个人来爱我
+我需要在怀抱里歇息
+护我远离伤害
+在这倾盆大雨里
+给我无尽的夏日
+主啊，我怕寒冷
+觉得自己在变老
+太早、太早
+
 #### Chorus
 
 As my soul heals the shame
 I will grow through this pain
 Lord, I'm doing all I can
 To be a better man
+
+#### 副歌
+
+当灵魂抚平羞耻
+我会在痛里成长
+主啊，我已竭尽全力
+只为成为一个更好的人
 
 #### Verse 2
 
@@ -93,12 +109,30 @@ Will catch my tears
 Walk me out of here
 I'm in pain
 
+#### 主歌 2
+
+请饶了我的良心
+因为不是我的错
+我知道我被教导
+要去承担一切责备
+放心，我的天使
+会接住我的眼泪
+带我走出这里
+我很痛苦
+
 #### Chorus（重复）
 
 As my soul heals the shame
 I will grow through this pain
 Lord I'm doing all I can
 To be a better man
+
+#### 副歌（重复）
+
+当灵魂抚平羞耻
+我会在痛里成长
+主啊，我已竭尽全力
+只为成为一个更好的人
 
 #### Bridge
 
@@ -108,6 +142,15 @@ Love is all around
 Love is all around
 I know some have fallen on stony ground
 But love is all around
+
+#### 桥段
+
+一旦找到那个爱人
+你便踏上归途
+爱无处不在
+爱无处不在
+我知道有人摔在顽石地上
+可爱仍无处不在
 
 #### Verse 1（重复）
 
@@ -120,62 +163,6 @@ Lord, I fear the cold
 Feel I'm getting old
 Before my time
 
-#### Chorus（结尾）
-
-As my soul heals the shame
-I will grow through this pain
-Lord, I'm doin' all I can
-To be a better man
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-派个人来爱我
-我需要在怀抱里歇息
-护我远离伤害
-在这倾盆大雨里
-给我无尽的夏日
-主啊，我怕寒冷
-觉得自己在变老
-太早、太早
-
-#### 副歌
-
-当灵魂抚平羞耻
-我会在痛里成长
-主啊，我已竭尽全力
-只为成为一个更好的人
-
-#### 主歌 2
-
-请饶了我的良心
-因为不是我的错
-我知道我被教导
-要去承担一切责备
-放心，我的天使
-会接住我的眼泪
-带我走出这里
-我很痛苦
-
-#### 副歌（重复）
-
-当灵魂抚平羞耻
-我会在痛里成长
-主啊，我已竭尽全力
-只为成为一个更好的人
-
-#### 桥段
-
-一旦找到那个爱人
-你便踏上归途
-爱无处不在
-爱无处不在
-我知道有人摔在顽石地上
-但爱仍无处不在
-
 #### 主歌 1（重复）
 
 派个人来爱我
@@ -186,6 +173,13 @@ To be a better man
 主啊，我怕寒冷
 觉得自己在变老
 太早、太早
+
+#### Chorus（结尾）
+
+As my soul heals the shame
+I will grow through this pain
+Lord, I'm doin' all I can
+To be a better man
 
 #### 副歌（结尾）
 

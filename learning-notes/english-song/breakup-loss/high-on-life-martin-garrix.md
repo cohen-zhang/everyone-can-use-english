@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,27 +75,6 @@ And friendships only pass by
 Show up, gone, like strobe lights
 With you, I feel something real
 
-#### Chorus
-
-And I'd walk a million miles just to see you smile
-'Til the day I die
-Oh, I need you by my side, we'd get high on life
-'Til the day we die
-High on life 'til the day we die
-
-#### Verse 2
-
-Through my fingers, out of sight
-How could I have let you go?
-Cutting corners, turning stones
-But I can only see your ghost
-
-*(重复 Verse 1 后半 + Chorus)*
-
----
-
-### 中文翻译 · Chinese Translation
-
 #### 主歌 1
 
 驱走了心里的恶魔
@@ -112,6 +89,14 @@ But I can only see your ghost
 出现又消失，像频闪灯
 和你在一起，我才感到真实
 
+#### Chorus
+
+And I'd walk a million miles just to see you smile
+'Til the day I die
+Oh, I need you by my side, we'd get high on life
+'Til the day we die
+High on life 'til the day we die
+
 #### 副歌
 
 我愿走一百万英里，只为看你笑
@@ -120,12 +105,23 @@ But I can only see your ghost
 直到我们一起死去那天
 为活着而狂喜，直到死去那天
 
+#### Verse 2
+
+Through my fingers, out of sight
+How could I have let you go?
+Cutting corners, turning stones
+But I can only see your ghost
+
+*(重复 Verse 1 后半 + Chorus)*
+
 #### 主歌 2
 
 从指缝溜走，看不见了
 我怎么会让你走？
-抄近路、翻遍石块（四处寻找）
+抄近路、翻遍石块
 却只看见你的幽灵
+
+*(重复主歌 1 后半 + 副歌)*
 
 ## 重点表达 · Key Phrases
 

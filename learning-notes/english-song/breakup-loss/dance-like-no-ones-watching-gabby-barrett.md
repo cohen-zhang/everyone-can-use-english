@@ -61,14 +61,16 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Oh
+
+#### 前奏
+
+哦
 
 #### Verse 1
 
@@ -76,6 +78,13 @@ I was seven years old, he was holdin' my hand
 So we walked in the gym, he could tell I was scared
 Say, "You can pretend, it's just you and me"
 So I closed my eyes and I stood on his feet
+
+#### 主歌 1
+
+我七岁，他牵着我的手
+走进体育馆，他看得出我害怕
+说：「你可以假装，只有我们俩」
+于是我闭上眼，踩上他的脚
 
 #### Chorus（七岁 · 第一幕）
 
@@ -86,9 +95,22 @@ Oh, 'cause girl, it's a big world
 And it's so easy to get lost in
 So dance like no one's watchin'
 
+#### 副歌（七岁 · 第一幕）
+
+他说，就当没人在看，尽情跳
+无论你做什么
+若生活把爱给你，就投入，但永远做自己
+哦，女孩，世界很大
+很容易迷失其中
+所以就当没人在看，尽情跳
+
 #### Post-Chorus
 
 Oh, no, no
+
+#### 后副歌
+
+哦，不，不
 
 #### Verse 2
 
@@ -96,6 +118,13 @@ He taped up the last box and he shut the trunk
 Said, go have a ball, just don't drink too much
 You should be there by dark, you're an hour ahead
 Let us know you got there and never forget
+
+#### 主歌 2
+
+他封好最后一个箱子，关上后备箱
+说去玩个痛快，别喝太多
+天黑前该到了，你早一个时区
+到了告诉我们，永远别忘了
 
 #### Chorus（离家 · 第二幕）
 
@@ -108,12 +137,30 @@ So dance like no one's watchin'
 
 Oh, no
 
+#### 副歌（离家 · 第二幕）
+
+哦，就当没人在看，尽情跳
+无论你做什么
+若生活把爱给你，就投入，但永远做自己
+哦，女孩，世界很大
+很容易迷失其中
+所以就当没人在看，尽情跳
+
+哦，不
+
 #### Bridge（婚礼 · 第三幕）
 
 I can't believe that you picked this song
 You can hold it together, just don't look at mom
 It's just like we practiced back at the house
 Use those two left feet, spin me around
+
+#### 桥段（婚礼 · 第三幕）
+
+真不敢信你选了这首歌
+你能绷住的，别去看妈妈
+就像我们在家里练过的那样
+用你那双笨脚，转我一圈
 
 #### Chorus（婚礼 · 第三幕）
 
@@ -124,71 +171,18 @@ Oh, I know it's a big world
 And it's so easy to get lost in
 So dance like no one's watchin'
 
+#### 副歌（婚礼 · 第三幕）
+
+爸爸，就当没人在看，尽情跳
+无论你做什么
+若生活把爱给你，就投入，但永远做自己
+哦，我知道世界很大
+很容易迷失其中
+所以就当没人在看，尽情跳
+
 #### Post-Chorus（结尾）
 
 Ooh
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-哦
-
-#### 主歌 1
-
-我七岁，他牵着我的手
-走进体育馆，他看得出我害怕
-说：「你可以假装，只有我们俩」
-于是我闭上眼，踩着他的脚
-
-#### 副歌（七岁 · 第一幕）
-
-他说，没人看时就跳舞
-无论你做什么
-若生活给你爱，就投入，但永远做自己
-哦，女孩，世界很大
-很容易迷失
-所以，没人看时就跳舞
-
-#### 后副歌
-
-哦，不，不
-
-#### 主歌 2
-
-他封好最后一个箱子，关上后备箱
-说去玩个痛快，别喝太多
-天黑前该到了，你早一个时区
-到了告诉我们，永远别忘了
-
-#### 副歌（离家 · 第二幕）
-
-哦，没人看时就跳舞
-无论你做什么
-若生活给你爱，就投入，但永远做自己
-哦，女孩，世界很大
-很容易迷失
-所以，没人看时就跳舞
-
-哦，不
-
-#### 桥段（婚礼 · 第三幕）
-
-真不敢信你选了这首歌
-你能绷住的，别去看妈妈
-就像我们在家里练的那样
-用你那双笨脚，转我一圈
-
-#### 副歌（婚礼 · 第三幕）
-
-爸爸，没人看时就跳舞
-无论你做什么
-若生活给你爱，就投入，但永远做自己
-哦，我知道世界很大
-很容易迷失
-所以，没人看时就跳舞
 
 #### 后副歌（结尾）
 

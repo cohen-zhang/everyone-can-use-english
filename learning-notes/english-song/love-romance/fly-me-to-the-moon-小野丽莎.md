@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### A Section
 
@@ -75,10 +73,22 @@ Let me play among the stars
 Let me see what spring is like
 On Jupiter and Mars
 
+#### A 段
+
+带我飞去月球吧
+让我在群星之间嬉戏
+让我看看春天是什么模样
+在木星与火星上
+
 #### B Section（转折）
 
 In other words, hold my hand
 In other words, baby, kiss me
+
+#### B 段（转折）
+
+换句话说，牵着我的手
+换句话说，宝贝，吻我吧
 
 #### A Section（第二遍）
 
@@ -87,48 +97,28 @@ And let me sing forevermore
 You are all I long for
 All I worship and adore
 
+#### A 段（第二遍）
+
+用歌声填满我的心
+让我从此唱到永远
+你是我全部的渴望
+是我崇拜、珍爱的一切
+
 #### B Section（收束）
 
 In other words, please be true
 In other words, I love you
 
-#### 重复说明
-
-Live jazz sets and recordings often run the **A–B–A–B** form again (or add improvisation). Sing-along tip: **nail the words on the first pass**, then soft-follow the melody on the second to practice swing and weak forms.
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### A Section
-
-带我飞去月球吧
-让我在星星之间玩耍
-让我看看春天是什么样
-在木星和火星上
-
-#### B Section（转折）
-
-换句话说，牵着我的手
-换句话说，亲爱的，吻我吧
-
-#### A Section（第二遍）
-
-用歌声填满我的心
-让我永远唱下去
-你是我全部的渴望
-是我崇拜、珍爱的一切
-
-#### B Section（收束）
+#### B 段（收束）
 
 换句话说，请对我真心
 换句话说，我爱你
 
 #### 重复说明
 
-爵士现场与录音常把以上 **A–B–A–B** 再唱一轮（或加即兴）。跟唱时：**第一轮把词唱稳**，第二轮可轻声跟旋律、练 swing 与弱读；不必每遍都把中文对照再抄一遍。
+Live jazz sets and recordings often run the **A–B–A–B** form again (or add improvisation). Sing-along tip: **nail the words on the first pass**, then soft-follow the melody on the second to practice swing and weak forms.
 
-*(同第一轮完整歌词)*
+爵士现场与录音常把以上 **A–B–A–B** 再唱一轮（或加即兴）。跟唱时：**第一轮把词唱稳**，第二轮轻声跟旋律，练 swing 与弱读。
 
 ## 重点表达 · Key Phrases
 

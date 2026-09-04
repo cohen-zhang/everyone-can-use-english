@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
@@ -71,6 +69,13 @@ La di da di da da
 La di da di da da
 La di da di da da
 La da da
+
+#### 前奏
+
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦哒哒
 
 #### Verse 1
 
@@ -83,6 +88,17 @@ All because of love
 All because of love
 Even though sometimes you don't know who I am
 
+#### 主歌 1
+
+我被真相拴住，像锚一样
+锚进一片没有底的海
+我又在天空里自由漂浮
+被你心里的引力拉住
+
+全是因为爱
+全是因为爱
+尽管有时你并不了解我是谁
+
 #### Chorus
 
 I am you, everything you do
@@ -91,11 +107,25 @@ You're me with your arms on a chain
 Linked eternally in what we can't undo
 And I am you
 
+#### 副歌
+
+我就是你，你所做的一切
+你说的任何话，你想让我成为的样子
+你是我，双臂却像被链锁住
+永远相连，锁在我们无法撤回的事里
+而我就是你
+
 #### Interlude
 
 La di da di da da
 La di da di da da
 La da da
+
+#### 间奏
+
+啦滴哒滴哒哒
+啦滴哒滴哒哒
+啦哒哒
 
 #### Verse 2
 
@@ -108,6 +138,17 @@ And it's all for love
 And it's all for love
 Even though sometimes, I don't know who I am
 
+#### 主歌 2
+
+所有感官都被变化唤醒
+我在自己的皮肤里感到活着
+所有理智都在告诉我：这有多奇怪
+回到一个我从未离开的地方
+
+而这一切都是为了爱
+而这一切都是为了爱
+尽管有时，我不知道自己是谁
+
 #### Chorus（重复）
 
 I am you, everything you do
@@ -116,68 +157,22 @@ You're me with your arms on a chain
 Linked eternally in what we can't undo
 I'm you
 
-#### Outro
-
-*(La di da 重复至结尾)*  
-I am you
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-啦滴哒滴哒哒
-啦滴哒滴哒哒
-啦滴哒滴哒哒
-啦哒哒
-
-#### 主歌 1
-
-我被真相拴住，像锚一样
-锚在一片没有底的海里
-我又在天空里自由漂浮
-被你的心的引力拉住
-
-全是因为爱
-全是因为爱
-尽管有时你并不了解我是谁
-
-#### 副歌
-
-我就是你，你所做的一切
-你说的任何话，你想让我成为的样子
-你是我，双臂却像被链锁住
-永远连在一起，在我们无法撤销的事里
-而我就是你
-
-#### 间奏
-
-啦滴哒滴哒哒
-啦滴哒滴哒哒
-啦哒哒
-
-#### 主歌 2
-
-所有感官都被变化唤醒
-我在自己的皮肤里感到活着
-所有理智都在告诉我这有多奇怪
-回到一个我一直都在的地方
-
-而一切都是为了爱
-而一切都是为了爱
-尽管有时，我不知道自己是谁
-
 #### 副歌（重复）
 
 我就是你，你所做的一切
 你说的任何话，你想让我成为的样子
 你是我，双臂却像被链锁住
-永远连在一起，在我们无法撤销的事里
+永远相连，锁在我们无法撤回的事里
 我就是你
 
-#### 尾声
+#### Outro
 
+*(La di da 重复至结尾)*  
+I am you
+
+#### 尾奏
+
+*(啦滴哒重复至结尾)*  
 我就是你
 
 ## 重点表达 · Key Phrases

@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,19 @@ I wonder why
 I wonder where they are
 The days we had
 The songs we sang together, oh yeah
+
+#### 主歌 1
+
+空荡的街
+空荡的屋
+心里空了一个洞
+我独自一人，房间仿佛越来越小
+
+我想知道怎么会
+我想知道为什么
+我想知道它们去了哪里
+我们共度的那些日子
+我们一起唱过的歌，哦 yeah
 
 #### Chorus
 
@@ -93,6 +104,22 @@ To find a place I love the most
 Where the fields are green
 To see you once again, my love
 
+#### 副歌
+
+哦，我的爱人
+我会永远不放手
+伸手去够那份仿佛远在天边的爱
+
+于是我做一个小小的祷告
+希望梦能带我去那里
+那里天空湛蓝
+再见到你一次，我的爱人
+
+越过重洋，从海岸到海岸
+去找我最爱的那个地方
+那里田野翠绿
+再见到你一次，我的爱人
+
 #### Verse 2
 
 I try to read
@@ -106,7 +133,24 @@ I wonder where they are
 The days we had
 The songs we sang together, oh yeah
 
+#### 主歌 2
+
+我试着读点书
+我去上班
+我和朋友一起笑
+可我没法让自己不想你，哦不
+
+我想知道怎么会
+我想知道为什么
+我想知道它们去了哪里
+我们共度的那些日子
+我们一起唱过的歌，哦 yeah
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -116,6 +160,15 @@ To tell you from the heart
 You're all I'm thinking of
 
 I'm reaching for the love that seems so far
+
+#### 桥段
+
+把你拥入怀中
+向你许诺我的爱
+从心底告诉你
+你是我所思念的一切
+
+伸手去够那份仿佛远在天边的爱
 
 #### Final Chorus
 
@@ -129,78 +182,17 @@ To find a place I love the most
 Where the fields are green
 To see you once again, my love
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-空荡的街
-空荡的屋
-心里空了一个洞
-我独自一人，房间仿佛越来越小
-
-我想知道怎么
-我想知道为何
-我想知道它们在哪
-我们共度的日子
-我们一起唱过的歌，哦 yeah
-
-#### 副歌
-
-哦，我的爱人
-我会永远坚持
-伸手去够那似乎遥不可及的 love
-
-于是我做一个小小祷告
-希望梦能带我去那里
-那里天空湛蓝
-再见到你一次，我的爱人
-
-跨越海洋，从海岸到海岸
-去找我最爱的那个地方
-那里田野翠绿
-再见到你一次，我的爱人
-
-#### 主歌 2
-
-我试着读点书
-我去上班
-我和朋友一起笑
-但我停不下来不去想你，哦不
-
-我想知道怎么
-我想知道为何
-我想知道它们在哪
-我们共度的日子
-我们一起唱过的歌，哦 yeah
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-把你拥入怀中
-向你许诺我的爱
-从心底告诉你
-你是我所思念的一切
-
-伸手去够那似乎遥不可及的 love
-
 #### 终段副歌
 
-于是我做一个小小祷告
+于是我做一个小小的祷告
 希望梦能带我去那里
 那里天空湛蓝
 再见到你一次，我的爱人
 
-跨越海洋，从海岸到海岸
+越过重洋，从海岸到海岸
 去找我最爱的那个地方
 那里田野翠绿
 再见到你一次，我的爱人
-
-*(副歌再重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

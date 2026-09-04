@@ -64,10 +64,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -76,6 +74,13 @@ It's not a big, big thing if you leave me
 But I do, do feel that I do, do will miss you much
 Miss you much
 
+#### 副歌
+
+在这个大大的世界里，我是个大大女孩
+你离开我也不是什么大事
+可我真的、真的觉得我会非常、非常想你
+非常想你
+
 #### Verse 1
 
 I can see the first leaf falling
@@ -83,7 +88,18 @@ It's all yellow and nice
 It's so very cold outside
 Like the way I'm feeling inside
 
+#### 主歌 1
+
+我看见第一片叶子落下
+它黄黄的，挺好看
+外面好冷
+就像我心里的感觉
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 2
 
@@ -92,12 +108,26 @@ And tears are falling from my eyes
 Why did it have to happen
 Why did it all have to end
 
+#### 主歌 2
+
+外面现在在下雨
+泪水从我眼里落下
+为什么非得发生
+为什么一切都要结束
+
 #### Bridge
 
 I have your arms around me
 Warm like fire
 But when I open my eyes
 You're gone
+
+#### 桥段
+
+你的手臂曾环抱着我
+温暖得像火
+可当我睁开眼
+你已不在
 
 #### Chorus（重复至结尾）
 
@@ -106,52 +136,12 @@ It's not a big, big thing if you leave me
 But I do, do feel that I do, do will miss you much
 Miss you much
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-在这个大大的世界里，我是个大大女孩
-你离开我也不是什么大事
-但我真的、真的觉得我会非常、非常想你
-非常想你
-
-#### 主歌 1
-
-我看见第一片叶子落下
-它黄黄的，挺好看
-外面好冷
-就像我内心的感觉
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 2
-
-外面现在在下雨
-泪水从我眼里落下
-为什么非得发生
-为什么一切都要结束
-
-*(同第一段副歌)*
-
-#### 桥段
-
-你的手臂曾环抱着我
-温暖得像火
-但当我睁开眼
-你已不在
-
 #### 副歌（重复至结尾）
 
 在这个大大的世界里，我是个大大女孩
 你离开我也不是什么大事
-但我真的、真的觉得我会非常、非常想你
+可我真的、真的觉得我会非常、非常想你
 非常想你
-
-*(副歌重复一次后结束)*
 
 ## 重点表达 · Key Phrases
 

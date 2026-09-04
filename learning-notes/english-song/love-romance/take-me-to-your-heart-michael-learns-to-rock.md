@@ -60,15 +60,18 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Mmm, hmm, yeah
 Mmm, hmm
+
+#### 前奏
+
+嗯，嗯，是啊
+嗯，嗯
 
 #### Verse 1
 
@@ -79,6 +82,16 @@ Listening to my own heartbeat
 
 So many people all around the world
 Tell me, where do I find someone like you, girl?
+
+#### 主歌 1
+
+躲着雨雪
+努力忘记，却放不下
+望着拥挤的街道
+听着自己的心跳
+
+世上那么多人
+告诉我，去哪儿找像你这样的女孩？
 
 #### Chorus
 
@@ -97,6 +110,23 @@ Give me your hand and hold me
 Show me what love is, be my guiding star
 It's easy, take me to your heart
 
+#### 副歌
+
+带我走进你心里，走进你灵魂
+趁我还没老，把手给我
+告诉我爱是什么——我毫无头绪
+让我看见，奇迹也可以成真
+
+他们说没有什么会永恒
+我们只活在今天
+爱就是现在，否则永无机会
+带我远走高飞
+
+带我走进你心里，走进你灵魂
+把手给我，抱紧我
+告诉我爱是什么，做我的指路星
+很简单，带我走进你心里
+
 #### Verse 2
 
 Standing on a mountain high
@@ -107,7 +137,21 @@ But they don't really comprehend
 Don't need too much talking without saying anything
 All I need is someone who makes me wanna sing
 
+#### 主歌 2
+
+站在高高的山上
+透过澄澈蓝天望着月亮
+我该去见见朋友
+可他们并不真正懂
+
+不需要太多言语——什么都不用说
+我只需要一个让我想唱歌的人
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Outro
 
@@ -117,57 +161,7 @@ Give me your hand and hold me
 Show me what love is, be my guiding star
 It's easy, take me to your heart
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-嗯，嗯，是啊
-嗯，嗯
-
-#### 主歌 1
-
-躲着雨雪
-努力忘记，却放不下
-望着拥挤的街道
-听着自己的心跳
-
-世上那么多人
-告诉我，去哪找像你这样的女孩？
-
-#### 副歌
-
-带我走进你心里，走进你灵魂
-趁我还没老，把手给我
-告诉我爱是什么——我毫无头绪
-让我相信奇迹可以成真
-
-他们说没有什么是永恒的
-我们只活在此刻
-爱要把握现在，否则永无机会
-带我远走高飞
-
-带我走进你心里，走进你灵魂
-把手给我，抱紧我
-告诉我爱是什么，做我的指路星
-很简单，带我走进你心里
-
-#### 主歌 2
-
-站在高高的山上
-透过湛蓝天空望着月亮
-我该去见见朋友
-但他们并不真正理解
-
-不需要太多言语——什么都不用说
-我只需要一个让我想唱歌的人
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 尾声
+#### 尾奏
 
 （带我，带我）
 带我走进你心里，走进你灵魂

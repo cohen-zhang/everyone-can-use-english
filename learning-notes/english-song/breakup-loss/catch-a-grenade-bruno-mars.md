@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -80,6 +78,18 @@ From the first kiss
 Had your eyes wide open
 Why were they open?
 
+#### 主歌 1
+
+来得快，去得也快
+你就是这么活的，哦
+拿了又拿，全拿走
+可你从不付出
+早该看清
+你就是个祸
+从第一个吻起
+你眼睛睁得那么大
+为什么睁着？
+
 #### Pre-Chorus
 
 Gave you all I had
@@ -88,6 +98,15 @@ Tossed it in the trash you did
 To give me all your love
 Is all I ever asked
 But what you don't understand is
+
+#### 预副歌
+
+把我所有都给了你
+你却扔进垃圾桶
+真的扔了，一点不剩
+把你全部的爱给我
+是我唯一求过的
+可你不懂的是
 
 #### Chorus
 
@@ -100,6 +119,17 @@ Take a bullet straight through my brain
 Yes, I would die for ya baby
 But you won't do the same
 
+#### 副歌
+
+我愿为你接住手榴弹（耶，耶，耶）
+愿为你把手按上刀刃（耶，耶，耶）
+愿为你挡在火车前（耶，耶，耶）
+你知道我愿为你做任何事（耶，耶，耶）哦，哦
+这些苦我都肯受
+愿让子弹直穿我的头
+是的，我愿为你去死，宝贝
+可你不会同样对我
+
 #### Verse 2
 
 No, no, no, no
@@ -110,6 +140,17 @@ Mad woman, bad woman
 That's just what you are, yeah
 You'll smile in my face then
 Rip the brakes out my car
+
+#### 主歌 2
+
+不、不、不、不
+青一块，紫一块
+打到我失去知觉
+你回老家时，替我跟魔鬼打个招呼
+疯女人，坏女人
+你就是这样的人，耶
+你会当面冲我笑
+再拆掉我车上的刹车
 
 #### Pre-Chorus & Chorus
 
@@ -122,12 +163,30 @@ Cause what you don't understand is
 
 *(Chorus 同前)*
 
+#### 预副歌 & 副歌
+
+把我所有都给了你
+你却扔进垃圾桶
+真的扔了，没错
+把你全部的爱给我
+是我唯一求过的
+因为你不懂的是
+
+*(副歌同前)*
+
 #### Bridge
 
 If my body was on fire, ooh
 You'd watch me burn down in flames
 You said you loved me you're a liar
 Cause you never, ever, ever did baby
+
+#### 桥段
+
+若我全身着火，哦
+你会看着我烧成灰
+你说爱我——你是个骗子
+因为你从来、从来、从来没有爱过，宝贝
 
 #### Final Chorus
 
@@ -142,79 +201,16 @@ But you won't do the same
 
 No, no, no, no
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-来得容易，去得也快
-你就是这么活的
-拿、拿、全拿走
-可你从不付出
-早该知道
-你就是个麻烦
-从第一个吻开始
-你眼睛睁得大大的
-为什么睁着？
-
-#### 预副歌
-
-把我所有的都给了你
-你却扔进垃圾桶
-真的扔进垃圾桶了
-把你全部的爱给我
-是我唯一求过的
-可你不懂的是
-
-#### 副歌
-
-我愿意为你接住一颗手榴弹
-愿意为你把手按在刀刃上
-愿意为你冲到火车前面
-你知道我愿为你做任何事
-我愿意受尽这些苦
-愿意让子弹直穿我的脑袋
-是的，我愿意为你去死，宝贝
-可你不会为我这样做
-
-#### 主歌 2
-
-不、不、不、不
-青一块紫一块
-打到我麻木
-你回老家时，替我跟魔鬼说声嘿
-疯女人，坏女人
-你就是这样的人
-你会当面冲我笑
-然后拆掉我车上的刹车
-
-#### 预副歌 & 副歌
-
-把我所有的都给了你
-你却扔进垃圾桶
-真的扔了，没错
-把你全部的爱给我
-是我唯一求过的
-因为你不懂的是
-
-#### 桥段
-
-要是我全身着火
-你会看着我烧成灰
-你说爱我——你是个骗子
-因为你从来、从来、从来没有爱过，宝贝
-
 #### 终段副歌
 
-可亲爱的，我还是愿意为你接住手榴弹
-愿意为你把手按在刀刃上
-愿意为你冲到火车前面
-你知道我愿为你做任何事
-我愿意受尽这些苦
-愿意让子弹直穿我的脑袋
-是的，我愿意为你去死，宝贝
-可你不会为我这样做
+可亲爱的，我还是愿为你接住手榴弹
+愿为你把手按上刀刃（耶，耶，耶）
+愿为你挡在火车前（耶，耶，耶）
+你知道我愿为你做任何事（耶，耶，耶）哦，哦
+这些苦我都肯受
+愿让子弹直穿我的头
+是的，我愿为你去死，宝贝
+可你不会同样对我
 
 不、不、不、不
 

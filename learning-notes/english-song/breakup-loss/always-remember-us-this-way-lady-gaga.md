@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -79,6 +77,17 @@ Like California gold
 You found the light in me
 That I couldn't find
 
+#### 主歌 1
+
+那片亚利桑那的天空
+在你眼里燃烧
+你看着我，宝贝
+我想随之燃烧
+它埋在我灵魂深处
+像加州的金子
+你找到了我身上的光
+我自己找不到的那束光
+
 #### Chorus
 
 So when I'm all choked up
@@ -88,6 +97,16 @@ Baby, it hurts
 When the sun goes down
 And the band won't play
 I'll always remember us this way
+
+#### 副歌
+
+所以当我哽咽
+却找不到词句
+每次我们说再见
+宝贝，都很痛
+当太阳落下
+乐队不再演奏
+我会一直记得我们那时的样子
 
 #### Verse 2
 
@@ -100,11 +119,28 @@ You're where I wanna go
 The part of me that's you
 Will never die
 
+#### 主歌 2
+
+夜里的恋人
+诗人努力想写诗
+我们不太会押韵
+但该死的，我们在试
+而我真正知道的是
+你就是我想去的地方
+我身上属于你的那部分
+永远不会消逝
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Bridge
 
 I don't wanna be just a memory, baby, yeah
+
+#### 桥段
+
+我不想只变成一段回忆，宝贝，耶
 
 #### Final Chorus / Outro
 
@@ -120,53 +156,9 @@ When you look at me
 And the whole world fades
 I'll always remember us this way
 
----
+#### 终段副歌 / 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-那片亚利桑那的天空
-在你眼里燃烧
-你看着我，宝贝
-我想随之燃烧
-它埋在我灵魂深处
-像加州的金子
-你找到了我身上的光
-我自己找不到的那束光
-
-#### 副歌
-
-所以当我哽咽说不出话
-却找不到词句
-每次我们说再见
-宝贝，都很痛
-当太阳落下
-乐队不再演奏
-我会一直记得我们那时的样子
-
-#### 主歌 2
-
-夜里的恋人
-诗人努力想写诗
-我们不太会押韵
-但该死的，我们在试
-而我真正知道的是
-你就是我想去的地方
-我身上属于你的那部分
-永远不会消逝
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-我不想只变成一段回忆，宝贝
-
-#### 终段副歌 / 尾声
-
-所以当我哽咽说不出话
+所以当我哽咽
 却找不到词句
 每次我们说再见
 宝贝，都很痛

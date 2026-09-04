@@ -61,15 +61,18 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Just one last dance
 Just one last dance
+
+#### 前奏
+
+就再跳最后一支舞
+就再跳最后一支舞
 
 #### Verse 1
 
@@ -80,10 +83,24 @@ A few hours left 'til the sun's gonna rise
 Tomorrow will come, it's time to realize
 Our love has finished forever
 
+#### 主歌 1
+
+我们夜里在西班牙咖啡馆相遇
+我望进你的眼睛，不知该说什么
+感觉自己正沉进咸咸的水里
+离日出只剩几个小时
+明天会来，是时候认清了
+我们的爱已经永远结束
+
 #### Pre-Chorus
 
 How I wish to come with you
 How I wish we make it through
+
+#### 预副歌
+
+我多希望能跟你走
+我多希望我们能撑过去
 
 #### Chorus
 
@@ -98,18 +115,48 @@ Hold me tight and keep me warm
 And I don't know where I belong
 Just one last dance
 
+#### 副歌
+
+就再跳最后一支舞
+在我们说再见之前
+当我们摇摆、转圈、转圈、转圈
+就像第一次那样
+
+就再给我一次机会
+抱紧我，给我温暖
+因为夜越来越冷
+而我不知道自己属于哪里
+就再跳最后一支舞
+
 #### Verse 2
 
 The wine and the lights and the Spanish guitar
 I'll never forget how romantic they are
 But I know, tomorrow I'll lose the one I love
 
+#### 主歌 2
+
+酒、灯光，还有西班牙吉他
+我永远忘不了它们有多浪漫
+可我知道，明天我会失去我爱的人
+
 #### Pre-Chorus 2
 
 There's no way to come with you
 It's the only thing to do
 
+#### 预副歌 2
+
+没法跟你走
+只能这么做了
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Final Chorus / Outro
 
@@ -127,58 +174,7 @@ Just one last dance
 And just one more chance
 And just one last dance
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-就再跳最后一支舞
-就再跳最后一支舞
-
-#### 主歌 1
-
-我们夜里在西班牙咖啡馆相遇
-我望着你的眼睛，不知该说什么
-感觉自己正沉进咸咸的水里
-离日出只剩几个小时
-明天会来，是时候认清现实
-我们的爱已经永远结束了
-
-#### 预副歌
-
-我多希望能跟你走
-我多希望我们能撑过去
-
-#### 副歌
-
-就再跳最后一支舞
-在我们说再见之前
-当我们摇摆、转圈、转圈、转圈
-就像第一次那样
-
-就再给我一次机会
-抱紧我，给我温暖
-因为夜越来越冷
-而我不知道自己属于哪里
-就再跳最后一支舞
-
-#### 主歌 2
-
-酒、灯光，还有西班牙吉他
-我永远忘不了它们有多浪漫
-可我知道，明天我会失去我爱的人
-
-#### 预副歌 2
-
-没法跟你走
-只能这么做了
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 终段副歌 / 尾声
+#### 终段副歌 / 尾奏
 
 就再跳最后一支舞
 在我们说再见之前

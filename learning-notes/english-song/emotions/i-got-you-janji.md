@@ -62,10 +62,8 @@ aliases:
 
 > 歌词据公开歌词站整理；个别版本拼写为 *can't breath*（应为 *breathe*），跟唱按原录音即可。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,6 +75,17 @@ When your mind is out of control
 And you're feeling all torn down
 I got you
 I got you
+
+#### 主歌 1
+
+当恐惧压过一切
+你连气都喘不上来
+当眼泪接管了你
+你觉得只剩自己
+当思绪彻底失控
+整个人像被撕碎、垮掉
+有我在
+有我在
 
 #### Chorus
 
@@ -93,6 +102,21 @@ I got you
 When the fear takes it over
 I got you
 
+#### 副歌
+
+当恐惧压过一切
+有我在
+当性命悬在一线
+你需要我陪在身边
+有我在
+有我在
+我撑着你、撑着你、撑着你
+
+当恐惧压过一切
+有我在
+当恐惧压过一切
+有我在
+
 #### Verse 2 / Bridge
 
 I've been seeking a new life
@@ -103,6 +127,17 @@ I've been seeking a new life
 A new beginning
 'Cause I need you
 And you need me
+
+#### 主歌 2 / 桥段
+
+我一直在寻一种新生活
+一个新的开始
+我一直在寻一段新时光
+一个能一切重来的时刻
+我一直在寻一种新生活
+一个新的开始
+因为我需要你
+而你也需要我
 
 #### Chorus（重复）
 
@@ -124,6 +159,26 @@ I got you
 When the fear takes it over
 I got you
 
+#### 副歌（重复）
+
+当思绪彻底失控
+整个人像被撕碎、垮掉
+有我在
+有我在
+当恐惧压过一切
+有我在
+
+当性命悬在一线
+你需要我陪在身边
+有我在
+有我在
+我撑着你、撑着你、撑着你
+
+当恐惧压过一切
+有我在
+当恐惧压过一切
+有我在
+
 #### Outro
 
 I've been seeking for a new life
@@ -133,73 +188,12 @@ When the fear takes it over
 I got you
 *(I got, got, got, got, got, got, got you)*
 
----
+#### 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-当恐惧占了上风
-你连气都喘不上来
-当眼泪接管了一切
-你觉得只剩自己一个人
-当你的脑子彻底失控
-整个人像被撕碎、垮掉
-有我在
-有我在
-
-#### 副歌
-
-当恐惧占了上风
-有我在
-当你的人生悬在一线
-你需要我陪在身边
-有我在
-有我在
-我撑着你、撑着你、撑着你
-
-当恐惧占了上风
-有我在
-当恐惧占了上风
-有我在
-
-#### 主歌 2 / 桥段
-
-我一直在找一种新生活
-一个新的开始
-我一直在找一段新时光
-一个能一切重来的时刻
-我一直在找一种新生活
+我一直在寻一种新生活
 一个新的开始
 因为我需要你
-而你也需要我
-
-#### 副歌（重复）
-
-当你的脑子彻底失控
-整个人像被撕碎、垮掉
-有我在
-有我在
-当恐惧占了上风
-有我在
-
-当你的人生悬在一线
-你需要我陪在身边
-有我在
-有我在
-我撑着你、撑着你、撑着你
-
-当恐惧占了上风
-有我在
-当恐惧占了上风
-有我在
-
-#### 尾声
-
-我一直在找一种新生活
-一个新的开始
-因为我需要你
-当恐惧占了上风
+当恐惧压过一切
 有我在
 （我撑着你——一遍遍）
 

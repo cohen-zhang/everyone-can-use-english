@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,10 +73,26 @@ Make room for something sweeter babe
 You can just conquer me
 Will you oblige
 
+#### 主歌 1
+
+想永远待在你身边，女孩
+你知道我有多爱你
+这不是秘密，你心里清楚
+我好想要你
+毯子底下藏着什么
+腾点地方给更甜的东西，宝贝
+你尽管把我征服就好
+你愿意吗
+
 #### Pre-Chorus
 
 Please don't look too far, darling
 Cause I wanna, bad habit, ooh
+
+#### 预副歌
+
+别把目光放太远，亲爱的
+因为我想要你——这坏习惯，哦
 
 #### Chorus
 
@@ -90,6 +104,17 @@ Wrapped in your body
 Next to my bones
 I'm a dead man
 I'm a dead man
+
+#### 副歌
+
+要是我说了算
+我愿意把灵魂都给你
+我就像个死人
+我就像个死人
+缠在你怀里
+贴着我的骨头
+我就像个死人
+我就像个死人
 
 #### Verse 2
 
@@ -114,6 +139,29 @@ My lady, yes you are
 My lady, yes you are
 My lady, yes you are
 
+#### 主歌 2
+
+比天气还烫，女孩
+让我帮你降降温
+你知道我在求
+来场雨吧，宝贝
+
+别把目光放太远，亲爱的
+因为我想让你失控 oooohh
+
+要是我说了算
+我愿意把灵魂都给你
+我就像个死人
+我就像个死人
+缠在你怀里
+贴着我的骨头
+我就像个死人
+我就像个死人
+你就是我的女人
+你就是我的女人
+你就是我的女人
+你就是我的女人
+
 #### Bridge / Final
 
 Please don't look too far, darling
@@ -129,64 +177,10 @@ Next to my bones
 I'm a dead man, dead man, dead man
 Without you
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-想永远待在你身边，女孩
-你知道我有多爱你
-这不是秘密，你心里清楚
-我好想要你
-毯子底下藏着什么
-腾点地方给更甜的东西，宝贝
-你尽管把我征服就好
-你愿意吗
-
-#### 预副歌
-
-别把目光放太远，亲爱的
-因为我想要你——这坏习惯，ooh
-
-#### 副歌
-
-要是我说了算
-我愿意把灵魂都给你
-我就像个死人
-我就像个死人
-缠在你怀里
-贴着我的骨头
-我就像个死人
-我就像个死人
-
-#### 主歌 2
-
-比天气还烫，女孩
-让我帮你降降温
-你知道我在求
-来场雨吧，宝贝
-
-别把目光放太远，亲爱的
-因为我想让你失控地叫出来 oooohh
-
-要是我说了算
-我愿意把灵魂都给你
-我就像个死人
-我就像个死人
-缠在你怀里
-贴着我的骨头
-我就像个死人
-我就像个死人
-你就是我的女人
-你就是我的女人
-你就是我的女人
-你就是我的女人
-
 #### 桥段 / Final
 
 别把目光放太远，亲爱的
-因为我想让你失控 oooh 宝贝
+因为我想让你失控 哦 宝贝宝贝
 
 要是我说了算
 我愿意把灵魂都给你

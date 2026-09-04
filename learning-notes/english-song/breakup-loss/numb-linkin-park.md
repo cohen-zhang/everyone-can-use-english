@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -74,12 +72,29 @@ Put under the pressure of walking in your shoes
 Every step that I take is another mistake to you
 (Caught in the undertow, just caught in the undertow)
 
+#### 主歌 1
+
+我厌倦了做你想让我成为的那种人
+感到如此失信，在表面之下迷失
+不知道你对我有何期待
+被迫承受「穿你的鞋走路」的压力
+（困在退浪里，困在退浪里）
+我每走一步，在你看来都是又一个错误
+（困在退浪里，困在退浪里）
+
 #### Chorus
 
 I've become so numb, I can't feel you there
 I've become so tired; so much more aware
 I'm becoming this, all I want to do
 Is be more like me and be less like you
+
+#### 副歌
+
+我已变得如此麻木，感受不到你在那里
+我已如此疲惫，却清醒得多
+我正在变成这样，我唯一想做的
+是更像我自己，而不是像你
 
 #### Verse 2
 
@@ -92,46 +107,6 @@ Every step that I take is another mistake to you
 (Caught in the undertow, just caught in the undertow)
 And every second I waste is more than I can take
 
-#### Chorus（重复）
-
-#### Bridge
-
-And I know I may end up failing too
-But I know you were just like me
-With someone disappointed in you
-
-#### Final Chorus
-
-I've become so numb, I can't feel you there
-I've become so tired; so much more aware
-I'm becoming this, all I want to do
-Is be more like me and be less like you
-I've become so numb, I can't feel you there
-(I'm tired of being what you want me to be)
-I've become so numb, I can't feel you there
-(I'm tired of being what you want me to be)
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我厌倦了做你想让我成为的那种人
-感到如此失信、在表面之下迷失
-不知道你对我有何期待
-被迫承受「穿你的鞋走路」的压力
-（困在退浪里，困在退浪里）
-我每走一步，在你看来都是又一个错误
-（困在退浪里，困在退浪里）
-
-#### 副歌
-
-我已变得如此麻木，感受不到你在那里
-我已如此疲惫，却清醒得多
-我正在变成这样，我唯一想做的
-是更像我自己，而不是像你
-
 #### 主歌 2
 
 你看不见你在窒息我吗？
@@ -143,15 +118,34 @@ I've become so numb, I can't feel you there
 （困在退浪里，困在退浪里）
 我浪费的每一秒都超出我能承受
 
+#### Chorus（重复）
+
 #### 副歌（重复）
 
 *(同第一段副歌)*
 
+#### Bridge
+
+And I know I may end up failing too
+But I know you were just like me
+With someone disappointed in you
+
 #### 桥段
 
 我知道我可能也会失败
-但我知道你也曾像我一样
+可我知道你也曾像我一样
 也曾有人对你失望
+
+#### Final Chorus
+
+I've become so numb, I can't feel you there
+I've become so tired; so much more aware
+I'm becoming this, all I want to do
+Is be more like me and be less like you
+I've become so numb, I can't feel you there
+(I'm tired of being what you want me to be)
+I've become so numb, I can't feel you there
+(I'm tired of being what you want me to be)
 
 #### 终段副歌
 

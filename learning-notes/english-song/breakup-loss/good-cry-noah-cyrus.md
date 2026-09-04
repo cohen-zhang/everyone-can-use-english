@@ -65,14 +65,16 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Yeah
+
+#### 前奏
+
+嗯
 
 #### Verse 1
 
@@ -85,11 +87,28 @@ I can't find my old self through the haze
 I'm searching dusk to dawn
 I guess that girl is gone
 
+#### 主歌 1
+
+这几天我把这地方喝得见了底
+吧台对面那人把喝法教给了我
+他们想送我回家，可是
+我没法一个人待着
+香烟的烟雾占满我身边
+雾里找不回从前的自己
+我从黄昏找到天亮
+我想，那个女孩已经不在了
+
 #### Pre-Chorus
 
 I took one good look at my face, God
 The reality hits like a train
 I don't know why when I open my eyes I find I'm
+
+#### 预副歌
+
+我好好看了自己一眼，天啊
+现实像火车迎面撞来
+不知为何睁开眼，发现自己
 
 #### Chorus
 
@@ -102,6 +121,17 @@ Darling, the sky makes me sad
 The blues got me bad
 Oh, I just need a good cry
 
+#### 副歌
+
+绝望，绝望得透不过气
+亲爱的，我喝到想吐
+这大麻一点用都没有
+坏情绪堵得我喘不上来
+缺爱，空得发慌
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+哦，我只是需要好好哭一场
+
 #### Verse 2
 
 I've been up six days and five nights
@@ -111,6 +141,16 @@ Just me, myself, and I
 This anxiety puts me to shame
 And nothing could silence this pain
 Baby, that's why I'm saying that I am feeling so
+
+#### 主歌 2
+
+我已经六天五夜没合眼
+吞下一粒药，好把时间打发掉
+整个人困在自己脑子里
+只有我、我自己、还是我
+这份焦虑叫我抬不起头
+什么都压不住这痛
+宝贝，所以我才说自己好
 
 #### Chorus（重复）
 
@@ -123,9 +163,24 @@ Darling, the sky makes me sad
 The blues got me bad
 And I just need a good cry
 
+#### 副歌（重复）
+
+绝望，我绝望得透不过气
+亲爱的，我喝到想吐
+这大麻一点用都没有
+坏情绪堵得我喘不上来
+我缺爱，空得发慌
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+我只是需要好好哭一场
+
 #### Interlude
 
 Yeah
+
+#### 间奏
+
+嗯
 
 #### Chorus（第三遍 · 加长）
 
@@ -138,6 +193,17 @@ Darling, the sky makes me sad
 The blues got me bad
 Oh, I just need a good cry, wooh
 
+#### 副歌（第三遍 · 加长）
+
+哦，我绝望，绝望得透不过气
+亲爱的，我会喝到想吐
+这大麻一点用都没有
+坏情绪堵得我喘不上来
+我缺爱，我空得发慌
+亲爱的，连天空都让我难过
+忧郁缠得我够呛
+哦，我只是需要好好哭一场，呜
+
 #### Outro
 
 Darling, I'm sorry
@@ -146,79 +212,7 @@ Darling, I'm sorry
 Yeah, yeah, yeah, yeah, yeah
 I just need a good cry
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-嗯
-
-#### 主歌 1
-
-这几天我把这地方喝干了
-吧台对面那人教我怎么喝
-他们想送我回家，可是
-我没法一个人待着
-香烟烟雾弥漫在我身边
-在迷雾里找不到从前的自己
-我从黄昏找到天亮
-我想那个女孩已经不在了
-
-#### 预副歌
-
-我好好看了自己一眼，天啊
-现实像火车一样撞过来
-不知为何睁开眼，我发现自己
-
-#### 副歌
-
-绝望，好绝望
-宝贝，我喝到想吐
-抽大麻也一点用都没有
-坏情绪堵得我喘不过气
-缺爱，好孤独
-亲爱的，连天空都让我难过
-忧郁缠得我够呛
-哦，我只是需要好好哭一场
-
-#### 主歌 2
-
-我已经六天五夜没睡
-我吞下药片打发时间
-全困在自己脑子里
-只有我、我自己、和我
-这份焦虑让我羞愧
-什么都压不住这痛
-宝贝，所以我才说自己好
-
-#### 副歌（重复）
-
-绝望，好绝望
-宝贝，我喝到想吐
-抽大麻也一点用都没有
-坏情绪堵得我喘不过气
-缺爱，好孤独
-亲爱的，连天空都让我难过
-忧郁缠得我够呛
-我只是需要好好哭一场
-
-#### 间奏
-
-嗯
-
-#### 副歌（第三遍 · 加长）
-
-哦，绝望，好绝望
-宝贝，我会喝到想吐
-抽大麻也一点用都没有
-坏情绪堵得我喘不过气
-缺爱，好孤独
-亲爱的，连天空都让我难过
-忧郁缠得我够呛
-哦，我只是需要好好哭一场，呜
-
-#### 尾声
+#### 尾奏
 
 亲爱的，对不起
 亲爱的，对不起

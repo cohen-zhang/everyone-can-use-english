@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,17 @@ My friends just looking for a call, they want to say hi
 They wonder if the person they knew's still inside
 Seems so simple, it's really so hard
 
+#### 主歌 1
+
+我有一年多没见妈妈了
+就算见面，她也知道「这里的不是我」
+因为我总在云端，像漂在太空里
+只希望在太晚之前还能抱她一下
+
+朋友们只想打个电话，说声嗨
+他们想知道，他们认识的那个人还在不在里面
+听起来很简单，其实真的很难
+
 #### Chorus
 
 Ooh, I don't think I'm okay
@@ -82,6 +91,14 @@ Ooh, I don't think I'm okay, 'kay, hmm
 It feels so good to say
 I, I don't think I'm okay
 And that's okay
+
+#### 副歌
+
+哦，我觉得我不太好
+哦，我觉得我不太好，好吗，嗯
+说出来感觉真好
+我，我觉得我不太好
+而这样也可以
 
 #### Verse 2
 
@@ -98,31 +115,6 @@ Seems so simple, it's really so hard
 I don't want nobody to see my ugly heart
 To see my ugly scars
 
-#### Chorus（重复）
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我有一年多没见妈妈了
-就算见面，她也知道「这里的不是我」
-因为我总在云端，像漂在太空里
-只希望在太晚之前还能抱她一下
-
-朋友们只想打个电话，说声嗨
-他们想知道，他们认识的那个人还在不在里面
-听起来很简单，其实真的很难
-
-#### 副歌
-
-哦，我觉得我不太好
-哦，我觉得我不太好，好吗，嗯
-说出来感觉真好
-我，我觉得我不太好
-而这样也可以
-
 #### 主歌 2
 
 时间走得更快了，没有慢下来
@@ -138,9 +130,9 @@ To see my ugly scars
 我不想让任何人看见我丑陋的心
 看见我丑陋的伤疤
 
-#### 副歌（重复）
+#### Chorus（重复）
 
-*(同第一段副歌)*
+#### 副歌（重复）
 
 ## 重点表达 · Key Phrases
 

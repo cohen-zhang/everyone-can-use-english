@@ -62,10 +62,8 @@ aliases:
 
 > 原文含粗口及暴力、家暴相关描写，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus（Rihanna）
 
@@ -74,6 +72,14 @@ Well, that's alright because I like the way it hurts
 Just gonna stand there and hear me cry?
 Well, that's alright because I love the way you lie
 I love the way you lie
+
+#### 副歌（Rihanna）
+
+你就站那儿看我燃烧吗？
+好吧，没关系，因为我喜欢这种痛
+你就站那儿听我哭吗？
+好吧，没关系，因为我爱你撒谎的样子
+我爱你撒谎的样子
 
 #### Verse 1（Eminem）
 
@@ -97,6 +103,29 @@ I feel so ashamed, I snapped, "Who's that dude?"
 I don't even know his name
 I laid hands on her, I'll never stoop so low again
 I guess I don't know my own strength
+
+#### 主歌 1（Eminem）
+
+我没法告诉你这到底是什么
+只能告诉你是什么感觉
+此刻喉咙里像插了把钢刀
+喘不过气，但我还能撑就还撑着
+只要错的也像对的，就像我在飞
+她的爱让我上头，她的恨让我沉醉
+像吸油漆一样上瘾；越痛苦越爱她，越窒息
+快淹死时，她又把我救活
+她他妈恨我，我却爱这样
+
+「等等！你去哪？」「我要离开你」
+「不，你不能走，回来」
+我们又跑回去，再来一遍
+太疯了——好时好到不行
+我是顺风超人，她是露易丝
+但坏起来糟透了
+我好羞耻，我失控了：「那男的是谁？」
+我甚至不知道他叫什么
+我对她动了手，绝不再堕落到那步
+我想我根本不了解自己的力气
 
 #### Verse 2（Eminem）
 
@@ -123,6 +152,31 @@ Guess that's why they call it windowpane
 
 I love the way you lie
 
+#### 主歌 2（Eminem）
+
+你有没有那么爱过一个人
+和对方在一起几乎喘不过气？
+相遇时双方都懵了，不知被什么击中
+曾有那种暖融融的感觉，对，那些战栗，从前都有
+现在却他妈看都看腻了？
+你发誓绝不动手，绝不做伤害对方的事
+现在却脸贴脸，吐字都带着毒液
+推搡、揪头发、抓挠、撕咬
+摔倒对方、压住
+在那些瞬间完全迷失
+是怒火接管了一切，控制你们俩
+所以别人说你们最好分开
+他们不懂你们——今天又把昨天重演
+昨天过去了，又是新的一天
+像卡住的唱片一遍遍转，可你答应过她
+下次会克制
+你没有下一次机会了
+人生不是任天堂游戏，可你又撒谎了
+现在你只能看她从窗户离开
+大概这就是为什么叫 windowpane（窗玻璃／痛）
+
+我爱你撒谎的样子
+
 #### Verse 3（Eminem）
 
 Now I know we said things, did things that we didn't mean
@@ -144,72 +198,6 @@ I'm tired of the games, I just want her back
 I know I'm a liar, if she ever tries to fucking leave again
 I'ma tie her to the bed and set this house on fire
 
-#### Final Chorus（Rihanna）
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌（Rihanna）
-
-你就站那儿看我燃烧吗？
-好吧，没关系，因为我喜欢这种痛
-你就站那儿听我哭吗？
-好吧，没关系，因为我爱你撒谎的样子
-我爱你撒谎的样子
-
-#### 主歌 1（Eminem）
-
-我没法告诉你这到底是什么
-只能告诉你是什么感觉
-此刻喉咙像插了把钢刀
-喘不过气，但我还在能撑的时候撑
-只要错的也像对的，就像我在飞
-爱让她上头，恨让她沉醉
-像吸油漆一样上瘾；越痛苦越爱她，越窒息
-快淹死时，她又把我救活
-她他妈恨我，我却爱这样
-
-「等等！你去哪？」「我要离开你」
-「不，你不能，回来」
-我们又跑回去，再来一遍
-太疯了——好时好到不行
-我是顺风超人的克拉克，她是露易丝
-但坏起来糟透了
-我好羞耻，我失控了：「那男的是谁？」
-我甚至不知道他叫什么
-我对她动了手，我绝不会再堕落到那步
-我想我根本不了解自己的力气
-
-*(同第一段副歌)*
-
-#### 主歌 2（Eminem）
-
-你有没有那么爱过一个人
-和她在一起几乎喘不过气？
-相遇时双方都懵了，不知发生了什么
-曾有那种温暖柔软的感觉，对，那些鸡皮疙瘩
-现在却他妈看都看腻了？
-你发誓绝不动手，绝不做伤害她的事
-现在却脸贴脸，吐字都带着毒液
-推搡、揪头发、抓挠、撕咬
-摔倒她、压住她
-在那些瞬间完全迷失
-是怒火接管了一切，控制你们俩
-所以别人说你们最好分开
-他们不懂你们——今天又把昨天重演
-昨天过去了，又是新的一天
-像卡住的唱片一遍遍放，可你答应过她
-下次会克制
-你没有下一次机会了
-人生不是任天堂游戏，可你又撒谎了
-现在你只能看她从窗户离开
-大概这就是为什么叫 windowpane（窗玻璃 / 痛）
-
-*(同第一段副歌)*
-
-我爱你撒谎的样子
-
 #### 主歌 3（Eminem）
 
 我们知道说过、做过并非本意的事
@@ -224,16 +212,16 @@ I'ma tie her to the bed and set this house on fire
 进来吧，把人行道上的包捡起来
 你听不出我声音里的真诚吗？
 说了是我的错，看着我的眼睛
-下次我发火，拳头会砸向石膏板
+下次我发火，拳头会砸向墙
 「下次？没有下次了」
 我道歉，尽管我知道是谎话
 我厌倦了这些游戏，只想她回来
 我知道我是骗子——若她再敢他妈离开
 我就把她绑在床上，放火烧了这房子
 
-#### 终段副歌（Rihanna）
+#### Final Chorus（Rihanna）
 
-*(同第一段副歌，至结尾)*
+#### 终段副歌（Rihanna）
 
 ## 重点表达 · Key Phrases
 

@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,10 +73,24 @@ On a winter's day
 I'd be safe and warm
 If I was in L.A.
 
+#### 主歌 1
+
+叶子都黄了
+天色灰蒙
+我出门走了一遭
+在这样一个冬日
+我本可以安稳而温暖
+若此刻身在洛杉矶
+
 #### Chorus
 
 California dreamin' (California dreamin')
 (On such a winter's day)
+
+#### 副歌
+
+加州入梦（加州入梦）
+（在这样的冬日）
 
 #### Verse 2
 
@@ -89,7 +101,20 @@ And I pretend to pray (I pretend to pray)
 You know the preacher likes the cold (preacher likes the cold)
 He knows I'm gonna stay (knows I'm gonna stay)
 
+#### 主歌 2
+
+顺路走进一座教堂
+路过时遇见的那座
+我跪了下来（跪了下来）
+假装在祷告（假装在祷告）
+牧师爱这寒冷，你知道的（牧师爱这寒冷）
+他知道我会留下（知道我会留下）
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 3 / Final
 
@@ -110,55 +135,24 @@ California dreamin' (California dreamin')
 California dreamin' (California dreamin')
 (On such a winter's day)
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-叶子都黄了
-天空灰蒙蒙的
-我出去走了一圈
-在一个冬日
-我会又安全又暖和
-要是我在洛杉矶的话
-
-#### 副歌
-
-梦见加州（梦见加州）
-（在这样的冬日里）
-
-#### 主歌 2
-
-走进一座教堂
-路过时看见的那座
-我跪了下来（跪了下来）
-假装在祷告（假装在祷告）
-你知道，牧师喜欢这寒冷（牧师喜欢寒冷）
-他知道我会留下来（知道我会留下来）
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 3 / Final
+#### 主歌 3 / 终段
 
 叶子都黄了（叶子都黄了）
-天空灰蒙蒙的（天空灰蒙蒙的）
-我出去走了一圈（我出去走了一圈）
-在一个冬日（在一个冬日）
-我会又安全又暖和（我会又安全又暖和）
-要是我在洛杉矶的话（要是我在洛杉矶）
+天色灰蒙（天色灰蒙）
+我出门走了一遭（我出门走了一遭）
+在这样一个冬日（在这样一个冬日）
+我本可以安稳而温暖（我本可以安稳而温暖）
+若此刻身在洛杉矶（若此刻身在洛杉矶）
 
-梦见加州（梦见加州）
-（在这样的冬日里）
+加州入梦（加州入梦）
+（在这样的冬日）
 
-（梦见加州）
-（在这样的冬日里）
-（梦见加州）
-（在这样的冬日里）
-梦见加州（梦见加州）
-（在这样的冬日里）
+（加州入梦）
+（在这样的冬日）
+（加州入梦）
+（在这样的冬日）
+加州入梦（加州入梦）
+（在这样的冬日）
 
 ## 重点表达 · Key Phrases
 

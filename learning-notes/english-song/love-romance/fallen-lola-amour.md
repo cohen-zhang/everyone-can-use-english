@@ -57,10 +57,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -74,6 +72,18 @@ Never mind, never mind
 I'm OK with being by your side for as long as I can hide
 What if I told you that I've fallen?
 
+#### 主歌 1
+
+若我告诉你，我已经沦陷了呢
+而且我喜欢你念我名字的样子？
+听见你唤我，心跳漏了一拍
+而这感觉挥之不去，我偏偏喜欢
+
+算了，不想给你添麻烦
+算了，算了
+只要还能藏着，我甘心待在你身边
+若我告诉你，我已经沦陷了呢？
+
 #### Verse 2
 
 What if I told you that I've fallen?
@@ -86,11 +96,29 @@ You know I'll be there when you call me whether you like it or not
 Without a warning, now I'm falling for this picture on my phone
 But don't mind me, I'm just falling, I'll get back up on my own
 
+#### 主歌 2
+
+若我告诉你，我已经沦陷了呢？
+一支心形的箭，穿过我胸口
+每天清晨，我给你做早餐
+你一团糟时，我把你接住
+
+我知道这不会停
+你一叫我就会到，不管你愿不愿意
+毫无预警，我对着手机里的那张照片沦陷
+别管我，我只是在坠落，我会自己爬起来
+
 #### Bridge
 
 Please don't say my name, help me put out this flame
 I'd rather hold onto this feeling that you don't even believe in
 What if I told you that I've fallen?
+
+#### 桥段
+
+请别叫我的名字，帮我浇灭这团火
+我宁愿抱着这份感觉——哪怕你根本不信
+若我告诉你，我已经沦陷了呢？
 
 #### Outro（重复 + ad-lib）
 
@@ -107,51 +135,17 @@ What if I told you that I've fallen? (Oh, nevermind)
 I said nevermind
 (I shouldn't tell you that I've fallen)
 
----
+#### 尾奏（重复 + ad-lib）
 
-### 中文翻译 · Chinese Translation
+若我告诉你，我已经沦陷了呢？（算了，算了，算了）
+若我告诉你，我已经沦陷了呢？（算了，算了，算了）
+若我告诉你，我已经沦陷了呢？（算了，算了，算了）
+若我告诉你，我已经沦陷了呢？（算了，算了，算了）
 
-#### 主歌 1
-
-要是我告诉你我沦陷了呢
-而且我喜欢你念我名字的样子？
-听见你呼唤，我心跳漏了一拍
-而且我喜欢这种感觉挥之不去
-
-算了，不想给你添麻烦
-算了，算了
-只要能藏着，我甘心待在你身边
-要是我告诉你我沦陷了呢？
-
-#### 主歌 2
-
-要是我告诉你我沦陷了呢？
-心形箭穿过我的胸口
-每天早上我给你做早餐
-你狼狈时我把你接住
-
-我知道这不会停
-你知道你一叫我就会在，不管你喜不喜欢
-毫无预警，我现在对着手机里的照片沦陷
-别管我，我只是在坠落，我会自己爬起来
-
-#### 桥段
-
-请别叫我的名字，帮我浇灭这团火
-我宁愿抱着你连信都不愿相信的那份感觉
-要是我告诉你我沦陷了呢？
-
-#### 尾声（重复 + 即兴）
-
-要是我告诉你我沦陷了呢？（算了，算了，算了）
-要是我告诉你我沦陷了呢？（算了，算了，算了）
-要是我告诉你我沦陷了呢？（算了，算了，算了）
-要是我告诉你我沦陷了呢？（算了，算了，算了）
-
-要是我告诉你我沦陷了呢？（哦，算了）
-要是我告诉你我沦陷了呢？（哦，算了）
-要是我告诉你我沦陷了呢？（哦，算了）
-要是我告诉你我沦陷了呢？（哦，算了）
+若我告诉你，我已经沦陷了呢？（哦，算了）
+若我告诉你，我已经沦陷了呢？（哦，算了）
+若我告诉你，我已经沦陷了呢？（哦，算了）
+若我告诉你，我已经沦陷了呢？（哦，算了）
 
 我说了，算了
 （我不该告诉你我沦陷了）

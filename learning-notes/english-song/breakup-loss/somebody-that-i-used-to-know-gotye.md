@@ -65,10 +65,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1（Gotye）
 
@@ -78,6 +76,14 @@ Told myself that you were right for me
 But felt so lonely in your company
 But that was love, and it's an ache I still remember
 
+#### 主歌 1（Gotye）
+
+偶尔我会想起我们还在一起的时候
+比如你说你开心到可以去死
+我告诉自己你就是适合我的人
+可跟你在一起时，我却那么孤独
+可那就是爱，那种隐痛我到现在还记得
+
 #### Verse 1b
 
 You can get addicted to a certain kinda sadness
@@ -85,6 +91,14 @@ Like resignation to the end, always the end
 So when we found that we could not make sense
 Well, you said that we would still be friends
 But I'll admit that I was glad it was over
+
+#### 主歌 1b
+
+人会对某一种悲伤上瘾
+像是认命地等着结局，总是结局
+所以当我们发现这段关系说不通
+你说我们还可以做朋友
+可我得承认：结束了我其实松了口气
 
 #### Chorus
 
@@ -100,57 +114,6 @@ Now you're just somebody that I used to know
 Now you're just somebody that I used to know
 Now you're just somebody that I used to know
 
-#### Verse 2（Kimbra）
-
-Now and then, I think of all the times you screwed me over
-But had me believin' it was always somethin' that I'd done
-But I don't wanna live that way
-Readin' into every word you say
-You said that you could let it go
-And I wouldn't catch you hung up on somebody that you used to know
-
-#### Chorus（双声部）
-
-But you didn't have to cut me off
-Make out like it never happened and that we were nothin' (ah)
-And I don't even need your love
-But you treat me like a stranger, and that feels so rough (ah)
-
-No, you didn't have to stoop so low
-Have your friends collect your records and then change your number (ah)
-Guess that I don't need that, though
-Now you're just somebody that I used to know
-
-#### Outro
-
-Somebody I used to know
-Somebody (now you're just somebody that I used to know)
-Somebody I used to know
-Somebody (now you're just somebody that I used to know)
-I used to know
-That I used to know
-I used to know somebody
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1（Gotye）
-
-偶尔我会想起我们还在一起的时候
-比如你说你开心到可以去死
-我告诉自己你就是适合我的人
-可跟你在一起时，我却那么孤独
-可那就是爱，那种隐痛我到现在还记得
-
-#### 主歌 1b
-
-人会对某一种悲伤上瘾
-像是认命地等着结局，总是结局
-所以当我们发现这段关系说不通
-你说我们还可以做朋友
-可我得承认：结束了我其实松了口气
-
 #### 副歌
 
 可你不必把我彻底切断
@@ -165,28 +128,59 @@ I used to know somebody
 现在你只是我曾经认识的某个人
 现在你只是我曾经认识的某个人
 
+#### Verse 2（Kimbra）
+
+Now and then, I think of all the times you screwed me over
+But had me believin' it was always somethin' that I'd done
+But I don't wanna live that way
+Readin' into every word you say
+You said that you could let it go
+And I wouldn't catch you hung up on somebody that you used to know
+
 #### 主歌 2（Kimbra）
 
-偶尔我会想起你一次次坑我、伤我的时候
+偶尔我会想起你一次次坑我、伤我
 却让我相信：总是我做错了什么
 可我不想再那样活
 把你说的每个字都过度解读
 你说过你可以放下
 也不会看到你还纠结于某个「曾经认识的人」
 
+#### Chorus（双声部）
+
+But you didn't have to cut me off
+Make out like it never happened and that we were nothin' (ah)
+And I don't even need your love
+But you treat me like a stranger, and that feels so rough (ah)
+
+No, you didn't have to stoop so low
+Have your friends collect your records and then change your number (ah)
+Guess that I don't need that, though
+Now you're just somebody that I used to know
+
 #### 副歌（双声部）
 
 可你不必把我彻底切断
-装作从没发生过、我们什么都不是
+装作从没发生过、我们什么都不是（啊）
 我甚至不需要你的爱
-可你把我当陌生人，这感觉太难受
+可你把我当陌生人，这感觉太难受（啊）
 
 不，你不必做得这么下作
-让朋友来收走你的唱片，然后换掉号码
+让朋友来收走你的唱片，然后换掉号码（啊）
 不过我想我也不需要那些了
 现在你只是我曾经认识的某个人
 
-#### 尾声
+#### Outro
+
+Somebody I used to know
+Somebody (now you're just somebody that I used to know)
+Somebody I used to know
+Somebody (now you're just somebody that I used to know)
+I used to know
+That I used to know
+I used to know somebody
+
+#### 尾奏
 
 我曾经认识的某个人
 某个人（现在你只是我曾经认识的某个人）

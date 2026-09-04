@@ -64,10 +64,10 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> **NSFW · 全文保留：** 英文按常见流媒体 / Genius 文本整理；中文尽量直译，含粗口与性俚语。先只看英文跟唱，需要核对意思时再往下看中文。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
+> **NSFW · 委婉：** 英文按常见流媒体 / Genius 文本整理；中文用委婉意译，不逐字还原粗口与性俚语。跟唱以原词为准。
 
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro / Chorus（采样 hook · Sir Mix-a-Lot）
 
@@ -75,6 +75,13 @@ My anaconda don't
 My anaconda don't
 My anaconda don't want none
 Unless you got buns, hun
+
+#### 前奏 / 副歌（采样 hook · Sir Mix-a-Lot）
+
+我的「蟒蛇」不要
+我的「蟒蛇」不要
+我的「蟒蛇」什么都不要
+除非你有翘臀，亲
 
 #### Verse 1
 
@@ -88,6 +95,18 @@ Who wanna go first? I had 'em pushin' daffodils
 I'm high as hell, I only took a half a pill
 I'm on some dumb shit
 
+#### 主歌 1
+
+玩伴叫 Troy，从前住在底特律
+贩毒发了财，钱来得飞快
+跟警察交过火，却住得像宫殿
+给我买麦昆，把我打扮得体面
+这才叫真的、真的、真的
+包里有枪，我打扮得能「杀」全场
+谁先上？我让他们去见阎王
+我飘得厉害，才吃了半片
+我这会儿就是在瞎玩
+
 #### Pre-Chorus
 
 By the way, what he say? (Hey, hey)
@@ -99,12 +118,27 @@ He say he don't like 'em boney, he want something he can grab (Hey)
 So I pulled up in the Jag and I hit him with the jab like (Hey)
 Dun-d-d-dun-dun-d-d-dun-dun (Hey, hey)
 
+#### 预副歌
+
+顺便问一句，他怎么说？（嘿，嘿）
+他看得出我顿顿没少吃（嘿）
+过来，在我车里跟他缠绵（嘿）
+让他用那口金牙取悦我，他还一直叫我冷静
+他一直说这是真的，说他爱我的性魅力（嘿）
+他说不喜欢骨感的，想要能抓得住的（嘿）
+于是我开着捷豹到场，给他来一记 jab（嘿）
+Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
+
 #### Chorus
 
 My anaconda don't
 My anaconda don't
 My anaconda don't want none
 Unless you got buns, hun
+
+#### 副歌
+
+*(同前段副歌)*
 
 #### Post-Chorus（*Baby Got Back* 采样）
 
@@ -113,6 +147,14 @@ Oh my gosh, look at her butt (Oh-oh-oh)
 Oh my gosh, look at her butt
 Look at her butt, look at, look at, look at
 Look at her butt
+
+#### 后副歌（*Baby Got Back* 采样）
+
+天哪，看她的曲线
+天哪，看她的曲线（哦哦哦）
+天哪，看她的曲线
+看她的曲线，看、看、看
+看她的曲线
 
 #### Verse 2
 
@@ -126,6 +168,18 @@ He toss my salad like his name Romaine
 And when we done, I make him buy me Balmain
 I'm on some dumb shit
 
+#### 主歌 2
+
+有个叫 Michael 的家伙从前爱骑摩托
+那话儿比塔还夸张，我说的可不是埃菲尔
+地道的乡下硬汉，让我玩他那杆「枪」（双关）
+床上把他弄得睡着了，现在他叫我 NyQuil（安眠药）
+那就 bang、bang、bang
+我让他亲近，因为他贩可卡因
+他给我「拌沙拉」，像他名字就叫生菜（俚语双关，略译）
+完事之后，我让他给我买 Balmain
+我这会儿就是在瞎玩
+
 #### Pre-Chorus
 
 By the way, what he say? (Hey, hey)
@@ -137,12 +191,27 @@ He say he don't like 'em boney, he want something he can grab (Hey)
 So I pulled up in the Jag, Mayweather with the jab like (Hey)
 Dun-d-d-dun-dun-d-d-dun-dun (Hey, hey)
 
+#### 预副歌
+
+顺便问一句，他怎么说？（嘿，嘿）
+他看得出我顿顿没少吃（嘿）
+过来，在我车里跟他缠绵（嘿）
+让他用那口金牙取悦我，他还一直叫我冷静
+他一直说这是真的，说他爱我的性魅力（嘿）
+他说不喜欢骨感的，想要能抓得住的（嘿）
+于是我开着捷豹到场，像 Mayweather 出 jab（嘿）
+Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
+
 #### Chorus
 
 My anaconda don't
 My anaconda don't
 My anaconda don't want none
 Unless you got buns, hun
+
+#### 副歌
+
+*(同前段副歌)*
 
 #### Post-Chorus
 
@@ -152,12 +221,27 @@ Oh-oh-oh, oh my gosh, look at her butt
 Look at her butt, look at, look at, look at
 Look at her butt
 
+#### 后副歌
+
+天哪，看她的曲线
+天哪，看她的曲线
+哦哦哦，天哪，看她的曲线
+看她的曲线，看、看、看
+看她的曲线
+
 #### Breakdown
 
 Little in the middle, but she got much back
 Little in the middle, but she got much back
 Little in the middle, but she got much back
 Oh my God, look at her butt
+
+#### 分解段
+
+腰细，但后面很有料
+腰细，但后面很有料
+腰细，但后面很有料
+天哪，看她的曲线
 
 #### Chorus（变奏）
 
@@ -168,6 +252,15 @@ Unless you got buns, hun
 Don't, my anaconda don't
 Don't want none unless you got buns, hun
 
+#### 副歌（变奏）
+
+我的「蟒蛇」不要
+我的「蟒蛇」不要
+我的「蟒蛇」什么都不要
+除非你有翘臀，亲
+不要，我的「蟒蛇」不要
+什么都不要，除非你有翘臀，亲
+
 #### Post-Chorus（叠唱）
 
 Oh my gosh, look at her butt (*Little in the middle, but she got much back*)
@@ -175,6 +268,14 @@ Oh my gosh, look at her butt (*Little in the middle, but she got much back*)
 Oh-oh-oh, oh my gosh, look at her butt (*Little in the middle, but she got much back*)
 Oh my God (Look at her butt, look at, look at, look at)
 Look at her butt
+
+#### 后副歌（叠唱）
+
+天哪，看她的曲线（*腰细，但后面很有料*）
+天哪，看她的曲线（*腰细，但后面很有料*）
+哦哦哦，天哪，看她的曲线（*腰细，但后面很有料*）
+天哪（看她的曲线，看、看、看）
+看她的曲线
 
 #### Outro
 
@@ -189,127 +290,16 @@ I got a big fat ass
 Kyuh, come on
 Hey, hey, hey!
 
----
+#### 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 前奏 / 副歌（采样 hook · Sir Mix-a-Lot）
-
-我的蟒蛇不要
-我的蟒蛇不要
-我的蟒蛇什么都不要
-除非你有翘臀，亲
-
-#### 主歌 1
-
-玩伴叫 Troy，以前住底特律
-贩毒赚大钱，他在捞钱
-跟警察交过火，却住得像宫殿
-给我买 Alexander McQueen，把我打扮得很潮
-这才叫真的、真的、真的
-包里有枪，婊子，我打扮得能「杀」全场
-谁想先上？我让他们去推水仙花（= 送他们见阎王）
-我嗨得要死，才吃了半片药
-我现在就是在犯傻、瞎玩
-
-#### 预副歌
-
-顺便问一句，他怎么说？（嘿，嘿）
-他看得出我顿顿没少吃（嘿）
-过来，在我车里操他（嘿）
-让他用牙套舔我，他还一直叫我冷静
-他一直说这是真的，说他爱我的性魅力（嘿）
-他说不喜欢骨感的，想要能抓得住的（嘿）
-于是我开着捷豹到场，给他来一记 jab（嘿）
-Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
-
-#### 副歌
-
-我的蟒蛇不要
-我的蟒蛇不要
-我的蟒蛇什么都不要
-除非你有翘臀，亲
-
-#### 后副歌（*Baby Got Back* 采样）
-
-天哪，看她的屁股
-天哪，看她的屁股（哦哦哦）
-天哪，看她的屁股
-看她的屁股，看、看、看
-看她的屁股
-
-#### 主歌 2
-
-有个叫 Michael 的家伙以前爱骑摩托
-鸡巴比塔还大，我说的可不是埃菲尔
-真正的乡下黑鬼，让我玩他的「步枪」（性双关）
-逼把他干得睡着了，现在他叫我 NyQuil（安眠药）
-那就 bang、bang、bang
-我让他上，因为他贩可卡因
-他给我「拌沙拉」像他叫 Romaine（口交/舔肛俚语双关）
-完事之后，我让他给我买 Balmain
-我现在就是在犯傻、瞎玩
-
-#### 预副歌
-
-顺便问一句，他怎么说？（嘿，嘿）
-他看得出我顿顿没少吃（嘿）
-过来，在我车里操他（嘿）
-让他用牙套舔我，他还一直叫我冷静
-他一直说这是真的，说他爱我的性魅力（嘿）
-他说不喜欢骨感的，想要能抓得住的（嘿）
-于是我开着捷豹到场，像 Mayweather 出 jab（嘿）
-Dun-d-d-dun-dun-d-d-dun-dun（嘿，嘿）
-
-#### 副歌
-
-我的蟒蛇不要
-我的蟒蛇不要
-我的蟒蛇什么都不要
-除非你有翘臀，亲
-
-#### 后副歌
-
-天哪，看她的屁股
-天哪，看她的屁股
-哦哦哦，天哪，看她的屁股
-看她的屁股，看、看、看
-看她的屁股
-
-#### 分解段
-
-腰细，但后面很有料
-腰细，但后面很有料
-腰细，但后面很有料
-天哪，看她的屁股
-
-#### 副歌（变奏）
-
-我的蟒蛇不要
-我的蟒蛇不要
-我的蟒蛇什么都不要
-除非你有翘臀，亲
-不要，我的蟒蛇不要
-什么都不要，除非你有翘臀，亲
-
-#### 后副歌（叠唱）
-
-天哪，看她的屁股（*腰细，但后面很有料*）
-天哪，看她的屁股（*腰细，但后面很有料*）
-哦哦哦，天哪，看她的屁股（*腰细，但后面很有料*）
-天哪（看她的屁股，看、看、看）
-看她的屁股
-
-#### 尾声
-
-对，他就爱这肥屁股
-对，这首是送给俱乐部里那些有肥屁股的婊子们的
-我说，俱乐部里肥屁股的大妞们在哪？
-去他妈的瘦婊子，去他妈的俱乐部里那些瘦婊子
-我要看所有肥屁股大妞都在这他妈的俱乐部里
-你要是瘦婊子就去你妈的，怎样？Kyuh
+对，他就爱这丰满的曲线
+对，这首送给俱乐部里那些曲线丰满的姐妹
+我说，俱乐部里丰满的大妞们在哪？
+瘦的靠边站，俱乐部里那些骨感的靠边站
+我要看所有丰满的曲线都在这俱乐部里
+你要是骨感就别凑热闹，怎样？Kyuh
 Rrr，yeah
-我有个又大又肥的屁股
+我有丰满的曲线
 Kyuh，来啊
 嘿、嘿、嘿！
 

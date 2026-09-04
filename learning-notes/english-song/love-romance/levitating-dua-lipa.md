@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -78,12 +76,30 @@ Shining just the way I like
 If you're feeling like you need a little bit of company
 You met me at the perfect time
 
+#### 主歌 1
+
+若你想跟我私奔，我知道有个星系
+我可以带你去兜风
+我有种预感：我们会掉进同一种节奏
+音乐一辈子都不停
+天上碎光闪，我眼里也闪
+亮得正合我意
+若你觉得需要一点陪伴
+你遇见我的时机刚刚好
+
 #### Pre-Chorus
 
 You want me, I want you, baby
 My sugarboo, I'm levitating
 The Milky Way, we're renegading
 Yeah, yeah, yeah, yeah, yeah — Yeah, yeah, yeah, yeah, yeah  
+
+#### 预副歌
+
+你要我，我也要你，宝贝
+我的小甜心，我飘起来了
+在银河里，我们当叛逆者
+耶，耶，耶，耶，耶 — 耶，耶，耶，耶，耶
 
 #### Chorus
 
@@ -93,6 +109,15 @@ I'm levitating
 You, moonlight, you're my starlight (you're the moonlight)
 I need you all night, come on, dance with me
 I'm levitating
+
+#### 副歌
+
+我抓住你了，月光，你是我的星光
+我整晚都需要你，来，跟我跳舞
+我飘起来了
+你，月光，你是我的星光（你就是那月光）
+我整晚都需要你，来，跟我跳舞
+我飘起来了
 
 #### Verse 2
 
@@ -105,7 +130,22 @@ Shining just the way we are
 I feel like we're forever, every time we get together
 But whatever, let's get lost on Mars
 
+#### 主歌 2
+
+我相信你是为我而来，从我们的能量里感觉得到
+我看见我们被写在星星上
+我们想去哪儿都行，所以现在就走，否则永远不走，宝贝
+没有什么会太远
+天上碎光闪，我们眼里也闪
+就按我们本来的样子发光
+每次在一起，我都觉得我们会永远
+不过随便啦，我们去火星迷路吧
+
 #### Pre-Chorus & Chorus（重复）
+
+*(同前；含 I'm levitating (whoo))*
+
+#### 预副歌 & 副歌（重复）
 
 *(同前；含 I'm levitating (whoo))*
 
@@ -121,6 +161,19 @@ My love is like a rocket, watch it blast off
 And I'm feeling so electric, dance my arse off
 And even if I wanted to, I can't stop
 Yeah, yeah, yeah, yeah, yeah — Yeah, yeah, yeah, yeah, yeah  
+
+#### 后副歌 / 桥段
+
+今晚你可以跟我一起飞走
+今晚你可以跟我一起飞走
+宝贝，让我带你去兜风
+耶，耶，耶，耶，耶 — 耶，耶，耶，耶，耶
+我飘起来了（whoo）
+
+我的爱像火箭，看它点火升空
+我感觉全身带电，跳到腿软
+就算我想停也停不下来
+耶，耶，耶，耶，耶 — 耶，耶，耶，耶，耶
 
 #### Final Chorus / Outro
 
@@ -138,71 +191,17 @@ I got you, moonlight, you're my starlight
 I need you all night, come on, dance with me
 I'm levitating
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-如果你想跟我私奔，我知道有个星系
-我可以带你去兜风
-我有种预感：我们会掉进同一种节奏
-音乐一辈子都不停
-天上亮片闪，我眼里也闪
-亮得正合我意
-如果你觉得需要一点陪伴
-你遇见我的时机刚刚好
-
-#### 预副歌
+#### 终段副歌 / 尾奏
 
 你要我，我也要你，宝贝
 我的小甜心，我飘起来了
 在银河里，我们当叛逆者
 
-#### 副歌
+我抓住你了（耶），月光，你是我的星光
+我整晚都需要你（整晚），来，跟我跳舞
+我飘起来了（whoo）
 
-我抓住你了，月光，你是我的星光
-我整晚都需要你，来，跟我跳舞
-我飘起来了
-你，月光，你是我的星光
-我整晚都需要你，来，跟我跳舞
-我飘起来了
-
-#### 主歌 2
-
-我相信你是为我而来，我从我们的能量里感觉到了
-我看见我们写在星星上
-我们想去哪都行，所以现在就做，不然永远不做，宝贝
-没有什么会太远
-天上亮片闪，我们眼里也闪
-就按我们本来的样子发光
-每次在一起，我都觉得我们会永远
-不过随便啦，我们去火星迷路吧
-
-#### 预副歌 & 副歌（重复）
-
-#### 后副歌 / 桥段
-
-今晚你可以跟我一起飞走
-今晚你可以跟我一起飞走
-宝贝，让我带你去兜风
-我飘起来了
-
-我的爱像火箭，看它点火升空
-我感觉全身带电，跳到腿软
-就算我想停也停不下来
-
-#### 终段副歌 / 尾声
-
-你要我，我也要你，宝贝
-我的小甜心，我飘起来了
-在银河里，我们当叛逆者
-
-我抓住你了，月光，你是我的星光
-我整晚都需要你，来，跟我跳舞
-我飘起来了
-
-今晚你可以跟我一起飞走
+今晚你可以跟我一起飞走（今晚）
 宝贝，让我带你去兜风
 我抓住你了，月光，你是我的星光
 我整晚都需要你，来，跟我跳舞

@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,18 @@ While the shy tormented youth sit way over there
 And the songs they get louder
 Each one better than before
 
+#### 主歌 1
+
+哦，风顺着街呼啸而下
+今夜这条又冷又暗的路
+人们
+跟着音乐的律动跳舞
+男孩追着女孩跑
+那些头发卷着的姑娘
+害羞又煎熬的少年坐在远远那边
+歌越唱越响
+一首比一首带劲
+
 #### Chorus
 
 And you're singing the songs
@@ -84,6 +94,15 @@ And you wake up in the morning
 And your head feels twice the size
 Where you gonna go? Where you gonna go?
 Where you gonna sleep tonight?
+
+#### 副歌
+
+你唱着那些歌
+心里觉得这才叫活着
+早上醒来
+头胀得像大了一倍
+你要去哪？你要去哪？
+今晚睡哪儿？
 
 #### Verse 2
 
@@ -96,47 +115,24 @@ Talking about Robert Riger and his motley crew
 And where you're gonna go and
 Where you're gonna sleep tonight?
 
+#### 主歌 2
+
+于是你沿路往前开
+坐着那辆四人出租车
+在 Jimmy 家门口干等着
+没人应门，要到四点才有人回家
+你就坐在那儿没事可做
+聊着 Robert Riger 和他那帮乌合之众
+聊着接下来要去哪
+今晚睡哪儿？
+
 #### Chorus（重复）
 
 *(副歌重复多遍至结尾；结构与第一段副歌相同，末段多一句 Where you gonna sleep tonight?)*
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-哦，风呼啸而过
-今夜冷清黑暗的街道
-人们
-跟着音乐节奏跳舞
-男孩追着女孩
-那些头发卷曲的姑娘
-害羞又纠结的少年坐在远处
-歌越来越响
-一首比一首带劲
-
-#### 副歌
-
-你唱着那些歌
-觉得这就是人生
-早上醒来
-头胀得像大两倍
-你要去哪？你要去哪？
-今晚睡哪儿？
-
-#### 主歌 2
-
-于是你沿路而行
-坐着四人出租车
-在 Jimmy 家门口等着
-但没人应门，要到四点才有人
-你就干坐着没事做
-聊着 Robert Riger 和他那帮杂牌军
-聊着要去哪
-今晚睡哪儿
-
 #### 副歌（重复）
+
+*(副歌反复多遍至结尾；结构同第一段，末段多一句「今晚睡哪儿？」)*
 
 ## 重点表达 · Key Phrases
 

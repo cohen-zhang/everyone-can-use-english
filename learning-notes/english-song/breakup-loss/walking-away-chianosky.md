@@ -63,10 +63,8 @@ aliases:
 
 > 歌词按官方歌词视频与常见歌词源整理；原 lrclib 稿有拼写/OCR 错误（如 *your walking*、*you to scared*、*iy feels*），此处已校正为可跟唱文本。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -79,6 +77,17 @@ That you need me, need me
 You don't show it, I know it
 If falling is so easy, then why am I crying?
 
+#### 主歌 1
+
+你说你爱我
+才一分钟
+下一秒你就在走开
+你想牵我的手，宝贝，却又怕说出口
+你说你爱我、爱我
+说你需要我、需要我
+你却不表现出来，我心里清楚
+若爱上一个人这么容易，那我为什么在哭？
+
 #### Pre-Chorus
 
 It's not supposed to be like this
@@ -87,10 +96,23 @@ C'mon and break my space
 Wanna feel like I'm needed
 I'm needed by you
 
+#### 预副歌
+
+不该是这样的
+我想知道自己站在哪
+来吧，闯进我的空间
+想感觉到自己被需要
+被你需要
+
 #### Chorus
 
 I wanna know what it feels like to be haunted by you, oh!
 I wanna know what it feels like to be wanted by you, oh!
+
+#### 副歌
+
+我想知道被你缠住、挥之不去是什么感觉，哦！
+我想知道被你渴望是什么感觉，哦！
 
 #### Verse 2
 
@@ -104,61 +126,6 @@ Like a moth to a flame
 It's not a game for the same
 It's not supposed to be like this
 
-#### Pre-Chorus 2
-
-I wanna understand
-Wanna do what I can
-I feel like I'm needed
-I'm needed by you
-
-#### Chorus（重复）
-
-I wanna know what it feels like to be haunted by you, oh!
-I wanna know what it feels like to be wanted by you, oh!
-
-#### Bridge
-
-Just touch and go
-But give me, give me
-Running so fast to know it (wanting to know)
-It's not just a phase we cannot erase
-What we had, what we had
-(Eh eh eh)
-
-#### Final Chorus
-
-I wanna know (I wanna know) what it feels like to be haunted (I gotta know) by you, oh!
-I wanna know what it feels (I wanna know) like to be wanted (I gotta know) by you, oh!
-I wanna know what it feels like to be haunted by you, ohhh!
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-你说你爱我
-才一分钟
-下一秒你就在走开
-你想牵我的手，宝贝，却又怕说出口
-你说你爱我、爱我
-说你需要我、需要我
-你却不表现出来，我心里清楚
-若爱上一个人这么容易，那我为什么在哭？
-
-#### 预副歌
-
-不该是这样的
-我想知道自己站在哪
-来吧，闯进我的空间
-想感觉到自己被需要
-被你需要
-
-#### 副歌
-
-我想知道被你缠住、挥之不去是什么感觉，哦！
-我想知道被你渴望是什么感觉，哦！
-
 #### 主歌 2
 
 你吻我，亲爱的，像是想让我留下
@@ -171,6 +138,13 @@ I wanna know what it feels like to be haunted by you, ohhh!
 这可不是谁都能玩的游戏
 不该是这样的
 
+#### Pre-Chorus 2
+
+I wanna understand
+Wanna do what I can
+I feel like I'm needed
+I'm needed by you
+
 #### 预副歌 2
 
 我想弄明白
@@ -178,10 +152,24 @@ I wanna know what it feels like to be haunted by you, ohhh!
 我觉得自己被需要
 被你需要
 
+#### Chorus（重复）
+
+I wanna know what it feels like to be haunted by you, oh!
+I wanna know what it feels like to be wanted by you, oh!
+
 #### 副歌（重复）
 
 我想知道被你缠住、挥之不去是什么感觉，哦！
 我想知道被你渴望是什么感觉，哦！
+
+#### Bridge
+
+Just touch and go
+But give me, give me
+Running so fast to know it (wanting to know)
+It's not just a phase we cannot erase
+What we had, what we had
+(Eh eh eh)
 
 #### 桥段
 
@@ -190,7 +178,13 @@ I wanna know what it feels like to be haunted by you, ohhh!
 跑得那么快，只为弄清楚（想要知道）
 这不只是一段说忘就忘的阶段
 我们曾经拥有的，曾经拥有的
-（衬词）
+（哎哎哎）
+
+#### Final Chorus
+
+I wanna know (I wanna know) what it feels like to be haunted (I gotta know) by you, oh!
+I wanna know what it feels (I wanna know) like to be wanted (I gotta know) by you, oh!
+I wanna know what it feels like to be haunted by you, ohhh!
 
 #### 终段副歌
 

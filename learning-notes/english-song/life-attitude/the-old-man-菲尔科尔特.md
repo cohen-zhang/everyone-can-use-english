@@ -57,10 +57,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,19 @@ He can still be heard
 In the tunes we shared
 When we play them on our own
 
+#### 主歌 1
+
+眼泪都已流尽
+最后的告别，我们已经说过
+灵魂受了祝福，他已入土安息
+此刻，我才感到孤单
+
+他不只是父亲
+是老师，是我最好的朋友
+仍能听见他
+在我们曾共享的那些曲子里
+当我们独自把它们再弹起
+
 #### Chorus
 
 I never will forget him
@@ -82,6 +93,14 @@ For he made me what I am
 Though he may be gone
 Memories linger on
 And I miss him, the old man
+
+#### 副歌
+
+我永远不会忘记他
+因为是他，我才成为我
+尽管他已离去
+记忆仍久久萦绕
+我想念他，那位老人
 
 #### Verse 2
 
@@ -96,7 +115,24 @@ As he rises in the dawn
 And how to fish and make a wish
 Beside the holly tree
 
+#### 主歌 2
+
+小时候，他会带我去散步
+过山、穿野、沿溪
+他让我看见
+连君王都不曾知晓的事物
+只属于他与我之间的秘密
+
+比如野鸡扑翅升起时
+黎明里那些颜色
+以及如何钓鱼、如何许愿
+在冬青树旁
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 3
 
@@ -112,63 +148,19 @@ No second chance
 To tell him thanks
 For everything he's done
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-眼泪都已流尽
-我们已作最后的告别
-他的灵魂已受祝福，他已入土安息
-而此刻我只觉孤单
-
-他不仅是父亲
-是老师，是我最好的朋友
-仍能听见他的声音
-在我们曾一起弹奏的曲调里
-当我们独自演奏那些曲子
-
-#### 副歌
-
-我永远不会忘记他
-因为他造就了今天的我
-尽管他已离去
-记忆久久萦绕
-我想念他，那位老人
-
-#### 主歌 2
-
-小时候，他会带我去散步
-过山、穿野、沿溪
-他教我看
-君王都不曾知晓的事物
-只属于他我之间的秘密
-
-比如野鸡扑翅时
-在黎明飞起的色彩
-以及如何钓鱼、如何许愿
-在冬青树旁
-
-#### 副歌（重复）
-
-*(同第一段副歌)*  
-
 #### 主歌 3
 
 我以为他会永远活着
-他看起来那么高大强壮
-但分秒飞逝
-岁月滚滚
-对一对父子而言
+他看起来那么高大、那么强壮
+可分秒飞逝
+岁月滚滚向前
+对一对父子来说
 
-而当那一刻突然来临
-还有太多话未曾说出口
+而那一刻突然到来
+还有太多话未曾出口
 没有第二次机会
 去对他说声谢谢
 感谢他做过的一切
-
-*(同第一段副歌)*
 
 ## 重点表达 · Key Phrases
 

@@ -62,10 +62,8 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -78,6 +76,17 @@ Who woulda thought it'd turn me to a savage?
 Rather be tied up with calls and not strings
 Write my own checks like I write what I sing, yeah
 
+#### 主歌 1
+
+对，蒂芙尼早餐、一瓶瓶香槟
+纹身女孩，爱惹事上身
+假睫毛与钻石、提款机
+给自己买下所有最爱（耶）
+经历过烂事，本该哭成怨妇
+谁想到反而把我逼成了狠人？
+宁愿被电话缠身，也不要情丝牵绊
+自己开支票，像写歌一样由我做主，耶
+
 #### Pre-Chorus
 
 My wrist, stop watchin', my neck is flossy
@@ -85,12 +94,26 @@ Make big deposits, my gloss is poppin'
 You like my hair? Gee, thanks, just bought it
 I see it, I like it, I want it, I got it, yeah
 
+#### 预副歌
+
+别盯我手腕，我脖子闪得晃眼
+大笔入账，唇彩亮得炸裂
+喜欢这头发？哟，谢啦，刚买的
+看见、喜欢、想要、到手，耶
+
 #### Chorus
 
 I want it, I got it, I want it, I got it
 I want it, I got it, I want it, I got it
 You like my hair? Gee, thanks, just bought it
 I see it, I like it, I want it, I got it (yep)
+
+#### 副歌
+
+想要就有，想要就有
+想要就有，想要就有
+喜欢这头发？哟，谢啦，刚买的
+看见、喜欢、想要、到手（对）
 
 #### Verse 2
 
@@ -103,6 +126,17 @@ Must not have had enough money to solve 'em
 They say, "Which one?", I say, "Nah, I want all of 'em"
 Happiness is the same price as red-bottoms
 
+#### 主歌 2
+
+戴着戒指，却不会成为「某某太太」
+给六个闺蜜买了同款钻石
+宁愿用身家把朋友们宠坏
+购物疗愈成了新的瘾
+谁说钱解决不了问题
+一定是钱还不够多
+问「要哪一个？」我说：「不，我全要」
+快乐和红底鞋，一个价钱
+
 #### Pre-Chorus（重复）
 
 My smile is beamin' (yeah), my skin is gleamin' (is gleamin')
@@ -110,7 +144,18 @@ The way it shine, I know you've seen it (you've seen it)
 I bought a crib just for (just for) the closet (closet)
 Both his and hers, I want it, I got it, yeah
 
+#### 预副歌（重复）
+
+笑容灿烂（耶），皮肤发亮（发亮）
+那光泽，我知道你见过（你见过）
+买房就为了（就为了）衣帽间（衣帽间）
+男女款都要，想要就有，耶
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 3
 
@@ -130,64 +175,6 @@ Ain't got enough money to pay me respect
 Ain't no budget when I'm on the set
 If I like it, then that's what I get, yeah
 
-#### Chorus（结尾）
-
-I want it, I got it, I want it, I got it (yeah)
-I want it, I got it, I want it, I got it (oh, yeah, yeah)
-You like my hair? Gee, thanks, just bought it
-I see it, I like it, I want it, I got it (yep)
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-对，蒂芙尼早餐、香槟泡泡
-纹身女孩、爱惹事
-假睫毛与钻石、提款机
-给自己买下所有最爱（耶）
-经历过烂事，本该是个怨妇
-谁想到反而让我变狠人？
-宁愿被电话缠住，不要情丝牵绊
-自己开支票，像写歌一样自在，耶
-
-#### 预副歌
-
-别盯我手腕，我脖子闪得晃眼
-大笔存款，唇彩亮得炸
-喜欢这头发？谢啦，刚买的
-看见、喜欢、想要、到手，耶
-
-#### 副歌
-
-想要就有，想要就有
-想要就有，想要就有
-喜欢这头发？谢啦，刚买的
-看见、喜欢、想要、到手（对）
-
-#### 主歌 2
-
-戴着戒指，但不会当「某某太太」
-给六个闺蜜买了同款钻
-宁愿用身家宠坏朋友们
-购物疗愈成了新瘾
-谁说钱解决不了问题
-一定是钱还不够多
-问「要哪个？」我说：「不，我全要」
-快乐和红底鞋一个价
-
-#### 预副歌（重复）
-
-笑容灿烂（耶），皮肤发亮（发亮）
-那光泽，我知道你见过（你见过）
-买房就为了（就为了）衣帽间（衣帽间）
-男女款都要，想要就有，耶
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
 #### 主歌 3
 
 小票长得跟电话号码似的
@@ -195,22 +182,29 @@ I see it, I like it, I want it, I got it (yep)
 黑卡就是我的名片
 它替我定下了气场
 不是炫耀，但我会说：「包起来」，耶
-钞票摞起来，跟我身材一样翘，耶
+钞票摞起来，跟我曲线一样翘，耶
 
 唰，从商场进录音棚
 一圈就赚回来，把钱给我
-算了，我有影响力
-出手就中，百发百中
+算了，我自带影响力
+出手就中，空心入网
 看我脖子，看我私人飞机
-钱不够就别想赢得我尊重
+钱不够，就别想赢得我的尊重
 在片场没有预算上限
-喜欢就拿，耶
+喜欢就拿下，耶
+
+#### Chorus（结尾）
+
+I want it, I got it, I want it, I got it (yeah)
+I want it, I got it, I want it, I got it (oh, yeah, yeah)
+You like my hair? Gee, thanks, just bought it
+I see it, I like it, I want it, I got it (yep)
 
 #### 副歌（结尾）
 
 想要就有，想要就有（耶）
 想要就有，想要就有（哦耶）
-喜欢这头发？谢啦，刚买的
+喜欢这头发？哟，谢啦，刚买的
 看见、喜欢、想要、到手（对）
 
 ## 重点表达 · Key Phrases

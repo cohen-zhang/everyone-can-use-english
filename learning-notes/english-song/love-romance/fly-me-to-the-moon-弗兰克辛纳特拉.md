@@ -64,10 +64,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### A Section
 
@@ -76,10 +74,22 @@ Let me play among the stars
 Let me see what spring is like
 On Jupiter and Mars
 
+#### A 段
+
+带我飞去月球吧
+让我在星星之间嬉戏
+让我看看春天是什么样
+在木星和火星上
+
 #### B Section（转折）
 
 In other words, hold my hand
 In other words, baby, kiss me
+
+#### B 段（转折）
+
+换句话说，牵着我的手
+换句话说，宝贝，吻我吧
 
 #### A Section（第二遍）
 
@@ -88,44 +98,28 @@ And let me sing forevermore
 You are all I long for
 All I worship and adore
 
+#### A 段（第二遍）
+
+用歌声填满我的心
+让我从此唱个不停
+你是我全部的渴望
+是我崇拜、珍爱的一切
+
 #### B Section（收束）
 
 In other words, please be true
 In other words, I love you
+
+#### B 段（收束）
+
+换句话说，请对我真心
+换句话说，我爱你
 
 #### 重复说明
 
 The Basie cut is short and brisk—often one full pass, or a light repeat of the closing line. Focus less on copying lyrics again, more on **swing accents** and Sinatra’s slightly behind-the-beat phrasing.
 
 *(Same full lyric as the first pass; you can soft-follow the closing *I love you* once more with the recording)*
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### A Section
-
-带我飞去月球吧
-让我在星星之间玩耍
-让我看看春天是什么样
-在木星和火星上
-
-#### B Section（转折）
-
-换句话说，牵着我的手
-换句话说，亲爱的，吻我吧
-
-#### A Section（第二遍）
-
-用歌声填满我的心
-让我永远唱下去
-你是我全部的渴望
-是我崇拜、珍爱的一切
-
-#### B Section（收束）
-
-换句话说，请对我真心
-换句话说，我爱你
 
 #### 重复说明
 

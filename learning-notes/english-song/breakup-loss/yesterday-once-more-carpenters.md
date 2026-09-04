@@ -60,10 +60,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -80,6 +78,21 @@ But they're back again
 Just like a long lost friend
 All the songs I loved so well
 
+#### 主歌 1
+
+年少时
+我会守着电台
+等那些最爱的歌
+一播出，我就跟着唱
+那让我嘴角上扬
+
+那是多么快活的日子
+仿佛就在昨日
+我曾纳闷它们去了哪里
+可它们又回来了
+像一位失散多年的老友
+那些我深爱过的歌
+
 #### Chorus
 
 Every sha-la-la-la
@@ -88,6 +101,15 @@ Still shines
 Every shing-a-ling-a-ling
 That they're startin' to sing
 So fine
+
+#### 副歌
+
+每一句 sha-la-la-la
+每一句 whoa-oh-whoa
+依旧发着光
+每一句 shing-a-ling-a-ling
+他们又开口唱起
+那么美
 
 #### Verse 2
 
@@ -109,14 +131,33 @@ Those old melodies
 Still sound so good to me
 As they melt the years away
 
+#### 主歌 2
+
+唱到那一段
+他伤她心的那一段
+真的又会让我落泪
+一如从前
+昨日又回来了
+
+回望那些逝去的年岁
+和我曾经拥有的好时光
+叫今天显得有些黯淡
+世事已变了太多
+
+那是情歌
+我会跟着它们唱
+每一个字都记在心里
+那些老旋律
+对我依旧那么好听
+岁月仿佛被融化了
+
 #### Chorus（重复）
 
-Every sha-la-la-la
-Every whoa-oh-whoa
-Still shines
-Every shing-a-ling-a-ling
-That they're startin' to sing
-So fine
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Outro
 
@@ -128,70 +169,15 @@ It's yesterday once more
 
 *(Chorus hook repeated to the end)*
 
----
+#### 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-当我年轻时
-我会听电台
-等着我最爱的歌
-播出来我就跟着唱
-那让我微笑
-
-那是多么快乐的时光
-而且并不久远
-我曾奇怪它们去了哪
-但它们又回来了
-像一位失散多年的老友
-所有我深爱的歌
-
-#### 副歌
-
-每一句 sha-la-la-la
-每一句 whoa-oh-whoa
-依旧闪亮
-每一句 shing-a-ling-a-ling
-他们开始唱的那些
-如此美好
-
-#### 主歌 2
-
-当他们唱到那一段
-他伤她心的那一段
-真的又会让我哭
-就像从前一样
-昨日重现
-
-回望多年前的岁月
-以及我曾拥有的好时光
-让今天显得有些 sad
-一切改变太多
-
-那是爱情的歌
-我会跟着唱
-我会记住每一个词
-那些老旋律
-对我来说依旧动听
-仿佛融化了岁月
-
-#### 副歌（重复）
-
-每一句 sha-la-la-la
-每一句 whoa-oh-whoa
-依旧闪亮
-每一句 shing-a-ling-a-ling
-他们开始唱的那些
-如此美好
-
-#### 尾声
-
-我所有最好的记忆
+我最珍爱的记忆
 都清晰地回到身边
 有些甚至让我落泪
-就像从前一样
-昨日重现
+一如从前
+昨日又回来了
+
+*(副歌钩子句反复至结尾)*
 
 ## 重点表达 · Key Phrases
 

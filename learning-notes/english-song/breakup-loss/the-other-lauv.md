@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,12 +74,29 @@ I nervously rehearse for when you're around
 And I keep waiting like
 You might change my mind
 
+#### 主歌 1
+
+水像聚光灯打在我身上
+开得格外冷，好把话从嘴里抖出来
+虽然我知道没人在听
+我仍紧张地排练，为你在身边的时候
+
+而我一直等着，好像
+你会改变主意
+
 #### Pre-Chorus
 
 Who wrote the book on goodbye?
 There's never been a way to make this easy
 When there's nothing quite wrong but it don't feel right
 Either your head or your heart, you set the other on fire
+
+#### 预副歌
+
+谁写了那本关于告别的书？
+从来没有办法让这一切变得容易
+当没什么大错，却总觉得不对
+要么是头脑，要么是心，你把另一边点燃
 
 #### Verse 2
 
@@ -94,7 +109,24 @@ And I'll keep waiting like
 You might change my mind
 Give me one more night
 
+#### 主歌 2
+
+来回摇摆，此刻我感到愧疚
+因为停不下来脑子里那座钟摆
+虽然我知道我们的时间将尽
+哦，我宁愿永远躺在这张床上
+
+而我会一直等着，好像
+你会改变主意
+再给我一夜
+
 #### Pre-Chorus（重复）
+
+*(同第一段预副歌)*
+
+#### 预副歌（重复）
+
+*(同第一段预副歌)*
 
 #### Bridge
 
@@ -109,6 +141,19 @@ I'm caught in between
 What I wish and what I know
 When they say that you just know
 
+#### 桥段
+
+没人知道
+哦哦，哦哦，哦哦
+
+我们从顶峰跌落
+星星也打破了它们的密码
+我试着忘记
+自己是怎么落到这条路上的
+我被夹在中间
+我想要的，和我所知道的
+当他们说「你就是会知道」
+
 #### Pre-Chorus / Outro
 
 Who wrote the book on goodbye?
@@ -121,68 +166,17 @@ Oh oh, oh oh, oh oh
 
 You set the other on fire
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-像聚光灯，水打在我身上
-把水开得很冷，好把话从嘴里抖出来
-虽然我知道没人在听
-我还是紧张地排练，为你在身边的时候
-
-而我一直等着，好像
-你会改变主意
-
-#### 预副歌
+#### 预副歌 / 尾奏
 
 谁写了那本关于告别的书？
-从来没有办法让这一切变容易
-当没什么大错，却感觉不对
-要么是头脑，要么是心，你把另一边点燃
-
-#### 主歌 2
-
-来回摇摆，我现在感到愧疚
-因为我停不下来脑子里的钟摆
-虽然我知道我们的时间要结束了
-哦，我宁愿永远躺在这张床上
-
-而我会一直等着，好像
-你会改变主意
-再给我一夜
-
-#### 预副歌（重复）
-
-*(同第一段)*
-
-#### 桥段
-
-没人知道
-哦哦，哦哦，哦哦
-
-我们从顶峰跌落
-星星也打破了它们的密码
-我试着忘记
-我是怎么落到这条路上的
-我被夹在中间
-我想要的和我所知道的
-当他们说「你就是会知道」
-
-#### 预副歌 / 尾声
-
-谁写了那本关于告别的书？
-从来没有办法让这一切变容易
-当没什么大错，却感觉不对
+从来没有办法让这一切变得容易
+当没什么大错，却总觉得不对
 要么是头脑，要么是心，你把另一边点燃
 
 没人知道
 哦哦，哦哦，哦哦
-*(重复)*  
 
 你把另一边点燃
-*(重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

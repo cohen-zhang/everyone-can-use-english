@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -70,6 +68,13 @@ Ooh, I lost my heart to a vicious girl
 But she's so beautiful (beautiful, beautiful)
 Love only feels right with a vicious girl
 And she is beautiful with a vicious heart, girl
+
+#### 副歌
+
+哦，我把心输给了一个狠女孩
+可她太美了（美，美）
+只有和狠女孩在一起才觉得对
+她是个心狠的美人
 
 #### Verse
 
@@ -84,6 +89,19 @@ I'm losing it tonight
 
 My vicious girl
 
+#### 主歌
+
+我知道她是杀手
+可我知道我不会死
+她是融化的塑料太阳
+可她的美让我盲目
+她就要「开枪」打我了
+用那双美丽眼睛里的目光
+她是无火之烟
+我今晚要失控了
+
+我的狠女孩
+
 #### Chorus（重复）
 
 Ooh, I lost my heart to a vicious girl (vicious girl)
@@ -91,12 +109,26 @@ Vicious girl (vicious girl)
 My vicious girl
 Ooh, I lost my heart to a vicious girl
 
+#### 副歌（重复）
+
+哦，我把心输给了一个狠女孩（狠女孩）
+狠女孩（狠女孩）
+我的狠女孩
+哦，我把心输给了一个狠女孩
+
 #### Bridge
 
 Ooh I lost my heart, I lost my heart, beautiful
 Ooh I lost my heart, I lost my heart (mmm)
 Ooh I lost my heart, I lost my heart, beautiful
 Ooh I lost my heart, I lost my heart
+
+#### 桥段
+
+哦我失了心，我失了心，真美
+哦我失了心，我失了心（嗯）
+哦我失了心，我失了心，真美
+哦我失了心，我失了心
 
 #### Final Chorus & Outro
 
@@ -121,64 +153,19 @@ Tonight, tonight, tonight
 
 My vicious girl
 
-#### Outro
-
-Uh, I lost my heart
-Uh, I lost my heart to a vicious girl
-Uh, I lost my heart to a vicious girl
-Uh, I lost my heart to a vicious girl
-
-*(Chorus core and ad-libs repeated to the end)*
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-哦，我把心输给了一个狠女孩
-但她太美了（美，美）
-只有和狠女孩在一起才觉得对
-她是个心狠的美人
-
-#### 主歌
-
-我知道她是杀手
-但我知道我不会死
-她是融化的塑料太阳
-但她的美让我盲目
-她就要「开枪」打我了
-用那双美丽眼睛里的目光
-她是无火之烟
-我今晚要失控了
-
-我的狠女孩
-
-#### 副歌（重复）
-
-哦，我把心输给了一个狠女孩（狠女孩）
-狠女孩（狠女孩）
-我的狠女孩
-哦，我把心输给了一个狠女孩
-
-#### 桥段
-
-哦我失了心，我失了心，真美
-哦我失了心，我失了心（嗯）
-哦我失了心，我失了心，真美
-哦我失了心，我失了心
-
-#### 终段副歌 & 尾声
+#### 终段副歌 & 尾奏
 
 哦，我把心输给了一个狠女孩（嗯）
-但她太美了（美，美）
+可她太美了（美，美）
 只有和狠女孩在一起才觉得对（哦）
 她是个心狠的美人
 
+*(主歌核心句重复)*
+
 我知道她是杀手
-但我知道我不会死
+可我知道我不会死
 她是融化的塑料太阳
-但她的美让我盲目
+可她的美让我盲目
 她就要「开枪」打我了
 用那双美丽眼睛里的目光
 她是无火之烟
@@ -189,12 +176,23 @@ Uh, I lost my heart to a vicious girl
 
 我的狠女孩
 
-#### 尾声
+#### Outro
+
+Uh, I lost my heart
+Uh, I lost my heart to a vicious girl
+Uh, I lost my heart to a vicious girl
+Uh, I lost my heart to a vicious girl
+
+*(Chorus core and ad-libs repeated to the end)*
+
+#### 尾奏
 
 呃，我失了心
 呃，我把心输给了一个狠女孩
 呃，我把心输给了一个狠女孩
 呃，我把心输给了一个狠女孩
+
+*(副歌核心与即兴反复至结尾)*
 
 ## 重点表达 · Key Phrases
 

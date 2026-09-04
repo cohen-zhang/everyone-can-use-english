@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -72,6 +70,16 @@ On your own
 Do not turn back
 Do not lose hope
 Who can say how far is left to go?
+
+#### 主歌 1
+
+哦，温柔的心
+哦，单纯的灵魂
+你已经走了这么远
+独自一人
+别回头
+别失去希望
+谁能说，前面还剩多远要走？
 
 #### Bridge 1
 
@@ -86,6 +94,20 @@ Oh, may you find your heart
 Next to mine
 For we found hope
 In a hopeless time
+
+#### 桥段 1
+
+而所有这些夜晚
+你独自走过
+你追随灯火
+引你回家
+
+若黎明不肯升起
+若黑暗从四面八方合拢
+哦，愿你找到你的心
+挨着我的那颗
+因为我们找到了希望
+在一个毫无希望的时代
 
 #### Verse 2
 
@@ -109,53 +131,6 @@ Next to mine
 For we found hope
 In a hopeless time
 
-#### Bridge 2（重复，略变）
-
-And all the nights
-You've walked alone
-You follow lights
-To guide you home
-
-Should the dawn refuse to rise
-Should the darkness close on all sides
-May you still find your heart
-Next to mine
-For we found hope
-In a hopeless time
-
-#### Outro
-
-Oh, we found hope
-In a hopeless time
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-哦，温柔的心
-哦，单纯的灵魂
-你已经走了这么远
-独自一人
-别回头
-别失去希望
-谁能说还剩多远要走？
-
-#### 桥段 1
-
-而所有这些夜晚
-你独自走过
-你追随灯火
-引你回家
-
-若黎明不肯升起
-若黑暗从四面八方合拢
-哦，愿你找到你的心
-挨着我的那颗
-因为我们找到了希望
-在一个毫无希望的时代
-
 #### 主歌 2
 
 哦，温柔的心
@@ -178,6 +153,20 @@ In a hopeless time
 因为我们找到了希望
 在一个毫无希望的时代
 
+#### Bridge 2（重复，略变）
+
+And all the nights
+You've walked alone
+You follow lights
+To guide you home
+
+Should the dawn refuse to rise
+Should the darkness close on all sides
+May you still find your heart
+Next to mine
+For we found hope
+In a hopeless time
+
 #### 桥段 2（重复，略变）
 
 而所有这些夜晚
@@ -192,11 +181,15 @@ In a hopeless time
 因为我们找到了希望
 在一个毫无希望的时代
 
-#### 尾声
+#### Outro
+
+Oh, we found hope
+In a hopeless time
+
+#### 尾奏
 
 哦，我们找到了希望
 在一个毫无希望的时代
-*(重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

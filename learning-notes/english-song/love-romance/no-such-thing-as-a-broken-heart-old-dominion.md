@@ -63,14 +63,16 @@ aliases:
 
 > 原文含 *bullshit*，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Keep your chin up
+
+#### 前奏
+
+抬起下巴，别灰心
 
 #### Verse 1
 
@@ -81,6 +83,16 @@ Or did the heartland just swallow 'em up
 How did my mom and my dad ever do it
 If there was struggles, then we never knew it
 I guess they had each other, that was enough
+
+#### 主歌 1
+
+我在想 Jack 和 Diane 后来有没有走下去
+鼓声吉他声都散去之后
+他们尽力做到的最好，够不够
+还是中西部把他们吞没了
+我爸妈当年是怎么做到的
+若有过挣扎，我们从未察觉
+我想他们有彼此，那就够了
 
 #### Chorus
 
@@ -93,6 +105,17 @@ Baby 'cause the whole thing's really just a shot in the dark
 You gotta love like there's no such thing as a broken heart
 You gotta love like there's no such thing as a broken heart
 
+#### 副歌
+
+你知道挡不住大地摇晃
+无论你多努力
+留不住夕阳褪去
+你得把人生当成
+从绳秋千上跳下去
+宝贝，因为整个人生本就是摸黑一枪
+你得爱得像心碎这种东西不存在
+你得爱得像心碎这种东西不存在
+
 #### Verse 2
 
 What am I gonna tell my kids when they see
@@ -103,11 +126,29 @@ Cry when it hurts, laugh when it's funny
 Chase after the dream, don't chase after the money
 And know we got each other, that's what's up
 
+#### 主歌 2
+
+孩子们看见这些，我该怎么跟他们说
+电视上天天演的这些烂事？
+当整个世界都运气不佳
+我得让他们抬起下巴
+疼了就哭，好笑就笑
+追梦想，别追钱
+知道我们有彼此，这就够了
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同副歌)*
 
 #### Bridge
 
 You gotta love like there's no such thing as a broken heart
+
+#### 桥段
+
+你得爱得像心碎这种东西不存在
 
 #### Final Chorus（变体）
 
@@ -121,53 +162,6 @@ You gotta love like there's no such thing as a broken heart
 You gotta love, love, love (like there's no such thing)
 You gotta love, love, love (as a broken heart)
 You gotta love like there's no such thing as a broken heart
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-抬起下巴；别灰心
-
-#### 主歌 1
-
-我在想 Jack 和 Diane 后来有没有走下去
-鼓声吉他声都散去之后
-他们尽力做到的最好，够不够
-还是中西部把他们吞没了
-我爸妈当年是怎么做到的
-若有过挣扎，我们从未察觉
-我想他们有彼此，那就够了
-
-#### 副歌
-
-你知道挡不住大地摇晃
-无论你多努力
-留不住夕阳褪去
-你得把人生当成
-从绳秋千上跳下去
-宝贝，因为整个人生本就是摸黑一枪
-你得爱得像心碎这种东西不存在
-你得爱得像心碎这种东西不存在
-
-#### 主歌 2
-
-孩子们看见这些，我该怎么跟他们说
-电视上天天演的这些烂事？
-当整个世界都运气不佳
-我得让他们抬起下巴
-疼了就哭，好笑就笑
-追梦想，别追钱
-知道我们有彼此，这就够了
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-你得爱得像心碎这种东西不存在
 
 #### 终段副歌（变体）
 

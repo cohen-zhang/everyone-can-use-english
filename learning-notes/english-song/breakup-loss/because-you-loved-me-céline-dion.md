@@ -25,6 +25,8 @@ aliases:
 
 ---
 
+## 推荐指数 五星🌟
+
 ## 歌手简介 · About Céline Dion
 
 **English**
@@ -60,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -87,6 +87,28 @@ You gave me faith 'cause you believed
 I'm everything I am because you loved me
 Ooh, baby
 
+#### 主歌 1
+
+多少次你守在我身边
+多少真相因你才看清
+多少欢喜你带进我生命
+多少过错因你才挽回
+每一个梦因你才成真
+我在你身上寻得的爱
+我会永远感激你，宝贝
+是你托住了我
+从不让我坠落
+是你陪我熬过
+一路走来
+我软弱时，你是我的力量
+我说不出话时，你是我的声音
+我看不见时，你是我的眼睛
+你看见了我最好的那一面
+我够不着时，你把我托起
+因你相信，我才有了信念
+我之所以成为我，是因为你爱过我
+哦，宝贝
+
 #### Verse 2
 
 You gave me wings and made me fly
@@ -100,9 +122,26 @@ Maybe I don't know that much
 But I know this much is true
 I was blessed because I was loved by you
 
+#### 主歌 2
+
+你给我翅膀，让我飞翔
+你握住我的手，我便能触到天空
+信念曾失落，是你把它还给我
+你说没有哪颗星够不着
+你守在身边，我便挺直了腰
+拥有你的爱，我便拥有一切
+你给我的每一天，我都心存感激
+也许我懂得不多
+可有一点我知道千真万确
+我是幸运的，因为被你爱过
+
 #### Chorus（重复）
 
 *(同 Verse 1 末段八句)*
+
+#### 副歌（重复）
+
+*(同主歌 1 末段八句)*
 
 #### Bridge
 
@@ -113,67 +152,24 @@ You've been my inspiration
 Through the lies you were the truth
 My world is a better place because of you
 
+#### 桥段
+
+你始终在我身边
+托起我的，是一阵温柔的风
+黑暗里的光，把爱照进我的生命
+你一直是我的灵感
+谎言之中，你是那份真实
+因你，我的世界才更美好
+
 #### Final Chorus
 
 I'm everything I am
 Because you loved me
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-那些你始终站在我身边的日子
-那些你让我看见的真相
-那些你为我的生命带来的喜悦
-那些你替我纠正的错误
-每一个你帮我实现的梦
-我在你身上找到的全部的爱
-我会永远感激你，宝贝
-你是把我托住的人
-从不让我坠落
-你是陪我走过一切的人
-自始至终
-我软弱时，你是我的力量
-我说不出话时，你是我的声音
-我看不见时，你是我的眼睛
-你看见了我身上最好的那一面
-我够不着时，你把我托举起来
-因你相信，我才有了信念
-我如今的一切，都是因为你爱过我
-哦，宝贝
-
-#### 主歌 2
-
-你给我翅膀，让我飞翔
-你触碰我的手，我便能触到天空
-我曾失去信念，你又把它还给我
-你说没有哪颗星是够不着的
-你支持我，我便挺直了腰
-拥有你的爱，我便拥有一切
-你给我的每一天，我都心存感激
-也许我懂得不多
-但我知道这一点千真万确
-我是幸运的，因为被你爱过
-
-#### 副歌（重复）
-
-#### 桥段
-
-你始终在我身边
-你是托住我的温柔的风
-黑暗中的光，把爱照进我的生命
-你一直是我的灵感
-谎言之中，你是真相
-因你，我的世界更美好
-
 #### 终段副歌
 
-*(副歌重复；背景人声叠唱括号句至结尾)*
-
-我如今的一切
-都是因为你爱过我
+我之所以成为我
+是因为你爱过我
 
 ## 重点表达 · Key Phrases
 
@@ -202,3 +198,4 @@ Because you loved me
 - Dion 的 **belting** 在长句尾（*because you loved me*）会拉高音——跟唱前先分句换气，别一口气憋到底。
 - *stood by me / saw me through / lifted me up* 三个短语可连成一组「感恩动词」，对照 [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] 里表达陪伴的句型。
 - KTV 难点在桥段后反复副歌的情绪递进；先练主歌 1 的排比 *For all those times…*，再进副歌更稳。
+

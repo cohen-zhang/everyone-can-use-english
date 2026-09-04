@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,13 @@ Got me ten feet off the ground
 And I'm hearing what you say
 But I just can't make a sound
 
+#### 主歌 1
+
+我抓着你抛来的绳子不放
+把我吊在半空，离地十尺
+你说的话我都听得见
+可我就是发不出声
+
 #### Pre-Chorus
 
 You tell me that you need me
@@ -82,11 +87,24 @@ Then you go and cut me down, but wait
 You tell me that you're sorry
 Didn't think I'd turn around and say
 
+#### 预副歌
+
+你说你需要我
+转头又把我砍落——可等等
+你又说你很抱歉
+没想到我会转身回你一句
+
 #### Chorus
 
 That it's too late to apologize, it's too late
 I said it's too late to apologize, it's too late
 Too late, oh
+
+#### 副歌
+
+道歉已经太晚了，太晚了
+我说了，道歉已经太晚了，太晚了
+太晚了，哦
 
 #### Verse 2
 
@@ -100,10 +118,27 @@ And you say sorry like the angel
 Heaven let me think it was you
 But I'm afraid
 
+#### 主歌 2
+
+我愿意再赌一次，再摔一次
+为你再拼一把
+我需要你，像心脏需要跳动
+可这早就不是新鲜事了，耶耶
+
+我曾爱你爱得火红，如今却凉成一片蓝
+你道歉时像个天使
+老天曾让我以为，那天使就是你
+可我怕了
+
 #### Chorus（重复）
 
 It's too late to apologize, it's too late
 I said it's too late to apologize, it's too late, whoa
+
+#### 副歌（重复）
+
+道歉已经太晚了，太晚了
+我说了，道歉已经太晚了，太晚了，哇
 
 #### Final Chorus
 
@@ -112,63 +147,22 @@ I said it's too late to apologize, it's too late
 I said it's too late to apologize, yeah, too late
 I said it's too late to apologize, yeah, too late
 
+#### 终段副歌
+
+道歉已经太晚了，太晚了
+我说了，道歉已经太晚了，太晚了
+我说了，道歉已经太晚了，耶，太晚了
+我说了，道歉已经太晚了，耶，太晚了
+
 #### Outro
 
 I'm holding on your rope
 Got me ten feet off the ground
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
+#### 尾奏
 
 我抓着你抛来的绳子不放
-把我吊在半空，脚不沾地
-你说的话我都听得见
-可我就是发不出声
-
-#### 预副歌
-
-你说你需要我
-转头又把我打落——可等等
-你又说你很抱歉
-没想到我会转身回你一句
-
-#### 副歌
-
-道歉已经太晚了，太晚了
-我说了，道歉已经太晚了，太晚了
-太晚了，哦
-
-#### 主歌 2
-
-我愿意再赌一次，再摔一次
-为你再拼一把
-我需要你，就像心脏需要跳动
-可这早就不是新鲜事了
-
-我曾爱你爱得火红，如今却凉成一片蓝
-你道歉时像个天使
-老天曾让我以为，那天使就是你
-可我怕了
-
-#### 副歌（重复）
-
-道歉已经太晚了，太晚了
-我说了，道歉已经太晚了，太晚了
-
-#### 终段副歌
-
-道歉已经太晚了，太晚了
-我说了，道歉已经太晚了，太晚了
-我说了，道歉已经太晚了，太晚了
-我说了，道歉已经太晚了，太晚了
-
-#### 尾声
-
-我抓着你抛来的绳子不放
-把我吊在半空，脚不沾地
+把我吊在半空，离地十尺
 
 ## 重点表达 · Key Phrases
 

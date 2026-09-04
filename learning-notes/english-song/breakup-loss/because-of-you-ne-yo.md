@@ -64,16 +64,20 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Ooh, ooh, ooh, uh, no-no, oh-oh
 Ooh, wah-oh-oh-oh, ooh, wah-oh-oh-oh, woah
 Ooh
+
+#### 前奏
+
+哦，哦，哦，呃，不不不，哦哦
+哦，哇哦哦哦，哦，哇哦哦哦，哇
+哦
 
 #### Verse 1
 
@@ -86,12 +90,30 @@ I got a problem, and I (don't know what to do about it)
 Even if I did, I don't know if I would quit, but I doubt it
 I'm taken by the thought of it
 
+#### 主歌 1
+
+想停，却由不得自己，我爱这种感觉
+它把我卡在幻想与现实之间
+想要时就离不开，不需要时也惦记着
+天天对自己说会停，心里却清楚不会
+
+我有麻烦了，（不知该拿它怎么办）
+就算知道，也不确定会不会戒——我看未必
+光想想，我就已经沦陷
+
 #### Pre-Chorus
 
 And I know this much is true
 Baby, you have become my addiction
 I'm so strung out on you
 I can barely move, but I like it
+
+#### 预副歌
+
+有一点我知道千真万确
+宝贝，你已成了我的瘾
+我为你抽空了魂
+几乎动弹不得，可我喜欢这样
 
 #### Chorus
 
@@ -101,6 +123,15 @@ And it's all because of you (all because of you)
 And it's all because
 Never get enough
 She's the sweetest drug (ooh, ooh, ooh)
+
+#### 副歌
+
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为你（都是因为你）
+全是因为
+永远不够
+她是最甜的那剂药（哦，哦，哦）
 
 #### Verse 2
 
@@ -113,9 +144,32 @@ I got a problem, and I (don't know what to do about it)
 Even if I did, I don't know if I would quit, but I doubt it
 I'm taken by the thought of it, hey
 
+#### 主歌 2
+
+每一秒都在想，什么事都做不成
+唯一惦记的，是下一次何时再得到
+明知该远离，因为这对我没好处
+试了又试，执念却不放我走
+
+我有麻烦了，（不知该拿它怎么办）
+就算知道，也不确定会不会戒——我看未必
+光想想，我就已经沦陷，嘿
+
 #### Pre-Chorus（重复）
 
+*(同第一段预副歌)*
+
+#### 预副歌（重复）
+
+*(同第一段预副歌)*
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -132,6 +186,21 @@ And it's all because of you
 Oh, no, never get enough
 She's the sweetest drug
 
+#### 桥段
+
+毫无疑问（毫无疑问，嘿）
+整个人被抽空（被抽空，哦，嘿）
+毫无疑问（我说半点怀疑都没有，哦）
+整个人被抽空（嘿，诶，诶）
+为了你
+为了你（你）
+为了你（你，哦……）
+
+哦哦哦哇，因为你
+全是因为你
+哦不，永远不够
+她是最甜的那剂药
+
 #### Final Pre-Chorus / Chorus
 
 And I know this much is true
@@ -147,91 +216,20 @@ Never get enough (never get enough)
 She's the sweetest drug
 She's the sweetest drug
 
----
+#### 终段预副歌 / 副歌
 
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-哦，哦，哦……
-哦，哇哦……
-哦
-
-#### 主歌 1
-
-想停，但忍不住，我爱这种感觉
-这让我困在幻想与现实之间
-想要时需要，不需要时也想要
-每天告诉自己会停，心里却知道不会
-
-我有个问题，（不知该怎么办）
-就算知道，也不确定会不会戒，我表示怀疑
-光想想我就沦陷了
-
-#### 预副歌
-
-而我很清楚这一点
-宝贝，你已成我的瘾
-我为你神魂颠倒
-几乎动弹不得，但我喜欢
-
-#### 副歌
-
-全是因为你（都是因为你）
-全是因为你（都是因为你）
-全是因为你（都是因为你）
-全是因为
-永远不够
-她是最甜的那种药（哦，哦，哦）
-
-#### 主歌 2
-
-每秒都在想，什么事都做不成
-唯一惦记的是下次什么时候再得到
-知道该远离，因为对我不利
-一再尝试，执念却不让我离开
-
-我有个问题，（不知该怎么办）
-就算知道，也不确定会不会戒，我表示怀疑
-光想想我就沦陷了，嘿
-
-#### 预副歌（重复）
-
-*(同第一段)*
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-毫无疑问（毫无疑问，嘿）
-神魂颠倒（神魂颠倒，哦，嘿）
-毫无疑问（我说毫无怀疑，哦）
-神魂颠倒（嘿，诶，诶）
-为你
-为你（你）
-为你（你，哦……）
-
-哦哦哦哇，因为你
-全是因为你
-哦不，永远不够
-她是最甜的那种药
-
-#### Final 预副歌 / 副歌
-
-而我很清楚这一点
-宝贝，你已成我的瘾（我的瘾）
-我为你神魂颠倒
-几乎动弹不得，但我喜欢（但我喜欢，耶）
+有一点我知道千真万确
+宝贝，你已成了我的瘾（我的瘾）
+我为你抽空了魂
+几乎动弹不得，可我喜欢这样（可我喜欢，耶）
 
 全是因为你（都是因为你）
 全是因为你（都是因为你）
 全是因为你（都是因为你）
 全是因为
 永远不够（永远不够）
-她是最甜的那种药
-她是最甜的那种药
+她是最甜的那剂药
+她是最甜的那剂药
 
 ## 重点表达 · Key Phrases
 

@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,13 @@ Ended up on a broken train with nobody I know
 But the pain and the longing's the same when you're dying
 Now I'm lost, and I'm screaming for help alone
 
+#### 主歌 1
+
+坐到线路尽头，没人会去的那种地方
+上了一列坏掉的车，周围没有一个认识的人
+可快撑不住时，痛苦与思念都一个样
+如今我迷了路，独自尖叫着求救
+
 #### Chorus
 
 Relax, take it easy
@@ -82,12 +87,26 @@ For there is nothing that we can do
 Relax, take it easy
 Blame it on me or blame it on you
 
+#### 副歌
+
+放松，别紧张
+因为我们无能为力
+放松，别紧张
+怪我也好，怪你也罢
+
 #### Verse 2
 
 It's as if I'm scared, it's as if I'm terrified
 It's as if I'm scared, it's as if I'm playing with fire
 Scared, it's as if I'm terrified
 Are you scared? Are we playing with fire?
+
+#### 主歌 2
+
+好像我很害怕，好像我怕极了
+好像我很害怕，好像在玩火
+害怕，好像我怕极了
+你怕吗？我们是在玩火吗？
 
 #### Bridge
 
@@ -98,12 +117,28 @@ But the last thing on my mind is to leave you
 I believe that we're in this together
 Don't scream, there are so many roads left
 
+#### 桥段
+
+放松（爱）
+最暗的时刻，也有答案
+显然我们还不明白
+可我最不想做的，就是离开你
+我相信我们同舟共济
+别尖叫，前面还有很多条路
+
 #### Chorus（重复）
 
 Relax, take it easy
 For there is nothing that we can do
 Relax, take it easy
 Blame it on me or blame it on you
+
+#### 副歌（重复）
+
+放松，别紧张
+因为我们无能为力
+放松，别紧张
+怪我也好，怪你也罢
 
 #### Verse 2（重复）
 
@@ -112,62 +147,19 @@ It's as if I'm scared, it's as if I'm playing with fire (relax)
 Scared, it's as if I'm terrified
 Are you scared? Are we playing with fire?
 
+#### 主歌 2（重复）
+
+好像我很害怕（放松），好像我怕极了
+好像我很害怕，好像在玩火（放松）
+害怕，好像我怕极了
+你怕吗？我们是在玩火吗？
+
 #### Outro
 
 Relax
 Relax
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-搭车坐到线路尽头，没人会去的那种地方
-上了一列坏掉的车，周围没有一个认识的人
-但痛苦与 longing 在你「快撑不住」时都一样
-现在我迷失了，独自尖叫着求救
-
-#### 副歌
-
-放松，别紧张
-因为我们无能为力
-放松，别紧张
-怪我也好，怪你也罢
-
-#### 主歌 2
-
-好像我很害怕，好像我 terrified
-好像我很害怕，好像在玩火
-害怕，好像我 terrified
-你怕吗？我们是在玩火吗？
-
-#### 桥段
-
-放松（爱）
-最黑暗的时刻也有答案
-显然我们还不明白
-但我最不想做的就是离开你
-我相信我们同舟共济
-别尖叫，前面还有很多条路
-
-#### 副歌（重复）
-
-*(副歌重复多遍；结构与第一段副歌相同)*
-
-放松，别紧张
-因为我们无能为力
-放松，别紧张
-怪我也好，怪你也罢
-
-#### 主歌 2（重复）
-
-好像我很害怕（放松），好像我 terrified
-好像我很害怕，好像在玩火（放松）
-害怕，好像我 terrified
-你怕吗？我们是在玩火吗？
-
-#### 尾声
+#### 尾奏
 
 放松
 放松

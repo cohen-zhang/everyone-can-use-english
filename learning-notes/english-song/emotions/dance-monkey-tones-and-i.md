@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -71,12 +69,26 @@ They say, "Oh my God, I see the way you shine"
 You know you stopped me dead while I was passing by
 And now I beg to see you dance just one more time
 
+#### 主歌 1
+
+他们说：「天哪，我看见你发光的样子」
+「亲爱的，把双手放进我掌心」
+你知道，我路过时被你钉在原地
+如今我恳求，再看你跳一次
+
 #### Pre-Chorus
 
 Ooh, I see you, see you, see you every time
 And oh my, I, I, I like your style
 You, you make me, make me, make me wanna cry
 And now I beg to see you dance just one more time
+
+#### 预副歌
+
+哦，我每次都能看见你、看见你、看见你
+哦天哪，我、我、我好喜欢你的风格
+你、你让我、让我、让我想哭
+如今我恳求，再看你跳一次
 
 #### Chorus
 
@@ -87,6 +99,15 @@ They say
 "Move for me, move for me, move for me, ayy-ayy-ayy
 And when you're done, I'll make you do it all again"
 
+#### 副歌
+
+于是他们说
+「为我跳，为我跳，为我跳，哦哦哦
+从没见过有人像你这样做」
+他们说
+「为我动，为我动，为我动，哎哎哎
+等你跳完，我会让你再来一遍」
+
 #### Verse 2
 
 I said, "Oh my God, I see you walking by"
@@ -94,11 +115,26 @@ I said, "Oh my God, I see you walking by"
 Just like a monkey, I've been dancin' my whole life
 But you just beg to see me dance just one more time
 
+#### 主歌 2
+
+我说：「天哪，我看见你走过」
+「亲爱的，握住我的手，看着我的眼睛」
+像一只猴子，我跳了一辈子
+可你只是恳求，再看我跳一次
+
 #### Pre-Chorus（重复）
 
 *(同第一段 Pre-Chorus)*
 
+#### 预副歌（重复）
+
+*(同第一段预副歌)*
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Extended Chorus
 
@@ -109,65 +145,26 @@ They say
 "Move for me, move for me, move for me, ayy-ayy-ayy
 And when you're done, I'll make you do it all again"
 
+#### 加长副歌
+
+他们说
+「为我跳，为我跳，为我跳，哦哦哦，哦哦，哦哦
+从没见过有人像你这样做」
+他们说
+「为我动，为我动，为我动，哎哎哎
+等你跳完，我会让你再来一遍」
+
 #### Outro
 
 Ooh, ooh, ooh, ooh, ooh *(do it all again…)*
 Whoa-oh, whoa-oh, oh
 *(Chorus 片段重复至 *All again* 结尾)*
 
----
+#### 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-他们说：「天哪，我看见你发光的样子」
-「亲爱的，把手放在我手心里」
-你知道你在我路过时让我猛然停步
-现在我恳求再看你跳一次
-
-#### 预副歌
-
-哦，我每次都能看见你
-哦天哪，我、我、我好喜欢你的风格
-你、你、你让我、让我、让我想哭
-现在我恳求再看你跳一次
-
-#### 副歌
-
-于是他们说
-「为我跳舞，为我跳舞，为我跳舞，哦哦哦
-我从没见过有人像你这样做」
-他们说
-「为我动起来，为我动起来，哎哎哎
-等你跳完，我会让你再来一遍」
-
-#### 主歌 2
-
-我说：「天哪，我看见你走过」
-「亲爱的，握住我的手，看着我的眼睛」
-就像一只猴子，我一辈子都在跳舞
-可你只是恳求再看我跳一次
-
-#### 预副歌（重复）
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### Extended 副歌
-
-他们说
-「为我跳舞……哦哦哦，哦哦，哦哦
-我从没见过有人像你这样做」
-他们说
-「为我动起来……哎哎哎
-等你跳完，我会让你再来一遍」
-
-#### 尾声
-
-哦哦哦……（再来一遍……）
+哦，哦，哦，哦，哦（再来一遍……）
 哇哦，哇哦，哦
+（副歌片段重复至「再来一遍」结尾）
 
 ## 重点表达 · Key Phrases
 

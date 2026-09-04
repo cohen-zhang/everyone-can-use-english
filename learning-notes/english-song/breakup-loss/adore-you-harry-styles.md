@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,6 +75,17 @@ You don't have to say you love me
 You don't have to say nothing
 You don't have to say you're mine
 
+#### 主歌 1
+
+走进你的彩虹天堂（天堂）
+草莓唇膏般的心境（心境）
+在你眼里我彻底迷失
+你信吗？
+
+你不必说爱我
+你什么都不用说
+你不必说你是我的
+
 #### Chorus
 
 Honey (ah)
@@ -88,6 +97,17 @@ Just let me adore you
 Like it's the only thing I'll ever do
 Like it's the only thing I'll ever do
 
+#### 副歌
+
+亲爱的（啊）
+我愿意为你赴汤蹈火
+只要让我倾慕你
+哦，亲爱的（啊）
+我愿意为你赴汤蹈火
+只要让我倾慕你
+像这是我唯一会做的事
+像这是我唯一会做的事
+
 #### Verse 2
 
 Your wonder under summer skies (summer skies)
@@ -98,7 +118,19 @@ You don't have to say you love me
 I just wanna tell you something
 Lately, you've been on my mind
 
+#### 主歌 2
+
+夏日天空下你的美好（夏日天空）
+棕肤与加冰的柠檬
+你信吗？
+
+你不必说爱我
+我只想告诉你一件事
+最近，你一直在脑海里
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Bridge / Outro
 
@@ -117,50 +149,9 @@ Ooh, ooh
 Just let me adore you
 Like it's the only thing I'll ever do
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-走进你的彩虹天堂（天堂）
-草莓唇膏般的心境（心境）
-在你眼里我彻底迷失
-你信吗？
-
-你不必说爱我
-你什么都不用说
-你不必说你是我的
-
-#### 副歌
-
-亲爱的（啊）
-我愿意为你赴汤蹈火
-只要让我倾慕你
-哦，亲爱的（啊）
-我愿意为你赴汤蹈火
-只要让我倾慕你
-像这是我唯一会做的事
-像这是我唯一会做的事
-
-#### 主歌 2
-
-夏日天空下你的美好（夏日天空）
-棕肤与加冰的柠檬
-你信吗？
-
-你不必说爱我
-我只想告诉你一件事
-最近，你一直在脑海里
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段 / 尾声
+#### 桥段 / 尾奏
 
 这是我唯一会做的事
-*(重复多遍，渐弱)*  
 
 我愿意为你赴汤蹈火
 只要让我倾慕你

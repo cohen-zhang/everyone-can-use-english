@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,15 @@ Oh, you're a hard one
 I know that you got your reasons
 These things that are pleasin' you
 Can hurt you somehow
+
+#### 主歌 1
+
+亡命徒啊，你怎么还不醒悟
+你沿着围栏骑了这么久
+哦，你真是个硬心肠
+我知道你有你的理由
+那些让你快活的事
+终会伤到你
 
 #### Verse 2
 
@@ -86,12 +93,29 @@ Have been laid upon your table
 But you only want the ones
 That you can't get
 
+#### 主歌 2
+
+别去抽方块王后啊，孩子
+她若能赢，就会把你击败
+你知道红心王后，才是最稳的选择
+在我看来，有些好东西
+早已摆上你的桌
+可你只要
+那些你得不到的
+
 #### Chorus
 
 Desperado, oh, you ain't getting no younger
 Your pain and your hunger, they're driving you home
 And freedom, oh freedom, well that's just some people talking
 Your prison is walking through this world all alone
+
+#### 副歌
+
+亡命徒啊，哦，你不再年轻了
+痛苦与饥渴，正驱着你回家
+而自由，哦自由，不过是些人的空谈
+你的牢笼，就是独自走完这人世
 
 #### Bridge
 
@@ -100,6 +124,14 @@ The sky won't snow and the sun won't shine
 It's hard to tell the night time from the day
 And you're losing all your highs and lows
 Ain't it funny how the feeling goes away
+
+#### 桥段
+
+冬天里，你的脚不会冷吗
+天不下雪，太阳也不照
+昼与夜已难以分辨
+你正失去所有的起落悲喜
+感觉就这么淡去，难道不讽刺吗
 
 #### Verse 3 · Outro
 
@@ -111,55 +143,15 @@ Let somebody love you
 You better let somebody love you
 Before it's too late
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
+#### 主歌 3 · 尾奏
 
 亡命徒啊，你怎么还不醒悟
-你骑 fence 巡逻已经太久
-哦，你真是个硬心肠
-我知道你有你的理由
-那些让你快活的事
-总有一天会伤到你
-
-#### 主歌 2
-
-别去抽方块 Q 啊，孩子
-她要是能赢，就会把你击败
-你知道红心 Q 永远是你最好的选择
-在我看来，有些好东西
-已经摆在你面前的桌上
-可你只想要
-那些你得不到的
-
-#### 副歌
-
-亡命徒啊，哦，你不再年轻了
-你的痛苦与饥渴，正驱使你回家
-而自由，哦自由，那不过是些人的空谈
-你的牢笼，就是独自在这世上行走
-
-#### 桥段
-
-冬天里你的脚不会冷吗
-天不下雪，太阳也不照耀
-昼与夜已难以分辨
-你正失去所有的高低起伏
-感觉就这么消失，难道不讽刺吗
-
-#### 主歌 3 · 尾声
-
-亡命徒啊，你怎么还不醒悟
-从 fence 上下来，把门打开
-也许正在下雨，但你头顶有彩虹
-你最好让别人来爱你
-让别人来爱你
-你最好让别人来爱你
+从围栏上下来，把门打开
+也许正在下雨，可你头顶有彩虹
+你最好让人来爱你
+让人来爱你
+你最好让人来爱你
 趁还来得及
-
----
 
 ## 重点表达 · Key Phrases
 

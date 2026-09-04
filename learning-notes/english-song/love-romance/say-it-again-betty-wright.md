@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus（开篇）
 
@@ -75,6 +73,18 @@ Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me, ummm
 
+#### 副歌（开篇）
+
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信自己听对了
+你是不是说你爱我，嗯
+
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信自己听对了
+你是不是说你爱我，嗯
+
 #### Verse 1
 
 We've been friends, real close friends for a long time
@@ -83,9 +93,21 @@ Actions speak louder than words
 I was sure you said it right when you said last night
 I love you, ow
 
+#### 主歌 1
+
+我们是朋友，很久以来非常亲密的朋友
+我看得出你心里压着一件沉重的事
+行动比言语更有力
+昨晚你说的时候，我确定你没说错
+我爱你，哦
+
 #### Chorus
 
 Say it again and again and again and again
+
+#### 副歌
+
+再说一遍，一遍又一遍
 
 #### Verse 2
 
@@ -95,6 +117,14 @@ Hold me, tell me what's on your mind
 I'll always have the time to hear the words
 I love you (Ah)
 
+#### 主歌 2
+
+坐在这儿，你的脑子乱成一团
+别害怕，让这段感情开始吧
+抱着我，告诉我你在想什么
+我永远有时间听你说
+我爱你（啊）
+
 #### Chorus（重复）
 
 Say it again, ooh honey
@@ -103,11 +133,25 @@ I don't believe I heard you right
 Did you say you love me
 Say it again and again and again and again
 
+#### 副歌（重复）
+
+再说一遍，哦亲爱的
+请再为我多说一次
+我不敢相信自己听对了
+你是不是说你爱我
+再说一遍，一遍又一遍
+
 #### Bridge
 
 Oh, hold me, tell me what's on your mind
 I'll always have the time to hear the words
 I love you (Ah)
+
+#### 桥段
+
+哦，抱着我，告诉我你在想什么
+我永远有时间听你说
+我爱你（啊）
 
 #### Outro
 
@@ -119,65 +163,14 @@ I need to hear you say you love me
 Come on, come on, come on say it again
 Oh, I love you come on, come on
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌（开篇）
-
-再说一遍，哦亲爱的
-请再为我多说一次
-我不敢相信我听对了
-你是不是说你爱我，嗯
-
-再说一遍，哦亲爱的
-请再为我多说一次
-我不敢相信我听对了
-你是不是说你爱我，嗯
-
-#### 主歌 1
-
-我们是朋友，很久以来非常亲密的朋友
-我看得出你心里有件沉重的事
-行动比言语更有力
-昨晚你说的时候，我确定你没说错（指昨晚表白）
-我爱你，哦
-
-#### 副歌
-
-*(同开篇副歌)*
-
-再说一遍，一遍又一遍
-
-#### 主歌 2
-
-坐在这儿，你的脑子乱成一团
-别害怕，让这段感情开始吧
-抱着我，告诉我你在想什么
-我永远有时间听你说
-我爱你（啊）
-
-#### 副歌（重复）
-
-再说一遍，哦亲爱的
-请再为我多说一次
-我不敢相信我听对了
-你是不是说你爱我
-再说一遍，一遍又一遍
-
-#### 桥段
-
-哦，抱着我，告诉我你在想什么
-我永远有时间听你说
-我爱你（啊）
-
-#### 尾声
+#### 尾奏
 
 我是不是听到你说爱我
 我是不是听到你说，你爱我，哦
 
+*(副歌与即兴重复至结尾)*
 我需要听你说爱我
-来吧，来吧，再说一遍
+来吧，来吧，来吧，再说一遍
 哦，我爱你，来吧，来吧
 
 ## 重点表达 · Key Phrases

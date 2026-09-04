@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,11 +75,27 @@ Looking at the clouds and they seem kinda funny
 Probably gonna rain but my outlook is sunny
 I'll just imagine that I'm laying out in Mexico
 
+#### 主歌 1
+
+从后视镜里看着警察
+本该停车，但人行横道是空的
+我就当那是张百老汇演出的票
+
+望着云，它们看起来有点好笑
+可能要下雨，但我心里是晴的
+我就当自己在墨西哥晒太阳
+
 #### Pre-Chorus
 
 'Cause I know that pleasures gotta come with pain
 And I know that things won't always go my way
 And I know that life is gonna suck some days
+
+#### 预副歌
+
+因为我知道快乐总得伴随痛苦
+我知道事情不会总顺我的意
+我知道有些天生活会很糟
 
 #### Chorus
 
@@ -98,6 +112,21 @@ And I know the cookie's gonna crumble
 And I know that life is gonna suck some days
 But I can't complain
 
+#### 副歌
+
+但我不能抱怨
+我不能抱怨
+每一天都太短，不能白白浪费
+现在我不能抱怨
+我不能抱怨
+你得把每一天都当假期来过
+
+我告诉你
+我知道有些天我会绊倒
+我知道好运也会碎
+我知道有些天生活会很糟
+但我不能抱怨
+
 #### Verse 2
 
 Waiting on a never ending train at the crossing
@@ -108,9 +137,23 @@ Spending Christmas Eve on the floor of the airport
 Dying to get back to the people that I care for
 Smiling just dreaming about my puppy in my bed back home
 
+#### 主歌 2
+
+在道口等一列永远不来的火车
+毫不在意，因为你一直在说话
+我们就当这是美好旧时光，慢慢来
+
+圣诞夜睡在机场地板上
+迫不及待想回到我在乎的人身边
+微笑着幻想家里床上的小狗
+
 #### Pre-Chorus & Chorus（重复）
 
 *(同 Verse 1 后的 Pre-Chorus 与 Chorus)*
+
+#### 预副歌 & 副歌（重复）
+
+*(同主歌 1 后的预副歌与副歌)*
 
 #### Bridge
 
@@ -123,6 +166,18 @@ I can't complain
 Oh oh oh oh oh
 Oh oh oh oh oh
 Don't let it go to waste
+
+#### 桥段
+
+如果你说不出好话
+那就别说话
+如果你停下来想，总能想出点什么
+在艰难时让你感觉好一点的；没关系
+
+我不能抱怨
+哦哦哦哦哦
+哦哦哦哦哦
+别让它白白浪费
 
 #### Final Chorus
 
@@ -139,65 +194,6 @@ And I know the cookie's gonna crumble
 And I know that life is gonna suck some days
 But I can't complain
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-从后视镜里看着警察
-本该停车，但人行横道是空的
-我就当那是张百老汇演出的票
-
-望着云，它们看起来有点好笑
-可能要下雨，但我的 outlook 是晴朗的
-我就当自己在墨西哥晒太阳
-
-#### 预副歌
-
-因为我知道快乐总得伴随痛苦
-我知道事情不会总顺我的意
-我知道有些日子生活会很糟
-
-#### 副歌
-
-但我不能抱怨
-我不能抱怨
-每一天都太短，不能白白浪费
-现在我不能抱怨
-我不能抱怨
-你得把每一天都当假期来过
-
-我告诉你
-我知道有些天我会绊倒
-我知道饼干会碎掉
-我知道有些日子生活会很糟
-但我不能抱怨
-
-#### 主歌 2
-
-在道口等一列永远不来的火车
-毫不在意，因为你一直在说话
-我们就当这是美好旧时光，慢慢来
-
-圣诞夜睡在机场地板上
-迫不及待想回到我在乎的人身边
-微笑着幻想家里床上的小狗
-
-#### 预副歌 & 副歌（重复）
-
-#### 桥段
-
-如果你说不出好话
-那就别说话
-如果你停下来想，总能想出点什么
-在艰难时让你感觉好一点的；没关系
-
-我不能抱怨
-哦哦哦哦哦
-哦哦哦哦哦
-别让它白白浪费
-
 #### 终段副歌
 
 现在我不能抱怨
@@ -209,8 +205,8 @@ But I can't complain
 
 我告诉你
 我知道有些天我会绊倒
-我知道饼干会碎掉
-我知道有些日子生活会很糟
+我知道好运也会碎
+我知道有些天生活会很糟
 但我不能抱怨
 
 ## 重点表达 · Key Phrases

@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,17 @@ It won't be long
 Before I get you by my side
 And just hold you, tease you
 Squeeze you, tell you what's been on my mind
+
+#### 主歌 1
+
+已经太久了
+久到没再见过你的脸
+我努力撑着
+可那点力气正在流失
+不会太久了
+就能把你留在身边
+抱着你、逗你
+紧拥你，把一直压在心里的话告诉你
 
 #### Chorus
 
@@ -89,6 +98,18 @@ I wanna make up right now, na-na
 Wish we never broke up right now, na-na
 We need to link up right now, na-na
 
+#### 副歌
+
+我现在就想和好，呐呐
+我现在就想和好，呐呐
+真希望我们从没分开，呐呐
+我们现在就得接上，呐呐
+
+我现在就想和好，呐呐
+我现在就想和好，呐呐
+真希望我们从没分开，呐呐
+我们现在就得接上，呐呐
+
 #### Verse 2
 
 Girl, I know, mistakes were made between us two
@@ -99,7 +120,23 @@ I haven't seen my girl since then
 Why can't it be the way it was?
 You were my homie, lover, friend
 
+#### 主歌 2
+
+女孩，我知道我们俩都做错了
+那晚眼里都写满了情绪
+还说了些不是真心的话
+你为什么走了？
+从那以后我再没见过我的女孩
+为什么不能回到从前那样？
+你曾是我的哥们、爱人、朋友
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -107,6 +144,13 @@ I want you to fly with me
 I miss how you lie with me
 Just wish you could dine with me
 The one that'll grind with me, grind with me, yeah
+
+#### 桥段
+
+我想带你一起飞
+我怀念你挨着我躺下的样子
+只希望你能和我共进晚餐
+那个愿与我厮守的人，愿与我厮守，yeah
 
 #### Final Chorus
 
@@ -116,61 +160,13 @@ I wanna make up right now, na-na
 Wish we never broke up right now, na-na
 We need to link up right now, na-na
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-好久好久
-没见过你的脸
-我努力坚强
-可那点力气正在流失
-不会太久了
-就能把你留在我身边
-抱着你、逗你
-紧抱你，告诉你我心里一直想的事
-
-#### 副歌
-
-我现在就想和好，呐呐
-我现在就想和好，呐呐
-真希望我们从没分手，呐呐
-我们现在就得联系，呐呐
-
-我现在就想和好，呐呐
-我现在就想和好，呐呐
-真希望我们从没分手，呐呐
-我们现在就得联系，呐呐
-
-#### 主歌 2
-
-女孩，我知道我们俩之间犯了错
-那晚我们眼里都写满了情绪
-还说了些不是真心的话
-你为什么走了？
-从那以后我再没见过我的女孩
-为什么不能回到从前？
-你曾是我的哥们、爱人、朋友
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-我想和你一起飞
-我怀念你和我躺在一起
-只希望你能和我共进晚餐
-那个愿与我厮守的人，愿与我厮守，yeah
-
 #### 终段副歌
 
 现在就需要你，现在，呐呐呐呐呐
 哦，我现在就想和好，呐呐
 我现在就想和好，呐呐
-真希望我们从没分手，呐呐
-我们现在就得联系，呐呐
+真希望我们从没分开，呐呐
+我们现在就得接上，呐呐
 
 ## 重点表达 · Key Phrases
 

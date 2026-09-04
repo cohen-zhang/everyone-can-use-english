@@ -58,10 +58,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,19 @@ I heard the sounds
 But couldn't hear anything at all
 And the fear took over
 
+#### 主歌 1
+
+那时我有一套办法
+却独自把一切都弄丢
+那时我也有过一颗心
+可「女王」把它撕碎
+再一脚踩灭
+当她「升温」的时候
+
+我听见声响
+却什么也听不清
+恐惧占了上风
+
 #### Pre-Chorus
 
 From finding you
@@ -84,6 +95,15 @@ And I thought that I was strong
 But I can't breathe when you're not near
 So tell me how to fix this
 Did I make a mistake?
+
+#### 预副歌
+
+从找到你开始
+起初你把我搂进怀里
+我以为自己足够坚强
+可你不在身边，我就无法呼吸
+告诉我该怎么补救
+是我做错了吗？
 
 #### Chorus
 
@@ -98,6 +118,19 @@ Something inside of me
 I need to shine a light when all it is is dark
 I need to shine a light when all it is is dark
 
+#### 副歌
+
+你亮起的光，让我不至于变成石头
+我独处时，你仍照着我
+于是我告诉自己要坚强
+它们消失时，便坠入梦里
+因为它们在呼唤、呼唤、唤我回家
+唤我、唤我回家
+我无法假装谁都不是什么
+我体内有某种东西
+四周一片漆黑时，我需要点亮一束光
+四周一片漆黑时，我需要点亮一束光
+
 #### Verse 2
 
 And I don't really know what I'm doing
@@ -105,7 +138,18 @@ And I don't really know why
 And I don't really know what's going on
 And I think I won't until I fall asleep again
 
+#### 主歌 2
+
+我真的不知道自己在做什么
+也不知道为什么
+更不知道发生了什么
+我想，只有再次入睡才会明白
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -117,67 +161,17 @@ And when the lights go down
 In this house on this hill
 No one ever saved me but you
 
-#### Final Chorus
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我曾经有一套办法
-却独自把一切都弄丢
-我也曾有过一颗心
-但「女王」把它撕碎
-再一脚踩灭
-当她「升温」的时候
-
-我听见声响
-却什么也听不清
-恐惧占了上风
-
-#### 预副歌
-
-从找到你开始
-起初你把我搂进怀里
-我以为自己足够坚强
-可你不在身边我就无法呼吸
-告诉我怎么补救
-是我犯错了吗？
-
-#### 副歌
-
-你亮起的光让我不至于变成石头
-我独处时你仍照耀我
-于是我告诉自己要坚强
-它们消失时便进入梦境
-因为它们在呼唤、呼唤、唤我回家
-唤我、唤我回家
-我无法假装「谁都不是什么」
-我体内有某种东西
-当四周一片漆黑，我需要点亮一束光
-当四周一片漆黑，我需要点亮一束光
-
-#### 主歌 2
-
-我真的不知道自己在做什么
-也不知道为什么
-更不知道发生了什么
-我想只有再次入睡才会明白
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
 #### 桥段
 
-星星、街灯、月光
-但你眼中的光，也许某天会再见到你
+星星、街灯、月上的光
+可你眼中的光，也许某天会再见到你
 在这山顶上的这栋房子里
 除了你，没人救过我
 当灯光熄灭
 在这山顶上的这栋房子里
 除了你，没人救过我
+
+#### Final Chorus
 
 #### 终段副歌
 

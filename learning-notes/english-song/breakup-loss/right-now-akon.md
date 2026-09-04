@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -73,6 +71,16 @@ But the strength I have is washing away
 It wont be long before I get you by my side
 And just hold you, tease you, squeeze you
 Tell you what's been on my mind
+
+#### 主歌 1
+
+已经太久了
+久到没再见过你的脸
+我努力撑着
+可那点力气正在流失
+不久就能把你留在身边
+抱着你、逗你、紧拥你
+把一直压在心里的话告诉你
 
 #### Chorus
 
@@ -86,6 +94,18 @@ I wanna make right now na na
 Wish we never broke up right now na na
 We need to link up right now na na
 
+#### 副歌
+
+我现在就想和好呐呐
+我现在就想和好呐呐
+真希望我们从没分开呐呐
+我们现在就得接上呐呐
+
+我现在就想和好呐呐
+我现在就想（和好）呐呐
+真希望我们从没分开呐呐
+我们现在就得接上呐呐
+
 #### Verse 2
 
 Girl I know, mistakes were made between us two
@@ -94,7 +114,21 @@ Why'd you go and haven't seen my girl since then
 Why can't it be the way it was
 'Cause you were my homie, lover and friend
 
+#### 主歌 2
+
+女孩，我知道我们俩都做错了
+那晚我们出尽洋相，还说了些不是真心的话
+你为什么走了，从此我再没见过我的女孩
+为什么不能回到从前那样
+因为你曾是我的哥们、爱人，也是朋友
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge 1
 
@@ -108,6 +142,18 @@ Yes I miss you much
 Girl I miss you much
 I miss you much
 
+#### 桥段 1
+
+我不想撒谎
+我太想你了
+看着一天天过去
+我太想你了
+在把你追回来之前我都会哭
+是啊，我太想你了
+因为你是我眼里的珍宝
+女孩，我太想你了
+我太想你了
+
 #### Bridge 1（重复，略有变词）
 
 I can't lie
@@ -120,6 +166,18 @@ Yes you are the apple of my eye
 Girl I miss you much
 I miss you much
 
+#### 桥段 1（重复，略有变词）
+
+我不想撒谎
+我太想你了
+看着一天天过去
+我太想你了
+在把你追回来之前我都会哭
+是啊，我太想你了
+是啊，你是我眼里的珍宝
+女孩，我太想你了
+我太想你了
+
 #### Bridge 2
 
 I want you to fly with me
@@ -131,6 +189,17 @@ Wish you could dine with me
 One that would grind with me
 One that would grind with me
 
+#### 桥段 2
+
+我想带你一起飞
+想和你一起飞
+我怀念你挨着我躺下的样子
+怀念你挨着我躺着
+只希望你能和我共进晚餐
+希望你能和我共进晚餐
+那个愿与我厮守的人
+那个愿与我厮守的人
+
 #### Bridge 2（重复）
 
 I want you to fly with me
@@ -141,6 +210,17 @@ Just wish you could dine with me
 Wish you could dine
 One that would grind with me
 Oh one that would grind
+
+#### 桥段 2（重复）
+
+我想带你一起飞
+想和你一起飞
+我怀念你挨着我躺下的样子
+哦，怀念你挨着我躺着
+只希望你能和我共进晚餐
+希望你能共进晚餐
+那个愿与我厮守的人
+哦，那个愿与我厮守的人
 
 #### Chorus（结尾）
 
@@ -154,103 +234,17 @@ I wanna make up right now na na
 Wish we never broke up right now na na
 We need to link up right now na na
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-好久好久
-没见过你的脸
-我努力坚强
-可那点力气正在流失
-不久就能把你留在我身边
-抱着你、逗你、紧抱你
-告诉你我心里一直想的事
-
-#### 副歌
-
-我现在就想和好呐呐
-我现在就想和好呐呐
-真希望我们从没分手呐呐
-我们现在就得联系呐呐
-
-我现在就想和好呐呐
-我现在就想（和好）呐呐
-真希望我们从没分手呐呐
-我们现在就得联系呐呐
-
-#### 主歌 2
-
-女孩，我知道我们之间犯了错
-那晚我们出尽丑态，还说了些不是真心的话
-你为什么走了，此后我再没见过我的女孩
-为什么不能回到从前
-因为你曾是我的哥们、爱人和朋友
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段 1
-
-我没法撒谎
-我太想你
-看着一天天过去
-我太想你
-直到你回来我都会哭
-是啊，我太想你
-因为你是我眼中的苹果
-女孩，我太想你
-我太想你
-
-#### 桥段 1（重复，略有变词）
-
-我没法撒谎
-我太想你
-看着一天天过去
-我太想你
-直到你回来我都会哭
-是啊，我太想你
-是啊，你是我眼中的苹果
-女孩，我太想你
-我太想你
-
-*(同第一段副歌)*
-
-#### 桥段 2
-
-我想和你一起飞
-想和你一起飞
-我怀念你和我躺在一起
-怀念你和我躺在一起
-只希望你能和我共进晚餐
-希望你能和我共进晚餐
-那个愿与我厮守的人
-那个愿与我厮守的人
-
-#### 桥段 2（重复）
-
-我想和你一起飞
-想和你一起飞
-我怀念你和我躺在一起
-哦，怀念你和我躺在一起
-只希望你能和我共进晚餐
-希望你能共进晚餐
-那个愿与我厮守的人
-哦，那个愿与我厮守的人
-
 #### 副歌（结尾）
 
 我现在就想和好呐呐
 我现在就想和好呐呐
-真希望我们从没分手呐呐
-我们现在就得联系呐呐
+真希望我们从没分开呐呐
+我们现在就得接上呐呐
 
 我现在就想和好呐呐
 我现在就想和好呐呐
-真希望我们从没分手呐呐
-我们现在就得联系呐呐
+真希望我们从没分开呐呐
+我们现在就得接上呐呐
 
 ## 重点表达 · Key Phrases
 

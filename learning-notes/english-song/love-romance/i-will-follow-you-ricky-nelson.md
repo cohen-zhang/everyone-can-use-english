@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -77,12 +75,32 @@ That near you, I always must be
 And nothing can keep you from me
 You are my destiny
 
+#### 主歌 1
+
+我会跟随你
+无论你走到哪里
+没有海深得能拦住我
+也没有山高得能把我隔开
+
+我必须跟随你
+自从你触碰我的手，我就知道
+我必须一直在你身边
+没有什么能把你从我身边夺走
+你是我的命中注定
+
 #### Chorus
 
 I love you, I love you, I love you
 And where you go I'll follow, I'll follow, I'll follow
 You'll always be my true love, my true love, my true love
 From now until forever, forever, forever
+
+#### 副歌
+
+我爱你，我爱你，我爱你
+你去哪儿，我就跟到哪儿
+你永远是我的真爱
+从此刻直到永远
 
 #### Verse 2
 
@@ -92,7 +110,19 @@ There isn't an ocean too deep
 A mountain so high it can keep
 Keep me away, away from my love
 
+#### 主歌 2
+
+我会跟随你
+无论你走到哪里
+没有海深得能拦住我
+也没有山高得
+把我隔开，远离我的爱人
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Verse 3 / Outro
 
@@ -104,51 +134,15 @@ Keep me away, away from my love
 
 And where you go I'll follow
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
+#### 主歌 3 / 尾奏
 
 我会跟随你
 无论你走到哪里
-没有海洋深得能
-没有山高得能把我隔开
-
-我必须跟随你
-自从你触碰我的手，我就知道
-我必须一直在你身边
-没有什么能把你从我这里夺走
-你是我的命中注定
-
-#### 副歌
-
-我爱你，我爱你，我爱你
-你去哪我就跟去哪
-你永远是我的真爱
-从现在直到永远
-
-#### 主歌 2
-
-我会跟随你
-无论你走到哪里
-没有海洋深得能
-没有山高得能
+没有海深得能拦住我
+也没有山高得
 把我隔开，远离我的爱人
 
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 3 / 尾声
-
-我会跟随你
-无论你走到哪里
-没有海洋深得能
-没有山高得能
-把我隔开，远离我的爱人
-
-你去哪我就跟去哪
+你去哪儿，我就跟到哪儿
 
 ## 重点表达 · Key Phrases
 

@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -79,6 +77,17 @@ See you make your way through the crowd
 And say, "Hello"
 Little did I know
 
+#### 主歌 1
+
+初次见你时，我们都还年轻
+我闭上眼，闪回开始
+我站在那里
+在阳台上，夏夜里
+看见灯火、派对、礼服
+看见你穿过人群
+说声「Hello」
+我哪里知道
+
 #### Pre-Chorus
 
 That you were Romeo, you were throwing pebbles
@@ -87,6 +96,14 @@ And I was crying on the staircase
 Begging you, "Please don't go"
 And I said
 
+#### 预副歌
+
+你就是 Romeo，在扔小石子
+爸爸却说：「离 Juliet 远点」
+我在楼梯上哭
+求你：「请不要走」
+我说
+
 #### Chorus
 
 Romeo, take me somewhere we can be alone
@@ -94,12 +111,26 @@ I'll be waiting, all there's left to do is run
 You'll be the prince, and I'll be the princess
 It's a love story, baby, just say yes
 
+#### 副歌
+
+Romeo，带我去能独处的地方
+我会等着，剩下的事就是奔跑
+你是王子，我是公主
+这是爱情故事，宝贝，只要说 yes
+
 #### Verse 2
 
 So I sneak out to the garden to see you
 We keep quiet 'cause we're dead if they knew
 So close your eyes
 Escape this town for a little while, oh, oh
+
+#### 主歌 2
+
+于是我溜去花园见你
+我们屏息，被发现了就完了
+那就闭上眼
+暂时逃离这座小镇，哦，哦
 
 #### Pre-Chorus 2
 
@@ -109,7 +140,19 @@ But you were everything to me
 I was begging you, "Please don't go"
 And I said
 
+#### 预副歌 2
+
+因为你是 Romeo，我却是「红字」
+爸爸又说：「离 Juliet 远点」
+可你是我的一切
+我求你：「请不要走」
+我说
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
@@ -119,6 +162,15 @@ Don't be afraid, we'll make it out of this mess
 It's a love story, baby, just say yes
 
 Oh, oh-oh
+
+#### 桥段
+
+Romeo，救救我，他们想告诉我该怎么感受
+这份爱很难，但是真的
+别害怕，我们会走出这团乱局
+这是爱情故事，宝贝，只要说 yes
+
+哦，哦——
 
 #### Verse 3
 
@@ -134,75 +186,6 @@ Is this in my head? I don't know what to think
 He knelt to the ground and pulled out a ring
 And said
 
-#### Final Chorus / Proposal
-
-Marry me, Juliet, you'll never have to be alone
-I love you, and that's all I really know
-I talked to your dad, go pick out a white dress
-It's a love story, baby, just say yes
-
-Oh, oh-oh
-Oh, oh-oh, oh
-'Cause we were both young when I first saw you
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-初次见你时我们都还年轻
-我闭上眼，闪回开始
-我站在那里
-在阳台上，夏夜里
-看见灯火、派对、礼服
-看见你穿过人群
-说声「Hello」
-我哪里知道
-
-#### 预副歌
-
-你就是 Romeo，在扔小石子
-爸爸却说：「离 Juliet 远点」
-我在楼梯上哭
-求你：「请不要走」
-我说
-
-#### 副歌
-
-Romeo，带我去能独处的地方
-我会等着，剩下的事就是奔跑
-你是王子，我是公主
-这是爱情故事，宝贝，只要说 yes
-
-#### 主歌 2
-
-于是我溜去花园见你
-我们屏息，被发现了就完了
-那就闭上眼
-暂时逃离这座小镇
-
-#### 预副歌 2
-
-因为你是 Romeo，我却是「红字」
-爸爸又说：「离 Juliet 远点」
-但你是我的一切
-我求你：「请不要走」
-我说
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-Romeo，救救我，他们想告诉我该怎么感受
-这份爱很难，但是真的
-别害怕，我们会走出这团乱局
-这是爱情故事，宝贝，只要说 yes
-
-哦，哦——
-
 #### 主歌 3
 
 我等累了
@@ -217,6 +200,17 @@ Romeo，救救我，我好孤独
 他跪地掏出一枚戒指
 他说
 
+#### Final Chorus / Proposal
+
+Marry me, Juliet, you'll never have to be alone
+I love you, and that's all I really know
+I talked to your dad, go pick out a white dress
+It's a love story, baby, just say yes
+
+Oh, oh-oh
+Oh, oh-oh, oh
+'Cause we were both young when I first saw you
+
 #### 终段副歌 / Proposal
 
 嫁给我吧 Juliet，你再也不用孤单
@@ -226,7 +220,7 @@ Romeo，救救我，我好孤独
 
 哦，哦——
 哦，哦——哦
-因为初次见你时我们都还年轻
+因为初次见你时，我们都还年轻
 
 ## 重点表达 · Key Phrases
 

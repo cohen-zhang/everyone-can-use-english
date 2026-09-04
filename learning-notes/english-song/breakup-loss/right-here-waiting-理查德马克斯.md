@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -74,6 +72,16 @@ But it doesn't stop the pain
 If I see you next to never
 How can we say forever?
 
+#### 主歌 1
+
+日复一日，远隔重洋
+我渐渐快要发疯
+在电话里听见你的声音
+却无法止住心痛
+
+若相见几乎无望
+我们怎能谈永远？
+
 #### Chorus
 
 Wherever you go
@@ -82,6 +90,15 @@ I will be right here waiting for you
 Whatever it takes
 Or how my heart breaks
 I will be right here waiting for you
+
+#### 副歌
+
+无论你去哪里
+无论你做什么
+我会就在这里等你
+无论付出什么代价
+无论我心如何破碎
+我会就在这里等你
 
 #### Verse 2
 
@@ -93,7 +110,19 @@ But I can't get near you now
 Oh, can't you see it, baby?
 You've got me going crazy
 
+#### 主歌 2
+
+我曾把那么多时光
+视作理所当然、以为会长久
+听见笑声，尝到泪水
+却此刻无法靠近你
+
+哦，难道你看不见吗，宝贝？
+你让我快要疯了
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Bridge
 
@@ -105,47 +134,6 @@ I'll take the chance
 Oh, can't you see it, baby?
 You've got me going crazy
 
-#### Final Chorus（重复至结尾）
-
-*(副歌重复多遍；结尾收在 Waiting for you)*
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-日复一日，远隔重洋
-我渐渐快要发疯
-在电话里听见你的声音
-却无法止住心痛
-
-若相见几乎无望
-我们怎能谈永远？
-
-#### 副歌
-
-无论你去哪里
-无论你做什么
-我会就在这里等你
-无论付出什么代价
-无论我心如何破碎
-我会就在这里等你
-
-#### 主歌 2
-
-我曾把那么多时光
-视作理所当然、以为会永远
-听见笑声，尝到泪水的咸
-却此刻无法靠近你
-
-哦，难道你看不见吗，宝贝？
-你让我快要疯了
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
 #### 桥段
 
 我不知道这段感情
@@ -156,7 +144,13 @@ You've got me going crazy
 哦，难道你看不见吗，宝贝？
 你让我快要疯了
 
+#### Final Chorus（重复至结尾）
+
+*(副歌重复多遍；结尾收在 Waiting for you)*
+
 #### 终段副歌（重复至结尾）
+
+*(副歌重复多遍；结尾收在 Waiting for you)*
 
 ## 重点表达 · Key Phrases
 

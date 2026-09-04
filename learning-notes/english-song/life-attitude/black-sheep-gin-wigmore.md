@@ -57,14 +57,16 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Oh, oh, oh, oh, oh, oh, oh
+
+#### 前奏
+
+哦，哦，哦，哦，哦，哦，哦
 
 #### Verse 1
 
@@ -75,6 +77,15 @@ And if I have to fall then it won't be in your line
 Everybody's doing it so why the hell should I
 Everybody's doing it so why the hell should I
 
+#### 主歌 1
+
+一堆吃醋的旧爱，都盼着把我追回来
+我这张嘴像把手枪，是我妈传给我的
+碎石掺着酒，我自己铺一条路
+就算要跌倒，也不会倒在你划的线里
+大家都在这么做，我他妈凭什么跟
+大家都在这么做，我他妈凭什么跟
+
 #### Chorus
 
 I'm a bad woman to keep
@@ -83,42 +94,6 @@ Paint me in a corner but my color comes back
 Once you go black, you never go back
 I'm a black sheep
 I'm a black sheep
-
-#### Verse 2
-
-I wasn't born a beauty queen but I'm okay with that
-Maybe radio won't mind if I sing a little flat
-I wear my boots to bed, hang a cross up on the wall
-To save me from a shallow grave who wants to take us all
-Everybody's doing it so why the hell should I
-Everybody's doing it so why the hell should I
-
-#### Chorus（重复）
-
-#### Outro
-
-I'm a black sheep
-I'm a black sheep
-*(First four lines of Verse 1 + chorus core repeated)*  
-Once you go black, you never go back
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-哦，哦，哦……
-*(重复四轮，营造蓄势感)*
-
-#### 主歌 1
-
-一堆吃醋的前任，都想把我追回来
-我这张嘴像把手枪，我妈遗传给我的
-我用碎石和酒，自己铺一条路
-就算要跌倒，也不会倒在你划的线里
-大家都在这么做，我他妈凭什么也要
-大家都在这么做，我他妈凭什么也要
 
 #### 副歌
 
@@ -129,25 +104,43 @@ Once you go black, you never go back
 我是那只黑羊
 我是那只黑羊
 
+#### Verse 2
+
+I wasn't born a beauty queen but I'm okay with that
+Maybe radio won't mind if I sing a little flat
+I wear my boots to bed, hang a cross up on the wall
+To save me from a shallow grave who wants to take us all
+Everybody's doing it so why the hell should I
+Everybody's doing it so why the hell should I
+
 #### 主歌 2
 
-我不是天生选美冠军，但我接受
-也许电台不介意我唱得有点跑调
-我穿着靴子睡觉，墙上挂个十字架
-救我别掉进肤浅之墓——那墓想吞掉我们所有人
-大家都在这么做，我他妈凭什么也要
-大家都在这么做，我他妈凭什么也要
+我不是天生的选美冠军，但我认了
+也许电台不介意我唱得有点偏低
+我穿着靴子上床，墙上挂着十字架
+好让我逃过那座想吞掉所有人的浅坟
+大家都在这么做，我他妈凭什么跟
+大家都在这么做，我他妈凭什么跟
+
+#### Chorus（重复）
 
 #### 副歌（重复）
 
 *(同第一段副歌)*
 
-#### 尾声
+#### Outro
+
+I'm a black sheep
+I'm a black sheep
+*(First four lines of Verse 1 + chorus core repeated)*  
+Once you go black, you never go back
+
+#### 尾奏
 
 我是那只黑羊
 我是那只黑羊
+（主歌 1 前四句与副歌核心反复）
 一旦「变黑」，就再也回不去了
-*(重复至结尾)*
 
 ## 重点表达 · Key Phrases
 

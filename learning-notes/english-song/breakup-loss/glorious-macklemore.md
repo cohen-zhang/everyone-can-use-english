@@ -63,10 +63,8 @@ aliases:
 
 > Verse 含轻度粗口，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -90,6 +88,28 @@ Trudging through the mud to find the present, no ignoring us
 Got 20, 000 deep off in the street like we some warriors
 My mama told me never bow your head, woo!
 
+#### 主歌 1
+
+你知道我回来了，像从未离开
+又一次冲刺，又一步
+又一天，又一次呼吸
+追逐梦想，却几乎没睡
+我有了新态度，人生重新续上租约
+还有内心平静
+寻求便找到：死后再睡吧
+想要人生一块饼，抓起车钥匙
+妈的，我状态很好
+我在我的节奏上，我在我的节奏上
+别挡我尾流，我快迟到了，我能说什么？
+听说人死两次，一次是入土
+第二次是最后一次有人提起你的名字
+所以离开人世时，我拿的是否比给的多？
+我照顾了身边的人，还是只为名声？
+传奇如出埃及，寻找那份狂喜
+在泥里跋涉寻找当下，没人能忽视我们
+两万人上街，像战士一样
+我妈说永远不要低头，哇！
+
 #### Chorus（Skylar Grey）
 
 I feel glorious, glorious
@@ -100,6 +120,17 @@ I made it through the darkest part of the night
 And now I see the sunrise
 Now I feel glorious, glorious
 I feel glorious, glorious
+
+#### 副歌（Skylar Grey）
+
+我感到光荣，光荣
+有机会重新开始
+我为此而生，为此而生
+这就是我，怎能忘记？
+我熬过了夜最暗的那段
+现在我看见了日出
+现在我感到光荣，光荣
+我感到光荣，光荣
 
 #### Verse 2
 
@@ -117,58 +148,6 @@ I said amen and hallelujah, let me testify too
 Another morning, a morning, don't let self get in my way
 I got my breath, I got my faith and I remember why I came
 
-#### Chorus（重复）
-
-#### Bridge
-
-We gon' be alright, put that on my life
-When I open my eyes, hope I see you shine
-We're planting a flag they don't understand
-The world is up for grabs
-We gon' be alright, put that on my life
-When I open my eyes, hope I see you shine
-We're planting a flag they don't understand
-The world is up for grabs
-
-#### Final Chorus
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-你知道我回来了，像从未离开
-又一次冲刺，又一步
-又一天，又一次呼吸
-追逐梦想，却几乎没睡
-我有了新态度，人生重新「租期续签」
-还有内心平静
-寻求便找到：死后再睡吧
-想要人生一块饼，抓起车钥匙
-妈的，我状态很好
-我在我的节奏上，我在我的节奏上
-别挡我尾流，我快迟到了，我能说什么？
-听说人死两次，一次是入土
-第二次是最后一次有人提起你的名字
-所以离开人世时，我拿的是否比给的多？
-我照顾了身边的人，还是只为名声？
-传奇如 Exodus，寻找 euphoria
-在泥里跋涉寻找当下，没人能忽视我们
-两万人上街，像战士一样
-我妈说永远不要低头，哇！
-
-#### 副歌（Skylar Grey）
-
-我感到光荣，光荣
-有机会重新开始
-我为此而生，为此而生
-这就是我，怎能忘记？
-我熬过了夜最暗的那段
-现在我看见了日出
-现在我感到光荣，光荣
-我感到光荣，光荣
-
 #### 主歌 2
 
 我感到光荣
@@ -185,9 +164,22 @@ The world is up for grabs
 又一个早晨，别让自我挡路
 我有呼吸、有信念，记得我为何而来
 
+#### Chorus（重复）
+
 #### 副歌（重复）
 
 *(同第一段副歌)*
+
+#### Bridge
+
+We gon' be alright, put that on my life
+When I open my eyes, hope I see you shine
+We're planting a flag they don't understand
+The world is up for grabs
+We gon' be alright, put that on my life
+When I open my eyes, hope I see you shine
+We're planting a flag they don't understand
+The world is up for grabs
 
 #### 桥段
 
@@ -199,6 +191,8 @@ The world is up for grabs
 当我睁开眼，希望看见你闪耀
 我们插下一面他们不懂的旗
 世界任我们争取
+
+#### Final Chorus
 
 #### 终段副歌
 

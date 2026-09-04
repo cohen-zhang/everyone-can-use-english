@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -80,6 +78,18 @@ I'll never ask for too much
 Just all that you are
 And everything that you do
 
+#### 主歌 1
+
+分享我的人生吧
+接受真实的我
+因为我不会改变
+不会为你改掉自己的底色
+
+收下我的爱
+我从不会要得太多
+只要你的全部
+和你所做的一切
+
 #### Pre-Chorus
 
 I don't really need to look very much further
@@ -90,6 +100,16 @@ This passion inside
 Can't run from myself
 There's nowhere to hide
 
+#### 预副歌
+
+我其实不必再往别处找
+我不想不得不离开
+去到你不会跟着来的地方
+我又一次把这份热情压住
+心里这股激情
+我逃不开自己
+无处可藏
+
 #### Chorus
 
 But don't make me close one more door
@@ -99,6 +119,16 @@ Or must I imagine you there?
 Don't walk away from me
 I have nothing, nothing, nothing
 If I don't have you, you, you, you
+
+#### 副歌
+
+别再逼我关上另一扇门
+我不想再受伤了
+你敢的话，就留在我怀里
+还是我只能想象你在？
+别离我而去
+我一无所有、一无所有、一无所有
+如果没有你、没有你、没有你、没有你
 
 #### Verse 2
 
@@ -112,9 +142,25 @@ Love like I've known it with you
 Will a memory survive?
 One I can hold on to
 
+#### 主歌 2
+
+你看穿了
+直抵我内心
+你拆掉我的墙
+用你爱的力量
+
+我从不知道
+爱可以像和你在一起这样
+一段记忆能留下来吗？
+一段我能抓住的
+
 #### Pre-Chorus & Chorus（重复）
 
 *(同第一段 Pre-Chorus 与 Chorus；末句可加 Your love, I'll remember forever
+
+#### 预副歌 & 副歌（重复）
+
+*(同第一段预副歌与副歌；末句可加「你的爱，我会永远记得」)*
 
 #### Final Chorus / Outro
 
@@ -130,59 +176,7 @@ I have nothing, nothing, nothing
 If I don't have you, you
 If I don't have you, oh, you
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-分享我的人生吧
-接受真实的我
-因为我不会改变
-不会为你改掉自己的底色
-
-收下我的爱
-我从不会要得太多
-只要你的全部
-和你所做的一切
-
-#### 预副歌
-
-我其实不必再往别处找
-我不想不得不离开
-去到你不会跟着来的地方
-我又一次把这份热情压住
-心里这股激情
-我逃不开自己
-无处可藏
-
-#### 副歌
-
-别再逼我关上另一扇门
-我不想再受伤了
-你敢的话，就留在我怀里
-还是我只能想象你在？
-别离我而去
-我一无所有、一无所有、一无所有
-如果没有你、没有你
-
-#### 主歌 2
-
-你看穿了
-直抵我内心
-你拆掉我的墙
-用你爱的力量
-
-我从不知道
-爱可以像和你在一起这样
-一段记忆能留下来吗？
-一段我能抓住的
-
-#### 预副歌 & 副歌（重复）
-
-你的爱，我会永远记得)*
-
-#### 终段副歌 / 尾声
+#### 终段副歌 / 尾奏
 
 别再逼我关上另一扇门
 我不想再受伤了
@@ -193,7 +187,7 @@ If I don't have you, oh, you
 
 你敢走试试
 我一无所有、一无所有、一无所有
-如果没有你
+如果没有你、没有你
 如果没有你，哦，你
 
 ## 重点表达 · Key Phrases

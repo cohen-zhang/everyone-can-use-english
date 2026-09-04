@@ -59,15 +59,18 @@ aliases:
 
 > 部分歌词含 AAVE 与粗口语境，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Intro
 
 Julie — Julie  
 Julie — Julie  
+
+#### 前奏
+
+Julie —— Julie
+Julie —— Julie
 
 #### Verse 1
 
@@ -78,6 +81,16 @@ Julie — Julie
 Don't leave me until the morning
 If you're hurting
 Promise I can make it better for you
+
+#### 主歌 1
+
+别走，至少待到早上
+如果你在痛
+让我给你上点麻醉
+Julie —— Julie
+别走，至少待到早上
+如果你在痛
+我保证能为你好起来
 
 #### Verse 2
 
@@ -91,6 +104,18 @@ Cold as it was, I got the message
 Heard that you told your friends
 I learned my lessons
 
+#### 主歌 2
+
+我把过去搞砸了
+不必收拾行李就走
+还能挽回面子吗？（还能挽回面子吗？）
+趁你还没在登机口抛下他
+你知道我一直在赌
+戳了一两次痛处，在冰上滑倒
+再冷我也读懂了
+听说你跟朋友说了
+我学到教训了
+
 #### Pre-Chorus / Chorus
 
 So baby, why do you keep running away? (Running away)
@@ -101,6 +126,17 @@ Could ever make a mistake (make a mistake)
 Time can't erase (time can't erase)
 Or we can't undo (we can't undo)
 Julie — Julie  
+
+#### 预副歌 / 副歌
+
+宝贝，你为什么一直逃跑？（逃跑）
+为什么不留下？（为什么不留下）
+我发誓我会真心（我发誓我会真心）
+碳基生命（凡人）
+都会犯错（都会犯错）
+时间抹不掉（时间抹不掉）
+我们也无法撤销（我们也无法撤销）
+Julie —— Julie
 
 #### Verse 3（重复 Verse 1 结构）
 
@@ -113,6 +149,17 @@ Don't leave me until the morning
 If you're hurting
 Promise I can make it better for you
 
+#### 主歌 3（重复 Verse 1 结构）
+
+Julie —— Julie
+别走，至少待到早上
+如果你在痛
+让我给你上点麻醉
+Julie —— Julie
+别走，至少待到早上
+如果你在痛
+我保证能为你好起来
+
 #### Bridge
 
 Woh oh
@@ -121,6 +168,15 @@ But you know I care for you
 You-ooh-ooh
 Soon as I'm glued to the hallucination
 Your vibrations always cut through
+
+#### 桥段
+
+喔哦
+宝贝，我知道我会迷失在太空
+可你知道我在乎你
+你——哦——
+一旦我黏在那幻觉上
+你的振动总能穿透过来
 
 #### Chorus（重复）
 
@@ -132,6 +188,17 @@ Could ever make a mistake (can make a mistake)
 Time can't erase (time can't erase)
 Or we can't undo (we can't undo, do do)
 Julie — Julie  
+
+#### 副歌（重复）
+
+告诉我，你为什么一直逃跑？（一直逃跑）
+为什么不留下？（为什么不留下）
+我发誓我会真心（我发誓我会真心）
+碳基生命（凡人）
+都会犯错（都会犯错）
+时间抹不掉（时间抹不掉）
+我们也无法撤销（我们也无法撤销，嘟嘟）
+Julie —— Julie
 
 #### Outro
 
@@ -154,84 +221,23 @@ Julie — Julie
 It's happening
 It's happening
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 前奏
-
-#### 主歌 1
-
-别走，至少待到早上
-如果你在痛
-让我给你上点麻醉
-别走，至少待到早上
-如果你在痛
-我保证能为你好起来
-
-#### 主歌 2
-
-我把过去搞砸了
-不必收拾行李就走
-还能挽回面子吗？（还能挽回面子吗？）
-趁你还没在登机口抛下他
-你知道我一直在赌
-戳了一两次痛处，在冰上滑倒
-再冷我也读懂了
-听说你跟朋友说了
-我学到教训了
-
-#### 预副歌 / 副歌
-
-宝贝，你为什么一直逃跑？（逃跑）
-为什么不留下？（为什么不留下）
-我发誓我会真心（我发誓我会真心）
-碳基生命（凡人）
-都会犯错（都会犯错）
-时间抹不掉（时间抹不掉）
-我们也无法撤销（我们也无法撤销）
-
-#### 主歌 3（重复 主歌 1 结构）
-
-别走，至少待到早上
-如果你在痛
-让我给你上点麻醉
-别走，至少待到早上
-如果你在痛
-我保证能为你好起来
-
-#### 桥段
-
-喔哦
-宝贝，我知道我会迷失在太空
-但你知道我在乎你
-你——哦——
-一旦我黏在那幻觉上
-你的振动总能穿透过来
-
-#### 副歌（重复）
-
-告诉我，你为什么一直逃跑？（一直逃跑）
-为什么不留下？（为什么不留下）
-我发誓我会真心（我发誓我会真心）
-碳基生命（凡人）
-都会犯错（都会犯错）
-时间抹不掉（时间抹不掉）
-我们也无法撤销（我们也无法撤销）
-
-#### 尾声
+#### 尾奏
 
 Julie（哦哦耶）
 别走，至少待到早上
 如果你在痛
 让我给你上点麻醉
+Julie —— Julie
 别走，至少待到早上
 如果你在痛
 我保证能为你好起来
 
+Julie —— Julie
 别走，至少待到早上
+Julie —— Julie
 别走，至少待到早上
 哦哦
+Julie —— Julie
 
 正在发生
 正在发生

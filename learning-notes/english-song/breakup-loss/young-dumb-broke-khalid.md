@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -73,6 +71,16 @@ I'm so high at the moment
 I'm so caught up in this
 Yeah, we're just young, dumb and broke
 But we still got love to give
+
+#### 主歌 1
+
+原来你还惦记着我
+我早知道你会这样
+我给不了你全部，你知道我多希望能给
+此刻我整个人都飘着
+深深陷在这一刻里
+是啊，我们不过年轻、莽撞、口袋空空
+可我们仍有爱可以给
 
 #### Chorus
 
@@ -88,6 +96,20 @@ Ya-da-da da-da da-da
 Ya-da-da da-da-da da-da
 Young, dumb, broke high school kids
 
+#### 副歌
+
+趁我们还年轻、还莽撞
+年轻、年轻、莽撞又没钱
+年轻、莽撞
+年轻、年轻、莽撞又没钱
+年轻、莽撞
+年轻、年轻、莽撞又没钱
+年轻、莽撞、没钱的高中生
+呀哒哒 哒哒 哒哒哒
+呀哒哒 哒哒 哒哒
+呀哒哒 哒哒哒 哒哒
+年轻、莽撞、没钱的高中生
+
 #### Verse 2
 
 We have so much in common
@@ -99,13 +121,36 @@ When we have our life to live
 Yeah, we're just young, dumb and broke
 But we still got love to give
 
+#### 主歌 2
+
+我们那么像
+却无时无刻不在吵
+你总说是我错
+我倒觉得自己没错
+承诺有什么意思？
+整个人生还在后头等着过
+是啊，我们不过年轻、莽撞、口袋空空
+可我们仍有爱可以给
+
 #### Chorus（重复）
+
+*(同第一段副歌)*
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Bridge
 
 Jump and we think, leave it all in the game of love, love
 Run into sin, do it all in the name of fun, fun
 Woo-oo-oo
+
+#### 桥段
+
+纵身一跃，把一切押进爱的赌局里
+奔向过错，全打着好玩的名号
+呜——哦——
 
 #### Verse 3 + Outro
 
@@ -114,63 +159,12 @@ I'm so caught up in this
 Yeah, we're just young, dumb and broke
 But we still got love to give
 
----
+#### 主歌 3 + 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-所以你还在想着我
-就像我知道你会的那样
-我给不了你一切，你知道我多么希望我能
-此刻我情绪高涨
-我完全沉浸其中
-是啊，我们只是年轻、犯傻又没钱
-但我们仍有爱可以付出
-
-#### 副歌
-
-趁我们还年轻、还犯傻
-年轻、年轻、犯傻又没钱
-年轻、犯傻
-年轻、年轻、犯傻又没钱
-年轻、犯傻
-年轻、年轻、犯傻又没钱
-年轻、犯傻、没钱的高中生
-（无词哼唱）
-（无词哼唱）
-（无词哼唱）
-年轻、犯傻、没钱的高中生
-
-#### 主歌 2
-
-我们共同点很多
-却也一直吵架
-你总说我错了
-我很确定我对
-承诺有什么好玩的？
-我们还有整个人生要过
-是啊，我们只是年轻、犯傻又没钱
-但我们仍有爱可以付出
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 桥段
-
-纵身一跃，把一切押在爱的游戏里
-奔向「罪过」，一切只为好玩
-（无词过渡）
-
-#### 主歌 3 + 尾声
-
-此刻我情绪高涨
-我完全沉浸其中
-是啊，我们只是年轻、犯傻又没钱
-但我们仍有爱可以付出
-
-*(副歌重复至结尾)*
+此刻我整个人都飘着
+深深陷在这一刻里
+是啊，我们不过年轻、莽撞、口袋空空
+可我们仍有爱可以给
 
 ## 重点表达 · Key Phrases
 

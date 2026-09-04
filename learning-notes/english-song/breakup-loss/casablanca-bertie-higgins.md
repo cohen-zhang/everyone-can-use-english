@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,14 @@ Back row of the drive-in show in the flickering light
 Popcorn and cokes beneath the stars
 Became champagne and caviar
 Making love on a long hot summer's night
+
+#### 主歌 1
+
+看着《卡萨布兰卡》，我爱上了你
+汽车电影院后排，灯光忽明忽暗
+星空下，爆米花和可乐
+在记忆里变成了香槟和鱼子酱
+在漫长炎热的夏夜里缠绵
 
 #### Verse 2
 
@@ -85,43 +91,6 @@ Hiding in the shadows from the spies
 Moroccan moonlight in your eyes
 Making magic at the movies in my old Chevrolet
 
-#### Chorus
-
-Oh a kiss is still a kiss in Casablanca
-But a kiss is not a kiss without your sigh
-Please come back to me in Casablanca
-I love you more and more each day as time goes by
-
-#### Verse 3
-
-I guess there're many broken hearts in Casablanca
-You know I've never really been there so I don't know
-I guess our love story will never be seen
-On the big wide silver screen
-But it hurt just as bad when I had to watch you go
-
-#### Chorus（重复）
-
-#### Final Chorus / Outro
-
-Oh a kiss is still a kiss in Casablanca
-But a kiss is not a kiss without your sigh
-Please come back to me in Casablanca
-I love you more and more each day as time goes by
-I love you more and more each day, as time goes by
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-看着《卡萨布兰卡》，我爱上了你
-汽车电影院后排，灯光忽明忽暗
-星空下，爆米花和可乐
-在记忆里变成了香槟和鱼子酱
-在漫长炎热的夏夜里缠绵
-
 #### 主歌 2
 
 我以为你也是看着《卡萨布兰卡》爱上了我
@@ -131,12 +100,27 @@ I love you more and more each day, as time goes by
 你眼里映着摩洛哥的月光
 在我那辆旧雪佛兰里，电影旁制造魔法
 
+#### Chorus
+
+Oh a kiss is still a kiss in Casablanca
+But a kiss is not a kiss without your sigh
+Please come back to me in Casablanca
+I love you more and more each day as time goes by
+
 #### 副歌
 
 哦，在卡萨布兰卡，吻依然是吻
 可没有你的叹息，吻就不算吻
 求你回到卡萨布兰卡，回到我身边
 时光流转，我一天比一天更爱你
+
+#### Verse 3
+
+I guess there're many broken hearts in Casablanca
+You know I've never really been there so I don't know
+I guess our love story will never be seen
+On the big wide silver screen
+But it hurt just as bad when I had to watch you go
 
 #### 主歌 3
 
@@ -146,11 +130,19 @@ I love you more and more each day, as time goes by
 出现在宽阔的大银幕上
 可看着你离开时，痛一点也不少
 
+#### Chorus（重复）
+
 #### 副歌（重复）
 
-*(同第一段副歌)*
+#### Final Chorus / Outro
 
-#### 终段副歌 / 尾声
+Oh a kiss is still a kiss in Casablanca
+But a kiss is not a kiss without your sigh
+Please come back to me in Casablanca
+I love you more and more each day as time goes by
+I love you more and more each day, as time goes by
+
+#### 终段副歌 / 尾奏
 
 哦，在卡萨布兰卡，吻依然是吻
 可没有你的叹息，吻就不算吻

@@ -57,10 +57,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -69,6 +67,14 @@ When you walked in and laid that spin
 You look so good in the neon light
 I drink you in with thirsty eyes
 Long sip of your cool smile
+
+#### 主歌 1
+
+女孩，我就知道是你，这房间一下子更热了
+你走进来，轻轻一转
+霓虹灯下你真好看
+我用渴切的目光把你饮进去
+你清凉的微笑，像让我长饮一口
 
 #### Pre-Chorus / Chorus 1
 
@@ -79,6 +85,15 @@ You know it drives me crazy
 To be so far away when your lips are so close
 When your lips are so close
 
+#### 预副歌 / 副歌 1
+
+女孩，我想立刻伸手，把你搂进怀里
+永不松手，永不松手
+宝贝，我非得吻到你不可
+你知道这让我发疯
+离你这么近，嘴唇近在咫尺，却又像隔着天涯
+当你的唇那么近
+
 #### Verse 2
 
 You might be right next to me
@@ -87,6 +102,15 @@ My hands and your skin
 You know what I'm thinkin' of
 Small talk just won't be enough
 Can't wait for your touch
+
+#### 主歌 2
+
+你或许就在我身旁
+但女孩，感觉我们之间隔了好几英里
+隔在我的手和你的肌肤之间
+你知道我在想什么
+闲聊根本不够
+我等不及你的触碰
 
 #### Chorus 2
 
@@ -97,6 +121,15 @@ You know it drives me crazy
 To be so far away when your lips are so close
 When your lips are so close
 
+#### 副歌 2
+
+女孩，我想立刻伸手，把你搂进怀里
+永不松手，永不松手
+宝贝，我非得吻到你不可
+你知道这让我发疯
+离你这么近，嘴唇近在咫尺，却又像隔着天涯
+当你的唇那么近
+
 #### Chorus 3 / Outro
 
 When your lips are so close
@@ -104,48 +137,7 @@ When your lips are so close
 Lips are so close
 Lips are so close
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-女孩，我就知道是你，这房间一下子更热了
-你走进来，投来那记「旋转」目光（撩人的眼神/姿态）
-霓虹灯下你真好看
-我用渴切的目光把你「饮」进去
-你 cool 的微笑像让我长饮一口
-
-#### 预副歌 / 副歌 1
-
-女孩，我想伸手把你搂进怀里
-永不松手，永不松手
-宝贝，我非得吻到你不可
-你知道这让我发疯
-离你这么近，嘴唇近在咫尺，却又像够不着
-当你的唇那么近
-
-#### 主歌 2
-
-你或许就在我身旁
-但女孩，感觉我们之间隔了英里
-我的手和你的肌肤
-你知道我在想什么
-闲聊根本不够
-我等不及你的触碰
-
-#### 副歌 2
-
-女孩，我想伸手把你搂进怀里
-永不松手，永不松手
-宝贝，我非得吻到你不可
-你知道这让我发疯
-离你这么近，嘴唇近在咫尺，却又像够不着
-当你的唇那么近
-
-#### 副歌 3 / 尾声
-
-*(同第二段副歌)*  
+#### 副歌 3 / 尾奏
 
 当你的唇那么近
 当你的唇那么近

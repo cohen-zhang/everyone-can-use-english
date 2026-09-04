@@ -61,10 +61,8 @@ aliases:
 
 > 原文含粗口，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -78,9 +76,25 @@ Whatever devil's inside you, don't let him out tonight
 I tell them it's just your culture and everyone rolls their eyes
 Yeah, I know
 
+#### 主歌 1
+
+我知道自己判断力不错、品味也好
+好笑又讽刺，好像只有我这么觉得
+我跟别人保证你是例外，人人都会犯错
+但你就别
+
+听说你是演员，那就演个靠谱男人
+你心里的魔鬼，今晚别放出来
+我跟他们说这是你的「文化」，大家都翻白眼
+是啊，我知道
+
 #### Pre-Chorus
 
 All I'm asking, baby
+
+#### 预副歌
+
+我就这一个要求，宝贝
 
 #### Chorus
 
@@ -91,12 +105,28 @@ Heartbreak is one thing, my ego's another
 I beg you, don't embarrass me, motherfucker, oh
 Please, please, please (Ah)
 
+#### 副歌
+
+求你了，求你了，求你了，别证明我看走眼
+求你了，求你了，求你了
+别在我刚化好妆的时候把我弄哭
+心碎是一回事，自尊是另一回事
+我求你，别让我难堪，混蛋，哦
+求你了，求你了，求你了（啊）
+
 #### Verse 2
 
 Well, I have a fun idea, babe (Uh-huh), maybe just stay inside
 I know you're cravin' some fresh air, but the ceiling fan is so nice (It's so nice, right?)
 And we could live so happily if no one knows that you're with me
 I'm just kidding, but really (Kinda), really, really
+
+#### 主歌 2
+
+我有个好主意，宝贝（嗯哼），也许就待在家里
+我知道你想透透气，但吊扇也很舒服（很舒服吧？）
+要是没人知道我们在一起，我们会过得很开心
+开玩笑的，但说真的（有点），真的，真的
 
 #### Chorus（第二遍）
 
@@ -108,6 +138,16 @@ Heartbreak is one thing (Heartbreak is one thing), my ego's another (Ego's anoth
 I beg you, don't embarrass me, motherfucker, ah
 Please, please, please (ah)
 
+#### 副歌（第二遍）
+
+求你了，求你了，求你了（求你别证明我看走眼）
+别证明我看走眼
+求你了，求你了，求你了
+别在我刚化好妆的时候把我弄哭
+心碎是一回事（心碎是一回事），自尊是另一回事（自尊是另一回事）
+我求你，别让我难堪，混蛋，啊
+求你了，求你了，求你了（啊）
+
 #### Outro
 
 If you wanna go and be stupid, don't do it in front of me
@@ -118,61 +158,15 @@ Please, please, please (please)
 Please (please), please (please), please
 *(Ah
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我知道自己判断力不错、品味也好
-好笑又讽刺，好像只有我这么觉得
-我跟别人说你是例外，人人都会犯错
-但你就别（犯错）
-
-听说你是演员，那就演个靠谱男人
-你心里的魔鬼，今晚别放出来
-我跟他们说这是你的「文化」，大家都翻白眼
-是啊，我知道
-
-#### 预副歌
-
-我就这一个要求，宝贝
-
-#### 副歌
-
-求你了，别证明我看走眼
-求你了
-别在我刚化好妆的时候把我弄哭
-心碎是一回事，自尊是另一回事
-我求你，别让我难堪，混蛋
-求你了
-
-#### 主歌 2
-
-我有个好主意，宝贝（嗯哼），也许就待在家里
-我知道你想要新鲜空气，但吊扇也很舒服（很舒服吧？）
-要是没人知道我们在一起，我们会过得很开心
-开玩笑的，但说真的（有点），真的
-
-#### 副歌（第二遍）
-
-求你了（求你别证明我看走眼）
-别证明我看走眼
-求你了
-别在我刚化好妆的时候把我弄哭
-心碎是一回事（心碎是一回事），自尊是另一回事（自尊是另一回事）
-我求你，别让我难堪，混蛋
-求你了
-
-#### 尾声
+#### 尾奏
 
 你要犯蠢，别在我面前
-不想对着我的歌哭，就别让我恨你到骨子里
+不想对着我的歌哭，就别让我恨你恨到没完
 
-求你了
-求你了
-求你了
-啊；重复至结尾)*
+求你了，求你了，求你了（求你）
+求你了，求你了，求你了（求你）
+求你了（求你），求你了（求你），求你了
+*(啊
 
 ## 重点表达 · Key Phrases
 

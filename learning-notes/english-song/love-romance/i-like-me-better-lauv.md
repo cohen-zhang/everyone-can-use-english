@@ -59,10 +59,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -71,6 +69,14 @@ To not know who I am, but still know that I'm good long as you're here with me
 To be drunk and in love in New York City (In New York City)
 Midnight into morning coffee
 Burning through the hours talking
+
+#### 主歌 1
+
+在纽约年轻且恋爱（在纽约）
+不知自己是谁，但只要你在，我就很好
+在纽约带着醉意恋爱（在纽约）
+从午夜喝到清晨咖啡
+聊着聊着把小时都烧光
 
 #### Chorus
 
@@ -81,6 +87,15 @@ I'd stay for a long time 'cause
 I like me better when
 I like me better when I'm with you
 
+#### 副歌
+
+该死，和你在一起我更喜欢自己
+和你在一起我更喜欢自己
+我第一次就知道
+我会待很久，因为
+我更喜欢自己当
+和你在一起我更喜欢自己
+
 #### Verse 2
 
 I don't know what it is, but I got that feeling (got that feeling)
@@ -90,6 +105,15 @@ If we lay, let the day just pass us by
 I might get to too much talking
 I might have to tell you somethin'
 
+#### 主歌 2
+
+说不清是什么，但我有那种感觉（有那种感觉）
+在你旁边这张床上醒来
+发誓这房间，对，像没有天花板
+若我们躺着，让一天悄悄流过
+我可能会说太多
+我可能要告诉你一些事
+
 #### Chorus（重复）
 
 Damn, I like me better when I'm with you
@@ -98,6 +122,10 @@ I knew from the first time
 I'd stay for a long time 'cause
 I like me better when
 I like me better when I'm with you
+
+#### 副歌（重复）
+
+*(同副歌)*
 
 #### Bridge
 
@@ -110,61 +138,6 @@ Stay here with me
 Lay here with me
 Eh-eh, eh-eh, oh
 
-#### Final Chorus
-
-I like me better when I'm with you (yes I do, yes I do babe)
-I like me better when I'm with you (oh no)
-I knew from the first time
-I'd stay for a long time 'cause
-I like me better when
-I like me better when I'm with you
-
-#### Outro
-
-(I like me, I like me)
-(Look who you made me, made me, oh no)
-(I like me better when)
-I'm with you
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-在纽约年轻且恋爱（在纽约）
-不知自己是谁，但只要你在我就好
-在纽约年轻、醉意与恋爱（在纽约）
-从午夜喝到清晨咖啡
-聊着聊着把小时都烧光
-
-#### 副歌
-
-该死，和你在一起我更喜欢自己
-和你在一起我更喜欢自己
-我第一次就知道
-我会待很久，因为
-我更喜欢自己当
-和你在一起我更喜欢自己
-
-#### 主歌 2
-
-说不清是什么，但我有那种感觉（有那种感觉）
-在你旁边这张床上醒来
-发誓这房间，对，像没有天花板
-若我们躺着，让一天悄悄流过
-我可能会说太多
-我可能要告诉你一些事
-
-#### 副歌（重复）
-
-该死，和你在一起我更喜欢自己
-和你在一起我更喜欢自己
-我第一次就知道
-我会待很久，因为
-我更喜欢自己当
-和你在一起我更喜欢自己
-
 #### 桥段
 
 多待一会儿，多待一会儿
@@ -176,16 +149,32 @@ I'm with you
 躺在这里陪我
 诶诶，诶诶，哦
 
+#### Final Chorus
+
+I like me better when I'm with you (yes I do, yes I do babe)
+I like me better when I'm with you (oh no)
+I knew from the first time
+I'd stay for a long time 'cause
+I like me better when
+I like me better when I'm with you
+
 #### 终段副歌
 
-和你在一起我更喜欢自己（是的，宝贝）
+和你在一起我更喜欢自己（是的，是的，宝贝）
 和你在一起我更喜欢自己（哦不）
 我第一次就知道
 我会待很久，因为
 我更喜欢自己当
 和你在一起我更喜欢自己
 
-#### 尾声
+#### Outro
+
+(I like me, I like me)
+(Look who you made me, made me, oh no)
+(I like me better when)
+I'm with you
+
+#### 尾奏
 
 （我喜欢自己，我喜欢自己）
 （看你把我变成什么样，哦不）

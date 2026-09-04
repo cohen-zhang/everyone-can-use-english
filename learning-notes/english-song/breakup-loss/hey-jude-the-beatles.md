@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,12 +73,26 @@ Take a sad song and make it better
 Remember to let her into your heart
 Then you can start to make it better
 
+#### 主歌 1
+
+嘿 Jude，别把它弄糟
+拿一首伤心的歌，把它唱好
+记住，让她走进你心里
+然后你才能开始把它变好
+
 #### Verse 2
 
 Hey Jude, don't be afraid
 You were made to go out and get her
 The minute you let her under your skin
 Then you begin to make it better
+
+#### 主歌 2
+
+嘿 Jude，别害怕
+你生来就该走出去把她找回来
+当你让她走进心底的那一刻
+你便已开始把它变好
 
 #### Bridge 1
 
@@ -89,10 +101,22 @@ Don't carry the world upon your shoulders
 For well you know that it's a fool who plays it cool
 By making his world a little colder
 
+#### 桥段 1
+
+每当痛来了，嘿 Jude，别沉溺
+别把整个世界扛在肩上
+你很清楚，装酷的人才是傻瓜
+只会让自己的世界更冷一点
+
 #### Coda（过渡）
 
 Na-na-na-na-na
 Na-na-na-na
+
+#### Coda（过渡）
+
+呐呐呐呐呐
+呐呐呐呐
 
 #### Verse 3
 
@@ -101,6 +125,14 @@ You have found her, now go and get her
 (Let it out and let it in)
 Remember (hey Jude) to let her into your heart
 Then you can start to make it better
+
+#### 主歌 3
+
+嘿 Jude，别让我失望
+你已经找到她，现在去把她带回来
+（释放出来，再接纳进来）
+记住（嘿 Jude）让她走进你心里
+然后你才能开始把它变好
 
 #### Bridge 2
 
@@ -112,6 +144,16 @@ The movement you need is on your shoulder
 Na-na-na-na-na
 Na-na-na-na, yeah
 
+#### 桥段 2
+
+释放出来，接纳进来，嘿 Jude，开始吧
+你在等一个可以同台的人
+难道你不知道就只有你吗，嘿 Jude，你做得到
+你需要的那份动作，就在你肩上
+
+呐呐呐呐呐
+呐呐呐呐，耶
+
 #### Verse 4
 
 Hey Jude, don't make it bad
@@ -119,6 +161,14 @@ Take a sad song and make it better
 Remember to let her under your skin
 Then you'll begin to make it
 Better, better, better, better, better, better, oh
+
+#### 主歌 4
+
+嘿 Jude，别把它弄糟
+拿一首伤心的歌，把它唱好
+记住让她走进你心底
+然后你便开始把它
+变好，变好，变好，变好，变好，变好，哦
 
 #### Outro（加长尾声）
 
@@ -129,70 +179,14 @@ Na-na-na-na-na
 Na-na-na-na, hey Jude
 *(此后多组 Na-na / hey Jude 交替重复至结尾
 
----
+#### 尾奏（加长尾声）
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-嘿 Jude，别把它弄糟
-拿一首悲伤的歌，把它变好
-记住让她进入你心里
-然后你就能开始把它变好
-
-#### 主歌 2
-
-嘿 Jude，别害怕
-你生来就该走出去把她找回来
-当你让她进入你心底的那一刻
-你便已开始把它变好
-
-#### 桥段 1
-
-每当你感到痛苦，嘿 Jude，别沉溺
-别把整个世界扛在肩上
-你很清楚，装酷的人才是傻瓜
-只会让这世界更冷一点
-
-#### Coda（过渡）
-
-呐呐呐呐呐
-呐呐呐呐
-
-#### 主歌 3
-
-嘿 Jude，别让我失望
-你已找到她，现在去把她带回来
-（释放出来，再接纳进来）
-记住（嘿 Jude）让她进入你心里
-然后你就能开始把它变好
-
-#### 桥段 2
-
-释放出来，接纳进来，嘿 Jude，开始吧
-你在等一个可以同台表演的人
-难道你不知道就只有你吗，嘿 Jude，你可以的
-你需要的那份动力就在你肩上
-
-呐呐呐呐呐
-呐呐呐呐，耶
-
-#### 主歌 4
-
-嘿 Jude，别把它弄糟
-拿一首悲伤的歌，把它变好
-记住让她进入你心底
-然后你便开始把它
-变好，变好，变好，变好，变好，变好，哦
-
-#### 尾声（加长尾声）
-
-耶，耶，耶……
+耶，耶，耶，耶，耶，耶，耶
 呐呐呐呐呐
 呐呐呐呐，嘿 Jude
 呐呐呐呐呐
 呐呐呐呐，嘿 Jude
-同前)*
+*(此后多组呐呐 / hey Jude 交替反复至结尾)*
 
 ## 重点表达 · Key Phrases
 

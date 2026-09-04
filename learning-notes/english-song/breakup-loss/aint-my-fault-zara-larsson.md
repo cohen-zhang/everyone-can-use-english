@@ -63,10 +63,8 @@ aliases:
 
 > 歌词含调情暗示与 *damn* 等口语，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Chorus
 
@@ -74,6 +72,13 @@ It ain't my fault you keep turning me on
 It ain't my fault you got, got me so gone
 It ain't my fault I'm not leavin' alone
 It ain't my fault you keep turning me on
+
+#### 副歌
+
+不怪我，是你老让我心动
+不怪我，是你让我神魂颠倒
+不怪我，我不会一个人走
+不怪我，是你老让我心动
 
 #### Verse 1
 
@@ -84,6 +89,16 @@ Gotta get it, get it, get it, get it when it's hot right now
 Oh my god, what is this
 Want you all in my business
 Baby I insist, please don't blame me for what ever happens next
+
+#### 主歌 1
+
+现在没法说话，我看着，我喜欢我看到的
+现在有点震惊
+就算想停，现在也停不下来了
+得趁热，趁热，趁热，趁热
+天啊，这是什么
+想让你插手我全部生活
+宝贝我坚持，接下来发生啥别怪我
 
 #### Pre-Chorus
 
@@ -97,7 +112,21 @@ Then you're the one who's got a hold on me
 No, I can't be responsible, responsible
 It ain't my fault
 
+#### 预副歌
+
+不，我不能负责
+要是我现在让你惹上麻烦
+看你，太无法抗拒
+没错，千真万确
+
+所以若我把你手放在我看不见的地方
+那就是你抓住了我
+不，我不能负责，不能负责
+不怪我
+
 #### Chorus（重复）
+
+#### 副歌（重复）
 
 #### Verse 2
 
@@ -112,6 +141,20 @@ It's light outside, I just called an Uber and it's right outside
 Oh my god, what is this?
 Want you all in my business
 Baby I insist, please don't blame me for what ever happens next
+
+#### 主歌 2
+
+不怪我，你是这副模样来的
+你让我绊倒，摔在你腿上
+某种坏男孩式的顺滑，身子比夏天还热
+不是想无礼，但我贴在你身上真他妈好看
+
+现在没时间
+别跟我来「你叫什么、什么星座」那套
+天亮了，我叫了 Uber，就在外面
+天啊，这是什么？
+想让你插手我全部生活
+宝贝我坚持，接下来发生啥别怪我
 
 #### Pre-Chorus（重复）
 
@@ -129,65 +172,6 @@ It ain't my fault you got, got me so gone
 It ain't my fault I'm not leavin' alone
 It ain't my fault you keep turning me on
 
-#### Outro（R3hab Remix 收尾）
-
-Your body is calling me
-And I know wherever you are
-It's exactly where I wanna be
-But don't blame me
-It ain't my fault
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 副歌
-
-不怪我，是你老让我心动
-不怪我，是你让我神魂颠倒
-不怪我，我不会一个人走
-不怪我，是你老让我心动
-
-#### 主歌 1
-
-现在没法说话，我看着，我喜欢我看到的
-现在有点震惊
-就算想停，现在也停不下来了
-得趁热，趁热，趁热，趁热
-天啊，这是什么
-想让你插手我全部生活
-宝贝我坚持，接下来发生啥别怪我
-
-#### 预副歌
-
-不，我不能负责
-要是我现在让你惹上麻烦
-看你，太无法抗拒
-没错，千真万确
-
-所以若我把你手放在我看不见的地方
-那就是你抓住了我
-不，我不能负责，不能负责
-不怪我
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 主歌 2
-
-不怪我，你是这副模样来的
-你让我绊倒，摔在你腿上
-某种坏男孩式的顺滑，身子比夏天还热
-不是想无礼，但我穿在你身上真他妈好看
-
-现在没时间
-别跟我来「你叫什么、什么星座」那套
-天亮了，我叫了 Uber，就在外面
-天啊，这是什么？
-想让你插手我全部生活
-宝贝我坚持，接下来发生啥别怪我
-
 #### 预副歌（重复）
 
 不，我不能负责
@@ -204,7 +188,15 @@ It ain't my fault
 不怪我，我不会一个人走
 不怪我，是你老让我心动
 
-#### 尾声（R3hab Remix 收尾）
+#### Outro（R3hab Remix 收尾）
+
+Your body is calling me
+And I know wherever you are
+It's exactly where I wanna be
+But don't blame me
+It ain't my fault
+
+#### 尾奏（R3hab Remix 收尾）
 
 你的身体在呼唤我
 我知道无论你在哪

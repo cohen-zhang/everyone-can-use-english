@@ -61,10 +61,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -75,6 +73,15 @@ To make those rainbows in my mind
 When I think of you sometime
 And I wanna spend some time with you
 
+#### 主歌 1
+
+我看见晶莹的雨滴落下
+而这一切的美好
+在于阳光穿破云层
+在我心里画出那些彩虹
+当我某刻想起你
+我就想和你共度时光
+
 #### Chorus
 
 Just the two of us, we can make it if we try
@@ -82,6 +89,14 @@ Just the two of us (just the two of us)
 Just the two of us
 Building castles in the sky
 Just the two of us, you and I
+
+#### 副歌
+
+就我们俩，只要我们努力就能成
+就我们俩（就我们俩）
+就我们俩
+在天上筑城堡
+就我们俩，你和我
 
 #### Verse 2
 
@@ -92,6 +107,15 @@ Good things might come to those who wait
 Not for those who wait too late
 We gotta go for all we know
 
+#### 主歌 2
+
+我们寻找爱，没时间流泪
+白白流掉的水，仅此而已
+它长不出花来
+好事也许留给等待的人
+却不会留给等得太晚的人
+我们得为所知的一切全力一搏
+
 #### Chorus（重复）
 
 Just the two of us, we can make it if we try
@@ -99,6 +123,14 @@ Just the two of us (just the two of us)
 Just the two of us
 Building them castles in the sky
 Just the two of us, you and I
+
+#### 副歌（重复）
+
+就我们俩，只要我们努力就能成
+就我们俩（就我们俩）
+就我们俩
+在天上筑那些城堡
+就我们俩，你和我
 
 #### Verse 3
 
@@ -115,56 +147,10 @@ Just the two of us
 Building big castles way on high
 Just the two of us, you and I
 
-#### Outro（即兴重复）
-
-(Just the two of us) Yes, the two of us
-(Just the two of us) Let's get together, baby
-(Just the two of us) Just the two of us
-(We can make it, just the two of us)
-*(Closing ad-libs repeated)*
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我看见晶莹的雨滴落下
-而这一切的美好
-在于阳光穿透
-在我脑海里画出那些彩虹
-当我某刻想起你
-我就想和你共度时光
-
-#### 副歌
-
-就我们俩，只要我们努力就能成
-就我们俩（就我们俩）
-就我们俩
-在天上筑城堡
-就我们俩，你和我
-
-#### 主歌 2
-
-我们寻找爱，没时间流泪
-白白流掉的水仅此而已
-它长不出花来
-好事可能留给等待的人
-但不会留给等太久的人
-我们得为所知的一切全力一搏
-
-#### 副歌（重复）
-
-就我们俩，只要我们努力就能成
-就我们俩（就我们俩）
-就我们俩
-在天上筑那些城堡
-就我们俩，你和我
-
 #### 主歌 3
 
 我听见晶莹的雨滴落下
-打在大厅尽头的窗上
+打在走廊尽头的窗上
 它化作晨露
 亲爱的，当清晨来临
 我看见晨光
@@ -176,12 +162,21 @@ Just the two of us, you and I
 在高处筑大大的城堡
 就我们俩，你和我
 
-#### 尾声（即兴重复）
+#### Outro（即兴重复）
+
+(Just the two of us) Yes, the two of us
+(Just the two of us) Let's get together, baby
+(Just the two of us) Just the two of us
+(We can make it, just the two of us)
+*(Closing ad-libs repeated)*
+
+#### 尾奏（即兴重复）
 
 （就我们俩）对，就我们俩
 （就我们俩）宝贝，我们在一起吧
 （就我们俩）就我们俩
 （我们能成，就我们俩）
+*(结尾即兴反复)*
 
 ## 重点表达 · Key Phrases
 

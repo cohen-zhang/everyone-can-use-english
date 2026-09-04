@@ -63,10 +63,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -76,6 +74,14 @@ The dark days are gone, and the bright days are here
 My Sunny one shines so sincere
 Sunny one so true, I love you
 
+#### 主歌 1
+
+Sunny，昨天我的日子还下着雨
+Sunny，你朝我一笑，真的把痛抚平了
+黑暗的日子过去了，明亮的日子来了
+我的 Sunny，照得那么真诚
+真心的 Sunny，我爱你
+
 #### Verse 2
 
 Sunny, thank you for the sunshine bouquet
@@ -83,34 +89,6 @@ Sunny, thank you for the love you brought my way
 You gave to me your all and all
 Now I feel ten feet tall
 Sunny one so true, I love you
-
-#### Verse 3
-
-Sunny, thank you for the truth you let me see
-Sunny, thank you for the facts from A to Z
-My life was torn like a windblown sand
-Then a rock was formed when you held my hand
-Sunny one so true, I love you
-
-#### Verse 4
-
-Sunny, thank you for the smile upon your face
-Sunny, thank you for the gleam that flows with grace
-You're my spark of nature's fire
-You're my sweet complete desire
-Sunny one so true, I love you
-
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-Sunny，昨天我的生活还下着雨
-Sunny，你朝我一笑，真的把痛抚平了
-黑暗的日子过去了，明亮的日子来了
-我的 Sunny，笑得那么真诚
-真心的 Sunny，我爱你
 
 #### 主歌 2
 
@@ -120,6 +98,14 @@ Sunny，谢谢你把爱带到我身边
 现在我觉得自己像长高了十英尺
 真心的 Sunny，我爱你
 
+#### Verse 3
+
+Sunny, thank you for the truth you let me see
+Sunny, thank you for the facts from A to Z
+My life was torn like a windblown sand
+Then a rock was formed when you held my hand
+Sunny one so true, I love you
+
 #### 主歌 3
 
 Sunny，谢谢你让我看见真相
@@ -128,10 +114,18 @@ Sunny，谢谢你把事情从头到尾都告诉我
 你握住我的手，我才重新站稳
 真心的 Sunny，我爱你
 
+#### Verse 4
+
+Sunny, thank you for the smile upon your face
+Sunny, thank you for the gleam that flows with grace
+You're my spark of nature's fire
+You're my sweet complete desire
+Sunny one so true, I love you
+
 #### 主歌 4
 
 Sunny，谢谢你脸上的笑容
-Sunny，谢谢你眼里那道优雅的光
+Sunny，谢谢你眼里那道优雅流淌的光
 你是我生命里那点火星
 你是我甜蜜又完整的渴望
 真心的 Sunny，我爱你

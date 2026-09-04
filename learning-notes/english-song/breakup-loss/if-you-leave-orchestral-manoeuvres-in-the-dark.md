@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -74,12 +72,26 @@ Please don't take my heart away
 Promise me, just one more night
 Then we'll go our separate ways
 
+#### 主歌 1
+
+如果你要走，别现在就走
+求你别把我的心带走
+答应我，再给我一夜
+然后我们就各走各的路
+
 #### Verse 2
 
 We've always had time on our side
 Now it's fading fast
 Every second, every moment
 We've got to, we've gotta make it last
+
+#### 主歌 2
+
+我们一直觉得时间站在我们这边
+可现在它正在飞快溜走
+每一秒、每一刻
+我们得、我们一定得让它再久一点
 
 #### Chorus
 
@@ -88,6 +100,13 @@ I won't let go at any price
 I need you now like I need you then
 You always said we'd still be friends someday
 
+#### 副歌
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，一如从前
+你总说，总有一天我们还会是朋友
+
 #### Verse 3
 
 If you leave, I won't cry
@@ -95,12 +114,26 @@ I won't waste one single day
 But if you leave, don't look back
 I'll be running the other way
 
+#### 主歌 3
+
+如果你走了，我不会哭
+一天都不会白白浪费
+但如果你走了，别回头
+我会朝相反的方向跑
+
 #### Verse 4
 
 Seven years went under the bridge
 Like time was standing still
 Heaven knows what happens now
 You've got to, you gotta say you will
+
+#### 主歌 4
+
+七年就这么流过了桥下
+仿佛时间曾静止不动
+天知道现在会怎样
+你得、你一定得说你会留下
 
 #### Chorus（变词）
 
@@ -119,6 +152,23 @@ I won't let go at any price
 I need you now like I need you then
 You always said we'd meet again someday
 
+#### 副歌（变词）
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，一如从前
+你总说我们还会再见
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，一如从前
+你总说我们还会是朋友
+
+我碰你一次，再碰你一次
+无论什么代价，我都不放手
+我现在需要你，一如从前
+你总说，总有一天我们还会再见
+
 #### Outro
 
 If you leave
@@ -127,63 +177,7 @@ Oh, if you leave
 Don't look back
 Don't look back
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-如果你要走，别现在就走
-求你别把我的心带走
-答应我，再给我一夜
-然后我们就各走各的路
-
-#### 主歌 2
-
-我们一直觉得时间站在我们这边
-可现在它正在飞快溜走
-每一秒、每一刻
-我们得、我们一定得让它长久一点
-
-#### 副歌
-
-我碰你一次，再碰你一次
-无论什么代价，我都不放手
-我现在需要你，就像从前一样
-你总说，总有一天我们还会是朋友
-
-#### 主歌 3
-
-如果你走了，我不会哭
-一天都不会白白浪费
-但如果你走了，别回头看
-我会朝相反的方向跑
-
-#### 主歌 4
-
-七年就这么过去了
-仿佛时间曾静止不动
-天知道现在会怎样
-你得、你一定得说你会留下
-
-#### 副歌（变词）
-
-我碰你一次，再碰你一次
-无论什么代价，我都不放手
-我现在需要你，就像从前一样
-你总说我们还会再见
-
-我碰你一次，再碰你一次
-无论什么代价，我都不放手
-我现在需要你，就像从前一样
-你总说我们还会是朋友
-
-我碰你一次，再碰你一次
-无论什么代价，我都不放手
-我现在需要你，就像从前一样
-你总说，总有一天我们还会再见
-
-#### 尾声
+#### 尾奏
 
 如果你要走
 哦，如果你要走

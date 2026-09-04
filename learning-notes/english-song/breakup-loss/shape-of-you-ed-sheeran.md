@@ -64,10 +64,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -81,86 +79,6 @@ Take my hand, stop, put "Van the Man" on the jukebox
 And then we start to dance
 And now I'm singing like
 
-#### Pre-Chorus
-
-Girl, you know I want your love
-Your love was handmade for somebody like me
-Come on now, follow my lead
-I may be crazy, don't mind me
-Say, "Boy, let's not talk too much
-Grab on my waist and put that body on me"
-Come on now, follow my lead
-Come, come on now, follow my lead
-(Mm-mm)
-
-#### Chorus
-
-I'm in love with the shape of you
-We push and pull like a magnet do
-Although my heart is falling too
-I'm in love with your body
-Last night you were in my room
-And now my bed sheets smell like you
-Every day discovering something brand new
-Oh, I'm in love with your body
-
-#### Post-Chorus
-
-Oh I, oh I, oh I, oh I
-Oh, I'm in love with your body
-Oh I, oh I, oh I, oh I
-Oh, I'm in love with your body
-Oh I, oh I, oh I, oh I
-Oh, I'm in love with your body
-Every day discovering something brand new
-I'm in love with the shape of you
-
-#### Verse 2
-
-One week in we let the story begin
-We're going out on our first date (mm-mm)
-But you and me are thrifty, so go all-you-can-eat
-Fill up your bag, and I fill up a plate (mm-mm)
-We talk for hours and hours about the sweet and the sour
-And how your family is doing okay (mm-mm)
-And leave and get in a taxi, then kiss in the back seat
-Tell the driver make the radio play
-And I'm singing like
-
-#### Pre-Chorus（重复）
-
-#### Chorus（重复）
-
-#### Post-Chorus（重复）
-
-*(同第一段 Post-Chorus)*
-
-#### Breakdown
-
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-Come on, be my baby, come on
-
-#### Outro
-
-Come on, be my baby, come on
-Come on, be my baby, come on (I'm in love with your body)
-Come on, be my baby, come on
-Come on, be my baby, come on (oh, I'm in love with your body)
-Come on, be my baby, come on
-Come on, be my baby, come on (I'm in love with your body)
-Every day discovering something brand new
-I'm in love with the shape of you
-
----
-
-### 中文翻译 · Chinese Translation
-
 #### 主歌 1
 
 夜店不是找恋人的最佳地点
@@ -172,6 +90,18 @@ I'm in love with the shape of you
 牵我的手，停，在点唱机放「Van the Man」
 然后我们开始跳舞
 现在我唱得像——
+
+#### Pre-Chorus
+
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Come on now, follow my lead
+I may be crazy, don't mind me
+Say, "Boy, let's not talk too much
+Grab on my waist and put that body on me"
+Come on now, follow my lead
+Come, come on now, follow my lead
+(Mm-mm)
 
 #### 预副歌
 
@@ -185,6 +115,17 @@ I'm in love with the shape of you
 来，来吧，跟着我的节奏
 （嗯嗯）
 
+#### Chorus
+
+I'm in love with the shape of you
+We push and pull like a magnet do
+Although my heart is falling too
+I'm in love with your body
+Last night you were in my room
+And now my bed sheets smell like you
+Every day discovering something brand new
+Oh, I'm in love with your body
+
 #### 副歌
 
 我爱上了你的身形
@@ -195,6 +136,17 @@ I'm in love with the shape of you
 现在床单还留你的气息
 每天都在发现全新的你
 哦，我爱上了你的身体
+
+#### Post-Chorus
+
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Oh I, oh I, oh I, oh I
+Oh, I'm in love with your body
+Every day discovering something brand new
+I'm in love with the shape of you
 
 #### 后副歌
 
@@ -207,11 +159,23 @@ I'm in love with the shape of you
 每天都在发现全新的你
 我爱上了你的身形
 
+#### Verse 2
+
+One week in we let the story begin
+We're going out on our first date (mm-mm)
+But you and me are thrifty, so go all-you-can-eat
+Fill up your bag, and I fill up a plate (mm-mm)
+We talk for hours and hours about the sweet and the sour
+And how your family is doing okay (mm-mm)
+And leave and get in a taxi, then kiss in the back seat
+Tell the driver make the radio play
+And I'm singing like
+
 #### 主歌 2
 
 一周过去，故事正式开始
 我们第一次约会（嗯嗯）
-但你我都节俭，就去吃自助餐
+可你我都节俭，就去吃自助餐
 你装满袋子，我装满盘子（嗯嗯）
 我们聊了好几个小时，甜的酸的都说
 还有你家人过得怎么样（嗯嗯）
@@ -219,15 +183,36 @@ I'm in love with the shape of you
 叫司机把收音机打开
 然后我唱得像——
 
+#### Pre-Chorus（重复）
+
 #### 预副歌（重复）
 
-*(同第一段)*
+*(同第一段预副歌)*
+
+#### Chorus（重复）
 
 #### 副歌（重复）
 
 *(同第一段副歌)*
 
+#### Post-Chorus（重复）
+
+*(同第一段 Post-Chorus)*
+
 #### 后副歌（重复）
+
+*(同第一段后副歌)*
+
+#### Breakdown
+
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
+Come on, be my baby, come on
 
 #### 分解段
 
@@ -240,9 +225,18 @@ I'm in love with the shape of you
 来吧，做我的宝贝，来吧
 来吧，做我的宝贝，来吧
 
-*(同第一段副歌)*
+#### Outro
 
-#### 尾声
+Come on, be my baby, come on
+Come on, be my baby, come on (I'm in love with your body)
+Come on, be my baby, come on
+Come on, be my baby, come on (oh, I'm in love with your body)
+Come on, be my baby, come on
+Come on, be my baby, come on (I'm in love with your body)
+Every day discovering something brand new
+I'm in love with the shape of you
+
+#### 尾奏
 
 来吧，做我的宝贝，来吧
 来吧，做我的宝贝，来吧（我爱上了你的身体）

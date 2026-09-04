@@ -62,10 +62,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -80,6 +78,19 @@ But darling, just kiss me slow
 Your heart is all I own
 And in your eyes, you're holding mine
 
+#### 主歌 1
+
+我找到了属于我的爱
+亲爱的，只管投入，跟着我走
+我找到一个美丽又温柔的女孩
+哦，我从不知道你就是一直在等我的那个人
+因为我们相爱时还只是孩子
+不懂那是什么
+这一次我不会放弃你
+可亲爱的，慢慢吻我
+你的心是我所拥有的一切
+在你眼中，你也握着我的目光
+
 #### Chorus
 
 Baby, I'm dancing in the dark
@@ -90,6 +101,17 @@ When you said you looked a mess
 I whispered underneath my breath
 But you heard it
 Darling, you look perfect tonight
+
+#### 副歌
+
+宝贝，我在昏暗中跳舞
+你在我双臂之间
+赤脚站在草地上
+听着我们最爱的歌
+当你说自己很狼狈
+我低声呢喃
+可你听见了
+亲爱的，你今晚美极了
 
 #### Verse 2
 
@@ -104,6 +126,19 @@ Darling, just hold my hand
 Be my girl, I'll be your man
 I see my future in your eyes
 
+#### 主歌 2
+
+我找到一位比任何人都坚强的女人
+她分享我的梦，我希望有一天能与她共有一个家
+我找到一位爱人，能承载的不只是我的秘密
+能承载爱，承载我们自己的孩子
+我们仍是孩子，却如此相爱
+与一切逆境抗争
+我知道这一次我们会没事
+亲爱的，握住我的手
+做我的女孩，我来做你的男人
+我在你眼中看见未来
+
 #### Chorus（重复）
 
 Baby, I'm dancing in the dark
@@ -113,6 +148,16 @@ Listening to our favorite song
 When I saw you in that dress, looking so beautiful
 I don't deserve this
 Darling, you look perfect tonight
+
+#### 副歌（重复）
+
+宝贝，我在昏暗中跳舞
+你在我双臂之间
+赤脚站在草地上
+听着我们最爱的歌
+当我看见你穿上那条裙子，如此美丽
+我不配拥有这一切
+亲爱的，你今晚美极了
 
 #### Outro
 
@@ -126,65 +171,14 @@ And she looks perfect
 I don't deserve this
 You look perfect tonight
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我找到了属于我的爱
-亲爱的，只管投入，跟着我的引导
-我找到一个美丽又温柔的女孩
-哦，我从不知道你就是一直在等我的那个人
-因为我们相爱时还只是孩子
-不懂那是什么
-这一次我不会放弃你
-但亲爱的，慢慢吻我
-你的心是我所拥有的一切
-在你眼中，你也握着我的目光
-
-#### 副歌
-
-宝贝，我在昏暗中跳舞
-你在我双臂之间
-赤脚站在草地上
-听着我们最爱的歌
-当你说自己很狼狈
-我低声呢喃
-但你听见了
-亲爱的，你今晚美极了
-
-#### 主歌 2
-
-我找到一位比任何人都坚强的女人
-她分享我的梦想，我希望有一天能与她共有一个家
-我找到一位爱人，能承载的不只是我的秘密
-能承载爱，承载我们自己的孩子
-我们仍是孩子，却如此相爱
-与一切逆境抗争
-我知道这一次我们会没事
-亲爱的，握住我的手
-做我的女孩，我来做你的男人
-我在你眼中看见未来
-
-#### 副歌（重复）
-
-宝贝，我在昏暗中跳舞
-你在我双臂之间
-赤脚站在草地上
-听着我们最爱的歌
-当我看见你穿上那条裙子，如此美丽
-我不配拥有这一切
-亲爱的，你今晚美极了
-
-#### 尾声
+#### 尾奏
 
 宝贝，我在昏暗中跳舞
 你在我双臂之间
 赤脚站在草地上
 听着我们最爱的歌
 我对自己所见的深信不疑
-现在我知道我遇见了一位凡间的天使
+现在我知道，我遇见了一位凡间的天使
 她看起来完美无瑕
 我不配拥有这一切
 你今晚美极了

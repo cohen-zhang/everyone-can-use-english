@@ -57,10 +57,8 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1
 
@@ -71,11 +69,26 @@ And every second with you was so special
 Back when we didn't fear the unknowns
 But that was long ago
 
+#### 主歌 1
+
+我想念从前，一切还那么单纯
+总觉得杯子一直是半满的
+那种感觉去哪了？
+和你在一起的每一秒都那么珍贵
+那时我们还不害怕未知
+可那已是很久以前
+
 #### Pre-Chorus
 
 Who can say where the path will go?
 Philosophers guess but they just don't know
 Maybe that's why
+
+#### 预副歌
+
+谁能说前路会通向哪里？
+哲学家猜来猜去，也说不清
+也许正因如此
 
 #### Chorus
 
@@ -90,6 +103,19 @@ And dream that we chased
 Are just memories now
 They're just memories now
 
+#### 副歌
+
+我们曾把头埋进云里
+以为一切都想明白了
+计划着远走高飞
+逃离地上的一切
+可就像飞入太空的飞机
+我们慢慢漂远了
+我们定下的每个计划
+追逐的每个梦
+如今都只是回忆
+都只是回忆了
+
 #### Verse 2
 
 I'm not sure where everything went wrong
@@ -98,73 +124,41 @@ I just wish we weren't scared to say
 That there's expiration dates on the friends you make
 As hard as that may sound
 
+#### 主歌 2
+
+我不确定一切是从哪里开始错的
+可我知道我们落在了各自该在的地方（各自该在的地方）
+我只希望我们当时不怕说出口
+你交的朋友，也有保质期
+这话听起来也许很刺耳
+
 #### Pre-Chorus（重复）
 
 Who can say where the path will go?
 Philosophers guess but they just don't know
 Maybe that's why
 
+#### 预副歌（重复）
+
+谁能说前路会通向哪里？
+哲学家猜来猜去，也说不清
+也许正因如此
+
 #### Chorus（重复）
+
+#### 副歌（重复）
+
+*(同第一段副歌)*
 
 #### Outro
 
 Who can say where the path will go? (Where the path will go?)
 Philosophers guess but they just don't know (but they just-)
 
----
+#### 尾奏
 
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1
-
-我想念日子还那么单纯的时候
-总觉得杯子一直是半满的
-那种感觉去哪了？
-和你在一起的每一秒都那么特别
-那时我们还不害怕未知
-但那是很久以前的事了
-
-#### 预副歌
-
-谁能说前路会通向哪里？
-哲学家猜来猜去也说不清
-也许正因如此
-
-#### 副歌
-
-我们曾把脑袋埋在云里（想得太美）
-以为一切都想明白了
-计划着远走高飞
-逃离地上的一切
-可就像太空中的飞机
-我们慢慢漂远了
-我们定下的每个计划
-追逐的每个梦想
-如今都只是回忆
-都只是回忆了
-
-#### 主歌 2
-
-我不确定一切是从哪里开始错的
-但我知道我们落在了各自该在的地方
-我只希望我们当时不怕说出口
-你交的朋友也有「保质期」
-这话听起来也许很刺耳
-
-#### 预副歌（重复）
-
-谁能说前路会通向哪里？
-哲学家猜来猜去也说不清
-也许正因如此
-
-#### 副歌（重复）
-
-*(同第一段副歌)*
-
-#### 尾声
-
-谁能说前路会通向哪里？
-哲学家也说不清（渐渐淡出）
+谁能说前路会通向哪里？（前路会通向哪里？）
+哲学家猜来猜去，也说不清（可他们只是——）
 
 ## 重点表达 · Key Phrases
 

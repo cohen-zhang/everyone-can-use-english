@@ -70,10 +70,8 @@ aliases:
 
 > 含西班牙语及 Cardi B 段露骨/粗口意象，为歌曲原词；学习时注意语境与场合。
 
-> 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
-> Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
-
-### 英文歌词 · English Lyrics
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Verse 1（Ed）
 
@@ -85,6 +83,17 @@ She got the, mm, white dress, but when she's wearin' less
 Man, you know that she drives me crazy
 The, mm, brown eyes, beautiful smile
 You know I love watching you do your thing
+
+#### 主歌 1（Ed）
+
+她有，嗯，棕眸、焦糖色的腿
+长发，没戴婚戒，嘿
+我看见你在对面望过来
+现在我真想知道你的名字
+她有，嗯，白裙子，可穿得更少时
+兄弟，你知道她让我神魂颠倒
+那，嗯，棕眸、美丽的笑
+你知道我爱看你做你自己
 
 #### Pre-Chorus & Chorus
 
@@ -101,6 +110,21 @@ Come south of the border with me
 Jump in that water, be free
 Come south of the border with me
 
+#### 预副歌 & 副歌
+
+我爱她的臀、曲线，唇说着
+「我爱你，宝贝，啊，我爱你，宝贝」
+我吻她，这份爱像一场梦
+
+所以到我这张床上来
+贴上来，出一身汗，亲爱的
+所以我要把时间都花在这上面
+直到天使歌唱，我才停
+跳进那水里，自由吧
+跟我到边境以南去
+跳进那水里，自由吧
+跟我到边境以南去
+
 #### Verse 2（Camila）
 
 He got the, mm, green eyes, givin' me signs
@@ -116,6 +140,21 @@ I love his lips 'cause he says the words
 "Te amo, mami, ah, te amo, mami"
 Don't wake up, this love is like a dream
 
+#### 主歌 2（Camila）
+
+他有，嗯，绿眸，给我信号
+说他真想知道我叫什么，嘿
+我看见你在对面望过来
+突然我很高兴我来了，哎！
+到这边来，我想跳舞，握住我的手
+想感受你的身体贴着我，你在发抖
+嗯，绿眸，慢慢来
+现在我们知道再不会一样了
+
+我爱他的唇，因为他说
+「我爱你，宝贝，啊，我爱你，宝贝」
+别醒来，这份爱像一场梦
+
 #### Chorus（Camila 段后）
 
 So join me in this bed that I'm in
@@ -127,11 +166,21 @@ Come south of the border with me
 Jump in that water, be free
 Come south of the border with me
 
+#### 副歌（Camila 段后）
+
+*(同第一段副歌后半)*
+
 #### Bridge（Cardi B · 过渡）
 
 Flawless diamonds
 In a green field near Buenos Aires
 Until the sun's rising
+
+#### 桥段（Cardi B · 过渡）
+
+完美无瑕的钻石
+在布宜诺斯艾利斯附近的绿野
+直到日出
 
 #### Verse 3（Cardi B）
 
@@ -159,6 +208,32 @@ We won't stop until the angels sing
 Jump in that water, be free
 Come south of the border with me
 
+#### 主歌 3（Cardi B）
+
+宝贝，呃
+不冒险就谈不上活过（活）
+想闪耀，就得加「冰」（钻/冰，哦）
+我是爱人，还是你的瘾？（呜，对，对）
+有点疯，但正是你的菜（Okurrr）
+你要唇与曲线，还要鞭子与皮草
+钻石我挑最好的，衣帽间他一份、我一份，哎
+他要小辣妹、玛格丽特酒（Margarita）
+我觉得 Ed 有点 jungle fever，哎（呜！）
+你不止如此（你不止如此）
+别那么无聊（别那么无聊）
+腿张开、吐舌头，像迈克尔·乔丹，呃（呃）
+去探险（呜，呜），来点异域的（Skrrt，Skrrt）
+猛来，像雨林，大雨倾盆，对
+像需要我那样吻我，像擦神灯那样揉我
+开到我那辆兰博基尼旁
+你得见我，别离开我（别离开我）
+你有个女孩终于啥都能干
+发专辑、生娃，但我从不掉链子，呃
+
+直到天使歌唱，我们不停
+跳进那水里，自由吧
+跟我到边境以南去
+
 #### Outro（副歌重复）
 
 Jump in that water, be free
@@ -172,106 +247,18 @@ Come south of the border with me
 Jump in that water, be free
 Come south of the border with me
 
----
-
-### 中文翻译 · Chinese Translation
-
-#### 主歌 1（Ed）
-
-她有，嗯，棕眸、焦糖色的大腿
-长发，没婚戒，嘿
-我看见你在对面望过来
-现在我真想知道你叫什么
-她有，嗯，白裙子，但穿得更少时
-兄弟，你知道她让我发疯
-那，嗯，棕眸、美丽的笑
-你知道我爱看你做你的事
-
-#### 预副歌 & 副歌
-
-我爱她的臀、曲线，唇说着
-「我爱你，宝贝，啊，我爱你，宝贝」
-我吻她，这份爱像梦
-
-所以来我这张床上
-贴上来，流汗，亲爱的
-所以我要投入时间
-直到天使歌唱我才停
-跳进那水里，自由吧
-跟我到边境以南来
-跳进那水里，自由吧
-跟我到边境以南来
-
-#### 主歌 2（Camila）
-
-他有，嗯，绿眸，给我信号
-说他真想知道我叫什么，嘿
-我看见你在对面望过来
-突然我很高兴我来了，哎！
-到这边来，我想跳舞，握我的手
-想感受你身体贴着我，你在发抖
-嗯，绿眸，慢慢来
-现在我们知道再不会一样了
-
-我爱他的唇，因为他说
-「我爱你，宝贝，啊，我爱你，宝贝」
-别醒来，这份爱像梦
-
-#### 副歌（Camila 段后）
-
-所以来我这张床上
-贴上来，流汗，亲爱的
-所以我要投入时间
-直到天使歌唱我才停
-跳进那水里，自由吧
-跟我到边境以南来
-跳进那水里，自由吧
-跟我到边境以南来
-
-#### 桥段（Cardi B · 过渡）
-
-完美无瑕的钻石
-在布宜诺斯艾利斯附近的绿野
-直到日出
-
-#### 主歌 3（Cardi B）
-
-宝贝，呃
-不冒险就谈不上活过（活）
-想闪耀，就得加冰（钻/冰，哦）
-我是爱人还是你的瘾？（呜，对，对）
-有点疯，但正是你的菜（Okurrr）
-你要唇与曲线，还要鞭子与皮草
-钻石我挑最好的，衣帽间 his and hers，哎
-他要小辣妹、margarita（Margarita）
-我觉得 Ed 有点 jungle fever，哎（呜！）
-你不止如此（你不止如此）
-别那么无聊（别那么无聊）
-腿张开、吐舌头，像 Michael Jordan，呃（呃）
-去探险（呜，呜），来点异域的（Skrrt，Skrrt）
-猛来，像雨林，大雨倾盆，对
-像需要我那样吻我，像擦神灯那样揉我
-开到我那辆 Lamborghini 旁
-你得见我，别离开我（别离开我）
-你有个女孩终于啥都能干
-发专辑、生娃，但我从不掉链子，呃
-
-直到天使歌唱我们不停
-跳进那水里，自由吧
-跟我到边境以南来
-
-#### 尾声（副歌重复）
+#### 尾奏（副歌重复）
 
 跳进那水里，自由吧
-跟我到边境以南来
-到边境以南来，以南（嘿）
-跟我到边境以南来
-到边境以南来，以南
-跟我到边境以南来
+跟我到边境以南去
+到边境以南去，以南（嘿）
+跟我到边境以南去
+到边境以南去，以南
+跟我到边境以南去
 跳进那水里，自由吧
-跟我到边境以南来
+跟我到边境以南去
 跳进那水里，自由吧
-跟我到边境以南来
+跟我到边境以南去
 
 ## 重点表达 · Key Phrases
 
