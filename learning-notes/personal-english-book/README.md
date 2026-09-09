@@ -51,6 +51,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
+- [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day.md|一天重置人生]] — Dan Koe《How to fix your entire life in 1 day》：身份、反愿景、一天协议 + 单词表
 - [[learning-notes/personal-english-book/life/community-management-english.md|小区物业与邻里]] — 社区沟通
 - [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] — playful reduplication、押韵口头表达、态度副词
 - [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]] — 冲突语气识别、骂人词与降火替代表达
@@ -186,6 +187,7 @@ cssclasses:
 - **比特币白皮书 ↔ 交易所 App：** [[learning-notes/personal-english-book/investing/bitcoin-whitepaper.md|比特币白皮书 — BTC]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|交易所 APP 常用场景]]（原理词 ↔ 充提币 / 链上确认）。
 - **词根词缀 ↔ 计科 AI ↔ 金融词表 ↔ 1000h：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀]] ↔ [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]] ↔ [1000h · 6.4 常见词根词缀](https://1000h.org/sounds-of-american-english/6.4-parts-of-words.html) · [6.1 有效记忆](https://1000h.org/sounds-of-american-english/6.1-effectiveness.html)。
 - **Psychology Health ↔ 情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health]] ↔ [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
+- **一天重置 ↔ 专注 ↔ 工作日 ↔ 自我对话：** [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] ↔ [[learning-notes/personal-english-book/life/focus-notes|专注/注意力]] ↔ [[learning-notes/personal-english-book/one-minute-drill/a-weekday|工作日的一天]] ↔ [[learning-notes/personal-english-book/parenting-self-talk-phrases|家长自说自话]]（身份透镜 / 每日杠杆 / *I am the type of person who...*）。
 
 ---
 

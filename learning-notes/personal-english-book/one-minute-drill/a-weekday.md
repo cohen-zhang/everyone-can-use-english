@@ -22,6 +22,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动车接送学]] — **e-bike**、送孩子上学 `亲子`
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 搭地铁、站内与车上用语
 - [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理]] — 蛋白质、少碳水等饮食说法
+- [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] — 把 **Daily lens** 落到明天 2–3 个 timeblock（对照本篇工作日动作链）
 
 **风格约束：** `english-learning-markdown-docs`（地道美式口语、短句 ≤20 词、优先短语动词）。
 

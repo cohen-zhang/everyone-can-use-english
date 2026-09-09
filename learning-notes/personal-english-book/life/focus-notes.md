@@ -10,6 +10,8 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
+**相关：** [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] — interrupting autopilot、**daily levers** ↔ 本页 focused time / dive in。
+
 ## 文章来源 Source
 
 - **作者**: Leo Babauta

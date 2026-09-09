@@ -168,6 +168,7 @@ learning-notes/
 | `community-management-english.md` | 小区生活与物业沟通英语 |
 | `emotions-adult-edition.md` | 成人情绪表达 |
 | `focus-notes.md` | 专注/注意力主题笔记 |
+| `how-to-fix-your-entire-life-in-1-day.md` | Dan Koe《一天重置人生》学习笔记 + 单词表 |
 | `introduce-myself.md` | 自我介绍表达 |
 | `personal-matters.md` | 个人事务表达 |
 | `spoken-catchphrases-reduplicatives-adverbs.md` | 口头禅、叠词与口语副词 |

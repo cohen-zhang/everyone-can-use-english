@@ -9,7 +9,8 @@ aliases:
 # Self Talk (咒语)
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]  
-**相关（收拾）：** [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]] · [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 · 乱丢 / 收拾]]
+**相关（收拾）：** [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]] · [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 · 乱丢 / 收拾]]  
+**相关（身份句）：** [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] — *I am the type of person who...*、anti-vision / vision MVP
 
 ## 概念来源 Concept Origins
 

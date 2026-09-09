@@ -169,6 +169,8 @@ tags:
 | **wet**    | 湿的  | **dry**   | 干的      | Your hair is wet. / Let's dry off. — 你的头发是湿的 / 我们来擦干              |
 | **loose**  | 松的  | **tight** | 紧的      | This hair tie is too loose. / Is it too tight? — 这个皮筋太松了 / 会不会太紧？ |
 | **hot**    | 热的  | **cold**  | 冷的      | The food is hot. / Your hands are cold. — 食物很烫 / 你的手很冷            |
+
+饮水机常见三档，不是两端对打：**cold**（冷水）／**normal**（常温）／**hot**（热水）。孩子若认出 **code** 和 **hot**，可接着问 **normal** 的意思（问句见「游戏中互动」）。面板若印的是 **cold**、孩子读成 **code**，可指着字母说：This says **cold**, not **code**.
 | **hungry** | 饿的  | **full**  | 饱的      | Are you hungry? / I'm full. — 你饿吗？/ 我饱了                           |
 | **early**  | 早的  | **late**  | 晚的      | You're early! / Don't be late. — 你来得很早！/ 别迟到                      |
 
@@ -249,6 +251,7 @@ tags:
 | **intermediate**   | 中级（课、水平、班次）                         | Swim **beginner**, **intermediate**, **advanced**—you're intermediate now. — 泳班分初级、中级、高级—你现在是中级。 |
 | **middle**         | 中间；当中（顺序、一排里正中）                     | You're in the **middle**—not first, not last. — 你排在中间—不是第一个也不是最后一个。**middle child**「中间的老二」。            |
 | **medium**         | 中等（多指尺寸、份量、火候、屏幕上「中选」那一个）           | **Medium** fries, please? / **Medium** on the heat knob. — 要中薯条吗？／旋钮拨到中等火候。（衣服 **M** = **Medium**「中号」，常跟 **S／L** 一起认。）     |
+| **normal**         | 常温（饮水机中间档）；也作「正常的」                      | You know **code** and **hot**. Do you know what **normal** means? — 你认识 code 和 hot。你知道 **normal** 是什么意思吗？（饮水机三档：冷／常温／热。**normal water**＝常温水，不冰不烫。） |
 | **mid-level**      | 中层／中档（游戏关卡、抽象「级别不高不低」）                | We'll try a **mid-level** puzzle—**not baby easy**, **not crazy hard**. — 来玩中档拼图—不过于简单也不过于难。（**average**「中等水平／普普通通」可先听力输入：**an average grade**。） |
 
 **顺带一对（位置低档↔高档，非骂人）：****bottom**（底下那一档／末位） ↔ **top**（最上一档／首位）；说「中等成绩」也可用 **middle of the pack**「夹在中间一群人里」，进阶再展开。
@@ -355,6 +358,7 @@ tags:
 
 - **What's the opposite of "big"?** — "big" 的反义词是什么？
 - **What's the opposite of "sweet"?** — "sweet"（甜）的反义词经常是 **bitter**（苦）。
+- **You know "code" and "hot". Do you know what "normal" means?** — 你认识 code 和 hot。你知道 normal 是什么意思吗？（饮水机接水；**normal**＝常温。孩子已会的两档先肯定，再问中间那一档。）
 - **Can you show me "small" with your hands?** — 你能用手比划"小"吗？
 - **Can you act out "open"?** — 你能表演"打开"吗？
 - **Say "begin" … now say "end"!** — 说「开始」——再说「结束」!
@@ -378,6 +382,7 @@ tags:
 - **Boy or girl? He or she?** — 男孩还是女孩？用 he 还是 she？（指玩偶、绘本人物练代词。）
 - **Is it a rooster or a hen? A bull or a cow?** — 公鸡还是母鸡？公牛还是母牛？（农场分类顺带练。）
 - **Can you think of another word for "big"?** — 你能想出"big"的另一个说法吗？
+- **What does "normal" mean on the water dispenser?** — 饮水机上的 normal 是什么意思？（常温；两端常是 **cold**／**hot**。）
 - **When do we say "Do this"? When do we say "Do that"?** — 什么时候说「做这个」？什么时候说「做那个」？（近指／远指）
 - **Is "Don't do that" the opposite of "Do that"?** — *Don't do that* 算 *Do that* 的反面吗？（否定指令↔允许去做，可接 **yes/no**／**okay/stop**。）
 - **When do grown-ups say "you may"? When do they say "you can't"?** — 大人什么时候说 *you may*？什么时候说 *you can't*？（可不追求唯一答案；感受「客气许可」vs「规矩不许」。）
@@ -424,6 +429,16 @@ tags:
 **家长：** Let's find it! Then you'll be happy. Happy and sad are opposites.  
 **Celine：** I want to be happy!  
 **家长：** Me too. Let's look together.
+
+---
+
+### 场景 5：饮水机三档
+
+**家长：** Look at the water dispenser. There are three buttons: code, normal, and hot.  
+**Celine：** I know code! And hot!  
+**家长：** You know **code** and **hot**. Do you know what **normal** means?  
+**Celine：** 常温？  
+**家长：** Yes. **Normal** is room-temperature water. Not cold, not hot.
 
 ---
 

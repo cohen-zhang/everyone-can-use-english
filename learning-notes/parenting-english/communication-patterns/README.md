@@ -6,4 +6,4 @@
 
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts|parenting-can-you-prompts]]
 - [[learning-notes/parenting-english/communication-patterns/parenting-can-you-questions|parenting-can-you-questions]]
-- [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|parenting-question-bank-by-category]]
+- [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|parenting-question-bank-by-category]] — 时态、意图、日常场景问句

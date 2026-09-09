@@ -20,7 +20,7 @@ aliases:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关：** 深圳小学科目与一日在校说法 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]（与此夹相向互链）。
+**相关：** 深圳小学科目与一日在校说法 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]（与此夹相向互链）。家里开口练课本问句 → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句 · 沪教教材]]（与此夹相向互链）。
 
 > **版本说明：** 单元英文标题以 2024 新课标公开目录为准。中文为亲子对照 gloss，**不是**课本封面官方译名。勿与上海 **五四制** 新教材或旧 Module 结构牛津版混用。  
 > **单元笔记：** 每单元一份核心句型 / 单词 / 词组清单，见下方 `units/` 表；以家中实体书核对。

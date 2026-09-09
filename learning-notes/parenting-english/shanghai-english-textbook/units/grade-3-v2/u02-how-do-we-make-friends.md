@@ -18,7 +18,7 @@ aliases:
 **册目录：** [[learning-notes/parenting-english/shanghai-english-textbook/grade-3-volume-2-toc|三年级下册目录]]  
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**扩展：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类]]
+**扩展：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句 · 和朋友玩／教材]]
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|爱好场景]]
 
 ---

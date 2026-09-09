@@ -263,7 +263,7 @@ Jeff 笔记里有 *6:45 a.m. = quarter to seven* 一类对照（见 [[learning-n
 | **always / usually / sometimes / never** | 总是／通常／有时／从不 | 程度副词，可和频率表一起练 |
 
 兴趣班整段 → [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|爱好场景]]。  
-提问框架 *Did you ___ today? / Will you ___ tomorrow? / Do you ___ every day?* → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|问题库 · 时态]]。
+提问框架 *Did you ___ today? / Will you ___ tomorrow? / Do you ___ every day?* → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|问题库 · 时态／日常时间段]]。
 
 ---
 
