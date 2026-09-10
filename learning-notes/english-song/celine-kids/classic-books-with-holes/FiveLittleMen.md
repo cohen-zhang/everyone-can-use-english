@@ -12,7 +12,7 @@ aliases:
 
 **书目：** *Five Little Men in a Flying Saucer*（Classic Books with Holes 系列）  
 **Illustrator:** Annie Kubler · **Publisher:** Child's Play International  
-**给 Celine 跟唱用** — 先 **5→1** 倒数（每人飞走喊 *Whoosh!*），最后一人唱 *So then he flew away!*；地球变干净后 **五人一起回来**，结尾 *So they decided to stay.*
+**给 Celine 跟唱用** — 先 **5→1** 倒数（每人飞走喊 *Whoosh!*），最后一人唱 *So then he flew away!*；接着 **0 / nobody**（飞碟里没人了）；地球变干净后 **五人一起回来**，结尾 *So they decided to stay.*
 
 **绘本说明：** Child's Play 版图画里，五个小人因地球脏乱先后飞走；结尾人类把环境收拾好，小人**乘飞碟回来并决定留下**——后半段歌词与画面一致。
 
@@ -22,7 +22,7 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 依据 Child's Play / Annie Kubler 版整理。倒数段为传统儿歌；**回来 · Came back** 为 Child's Play 环保结局专用。部分印次第二行唱 **Went round the world**；最后一节倒数常用 **So then he flew away!**
+> 依据 Child's Play / Annie Kubler 版整理。倒数段为传统儿歌；**0 · Nobody** 与 **回来 · Came back** 为 Child's Play 环保结局专用。部分印次第二行唱 **Went round the world**；最后一节倒数常用 **So then he flew away!**
 
 > 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
 > Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
@@ -74,6 +74,14 @@ But **he** didn't like the sight,
 So **then he** flew away!  
 Whoosh!
 
+#### 0 · Nobody（No little men）
+
+No little men in a flying saucer  
+Flew round the world one day.  
+**Not one** looked left and right,  
+So **nobody** saw the sight,  
+And **no one** flew away!
+
 ---
 
 #### 回来 · Came back（Child's Play 版结尾）
@@ -109,6 +117,10 @@ Yeah!
 
 最后一个小人也飞走了。嗖——！（注意 **He**、**then**，不是 *They* / *So he flew away*。）
 
+#### 0 · Nobody（No little men）
+
+飞碟里一个小人也没有。没人左看右看，所以 **nobody** 看到眼前的景象，也没人飞走。（练 **nobody** / **no one** / **not one**。）
+
 #### 回来 · Came back（Child's Play 版结尾）
 
 五个小人又飞回地球；左右看了一圈，**很喜欢**眼前的景象，于是决定留下来。好耶！
@@ -127,6 +139,8 @@ Yeah!
 | Didn't like the sight | 皱眉、摇手指 | 不喜欢 |
 | One man flew away | 收一根手指；手臂张开往后飞 | 飞走一个 |
 | Then he flew away | 最后一节：只剩一指，再收回 | 然后他也飞了 |
+| Nobody / No little men | 五指全收，握拳表示 **zero** | 一个也没有 |
+| Not one / nobody / no one | 摇头、摊手 | 没人看、没人飞走 |
 | Whoosh! | 双臂大挥、做嗖声 | 嗖——！ |
 | Came back | 五指再张开；或抱娃转一圈「飞回来」 | 飞回来 |
 | Really liked the sight | 点头、微笑 | 很喜欢 |
@@ -146,6 +160,10 @@ Yeah!
 | **three** | /θriː/ | num. | 三 | **Three** little men… |
 | **two** | /tuː/ | num. | 二 | **Two** little men… |
 | **one** | /wʌn/ | num. | 一 | **One** little man… |
+| **no** / **zero** | /noʊ/ /ˈzɪroʊ/ | — | 没有；零 | **No** little men… |
+| **nobody** | /ˈnoʊbədi/ | pron. | 没有人 | **nobody** saw the sight |
+| **no one** | /ˈnoʊ wʌn/ | pron. | 没有人（= nobody） | **no one** flew away |
+| **not one** | /nɑːt wʌn/ | — | 一个也没有 | **Not one** looked left and right |
 | **little** | /ˈlɪtl/ | adj. | 小小的 | **little** men / man |
 | **man** | /mæn/ | n. | 人；小人（单数） | one **man** flew away |
 | **men** | /men/ | n. 复数 | 人们；小人们 | little **men** |
@@ -159,6 +177,8 @@ Yeah!
 | **left** | /left/ | adv. / adj. | 左边 | looked **left** |
 | **right** | /raɪt/ | adv. / adj. | 右边 | and **right** |
 | **sight** | /saɪt/ | n. | 景象；看到的东西 | didn't like the **sight** |
+| **see** | /siː/ | v. | 看见 | — |
+| **saw** | /sɔː/ | v. 过去式 | 看见了 | nobody **saw** the sight |
 | **like** | /laɪk/ | v. | 喜欢 | didn't **like** · **liked** the sight |
 | **didn't** | /ˈdɪdnt/ | 缩写 | 没有（did not） | **didn't** like |
 | **away** | /əˈweɪ/ | adv. | 离开；飞走 | flew **away** |
@@ -186,6 +206,7 @@ Yeah!
 | --- | --- | --- |
 | 5–2 人 | **… little men**（复数） | Five / Four / Three / Two little **men**… |
 | 1 人 | **… little man**（单数） | One little **man**… |
+| 0 人 | **no little men** / **nobody** / **no one** | **No** little men… **nobody** saw… **no one** flew away |
 | 飞走一个 | **one man** flew away | So **one man** flew away. |
 | 最后一个 | **then he** flew away | So **then he** flew away! |
 | 五人同回 | **five little men**（复数） | **Five** little men… **came back** |
@@ -198,9 +219,10 @@ Yeah!
 | --- | --- | --- |
 | five / four / three / two **men** | **They** | **They** looked left and right. · **They** didn't like… |
 | one **man** | **He** | **He** looked left and right. · **He** didn't like… |
+| 0 人 | **nobody** / **no one** / **not one** | **Not one** looked… · **nobody** saw… · **no one** flew away |
 | five **men**（回来段） | **They** | **They** looked… · **they** really liked… · **they** decided… |
 
-**跟娃练一句：** *Many men? **They** look. One man? **He** looks.* — 好多人用 **they**，一个人用 **he**。（*look / looks* 是现在时；歌词里讲故事用过去式 **looked**，见下节「时态说明」。）
+**跟娃练一句：** *Many men? **They** look. One man? **He** looks. Nobody? **Nobody** looks.* — 好多人用 **they**，一个人用 **he**，没有人用 **nobody**。（*look / looks* 是现在时；歌词里讲故事用过去式 **looked** / **saw**，见下节「时态说明」。）
 
 ### 3 · flying saucer、world、sight：始终单数
 
@@ -233,6 +255,7 @@ Yeah!
 | **fly** | **flew** | 飞走 | **Flew** round the world. · **then he flew** away |
 | **come back** | **came back** | 回来 | **Came back** to the world. |
 | **look** | **looked** | 看 | They **looked** left and right. |
+| **see** | **saw** | 看见 | **nobody saw** the sight |
 | **like** | **liked** | 喜欢 | they **really liked** the sight |
 | **decide** | **decided** | 决定 | they **decided** to stay |
 
@@ -276,10 +299,11 @@ Yeah!
 | --- | --- |
 | How many men at the start? | **Five** little men. |
 | One flew away. How many now? | **Four**! |
-| …then? | **Three** → **Two** → **One** → **None** / zero! |
+| …then? | **Three** → **Two** → **One** → **Nobody** / zero! |
 | Last man—what does he do? | **Then he flew away!** |
+| After that—who is in the saucer? | **Nobody!** / **No little men.** |
 
-**减法句型：** *Five take away one is four.* — 五减一等于四。
+**减法句型：** *Five take away one is four.* — 五减一等于四。*One take away one is zero.* — 一减一等于零。
 
 **后半段（回来）：**
 

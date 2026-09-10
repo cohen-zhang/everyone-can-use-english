@@ -12,7 +12,7 @@ aliases:
 
 **书目：** *The Wheels on the Bus Go Round and Round*（Classic Books with Holes 系列）  
 **Illustrator:** Annie Kubler · **Publisher:** Child's Play International  
-**给 Celine 跟唱用** — 每节重复三次中间行，结尾唱 *All day long.*
+**给 Celine 跟唱用** — 每节重复三次中间行，结尾唱 *All day long.* 绘本最后一页是派对：*The children on the bus say, "Party time!"*
 
 **相关：** [[learning-notes/english-song/celine-kids/classic-books-with-holes/DownByTheStation|Down by the Station]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleMen|Five Little Men in a Flying Saucer]]（同系列）· [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏]]（儿歌 *Open Shut Them* 等可一起练动作）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
@@ -20,7 +20,7 @@ aliases:
 
 ## 歌词 · Lyrics
 
-> 依据 Child's Play / Annie Kubler 版绘本歌词整理。部分印次结尾唱 **All around the town** 或 **All through the town**，与 **All day long** 同位替换即可。
+> 依据 Child's Play / Annie Kubler 版绘本歌词整理。部分印次结尾唱 **All around the town** 或 **All through the town**，与 **All day long** 同位替换即可。绘本以 **Party time** 收尾；跟唱 CD 有时会再把 **wheels** 唱一遍。
 
 > 学习建议：先只看 **英文歌词** 跟唱；需要核对意思时，再往下看 **中文翻译**。
 > Study tip: Sing along with **English Lyrics** first; scroll down to **Chinese Translation** only when you need meaning.
@@ -76,11 +76,11 @@ The people on the bus say, "Ssh, ssh, ssh,"
 The people on the bus say, "Ssh, ssh, ssh,"  
 All day long.
 
-#### 8 · Wheels（重复）轮子
+#### 8 · Children 孩子们（绘本结尾）
 
-The wheels on the bus go round and round,  
-Round and round, round and round.  
-The wheels on the bus go round and round,  
+The children on the bus say, "**Party time!**  
+Party time! Party time!"  
+The children on the bus say, "**Party time!**"  
 All day long.
 
 ---
@@ -115,9 +115,9 @@ All day long.
 
 乘客们嘘——小声点。
 
-#### 8 · Wheels（重复）轮子
+#### 8 · Children 孩子们（绘本结尾）
 
-轮子再转一圈，结束啦。
+孩子们喊：派对时间到啦！`亲子`
 
 ## 跟唱提示 · Sing-along tips
 
@@ -130,6 +130,7 @@ All day long.
 | Parents | 双手做聊天手势 | 聊天 |
 | Babies | 揉眼睛做哭脸 | 宝宝哭 |
 | People | 食指竖在唇边 | 嘘—— |
+| Children / Party time | 举手欢呼，或拍手 | 派对开始啦 |
 
 ---
 
@@ -161,6 +162,11 @@ All day long.
 | **person** | /ˈpɜːrsn/ | n. | 人（单数） | — |
 | **people** | /ˈpiːpl/ | n. 复数 | 人们；乘客们 | The **people** say, "Ssh, ssh, ssh." |
 | **ssh** / **shh** | /ʃ/ | 拟声 | 嘘—— | Ssh, ssh, ssh. |
+| **child** | /tʃaɪld/ | n. | 孩子（单数） | — |
+| **children** | /ˈtʃɪldrən/ | n. 复数 | 孩子们 | The **children** say, "Party time!" |
+| **party** | /ˈpɑːrti/ | n. | 派对 | **Party** time! |
+| **time** | /taɪm/ | n. | 时间 | Party **time**! |
+| **day** | /deɪ/ | n. | 一天 | All **day** long. |
 | **day** | /deɪ/ | n. | 一天 | All **day** long. |
 | **long** | /lɔːŋ/ | adj. / adv. | 长久地 | All day **long**. — 一整天 |
 | **go** | /ɡoʊ/ | v. | 做；发出（动作／声音） | The wheels **go** round. |
@@ -183,6 +189,7 @@ All day long.
 | ticket | **tickets** | 车上 **很多人**，每人一张票 | "**Tickets** please!" |
 | parent | **parents** | 车上 **不止一位家长** | The **parents** go chat… |
 | baby | **babies** | 车上 **不止一个宝宝**；`-y` 结尾变 `-ies` | The **babies** go wah… |
+| child | **children** | 不规则复数（不是 *childs*） | The **children** say, "Party time!" |
 
 **记忆：** 数得清「好几个」→ 常用复数 + **s**（或 **-ies**）。
 
@@ -221,7 +228,7 @@ Swish, swish, swish. — 唰、唰、唰（三遍好听，不是三只雨刷各�
 | --- | --- | --- | --- |
 | **go** | 复数主语（wheels, wipers, parents, babies） | 做；发出 | The wheels **go** round and round. |
 | **goes** | 单数主语（horn, driver 的喇叭声） | 做；发出（三单） | The horn **goes** beep, beep, beep. |
-| **say** | 复数主语（people） | 说 | The people **say**, "Ssh…" |
+| **say** | 复数主语（people, children） | 说 | The people **say**, "Ssh…" · The children **say**, "Party time!" |
 | **says** | 单数主语（driver） | 说（三单） | The driver **says**, "Tickets please!" |
 
 **go / goes、say / says** 都是**现在时**；第三人称单数（he / she / it / 一个 horn / 一个 driver）动词尾加 **-s** 或变 **says**。
@@ -230,7 +237,7 @@ Swish, swish, swish. — 唰、唰、唰（三遍好听，不是三只雨刷各�
 
 | 主语 | 单复数 | 动词 | 歌词 |
 | --- | --- | --- | --- |
-| wheels, wipers, parents, babies, people | 复数 | **go** / **say** | The wheels **go**… · The people **say**… |
+| wheels, wipers, parents, babies, people, children | 复数 | **go** / **say** | The wheels **go**… · The people **say**… · The children **say**… |
 | horn, driver | 单数 | **goes** / **says** | The horn **goes**… · The driver **says**… |
 
 **跟娃练一句：** *One driver **says**. Many babies **go**.* — 一个司机 **says**，很多宝宝 **go**。
