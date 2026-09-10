@@ -22,7 +22,8 @@ SOURCE_EXTS = (".txt", ".yaml", ".yml")
 _stem_to_paths: dict[str, list[str]] | None = None
 _repo_root: Path | None = None
 _docs_dir: Path | None = None
-_episode_titles: dict[int, dict[str, str]] | None = None
+# (season, episode) → {theme, slug, ...}
+_episode_titles: dict[tuple[int, int], dict[str, str]] | None = None
 
 EPISODE_NUM = re.compile(r"s(\d+)e(\d+)", re.IGNORECASE)
 SCENE_INDEX_THEME = re.compile(
@@ -30,24 +31,40 @@ SCENE_INDEX_THEME = re.compile(
 )
 
 
-def _episode_num_from_name(name: str) -> int | None:
+def _season_ep_from_name(name: str) -> tuple[int, int] | None:
     match = EPISODE_NUM.search(name)
-    return int(match.group(2)) if match else None
+    if not match:
+        return None
+    return int(match.group(1)), int(match.group(2))
 
 
-def _load_episode_titles(docs_dir: Path) -> dict[int, dict[str, str]]:
-    path = docs_dir / "tv-series/modern-family/s01/episode-titles.yaml"
-    if not path.is_file() or yaml is None:
-        return {}
-    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-    episodes = data.get("episodes") or {}
-    return {int(ep): meta for ep, meta in episodes.items()}
+def _load_episode_titles(docs_dir: Path) -> dict[tuple[int, int], dict[str, str]]:
+    """Load every ``modern-family/sXX/episode-titles.yaml`` keyed by (season, episode)."""
+    out: dict[tuple[int, int], dict[str, str]] = {}
+    if yaml is None:
+        return out
+    root = docs_dir / "tv-series/modern-family"
+    if not root.is_dir():
+        return out
+    for path in sorted(root.glob("s*/episode-titles.yaml")):
+        season_m = re.search(r"s(\d+)$", path.parent.name, re.I)
+        if not season_m:
+            continue
+        season = int(season_m.group(1))
+        data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        for ep, meta in (data.get("episodes") or {}).items():
+            out[(season, int(ep))] = meta if isinstance(meta, dict) else {}
+    return out
 
 
-def _episode_theme(ep: int | None, titles: dict[int, dict[str, str]]) -> str:
-    if not ep:
+def _episode_theme(
+    season: int | None,
+    ep: int | None,
+    titles: dict[tuple[int, int], dict[str, str]],
+) -> str:
+    if not season or not ep:
         return ""
-    return str((titles.get(ep) or {}).get("theme") or "").strip()
+    return str((titles.get((season, ep)) or {}).get("theme") or "").strip()
 
 
 def _theme_from_transcript_txt(txt_path: Path) -> str:
@@ -56,9 +73,12 @@ def _theme_from_transcript_txt(txt_path: Path) -> str:
 
 
 def _page_title_for_episode(
-    ep: int, kind: str, titles: dict[int, dict[str, str]]
+    season: int,
+    ep: int,
+    kind: str,
+    titles: dict[tuple[int, int], dict[str, str]],
 ) -> str | None:
-    theme = _episode_theme(ep, titles)
+    theme = _episode_theme(season, ep, titles)
     if not theme:
         return None
     suffix = {
@@ -69,40 +89,42 @@ def _page_title_for_episode(
     }.get(kind)
     if not suffix:
         return None
-    return f"S01E{ep:02d} · {theme} — {suffix}"
+    return f"S{season:02d}E{ep:02d} · {theme} — {suffix}"
 
 
-def _kind_from_path(src_path: str) -> tuple[int | None, str | None]:
+def _kind_from_path(src_path: str) -> tuple[int | None, int | None, str | None]:
     src = src_path.replace("\\", "/")
-    if "tv-series/modern-family/s01" not in src:
-        return None, None
-    ep = _episode_num_from_name(src)
-    if not ep:
-        return None, None
+    if "tv-series/modern-family/s" not in src:
+        return None, None, None
+    se = _season_ep_from_name(src)
+    if not se:
+        return None, None, None
+    season, ep = se
     name = Path(src).name
     if "/transcript/" in src and name.endswith("-transcript.md"):
-        return ep, "transcript"
+        return season, ep, "transcript"
     if "/transcript/" in src and "daily-lines" in name:
-        return ep, "transcript-hand"
+        return season, ep, "transcript-hand"
     if "/notes/" in src and name.endswith("-daily-lines.md"):
-        return ep, "daily-lines"
+        return season, ep, "daily-lines"
     if "key-to-being-a-great-dad" in name:
-        return ep, "key-dad"
-    return ep, None
+        return season, ep, "key-dad"
+    return season, ep, None
 
 
 def _default_link_title(raw: str) -> str:
-    ep = _episode_num_from_name(raw)
+    se = _season_ep_from_name(raw)
     titles = _episode_titles or {}
-    if ep and titles:
+    if se and titles:
+        season, ep = se
         if "-transcript" in raw or raw.endswith(".txt"):
-            theme = _episode_theme(ep, titles)
+            theme = _episode_theme(season, ep, titles)
             if theme:
-                return f"S01E{ep:02d} · {theme} — 字幕"
+                return f"S{season:02d}E{ep:02d} · {theme} — 字幕"
         if "-daily-lines" in raw:
-            theme = _episode_theme(ep, titles)
+            theme = _episode_theme(season, ep, titles)
             if theme:
-                return f"S01E{ep:02d} · {theme} — 场景句"
+                return f"S{season:02d}E{ep:02d} · {theme} — 场景句"
     return PurePosixPath(raw.replace("\\", "/")).name
 
 
@@ -127,7 +149,9 @@ def _cleanup_generated_transcript_pages(transcript_dir: Path) -> None:
             path.unlink()
 
 
-def _generate_transcript_md_pages(docs_dir: Path, titles: dict[int, dict[str, str]]) -> None:
+def _generate_transcript_md_pages(
+    docs_dir: Path, titles: dict[tuple[int, int], dict[str, str]]
+) -> None:
     """Build companion ``.md`` pages for ``transcript/`` ``.txt`` and ``.yaml`` sources."""
     for transcript_dir in docs_dir.rglob("transcript"):
         if not transcript_dir.is_dir():
@@ -137,8 +161,11 @@ def _generate_transcript_md_pages(docs_dir: Path, titles: dict[int, dict[str, st
         for txt_path in sorted(transcript_dir.glob("*-transcript.txt")):
             body = txt_path.read_text(encoding="utf-8", errors="replace")
             label = _episode_label_from_name(txt_path.name)
-            ep = _episode_num_from_name(txt_path.name)
-            theme = _episode_theme(ep, titles) or _theme_from_transcript_txt(txt_path)
+            se = _season_ep_from_name(txt_path.name)
+            theme = ""
+            if se:
+                theme = _episode_theme(se[0], se[1], titles)
+            theme = theme or _theme_from_transcript_txt(txt_path)
             if theme:
                 page_title = f"{label} · {theme} — 字幕"
             else:
@@ -178,9 +205,9 @@ def on_config(config, **kwargs):
 
 
 def on_pre_page(page, **kwargs):
-    ep, kind = _kind_from_path(page.file.src_path)
-    if ep and kind and _episode_titles:
-        title = _page_title_for_episode(ep, kind, _episode_titles)
+    season, ep, kind = _kind_from_path(page.file.src_path)
+    if season and ep and kind and _episode_titles:
+        title = _page_title_for_episode(season, ep, kind, _episode_titles)
         if title:
             page.title = title
     return page
@@ -517,6 +544,7 @@ _NAV_FOLDER_DISPLAY = {
     "scripts": "剧本与语料",
     "characters": "人物",
     "s01": "第一季",
+    "s02": "第二季",
     "notes": "笔记",
     "transcript": "字幕",
     "one-minute-drill": "1分钟练习",

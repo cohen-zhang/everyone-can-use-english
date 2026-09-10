@@ -160,3 +160,4 @@ learning-notes/**/transcript/*-scenes.md
 .venv-mkdocs/
 .venv-docs/
 .venv-tts/
+.tmp-mf-src/
