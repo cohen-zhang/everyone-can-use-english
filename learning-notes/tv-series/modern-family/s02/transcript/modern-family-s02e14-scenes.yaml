@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e14-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E14
+episode_arc: 板凳球员 / 篮球
+timeline_note: 情人节三线：Phil/Claire 角色扮演、Jay/Gloria 餐厅对赌、Cam 吃 Broderick 的醋
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家 / 旁白
+    summary: Ibiza 预订；去年 Clive 与 Juliana
+  - scenes: "03"
+    place: Mitch 办公室
+    summary: 花送错；Cam 认定助理暗恋 Mitch
+  - scenes: "04–07"
+    place: Ibiza / 酒店
+    summary: 早鸟晚餐；Segway；Juliana 来电；Phil 想甩局
+  - scenes: "08–09"
+    place: 餐厅门口
+    summary: Jay 买通拒位；Gloria 拿到预订
+  - scenes: "10"
+    place: 邓菲家
+    summary: Haley 被放鸽子；Manny 放长线
+  - scenes: "11"
+    place: Mitch 办公室
+    summary: Cam 对峙 Broderick，对方承认暗恋的是 Cam
+  - scenes: "12–14"
+    place: 酒店 / Ibiza
+    summary: Clive 酒吧戏；Gloria 死守座位；找错房差点被捕
+  - scenes: "15"
+    place: Ibiza
+    summary: Cam/Mitch 争谁被暗恋
+  - scenes: "16"
+    place: Jay 家
+    summary: 私厨惊喜对赌；Gloria 再赢一辆摩托
+  - scenes: "17–18"
+    place: 车内 / 回家
+    summary: Broderick 辞职；Phil 用本色挽回夜晚
+  - scenes: "19"
+    place: 邓菲家
+    summary: Haley 分手短信；Dylan 窗下演唱
+  - scenes: "20"
+    place: 片尾
+    summary: 摩托兜风；外卖小哥 Ryan
+
+scenes:
+  - id: "01"
+    place: 邓菲家 / 电话
+    plot: Claire 订 Ibiza；纠正发音；Phil 学舌动物园。
+    characters: Phil, Claire
+    timeline: 情人节当日
+    anchor: So, honey, Ibiza can only
+  - id: "02"
+    place: 旁白 · 去年情人节
+    plot: 回忆 Clive/Juliana；海莉在大厅丢内裤。
+    characters: Phil, Claire, Haley, Jay
+    timeline: 闪回 + 旁白
+    anchor: This year for Valentine's Day,
+  - id: "03"
+    place: Mitch 律师事务所
+    plot: Cam 送花被助理截胡；认定 Broderick 暗恋 Mitch。
+    characters: Mitchell, Cameron, Broderick
+    timeline: 情人节下午
+    anchor: What's happening? - Flowers?
+  - id: "04"
+    place: Ibiza 餐厅
+    plot: 六点半早鸟座；两人发誓不再扮青少年。
+    characters: Phil, Claire
+    timeline: 情人节傍晚
+    anchor: I was a little concerned when
+  - id: "05"
+    place: Ibiza 门外
+    plot: 老人骑 Segway 撞上；Phil 玩疯，Claire 不想今晚就老。
+    characters: Phil, Claire
+    timeline: 紧接上一场
+    anchor: Oh, my gosh!
+  - id: "06"
+    place: Ibiza · 电话
+    plot: Juliana 打来；Claire 拉 Phil 入戏，约酒店。
+    characters: Phil, Claire
+    timeline: 晚餐中
+    anchor: Hello, may I speak to Clive?
+  - id: "07"
+    place: Ibiza · 餐桌
+    plot: Phil 用角色扮演甩局；Claire 又气又上头。
+    characters: Phil, Claire
+    timeline: 紧接来电
+    anchor: So... Champagne?
+  - id: "08"
+    place: 餐厅门口
+    plot: Jay 谎称秘书没订；买通侍者拒位，好回家给惊喜。
+    characters: Jay, Gloria
+    timeline: 平行线 · 傍晚
+    anchor: So, no one walks anymore!
+  - id: "09"
+    place: 餐厅
+    plot: Gloria 找到 Pritchett 预订，硬是坐了进去。
+    characters: Gloria, Jay
+    timeline: 紧接上一场
+    anchor: Jay, come here. We're in.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: Haley 被 David 放鸽子；Manny 趁机追求「做自己」。
+    characters: Haley, Manny, Alex
+    timeline: 情人节夜
+    anchor: Just a reminder. I need the television at 8:00.
+  - id: "11"
+    place: Mitch 办公室
+    plot: Cam 接 Mitch 去吃饭；与 Broderick 摊牌，对方说暗恋的是 Cam。
+    characters: Cameron, Broderick, Mitchell
+    timeline: 傍晚
+    anchor: Cameron! Is there something I can do you for?
+  - id: "12"
+    place: 酒店酒吧
+    plot: Clive 与 Juliana 角色扮演；她上楼留房卡。
+    characters: Phil, Claire
+    timeline: 晚餐之后
+    anchor: You're looking handsome as ever, Clive.
+  - id: "13"
+    place: Ibiza
+    plot: Gloria 死守座位；Cam 以 Pritchett 之名把他们轰走。
+    characters: Jay, Gloria, Cameron
+    timeline: 平行线
+    anchor: Jay, relax. - I'm sorry. The place is a dump.
+  - id: "14"
+    place: 酒店走廊 / 客房
+    plot: 两人找错房间；Phil 差点被当闯入者。
+    characters: Phil, Claire
+    timeline: 酒店中段
+    anchor: Hello. - Hello, Clive.
+  - id: "15"
+    place: Ibiza · 餐桌
+    plot: Cam 道歉又暗示助理迷的是自己；两人争风要去对质。
+    characters: Mitchell, Cameron
+    timeline: 晚餐
+    anchor: By the way, I need to apologize to you.
+  - id: "16"
+    place: Jay 家 · 门外/室内
+    plot: Gloria 不肯进屋；Jay 强抱进去；私厨对赌，Gloria 再赢摩托车。
+    characters: Jay, Gloria
+    timeline: 晚间
+    anchor: Would you please just come in the house?!
+  - id: "17"
+    place: 车内
+    plot: Broderick 辞职短信；两人决定更珍惜彼此。
+    characters: Mitchell, Cameron
+    timeline: 离开餐厅后
+    anchor: Let's go. - So we're really doing this?
+  - id: "18"
+    place: 车内 → 回家
+    plot: Phil 放弃 Clive/Juliana，用本色 Phil 和 Claire 把卧室当酒店。
+    characters: Phil, Claire
+    timeline: 夜深
+    anchor: What are you doing?
+  - id: "19"
+    place: 邓菲家 · 室内
+    plot: Haley 发分手短信；Manny 劝她做自己；Dylan 窗下演唱。
+    characters: Haley, Manny, Dylan, Claire
+    timeline: 同夜
+    anchor: '"I can''t be the girl you want me to be, David.'
+  - id: "20"
+    place: 公路 / 家门口 · 片尾
+    plot: Jay Gloria 骑摩托；外卖小哥 Ryan 又来献殷勤。
+    characters: Jay, Gloria, Phil
+    timeline: 片尾 tag
+    anchor: Salud, Jay!

@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e20-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E20
+episode_arc: 照看 Lily
+timeline_note: 三线同日：谁当 Lily 监护人、卢克看心理医生、海莉带艾丽克斯闯祸
+
+index_groups:
+  - scenes: "01–06"
+    place: Jay 家 · 突访
+    summary: 考察监护人；闪回邓菲家火灾；歌洛莉亚抢着带 Lily
+  - scenes: "07–09"
+    place: 邓菲家 / 诊所 / 车内
+    summary: 克莱尔带卢克看心理医生；海莉被迫捎艾丽克斯
+  - scenes: "10–14"
+    place: 体育用品店 / 诊所
+    summary: 卡姆质疑杰；医生说卢克只是分心；攀岩墙翻车
+  - scenes: "15–18"
+    place: 学校 / Jay 家
+    summary: 海莉艾丽克斯报复同学；歌洛莉亚给 Lily 穿耳洞
+  - scenes: "19–21"
+    place: 车内 / 停车场 / 回家
+    summary: 菲尔克莱尔和解却把卢克忘在车库；杰给曼尼打气
+  - scenes: "22–23"
+    place: Jay 家晚会 / tag
+    summary: 宣布杰和歌洛莉亚为监护人；卡姆偷偷给自己穿耳
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 客厅（冷开场）
+    plot: 米奇卡姆突然上门；歌洛莉亚用法压咖啡殷勤待客。
+    characters: Gloria, Mitchell, Cameron, Lily
+    timeline: 当日
+    anchor: Want some coffee?
+  - id: "02"
+    place: Jay 家 · 旁白
+    plot: 两人在修订遗嘱，突击考察谁能照顾 Lily。
+    characters: Mitchell, Cameron
+    timeline: 旁白说明
+    anchor: So, Cam and I have been revising our will
+  - id: "03"
+    place: 邓菲家 · 闪回
+    plot: 上周突访邓菲家：锅着火、卢克杂耍、海莉被锁车库。
+    characters: Claire, Phil, Haley, Luke, Mitchell, Cameron
+    timeline: 上周闪回
+    anchor: You win the award for worst mother ever!
+  - id: "04"
+    place: Jay 家 · 电话
+    plot: 卡姆给暴风雪中的妈妈打电话，考察密苏里方案失败。
+    characters: Cameron, Mitchell
+    timeline: 同日
+    anchor: So, mama, you're good for coal?!
+  - id: "05"
+    place: Jay 家 · 出门
+    plot: 杰要带曼尼去体育用品店置办露营装备。
+    characters: Jay, Manny, Gloria, Mitchell, Cameron
+    timeline: 同日
+    anchor: Manny, I got to get you down to that sporting-goods place.
+  - id: "06"
+    place: Jay 家 · 门厅
+    plot: 歌洛莉亚留下带 Lily，听监护人话题立刻抢着答应。
+    characters: Gloria, Mitchell, Cameron, Lily, Jay
+    timeline: 同日
+    anchor: If you want, I can stay with the little princess.
+  - id: "07"
+    place: 邓菲家 · 出门
+    plot: 克莱尔瞒着菲尔带卢克去看心理医生；海莉被迫捎艾丽克斯。
+    characters: Phil, Claire, Luke, Haley, Alex
+    timeline: 平行线
+    anchor: So, what do you say, pal? I got to swing by the office.
+  - id: "08"
+    place: 心理诊所
+    plot: 菲尔靠日历记号跟踪而来；卢克进诊室。
+    characters: Claire, Phil, Luke, Dr. Klausner
+    timeline: 同日
+    anchor: Ms. Dunphy?
+  - id: "09"
+    place: 车内 · 海莉与艾丽克斯
+    plot: 大提琴老师不在；海莉拉妹妹去报复说她坏话的同学。
+    characters: Haley, Alex
+    timeline: 平行线
+    anchor: That's weird.  My cello teacher's car isn't here.
+  - id: "10"
+    place: 体育用品店
+    plot: 卡姆觉得杰不适合当监护人；曼尼对露营紧张到想装病。
+    characters: Cameron, Mitchell, Jay, Manny
+    timeline: 平行线
+    anchor: Ooh, maybe I should also get a gift for my aunt Pat.
+  - id: "11"
+    place: 心理诊所 · 候诊
+    plot: 克莱尔为瞒诊道歉；菲尔怕卢克被贴上「不一样」的标签。
+    characters: Claire, Phil
+    timeline: 同日
+    anchor: I'm sorry I went behind your back.
+  - id: "12"
+    place: 心理诊所 · 反馈
+    plot: 医生说卢克聪明但易分心；克莱尔脱口「我怕他变成你」。
+    characters: Dr. Klausner, Claire, Phil, Luke
+    timeline: 同日
+    anchor: Mr. And mrs. Dunphy? - Yes?
+  - id: "13"
+    place: 邓菲家 · 闪回罐头
+    plot: 卢克甩头看罐头静止，菲尔觉得「完全正确」。
+    characters: Luke, Claire, Phil
+    timeline: 闪回对照
+    anchor: He's totally right!
+  - id: "14"
+    place: 体育用品店 · 攀岩墙
+    plot: 杰逼曼尼爬墙；卡姆示范却被放下去摔伤。
+    characters: Jay, Manny, Cameron, Mitchell
+    timeline: 同日
+    anchor: Damn it, Manny! Move it! Go!
+  - id: "15"
+    place: 学校 · 储物柜/更衣室
+    plot: 海莉往同学柜里塞剃须膏，两人躲进男更衣室。
+    characters: Haley, Alex
+    timeline: 平行线
+    anchor: This is a mistake.
+  - id: "16"
+    place: 体育用品店 · 休息区
+    plot: 卡姆夸张腰椎受伤，讽刺杰家不配当监护人。
+    characters: Cameron, Mitchell, Jay
+    timeline: 同日
+    anchor: So, how you doing?
+  - id: "17"
+    place: Jay 家 · 归来
+    plot: 歌洛莉亚给 Lily 穿了耳洞，米奇卡姆崩溃。
+    characters: Gloria, Mitchell, Cameron, Lily
+    timeline: 同日午后
+    anchor: HOLA, HOLA!
+  - id: "18"
+    place: 学校更衣室
+    plot: 姐妹坦白：艾丽克斯恨大提琴却不敢放弃「完美」。
+    characters: Haley, Alex
+    timeline: 同日
+    anchor: I actually -- I think we're good.
+  - id: "19"
+    place: 车内
+    plot: 克莱尔解释怕卢克继承菲尔的分心；两人发现孩子没在车上。
+    characters: Claire, Phil
+    timeline: 同日傍晚
+    anchor: Phil, I'm just not sure you understand
+  - id: "20"
+    place: 停车场车库
+    plot: 卢克独自流浪一天还参加了婚礼；克莱尔承认自己就是爱担心。
+    characters: Claire, Phil, Luke
+    timeline: 傍晚
+    anchor: Where are my keys?
+  - id: "21"
+    place: 车内 · Jay 与曼尼
+    plot: 曼尼怕露营洗澡露出身高；杰说他已经是最勇敢的小孩。
+    characters: Jay, Manny, Cameron
+    timeline: 傍晚
+    anchor: Cam?
+  - id: "22"
+    place: Jay 家 · 晚会
+    plot: 宣布杰和歌洛莉亚为 Lily 监护人；海莉艾丽克斯去了警察局。
+    characters: Cameron, Mitchell, Jay, Gloria, Claire, Phil
+    timeline: 当晚
+    anchor: I mean, what were you thinking, Gloria?
+  - id: "23"
+    place: Mitch & Cam 家 · tag
+    plot: 卡姆趁家里没人给自己穿了耳洞，拉米奇一起拍照。
+    characters: Cameron, Mitchell
+    timeline: 片尾
+    anchor: Oh, hey, what are you doing home?

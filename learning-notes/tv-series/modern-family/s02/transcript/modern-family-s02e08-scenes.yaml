@@ -1,0 +1,175 @@
+# Scene markers for modern-family-s02e08-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E08
+episode_arc: 曼尼打猎
+timeline_note: 曼尼生日会为框；邓菲赛车、Jay 气枪与童年、Mitch/Cam 买礼物三线闪回交叉
+
+index_groups:
+  - scenes: "01–03"
+    place: 生日会框 / 邓菲家 / 商场
+    summary: 曼尼开场演讲；邓菲催出门；Mitch 与 Cam 买礼物
+  - scenes: "04–06"
+    place: Jay 家 / 邓菲家
+    summary: 找钥匙；家庭夏令营；气枪礼物「生来就十六」
+  - scenes: "07–10"
+    place: 车内
+    summary: 曼尼恶作剧电话；Phil 与 Claire 分头飙车
+  - scenes: "11–14"
+    place: 商场 / Jay 家
+    summary: Helen 与 Donald；钥匙架；曼尼「当男孩」
+  - scenes: "15–18"
+    place: 车内 / Jay 家后院
+    summary: 有趣的爸；信任之蛋；曼尼小岛与 Gloria 开枪
+  - scenes: "19–21"
+    place: 街头 / 车内
+    summary: 快闪舞；Claire 要当有趣的妈；Jay 藏钥匙
+  - scenes: "22–24"
+    place: 路口 / 餐厅 / Jay 家
+    summary: 对向飙车相撞；生日会收尾；再藏钥匙 tag
+
+scenes:
+  - id: "01"
+    place: 餐厅 · 曼尼生日会（闪回框）
+    plot: 曼尼致辞：差点因虚度童年而不想来。
+    characters: Manny
+    timeline: 派对现场（后文大量闪回）
+    anchor: Good afternoon. Thanks for coming.
+  - id: "02"
+    place: 邓菲家 · 出门
+    plot: Claire 催全家去生日会；Luke 没穿鞋。
+    characters: Claire, Luke, Phil, Haley, Alex
+    timeline: 派对前
+    anchor: Come on, everybody!
+  - id: "03"
+    place: 商场
+    plot: Mitch 嫌 Cam 磨蹭；Cam 骂他典型 Pritchett。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Would you relax?
+  - id: "04"
+    place: Jay 家 · 门口
+    plot: Jay 找不到钥匙，旁白吐槽 Gloria 慢。
+    characters: Jay, Gloria
+    timeline: 平行线
+    anchor: I'm looking for the keys!
+  - id: "05"
+    place: 邓菲家
+    plot: Phil 填家庭夏令营表；Claire 对去年彩弹大战余怒；两人赌谁先到餐厅。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 出门前
+    anchor: Yeah, yeah, just filling out the application to family camp.
+  - id: "06"
+    place: Jay 家
+    plot: Jay 送气枪；说 Manny「生来就十六岁」；两人互推钥匙责任。
+    characters: Jay, Manny, Gloria
+    timeline: 同日
+    anchor: How do I look?
+  - id: "07"
+    place: Jay 家 · 旁白
+    plot: Manny 觉得错过童年，开始恶作剧电话、兑汽水。
+    characters: Manny
+    timeline: 同日
+    anchor: Happy birthday, old man.
+  - id: "08"
+    place: Phil 车内
+    plot: Phil 闯灯抄近路，把「曼尼生日」当成以后顶 Claire 的万能借口。
+    characters: Phil, Haley, Alex
+    timeline: 赛车中
+    anchor: Dad, that was a stop sign.
+  - id: "09"
+    place: Claire 车内
+    plot: Luke 以为父母要离婚；Claire 解释只是分车比赛。
+    characters: Claire, Luke
+    timeline: 赛车中
+    anchor: We are so kicking your dad's butt!
+  - id: "10"
+    place: Phil 车内
+    plot: 爆胎后 Phil 仍谈团队与夏令营；海莉崩溃不想再去。
+    characters: Phil, Haley, Alex
+    timeline: 赛车中段
+    anchor: Great. Mom gets to be right again.
+  - id: "11"
+    place: 商场 · 天桥
+    plot: Cam 帮 Donald 追 Helen，把手机递过去撮合；Mitch 急着赶派对。
+    characters: Cameron, Mitchell, Donald, Helen
+    timeline: 平行线
+    anchor: Eight minutes talking to the lady at the stationery store
+  - id: "12"
+    place: Jay 家
+    plot: Manny 打恶作剧电话找 Butts；Jay 逼 Gloria 用钥匙架。
+    characters: Manny, Jay, Gloria
+    timeline: 同日
+    anchor: Uh, yes, hello. Is Seymour Butts there?
+  - id: "13"
+    place: Jay 家 · 客厅
+    plot: Manny 故意幼稚（倒果汁、自称男孩）；Gloria 继续找钥匙。
+    characters: Manny, Jay, Gloria
+    timeline: 同日
+    anchor: Stop screaming!
+  - id: "14"
+    place: 商场
+    plot: Helen 掉手机、不敢下楼；Cam 抱她下去，发现 Donald 有老婆。
+    characters: Cameron, Mitchell, Helen, Donald
+    timeline: 平行线
+    anchor: You all right? You okay?
+  - id: "15"
+    place: Claire 车内
+    plot: Claire 质问 Luke 为何跟爸；Luke 说爸更有趣，Claire 只是「好人」。
+    characters: Claire, Luke
+    timeline: 赛车后段
+    anchor: I get it, Luke. You think he's the fun one.
+  - id: "16"
+    place: Phil 车内 · 信任之蛋
+    plot: 女儿们坦白不想去家庭夏令营；Phil 哭成一团，互喊 daddy。
+    characters: Phil, Haley, Alex
+    timeline: 同日
+    anchor: Hey, what do we call daddy's car, girls?
+  - id: "17"
+    place: Jay 家
+    plot: Gloria 在包里翻出钥匙，怀疑 Jay 塞进去；Manny 在小岛上取消派对。
+    characters: Gloria, Jay, Manny
+    timeline: 同日
+    anchor: How come I do all the looking and you do all the sitting?
+  - id: "18"
+    place: Jay 家 · 泳池小岛
+    plot: Gloria 受不了两个固执男人，开枪打沉小岛，带枪把 Manny 押上车。
+    characters: Gloria, Jay, Manny
+    timeline: 同日
+    anchor: I am so sick of stubborn men!
+  - id: "19"
+    place: 街头
+    plot: Mitch 承认自己死板，快闪舞是写给 Cam 的情书；Cam 怒其「编排出轨」。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: I know that face, Mitchell.
+  - id: "20"
+    place: Claire 车内
+    plot: Luke 安慰 Claire 也有趣；Claire 决定今天当「两个有趣的爸妈」，抄近路对撞。
+    characters: Claire, Luke
+    timeline: 临近餐厅
+    anchor: You do fun stuff.
+  - id: "21"
+    place: 车内
+    plot: Gloria 逼问 Jay 藏钥匙；Cam 控诉 Mitch 不带她跳舞。
+    characters: Gloria, Jay, Manny, Cameron, Mitchell
+    timeline: 交叉剪辑
+    anchor: Tell me the truth, Jay.
+  - id: "22"
+    place: 路口
+    plot: 两车对向冲刺，Phil 为夏令营要赢；Claire 尖叫；Cam 差点被撞。
+    characters: Phil, Haley, Alex, Claire, Luke, Cameron
+    timeline: 高潮
+    anchor: Dad, look up ahead. Coming at us. There's mom!
+  - id: "23"
+    place: 餐厅 · 生日会
+    plot: 回到开场：曼尼看大家耍孩子气，觉得童年还来得及；互相道歉。
+    characters: Manny, 全家
+    timeline: 派对现场（与片头闭合）
+    anchor: I was almost too depressed to come today.
+  - id: "24"
+    place: Jay 家 · 片尾
+    plot: Jay 膝盖预报下雨；Gloria 再把钥匙藏起来报复。
+    characters: Jay, Gloria
+    timeline: 片尾 tag
+    anchor: They say it's going to be a rainy weekend.

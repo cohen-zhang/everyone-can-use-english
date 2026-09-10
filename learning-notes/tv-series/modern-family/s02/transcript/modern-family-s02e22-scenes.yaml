@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e22-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E22
+episode_arc: 好警察坏狗
+timeline_note: 三线同日：邓菲家角色对调、Guillermo 训狗推销、卡姆生病与 Lady Gaga 门票
+
+index_groups:
+  - scenes: "01–05"
+    place: Jay 家 / 邓菲家
+    summary: Stella 冷开场；克莱尔当好人去卡丁车；菲尔当坏人守浴室
+  - scenes: "06–08"
+    place: Jay 家 / 病床
+    summary: 歌洛莉亚拉来 Guillermo；米奇暗示要独自去演唱会
+  - scenes: "09–11"
+    place: 卡丁车 / 邓菲家
+    summary: 克莱尔玩过头；菲尔温和失败后追车暴走
+  - scenes: "12–15"
+    place: Jay 家 / 快餐 / 邓菲家
+    summary: 杰否决训狗生意；克莱尔纵容到卢克呕吐；菲尔罚不给午饭
+  - scenes: "16–18"
+    place: 病床 / Jay 家 / 邓菲家
+    summary: 米奇开口要出门；Stella 留下；角色对调全面翻车
+  - scenes: "19–23"
+    place: 收尾
+    summary: 卡姆抓包；杰留下狗；病床和解；Stella 眨眼 tag
+
+scenes:
+  - id: "01"
+    place: Jay 家门外 · 冷开场
+    plot: 歌洛莉亚夸 Stella「真棒」，准备戴新墨镜去早午餐。
+    characters: Gloria, Stella
+    timeline: 当日早晨
+    anchor: Oh, good job.
+  - id: "02"
+    place: 邓菲家 · 客厅
+    plot: 克莱尔禁吼禁打，孩子们立刻顶撞；菲尔还帮腔。
+    characters: Claire, Phil, Haley, Alex, Luke, Manny
+    timeline: 同日
+    anchor: No more fighting!
+  - id: "03"
+    place: 邓菲家 · 走廊/浴室
+    plot: 克莱尔厌了当坏警察，逼菲尔去训女儿、自己带男孩去卡丁车。
+    characters: Claire, Phil
+    timeline: 同日
+    anchor: May I have a word with you, Phil?
+  - id: "04"
+    place: 邓菲家 · 门口
+    plot: 克莱尔以「今天只为玩」带走卢克曼尼，男孩想带爸爸。
+    characters: Claire, Luke, Manny, Phil
+    timeline: 同日
+    anchor: Boys!
+  - id: "05"
+    place: 邓菲家 · 浴室
+    plot: 菲尔第一次当坏警察，温和要求被无视，只好硬刚「我说了算」。
+    characters: Phil, Haley, Alex, Claire
+    timeline: 同日
+    anchor: Oh, whoa! Where you guys going?
+  - id: "06"
+    place: Jay 家 · 厨房
+    plot: 歌洛莉亚又带回流浪求助者 Guillermo 和一只狗。
+    characters: Jay, Gloria, Guillermo, Stella
+    timeline: 平行线
+    anchor: How does this usually start?
+  - id: "07"
+    place: Mitch & Cam 家 · 病床
+    plot: 卡姆发烧；米奇暗示门票别浪费，卡姆拆穿他想自己去。
+    characters: Cameron, Mitchell
+    timeline: 平行线
+    anchor: Do you want me to move the waste basket closer to you?
+  - id: "08"
+    place: Jay 家 · 客厅
+    plot: Guillermo 推销「好狗狗坏狗狗」训练法：做坏事也给零食。
+    characters: Guillermo, Jay, Gloria, Stella
+    timeline: 同日
+    anchor: Thanks for your dining, Mr.Pritchett.
+  - id: "09"
+    place: 车内电话 / 卡丁车场
+    plot: 米奇向克莱尔讨道德许可；克莱尔边打电话边让孩子开快车。
+    characters: Mitchell, Claire, Luke, Manny
+    timeline: 同日午后
+    anchor: Hello?
+  - id: "10"
+    place: 卡丁车赛道
+    plot: 克莱尔把对讲开成扬声器，只为让孩子们爱她。
+    characters: Claire, Luke, Manny
+    timeline: 同日
+    anchor: Drivers, start your engines.
+  - id: "11"
+    place: 邓菲家门外
+    plot: 女儿敷衍打扫就溜；菲尔追车暴走，「你们戳到熊了」。
+    characters: Phil, Haley, Alex
+    timeline: 同日
+    anchor: We're finished cleaning the bathroom.
+  - id: "12"
+    place: Jay 家 · 客厅
+    plot: 杰直言生意馊掉；Guillermo 哭了，歌洛莉亚怪杰太狠。
+    characters: Jay, Gloria, Guillermo
+    timeline: 同日
+    anchor: In closing, the only real question is,
+  - id: "13"
+    place: Jay 家 · 门廊
+    plot: 歌洛莉亚去道歉，Guillermo 反过来接受了杰的「拒绝」。
+    characters: Gloria, Jay, Guillermo
+    timeline: 同日
+    anchor: Why were you so tough with him?
+  - id: "14"
+    place: 快餐店 / 游乐园
+    plot: 克莱尔当好警察过火：双份炸物、奶昔、过山车，卢克要吐。
+    characters: Claire, Luke, Manny
+    timeline: 同日
+    anchor: What are you gonna get, Luke?
+  - id: "15"
+    place: 邓菲家
+    plot: 菲尔不给午饭、胶带封电脑，自己也怕当坏人。
+    characters: Phil, Haley, Alex
+    timeline: 同日
+    anchor: I'm starving.
+  - id: "16"
+    place: 病床
+    plot: 米奇护理一天后终于开口要去演唱会，卡姆含混答应。
+    characters: Mitchell, Cameron
+    timeline: 傍晚
+    anchor: I spent all day nursing Cam.
+  - id: "17"
+    place: Jay 家
+    plot: Guillermo 把 Stella 留下；杰教「要会说不」，歌洛莉亚还是收了狗。
+    characters: Jay, Gloria, Stella
+    timeline: 傍晚
+    anchor: Hey, you're back. What happened with your friend?
+  - id: "18"
+    place: Jay 家 / 邓菲家
+    plot: 曼尼以为狗是奖品；克莱尔玩翻车，菲尔让女儿去洗吐脏的车。
+    characters: Manny, Gloria, Jay, Claire, Phil, Haley, Alex, Luke
+    timeline: 傍晚
+    anchor: Hey, guys. I'm home.
+  - id: "19"
+    place: 邓菲家 · 车道
+    plot: 两人承认角色对调失败，决定换回原来的好警察坏警察。
+    characters: Claire, Phil, Haley, Alex
+    timeline: 傍晚
+    anchor: No, you don't. Girls!
+  - id: "20"
+    place: Mitch & Cam 家 · 门口
+    plot: 退烧的卡姆抓到米奇要丢下他去看 Gaga。
+    characters: Cameron, Mitchell
+    timeline: 晚间
+    anchor: Going somewhere?
+  - id: "21"
+    place: Jay 家 · 门外
+    plot: 杰被 Stella 眨眼击败，还是把狗留下。
+    characters: Jay, Stella, Gloria
+    timeline: 晚间
+    anchor: Don't look at me like that.
+  - id: "22"
+    place: 病床 · 和解
+    plot: 米奇留下；卡姆迷迷糊糊感谢他「疾病与健康」。
+    characters: Cameron, Mitchell
+    timeline: 夜
+    anchor: I must've dozed off.
+  - id: "23"
+    place: Jay 家 · tag
+    plot: Stella 又对杰眨眼；他慌着编理由为什么电视开着。
+    characters: Jay, Stella
+    timeline: 片尾
+    anchor: You're still blinking, sweetie.

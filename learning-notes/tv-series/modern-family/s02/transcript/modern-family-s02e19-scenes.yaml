@@ -1,0 +1,175 @@
+# Scene markers for modern-family-s02e19-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E19
+episode_arc: 音乐剧男人
+timeline_note: 三线同日交叉：学校音乐剧、房产广告面包车、Jay 的哥哥 Donnie
+
+index_groups:
+  - scenes: "01–03"
+    place: 街头 / 邓菲家
+    summary: 路人认出广告辣妈；菲尔展示车身；海莉 SAT 与大学
+  - scenes: "04–06"
+    place: 学校 / Jay 家
+    summary: 卡姆执导环球音乐剧；唐尼来访互殴；排练砍节目
+  - scenes: "07–10"
+    place: 面包车 / Jay 家
+    summary: 车身广告上路；整蛊椅子；克莱尔车内劝学
+  - scenes: "11–13"
+    place: 台球厅 / 车内
+    summary: 唐尼透露癌症；克莱尔中年焦虑；变态来电
+  - scenes: "14–16"
+    place: 学校 / 停车场
+    summary: 孩子们造反 Bob Fussy；菲尔藏车问青春
+  - scenes: "17–21"
+    place: 礼堂演出
+    summary: 环球音乐剧开演；手机与癌症爆出；兄弟和解；终场砸场
+  - scenes: "22–24"
+    place: 停车场 / 后台
+    summary: 车身标语翻车；克莱尔重拾自信；卢克心跳在眼睛里
+
+scenes:
+  - id: "01"
+    place: 街头 · 冷开场
+    plot: 路人把克莱尔认成房产广告里的性感辣妈。
+    characters: Claire, 路人
+    timeline: 当日白天
+    anchor: Excuse me, I'm so sorry.
+  - id: "02"
+    place: 邓菲家 · 客厅
+    plot: 菲尔炫耀广告与面包车车身包装，全家被绑上出镜。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 同日
+    anchor: This ad is perfect.
+  - id: "03"
+    place: 邓菲家 · 早餐
+    plot: 海莉 SAT 中等分，随口说可能不上大学。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 同日早晨
+    anchor: Good morning, family.
+  - id: "04"
+    place: 学校 · 排练厅
+    plot: 卡姆临危执导「环球音乐之旅」；米奇被批爱泼冷水。
+    characters: Cameron, Mitchell, 学生
+    timeline: 平行线
+    anchor: Well, we took the scenic route,
+  - id: "05"
+    place: Jay 家 · 厨房
+    plot: 曼尼追艾玛；唐尼来访，兄弟为手机扭打。
+    characters: Jay, Gloria, Manny, Donnie
+    timeline: 平行线
+    anchor: More toast, Manny?
+  - id: "06"
+    place: 学校 · 排练
+    plot: 曼尼向艾玛示好；卢克恐龙臂；卡姆砍掉宝莱坞节目。
+    characters: Manny, Emma, Cameron, Luke
+    timeline: 排练中
+    anchor: I don't understand this relationship, Emma.
+  - id: "07"
+    place: 邓菲家 · 电话
+    plot: 面包车送到；克莱尔要逼海莉，菲尔劝先别推。
+    characters: Phil, Claire
+    timeline: 同日午间
+    anchor: Hey, honey. Did they drop the van off yet?
+  - id: "08"
+    place: 邓菲家门外 · 面包车
+    plot: 孩子们嫌车身广告丢人；克莱尔坚持「卖的是我们」。
+    characters: Haley, Alex, Luke, Claire
+    timeline: 同日
+    anchor: Only dad can make our minivan even lamer.
+  - id: "09"
+    place: Jay 家 · 客厅
+    plot: 杰给唐尼设整蛊椅子；歌洛莉亚批他们斗而不亲。
+    characters: Jay, Gloria, Donnie
+    timeline: 平行线
+    anchor: Ay, is the chair broken? - Almost.
+  - id: "10"
+    place: 车内
+    plot: 克莱尔车内劝学；路人冲广告车按喇叭。
+    characters: Claire, Haley, Alex
+    timeline: 同日午后
+    anchor: All I'm saying
+  - id: "11"
+    place: 台球厅
+    plot: 杰想认真聊聊，唐尼轻描淡写透露前列腺癌。
+    characters: Jay, Donnie
+    timeline: 平行线
+    anchor: You in the mood to lose?
+  - id: "12"
+    place: 车内
+    plot: 克莱尔把大学说成魔法时光，暴露自己的中年不甘。
+    characters: Claire, Haley, Alex
+    timeline: 同日
+    anchor: And there's frisbee golf,
+  - id: "13"
+    place: 邓菲家外 / 电话
+    plot: 广告引来一串变态来电；菲尔把女儿也推销出去。
+    characters: Phil, Alex, Claire
+    timeline: 同日傍晚前
+    anchor: Come on, Alex. Bus is leaving.
+  - id: "14"
+    place: 学校后台
+    plot: 卡姆排终场字母；米奇送点心并被要求「站他这边」。
+    characters: Cameron, Mitchell, Manny
+    timeline: 演出前
+    anchor: And as the music swells,
+  - id: "15"
+    place: 排练厅
+    plot: 孩子们集体造反要回旧节目；卡姆以 Bob Fussy 之名强硬开演。
+    characters: Manny, Cameron, Mitchell, 学生
+    timeline: 演出前
+    anchor: Okay, you got to talk to Cam.
+  - id: "16"
+    place: 学校停车场
+    plot: 菲尔不让克莱尔看车身；追问她最好的年华是否已过。
+    characters: Phil, Claire, Haley
+    timeline: 演出前
+    anchor: Hi, honey. What are you doing out here?
+  - id: "17"
+    place: 礼堂 · 开演
+    plot: 卡姆致辞；「环球之旅」开场，卢克被吊成飞机。
+    characters: Cameron, Luke, 学生
+    timeline: 演出开始
+    anchor: Hello, and welcome, everyone.
+  - id: "18"
+    place: 礼堂 · 观众席
+    plot: 杰的手机被封胶带；歌洛莉亚当众喊出唐尼有癌症；卢克卡在半空。
+    characters: Jay, Gloria, Donnie, Claire, Phil, Luke
+    timeline: 演出中
+    anchor: Jay. You're in the theater.
+  - id: "19"
+    place: 礼堂外走廊
+    plot: 唐尼要杰打他，嫌被当成病人；两兄弟用老笑话和解。
+    characters: Jay, Donnie
+    timeline: 演出中段
+    anchor: Sorry about what I said to Gloria, okay?
+  - id: "20"
+    place: 后台
+    plot: 米奇批评卡姆把演出变成自我秀；唐尼保证会好起来。
+    characters: Mitchell, Cameron, Jay, Donnie
+    timeline: 演出后段
+    anchor: Your stage is all over the place.
+  - id: "21"
+    place: 舞台 · 终场
+    plot: 卢克就是那个 L；校徽砸下来，环球之旅当场翻车。
+    characters: Cameron, Luke, 学生
+    timeline: 终场
+    anchor: Okay, all right.
+  - id: "22"
+    place: 停车场 · 面包车
+    plot: 车身标语看起来像应召广告，克莱尔怒掀车门。
+    characters: Phil, Claire, Haley, Alex
+    timeline: 演出后
+    anchor: Phil, where have you been?
+  - id: "23"
+    place: 停车场
+    plot: 变态来电多半打给克莱尔；她反而确认自己还有「好年华」。
+    characters: Phil, Claire
+    timeline: 演出后
+    anchor: You mean to tell me that
+  - id: "24"
+    place: 后台 · tag
+    plot: 米奇送花力挺卡姆；卢克说心跳打到了眼睛里。
+    characters: Mitchell, Cameron, Luke
+    timeline: 片尾
+    anchor: Was it as awful as I think?

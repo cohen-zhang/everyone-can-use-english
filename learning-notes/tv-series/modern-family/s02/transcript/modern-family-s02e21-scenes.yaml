@@ -1,0 +1,163 @@
+# Scene markers for modern-family-s02e21-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E21
+episode_arc: 母亲节
+timeline_note: 母亲节三线：徒步峡谷、厨房做酱、游乐小组派对；晚餐交汇
+
+index_groups:
+  - scenes: "01–04"
+    place: 三家早晨
+    summary: 菲尔旧衬衫；曼尼麦片项链；卡姆被当成妈妈；工地筹备晚宴
+  - scenes: "05–08"
+    place: 峡谷 / 游乐小组
+    summary: 徒步嫌无聊；卡姆被拉去当荣誉妈妈；克莱尔丢下孩子
+  - scenes: "09–13"
+    place: 厨房 / 徒步
+    summary: 洋葱食谱让杰湿眼；两妈吐槽孩子；海莉策动不道歉
+  - scenes: "14–18"
+    place: 派对 / 峡谷
+    summary: 卡姆扔球；曼尼偷听道歉；米奇劝他接受「母性」
+  - scenes: "19–23"
+    place: 晚餐桌 · 收尾
+    summary: 孩子们拒道歉；揭穿杰哭了；奶奶回忆再哭；食谱 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨（冷开场）
+    plot: 菲尔穿上幼儿园母亲节衬衫，克莱尔又感动又嫌变态。
+    characters: Phil, Claire, Haley
+    timeline: 母亲节早晨
+    anchor: Okay, okay.Here she comes!
+  - id: "02"
+    place: Jay 家 · 客厅
+    plot: 杰送钻石项链随即收回；曼尼送麦片项链，也承认是山寨。
+    characters: Jay, Gloria, Manny
+    timeline: 同日早晨
+    anchor: Go first.
+  - id: "03"
+    place: Mitch & Cam 家 · 卧室
+    plot: 米奇端早餐，卡姆认定这是把自己当 Lily 的妈妈。
+    characters: Mitchell, Cameron
+    timeline: 同日早晨
+    anchor: Good morning!
+  - id: "04"
+    place: 工地 / 旁白
+    plot: 菲尔杰系围裙筹备母亲节宴；克莱尔其实说的是「去徒步」。
+    characters: Phil, Jay
+    timeline: 同日上午
+    anchor: Somebody got new curtains.
+  - id: "05"
+    place: 峡谷步道
+    plot: 曼尼怕郊狼，孩子们一路抱怨；克莱尔开始失去耐心。
+    characters: Claire, Gloria, Haley, Alex, Luke, Manny
+    timeline: 同日上午
+    anchor: You know there are coyotes in these woods?
+  - id: "06"
+    place: 游乐小组派对
+    plot: 卡姆被当成荣誉妈妈拉去合影，米奇越劝他越炸。
+    characters: Cameron, Mitchell, 其他家长
+    timeline: 平行线
+    anchor: Oh, is that the party over there?
+  - id: "07"
+    place: 峡谷步道
+    plot: 孩子们互怼到克莱尔爆发，宣布徒步作废、留他们反省。
+    characters: Claire, Gloria, Haley, Alex, Luke, Manny
+    timeline: 同日
+    anchor: Yeah, that was definitely poison oak.
+  - id: "08"
+    place: 峡谷 · 分手
+    plot: 克莱尔给自己一份母亲节礼物：丢下孩子，只和歌洛莉亚走完。
+    characters: Claire, Gloria, Haley, Alex, Luke, Manny
+    timeline: 同日
+    anchor: I-I'm giving myself a mother's day present.
+  - id: "09"
+    place: Jay 家厨房
+    plot: 杰戴洋葱护目镜死守妈妈食谱，不许菲尔加戏。
+    characters: Jay, Phil
+    timeline: 平行线
+    anchor: What the hell are those?
+  - id: "10"
+    place: Jay 家厨房
+    plot: 菲尔翻出杰九岁写的「完美妈妈」食谱，杰眼眶湿了还赖洋葱。
+    characters: Jay, Phil
+    timeline: 同日
+    anchor: And that's when I saw it.
+  - id: "11"
+    place: 峡谷步道
+    plot: 克莱尔承认有时想打孩子；歌洛莉亚从「曼尼完美」说到嫌他矫情。
+    characters: Claire, Gloria
+    timeline: 同日
+    anchor: Okay, I don't want you to judge me,
+  - id: "12"
+    place: 峡谷 · 孩子们
+    plot: 海莉策动「谁也不道歉」，识破妈妈用愧疚操控全家。
+    characters: Haley, Alex, Luke, Manny
+    timeline: 同日
+    anchor: You know, more people have died hiking
+  - id: "13"
+    place: 厨房 · 旁白
+    plot: 菲尔自比给骄傲狮子一个拥抱，杰让他离远点。
+    characters: Phil, Jay
+    timeline: 同日
+    anchor: Jay teared up in front of me.
+  - id: "14"
+    place: 游乐小组派对
+    plot: 卡姆接受花束后更怒，为「谁更像妈妈」当众扔球砸人。
+    characters: Cameron, Mitchell
+    timeline: 平行线
+    anchor: They offered me a bouquet, Mitchell.
+  - id: "15"
+    place: 峡谷停车场
+    plot: 歌洛莉亚向偷听的曼尼道歉，越描越黑。
+    characters: Gloria, Manny, Claire
+    timeline: 同日
+    anchor: Manny, I didn't mean any of it.
+  - id: "16"
+    place: 峡谷停车场
+    plot: 克莱尔调解失败；歌洛莉亚改口称那些坏话都是编的。
+    characters: Claire, Gloria, Manny
+    timeline: 同日
+    anchor: I'm gonna intervene here.
+  - id: "17"
+    place: 峡谷 · 归来
+    plot: 克莱尔要一句母亲节道歉，三个孩子全部闭嘴。
+    characters: Claire, Haley, Alex, Luke
+    timeline: 同日午后
+    anchor: Good. You're back.
+  - id: "18"
+    place: 游乐小组
+    plot: 米奇用贺卡定义「母亲」：被看成妈妈并不减损男人。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Well, it's a mother's day card.
+  - id: "19"
+    place: 游乐小组 / 厨房
+    plot: 卡姆放下威士忌回派对；杰喊全员上桌。
+    characters: Cameron, Mitchell, Jay, Phil
+    timeline: 傍晚
+    anchor: Come on, let's join the party.
+  - id: "20"
+    place: 峡谷 · 孩子们僵持
+    plot: 克莱尔卖惨；海莉不准卢克心软，自称「我们才是你妈妈」。
+    characters: Claire, Haley, Alex, Luke
+    timeline: 与晚餐平行
+    anchor: It's just hard, you know?
+  - id: "21"
+    place: Jay 家 · 餐桌
+    plot: 菲尔说漏杰哭了，全桌起哄；杰只想开饭。
+    characters: Phil, Jay, Gloria, Claire, Mitchell, Cameron
+    timeline: 晚餐
+    anchor: How was your day with my dad?
+  - id: "22"
+    place: Jay 家 · 餐桌
+    plot: 酱汁唤起奶奶记忆，杰再次崩溃；孩子们也破功道歉。
+    characters: Jay, Phil, Claire, Mitchell, Cameron, Haley, Alex, Luke, Gloria
+    timeline: 晚餐
+    anchor: Oh, my Gosh, smell that.
+  - id: "23"
+    place: Jay 家 · 夜间 tag
+    plot: 歌洛莉亚先睡；杰对着妈妈食谱骂一句，还是小心收好。
+    characters: Gloria, Jay
+    timeline: 片尾
+    anchor: Jay, let's go to bed.

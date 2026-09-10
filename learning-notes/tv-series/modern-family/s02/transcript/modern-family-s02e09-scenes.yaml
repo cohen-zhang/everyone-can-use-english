@@ -1,0 +1,160 @@
+# Scene markers for modern-family-s02e09-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E09
+episode_arc: Cam 的妈妈
+timeline_note: Barb 来访摸 Mitch、海莉甩 Dylan、Jay 装病三条平行；医院与复合收尾
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 / Jay 家门口
+    summary: 海莉补习；Claire 出门；Jay 躲商场
+  - scenes: "04–05"
+    place: 机场 / Jay 家
+    summary: Barb 抵达；Gloria 嘲美国人娇气
+  - scenes: "06–08"
+    place: 邓菲家 / Mitch 家
+    summary: 海莉甩 Dylan；Mitch 向 Claire 诉 Barb 动手动脚
+  - scenes: "09–11"
+    place: 邓菲家 / 高尔夫
+    summary: Dylan 取东西；Jay 给 Manny 打电话对症状；Phil 带 Dylan 买吉他
+  - scenes: "12–13"
+    place: Mitch & Cam 家
+    summary: Barb 掏口袋；Mitch 演屁股痛；Cam 不信
+  - scenes: "14–16"
+    place: 餐厅 / 诊所
+    summary: Haley 误认 Phil 是 Dylan 新女友；Jay 症状升级
+  - scenes: "17–19"
+    place: 邓菲家 / 医院
+    summary: 电话对质发现是老爸；阑尾炎手术；Gloria 崩溃
+  - scenes: "20–21"
+    place: Mitch 家 / 邓菲家
+    summary: Barb 道歉又越界；Phil 陪海莉、给 Dylan 寄歌
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 餐桌
+    plot: David 给 Haley 补化学；Claire 挖苦效果差。
+    characters: Haley, David, Claire, Alex
+    timeline: 当日
+    anchor: So the rate of diffusion equals something
+  - id: "02"
+    place: 邓菲家 · 门口
+    plot: Claire 带 Alex 上大提琴课；David 自称要多休息。
+    characters: Claire, Alex, Haley, David
+    timeline: 同日
+    anchor: Come on, Alex. It's time for your cello lesson.
+  - id: "03"
+    place: Jay 家 · 门口
+    plot: Jay 谎称落了购物清单，躲着不去商场。
+    characters: Jay, Gloria, Manny
+    timeline: 平行线
+    anchor: I left my shopping list inside.
+  - id: "04"
+    place: 接机 / Mitch & Cam 家
+    plot: Barb 抵达狂亲 Cam；Mitch 旁白又爱又怕她把手往身上放。
+    characters: Cameron, Barb, Mitchell, Lily
+    timeline: 平行线
+    anchor: Momma should be here by now.
+  - id: "05"
+    place: Jay 家
+    plot: Gloria 拉 Jay 逛商场；Manny 用症状网站吓他；Jay 只肯「在家 fine」。
+    characters: Gloria, Jay, Manny
+    timeline: 同日
+    anchor: Jay, you want to go to the mall with me?
+  - id: "06"
+    place: 邓菲家
+    plot: Claire 盘问补习费都花在亲热上；Phil 讲水球女孩创伤，劝 Haley 快刀斩 Dylan。
+    characters: Claire, Haley, Phil
+    timeline: 同日
+    anchor: So, dumb guys go for dumb girls,
+  - id: "07"
+    place: 邓菲家
+    plot: Haley 短信分手；Phil 心疼 Dylan 的悲伤表情符号。
+    characters: Haley, Phil, Claire
+    timeline: 同日
+    anchor: It's done. We broke up.
+  - id: "08"
+    place: 邓菲家 · 厨房
+    plot: Mitch 向 Claire 诉 Barb 摸大腿；Claire 让 Cam 亲眼看见再处理。
+    characters: Mitchell, Claire
+    timeline: 平行线
+    anchor: Cam's mom's been half of the dinner with her hands
+  - id: "09"
+    place: 邓菲家
+    plot: Dylan 来取东西，满眼都是 Haley；Claire 坚持叫 Mrs. Dunphy。
+    characters: Dylan, Claire, Phil
+    timeline: 同日
+    anchor: Hi, Dylan.
+  - id: "10"
+    place: 高尔夫球场
+    plot: Jay 打电话问 Manny 症状网站，假装谈工作；Gloria 听出破绽。
+    characters: Jay, Manny, Gloria
+    timeline: 平行线
+    anchor: Hey, kid, you got a minute?
+  - id: "11"
+    place: 邓菲家 · 海莉房间
+    plot: Phil 安慰 Dylan，相约偷偷去买吉他，别告诉 Claire。
+    characters: Phil, Dylan
+    timeline: 同日
+    anchor: Dylan!
+  - id: "12"
+    place: Mitch & Cam 家
+    plot: Mitch 送刮刮卡、故意让 Barb 掏口袋；再演屁股痛求她按摩，好让 Cam 看见。
+    characters: Mitchell, Barb, Cameron
+    timeline: 同日
+    anchor: Hey, guys!
+  - id: "13"
+    place: Mitch & Cam 家 · 卧室
+    plot: Cam 怒问 Mitch 为何像狒狒献殷勤；不信妈妈越界，拿娃娃要 Mitch 指出位置。
+    characters: Cameron, Mitchell
+    timeline: 同日
+    anchor: Okay, I am not gonna cry,
+  - id: "14"
+    place: 餐厅
+    plot: Phil 与 Dylan 吃圣代谈 Graceland；Haley 在邻桌以为他有新女友。
+    characters: Phil, Dylan, Haley
+    timeline: 同日
+    anchor: Thanks for helping me pick out my axe.
+  - id: "15"
+    place: 餐厅 / 诊所
+    plot: Haley 找服务员打探；Jay 越查越像憩室炎，Gloria 砸电脑「治愈」他。
+    characters: Haley, Jay, Gloria, Manny
+    timeline: 交叉剪辑
+    anchor: Hey, hey, come here.
+  - id: "16"
+    place: 邓菲家
+    plot: Haley 发现 Dylan「新女友」；Claire 劝她既是自己提的分手；Haley 要找 David。
+    characters: Haley, Claire
+    timeline: 傍晚
+    anchor: I'm gonna kill her! I'm gonna kill him!
+  - id: "17"
+    place: 邓菲家
+    plot: Haley 逼问 Dylan，回拨「新女友」电话，发现对面是 Phil 的卫衣。
+    characters: Haley, Dylan, Phil, Claire
+    timeline: 傍晚
+    anchor: I got your texts.
+  - id: "18"
+    place: 医院
+    plot: 确诊急性阑尾炎要手术；Gloria 自责差点害死老公，Jay 求她别再关心。
+    characters: Jay, Gloria, Manny, 医生
+    timeline: 当晚
+    anchor: Are you okay, baby?
+  - id: "19"
+    place: Mitch & Cam 家
+    plot: Barb 打电话道歉说摸太多；随后手又伸进沙发找手镯，Cam 学 Claire 喊力场。
+    characters: Barb, Mitchell, Cameron
+    timeline: 当晚
+    anchor: Mitchell, it's Barb.
+  - id: "20"
+    place: 邓菲家 · 海莉房间
+    plot: Phil 陪失眠的 Haley，承认早就听见 Dylan 的破车来接她。
+    characters: Phil, Haley
+    timeline: 夜里
+    anchor: I miss him.
+  - id: "21"
+    place: 片尾 · 电话
+    plot: Gloria 问 Dylan 爱不爱 Graceland；Phil 要他听自己写的歌。
+    characters: Gloria, Dylan, Phil
+    timeline: 片尾 tag
+    anchor: So Dylan, you love the Graceland?

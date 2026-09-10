@@ -1,0 +1,175 @@
+# Scene markers for modern-family-s02e16-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E16
+episode_arc: 慈善晚会 / 只有遗憾
+timeline_note: 邓菲家昨晚吵架未解；Cam 慈善晚会邀请函未寄；Gloria 新买卡拉 OK
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家 · 早晨
+    summary: 假装没事；浣熊/灭火器现场
+  - scenes: "03"
+    place: Jay 家
+    summary: 礼物也要付出代价；Gloria 唱 K
+  - scenes: "04"
+    place: Mitch & Cam
+    summary: 布置晚会；「你从不听我说话」
+  - scenes: "05–07"
+    place: 邓菲家 / Jay 家
+    summary: Haley 小费攒车；交换商场与理发
+  - scenes: "08–09"
+    place: Mitch 家
+    summary: 满座假象；Mitch 忘寄邀请；Andrew 来砸
+  - scenes: "10–12"
+    place: Jay 家 / 商场
+    summary: Gloria 给 Phil 理发；按摩椅；Alex 揭穿 Haley
+  - scenes: "13–15"
+    place: 闪回 / 理发
+    summary: 昨晚爆发；Gloria 逐条分析；wedge salad 才是火种
+  - scenes: "16"
+    place: Mitch 家
+    summary: 没人来；Cam 怒骂 Mitch
+  - scenes: "17–18"
+    place: Haley「餐厅」
+    summary: 假打工露馅；Phil 补偿过头再提沙拉
+  - scenes: "19–20"
+    place: 停车场 / 晚会
+    summary: 旧照「你改变了我」；老人填座
+  - scenes: "21–22"
+    place: 晚会 / Jay 家
+    summary: 聆听旁白；Manny 替全家拔插头
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 卧室早晨
+    plot: 两人假装昨晚吵架已过去；Phil 其实完全不懂她在气什么。
+    characters: Phil, Claire
+    timeline: 主线次日清晨
+    anchor: Morning.
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: 厨房一片狼藉；他们用浣熊故事掩盖灭火器大战。
+    characters: Luke, Phil, Claire
+    timeline: 同日早晨
+    anchor: What the heck happened in here?
+  - id: "03"
+    place: Jay 家 · 旁白
+    plot: Jay 叹「送礼也要付出代价」；Gloria 新卡拉 OK 开唱。
+    characters: Jay, Gloria
+    timeline: 平行线
+    anchor: One time I forgot to get Gloria a birthday present,
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: Cam 布置慈善晚会；测试 Mitch 有没有在听。
+    characters: Cameron, Mitchell, Lily
+    timeline: 晚会当日
+    anchor: Oh, hey, good.
+  - id: "05"
+    place: 邓菲家 · 厨房
+    plot: Haley 亮出小费要攒车；Luke 要去晚会帮忙。
+    characters: Haley, Claire, Phil, Luke
+    timeline: 同日
+    anchor: I won't be home till late.
+  - id: "06"
+    place: 邓菲家
+    plot: Claire 约商场；Phil 想躲她的商场习惯。
+    characters: Phil, Claire
+    timeline: 同日午后
+    anchor: Okay, Phil, what do you say?
+  - id: "07"
+    place: Jay 家
+    plot: Gloria 要拍唱 K；Claire 提议对调：她去商场，Gloria 给 Phil 理发。
+    characters: Gloria, Jay, Claire, Phil
+    timeline: 同日午后
+    anchor: Jay, come on!
+  - id: "08"
+    place: Mitch & Cam 家
+    plot: Andrew 说无人请假；Mitch 闪回：邀请函压在健身包下忘寄。
+    characters: Cameron, Mitchell, Lily
+    timeline: 晚会前
+    anchor: So, that was Andrew,
+  - id: "09"
+    place: Mitch & Cam 家 · 布场
+    plot: Cam 纠结椅背；Andrew 送来签满的签名簿示威。
+    characters: Cameron, Luke, Andrew, Mitchell
+    timeline: 傍晚
+    anchor: Luke, how are those chairs coming?
+  - id: "10"
+    place: Jay 家 · 理发
+    plot: Gloria 给紧张的 Phil 理发；他承认不知 Claire 为何发火。
+    characters: Gloria, Phil
+    timeline: 平行线
+    anchor: Hold still!
+  - id: "11"
+    place: 商场 · 按摩椅
+    plot: Haley 在按摩椅上嗨；Alex 开始起疑。
+    characters: Haley, Alex, Claire
+    timeline: 平行线 · 商场
+    anchor: Oh, my god! That's good!
+  - id: "12"
+    place: 商场
+    plot: Alex 发现 Haley 可能根本没上班，用生日钱演戏。
+    characters: Alex, Haley, Claire
+    timeline: 商场
+    anchor: It is impressive how much Haley's earning.
+  - id: "13"
+    place: 邓菲家 · 闪回昨晚
+    plot: Claire 爆发却不说明原因；冲出门外被 Phil 当浣熊喷灭火器。
+    characters: Claire, Phil
+    timeline: 闪回昨晚
+    anchor: I cannot believe you, Phil!
+  - id: "14"
+    place: Jay 家 · 理发椅
+    plot: Gloria 逐条分析：小纸条、开车、前女友，都不是引爆点。
+    characters: Gloria, Phil
+    timeline: 理发中 + 闪回
+    anchor: Wait a minute.
+  - id: "15"
+    place: 商场 / 理发
+    plot: Claire 向 Alex 坦白：气的是 Phil 只听别人不听她（wedge salad）。
+    characters: Claire, Alex, Gloria, Phil
+    timeline: 交叉剪辑
+    anchor: So you had a meltdown over that.
+  - id: "16"
+    place: Mitch & Cam 家
+    plot: 宾客全没来；Cam 对着电话怒骂 Mitch，勒令补救。
+    characters: Cameron, Luke, Mitchell
+    timeline: 晚会开场前
+    anchor: Luke, phone.
+  - id: "17"
+    place: 商场「餐厅」
+    plot: 全家去看 Haley 上班；她手忙脚乱装服务员。
+    characters: Haley, Phil, Claire, Alex
+    timeline: 傍晚
+    anchor: Hi! You came! - Hi!
+  - id: "18"
+    place: 商场餐桌
+    plot: Phil 过度补偿（取消前女友、花椰菜）；又推荐 Skip 的沙拉，Claire 再爆，Haley 被「解雇」。
+    characters: Phil, Claire, Haley, Alex
+    timeline: 紧接上一场
+    anchor: Well, this is nice.
+  - id: "19"
+    place: 停车场
+    plot: Phil 拿出感恩节旧照：Claire 的意见早已改变他整个人。
+    characters: Phil, Claire
+    timeline: 餐厅之后
+    anchor: I want to show you something.
+  - id: "20"
+    place: Mitch 家 · 晚会
+    plot: Mitch 找来一群老人填座；人数翻倍，Cam 接受。
+    characters: Mitchell, Cameron
+    timeline: 晚会
+    anchor: Friends, uh, family, uh, board members
+  - id: "21"
+    place: 晚会 · 旁白
+    plot: 「婚姻要会听」；竖琴背景里各人各想各的。
+    characters: Mitchell, Cameron, Jay, Gloria
+    timeline: 晚会中
+    anchor: You can't have a successful marriage
+  - id: "22"
+    place: Jay 家 · 片尾
+    plot: Gloria 又要唱；Manny 替全家拔掉插头。
+    characters: Gloria, Jay, Manny
+    timeline: 片尾 tag
+    anchor: Jay, come. I work out another song.

@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e17-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E17
+episode_arc: 两只猴子和熊猫
+timeline_note: 邓菲姐妹毛衣战；Mitch/Cam 领养证书姓氏；Jay/Gloria 看墓穴
+
+index_groups:
+  - scenes: "01–05"
+    place: 邓菲家
+    summary: 温泉券；抢毛衣；车里发现破了
+  - scenes: "06–07"
+    place: Jay 家 / 墓地
+    summary: Manny 约会 Chloe；Jay 要定身后事
+  - scenes: "08–09"
+    place: Mitch & Cam 家
+    summary: 剪贴簿；证书变成 Lily Tucker Pritchett
+  - scenes: "10–13"
+    place: 温泉 / 墓穴
+    summary: Phil 做手护；墙葬 vs 土葬；邻居担心 Gloria 改嫁
+  - scenes: "14–16"
+    place: Mitch 家 / 温泉
+    summary: Cam 承认故意；婴儿床闪回；技师教 Phil 倾听
+  - scenes: "17"
+    place: 墓地
+    summary: Jay 怕自己不是「主咖」；Manny 安慰
+  - scenes: "18–19"
+    place: 邓菲家
+    summary: 防盗扣喷墨；Phil 用倾听哄 Claire
+  - scenes: "20–22"
+    place: Jay 家 / Mitch 家
+    summary: 咖啡罐骨灰；改姓与绘本；书店发现市场已饱和
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 早晨
+    plot: Claire 被 Cheryl 塞 DVD 任务；Phil 怂恿她用即将过期的温泉券。
+    characters: Claire, Phil
+    timeline: 主线当日早晨
+    anchor: Well, how many people have ordered DVDs and haven't pay for them.
+  - id: "02"
+    place: 邓菲家 · 厨房
+    plot: Haley 发现 Alex 穿了她的新毛衣，姐妹开撕；Claire 让她们分享。
+    characters: Haley, Alex, Claire, Phil
+    timeline: 同日早晨
+    anchor: Hey, mom, I need some money for lunch.
+  - id: "03"
+    place: Mitch & Cam 家 · 厨房
+    plot: 甘蓝当新菠菜；Cam 用「adopt」给收养脱敏。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: Hi!
+  - id: "04"
+    place: 车内
+    plot: Claire 送 Alex，发现毛衣破了，急着大事化小。
+    characters: Claire, Alex
+    timeline: 出门后
+    anchor: Alex, come on. Hurry up.
+  - id: "05"
+    place: 邓菲家 · 旁白
+    plot: Claire 希望女儿像她和 Mitch 一样亲密；Phil 说爱你更怪。
+    characters: Claire, Haley, Phil
+    timeline: 旁白
+    anchor: More than anything
+  - id: "06"
+    place: Jay 家 · 出门
+    plot: Manny 与十三个月大的 Chloe「约会」；Jay 拉 Gloria 去办身后事。
+    characters: Manny, Jay, Gloria
+    timeline: 平行线
+    anchor: Gloria! Let's go, let's go, let's go!
+  - id: "07"
+    place: 车内 / 墓地旁白
+    plot: Jay 参加葬礼后想买风水宝地；Gloria 嫌他培根吃太多。
+    characters: Jay, Gloria
+    timeline: 去墓地途中
+    anchor: I went to a funeral last Saturday, and it got me thinking
+  - id: "08"
+    place: Mitch & Cam 家
+    plot: Cam 做领养剪贴簿和《两只猴子和一只熊猫》。
+    characters: Cameron, Mitchell
+    timeline: 同日
+    anchor: Mm. I don't care how much they promote it,
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: 证书写成 Lily Tucker Pritchett；Cam 指责 Mitch 故意让自己的姓当配角。
+    characters: Cameron, Mitchell
+    timeline: 紧接上一场
+    anchor: Oh, my god. - What?
+  - id: "10"
+    place: 温泉会所
+    plot: 同事都没空；Phil 自己去做手部护理，技师夸他手软。
+    characters: Phil, Kim
+    timeline: 平行线
+    anchor: All the women I work with are too busy to use the certificate.
+  - id: "11"
+    place: 墓穴走廊
+    plot: Jay 展示墙葬格子；Gloria 要土葬，嫌抽屉上帝找不到。
+    characters: Jay, Gloria
+    timeline: 墓地
+    anchor: This is it! Ta-da!
+  - id: "12"
+    place: 温泉 · 电话
+    plot: Claire 满城找同款毛衣；Phil 一直出主意，她只要他去做饭。
+    characters: Phil, Claire, Kim
+    timeline: 交叉剪辑
+    anchor: I'm thinking of getting bangs.
+  - id: "13"
+    place: 墓穴
+    plot: 卖家邻居担心 Gloria 改嫁卖掉格子；Gloria 觉得他们说得对。
+    characters: Jay, Gloria, Ed, Winnie
+    timeline: 墓地
+    anchor: Mr. Pritchett...
+  - id: "14"
+    place: Mitch & Cam 家
+    plot: Cam 先道歉；Mitch 承认当年故意只填自己的姓。
+    characters: Cameron, Mitchell
+    timeline: 同日稍后
+    anchor: It occurs to me
+  - id: "15"
+    place: 闪回 · 婴儿床
+    plot: 组装婴儿床时 Cam 恐慌崩溃；Mitch 怕他会离开。
+    characters: Mitchell, Cameron
+    timeline: 闪回领养前
+    anchor: Okay, so, it says that we can put the mattress
+  - id: "16"
+    place: 温泉会所
+    plot: 技师教 Phil：女人要的是支持，不是你来「修好」。
+    characters: Phil, Kim
+    timeline: 平行线
+    anchor: OK, I'm confused.
+  - id: "17"
+    place: 墓地
+    plot: Jay 怕自己死后不是 Gloria 心里的「主咖」；Manny 讲追求往事安慰他。
+    characters: Jay, Manny
+    timeline: 墓地稍后
+    anchor: So, I heard you had a rough time today.
+  - id: "18"
+    place: 邓菲家 · 客厅
+    plot: 第五家店买回毛衣；防盗扣喷墨；姐妹开战，Claire 崩溃。
+    characters: Claire, Alex, Haley, Phil
+    timeline: 傍晚回家
+    anchor: Is she back yet? - She's on her way.
+  - id: "19"
+    place: 邓菲家 · 卧室
+    plot: Phil 只倾听不给方案；Claire 被哄好，却没发现他做了手护。
+    characters: Phil, Claire
+    timeline: 当晚
+    anchor: It's that sweater, huh?
+  - id: "20"
+    place: Jay 家 · 客厅
+    plot: Jay 允许 Gloria 再婚，却送给她空咖啡罐装自己骨灰。
+    characters: Jay, Gloria
+    timeline: 当晚
+    anchor: Listen, I've been thinking.
+  - id: "21"
+    place: Mitch & Cam 家
+    plot: 启动改姓；读《两只猴子和一只熊猫》；Lily 听到 adopted 拍手。
+    characters: Mitchell, Cameron, Lily
+    timeline: 当晚
+    anchor: Um, so, f-for whatever it's worth,
+  - id: "22"
+    place: 书店 · 片尾
+    plot: 以为绘本是蓝海，书架上早已摆满同志收养童书。
+    characters: Mitchell, Cameron
+    timeline: 片尾 tag
+    anchor: Once we finished writing the book,

@@ -1,0 +1,148 @@
+# Scene markers for modern-family-s02e11-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E11
+episode_arc: 邻居赛车
+timeline_note: Claire 抓超速邻居、Barry 住进玩具城堡、Gloria 学骑车三线平行；开放日对上 Laura
+
+index_groups:
+  - scenes: "01–03"
+    place: Mitch 家 / 邓菲街 / 车内
+    summary: 热水浴缸里的陌生人；Claire 抓超速；超速者是 Phil 客户 Laura
+  - scenes: "04–06"
+    place: Jay 家 / Laura 宅 / Mitch 家
+    summary: 辅助轮；Phil 抢挂牌；Cam 迷上灵气
+  - scenes: "07–09"
+    place: 邓菲家 / Mitch 家
+    summary: 标语「让邻居减速」；Gil Thorpe；Barry 修喷头
+  - scenes: "10–13"
+    place: 街道 / 开放日筹备
+    summary: Manny 会骑、Gloria 摔；Laura 撕标语；空公寓没有 Barry
+  - scenes: "14–16"
+    place: 后院城堡 / 街道
+    summary: Barry 住在公主城堡；Luke 教 Gloria；Jay 去抢车
+  - scenes: "17–20"
+    place: 开放日 / 邓菲家
+    summary: Claire 见 Laura；Phil 双重生活崩溃；气球道歉；腓尼基人 tag
+
+scenes:
+  - id: "01"
+    place: Mitch & Cam 家 · 热水浴缸
+    plot: 发现陌生人 Barry 泡在浴缸里；他以为整栋楼共用，Cam 立刻迷上。
+    characters: Cameron, Mitchell, Barry
+    timeline: 夜间冷开场
+    anchor: Good night, sweatpea.
+  - id: "02"
+    place: 邓菲家门口 · 街道
+    plot: Claire 守株待兔抓超速；孩子嫌丢脸，Phil 拿喇叭帮腔。
+    characters: Claire, Phil, Haley, Luke
+    timeline: 次日白天
+    anchor: What are you gonna do when he drives by?
+  - id: "03"
+    place: 车内 / 第七街
+    plot: Phil 带 Luke 去挂牌，正说要扳倒 Gil Thorpe，Claire 对着他的客户狂喊减速。
+    characters: Phil, Luke, Claire
+    timeline: 同日
+    anchor: Ooh. Sweet Valley High!
+  - id: "04"
+    place: Jay 家 · 车道
+    plot: Gloria 给 Manny 买了带辅助轮的大车；Jay 决定周末教母子俩骑车。
+    characters: Jay, Gloria, Manny
+    timeline: 平行线
+    anchor: That's okay, Jay. I'm biking to school today.
+  - id: "05"
+    place: Laura 家
+    plot: Phil 见客户 Laura：她只要数字、周末开放日才给挂牌，还说希望不必炒他。
+    characters: Phil, Laura
+    timeline: 同日
+    anchor: Hey, Phil. Come on in.
+  - id: "06"
+    place: 车内 / Mitch 家
+    plot: Phil 给 Claire 留言夸完美客户；Cam 拉 Mitch 去泡 Barry 的灵气，Mitch 嫌他神神叨叨。
+    characters: Phil, Cameron, Mitchell, Barry
+    timeline: 傍晚
+    anchor: Hi. This is Claire. Leave a message.
+  - id: "07"
+    place: 邓菲家
+    plot: Claire 做「Slow down your neighbors」标语，Phil 指出语法像「让邻居减速」。
+    characters: Claire, Phil, Luke
+    timeline: 次日
+    anchor: I don't feel safe in my own home!
+  - id: "08"
+    place: 邓菲家 · 旁白
+    plot: Phil 旁白：连续七季销售亚军，没人记得第二名。
+    characters: Phil
+    timeline: 同日
+    anchor: Before you judge me,
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: Barry 来报喷头漏水，自嘲灵气很蠢；Cam 仍当他是真人。
+    characters: Barry, Cameron, Mitchell
+    timeline: 平行线
+    anchor: "Oh, hey, Mitch. - Hey. It's Barry."
+  - id: "10"
+    place: 街道
+    plot: Jay 教 Manny 一次成功；教 Gloria 先查鞋带镜子铃铛，一松手她摔，扬言要杀 Jay。
+    characters: Jay, Gloria, Manny
+    timeline: 周末
+    anchor: Okay! I'm ready!
+  - id: "11"
+    place: 街区
+    plot: Phil 帮 Laura 拆 Claire 的标语；Laura 骂无聊主妇该去「解决需求」。
+    characters: Phil, Laura
+    timeline: 同日
+    anchor: Phil?
+  - id: "12"
+    place: 邓菲家门口
+    plot: Claire 发现标语被撕碎，更不肯罢休；Phil 劝她收手。
+    characters: Claire, Phil
+    timeline: 同日
+    anchor: Oh, my gosh.
+  - id: "13"
+    place: Mitch & Cam 家
+    plot: Barry 给 Mitch 做完灵气；房东太太说楼上是空房，根本没有租客 Barry。
+    characters: Barry, Mitchell, Cameron, Mrs. Ko
+    timeline: 同日
+    anchor: Just getting rid of some negative energy.
+  - id: "14"
+    place: 街道 / 电话
+    plot: Gloria 怪 Jay 教得太凶，改打给 Phil；Phil 赶开放日，Luke 自告奋勇当教练。
+    characters: Gloria, Claire, Phil, Luke
+    timeline: 同日
+    anchor: The problem wasn't me.
+  - id: "15"
+    place: 后院 · 公主城堡
+    plot: Cam 发现 Barry 住在 Lily 玩具城堡里；拉不出来，两人扭打喊叫 911。
+    characters: Cameron, Barry, Mitchell
+    timeline: 同日
+    anchor: Barry?
+  - id: "16"
+    place: 街道
+    plot: Luke 用惊吓疗法让 Gloria 骑起来；Jay 误以为有人抢她，冲上去抢车。
+    characters: Luke, Gloria, Jay
+    timeline: 同日
+    anchor: Okay, Gloria.
+  - id: "17"
+    place: Laura 家 · 开放日
+    plot: Phil 旁敲侧击劝 Laura 减速；Claire 追「疯子」追到开放日门口。
+    characters: Phil, Laura, Claire
+    timeline: 周日开放日
+    anchor: Thanks so much for coming. It was great to meet you both.
+  - id: "18"
+    place: Laura 家 · 开放日
+    plot: Claire 以 Phil 太太身份出现；Gloria 要搭 Laura 的车，Phil 内心崩溃双重生活。
+    characters: Claire, Laura, Phil, Gloria
+    timeline: 开放日
+    anchor: Hey. Hi. I'm Claire Dunphy.
+  - id: "19"
+    place: 邓菲家 / 旁白
+    plot: Claire 怒 Phil 每一层都背叛她；Phil 订镜面气球求和。
+    characters: Phil, Claire
+    timeline: 开放日之后
+    anchor: Claire was furious.
+  - id: "20"
+    place: 邓菲家 · 片尾
+    plot: Luke 用同样惊吓法逼 Jay 答出「腓尼基人发明字母」；Jay 认他年度教师。
+    characters: Luke, Jay, Gloria
+    timeline: 片尾 tag
+    anchor: Come on, which civilization invent the alphabet

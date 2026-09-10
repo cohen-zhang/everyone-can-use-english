@@ -1,0 +1,160 @@
+# Scene markers for modern-family-s02e12-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E12
+episode_arc: 家长会 / 我们与孩子
+timeline_note: Alex 备考、Mitch 以为有私生子、Jay 应付 Cabo 酒友三线；影院与认亲收尾
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 / 商场
+    summary: Alex 强迫备考；Lily 口琴；遇见高中女友 Tracy
+  - scenes: "04–06"
+    place: Jay 家 / 邓菲家 / 餐厅
+    summary: Hoffman 夫妇来访；Claire 强迫休息；Jay 拆穿假友谊
+  - scenes: "07–10"
+    place: Mitch 家 / Jay 家
+    summary: 红发男孩乌龙；滴水杯；Gloria 谎称 Jay 失智留客
+  - scenes: "11–14"
+    place: Mitch 家 / 邓菲家 / Jay 家
+    summary: Cam 接受「多一个孩子」；Croctopus；Alex 考第二；早道歉
+  - scenes: "15–18"
+    place: 影院 / 法片厅
+    summary: Patel 一家；Claire 改看法片；Phil 溜去看烂片
+  - scenes: "19–22"
+    place: Tracy 家 / 片尾
+    summary: 认亲乌龙——Bobby 是现任丈夫；Cam 拆穿音乐剧女友
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 客厅
+    plot: Alex 备考下巴抽动；Phil 拿迷你高尔夫河马打趣，Luke 捣乱被赶回房。
+    characters: Phil, Claire, Alex, Luke
+    timeline: 考试前夜
+    anchor: Honey, honey, look, look.
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Lily 出现口琴，两人发现是她从店里拿的，Cam 不肯跑回去付钱。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: Look at her with the little harmonica.
+  - id: "03"
+    place: 商场
+    plot: 遇见 Mitch 高中女友 Tracy；Cam 编不出真女友名字；Mitch 承认十年同学会后又睡过一次。
+    characters: Mitchell, Cameron, Tracy, Lily
+    timeline: 同日
+    anchor: Tracy?
+  - id: "04"
+    place: Jay 家
+    plot: Cabo 认识的 Hoffman 夫妇来电要吃饭；Gloria 兴奋接起，Jay 嫌他们无聊。
+    characters: Gloria, Jay
+    timeline: 平行线
+    anchor: Hello.
+  - id: "05"
+    place: 邓菲家
+    plot: Claire 强迫 Alex 休息，怪自己「追求卓越」给孩子压力；Phil 跟着邀功。
+    characters: Claire, Alex, Phil
+    timeline: 同日
+    anchor: Okay, pencils down. You're taking a break.
+  - id: "06"
+    place: 商场 / 旁白
+    plot: Cam 旁白：孩子是我们的迷你版；不该把 Lily 偷东西看得太重。
+    characters: Cameron, Mitchell
+    timeline: 同日
+    anchor: Honestly, I think you're overly worried about Lily.
+  - id: "07"
+    place: 餐厅
+    plot: Jay 听 Hoffman 夫妇聊天到烦，当面对他们说别硬交朋友；对方行李已放在他家。
+    characters: Jay, Gloria, Hoffman 夫妇
+    timeline: 当晚
+    anchor: Oh, come on, Jay.
+  - id: "08"
+    place: Mitch & Cam 家 · 晚餐
+    plot: Mitch 说在喷泉看见 Tracy 带着约八岁的红发男孩，担心是自己的孩子。
+    characters: Mitchell, Cameron
+    timeline: 当晚
+    anchor: Do you like it?
+  - id: "09"
+    place: Jay 家
+    plot: Hoffman 要走；Manny 玩滴水杯；Gloria 怒 Jay 让她当众丢脸。
+    characters: Gloria, Jay, Manny
+    timeline: 当晚
+    anchor: Jay!
+  - id: "10"
+    place: Jay 家 · 门口
+    plot: Gloria 追出道歉，用「Jay 老年失智」留住客人过夜。
+    characters: Gloria, Hoffman 夫妇, Jay
+    timeline: 当晚
+    anchor: There you are.
+  - id: "11"
+    place: Mitch & Cam 家 · 次日清晨
+    plot: Cam 彻夜想通：若真有另一个孩子也是好事；Mitch 准备打电话给 Tracy。
+    characters: Cameron, Mitchell
+    timeline: 次日清晨
+    anchor: You never came to bed.
+  - id: "12"
+    place: 邓菲家
+    plot: Claire 与 Phil 预订 3D《鳄章鱼》；自称共享廉价电影品味。
+    characters: Phil, Claire
+    timeline: 考试日
+    anchor: Honey.
+  - id: "13"
+    place: 邓菲家
+    plot: Alex 考全班第二，输给 Sanjay 十二分；说只能「用被给予的条件做到最好」，父母听出被骂笨。
+    characters: Alex, Claire, Phil
+    timeline: 考试后
+    anchor: Hey, honey, how'd your test go?
+  - id: "14"
+    place: Jay 家 · 早晨
+    plot: Gloria 想带 Manny 度周末赔罪；Jay 去向下楼的 Hoffman 道歉，Manny 把「失智」演得更真。
+    characters: Gloria, Jay, Manny, Hoffman 夫妇
+    timeline: 次日早晨
+    anchor: Oh, I just think that we should offer to take Manny.
+  - id: "15"
+    place: Jay 家 · 客厅
+    plot: Hoffman 对 Jay 小心翼翼；Manny 递洒水橙汁；客人改打车去机场。
+    characters: Jay, Gloria, Manny, Hoffman 夫妇
+    timeline: 同日
+    anchor: I'm so glad you guys are still here.
+  - id: "16"
+    place: 影院大堂
+    plot: Phil、Claire 玩廉价双关；遇上 Patel 夫妇来看法语艺术片。
+    characters: Phil, Claire, Patel 夫妇
+    timeline: 同日午后
+    anchor: Honey, do you want popcorn or anything?
+  - id: "17"
+    place: 影院
+    plot: Claire 为了「智力好奇心」改看法片；Phil 溜去看《鳄章鱼》，觉得烂得痛快。
+    characters: Claire, Phil
+    timeline: 放映中
+    anchor: Phil, where are you going?!
+  - id: "18"
+    place: 法片厅 / 大堂
+    plot: Claire 睡着错过结局，自责是白痴；Phil 说第二名的孩子不是笨父母养得出的。
+    characters: Claire, Phil
+    timeline: 散场
+    anchor: I'm so confused.
+  - id: "19"
+    place: 影院门口
+    plot: Phil 教 Vish 擦「墨汁」；Patel 夫妇其实也嫌那片二维。
+    characters: Phil, Claire, Patel 夫妇
+    timeline: 散场后
+    anchor: Check out Einstein over there.
+  - id: "20"
+    place: Tracy 家
+    plot: Mitch 一次说完：看见她带着男孩，问是不是自己的孩子。
+    characters: Mitchell, Cameron, Tracy
+    timeline: 同日
+    anchor: Mitchell, Cameron.
+  - id: "21"
+    place: Tracy 家
+    plot: Tracy 叫出 Bobby——是她现任丈夫；Mitch 与 Cam 送「小击球手」礼物当场尴尬。
+    characters: Mitchell, Cameron, Tracy, Bobby
+    timeline: 同日
+    anchor: Bobby?
+  - id: "22"
+    place: 车内 · 片尾
+    plot: Cam 追问 Mitch 还睡过哪些女生；名单全是音乐剧角色，Cam 早听出破绽。
+    characters: Cameron, Mitchell
+    timeline: 片尾 tag
+    anchor: I never realized that you ever had sex with a girl

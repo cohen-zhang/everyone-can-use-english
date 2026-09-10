@@ -1,0 +1,136 @@
+# Scene markers for modern-family-s02e10-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E10
+episode_arc: 父女舞
+timeline_note: 学校舞会布置、商场买西装、Lily 咬人三线平行；舞会夜收束
+
+index_groups:
+  - scenes: "01–04"
+    place: 电话会议 / 公园 / 商场
+    summary: 青绿口袋巾；Lily 被控咬人；Jay 教别让人抢车位
+  - scenes: "05–06"
+    place: 学校体育馆
+    summary: Claire 指挥布置；Gloria 当共同主席
+  - scenes: "07–09"
+    place: 车内 / 商场 / 家中
+    summary: Lily 再咬；买西装排队；Cam 与 Mitch 互责
+  - scenes: "10–13"
+    place: 学校 / 商场
+    summary: 抢桌子；收据排队；停车位与狗；Jay 向 Phil 示软
+  - scenes: "14–16"
+    place: 家中 / 舞会
+    summary: 胡椒罚咬人；男孩西装到场；Claire 与 Gloria 和解
+  - scenes: "17–18"
+    place: 舞会 / 家中
+    summary: 旁白「我们都还是孩子」；香水男来告状；Lily 再咬 tag
+
+scenes:
+  - id: "01"
+    place: 电话会议 · 各家
+    plot: Gloria 要青绿口袋巾；Claire 不想她来布置；Cam 有但借给了 Andre。
+    characters: Gloria, Claire, Jay, Mitchell, Cameron, Phil
+    timeline: 舞会当日白天
+    anchor: Okay. I'll -- I'll get that.
+  - id: "02"
+    place: 公园沙坑
+    plot: 别的家长说 Lily 咬了 Tyler；Cam 反击「怪同性恋爸爸」游戏，栽赃 Billy。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: Uh, is that ur little girl over there -- Lily?
+  - id: "03"
+    place: 商场停车场
+    plot: Jay 带男孩买礼服，车位被抢仍不争；教「男人不能让人拿走属于你的东西」。
+    characters: Jay, Phil, Luke, Manny
+    timeline: 平行线
+    anchor: Ah. Finally. There's a spot.
+  - id: "04"
+    place: 商场 / 旁白
+    plot: Phil 旁白：岳父再损也不让他看见自己有多受伤。
+    characters: Phil
+    timeline: 同日
+    anchor: I love Jay. Are you kidding me?
+  - id: "05"
+    place: 学校体育馆
+    plot: Claire 指挥布置、镇住 Gus；自认学校舞会是「她的事」。
+    characters: Claire, Bethenny, Gus
+    timeline: 布置中
+    anchor: "It's \"Dunphy.\""
+  - id: "06"
+    place: 学校体育馆
+    plot: Gloria 还是来了，自称共同主席，复述 Claire 的指令。
+    characters: Gloria, Claire
+    timeline: 布置中
+    anchor: Ihola, hola! I'm here!
+  - id: "07"
+    place: 车内
+    plot: Lily 在后座又咬人；Cam 认定是 Billy， Mitch 驾车逃离。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: I mean, the nerve of that lady accusing Lily?
+  - id: "08"
+    place: 商场男装
+    plot: Manny 试模特西装；Jay 因排队被加塞而爆发，骂 Phil 太好说话。
+    characters: Jay, Phil, Luke, Manny
+    timeline: 同日
+    anchor: Are you sure this is teal?
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: 两人把咬人归咎于对方信号混乱，互咬、拿牙齿当工具互相嘲。
+    characters: Mitchell, Cameron, Lily
+    timeline: 平行线
+    anchor: Okay, I don't get it. Why is she biting?
+  - id: "10"
+    place: 学校体育馆
+    plot: Gloria 挪桌子扩舞池；Claire 把她支到舞台下脏暗处搬椅子。
+    characters: Gloria, Claire, Bethenny
+    timeline: 布置中
+    anchor: Un poquito mas aca. Es perfecto all.
+  - id: "11"
+    place: 商场收银台
+    plot: Jay 为收据耗到「误婚礼第一支舞」；Phil 借口给 Luke 买袜子溜走。
+    characters: Jay, Phil, Luke, Manny
+    timeline: 同日
+    anchor: If I had the receipt,
+  - id: "12"
+    place: 商场
+    plot: Jay 向抢车位的人兴师问罪，对方说刚安乐死爱犬；Phil 在香水柜对店员狂喷 Oasis。
+    characters: Jay, Phil, Luke, Manny
+    timeline: 同日
+    anchor: Hey, boys...
+  - id: "13"
+    place: 商场 · 休息处
+    plot: Jay 向 Phil 道歉，不想当令人恨的岳父；承认有时觉得男孩该多学 Phil。
+    characters: Jay, Phil
+    timeline: 同日
+    anchor: Hey, Phil.
+  - id: "14"
+    place: Mitch & Cam 家
+    plot: 妈妈论坛建议胡椒罚咬人；Cam 唱歌「人不是食物」，Lily 又咬，两人互塞胡椒互咬。
+    characters: Mitchell, Cameron, Lily
+    timeline: 傍晚
+    anchor: Did you find anything yet?
+  - id: "15"
+    place: 学校舞会
+    plot: 男孩们穿配对领带到场；Claire 看见 Gloria 的衣服，醋意再起。
+    characters: Claire, Gloria, Luke, Manny, Phil
+    timeline: 舞会夜
+    anchor: Oh, look at you two in your matching ties!
+  - id: "16"
+    place: 学校舞会 · 一角
+    plot: Claire 对 Gloria 爆发「这是我唯一的事」；Gloria 说志愿是为了让人看见自己不只是「热辣那个」。
+    characters: Claire, Gloria
+    timeline: 舞会中
+    anchor: Okay, we need to talk.
+  - id: "17"
+    place: 舞会 / 旁白
+    plot: 旁白：大人表层底下仍是从前那个孩子；Cam 与 Mitch 假装接受 Lily 不完美又立刻反悔。
+    characters: 旁白, Cameron, Mitchell, Lily
+    timeline: 舞会中 / 家中交叉
+    anchor: We like to think we're so smart
+  - id: "18"
+    place: 舞会门口
+    plot: 香水男 Longines 来告状被 Oasis 袭击；Phil 让 Lily 去「对付」他，片尾一声咬。
+    characters: Phil, Cameron, Mitchell, Lily
+    timeline: 片尾
+    anchor: That was Longines. He's in a very bad place.

@@ -1,0 +1,172 @@
+# Scene markers for modern-family-s02e15-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E15
+episode_arc: 公主派对
+timeline_note: 邓菲家 Dede 带 Robbie 搅局；Lily 公主派对主办权；Gloria 怕见前妻
+
+index_groups:
+  - scenes: "01"
+    place: 邓菲家 · 早餐
+    summary: Dede 要来；Phil 布置孩子们
+  - scenes: "02"
+    place: Mitch & Cam
+    summary: 禁 Fizbo；公主主题之争
+  - scenes: "03–07"
+    place: 邓菲家
+    summary: Dede 到访；提 Robbie；他上门晚餐；厨房母女吵
+  - scenes: "08"
+    place: Jay 家
+    summary: 录有声书；Gloria 不去派对
+  - scenes: "09–10"
+    place: Mitch 家 / Jay 家
+    summary: Fizbo 宫廷小丑被拒；Gloria 决定去
+  - scenes: "11–12"
+    place: 邓菲家 · 晚餐
+    summary: 捏手忍怒；Robbie 走后 Dede 跟车
+  - scenes: "13–16"
+    place: 公主派对
+    summary: 雇来的公主；Dede 带 Robbie 到场
+  - scenes: "17–19"
+    place: 派对现场
+    summary: Claire 质问；爆发；Jay 赶走 Robbie
+  - scenes: "20–21"
+    place: 派对 / 泳池边
+    summary: Fizbo 获准救场；Jay 安慰 Dede
+  - scenes: "22"
+    place: 片尾
+    summary: 有声书；Gloria 落水
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 厨房早餐
+    plot: Haley 历史没过关；Phil 布置孩子们应付要来的 Dede。
+    characters: Haley, Claire, Phil, Alex, Luke
+    timeline: Dede 到访当日早晨
+    anchor: It's so unfair. You told me I could go.
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Cam 要演 Fizbo；Mitch 以公主主题否决。
+    characters: Mitchell, Cameron
+    timeline: 派对前
+    anchor: Cam, Monica can't come to Lily's birthday party this weekend.
+  - id: "03"
+    place: 邓菲家 · 门口
+    plot: Dede 到访；把 Claire 当十二岁。
+    characters: Haley, Dede, Claire
+    timeline: 同日午前
+    anchor: Hey, mom.
+  - id: "04"
+    place: Jay 家 · 客厅
+    plot: Gloria 买有声书；Jay 想起答录机「哔」的灾难。
+    characters: Jay, Gloria
+    timeline: 平行线
+    anchor: We're home!
+  - id: "05"
+    place: 邓菲家 · 客厅
+    plot: Dede 说机场碰到 Robbie，还偷看过 Claire 日记。
+    characters: Dede, Claire, Phil, Luke
+    timeline: 同日
+    anchor: So, anyways,
+  - id: "06"
+    place: 邓菲家 · 门厅
+    plot: Luke 卖萌失败；Robbie 应 Dede 之邀上门。
+    characters: Luke, Claire, Dede, Robbie, Phil
+    timeline: 晚餐前
+    anchor: I'll get it.
+  - id: "07"
+    place: 邓菲家 · 厨房
+    plot: Claire 质问为何不先问她；Dede 说问了就会被拒。
+    characters: Claire, Dede
+    timeline: 晚餐中
+    anchor: I just don't understand why you invited him to my house.
+  - id: "08"
+    place: Jay 家 · 客厅
+    plot: 录小熊故事；Gloria 因 Dede 不去派对；Jay 暗喜。
+    characters: Gloria, Jay, Manny
+    timeline: 平行线
+    anchor: '"Once upon a time, there lived a family of bears.'
+  - id: "09"
+    place: Mitch & Cam 家
+    plot: Phil 电话吐槽 Robbie；Cam 扮宫廷小丑仍被拒，Mitch 已雇公主。
+    characters: Mitchell, Phil, Cameron
+    timeline: 派对前夜
+    anchor: So Robbie Sullivan's at your house right now.
+  - id: "10"
+    place: Jay 家
+    plot: Gloria 不想错过家庭活动，决定去派对；圣礼也重回日程。
+    characters: Gloria, Jay
+    timeline: 同夜
+    anchor: I was thinking about what you said,
+  - id: "11"
+    place: 邓菲家 · 餐桌
+    plot: Phil 让 Claire 捏手泄愤；Robbie 讲码头往事；Dede 尺度过大。
+    characters: Phil, Claire, Dede, Robbie, Haley
+    timeline: 晚餐
+    anchor: Well, you know, we didn't want to break curfew.
+  - id: "12"
+    place: 邓菲家 · 门厅/客厅
+    plot: Claire 忍住没翻脸；发现 Dede 跟 Robbie 走了，手机落在沙发。
+    characters: Claire, Phil, Dede
+    timeline: 晚餐后
+    anchor: I did it.
+  - id: "13"
+    place: 公主派对 · 布置
+    plot: 雇来的公主到场；Cam 批评「等王子」讯息。
+    characters: Cameron, Mitchell
+    timeline: 派对当日
+    anchor: You are princess...
+  - id: "14"
+    place: 公主派对 · 门口
+    plot: 家人到场；Dede 没来；Gloria 吃药喝酒后飘了。
+    characters: Mitchell, Cameron, Phil, Claire, Jay, Gloria
+    timeline: 派对开始
+    anchor: Hey. - Hi. Hi. Hi. Hi. Hi. Hi. Hi. Hi.
+  - id: "15"
+    place: 公主派对 · 场地
+    plot: 公主要报酬却不破角色；Cam 讲小丑着火仍吹气球。
+    characters: Mitchell, Princess, Cameron
+    timeline: 派对中段
+    anchor: There's the birthday girl!
+  - id: "16"
+    place: 公主派对
+    plot: Dede 带 Robbie 出现；三家人抢着对号入座「都是针对我」。
+    characters: Claire, Mitchell, Jay, Gloria, Dede, Robbie
+    timeline: 派对中段
+    anchor: Oh, hi!
+  - id: "17"
+    place: 公主派对 · 角落
+    plot: Claire 质问 Robbie；他说高中就幻想 Dede。
+    characters: Claire, Robbie
+    timeline: 派对中段
+    anchor: I need to talk to you for a second.
+  - id: "18"
+    place: 公主派对
+    plot: Claire 对 Dede 爆发：别再把家庭当游戏推到极限。
+    characters: Claire, Dede, Mitchell
+    timeline: 冲突高潮
+    anchor: Why does everything have to be so hard with you?
+  - id: "19"
+    place: 公主派对
+    plot: Phil 请 Robbie 离开；Jay 用旧威慑把他吓走。
+    characters: Phil, Robbie, Jay
+    timeline: 冲突后
+    anchor: Robbie?
+  - id: "20"
+    place: 公主派对
+    plot: 场面冷清；Mitch 认错，请 Fizbo 救场。
+    characters: Mitchell, Cameron
+    timeline: 派对后段
+    anchor: So much for keeping it all about Lily.
+  - id: "21"
+    place: 泳池边
+    plot: Jay 安慰 Dede：离婚是对的；Dede 把 Gloria 推进泳池。
+    characters: Jay, Dede, Gloria, Mitchell, Claire
+    timeline: 派对尾声
+    anchor: You okay?
+  - id: "22"
+    place: Jay 家 · 片尾
+    plot: 有声书成了珍贵礼物；Jay 嫌烦，Gloria 落水回放。
+    characters: Mitchell, Gloria, Jay, Manny, Cameron
+    timeline: 片尾 tag
+    anchor: This is such a precious gift!

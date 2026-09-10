@@ -1,0 +1,291 @@
+# S02 各集主题（侧栏 / 页面标题；与 transcript 场景索引一致）
+# MkDocs 构建时读取：mkdocs_hooks.py
+episodes:
+  1:
+    theme: "旧车 / 父子露营"
+    slug: the-old-wagon
+    plot_zh: "Phil 死守那辆漏油老爷车，Claire 只想清车库；他带 Luke 去露营，却发现儿子更想跟朋友玩。Mitchell 和 Cameron 送 Lily 上幼儿园，Jay 则被迫面对自己对「男人该怎样」的执念。"
+    plot_en: "Phil clings to a leaking classic car while Claire just wants the garage back. He takes Luke camping, then learns his son would rather hang out with friends. Mitchell and Cameron drop Lily at preschool, and Jay has to face his own ideas about how a man should act."
+    keywords:
+      - classic car — 老爷车
+      - camping trip — 露营
+      - preschool drop-off — 送幼儿园
+      - letting go — 放手
+      - father-son bonding — 父子相处
+      - garage clutter — 车库杂物
+  2:
+    theme: "亲吻 / Jay 的尴尬"
+    slug: the-kiss
+    plot_zh: "Jay 看不惯 Mitchell 和 Cameron 在公开场合亲吻，家里因此吵成一团。Haley 和 Dylan 的亲密让 Claire 更焦虑；Manny 写情诗，Gloria 则逼 Jay 正视自己的别扭。"
+    plot_en: "Jay cannot stand Mitchell and Cameron kissing in public, and the house blows up over it. Haley and Dylan make Claire even more anxious. Manny writes a love poem, and Gloria pushes Jay to face his own discomfort."
+    keywords:
+      - public display of affection — 公开亲热
+      - discomfort — 别扭 / 不适
+      - teenage dating — 青少年约会
+      - love poem — 情诗
+      - family tension — 家庭紧张
+      - coming around — 想通 / 接受
+  3:
+    theme: "地震"
+    slug: earthquake
+    plot_zh: "一场小地震把三家人打乱：Claire 被困浴室，Phil 手忙脚乱当英雄；Cameron 对 Lily 过度保护；Manny 以为世界末日，Jay 只好陪他熬过恐慌。"
+    plot_en: "A small earthquake scrambles all three households. Claire gets stuck in the bathroom while Phil scrambles to play hero. Cameron goes overboard protecting Lily. Manny thinks it is the end of the world, and Jay has to sit with him through the panic."
+    keywords:
+      - earthquake — 地震
+      - stuck in the bathroom — 困在浴室
+      - overprotective — 过度保护
+      - panic — 恐慌
+      - emergency — 突发状况
+      - stay calm — 保持冷静
+  4:
+    theme: "跑步机陌生人 / 交友"
+    slug: strangers-on-a-treadmill
+    plot_zh: "Claire 想让 Phil 跟她的闺蜜夫君做朋友，Mitchell 却希望 Cameron 疏远某个损友。两边都在「为对方好」里越管越乱；Jay 带 Manny 打高尔夫，也撞上社交面子。"
+    plot_en: "Claire wants Phil to befriend her friend's husband, while Mitchell wants Cameron to drop a bad influence. Both try to manage each other and make it worse. Jay takes Manny golfing and runs into social pride of his own."
+    keywords:
+      - make friends — 交朋友
+      - bad influence — 损友 / 坏影响
+      - couple politics — 夫妻社交
+      - golf — 高尔夫
+      - people-pleasing — 讨好别人
+      - honest talk — 实话实说
+  5:
+    theme: "电子产品戒断"
+    slug: unplugged
+    plot_zh: "邓菲家规定全家戒电子产品，孩子们立刻抓狂。Lily 那只会说话的玩具成了 Mitchell 和 Cameron 的战场；Manny 网恋受挫，Gloria 和 Jay 第一次认真谈「屏幕时间」。"
+    plot_en: "The Dunphys go screen-free and the kids lose it. Lily's talking toy turns into a fight between Mitchell and Cameron. Manny's online crush falls apart, and Gloria and Jay finally talk about screen time for real."
+    keywords:
+      - unplug — 戒电子产品 / 拔插头
+      - screen time — 屏幕时间
+      - talking toy — 会说话的玩具
+      - online crush — 网恋
+      - family rules — 家庭规矩
+      - boredom — 无聊
+  6:
+    theme: "万圣节"
+    slug: halloween
+    plot_zh: "Claire 要把万圣节房子搞到吓人，好翻盘去年的丢脸。Phil 的服装和孩子们的计划不断拆台；Cameron 为服装较真，Jay 则被 Gloria 拉去应付上门要糖的人。"
+    plot_en: "Claire wants a terrifying Halloween house to erase last year's embarrassment. Phil's costume and the kids' plans keep undercutting her. Cameron gets intense about outfits, and Gloria drags Jay into handing out candy."
+    keywords:
+      - Halloween — 万圣节
+      - costume — 服装
+      - haunted house — 鬼屋
+      - trick-or-treat — 不给糖就捣蛋
+      - embarrassment — 丢脸
+      - overdo it — 搞过头
+  7:
+    theme: "烟雾报警器 / Chirp"
+    slug: chirp
+    plot_zh: "家里烟雾报警器一直 Chirp，Phil 拆不掉，自信心被掏空。Claire 怀疑自己是不是管太多；Gloria 的姐姐来访，把 Jay 的耐性磨到边缘。"
+    plot_en: "A smoke detector keeps chirping and Phil cannot kill it, which guts his confidence. Claire wonders if she is too controlling. Gloria's sister visits and wears Jay's patience down to the edge."
+    keywords:
+      - smoke detector — 烟雾报警器
+      - chirp — 嘀嘀响
+      - confidence — 自信心
+      - houseguest — 来做客的亲戚
+      - in-laws — 姻亲
+      - fixer instinct — 想修好一切
+  8:
+    theme: "曼尼打猎"
+    slug: manny-get-your-gun
+    plot_zh: "Jay 带 Manny 去打猎，想让他「像个男人」；Gloria 坚决反对。Claire 筹划一场过头的生日惊喜；Mitchell 和 Cameron 给家里做儿童防护，却防得自己先崩溃。"
+    plot_en: "Jay takes Manny hunting to make him \"more of a man,\" and Gloria hates it. Claire plans an over-the-top birthday surprise. Mitchell and Cameron baby-proof the house and drive themselves crazy first."
+    keywords:
+      - hunting — 打猎
+      - birthday surprise — 生日惊喜
+      - baby-proof — 儿童防护
+      - masculinity — 男子气概
+      - over-the-top — 搞过头
+      - parental disagreement — 父母意见不合
+  9:
+    theme: "Cam 的妈妈"
+    slug: mother-tucker
+    plot_zh: "Cameron 的妈妈来访，Mitchell 被她的强势压得喘不过气。Phil 迷上魔术，到处表演；Jay 和 Gloria 去见咨询师，第一次把婚姻矛盾摊开。"
+    plot_en: "Cameron's mom visits and Mitchell can barely breathe under her force. Phil gets into magic and performs everywhere. Jay and Gloria see a counselor and finally put their marriage issues on the table."
+    keywords:
+      - mother-in-law — 岳母 / 婆婆
+      - magic tricks — 魔术
+      - couples counseling — 夫妻咨询
+      - people-pleasing — 讨好
+      - boundary — 边界
+      - visit from mom — 妈妈来访
+  10:
+    theme: "父女舞"
+    slug: dance-dance-revelation
+    plot_zh: "学校办父女舞，Phil 全力以赴，Claire 却勾起自己当年被 Jay 放鸽子的伤。Gloria 教街舞式萨尔萨；Cameron 在舞蹈上较劲，Mitchell 只好打圆场。"
+    plot_en: "The school throws a father-daughter dance. Phil goes all in, while Claire relives Jay standing her up years ago. Gloria teaches a salsa-style routine. Cameron gets competitive about dancing, and Mitchell has to keep the peace."
+    keywords:
+      - father-daughter dance — 父女舞
+      - stood up — 被放鸽子
+      - salsa — 萨尔萨
+      - old wound — 旧伤
+      - school event — 学校活动
+      - make it up — 弥补
+  11:
+    theme: "邻居赛车"
+    slug: slow-down-your-neighbors
+    plot_zh: "新邻居 Andy 超速又迷人，Claire 又气又乱。Gloria 去驾校，Jay 当她的「教练」翻车；Cameron 一头扎进社区剧场，Mitchell 在家当后勤。"
+    plot_en: "New neighbor Andy speeds and charms Claire at the same time. Gloria goes to driving school and Jay crashes as her coach. Cameron dives into community theater, and Mitchell runs support at home."
+    keywords:
+      - neighbor — 邻居
+      - speeding — 超速
+      - driving school — 驾校
+      - community theater — 社区剧场
+      - crush — 心动
+      - jealous — 吃醋
+  12:
+    theme: "家长会 / 我们与孩子"
+    slug: our-children-ourselves
+    plot_zh: "家长开放夜让每个人都碰到自己的软肋：Claire 好强，Phil 想当受欢迎的爸。Mitchell 遇见昔日教授；Jay 的老友 Shorty 来访，揭开中年友情的尴尬。"
+    plot_en: "Parents' night pokes everyone's soft spot: Claire has to win, and Phil wants to be the cool dad. Mitchell runs into an old professor. Jay's buddy Shorty visits and exposes how awkward midlife friendship can get."
+    keywords:
+      - parents' night — 家长开放夜
+      - cool dad — 受欢迎的爸爸
+      - old professor — 昔日教授
+      - midlife friendship — 中年友情
+      - showing off — 炫耀
+      - insecure — 没底气
+  13:
+    theme: "撞见父母"
+    slug: caught-in-the-act
+    plot_zh: "孩子们撞见 Claire 和 Phil 的亲密时刻，全家进入尴尬模式。Lily 被放到 Jay 家，Gloria 体验带婴儿的混乱；Cameron 的爸爸来访，旧的父子账又翻出来。"
+    plot_en: "The kids walk in on Claire and Phil, and the house goes into awkward mode. Lily stays at Jay's, and Gloria gets a crash course in baby chaos. Cameron's dad visits and old father-son scores come back out."
+    keywords:
+      - walked in on — 撞见
+      - awkward — 尴尬
+      - babysitting — 临时带孩子
+      - dad visits — 父亲来访
+      - private life — 私人空间
+      - the talk — 那次谈话
+  14:
+    theme: "板凳球员 / 篮球"
+    slug: benched
+    plot_zh: "Phil 执教篮球，把 Luke 晾在板凳上，父子都难受。Mitchell 去面试，Cameron 过度「帮忙」；Jay 教 Manny 网球，输赢心比孩子还重。"
+    plot_en: "Phil coaches basketball and benches Luke, which hurts them both. Mitchell interviews for a job while Cameron \"helps\" too much. Jay teaches Manny tennis and cares about winning more than the kid does."
+    keywords:
+      - benched — 坐板凳
+      - coach — 教练
+      - job interview — 面试
+      - tennis — 网球
+      - competitive — 好胜
+      - support vs pressure — 支持还是施压
+  15:
+    theme: "公主派对"
+    slug: princess-party
+    plot_zh: "Lily 的公主派对变成 Gloria 和 Claire 的主办权之争。Haley 练开车，Phil 既当教练又当 cop；Mitchell 想办得体面，Cameron 只想让孩子开心。"
+    plot_en: "Lily's princess party turns into a host war between Gloria and Claire. Haley learns to drive while Phil tries to be both coach and cop. Mitchell wants the party polished; Cameron just wants the kid to have fun."
+    keywords:
+      - princess party — 公主派对
+      - host — 主办
+      - learning to drive — 学开车
+      - party planning — 筹办派对
+      - one-upmanship — 较劲
+      - let kids be kids — 让孩子做孩子
+  16:
+    theme: "慈善晚会 / 只有遗憾"
+    slug: regrets-only
+    plot_zh: "Mitchell 办慈善晚会，Phil 一句莽话把场面搞砸。Jay 的狗 Stella 闯入家庭秩序；Claire 重新盘点自己放弃的事业，遗憾和责任拧在一起。"
+    plot_en: "Mitchell throws a charity gala and Phil wrecks it with one careless line. Jay's dog Stella crashes the family order. Claire takes stock of the career she walked away from, and regret gets tangled up with duty."
+    keywords:
+      - charity gala — 慈善晚会
+      - careless comment — 莽话
+      - dog — 狗
+      - career regret — 事业遗憾
+      - RSVP regrets only — 不来请回复
+      - make amends — 弥补
+  17:
+    theme: "两只猴子和熊猫"
+    slug: two-monkeys-and-a-panda
+    plot_zh: "领养机构要家访，Mitchell 和 Cameron 把家里布置成「完美家长」。Haley 备考 SAT 压力爆表；Manny 排戏，Jay 第一次认真当观众而不是导演。"
+    plot_en: "The adoption agency does a home visit, so Mitchell and Cameron stage the perfect-parent house. Haley is drowning in SAT prep. Manny is in a play, and Jay finally watches as an audience instead of a director."
+    keywords:
+      - home visit — 家访
+      - adoption — 领养
+      - SAT prep — SAT 备考
+      - school play — 学校演出
+      - impress — 给好印象
+      - be yourself — 做自己
+  18:
+    theme: "男孩之夜"
+    slug: boys-night
+    plot_zh: "男人出门过 boys' night，女人也有自己的局，两边都证明「轻松」其实不轻松。Cameron 的小丑身份又冒出来；孩子们趁空隙试探规矩的边界。"
+    plot_en: "The men go out for boys' night and the women have their own night. Both sides learn that \"easy\" is not easy. Cameron's clown identity pops back up, and the kids test the rules while the adults are gone."
+    keywords:
+      - boys' night — 男孩之夜
+      - girls' night — 女孩之夜
+      - night out — 外出夜
+      - clown — 小丑
+      - test the rules — 试探规矩
+      - couple time — 夫妻时间
+  19:
+    theme: "音乐剧男人"
+    slug: the-musical-man
+    plot_zh: "学校音乐剧让 Cameron 当导演，全家被卷进排练。Jay 的储藏间秘密被翻出；Phil 想当舞台英雄，Claire 负责把混乱按回轨道。"
+    plot_en: "The school musical puts Cameron in the director's chair and pulls the whole family into rehearsal. A secret in Jay's closet comes out. Phil wants to be the stage hero, and Claire has to shove the chaos back on track."
+    keywords:
+      - musical — 音乐剧
+      - director — 导演
+      - rehearsal — 排练
+      - closet secret — 柜子里的秘密
+      - stage fright — 怯场
+      - school show — 学校演出
+  20:
+    theme: "照看 Lily"
+    slug: someone-to-watch-over-lily
+    plot_zh: "Mitchell 和 Cameron 找保姆，标准高到离谱。Claire 接到工作机会，身份又被问了一遍；Jay 和 Gloria 在「谁说了算」上再次卡住。"
+    plot_en: "Mitchell and Cameron hunt for a babysitter with impossible standards. Claire gets a job offer and has to look at her identity again. Jay and Gloria jam once more on who actually calls the shots."
+    keywords:
+      - babysitter — 保姆
+      - job offer — 工作机会
+      - high standards — 高标准
+      - who is in charge — 谁说了算
+      - trust — 信任
+      - work-life — 工作与生活
+  21:
+    theme: "母亲节"
+    slug: mothers-day
+    plot_zh: "母亲节把所有妈妈推到聚光灯下：Claire 想被看见，Gloria 想被感谢，Dede 一出场旧账全来。孩子们的礼物闹出笑话，男人们这才明白「帮忙」和「心意」不是一回事。"
+    plot_en: "Mother's Day puts every mom under the lights. Claire wants to be seen, Gloria wants to be thanked, and Dede walks in with old baggage. The kids' gifts go sideways, and the men finally learn that helping is not the same as meaning it."
+    keywords:
+      - Mother's Day — 母亲节
+      - feel appreciated — 被感谢
+      - gift — 礼物
+      - Dede — 亲妈来访
+      - emotional labor — 情绪劳动
+      - thank you — 谢谢你
+  22:
+    theme: "好警察坏狗"
+    slug: good-cop-bad-dog
+    plot_zh: "Stella 把 Jay 家搞乱，Gloria 和 Jay 演起好警察坏警察。Phil 和 Claire 在管教上换角色，效果令人意外；Cameron 回农场，Mitchell 第一次看懂他的来处。"
+    plot_en: "Stella wrecks Jay's house, so Gloria and Jay play good cop, bad cop. Phil and Claire swap parenting roles and the results surprise them. Cameron goes back to the farm, and Mitchell finally sees where he comes from."
+    keywords:
+      - good cop bad cop — 好警察坏警察
+      - dog training — 训狗
+      - parenting roles — 管教角色
+      - farm — 农场
+      - discipline — 管教
+      - compromise — 折中
+  23:
+    theme: "摔跤 / 明年见"
+    slug: see-you-next-fall
+    plot_zh: "Luke 被霸凌，Phil 想护短，Claire 想让他自己站起来。Mitchell 准备一场重要致辞，紧张到失态；Gloria 面试工作，Jay 第一次认真当她的后盾。"
+    plot_en: "Luke gets bullied. Phil wants to shield him; Claire wants him to stand up on his own. Mitchell preps a big toast and bombs from nerves. Gloria interviews for a job, and Jay finally backs her for real."
+    keywords:
+      - bullied — 被霸凌
+      - stand up for yourself — 为自己出头
+      - toast — 致辞
+      - job interview — 面试
+      - nerves — 紧张
+      - have your back — 撑你
+  24:
+    theme: "错过的那个人 / 季终"
+    slug: the-one-that-got-away
+    plot_zh: "Jay 高中同学聚会，撞见「错过的那个人」，婚姻被重新提问。Phil 冲房地产业奖，Claire 看他忙到看不见家；Mitchell 和 Cameron 大吵一架，季终把三家的裂缝和修补都摊开。"
+    plot_en: "Jay's high-school reunion puts him face to face with the one that got away, and his marriage gets questioned. Phil chases a realtor award while Claire watches him miss the house. Mitchell and Cameron have a blowout, and the finale lays out every crack and every repair."
+    keywords:
+      - the one that got away — 错过的那个人
+      - reunion — 同学聚会
+      - realtor award — 房产经纪奖
+      - blowout fight — 大吵
+      - what if — 假如
+      - choose this family — 选择这个家

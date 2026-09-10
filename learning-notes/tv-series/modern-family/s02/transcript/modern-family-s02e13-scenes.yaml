@@ -1,0 +1,184 @@
+# Scene markers for modern-family-s02e13-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E13
+episode_arc: 撞见父母
+timeline_note: 邓菲家撞见、Jay/Gloria 误发邮件、Mitch/Cam 约 Amelia 三线平行
+
+index_groups:
+  - scenes: "01"
+    place: Jay 家
+    summary: 糕饼义卖邮件误发
+  - scenes: "02–03"
+    place: Mitch & Cam
+    summary: 沙威玛旁白；约 Amelia 儿子玩
+  - scenes: "04–06"
+    place: 邓菲家
+    summary: 纪念日早餐；撞见；楼下消化
+  - scenes: "07"
+    place: 车内
+    summary: 打不通 Claire，掉头
+  - scenes: "08–10"
+    place: Mitch 家 · play date
+    summary: 取悦 Amelia；她骂承包商后托孩；果汁洒地毯
+  - scenes: "11–13"
+    place: 邓菲家
+    summary: 排练谈话；孩子逃走；Jay/Gloria 到
+  - scenes: "14"
+    place: Mitch 家
+    summary: 限量地毯恐慌
+  - scenes: "15–16"
+    place: 邓菲家
+    summary: Gloria 错谈邮件；Jay 进门知情
+  - scenes: "17"
+    place: 孩子们 · 车内
+    summary: 车上吐槽不负责的爸妈
+  - scenes: "18–19"
+    place: 邓菲家
+    summary: Jay 旧账；删邮件去 Vegas
+  - scenes: "20"
+    place: Mitch 家
+    summary: 栽赃 Jackson，过敏针，坦白
+  - scenes: "21–23"
+    place: 沙威玛 / 邓菲客厅
+    summary: 仍点沙威玛；家庭谈话与门锁礼物
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 出发前
+    plot: Gloria 写邮件拒糕饼义卖；Jay 代笔误发出去。
+    characters: Gloria, Jay
+    timeline: 周末清晨，准备飞拉斯维加斯
+    anchor: Come on, let's go.
+  - id: "02"
+    place: 沙威玛城 · 旁白
+    plot: 步行只够吃沙威玛；Amelia's 订位两难。
+    characters: Mitchell, Cameron
+    timeline: 平行线 · 近期
+    anchor: We love our neighborhood, but sometimes the last thing
+  - id: "03"
+    place: Mitch & Cam 家 · 准备
+    plot: 约 Amelia 儿子 Jackson 来玩，好换订位。
+    characters: Mitchell, Cameron, Lily
+    timeline: 同日
+    anchor: The most important play date ever,
+  - id: "04"
+    place: 邓菲家 · 卧室门口
+    plot: 孩子们纪念日送早餐，撞见父母亲密。
+    characters: Haley, Alex, Luke, Phil, Claire
+    timeline: 结婚纪念日清晨
+    anchor: It's our parents' anniversary,
+  - id: "05"
+    place: 邓菲家 · 卧室
+    plot: 克莱尔崩溃；菲尔还在调情。
+    characters: Phil, Claire
+    timeline: 撞见之后
+    anchor: Yeah, our kids walked in on us.
+  - id: "06"
+    place: 邓菲家 · 楼下
+    plot: 孩子们消化「撞见」；卢克一知半解。
+    characters: Haley, Alex, Luke
+    timeline: 同时
+    anchor: I can still see it!
+  - id: "07"
+    place: 车内 · 去机场
+    plot: Jay 打给克莱尔；菲尔被逼挂电话；Gloria 下令掉头。
+    characters: Jay, Gloria, Phil, Claire
+    timeline: 与邓菲家平行
+    anchor: Try Claire again.
+  - id: "08"
+    place: Mitch & Cam 家 · 客厅
+    plot: 取悦 Amelia；她差点说出订位暗号。
+    characters: Mitchell, Cameron, Amelia, Lily, Jackson
+    timeline: play date
+    anchor: This is a-a beautiful home.
+  - id: "09"
+    place: Mitch & Cam 家 · 客厅
+    plot: Amelia 打电话骂承包商；托他们看孩子。
+    characters: Amelia, Mitchell, Cameron
+    timeline: play date 中段
+    anchor: Well, did you show it to him? And what did he say?
+  - id: "10"
+    place: Mitch & Cam 家 · 客厅
+    plot: Amelia 离开；果汁盒漏在限量地毯上。
+    characters: Mitchell, Cameron, Lily, Jackson
+    timeline: 她离开后
+    anchor: Oh, my gosh. Lily, thank you for being such a trouper
+  - id: "11"
+    place: 邓菲家 · 卧室
+    plot: 克莱尔要认真谈性；菲尔主张开玩笑带过。
+    characters: Claire, Phil
+    timeline: 孩子们仍在楼下
+    anchor: Okay. We need a game plan.
+  - id: "12"
+    place: 邓菲家 · 楼下
+    plot: 孩子们等不及，决定出门躲尴尬。
+    characters: Haley, Alex, Luke
+    timeline: 同时
+    anchor: Why are they still up there?
+  - id: "13"
+    place: 邓菲家 · 门口
+    plot: Jay/Gloria 赶到；孩子们溜走；「他就在她身后」。
+    characters: Jay, Gloria, Haley, Alex, Luke
+    timeline: 同日午前
+    anchor: Where are you going?
+  - id: "14"
+    place: Mitch & Cam 家 · 地毯
+    plot: 五万地毯洗不掉；想翻转藏污又良心不安。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Oh! It's not coming out! It's not coming out!
+  - id: "15"
+    place: 邓菲家 · 卧室
+    plot: Gloria 以为 Claire 因邮件郁闷，错把义卖当「床事」。
+    characters: Gloria, Claire, Phil
+    timeline: 孩子们出门后
+    anchor: Gloria, what are you -- what are you doing here?
+  - id: "16"
+    place: 邓菲家 · 卧室
+    plot: Jay 进门；全员知道撞见；菲尔调侃纸杯蛋糕。
+    characters: Jay, Gloria, Claire, Phil
+    timeline: 紧接上一场
+    anchor: Gloria, I just switched us to the next flight.
+  - id: "17"
+    place: 车内 / 外出
+    plot: 孩子们吐槽父母不负责，又觉得「还在做爱」总比离婚好。
+    characters: Haley, Alex, Luke
+    timeline: 平行线
+    anchor: Good thing we had mom's gas card.
+  - id: "18"
+    place: 邓菲家 · 客厅
+    plot: Claire 翻 Jay 当年撞见旧账；Jay 讲高筒靴。
+    characters: Claire, Jay, Gloria, Phil
+    timeline: 同日
+    anchor: I don't know where those kids are.
+  - id: "19"
+    place: 邓菲家 · 厨房电脑
+    plot: Gloria 猜密码删邮件；菲尔谎称裸照；Claire 当面删掉。
+    characters: Gloria, Jay, Claire, Phil
+    timeline: 同日
+    anchor: Working okay for you?
+  - id: "20"
+    place: Mitch & Cam 家 · 客厅
+    plot: Amelia 回来；他们栽赃 Jackson；草莓过敏要打针；终于坦白。
+    characters: Mitchell, Cameron, Amelia, Jackson, Lily
+    timeline: play date 收尾
+    anchor: Mitchell, we need to make a decision.
+  - id: "21"
+    place: 沙威玛城 · 片尾
+    plot: 仍去沙威玛；收银员叫得出米奇的名字。
+    characters: Mitchell, Cameron
+    timeline: 当晚
+    anchor: Number 19!
+  - id: "22"
+    place: 邓菲家 · 客厅
+    plot: 家庭谈话用幽默混过；孩子们送门锁当纪念日礼物。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 纪念日傍晚
+    anchor: And, uh...I'm just gonna say it
+  - id: "23"
+    place: 片尾访谈
+    plot: 锁会响；海莉事后更难面对老爸。
+    characters: Haley, Alex, Luke
+    timeline: 片尾 tag
+    anchor: We thought the lock was a really good idea.

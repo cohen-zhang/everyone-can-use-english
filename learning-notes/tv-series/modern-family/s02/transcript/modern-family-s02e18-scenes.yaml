@@ -1,0 +1,169 @@
+# Scene markers for modern-family-s02e18-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E18
+episode_arc: 男孩之夜
+timeline_note: 男人外出、海莉看 Lily、Luke 结交邻居 Walt；次日 Pepper 约会收尾
+
+index_groups:
+  - scenes: "01–02"
+    place: Jay 家 / 邓菲后院
+    summary: 炒蛋新事物；春日球赛球飞邻居
+  - scenes: "03–04"
+    place: 邓菲家
+    summary: Haley 接下看 Lily；Cam 强烈反对
+  - scenes: "05–07"
+    place: 邻居 / 邓菲家
+    summary: Luke 认识 Walt；父母禁止来往后决定去谈
+  - scenes: "08–09"
+    place: Mitch 家 / 音乐厅
+    summary: 交接 Lily；Jay 搞错《四季》去酒吧
+  - scenes: "10–11"
+    place: 酒吧
+    summary: 同志聚餐谈初恋；把 Jay 拉入座
+  - scenes: "12–13"
+    place: Kleezak 家 / 酒吧
+    summary: 夜探当他死人；Jay 讲 Gina 与苦艾酒
+  - scenes: "14–15"
+    place: Mitch 家 / 酒吧
+    summary: 监视发现 Dylan；Jay 唱歌 Mitch 旁白
+  - scenes: "16–19"
+    place: 次日各家
+    summary: 鞋子；Luke 怪 Walt；Pepper 约会；Gloria 反将一军
+  - scenes: "20–22"
+    place: 邓菲家 / 片尾
+    summary: Walt 送洋葱；人会让你意外；Dylan 的鞋
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 早餐
+    plot: Gloria 把水煮蛋炒了；Jay 用蟹肉饼故事劝 Manny 尝试新事物。
+    characters: Gloria, Manny, Jay
+    timeline: 周中早晨
+    anchor: Good morning, mom
+  - id: "02"
+    place: 邓菲家 · 后院
+    plot: 男女对抗春日球赛；唯一的球飞进 Kleezak 院子，谁也不去捡。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 同日午后
+    anchor: Dunphy spring classic.
+  - id: "03"
+    place: 邓菲家 · 门口
+    plot: Mitch/Cam 找人看 Lily；被关禁闭的 Haley 自告奋勇。
+    characters: Mitchell, Cameron, Haley
+    timeline: 周六前
+    anchor: Hey, Haley. - Oh, hey, uncle Mitchell.
+  - id: "04"
+    place: 车内 / 回家
+    plot: Cam 认为 Haley 不够负责；Mitch 坚持给家人一次机会。
+    characters: Cameron, Mitchell
+    timeline: 刚离开邓菲家
+    anchor: Luke?
+  - id: "05"
+    place: Kleezak 家 · 院子
+    plot: Luke 上门要球，对氧气罐问个不停；老人让他去拿。
+    characters: Luke, Walt
+    timeline: 同日稍后
+    anchor: My name is Luke Dunphy. I live next door.
+  - id: "06"
+    place: 邓菲家 · 客厅
+    plot: Alex 看新闻末日焦虑；Luke 要去 Walt 家看《正午》。
+    characters: Alex, Claire, Jay, Luke, Gloria, Phil
+    timeline: 稍后
+    anchor: I was watching the news,
+  - id: "07"
+    place: 邓菲家
+    plot: 父母禁止来往；Luke 说他们根本不了解；两人决定晚上去谈。
+    characters: Claire, Phil, Luke
+    timeline: 当晚
+    anchor: Wait, are we talking about Mr. Kleezak?
+  - id: "08"
+    place: Mitch & Cam 家
+    plot: 把 Lily 交给 Haley：半小时后哄睡，不准放人进门。
+    characters: Mitchell, Cameron, Haley
+    timeline: 周六夜出发前
+    anchor: Okay, so, the numbers are by the phone.
+  - id: "09"
+    place: 音乐厅门口
+    plot: Jay 以为是 Frankie Valli，其实是维瓦尔第；他去对面酒吧。
+    characters: Jay, Gloria, Manny
+    timeline: 周六夜
+    anchor: I'm telling you, kid,
+  - id: "10"
+    place: 酒吧 · 同志聚餐
+    plot: 众人聊初恋偶像；Cam 怀念这种夜晚。
+    characters: Cameron, Mitchell, Pepper, Longinus, Crispin
+    timeline: 男孩之夜
+    anchor: I'm telling you, John Schneider was the one!
+  - id: "11"
+    place: 酒吧
+    plot: 发现 Jay 独坐；朋友起哄把他拉过来一起喝。
+    characters: Mitchell, Cameron, Jay, Pepper, Longinus, Crispin
+    timeline: 紧接上一场
+    anchor: Oh, Mitchell, look, it's your father.
+  - id: "12"
+    place: Kleezak 家 · 夜里
+    plot: Phil/Claire 推门发现他一动不动，当死人乱摸，对方只是睡着。
+    characters: Phil, Claire, Walt
+    timeline: 与酒吧平行
+    anchor: Mr. Kleezak? - Mr. Kleezak?
+  - id: "13"
+    place: 酒吧
+    plot: Jay 讲十二岁立誓娶 Gina；苦艾酒 Margarita；Gloria 来接。
+    characters: Jay, Mitchell, Cameron, Gloria
+    timeline: 酒吧后段
+    anchor: So I'm 12 years old
+  - id: "14"
+    place: Mitch 家 · 远程
+    plot: Cam 用电脑摄像头监视，看见男人走过；Haley 发火赶 Dylan 走。
+    characters: Cameron, Haley, Dylan
+    timeline: 同时
+    anchor: Haley, hi. Is -- is everything okay?
+  - id: "15"
+    place: 酒吧
+    plot: Jay 唱《Walk Like a Man》；Mitch 旁白：也许一直是自己在隔阂。
+    characters: Jay, Mitchell, Cameron
+    timeline: 夜深
+    anchor: Dad, I've never seen you sing before.
+  - id: "16"
+    place: 邓菲家 · 次日
+    plot: Haley 把鞋落在舅舅家；Luke 去怪 Walt 对父母不客气。
+    characters: Haley, Alex, Luke, Walt
+    timeline: 次日早晨
+    anchor: Please tell me that you have my shoes.
+  - id: "17"
+    place: Jay 家 · 电话
+    plot: Mitch 致电感谢；Pepper 打进来说马上接 Jay 去棕榈泉。
+    characters: Mitchell, Jay, Pepper
+    timeline: 次日早晨
+    anchor: Hey, Dad! - How do you guys do it?
+  - id: "18"
+    place: Jay 家
+    plot: Jay 求 Gloria 装急症挡约会；她演示头痛后又收回。
+    characters: Jay, Gloria
+    timeline: Pepper 到来前
+    anchor: Gloria, now, listen.
+  - id: "19"
+    place: Jay 家 · 门口
+    plot: Pepper 上门；Gloria 改口放行，让他们玩一整天。
+    characters: Pepper, Jay, Gloria
+    timeline: 紧接上一场
+    anchor: I'm here!
+  - id: "20"
+    place: 邓菲家 · 门口
+    plot: Alex 继续末日；Walt 送自家洋葱，说自己当过消防、不伤害孩子。
+    characters: Alex, Claire, Phil, Walt
+    timeline: 同日
+    anchor: Alex, honey, come on. We're gonna be late.
+  - id: "21"
+    place: 邓菲家 · 旁白
+    plot: 人会让你意外；Mitch 把话题拐到罗伯·劳。
+    characters: Mitchell, Cameron, Phil, Claire
+    timeline: 旁白收束
+    anchor: People can surprise you.
+  - id: "22"
+    place: 车内 · 片尾
+    plot: Haley 求信任；Cam 亮出 Dylan 的鞋，嘱咐系安全带。
+    characters: Haley, Mitchell, Cameron
+    timeline: 片尾 tag
+    anchor: Haley! - We need to talk.

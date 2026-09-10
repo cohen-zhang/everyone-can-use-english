@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e23-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E23
+episode_arc: 摔跤 / 明年见
+timeline_note: 艾丽克斯毕业典礼日；卡姆掉进戏水池；Jay 打了 Botox；大门故障全家赶场
+
+index_groups:
+  - scenes: "01–04"
+    place: 邓菲家 / Jay 家 / Cam 家
+    summary: 毕业幻想采访；演讲稿；遥控门误会心脏病；卡姆落水
+  - scenes: "05–07"
+    place: 邓菲家
+    summary: 练演讲克莱尔帮倒忙；Jay 眼皮耷拉；海莉偷看演讲吵架
+  - scenes: "08–11"
+    place: Jay 家聚会
+    summary: 米奇笑卡姆落水；克莱尔伤感；Jay 承认 Botox
+  - scenes: "12–15"
+    place: 车道大门 / 车内
+    summary: 海莉撕稿；大门卡住克莱尔崩溃；姐弟谈「每个人都有 stuff」
+  - scenes: "16–19"
+    place: 翻墙骑车 / 路边
+    summary: 链条断裂；歌洛莉亚劝杰接受老脸；卢克「意念」开门
+  - scenes: "20–23"
+    place: 毕业典礼
+    summary: 搭便车冲场；艾丽克斯改演讲；派对邀请；克莱尔抱「宝宝」
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 幻想/冷开场
+    plot: 菲尔把毕业致辞拍成拳击入场，艾丽克斯在找爸妈。
+    characters: Phil, Alex, Luke
+    timeline: 幻想框 / 当日
+    anchor: And now, please welcome your valedictorian,
+  - id: "02"
+    place: 邓菲家 · 客厅
+    plot: 艾丽克斯赶演讲；菲尔盼克莱尔今天就崩溃，好去拉斯维加斯。
+    characters: Claire, Alex, Phil
+    timeline: 毕业日早晨
+    anchor: Sweetie, what do you say you and I
+  - id: "03"
+    place: Jay 家 · 门外/电话
+    plot: 大门遥控失灵；歌洛莉亚曼尼把「clicker」听成心脏病。
+    characters: Jay, Gloria, Manny
+    timeline: 平行线
+    anchor: Hello?
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 卡姆吹农场接生；米奇突然掀帘，卡姆穿着衣服掉进戏水池。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: Okay, Lily, time to get dressed. Okay.
+  - id: "05"
+    place: 邓菲家 · 艾丽克斯房间
+    plot: 艾丽克斯练开场白；克莱尔想帮忙做头发被赶，菲尔以「妈妈熊」待命。
+    characters: Alex, Claire, Phil
+    timeline: 同日
+    anchor: Principal Kaizler, faculty, parents,
+  - id: "06"
+    place: Jay 家
+    plot: 杰眼皮耷拉，承认被忽悠打了 Botox，药剂还在走位。
+    characters: Jay, Gloria
+    timeline: 同日
+    anchor: Where were you? Did you bring the bread?
+  - id: "07"
+    place: 邓菲家
+    plot: 海莉偷看致辞，嫌太扎心；劝她改成串歌名的空话。
+    characters: Haley, Alex
+    timeline: 同日
+    anchor: Hey, uh, why is your dad's car here?
+  - id: "08"
+    place: Jay 家 · 后院聚会
+    plot: 米奇当众复述卡姆落水；卡姆觉得被背叛。
+    characters: Mitchell, Cameron, Gloria, Jay, Phil, Claire, Luke
+    timeline: 出发前
+    anchor: Hey, guys! - We're here.
+  - id: "09"
+    place: Jay 家后院
+    plot: 菲尔用 Stella 催克莱尔伤感：时间在走，孩子要上高中。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: There she is. There's my little Stella.
+  - id: "10"
+    place: Jay 家后院
+    plot: 卡姆回来；米奇连声道歉，反被说「普里切特基因残酷」。
+    characters: Mitchell, Cameron
+    timeline: 同日
+    anchor: He's coming.
+  - id: "11"
+    place: Jay 家
+    plot: 歌洛莉亚要送医；杰当众承认 Botox，克莱尔一眼拆穿。
+    characters: Gloria, Jay, Claire, Phil, Mitchell
+    timeline: 同日
+    anchor: oh, my god, dad, your face!
+  - id: "12"
+    place: 邓菲家 / 车
+    plot: 海莉撕掉讲稿；艾丽克斯还有备份，嘲讽对方生物课要重修。
+    characters: Haley, Alex
+    timeline: 同日
+    anchor: Alex, wait. I'm sorry.
+  - id: "13"
+    place: Jay 家车道 · 大门
+    plot: 电动门卡住；克莱尔歇斯底里，菲尔暗喜「娇妻崩溃」可以去赌城。
+    characters: Claire, Jay, Phil, Mitchell, Cameron, Luke
+    timeline: 出发时
+    anchor: Dad, open the gate.
+  - id: "14"
+    place: 车道 · 翻墙
+    plot: 菲尔要撞门；米奇当 MacGyver；歌洛莉亚提议把三人自行车扔过墙。
+    characters: Phil, Mitchell, Gloria, Cameron, Claire, Jay, Luke
+    timeline: 同日
+    anchor: All right. Okay, we have tried this way.
+  - id: "15"
+    place: 车内 · 海莉与艾丽克斯
+    plot: 海莉坦白自己的 stuff：生物不及格、怕进不了大学；劝妹妹别当另类。
+    characters: Haley, Alex
+    timeline: 前往学校
+    anchor: I read the rest of your speech.
+  - id: "16"
+    place: 三人自行车上路
+    plot: 克莱尔菲尔抢方向；链条断裂，米奇卡姆在修大门。
+    characters: Claire, Phil, Cameron, Mitchell
+    timeline: 赶场
+    anchor: Phil, go straight!
+  - id: "17"
+    place: Jay 家
+    plot: 歌洛莉亚拿出幻面罩；杰说打 Botox 是给镜子里的自己，不是给她。
+    characters: Gloria, Jay
+    timeline: 平行线
+    anchor: Hey, Jay!
+  - id: "18"
+    place: 车道大门
+    plot: 门突然开了；卢克宣称是用意念打开的。
+    characters: Luke, Mitchell, Cameron, Gloria, Manny
+    timeline: 同日
+    anchor: The gate's opening! The gate's opening!
+  - id: "19"
+    place: 路边
+    plot: 自行车废了；克莱尔怕再失去一个孩子，菲尔放弃拉斯维加斯。
+    characters: Phil, Claire
+    timeline: 赶场中
+    anchor: Yep. That's what I thought. Chain's broken.
+  - id: "20"
+    place: 路边 · 搭便车
+    plot: 一群墨西哥男孩把他们塞进车里，菲尔用西班牙语致谢。
+    characters: Phil, Claire, 路人
+    timeline: 赶场
+    anchor: Hello! Hello!
+  - id: "21"
+    place: 中学礼堂
+    plot: 校长致辞；米奇又笑场，卡姆回敬「正式场合才好笑」。
+    characters: 校长, Cameron, Mitchell, Claire, Phil, Alex
+    timeline: 典礼
+    anchor: I am so proud to be standing
+  - id: "22"
+    place: 礼堂 · 致辞
+    plot: 爸妈滑着进来；艾丽克斯把演讲改成「每个人都有 stuff」加歌名。
+    characters: Alex, Phil, Claire, Haley
+    timeline: 典礼
+    anchor: Where's my mom and dad?
+  - id: "23"
+    place: 礼堂外 · tag
+    plot: 艾丽克斯被请去派对；克莱尔把她当宝宝抱，卢克惨遭同样待遇。
+    characters: Alex, Claire, Phil, Jay, Gloria, Luke, Manny
+    timeline: 片尾
+    anchor: What do you say we all go get something to eat?

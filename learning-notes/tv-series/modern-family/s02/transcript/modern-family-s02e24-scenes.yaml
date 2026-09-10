@@ -1,0 +1,178 @@
+# Scene markers for modern-family-s02e24-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E24
+episode_arc: 错过的那个人 / 季终
+timeline_note: Jay 生日三线：旧宅拍照上树、商场遇大学对手 Whipple、曼尼追女孩；泳池小船收尾
+
+index_groups:
+  - scenes: "01–04"
+    place: 邓菲家 / Jay 家
+    summary: 孩子们做影像致敬；杰只想钓鱼；卡姆把 Lily 丢给歌洛莉亚
+  - scenes: "05–09"
+    place: 商场 / 旧宅后院
+    summary: 菲尔遇对手 Whipple；克莱尔米奇擅闯旧宅被狗逼上树
+  - scenes: "10–14"
+    place: 电话 / 剪辑 / 树上
+    summary: 曼尼厕所求救；卡姆买蛋糕翻车；孩子们剪辑灾难；姐弟谈遗产
+  - scenes: "15–18"
+    place: 商场试衣间 / 树上 / Jay 家
+    summary: Whipple 嘲菲尔；杰来救驾；生日蛋糕被 Stella 搞砸
+  - scenes: "19–22"
+    place: 生日派对
+    summary: 全家道歉；礼物全错；影像致敬更错；曼尼把船拖进泳池
+  - scenes: "23–25"
+    place: 泳池小船 / 室内 tag
+    summary: 米奇想再要个男孩；船翻；菲尔对整容过的克莱尔说永远别变
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 客厅（冷开场）
+    plot: 卢克给杰的贺卡太嘲老；克莱尔催孩子们完成一年前就开始的影像致敬。
+    characters: Luke, Claire, Haley, Alex, Phil
+    timeline: Jay 生日当日
+    anchor: Hey, mom...
+  - id: "02"
+    place: Jay 家 · 后院小船
+    plot: 杰的生日愿望是独自钓鱼加香肠午餐，歌洛莉亚觉得被冒犯。
+    characters: Jay, Gloria
+    timeline: 同日早晨
+    anchor: Permission to come aboard.
+  - id: "03"
+    place: Jay 家 · 门厅
+    plot: 卡姆把不肯穿衣服的 Lily 丢过来；歌洛莉亚要去商场买礼物。
+    characters: Cameron, Gloria, Lily, Mitchell
+    timeline: 同日
+    anchor: Lily, what are you doing here?
+  - id: "04"
+    place: Jay 家门外
+    plot: 曼尼要去见垒球队的 Tara，卡姆教他投接球。
+    characters: Cameron, Manny, Gloria
+    timeline: 平行线
+    anchor: Hey, Cam. - Oh, hey, Manny.
+  - id: "05"
+    place: 商场
+    plot: 菲尔被大学对手 Glen Whipple 当「小姐」嘲弄，又在近景魔术上输。
+    characters: Phil, Glen Whipple
+    timeline: 平行线
+    anchor: Excuse me, Miss. - Sorry.
+  - id: "06"
+    place: 商场
+    plot: 菲尔和歌洛莉亚被当成夫妻；他决定带她去鞋店「炫耀」。
+    characters: Phil, Gloria, Lily
+    timeline: 同日
+    anchor: What a beautiful child!
+  - id: "07"
+    place: 旧宅街区 / 后院
+    plot: 克莱尔要重拍童年合影，拉米奇翻墙擅闯，开始拌嘴。
+    characters: Claire, Mitchell
+    timeline: 平行线
+    anchor: Don't you think we should
+  - id: "08"
+    place: 电话 / 宠物店
+    plot: 杰错拿歌洛莉亚手机去接 Stella，还对店员摆谱。
+    characters: Jay
+    timeline: 平行线
+    anchor: Hello.
+  - id: "09"
+    place: 旧宅后院 · 树上
+    plot: 拍照刚摆好，恶犬把两人逼上树；拖车还把车拖走了。
+    characters: Claire, Mitchell
+    timeline: 同日
+    anchor: Okay, a little to your left, a little to your left.
+  - id: "10"
+    place: Tara 家浴室 · 电话
+    plot: 曼尼找创可贴不敢表白，卡姆隔空喂台词却被妈妈听见。
+    characters: Manny, Cameron
+    timeline: 平行线
+    anchor: Hey, how'd it go with Tara?
+  - id: "11"
+    place: 蛋糕店 / 车内
+    plot: 卡姆被蛋糕店赶出来；杰被迫放弃钓鱼去买超市蛋糕。
+    characters: Cameron, Jay
+    timeline: 同日
+    anchor: She's not with me, Cam. I got her phone.
+  - id: "12"
+    place: 邓菲家 · 剪辑
+    plot: 孩子们的访谈全是废片：海莉嫌服装、卢克说喝过啤酒。
+    characters: Haley, Alex, Luke, Phil
+    timeline: 同日
+    anchor: What are you guys doing?
+  - id: "13"
+    place: 邓菲家 / 门口
+    plot: 米奇数私房钱被撞见；卡姆赶着救生日蛋糕，孩子们抓拍失败。
+    characters: Mitchell, Luke, Cameron, Haley, Alex, Phil
+    timeline: 同日
+    anchor: Jay! Jay!
+  - id: "14"
+    place: 旧宅树上
+    plot: 姐弟回忆童年逃跑；酒后开始争杰的遗产曼尼该不该分三分之一。
+    characters: Claire, Mitchell
+    timeline: 困在树上
+    anchor: Do you remember the time you quit cub scouts
+  - id: "15"
+    place: 商场试衣间
+    plot: 菲尔盯着歌洛莉亚试衣给 Whipple 看；对方以为他没娶到克莱尔。
+    characters: Phil, Gloria, Glen Whipple
+    timeline: 平行线
+    anchor: Gloria, um, I'd still love to swing by that shoe store.
+  - id: "16"
+    place: 旧宅树上 / 地面
+    plot: 杰赶来救驾，嫌两人害他错过钓鱼；狗被引开，三人翻墙狼狈。
+    characters: Jay, Claire, Mitchell
+    timeline: 同日午后
+    anchor: Phil, I need you!
+  - id: "17"
+    place: Jay 家厨房
+    plot: 歌洛莉亚藏蛋糕，Stella 先搞砸；杰进门看见了还不让看。
+    characters: Gloria, Jay, Stella
+    timeline: 派对前
+    anchor: Let's see it.
+  - id: "18"
+    place: Jay 家
+    plot: 曼尼约到击球场约会；卡姆想自己教，曼尼却要拉杰。
+    characters: Cameron, Manny
+    timeline: 派对中
+    anchor: Hey, Manny. I almost called you.
+  - id: "19"
+    place: Jay 家派对
+    plot: 全家为毁了他的钓鱼日道歉；杰说有家人就够了，开吃蛋糕。
+    characters: Claire, Jay, Gloria, Mitchell, Cameron, Phil, 孩子们
+    timeline: 派对
+    anchor: I don't think grandpa's having the best time.
+  - id: "20"
+    place: Jay 家 · 拆礼物
+    plot: 蛋糕被啃、合影没拍成、礼物是大嘴电话；孩子们的影像致敬更灾难。
+    characters: Jay, Gloria, Phil, Claire, Mitchell, Cameron, Haley, Alex, Luke, Manny
+    timeline: 派对
+    anchor: Hap-- ? - No singing.
+  - id: "21"
+    place: Jay 家 · 后院泳池
+    plot: 杰上楼躲清静；曼尼把他的船拖进泳池，请他上船喝一杯。
+    characters: Jay, Manny
+    timeline: 派对后
+    anchor: Manny?
+  - id: "22"
+    place: 泳池小船
+    plot: 全家人挤上船；米奇说和克莱尔一起长大真幸运。
+    characters: Jay, Manny, Gloria, Mitchell, Claire, 全家
+    timeline: 傍晚
+    anchor: I dragged it back here this afternoon.
+  - id: "23"
+    place: 泳池小船
+    plot: 米奇想再要一个男孩；卢克扮世界之王把船弄翻。
+    characters: Mitchell, Cameron, Claire, Phil, Luke
+    timeline: 傍晚
+    anchor: Cam?
+  - id: "24"
+    place: Jay 家室内
+    plot: 湿漉漉回家；杰罚卢克立刻洗热水澡。
+    characters: Jay, Luke, Gloria
+    timeline: 夜
+    anchor: Ok. Everybody upstairs.
+  - id: "25"
+    place: 邓菲家 · tag
+    plot: 菲尔对刚做完全身护理的克莱尔说永远别变；她回房间，他以为自己还有魅力。
+    characters: Phil, Claire
+    timeline: 片尾
+    anchor: Honey...

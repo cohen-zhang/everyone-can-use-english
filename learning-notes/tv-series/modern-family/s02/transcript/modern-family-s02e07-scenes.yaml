@@ -1,0 +1,175 @@
+# Scene markers for modern-family-s02e07-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E07
+episode_arc: 烟雾报警器 / Chirp
+timeline_note: 邓菲家 chirp 与失业焦虑、Lily 广告、Jay 炒人与纪念日三线平行
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家
+    summary: 报警器嘀嘀响；Dylan 上门；Claire 劝海莉看别人
+  - scenes: "04"
+    place: Mitch & Cam 家
+    summary: Lily 童星广告之争
+  - scenes: "05–06"
+    place: Jay 的仓库
+    summary: 纪念日；曼尼开叉车撞墙；Jay 炒掉 Jack
+  - scenes: "07–10"
+    place: 邓菲家
+    summary: 克莱尔病回家；肥皂剧；Phil 求客户；卢克防菌
+  - scenes: "11–13"
+    place: Jay 家 / 广告片场
+    summary: 曼尼雇 Mitch 打官司；Cam 带 Lily 化妆；挂电话游戏
+  - scenes: "14–16"
+    place: 邓菲家
+    summary: 肥皂剧隐喻；围裙；Ron 送手机
+  - scenes: "17–19"
+    place: Jay 家 / 片场
+    summary: Gloria 出门；广告开拍；Mitch 带 Lily 离场
+  - scenes: "20"
+    place: 热狗摊 / 码头
+    summary: Jay 称曼尼「我的孩子」；初吻在码头
+  - scenes: "21–23"
+    place: 邓菲家 · 收尾
+    summary: 海莉摊牌；Phil 砸报警器；阁楼旧电池；披萨 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 清晨
+    plot: 烟雾报警器 Chirp；Claire 感冒，Phil 揽下家务却隐瞒看房取消。
+    characters: Phil, Claire
+    timeline: 当日清晨
+    anchor: What are you doing? - Shh.
+  - id: "02"
+    place: 邓菲家 · 门厅
+    plot: Dylan 来接海莉；Phil 拿「罗宾森太太」梦开玩笑。
+    characters: Phil, Claire, Dylan
+    timeline: 上学前
+    anchor: Hey!
+  - id: "03"
+    place: 邓菲家 · 客厅
+    plot: Claire 觉得海莉该看看别人；Phil 拿自己俩人辩解。
+    characters: Claire, Phil
+    timeline: 同日
+    anchor: Boy, I wish Haley would date some other boys.
+  - id: "04"
+    place: Mitch & Cam 家
+    plot: 经纪人要 Lily 拍儿童家具广告；Cam 兴奋，Mitch 反对「童星」。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: No, I think that amount will be fine.
+  - id: "05"
+    place: Jay 的仓库
+    plot: Gloria、Manny 来找 Jay 吃午饭；Jack 开叉车；Jay 想推掉纪念日约会。
+    characters: Gloria, Manny, Jay, Jack
+    timeline: 平行线 · 午间
+    anchor: Dennis to shipping and receiving.
+  - id: "06"
+    place: 仓库 / Jay 家
+    plot: Manny 开叉车撞墙送医；Jay 炒掉 Jack，坚称工作上「只有我」。
+    characters: Gloria, Manny, Jay
+    timeline: 午后
+    anchor: Wait a minute. Is that Manny driving?
+  - id: "07"
+    place: 邓菲家 · 卧室
+    plot: Haley 染上感冒回家；Claire 查 Phil 没做手指饼、没取手机。
+    characters: Phil, Claire, Haley
+    timeline: 同日午后
+    anchor: What you doin', typhoid Clairey?
+  - id: "08"
+    place: 邓菲家 · 海莉房间
+    plot: 母女窝着看肥皂剧；Dylan 来电，海莉谎称和妈妈躺一起。
+    characters: Claire, Haley, Dylan
+    timeline: 同日
+    anchor: You know what this reminds me of?
+  - id: "09"
+    place: 邓菲家 · 客厅
+    plot: Phil 给 Vaughn 夫人留言求看房，语气越来越软。
+    characters: Phil
+    timeline: 约下午 3:30
+    anchor: Uh, Mrs. Vaughn? It's Phil Dunphy.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: Luke 戴防菌头盔怕误迪士尼；Phil 承认看房又泡汤；Chirp 被听成「你不是男人」。
+    characters: Phil, Luke
+    timeline: 同日下午
+    anchor: Dad?
+  - id: "11"
+    place: Jay 家
+    plot: Manny 用 Jay 手机紧急召 Mitch，要告非法解雇；Gloria 揭穿 Lily 已在化妆。
+    characters: Manny, Mitchell, Jay, Gloria
+    timeline: 平行线
+    anchor: Mitchell! What's up?
+  - id: "12"
+    place: 广告片场
+    plot: Cam 把 Lily 当「talent」；道具葡萄；Gloria 让 Mitch 记住这一天。
+    characters: Cameron, Lily, Gloria, Mitchell
+    timeline: 拍摄前
+    anchor: Okay, folks, we're about 10 minutes from shooting!
+  - id: "13"
+    place: Jay 家 · 电话
+    plot: Gloria 与 Jay 数到三一起挂、又立刻打回去。
+    characters: Gloria, Jay
+    timeline: 与片场交叉
+    anchor: Okay, we're really gonna hang up this time.
+  - id: "14"
+    place: 邓菲家 · 海莉房间
+    plot: Claire 借肥皂剧 Sonya 暗示「嫁错人」；海莉以为在说父母。
+    characters: Claire, Haley
+    timeline: 同日
+    anchor: Oh, my god. Is that Jesse?
+  - id: "15"
+    place: 邓菲家 · 厨房
+    plot: Phil 围 Claire 围裙做手指饼；Vaughn 回绝；Luke 担心全家要去打工。
+    characters: Phil, Luke
+    timeline: 傍晚将至
+    anchor: Is that mom's apron?
+  - id: "16"
+    place: 邓菲家 · 门口
+    plot: 健身房的 Ron 送回手机，说 Claire 从没提过有老公。
+    characters: Phil, Ron
+    timeline: 同日
+    anchor: Hi, I'm Ron.
+  - id: "17"
+    place: Jay 家
+    plot: Gloria 出门赴约；Jay 接不上纪念日地点；Manny 要挟请回 Jack。
+    characters: Gloria, Jay, Manny
+    timeline: 傍晚
+    anchor: So quiet.
+  - id: "18"
+    place: 广告片场
+    plot: Mitch 闯片场质问 Cam 背着他；开拍后发现广告拿亚裔小孩当刻板道具。
+    characters: Cameron, Mitchell, Lily
+    timeline: 拍摄中
+    anchor: Okay, lily, daddy's gonna be right over here.
+  - id: "19"
+    place: 广告片场
+    plot: Mitch 喊停「save-zilla」；带 Lily 离场，Cam 抱错孩子。
+    characters: Mitchell, Cameron, Lily
+    timeline: 拍摄中断
+    anchor: Excuse me. Excuse me.
+  - id: "20"
+    place: 热狗摊 → 码头
+    plot: Jay 猜错纪念日；因孩子安全拒请回 Jack，第一次称 Manny「我的孩子」；Manny 提醒初吻在码头。
+    characters: Jay, Manny
+    timeline: 傍晚
+    anchor: Hi, buddy.
+  - id: "21"
+    place: 邓菲家 · 海莉房间
+    plot: 母女撕破肥皂剧隐喻；Claire 劝海莉「外面还有更好的」，海莉点披萨小哥。
+    characters: Claire, Haley
+    timeline: 傍晚
+    anchor: But maybe Sonya didn't make a mistake.
+  - id: "22"
+    place: 邓菲家 · 全屋
+    plot: Phil 换遍电池仍 Chirp，用拉拉队棒砸报警器；海莉逼 Claire 去挽回婚姻。
+    characters: Phil, Claire, Haley, Luke
+    timeline: 傍晚高潮
+    anchor: Don't mind me, ladies.
+  - id: "23"
+    place: 邓菲家 · 阁楼 / 门口
+    plot: Luke 供出旧报警器在阁楼做机器人；夫妻互相依靠；海莉把披萨小哥赶走。
+    characters: Phil, Claire, Luke, Haley
+    timeline: 片尾
+    anchor: You know what?
