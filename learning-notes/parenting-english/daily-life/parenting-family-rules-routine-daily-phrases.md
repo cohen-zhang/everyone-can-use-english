@@ -188,6 +188,8 @@ tags:
 
 ## 8. 英文短文 · 阿泽自述（家庭守则与作息）
 
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

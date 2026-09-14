@@ -16,7 +16,7 @@ tags:
 
 **相关：** **市政公园**儿童区与户外健身路径用语 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases.md|深圳公园场景 — Playground & Outdoor Fitness]]（与此页「去公园」穿搭叠用）。
 
-**相关：** **衣服分类分篮**（上装／下装／鞋帽等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#2-衣服--clothing|分类归类游戏 · 衣服]]（与此页相向互链）。
+**相关：** **衣服分类分篮**（上装／下装／鞋帽等）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#2-衣服--clothing|分类归类游戏 · 衣服]]（与此页相向互链）。**尺码 S／M／L**、**unisex**（中性款）— [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#大小与多少|正反义词 · 大小]] · [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#中级-中间-中等-中性|正反义词 · 中级／中性]]（与此页相向互链）。
 
 **相关：** **理发**（出门去理发店、发型沟通、过程安抚）— [[learning-notes/parenting-english/daily-life/parenting-haircut-daily-phrases.md|理发 — Haircut (Boys & Girls)]]（与此页相向互链）。
 
@@ -573,6 +573,8 @@ Celine：好吧，我们出去的时候我再脱掉。
 ---
 
 ## 12. 英文短文 · 阿泽自述（深圳穿衣日常）
+
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases]]
 
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 

@@ -516,6 +516,8 @@ tags:
 
 ## 英文短文 · 阿泽自述（动作总表分类复述）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/parenting-actions-vocab-extended-routines]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

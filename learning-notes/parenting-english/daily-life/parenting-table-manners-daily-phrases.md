@@ -64,10 +64,14 @@ tags:
 
 ### 坐姿和手部
 
+- **Watch your posture.**  
+注意坐姿。`亲子`
 - **Sit up straight.**  
 坐直。`亲子`
 - **Keep your feet on the floor.**  
 双脚放地上。`亲子`
+- **Don’t put your feet on the chair.**  
+别把脚放椅子上。`亲子`
 - **Don’t kneel on the chair.**  
 不要跪在椅子上。`亲子`
 - **Don’t lean back too far.**  
@@ -132,10 +136,10 @@ tags:
 
 **场景 A：提醒坐姿**
 
-- **Dad (阿泽)**: Celine, sit up straight and keep your feet down.  
+- **Dad (阿泽)**: Celine, watch your posture. Don’t put your feet on the chair.  
 - **Celine (不多)**: Like this?  
-- **Dad**: Yes, that’s great table posture.  
-— 用 *sit up straight* + *feet down* 组合提醒。`亲子`
+- **Dad**: Yes. Sit up straight and keep your feet on the floor.  
+— 用 *watch your posture* + *don’t put your feet on the chair* 组合提醒。`亲子`
 
 **场景 B：礼貌加饭**
 
@@ -170,6 +174,7 @@ tags:
 | **excuse me / sorry**                   | 不好意思 / 对不起   | 场景不同       |
 | **table manners**                       | 餐桌礼仪         |            |
 | **sit up straight**                     | 坐直           | 坐姿高频       |
+| **watch your posture**                  | 注意坐姿         | 总提醒        |
 | **posture**                             | 姿势、体态        | 可延伸到写作业    |
 | **elbows off the table**                | 手肘别撑桌        |            |
 | **napkin**                              | 餐巾           |            |
@@ -190,6 +195,8 @@ tags:
 ---
 
 ## 7. 英文短文 · 阿泽自述（礼貌与餐桌礼仪）
+
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-table-manners-daily-phrases]]
 
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 

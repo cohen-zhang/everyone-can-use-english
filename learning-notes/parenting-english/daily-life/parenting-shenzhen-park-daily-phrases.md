@@ -221,6 +221,8 @@ Celine：可是看起来很好玩！
 
 ## 8. 英文短文 · 阿泽自述（深圳公园亲子场景）
 
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

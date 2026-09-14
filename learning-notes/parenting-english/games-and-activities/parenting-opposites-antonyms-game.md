@@ -39,18 +39,21 @@ tags:
 
 ### 大小与多少
 
-玩「正反说」时可用一句里两个词对照，或各说半句；例句偏家里常见物品与吃饭场景。
+玩「正反说」时可用一句里两个词对照，或各说半句；例句偏家里常见物品与吃饭场景。衣服标码 **S／M／L** 见下表 **small (S)** 行及表后说明。
 
 | 英文        | 中文  | 反义词（英文）     | 反义词（中文） | 亲子场景例句 |
 | --------- | --- | ----------- | ------- | -------- |
 | **big**   | 大的  | **small**   | 小的      | This bear is **big**. That chick is **small**. — 这只熊很大 / 那只小鸡很小 |
 | **large** | 大的  | **tiny**    | 微小的     | A **large** watermelon. A **tiny** seed. — 大西瓜 / 一粒小种子 |
+| **small (S)** | 小号（衣服尺码） | **large (L)** | 大号 | This tee is **S**—**small**. Dad's is **L**—**large**. — 这件 T 恤是 S 小号 / 爸爸的是 L 大号 |
 | **many**  | 许多  | **few**     | 很少      | **Many** ducks on the pond. **Few** fish today. — 池塘里很多鸭子 / 今天鱼很少 |
 | **more**  | 更多  | **less**    | 更少      | **More** rice, please. **Less** sugar. — 请再多一点饭 / 糖少放一点 |
 | **all**   | 全部  | **none**    | 没有      | **All** gone! **None** left in the box. — 全吃完了！盒子里一点也没了 |
 | **some**  | 一些  | **nothing** | 什么也没有   | **Some** juice left. **Nothing** in your cup. — 还剩一点果汁 / 你杯子里什么都没有 |
 | **full**  | 满的  | **empty**   | 空的      | The cup is **full**. The bottle is **empty**. — 杯子满了 / 瓶子空了 |
 | **huge**  | 巨大的 | **little**  | 小的      | A **huge** dinosaur toy. A **little** ladybug. — 巨大的恐龙玩具 / 小小的瓢虫 |
+
+衣服标码常是三档，不是两端对打：**S** = **Small**（小号）／**M** = **Medium**（中号）／**L** = **Large**（大号）。试穿时可说：Try an **M**—**medium**. Not too small, not too large. — 试一件 M 中号。不太小也不太大。还可听 **XS**（**extra small** 特小号）／**XL**（**extra large** 特大号）。中间档与 **unisex** 等「不站两边」的说法见 [[#中级-中间-中等-中性|中级／中性]]。买衣服、尺码不合适见 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Getting Dressed]]。
 
 
 ### 高矮与长短
@@ -217,7 +220,7 @@ tags:
 
 ### 档位与级别：低 · 中 · 高 `亲子`
 
-与「心情」无关，练的是 **难易、年级档位、音量大小**等：玩正反说时常用 **low ↔ high**、**basic ↔ advanced**。**中级／中间／中等**在英语里不止一个词，靠句子里的意思选词。
+与「心情」无关，练的是 **难易、年级档位、音量大小、衣服标码与中性款**等：玩正反说时常用 **low ↔ high**、**basic ↔ advanced**。**中级／中间／中等／中性**在英语里不止一个词，靠句子里的意思选词。
 
 #### 一端对另一端（反着说）
 
@@ -244,15 +247,23 @@ tags:
 **辨析：**英美高中常说的 **freshman／sophomore／junior／senior**（九至十二年级等）是本学段的「届别」，**junior／senior** 不宜直接当一个人人口中的「低年级／高年级」总称来形容整所小学——说 **grades**／**elementary** 更稳。**Key Stage**（英式课段）可作听力拓展，家校句子优先用上面的 **grades** 说法。
 
 
-#### 「中级／中间／中等」怎么说（多半是第三档，不是某词的「反面」）
+<a id="中级-中间-中等-中性"></a>
+
+#### 「中级／中间／中等／中性」怎么说（多半是第三档，不是某词的「反面」）
 
 | English            | 简中                                  | 典型亲子／生活语境                                                                 |
 | ------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
 | **intermediate**   | 中级（课、水平、班次）                         | Swim **beginner**, **intermediate**, **advanced**—you're intermediate now. — 泳班分初级、中级、高级—你现在是中级。 |
 | **middle**         | 中间；当中（顺序、一排里正中）                     | You're in the **middle**—not first, not last. — 你排在中间—不是第一个也不是最后一个。**middle child**「中间的老二」。            |
-| **medium**         | 中等（多指尺寸、份量、火候、屏幕上「中选」那一个）           | **Medium** fries, please? / **Medium** on the heat knob. — 要中薯条吗？／旋钮拨到中等火候。（衣服 **M** = **Medium**「中号」，常跟 **S／L** 一起认。）     |
+| **medium**         | 中等（尺寸、份量、火候、屏幕上「中选」那一个）           | **Medium** fries, please? / **Medium** on the heat knob. — 要中薯条吗？／旋钮拨到中等火候。衣服标码 **S／M／L** 见 [[#大小与多少|大小与多少]]：**M** = **Medium**「中号」。     |
 | **normal**         | 常温（饮水机中间档）；也作「正常的」                      | You know **code** and **hot**. Do you know what **normal** means? — 你认识 code 和 hot。你知道 **normal** 是什么意思吗？（饮水机三档：冷／常温／热。**normal water**＝常温水，不冰不烫。） |
 | **mid-level**      | 中层／中档（游戏关卡、抽象「级别不高不低」）                | We'll try a **mid-level** puzzle—**not baby easy**, **not crazy hard**. — 来玩中档拼图—不过于简单也不过于难。（**average**「中等水平／普普通通」可先听力输入：**an average grade**。） |
+| **unisex**         | 中性款／男女同款（衣服、包、帽）                    | This hoodie is **unisex**—Celine or Dad can wear it. — 这件帽衫是中性款，Celine 和爸爸都能穿。（不是 boy／girl 的反面，是「两边都能穿」。） |
+| **gender-neutral** | 不按男女分；性别中立（玩具、颜色、厕所标牌等）             | These toys are **gender-neutral**—not "boy toys" or "girl toys." — 这些玩具不按男孩女孩分。 |
+| **neutral**        | 中性的（颜色／立场）                          | **Neutral** colors: beige, gray, white. / I'm **neutral**—I don't pick a side. — 中性色：米色、灰、白。／我保持中立—不站队。 |
+| **one-size**／**one size fits all** | 均码（没有 S／M／L 三档）              | No S, M, or L—it's **one-size**. — 没有小号中号大号，这是均码。（亚洲吊牌也常写 **free size**。） |
+| **regular**        | 常规款／标准版型（不修身也不宽松）                   | **Regular** fit—not slim, not oversized. — 常规版型，不修身也不特别宽松。 |
+| **both**／**either** | 两边都行／随便哪个                          | It's for **both**. / **Either** size is fine. — 男女都适合。／哪个尺码都行。 |
 
 **顺带一对（位置低档↔高档，非骂人）：****bottom**（底下那一档／末位） ↔ **top**（最上一档／首位）；说「中等成绩」也可用 **middle of the pack**「夹在中间一群人里」，进阶再展开。
 
@@ -274,7 +285,7 @@ tags:
 
 ### 性别与人称 `亲子`
 
-严格说 **boy ↔ girl**、**male ↔ female** 是「互补对应」而不一定是词典反义词，但亲子口语里常和大小、老少一样玩「你说男我说女」。指真人时注意礼貌：当众少用 *fat*／直接评判外貌；性别词只描述角色（玩偶、绘本人物、家庭成员）即可。
+严格说 **boy ↔ girl**、**male ↔ female** 是「互补对应」而不一定是词典反义词，但亲子口语里常和大小、老少一样玩「你说男我说女」。指真人时注意礼貌：当众少用 *fat*／直接评判外貌；性别词只描述角色（玩偶、绘本人物、家庭成员）即可。衣服标 **unisex**（中性款）不是这对的反面，是「两边都能穿」— 见 [[#中级-中间-中等-中性|中级／中性]]。
 
 | 英文 | 中文 | 对照（英文） | 对照（中文） | 亲子场景例句 |
 | --- | --- | --- | --- | --- |

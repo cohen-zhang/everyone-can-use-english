@@ -107,7 +107,7 @@ aliases:
 | **Swim & PE** | 泳衣与运动装 | swimsuit, PE uniform, sneakers | **Swimsuit for the pool. Sneakers for PE.** — 游泳穿泳衣 / 体育课穿运动鞋。 |
 | **By season / weather** | 按天气分 | light clothes, layers, rain boots, beanie | **Hot day → shorts. Rainy day → rain boots.** — 热天短裤 / 雨天雨靴。 |
 
-**穿脱反义：** **put on ↔ take off** · **zip up ↔ unzip** — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏]]
+**穿脱反义：** **put on ↔ take off** · **zip up ↔ unzip** — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏]]。**尺码与中性款：** **S／M／L** · **unisex** — [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#大小与多少|正反义词 · 大小]] · [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#中级-中间-中等-中性|正反义词 · 中级／中性]]。
 
 ---
 
@@ -555,7 +555,7 @@ aliases:
 | --- | --- | --- | --- |
 | **Basic colors** | 基础色 | red, blue, yellow, green, black, white | [[learning-notes/parenting-english/vocabulary/color\|颜色词表]] · **Sort the red blocks and blue blocks.** — 红积木蓝积木分开收。 |
 | **More colors** | 扩展色 | pink, purple, orange, brown, gray | 同上 · 蜡笔、乐高分类 |
-| **Size** | 大小 | big, small, tall, short, long | [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#大小与多少\|正反义词 · 大小]] |
+| **Size** | 大小 | big, small, tall, short, long, **S／M／L** | [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#大小与多少\|正反义词 · 大小]]（衣服尺码 **S／M／L**、**unisex** 见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game#中级-中间-中等-中性\|中级／中性]]） |
 | **Amount** | 多少 | many, few, more, less, all, none | 同上 |
 
 ---

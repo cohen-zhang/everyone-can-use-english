@@ -405,6 +405,8 @@ Mom smiled and said, "When feelings get big, we can always [cheer up](#kw-cheer-
 
 ## 英文短文 · 阿泽自述（亲子情绪引导）
 
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-emotions-kids-edition]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

@@ -513,6 +513,8 @@ This classic poem is perfect for **animal vocabulary** and **parent-child Englis
 
 ## 英文短文 · 阿泽自述（动物词亲子输入）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/parenting-animals-vocab]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

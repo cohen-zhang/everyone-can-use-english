@@ -482,6 +482,8 @@ Celine：好吧，但不要弄到我眼睛里。
 
 ## 13. 英文短文 · 阿泽自述（出门前梳妆）
 
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-girl-grooming-daily-phrases]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

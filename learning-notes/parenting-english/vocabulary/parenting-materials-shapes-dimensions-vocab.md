@@ -208,6 +208,8 @@ aliases:
 
 ## 英文短文 · 阿泽自述（材质形状维度观察）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

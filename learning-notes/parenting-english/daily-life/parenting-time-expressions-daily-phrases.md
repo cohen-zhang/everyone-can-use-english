@@ -380,6 +380,8 @@ Jeff 笔记里有 *6:45 a.m. = quarter to seven* 一类对照（见 [[learning-n
 
 ## 10. 英文短文 · 阿泽自述（时间表达日常）
 
+朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-time-expressions-daily-phrases]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

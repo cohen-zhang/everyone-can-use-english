@@ -260,6 +260,8 @@ Hold it. Tap the cap. Shake it. Tighten it. Peel off the label. Wipe it. Switch 
 
 ## 英文短文 · 阿泽自述（动作词口令训练）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/parenting-actions-vocab]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

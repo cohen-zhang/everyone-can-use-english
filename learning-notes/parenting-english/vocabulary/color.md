@@ -250,6 +250,8 @@ aliases:
 
 ## 英文短文 · 阿泽自述（颜色词生活描述）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/color]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**

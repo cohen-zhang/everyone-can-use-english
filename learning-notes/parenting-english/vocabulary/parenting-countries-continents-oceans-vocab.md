@@ -199,6 +199,8 @@ tags:
 
 ## 英文短文 · 阿泽自述（洲洋国家地图口语）
 
+朗读文本：[[每日语音文本/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab]]
+
 *约 1–2 分钟 · 描述训练 · 串联本页常用句*
 
 **English**
