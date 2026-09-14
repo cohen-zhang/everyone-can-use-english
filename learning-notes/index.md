@@ -7,11 +7,11 @@ search:
 
 本站由 [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 从本仓库 `learning-notes/` 构建。
 
-顶栏为六大分区；侧栏以各区 **README 索引** 为主。单曲、字幕 transcript、Peppa 分集剧本等叶子页仍可搜索打开，但不塞满侧栏。
+顶栏为七大分区；侧栏以各区 **README 索引** 为主。单曲、字幕 transcript、Peppa 分集剧本等叶子页仍可搜索打开，但不塞满侧栏。
 
 上游《人人都能用英语》等请见根目录 [README 链接映射](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射)。
 
-## 六大入口
+## 七大入口
 
 | 分区 | 说明 | 入口 |
 | --- | --- | --- |
@@ -21,6 +21,7 @@ search:
 | 个人材料书 | 生活 / 工作 / 学习 / 投资等 | [personal-english-book](personal-english-book/README.md) |
 | 发音 | 音标、节奏、音节与输入 | [pronunciation](pronunciation/README.md) |
 | 语法 | 体系总览与句子分析 | [grammar-lab](grammar-lab/README.md) |
+| 每日语音文本 | 纯英文朗读稿，跟读 / Enjoy | [每日语音文本](每日语音文本/README.md) |
 
 ### 快捷链
 

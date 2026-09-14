@@ -151,6 +151,9 @@ enjoy/lib/dictionaries
 # MkDocs (learning-notes → GitHub Pages)
 site/
 
+# MkDocs build mirror of repo-root 每日语音文本/ (see mkdocs_hooks._sync_daily_speech_docs)
+learning-notes/每日语音文本/
+
 # MkDocs build mirror of repo book/ (see mkdocs_hooks.on_startup)
 learning-notes/book/
 

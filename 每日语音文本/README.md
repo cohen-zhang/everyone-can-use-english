@@ -1,6 +1,50 @@
 # 每日语音文本
 
-本目录存放**待朗读的英文原文**（`.md` / `.txt`），以及脚本生成的 **MP3 + WebVTT 字幕**。
+纯英文朗读稿，供跟读、Enjoy 导入。GitHub Pages 顶栏 **每日语音文本** 即本目录。
+
+## 朗读目录
+
+### 亲子英语 · 日常生活
+
+- [[每日语音文本/parenting-english/daily-life/parenting-bathing-daily-phrases|洗澡日常]]
+- [[每日语音文本/parenting-english/daily-life/parenting-emotions-kids-edition|情绪]]
+- [[每日语音文本/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]
+- [[每日语音文本/parenting-english/daily-life/parenting-girl-grooming-daily-phrases|梳妆打扮]]
+- [[每日语音文本/parenting-english/daily-life/parenting-haircut-daily-phrases|理发]]
+- [[每日语音文本/parenting-english/daily-life/parenting-hiking-with-kids-daily-phrases|亲子 Hiking]]
+- [[每日语音文本/parenting-english/daily-life/parenting-home-appliance-daily-phrases|电器使用日常]]
+- [[每日语音文本/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|家庭作业打卡]]
+- [[每日语音文本/parenting-english/daily-life/parenting-metro-scenario-phrases|地铁场景]]
+- [[每日语音文本/parenting-english/daily-life/parenting-phone-daily-phrases|手机使用日常]]
+- [[每日语音文本/parenting-english/daily-life/parenting-praise-kids-daily-phrases|夸奖、赞美小朋友]]
+- [[每日语音文本/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常]]
+- [[每日语音文本/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]]
+- [[每日语音文本/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙 · 航天]]
+- [[每日语音文本/parenting-english/daily-life/parenting-table-manners-daily-phrases|日常礼貌与餐桌礼仪]]
+- [[每日语音文本/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常]]
+- [[每日语音文本/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]]
+
+### 亲子英语 · 词汇
+
+- [[每日语音文本/parenting-english/vocabulary/parenting-actions-vocab|动作 — 日常物品场景]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|动作动词 — 分类总表]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-animals-vocab|动物单词]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]
+- [[每日语音文本/parenting-english/vocabulary/color|颜色]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab|大洲 · 大洋 · 常见国家]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-emoji-bilingual-vocab|Emoji 表情]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab|物体材质 · 形状 · 维度]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab|季节 · 月份 · 星座 · 行星]]
+- [[每日语音文本/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]
+
+### 其他
+
+- [[每日语音文本/world-cinema-quick-notes|World cinema]]
+
+---
+
+本目录也存放脚本生成的 **MP3 + WebVTT 字幕**（不进网页）。
 
 ## 环境准备（首次）
 
@@ -11,7 +55,7 @@ python3 -m venv .venv-tts
 .venv-tts/bin/pip install -r requirements-tts.txt
 ```
 
-依赖说明见根目录 [`requirements-tts.txt`](../requirements-tts.txt)。  
+依赖说明见根目录 [`requirements-tts.txt`](https://github.com/cohen-zhang/everyone-can-use-english/blob/master/requirements-tts.txt)。  
 TTS 引擎为 [edge-tts](https://github.com/rany2/edge-tts)，调用 Microsoft Edge 在线语音服务，**需要联网**。
 
 ## 基本用法
@@ -105,5 +149,4 @@ Second paragraph continues here.
 
 ## 相关文件
 
-- 转换脚本：[`scripts/edge_tts_article.py`](../scripts/edge_tts_article.py)
-- Jupyter 示例：[`1000-hours/public/jupyter-notebooks/edge-tts.ipynb`](../1000-hours/public/jupyter-notebooks/edge-tts.ipynb)
+- 转换脚本：[`scripts/edge_tts_article.py`](https://github.com/cohen-zhang/everyone-can-use-english/blob/master/scripts/edge_tts_article.py)

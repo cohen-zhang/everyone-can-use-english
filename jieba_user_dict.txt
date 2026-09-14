@@ -39,3 +39,5 @@ CompletableFuture 5 eng
 飞书 5 n
 对冲 5 v
 交易平台 5 n
+每日语音文本 5 n
+朗读文本 5 n

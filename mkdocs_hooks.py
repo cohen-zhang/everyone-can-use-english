@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+import shutil
 from pathlib import Path, PurePosixPath
 
 try:
@@ -192,6 +193,87 @@ def _generate_transcript_md_pages(
             )
 
 
+SPEECH_DIR_NAME = "每日语音文本"
+_H1_RE = re.compile(r"^#\s+(.+)$", re.M)
+
+
+def _sync_daily_speech_docs(repo_root: Path, docs_dir: Path) -> None:
+    """Mirror repo-root speech texts into docs_dir so they get a top nav tab."""
+    src = repo_root / SPEECH_DIR_NAME
+    dest = docs_dir / SPEECH_DIR_NAME
+    if dest.exists() or dest.is_symlink():
+        if dest.is_symlink() or dest.is_file():
+            dest.unlink()
+        else:
+            shutil.rmtree(dest)
+    if not src.is_dir():
+        return
+    dest.mkdir(parents=True, exist_ok=True)
+    skip_suffixes = {".mp3", ".vtt"}
+    for path in src.rglob("*"):
+        if not path.is_file() or path.suffix.lower() in skip_suffixes:
+            continue
+        if path.suffix.lower() not in {".md", ".txt"}:
+            continue
+        target = dest / path.relative_to(src)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(path, target)
+    _write_speech_section_indexes(dest, repo_root)
+
+
+def _write_speech_section_indexes(dest: Path, repo_root: Path) -> None:
+    """Add README hubs under copied speech folders (not in the TTS source tree)."""
+    for dirpath in sorted({dest} | {p for p in dest.rglob("*") if p.is_dir()}):
+        if dirpath == dest:
+            continue
+        readme = dirpath / "README.md"
+        if readme.exists():
+            continue
+        child_dirs = sorted(p for p in dirpath.iterdir() if p.is_dir())
+        pages = sorted(
+            p for p in dirpath.glob("*.md") if p.name.lower() != "readme.md"
+        )
+        if not child_dirs and not pages:
+            continue
+        title = _NAV_FOLDER_DISPLAY.get(dirpath.name, dirpath.name)
+        lines = [f"# {title}\n", "\n"]
+        for child in child_dirs:
+            label = _NAV_FOLDER_DISPLAY.get(child.name, child.name)
+            lines.append(f"- [{label}]({child.name}/README.md)\n")
+        for page in pages:
+            rel = f"{SPEECH_DIR_NAME}/{page.relative_to(dest).as_posix()}"
+            label = _speech_display_title(rel, repo_root) or page.stem
+            lines.append(f"- [{label}]({page.name})\n")
+        readme.write_text("".join(lines), encoding="utf-8")
+
+
+def _shorten_h1(h1: str) -> str:
+    h1 = re.sub(r"\*\*(.+?)\*\*", r"\1", h1)
+    h1 = re.sub(r"\s*`[^`]+`\s*$", "", h1).strip()
+    h1 = re.split(r"\s*—\s*", h1, maxsplit=1)[0].strip()
+    return h1
+
+
+def _speech_display_title(src_path: str, repo_root: Path | None = None) -> str | None:
+    posix = src_path.replace("\\", "/")
+    if not posix.startswith(f"{SPEECH_DIR_NAME}/"):
+        return None
+    if Path(posix).name.lower() in {"readme.md", "index.md"}:
+        return None
+    root = repo_root or _repo_root
+    if root is None:
+        return None
+    rel = posix[len(SPEECH_DIR_NAME) + 1 :]
+    note = root / "learning-notes" / rel
+    if note.is_file():
+        text = note.read_text(encoding="utf-8")
+        match = _H1_RE.search(text)
+        if match:
+            return _shorten_h1(match.group(1))
+    stem = Path(rel).stem
+    return stem.replace("-", " ")
+
+
 def on_config(config, **kwargs):
     global _stem_to_paths, _repo_root, _docs_dir, _episode_titles
     _stem_to_paths = None
@@ -199,18 +281,33 @@ def on_config(config, **kwargs):
     _docs_dir = Path(config.docs_dir)
     if not _docs_dir.is_absolute():
         _docs_dir = _repo_root / _docs_dir
+    _sync_daily_speech_docs(_repo_root, _docs_dir)
     _episode_titles = _load_episode_titles(_docs_dir)
     _generate_transcript_md_pages(_docs_dir, _episode_titles)
     return config
 
 
-def on_pre_page(page, **kwargs):
+def on_pre_page(page, config=None, **kwargs):
     season, ep, kind = _kind_from_path(page.file.src_path)
     if season and ep and kind and _episode_titles:
         title = _page_title_for_episode(season, ep, kind, _episode_titles)
         if title:
             page.title = title
+    speech_title = _speech_display_title(page.file.src_path)
+    if speech_title:
+        page.title = speech_title
     return page
+
+
+def on_page_context(context, page, config, **kwargs):
+    src = (
+        getattr(page.file, "src_uri", None) or page.file.src_path or ""
+    ).replace("\\", "/")
+    if src.startswith(f"{SPEECH_DIR_NAME}/"):
+        repo = str(config.get("repo_url") or "").rstrip("/")
+        if repo:
+            page.edit_url = f"{repo}/edit/master/{src}"
+    return context
 
 
 def _index(files) -> dict[str, list[str]]:
@@ -360,10 +457,22 @@ def _md_transcript_link_replacer(markdown: str, page, files):
     return MD_TRANSCRIPT_LINK.sub(repl, markdown)
 
 
+def _prepend_speech_heading(markdown: str, page) -> str:
+    src = getattr(getattr(page, "file", None), "src_path", "") or ""
+    title = _speech_display_title(src)
+    if not title:
+        return markdown
+    body = markdown.lstrip("\n")
+    if body.startswith("#"):
+        return markdown
+    return f"# {title}\n\n{body}"
+
+
 def on_page_markdown(markdown, page, files, **kwargs):
     if files is None:
         return markdown
-    out = _wiki_replacer(markdown, page, files)
+    out = _prepend_speech_heading(markdown, page)
+    out = _wiki_replacer(out, page, files)
     out = _md_learning_notes_replacer(out, page, files)
     out = _md_transcript_link_replacer(out, page, files)
     out = _hard_break_song_lyrics(out, page)
@@ -519,6 +628,7 @@ def _rename_nav_sections(items) -> None:
 _NAV_FOLDER_DISPLAY = {
     "tv-series": "美剧与影视",
     "english-song": "英文歌曲",
+    SPEECH_DIR_NAME: "每日语音文本",
     "parenting-english": "亲子英语",
     "personal-english-book": "个人材料书",
     "pronunciation": "发音",
@@ -603,6 +713,7 @@ _NAV_SECTION_TITLES = {
     "Work": "工作",
     "One minute drill": "1分钟练习",
     "Analysis sentence": "句子分析",
+    "World cinema quick notes": "World cinema",
 }
 
 

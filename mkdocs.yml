@@ -16,6 +16,8 @@ exclude_docs: |
   *.pdf
   *.backup
   *.json
+  *.mp3
+  *.vtt
   **/.pages
 
 # Slim sidebar: keep section/theme README hubs; hide bulky leaves (still searchable).
@@ -39,6 +41,8 @@ not_in_nav: |
   !english-song/celine-kids/classic-books-with-holes/README.md
   # Keep shanghai-english-textbook hubs (README + grade TOCs); hide per-unit leaves (still searchable).
   parenting-english/shanghai-english-textbook/units/**
+  每日语音文本/通勤.md
+  每日语音文本/NY 口音.md
 
 theme:
   name: material
