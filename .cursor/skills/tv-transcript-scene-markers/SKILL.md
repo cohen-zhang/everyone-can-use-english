@@ -4,7 +4,7 @@ disable-model-invocation: true
 description: >-
   Segments US TV bilingual transcript .txt files by shot/scene for dialogue context:
   scene index table, 【场景 xx / N】 blocks (地点·剧情·人物·时间线), anchors on first English
-  line per scene. Keep each scene's English block and Chinese block together
+  line per scene. Keep each scene as song-style #### English then #### 中文 blocks
   (same count, same order). Use when marking
   镜头场景、场景分段、transcript scene breaks, Modern Family / tv-series transcript layout,
   or fixing markers that broke 英中字幕段.
@@ -22,7 +22,7 @@ Use when the user wants **shot/scene boundaries** in a **bilingual subtitle tran
 
 ## Input assumptions（本仓库字幕格式）
 
-Each **scene** is: header, then **all English**, then **all Chinese** (same count, same order):
+Each **scene** is: header, then **`#### English`**, then **`#### 中文`** (same line count, same order). Layout mirrors `english-song` lyric sections (English paragraph block, then Chinese paragraph block):
 
 ```text
 ----------------------
@@ -31,24 +31,35 @@ Each **scene** is: header, then **all English**, then **all Chinese** (same coun
 ★ 人物：Phil, Claire
 ★ 时间线：…
 ----------------------
-- Kids, breakfast!
 
-- Phil, would you get them?
+#### English
 
+Kids, breakfast!
+Phil, would you get them?
 
-孩子们  吃早饭了 
+#### 中文
 
-菲尔  把他们叫下来好吗 
+孩子们，吃早饭了！
+菲尔，把他们叫下来好吗？
 ```
 
-English lines start with `- `. Chinese lines do not. Blank line between the two blocks.
+- One cue per line; **no** leading `- ` on English.
+- Blank line after each `####` heading and between the English and Chinese blocks.
 
-To regroup an existing interleaved file:
+To convert an existing scene-marked file (old `- EN` + ZH blocks or interleaved-within-scene) to song style:
 
 ```bash
-python .cursor/skills/tv-transcript-scene-markers/scripts/regroup_en_zh_by_scene.py \
+python .cursor/skills/tv-transcript-scene-markers/scripts/reformat_en_zh_song_style.py \
   learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e01-transcript.txt
-# or all files:
+# or all files in one or more dirs:
+python .cursor/skills/tv-transcript-scene-markers/scripts/reformat_en_zh_song_style.py \
+  --dir learning-notes/tv-series/modern-family/s01/transcript \
+  --dir learning-notes/tv-series/modern-family/s02/transcript
+```
+
+Legacy helper (EN block then ZH block **with** `- ` prefixes, no `####` heads):
+
+```bash
 python .cursor/skills/tv-transcript-scene-markers/scripts/regroup_en_zh_by_scene.py \
   --dir learning-notes/tv-series/modern-family/s01/transcript
 ```
@@ -101,34 +112,46 @@ File **header** (keep untouched):
 
 ### 3) Placement rule（硬性）
 
-Insert the separator **after** the previous scene’s **last Chinese** line and **before** the **next** scene’s first `- English` line. Do not put a scene marker between a scene’s English block and its Chinese block.
+Insert the separator **after** the previous scene’s **last Chinese** line and **before** the **next** scene’s `#### English` (or first English cue). Do not put a scene marker between a scene’s English block and its Chinese block.
 
 **Wrong** (splits a scene’s EN/ZH blocks):
 
 ```text
-- Let's go. We're gonna be late.
+#### English
+
+Let's go. We're gonna be late.
 
 ----------------------
 【场景 16 / 26】…
 ----------------------
-快走吧  要迟到了 
+
+#### 中文
+
+快走吧  要迟到了
 ```
 
 **Right:**
 
 ```text
-- Let's go. We're gonna be late.
+#### English
 
+Let's go. We're gonna be late.
 
-快走吧  要迟到了 
+#### 中文
+
+快走吧  要迟到了
 
 ----------------------
 【场景 16 / 26】…
 ----------------------
-- Mind if I come in?
 
+#### English
 
-介意我也进来吗 
+Mind if I come in?
+
+#### 中文
+
+介意我也进来吗
 ```
 
 ---
@@ -147,7 +170,7 @@ Per scene record:
 
 - `id` — `01`, `02`, … zero-padded
 - `place`, `plot`, `characters`, `timeline` — for separator block
-- `anchor` — **exact** first English line of the scene (copy from `- …` line, strip leading `-` only for matching)
+- `anchor` — **exact** first English line of the scene (copy from the first English cue; strip leading `- ` if the source still uses it)
 
 **Anchor rules:**
 
@@ -172,6 +195,13 @@ python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py
 ```
 
 Script preserves header wikilinks, rebuilds index table, writes each scene as English block then Chinese block, and **exits non-zero** if an English line is immediately followed by a scene marker.
+
+Then normalize to song-style headings:
+
+```bash
+python .cursor/skills/tv-transcript-scene-markers/scripts/reformat_en_zh_song_style.py \
+  learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt
+```
 
 ### Step 5 — Manual fix pass
 
@@ -201,7 +231,8 @@ Script cannot infer scenes. After apply:
 ## Validation checklist
 
 - [ ] Every scene has the same number of English and Chinese lines, in the same order.
-- [ ] `grep` / script: **0** English lines immediately followed by `----------------------` or `【场景`.
+- [ ] Each scene body has `#### English` then `#### 中文`.
+- [ ] `grep` / script: **0** English cue lines immediately followed by `----------------------` or `【场景`.
 - [ ] Scene IDs contiguous `01 … N`; body count matches index `N`.
 - [ ] Header Obsidian links still present.
 - [ ] Anchors appear in chronological **file** order (not necessarily story order if flashbacks).

@@ -67,10 +67,13 @@ scenes:
 From the transcript — marker sits **between** complete scenes (after the Chinese block):
 
 ```text
-- Let's go. We're gonna be late.
+#### English
 
+Let's go. We're gonna be late.
 
-快走吧  要迟到了 
+#### 中文
+
+快走吧  要迟到了
 
 ----------------------
 【场景 16 / 26】Jay 家 · 客厅
@@ -78,10 +81,14 @@ From the transcript — marker sits **between** complete scenes (after the Chine
 ★ 人物：Gloria, Manny
 ★ 时间线：派对中段
 ----------------------
-- Mind if I come in?
 
+#### English
 
-介意我也进来吗 
+Mind if I come in?
+
+#### 中文
+
+介意我也进来吗
 ```
 
 ---

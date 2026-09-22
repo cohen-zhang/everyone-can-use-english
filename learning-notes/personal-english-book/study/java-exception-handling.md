@@ -45,7 +45,7 @@ Throwable
 ### Key Principles — 核心原则
 
 1. **Catch specific exceptions** — 捕获具体异常，而非一把梭 `Exception`
-2. **Don't swallow** — never catch and ignore — 不要吞掉异常
+2. **Don't swallow** — never catch and ignore — 不要吞掉异常(不要一吃一个不吱声)
 3. **Clean up deterministically** — finally / try-with-resources — 确定性清理
 4. **Fail fast, recover gracefully** — 快速失败，优雅恢复
 
