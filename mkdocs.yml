@@ -23,7 +23,9 @@ exclude_docs: |
 # Slim sidebar: keep section/theme README hubs; hide bulky leaves (still searchable).
 # Patterns are .gitignore-style (negation with ! is supported).
 not_in_nav: |
-  tv-series/**/transcript/**
+  # Transcript leaves stay searchable; only README hubs appear in the sidebar.
+  tv-series/**/transcript/*
+  !tv-series/**/transcript/README.md
   tv-series/peppa-pig/**/scripts/Peppa.Pig.*.md
   english-song/breakup-loss/*
   !english-song/breakup-loss/README.md

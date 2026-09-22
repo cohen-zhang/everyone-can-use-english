@@ -24,170 +24,94 @@ S02E17
 ★ 人物：Claire, Phil
 ★ 时间线：主线当日早晨
 ----------------------
-- Well, how many people have ordered DVDs and haven't pay for them.
 
-- If...
-
-- I guess I could stop by my way to school.
-
-- Really really important thing.
-
-- Cheryl? Can I call you back?
-
-- Okay. Great. Bye.
-
--  Yes? What? - Hey, yeah...
-
-- I was going through your drawer in the bathroom
-
-- looking for some lip stuff because my... 
-
-- Lips were dry.
-
--  God, you know me. - Phil...
-
-- Remember the spa certificates we got
-
--  at the children's hospital auction? - Mm-hmm.
-
-- Well, look at this -- they expire tomorrow.
-
-- Oh, wow. What are you gonna do?
-
-- Claire, I don't think you're grasping the magnitude
-
-- of this package, valued at over $250.
-
--  Sweetie... - If you don't use them,
-
-- then all our money just goes to charity.
-
-- And so what am I supposed to do?
-
-- Somewhere between dropping off Alex at orchestra
-
-- and picking up Luke from practice 
-
-- oh, and burning a bunch of dvds of the talent show,
-
-- I'm gonna, what, pop in for a quick salt scrub?
-
-- I thought Cheryl was doing the DVDs.
-
-- Well, she's supposed to, 
-
-- but somehow she's got me doing it.
-
-- Here's what you do.
-
-- Say, "Cheryl, no can do today.
-
-- Need a little 'me time.'"
-
-- Have you met Cheryl?
-
-- That'll be my new nickname. 
-
-- I'll be Claire "Me time" Dunphy.
-
-- It's not worth the headache.
-
-- Just say you're sick.
-
-- Then I run into her, and it'll be a whole thing.
-
-- Well, if that happens,
-
-- you say you're on your way to the pharmacy to 
-
-- Phil, darling, no, not helping.
-
-- Fine. I'll give them to Florence Gunderman at work.
-
-- Her hands look gross ever since she took up the banjo.
-
-
- 有多少人订了DVD又不付钱的呢 
-
- 要是 
-
- 我去学校的路上应该有时间绕一下的 
-
- 非常非常重要的事 
-
- 绮丽儿  我待会打给你 
-
- 行  好的  再见 
-
- 好了  什么事  -那个 
-
- 我刚才仔细检查了浴室你的抽屉 
-
- 找一些唇膏什么的因为我的   
-
- 嘴唇干了 
-
- 天呐  你真了解我  -菲尔 
-
- 还记得我们在儿童医院拍到的 
-
- 温泉疗养券吗  -当然 
-
- 看看  明天就要到期了 
-
- 那你要做什么 
-
- 克莱尔  我觉得你没有意识到 
-
- 这一套服务的价值  这可值两百五十多美元呢 
-
- 亲爱的  -如果你不用它   
-
- 那慈善机构就白拿我们的钱了 
-
- 那我要怎么做 
-
- 在管弦乐队放下艾丽克斯 
-
- 再照惯例去去接卢克 
-
- 还烧制一堆才艺表演的DVD的日程之间 
-
- 难道我要跑去做个矿物盐磨砂 
-
- 我以为绮丽儿要烧制DVD呢 
-
- 是的  本来是她 
-
- 但她就是把这活塞给我了 
-
- 你应该这样说 
-
- 就说  绮丽儿今天我不行 
-
- 我需要一点属于自己的时间 
-
- 你见过绮丽儿吗 
-
- 那就会变成我的新绰号的 
-
- 就叫克莱尔·私人时间·邓菲 
-
- 这可太不划算了 
-
- 那就说你病了 
-
- 然后万一我突然撞见她了  那不就彻底穿帮了 
-
- 好吧  要是真那样的话 
-
- 你就说你去药店 
-
- 菲尔  亲爱的  行不通的 
-
- 好吧  我送给同事弗洛伦斯·刚德曼 
-
- 她每次弹班卓琴的时候我都能看见她龟裂的双手 
+#### English
+
+Well, how many people have ordered DVDs and haven't pay for them.
+If...
+I guess I could stop by my way to school.
+Really really important thing.
+Cheryl? Can I call you back?
+Okay. Great. Bye.
+Yes? What? - Hey, yeah...
+I was going through your drawer in the bathroom
+looking for some lip stuff because my...
+Lips were dry.
+God, you know me. - Phil...
+Remember the spa certificates we got
+at the children's hospital auction? - Mm-hmm.
+Well, look at this -- they expire tomorrow.
+Oh, wow. What are you gonna do?
+Claire, I don't think you're grasping the magnitude
+of this package, valued at over $250.
+Sweetie... - If you don't use them,
+then all our money just goes to charity.
+And so what am I supposed to do?
+Somewhere between dropping off Alex at orchestra
+and picking up Luke from practice
+oh, and burning a bunch of dvds of the talent show,
+I'm gonna, what, pop in for a quick salt scrub?
+I thought Cheryl was doing the DVDs.
+Well, she's supposed to,
+but somehow she's got me doing it.
+Here's what you do.
+Say, "Cheryl, no can do today.
+Need a little 'me time.'"
+Have you met Cheryl?
+That'll be my new nickname.
+I'll be Claire "Me time" Dunphy.
+It's not worth the headache.
+Just say you're sick.
+Then I run into her, and it'll be a whole thing.
+Well, if that happens,
+you say you're on your way to the pharmacy to
+Phil, darling, no, not helping.
+Fine. I'll give them to Florence Gunderman at work.
+Her hands look gross ever since she took up the banjo.
+
+#### 中文
+
+有多少人订了DVD又不付钱的呢
+要是
+我去学校的路上应该有时间绕一下的
+非常非常重要的事
+绮丽儿  我待会打给你
+行  好的  再见
+好了  什么事  -那个
+我刚才仔细检查了浴室你的抽屉
+找一些唇膏什么的因为我的
+嘴唇干了
+天呐  你真了解我  -菲尔
+还记得我们在儿童医院拍到的
+温泉疗养券吗  -当然
+看看  明天就要到期了
+那你要做什么
+克莱尔  我觉得你没有意识到
+这一套服务的价值  这可值两百五十多美元呢
+亲爱的  -如果你不用它
+那慈善机构就白拿我们的钱了
+那我要怎么做
+在管弦乐队放下艾丽克斯
+再照惯例去去接卢克
+还烧制一堆才艺表演的DVD的日程之间
+难道我要跑去做个矿物盐磨砂
+我以为绮丽儿要烧制DVD呢
+是的  本来是她
+但她就是把这活塞给我了
+你应该这样说
+就说  绮丽儿今天我不行
+我需要一点属于自己的时间
+你见过绮丽儿吗
+那就会变成我的新绰号的
+就叫克莱尔·私人时间·邓菲
+这可太不划算了
+那就说你病了
+然后万一我突然撞见她了  那不就彻底穿帮了
+好吧  要是真那样的话
+你就说你去药店
+菲尔  亲爱的  行不通的
+好吧  我送给同事弗洛伦斯·刚德曼
+她每次弹班卓琴的时候我都能看见她龟裂的双手
 
 ----------------------
 【场景 02 / 22】邓菲家 · 厨房
@@ -195,102 +119,60 @@ S02E17
 ★ 人物：Haley, Alex, Claire, Phil
 ★ 时间线：同日早晨
 ----------------------
-- Hey, mom, I need some money for lunch.
 
-- We're all gonna go to 
+#### English
 
-- Oh, my god! Take off my sweater! 
+Hey, mom, I need some money for lunch.
+We're all gonna go to
+Oh, my god! Take off my sweater!
+Mom, tell her to take it off!
+Alex, take it off.
+Last week, she wore my sweatshirt without asking.
+That is true.
+Oh, please -- that was an honor
+for your stupid old sweatshirt.
+It was the first time the top half got any exercise.
+Now, mom, that's my favorite sweater!
+I just got it.
+You know what you girls need to learn to do?
+You need to learn to share,
+because that's what sisters do.
+All right, Haley, nothing's gonna happen to your sweater.
+Right, alex?
+Hmm?
+Okay, fine.
+Then I will just go put on your favorite nerdy T-shirt,
+The one with the guy from "back to the future" on it.
+That's Albert Einstein!
+And it is not nerdy!
+Well...
 
-- Mom, tell her to take it off!
+#### 中文
 
-- Alex, take it off.
-
-- Last week, she wore my sweatshirt without asking.
-
-- That is true.
-
-- Oh, please -- that was an honor
-
-- for your stupid old sweatshirt.
-
-- It was the first time the top half got any exercise.
-
-- Now, mom, that's my favorite sweater!
-
-- I just got it.
-
-- You know what you girls need to learn to do?
-
-- You need to learn to share, 
-
-- because that's what sisters do.
-
-- All right, Haley, nothing's gonna happen to your sweater.
-
-- Right, alex?
-
-- Hmm?
-
-- Okay, fine.
-
-- Then I will just go put on your favorite nerdy T-shirt,
-
-- The one with the guy from "back to the future" on it.
-
-- That's Albert Einstein!
-
-- And it is not nerdy!
-
-- Well...
-
-
- 老妈  我要点钱吃午饭 
-
- 我们要去 
-
- 天呐  把我的线衫脱下来 
-
- 老妈  叫她脱下来 
-
- 艾丽克斯  脱下来 
-
- 上周  她问都没问就穿了我的运动衫 
-
- 没错 
-
- 拜托  那可是抬举 
-
- 你的破运动衫 
-
- 那是它第一次感受胸部的形状 
-
- 老妈  那是我最爱的线衫 
-
- 我刚买的 
-
- 你们知道你们这些女生要学什么吗 
-
- 你们要学会分享   
-
- 因为那才是姐妹该做的 
-
- 行了海莉  你的线衫不会怎样的 
-
- 是吧  艾丽克斯 
-
- 是吧 
-
- 行  行 
-
- 那我就去穿件你最喜欢的书呆子T恤 
-
- 上面有"回到未来"的那件 
-
- 那是阿尔伯特·爱因斯坦 
-
- 而且一点也不书呆子气 
-
- 好吧 
+老妈  我要点钱吃午饭
+我们要去
+天呐  把我的线衫脱下来
+老妈  叫她脱下来
+艾丽克斯  脱下来
+上周  她问都没问就穿了我的运动衫
+没错
+拜托  那可是抬举
+你的破运动衫
+那是它第一次感受胸部的形状
+老妈  那是我最爱的线衫
+我刚买的
+你们知道你们这些女生要学什么吗
+你们要学会分享
+因为那才是姐妹该做的
+行了海莉  你的线衫不会怎样的
+是吧  艾丽克斯
+是吧
+行  行
+那我就去穿件你最喜欢的书呆子T恤
+上面有"回到未来"的那件
+那是阿尔伯特·爱因斯坦
+而且一点也不书呆子气
+好吧
 
 ----------------------
 【场景 03 / 22】Mitch & Cam 家 · 厨房
@@ -298,106 +180,62 @@ S02E17
 ★ 人物：Cameron, Mitchell, Lily
 ★ 时间线：平行线
 ----------------------
-- Hi!
 
-- Hey, daddy. How was the farmers' market?
+#### English
 
-- Well, it was great, but guess what the new spinach is.
+Hi!
+Hey, daddy. How was the farmers' market?
+Well, it was great, but guess what the new spinach is.
+Um, radicchio?
+Kale.
+No!
+I know. I was just as blown away as you are.
+Oh, well, I guess we're going to have to adopt
+yay
+a new attitude towards kale.
+Maybe we'll even adopt a new vinaigrette.
+Adopt, yay!
+Okay, what's going on here?
+I'm taking the negative charge
+out of the word "Adopted." Yay.
+What did Oprah do now?
+Well, she had a girl on
+who, at 16, found out that she was adopted
+and felt betrayed, ran away, and became a stripper
+and not the heart-of-gol kind, the by-the-airport kind.
+Okay.
+All right. Go get your gavel, Judge Judy.
+No, not at all. I'm adopting
+A tolerant attitude toward your flights of lunacy.
+Adopting!
 
-- Um, radicchio?
+#### 中文
 
-- Kale.
-
-- No!
-
-- I know. I was just as blown away as you are.
-
-- Oh, well, I guess we're going to have to adopt 
-
-- yay 
-
-- a new attitude towards kale.
-
-- Maybe we'll even adopt a new vinaigrette.
-
-- Adopt, yay!
-
-- Okay, what's going on here?
-
-- I'm taking the negative charge
-
-- out of the word "Adopted." Yay.
-
-- What did Oprah do now?
-
-- Well, she had a girl on
-
-- who, at 16, found out that she was adopted
-
-- and felt betrayed, ran away, and became a stripper 
-
-- and not the heart-of-gol kind, the by-the-airport kind.
-
-- Okay.
-
-- All right. Go get your gavel, Judge Judy.
-
-- No, not at all. I'm adopting
-
-- A tolerant attitude toward your flights of lunacy.
-
-- Adopting! 
-
-
- 你好啊 
-
- 老爸呀  农贸市场怎样呀 
-
- 是不错  但猜猜  新品种菠菜是什么 
-
- 菊苣吗 
-
- 甘蓝 
-
- 不是吧 
-
- 我懂  我当时跟你一样凌乱 
-
- 好吧  我想我们要采用... 
-
- 耶 
-
- 新的态度看待甘蓝了 
-
- 可能也要用新的香料 
-
- 用起来用起来 
-
- 好啦  看看这里怎么啦 
-
- 我在运用收养的 
-
- 另一层含义  懂吗 
-
- 奥普拉这回又说什么了 
-
- 这样的  她有个女儿 
-
- 十六岁的时候发现自己是收养的 
-
- 她觉得被背叛就跑了  最后变成了脱衣舞女 
-
- 还没在黄金地段  而是机场周边的那种 
-
- 好 
-
- 行了  你尽情评论吧  朱迪法官 
-
- 不  完全不是  我接受了   
-
- 大人不计小人过 
-
- 接受[还有领养的意思] 
+你好啊
+老爸呀  农贸市场怎样呀
+是不错  但猜猜  新品种菠菜是什么
+菊苣吗
+甘蓝
+不是吧
+我懂  我当时跟你一样凌乱
+好吧  我想我们要采用...
+耶
+新的态度看待甘蓝了
+可能也要用新的香料
+用起来用起来
+好啦  看看这里怎么啦
+我在运用收养的
+另一层含义  懂吗
+奥普拉这回又说什么了
+这样的  她有个女儿
+十六岁的时候发现自己是收养的
+她觉得被背叛就跑了  最后变成了脱衣舞女
+还没在黄金地段  而是机场周边的那种
+好
+行了  你尽情评论吧  朱迪法官
+不  完全不是  我接受了
+大人不计小人过
+接受[还有领养的意思]
 
 ----------------------
 【场景 04 / 22】车内
@@ -405,86 +243,52 @@ S02E17
 ★ 人物：Claire, Alex
 ★ 时间线：出门后
 ----------------------
-- Alex, come on. Hurry up.
 
-- The later we are, 
+#### English
 
-- the more Cheryl texts me to do.
+Alex, come on. Hurry up.
+The later we are,
+the more Cheryl texts me to do.
+I'm coming, I'm coming.
+Tell me again why the violin just wasn't you.
+It's too happy.
+Oh, my god!
+Okay, hang on. Hang on. Hang on.
+Let's see. It might not be a big deal.
+Just -- here we go. Let's see.
+Oh, okay. - Is it bad?
+No, it's gonna be fine. You're gonna be okay.
+Oh, honey.
+Hey, I forgot my phone.
+Hi.
+What?
+Nothing. I love you.
+So weird.
+You better not spill anything on that, okay, dork?
+Relax. Half the 11th grade's been inside this sweater.
 
-- I'm coming, I'm coming.
+#### 中文
 
-- Tell me again why the violin just wasn't you. 
-
-- It's too happy.
-
-- Oh, my god!
-
-- Okay, hang on. Hang on. Hang on.
-
-- Let's see. It might not be a big deal.
-
-- Just -- here we go. Let's see.
-
--  Oh, okay. - Is it bad?
-
-- No, it's gonna be fine. You're gonna be okay.
-
-- Oh, honey.
-
-- Hey, I forgot my phone.
-
-- Hi.
-
-- What?
-
-- Nothing. I love you.
-
-- So weird.
-
-- You better not spill anything on that, okay, dork?
-
-- Relax. Half the 11th grade's been inside this sweater.
-
-
- 艾丽克斯  快点  快点 
-
- 我们去的越迟   
-
- 绮丽儿就会发短信叫我做更多的事 
-
- 我来了  来了 
-
- 再跟我说说这小提琴为什么不跟你一样   
-
- 它太高兴了 
-
- 天呐 
-
- 行了  别动别动别动 
-
- 我看看  应该没什么事 
-
- 来吧  我来看看 
-
- 好吧  -很糟吗 
-
- 没事  没事的  你没事的 
-
- 亲爱的 
-
- 我忘带手机了 
-
- 你好啊 
-
- 干嘛啊 
-
- 没事  我爱你 
-
- 古里古怪的 
-
- 你最好别溅什么东西在上面  知道吗  呆子 
-
- 放轻松  这毛衣结实着呢 
+艾丽克斯  快点  快点
+我们去的越迟
+绮丽儿就会发短信叫我做更多的事
+我来了  来了
+再跟我说说这小提琴为什么不跟你一样
+它太高兴了
+天呐
+行了  别动别动别动
+我看看  应该没什么事
+来吧  我来看看
+好吧  -很糟吗
+没事  没事的  你没事的
+亲爱的
+我忘带手机了
+你好啊
+干嘛啊
+没事  我爱你
+古里古怪的
+你最好别溅什么东西在上面  知道吗  呆子
+放轻松  这毛衣结实着呢
 
 ----------------------
 【场景 05 / 22】邓菲家 · 旁白
@@ -492,26 +296,22 @@ S02E17
 ★ 人物：Claire, Haley, Phil
 ★ 时间线：旁白
 ----------------------
--  More than anything
 
-- I want my girls to stop fighting and be close.
+#### English
 
-- I want them to share clothes and do each other's hair
+More than anything
+I want my girls to stop fighting and be close.
+I want them to share clothes and do each other's hair
+and gossip about boys
+like I used to do with Mitchell.
 
-- and gossip about boys 
+#### 中文
 
-- like I used to do with Mitchell.
-
-
- 更重要的是 
-
- 我希望我的女儿们不要吵架  亲近一点 
-
- 我希望他们互相分享衣服  互相做发型 
-
- 说说男孩子的绯闻 
-
- 就像以前我跟米奇尔那样 
+更重要的是
+我希望我的女儿们不要吵架  亲近一点
+我希望他们互相分享衣服  互相做发型
+说说男孩子的绯闻
+就像以前我跟米奇尔那样
 
 ----------------------
 【场景 06 / 22】Jay 家 · 出门
@@ -519,86 +319,52 @@ S02E17
 ★ 人物：Manny, Jay, Gloria
 ★ 时间线：平行线
 ----------------------
-- Gloria! Let's go, let's go, let's go!
 
-- Hey, Jay, have you noticed a spring in my step?
+#### English
 
-- Oh, kids say cruel things.
+Gloria! Let's go, let's go, let's go!
+Hey, Jay, have you noticed a spring in my step?
+Oh, kids say cruel things.
+That doesn't mean you'll turn out that way.
+No. We have something in common.
+I'm seeing a younger woman.
+How much younger are we talking about?
+13 months. Her name's Chloe.
+She makes me feel like a 5th grader again.
+Good for you, kid.
+Hmm. There they are -- my two dirty old men.
+Hey, pretty soon you're gonna be north of 40
+and I'm gonna have to trade you in for a newer model.
+Am I right, buddy?
+That's my mother, Jay.
+You ready?
+It's such a beautiful day. Why do we have to do this?
+Because when this thing is behind us,
+It's done and we never have to think about it again.
+Come on.
 
-- That doesn't mean you'll turn out that way.
+#### 中文
 
-- No. We have something in common.
-
-- I'm seeing a younger woman.
-
-- How much younger are we talking about?
-
-- 13 months. Her name's Chloe.
-
-- She makes me feel like a 5th grader again. 
-
-- Good for you, kid.
-
-- Hmm. There they are -- my two dirty old men.
-
-- Hey, pretty soon you're gonna be north of 40
-
-- and I'm gonna have to trade you in for a newer model.
-
-- Am I right, buddy?
-
-- That's my mother, Jay.
-
-- You ready?
-
-- It's such a beautiful day. Why do we have to do this?
-
-- Because when this thing is behind us,
-
-- It's done and we never have to think about it again.
-
-- Come on.
-
-
- 歌洛莉亚  走吧  我们走吧 
-
- 杰  你有没有注意到我走路跳跃了一点 
-
- 童言无忌 
-
- 那也不代表你就是那样的 
-
- 不是  我们有相似之处 
-
- 我在和一位小美眉约会 
-
- 那是有多小 
-
- 十三个月  她叫克罗伊 
-
- 她让我感觉自己又是五年级了 
-
- 真替你开心  孩子 
-
- 都在啊  我的两个糟老头 
-
- 拜托  你很快就四十好几的人了 
-
- 我都打算用个更靓的模特换掉你了 
-
- 对不  兄弟 
-
- 那是我老妈  杰 
-
- 准备好了吗 
-
- 这么好的天  我们为什么一定要那样做 
-
- 因为这事办好了 
-
- 就完事儿了  我们就没有后顾之忧了 
-
- 来吧 
+歌洛莉亚  走吧  我们走吧
+杰  你有没有注意到我走路跳跃了一点
+童言无忌
+那也不代表你就是那样的
+不是  我们有相似之处
+我在和一位小美眉约会
+那是有多小
+十三个月  她叫克罗伊
+她让我感觉自己又是五年级了
+真替你开心  孩子
+都在啊  我的两个糟老头
+拜托  你很快就四十好几的人了
+我都打算用个更靓的模特换掉你了
+对不  兄弟
+那是我老妈  杰
+准备好了吗
+这么好的天  我们为什么一定要那样做
+因为这事办好了
+就完事儿了  我们就没有后顾之忧了
+来吧
 
 ----------------------
 【场景 07 / 22】车内 / 墓地旁白
@@ -606,54 +372,36 @@ S02E17
 ★ 人物：Jay, Gloria
 ★ 时间线：去墓地途中
 ----------------------
-- I went to a funeral last Saturday, and it got me thinking
 
-- about where Gloria and I were gonna end up after we die.
+#### English
 
-- Yeah, it's been a fun week.
+I went to a funeral last Saturday, and it got me thinking
+about where Gloria and I were gonna end up after we die.
+Yeah, it's been a fun week.
+I don't like loose ends.
+So I made a few calls.
+I found these people selling a couple of primo plots
+in the best cemetery in town.
+Not that I'm gonna go there anytime soon.
+Don't be so sure...
+with all the bacon that he eats.
+Well, got to give my cholesterol pills
+something to do.
 
-- I don't like loose ends.
+#### 中文
 
-- So I made a few calls.
-
-- I found these people selling a couple of primo plots
-
-- in the best cemetery in town.
-
-- Not that I'm gonna go there anytime soon.
-
-- Don't be so sure...
-
-- with all the bacon that he eats.
-
-- Well, got to give my cholesterol pills
-
-- something to do.
-
-
- 我上周六去了个葬礼  我就开始考虑  
-
- 我和歌洛莉亚死后的要葬在哪里 
-
- 可不是  这一周过得可真太有意思了 
-
- 我不喜欢虎头蛇尾 
-
- 所以我打了几个电话 
-
- 发现在有人在城里最好的墓地 
-
- 出售几块风水宝地 
-
- 并不是说我就快入土了 
-
- 别那么肯定 
-
- 看看他平时吃的那些培根 
-
- 行了  我吃降胆固醇的药 
-
- 总要有点用处吧 
+我上周六去了个葬礼  我就开始考虑
+我和歌洛莉亚死后的要葬在哪里
+可不是  这一周过得可真太有意思了
+我不喜欢虎头蛇尾
+所以我打了几个电话
+发现在有人在城里最好的墓地
+出售几块风水宝地
+并不是说我就快入土了
+别那么肯定
+看看他平时吃的那些培根
+行了  我吃降胆固醇的药
+总要有点用处吧
 
 ----------------------
 【场景 08 / 22】Mitch & Cam 家
@@ -661,102 +409,60 @@ S02E17
 ★ 人物：Cameron, Mitchell
 ★ 时间线：同日
 ----------------------
-- Mm. I don't care how much they promote it, 
 
-- kale is a garnish.
+#### English
 
-- It's not ready to anchor a meal.
+Mm. I don't care how much they promote it,
+kale is a garnish.
+It's not ready to anchor a meal.
+Look at this.
+Oh, my god! Lily's little hat
+that we bought her at the airport in Vietnam.
+Remember how cute she looked in that?
+Remember how I used to wear it
+and walk around and act like I had a giant head?
+Mm-hmm. That was good acting.
+So, what are you doing?
+I'm putting together a little scrapbook
+of how Lily became ours.
+You know, her adoption certificate,
+some pictures of her from her village
+All out in the open, so she has nothing to be ashamed of.
+You leaving that on all day?
+You know, and I'm also gonna write a little storybook
+you know, something I can read her at bedtime.
+It's called "Two monkeys and a panda."
+She's the panda because she's Asian.
+And we're monkeys because... - I can draw monkeys.
+Okay, well, I think this is a great project,
+and I believe you are gonna finish it.
 
-- Look at this.
+#### 中文
 
-- Oh, my god! Lily's little hat
-
-- that we bought her at the airport in Vietnam.
-
-- Remember how cute she looked in that?
-
-- Remember how I used to wear it
-
-- and walk around and act like I had a giant head?
-
-- Mm-hmm. That was good acting.
-
-- So, what are you doing?
-
-- I'm putting together a little scrapbook
-
-- of how Lily became ours.
-
-- You know, her adoption certificate,
-
-- some pictures of her from her village 
-
-- All out in the open, so she has nothing to be ashamed of.
-
-- You leaving that on all day?
-
-- You know, and I'm also gonna write a little storybook 
-
-- you know, something I can read her at bedtime.
-
-- It's called "Two monkeys and a panda."
-
-- She's the panda because she's Asian.
-
--  And we're monkeys because... - I can draw monkeys.
-
-- Okay, well, I think this is a great project,
-
-- and I believe you are gonna finish it.
-
-
- 我不管他们是怎么促销的 
-
- 甘蓝是配菜 
-
- 无法独挑大梁的 
-
- 看看这个 
-
- 天啊  是我们在越南机场 
-
- 给莉莉买的小帽子 
-
- 还记得她戴着有多可爱吗 
-
- 还记得我还曾经戴着它走来走去 
-
- 表现出好像我有个巨大的脑袋吗 
-
- 你是实力派 
-
- 你在干什么 
-
- 我在将领养莉莉的过程 
-
- 做成剪贴簿 
-
- 她的领养证明 
-
- 他们家那个村的几张照片 
-
- 全部开诚布公  这样她就不用觉得羞耻了 
-
- 你还想着这事儿呢 
-
- 我还要写本小故事书 
-
- 我可以给她当睡前故事讲 
-
- 就叫"两只猴子和一只熊猫" 
-
- 她是亚洲人  所以她是熊猫 
-
- 我们是猴子是因为  -我只会画猴子 
-
- 我觉得这是个绝妙的计划 
-
- 我相信你一定会完成的 
+我不管他们是怎么促销的
+甘蓝是配菜
+无法独挑大梁的
+看看这个
+天啊  是我们在越南机场
+给莉莉买的小帽子
+还记得她戴着有多可爱吗
+还记得我还曾经戴着它走来走去
+表现出好像我有个巨大的脑袋吗
+你是实力派
+你在干什么
+我在将领养莉莉的过程
+做成剪贴簿
+她的领养证明
+他们家那个村的几张照片
+全部开诚布公  这样她就不用觉得羞耻了
+你还想着这事儿呢
+我还要写本小故事书
+我可以给她当睡前故事讲
+就叫"两只猴子和一只熊猫"
+她是亚洲人  所以她是熊猫
+我们是猴子是因为  -我只会画猴子
+我觉得这是个绝妙的计划
+我相信你一定会完成的
 
 ----------------------
 【场景 09 / 22】Mitch & Cam 家
@@ -764,126 +470,72 @@ S02E17
 ★ 人物：Cameron, Mitchell
 ★ 时间线：紧接上一场
 ----------------------
--  Oh, my god. - What?
 
-- Lily's adoption certificate.
+#### English
 
--  Her name is "Lily Tucker Pritchett." - Right.
+Oh, my god. - What?
+Lily's adoption certificate.
+Her name is "Lily Tucker Pritchett." - Right.
+Not "Tucker-Pritchett" like it's supposed to be.
+First name -- "Lily." Middle name -- "Tucker."
+Last name -- "Pritchett."
+Well, that can't be right.
+This is a legal document!
+She only has your last name.
+M-m-my name is just a middle name!
+Stay calm. Don't get upset.
+Nobody knows anyone's middle name!
+Quick -- what's my middle name? - Scott.
+Of course you know mine. We're a couple!
+Okay, look, t-this is obviously a mistake.
+But you're the one who filled out this paperwork.
+You don't make mistakes like this.
+You correct mistakes like this.
+You did this on purpose.
+What?
+You buried my name,
+so your name could have top billing.
+Okay, no, I am not gonnsit here and listen
+to you accuse me of something so horrible!
+It makes so much sense now
+Why you wanted to fill out all these legal forms.
+Okay, well, I'm a lawyer!
+I fill out all the legal forms,
+ever since you signed up for a 12-year gym membership!
+The more you spend, the more you save!
 
-- Not "Tucker-Pritchett" like it's supposed to be.
+#### 中文
 
-- First name -- "Lily." Middle name -- "Tucker."
-
-- Last name -- "Pritchett."
-
-- Well, that can't be right.
-
-- This is a legal document!
-
-- She only has your last name.
-
-- M-m-my name is just a middle name!
-
-- Stay calm. Don't get upset.
-
-- Nobody knows anyone's middle name!
-
--  Quick -- what's my middle name? - Scott.
-
-- Of course you know mine. We're a couple!
-
-- Okay, look, t-this is obviously a mistake.
-
-- But you're the one who filled out this paperwork.
-
-- You don't make mistakes like this.
-
-- You correct mistakes like this.
-
-- You did this on purpose.
-
-- What?
-
-- You buried my name,
-
-- so your name could have top billing.
-
-- Okay, no, I am not gonnsit here and listen
-
-- to you accuse me of something so horrible!
-
-- It makes so much sense now 
-
-- Why you wanted to fill out all these legal forms.
-
-- Okay, well, I'm a lawyer!
-
-- I fill out all the legal forms,
-
-- ever since you signed up for a 12-year gym membership!
-
-- The more you spend, the more you save!
-
-
- 天啊  -怎么了 
-
- 莉莉的领养证明 
-
- 上面写的是莉莉·塔克·普里契特  -对 
-
- 而不是"塔克-普里契特"  应该是这个才对 
-
- 名"莉莉"  中间名"塔克" 
-
- 姓"普里契特" 
-
- 那肯定不对啊 
-
- 这可是法律文件 
-
- 她冠的是你的姓 
-
- 而我的姓就只是她的中间名 
-
- 冷静  别难过 
-
- 没有人会知道别人的中间名的 
-
- 快问快答  我的中间名是什么  -斯考特 
-
- 你当然知道我的啦  我们可是一对 
-
- 这明显是弄错了 
-
- 但表格是你填的 
-
- 你不会犯像这样的错误的 
-
- 一般都是你来改正像这样的错误 
-
- 你是故意的 
-
- 什么 
-
- 你把我的名字藏起来 
-
- 你的姓就可以独霸鳌头 
-
- 我才不要听你指责我 
-
- 做了这么过分的事情 
-
- 现在全都说得通了 
-
- 为什么所有法律文件你都想填 
-
- 我是个律师 
-
- 所以我填写所有法律文件 
-
- 从你签了一个12年的健身会员开始就这样了 
-
- 会员时间越长  省的就越多 
+天啊  -怎么了
+莉莉的领养证明
+上面写的是莉莉·塔克·普里契特  -对
+而不是"塔克-普里契特"  应该是这个才对
+名"莉莉"  中间名"塔克"
+姓"普里契特"
+那肯定不对啊
+这可是法律文件
+她冠的是你的姓
+而我的姓就只是她的中间名
+冷静  别难过
+没有人会知道别人的中间名的
+快问快答  我的中间名是什么  -斯考特
+你当然知道我的啦  我们可是一对
+这明显是弄错了
+但表格是你填的
+你不会犯像这样的错误的
+一般都是你来改正像这样的错误
+你是故意的
+什么
+你把我的名字藏起来
+你的姓就可以独霸鳌头
+我才不要听你指责我
+做了这么过分的事情
+现在全都说得通了
+为什么所有法律文件你都想填
+我是个律师
+所以我填写所有法律文件
+从你签了一个12年的健身会员开始就这样了
+会员时间越长  省的就越多
 
 ----------------------
 【场景 10 / 22】温泉会所
@@ -891,50 +543,34 @@ S02E17
 ★ 人物：Phil, Kim
 ★ 时间线：平行线
 ----------------------
-- All the women I work with are too busy to use the certificate.
 
-- So I called the spa
+#### English
 
-- and asked them to extend the expiration date.
+All the women I work with are too busy to use the certificate.
+So I called the spa
+and asked them to extend the expiration date.
+But they said no.
+Really?
+Here's something they didn't count on.
+You mess with Phil Dunphy, the claws come out.
+You have very nice hands.
+Soft like lady's.
+Thank you, Kim. I appreciate that.
+My wife never seems to notice.
 
-- But they said no.
+#### 中文
 
-- Really?
-
-- Here's something they didn't count on.
-
-- You mess with Phil Dunphy, the claws come out.
-
-- You have very nice hands.
-
-- Soft like lady's.
-
-- Thank you, Kim. I appreciate that.
-
-- My wife never seems to notice.
-
-
- 我所有的女同事都没时间去用那张温泉券 
-
- 所以我给温泉那边打了电话 
-
- 希望他们能延长那张券的有效期 
-
- 但他们拒绝了 
-
- 真的要这样么 
-
- 他们可真是打错算盘了 
-
- 你和菲尔·邓菲过不去  你就要吃不了兜着走 
-
- 你的手很好看 
-
- 像女人的手一样柔软 
-
- 谢谢你金  听你这么说我很高兴 
-
- 我妻子就好像从未注意过 
+我所有的女同事都没时间去用那张温泉券
+所以我给温泉那边打了电话
+希望他们能延长那张券的有效期
+但他们拒绝了
+真的要这样么
+他们可真是打错算盘了
+你和菲尔·邓菲过不去  你就要吃不了兜着走
+你的手很好看
+像女人的手一样柔软
+谢谢你金  听你这么说我很高兴
+我妻子就好像从未注意过
 
 ----------------------
 【场景 11 / 22】墓穴走廊
@@ -942,126 +578,72 @@ S02E17
 ★ 人物：Jay, Gloria
 ★ 时间线：墓地
 ----------------------
-- This is it! Ta-da!
 
-- What is ta-da?
+#### English
 
-- I'm just saying this is it. Ta-da.
+This is it! Ta-da!
+What is ta-da?
+I'm just saying this is it. Ta-da.
+"Ta-da" is when you do a flip
+or where the magician cuts the pretty lady in half,
+not when you show someone
+where you want to shove their dead body.
+I'm not gonna argue the proper use of "Ta-da."
+This is it.
+Seriously? In the file cabinet?
+It's called a crypt.
+And how are you not getting how great this is?
+We're four down from Bugsy siegel.
+No. I'm not going into any wall.
+I'm going in the ground.
+Sorry, not me.
+There's enough to not like about death
+without adding dirt and worms.
+The whole thing gives me the willies.
+You die, you go to the ground.
+Is natural. You go back to the earth.
+Here, you're just a mushy bag of bones
+rotting away for all eternity!
+Sorry for your loss.
+Can we get the hell out of here?
+What am I supposed to tell the guy?
+Tell them we don't want our bodies
+inside these drawers where god cannot find us!
+These are not like our drawers at home.
+People can find things in these.
 
-- "Ta-da" is when you do a flip
+#### 中文
 
-- or where the magician cuts the pretty lady in half,
-
-- not when you show someone
-
-- where you want to shove their dead body.
-
-- I'm not gonna argue the proper use of "Ta-da."
-
-- This is it.
-
-- Seriously? In the file cabinet?
-
-- It's called a crypt.
-
-- And how are you not getting how great this is?
-
-- We're four down from Bugsy siegel.
-
-- No. I'm not going into any wall.
-
-- I'm going in the ground.
-
-- Sorry, not me.
-
-- There's enough to not like about death
-
-- without adding dirt and worms.
-
-- The whole thing gives me the willies.
-
-- You die, you go to the ground.
-
-- Is natural. You go back to the earth.
-
-- Here, you're just a mushy bag of bones
-
-- rotting away for all eternity!
-
-- Sorry for your loss.
-
-- Can we get the hell out of here?
-
-- What am I supposed to tell the guy?
-
-- Tell them we don't want our bodies
-
-- inside these drawers where god cannot find us!
-
-- These are not like our drawers at home.
-
-- People can find things in these.
-
-
- 就这里了  嗒哒 
-
- 嗒哒什么 
-
- 我就是说就在这里了  嗒哒 
-
- "嗒哒"一般是当你按动了开关 
-
- 或者魔术师把个美女一切两半时说的 
-
- 而不是当你给别人展示 
-
- 你想把他们的尸体塞进一个什么地方时说的话 
-
- 我才不和你争论"嗒哒"的正确用法 
-
- 就在这里了 
-
- 你认真的么  在这么一堆柜子里面吗 
-
- 这叫教堂墓穴 
-
- 你怎么会不懂其中的妙处 
-
- 我们身处在豪情似海中的古堡中 
-
- 不  我才不要葬在有墙壁的地方 
-
- 我会长眠于地下 
-
- 对不起  我才不要 
-
- 我才不要死后 
-
- 还要和泥土和虫子相伴 
-
- 那会让我心里一阵阵发毛 
-
- 你死了  就应该被埋在地下 
-
- 这是自然法则  尘归尘  土归土 
-
- 在这里  你就是一袋骨头 
-
- 永远都在腐烂 
-
- 请您节哀 
-
- 我们能赶紧从这出去了吗 
-
- 我该和那个人怎么说 
-
- 告诉他们我们才不希望在死后 
-
- 待在这样上帝无法找到我们的小抽屉里 
-
- 这和咱家的抽屉可不一样 
-
- 人们可以在这些抽屉里面找到东西 
+就这里了  嗒哒
+嗒哒什么
+我就是说就在这里了  嗒哒
+"嗒哒"一般是当你按动了开关
+或者魔术师把个美女一切两半时说的
+而不是当你给别人展示
+你想把他们的尸体塞进一个什么地方时说的话
+我才不和你争论"嗒哒"的正确用法
+就在这里了
+你认真的么  在这么一堆柜子里面吗
+这叫教堂墓穴
+你怎么会不懂其中的妙处
+我们身处在豪情似海中的古堡中
+不  我才不要葬在有墙壁的地方
+我会长眠于地下
+对不起  我才不要
+我才不要死后
+还要和泥土和虫子相伴
+那会让我心里一阵阵发毛
+你死了  就应该被埋在地下
+这是自然法则  尘归尘  土归土
+在这里  你就是一袋骨头
+永远都在腐烂
+请您节哀
+我们能赶紧从这出去了吗
+我该和那个人怎么说
+告诉他们我们才不希望在死后
+待在这样上帝无法找到我们的小抽屉里
+这和咱家的抽屉可不一样
+人们可以在这些抽屉里面找到东西
 
 ----------------------
 【场景 12 / 22】温泉 · 电话
@@ -1069,130 +651,74 @@ S02E17
 ★ 人物：Phil, Claire, Kim
 ★ 时间线：交叉剪辑
 ----------------------
-- I'm thinking of getting bangs.
 
-- Ooh, you totally should.
+#### English
 
-- You would be so cute with bangs.
+I'm thinking of getting bangs.
+Ooh, you totally should.
+You would be so cute with bangs.
+You have the face for it. I don't.
+Oh, there's my better half.
+Kim, would you mind?
+Hey, honey. Where are you?
+Oh, I'm on my way to Downey.
+Oh, uh, did you know
+Karen and richard carpenter grew up in Downey?
+What random and not-helpful fact, Phil.
+I'm sorry. I'm -- I'm having kind of a rough day.
+Yeah, I'm kind of having a rough day myself.
+Look, Phil, I need you to take care of dinner for me.
+What's wrong?
+Oh, Alex ripped Haley's favorite sweater,
+and now I'm driving around from store to store,
+trying to find the exact same one before Haley finds out.
+Don't do that. Just explain to her what happened.
+Haley's not gonna understand.
+Sure, she will. -- No, phil, you don't understand.
+I'm trying to avoid this turning into a whole big thing.
+Then just get her something close.
+She'll never know the difference.
+Phil, could you just take care of dinner, sweetie?
+That's all I'm asking. That's it.
+I'm just saying, there's a simpler way to do this.
+There is no simpler way. Just make dinner!
+Thank you.
+Hello?
+What?
 
--  You have the face for it. I don't.
+#### 中文
 
-- Oh, there's my better half.
-
-- Kim, would you mind?
-
-- Hey, honey. Where are you?
-
-- Oh, I'm on my way to Downey.
-
-- Oh, uh, did you know
-
-- Karen and richard carpenter grew up in Downey?
-
-- What random and not-helpful fact, Phil.
-
-- I'm sorry. I'm -- I'm having kind of a rough day.
-
-- Yeah, I'm kind of having a rough day myself.
-
-- Look, Phil, I need you to take care of dinner for me.
-
-- What's wrong?
-
-- Oh, Alex ripped Haley's favorite sweater,
-
-- and now I'm driving around from store to store,
-
-- trying to find the exact same one before Haley finds out.
-
-- Don't do that. Just explain to her what happened.
-
-- Haley's not gonna understand.
-
--  Sure, she will. -- No, phil, you don't understand.
-
-- I'm trying to avoid this turning into a whole big thing.
-
-- Then just get her something close.
-
-- She'll never know the difference.
-
-- Phil, could you just take care of dinner, sweetie?
-
-- That's all I'm asking. That's it.
-
-- I'm just saying, there's a simpler way to do this.
-
-- There is no simpler way. Just make dinner!
-
-- Thank you.
-
-- Hello?
-
-- What?
-
-
- 我想弄个刘海 
-
- 你绝对应该弄一个 
-
- 你要是有刘海  肯定很美 
-
- 你的脸型很适合留刘海  我就没有 
-
- 应该是我老婆 
-
- 金  介意帮我接一下吗 
-
- 亲爱的  你在哪里 
-
- 我在去唐尼的路上 
-
- 你知道吗 
-
- 卡伦和理查德·卡朋特夫妇是在唐尼长大的吗 
-
- 你说这事有意义吗  菲尔 
-
- 对不起  我今天过得不太顺 
-
- 我过得也不是很顺利 
-
- 菲尔  你得帮我做晚饭了 
-
- 怎么了 
-
- 艾莉克斯弄破了海莉的线衫 
-
- 现在我就奔波在商店之间 
-
- 试图在海莉发现之前给她再买件一模一样的 
-
- 不用啊  跟她说一下发生了什么就行了 
-
- 不行  海莉不会理解的 
-
- 她当然会了  -不菲尔  你不明白 
-
- 我只是想大事化小 
-
- 那就给她买件相似的就成啊 
-
- 她又看不出来 
-
- 菲尔  就记住做晚饭好吗亲爱的 
-
- 我就这么点要求  没了 
-
- 我只是想说  有更简单的解决方式 
-
- 没什么更简单的方式  记得做饭 
-
- 谢谢 
-
- 喂 
-
- 怎么了 
+我想弄个刘海
+你绝对应该弄一个
+你要是有刘海  肯定很美
+你的脸型很适合留刘海  我就没有
+应该是我老婆
+金  介意帮我接一下吗
+亲爱的  你在哪里
+我在去唐尼的路上
+你知道吗
+卡伦和理查德·卡朋特夫妇是在唐尼长大的吗
+你说这事有意义吗  菲尔
+对不起  我今天过得不太顺
+我过得也不是很顺利
+菲尔  你得帮我做晚饭了
+怎么了
+艾莉克斯弄破了海莉的线衫
+现在我就奔波在商店之间
+试图在海莉发现之前给她再买件一模一样的
+不用啊  跟她说一下发生了什么就行了
+不行  海莉不会理解的
+她当然会了  -不菲尔  你不明白
+我只是想大事化小
+那就给她买件相似的就成啊
+她又看不出来
+菲尔  就记住做晚饭好吗亲爱的
+我就这么点要求  没了
+我只是想说  有更简单的解决方式
+没什么更简单的方式  记得做饭
+谢谢
+喂
+怎么了
 
 ----------------------
 【场景 13 / 22】墓穴
@@ -1200,146 +726,82 @@ S02E17
 ★ 人物：Jay, Gloria, Ed, Winnie
 ★ 时间线：墓地
 ----------------------
-- Mr. Pritchett...
 
-- We're the rutledges,
-
-- the ones selling the spots.
-
--  Hi. - Hi.
-
-- Oh, my gosh. Look, honey.
-
-- I hadn't heard. Martin is in.
-
-- Well, look at that.
-
--  I'm sorry. Is that a friend of yours? - We've made a point
-
-- to get to know everyone in the neighborhood.
-
-- We think it makes it less awkward, you know, later.
-
-- Oh, I'm sorry. This is my wife, Gloria.
-
-- I'm Ed, and this is my bunk.
-
-- And this is my loving wife
-
-- and devoted mother of three, Winnie.
-
-- She'll be here.
-
-- I don't know what our lineup is yet.
-
-- But at home,I sleep on the right side.
-
-- So probably there.
-
-- We don't mean to be rude,
-
-- but you seem to be much younger than your husband.
-
-- You're not rude. I'm very much younger.
-
-- Is that a problem?
-
-- Well, it's just that there's a good chance,
-
-- uh, you'll be moving in long before she would.
-
-- Our concern is, your wife remarries,
-
-- and wants to be laid to rest with her new husband.
-
-- So she sells this spot to the highest bidder.
-
-- And we're left lying next to a complete stranger,
-
-- without even so much as a formal "How do you do?"
-
-- Gloria, tell them you're in.
-
-- I don't know, Jay. I think they have a very good point.
-
-- And they're not crazy at all.
-
-- What do you mean they have a good point?
-
-- I don't think this is going to work.
-
-- Good luck getting someone into your drawers.
-
-
- 普里契特先生 
-
- 我们是鲁特莱齐的人 
-
- 就是给你卖墓穴的人 
-
- 你好  -你好 
-
- 天啊  看看亲爱的 
-
- 我都没听说  马丁住进来了 
-
- 瞧瞧啊 
-
- 不好意思  那是你的朋友吗  -我们只是 
-
- 想认识"左邻右舍"的人而已 
-
- 我们觉得  之后如果在那边遇见不会那么尴尬 
-
- 对不起  这位是我妻子  歌洛莉亚 
-
- 我是艾德  这里就是我的位置 
-
- 这位是我可爱的妻子 
-
- 为三个孩子日夜操劳的母亲  维尼 
-
- 她会在这里 
-
- 我还不知道我们要怎么排 
-
- 但在家的时候  我睡在右边 
-
- 所以也许在那里 
-
- 请恕我们无礼 
-
- 但你看起来好像比你丈夫年轻很多 
-
- 您不算无礼  我是年轻很多 
-
- 有问题吗 
-
- 只是很有可能 
-
- 你会比她早很久进来 
-
- 我们关心的是  一旦你妻子改嫁 
-
- 而她想又和新丈夫葬在一起 
-
- 她就会把这个位置高价卖出 
-
- 我们就要和一个陌生人做邻居了 
-
- 甚至连个形式上的招呼都不会和我们打 
-
- 歌洛莉亚  告诉他们你不会这样 
-
- 我不知道  杰  我觉得这确实是个问题 
-
- 而且他们一点也不荒唐 
-
- 你说这话是什么意思 
-
- 我想我们不会选这里了 
-
- 希望你们能找到"新邻居" 
+#### English
+
+Mr. Pritchett...
+We're the rutledges,
+the ones selling the spots.
+Hi. - Hi.
+Oh, my gosh. Look, honey.
+I hadn't heard. Martin is in.
+Well, look at that.
+I'm sorry. Is that a friend of yours? - We've made a point
+to get to know everyone in the neighborhood.
+We think it makes it less awkward, you know, later.
+Oh, I'm sorry. This is my wife, Gloria.
+I'm Ed, and this is my bunk.
+And this is my loving wife
+and devoted mother of three, Winnie.
+She'll be here.
+I don't know what our lineup is yet.
+But at home,I sleep on the right side.
+So probably there.
+We don't mean to be rude,
+but you seem to be much younger than your husband.
+You're not rude. I'm very much younger.
+Is that a problem?
+Well, it's just that there's a good chance,
+uh, you'll be moving in long before she would.
+Our concern is, your wife remarries,
+and wants to be laid to rest with her new husband.
+So she sells this spot to the highest bidder.
+And we're left lying next to a complete stranger,
+without even so much as a formal "How do you do?"
+Gloria, tell them you're in.
+I don't know, Jay. I think they have a very good point.
+And they're not crazy at all.
+What do you mean they have a good point?
+I don't think this is going to work.
+Good luck getting someone into your drawers.
+
+#### 中文
+
+普里契特先生
+我们是鲁特莱齐的人
+就是给你卖墓穴的人
+你好  -你好
+天啊  看看亲爱的
+我都没听说  马丁住进来了
+瞧瞧啊
+不好意思  那是你的朋友吗  -我们只是
+想认识"左邻右舍"的人而已
+我们觉得  之后如果在那边遇见不会那么尴尬
+对不起  这位是我妻子  歌洛莉亚
+我是艾德  这里就是我的位置
+这位是我可爱的妻子
+为三个孩子日夜操劳的母亲  维尼
+她会在这里
+我还不知道我们要怎么排
+但在家的时候  我睡在右边
+所以也许在那里
+请恕我们无礼
+但你看起来好像比你丈夫年轻很多
+您不算无礼  我是年轻很多
+有问题吗
+只是很有可能
+你会比她早很久进来
+我们关心的是  一旦你妻子改嫁
+而她想又和新丈夫葬在一起
+她就会把这个位置高价卖出
+我们就要和一个陌生人做邻居了
+甚至连个形式上的招呼都不会和我们打
+歌洛莉亚  告诉他们你不会这样
+我不知道  杰  我觉得这确实是个问题
+而且他们一点也不荒唐
+你说这话是什么意思
+我想我们不会选这里了
+希望你们能找到"新邻居"
 
 ----------------------
 【场景 14 / 22】Mitch & Cam 家
@@ -1347,78 +809,48 @@ S02E17
 ★ 人物：Cameron, Mitchell
 ★ 时间线：同日稍后
 ----------------------
-- It occurs to me
 
-- that I may have gotten a little too upset
+#### English
 
-- and jumped to some conclusions
+It occurs to me
+that I may have gotten a little too upset
+and jumped to some conclusions
+that were perhaps not true.
+I realize now that you would
+never intentionally do something so unthinkable.
+So...
+I just wanted to say I'm sorry for accusing you.
+I did it.
+I knew it! You two-faced
+Let me explain. There is
+There is no explanation. There is just no excuse.
+I just want to know why!
+Okay, y-you know how, um, s-some women say
+that they forget how painful childbirth was?
+Well, I-I-I think that you are forgetting
+how panicked you were before we got Lily.
+You were freaking out. - I was not!
 
-- that were perhaps not true.
+#### 中文
 
-- I realize now that you would
-
-- never intentionally do something so unthinkable.
-
-- So...
-
-- I just wanted to say I'm sorry for accusing you.
-
-- I did it.
-
-- I knew it! You two-faced 
-
-- Let me explain. There is 
-
-- There is no explanation. There is just no excuse.
-
-- I just want to know why!
-
-- Okay, y-you know how, um, s-some women say
-
-- that they forget how painful childbirth was?
-
-- Well, I-I-I think that you are forgetting
-
-- how panicked you were before we got Lily.
-
--  You were freaking out. - I was not!
-
-
- 我觉得 
-
- 我可能有点过于不安了 
-
- 还得出了某些 
-
- 或许不正确的结论 
-
- 我现在意识到 
-
- 你绝对不会故意做出如此荒唐的事情 
-
- 所以 
-
- 我想说  我很抱歉  我指责了你 
-
- 我确实做了 
-
- 我就知道  你个两面派 
-
- 听我解释  那是 
-
- 解释就是掩饰  掩饰就是一切罪恶的开始 
-
- 我只想知道为什么 
-
- 你知道吗  有些女人说 
-
- 她们忘了生孩子有多痛苦 
-
- 我想你是忘了 
-
- 在领养莉莉之前你有多惊慌失措 
-
- 你完全抓狂了  -我没有 
+我觉得
+我可能有点过于不安了
+还得出了某些
+或许不正确的结论
+我现在意识到
+你绝对不会故意做出如此荒唐的事情
+所以
+我想说  我很抱歉  我指责了你
+我确实做了
+我就知道  你个两面派
+听我解释  那是
+解释就是掩饰  掩饰就是一切罪恶的开始
+我只想知道为什么
+你知道吗  有些女人说
+她们忘了生孩子有多痛苦
+我想你是忘了
+在领养莉莉之前你有多惊慌失措
+你完全抓狂了  -我没有
 
 ----------------------
 【场景 15 / 22】闪回 · 婴儿床
@@ -1426,94 +858,56 @@ S02E17
 ★ 人物：Mitchell, Cameron
 ★ 时间线：闪回领养前
 ----------------------
-- Okay, so, it says that we can put the mattress
 
-- at one of three different levels.
+#### English
 
--  Which one should we do? - I don't know.
+Okay, so, it says that we can put the mattress
+at one of three different levels.
+Which one should we do? - I don't know.
+Well, just think about how far down she should be.
+How far -- - I don't know! I can't do this!
+Okay.
+Oh, this latch system is great.
+What did people do before this?
+I don't know! Stop asking me questions!
+Cam... - I can't do this! I can't!
+Okay, well, I...
+I don't see what that has to do with anything.
+I-I was scared that -- that it was just gonna all be
+too much for you and that you were gonna leave.
+And then I would be the one taking care of a baby
+and half of her last name
+would belong to the guy who left us.
+It was a mistake. I'm sorry.
+I-I wanted to have it changed,
+but I needed to get your signature,
+and I was afraid that it would start a big fight
+and that you would hate me and...
 
-- Well, just think about how far down she should be.
+#### 中文
 
--  How far -- - I don't know! I can't do this!
-
-- Okay.
-
-- Oh, this latch system is great.
-
-- What did people do before this?
-
-- I don't know! Stop asking me questions!
-
--  Cam... - I can't do this! I can't!
-
-- Okay, well, I...
-
-- I don't see what that has to do with anything.
-
-- I-I was scared that -- that it was just gonna all be
-
-- too much for you and that you were gonna leave.
-
-- And then I would be the one taking care of a baby
-
-- and half of her last name
-
-- would belong to the guy who left us.
-
-- It was a mistake. I'm sorry.
-
-- I-I wanted to have it changed,
-
-- but I needed to get your signature,
-
-- and I was afraid that it would start a big fight
-
-- and that you would hate me and...
-
-
- 这上面说床垫 
-
- 有三种不同的放法 
-
- 我们应该选哪一个呢  -我不知道 
-
- 好吧  那想想我们应该把她放在多深的位置 
-
- 多深  -我不知道  我不能做这个 
-
- 好的 
-
- 这个弹簧固定系统真是太棒了 
-
- 真不知道以前的人是怎么固定的 
-
- 我不知道  别问我问题 
-
- 小卡  -我不能做这个  我不能 
-
- 好吧  我 
-
- 我可不觉得这两件事之间有什么联系 
-
- 我很害怕这件事 
-
- 你承受不了  我怕你会离开我 
-
- 我就会成为一个单身爸爸 
-
- 带着的孩子还跟一个 
-
- 弃我而去的人姓 
-
- 是我做错了  我很抱歉 
-
- 我本想挽回的 
-
- 但是我需要你的签名 
-
- 我怕这会让我们大吵一架 
-
- 会让你讨厌我  然后 
+这上面说床垫
+有三种不同的放法
+我们应该选哪一个呢  -我不知道
+好吧  那想想我们应该把她放在多深的位置
+多深  -我不知道  我不能做这个
+好的
+这个弹簧固定系统真是太棒了
+真不知道以前的人是怎么固定的
+我不知道  别问我问题
+小卡  -我不能做这个  我不能
+好吧  我
+我可不觉得这两件事之间有什么联系
+我很害怕这件事
+你承受不了  我怕你会离开我
+我就会成为一个单身爸爸
+带着的孩子还跟一个
+弃我而去的人姓
+是我做错了  我很抱歉
+我本想挽回的
+但是我需要你的签名
+我怕这会让我们大吵一架
+会让你讨厌我  然后
 
 ----------------------
 【场景 16 / 22】温泉会所
@@ -1521,154 +915,86 @@ S02E17
 ★ 人物：Phil, Kim
 ★ 时间线：平行线
 ----------------------
-- OK, I'm confused.
 
-- You're saying that if she tells me she has a problem,
-
-- I'm not supposed to help her?
-
-- Not unless she asks for your help.
-
-- But if she lets me help her, 
-
-- I can make her problem go away.
-
-- That is such a male thing to say.
-
-- Well, forgive me for being a man.
-
-- Mango or kiwi?
-
-- Ooh, kiwi.
-
-- When you say, you know, "Do this or do that,"
-
-- all she's hearing is, "I'm smarter than you."
-
-- Believe me, she doesn't think that.
-
-- She doesn't want you to save her problems.
-
-- She just wants you to give her support
-
-- so that she can solve her problems herself.
-
-- Yes, and sometimes 
-
-- sometimes she just wants a sympathetic ear.
-
-- Maybe it's all the creams,
-
-- but that just made sense, girlfriends.
-
-- So if Claire says, "I hate getting stuck in traffic,"
-
--  I shouldn't say, "Maybe you should leave earlier"... - No.
-
--  ...Or, "Don't get on the freeway." - No.
-
-- I should just say, "I know. It's so frustrating."
-
--  Yes! That's it! - Really?
-
-- Yes! Yes!
-
-- And -- and if she says, uh, uh...
-
-- "The waiter I had today was so rude,"
-
-- I shouldn'say, "Maybe you should just order
-
--  something on the menu for once." - No.
-
-- I should just say, "What a jerk."
-
-- Yes! Yes! Yeah!
-
-- And if she says, "Phil, the TV's driving me crazy,"
-
-- I should just say, "I know!
-
-- There is not enough quality programming for men."
-
-- No! Turn off the damn TV.
-
-- Okay, now I'm confused again.
-
-
- 那我就不明白了 
-
- 你们是说  如果她告诉我她有了麻烦 
-
- 我却不该帮助她 
-
- 除非她求你帮她 
-
- 但如果她让我帮助她了 
-
- 她就不会有麻烦了啊 
-
- 那是你们男人的观点 
-
- 请原谅我是个男人 
-
- 芒果的还是猕猴桃的 
-
- 猕猴桃的 
-
- 当你说应该如何如何做时 
-
- 她会觉得你是在说"我比你聪明多了" 
-
- 相信我  她不会这么想的 
-
- 她不希望你替他解决麻烦 
-
- 她只希望得到你的支持 
-
- 让她自己解决麻烦 
-
- 没错  而且有时候 
-
- 有时候她只需要一个倾诉的对象 
-
- 或许这才问题的关键 
-
- 但说的很有道理  姑娘们 
-
- 那么如果克莱尔说  我讨厌堵车 
-
- 我就不该说  你应该早点出门  -不 
-
- 或是  别上高速公路  -不 
-
- 我应该说  我懂  这是挺郁闷的 
-
- 是的  这就对了  -真的吗 
-
- 没错 
-
- 如果她说 
-
- 今天的服务员态度太差了 
-
- 我不该说  你应该一次性 
-
- 把菜全点好  -不行 
-
- 我应该说  真混蛋 
-
- 对了  就是这样 
-
- 如果她说  菲尔  这节目快把我逼疯了 
-
- 我应该说  我知道 
-
- 现在的电视节目都不是人看的 
-
- 不  你应该关掉那该死的电视 
-
- 好吧  我又不明白了 
+#### English
+
+OK, I'm confused.
+You're saying that if she tells me she has a problem,
+I'm not supposed to help her?
+Not unless she asks for your help.
+But if she lets me help her,
+I can make her problem go away.
+That is such a male thing to say.
+Well, forgive me for being a man.
+Mango or kiwi?
+Ooh, kiwi.
+When you say, you know, "Do this or do that,"
+all she's hearing is, "I'm smarter than you."
+Believe me, she doesn't think that.
+She doesn't want you to save her problems.
+She just wants you to give her support
+so that she can solve her problems herself.
+Yes, and sometimes
+sometimes she just wants a sympathetic ear.
+Maybe it's all the creams,
+but that just made sense, girlfriends.
+So if Claire says, "I hate getting stuck in traffic,"
+I shouldn't say, "Maybe you should leave earlier"... - No.
+...Or, "Don't get on the freeway." - No.
+I should just say, "I know. It's so frustrating."
+Yes! That's it! - Really?
+Yes! Yes!
+And -- and if she says, uh, uh...
+"The waiter I had today was so rude,"
+I shouldn'say, "Maybe you should just order
+something on the menu for once." - No.
+I should just say, "What a jerk."
+Yes! Yes! Yeah!
+And if she says, "Phil, the TV's driving me crazy,"
+I should just say, "I know!
+There is not enough quality programming for men."
+No! Turn off the damn TV.
+Okay, now I'm confused again.
+
+#### 中文
+
+那我就不明白了
+你们是说  如果她告诉我她有了麻烦
+我却不该帮助她
+除非她求你帮她
+但如果她让我帮助她了
+她就不会有麻烦了啊
+那是你们男人的观点
+请原谅我是个男人
+芒果的还是猕猴桃的
+猕猴桃的
+当你说应该如何如何做时
+她会觉得你是在说"我比你聪明多了"
+相信我  她不会这么想的
+她不希望你替他解决麻烦
+她只希望得到你的支持
+让她自己解决麻烦
+没错  而且有时候
+有时候她只需要一个倾诉的对象
+或许这才问题的关键
+但说的很有道理  姑娘们
+那么如果克莱尔说  我讨厌堵车
+我就不该说  你应该早点出门  -不
+或是  别上高速公路  -不
+我应该说  我懂  这是挺郁闷的
+是的  这就对了  -真的吗
+没错
+如果她说
+今天的服务员态度太差了
+我不该说  你应该一次性
+把菜全点好  -不行
+我应该说  真混蛋
+对了  就是这样
+如果她说  菲尔  这节目快把我逼疯了
+我应该说  我知道
+现在的电视节目都不是人看的
+不  你应该关掉那该死的电视
+好吧  我又不明白了
 
 ----------------------
 【场景 17 / 22】墓地
@@ -1676,182 +1002,100 @@ S02E17
 ★ 人物：Jay, Manny
 ★ 时间线：墓地稍后
 ----------------------
-- So, I heard you had a rough time today.
 
-- Yeah, well...
-
-- Remember the days when we thought we'd live forever?
-
-- Don't you want to go play?
-
-- When do I ever play?
-
-- I'm kind of wrestling
-
-- with this whole "older man, younger woman" thing.
-
-- It's like Chloe and I grew up in different worlds.
-
-- Today I made a joke about the Wiggles.
-
--  It went right over her head. - I don't know what that is.
-
-- It's an expression -- means she didn't get it.
-
-- Yeah, it sometimes -- this age thing 
-
-- knocks you in the head.
-
-- That what this is about?
-
-- I always knew your mother might remarry after I'm gone.
-
-- That never bothered me.
-
-- I figured her husbands would be your dad, me,
-
-- and some putz who could never live up to me.
-
-- But what if I'm not the main guy?
-
-- What if some other guy is?
-
-- What if I'm the putz?
-
-- When my mom and dad got divorced,
-
-- do you have any idea how many guys chased after her?
-
-- The phone didn't stop ringing.
-
-- Men would stop her on the street.
-
-- Guys would propose to her from moving cars.
-
-- They were good-looking guys, Jay -- with money.
-
-- I think one of them was a Kennedy. 
-
-- Where are you going with this?
-
-- When you showed up, I didn't think you had a prayer.
-
-- You were so nervous and sweaty, I felt sorry for you.
-
-- I had to climb three flights of stairs.
-
-- But of all people, my mom fell for you.
-
-- I got a few moves.
-
-- She said she fell in love with you during your first fight.
-
--  What? - She said she'd finally met her match.
-
-- Oh.
-
-- So if you think she's just gonna replace you 
-
-- when you're gone,
-
-- Then you are the putz.
-
-- Thanks, kid.I appreciate that.
-
-- I thought you liked me when I first showed up.
-
-- Please. For the first month,
-
-- I didn't even bother to learn your name.
-
-
- 听说你今天过的不太愉快啊 
-
- 是啊 
-
- 还记得那些我们以为会永远在一起的日子吗 
-
- 你想去玩吗 
-
- 我什么时候玩过 
-
- 我似乎也得应付 
-
- 这些老夫少妻的事 
-
- 就好像我和克罗伊的生活背景不同 
-
- 今天我说了个关于威格尔家的笑话 
-
- 她居然一头雾水  -我不知道你说的什么 
-
- 这是个短语  意思就是她不明白 
-
- 是啊  有时候年龄的事 
-
- 是很让人心烦 
-
- 你是指什么呢 
-
- 我一直都明白  我去世之后你妈可能会改嫁 
-
- 可我从来没烦恼过 
-
- 她嫁过你爸  嫁过我 
-
- 肯定也会嫁某些完全比不上我的傻瓜 
-
- 但如果我不是她心中最重要的那一个怎么办 
-
- 如果她更爱其他人 
-
- 如果我才是那个傻瓜 
-
- 我妈和我爸离婚的时候 
-
- 你知道有多少人在追求她吗 
-
- 电话铃声就没停过 
-
- 那些人会半路把她拦住 
-
- 车还没停下  就向她求婚 
-
- 他们都长得很帅  又多金 
-
- 我觉得他们中的一个能当总统 
-
- 你说这些是什么意思 
-
- 当你出现的时候  我觉得你没什么希望 
-
- 你紧张得大汗淋漓的  我真为感到难过 
-
- 我可是被迫爬了三段楼梯 
-
- 但在所有人中  我妈选中了你 
-
- 她追姑娘很有一手 
-
- 她说第一次和你吵架的时候就爱上你了 
-
- 什么  -她说她终于找到了真命天子 
-
- 是嘛 
-
- 所以如果你认为她会在你去世后 
-
- 找人代替你 
-
- 那你就是个傻瓜 
-
- 谢谢你  孩子  醍醐灌顶啊 
-
- 我还以为一开始你就喜欢我 
-
- 拜托  头一个月 
-
- 我甚至都不想知道你的名字 
+#### English
+
+So, I heard you had a rough time today.
+Yeah, well...
+Remember the days when we thought we'd live forever?
+Don't you want to go play?
+When do I ever play?
+I'm kind of wrestling
+with this whole "older man, younger woman" thing.
+It's like Chloe and I grew up in different worlds.
+Today I made a joke about the Wiggles.
+It went right over her head. - I don't know what that is.
+It's an expression -- means she didn't get it.
+Yeah, it sometimes -- this age thing
+knocks you in the head.
+That what this is about?
+I always knew your mother might remarry after I'm gone.
+That never bothered me.
+I figured her husbands would be your dad, me,
+and some putz who could never live up to me.
+But what if I'm not the main guy?
+What if some other guy is?
+What if I'm the putz?
+When my mom and dad got divorced,
+do you have any idea how many guys chased after her?
+The phone didn't stop ringing.
+Men would stop her on the street.
+Guys would propose to her from moving cars.
+They were good-looking guys, Jay -- with money.
+I think one of them was a Kennedy.
+Where are you going with this?
+When you showed up, I didn't think you had a prayer.
+You were so nervous and sweaty, I felt sorry for you.
+I had to climb three flights of stairs.
+But of all people, my mom fell for you.
+I got a few moves.
+She said she fell in love with you during your first fight.
+What? - She said she'd finally met her match.
+Oh.
+So if you think she's just gonna replace you
+when you're gone,
+Then you are the putz.
+Thanks, kid.I appreciate that.
+I thought you liked me when I first showed up.
+Please. For the first month,
+I didn't even bother to learn your name.
+
+#### 中文
+
+听说你今天过的不太愉快啊
+是啊
+还记得那些我们以为会永远在一起的日子吗
+你想去玩吗
+我什么时候玩过
+我似乎也得应付
+这些老夫少妻的事
+就好像我和克罗伊的生活背景不同
+今天我说了个关于威格尔家的笑话
+她居然一头雾水  -我不知道你说的什么
+这是个短语  意思就是她不明白
+是啊  有时候年龄的事
+是很让人心烦
+你是指什么呢
+我一直都明白  我去世之后你妈可能会改嫁
+可我从来没烦恼过
+她嫁过你爸  嫁过我
+肯定也会嫁某些完全比不上我的傻瓜
+但如果我不是她心中最重要的那一个怎么办
+如果她更爱其他人
+如果我才是那个傻瓜
+我妈和我爸离婚的时候
+你知道有多少人在追求她吗
+电话铃声就没停过
+那些人会半路把她拦住
+车还没停下  就向她求婚
+他们都长得很帅  又多金
+我觉得他们中的一个能当总统
+你说这些是什么意思
+当你出现的时候  我觉得你没什么希望
+你紧张得大汗淋漓的  我真为感到难过
+我可是被迫爬了三段楼梯
+但在所有人中  我妈选中了你
+她追姑娘很有一手
+她说第一次和你吵架的时候就爱上你了
+什么  -她说她终于找到了真命天子
+是嘛
+所以如果你认为她会在你去世后
+找人代替你
+那你就是个傻瓜
+谢谢你  孩子  醍醐灌顶啊
+我还以为一开始你就喜欢我
+拜托  头一个月
+我甚至都不想知道你的名字
 
 ----------------------
 【场景 18 / 22】邓菲家 · 客厅
@@ -1859,126 +1103,72 @@ S02E17
 ★ 人物：Claire, Alex, Haley, Phil
 ★ 时间线：傍晚回家
 ----------------------
--  Is she back yet? - She's on her way.
 
--  Did you find it? - I did.
+#### English
 
-- At the fifth store I went to.
+Is she back yet? - She's on her way.
+Did you find it? - I did.
+At the fifth store I went to.
+It was in the window, and I had to undress a mannequin
+while a creepy guy filmed it,
+So we have to look forward to on the internet.
+Thank you so much, mom. - You're welcome.
+Now, go put that exactly where you found the other one, okay?
+Okay.
+Uh-oh.
+What? The security tag -- it's still on!
+I told those people to take that off.
+Oh, no. - She's pulling into the driveway!
+Okay. It's fine. It's fine.
+Don't panic. I've got it. I've got it.
+She's getting out of the car! - All right! I am doing it!
+I've almost got it. I -- oh, god! Oh, no!
+What is that?! - Well, it's ink.
+Aah! Hide it. Hide it.
+She's in the house! - What are you doing with my sweater?
+Oh, my god! It's ruined!
+It was an accident!
+I knew this would happen, you idiot!
+Hey, hey! Let's try to get along.
+I wish she was never even born!
+They were trying to make one with a brain!
+Not fair! Honey, you guys are both...
+Oh...pretty smart.
+Ohh...
+Geez.
 
-- It was in the window, and I had to undress a mannequin
+#### 中文
 
-- while a creepy guy filmed it,
-
-- So we have to look forward to on the internet.
-
--  Thank you so much, mom. - You're welcome.
-
-- Now, go put that exactly where you found the other one, okay?
-
-- Okay.
-
-- Uh-oh.
-
--  What? The security tag -- it's still on!
-
-- I told those people to take that off.
-
--  Oh, no. - She's pulling into the driveway!
-
-- Okay. It's fine. It's fine.
-
-- Don't panic. I've got it. I've got it.
-
--  She's getting out of the car! - All right! I am doing it!
-
-- I've almost got it. I -- oh, god! Oh, no!
-
--  What is that?! - Well, it's ink.
-
-- Aah! Hide it. Hide it.
-
--  She's in the house! - What are you doing with my sweater?
-
-- Oh, my god! It's ruined!
-
-- It was an accident!
-
-- I knew this would happen, you idiot!
-
-- Hey, hey! Let's try to get along.
-
-- I wish she was never even born!
-
-- They were trying to make one with a brain!
-
-- Not fair! Honey, you guys are both...
-
-- Oh...pretty smart.
-
-- Ohh...
-
-- Geez.
-
-
- 她回来了吗  -在路上了 
-
- 你找到了吗  -找到了 
-
- 终于在第五家店找到了 
-
- 就在橱窗里  我是从模特身上扒下来的 
-
- 还被一个变态拍了下来 
-
- 我们估计能在网上找到 
-
- 太谢谢你了  妈妈  -不谢 
-
- 现在  快放到它原来的地方去  知道吗 
-
- 好的 
-
- 啊欧 
-
- 什么  -防盗扣还在上面呢 
-
- 我跟他们说了让他们取下来 
-
- 不  -她已经开入停车道了 
-
- 好的  没事  没事 
-
- 别紧张  快弄好了  快弄好了 
-
- 她下车了  -别闹了  我正在弄 
-
- 快弄好了  我  哦  天啊  糟了 
-
- 什么东西  -是墨水 
-
- 藏起来  快藏起来 
-
- 她进来了  -你把我毛衣怎么了 
-
- 天啊  你把它毁了 
-
- 只是个意外 
-
- 我就知道会这样  你个笨蛋 
-
- 嘿  嘿  有话好好说 
-
- 我真希望她根本没生下来过 
-
- 他们只不过需要一个有脑子的孩子 
-
- 别乱讲  亲爱的  你们都很 
-
- 都很聪明 
-
- 噢 
-
- 天啊 
+她回来了吗  -在路上了
+你找到了吗  -找到了
+终于在第五家店找到了
+就在橱窗里  我是从模特身上扒下来的
+还被一个变态拍了下来
+我们估计能在网上找到
+太谢谢你了  妈妈  -不谢
+现在  快放到它原来的地方去  知道吗
+好的
+啊欧
+什么  -防盗扣还在上面呢
+我跟他们说了让他们取下来
+不  -她已经开入停车道了
+好的  没事  没事
+别紧张  快弄好了  快弄好了
+她下车了  -别闹了  我正在弄
+快弄好了  我  哦  天啊  糟了
+什么东西  -是墨水
+藏起来  快藏起来
+她进来了  -你把我毛衣怎么了
+天啊  你把它毁了
+只是个意外
+我就知道会这样  你个笨蛋
+嘿  嘿  有话好好说
+我真希望她根本没生下来过
+他们只不过需要一个有脑子的孩子
+别乱讲  亲爱的  你们都很
+都很聪明
+噢
+天啊
 
 ----------------------
 【场景 19 / 22】邓菲家 · 卧室
@@ -1986,146 +1176,82 @@ S02E17
 ★ 人物：Phil, Claire
 ★ 时间线：当晚
 ----------------------
-- It's that sweater, huh?
 
-- Yeah. It is that sweater.
-
-- And I did everything I can to stop them from fighting.
-
-- I don't understand.
-
-- Why they can't see how much you love them.
-
-- I don't know.
-
-- Meanwhile, Cheryl has be calling me all day
-
-- because she's angry I didn't show up.
-
-- Doesn't Cheryl have a housekeeper and a nanny?
-
-- Why does she need so much help?
-
-- I know, right?
-
-- You work so hard.
-
-- You do so much.
-
-- I do.
-
-- Of course you do.
-
-- I do.
-
-- I do.
-
-- Oh, sweetie, thank you.
-
-- I really appreciate that.
-
-- Hey.
-
-- Yeah?
-
-- Who's my gal?
-
-- I am.
-
-- Darn right. Yeah.
-
-- Oh. Let me get this.
-
-- Hey, by the way 
-
-- notice anything different about me?
-
-- Unh-unh.
-
-- Huh.
-
-- Hmm. What is it?
-
-- Nothing.
-
--  A haircut? - A week ago.
-
-- Okay, so, tell me.
-
-- Forget it. It's not important.
-
-- Okay. I'll just go start dinner.
-
-
- 是线衫的事对吧 
-
- 对  就是线衫的事 
-
- 我尽了一切努力避免她们吵架 
-
- 我就不懂了 
-
- 她们怎么没意识到你有多么爱她们 
-
- 我也不懂 
-
- 还有今天绮丽儿一直给我打电话 
-
- 就因为她生气我没去 
-
- 绮丽儿家里不是有管家和保姆什么的吗 
-
- 为什么她还要别人帮忙 
-
- 我也知道  你说是吧 
-
- 你鞠躬尽瘁 
-
- 你劳苦功高 
-
- 对啊 
-
- 百分之百对 
-
- 确实 
-
- 确实 
-
- 亲爱的  谢谢你 
-
- 真的很感谢 
-
- 嘿 
-
- 什么 
-
- 我老婆是谁 
-
- 就是我 
-
- 答对了  就是你 
-
- 我去洗个手 
-
- 嘿  还有一件事 
-
- 发现我有什么不同吗 
-
- 没啊 
-
- 哈 
-
- 哪里不同了 
-
- 没什么 
-
- 剪头发了吗  -一个礼拜前就剪了 
-
- 好啦  快点告诉我 
-
- 算了  没什么重要的 
-
- 我去做饭了 
+#### English
+
+It's that sweater, huh?
+Yeah. It is that sweater.
+And I did everything I can to stop them from fighting.
+I don't understand.
+Why they can't see how much you love them.
+I don't know.
+Meanwhile, Cheryl has be calling me all day
+because she's angry I didn't show up.
+Doesn't Cheryl have a housekeeper and a nanny?
+Why does she need so much help?
+I know, right?
+You work so hard.
+You do so much.
+I do.
+Of course you do.
+I do.
+I do.
+Oh, sweetie, thank you.
+I really appreciate that.
+Hey.
+Yeah?
+Who's my gal?
+I am.
+Darn right. Yeah.
+Oh. Let me get this.
+Hey, by the way
+notice anything different about me?
+Unh-unh.
+Huh.
+Hmm. What is it?
+Nothing.
+A haircut? - A week ago.
+Okay, so, tell me.
+Forget it. It's not important.
+Okay. I'll just go start dinner.
+
+#### 中文
+
+是线衫的事对吧
+对  就是线衫的事
+我尽了一切努力避免她们吵架
+我就不懂了
+她们怎么没意识到你有多么爱她们
+我也不懂
+还有今天绮丽儿一直给我打电话
+就因为她生气我没去
+绮丽儿家里不是有管家和保姆什么的吗
+为什么她还要别人帮忙
+我也知道  你说是吧
+你鞠躬尽瘁
+你劳苦功高
+对啊
+百分之百对
+确实
+确实
+亲爱的  谢谢你
+真的很感谢
+嘿
+什么
+我老婆是谁
+就是我
+答对了  就是你
+我去洗个手
+嘿  还有一件事
+发现我有什么不同吗
+没啊
+哈
+哪里不同了
+没什么
+剪头发了吗  -一个礼拜前就剪了
+好啦  快点告诉我
+算了  没什么重要的
+我去做饭了
 
 ----------------------
 【场景 20 / 22】Jay 家 · 客厅
@@ -2133,110 +1259,64 @@ S02E17
 ★ 人物：Jay, Gloria
 ★ 时间线：当晚
 ----------------------
-- Listen, I've been thinking.
 
-- When I go,
+#### English
 
-- I want you to know...
+Listen, I've been thinking.
+When I go,
+I want you to know...
+It's okay if you marry someone else.
+I know.
+Because I want you be happy.
+I'll be happy.
+You're driving me crazy on purpose, right?
+Jay, I'm not going to marry anyone else.
+That's what you say now,
+but no one knows what the future holds.
+So I want you to have this.
+Look at this,
+an empty coffee can.
+Do you know what men used to buy me?
+When I go, toss me in the fire,
+Sweep up my ashes, stick 'em in that.
+Ta-da!
+We need to talk about this "Ta-da."
+'Cause I don't care if it's in a wall
+or if it's in the ground
+just as long as I end up with you.
+Oh, Jay.
+It's perfect.
+Jay Pritchett sitting on the mantel in the old coffee can.
+That will drive the putz crazy. And I like that.
 
-- It's okay if you marry someone else.
+#### 中文
 
-- I know.
-
-- Because I want you be happy.
-
-- I'll be happy.
-
-- You're driving me crazy on purpose, right?
-
-- Jay, I'm not going to marry anyone else.
-
-- That's what you say now,
-
-- but no one knows what the future holds.
-
-- So I want you to have this.
-
-- Look at this,
-
-- an empty coffee can.
-
-- Do you know what men used to buy me?
-
-- When I go, toss me in the fire,
-
-- Sweep up my ashes, stick 'em in that.
-
-- Ta-da!
-
-- We need to talk about this "Ta-da."
-
-- 'Cause I don't care if it's in a wall
-
-- or if it's in the ground 
-
-- just as long as I end up with you.
-
-- Oh, Jay.
-
-- It's perfect.
-
-- Jay Pritchett sitting on the mantel in the old coffee can.
-
-- That will drive the putz crazy. And I like that.
-
-
- 听着  我想了想 
-
- 在我死了以后 
-
- 我想告诉你 
-
- 你嫁给别人也可以的 
-
- 我知道 
-
- 因为我想你幸福 
-
- 我会幸福的 
-
- 你故意气我是不是 
-
- 杰  我不会嫁给别人的 
-
- 你现在是这么说的 
-
- 但是没人知道未来是怎样的 
-
- 所以我给你这个 
-
- 看这个 
-
- 一个空的咖啡罐 
-
- 你知道追我的男人给我买什么吗 
-
- 我死了以后  把我火化了 
-
- 把我的骨灰放进这个罐子里面 
-
- 嗒哒 
-
- 我得跟你谈一谈这个"嗒哒" 
-
- 因为我不在乎我死后待的地方有没有墙 
-
- 或者还是被深埋地下 
-
- 我只要和你在一起就行了 
-
- 哦  杰 
-
- 太完美了 
-
- 杰·普里契特的骨灰咖啡罐放在壁橱上 
-
- 这些追求者就傻眼了  我就喜欢这样 
+听着  我想了想
+在我死了以后
+我想告诉你
+你嫁给别人也可以的
+我知道
+因为我想你幸福
+我会幸福的
+你故意气我是不是
+杰  我不会嫁给别人的
+你现在是这么说的
+但是没人知道未来是怎样的
+所以我给你这个
+看这个
+一个空的咖啡罐
+你知道追我的男人给我买什么吗
+我死了以后  把我火化了
+把我的骨灰放进这个罐子里面
+嗒哒
+我得跟你谈一谈这个"嗒哒"
+因为我不在乎我死后待的地方有没有墙
+或者还是被深埋地下
+我只要和你在一起就行了
+哦  杰
+太完美了
+杰·普里契特的骨灰咖啡罐放在壁橱上
+这些追求者就傻眼了  我就喜欢这样
 
 ----------------------
 【场景 21 / 22】Mitch & Cam 家
@@ -2244,174 +1324,96 @@ S02E17
 ★ 人物：Mitchell, Cameron, Lily
 ★ 时间线：当晚
 ----------------------
-- Um, so, f-for whatever it's worth,
 
-- I-I called the adoption attorney 
-
-- Adoption, yay!
-
-- And on Monday, they're gonna start the process
-
-- of changing lily's last name to "Tucker-pritchett."
-
-- Great.
-
-- Again, I'm -- I'm so sorry.
-
-- Okay.
-
-- Um... Oh, I, uh...
-
-- I took a quick pass at "Two Monkeys and a Panda."
-
-- So, just let me know what you think.
-
-- "Once upon a time,
-
-- there were two monkeys.
-
-- They loved each other very much,
-
-- but there was something missing."
-
-- A hyphen?
-
-- "They wanted a baby.
-
-- And they heard that there was a very special baby
-
-- in a faraway land who needed a family.
-
-- She was a panda named Lily.
-
-- One of the monkeys was scared.
-
-- They'd never had a panda before.
-
-- But they held Lily in their arms,
-
-- and the scared monkey became the brave one.
-
-- And the two monkeys --"
-
--  Coco and Miko. - I'm sorry. What?
-
-- "Coco" And "Miko" Are the names of the monkeys.
-
-- Really?
-
-- That doesn't seem like it's a little un
-
-- Coco and Miko. I like that. I like that.
-
-- Coco and Miko -- yeah.
-
-- "They traveled all the way home
-
-- with the perfect panda that they adopted."
-
-- Did she just clap?
-
-- She heard "Adopted" And clapped!
-
-- Cam! That's amazing!
-
-- Oh, my god! You did that!
-
--  Well, I don't... - What?!
-
-- You did that. That is amazing. I can't believe that.
-
-- And just like that, peace returned to our house.
-
-- Well, technically, I-it's my house, but...
-
-- I-I will -- I will fix that, too.
-
-
- 所以说  我左思右想 
-
- 我还是叫来了收养律师 
-
- 收养  耶 
-
- 在星期一  他们就会开始着手准备 
-
- 把莉莉的姓改成塔克-普里契特 
-
- 好啊 
-
- 我想再次道歉 
-
- 好吧 
-
- 这个  我 
-
- 我刚写完了《两只猴和一只熊猫》 
-
- 我想听听你的看法 
-
- "很久很久以前 
-
- 有两只猴子 
-
- 他们都很爱对方 
-
- 但是还是缺少一样东西 
-
- 连字号吗 
-
- "他们想要一个孩子 
-
- 他们听说在遥远的地方有一个特别的孩子 
-
- 她需要一个家 
-
- 她是一只熊猫  名字叫莉莉 
-
- 其中一只猴子惊慌失措 
-
- 他们从未养过熊猫孩子 
-
- 但是在他们把莉莉抱在怀里的时候 
-
- 那只惊慌失措的猴子变得勇敢了 
-
- 这两只猴子 
-
- 可可和米克  -不好意思  你说什么 
-
- 可可和米克是两只猴子的名字 
-
- 是吗 
-
- 听起来有那么一点 
-
- 可可和米克  我喜欢  我喜欢 
-
- 可可和米克  对 
-
- "他们带上他们收养的完美的小熊猫 
-
- 回到了家里 
-
- 她刚刚是不是拍手了 
-
- 她听到"收养"就拍手了 
-
- 小卡  这太不可思议了 
-
- 哦  天啊  你做到了 
-
- 那个  我没有  -什么 
-
- 你做到了  难以置信  我不敢相信 
-
- 就像这样  和平回到了家里 
-
- 理论上来说  这是我的家  但是 
-
- 我  我马上就去改了 
+#### English
+
+Um, so, f-for whatever it's worth,
+I-I called the adoption attorney
+Adoption, yay!
+And on Monday, they're gonna start the process
+of changing lily's last name to "Tucker-pritchett."
+Great.
+Again, I'm -- I'm so sorry.
+Okay.
+Um... Oh, I, uh...
+I took a quick pass at "Two Monkeys and a Panda."
+So, just let me know what you think.
+"Once upon a time,
+there were two monkeys.
+They loved each other very much,
+but there was something missing."
+A hyphen?
+"They wanted a baby.
+And they heard that there was a very special baby
+in a faraway land who needed a family.
+She was a panda named Lily.
+One of the monkeys was scared.
+They'd never had a panda before.
+But they held Lily in their arms,
+and the scared monkey became the brave one.
+And the two monkeys --"
+Coco and Miko. - I'm sorry. What?
+"Coco" And "Miko" Are the names of the monkeys.
+Really?
+That doesn't seem like it's a little un
+Coco and Miko. I like that. I like that.
+Coco and Miko -- yeah.
+"They traveled all the way home
+with the perfect panda that they adopted."
+Did she just clap?
+She heard "Adopted" And clapped!
+Cam! That's amazing!
+Oh, my god! You did that!
+Well, I don't... - What?!
+You did that. That is amazing. I can't believe that.
+And just like that, peace returned to our house.
+Well, technically, I-it's my house, but...
+I-I will -- I will fix that, too.
+
+#### 中文
+
+所以说  我左思右想
+我还是叫来了收养律师
+收养  耶
+在星期一  他们就会开始着手准备
+把莉莉的姓改成塔克-普里契特
+好啊
+我想再次道歉
+好吧
+这个  我
+我刚写完了《两只猴和一只熊猫》
+我想听听你的看法
+"很久很久以前
+有两只猴子
+他们都很爱对方
+但是还是缺少一样东西
+连字号吗
+"他们想要一个孩子
+他们听说在遥远的地方有一个特别的孩子
+她需要一个家
+她是一只熊猫  名字叫莉莉
+其中一只猴子惊慌失措
+他们从未养过熊猫孩子
+但是在他们把莉莉抱在怀里的时候
+那只惊慌失措的猴子变得勇敢了
+这两只猴子
+可可和米克  -不好意思  你说什么
+可可和米克是两只猴子的名字
+是吗
+听起来有那么一点
+可可和米克  我喜欢  我喜欢
+可可和米克  对
+"他们带上他们收养的完美的小熊猫
+回到了家里
+她刚刚是不是拍手了
+她听到"收养"就拍手了
+小卡  这太不可思议了
+哦  天啊  你做到了
+那个  我没有  -什么
+你做到了  难以置信  我不敢相信
+就像这样  和平回到了家里
+理论上来说  这是我的家  但是
+我  我马上就去改了
 
 ----------------------
 【场景 22 / 22】书店 · 片尾
@@ -2419,59 +1421,37 @@ S02E17
 ★ 人物：Mitchell, Cameron
 ★ 时间线：片尾 tag
 ----------------------
-- Once we finished writing the book,
 
-- we realized something.
+#### English
 
-- We're not the only two monkeys with the panda,
+Once we finished writing the book,
+we realized something.
+We're not the only two monkeys with the panda,
+gay parents are a huge market,
+and no one's writing for them.
+We thought we were sitting on a gold mine.
+But we weren't.
+"Gay Parenting."
+"Gay Adoptive Parenting." - Okay.
+"Gay Adoption: Foreign Children." Wow.
+"Gay Adoption: Asian Children." - What?
+"Bisexual Adoption: Asian Children."
+"Transgendered Adoption."
+Okay, come on. Let's go, Miko.
 
-- gay parents are a huge market, 
+#### 中文
 
-- and no one's writing for them.
-
-- We thought we were sitting on a gold mine.
-
-- But we weren't.
-
-- "Gay Parenting."
-
--  "Gay Adoptive Parenting." - Okay.
-
-- "Gay Adoption: Foreign Children." Wow.
-
--  "Gay Adoption: Asian Children." - What?
-
--  "Bisexual Adoption: Asian Children."
-
--  "Transgendered Adoption."
-
-- Okay, come on. Let's go, Miko.
-
-
- 当我们把书写完的时候 
-
- 我们发现一件事情 
-
- 不仅仅是我们这两只猴子有熊猫宝宝 
-
- 同性恋夫妇是一个巨大的市场 
-
- 没人专门给他们写书 
-
- 我觉得我们简直是坐拥金矿 
-
- 可惜不是 
-
- 《同性恋养孩子》 
-
- 《同性恋收养孩子》  -好吧 
-
- 《同性恋收养外国孩子》  -哇哦 
-
- 《同性恋收养亚裔孩子》 -虾米  
-
- 《双性恋收养亚洲孩子》 
-
- 《变性人收养孩子》 
-
- 够了  米克我们走 
+当我们把书写完的时候
+我们发现一件事情
+不仅仅是我们这两只猴子有熊猫宝宝
+同性恋夫妇是一个巨大的市场
+没人专门给他们写书
+我觉得我们简直是坐拥金矿
+可惜不是
+《同性恋养孩子》
+《同性恋收养孩子》  -好吧
+《同性恋收养外国孩子》  -哇哦
+《同性恋收养亚裔孩子》 -虾米
+《双性恋收养亚洲孩子》
+《变性人收养孩子》
+够了  米克我们走

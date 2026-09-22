@@ -82,15 +82,15 @@ def _page_title_for_episode(
     theme = _episode_theme(season, ep, titles)
     if not theme:
         return None
-    suffix = {
-        "transcript": "字幕",
-        "daily-lines": "场景句",
-        "key-dad": "亲子对话",
-        "transcript-hand": "精编场景句",
+    prefix = {
+        "transcript": "【字幕】",
+        "daily-lines": "【场景句】",
+        "key-dad": "【亲子对话】",
+        "transcript-hand": "【精编场景句】",
     }.get(kind)
-    if not suffix:
+    if not prefix:
         return None
-    return f"S{season:02d}E{ep:02d} · {theme} — {suffix}"
+    return f"{prefix}S{season:02d}E{ep:02d} · {theme}"
 
 
 def _kind_from_path(src_path: str) -> tuple[int | None, int | None, str | None]:
@@ -121,11 +121,11 @@ def _default_link_title(raw: str) -> str:
         if "-transcript" in raw or raw.endswith(".txt"):
             theme = _episode_theme(season, ep, titles)
             if theme:
-                return f"S{season:02d}E{ep:02d} · {theme} — 字幕"
+                return f"【字幕】S{season:02d}E{ep:02d} · {theme}"
         if "-daily-lines" in raw:
             theme = _episode_theme(season, ep, titles)
             if theme:
-                return f"S{season:02d}E{ep:02d} · {theme} — 场景句"
+                return f"【场景句】S{season:02d}E{ep:02d} · {theme}"
     return PurePosixPath(raw.replace("\\", "/")).name
 
 
@@ -168,9 +168,9 @@ def _generate_transcript_md_pages(
                 theme = _episode_theme(se[0], se[1], titles)
             theme = theme or _theme_from_transcript_txt(txt_path)
             if theme:
-                page_title = f"{label} · {theme} — 字幕"
+                page_title = f"【字幕】{label} · {theme}"
             else:
-                page_title = f"{label} 字幕全文"
+                page_title = f"【字幕】{label}"
             md_path = txt_path.with_suffix(".md")
             md_path.write_text(
                 f"---\ntitle: {page_title}\n---\n\n"
@@ -578,15 +578,15 @@ def _collect_dir_prefixes(nodes) -> list[list[str]]:
     return prefixes
 
 
-def _section_dir_from_children(item) -> str | None:
-    """Infer the docs folder name from a section's page URLs."""
+def _section_dir_path_from_children(item) -> list[str] | None:
+    """Infer shared docs directory path parts from a section's page URLs."""
     prefixes = _collect_dir_prefixes(getattr(item, "children", None) or [])
     if not prefixes:
         url = getattr(item, "url", None) or ""
         from urllib.parse import unquote
 
         parts = [unquote(p) for p in url.strip("/").split("/") if p]
-        return parts[-1] if parts else None
+        return parts if parts else None
 
     # Prefer the longest shared directory path, but if an index leaf made a
     # shorter prefix (parent folder), use the longest among non-parent-only paths.
@@ -604,17 +604,47 @@ def _section_dir_from_children(item) -> str | None:
             break
     if not common:
         return None
-    return common[-1]
+    return common
+
+
+def _section_dir_from_children(item) -> str | None:
+    """Infer the docs folder name from a section's page URLs."""
+    path = _section_dir_path_from_children(item)
+    return path[-1] if path else None
+
+
+_SEASON_FOLDER_LABEL = {
+    "s01": "第一季",
+    "s02": "第二季",
+    "s03": "第三季",
+    "s04": "第四季",
+    "s05": "第五季",
+}
+
+
+def _nav_title_for_folder(folder: str, dir_path: list[str] | None) -> str:
+    """Map folder slug → sidebar title; qualify notes/transcript with season."""
+    base = _NAV_FOLDER_DISPLAY.get(folder, folder)
+    if folder not in {"notes", "transcript"} or not dir_path:
+        return base
+    season = None
+    for part in reversed(dir_path[:-1]):
+        if part in _SEASON_FOLDER_LABEL:
+            season = part
+            break
+    if not season:
+        return base
+    return f"{_SEASON_FOLDER_LABEL[season]} · {base}"
 
 
 def _rename_nav_sections(items) -> None:
     for item in items or []:
         children = getattr(item, "children", None)
         if children:
-            folder = _section_dir_from_children(item)
+            dir_path = _section_dir_path_from_children(item)
+            folder = dir_path[-1] if dir_path else None
             if folder:
-                # Prefer bilingual / friendly label when configured.
-                item.title = _NAV_FOLDER_DISPLAY.get(folder, folder)
+                item.title = _nav_title_for_folder(folder, dir_path)
             elif getattr(item, "title", None) in _NAV_SECTION_TITLES:
                 item.title = _NAV_SECTION_TITLES[item.title]
             _rename_nav_sections(children)
@@ -655,8 +685,8 @@ _NAV_FOLDER_DISPLAY = {
     "characters": "人物",
     "s01": "第一季",
     "s02": "第二季",
-    "notes": "笔记",
-    "transcript": "字幕",
+    "notes": "场景句",
+    "transcript": "英中字幕",
     "one-minute-drill": "1分钟练习",
     "study": "学习",
     "life": "生活",

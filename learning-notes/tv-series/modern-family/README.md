@@ -3,8 +3,9 @@
 美剧学习材料：字幕 transcript 与场景笔记 notes。
 
 - [[learning-notes/tv-series/README|影视学英语总索引]]
-- 第一季：见 `s01/notes/`（侧栏显示笔记）；`s01/transcript/` 字幕页可通过搜索打开，不在侧栏展开。
-- 第二季：见 `s02/notes/`；`s02/transcript/` 同样不在侧栏展开。
+- **GitHub Pages 侧栏：** 每季下分 **「第 N 季 · 场景句」**（`notes/`）与 **「第 N 季 · 英中字幕」**（`transcript/README` 索引）；各集字幕全文页可搜索打开，不在侧栏展开叶子。
+- 第一季：[[learning-notes/tv-series/modern-family/s01/notes/README|S01 场景句索引]] · [[learning-notes/tv-series/modern-family/s01/transcript/README|S01 英中字幕目录]]
+- 第二季：[[learning-notes/tv-series/modern-family/s02/notes/README|S02 场景句索引]] · [[learning-notes/tv-series/modern-family/s02/transcript/README|S02 英中字幕目录]]
 
 ## 快捷入口
 

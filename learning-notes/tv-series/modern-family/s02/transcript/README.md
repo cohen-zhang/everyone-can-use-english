@@ -4,9 +4,9 @@
 
 **Vault 根目录**建议为含 `learning-notes/` 的仓库根（与 [[learning-notes/tv-series/modern-family/s02/notes/README.md|S02 notes 索引]] 一致），下文 `[[learning-notes/...]]` 才能稳定解析。
 
-**镜头场景分段**（`【场景 xx / N】`、文首索引表、每场先英文段再中文段）：见 Cursor 技能 **tv-transcript-scene-markers**。每集配套 `modern-family-s02eXX-scenes.yaml`（配置）↔ `modern-family-s02eXX-transcript.txt`。第一季对照：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]。
+**镜头场景分段**（`【场景 xx / N】`、文首索引表、每场 `#### English` + `#### 中文`）：见 Cursor 技能 **tv-transcript-scene-markers**。每集配套 `modern-family-s02eXX-scenes.yaml`（配置）↔ `modern-family-s02eXX-transcript.txt`。**E07–E24** 已场景分段并歌曲体改版；**E01–E06** 仍为逐行英中对照、尚无 `【场景】` 标记（待补 `*-scenes.yaml` 后再改版）。第一季对照：[[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 transcript README]]。
 
-**GitHub Pages：** 构建时由 `mkdocs_hooks.py` 为各 `*-transcript.txt` 生成同名 `*-transcript.md` 页面（源 `.txt` 仍保留在仓库）；侧栏与各集主题名见同季 [`episode-titles.yaml`](../episode-titles.yaml)。
+**GitHub Pages：** 侧栏本目录显示为 **「第二季 · 英中字幕」**（仅本 README）；各集页标题前缀 `【字幕】…`。构建时由 `mkdocs_hooks.py` 生成 `*-transcript.md`；主题名见同季 [`episode-titles.yaml`](../episode-titles.yaml)。
 
 片源拆集：`s02/notes/scripts/build-modern-family-s02.py --source S2.txt --ingest`（英中对白来自开源对照剧本，仅作个人学习笔记）。
 

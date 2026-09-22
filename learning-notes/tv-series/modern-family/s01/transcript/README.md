@@ -6,9 +6,9 @@
 
 若需维护 **成人向本集词汇表**（`Word | IPA (GA) | 简中义项 | 标签`），见 Cursor 技能 **subtitle-vocabulary-tables**；全文笔记体例（互链、亲子标签等）见 **english-learning-markdown-docs**。
 
-**镜头场景分段**（`【场景 xx / N】`、文首索引表、每场先英文段再中文段）：见 Cursor 技能 **tv-transcript-scene-markers**。每集配套 `modern-family-s01eXX-scenes.yaml`（配置）↔ `modern-family-s01eXX-transcript.txt`（已插入标记）。示例 [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-scenes.yaml|S01E09 scenes.yaml]] ↔ [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt|S01E09 字幕全文]]。**E01–E11、E13–E24** 已完成；**E12** 字幕正文尚空，待补齐后再分段。第二季见 [[learning-notes/tv-series/modern-family/s02/transcript/README.md|S02 transcript README]]。
+**镜头场景分段**（`【场景 xx / N】`、文首索引表、每场 `#### English` 段 + `#### 中文` 段，同 english-song 歌词体例）：见 Cursor 技能 **tv-transcript-scene-markers**。每集配套 `modern-family-s01eXX-scenes.yaml`（配置）↔ `modern-family-s01eXX-transcript.txt`（已插入标记并歌曲体改版）。示例 [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-scenes.yaml|S01E09 scenes.yaml]] ↔ [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt|S01E09 字幕全文]]。**E01–E11、E13–E24** 已完成；**E12** 字幕正文尚空，待补齐后再分段。第二季见 [[learning-notes/tv-series/modern-family/s02/transcript/README.md|S02 transcript README]]。
 
-**GitHub Pages：** 构建时由 `mkdocs_hooks.py` 为各 `*-transcript.txt` 生成同名 `*-transcript.md` 页面（源 `.txt` 仍保留在仓库）；侧栏与各集主题名见同季 [`episode-titles.yaml`](../episode-titles.yaml)。
+**GitHub Pages：** 侧栏本目录显示为 **「第一季 · 英中字幕」**（仅本 README）；各集字幕页标题前缀 `【字幕】…`，可通过本表或搜索打开。构建时由 `mkdocs_hooks.py` 为各 `*-transcript.txt` 生成同名 `*-transcript.md`（源 `.txt` 仍保留）；主题名见同季 [`episode-titles.yaml`](../episode-titles.yaml)。
 
 **亲子主题摘录**（吃饭、夸奖等，非整集台词）入口：**[[learning-notes/tv-series/modern-family/s01/notes/README.md|S01 notes 索引]]**。
 
