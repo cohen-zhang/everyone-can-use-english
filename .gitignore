@@ -148,6 +148,10 @@ enjoy/lib/dictionaries
 .obsidian/graph.json
 .obsidian/workspace.json
 
+# Python
+__pycache__/
+*.py[cod]
+
 # MkDocs (learning-notes → GitHub Pages)
 site/
 

@@ -1,0 +1,190 @@
+# Scene markers for modern-family-s02e06-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E06
+episode_arc: 万圣节
+timeline_note: Claire 鬼屋翻盘、Mitch 戏服社死、Jay/Gloria 口音之争与 Cam 童年阴影平行交叉
+
+index_groups:
+  - scenes: "01–03"
+    place: 邓菲家 / Mitch & Cam 家
+    summary: 万圣节开场；乳胶紧身衣；Claire 布置鬼屋彩排
+  - scenes: "04–05"
+    place: 电话 / Gloria 车内
+    summary: Claire 叮嘱戏服；Gloria「夜龙」与下客区口误
+  - scenes: "06–07"
+    place: Mitch 律所
+    summary: 全员未装扮；Mitch 困在戏服里连场开会
+  - scenes: "08–09"
+    place: 邓菲街 / 家
+    summary: Jerry 离婚打击 Phil；Claire 仍要稻草人
+  - scenes: "10"
+    place: 律所会议室
+    summary: 獠牙同事挨训；Mitch 戏服社死
+  - scenes: "11–12"
+    place: Jay 家 / Jerry 家
+    summary: 小奶酪口误；Jerry 拒演稻草人
+  - scenes: "13–14"
+    place: 邓菲家
+    summary: 海莉服装屡次不过；Phil「自然性感」扑空
+  - scenes: "15"
+    place: 律所男厕
+    summary: Mitch 只剩蜘蛛侠装，求救 Cam
+  - scenes: "16"
+    place: 邓菲家 · 鬼屋彩排
+    summary: 弗兰肯斯坦；修女装；分配稻草人给 Mitch
+  - scenes: "17–20"
+    place: 邓菲鬼屋 · 开场
+    summary: Gloria 赌气说「标准英语」；两拨客人翻车；Claire 崩溃
+  - scenes: "21–22"
+    place: 邓菲家 · 情绪高潮
+    summary: Jay 讲一见钟情故事；Claire 要回万圣节
+  - scenes: "23–24"
+    place: 邓菲家 · 收尾
+    summary: Phil 忐忑「delightful」；鬼屋终于成功；口音玩笑 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 厨房
+    plot: Claire 假手整蛊；自述从小爱万圣节，遇见 Phil 后变成双人观影。
+    characters: Claire, Phil, kids
+    timeline: 万圣节当日清晨
+    anchor: Hi honey, breakfast will be ready in a minute. - Hi.
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Cam 帮 Mitch 穿乳胶紧身衣去新律所；Mitch 讨厌万圣节。
+    characters: Cameron, Mitchell
+    timeline: 平行线 · 清晨
+    anchor: All right. Do me.
+  - id: "03"
+    place: 邓菲家 · 客厅
+    plot: Claire 规定 5:30 彩排鬼屋；嫌海莉猫女装太暴露。
+    characters: Claire, Phil, Haley, Alex, Luke, Manny
+    timeline: 上午
+    anchor: All right, so, everybody has to be here at 5:30
+  - id: "04"
+    place: 邓菲家 · 电话
+    plot: Claire 叮嘱 Jay 必须穿戏服，不许再当「斯路普·道格」。
+    characters: Claire, Jay
+    timeline: 同日
+    anchor: Hello.
+  - id: "05"
+    place: Gloria 车内 · 下客区
+    plot: Gloria「辍学区/夜龙」口误；答应下午取戏服。
+    characters: Gloria, Jay, Manny
+    timeline: 送学途中
+    anchor: Hola, Jay! - Where are you?
+  - id: "06"
+    place: Mitch 新律所 · 大厅
+    plot: 发现几乎无人装扮；Cam 提醒后备箱有西装可换。
+    characters: Mitchell, Cameron
+    timeline: 上班
+    anchor: Oh, no. No, no, no. I'm the only one.
+  - id: "07"
+    place: 律所 · 会议室走廊
+    plot: 上司拖 Mitch 开会；乳胶装引来「手臂好壮」评论。
+    characters: Mitchell, coworkers
+    timeline: 上午
+    anchor: Oh, there you are.
+  - id: "08"
+    place: 邓菲街 · Jerry 家门口
+    plot: Phil 拿僵尸夫妻装开玩笑，撞上 Jerry 被 Judy 抛弃。
+    characters: Phil, Jerry
+    timeline: 平行线
+    anchor: Hey, Jerry.
+  - id: "09"
+    place: 邓菲家
+    plot: Phil 转告离婚消息；Claire 仍要 Jerry 演门廊稻草人。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: You are not gonna believe this.
+  - id: "10"
+    place: 律所会议室
+    plot: 上司训斥戴獠牙的同事；Mitch 全程吱吱作响，自称最糟万圣节。
+    characters: Mitchell, boss, Dale
+    timeline: 午间
+    anchor: I don't need excuses. I need this lawsuit to go away.
+  - id: "11"
+    place: Jay 家
+    plot: Gloria 订「小奶酪」却来了婴儿奶酪；逼 Jay 纠正她的英语。
+    characters: Gloria, Jay
+    timeline: 下午
+    anchor: Jay! This came for you.
+  - id: "12"
+    place: Jerry 家
+    plot: Jerry 拒演稻草人；Phil 追问「还能怎样做」被灌输自然与性感。
+    characters: Phil, Jerry
+    timeline: 平行线
+    anchor: Oh, yeah, can you tell Claire
+  - id: "13"
+    place: 邓菲家
+    plot: 海莉穿八岁旧装再被否；Phil 汇报稻草人泡汤。
+    characters: Claire, Haley, Phil
+    timeline: 傍晚前
+    anchor: What the hell is that?!
+  - id: "14"
+    place: 邓菲家 · 梯子 / 客厅
+    plot: Phil 突然「自然性感」扑 Claire，反被吓到。
+    characters: Phil, Claire
+    timeline: 同日
+    anchor: You are sexy.
+  - id: "15"
+    place: 律所男厕所
+    plot: Mitch 衣服进马桶，只剩蜘蛛侠装；打电话向 Cam 求救。
+    characters: Mitchell, Cameron
+    timeline: 下班前
+    anchor: Okay. Focus, Mitchell. Focus. Focus.
+  - id: "16"
+    place: 邓菲家 · 鬼屋彩排
+    plot: Luke 弗兰肯斯坦；海莉修女装仍暴露；Mitch 被派演稻草人。
+    characters: Claire, Luke, Haley, Alex, Cameron, Mitchell, Phil
+    timeline: 5:30 彩排
+    anchor: Behold, my creation.
+  - id: "17"
+    place: 邓菲家 · 门口
+    plot: Jay、Gloria 到场；Gloria 赌气只说「标准美音」；Cam 开始讲童年阴影。
+    characters: Phil, Jay, Gloria, Claire, Cameron
+    timeline: 开场前
+    anchor: Hey, guys. - Hey.
+  - id: "18"
+    place: 邓菲鬼屋 · 第一拨客人
+    plot: Cam 讲完 Quasimodo 往事；第一拨 trick-or-treat 全面穿帮。
+    characters: Claire, Phil, Gloria, Cam, kids
+    timeline: 鬼屋开场
+    anchor: Claire, I don't know that I'm - I'm feeling up to this.
+  - id: "19"
+    place: 邓菲鬼屋 · 第二拨
+    plot: 再来一拨仍混乱；Gloria 讽刺「狗咬狗的家庭」。
+    characters: Claire, Phil, Gloria, Mitchell, Haley
+    timeline: 继续
+    anchor: Trick or treat?
+  - id: "20"
+    place: 邓菲家 · 客厅
+    plot: Claire 对全员失控暴怒；Cam 坚持「镇里人」追打童年叙事。
+    characters: Claire, Cameron, Gloria, Jay
+    timeline: 情绪高潮
+    anchor: Mother of god.
+  - id: "21"
+    place: 邓菲家 · 角落
+    plot: Jay 讲餐厅听声一见钟情；Gloria 被稻草人吓回正常口音。
+    characters: Jay, Gloria, Mitchell
+    timeline: 同夜
+    anchor: Gloria...
+  - id: "22"
+    place: 邓菲家 · 客厅
+    plot: 众人要走；Claire 哭诉只要留下万圣节给她。
+    characters: Claire, Cameron, Phil, family
+    timeline: 同夜
+    anchor: Ohh! She punched me in the face!
+  - id: "23"
+    place: 邓菲家 · 门外
+    plot: Phil 坦白 Jerry 离婚让他害怕；Claire 说你逃不出我手掌心。
+    characters: Phil, Claire
+    timeline: 和好
+    anchor: No! No! Not ready to talk!
+  - id: "24"
+    place: 邓菲鬼屋 · 成功场 / tag
+    plot: 鬼屋终于吓人成功；众人拿 Gloria 口音开玩笑，被她轰出门。
+    characters: Claire, Phil, Gloria, Jay, Cameron, Mitchell, family
+    timeline: 片尾
+    anchor: Trick or treat?

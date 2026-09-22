@@ -1,0 +1,187 @@
+# Scene markers for modern-family-s02e05-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E05
+episode_arc: 电子产品戒断
+timeline_note: 邓菲戒网竞赛、Lily 幼儿园择校、Jay/Gloria 邻家狗三线平行
+
+index_groups:
+  - scenes: "01"
+    place: Jay 家
+    summary: 邻家狗狂吠；Gloria 决定上门理论
+  - scenes: "02"
+    place: Mitch & Cam 家
+    summary: 发现玩伴都上了幼儿园；怕 Lily 落后
+  - scenes: "03–04"
+    place: 邓菲家
+    summary: 早餐全员刷机；Mitch 打电话问 Claire 幼儿园
+  - scenes: "05–06"
+    place: 邻居家 / Jay 家
+    summary: Gloria 找 Larry；反被指「鹦鹉」吵；追问 Jay
+  - scenes: "07"
+    place: 邓菲家
+    summary: 家庭会议：一周禁电子；Phil 改成竞赛奖品
+  - scenes: "08"
+    place: Wagon Wheel 幼儿园
+    summary: Mitch、Cam 面试；被点破「多元」优势
+  - scenes: "09–10"
+    place: Jay 家
+    summary: 狗失踪被诬陷；Jay 闪回 Gloria 灭鼠狠劲
+  - scenes: "11–13"
+    place: 邓菲家
+    summary: 戒网第一天；Luke、Alex 先后退赛
+  - scenes: "14"
+    place: 咖啡馆
+    summary: Jay 旁敲侧击问曼尼：妈妈有没有对狗下手
+  - scenes: "15"
+    place: Mitch & Cam 家
+    summary: Billingsley 名额 vs Wagon Wheel；夫妻争执
+  - scenes: "16"
+    place: Jay 家 · 后院
+    summary: 查杀鼠铲；Gloria 承认把狗送到农场
+  - scenes: "17"
+    place: 邓菲家
+    summary: Claire 为机票打电话破功；只剩 Phil vs Haley
+  - scenes: "18"
+    place: Billingsley 学院
+    summary: 大厅「招生扑克」：多元身份接连被碾压
+  - scenes: "19"
+    place: 邓菲家
+    summary: Phil 为 Brady 动摇；海莉肥皂手机骗过爸妈
+  - scenes: "20–22"
+    place: 面试 / 邓菲家 / Jay 家 · 收尾
+    summary: Cherokee 翻车；不兑现汽车；Jay 订哥伦比亚之旅
+
+scenes:
+  - id: "01"
+    place: Jay 家 · 卧室
+    plot: 邻家狗整夜叫；Gloria 受不了要上门，Jay 怕惹事。
+    characters: Gloria, Jay, Manny
+    timeline: 清晨
+    anchor: Mom. The dog again.
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Cam 发现 Lily 玩伴都上了幼儿园；两人恐慌怕落后。
+    characters: Cameron, Mitchell
+    timeline: 平行线 · 清晨
+    anchor: They're gone. Cam.
+  - id: "03"
+    place: 邓菲家 · 厨房
+    plot: 早餐全员盯电子产品；Claire 爆发要求放下。
+    characters: Claire, Phil, Haley, Alex, Luke
+    timeline: 同日早餐
+    anchor: Okay, here you go.
+  - id: "04"
+    place: 邓菲家 · 电话
+    plot: Mitch 问幼儿园；Claire 答应帮问 Wagon Wheel，并吐槽电子产品。
+    characters: Claire, Mitchell, Phil
+    timeline: 同日
+    anchor: Hello.
+  - id: "05"
+    place: 邻居 Larry 家门口
+    plot: Gloria 投诉狗叫；Larry 说是前妻的狗；反咬「你们鹦鹉吵」。
+    characters: Gloria, Larry, Manny
+    timeline: 平行线
+    anchor: Buenos dias. - Hi.
+  - id: "06"
+    place: Jay 家 · 门外 / 屋内
+    plot: Gloria 追问 Jay 哪来的鹦鹉；Jay 装作不知溜走。
+    characters: Gloria, Jay
+    timeline: 同日
+    anchor: Jay!
+  - id: "07"
+    place: 邓菲家 · 客厅
+    plot: 家庭会议禁电子一周；Phil 改成竞赛，奖品一路加码到汽车。
+    characters: Claire, Phil, Haley, Alex, Luke
+    timeline: 同日
+    anchor: Okay, we have called this family meeting
+  - id: "08"
+    place: Wagon Wheel 幼儿园
+    plot: Mitch、Cam 紧张面试；接待员点破「多元」反而抢手。
+    characters: Mitchell, Cameron, Lily
+    timeline: 平行线
+    anchor: Joanie will be right out.
+  - id: "09"
+    place: Jay 家 · 门口
+    plot: Larry 指控狗失踪与他们有关；Gloria 义正词严赶人。
+    characters: Larry, Gloria, Jay, Manny
+    timeline: 次日
+    anchor: I'm coming!
+  - id: "10"
+    place: Jay 家 · 访谈框
+    plot: Jay 回想 Gloria 灭鼠「杀一儆百」，暗示她可能对狗下手。
+    characters: Jay, Gloria
+    timeline: 访谈 / 闪回
+    anchor: What did you do?
+  - id: "11"
+    place: 邓菲家 · 客厅
+    plot: 戒网第一天：Phil 冥想睡着；Luke 搭积木「烧楼」。
+    characters: Phil, Claire, Haley, Luke
+    timeline: 戒断第 1 天
+    anchor: Hey. - Hi, honey.
+  - id: "12"
+    place: 邓菲家 · 客厅
+    plot: Griffin 来电说 Youtube 有视频；Luke 立刻退赛。
+    characters: Claire, Luke
+    timeline: 同日
+    anchor: Hello?
+  - id: "13"
+    place: 邓菲家 · 客厅
+    plot: Alex 用旧百科写论文只拿 B，怒退赛；剩三人。
+    characters: Alex, Claire, Phil, Haley
+    timeline: 同日
+    anchor: Uhh! I can't believe it.
+  - id: "14"
+    place: 咖啡馆
+    plot: Jay 旁敲侧击问曼尼妈妈是否动了狗；曼尼奉劝别问。
+    characters: Jay, Manny
+    timeline: 平行线
+    anchor: Hey, buddy, what you reading?
+  - id: "15"
+    place: Mitch & Cam 家
+    plot: Mitch 拿到 Billingsley 面试；拒绝 Wagon Wheel，Claire 不悦。
+    characters: Mitchell, Cameron, Claire
+    timeline: 平行线
+    anchor: No, no, no, 4:00 tomorrow is fine.
+  - id: "16"
+    place: Jay 家 · 后院
+    plot: 父子查杀鼠铲被抓；Gloria 承认把狗送到乡下，还换来咸菜。
+    characters: Jay, Manny, Gloria
+    timeline: 同日
+    anchor: Don't sneak up on me like that.
+  - id: "17"
+    place: 邓菲家 · 客厅
+    plot: Claire 为机票打电话破功；决赛变成 Phil 对海莉。
+    characters: Claire, Phil, Haley
+    timeline: 戒断后段
+    anchor: The contest was hard.
+  - id: "18"
+    place: Billingsley 学院 · 大厅
+    plot: Mitch、Cam 自信「多元王牌」，却遇上更「多元」的对手。
+    characters: Mitchell, Cameron
+    timeline: 面试日
+    anchor: And finally, here we are back at the office.
+  - id: "19"
+    place: 邓菲家 · 客厅
+    plot: Phil 为 Brady 伤病动摇；海莉用肥皂手机假装发短信被抓，反杀赢车。
+    characters: Phil, Claire, Haley
+    timeline: 同日
+    anchor: It's been a while since I read an actual newspaper.
+  - id: "20"
+    place: Billingsley · 面试室
+    plot: Cam 吹 1/16 切罗基血统翻车；面试崩盘。
+    characters: Mitchell, Cameron
+    timeline: 面试中
+    anchor: Sorry about the delay.
+  - id: "21"
+    place: 邓菲家 · 客厅
+    plot: 父母不兑现汽车奖；海莉控诉对着肥皂讲了两天电话。
+    characters: Claire, Phil, Haley
+    timeline: 片尾
+    anchor: So, what are you saying?
+  - id: "22"
+    place: Mitch & Cam 家 / Jay 家 · 收尾
+    plot: 嫌 Billingsley 讨厌；Jay 订哥伦比亚之旅道歉，曼尼劝阻。
+    characters: Mitchell, Cameron, Jay, Gloria, Manny
+    timeline: 片尾
+    anchor: Hey.

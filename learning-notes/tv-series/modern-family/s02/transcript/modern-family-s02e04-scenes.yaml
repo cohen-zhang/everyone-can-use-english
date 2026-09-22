@@ -1,0 +1,178 @@
+# Scene markers for modern-family-s02e04-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E04
+episode_arc: 跑步机陌生人 / 交友
+timeline_note: 邓菲笑话宴会、Mitch/Cam 单车裤「互换谋杀」、Jay 成年礼三线平行
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家
+    summary: Phil 憋段子；Claire 怕他在 S.C.A.R.B. 出丑
+  - scenes: "03"
+    place: Jay 家
+    summary: 录像带之争；Gloria 逼 Jay 去员工女儿成年礼
+  - scenes: "04–06"
+    place: Mitch & Cam 家 / 咖啡馆
+    summary: 单车热裤；Claire 与 Mitch《火车怪客》式互换任务
+  - scenes: "07"
+    place: 邓菲家
+    summary: 海莉教艾丽克斯夺回对 Mackenzie 的主动权
+  - scenes: "08–09"
+    place: Mitch & Cam 家
+    summary: Claire 送童装；直说热裤，Cam 下逐客令
+  - scenes: "10"
+    place: 邓菲家
+    summary: Phil 给 Mitch 试讲洞穴笑话
+  - scenes: "11"
+    place: 成年礼宴会厅
+    summary: Jay 谁都不认识；雇 Manny 介绍人
+  - scenes: "12–15"
+    place: Mitch & Cam 家
+    summary: Cam 发飙；Mitch 毁约夸 Phil；胡子危机与和好
+  - scenes: "16"
+    place: 邓菲家
+    summary: 艾丽克斯再接 Mackenzie，差点露馅
+  - scenes: "17–18"
+    place: S.C.A.R.B. 宴会
+    summary: 卡片失踪；Phil 临场发挥反而爆红
+  - scenes: "19–20"
+    place: 成年礼
+    summary: Gloria 揭穿；Jay 请客演讲；叫停过火父女舞
+  - scenes: "21–22"
+    place: 邓菲家 · 收尾
+    summary: Claire 认偷卡片；母女玩笑；超市怪阿姨模仿
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 厨房
+    plot: Phil 为房产经纪人宴会写双关笑话；全家陪笑。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 当日白天
+    anchor: Oh my God, that's so freaking funny.
+  - id: "02"
+    place: 邓菲家 · 访谈框
+    plot: Claire 承认自己总假笑；怕 Phil 在大人物面前丢脸。
+    characters: Claire
+    timeline: 访谈框
+    anchor: Phil is gonna bomb.
+  - id: "03"
+    place: Jay 家 · 客厅
+    plot: Jay 嫌录像带占地方；Gloria、Manny 逼他去员工女儿的成年礼。
+    characters: Jay, Gloria, Manny
+    timeline: 平行线 · 白天
+    anchor: Gloria, do we have to keep
+  - id: "04"
+    place: Mitch & Cam 家 · 访谈 / 门口
+    plot: Mitch 高兴 Cam 健身，却受不了单车热裤；Cam 一敏感就误解。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Where do you keep popping out from?!
+  - id: "05"
+    place: Mitch & Cam 家 · 客厅
+    plot: Cam 做「跑珈」；Claire 上门诉苦 Phil 的笑话。
+    characters: Cameron, Mitchell, Claire
+    timeline: 同日
+    anchor: Knock, knock.
+  - id: "06"
+    place: Mitch 处 · 咖啡馆式长谈
+    plot: 两人互道难言之隐；提议《火车怪客》式互换「谋杀」任务。
+    characters: Claire, Mitchell
+    timeline: 同日
+    anchor: What is your deal today?
+  - id: "07"
+    place: 邓菲家 · 艾丽克斯房间
+    plot: 海莉教妹对 Mackenzie「我很忙」挂电话，夺回主动权。
+    characters: Haley, Alex
+    timeline: 平行线
+    anchor: Hey, Mackenzie. Stop it. It's Alex.
+  - id: "08"
+    place: Mitch & Cam 家 · 门口
+    plot: Claire 送旧童装与红酒；旁敲侧击「有人该说实话」。
+    characters: Claire, Cameron, Phil
+    timeline: 宴会前
+    anchor: Knock knock!
+  - id: "09"
+    place: Mitch & Cam 家 · 客厅
+    plot: Claire 直说丢掉单车裤；Cam 假笑后下逐客令。
+    characters: Claire, Cameron
+    timeline: 同日
+    anchor: I can't believe I ever bought this for Alex.
+  - id: "10"
+    place: 邓菲家 · 客厅
+    plot: Phil 向 Mitch 试讲「洞穴」笑话；Mitch 笑不出来被逼。
+    characters: Phil, Mitchell, Luke
+    timeline: 同日
+    anchor: Uh, okay. All right.
+  - id: "11"
+    place: 成年礼宴会厅
+    plot: Jay 几乎不认识任何人；花钱雇 Manny 替他打听名字。
+    characters: Jay, Gloria, Manny
+    timeline: 傍晚 · 平行线
+    anchor: There he is.
+  - id: "12"
+    place: Mitch & Cam 家
+    plot: Cam 向 Mitch 抱怨 Claire 管穿衣；Claire 到访，Cam 先回避。
+    characters: Cameron, Mitchell, Claire
+    timeline: 同日
+    anchor: I mean, she's gonna tell me how to dress?!
+  - id: "13"
+    place: Mitch & Cam 家 · 门口
+    plot: Cam 骂 Claire 没种；原来 Mitch 夸 Phil 好笑、毁了互换约定。
+    characters: Cameron, Claire, Mitchell
+    timeline: 同日
+    anchor: Hello, Claire.
+  - id: "14"
+    place: 邓菲家 · 访谈框
+    plot: Claire 说「换了种方式」保护 Phil——暗指拿走笑话卡片。
+    characters: Claire
+    timeline: 访谈框
+    anchor: There are challenging moments in every marriage.
+  - id: "15"
+    place: Mitch & Cam 家 · 浴室
+    plot: Cam 嫌 Mitch 胡子；Mitch 真刮，Cam 又心软和好。
+    characters: Cameron, Mitchell
+    timeline: 同日
+    anchor: Stop talking.
+  - id: "16"
+    place: 邓菲家 · 艾丽克斯房间
+    plot: Mackenzie 邀派对；姐妹联手装酷，作业一词差点翻车。
+    characters: Haley, Alex
+    timeline: 同日晚前
+    anchor: It's Mackenzie.
+  - id: "17"
+    place: S.C.A.R.B. 宴会厅 · 后台
+    plot: Phil 找不到索引卡片；Claire 劝他真心介绍即可。
+    characters: Phil, Claire
+    timeline: 宴会开始
+    anchor: They were right in here!
+  - id: "18"
+    place: S.C.A.R.B. 宴会厅 · 舞台
+    plot: Phil 无稿上场，冷笑话反而全场爆笑。
+    characters: Phil
+    timeline: 主持中
+    anchor: Good evening.
+  - id: "19"
+    place: 成年礼宴会厅
+    plot: Gloria 揭穿 Jay 谁都不认识；Jay 抢话筒请客认错。
+    characters: Gloria, Jay, Manny
+    timeline: 与宴会平行
+    anchor: Trancito, Little Manuel, and Carlos, my wife, Gloria.
+  - id: "20"
+    place: 成年礼 · 舞池
+    plot: 父女舞过火；Jay 看不下去叫停，被轰离场。
+    characters: Jay, Gloria
+    timeline: 舞会高潮
+    anchor: Thank you. Thank you.
+  - id: "21"
+    place: 邓菲家 · 卧室
+    plot: Claire 承认偷卡片；Phil 原谅，说她真正的工作是扶起家人。
+    characters: Phil, Claire
+    timeline: 片尾
+    anchor: I mean, honey, I am not kidding when I tell you
+  - id: "22"
+    place: 邓菲家 · 客厅 · tag
+    plot: 艾丽克斯没朋友找海莉；Claire 学超市怪阿姨逗全家。
+    characters: Alex, Haley, Claire, Phil
+    timeline: 片尾 tag
+    anchor: Alex.

@@ -11,7 +11,8 @@ aliases:
 # The Shawshank Redemption (1994) — Scene transcript
 
 **Source:** [[learning-notes/tv-series/the-shawshank-redemption/the-shawshank-redemption.1994.en.srt|the-shawshank-redemption.1994.en.srt]]  
-**Vocab:** [[learning-notes/tv-series/the-shawshank-redemption/vocabulary|vocabulary]] · **Index:** [[learning-notes/tv-series/the-shawshank-redemption/README|README]]
+**Vocab:** [[learning-notes/tv-series/the-shawshank-redemption/vocabulary|vocabulary]] · **Index:** [[learning-notes/tv-series/the-shawshank-redemption/README|README]]  
+**英中 MF 式字幕：** [[learning-notes/tv-series/the-shawshank-redemption/transcript/the-shawshank-redemption-1994-transcript|transcript · 【场景】分段]]
 
 English-only scene script (timestamps removed). Segmented by plot beats in the style of Modern Family daily-lines / Spider-Verse scenes. Song lyric cues omitted; light sound tags kept.
 

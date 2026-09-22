@@ -1,0 +1,175 @@
+# Scene markers for modern-family-s02e03-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E03
+episode_arc: 地震
+timeline_note: 地震把三家打乱：Claire 困浴室、Pepper 早午餐谎言、Jay/Manny 高尔夫与天堂辩论平行
+
+index_groups:
+  - scenes: "01–02"
+    place: 邓菲家
+    summary: SAT vs 派对；假水管工 Phil；浴缸漏水争执
+  - scenes: "03"
+    place: Mitch & Cam 家
+    summary: Oscar Wilde 主题早午餐，两人只想取消
+  - scenes: "04"
+    place: Jay 家
+    summary: Gloria 逼 Jay 上教堂；Jay 想去高尔夫
+  - scenes: "05–07"
+    place: 三家 · 地震
+    summary: 地震来袭；电话连环确认；Phil 柜未固定露馅
+  - scenes: "08–09"
+    place: 邓菲家 · 浴室
+    summary: Claire 被困；Phil 拖延修柜；海莉要溜去派对
+  - scenes: "10"
+    place: Mitch & Cam 家
+    summary: 用地震当借口骗 Pepper；越描越黑要来探视
+  - scenes: "11"
+    place: Jay 家
+    summary: Gloria 称地震是神迹；Manny 跟 Jay 去高尔夫
+  - scenes: "12–13"
+    place: 邓菲家
+    summary: Phil「验」柜已固定；继续装修门；Jay 电话谈养女儿
+  - scenes: "14"
+    place: 高尔夫球场
+    summary: Jay 跟 Manny 谈天堂与地狱，越讲越像地狱
+  - scenes: "15–16"
+    place: Mitch & Cam 家
+    summary: 假装震损；Pepper 上门；Mitch 说实话翻车
+  - scenes: "17"
+    place: 高尔夫
+    summary: Manny 因「天堂只是直觉」灵魂危机
+  - scenes: "18–19"
+    place: 邓菲 / Mitch 家
+    summary: Luke 抓到 Phil 在修柜；Pepper 崩溃后「旧情」谎言脱身
+  - scenes: "20–21"
+    place: 邓菲家 · 收尾
+    summary: Claire 自救出门；孩子们护短 Phil；博物馆收场；天堂蝴蝶 tag
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 客厅
+    plot: Haley 要去派对；Claire 抓 SAT；姐妹互相揭短；Phil 扮水管工上门。
+    characters: Haley, Claire, Alex, Phil
+    timeline: 震前上午
+    anchor: Oh, my god. Mom.
+  - id: "02"
+    place: 邓菲家 · 浴室
+    plot: 「水管工」Phil 看漏水；Claire 嘲他多年未修，Phil 踩实楼梯辩解。
+    characters: Phil, Claire
+    timeline: 震前
+    anchor: So, this is the problem.
+  - id: "03"
+    place: Mitch & Cam 家
+    plot: 为 Pepper 的 Oscar Wilde 早午餐盛装；两人受够主题派对只想取消。
+    characters: Mitchell, Cameron
+    timeline: 平行线 · 震前
+    anchor: Oh, good. You're back.
+  - id: "04"
+    place: Jay 家
+    plot: Gloria 拦 Jay 穿高尔夫装去教堂；Jay 宣布再也不去教堂。
+    characters: Gloria, Jay, Manny
+    timeline: 平行线 · 震前
+    anchor: You know, it might be easier
+  - id: "05"
+    place: 三家 · 地震
+    plot: 地震突袭；Gloria 拉人躲；Mitch/Cam 怕死在戏服里丢脸。
+    characters: Gloria, Jay, Manny, Mitchell, Cameron, Phil, Claire, kids
+    timeline: 地震当下
+    anchor: Hell...
+  - id: "06"
+    place: 电话连环
+    plot: 三家互打电话确认安危；线路断续，人人以为对方出事。
+    characters: Phil, Gloria, Mitchell, Cameron, Claire
+    timeline: 震后片刻
+    anchor: Hey, are you guys okay?
+  - id: "07"
+    place: 邓菲家 · 客厅
+    plot: Phil 旁白承认从未固定柜子；柜子砸险些砸到 Luke。
+    characters: Phil, Luke, Haley
+    timeline: 震后
+    anchor: For months, Claire has been after me
+  - id: "08"
+    place: 邓菲家 · 浴室门外
+    plot: Claire 与 Alex 被困浴室；Phil 故意不出力，好偷空去固定柜子。
+    characters: Phil, Claire, Alex, Haley, Luke
+    timeline: 震后
+    anchor: Phil!
+  - id: "09"
+    place: 邓菲家 · 走廊
+    plot: 海莉想溜去派对；Claire 隔门加码禁足到数周。
+    characters: Claire, Haley, Alex, Phil
+    timeline: 同段
+    anchor: Wait a minute.
+  - id: "10"
+    place: Mitch & Cam 家
+    plot: 用地震当借口取消早午餐；Cam 谎话说砸伤，Pepper 要立刻赶来。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: Mitchell, come on. We're gonna be late.
+  - id: "11"
+    place: Jay 家
+    plot: Gloria 称地震是神对 Jay 罢课的报应；Manny 改跟 Jay 去高尔夫。
+    characters: Gloria, Jay, Manny
+    timeline: 平行线
+    anchor: You're still going golfing?!
+  - id: "12"
+    place: 邓菲家 · 客厅
+    plot: Phil 向 Luke「证明」柜子几乎没动；继续借口拖时间。
+    characters: Phil, Luke
+    timeline: 同日
+    anchor: What are you doing?
+  - id: "13"
+    place: 邓菲家 · 浴室门外
+    plot: Phil 装卸门把拿错改锥；Jay 来电谈养女儿，Claire 像亲妈一样控制狂。
+    characters: Phil, Claire, Haley, Jay
+    timeline: 同日
+    anchor: Sorry that took -- you filthy...
+  - id: "14"
+    place: 高尔夫球场
+    plot: Jay 跟 Manny 谈无地狱、天堂分区，越讲越像地狱。
+    characters: Jay, Manny
+    timeline: 平行线
+    anchor: Hold this, will you, kid?
+  - id: "15"
+    place: Mitch & Cam 家
+    plot: 为圆谎砸餐具、扔帽架出窗；Mitch 良心发现不干。
+    characters: Mitchell, Cameron
+    timeline: 平行线
+    anchor: What are you doing?!
+  - id: "16"
+    place: Mitch & Cam 家
+    plot: Pepper 到访；Mitch 坦白不想参加派对，Pepper 崩溃大哭。
+    characters: Mitchell, Cameron, Pepper
+    timeline: 平行线
+    anchor: It really hit us bad.
+  - id: "17"
+    place: 高尔夫球场
+    plot: Manny 抓住 Jay「也许没有天堂」只是直觉，灵魂恐慌。
+    characters: Jay, Manny
+    timeline: 平行线
+    anchor: Yeah. Yeah, I puzzled that out.
+  - id: "18"
+    place: 邓菲家
+    plot: Luke 抓到 Phil 在修柜子；Phil 用「涟漪效应」瞎编门卡住的原因。
+    characters: Phil, Luke
+    timeline: 同日
+    anchor: Hey! - W-what are you doing?
+  - id: "19"
+    place: Mitch & Cam 家
+    plot: Pepper 要走；Mitch 谎称 Cam 仍对 Pepper 有感觉，换得免参加早午餐。
+    characters: Mitchell, Cameron, Pepper
+    timeline: 平行线
+    anchor: I think I better just go.
+  - id: "20"
+    place: 邓菲家 · 浴室
+    plot: Claire 母女合力破门；发现 Phil「英雄式」消失其实在躲；孩子们护短。
+    characters: Claire, Alex, Haley, Phil, Luke
+    timeline: 收尾
+    anchor: All right, Claire. - Okay, ready?
+  - id: "21"
+    place: 邓菲家 / Jay 车 · tag
+    plot: 全家去宽容博物馆；Jay 旁白家庭与高尔夫；Manny 怕天堂有蝴蝶。
+    characters: Phil, Claire, kids, Jay, Gloria, Manny
+    timeline: 片尾
+    anchor: There's nothing mystical about an earthquake.

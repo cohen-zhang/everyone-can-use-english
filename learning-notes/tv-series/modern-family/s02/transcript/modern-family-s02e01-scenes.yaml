@@ -1,0 +1,166 @@
+# Scene markers for modern-family-s02e01-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E01
+episode_arc: 旧车 / 父子露营
+timeline_note: 邓菲卖老爷车、Mitch/Cam 建公主城堡、Manny 约会 Kelly 三线平行交叉
+
+index_groups:
+  - scenes: "01"
+    place: 邓菲车库
+    summary: 车砸 Claire；Phil 死守老爷车 vs 要卖
+  - scenes: "02"
+    place: Mitch & Cam 家
+    summary: 读八卦给 Lily；准备搭公主城堡套件
+  - scenes: "03"
+    place: Jay 家
+    summary: Kelly 来学蚕；Gloria 粘儿子塞肉饼
+  - scenes: "04–06"
+    place: 邓菲车库
+    summary: 清车怀旧；Phil 助记卖车；Claire 舍不得
+  - scenes: "07"
+    place: Mitch & Cam 家
+    summary: Jay 还电锅加入建城堡
+  - scenes: "08"
+    place: Jay 家
+    summary: Kelly 合笔记本；巧克力奶放盐较劲
+  - scenes: "09"
+    place: 车库 · 城堡
+    summary: 排挤 Mitchell；他摔门走人
+  - scenes: "10"
+    place: 邓菲家 · 车道
+    summary: Phil 用老爷车带全家「时光机」野餐
+  - scenes: "11"
+    place: Mitch & Cam 家
+    summary: Jay/Cam 谈爷们；Mitchell 要在城堡留痕迹
+  - scenes: "12"
+    place: Jay 家
+    summary: Kelly 约晚饭；Gloria 心痛后放手
+  - scenes: "13"
+    place: 后院城堡
+    summary: Mitchell 独自建完却卡在里面
+  - scenes: "14–16"
+    place: Granger Point 野餐
+    summary: 怀旧收场；车内灾难；车滑走 Phil 扒引擎盖
+  - scenes: "17"
+    place: Jay 家 · 收尾
+    summary: Manny 甩 Kelly 立刻约 Alicia；Gloria 怒骂禽兽
+  - scenes: "18–19"
+    place: 邓菲 / 城堡 tag
+    summary: 学会放手；孩子们回味车祸；Lily 恋城堡
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 车库
+    plot: 老爷车砸到 Claire；Phil 坚持是经典要留给海莉，Claire 逼他卖掉。
+    characters: Phil, Claire
+    timeline: 当日清晨
+    anchor: Honey, do you need me to move the car?
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Cam 给 Lily 读八卦；两人准备用套件搭公主城堡，Cam 怕 Mitchell 动工具。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: While the spray-tanned starlet claims
+  - id: "03"
+    place: Jay 家
+    plot: Kelly 上门「研究蚕」；Gloria 粘人塞 empanada，Manny 为讨好也戒反式脂肪。
+    characters: Gloria, Manny, Kelly, Jay
+    timeline: 平行线 · 上午
+    anchor: Honey, relax.
+  - id: "04"
+    place: 邓菲家 · 车库
+    plot: 全家清车；blankety、阳光罐勾起童年回忆。
+    characters: Claire, Phil, Haley, Alex, Luke
+    timeline: 同日上午
+    anchor: Mom? When was this from?
+  - id: "05"
+    place: 邓菲家 · 车库
+    plot: 买家来电；Phil 用「迷你联想」喊出 Nick 并成交。
+    characters: Phil, Claire, kids
+    timeline: 同日
+    anchor: Hey! It's that guy who came by earlier.
+  - id: "06"
+    place: 邓菲家 · 车库
+    plot: Claire 突然舍不得卖车；Phil 提议不卖，她仍要放手，只要「时光机」。
+    characters: Claire, Phil, kids
+    timeline: 同日
+    anchor: Honey...
+  - id: "07"
+    place: Mitch & Cam 家 · 车库
+    plot: Cam 找到射钉枪；Jay 还电锅加入「工匠三兄弟」建城堡。
+    characters: Cameron, Mitchell, Jay, Lily
+    timeline: 平行线 · 午后
+    anchor: Well, I found the...
+  - id: "08"
+    place: Jay 家 · 厨房
+    plot: Kelly 把笔记并进 Manny 本子；Gloria 与 Kelly 为巧克力奶放盐较劲。
+    characters: Gloria, Manny, Kelly
+    timeline: 平行线
+    anchor: Wouldn't it be easier
+  - id: "09"
+    place: Mitch & Cam 家 · 后院
+    plot: Jay/Cam 支开 Mitchell；他识破「合谋」后讽刺走人并撞门框。
+    characters: Cameron, Mitchell, Jay
+    timeline: 平行线
+    anchor: I finally got Lily down for a nap.
+  - id: "10"
+    place: 邓菲家 · 车道
+    plot: Phil 把 Claire 扛上车，宣布今晚用老爷车去 Granger Point 野餐。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 傍晚
+    anchor: Just a few more steps.
+  - id: "11"
+    place: Mitch & Cam 家
+    plot: Jay 与 Cam 谈男子气概；Mitchell 要能望着城堡说「有我一份」。
+    characters: Jay, Cameron, Mitchell
+    timeline: 与野餐平行
+    anchor: I'm just saying, the kid's gotta learn to let things go.
+  - id: "12"
+    place: Jay 家
+    plot: Kelly 邀 Manny 跟父母吃饭看电影；Gloria 心痛后仍让他去。
+    characters: Gloria, Manny
+    timeline: 傍晚
+    anchor: Hey, mom.
+  - id: "13"
+    place: 后院 · 公主城堡
+    plot: 道歉时发现城堡已建完；Mitchell 卡在里面逞强，鸟吓到他。
+    characters: Mitchell, Cameron, Jay
+    timeline: 傍晚
+    anchor: I say we apologize
+  - id: "14"
+    place: Granger Point · 野餐
+    plot: Phil 得意怀旧；Claire 感谢，感觉好多了。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 傍晚
+    anchor: Yeah, I'm pretty proud of myself right now.
+  - id: "15"
+    place: 老爷车内
+    plot: Luke 吃太快要吐；蜘蛛、卡住安全带与车窗，全家混乱。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 同段
+    anchor: My stomach hurts.
+  - id: "16"
+    place: Granger Point · 坡道
+    plot: 车自己滑走；Phil 扒引擎盖仍放手；只能降低售价。
+    characters: Phil, Claire, kids
+    timeline: 高潮
+    anchor: Guys, the car!
+  - id: "17"
+    place: Jay 家
+    plot: Manny 早归因 Kelly 不懂他；刚赞美妈妈又立刻约 Alicia，Gloria 怒喊禽兽。
+    characters: Gloria, Manny, Jay
+    timeline: 晚间
+    anchor: Hi, papi.
+  - id: "18"
+    place: 邓菲家 · 收尾
+    plot: Phil 谈销售话术与放手；孩子们回味野餐车祸笑话。
+    characters: Phil, Claire, Haley, Alex, Luke
+    timeline: 片尾
+    anchor: The art of the sale is all about...
+  - id: "19"
+    place: 公主城堡 · tag
+    plot: Lily 恋上城堡；Mitchell 宁可自己爬也不要再被 Cam 扛出去。
+    characters: Mitchell, Cameron, Lily
+    timeline: 片尾 tag
+    anchor: Mitch? Lily?

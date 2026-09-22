@@ -1,0 +1,169 @@
+# Scene markers for modern-family-s02e02-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: S02E02
+episode_arc: 亲吻 / Jay 的尴尬
+timeline_note: 公开亲热、Alex 初吻惨案、Gloria 祖母晚餐与打印机三线平行
+
+index_groups:
+  - scenes: "01"
+    place: 邓菲家
+    summary: Claire 想拉近与 Alex；担心暧昧短信
+  - scenes: "02"
+    place: Mitch & Cam 家
+    summary: 选衬衫；Cam 抱怨 Mitch 不愿公开亲吻
+  - scenes: "03"
+    place: Jay 家
+    summary: 猪小肠晚餐；Jay 嘲祖母；打印机卡住
+  - scenes: "04"
+    place: 邓菲家
+    summary: Claire 派海莉套 Alex 的男孩话
+  - scenes: "05"
+    place: Mitch & Cam 家
+    summary: 亲吻标准升级成吵架
+  - scenes: "06–08"
+    place: Jay 家 / 邓菲
+    summary: Phil 被召修打印机；海莉怂恿 Alex 接吻；Phil 教 Command-P
+  - scenes: "09"
+    place: Jeremy 家门口
+    summary: Alex 当众求吻 recites Notting Hill
+  - scenes: "10"
+    place: Jay 家 · 厨房
+    summary: Gloria 逼 Jay 拍鸡驱邪，揭穿是整他
+  - scenes: "11"
+    place: 邓菲家
+    summary: 全校知道 Alex 求吻；母女对峙
+  - scenes: "12"
+    place: Jay 家 · 阁楼
+    summary: Luke/Manny 吓鬼；Phil 修路由
+  - scenes: "13–15"
+    place: Jay 家 · 晚餐
+    summary: 全家到齐；Cam 突袭亲吻摔倒；归咎 Jay 情感封闭
+  - scenes: "16–17"
+    place: Jay 家 · 客厅
+    summary: Phil 装完打印机；Jay 被迫吻儿子
+  - scenes: "18–20"
+    place: 多线收尾
+    summary: Claire 坦白年少丑闻；亲吻蒙太奇；打印机油漆灾难
+
+scenes:
+  - id: "01"
+    place: 邓菲家 · 厨房
+    plot: Claire 收拾保鲜盒想跟 Alex 聊天，担心她和男生的暧昧短信。
+    characters: Claire, Phil, Alex, Haley
+    timeline: 当日白天
+    anchor: How could we don't have the same number of containers and lids?
+  - id: "02"
+    place: Mitch & Cam 家
+    plot: Cam 为晚宴挑衬衫；抱怨 Mitch 不愿公开秀恩爱。
+    characters: Cameron, Mitchell, Lily
+    timeline: 平行线
+    anchor: Okay. What do you think?
+  - id: "03"
+    place: Jay 家
+    plot: Gloria 做 chunchullo 祭祖；Jay 嘲讽死人在旁，打印机装不上。
+    characters: Gloria, Jay, Manny
+    timeline: 平行线 · 下午
+    anchor: I'm home!
+  - id: "04"
+    place: 邓菲家
+    plot: Claire 让海莉去跟 Alex 谈男孩，海莉揭穿妈妈当年也不乖。
+    characters: Claire, Haley, Phil
+    timeline: 同日
+    anchor: Haley, honey, um, I need you to do something for me.
+  - id: "05"
+    place: Mitch & Cam 家
+    plot: Cam 要亲吻致谢；两人吵到「官方亲吻清单」与保龄球馆。
+    characters: Cameron, Mitchell
+    timeline: 平行线
+    anchor: I'll say it again -- I love you in paisley.
+  - id: "06"
+    place: 邓菲家 · 电话
+    plot: Jay 打给 Phil 求修打印机；Phil 得意「终于轮到我」。
+    characters: Phil, Jay, Luke
+    timeline: 下午
+    anchor: '"Yello"?'
+  - id: "07"
+    place: 邓菲家 · 姐妹房
+    plot: 海莉套出 Jeremy；怂恿 Alex 赶快接吻，否则会被当女同。
+    characters: Haley, Alex
+    timeline: 同日
+    anchor: So, I hear you have a boyfriend.
+  - id: "08"
+    place: Jay 家 · 书房/阁楼
+    plot: Phil 嘲 Jay 的打印机选购，教 Command-P 顺口溜仍印不出。
+    characters: Phil, Jay, Luke
+    timeline: 平行线
+    anchor: Let's see this bad boy.
+  - id: "09"
+    place: Jeremy 家门口
+    plot: Alex 当众表白求吻，背出《诺丁山》台词；Jeremy 懵住。
+    characters: Alex, Jeremy
+    timeline: 同日傍晚前
+    anchor: Hey. What are you doing here?
+  - id: "10"
+    place: Jay 家 · 厨房
+    plot: Gloria 要 Jay 为亡灵拍鸡驱邪；高喊后揭穿全是整他。
+    characters: Gloria, Jay
+    timeline: 平行线
+    anchor: Oh, I love watching you stir.
+  - id: "11"
+    place: 邓菲家
+    plot: 求吻丑闻传遍；Alex 怪海莉，又发现 Claire 偷读短信。
+    characters: Claire, Haley, Alex, Phil
+    timeline: 傍晚
+    anchor: Hey, honey. Where'd you go?
+  - id: "12"
+    place: Jay 家 · 阁楼
+    plot: Luke/Manny 吓「祖母鬼」；Phil 抱怨路由装在阁楼。
+    characters: Luke, Manny, Phil
+    timeline: 与晚饭交叉
+    anchor: Don't be such a chicken. There's no ghost in here.
+  - id: "13"
+    place: Jay 家 · 门厅
+    plot: 邓菲女孩到访诉苦；Jay 穿祖先进鞋习俗；Mitch/Cam 和解。
+    characters: Jay, Gloria, Claire, Haley, Alex, Mitchell, Cameron
+    timeline: 晚宴前
+    anchor: Hi, grandpa.- How we doing, girls?
+  - id: "14"
+    place: Jay 家 · 晚宴
+    plot: Gloria 敬祖母；Cam 突袭亲吻 Mitch 摔倒，当众翻旧账。
+    characters: Gloria, Cameron, Mitchell, Jay, family
+    timeline: 晚宴中
+    anchor: Okay, everybody, let's gather around!
+  - id: "15"
+    place: Jay 家 · 晚宴桌
+    plot: 全家逼 Jay 为情感封闭负责；Claire 年少丑闻被当笑话挡回去。
+    characters: Gloria, Cameron, Mitchell, Jay, Claire, Phil
+    timeline: 晚宴高潮
+    anchor: Ay, Cameron, what happened?
+  - id: "16"
+    place: Jay 家 · 客厅
+    plot: Phil 满头大汗装好打印机；众人嫌一句 thanks 不够。
+    characters: Phil, Jay, Gloria, Mitchell, Cameron
+    timeline: 晚宴后
+    anchor: I did it!
+  - id: "17"
+    place: Jay 家 · 客厅
+    plot: 追溯「Jay 爸不吻 Jay → Jay 不吻 Mitch」；Jay 当众吻儿子并吻 Gloria。
+    characters: Jay, Mitchell, Gloria, Cameron, family
+    timeline: 同晚
+    anchor: Wait a minute.
+  - id: "18"
+    place: Jay 家 · 门外/侧
+    plot: Claire 向 Alex 坦白自己也曾被警察送回家的丑闻，尴尬会过去。
+    characters: Claire, Alex
+    timeline: 晚宴后
+    anchor: Alex, wait.
+  - id: "19"
+    place: 多地 · 亲吻蒙太奇
+    plot: Gloria 旁白「哥伦比亚凡事都吻」；Jay 安慰 Manny 无鬼；Jeremy 愿先多相处。
+    characters: Gloria, Jay, Manny, Cameron, Mitchell, Alex, Jeremy
+    timeline: 片尾蒙太奇
+    anchor: In Colombia, we kiss for everything,
+  - id: "20"
+    place: Jay 家 / 打印机旁 · tag
+    plot: Jay 冲印祖母照回敬 Gloria；Phil 卸打印机打翻油漆满身。
+    characters: Jay, Gloria, Phil, Luke
+    timeline: 片尾 tag
+    anchor: Jay, what is this?

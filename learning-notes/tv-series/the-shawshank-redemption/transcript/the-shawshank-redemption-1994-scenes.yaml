@@ -1,0 +1,170 @@
+# Scene markers for the-shawshank-redemption-1994-transcript.txt
+# Apply: python .cursor/skills/tv-transcript-scene-markers/scripts/apply_scene_markers.py <transcript> <this-file>
+
+episode: Film 1994
+episode_arc: 安迪入狱 → 希望与出逃 → Red 重逢
+timeline_note: 开场审判后切 Red 假释旁白框，再回到 1947 入狱；后文多年跨度按剧情节拍分段
+index_groups:
+- scenes: 01–02
+  place: 法庭
+  summary: 受审与两段无期
+- scenes: '03'
+  place: 假释会
+  summary: Red 被拒；「能弄到东西的人」
+- scenes: 04–05
+  place: 入狱 / 初夜
+  summary: Norton；Fat Ass
+- scenes: 06–07
+  place: 操场 / 走廊
+  summary: 石锤；姐妹会
+- scenes: 08–09
+  place: 屋顶 / 海报
+  summary: 啤酒；丽塔海报
+- scenes: 10–12
+  place: 图书馆线
+  summary: 调职；体制化；Brooks 遗书
+- scenes: 13–15
+  place: 希望线
+  summary: 莫扎特；希望之辩；岁月
+- scenes: 16–17
+  place: Norton / Tommy
+  summary: 洗钱；真相与灭口
+- scenes: 18–20
+  place: 出逃
+  summary: 太平洋梦；失踪；地道与清算
+- scenes: 21–22
+  place: 尾声
+  summary: Red 获释；信与太平洋
+scenes:
+- id: '01'
+  place: 法庭 · 证人席
+  plot: 安迪受审；检察官追问谋杀之夜与枪支下落。
+  characters: Andy, DA
+  timeline: 开场·1940s 审判
+  anchor: Mr. Dufresne,
+- id: '02'
+  place: 法庭 · 结案陈词与宣判
+  plot: 检察官结案：八发子弹；法官宣判两段无期连服。
+  characters: DA, Judge, Andy
+  timeline: 审判收尾
+  anchor: 'DA: Ladies and gentlemen, you''ve heard all the evidence.'
+- id: '03'
+  place: 假释听证会 · Red 旁白框
+  plot: Red 假释被拒；自称「能弄到东西的人」；埋下丽塔·海华丝伏笔。
+  characters: Red, Parole Board
+  timeline: 闪前框（服刑约 20 年时）
+  anchor: Sit.
+- id: '04'
+  place: 肖申克监狱 · 入监
+  plot: 1947 安迪入狱；典狱长 Norton：纪律与《圣经》。
+  characters: Red (VO), Norton, Hadley, Andy
+  timeline: 1947 初到
+  anchor: Andy came to Shawshank Prison
+- id: '05'
+  place: 牢房区 · 初夜
+  plot: 赌新犯谁先哭；Fat Ass 崩溃；Hadley 以儆效尤。
+  characters: Red, Heywood, Hadley, Fat Ass
+  timeline: 入监首夜
+  anchor: Taking bets today, Red?
+- id: '06'
+  place: 操场 · 认识 Red
+  plot: 安迪自我介绍；订购石锤；Red 笑话挖地道。
+  characters: Andy, Red
+  timeline: 入狱后不久
+  anchor: I'm Andy Dufresne.
+- id: '07'
+  place: 监狱走廊 / 洗衣房
+  plot: 姐妹会纠缠安迪；暴力与抗争开始。
+  characters: Bogs, Andy, Red (VO)
+  timeline: 入狱初期
+  anchor: The Sisters have taken quite a liking to you.
+- id: 08
+  place: 工厂屋顶 · 涂沥青
+  plot: Hadley 遗产税苦恼；安迪换三瓶啤酒；众人享自由感。
+  characters: Andy, Hadley, Red, Heywood
+  timeline: 1949 春
+  anchor: More than a hundred men volunteered for the job.
+- id: 09
+  place: 牢房 · 丽塔海报
+  plot: 订购丽塔·海华丝海报；石锤继续；姐妹会遭 Hadley 教训。
+  characters: Andy, Red, Hadley, Bogs
+  timeline: 屋顶事件之后
+  anchor: Rita Hayworth. - What?
+- id: '10'
+  place: 图书馆
+  plot: 安迪调入图书馆；帮狱警理财；想扩展藏书。
+  characters: Brooks, Andy, Dekins, Red
+  timeline: 屋顶之后数年
+  anchor: Well, here she is.
+- id: '11'
+  place: 牢房 / 食堂 · Brooks 假释
+  plot: Brooks 怕出狱；劫持 Heywood；「墙会让你习惯」。
+  characters: Brooks, Heywood, Red, Andy
+  timeline: Brooks 假释前
+  anchor: But I'm telling you, these walls are funny.
+- id: '12'
+  place: 外面 · 中途之家
+  plot: Brooks 信；喂鸟；上吊；「他本该死在里面」。
+  characters: Brooks, Red (VO)
+  timeline: Brooks 出狱后
+  anchor: 'BROOKS: Dear fellas...'
+- id: '13'
+  place: 图书馆 / 办公室 · 莫扎特
+  plot: 六年写信终于拨款；安迪锁门播歌剧；禁闭两周。
+  characters: Andy, Red, Norton, Hadley
+  timeline: 图书馆项目推进期
+  anchor: This is 200 dollars.
+- id: '14'
+  place: 食堂 · 希望之辩
+  plot: 歌剧余韵；希望是危险的；口琴礼物。
+  characters: Andy, Red
+  timeline: 禁闭出来后
+  anchor: Hope is a dangerous thing.
+- id: '15'
+  place: 监狱 · 岁月流逝
+  plot: 图书馆壮大；Norton「内外合作」项目开启。
+  characters: Red, Andy, Norton
+  timeline: 1950s–60s
+  anchor: 'RED: That was also the year Warden Norton instituted his famous Inside Out program.'
+- id: '16'
+  place: 典狱长办公室 · 账本
+  plot: 安迪成 Norton 账房；虚构身份 Randall Stevens。
+  characters: Andy, Norton, Tommy, Red (VO)
+  timeline: 1965 前后
+  anchor: Randall Stevens.
+- id: '17'
+  place: 图书馆 / 放风场 · Tommy
+  plot: Andy 辅导 Tommy；Elmo Blatch 供述真相；Norton 灭口。
+  characters: Tommy, Andy, Norton, Red
+  timeline: Tommy 线
+  anchor: 'RED: Tommy Williams came to Shawshank in 1965'
+- id: '18'
+  place: 禁闭室 / 食堂
+  plot: 安迪禁闭；芝华塔尼欧与太平洋；「忙着活还是忙着死」。
+  characters: Andy, Red
+  timeline: Tommy 死后
+  anchor: Zihuatanejo.
+- id: '19'
+  place: 牢房区 · 最长一夜
+  plot: 众人以为安迪要自杀；次日点名失踪。
+  characters: Red, Heywood, Haig, Norton
+  timeline: 出逃前夜→清晨
+  anchor: 'RED: I''ve had some long nights in stir.'
+- id: '20'
+  place: 隧道 / 办公室 / 银行
+  plot: 海报后地道；地质学；Norton 账本曝光；安迪自由。
+  characters: Andy, Norton, Red (VO)
+  timeline: 1966 出逃与清算
+  anchor: 'RED: In 1966,'
+- id: '21'
+  place: 假释听证会 · Red 获释
+  plot: 四十年后 Red 获释；外面恐惧如 Brooks；信与希望。
+  characters: Red, Parole Board
+  timeline: 尾声
+  anchor: Please sit down.
+- id: '22'
+  place: 橡树下 / 边境 / 太平洋
+  plot: 安迪的信；Red 赴约；希望太平洋如梦中一般蓝。
+  characters: Andy (letter), Red
+  timeline: 终章
+  anchor: 'ANDY: Dear Red,'
