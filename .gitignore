@@ -167,4 +167,5 @@ learning-notes/**/transcript/*-scenes.md
 .venv-mkdocs/
 .venv-docs/
 .venv-tts/
+.venv-animal-images/
 .tmp-mf-src/

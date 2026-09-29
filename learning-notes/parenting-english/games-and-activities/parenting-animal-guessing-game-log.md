@@ -27,17 +27,19 @@ tags:
 
 共 **7** 种：`donkey`、`dolphin`、`mosquito`、`raccoon`、`parrot`、`rabbit`、`wolf`。
 
+**看图（See picture）** — 网页版点「看图」会弹出大图，不用离开当前页面。先念线索让孩子猜，猜对后再点开，把单词和画面对上（*Look! It's a donkey.* — 看！是一头驴）。
+
 下面每条：**单词 + 音标 + 简中释义**，以及一句**示例描述**（念给孩子猜时尽量不说出单词本身；**描述完用问句收尾**，见下节；猜对后再一起念英文）。
 
-| Animal | IPA（英 / 美） | 释义 |
-| --- | --- | --- |
-| `donkey` | 英:/ˈdɒŋki/ 美:/ˈdɑːŋki/ | n. 驴 |
-| `dolphin` | 英:/ˈdɒlfɪn/ 美:/ˈdɑːlfɪn/ | n. 海豚 |
-| `mosquito` | 英:/məˈskiːtəʊ/ 美:/məˈskiːtoʊ/ | n. 蚊子 |
-| `raccoon` | 英:/rəˈkuːn/ 美:/ræˈkuːn/ | n. 浣熊 |
-| `parrot` | 英:/ˈpærət/ 美:/ˈpærət/ | n. 鹦鹉 |
-| `rabbit` | 英:/ˈræbɪt/ 美:/ˈræbɪt/ | n. 兔子 |
-| `wolf` | 英:/wʊlf/ 美:/wʊlf/ | n. 狼 |
+| Animal | IPA（英 / 美） | 释义 | 看图 |
+| --- | --- | --- | --- |
+| `donkey` | 英:/ˈdɒŋki/ 美:/ˈdɑːŋki/ | n. 驴 | [看图](../assets/animals/donkey.webp){ .glightbox .animal-pic data-type="image" data-description="donkey — 驴" } |
+| `dolphin` | 英:/ˈdɒlfɪn/ 美:/ˈdɑːlfɪn/ | n. 海豚 | [看图](../assets/animals/dolphin.webp){ .glightbox .animal-pic data-type="image" data-description="dolphin — 海豚" } |
+| `mosquito` | 英:/məˈskiːtəʊ/ 美:/məˈskiːtoʊ/ | n. 蚊子 | [看图](../assets/animals/mosquito.webp){ .glightbox .animal-pic data-type="image" data-description="mosquito — 蚊子" } |
+| `raccoon` | 英:/rəˈkuːn/ 美:/ræˈkuːn/ | n. 浣熊 | [看图](../assets/animals/raccoon.webp){ .glightbox .animal-pic data-type="image" data-description="raccoon — 浣熊" } |
+| `parrot` | 英:/ˈpærət/ 美:/ˈpærət/ | n. 鹦鹉 | [看图](../assets/animals/parrot.webp){ .glightbox .animal-pic data-type="image" data-description="parrot — 鹦鹉" } |
+| `rabbit` | 英:/ˈræbɪt/ 美:/ˈræbɪt/ | n. 兔子 | [看图](../assets/animals/rabbit.webp){ .glightbox .animal-pic data-type="image" data-description="rabbit — 兔子" } |
+| `wolf` | 英:/wʊlf/ 美:/wʊlf/ | n. 狼 | [看图](../assets/animals/wolf.webp){ .glightbox .animal-pic data-type="image" data-description="wolf — 狼" } |
 
 ---
 
@@ -74,48 +76,56 @@ tags:
 - **English** — It looks like a small horse with very long ears. It makes a loud "hee-haw" sound. Sometimes people ride it or use it to carry things on a farm.
 - **简中** — 像一匹小马，耳朵特别长；会发出响亮的「咿—啊」声；有人骑它，农场里也会用它来驮东西。
 - **Ask** — **What animal is it?** — 这是什么动物？
+- **See picture** — 猜对后点开看图：[donkey 图片](../assets/animals/donkey.webp){ .glightbox .animal-pic data-type="image" data-description="donkey — 驴" }
 
 ### 2. dolphin（海豚）
 
 - **English** — It lives in the sea. It is smart and playful. It can jump high out of the water and make clicking sounds.
 - **简中** — 住在海里，聪明又爱玩；能高高跃出水面，还会发出咔嗒声。
 - **Ask** — **Can you guess the animal?** — 你能猜出是什么动物吗？
+- **See picture** — 猜对后点开看图：[dolphin 图片](../assets/animals/dolphin.webp){ .glightbox .animal-pic data-type="image" data-description="dolphin — 海豚" }
 
 ### 3. mosquito（蚊子）
 
 - **English** — It is very small. It flies and makes a buzzing sound. It can bite your skin and leave an itchy red spot.
 - **简中** — 很小，飞起来嗡嗡响；叮皮肤后会留下又红又痒的小包。
 - **Ask** — **What animal is this?** — 这是哪种动物？
+- **See picture** — 猜对后点开看图：[mosquito 图片](../assets/animals/mosquito.webp){ .glightbox .animal-pic data-type="image" data-description="mosquito — 蚊子" }
 
 ### 4. raccoon（浣熊）
 
 - **English** — It has a dark mask around its eyes and a big fluffy tail with rings. It often stands on two legs and uses its front paws like little hands. Sometimes it washes food in water.
 - **简中** — 眼睛周围像戴了深色面具，尾巴又大又毛、还有环纹；常站起来用前爪当小手；有时会在水里「洗」食物。
 - **Ask** — **What animal am I talking about?** — 我说的这是什么动物？
+- **See picture** — 猜对后点开看图：[raccoon 图片](../assets/animals/raccoon.webp){ .glightbox .animal-pic data-type="image" data-description="raccoon — 浣熊" }
 
 ### 5. parrot（鹦鹉）
 
 - **English** — It is a colorful bird with a strong curved beak. Some kinds can copy words that people say.
 - **简中** — 羽毛颜色鲜艳，嘴巴弯弯很有力；有的种类会学人说话。
 - **Ask** — **Do you know what animal it is?** — 你知道是什么动物吗？
+- **See picture** — 猜对后点开看图：[parrot 图片](../assets/animals/parrot.webp){ .glightbox .animal-pic data-type="image" data-description="parrot — 鹦鹉" }
 
 ### 6. rabbit（兔子）
 
 - **English** — It has long ears and soft fur. It hops on the ground. In cartoons it loves carrots.
 - **简中** — 长耳朵、毛软软的；在地上蹦蹦跳；动画片里总爱吃胡萝卜。
 - **Ask** — **Guess! What is it?** — 猜猜看！是什么？
+- **See picture** — 猜对后点开看图：[rabbit 图片](../assets/animals/rabbit.webp){ .glightbox .animal-pic data-type="image" data-description="rabbit — 兔子" }
 
 ### 7. wolf（狼）
 
 - **English** — It looks like a big wild dog. It often lives and hunts in a group. In stories it howls at the moon.
 - **简中** — 像大号的野狗；常成群生活、一起捕猎；故事里会对月亮嚎叫。
 - **Ask** — **Which animal is it?** — 是哪一种动物？
+- **See picture** — 猜对后点开看图：[wolf 图片](../assets/animals/wolf.webp){ .glightbox .animal-pic data-type="image" data-description="wolf — 狼" }
 
 ### 8. bear（熊）
 
 - **English** — It is a big, strong animal with thick fur. It likes to eat honey（bee's homework）, fish, and berries. It can stand up on two legs. In cartoons, it sometimes looks cute, but in real life it can be dangerous.
 - **简中** — 身体又大又壮，毛很厚；爱吃蜂蜜的、鱼和浆果；能双脚站起来。动画片里的它很可爱，现实中其实很危险。
 - **Ask** — **What animal is it?** — 这是什么动物？
+- **See picture** — 猜对后点开看图：[bear 图片](../assets/animals/bear.webp){ .glightbox .animal-pic data-type="image" data-description="bear — 熊" }
 
 ---
 
@@ -123,3 +133,8 @@ tags:
 
 - **只给两个线索** — 说完两句就让孩子抢答，练听力反应。
 - **孩子当出题人** — Celine 用英语说两句，家长猜，换角色更有参与感。
+- **看图倒着猜** — 家长先点开一张图，让孩子用英语说一句线索（*It has long ears.*）。
+
+---
+
+**图片来源：** Wikimedia Commons（CC / Public Domain），作者与许可见 [图片署名](../assets/animals/ATTRIBUTION.md)。

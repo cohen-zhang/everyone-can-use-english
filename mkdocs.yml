@@ -19,6 +19,7 @@ exclude_docs: |
   *.mp3
   *.vtt
   **/.pages
+  parenting-english/assets/animals/animals-manifest.yml
 
 # Slim sidebar: keep section/theme README hubs; hide bulky leaves (still searchable).
 # Patterns are .gitignore-style (negation with ! is supported).
@@ -43,6 +44,8 @@ not_in_nav: |
   !english-song/celine-kids/classic-books-with-holes/README.md
   # Keep shanghai-english-textbook hubs (README + grade TOCs); hide per-unit leaves (still searchable).
   parenting-english/shanghai-english-textbook/units/**
+  # Image assets folder (attribution page stays reachable via links).
+  parenting-english/assets/**
   每日语音文本/通勤.md
   每日语音文本/NY 口音.md
 
@@ -79,6 +82,7 @@ theme:
 
 extra_css:
   - stylesheets/navigation.css
+  - stylesheets/animal-pictures.css
 
 plugins:
   - search:
@@ -90,6 +94,17 @@ plugins:
       pipeline: []
       # Build-time Chinese segmentation (requires jieba in requirements-docs.txt).
       jieba_dict_user: jieba_user_dict.txt
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 90%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - no-glightbox
 
 hooks:
   - mkdocs_hooks.py
