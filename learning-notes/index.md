@@ -36,6 +36,10 @@ search:
 
 完整章节表见仓库根 [README](https://github.com/cohen-zhang/everyone-can-use-english#与上游开源项目的关系链接映射)。
 
+## 常用单词网站（外链）
+
+- [LanguageGuide · English Visual Vocabulary](https://www.languageguide.org/english/vocabulary/) — 图解分类词汇，点图即可听发音；动物、食物、家居、身体等主题齐全，适合亲子指认与跟读。
+
 ## 说明
 
 - 部分 Obsidian 语法在网页中可能与桌面端不一致；以仓库内 Markdown 为准。
