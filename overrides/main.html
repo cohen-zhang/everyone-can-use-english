@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script>
+    (function () {
+      var NativeWorker = window.Worker;
+      if (!NativeWorker) return;
+
+      /* Multi-word Latin queries become required terms (+word).
+         Material otherwise appends a trailing * to each token, so "I"
+         matches every word that starts with I and crowds out song titles. */
+      function tighten(query) {
+        var raw = String(query || "").trim();
+        if (!raw || /["+\-~^:*]/.test(raw)) return raw;
+        var parts = raw.split(/\s+/).filter(Boolean);
+        if (parts.length < 2) return raw;
+        if (!parts.every(function (part) {
+          return /^[A-Za-z][A-Za-z0-9'\u2019.-]*$/.test(part);
+        })) return raw;
+        return parts.map(function (part) { return "+" + part; }).join(" ");
+      }
+
+      function PatchedWorker(url, opts) {
+        var worker = new NativeWorker(url, opts);
+        var post = worker.postMessage.bind(worker);
+        worker.postMessage = function (message, transfer) {
+          if (message && message.type === 2 && typeof message.data === "string") {
+            var next = tighten(message.data);
+            if (next !== message.data) {
+              message = { type: message.type, data: next };
+            }
+          }
+          return transfer ? post(message, transfer) : post(message);
+        };
+        return worker;
+      }
+
+      PatchedWorker.prototype = NativeWorker.prototype;
+      window.Worker = PatchedWorker;
+    })();
+  </script>
+{% endblock %}

@@ -48,6 +48,7 @@ not_in_nav: |
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -84,6 +85,9 @@ plugins:
       lang:
         - zh
         - en
+      # No stemmer: "nothing" was indexed as "noth", so the title search
+      # "I have Nothing" could not require the word nothing.
+      pipeline: []
       # Build-time Chinese segmentation (requires jieba in requirements-docs.txt).
       jieba_dict_user: jieba_user_dict.txt
 
