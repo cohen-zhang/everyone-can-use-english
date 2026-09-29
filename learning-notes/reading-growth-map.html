@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>阅读成长地图</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --sky-top: #7ec8ff;
+    --sky-mid: #b8e4ff;
+    --sky-bot: #ffe8c8;
+    --island: #6bcf8e;
+    --island-deep: #3daa6a;
+    --sand: #ffd89a;
+    --coral: #ff7b6b;
+    --coral-deep: #e85a4f;
+    --sun: #ffc857;
+    --ink: #2d3a4a;
+    --muted: #6b7c8f;
+    --card: rgba(255, 255, 255, 0.92);
+    --card-solid: #ffffff;
+    --line: rgba(45, 58, 74, 0.08);
+    --shadow: 0 10px 28px rgba(45, 90, 140, 0.12);
+    --shadow-sm: 0 4px 14px rgba(45, 90, 140, 0.1);
+    --radius: 22px;
+    --radius-sm: 14px;
+    --nav-h: 72px;
+    --safe-b: env(safe-area-inset-bottom, 0px);
+    --font: "Fredoka", "Noto Sans SC", system-ui, sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    font-family: var(--font);
+    color: var(--ink);
+    background: linear-gradient(180deg, var(--sky-top) 0%, var(--sky-mid) 38%, var(--sky-bot) 100%);
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  /* Decorative sky */
+  .sky-decor { pointer-events: none; position: fixed; inset: 0; z-index: 0; overflow: hidden; }
+  .cloud {
+    position: absolute;
+    background: rgba(255,255,255,0.75);
+    border-radius: 50px;
+    filter: blur(0.2px);
+    animation: drift 28s linear infinite;
+  }
+  .cloud::before, .cloud::after {
+    content: ""; position: absolute; background: inherit; border-radius: 50%;
+  }
+  .cloud.c1 { width: 90px; height: 34px; top: 8%; left: -10%; animation-duration: 42s; }
+  .cloud.c1::before { width: 40px; height: 40px; top: -20px; left: 14px; }
+  .cloud.c1::after { width: 52px; height: 52px; top: -26px; left: 40px; }
+  .cloud.c2 { width: 70px; height: 26px; top: 18%; right: -8%; animation-duration: 36s; animation-direction: reverse; opacity: 0.7; }
+  .cloud.c2::before { width: 32px; height: 32px; top: -16px; left: 10px; }
+  .cloud.c2::after { width: 40px; height: 40px; top: -20px; left: 30px; }
+  .cloud.c3 { width: 110px; height: 36px; top: 42%; left: 60%; opacity: 0.45; animation-duration: 50s; }
+  .cloud.c3::before { width: 44px; height: 44px; top: -22px; left: 18px; }
+  .cloud.c3::after { width: 56px; height: 56px; top: -28px; left: 48px; }
+  .star {
+    position: absolute; color: var(--sun); font-size: 14px;
+    animation: twinkle 2.6s ease-in-out infinite;
+    text-shadow: 0 0 8px rgba(255, 200, 87, 0.6);
+  }
+  .star.s1 { top: 6%; left: 78%; animation-delay: 0.2s; }
+  .star.s2 { top: 14%; left: 12%; font-size: 10px; animation-delay: 1.1s; }
+  .star.s3 { top: 28%; left: 88%; font-size: 12px; animation-delay: 0.7s; }
+  @keyframes drift {
+    from { transform: translateX(0); }
+    to { transform: translateX(120vw); }
+  }
+  @keyframes twinkle {
+    0%, 100% { opacity: 0.35; transform: scale(0.85) rotate(0deg); }
+    50% { opacity: 1; transform: scale(1.15) rotate(12deg); }
+  }
+  @keyframes popIn {
+    from { opacity: 0; transform: translateY(12px) scale(0.96); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+  @keyframes badgeUnlock {
+    0% { transform: scale(0.6) rotate(-12deg); filter: grayscale(1); }
+    55% { transform: scale(1.18) rotate(6deg); filter: grayscale(0); }
+    100% { transform: scale(1) rotate(0); filter: grayscale(0); }
+  }
+  @keyframes pulseSoft {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(255,123,107,0.35); }
+    50% { box-shadow: 0 0 0 10px rgba(255,123,107,0); }
+  }
+  @keyframes floatY {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+
+  .app {
+    position: relative; z-index: 1;
+    max-width: 430px; margin: 0 auto;
+    min-height: 100%;
+    padding: 16px 16px calc(var(--nav-h) + var(--safe-b) + 20px);
+  }
+
+  /* Header */
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 14px; animation: popIn 0.45s ease both;
+  }
+  .brand {
+    display: flex; align-items: center; gap: 10px;
+  }
+  .brand-mark {
+    width: 44px; height: 44px; border-radius: 16px;
+    background: linear-gradient(145deg, var(--sun), var(--coral));
+    display: grid; place-items: center;
+    font-size: 22px;
+    box-shadow: var(--shadow-sm);
+    animation: floatY 3.5s ease-in-out infinite;
+  }
+  .brand h1 {
+    font-size: 1.15rem; font-weight: 700; letter-spacing: 0.02em;
+    line-height: 1.2;
+  }
+  .brand p { font-size: 0.72rem; color: var(--muted); margin-top: 2px; }
+  .reset-btn {
+    border: none; background: rgba(255,255,255,0.55);
+    backdrop-filter: blur(8px);
+    width: 40px; height: 40px; border-radius: 14px;
+    font-size: 16px; cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.15s ease;
+  }
+  .reset-btn:active { transform: scale(0.92); }
+
+  .card {
+    background: var(--card);
+    backdrop-filter: blur(14px);
+    border: 1px solid rgba(255,255,255,0.7);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 16px;
+    margin-bottom: 14px;
+    animation: popIn 0.5s ease both;
+  }
+  .card:nth-child(2) { animation-delay: 0.04s; }
+  .card:nth-child(3) { animation-delay: 0.08s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+
+  .hero {
+    position: relative;
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at 18% 0%, rgba(255,200,87,0.4), transparent 48%),
+      radial-gradient(ellipse at 95% 10%, rgba(126,200,255,0.35), transparent 42%),
+      linear-gradient(160deg, #fff9f0 0%, #e8f8ff 55%, #dff7ea 100%);
+  }
+  .hero-deco {
+    position: absolute; right: 10px; top: 8px;
+    font-size: 42px; opacity: 0.55;
+    animation: floatY 3.8s ease-in-out infinite;
+    filter: drop-shadow(0 6px 10px rgba(61,170,106,0.2));
+    z-index: 0;
+  }
+  .hero-row {
+    display: flex; align-items: center; gap: 14px; position: relative; z-index: 1;
+  }
+  .avatar {
+    width: 68px; height: 68px; border-radius: 50%;
+    background: linear-gradient(145deg, #ffe0a3, #ff9e8a);
+    display: grid; place-items: center;
+    font-size: 34px;
+    border: 3px solid #fff;
+    box-shadow: var(--shadow-sm);
+    flex-shrink: 0;
+  }
+  .hero-info h2 { font-size: 1.35rem; font-weight: 700; }
+  .hero-info .meta { color: var(--muted); font-size: 0.85rem; margin-top: 4px; }
+  .level-pill {
+    display: inline-flex; align-items: center; gap: 6px;
+    margin-top: 8px;
+    background: linear-gradient(90deg, var(--island), #5bc4c4);
+    color: #fff; font-size: 0.78rem; font-weight: 600;
+    padding: 5px 12px; border-radius: 999px;
+    box-shadow: 0 4px 12px rgba(61,170,106,0.3);
+  }
+
+  .stats-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;
+    margin-top: 14px; position: relative; z-index: 1;
+  }
+  .stat {
+    background: rgba(255,255,255,0.78);
+    border-radius: var(--radius-sm);
+    padding: 11px 12px 10px;
+    border: 1px solid rgba(255,255,255,0.9);
+    display: flex; gap: 8px; align-items: flex-start;
+  }
+  .stat .si { font-size: 1.15rem; line-height: 1.2; margin-top: 1px; }
+  .stat .label { font-size: 0.7rem; color: var(--muted); }
+  .stat .value {
+    font-size: 1.22rem; font-weight: 700; margin-top: 2px;
+    letter-spacing: -0.02em;
+    background: linear-gradient(90deg, var(--coral-deep), #e8a317);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .stat .unit { font-size: 0.7rem; font-weight: 500; color: var(--muted); margin-left: 2px; }
+
+  .section-title {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 12px;
+  }
+  .section-title h3 {
+    font-size: 1.02rem; font-weight: 650;
+    display: flex; align-items: center; gap: 6px;
+  }
+
+  .motivate {
+    background: linear-gradient(120deg, rgba(255,200,87,0.25), rgba(126,200,255,0.3));
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    font-size: 0.92rem;
+    line-height: 1.45;
+    border: 1px dashed rgba(255,255,255,0.8);
+  }
+  .motivate strong { color: var(--coral-deep); }
+
+  .progress-wrap { margin-top: 4px; }
+  .progress-meta {
+    display: flex; justify-content: space-between;
+    font-size: 0.78rem; color: var(--muted); margin-bottom: 8px;
+  }
+  .bar {
+    height: 14px; border-radius: 999px;
+    background: rgba(45,58,74,0.08);
+    overflow: hidden; position: relative;
+  }
+  .bar > i {
+    display: block; height: 100%; border-radius: 999px;
+    background: linear-gradient(90deg, #5bc4c4, var(--island), var(--sun));
+    background-size: 200% 100%;
+    animation: shimmer 2.8s linear infinite;
+    transition: width 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  @keyframes shimmer {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 200% 50%; }
+  }
+
+  .goal-box {
+    display: flex; flex-direction: column; gap: 12px;
+  }
+  .goal-top {
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .goal-top .big { font-size: 1.6rem; font-weight: 700; }
+  .goal-top .sub { font-size: 0.8rem; color: var(--muted); }
+  .btn-row { display: flex; gap: 10px; }
+  .btn {
+    flex: 1; border: none; cursor: pointer;
+    font-family: inherit; font-weight: 650; font-size: 0.95rem;
+    padding: 14px 12px; border-radius: 16px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s;
+  }
+  .btn:active { transform: scale(0.97); }
+  .btn:disabled { opacity: 0.55; cursor: not-allowed; transform: none; }
+  .btn-primary {
+    color: #fff;
+    background: linear-gradient(135deg, var(--coral), #ff9a5a);
+    box-shadow: 0 8px 18px rgba(232,90,79,0.32);
+  }
+  .btn-primary.pulse { animation: pulseSoft 1.8s ease infinite; }
+  .btn-secondary {
+    color: var(--ink);
+    background: rgba(255,255,255,0.85);
+    border: 1.5px solid rgba(45,58,74,0.08);
+    box-shadow: var(--shadow-sm);
+  }
+  .btn-ghost {
+    background: transparent; color: var(--muted);
+    border: 1.5px dashed rgba(45,58,74,0.15);
+    padding: 10px; font-size: 0.85rem;
+  }
+  .btn-sm { padding: 8px 12px; font-size: 0.8rem; border-radius: 12px; flex: none; }
+
+  /* Badges */
+  .badge-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+  }
+  .badge {
+    text-align: center; padding: 12px 6px 10px;
+    background: rgba(255,255,255,0.65);
+    border-radius: 16px;
+    border: 1px solid rgba(255,255,255,0.9);
+    transition: transform 0.2s ease;
+  }
+  .badge.locked { filter: grayscale(1); opacity: 0.5; }
+  .badge.on {
+    background: linear-gradient(160deg, #fff7e8, #eefcff);
+    box-shadow: 0 6px 16px rgba(255,168,80,0.18);
+    border-color: rgba(255,200,87,0.45);
+  }
+  .badge.just-on { animation: badgeUnlock 0.65s ease both; }
+  .badge .ico { font-size: 1.7rem; display: block; line-height: 1.2; }
+  .badge .name { font-size: 0.68rem; margin-top: 6px; line-height: 1.25; font-weight: 600; }
+
+  /* Bookshelf */
+  .tabs {
+    display: flex; gap: 6px; background: rgba(255,255,255,0.5);
+    padding: 4px; border-radius: 14px; margin-bottom: 12px;
+  }
+  .tab {
+    flex: 1; border: none; background: transparent;
+    font-family: inherit; font-size: 0.82rem; font-weight: 600;
+    color: var(--muted); padding: 9px 6px; border-radius: 11px; cursor: pointer;
+  }
+  .tab.active {
+    background: #fff; color: var(--ink);
+    box-shadow: var(--shadow-sm);
+  }
+  .book-list { display: flex; flex-direction: column; gap: 10px; }
+  .book {
+    display: flex; gap: 12px; align-items: center;
+    background: rgba(255,255,255,0.72);
+    border-radius: 16px; padding: 12px;
+    border: 1px solid rgba(255,255,255,0.9);
+  }
+  .book-cover {
+    width: 48px; height: 64px; border-radius: 8px;
+    display: grid; place-items: center; font-size: 22px;
+    flex-shrink: 0; color: #fff; font-weight: 700;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  }
+  .book-body { flex: 1; min-width: 0; }
+  .book-body h4 {
+    font-size: 0.95rem; font-weight: 650;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .book-body p { font-size: 0.75rem; color: var(--muted); margin-top: 3px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+  .cat-pill {
+    display: inline-block;
+    font-size: 0.65rem; font-weight: 700;
+    color: #fff; background: var(--cat, #6b7c8f);
+    padding: 2px 8px; border-radius: 999px;
+    letter-spacing: 0.02em;
+  }
+  .book-actions { display: flex; flex-direction: column; gap: 4px; }
+  .icon-btn {
+    border: none; background: rgba(45,58,74,0.06);
+    width: 32px; height: 32px; border-radius: 10px;
+    cursor: pointer; font-size: 13px;
+  }
+
+  /* Check-in */
+  .mins-row {
+    display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;
+  }
+  .chip {
+    border: 1.5px solid rgba(45,58,74,0.1);
+    background: rgba(255,255,255,0.75);
+    border-radius: 999px; padding: 9px 14px;
+    font-family: inherit; font-weight: 600; font-size: 0.85rem;
+    cursor: pointer; color: var(--ink);
+    transition: all 0.15s ease;
+  }
+  .chip.active {
+    background: linear-gradient(135deg, var(--coral), #ff9a5a);
+    color: #fff; border-color: transparent;
+    box-shadow: 0 6px 14px rgba(232,90,79,0.28);
+  }
+  .field {
+    width: 100%; border: 1.5px solid rgba(45,58,74,0.1);
+    background: rgba(255,255,255,0.85);
+    border-radius: 14px; padding: 12px 14px;
+    font-family: inherit; font-size: 0.92rem; color: var(--ink);
+    outline: none; resize: vertical; margin-bottom: 10px;
+  }
+  .field:focus { border-color: #7ec8ff; box-shadow: 0 0 0 3px rgba(126,200,255,0.25); }
+  .hint { font-size: 0.75rem; color: var(--muted); margin-bottom: 12px; }
+
+  /* Map */
+  .map-stage {
+    position: relative;
+    min-height: 480px;
+    border-radius: 20px;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 78% 12%, rgba(255,200,87,0.55), transparent 28%),
+      radial-gradient(circle at 12% 70%, rgba(255,255,255,0.35), transparent 30%),
+      linear-gradient(180deg, #7ec8ff 0%, #a8e4c4 42%, #6bcf8e 100%);
+    padding: 18px 10px 24px;
+  }
+  .map-blob {
+    position: absolute; border-radius: 50%;
+    background: rgba(61,170,106,0.35);
+    filter: blur(1px);
+  }
+  .map-blob.b1 { width: 90px; height: 48px; left: 8%; top: 22%; border-radius: 50% 50% 40% 40%; }
+  .map-blob.b2 { width: 70px; height: 38px; right: 10%; top: 48%; background: rgba(255,216,154,0.45); }
+  .map-blob.b3 { width: 100px; height: 52px; left: 18%; bottom: 14%; }
+  .map-sun {
+    position: absolute; right: 18px; top: 14px; font-size: 28px;
+    filter: drop-shadow(0 0 12px rgba(255,200,87,0.8));
+    animation: twinkle 3.2s ease-in-out infinite;
+  }
+  .map-wave {
+    position: absolute; left: 0; right: 0; bottom: 0; height: 70px;
+    background:
+      radial-gradient(ellipse at 20% 0%, rgba(126,200,255,0.35), transparent 50%),
+      linear-gradient(180deg, transparent, rgba(62,150,200,0.35));
+  }
+  .path-svg {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    pointer-events: none;
+  }
+  .map-nodes {
+    position: relative; z-index: 1;
+    display: flex; flex-direction: column; gap: 28px;
+    padding: 8px 8px 16px;
+  }
+  .map-node {
+    display: flex; align-items: center; gap: 12px;
+    max-width: 92%;
+  }
+  .map-node:nth-child(even) { align-self: flex-end; flex-direction: row-reverse; text-align: right; }
+  .node-dot {
+    width: 54px; height: 54px; border-radius: 50%;
+    display: grid; place-items: center; font-size: 22px;
+    background: #fff; flex-shrink: 0;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    border: 3px solid #fff;
+    transition: transform 0.25s ease;
+  }
+  .map-node.done .node-dot {
+    background: linear-gradient(145deg, var(--sun), var(--coral));
+    animation: floatY 3s ease-in-out infinite;
+  }
+  .map-node.locked .node-dot {
+    background: #d5dde6; filter: grayscale(0.4); opacity: 0.75;
+  }
+  .map-node.current .node-dot {
+    box-shadow: 0 0 0 4px rgba(255,123,107,0.35), 0 6px 16px rgba(0,0,0,0.12);
+  }
+  .node-label {
+    background: rgba(255,255,255,0.9);
+    padding: 10px 12px; border-radius: 14px;
+    box-shadow: var(--shadow-sm);
+    flex: 1;
+  }
+  .node-label strong { display: block; font-size: 0.88rem; }
+  .node-label span { font-size: 0.72rem; color: var(--muted); }
+
+  /* Report chart */
+  .chart {
+    display: flex; align-items: flex-end; gap: 8px;
+    height: 140px; padding: 8px 4px 0;
+  }
+  .chart-col {
+    flex: 1; display: flex; flex-direction: column; align-items: center; gap: 6px;
+    height: 100%; justify-content: flex-end;
+  }
+  .chart-bar {
+    width: 100%; max-width: 28px;
+    border-radius: 10px 10px 6px 6px;
+    background: linear-gradient(180deg, #7ec8ff, var(--island));
+    min-height: 4px;
+    transition: height 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .chart-col .d { font-size: 0.65rem; color: var(--muted); }
+  .report-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px;
+  }
+  .report-stat {
+    background: rgba(255,255,255,0.7);
+    border-radius: 14px; padding: 12px;
+  }
+  .report-stat .k { font-size: 0.72rem; color: var(--muted); }
+  .report-stat .v { font-size: 1.2rem; font-weight: 700; margin-top: 4px; }
+
+  /* Bottom nav */
+  .nav {
+    position: fixed; left: 50%; transform: translateX(-50%);
+    bottom: 0; width: min(430px, 100%);
+    height: calc(var(--nav-h) + var(--safe-b));
+    padding: 8px 10px var(--safe-b);
+    background: rgba(255,255,255,0.88);
+    backdrop-filter: blur(16px);
+    border-top: 1px solid rgba(255,255,255,0.6);
+    box-shadow: 0 -8px 24px rgba(45,90,140,0.1);
+    display: flex; z-index: 50;
+  }
+  .nav button {
+    flex: 1; border: none; background: transparent;
+    font-family: inherit; cursor: pointer;
+    display: flex; flex-direction: column; align-items: center; gap: 2px;
+    color: var(--muted); font-size: 0.65rem; font-weight: 600;
+    padding: 6px 2px; border-radius: 12px;
+    transition: color 0.15s, background 0.15s;
+  }
+  .nav button .ni { font-size: 1.25rem; line-height: 1.2; }
+  .nav button.active {
+    color: var(--coral-deep);
+    background: rgba(255,123,107,0.1);
+  }
+
+  .page { display: none; }
+  .page.active { display: block; }
+
+  /* Modal */
+  .overlay {
+    position: fixed; inset: 0; z-index: 100;
+    background: rgba(30, 45, 60, 0.45);
+    backdrop-filter: blur(4px);
+    display: none; align-items: flex-end; justify-content: center;
+  }
+  .overlay.show { display: flex; }
+  .modal {
+    width: min(430px, 100%);
+    background: #fff;
+    border-radius: 24px 24px 0 0;
+    padding: 20px 18px calc(20px + var(--safe-b));
+    animation: popIn 0.28s ease both;
+    max-height: 88vh; overflow: auto;
+  }
+  .modal h3 { font-size: 1.1rem; margin-bottom: 14px; }
+  .form-row { margin-bottom: 12px; }
+  .form-row label {
+    display: block; font-size: 0.78rem; color: var(--muted); margin-bottom: 6px;
+  }
+  .select-like {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b7c8f' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 14px center;
+  }
+  .toast {
+    position: fixed; left: 50%; top: 18px; transform: translateX(-50%) translateY(-20px);
+    background: var(--ink); color: #fff;
+    padding: 12px 18px; border-radius: 999px;
+    font-size: 0.85rem; font-weight: 600;
+    opacity: 0; pointer-events: none; z-index: 200;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+    max-width: 90%;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  .empty {
+    text-align: center; padding: 28px 12px; color: var(--muted); font-size: 0.9rem;
+  }
+  .empty .e { font-size: 2rem; display: block; margin-bottom: 8px; }
+</style>
+</head>
+<body>
+  <div class="sky-decor" aria-hidden="true">
+    <div class="cloud c1"></div>
+    <div class="cloud c2"></div>
+    <div class="cloud c3"></div>
+    <span class="star s1">✦</span>
+    <span class="star s2">✦</span>
+    <span class="star s3">✦</span>
+  </div>
+
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">📖</div>
+        <div>
+          <h1>阅读成长地图</h1>
+          <p>Celine 的阅读小岛</p>
+        </div>
+      </div>
+      <button class="reset-btn" id="btnReset" title="重置演示数据" aria-label="重置演示数据">🔄</button>
+    </header>
+
+    <!-- HOME -->
+    <section class="page active" id="page-home">
+      <div class="card hero" id="heroCard"></div>
+      <div class="card">
+        <div class="motivate" id="motivateText"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h3>✨ 成长等级</h3></div>
+        <div class="progress-wrap" id="levelProgress"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h3>🎯 今日阅读</h3></div>
+        <div class="goal-box" id="todayGoal"></div>
+      </div>
+      <div class="card">
+        <div class="section-title"><h3>🏅 徽章墙</h3><span style="font-size:0.75rem;color:var(--muted)" id="badgeCount"></span></div>
+        <div class="badge-grid" id="badgeGrid"></div>
+      </div>
+    </section>
+
+    <!-- SHELF -->
+    <section class="page" id="page-shelf">
+      <div class="card">
+        <div class="section-title">
+          <h3>📚 我的书架</h3>
+          <button class="btn btn-primary btn-sm" id="btnAddBook">＋ 加书</button>
+        </div>
+        <div class="tabs" id="shelfTabs">
+          <button class="tab" data-status="want">想读</button>
+          <button class="tab active" data-status="reading">正在读</button>
+          <button class="tab" data-status="done">已读完</button>
+        </div>
+        <div class="book-list" id="bookList"></div>
+      </div>
+    </section>
+
+    <!-- CHECKIN -->
+    <section class="page" id="page-checkin">
+      <div class="card">
+        <div class="section-title"><h3>⏱️ 阅读打卡</h3></div>
+        <p class="hint">选时长，记下今天读到了什么。同一天只计一次打卡积分。</p>
+        <div class="mins-row" id="minsChips">
+          <button class="chip" data-m="5">5 分钟</button>
+          <button class="chip active" data-m="10">10 分钟</button>
+          <button class="chip" data-m="20">20 分钟</button>
+          <button class="chip" data-m="30">30 分钟</button>
+          <button class="chip" data-m="60">60 分钟</button>
+        </div>
+        <input class="field" id="customMins" type="number" min="1" max="300" placeholder="或手动输入分钟数" />
+        <textarea class="field" id="noteInput" rows="3" placeholder="今天读到了什么？（可选）"></textarea>
+        <button class="btn btn-primary" id="btnCheckin" style="width:100%">完成打卡 ✨</button>
+      </div>
+      <div class="card">
+        <div class="section-title"><h3>📝 最近打卡</h3></div>
+        <div id="recentLogs"></div>
+      </div>
+    </section>
+
+    <!-- MAP -->
+    <section class="page" id="page-map">
+      <div class="card" style="padding:12px">
+        <div class="section-title" style="padding:4px 4px 0"><h3>🏝️ 冒险成长岛</h3></div>
+        <div class="map-stage" id="mapStage"></div>
+      </div>
+    </section>
+
+    <!-- REPORT -->
+    <section class="page" id="page-report">
+      <div class="card">
+        <div class="section-title"><h3>📊 阅读报告</h3></div>
+        <div class="report-grid" id="reportGrid"></div>
+        <div class="section-title"><h3 style="font-size:0.95rem">近 7 天趋势</h3></div>
+        <div class="chart" id="weekChart"></div>
+      </div>
+    </section>
+  </div>
+
+  <nav class="nav" id="mainNav">
+    <button class="active" data-page="home"><span class="ni">🏠</span>首页</button>
+    <button data-page="shelf"><span class="ni">📚</span>书架</button>
+    <button data-page="checkin"><span class="ni">⏱️</span>打卡</button>
+    <button data-page="map"><span class="ni">🗺️</span>地图</button>
+    <button data-page="report"><span class="ni">📊</span>报告</button>
+  </nav>
+
+  <div class="overlay" id="bookModal">
+    <div class="modal">
+      <h3 id="bookModalTitle">新增书籍</h3>
+      <input type="hidden" id="editBookId" />
+      <div class="form-row">
+        <label>书名</label>
+        <input class="field" id="bookTitle" placeholder="例如：U3 How do we use numbers?" />
+      </div>
+      <div class="form-row">
+        <label>作者</label>
+        <input class="field" id="bookAuthor" placeholder="例如：沪教牛津 · 四上" />
+      </div>
+      <div class="form-row">
+        <label>分类</label>
+        <input class="field" id="bookCategory" placeholder="课本 / 儿歌 / 猜词 / 日常" list="catList" />
+        <datalist id="catList">
+          <option value="课本"></option>
+          <option value="儿歌"></option>
+          <option value="猜词"></option>
+          <option value="日常"></option>
+        </datalist>
+      </div>
+      <div class="form-row">
+        <label>状态</label>
+        <select class="field select-like" id="bookStatus">
+          <option value="want">想读</option>
+          <option value="reading">正在读</option>
+          <option value="done">已读完</option>
+        </select>
+      </div>
+      <div class="btn-row">
+        <button class="btn btn-secondary" id="btnCancelBook">取消</button>
+        <button class="btn btn-primary" id="btnSaveBook">保存</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+<script>
+(() => {
+  const STORAGE_KEY = "reading-growth-map-v3";
+  const DAILY_GOAL = 20;
+  const COVER_COLORS = ["#ff7b6b", "#5bc4c4", "#7ec8ff", "#ffc857", "#6bcf8e", "#c49bff", "#ff9ecd"];
+  const CATEGORY_COLORS = {
+    "课本": "#3daa6a",
+    "儿歌": "#ff7b6b",
+    "猜词": "#5b8def",
+    "日常": "#e8a317",
+  };
+
+  const LEVELS = [
+    { lv: 1, name: "阅读萌芽", min: 0, max: 99 },
+    { lv: 2, name: "阅读起步", min: 100, max: 299 },
+    { lv: 3, name: "阅读达人", min: 300, max: 599 },
+    { lv: 4, name: "阅读高手", min: 600, max: 999 },
+    { lv: 5, name: "阅读大师", min: 1000, max: Infinity },
+  ];
+
+  const BADGES = [
+    { id: "first", name: "阅读第一步", icon: "🌱", check: s => s.totalMinutes > 0 || s.checkins.length > 0 },
+    { id: "streak7", name: "坚持 7 天", icon: "🔥", check: s => s.streak >= 7 || s.bestStreak >= 7 },
+    { id: "books5", name: "小小书虫", icon: "📚", check: s => finishedCount(s) >= 5 },
+    { id: "books10", name: "阅读达人", icon: "🏆", check: s => finishedCount(s) >= 10 },
+    { id: "min1000", name: "时间旅行者", icon: "⏰", check: s => s.totalMinutes >= 1000 },
+    { id: "min5000", name: "阅读大师", icon: "🎓", check: s => s.totalMinutes >= 5000 },
+  ];
+
+  const MAP_NODES = [
+    { id: "start", title: "阅读启程", desc: "迈出第一步", icon: "⛵", check: s => s.totalMinutes > 0 || s.checkins.length > 0 },
+    { id: "s7", title: "坚持 7 天", desc: "连续阅读一周", icon: "🔥", check: s => s.streak >= 7 || s.bestStreak >= 7 },
+    { id: "b5", title: "读完 5 本", desc: "书架亮起来", icon: "📖", check: s => finishedCount(s) >= 5 },
+    { id: "m1000", title: "阅读 1000 分钟", desc: "时间旅行者", icon: "⏰", check: s => s.totalMinutes >= 1000 },
+    { id: "b10", title: "阅读达人", desc: "读完 10 本", icon: "🏆", check: s => finishedCount(s) >= 10 },
+    { id: "master", title: "阅读大师", desc: "累计 5000 分钟", icon: "🎓", check: s => s.totalMinutes >= 5000 },
+  ];
+
+  let state = null;
+  let shelfTab = "reading";
+  let selectedMins = 10;
+  let prevBadges = new Set();
+
+  function todayStr(d = new Date()) {
+    const y = d.getFullYear();
+    const m = String(d.getMonth() + 1).padStart(2, "0");
+    const day = String(d.getDate()).padStart(2, "0");
+    return `${y}-${m}-${day}`;
+  }
+
+  function daysAgo(n) {
+    const d = new Date();
+    d.setDate(d.getDate() - n);
+    return todayStr(d);
+  }
+
+  function countDone(s) {
+    return s.books.filter(b => b.status === "done").length;
+  }
+
+  function finishedCount(s) {
+    return Math.max(s.booksFinished || 0, countDone(s));
+  }
+
+  function getLevel(xp) {
+    for (let i = LEVELS.length - 1; i >= 0; i--) {
+      if (xp >= LEVELS[i].min) return LEVELS[i];
+    }
+    return LEVELS[0];
+  }
+
+  function pointsForMinutes(m) {
+    if (m >= 30) return 15;
+    if (m >= 20) return 10;
+    if (m >= 10) return 5;
+    return Math.max(1, Math.floor(m / 2));
+  }
+
+  function demoState() {
+    const logs = [];
+    const pattern = [25, 20, 35, 15, 40, 30, 22];
+    const notes = {
+      0: "四上 U1 · Where do people live?",
+      2: "儿歌 · Twinkle Twinkle Little Star",
+      4: "猜词 · 动物猜猜猜",
+      5: "四上 U2 · Where do animals live?",
+    };
+    for (let i = 6; i >= 0; i--) {
+      const mins = pattern[6 - i];
+      logs.push({
+        id: "c" + i,
+        date: daysAgo(i),
+        minutes: mins,
+        note: notes[i] || "",
+        pointsAwarded: true,
+      });
+    }
+    return {
+      child: { name: "Celine", nickname: "不多", age: 9, avatar: "👧" },
+      xp: 420,
+      points: 420,
+      totalMinutes: 1260,
+      booksFinished: 8,
+      streak: 12,
+      bestStreak: 12,
+      dailyGoal: DAILY_GOAL,
+      books: [
+        // —— 四年级上册（优先级最高）——
+        { id: "g4u1", title: "U1 Where do people live?", author: "沪教牛津 · 四上", category: "课本", status: "reading" },
+        { id: "g4u2", title: "U2 Where do animals live?", author: "沪教牛津 · 四上", category: "课本", status: "reading" },
+        { id: "g4u3", title: "U3 How do we use numbers?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u4", title: "U4 What do we buy?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u5", title: "U5 How are the seasons different?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u6", title: "U6 What's amazing about plants?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u7", title: "U7 How do we keep safe on the road?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u8", title: "U8 What do our grandparents do?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        // —— 儿歌 ——
+        { id: "song1", title: "Twinkle Twinkle Little Star", author: "Celine Kids · 儿歌", category: "儿歌", status: "reading" },
+        { id: "song2", title: "Are You Sleeping?", author: "Celine Kids · 儿歌", category: "儿歌", status: "done" },
+        { id: "song3", title: "Head, Shoulders, Knees & Toes", author: "Celine Kids · 儿歌", category: "儿歌", status: "done" },
+        { id: "song4", title: "You Are My Sunshine", author: "Celine Kids · 儿歌", category: "儿歌", status: "want" },
+        { id: "song5", title: "The Wheels on the Bus", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
+        // —— 猜词 / 亲子游戏 ——
+        { id: "game1", title: "动物猜猜猜", author: "Parenting · 猜词游戏", category: "猜词", status: "done" },
+        { id: "game2", title: "表情猜猜猜", author: "Parenting · 猜词游戏", category: "猜词", status: "want" },
+        { id: "game3", title: "正反义词游戏 Opposites", author: "Parenting · 亲子游戏", category: "猜词", status: "done" },
+        { id: "game4", title: "分类归类游戏", author: "Parenting · 亲子游戏", category: "猜词", status: "want" },
+        // —— 日常 ——
+        { id: "day1", title: "不多的一天（上）", author: "Daily life · Celine", category: "日常", status: "done" },
+        { id: "day2", title: "不多的一天（下）", author: "Daily life · Celine", category: "日常", status: "want" },
+      ],
+      checkins: logs,
+      unlockedBadges: [],
+      lastCheckinDate: daysAgo(0),
+      streakBonusClaimed: {},
+    };
+  }
+
+  function load() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        state = JSON.parse(raw);
+        ensureDerived();
+        return;
+      }
+    } catch (_) {}
+    state = demoState();
+    syncBadges(false);
+    save();
+  }
+
+  function save() {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  }
+
+  function ensureDerived() {
+    if (!state.bestStreak) state.bestStreak = state.streak || 0;
+    if (!state.streakBonusClaimed) state.streakBonusClaimed = {};
+    if (!state.unlockedBadges) state.unlockedBadges = [];
+    if (!state.dailyGoal) state.dailyGoal = DAILY_GOAL;
+    if (state.booksFinished == null) state.booksFinished = countDone(state);
+  }
+
+  function syncBadges(animate) {
+    const newly = [];
+    BADGES.forEach(b => {
+      const ok = b.check(state);
+      const has = state.unlockedBadges.includes(b.id);
+      if (ok && !has) {
+        state.unlockedBadges.push(b.id);
+        newly.push(b.id);
+      }
+    });
+    if (animate && newly.length) {
+      newly.forEach(id => {
+        const badge = BADGES.find(x => x.id === id);
+        toast(`徽章点亮：${badge.icon} ${badge.name}`);
+      });
+    }
+    return newly;
+  }
+
+  function toast(msg) {
+    const el = document.getElementById("toast");
+    el.textContent = msg;
+    el.classList.add("show");
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => el.classList.remove("show"), 2400);
+  }
+
+  function motivate() {
+    const who = state.child.nickname || state.child.name;
+    const todayMins = minutesOn(todayStr());
+    if (todayMins >= state.dailyGoal) return `太棒了，${who}！今天的阅读目标已经完成，你是真正的小书虫 🌟`;
+    if (state.streak >= 7) return `${who} 已经连续阅读 <strong>${state.streak}</strong> 天啦，坚持一周你真的很棒！`;
+    if (state.streak >= 3) return `${who} 已经连续阅读 <strong>${state.streak}</strong> 天啦，小岛上的灯火越来越亮。`;
+    if (state.streak === 1 || todayMins > 0) return `${who}，今天也迈出了第一步，继续加油吧！`;
+    if (state.totalMinutes === 0) return `欢迎来到阅读岛，${who}——翻开第一页，冒险就开始了 ⛵`;
+    return `${who}，打开四上课本或儿歌，今天的冒险继续前进 ✨`;
+  }
+
+  function minutesOn(date) {
+    return state.checkins.filter(c => c.date === date).reduce((a, c) => a + c.minutes, 0);
+  }
+
+  function hasCheckinPointsToday() {
+    return state.checkins.some(c => c.date === todayStr() && c.pointsAwarded);
+  }
+
+  /* —— Render —— */
+  function renderAll() {
+    syncBadges(true);
+    renderHome();
+    renderShelf();
+    renderCheckin();
+    renderMap();
+    renderReport();
+    save();
+  }
+
+  function renderHome() {
+    const lv = getLevel(state.xp);
+    const next = LEVELS.find(l => l.lv === lv.lv + 1);
+    const range = next ? next.min - lv.min : 1;
+    const progress = next ? Math.min(100, ((state.xp - lv.min) / range) * 100) : 100;
+    const remain = next ? Math.max(0, next.min - state.xp) : 0;
+    const doneBooks = finishedCount(state);
+    const badgeN = state.unlockedBadges.length;
+
+    document.getElementById("heroCard").innerHTML = `
+      <div class="hero-deco" aria-hidden="true">🏝️</div>
+      <div class="hero-row">
+        <div class="avatar">${state.child.avatar}</div>
+        <div class="hero-info">
+          <h2>${escapeHtml(state.child.name)}${state.child.nickname ? `（${escapeHtml(state.child.nickname)}）` : ""}</h2>
+          <div class="meta">${state.child.age} 岁 · 四年级 · 积分 ${state.points}</div>
+          <div class="level-pill">Lv.${lv.lv} ${lv.name}</div>
+        </div>
+      </div>
+      <div class="stats-grid">
+        <div class="stat"><span class="si">⏳</span><div><div class="label">累计阅读</div><div class="value">${state.totalMinutes}<span class="unit">分钟</span></div></div></div>
+        <div class="stat"><span class="si">🔥</span><div><div class="label">连续阅读</div><div class="value">${state.streak}<span class="unit">天</span></div></div></div>
+        <div class="stat"><span class="si">📚</span><div><div class="label">已读书籍</div><div class="value">${doneBooks}<span class="unit">本</span></div></div></div>
+        <div class="stat"><span class="si">🏅</span><div><div class="label">获得徽章</div><div class="value">${badgeN}<span class="unit">枚</span></div></div></div>
+      </div>`;
+
+    document.getElementById("motivateText").innerHTML = motivate();
+
+    document.getElementById("levelProgress").innerHTML = `
+      <div class="progress-meta">
+        <span>经验 ${state.xp}${next ? ` / ${next.min}` : ""}</span>
+        <span>${next ? `距下一级还差 ${remain}` : "已达最高等级 🎉"}</span>
+      </div>
+      <div class="bar"><i style="width:${progress}%"></i></div>`;
+
+    const todayMins = minutesOn(todayStr());
+    const goalPct = Math.min(100, (todayMins / state.dailyGoal) * 100);
+    const doneToday = todayMins >= state.dailyGoal;
+    document.getElementById("todayGoal").innerHTML = `
+      <div class="goal-top">
+        <div><span class="big">${todayMins}</span><span class="sub"> / ${state.dailyGoal} 分钟</span></div>
+        <div class="sub">${doneToday ? "今日已完成 ✅" : "目标进行中"}</div>
+      </div>
+      <div class="bar"><i style="width:${goalPct}%"></i></div>
+      <div class="btn-row">
+        <button class="btn btn-secondary" id="goCheckin">开始阅读</button>
+        <button class="btn btn-primary ${doneToday ? "" : "pulse"}" id="finishToday" ${doneToday ? "disabled" : ""}>
+          ${doneToday ? "今日已完成" : "完成今日阅读"}
+        </button>
+      </div>`;
+
+    document.getElementById("goCheckin").onclick = () => switchPage("checkin");
+    document.getElementById("finishToday").onclick = () => {
+      const need = Math.max(0, state.dailyGoal - minutesOn(todayStr()));
+      if (need <= 0) return;
+      selectedMins = need;
+      document.querySelectorAll("#minsChips .chip").forEach(c => {
+        c.classList.toggle("active", Number(c.dataset.m) === need);
+      });
+      document.getElementById("customMins").value = need;
+      switchPage("checkin");
+      toast(`再读 ${need} 分钟就能达成今日目标`);
+    };
+
+    document.getElementById("badgeCount").textContent = `${badgeN} / ${BADGES.length}`;
+    const prev = prevBadges;
+    document.getElementById("badgeGrid").innerHTML = BADGES.map(b => {
+      const on = state.unlockedBadges.includes(b.id);
+      const just = on && !prev.has(b.id);
+      return `<div class="badge ${on ? "on" : "locked"} ${just ? "just-on" : ""}">
+        <span class="ico">${b.icon}</span>
+        <div class="name">${b.name}</div>
+      </div>`;
+    }).join("");
+    prevBadges = new Set(state.unlockedBadges);
+  }
+
+  function renderShelf() {
+    const list = state.books.filter(b => b.status === shelfTab);
+    const el = document.getElementById("bookList");
+    if (!list.length) {
+      el.innerHTML = `<div class="empty"><span class="e">📭</span>这里还没有书，点右上角加一本吧</div>`;
+      return;
+    }
+    el.innerHTML = list.map((b, i) => {
+      const color = CATEGORY_COLORS[b.category] || COVER_COLORS[hash(b.id) % COVER_COLORS.length];
+      return `<div class="book">
+        <div class="book-cover" style="background:${color}">${b.title.slice(0, 1)}</div>
+        <div class="book-body">
+          <h4>${escapeHtml(b.title)}</h4>
+          <p><span class="cat-pill" style="--cat:${color}">${escapeHtml(b.category)}</span> ${escapeHtml(b.author)}</p>
+        </div>
+        <div class="book-actions">
+          <button class="icon-btn" data-edit="${b.id}" title="编辑">✏️</button>
+          <button class="icon-btn" data-del="${b.id}" title="删除">🗑️</button>
+        </div>
+      </div>`;
+    }).join("");
+
+    el.querySelectorAll("[data-edit]").forEach(btn => {
+      btn.onclick = () => openBookModal(btn.dataset.edit);
+    });
+    el.querySelectorAll("[data-del]").forEach(btn => {
+      btn.onclick = () => {
+        if (!confirm("确定删除这本书吗？")) return;
+        state.books = state.books.filter(b => b.id !== btn.dataset.del);
+        renderAll();
+        toast("已从书架移除");
+      };
+    });
+  }
+
+  function renderCheckin() {
+    const recent = [...state.checkins].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 7);
+    const box = document.getElementById("recentLogs");
+    if (!recent.length) {
+      box.innerHTML = `<div class="empty"><span class="e">🌱</span>还没有打卡记录</div>`;
+      return;
+    }
+    box.innerHTML = recent.map(c => `
+      <div class="book" style="margin-bottom:8px">
+        <div class="book-cover" style="background:linear-gradient(145deg,#7ec8ff,#6bcf8e);height:48px;width:48px;border-radius:14px">⏱️</div>
+        <div class="book-body">
+          <h4>${c.date} · ${c.minutes} 分钟</h4>
+          <p>${c.note ? escapeHtml(c.note) : "专注阅读中"}</p>
+        </div>
+      </div>`).join("");
+  }
+
+  function renderMap() {
+    const statuses = MAP_NODES.map(n => ({ ...n, done: n.check(state) }));
+    let currentIdx = statuses.findIndex(n => !n.done);
+    if (currentIdx < 0) currentIdx = statuses.length - 1;
+
+    const stage = document.getElementById("mapStage");
+    stage.innerHTML = `
+      <div class="map-blob b1"></div>
+      <div class="map-blob b2"></div>
+      <div class="map-blob b3"></div>
+      <div class="map-sun">☀️</div>
+      <svg class="path-svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <path d="M22 10 Q58 16 76 26 Q38 38 24 48 Q62 58 78 68 Q42 80 28 90"
+          fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="2.2"
+          stroke-dasharray="4 3" stroke-linecap="round"/>
+      </svg>
+      <div class="map-wave"></div>
+      <div class="map-nodes">
+        ${statuses.map((n, i) => {
+          const cls = n.done ? "done" : i === currentIdx ? "current locked" : "locked";
+          const tag = n.done ? "已点亮" : i === currentIdx ? "下一站" : "未解锁";
+          return `<div class="map-node ${cls}">
+            <div class="node-dot">${n.done ? n.icon : (i === currentIdx ? "✨" : "🔒")}</div>
+            <div class="node-label">
+              <strong>${n.title}</strong>
+              <span>${n.desc} · ${tag}</span>
+            </div>
+          </div>`;
+        }).join("")}
+      </div>`;
+  }
+
+  function renderReport() {
+    const now = new Date();
+    const weekStart = new Date(now);
+    weekStart.setDate(now.getDate() - ((now.getDay() + 6) % 7));
+    const monthStart = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-01`;
+
+    let weekMins = 0, monthMins = 0, monthBooks = 0;
+    state.checkins.forEach(c => {
+      if (c.date >= todayStr(weekStart)) weekMins += c.minutes;
+      if (c.date >= monthStart) monthMins += c.minutes;
+    });
+    // Approximate: count done books (demo doesn't track finish date) — show done count as monthly highlight if any recent activity
+    monthBooks = finishedCount(state);
+
+    document.getElementById("reportGrid").innerHTML = `
+      <div class="report-stat"><div class="k">本周分钟</div><div class="v">${weekMins}</div></div>
+      <div class="report-stat"><div class="k">本月分钟</div><div class="v">${monthMins}</div></div>
+      <div class="report-stat"><div class="k">累计分钟</div><div class="v">${state.totalMinutes}</div></div>
+      <div class="report-stat"><div class="k">已读完（本）</div><div class="v">${monthBooks}</div></div>
+      <div class="report-stat" style="grid-column:1/-1"><div class="k">最长连续天数</div><div class="v">${state.bestStreak} 天</div></div>`;
+
+    const max = Math.max(1, ...[0,1,2,3,4,5,6].map(i => minutesOn(daysAgo(6 - i))));
+    const labels = ["一","二","三","四","五","六","日"];
+    document.getElementById("weekChart").innerHTML = [0,1,2,3,4,5,6].map(i => {
+      const d = daysAgo(6 - i);
+      const m = minutesOn(d);
+      const h = Math.max(4, (m / max) * 110);
+      const dow = new Date(d + "T12:00:00").getDay();
+      const label = labels[(dow + 6) % 7];
+      return `<div class="chart-col"><div class="chart-bar" style="height:${h}px" title="${m} 分钟"></div><div class="d">${label}</div></div>`;
+    }).join("");
+  }
+
+  /* —— Actions —— */
+  function doCheckin(minutes, note) {
+    minutes = Math.max(1, Math.min(300, Number(minutes) || 0));
+    if (!minutes) { toast("请选择或输入阅读分钟"); return; }
+
+    const date = todayStr();
+    const awardPoints = !hasCheckinPointsToday();
+    let gained = 0;
+    if (awardPoints) gained = pointsForMinutes(minutes);
+
+    state.checkins.push({
+      id: "c" + Date.now(),
+      date,
+      minutes,
+      note: (note || "").trim(),
+      pointsAwarded: awardPoints,
+    });
+    state.totalMinutes += minutes;
+    state.xp += minutes; // experience grows with reading time
+    if (awardPoints) {
+      state.points += gained;
+      state.xp += gained;
+    }
+
+    // streak
+    updateStreak(date);
+
+    // 7-day streak bonus once per streak milestone window
+    if (state.streak > 0 && state.streak % 7 === 0) {
+      const key = `streak-${state.streak}-${date}`;
+      if (!state.streakBonusClaimed[state.streak]) {
+        state.points += 50;
+        state.xp += 50;
+        state.streakBonusClaimed[state.streak] = true;
+        toast(`连续 ${state.streak} 天！额外 +50 积分 🎉`);
+      }
+    }
+
+    state.lastCheckinDate = date;
+    renderAll();
+    if (awardPoints) toast(`打卡成功 +${minutes} 分钟，积分 +${gained}`);
+    else toast(`已记录 +${minutes} 分钟（今日积分已计过）`);
+  }
+
+  function updateStreak(date) {
+    const last = state.lastCheckinDate;
+    if (!last) {
+      state.streak = 1;
+    } else if (last === date) {
+      // same day, keep streak
+      if (state.streak < 1) state.streak = 1;
+    } else if (last === daysAgo(1) || isYesterday(last, date)) {
+      state.streak += 1;
+    } else {
+      state.streak = 1;
+    }
+    state.bestStreak = Math.max(state.bestStreak || 0, state.streak);
+  }
+
+  function isYesterday(prev, curr) {
+    const p = new Date(prev + "T12:00:00");
+    const c = new Date(curr + "T12:00:00");
+    return Math.round((c - p) / 86400000) === 1;
+  }
+
+  function onBookStatusChange(oldStatus, newStatus, book) {
+    if (oldStatus !== "done" && newStatus === "done") {
+      state.booksFinished = Math.max((state.booksFinished || 0) + 1, countDone(state));
+      state.points += 30;
+      state.xp += 30;
+      toast(`读完《${book.title}》！积分 +30 🏆`);
+    }
+  }
+
+  /* —— UI wiring —— */
+  function switchPage(name) {
+    document.querySelectorAll(".page").forEach(p => p.classList.toggle("active", p.id === "page-" + name));
+    document.querySelectorAll("#mainNav button").forEach(b => b.classList.toggle("active", b.dataset.page === name));
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function openBookModal(id) {
+    const modal = document.getElementById("bookModal");
+    const title = document.getElementById("bookModalTitle");
+    document.getElementById("editBookId").value = id || "";
+    if (id) {
+      const b = state.books.find(x => x.id === id);
+      title.textContent = "编辑书籍";
+      document.getElementById("bookTitle").value = b.title;
+      document.getElementById("bookAuthor").value = b.author;
+      document.getElementById("bookCategory").value = b.category;
+      document.getElementById("bookStatus").value = b.status;
+    } else {
+      title.textContent = "新增书籍";
+      document.getElementById("bookTitle").value = "";
+      document.getElementById("bookAuthor").value = "";
+      document.getElementById("bookCategory").value = "";
+      document.getElementById("bookStatus").value = shelfTab;
+    }
+    modal.classList.add("show");
+  }
+
+  function closeBookModal() {
+    document.getElementById("bookModal").classList.remove("show");
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    })[c]);
+  }
+
+  function hash(str) {
+    let h = 0;
+    for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) | 0;
+    return Math.abs(h);
+  }
+
+  document.getElementById("mainNav").addEventListener("click", e => {
+    const btn = e.target.closest("button[data-page]");
+    if (!btn) return;
+    switchPage(btn.dataset.page);
+  });
+
+  document.getElementById("shelfTabs").addEventListener("click", e => {
+    const tab = e.target.closest(".tab");
+    if (!tab) return;
+    shelfTab = tab.dataset.status;
+    document.querySelectorAll("#shelfTabs .tab").forEach(t => t.classList.toggle("active", t === tab));
+    renderShelf();
+  });
+
+  document.getElementById("minsChips").addEventListener("click", e => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    selectedMins = Number(chip.dataset.m);
+    document.querySelectorAll("#minsChips .chip").forEach(c => c.classList.toggle("active", c === chip));
+    document.getElementById("customMins").value = "";
+  });
+
+  document.getElementById("customMins").addEventListener("input", e => {
+    const v = Number(e.target.value);
+    if (v > 0) {
+      selectedMins = v;
+      document.querySelectorAll("#minsChips .chip").forEach(c => c.classList.remove("active"));
+    }
+  });
+
+  document.getElementById("btnCheckin").onclick = () => {
+    const custom = Number(document.getElementById("customMins").value);
+    const mins = custom > 0 ? custom : selectedMins;
+    doCheckin(mins, document.getElementById("noteInput").value);
+    document.getElementById("noteInput").value = "";
+  };
+
+  document.getElementById("btnAddBook").onclick = () => openBookModal(null);
+  document.getElementById("btnCancelBook").onclick = closeBookModal;
+  document.getElementById("bookModal").addEventListener("click", e => {
+    if (e.target.id === "bookModal") closeBookModal();
+  });
+
+  document.getElementById("btnSaveBook").onclick = () => {
+    const title = document.getElementById("bookTitle").value.trim();
+    const author = document.getElementById("bookAuthor").value.trim() || "未知作者";
+    const category = document.getElementById("bookCategory").value.trim() || "未分类";
+    const status = document.getElementById("bookStatus").value;
+    const id = document.getElementById("editBookId").value;
+    if (!title) { toast("请填写书名"); return; }
+
+    if (id) {
+      const b = state.books.find(x => x.id === id);
+      const old = b.status;
+      b.title = title; b.author = author; b.category = category; b.status = status;
+      onBookStatusChange(old, status, b);
+    } else {
+      const book = { id: "b" + Date.now(), title, author, category, status };
+      state.books.push(book);
+      if (status === "done") onBookStatusChange("want", "done", book);
+      toast("已加入书架");
+    }
+    closeBookModal();
+    shelfTab = status;
+    document.querySelectorAll("#shelfTabs .tab").forEach(t => t.classList.toggle("active", t.dataset.status === status));
+    renderAll();
+  };
+
+  document.getElementById("btnReset").onclick = () => {
+    if (!confirm("重置为演示数据？当前进度会清空。")) return;
+    state = demoState();
+    prevBadges = new Set();
+    syncBadges(false);
+    save();
+    renderAll();
+    toast("已恢复演示数据");
+  };
+
+  load();
+  prevBadges = new Set(state.unlockedBadges || []);
+  renderAll();
+})();
+</script>
+</body>
+</html>

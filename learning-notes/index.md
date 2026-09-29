@@ -23,6 +23,8 @@ search:
 | 语法 | 体系总览与句子分析 | [grammar-lab](grammar-lab/README.md) |
 | 每日语音文本 | 纯英文朗读稿，跟读 / Enjoy | [每日语音文本](每日语音文本/README.md) |
 
+**阅读成长地图：** [站内打开](reading-growth-map.md) · [全屏打开](reading-growth-map.html){ target="_blank" rel="noopener" } — 互动式阅读成长路线图（顶栏一级菜单同名入口）。
+
 ### 快捷链
 
 - 发音：[完整教程](pronunciation/english-phonetics-textbook.md) · [句子节奏](pronunciation/sentence-rhythm-by-type.md) · [工程师音标速查](pronunciation/engineer-phonetics-reference.md) · [音标输入](pronunciation/phonetics-input-guide.md)

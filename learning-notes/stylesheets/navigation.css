@@ -23,6 +23,17 @@
   background: var(--md-accent-fg-color--transparent);
 }
 
+/* Embedded reading-growth-map.html page. */
+.md-typeset iframe.reading-growth-map {
+  display: block;
+  width: 100%;
+  height: 80vh;
+  min-height: 560px;
+  border: 0;
+  border-radius: 0.6rem;
+  box-shadow: var(--md-shadow-z1);
+}
+
 /* Tabs: clearer current section */
 .md-tabs__link--active {
   font-weight: 700;
