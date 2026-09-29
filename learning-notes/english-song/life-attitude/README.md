@@ -8,6 +8,8 @@
 
 - [[learning-notes/english-song/life-attitude/black-sheep-gin-wigmore|black-sheep-gin-wigmore]]
 - [[learning-notes/english-song/life-attitude/desperado-eagles|desperado-eagles]]
+- [[learning-notes/english-song/life-attitude/price-tag-jessie-j|price-tag-jessie-j]]
 - [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|promises-dont-come-easy-陈曦]]
+- [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|sunday-jack-thweatt]]
 - [[learning-notes/english-song/life-attitude/the-old-man-yom|the-old-man-yom]]
 - [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|the-old-man-菲尔科尔特]]

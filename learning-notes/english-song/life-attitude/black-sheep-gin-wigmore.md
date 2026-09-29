@@ -19,7 +19,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** 不服帖、做自己 — [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*I'm not here to please* 一类拒绝迎合的表达可对照本歌副歌）。
+**相关：** 不服帖、做自己 — [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*I'm not here to please* 一类拒绝迎合的表达可对照本歌副歌） · [[learning-notes/english-song/life-attitude/price-tag-jessie-j|Price Tag — Jessie J]]（不被价码定义、做自己）。
 
 ---
 

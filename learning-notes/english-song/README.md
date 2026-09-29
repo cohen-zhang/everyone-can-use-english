@@ -15,7 +15,7 @@ aliases:
 
 **歌词学习方式：** 每首笔记的「歌词」区按段交错：**英文段落** 之后紧跟 **中文意译**。每一段先跟唱英文，再用紧随其后的中文核对情绪与意思。
 
-**Apple Music 播放列表：** [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)（109 首 · 约 6 小时 46 分钟）
+**Apple Music 播放列表：** [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)（122 首 · 约 7 小时 36 分钟）
 
 ## 播放列表总表
 
@@ -44,7 +44,7 @@ aliases:
 | 21 | When Your Lips Are So Close | Gord Bamford | 精编 | 恋爱 | Country · Pop | 难 | 2010s | 发音 | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | 精编 | 分手·思念 · 情绪 | Pop · Rock | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
 | 23 | Stand By Me | Seal | 精编 | 情绪 · 恋爱 | R&B | 易 | 2000s | 通勤 · 精研 · KTV | [[learning-notes/english-song/love-romance/stand-by-me-seal|Stand By Me]] |
-| 24 | Who Wants To Live Forever | Queen | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
+| 24 | Who Wants to Live Forever | Queen | 精编 | 分手·思念 · 生活态度 · 恋爱 | Pop · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|Who Wants to Live Forever]] |
 | 25 | The Old Man | 菲尔・科尔特 | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Pop | 中 | 经典 | 精研 · 发音 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|The Old Man]] |
 | 26 | The Old Man | Yom & Aurélien Naffrichoux | 精编 | 生活态度 | Pop | 易 | 2010s | 通勤 · 精研 · 发音 | [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man]] |
 | 27 | Promises Don't Come Easy | 陈曦 | 精编 | 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
@@ -129,11 +129,27 @@ aliases:
 | 106 | Anaconda | Nicki Minaj | 精编 | 生活态度 · 恋爱 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/love-romance/anaconda-nicki-minaj|Anaconda]] |
 | 107 | When I Was Your Man | Bruno Mars | 精编 | 分手·思念 · 生活态度 · 恋爱 · 派对·能量 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 · 自我 | Hip-hop · Pop | 难 | 2010s | KTV · 发音 | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
-| 109 | Walking Away | ChianoSky | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|Walking Away]] |## 按主题 · Topic
+| 109 | Walking Away | ChianoSky | 精编 | 分手·思念 · 情绪 · 恋爱 | Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|Walking Away]] |
+| 110 | You Are My Sunshine | Angelika Vee | 精编 | 情绪 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|You Are My Sunshine]] |
+| 111 | Desperado | Eagles | 精编 | 分手·思念 · 情绪 · 生活态度 · 恋爱 | Ballad · Country · Rock | 中 | 经典 | 精研 · KTV · 发音 | [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado]] |
+| 112 | Take You Dancing | Jason Derulo | 精编 | 恋爱 · 派对·能量 | Pop | 中 | 2020s | 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|Take You Dancing]] |
+| 113 | Diamonds | Rihanna | 精编 | 情绪 · 生活态度 · 恋爱 | Ballad · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/diamonds-rihanna|Diamonds]] |
+| 114 | Where Have You Been | Rihanna | 精编 | 恋爱 · 派对·能量 | EDM · Pop | 易 | 2010s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|Where Have You Been]] |
+| 115 | Umbrella (feat. JAŸ-Z) | Rihanna | 精编 | 情绪 · 恋爱 · 关系 | Hip-hop · Pop · R&B | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/umbrella-rihanna|Umbrella (feat. JAŸ-Z)]] |
+| 116 | Price Tag (feat. B.o.B) | Jessie J | 精编 | 生活态度 · 派对·能量 | Hip-hop · Pop | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|Price Tag (feat. B.o.B)]] |
+| 117 | Boom Boom Pow | Black Eyed Peas | 精编 | 派对·能量 | EDM · Hip-hop | 难 | 2000s | 发音 | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|Boom Boom Pow]] |
+| 118 | Sunday | Jack Thweatt | 精编 | 生活态度 | Ballad · Pop | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|Sunday]] |
+| 119 | Watch Me Work | Tinashe | 精编 | 恋爱 · 派对·能量 | Pop · R&B | 中 | 2010s | 精研 · 发音 | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|Watch Me Work]] |
+| 120 | Afterglow | Ed Sheeran | 精编 | 情绪 · 恋爱 | Ballad · Pop | 易 | 2020s | 通勤 · 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|Afterglow]] |
+| 121 | Whataya Want from Me (Live) | Adam Lambert | 精编 | 情绪 · 恋爱 · 自我 | Pop · Rock | 中 | 2010s | 精研 · KTV · 发音 | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|Whataya Want from Me (Live)]] |
+| 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | 精编 | 分手·思念 · 影视原声 · 恋爱 | Ballad · Pop · Rock | 中 | 2000s | 精研 · KTV · 发音 | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|Time for Miracles (From the Motion Picture "2012")]] |
+
+## 按主题 · Topic
 
 | 标签 | # | 歌名 | 歌手 | 笔记 |
 | --- | --- | --- | --- | --- |
-| topic/relationships | 57 | Messy | Lola Young | [[learning-notes/english-song/relationships/messy-lola-young|笔记]] |
+| 关系 | 57 | Messy | Lola Young | [[learning-notes/english-song/relationships/messy-lola-young|笔记]] |
+| 关系 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
 | 分手·思念 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 分手·思念 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 分手·思念 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
@@ -148,7 +164,7 @@ aliases:
 | 分手·思念 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/breakup-loss/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 分手·思念 | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
 | 分手·思念 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| 分手·思念 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 分手·思念 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 分手·思念 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 分手·思念 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/breakup-loss/love-story-taylor-swift|笔记]] |
 | 分手·思念 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/breakup-loss/yesterday-once-more-carpenters|笔记]] |
@@ -203,6 +219,8 @@ aliases:
 | 分手·思念 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 分手·思念 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | 分手·思念 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 分手·思念 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 分手·思念 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 影视原声 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
 | 影视原声 | 40 | Let It Go | Idina Menzel | [[learning-notes/english-song/breakup-loss/let-it-go-idina-menzel|笔记]] |
 | 影视原声 | 73 | Way Back Into Love (Demo Version) | Hugh Grant & Drew Barrymore | [[learning-notes/english-song/breakup-loss/way-back-into-love-hugh-grant|笔记]] |
@@ -210,6 +228,7 @@ aliases:
 | 影视原声 | 92 | I Have Nothing | Whitney Houston | [[learning-notes/english-song/breakup-loss/i-have-nothing-whitney-houston|笔记]] |
 | 影视原声 | 95 | California Dreamin' | The Beach Boys | [[learning-notes/english-song/emotions/california-dreamin-the-beach-boys|笔记]] |
 | 影视原声 | 97 | Always Remember Us This Way | Lady Gaga | [[learning-notes/english-song/breakup-loss/always-remember-us-this-way-lady-gaga|笔记]] |
+| 影视原声 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 恋爱 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 恋爱 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 恋爱 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
@@ -225,7 +244,7 @@ aliases:
 | 恋爱 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/breakup-loss/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 恋爱 | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | 恋爱 | 23 | Stand By Me | Seal | [[learning-notes/english-song/love-romance/stand-by-me-seal|笔记]] |
-| 恋爱 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 恋爱 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 恋爱 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 恋爱 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
 | 恋爱 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/love-romance/what-can-i-do-caron-nightingale|笔记]] |
@@ -296,6 +315,16 @@ aliases:
 | 恋爱 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 恋爱 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | 恋爱 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 恋爱 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 恋爱 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 恋爱 | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 恋爱 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 恋爱 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 恋爱 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 恋爱 | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| 恋爱 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| 恋爱 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| 恋爱 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 情绪 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 情绪 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 情绪 | 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/love-romance/7-rings-ariana-grande|笔记]] |
@@ -342,6 +371,12 @@ aliases:
 | 情绪 | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | 情绪 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | 情绪 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 情绪 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 情绪 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 情绪 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 情绪 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 情绪 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| 情绪 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
 | 派对·能量 | 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/love-romance/7-rings-ariana-grande|笔记]] |
 | 派对·能量 | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/breakup-loss/love-story-taylor-swift|笔记]] |
 | 派对·能量 | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/breakup-loss/because-of-you-ne-yo|笔记]] |
@@ -358,6 +393,11 @@ aliases:
 | 派对·能量 | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | 派对·能量 | 105 | WAP (feat. Megan Thee Stallion) | Cardi B | [[learning-notes/english-song/love-romance/wap-cardi-b|笔记]] |
 | 派对·能量 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
+| 派对·能量 | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 派对·能量 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 派对·能量 | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 派对·能量 | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
+| 派对·能量 | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
 | 生活态度 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 生活态度 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 生活态度 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
@@ -371,7 +411,7 @@ aliases:
 | 生活态度 | 18 | High on Life (feat. Bonn) | Martin Garrix | [[learning-notes/english-song/breakup-loss/high-on-life-martin-garrix|笔记]] |
 | 生活态度 | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/breakup-loss/always-remember-us-this-way-brenda-mullen|笔记]] |
 | 生活态度 | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
-| 生活态度 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 生活态度 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 生活态度 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 生活态度 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/life-attitude/the-old-man-yom|笔记]] |
 | 生活态度 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
@@ -432,6 +472,10 @@ aliases:
 | 生活态度 | 106 | Anaconda | Nicki Minaj | [[learning-notes/english-song/love-romance/anaconda-nicki-minaj|笔记]] |
 | 生活态度 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 生活态度 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
+| 生活态度 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 生活态度 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 生活态度 | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 生活态度 | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
 | 自我 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 自我 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 自我 | 5 | I Like Me Better | LAUV | [[learning-notes/english-song/love-romance/i-like-me-better-lauv|笔记]] |
@@ -451,6 +495,7 @@ aliases:
 | 自我 | 92 | I Have Nothing | Whitney Houston | [[learning-notes/english-song/breakup-loss/i-have-nothing-whitney-houston|笔记]] |
 | 自我 | 100 | Lonely | NANA | [[learning-notes/english-song/breakup-loss/lonely-nana|笔记]] |
 | 自我 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
+| 自我 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
 
 ## 按曲风 · Genre
 
@@ -492,11 +537,20 @@ aliases:
 | Ballad | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | Ballad | 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/love-romance/the-rose-手嶌葵|笔记]] |
 | Ballad | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
+| Ballad | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| Ballad | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| Ballad | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| Ballad | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| Ballad | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| Ballad | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | Country | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | Country | 32 | No Such Thing as a Broken Heart | Old Dominion | [[learning-notes/english-song/love-romance/no-such-thing-as-a-broken-heart-old-dominion|笔记]] |
 | Country | 33 | These Days | Rascal Flatts | [[learning-notes/english-song/love-romance/these-days-rascal-flatts|笔记]] |
 | Country | 61 | Dance Like No One’s Watching | Gabby Barrett | [[learning-notes/english-song/breakup-loss/dance-like-no-ones-watching-gabby-barrett|笔记]] |
 | Country | 83 | One Man Band | Old Dominion | [[learning-notes/english-song/love-romance/one-man-band-old-dominion|笔记]] |
+| Country | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| EDM | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| EDM | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
 | Hip-hop | 10 | Right Now (Na Na Na) | Akon | [[learning-notes/english-song/breakup-loss/right-now-akon|笔记]] |
 | Hip-hop | 11 | Love the Way You Lie (feat. Rihanna) | Eminem | [[learning-notes/english-song/breakup-loss/love-the-way-you-lie-eminem|笔记]] |
 | Hip-hop | 43 | Glorious (feat. Skylar Grey) | Macklemore | [[learning-notes/english-song/breakup-loss/glorious-macklemore|笔记]] |
@@ -506,6 +560,9 @@ aliases:
 | Hip-hop | 105 | WAP (feat. Megan Thee Stallion) | Cardi B | [[learning-notes/english-song/love-romance/wap-cardi-b|笔记]] |
 | Hip-hop | 106 | Anaconda | Nicki Minaj | [[learning-notes/english-song/love-romance/anaconda-nicki-minaj|笔记]] |
 | Hip-hop | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
+| Hip-hop | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| Hip-hop | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| Hip-hop | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
 | Jazz | 68 | What You Won't Do for Love | Bobby Caldwell | [[learning-notes/english-song/love-romance/what-you-wont-do-for-love-bobby-caldwell|笔记]] |
 | Jazz | 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | [[learning-notes/english-song/breakup-loss/just-the-two-of-us-grover-washington|笔记]] |
 | Jazz | 87 | Fly Me To The Moon | 小野丽莎 | [[learning-notes/english-song/love-romance/fly-me-to-the-moon-小野丽莎|笔记]] |
@@ -533,7 +590,7 @@ aliases:
 | Pop | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
 | Pop | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | Pop | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| Pop | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| Pop | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | Pop | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | Pop | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/life-attitude/the-old-man-yom|笔记]] |
 | Pop | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
@@ -611,6 +668,17 @@ aliases:
 | Pop | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | Pop | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | Pop | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| Pop | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| Pop | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| Pop | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| Pop | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| Pop | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| Pop | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| Pop | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| Pop | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| Pop | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| Pop | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| Pop | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | R&B | 10 | Right Now (Na Na Na) | Akon | [[learning-notes/english-song/breakup-loss/right-now-akon|笔记]] |
 | R&B | 23 | Stand By Me | Seal | [[learning-notes/english-song/love-romance/stand-by-me-seal|笔记]] |
 | R&B | 34 | Because of You | Ne-Yo | [[learning-notes/english-song/breakup-loss/because-of-you-ne-yo|笔记]] |
@@ -620,14 +688,19 @@ aliases:
 | R&B | 69 | Just the Two of Us | Grover Washington, Jr. with Bill Withers | [[learning-notes/english-song/breakup-loss/just-the-two-of-us-grover-washington|笔记]] |
 | R&B | 71 | Julie. | Gallant | [[learning-notes/english-song/breakup-loss/julie-gallant|笔记]] |
 | R&B | 72 | Say It Again | Betty Wright | [[learning-notes/english-song/love-romance/say-it-again-betty-wright|笔记]] |
+| R&B | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| R&B | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
 | Rock | 8 | Hey Jude | The Beatles | [[learning-notes/english-song/breakup-loss/hey-jude-the-beatles|笔记]] |
 | Rock | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
 | Rock | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| Rock | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| Rock | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | Rock | 45 | Numb | LINKIN PARK | [[learning-notes/english-song/breakup-loss/numb-linkin-park|笔记]] |
 | Rock | 57 | Messy | Lola Young | [[learning-notes/english-song/relationships/messy-lola-young|笔记]] |
 | Rock | 91 | Wake Me Up When September Ends | Green Day | [[learning-notes/english-song/breakup-loss/wake-me-up-when-september-ends-green-day|笔记]] |
 | Rock | 92 | I Have Nothing | Whitney Houston | [[learning-notes/english-song/breakup-loss/i-have-nothing-whitney-houston|笔记]] |
+| Rock | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| Rock | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| Rock | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 
 ## 按难度 · Level
 
@@ -682,6 +755,10 @@ aliases:
 | 易 | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | 易 | 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/love-romance/the-rose-手嶌葵|笔记]] |
 | 易 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
+| 易 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 易 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 易 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 易 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
 | 中 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 中 | 5 | I Like Me Better | LAUV | [[learning-notes/english-song/love-romance/i-like-me-better-lauv|笔记]] |
 | 中 | 7 | Better Man | Robbie Williams | [[learning-notes/english-song/breakup-loss/better-man-robbie-williams|笔记]] |
@@ -689,7 +766,7 @@ aliases:
 | 中 | 17 | bad guy | Billie Eilish | [[learning-notes/english-song/emotions/bad-guy-billie-eilish|笔记]] |
 | 中 | 18 | High on Life (feat. Bonn) | Martin Garrix | [[learning-notes/english-song/breakup-loss/high-on-life-martin-garrix|笔记]] |
 | 中 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| 中 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 中 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 中 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 中 | 31 | Sealed With a Kiss | The Lettermen | [[learning-notes/english-song/love-romance/sealed-with-a-kiss-the-lettermen|笔记]] |
 | 中 | 32 | No Such Thing as a Broken Heart | Old Dominion | [[learning-notes/english-song/love-romance/no-such-thing-as-a-broken-heart-old-dominion|笔记]] |
@@ -730,6 +807,14 @@ aliases:
 | 中 | 99 | Just One Last Dance (feat. Natural) | Sarah Connor | [[learning-notes/english-song/breakup-loss/just-one-last-dance-sarah-connor|笔记]] |
 | 中 | 102 | Catch a Grenade (The Hooligans Remix) | Bruno Mars | [[learning-notes/english-song/breakup-loss/catch-a-grenade-bruno-mars|笔记]] |
 | 中 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 中 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 中 | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 中 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 中 | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 中 | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| 中 | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| 中 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| 中 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 难 | 6 | 7 rings | Ariana Grande | [[learning-notes/english-song/love-romance/7-rings-ariana-grande|笔记]] |
 | 难 | 10 | Right Now (Na Na Na) | Akon | [[learning-notes/english-song/breakup-loss/right-now-akon|笔记]] |
 | 难 | 11 | Love the Way You Lie (feat. Rihanna) | Eminem | [[learning-notes/english-song/breakup-loss/love-the-way-you-lie-eminem|笔记]] |
@@ -742,6 +827,7 @@ aliases:
 | 难 | 105 | WAP (feat. Megan Thee Stallion) | Cardi B | [[learning-notes/english-song/love-romance/wap-cardi-b|笔记]] |
 | 难 | 106 | Anaconda | Nicki Minaj | [[learning-notes/english-song/love-romance/anaconda-nicki-minaj|笔记]] |
 | 难 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
+| 难 | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
 
 ## 按年代 · Era
 
@@ -751,7 +837,7 @@ aliases:
 | 经典 | 13 | I Will Follow You | Ricky Nelson | [[learning-notes/english-song/love-romance/i-will-follow-you-ricky-nelson|笔记]] |
 | 经典 | 15 | Right Here Waiting | 理查德·马克斯 | [[learning-notes/english-song/breakup-loss/right-here-waiting-理查德马克斯|笔记]] |
 | 经典 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| 经典 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 经典 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 经典 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 经典 | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/love-romance/what-can-i-do-caron-nightingale|笔记]] |
 | 经典 | 30 | Yesterday Once More | Carpenters | [[learning-notes/english-song/breakup-loss/yesterday-once-more-carpenters|笔记]] |
@@ -766,6 +852,7 @@ aliases:
 | 经典 | 95 | California Dreamin' | The Beach Boys | [[learning-notes/english-song/emotions/california-dreamin-the-beach-boys|笔记]] |
 | 经典 | 96 | If You Leave | Orchestral Manoeuvres In the Dark | [[learning-notes/english-song/breakup-loss/if-you-leave-orchestral-manoeuvres-in-the-dark|笔记]] |
 | 经典 | 100 | Lonely | NANA | [[learning-notes/english-song/breakup-loss/lonely-nana|笔记]] |
+| 经典 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
 | 2000s | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 2000s | 7 | Better Man | Robbie Williams | [[learning-notes/english-song/breakup-loss/better-man-robbie-williams|笔记]] |
 | 2000s | 9 | Sealed With a Kiss | Dana Winner | [[learning-notes/english-song/breakup-loss/sealed-with-a-kiss-dana-winner|笔记]] |
@@ -789,6 +876,9 @@ aliases:
 | 2000s | 93 | Everybody | Ingrid Michaelson | [[learning-notes/english-song/love-romance/everybody-ingrid-michaelson|笔记]] |
 | 2000s | 99 | Just One Last Dance (feat. Natural) | Sarah Connor | [[learning-notes/english-song/breakup-loss/just-one-last-dance-sarah-connor|笔记]] |
 | 2000s | 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/love-romance/the-rose-手嶌葵|笔记]] |
+| 2000s | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 2000s | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
+| 2000s | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 2010s | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 2010s | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
 | 2010s | 5 | I Like Me Better | LAUV | [[learning-notes/english-song/love-romance/i-like-me-better-lauv|笔记]] |
@@ -836,6 +926,12 @@ aliases:
 | 2010s | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 2010s | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | 2010s | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 2010s | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 2010s | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 2010s | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 2010s | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| 2010s | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| 2010s | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
 | 2020s | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 2020s | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/breakup-loss/love-story-taylor-swift|笔记]] |
 | 2020s | 38 | Die With A Smile | Lady Gaga & Bruno Mars | [[learning-notes/english-song/breakup-loss/die-with-a-smile-lady-gaga|笔记]] |
@@ -856,6 +952,9 @@ aliases:
 | 2020s | 101 | Deadman | 蔡徐坤 | [[learning-notes/english-song/breakup-loss/deadman-蔡徐坤|笔记]] |
 | 2020s | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | 2020s | 105 | WAP (feat. Megan Thee Stallion) | Cardi B | [[learning-notes/english-song/love-romance/wap-cardi-b|笔记]] |
+| 2020s | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 2020s | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 2020s | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
 
 ## 按场景 · Use
 
@@ -876,7 +975,7 @@ aliases:
 | KTV | 16 | Black Sheep | Gin Wigmore | [[learning-notes/english-song/life-attitude/black-sheep-gin-wigmore|笔记]] |
 | KTV | 19 | Always Remember Us This Way | Brenda Mullen | [[learning-notes/english-song/breakup-loss/always-remember-us-this-way-brenda-mullen|笔记]] |
 | KTV | 23 | Stand By Me | Seal | [[learning-notes/english-song/love-romance/stand-by-me-seal|笔记]] |
-| KTV | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| KTV | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | KTV | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
 | KTV | 28 | What Can I Do (Promises) | Caron Nightingale | [[learning-notes/english-song/love-romance/what-can-i-do-caron-nightingale|笔记]] |
 | KTV | 29 | Love Story (Taylor’s Version) | Taylor Swift | [[learning-notes/english-song/breakup-loss/love-story-taylor-swift|笔记]] |
@@ -938,6 +1037,16 @@ aliases:
 | KTV | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | KTV | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | KTV | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| KTV | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| KTV | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| KTV | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| KTV | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| KTV | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| KTV | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| KTV | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| KTV | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| KTV | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| KTV | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 发音 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 发音 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 发音 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
@@ -959,7 +1068,7 @@ aliases:
 | 发音 | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
 | 发音 | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|笔记]] |
 | 发音 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
-| 发音 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 发音 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 发音 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 发音 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/life-attitude/the-old-man-yom|笔记]] |
 | 发音 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
@@ -1041,6 +1150,19 @@ aliases:
 | 发音 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 发音 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|笔记]] |
 | 发音 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 发音 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 发音 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 发音 | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 发音 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 发音 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 发音 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 发音 | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 发音 | 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|笔记]] |
+| 发音 | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| 发音 | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| 发音 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| 发音 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| 发音 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 精研 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 精研 | 2 | I Am You (Remastered 2021) | Kim Taylor | [[learning-notes/english-song/love-romance/i-am-you-kim-taylor|笔记]] |
 | 精研 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
@@ -1060,7 +1182,7 @@ aliases:
 | 精研 | 20 | Dreamer | Europe | [[learning-notes/english-song/breakup-loss/dreamer-europe|笔记]] |
 | 精研 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|笔记]] |
 | 精研 | 23 | Stand By Me | Seal | [[learning-notes/english-song/love-romance/stand-by-me-seal|笔记]] |
-| 精研 | 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
+| 精研 | 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|笔记]] |
 | 精研 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|笔记]] |
 | 精研 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/life-attitude/the-old-man-yom|笔记]] |
 | 精研 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|笔记]] |
@@ -1137,6 +1259,18 @@ aliases:
 | 精研 | 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/love-romance/the-rose-手嶌葵|笔记]] |
 | 精研 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
 | 精研 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|笔记]] |
+| 精研 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 精研 | 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|笔记]] |
+| 精研 | 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|笔记]] |
+| 精研 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 精研 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 精研 | 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|笔记]] |
+| 精研 | 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|笔记]] |
+| 精研 | 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|笔记]] |
+| 精研 | 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|笔记]] |
+| 精研 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
+| 精研 | 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|笔记]] |
+| 精研 | 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|笔记]] |
 | 通勤 | 1 | Relax, Take It Easy | MIKA | [[learning-notes/english-song/breakup-loss/relax-take-it-easy-mika|笔记]] |
 | 通勤 | 3 | Can't Complain | Relient K | [[learning-notes/english-song/breakup-loss/cant-complain-relient-k|笔记]] |
 | 通勤 | 4 | Everybody Knows | Sigrid | [[learning-notes/english-song/breakup-loss/everybody-knows-sigrid|笔记]] |
@@ -1185,10 +1319,14 @@ aliases:
 | 通勤 | 103 | Levitating | Dua Lipa | [[learning-notes/english-song/love-romance/levitating-dua-lipa|笔记]] |
 | 通勤 | 104 | The Rose | 手嶌葵 | [[learning-notes/english-song/love-romance/the-rose-手嶌葵|笔记]] |
 | 通勤 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|笔记]] |
+| 通勤 | 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|笔记]] |
+| 通勤 | 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|笔记]] |
+| 通勤 | 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|笔记]] |
+| 通勤 | 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|笔记]] |
 
 ## 完整笔记（手工精编）
 
-以下 **109** 首含歌手/歌曲简介、按段英中交错歌词（中文为意译）、重点表达（播放列表 **#1–#109** 全部精编）：
+以下 **122** 首含歌手/歌曲简介、按段英中交错歌词（中文为意译）、重点表达（播放列表 **#1–#122** 全部建档；#110–#122 为新增，逐段中文意译待补，#118 *Sunday* 歌词待补）：
 
 | # | 歌曲 | 歌手 | 笔记 |
 | --- | --- | --- | --- |
@@ -1215,7 +1353,7 @@ aliases:
 | 21 | When Your Lips Are So Close | Gord Bamford | [[learning-notes/english-song/love-romance/when-your-lips-are-so-close-gord-bamford|When Your Lips Are So Close]] |
 | 22 | Against All Odds (Take a Look at Me Now) | Phil Collins | [[learning-notes/english-song/breakup-loss/against-all-odds-phil-collins|Against All Odds (Take a Look at Me Now)]] |
 | 23 | Stand By Me | Seal | [[learning-notes/english-song/love-romance/stand-by-me-seal|Stand By Me]] |
-| 24 | Who Wants To Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|Who Wants To Live Forever]] |
+| 24 | Who Wants to Live Forever | Queen | [[learning-notes/english-song/breakup-loss/who-wants-to-live-forever-queen|Who Wants to Live Forever]] |
 | 25 | The Old Man | 菲尔・科尔特 | [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|The Old Man]] |
 | 26 | The Old Man | Yom & Aurélien Naffrichoux | [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man]] |
 | 27 | Promises Don't Come Easy | 陈曦 | [[learning-notes/english-song/life-attitude/promises-dont-come-easy-陈曦|Promises Don't Come Easy]] |
@@ -1301,13 +1439,22 @@ aliases:
 | 107 | When I Was Your Man | Bruno Mars | [[learning-notes/english-song/breakup-loss/when-i-was-your-man-bruno-mars|When I Was Your Man]] |
 | 108 | Somebody That I Used to Know (feat. Kimbra) | Gotye | [[learning-notes/english-song/breakup-loss/somebody-that-i-used-to-know-gotye|Somebody That I Used to Know (feat. Kimbra)]] |
 | 109 | Walking Away | ChianoSky | [[learning-notes/english-song/breakup-loss/walking-away-chianosky|Walking Away]] |
+| 110 | You Are My Sunshine | Angelika Vee | [[learning-notes/english-song/love-romance/you-are-my-sunshine-angelika-vee|You Are My Sunshine]] |
+| 111 | Desperado | Eagles | [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado]] |
+| 112 | Take You Dancing | Jason Derulo | [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|Take You Dancing]] |
+| 113 | Diamonds | Rihanna | [[learning-notes/english-song/love-romance/diamonds-rihanna|Diamonds]] |
+| 114 | Where Have You Been | Rihanna | [[learning-notes/english-song/love-romance/where-have-you-been-rihanna|Where Have You Been]] |
+| 115 | Umbrella (feat. JAŸ-Z) | Rihanna | [[learning-notes/english-song/love-romance/umbrella-rihanna|Umbrella (feat. JAŸ-Z)]] |
+| 116 | Price Tag (feat. B.o.B) | Jessie J | [[learning-notes/english-song/life-attitude/price-tag-jessie-j|Price Tag (feat. B.o.B)]] |
+| 117 | Boom Boom Pow | Black Eyed Peas | [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|Boom Boom Pow]] |
+| 118 | Sunday | Jack Thweatt | [[learning-notes/english-song/life-attitude/sunday-jack-thweatt|Sunday]] |
+| 119 | Watch Me Work | Tinashe | [[learning-notes/english-song/love-romance/watch-me-work-tinashe|Watch Me Work]] |
+| 120 | Afterglow | Ed Sheeran | [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|Afterglow]] |
+| 121 | Whataya Want from Me (Live) | Adam Lambert | [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|Whataya Want from Me (Live)]] |
+| 122 | Time for Miracles (From the Motion Picture "2012") | Adam Lambert | [[learning-notes/english-song/love-romance/time-for-miracles-adam-lambert|Time for Miracles (From the Motion Picture "2012")]] |
 
 ## 精编进度
 
 播放列表 **#1–#109** 已全部精编完成（含简介、按段英中交错歌词、重点表达与听歌提示）。
 
-## 精编补充（播放列表外）
-
-| 歌名 | 歌手 | 主题 | 笔记 |
-| --- | --- | --- | --- |
-| Desperado | Eagles | 生活态度 · 情绪 · 恋爱 | [[learning-notes/english-song/life-attitude/desperado-eagles|Desperado]] |
+**2026-09-29 同步：** 歌单新增 **#110–#122**（13 首）。*Desperado*（#111）原为歌单外精编，现已并入歌单；*Who Wants to Live Forever*（#24）Apple Music 换为 *A Kind Of Magic (Deluxe Edition)* 版本。其余 12 首已建档（简介、歌词、重点表达、听歌提示），逐段中文意译待补；#118 *Sunday* 歌词暂缺。

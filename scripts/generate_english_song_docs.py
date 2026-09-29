@@ -130,6 +130,20 @@ CURATED = {
     ('When I Was Your Man', 'Bruno Mars'): 'when-i-was-your-man-bruno-mars.md',
     ('Somebody That I Used to Know (feat. Kimbra)', 'Gotye'): 'somebody-that-i-used-to-know-gotye.md',
     ('Walking Away', 'ChianoSky'): 'walking-away-chianosky.md',
+    ('Who Wants to Live Forever', 'Queen'): 'who-wants-to-live-forever-queen.md',
+    ('You Are My Sunshine', 'Angelika Vee'): 'you-are-my-sunshine-angelika-vee.md',
+    ('Desperado', 'Eagles'): 'desperado-eagles.md',
+    ('Take You Dancing', 'Jason Derulo'): 'take-you-dancing-jason-derulo.md',
+    ('Diamonds', 'Rihanna'): 'diamonds-rihanna.md',
+    ('Where Have You Been', 'Rihanna'): 'where-have-you-been-rihanna.md',
+    ('Umbrella (feat. JAŸ-Z)', 'Rihanna'): 'umbrella-rihanna.md',
+    ('Price Tag (feat. B.o.B)', 'Jessie J'): 'price-tag-jessie-j.md',
+    ('Boom Boom Pow', 'Black Eyed Peas'): 'boom-boom-pow-black-eyed-peas.md',
+    ('Sunday', 'Jack Thweatt'): 'sunday-jack-thweatt.md',
+    ('Watch Me Work', 'Tinashe'): 'watch-me-work-tinashe.md',
+    ('Afterglow', 'Ed Sheeran'): 'afterglow-ed-sheeran.md',
+    ('Whataya Want from Me (Live)', 'Adam Lambert'): 'whataya-want-from-me-adam-lambert.md',
+    ('Time for Miracles (From the Motion Picture "2012")', 'Adam Lambert'): 'time-for-miracles-adam-lambert.md',
 }
 
 
@@ -260,7 +274,7 @@ aliases:
 
 按歌曲整理的英文学习笔记：歌手与歌曲简介、歌词、重点表达。
 
-**Apple Music 播放列表：** [English song]({PLAYLIST_URL})（109 首 · 约 6 小时 46 分钟）
+**Apple Music 播放列表：** [English song]({PLAYLIST_URL})（122 首 · 约 7 小时 36 分钟）
 
 ## 播放列表清单
 

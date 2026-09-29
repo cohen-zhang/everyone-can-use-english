@@ -18,7 +18,7 @@ aliases:
 ---
 # Who Wants To Live Forever — Queen
 
-**Apple Music：** [Who Wants To Live Forever](https://music.apple.com/cn/song/who-wants-to-live-forever/1441459179)
+**Apple Music：** [Who Wants to Live Forever](https://music.apple.com/cn/song/who-wants-to-live-forever/6781023978)
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 

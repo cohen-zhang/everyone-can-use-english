@@ -20,7 +20,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** 被观看与被消耗 — [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*make you do it all again*、表演者 burnout 一类表达可对照本歌副歌）。
+**相关：** 被观看与被消耗 — [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*make you do it all again*、表演者 burnout 一类表达可对照本歌副歌） · [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|Boom Boom Pow — Black Eyed Peas]]（同夹派对舞曲）。
 
 ---
 

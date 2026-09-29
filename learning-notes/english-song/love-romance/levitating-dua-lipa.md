@@ -23,7 +23,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*sugarboo*、*moonlight / starlight* 一类甜蜜称呼可对照） · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*sugarboo*、*moonlight / starlight* 一类甜蜜称呼可对照） · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] · [[learning-notes/english-song/love-romance/take-you-dancing-jason-derulo|Take You Dancing — Jason Derulo]]（同为复古舞曲、邀约跳舞）
 
 ---
 

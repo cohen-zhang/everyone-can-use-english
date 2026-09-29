@@ -2,6 +2,7 @@
 tags:
   - english-song
   - english-learning
+  - playlist/english-song
   - topic/life-attitude
   - topic/breakup-loss
   - topic/emotions
@@ -19,7 +20,7 @@ aliases:
 ---
 # Desperado — Eagles
 
-**Apple Music：** [Desperado](https://music.apple.com/cn/song/desperado/635829530)
+**Apple Music：** [Desperado](https://music.apple.com/cn/song/desperado/635788394)
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
@@ -57,6 +58,7 @@ aliases:
 | 时长 | Length | 3:31 |
 | 词曲 | Songwriters | Glenn Frey, Don Henley |
 | 主唱 | Lead vocal | Don Henley |
+| 播放列表 | Playlist | [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1) · #111 |
 
 ---
 

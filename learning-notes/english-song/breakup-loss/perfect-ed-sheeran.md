@@ -23,7 +23,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*dancing in the dark*、*look perfect tonight* 等婚礼/告白常用句可对照）
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]（*dancing in the dark*、*look perfect tonight* 等婚礼/告白常用句可对照） · [[learning-notes/english-song/love-romance/afterglow-ed-sheeran|Afterglow — Ed Sheeran]]（同一歌手的冬日原声情歌）
 
 ---
 

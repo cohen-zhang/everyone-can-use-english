@@ -581,7 +581,7 @@
   },
   {
     "track": 24,
-    "title": "Who Wants To Live Forever",
+    "title": "Who Wants to Live Forever",
     "artist": "Queen",
     "file": "who-wants-to-live-forever-queen.md",
     "curated": true,
@@ -2051,8 +2051,8 @@
       "use/deep-study",
       "use/pronunciation"
     ],
-    "topic_display": "生活态度",
-    "genre_display": "Pop",
+    "topic_display": "生活态度 · 情绪",
+    "genre_display": "Pop · EDM",
     "lyrics_missing": false
   },
   {
@@ -2773,6 +2773,337 @@
     ],
     "topic_display": "分手·思念 · 情绪 · 恋爱",
     "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 110,
+    "title": "You Are My Sunshine",
+    "artist": "Angelika Vee",
+    "file": "you-are-my-sunshine-angelika-vee.md",
+    "curated": true,
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 111,
+    "title": "Desperado",
+    "artist": "Eagles",
+    "file": "desperado-eagles.md",
+    "curated": true,
+    "topics": [
+      "topic/breakup-loss",
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/country",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/classic",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Country · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 112,
+    "title": "Take You Dancing",
+    "artist": "Jason Derulo",
+    "file": "take-you-dancing-jason-derulo.md",
+    "curated": true,
+    "topics": [
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2020s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 派对·能量",
+    "genre_display": "Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 113,
+    "title": "Diamonds",
+    "artist": "Rihanna",
+    "file": "diamonds-rihanna.md",
+    "curated": true,
+    "topics": [
+      "topic/emotions",
+      "topic/life-attitude",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 生活态度 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 114,
+    "title": "Where Have You Been",
+    "artist": "Rihanna",
+    "file": "where-have-you-been-rihanna.md",
+    "curated": true,
+    "topics": [
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/edm",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2010s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 派对·能量",
+    "genre_display": "EDM · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 115,
+    "title": "Umbrella (feat. JAŸ-Z)",
+    "artist": "Rihanna",
+    "file": "umbrella-rihanna.md",
+    "curated": true,
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance",
+      "topic/relationships"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop",
+      "genre/r-and-b"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱 · 关系",
+    "genre_display": "Hip-hop · Pop · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 116,
+    "title": "Price Tag (feat. B.o.B)",
+    "artist": "Jessie J",
+    "file": "price-tag-jessie-j.md",
+    "curated": true,
+    "topics": [
+      "topic/life-attitude",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/hip-hop",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度 · 派对·能量",
+    "genre_display": "Hip-hop · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 117,
+    "title": "Boom Boom Pow",
+    "artist": "Black Eyed Peas",
+    "file": "boom-boom-pow-black-eyed-peas.md",
+    "curated": true,
+    "topics": [
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/edm",
+      "genre/hip-hop"
+    ],
+    "level": "level/hard",
+    "era": "era/2000s",
+    "uses": [
+      "use/pronunciation"
+    ],
+    "topic_display": "派对·能量",
+    "genre_display": "EDM · Hip-hop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 118,
+    "title": "Sunday",
+    "artist": "Jack Thweatt",
+    "file": "sunday-jack-thweatt.md",
+    "curated": true,
+    "topics": [
+      "topic/life-attitude"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "生活态度",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": true
+  },
+  {
+    "track": 119,
+    "title": "Watch Me Work",
+    "artist": "Tinashe",
+    "file": "watch-me-work-tinashe.md",
+    "curated": true,
+    "topics": [
+      "topic/love-romance",
+      "topic/party-energy"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/r-and-b"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/pronunciation"
+    ],
+    "topic_display": "恋爱 · 派对·能量",
+    "genre_display": "Pop · R&B",
+    "lyrics_missing": false
+  },
+  {
+    "track": 120,
+    "title": "Afterglow",
+    "artist": "Ed Sheeran",
+    "file": "afterglow-ed-sheeran.md",
+    "curated": true,
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop"
+    ],
+    "level": "level/easy",
+    "era": "era/2020s",
+    "uses": [
+      "use/commute",
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱",
+    "genre_display": "Ballad · Pop",
+    "lyrics_missing": false
+  },
+  {
+    "track": 121,
+    "title": "Whataya Want from Me (Live)",
+    "artist": "Adam Lambert",
+    "file": "whataya-want-from-me-adam-lambert.md",
+    "curated": true,
+    "topics": [
+      "topic/emotions",
+      "topic/love-romance",
+      "topic/self-identity"
+    ],
+    "genres": [
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2010s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "情绪 · 恋爱 · 自我",
+    "genre_display": "Pop · Rock",
+    "lyrics_missing": false
+  },
+  {
+    "track": 122,
+    "title": "Time for Miracles (From the Motion Picture \"2012\")",
+    "artist": "Adam Lambert",
+    "file": "time-for-miracles-adam-lambert.md",
+    "curated": true,
+    "topics": [
+      "topic/breakup-loss",
+      "topic/film-ost",
+      "topic/love-romance"
+    ],
+    "genres": [
+      "genre/ballad",
+      "genre/pop",
+      "genre/rock"
+    ],
+    "level": "level/medium",
+    "era": "era/2000s",
+    "uses": [
+      "use/deep-study",
+      "use/ktv",
+      "use/pronunciation"
+    ],
+    "topic_display": "分手·思念 · 影视原声 · 恋爱",
+    "genre_display": "Ballad · Pop · Rock",
     "lyrics_missing": false
   }
 ]

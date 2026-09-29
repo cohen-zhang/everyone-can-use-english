@@ -7,6 +7,8 @@
 ## 本夹曲目
 
 - [[learning-notes/english-song/emotions/bad-guy-billie-eilish|bad-guy-billie-eilish]]
+- [[learning-notes/english-song/emotions/boom-boom-pow-black-eyed-peas|boom-boom-pow-black-eyed-peas]]
 - [[learning-notes/english-song/emotions/california-dreamin-the-beach-boys|california-dreamin-the-beach-boys]]
 - [[learning-notes/english-song/emotions/dance-monkey-tones-and-i|dance-monkey-tones-and-i]]
 - [[learning-notes/english-song/emotions/i-got-you-janji|i-got-you-janji]]
+- [[learning-notes/english-song/emotions/whataya-want-from-me-adam-lambert|whataya-want-from-me-adam-lambert]]
