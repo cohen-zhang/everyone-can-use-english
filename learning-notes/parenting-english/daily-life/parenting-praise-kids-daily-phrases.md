@@ -11,11 +11,11 @@ aliases:
 
 # 夸奖、赞美小朋友 — 亲子日常英文
 
-帮家长用英文**具体、诚恳**地夸奖 **不多 / Celine**：覆盖 **日常行为、学习、礼貌、外貌衣着、内心与品格**。句子偏口语，可直接套用或略改主语。
+帮家长用英文**具体、诚恳**地夸奖 **不多 / Celine**：覆盖 **日常行为、学习、礼貌、外貌衣着、内心与品格**，并收录 **班主任真实感谢信**（可对照复述）。句子偏口语，可直接套用或略改主语。
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**相关（剧摘对照）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 台词原句、祝福与回应；本篇是 **跨场景日常句库**，可与该剧摘 **相向互链**、对照练习。
+**相关（剧摘对照）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 台词原句、祝福与回应；本篇是 **跨场景日常句库**，可与该剧摘 **相向互链**、对照练习。校园科目与课堂用语见 [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|小学科目词汇]]。
 
 ---
 
@@ -116,6 +116,59 @@ aliases:
 | **thoughtful** | 体贴的、想得周到的 | 让座、记得别人偏好 |
 | **neat** | 整洁的 | 衣着、书桌、字迹 |
 | **creative** | 有创意的 | 画画、解题、玩法 |
+| **organized** | 有条理的、井井有条的 | *well organized* / *keep things in order* |
+| **responsible** | 负责任的 | 小助手、值日、托付之事 |
+| **focused** | 专注的 | 听讲、作业；*stay focused* |
+| **eager** | 积极的、热切的 | *eager to share* / *eager to help* |
+
+---
+
+## 8. 班主任感谢信 · Teacher Li `亲子`
+
+开学报到后，班主任 **李老师** 写给 **不多 / Celine** 的感谢与表扬（原文略有标点整理）。下面给出**可朗读的美式改写**，并拆出**可复用的夸奖句**，方便家长对照本页 §2 / §5 / §6 一起练。
+
+### 中文原文
+
+开学以来，你总能专注听讲，积极思考，大方分享自己的想法。作为老师的小助手，你热心负责，做事井井有条。值得称赞，老师替你感到骄傲！  
+加油，继续努力。  
+—— 李老师 · **2026 年 9 月 29 日**
+
+### English rewrite（美式口语 · 短句）
+
+Since school started, you've stayed focused in class.  
+You listen carefully and think things through.  
+You also speak up and share your ideas.  
+As my little helper, you jump in with a warm heart.  
+You're responsible, and you keep things organized.  
+That deserves real praise.  
+I'm so proud of you!  
+Keep it up—and keep working hard.  
+
+— Teacher Li · **September 29, 2026**
+
+### 可复用句（英 + 简中）
+
+| English | 简中 |
+| --- | --- |
+| **You've stayed focused in class.** | 你上课一直很专注。 |
+| **You listen carefully.** | 你听得很认真。 |
+| **You think things through.** | 你会把事情想清楚。 |
+| **You speak up and share your ideas.** | 你敢开口，也愿意分享想法。 |
+| **As my little helper, …** | 作为老师的小助手，…… |
+| **You jump in with a warm heart.** | 你热心帮忙、愿意上手。 |
+| **You're responsible.** | 你很负责任。 |
+| **You keep things organized.** | 你做事井井有条。 |
+| **That deserves real praise.** | 这值得好好夸奖。 |
+| **I'm so proud of you!** | 老师（我）为你感到骄傲！ |
+| **Keep it up.** | 加油 / 继续保持。 |
+| **Keep working hard.** | 继续努力。 |
+
+**家长可接一句（家里复述）：**
+
+- **Your teacher wrote that she's proud of you. I am too.** — 老师写信说她为你骄傲，我也是。
+- **She noticed you stay focused and help out. That means a lot.** — 她看到你专注听讲、热心帮忙，这很重要。
+- **She also said: keep it up and keep working hard.** — 她还说：加油，继续努力。
+- **Getting this thank-you note from your teacher makes me happier than a better grade.** — 收到老师的这封感谢信，比你成绩进步更让我高兴。
 
 ---
 
@@ -123,7 +176,7 @@ aliases:
 
 ---
 
-## 8. 英文短文 · 阿泽自述（夸奖的日常用法）
+## 9. 英文短文 · 阿泽自述（夸奖的日常用法）
 
 朗读文本：[[每日语音文本/parenting-english/daily-life/parenting-praise-kids-daily-phrases]]
 

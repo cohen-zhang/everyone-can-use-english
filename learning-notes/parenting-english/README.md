@@ -30,7 +30,7 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动自行车接送 — 校门通勤]] — school run、e‑bike 安全口令
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine.md|不多的一天（上）]] — 一日流记录
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2.md|不多的一天（下）]] — 一日流记录续
-- [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心
+- [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心；含班主任李老师感谢信（§8）
 - [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases.md|手机日常]] — 手机、专注相关
 - [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases.md|家庭守则与作息]] — 作息、家规、诚实与说到做到
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]] — 穿衣、天气
