@@ -131,7 +131,7 @@ aliases:
 
 开学以来，你总能专注听讲，积极思考，大方分享自己的想法。作为老师的小助手，你热心负责，做事井井有条。值得称赞，老师替你感到骄傲！  
 加油，继续努力。  
-—— 李老师 · **2026 年 9 月 29 日**
+—— 杨老师 · **2026 年 9 月 29 日**
 
 ### English rewrite（美式口语 · 短句）
 
@@ -144,7 +144,7 @@ That deserves real praise.
 I'm so proud of you!  
 Keep it up—and keep working hard.  
 
-— Teacher Li · **September 29, 2026**
+— Teacher Yang · **September 29, 2026**
 
 ### 可复用句（英 + 简中）
 
