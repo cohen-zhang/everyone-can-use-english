@@ -5,6 +5,7 @@ tags:
   - audience/parent-child
   - topic/children-song
   - topic/space
+  - topic/counting
 aliases:
   - Five Little Men in a Flying Saucer — Classic Books with Holes
 ---
@@ -16,7 +17,7 @@ aliases:
 
 **绘本说明：** Child's Play 版图画里，五个小人因地球脏乱先后飞走；结尾人类把环境收拾好，小人**乘飞碟回来并决定留下**——后半段歌词与画面一致。
 
-**相关：** [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/DownByTheStation|Down by the Station]]（同系列）· [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/航天亲子口语]]（*flying saucer* 等太空词）· [[learning-notes/parenting-english/README|parenting-english 索引]]
+**相关：** [[learning-notes/english-song/celine-kids/classic-books-with-holes/FiveLittleDucks|Five Little Ducks]]（同是倒数歌）· [[learning-notes/english-song/celine-kids/classic-books-with-holes/TheWheelsOnTheBus|The Wheels on the Bus]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/DownByTheStation|Down by the Station]] · [[learning-notes/english-song/celine-kids/classic-books-with-holes/DryBones|Dry Bones]]（同系列）· [[learning-notes/english-song/celine-kids/children-song/HeadShouldersKneesToes|Head, Shoulders, Knees and Toes]] · [[learning-notes/english-song/celine-kids/children-song/AreYouSleeping|Are You Sleeping?]] · [[learning-notes/english-song/celine-kids/children-song/TwinkleTwinkleLittleStar|Twinkle, Twinkle, Little Star]]（Celine 日常儿歌）· [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|宇宙/航天亲子口语]]（*flying saucer* 等太空词）· [[learning-notes/parenting-english/README|parenting-english 索引]]
 
 ---
 
