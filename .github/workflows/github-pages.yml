@@ -29,6 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # The home page derives "最近添加" from each file's first commit.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:

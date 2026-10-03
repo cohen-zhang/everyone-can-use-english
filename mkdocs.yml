@@ -19,6 +19,7 @@ exclude_docs: |
   *.mp3
   *.vtt
   **/.pages
+  personal-reading-data.yml
   parenting-english/assets/animals/animals-manifest.yml
 
 # Slim sidebar: keep section/theme README hubs; hide bulky leaves (still searchable).

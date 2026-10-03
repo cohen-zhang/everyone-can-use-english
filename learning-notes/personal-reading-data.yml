@@ -1,0 +1,38 @@
+version: 1
+owner: 阿泽
+review_intervals: [1, 2, 4, 7, 15, 30, 60]
+
+# 更新方式：
+# - 首次读完或复习后，在 history 末尾追加一条 {date, result}。
+# - result 可用 hard / good / easy；hard 会把下一次间隔缩短一半。
+# - status: want（待读）/ active（进入遗忘曲线）/ mastered（已掌握）。
+items:
+  - id: mineral-water-one-minute-drill
+    title: 渴了喝矿泉水（1 分钟练习）
+    url: personal-english-book/one-minute-drill/渴了喝矿泉水/
+    category: 一分钟练习
+    status: want
+    priority: high
+    added: 2026-10-03
+    note: 练拿瓶、拧盖、喝水和回收的一整段口语。
+    history: []
+
+  - id: parenting-hand-actions
+    title: 提手旁动作 · 矿泉水瓶
+    url: parenting-english/vocabulary/parenting-actions-vocab/#提手旁动作--矿泉水瓶--14-hand-actions-亲子
+    category: 亲子词汇
+    status: want
+    priority: normal
+    added: 2026-10-03
+    note: 用同一只瓶子对照 14 个手部动作。
+    history: []
+
+  - id: praise-kids-daily-phrases
+    title: 夸孩子日常表达
+    url: parenting-english/daily-life/parenting-praise-kids-daily-phrases/
+    category: 亲子英语
+    status: want
+    priority: normal
+    added: 2026-10-03
+    note: 从泛泛表扬升级到描述努力、策略与进步。
+    history: []

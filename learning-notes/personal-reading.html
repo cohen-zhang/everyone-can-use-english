@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>阿泽的个人阅读计划</title>
+  <style>
+    :root {
+      --bg: #f4f7fb; --card: #fff; --text: #253044; --muted: #738096;
+      --line: #e6ebf2; --primary: #4f61c8; --primary-soft: #eef0ff;
+      --good: #2d9b68; --good-soft: #e7f7ef; --warn: #d8822b; --warn-soft: #fff4e7;
+      --danger: #d65757; --danger-soft: #fff0f0; --shadow: 0 10px 30px rgba(44,60,105,.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; color: var(--text); background:
+        radial-gradient(circle at 8% 0%, #e9edff 0, transparent 30rem),
+        radial-gradient(circle at 95% 12%, #e2f7ee 0, transparent 26rem), var(--bg);
+      font: 15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    }
+    a { color: inherit; }
+    .shell { max-width: 1100px; margin: 0 auto; padding: 28px 20px 56px; }
+    .hero {
+      position: relative; overflow: hidden; padding: 28px; border-radius: 24px;
+      color: #fff; background: linear-gradient(135deg,#4b5cc5,#6879df 58%,#4cae91);
+      box-shadow: var(--shadow);
+    }
+    .hero::after {
+      content: "READ"; position: absolute; right: 18px; bottom: -24px;
+      font-size: 100px; font-weight: 900; opacity: .08; letter-spacing: .08em;
+    }
+    .eyebrow { opacity: .82; font-size: 13px; letter-spacing: .08em; }
+    h1 { margin: 4px 0 6px; font-size: clamp(26px,5vw,40px); line-height: 1.2; }
+    .hero p { margin: 0; opacity: .9; max-width: 660px; }
+    .stats { display: grid; grid-template-columns: repeat(4,1fr); gap: 12px; margin-top: 22px; }
+    .stat { padding: 14px; border-radius: 16px; background: rgba(255,255,255,.14); backdrop-filter: blur(6px); }
+    .stat b { display: block; font-size: 25px; }
+    .stat span { font-size: 12px; opacity: .82; }
+    .summary {
+      margin: 18px 0 0; padding: 15px 18px; border: 1px solid var(--line);
+      border-radius: 16px; background: var(--card); box-shadow: var(--shadow);
+      color: var(--good); font-weight: 650;
+    }
+    .layout { display: grid; grid-template-columns: minmax(0,1.45fr) minmax(280px,.75fr); gap: 18px; margin-top: 18px; }
+    .stack { display: grid; gap: 18px; align-content: start; }
+    .panel { padding: 20px; border: 1px solid var(--line); border-radius: 20px; background: var(--card); box-shadow: var(--shadow); }
+    .panel-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 12px; }
+    h2 { margin: 0; font-size: 19px; }
+    .count { color: var(--muted); font-size: 12px; }
+    .list { display: grid; gap: 10px; }
+    .item {
+      display: grid; grid-template-columns: 1fr auto; gap: 10px; padding: 14px;
+      border: 1px solid var(--line); border-radius: 15px; text-decoration: none;
+      transition: transform .15s ease,border-color .15s ease,box-shadow .15s ease;
+    }
+    .item:hover { transform: translateY(-1px); border-color: #b9c2ea; box-shadow: 0 8px 18px rgba(55,70,130,.08); }
+    .item h3 { margin: 0 0 5px; font-size: 15px; }
+    .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; color: var(--muted); font-size: 12px; }
+    .note { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
+    .pill { align-self: start; padding: 4px 8px; border-radius: 999px; white-space: nowrap; font-size: 11px; font-weight: 700; }
+    .pill.due { color: var(--danger); background: var(--danger-soft); }
+    .pill.today { color: var(--warn); background: var(--warn-soft); }
+    .pill.future { color: var(--primary); background: var(--primary-soft); }
+    .pill.done { color: var(--good); background: var(--good-soft); }
+    .empty { padding: 22px 14px; border: 1px dashed var(--line); border-radius: 15px; text-align: center; color: var(--muted); }
+    .empty strong { display: block; margin-bottom: 4px; color: var(--good); font-size: 16px; }
+    .timeline { list-style: none; padding: 0; margin: 0; }
+    .timeline li { position: relative; padding: 0 0 15px 20px; border-left: 2px solid var(--line); }
+    .timeline li::before { content: ""; position: absolute; left: -6px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--primary); }
+    .timeline li:last-child { padding-bottom: 0; }
+    .timeline b { display: block; font-size: 13px; }
+    .timeline span { color: var(--muted); font-size: 12px; }
+    .curve { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
+    .curve span { padding: 6px 9px; border-radius: 9px; color: var(--primary); background: var(--primary-soft); font-size: 12px; }
+    .agent-tip { color: var(--muted); font-size: 13px; }
+    .agent-tip code { display: block; margin-top: 8px; padding: 10px; border-radius: 10px; white-space: normal; color: var(--text); background: var(--bg); }
+    .error { padding: 30px; text-align: center; color: var(--danger); }
+    @media (max-width: 760px) {
+      .shell { padding: 14px 12px 36px; }
+      .hero { padding: 22px 18px; border-radius: 20px; }
+      .stats { grid-template-columns: repeat(2,1fr); }
+      .layout { grid-template-columns: 1fr; }
+      .panel { padding: 16px; }
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:#11151d; --card:#1b202b; --text:#edf1f7; --muted:#a6afbd; --line:#303746;
+        --primary:#aeb8ff; --primary-soft:#293052; --good:#69d59d; --good-soft:#19382d;
+        --warn:#f5b35d; --warn-soft:#3b2d1b; --danger:#ff9292; --danger-soft:#412529;
+        --shadow:0 10px 30px rgba(0,0,0,.18);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell" id="app"><div class="error">正在生成今天的阅读清单……</div></main>
+  <script>
+  (() => {
+    const $app = document.getElementById("app");
+    const iso = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+    const parse = s => new Date(`${s}T12:00:00`);
+    const addDays = (s,n) => { const d=parse(s); d.setDate(d.getDate()+n); return iso(d); };
+    const esc = s => String(s ?? "").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    const today = iso(new Date());
+    const diffDays = (a,b) => Math.round((parse(a)-parse(b))/86400000);
+    const priority = { high:0, normal:1, low:2 };
+
+    function reviewInfo(item, intervals) {
+      const history = [...(item.history || [])].sort((a,b)=>a.date.localeCompare(b.date));
+      if (item.status === "mastered") return { kind:"mastered", history };
+      if (!history.length) return { kind:item.status === "active" ? "new" : "want", history };
+      const last = history[history.length-1];
+      let days = intervals[Math.min(history.length-1, intervals.length-1)] || 60;
+      if (last.result === "hard") days = Math.max(1, Math.ceil(days/2));
+      if (last.result === "easy") days = Math.ceil(days*1.5);
+      const due = addDays(last.date, days);
+      return { kind:due < today ? "overdue" : due === today ? "today" : "future", due, last, history };
+    }
+
+    const itemCard = (entry, label, cls) => {
+      const {item, info} = entry;
+      const readCount = info.history.length;
+      return `<a class="item" href="${esc(item.url)}" target="_top">
+        <div><h3>${esc(item.title)}</h3>
+          <div class="meta"><span>${esc(item.category || "未分类")}</span><span>${readCount ? `已读 / 复习 ${readCount} 次` : "尚未首读"}</span></div>
+          ${item.note ? `<p class="note">${esc(item.note)}</p>` : ""}
+        </div><span class="pill ${cls}">${esc(label)}</span></a>`;
+    };
+
+    function consecutiveStreak(dates) {
+      const unique = [...new Set(dates)].sort().reverse();
+      if (!unique.length || diffDays(today, unique[0]) > 1) return 0;
+      let streak=1;
+      for (let i=1;i<unique.length;i++) {
+        if (diffDays(unique[i-1],unique[i]) !== 1) break;
+        streak++;
+      }
+      return streak;
+    }
+
+    function render(data) {
+      const intervals = data.review_intervals || [1,2,4,7,15,30,60];
+      const entries = (data.items || []).map(item=>({item,info:reviewInfo(item,intervals)}));
+      const allHistory = entries.flatMap(e=>e.info.history.map(h=>({...h,title:e.item.title})));
+      const due = entries.filter(e=>["overdue","today","new"].includes(e.info.kind))
+        .sort((a,b)=>(a.info.due||today).localeCompare(b.info.due||today)||(priority[a.item.priority]??1)-(priority[b.item.priority]??1));
+      const completedToday = entries.filter(e=>e.info.history.some(h=>h.date===today));
+      const weekEnd = addDays(today,7);
+      const upcoming = entries.filter(e=>e.info.kind==="future" && e.info.due<=weekEnd).sort((a,b)=>a.info.due.localeCompare(b.info.due));
+      const wanted = entries.filter(e=>e.info.kind==="want").sort((a,b)=>(priority[a.item.priority]??1)-(priority[b.item.priority]??1));
+      const mastered = entries.filter(e=>e.info.kind==="mastered").length;
+      const firstReads = entries.filter(e=>e.info.history.length).length;
+      const reviews = entries.reduce((n,e)=>n+Math.max(0,e.info.history.length-1),0);
+      const streak = consecutiveStreak(allHistory.map(h=>h.date));
+      const recent = allHistory.sort((a,b)=>b.date.localeCompare(a.date)).slice(0,7);
+      const positive = due.length
+        ? `今天安排 ${due.length} 项，完成后复习压力就会归零。`
+        : completedToday.length
+          ? `今天的清单已完成，已巩固 ${completedToday.length} 项。`
+          : "今天没有到期任务，可以从待读列表挑一篇开始。";
+
+      $app.innerHTML = `
+        <section class="hero">
+          <div class="eyebrow">${esc(data.owner || "个人")} · PERSONAL READING</div>
+          <h1>今天读什么？</h1>
+          <p>${today} · 按 1、2、4、7、15、30、60 天间隔自动安排复习。</p>
+          <div class="stats">
+            <div class="stat"><b>${due.length}</b><span>今日应读</span></div>
+            <div class="stat"><b>${streak}</b><span>连续阅读天数</span></div>
+            <div class="stat"><b>${firstReads}</b><span>累计首读</span></div>
+            <div class="stat"><b>${mastered}</b><span>已掌握</span></div>
+          </div>
+        </section>
+        <div class="summary">${esc(positive)}</div>
+        <div class="layout">
+          <div class="stack">
+            <section class="panel"><div class="panel-head"><h2>今日清单</h2><span class="count">${due.length} 项</span></div>
+              <div class="list">${due.length ? due.map(e=>{
+                if(e.info.kind==="overdue") return itemCard(e,`逾期 ${Math.abs(diffDays(e.info.due,today))} 天`,"due");
+                if(e.info.kind==="new") return itemCard(e,"开始首读","today");
+                return itemCard(e,"今日复习","today");
+              }).join("") : `<div class="empty"><strong>今日任务已清空</strong>保持轻松，明天再回来。</div>`}</div>
+            </section>
+            <section class="panel"><div class="panel-head"><h2>待读内容</h2><span class="count">${wanted.length} 项</span></div>
+              <div class="list">${wanted.length ? wanted.map(e=>itemCard(e,e.item.priority==="high"?"优先":"待读","future")).join("") : `<div class="empty">暂无待读内容</div>`}</div>
+            </section>
+            <section class="panel"><div class="panel-head"><h2>接下来 7 天</h2><span class="count">${upcoming.length} 项</span></div>
+              <div class="list">${upcoming.length ? upcoming.map(e=>itemCard(e,e.info.due,"future")).join("") : `<div class="empty">未来 7 天没有已排期的复习。</div>`}</div>
+            </section>
+          </div>
+          <aside class="stack">
+            <section class="panel"><div class="panel-head"><h2>今日完成</h2><span class="count">${completedToday.length} 项</span></div>
+              <div class="list">${completedToday.length ? completedToday.map(e=>itemCard(e,"已完成","done")).join("") : `<div class="empty">完成后由 Agent 记入仓库。</div>`}</div>
+            </section>
+            <section class="panel"><div class="panel-head"><h2>阅读记录</h2><span class="count">${firstReads} 首读 · ${reviews} 复习</span></div>
+              ${recent.length ? `<ul class="timeline">${recent.map(h=>`<li><b>${esc(h.title)}</b><span>${h.date} · ${esc(h.result || "good")}</span></li>`).join("")}</ul>` : `<div class="empty">还没有阅读记录。</div>`}
+            </section>
+            <section class="panel"><h2>复习节奏</h2><div class="curve">${intervals.map(n=>`<span>+${n} 天</span>`).join("")}</div>
+              <p class="agent-tip">读完后告诉 Agent：<code>今天读完《标题》，掌握良好，请更新个人阅读。</code></p>
+            </section>
+          </aside>
+        </div>`;
+    }
+
+    fetch("assets/data/personal-reading.json", {cache:"no-store"})
+      .then(r=>{ if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+      .then(render)
+      .catch(err=>{ $app.innerHTML=`<div class="error">阅读数据加载失败：${esc(err.message)}</div>`; });
+  })();
+  </script>
+</body>
+</html>

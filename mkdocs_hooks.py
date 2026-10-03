@@ -2,9 +2,11 @@
 
 from __future__ import annotations
 
+import json
 import os
 import re
 import shutil
+import subprocess
 from pathlib import Path, PurePosixPath
 
 try:
@@ -25,6 +27,7 @@ _repo_root: Path | None = None
 _docs_dir: Path | None = None
 # (season, episode) → {theme, slug, ...}
 _episode_titles: dict[tuple[int, int], dict[str, str]] | None = None
+_recent_additions_markdown: str | None = None
 
 EPISODE_NUM = re.compile(r"s(\d+)e(\d+)", re.IGNORECASE)
 SCENE_INDEX_THEME = re.compile(
@@ -274,8 +277,109 @@ def _speech_display_title(src_path: str, repo_root: Path | None = None) -> str |
     return stem.replace("-", " ")
 
 
+_FRONTMATTER_TITLE_RE = re.compile(
+    r"\A---\s*\n.*?^title:\s*[\"']?(.+?)[\"']?\s*$.*?^---\s*$",
+    re.MULTILINE | re.DOTALL,
+)
+_RECENT_EXCLUDED_NAMES = {"README.md", "index.md", "reading-growth-map.md"}
+_RECENT_CATEGORY_LABELS = {
+    "tv-series": "美剧与影视",
+    "english-song": "英文歌曲",
+    "parenting-english": "亲子英语",
+    "personal-english-book": "个人材料书",
+    "pronunciation": "发音",
+    "grammar-lab": "语法",
+}
+
+
+def _document_title(path: Path) -> str:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    frontmatter = _FRONTMATTER_TITLE_RE.search(text)
+    if frontmatter:
+        return frontmatter.group(1).strip()
+    h1 = _H1_RE.search(text)
+    if h1:
+        return re.sub(r"\s*\{[^}]+\}\s*$", "", h1.group(1)).strip()
+    return path.stem.replace("-", " ")
+
+
+def _recent_markdown_files(repo_root: Path, docs_dir: Path, limit: int = 6):
+    """Return newest committed Markdown additions as (date, docs path, title)."""
+    try:
+        output = subprocess.run(
+            [
+                "git",
+                "log",
+                "--diff-filter=A",
+                "--format=@@%aI",
+                "--name-only",
+                "--",
+                "learning-notes",
+            ],
+            cwd=repo_root,
+            check=True,
+            capture_output=True,
+            text=True,
+        ).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return []
+
+    current_date = ""
+    seen: set[str] = set()
+    recent: list[tuple[str, str, str]] = []
+    for raw in output.splitlines():
+        line = raw.strip()
+        if line.startswith("@@"):
+            current_date = line[2:12]
+            continue
+        if not line.endswith(".md") or line in seen:
+            continue
+        seen.add(line)
+        prefix = "learning-notes/"
+        if not line.startswith(prefix):
+            continue
+        rel = line[len(prefix) :]
+        path = docs_dir / rel
+        parts = PurePosixPath(rel).parts
+        if (
+            not path.is_file()
+            or path.name in _RECENT_EXCLUDED_NAMES
+            or "transcript" in parts
+            or rel.startswith(f"{SPEECH_DIR_NAME}/")
+        ):
+            continue
+        recent.append((current_date, rel, _document_title(path)))
+        if len(recent) >= limit:
+            break
+    return recent
+
+
+def _build_recent_additions(repo_root: Path, docs_dir: Path) -> str:
+    recent = _recent_markdown_files(repo_root, docs_dir)
+    if not recent:
+        return (
+            '<div class="recent-empty">新文稿提交后，会自动出现在这里。</div>'
+        )
+    cards = ['<div class="grid cards recent-additions" markdown>\n']
+    for date, rel, title in recent:
+        category = _RECENT_CATEGORY_LABELS.get(
+            PurePosixPath(rel).parts[0], PurePosixPath(rel).parts[0]
+        )
+        cards.extend(
+            [
+                "\n-   :material-file-document-outline:{ .lg .middle } "
+                f"**[{title}]({rel})**\n",
+                "\n    ---\n",
+                f"\n    <span class=\"recent-meta\">{date} · {category}</span>\n",
+            ]
+        )
+    cards.append("\n</div>")
+    return "".join(cards)
+
+
 def on_config(config, **kwargs):
     global _stem_to_paths, _repo_root, _docs_dir, _episode_titles
+    global _recent_additions_markdown
     _stem_to_paths = None
     _repo_root = Path(config.config_file_path).resolve().parent
     _docs_dir = Path(config.docs_dir)
@@ -284,7 +388,32 @@ def on_config(config, **kwargs):
     _sync_daily_speech_docs(_repo_root, _docs_dir)
     _episode_titles = _load_episode_titles(_docs_dir)
     _generate_transcript_md_pages(_docs_dir, _episode_titles)
+    _recent_additions_markdown = _build_recent_additions(_repo_root, _docs_dir)
     return config
+
+
+def on_post_build(config, **kwargs):
+    """Publish Agent-maintained reading YAML as browser-friendly JSON."""
+    if yaml is None:
+        return
+    docs_dir = Path(config.docs_dir)
+    if not docs_dir.is_absolute():
+        docs_dir = Path(config.config_file_path).resolve().parent / docs_dir
+    source = docs_dir / "personal-reading-data.yml"
+    if not source.is_file():
+        return
+    data = yaml.safe_load(source.read_text(encoding="utf-8")) or {}
+    target = Path(config.site_dir) / "assets/data/personal-reading.json"
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(
+        json.dumps(
+            data,
+            ensure_ascii=False,
+            indent=2,
+            default=lambda value: value.isoformat(),
+        ),
+        encoding="utf-8",
+    )
 
 
 def on_pre_page(page, config=None, **kwargs):
@@ -472,6 +601,11 @@ def on_page_markdown(markdown, page, files, **kwargs):
     if files is None:
         return markdown
     out = _prepend_speech_heading(markdown, page)
+    if (page.file.src_path or "").replace("\\", "/") == "index.md":
+        out = out.replace(
+            "<!-- RECENT_ADDITIONS -->",
+            _recent_additions_markdown or "",
+        )
     out = _wiki_replacer(out, page, files)
     out = _md_learning_notes_replacer(out, page, files)
     out = _md_transcript_link_replacer(out, page, files)

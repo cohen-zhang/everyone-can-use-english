@@ -21,12 +21,17 @@ hide:
 <div class="home-actions" markdown>
 
 [开始亲子英语 :material-arrow-right:](parenting-english/README.md){ .md-button .md-button--primary }
+[个人阅读计划](personal-reading.md){ .md-button }
 [阅读成长地图](reading-growth-map.md){ .md-button }
 [每日语音文本](每日语音文本/README.md){ .md-button }
 
 </div>
 
-## 七大入口
+## 最近添加
+
+<!-- RECENT_ADDITIONS -->
+
+## 学习入口
 
 <div class="grid cards home-cards" markdown>
 
@@ -93,6 +98,14 @@ hide:
     Celine 的互动阅读打卡与成长路线。
 
     [:octicons-arrow-right-24: 站内打开](reading-growth-map.md) · [全屏](reading-growth-map.html){ target="_blank" rel="noopener" }
+
+-   :material-book-clock-outline:{ .lg .middle } **个人阅读计划**
+
+    ---
+
+    阿泽的今日阅读、遗忘曲线复习清单与阅读记录。
+
+    [:octicons-arrow-right-24: 站内打开](personal-reading.md) · [全屏](personal-reading.html){ target="_blank" rel="noopener" }
 
 </div>
 
