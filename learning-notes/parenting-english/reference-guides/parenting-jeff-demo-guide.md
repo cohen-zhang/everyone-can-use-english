@@ -122,7 +122,7 @@ tags:
 - **What type of shoes do you wear when you dance?** — 你跳舞的时候穿哪种鞋？
 - **This is the right type of shoe for hiking.** — 这种鞋适合徒步（hiking）。
 
-### 与「场景 3：鞋子」呼应
+### 与「场景 1：鞋子」呼应
 
 家长可用 **what kind?** / **what type?** 追问具体种类，再连动作：*We wear sneakers when we **run**; we wear boots when we **walk** in the snow.*
 
@@ -188,13 +188,13 @@ Jeff 博士常用反例来帮助理解，通过对比加深印象。
 | **对比差异** | 说明具体区别  | A light blanket... if it gets very cold, it might not keep you warm |
 
 
-### 原文示范 2：Dress Shirt vs Casual Shirt
-
-> My dress, "dress" shirts (two words) are the nice shirts, the shirts that I can wear to work. The opposite of a dress shirt would be a **casual shirt**, "casual." A dress shirt is a nice shirt; something that usually has a collar on it. A collar, "collar," is the top of the shirt, what goes around the neck.
-
-### 原文示范 3：Boxer vs Briefs
+### 原文示范 2：Boxer vs Briefs
 
 > There can be boxer underwear, or boxer shorts, "boxer," and that's a kind of short—or rather, a kind of underwear that it is loose on the bottom. So, it's almost like a pair of shorts. The opposite of that would be **briefs**, "briefs." Briefs would be underwear that is not loose at the bottom; it's tight at the bottom of the underwear.
+
+### 原文示范 3：Dress Shirt vs Casual Shirt
+
+> My dress, "dress" shirts (two words) are the nice shirts, the shirts that I can wear to work. The opposite of a dress shirt would be a **casual shirt**, "casual." A dress shirt is a nice shirt; something that usually has a collar on it. A collar, "collar," is the top of the shirt, what goes around the neck.
 
 ### 原文示范 4：Head Office vs Branch Office
 
@@ -210,17 +210,17 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 > The cupboard—cupboard, which looks like the word "cup" and the word "board" put together, but is pronounced cupboard—a cupboard is like a cabinet.
 
-### 原文示范 2：Ignition 的词源
+### 原文示范 2：Re- 前缀
+
+> To re-adjust means to adjust again. That prefix re, means again in English, usually. To adjust means to move them so that I can see properly.
+
+### 原文示范 3：Ignition 的词源
 
 > The word ignition comes from the verb to ignite, "ignite," which means to start a fire—to start something burning, and of course, a car burns gasoline, that's what the engine does in order to make the car move.
 
-### 原文示范 3：Pre- 前缀
+### 原文示范 4：Pre- 前缀
 
 > Pre, "pre," means before or to do something before. So, "I preheat the oven to 375"... that just means to turn it on so that when you are ready, when it is hot, you can put the food in to cook.
-
-### 原文示范 4：Re- 前缀
-
-> To re-adjust means to adjust again. That prefix re, means again in English, usually. To adjust means to move them so that I can see properly.
 
 ---
 
@@ -228,17 +228,17 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 解释物品的具体用途和使用方式。
 
-### 原文示范 1：咖啡机各部件
+### 原文示范 1：Pedal 的双重含义
 
-> Usually, a coffeemaker has water on the top—place where you put the water—and then, it has a place for the actual coffee. Now, you take the coffee and you put it into a piece of paper or a piece of plastic called a filter. The filter, "filter," is something that allows the water to go through it, but doesn't allow the coffee to go through it.
+> A pedal, "pedal," is something you use to control with your feet usually the speed of something. So the gas pedal is the pedal that you press down to go faster... That word, pedal, can also be used as a verb. If you are on a bicycle, in order to make the bicycle move, you have to pedal because the things that your feet are on on a bike, or a bicycle, are called pedals.
 
 ### 原文示范 2：杯托的作用
 
 > In many cars, there is a special place for a cup or a bottle, and that's called a cup holder, "holder." It holds the cup so you can have your coffee in your car.
 
-### 原文示范 3：Pedal 的双重含义
+### 原文示范 3：咖啡机各部件
 
-> A pedal, "pedal," is something you use to control with your feet usually the speed of something. So the gas pedal is the pedal that you press down to go faster... That word, pedal, can also be used as a verb. If you are on a bicycle, in order to make the bicycle move, you have to pedal because the things that your feet are on on a bike, or a bicycle, are called pedals.
+> Usually, a coffeemaker has water on the top—place where you put the water—and then, it has a place for the actual coffee. Now, you take the coffee and you put it into a piece of paper or a piece of plastic called a filter. The filter, "filter," is something that allows the water to go through it, but doesn't allow the coffee to go through it.
 
 ---
 
@@ -268,13 +268,13 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 > A belt, "belt," is what you use to keep your pants from falling down. A buckle is the piece of, usually, metal in the front that connects the belt so it forms a circle around your body. I have a silver buckle that I put on with my belt.
 
-### 原文示范 2：擦鞋
-
-> To polish, "polish," means to clean and to make shiny, "shiny." When we say something is shiny, we mean that it's bright—it reflects light. So, when you polish your shoes, you want them to be clean but you also want them to look like they are bright—they are reflecting light.
-
-### 原文示范 3：做沙拉
+### 原文示范 2：做沙拉
 
 > To toss, "toss," a salad means to mix the salad together. In a salad, you often have lettuce and maybe tomatoes, other food, other vegetables, and you want to mix them together. Often you put in a salad dressing, "dressing." Salad dressing is a liquid, often made from some oil, that gives a better taste to your salad. So, you toss the salad in order to mix everything up.
+
+### 原文示范 3：擦鞋
+
+> To polish, "polish," means to clean and to make shiny, "shiny." When we say something is shiny, we mean that it's bright—it reflects light. So, when you polish your shoes, you want them to be clean but you also want them to look like they are bright—they are reflecting light.
 
 ---
 
@@ -282,17 +282,17 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 用 Jeff 博士的方式向不多解释日常物品：
 
-### 示例：解释冰箱
+### 示例：解释筷子（反例对比）
 
-> A refrigerator, or fridge, is like a big box that keeps food cold. It's usually in the kitchen. You open the door and inside you have different shelves where you put milk, eggs, vegetables and so forth. It has a special machine inside that makes cold air so the food stays fresh.
+> Chopsticks are what we use to eat food in China. The opposite of chopsticks would be a fork and knife. Chopsticks are two long thin sticks—you hold them in one hand and use them to pick up food. A fork has small sharp points—you use it to stick the food and pick it up.
 
 ### 示例：解释牙刷
 
 > A toothbrush is something you use to clean your teeth. It has a handle that you hold in your hand, and on the top it has soft bristles—that's the hair-like part. You put some toothpaste on the bristles and then you move it back and forth on your teeth.
 
-### 示例：解释筷子（反例对比）
+### 示例：解释冰箱
 
-> Chopsticks are what we use to eat food in China. The opposite of chopsticks would be a fork and knife. Chopsticks are two long thin sticks—you hold them in one hand and use them to pick up food. A fork has small sharp points—you use it to stick the food and pick it up.
+> A refrigerator, or fridge, is like a big box that keeps food cold. It's usually in the kitchen. You open the door and inside you have different shelves where you put milk, eggs, vegetables and so forth. It has a special machine inside that makes cold air so the food stays fresh.
 
 ### 示例：解释保温杯
 
@@ -453,15 +453,17 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ### 13.8 场景对话示例 — Sample Dialogues
 
-#### 场景 1：讲解微波炉
+#### 场景 1：讲解鞋子（互动提问 + type / kind）
 
-**家长：** Today, let's talk about the microwave. Do you know what a microwave is?  
-**孩子：** Is it the thing that makes food hot?  
-**家长：** Exactly! That's right! A microwave is a machine that heats up food quickly. Look at this picture. You put the food inside, press the buttons, and it gets warm. Do you get it?  
-**孩子：** Yes!  
-**家长：** Good job! Now, repeat after me: "microwave".  
-**孩子：** Microwave!  
-**家长：** Perfect! Give me five!
+**家长：** I want to tell you about different shoes. Look at this picture. What is this?  
+**孩子：** Shoes!  
+**家长：** Yes, but **what kind** are they? **What type of** shoe is this? These are sneakers. **Sneakers are a type of shoe** for running and playing. Repeat after me: "sneakers".  
+**孩子：** Sneakers!  
+**家长：** Good! We **wear** sneakers when we **run** or **play** sports. Now, **boots** are **another type of** shoe. When do we **wear** boots?  
+**孩子：** When it's raining?  
+**家长：** That's right! Or when it **snows**. You **walk** in boots so your feet stay dry. You got it! What color are these sneakers?  
+**孩子：** White!  
+**家长：** Perfect! You are doing great!
 
 ---
 
@@ -478,17 +480,15 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-#### 场景 3：讲解鞋子（互动提问 + type / kind）
+#### 场景 3：讲解微波炉
 
-**家长：** I want to tell you about different shoes. Look at this picture. What is this?  
-**孩子：** Shoes!  
-**家长：** Yes, but **what kind** are they? **What type of** shoe is this? These are sneakers. **Sneakers are a type of shoe** for running and playing. Repeat after me: "sneakers".  
-**孩子：** Sneakers!  
-**家长：** Good! We **wear** sneakers when we **run** or **play** sports. Now, **boots** are **another type of** shoe. When do we **wear** boots?  
-**孩子：** When it's raining?  
-**家长：** That's right! Or when it **snows**. You **walk** in boots so your feet stay dry. You got it! What color are these sneakers?  
-**孩子：** White!  
-**家长：** Perfect! You are doing great!
+**家长：** Today, let's talk about the microwave. Do you know what a microwave is?  
+**孩子：** Is it the thing that makes food hot?  
+**家长：** Exactly! That's right! A microwave is a machine that heats up food quickly. Look at this picture. You put the food inside, press the buttons, and it gets warm. Do you get it?  
+**孩子：** Yes!  
+**家长：** Good job! Now, repeat after me: "microwave".  
+**孩子：** Microwave!  
+**家长：** Perfect! Give me five!
 
 ---
 
