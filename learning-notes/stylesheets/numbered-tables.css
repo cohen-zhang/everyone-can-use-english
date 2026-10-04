@@ -1,0 +1,21 @@
+/* Vocabulary tables tagged by javascripts/numbered-tables.js (first header "No."). */
+.md-typeset table[data-numbered] th:first-child,
+.md-typeset table[data-numbered] td:first-child {
+  width: 1%;
+  min-width: 0;
+  white-space: nowrap;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
+}
+
+/* Word column: wide enough for long words; phrases may still wrap between words. */
+.md-typeset table[data-numbered] th:nth-child(2),
+.md-typeset table[data-numbered] td:nth-child(2) {
+  min-width: 11em;
+}
+
+.md-typeset table[data-numbered] td:nth-child(2) code {
+  word-break: keep-all;
+  overflow-wrap: normal;
+  hyphens: none;
+}

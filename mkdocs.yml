@@ -85,6 +85,10 @@ extra_css:
   - stylesheets/navigation.css
   - stylesheets/animal-pictures.css
   - stylesheets/home.css
+  - stylesheets/numbered-tables.css
+
+extra_javascript:
+  - javascripts/numbered-tables.js
 
 plugins:
   - search:
