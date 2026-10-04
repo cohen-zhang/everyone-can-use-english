@@ -38,6 +38,10 @@ tags:
 - **rice noodle rolls / steamed rice rolls** /ˈraɪs ˈnuːdəˌloʊlz; ˈstiːmd ˈraɪs ˈnuːdəˌloʊlz/（*cheung fun* /ˈtʃʌŋ ˈfʌn/）肠粉（菜单也常见粤语拼音 **cheung fun**）  
 - **siu mai / shumai (open-topped steamed dumplings)** /ˈʃuː maɪ; ˈʃuːˌmaɪ/ 烧麦、烧卖  
 - **hot dry noodles (Wuhan-style, with sesame paste)** /ˌhɑːt ˈdraɪ ˈnuːdəlz/ 热干面（芝麻酱拌的碱面「干拌」面条）  
+- **steamed sweet potato** /stiːmd ˈswiːt pəˈteɪtoʊ/ 蒸红薯（粗粮早餐；紫薯是 **purple sweet potato**）  
+- **steamed corn (corn on the cob)** /stiːmd kɔːrn; ˌkɔːrn ɑːn ðə ˈkɑːb/ 蒸玉米、玉米棒（同词见 §2 蔬菜）  
+- **boiled egg (hard-boiled / soft-boiled)** /bɔɪld eɡ; ˌhɑːrd ˈbɔɪld, ˌsɔːft ˈbɔɪld/ 水煮蛋（全熟 / 溏心；鸡蛋本词见 §3）  
+- **tea egg (tea-boiled egg)** /ˈtiː eɡ; ˈtiː bɔɪld eɡ/ 茶叶蛋（茶叶、酱油、香料卤煮，蛋壳敲出裂纹）  
 - **soy milk (sweet / no sugar)** /sɔɪ mɪlk/ 豆浆 — 加糖 / 无糖；热饮常与油条、包子同点（同档 **饮品**见 §5）  
 - **yogurt / drinkable yogurt** /ˈjoʊɡərt; ˈdrɪŋkəbl ˈjoʊɡərt/ 酸奶 — 瓶装可吸的常标 **drinkable yogurt / drinking yogurt**（同档零食架见 §5）  
 
@@ -51,6 +55,14 @@ tags:
   肠粉要蛋菜馅还是斋肠？`亲子`
 - **Careful—it’s slippery with sesame sauce.**  
   芝麻酱有点滑，小口试。`亲子`（热干面带娃提示）
+- **Sweet potato or corn this morning?**  
+  今天早上吃红薯还是玉米？`亲子`
+- **Let me peel the sweet potato for you—the skin is hot.**  
+  我帮你剥红薯皮，皮很烫。`亲子`
+- **Do you want a boiled egg or a tea egg?**  
+  要水煮蛋还是茶叶蛋？`亲子`
+- **Tap the egg on the table, then peel off the shell.**  
+  鸡蛋在桌上敲一敲，再把壳剥掉。`亲子`
 
 常用句：
 
