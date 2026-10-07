@@ -17,22 +17,50 @@ items:
     note: 练拿瓶、拧盖、喝水和回收的一整段口语。
     history: []
 
-  - id: parenting-hand-actions
-    title: 提手旁动作 · 矿泉水瓶
-    url: parenting-english/vocabulary/parenting-actions-vocab/#提手旁动作--矿泉水瓶--14-hand-actions-亲子
+  - id: parenting-actions-vocab
+    title: 动作 — 日常物品场景
+    url: parenting-english/vocabulary/parenting-actions-vocab/
     category: 亲子词汇
-    status: want
+    status: active
     priority: normal
     added: 2026-10-03
-    note: 用同一只瓶子对照 14 个手部动作。
-    history: []
+    note: 拿放、开关、穿衣与提手旁矿泉水瓶 14 个手部动作。
+    history:
+      - date: 2026-10-07
+        result: good
 
   - id: praise-kids-daily-phrases
-    title: 夸孩子日常表达
+    title: 夸奖、赞美小朋友 — 亲子日常英文
     url: parenting-english/daily-life/parenting-praise-kids-daily-phrases/
     category: 亲子英语
-    status: want
+    status: active
     priority: normal
     added: 2026-10-03
     note: 从泛泛表扬升级到描述努力、策略与进步。
-    history: []
+    history:
+      - date: 2026-10-05
+        result: good
+
+  - id: china-food-common-vocab
+    title: 中国常见食物
+    url: parenting-english/vocabulary/parenting-china-food-common-vocab/
+    category: 亲子词汇
+    status: active
+    priority: normal
+    added: 2026-10-05
+    note: 日常餐桌与点餐常用中国食物词。
+    history:
+      - date: 2026-10-05
+        result: good
+
+  - id: modern-family-s02e20-transcript
+    title: 【字幕】S02E20 · 母亲节
+    url: tv-series/modern-family/s02/transcript/modern-family-s02e20-transcript/
+    category: 美剧字幕
+    status: active
+    priority: normal
+    added: 2026-10-06
+    note: 《摩登家庭》S02E20 英中字幕跟读。
+    history:
+      - date: 2026-10-06
+        result: good
