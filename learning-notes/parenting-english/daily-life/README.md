@@ -24,4 +24,6 @@
 - [[learning-notes/parenting-english/daily-life/parenting-space-cosmos-daily-phrases|parenting-space-cosmos-daily-phrases]]
 - [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases|parenting-table-manners-daily-phrases]]
 - [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|parenting-tidy-up-daily-phrases]]
+- [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]
 - [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|parenting-time-expressions-daily-phrases]]
+- [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements#2-celine-流鼻血--nosebleeds-亲子|各种疾病 · Celine 流鼻血]] — 个人生活笔记里的流鼻血口语（坐直、前倾、捏鼻翼）

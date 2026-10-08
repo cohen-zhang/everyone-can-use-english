@@ -8,6 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+周六下午 2 点到 5 点的舞蹈班见 [[learning-notes/parenting-english/daily-life/week-with-celine/06-Saturday|一周综合 · 周六]]。
 
 面向**国内城市亲子日常**：用英语聊「喜欢做什么、上什么兴趣班、周末玩什么」，涵盖中国家庭里**常见但不说教**的表达。学习者身份：**阿泽**；孩子：**不多 / Celine**。`亲子`
 

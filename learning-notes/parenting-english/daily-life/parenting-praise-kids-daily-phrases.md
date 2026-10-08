@@ -15,6 +15,8 @@ aliases:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+周四值日说 **responsible**，见 [[learning-notes/parenting-english/daily-life/week-with-celine/04-Thursday|一周综合 · 周四]]。
+
 **相关（剧摘对照）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 台词原句、祝福与回应；本篇是 **跨场景日常句库**，可与该剧摘 **相向互链**、对照练习。校园科目与课堂用语见 [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|小学科目词汇]]。
 
 ---

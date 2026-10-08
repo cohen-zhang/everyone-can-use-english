@@ -9,6 +9,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+出门检查水壶和红领巾、放学问学校，用在 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
+
 从 `learning-notes/parenting-english/` 现有文档中提取问句并归类，便于按场景复用。  
 本页顺序：**时态框架 → 沟通意图 → 日常场景（时间段／饭桌／和朋友玩／沪教教材）**。优先保留高频、可直接开口的句子。
 

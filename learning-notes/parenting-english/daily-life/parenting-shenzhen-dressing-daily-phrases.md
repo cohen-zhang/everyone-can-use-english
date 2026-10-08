@@ -10,6 +10,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+晴热、阴天、小雨和刮风的穿法，用在 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
+
 **相关：** **扮装／假装当某人**（*dress up*, *pretend to be*）与「认真穿好衣服」不同 → [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（例：[[Peppa.Pig.S01E19.Dressing.Up|S01E19 Dressing Up]]；与此页相向互链）。
 
 **相关：** **骑电动自行车接送学时**刮风下雨怎么喊穿戴 → [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]（相向互链；雨披、拉链、挡风等与此页雨季段落叠用）。

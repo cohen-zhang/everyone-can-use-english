@@ -11,6 +11,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+每天间隔复习几句，不把台词抄进周记：[[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
 
 这是 **不多** 第 82 篇学习记录。
 

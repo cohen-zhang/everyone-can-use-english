@@ -16,6 +16,8 @@ aliases:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+上学日 22:00、周六 23:00、周日 22:00 的当前钟点见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
+
 **相关（按主题跳转）：**
 - 四季／月份／星期／今天明天昨天 → [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab|季节 · 月份 · 星座 · 太空]]
 - 家庭钟点作息 → [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]

@@ -8,6 +8,8 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
+每天的数学订正和蓝笔说法，用在 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
+
 **相关：** 连线配对、递给我、把作业拿过来检查、收拾书包等动作动词见 [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#9-家庭整理与作业指令--home--study-routines|动作动词 — 分类总表 §9 家庭与作业]]（与此页相向互链）。估时、计时器、九点前打卡等时间说法总入口 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#4-多久再几分钟--duration--countdowns|时间表达汇总 · 多久]]。
 
 

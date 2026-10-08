@@ -2,7 +2,7 @@
 
 Celine 暑假跟读 · 每集 15–20 句 · A4 · 14–16 pt · 行距 1.5
 正面英文（孩子）· 背面简中（妈妈）或整表双面印。
-未标注简中的句子，妈妈可对照《小猪佩奇第一季 双语》或动画。
+未标注简中的句子，妈妈可对照《小猪佩奇第一季 双语》或动画。上学周里每天只间隔复习几句，见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
 
 ## S01E01 · Muddy Puddles
 
