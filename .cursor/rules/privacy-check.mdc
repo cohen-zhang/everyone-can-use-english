@@ -1,0 +1,14 @@
+---
+description: Check personal and child privacy before documents are written and before any git commit
+alwaysApply: true
+---
+
+# Privacy check
+
+Before writing or editing notes, and again before `git add` or `git commit`, follow `.cursor/skills/privacy-check/SKILL.md`.
+
+Do not write or commit Chinese personal names other than **阿泽 / 泽哥 / 不多 / Celine**, nor addresses, school names, class numbers, company names, streets, bank card numbers, or national ID numbers. Also drop phone numbers and emails.
+
+If a check hits, stop. Fix the file first. Do not commit, and do not repeat card or ID numbers in the reply.
+
+Run `python3 .cursor/skills/privacy-check/scripts/scan_privacy.py` on the diff before committing. Then still read the diff for names, schools, companies, and streets.

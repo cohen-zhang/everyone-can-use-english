@@ -41,14 +41,15 @@ Avoid unexplained jargon about language teaching unless the user asks for it. Pr
 
 ## Privacy and redaction
 
-Before treating text as **final** or **shareable**, **strip or replace** sensitive details:
+Before the note is finished, and again before any commit, follow [privacy-check](../privacy-check/SKILL.md).
+
+Allowed labels only: **阿泽** / **泽哥** / **不多** / **Celine**. Other Chinese personal names, addresses, school names, class identifiers, companies, streets, card numbers, and national ID numbers do not go into the file.
 
 | Kind | Action |
 |------|--------|
 | Employers, products, clients, internal codenames | Replace with generic labels (`Company A`, `Project X`) or role-only descriptions |
-| Real names (self, family, colleagues, children) | For **shareable** or **anonymous** docs, use placeholders consistent in-file. For **this user’s private learning notes**, use the names and labels in the sections above unless they ask to anonymize |
-| Addresses, phone numbers, emails, IDs, URLs with tokens | Remove or anonymize; keep structure only if pedagogically needed (e.g. `user@example.com`) |
-| Locations that identify individuals | Generalize (`a city in …`, `our neighborhood`) |
+| Real names other than the four labels above | Replace with those labels, or with 「老师」「同学」 |
+| Addresses, schools, class numbers, streets, phone numbers, emails, card numbers, national IDs | Remove. Keep a generic scene only (`学校`, `家里`) |
 
 If the user pastes raw material, **redact in the delivered document** and do not echo secrets in summaries unless the user explicitly needs a redaction review list.
 
