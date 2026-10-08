@@ -11,11 +11,13 @@ items:
     title: 渴了喝矿泉水（1 分钟练习）
     url: personal-english-book/one-minute-drill/渴了喝矿泉水/
     category: 一分钟练习
-    status: want
+    status: active
     priority: high
     added: 2026-10-03
     note: 练拿瓶、拧盖、喝水和回收的一整段口语。
-    history: []
+    history:
+      - date: 2026-10-08
+        result: good
 
   - id: parenting-actions-vocab
     title: 动作 — 日常物品场景
@@ -27,6 +29,8 @@ items:
     note: 拿放、开关、穿衣与提手旁矿泉水瓶 14 个手部动作。
     history:
       - date: 2026-10-07
+        result: good
+      - date: 2026-10-08
         result: good
 
   - id: praise-kids-daily-phrases
@@ -40,6 +44,8 @@ items:
     history:
       - date: 2026-10-05
         result: good
+      - date: 2026-10-08
+        result: good
 
   - id: china-food-common-vocab
     title: 中国常见食物
@@ -51,6 +57,8 @@ items:
     note: 日常餐桌与点餐常用中国食物词。
     history:
       - date: 2026-10-05
+        result: good
+      - date: 2026-10-08
         result: good
 
   - id: modern-family-s02e20-transcript
@@ -64,3 +72,15 @@ items:
     history:
       - date: 2026-10-06
         result: good
+      - date: 2026-10-08
+        result: good
+
+  - id: week-with-celine
+    title: 一周综合 · 不多的上学周
+    url: parenting-english/daily-life/week-with-celine/
+    category: 亲子英语
+    status: want
+    priority: high
+    added: 2026-10-08
+    note: 四年级上学周七天跟读；课表见 00-timetable，周一至周日分篇。
+    history: []
