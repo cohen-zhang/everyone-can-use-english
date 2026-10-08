@@ -49,6 +49,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]] — 预订入住、客房、泳池、酒店游乐场 / Kids Club、中英短文
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
+- [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] — 流鼻血、上火、口腔溃疡、咳嗽、鼻炎、打呼噜；饭前 / 饭中 / 饭后 / 随意；鱼油、D3+K2、蛋白粉、氨糖罐子
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
 - [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day.md|一天重置人生]] — Dan Koe《How to fix your entire life in 1 day》：身份、反愿景、一天协议 + 单词表
@@ -182,6 +183,7 @@ cssclasses:
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01]]（俚语/口头禅/口头梗分表）。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
+- **小病与补剂 ↔ 身体词表 ↔ 营养：** [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] ↔ [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]]。
 - **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 - **投资者必备 ↔ 经纪访谈 ↔ 金融词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]]。
 - **比特币白皮书 ↔ 交易所 App：** [[learning-notes/personal-english-book/investing/bitcoin-whitepaper.md|比特币白皮书 — BTC]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|交易所 APP 常用场景]]（原理词 ↔ 充提币 / 链上确认）。

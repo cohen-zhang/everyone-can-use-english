@@ -29,6 +29,7 @@ cssclasses:
 
 - [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、晒太阳、Health 应用场景句
 - [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]] — 宏量营养素、餐盘占比、进食顺序、自主性
+- [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] — 家里的小病、服药时间、鱼油 / D3+K2 / 蛋白粉 / 氨糖（在 life/）
 
 ---
 
@@ -51,6 +52,7 @@ cssclasses:
 ## 主题互链
 
 - **营养理论 ↔ 健身场景：** [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]]
+- **小病补剂 ↔ 营养 ↔ 健身：** [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]]（维生素 D、蛋白粉、睡眠）
 - **运动 ↔ 快乐激素：** [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]]（血清素、内啡肽）
 - **身体词表 ↔ 脑科学：** [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表]] — 查 **brain**、**endorphin** 等
 

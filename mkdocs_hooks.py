@@ -806,6 +806,7 @@ _NAV_FOLDER_DISPLAY = {
     "children-song": "日常儿歌",
     "classic-books-with-holes": "洞洞书跟读",
     "daily-life": "日常生活",
+    "week-with-celine": "一周综合",
     "communication-patterns": "沟通句式",
     "vocabulary": "词汇",
     "games-and-activities": "游戏与活动",
