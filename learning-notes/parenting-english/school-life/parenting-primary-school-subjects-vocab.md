@@ -112,6 +112,8 @@ tags:
 - **The school show / class performance** 学校演出、班级节目`亲子`  
 - **Red Scarves / Young Pioneers (context—China)** **You become a Young Pioneer in Grade 2 in many schools.** / **(daily English)** *You get your red scarf.*  
 少先队、红领巾、入队。对外解释可用简短说明。`技术` `亲子` *（具体年级以**本校**队前教育为准。）*  
+- **Friday conduct check: short nails, school badge on the left chest, shirt tucked in, red scarf or Young Pioneer badge.**  
+周五德育常规检查。校徽在左胸；红领巾和队徽二选一，务必戴好。这不是道法课。`亲子` 见 [[learning-notes/parenting-english/daily-life/week-with-celine/05-Friday#friday-conduct-check|周五 · 德育常规检查]]。  
 - **We line up in the hall before the bell.**  
 铃响前在走廊排队。`亲子`  
 - **Fire drill / emergency drill** 消防演习、应急疏散演练`技术` `亲子`

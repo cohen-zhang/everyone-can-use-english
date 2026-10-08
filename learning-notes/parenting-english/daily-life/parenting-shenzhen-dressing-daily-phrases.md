@@ -207,6 +207,8 @@ tags:
 - **Tuck in your shirt.**  
   把衣服塞进裤子里。
 
+周五德育常规检查（重点剪指甲、左胸校徽、扣子、束裤子、红领巾或队徽）见 [[learning-notes/parenting-english/daily-life/week-with-celine/05-Friday#friday-conduct-check|周五 · 德育常规检查]]。
+
 ### 出门前检查
 
 - **Let's check your outfit before we leave.**  

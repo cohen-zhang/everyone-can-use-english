@@ -51,6 +51,7 @@ tags:
 | **Dictionary and the homework notebook.** | 字典和作业登记本。`亲子` |
 | **Black, blue, and red pens. Highlighters too.** | 黑笔、蓝笔、红笔，还有荧光笔。`亲子` |
 | **You'll stay late for duty. Pack a water bottle.** | 值日会晚，水壶装满。`亲子` |
+| **On the way out, take the trash by the door to the public bin on the first floor.** | 出门把门口的垃圾带到一楼公共垃圾箱丢掉。`亲子` |
 
 ---
 
@@ -85,7 +86,7 @@ tags:
 | --- | --- |
 | **Did you finish your cleaning duty?** | 卫生做完了吗？`亲子` |
 | **Sweep your area. Wipe the desks.** | 扫你那一块，擦桌子。`亲子` |
-| **Take the trash out. Don't leave it by the door.** | 垃圾拿出去，别堆在门口。`亲子` |
+| **Cleaning duty is a team job. Work together.** | 值日搞卫生要团队协作，一起做。`亲子` |
 | **That was responsible. Thank you.** | 这很负责任，谢谢你。`亲子` |
 | **Still come home by six. We'll be watching.** | 还是六点前到家，我们会看。`亲子` |
 | **The camera and the smart lock tell us.** | 监控和智能门锁会告诉我们。`亲子` |
@@ -120,8 +121,10 @@ tags:
 ## 跟读对话 · Daddy & Celine
 
 - **Daddy**: Windy today. Zip up. Jump rope—PE is third period.
+- **Celine**: The trash by the door?
+- **Daddy**: Yes. Drop it in the public bin on the first floor.
 - **Celine**: And cleaning duty.
-- **Daddy**: Sweep, wipe, take the trash out. Then come straight home.
+- **Daddy**: Sweep and wipe with your group. It's a team job. Then come straight home.
 - **Celine**: Duty makes me late.
 - **Daddy**: About twenty-five minutes. Still home by six. We'll see the smart lock.
 - **Celine**: The birthday meal was cake and noodles!

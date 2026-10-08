@@ -20,7 +20,7 @@ tags:
 | [[learning-notes/parenting-english/daily-life/week-with-celine/02-Tuesday\|周二]] | 阴、仍暖 | 自己走 | 妈妈晚自习，爸爸早点回来陪 | 外卖 | 22:00 |
 | [[learning-notes/parenting-english/daily-life/week-with-celine/03-Wednesday\|周三]] | 小雨 | 电动车 | 惊喜餐；全体 16:20 放学，没有延时 | 外卖 | 22:00 |
 | [[learning-notes/parenting-english/daily-life/week-with-celine/04-Thursday\|周四]] | 有风 | 电动车 | 值日；同学生日餐；值日再晚约 25 分钟 | 外卖 | 22:00 |
-| [[learning-notes/parenting-english/daily-life/week-with-celine/05-Friday\|周五]] | 闷，下午可能下雨 | 自己走 | 问这一周学校怎么样；妈妈做快手面 | 妈妈做 | 22:00 |
+| [[learning-notes/parenting-english/daily-life/week-with-celine/05-Friday\|周五]] | 闷，下午可能下雨 | 自己走 | 德育常规检查（重点剪指甲）；问这一周；面加一个炒菜 | 妈妈做 | 22:00 |
 | [[learning-notes/parenting-english/daily-life/week-with-celine/06-Saturday\|周六]] | 晴 | 睡懒觉 | 下午 2 点到 5 点舞蹈班 | 外卖 | 23:00 |
 | [[learning-notes/parenting-english/daily-life/week-with-celine/07-Sunday\|周日]] | 转凉、多云 | 睡懒觉 | 收拾下周书包；妈妈做快手菜 | 妈妈做 | 22:00 |
 
@@ -41,6 +41,6 @@ tags:
 - **放学：** 每天下午自己走回家。过人行横道，看左右。先回家，不能背着书包在外面玩。**18:00** 前到家。视频监控或智能门锁看不到人，家里会担心。放下书包之后才能下楼找小区朋友。
 - **用眼：** 学校检查有近视风险，医院确认远视储备为负。多户外；写作业或看平板时，到阳台看远处，或下楼玩一会儿。诊断只在周一讲透。
 - **校餐：** 每天有加餐（**extra snack**）。周三是本月惊喜餐（**surprise meal**）。周四是同学生日餐（**birthday meal**）。
-- **晚餐：** 大多点外卖。周五和周日妈妈做快手菜。周二妈妈晚自习，爸爸早点回来陪。
+- **晚餐：** 大多点外卖。周五和周日妈妈做快手菜。周五是面，再加一个炒菜：通常西红柿炒鸡蛋，也可以花菜炒肉或香干炒肉。周二妈妈晚自习，爸爸早点回来陪。
 
 旧的家庭守则仍写九点关灯，那是更早的作息。当前钟点以本页为准：上学日和周日 22:00，周六 23:00。周末早上睡懒觉。

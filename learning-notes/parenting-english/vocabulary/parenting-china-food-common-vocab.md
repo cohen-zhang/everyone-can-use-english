@@ -127,6 +127,7 @@ tags:
 - **lamb / mutton** /læm; ˈmʌtn/ 羊肉  
 - **egg** /eɡ/ 鸡蛋  
 - **tofu** /ˈtoʊfuː/ 豆腐  
+- **dried tofu** /draɪd ˈtoʊfuː/ 香干（硬的五香豆干，不是嫩豆腐）  
 - **ham sausage (Chinese-style stick; often starch / surimi heavy—different from sliced ham)** /hæm ˈsɔːsɪdʒ/ …火腿肠（常作零食或配泡面；「淀粉肠」语境）  
 
 ### 海鲜类
@@ -145,6 +146,8 @@ tags:
   想吃蒸蛋还是炒蛋？`亲子`
 - **We’re having tofu with minced pork tonight.**  
   今晚吃肉末豆腐。`亲子`
+- **Noodles, plus tomato and egg. Or cauliflower with pork, or dried tofu with pork.**  
+  面，再加西红柿炒鸡蛋。也可以花菜炒肉，或香干炒肉。`亲子` 见 [[learning-notes/parenting-english/daily-life/week-with-celine/05-Friday#friday-quick-dinner|周五 · 妈妈的快手菜]]。
 
 ---
 
