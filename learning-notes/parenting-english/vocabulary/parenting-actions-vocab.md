@@ -32,7 +32,7 @@ tags:
 - **Open the box.**  
 打开盒子。
 - **Open your mouth.**  
-张开嘴巴。（让不多吃饭时常用）
+张开嘴巴。（When you have a cough, the doctor says this while checking your throat. — 咳嗽时，医生检查喉咙会这么说。）
 - **Open the lid.**  
 打开盖子。
 
@@ -88,12 +88,12 @@ tags:
 
 - **Come in, it's cold outside.**  
 进来，外面冷。
-- **Go out and play in the garden.**  
-出去玩吧，去花园里。
+- **Go out and play in our community garden. Get some sun.**  
+出去玩吧，去小区花园里，接触一下阳光。
 - **Come in and wash your hands.**  
 进来洗手。
-- **Let's go out for a walk.**  
-我们出去散步吧。
+- **Let's go for a walk by the river.**  
+我们去河边散步吧。
 
 ---
 
@@ -186,17 +186,19 @@ tags:
 | 抓 | **clutch** | /klʌtʃ/ | 抓紧（怕掉 / 不想给） | Don't clutch it so tight. — 别抓得那么紧。 |
 | 挤 | **squeeze** | /skwiːz/ | 捏紧、挤瓶身 | Squeeze the bottle a little. Hear the plastic? — 轻轻挤一下瓶子，听到塑料声了吗？ |
 | 摇 | **shake** | /ʃeɪk/ | 来回晃 | Shake the bottle gently. — 轻轻摇一摇瓶子。 |
-| 拧 | **tighten** | /ˈtaɪtn/ | 拧紧（瓶盖） | Tighten the cap. — 把瓶盖拧紧。 |
-| 撕 / 揭 | **peel off** | /piːl ɔːf/ | 撕掉表层 | Peel off the label. — 把标签撕下来。 |
+| 拧 | **tighten** | /ˈtaɪtn/ | 拧紧（瓶盖）。相近 **screw on**；相反 **twist off** / **loosen** | Tighten the cap. — 把瓶盖拧紧。 |
+| 撕 / 揭 | **peel off** | /piːl ɔːf/ | 撕掉表层。相近 **pull off** / **rip off**；相反 **stick on** | Peel off the label. — 把标签撕下来。 |
 | 擦 | **wipe** | /waɪp/ | 擦净 / 擦干 | Wipe the bottle. It's wet. — 擦擦瓶子，它是湿的。 |
 | 接 | **catch** | /kætʃ/ | 接住飞过来的东西 | Catch the bottle! — 接住瓶子！ |
 | 抢 | **snatch** | /snætʃ/ | 从别人手里一把抢走 | Don't snatch it. Ask first. — 别抢，先问一声。 |
 | 换 | **switch** | /swɪtʃ/ | 交换 / 换一个 | Switch bottles with me. — 跟我换一下瓶子。 |
 
-**易混三组：**
+**易混：**
 
 - **touch → tap → smack → punch** — 碰一下 → 轻敲 → 掌心拍 → 出拳捶（越来越重）。
 - **hold vs clutch vs squeeze** — hold 是普通拿着；clutch 是抓紧不放；squeeze 是捏/挤，瓶身会变形。
+- **tighten vs screw on vs twist off vs loosen** — screw on / tighten 是拧上、拧紧；twist off 是整颗拧下来；loosen 是拧松，盖子还在。
+- **peel off vs pull off vs rip off** — 都是把标签揭下来。peel / pull 较完整；rip 更猛。相反是 **stick on**（贴回去）或 **leave on**（留着）。
 - **catch vs snatch** — catch 是接住递来或抛来的；snatch 是从别人手里抢走。
 
 **和本页「Switch on / Switch off」的区别：** 这里的 **switch** 是「换」；电器开关仍用 **switch on / switch off**。
@@ -221,13 +223,49 @@ tags:
 - **Shake it. Do you hear the water?**  
 摇一摇。听到水声了吗？
 - **Tighten the cap, or it'll leak.**  
-把瓶盖拧紧，不然会漏。  
-  （反义：**Loosen the cap.** — 把盖子拧松。）
+把瓶盖拧紧，不然会漏。
+
+**拧盖：相近与相反**  
+同一只瓶盖。整句见 [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水|渴了喝矿泉水]] §3。
+
+- **相近 · screw on** — 也是往瓶口上拧。tighten 是拧紧；screw on 是把盖拧上去、拧回去。  
+  **Screw the cap back on.**  
+  把盖儿拧回去。
+- **相反 · twist off** — 整颗拧下来。  
+  **Twist the cap off.**  
+  把瓶盖拧开。
+- **相反 · loosen** — 只拧松，盖子还在瓶上。  
+  **Loosen the cap.**  
+  把盖子拧松。
+
+拧开之后喝，喝完再拧回去：
+
+- **I twist the cap off and hear it click.**  
+我拧开瓶盖，听见「咔」一声。
+- **I tilt my head back and take a big gulp.**  
+我仰起脖子，猛灌一大口。
+- **I crush the bottle, screw the cap back on, and toss it in the recycling bin.**  
+我捏扁空瓶，拧回盖儿，扔进可回收桶。
 
 ### 处理表面：peel off / wipe
 
 - **Peel off the sticky label.**  
 把粘着的标签撕下来。
+
+**撕 / 揭：相近与相反**
+
+- **相近 · pull off** — 把标签整片揭下来，和 peel 一样。  
+  **Pull the label off.**  
+  把标签揭下来。
+- **相近 · rip off** — 更快、更猛，标签容易撕破。  
+  **Rip the label off.**  
+  猛地撕掉标签。
+- **相反 · stick on / leave on** — 贴回去，或留着别撕。  
+  **Stick the label back on.**  
+  把标签贴回去。  
+  **Leave the label on.**  
+  标签留着，别撕。
+
 - **Wipe the bottle with a napkin.**  
 用餐巾纸擦擦瓶子。
 
