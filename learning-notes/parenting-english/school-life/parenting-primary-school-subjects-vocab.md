@@ -12,7 +12,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-四（2）班这一周的课表和延时见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|一周综合 · 课表]]。
+这一周的课表和延时见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|一周综合 · 课表]]。
 
 **相关：** 泛化的**职业与角色**、扮装游戏用词 → [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（与此页相向互链；此处侧重**在校与老师**，彼处侧重**职位与过家家**）。
 

@@ -8,7 +8,7 @@ tags:
 # 周二 · 自己走去学校
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]
 
 **相关：** 用眼约定在 [[learning-notes/parenting-english/daily-life/week-with-celine/01-Monday|周一 · 用眼诊断]]。出门问句 → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类]]。作业订正 → [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业打卡]]。
 

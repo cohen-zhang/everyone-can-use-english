@@ -5,7 +5,7 @@
 ## 本夹文件
 
 - [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|parenting-primary-school-subjects-vocab]]
-- [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表 · 一周综合]]
+- [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表 · 一周综合]]
 
 ## 相关 · 教材目录
 

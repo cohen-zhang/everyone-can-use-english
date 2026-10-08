@@ -10,7 +10,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-把不多（Celine）现在的上学周串成七天能跟读的英文。课表见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]。更早的幼儿一日在 [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine|不多的一天（上）]]，那篇是婴儿车和围兜，这一周是四年级。
+把不多（Celine）现在的上学周串成七天能跟读的英文。课表见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]。更早的幼儿一日在 [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine|不多的一天（上）]]，那篇是婴儿车和围兜，这一周是四年级。
 
 ## 七天
 

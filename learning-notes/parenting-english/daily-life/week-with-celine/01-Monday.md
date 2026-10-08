@@ -8,7 +8,7 @@ tags:
 # 周一 · 升旗日 + 用眼诊断
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]
 
 **相关：** 电动车接送 → [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases|电动自行车接送]]；在校用语 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学在校日常]]；出门问句 → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类]]；书包检查 → [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]]；作业订正 → [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业打卡]]；跳绳 → [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]；iPad → [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases|手机日常]]；Peppa → [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|Peppa 精选台词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa 手记]]；外卖 → [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#9-买菜点餐外卖常用句|中国常见食物 · 外卖]]；作息 → [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]。
 

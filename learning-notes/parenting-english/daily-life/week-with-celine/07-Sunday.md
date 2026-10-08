@@ -8,7 +8,7 @@ tags:
 # 周日 · 收拾下周
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]（明天升旗）
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]（明天升旗）
 
 **相关：** 书包检查 → [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]]。快手菜 → [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]。户外 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园]]。明天 → [[learning-notes/parenting-english/daily-life/week-with-celine/01-Monday|周一]]。
 

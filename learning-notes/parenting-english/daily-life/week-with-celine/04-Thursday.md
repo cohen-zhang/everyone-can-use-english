@@ -8,7 +8,7 @@ tags:
 # 周四 · 值日
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]
 
 **相关：** 值日夸奖 → [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases|夸奖赞美]]。收拾 → [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]]。跳绳 → [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]。
 

@@ -8,7 +8,7 @@ tags:
 # 周三 · 小雨，没有延时
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]
 
 **相关：** 雨天穿戴 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常]] · [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases|电动自行车接送]]。订正 → [[learning-notes/parenting-english/daily-life/parenting-homework-check-in-daily-phrases|作业打卡]]。
 

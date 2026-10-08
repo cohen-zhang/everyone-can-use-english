@@ -5,11 +5,11 @@ tags:
   - parenting/week-with-celine
 ---
 
-# 四（2）班课表 · 2026–2027 学年第一学期
+# 本学期课表 · 2026–2027 学年第一学期
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
 
-原件是 PDF：[[learning-notes/parenting-english/daily-life/四（2）上课表.pdf|四（2）上课表]]。本地 MarkItDown 转出来的表格被拆行，这一页是整理后的课表。不写校名。
+原件 PDF 不放进笔记文件名。本地 MarkItDown 转出来的表格被拆行，这一页是整理后的课表。不写校名，也不写班级。
 
 | 时间 | 节次 | 周一 | 周二 | 周三 | 周四 | 周五 |
 | --- | --- | --- | --- | --- | --- | --- |

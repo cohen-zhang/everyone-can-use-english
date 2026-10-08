@@ -8,7 +8,7 @@ tags:
 # 周五 · 这一周怎么样
 
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
-**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|四（2）班课表]]
+**课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]
 
 **相关：** 快手菜和外卖 → [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]。问这一周 → [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类]]。扣子和束裤子 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases#3-上学穿搭|穿衣日常 · 上学穿搭]]。红领巾 → [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]。
 
