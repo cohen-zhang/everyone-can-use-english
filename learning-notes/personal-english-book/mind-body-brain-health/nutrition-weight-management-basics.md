@@ -15,7 +15,7 @@ aliases:
 - [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 公园器材、跑步、力量训练、Health 应用等场景句
 - [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]] — 健康饮食与血清素相关做法
 - [[learning-notes/personal-english-book/one-minute-drill/渴了喝矿泉水|渴了喝矿泉水（1 分钟练习）]] — 运动后补水叙事
-- [[learning-notes/personal-english-book/one-minute-drill/a-weekday.md|A Weekday · 工作日的一天]] — 早餐多蛋白质、午饭少碳水等一日饮食句
+- [[learning-notes/personal-english-book/one-minute-drill/a-weekday.md|A Weekday · 工作日的一天]] — 早餐多蛋白质、午饭少碳水（§4）；晚饭进食顺序：先蔬菜、再蛋白质、主食最后（§5）
 - [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] — 鱼油、蛋白粉、D3+K2 与氨糖罐子；蛋白质说法见本页 Protein 节
 
 **本文以可朗读的英文为主**，每条下面用 **—** 给出简中意思；表格放在后半部分作查阅。**泽哥**想理清「吃什么、怎么吃、怎么长期管住体重」时，可以直接念英文句。

@@ -23,7 +23,7 @@ tags:
 | 包里多带 | 红领巾（必须）、跳绳（第四节体育） |
 | 当天课 | 升旗 → 语文 → 英语 → 数学 → 体育 → 信息 → 语文 → 班会 |
 | 大课间 | 周一没有 |
-| 午餐 | 校内午餐 + 每天加餐（**extra snack**） |
+| 午餐 | 校内午餐 + 加餐（**extra snack**）+ 午休（**nap time**） |
 | 放学 | 延时后 17:20，自己走回家，18:00 前到 |
 | 谁做晚饭 | 外卖（**takeout**） |
 | 几点睡 | 22:00 关灯 |
@@ -91,6 +91,8 @@ tags:
 | **Fourth period is PE—bring your jump rope.** | 第四节体育，带跳绳。`亲子` |
 | **Lunch and rest from eleven fifty to one fifty.** | 十一点五十到一点五十午餐午休。`技术` |
 | **Today's lunch plus the extra snack.** | 今天午餐加每天的加餐。`亲子` |
+| **After lunch, lie down for nap time.** | 吃完午饭，躺下午睡。`亲子` |
+| **Quiet time—try to rest, even if you can't sleep.** | 静息时间——睡不着也试着歇一会儿。`亲子` |
 | **Fifth period is IT—computer room.** | 第五节信息，去机房。`技术` |
 | **Sixth period Chinese, seventh period class meeting.** | 第六节语文，第七节班会。`技术` |
 
@@ -121,8 +123,12 @@ tags:
 | **What was the best thing today?** | 今天最棒的一件事是什么？`亲子` |
 | **Any hard moments you want to talk about?** | 有什么不开心的想说说吗？`亲子` |
 | **Who did you sit with at lunch?** | 午餐和谁一起坐？`亲子` |
+| **Did you fall asleep at nap time?** | 午睡睡得着吗？`亲子` |
+| **Could you sleep, or were you just resting with your eyes closed?** | 睡着了，还是闭着眼歇一会儿？`亲子` |
+| **About how long did you sleep?** | 大概睡了多久？`亲子` |
+| **Half an hour? An hour?** | 半小时？还是一小时？`亲子` |
 
-*更多问句见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句 · 时间段]]。*
+*更多问句见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句 · 时间段]]；午休说法见 [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab#2-一日在校通用描述|在校日常 · 午休]]。*
 
 ---
 
@@ -231,7 +237,10 @@ tags:
 - **Celine**: Can I do Peppa first?
 - **Daddy**: Textbook first, then a few Peppa lines. Ten minutes, then balcony break.
 - **Celine**: OK. Daddy, I'm home by six—right?
-- **Daddy**: Right. Walk straight home. The smart lock tells us you're back. Then you can find your friends.
+- **Daddy**: Right. Walk straight home. The smart lock tells us you're back.
+- **Daddy**: Did you fall asleep at nap time? About how long?
+- **Celine**: Maybe half an hour. I couldn't sleep at first.
+- **Daddy**: That's okay. Quiet rest still helps. Then you can find your friends.
 - **Celine**: Five more minutes after dinner?
 - **Daddy**: No. Bath now. Then your chapter book. Lights out at ten.
 

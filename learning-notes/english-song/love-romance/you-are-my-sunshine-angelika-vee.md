@@ -62,7 +62,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net（摇篮曲常见精简版：主歌一段 + 副歌；Angelika Vee 录音以哼唱与副歌重复为主）
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -71,12 +72,26 @@ You make me happy when skies are gray
 You'll never know, dear, how much I love you
 Please don't take my sunshine away
 
+#### 第 1 段 · 副歌
+
+你是我的阳光，我唯一的阳光
+天色灰暗时，是你让我快乐
+亲爱的，你永远不会知道我有多爱你
+请别带走我的阳光
+
 #### Part 2
 
 Hm, hm-hm
 Hm-hm, hm
 Hm-hm, hm
 Hmm-hm-mm
+
+#### 第 2 段 · 哼唱
+
+嗯，嗯嗯
+嗯嗯，嗯
+嗯嗯，嗯
+嗯嗯嗯
 
 #### Part 3（同 Part 1）
 
@@ -85,9 +100,20 @@ You make me happy when skies are gray
 You'll never know, dear, how much I love you
 Please don't take my sunshine away
 
+#### 第 3 段 · 副歌（同第 1 段）
+
+你是我的阳光，我唯一的阳光
+天色灰暗时，是你让我快乐
+亲爱的，你永远不会知道我有多爱你
+请别带走我的阳光
+
 #### Part 4
 
 No one can take my sunshine away
+
+#### 第 4 段 · 尾句
+
+谁也带不走我的阳光
 
 ---
 

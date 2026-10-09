@@ -23,7 +23,7 @@ tags:
 | 包里多带 | 红领巾或队徽；单周带跳绳（第五节体育） |
 | 当天课 | 早读英语 → 英语 → 数学 → 美术 → 语文 → 体育 → 在校阅读 → 答疑 |
 | 大课间 | 第一节下课后 |
-| 午餐 | 校内午餐 + 每天加餐（**extra snack**） |
+| 午餐 | 校内午餐 + 加餐（**extra snack**）+ 午休 |
 | 放学 | 延时后 17:20，自己走回家，18:00 前到 |
 | 谁做晚饭 | 外卖。妈妈晚自习，爸爸早点回来陪 |
 | 几点睡 | 22:00 关灯 |
@@ -81,6 +81,7 @@ tags:
 | **Home English is a different job. We'll do that tonight.** | 家里的英语是另一件事，今晚再做。`亲子` |
 | **Eye exercises at eleven and at two forty.** | 十一点和两点四十做爱眼操。`亲子` |
 | **Lunch plus the extra snack.** | 午餐加每天的加餐。`亲子` |
+| **After lunch, lie down for nap time.** | 吃完午饭，躺下午睡。`亲子` |
 | **After-school class until five twenty.** | 延时课到五点二十。`亲子` |
 
 ---
@@ -103,6 +104,8 @@ tags:
 | **Welcome home. How was school?** | 欢迎回家，学校怎么样？`亲子` |
 | **How was art class?** | 美术课怎么样？`亲子` |
 | **Did you finish the reading period?** | 阅读课做完了吗？`亲子` |
+| **Did you fall asleep at nap time?** | 午睡睡得着吗？`亲子` |
+| **About how long did you sleep?** | 大概睡了多久？`亲子` |
 | **Anything you want to tell me?** | 有什么想跟我说的吗？`亲子` |
 
 ---
@@ -146,6 +149,8 @@ tags:
 - **Celine**: How was school? Wait, that's your line.
 - **Daddy**: Right. How was school? How was art?
 - **Celine**: Fine. Reading class was long.
+- **Daddy**: Did you fall asleep at nap time? How long?
+- **Celine**: About forty minutes.
 - **Daddy**: That reading class stays at school. Home English is the iPad app.
 - **Celine**: Mom's at evening class?
 - **Daddy**: Yes. I'm home early. Textbook first, then a few Peppa lines.

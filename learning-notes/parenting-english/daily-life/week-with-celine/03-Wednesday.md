@@ -23,7 +23,7 @@ tags:
 | 包里多带 | 红领巾或队徽；跳绳（第五节体育） |
 | 当天课 | 早读数学 → 英语 → 语文 → 语文 → 科学 → 体育 → 数学 → 答疑 |
 | 大课间 | 第一节下课后 |
-| 午餐 | 本月惊喜餐（**surprise meal**）+ 加餐 |
+| 午餐 | 本月惊喜餐（**surprise meal**）+ 加餐 + 午休 |
 | 放学 | 全体 16:20，没有延时 |
 | 谁做晚饭 | 外卖 |
 | 几点睡 | 22:00 关灯 |
@@ -76,6 +76,7 @@ tags:
 | **Do the eye exercises. Don't skip them in the rain.** | 爱眼操要做，下雨也不跳过。`亲子` |
 | **Today is the surprise meal.** | 今天是惊喜餐。`亲子` |
 | **Tell me what was on the tray.** | 回来告诉我餐盘上有什么。`亲子` |
+| **After lunch, still lie down for nap time.** | 吃完午饭，还是要躺下午睡。`亲子` |
 | **No after-school class today. Everyone leaves at four twenty.** | 今天没有延时，全体四点二十放学。`亲子` |
 
 ---
@@ -96,6 +97,8 @@ tags:
 | English | 中文 |
 | --- | --- |
 | **How was school? How was the surprise meal?** | 学校怎么样？惊喜餐怎么样？`亲子` |
+| **Did you fall asleep after lunch?** | 午饭后午睡睡得着吗？`亲子` |
+| **About how long did you sleep?** | 大概睡了多久？`亲子` |
 | **Was there a quiz?** | 有小测吗？`亲子` |
 | **Fix the ones you got wrong. Blue pen.** | 订正错题，用蓝笔。`亲子` |
 | **Don't erase. Write the correction next to it.** | 别擦，在旁边写订正。`亲子` |
@@ -126,7 +129,9 @@ tags:
 - **Celine**: No after-school class today.
 - **Daddy**: Right. Everyone leaves at four twenty. Walk slow. Look twice.
 - **Celine**: The surprise meal had dumplings!
-- **Daddy**: Nice. Any quiz to fix?
+- **Daddy**: Nice. Did you fall asleep after lunch? How long?
+- **Celine**: Yes—maybe half an hour. I was full.
+- **Daddy**: Good. Any quiz to fix?
 - **Celine**: Two math problems.
 - **Daddy**: Blue pen. Don't erase. Then the English app, and a short Peppa review.
 - **Celine**: Balcony break?

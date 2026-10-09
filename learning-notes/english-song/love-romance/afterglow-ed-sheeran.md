@@ -62,11 +62,16 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
 One, two
+
+#### 第 1 段 · 数拍
+
+一，二
 
 #### Part 2
 
@@ -77,6 +82,15 @@ Saturday morning is fadin'
 The sun's reflected by the coffee in your hand
 My eyes are caught in your gaze all over again
 
+#### 第 2 段 · 主歌 1
+
+让时钟停下，太美了
+你该看看光在你发间跳动的样子
+榛褐、金色、红色，千万种颜色
+周六的早晨正在褪去
+阳光映在你手里的咖啡上
+我的目光又一次被你吸住
+
 #### Part 3
 
 We were love drunk waiting on a miracle
@@ -86,10 +100,24 @@ Oh, I won't be silent and I won't let go
 I will hold on tighter 'til the afterglow
 And we'll burn so bright 'til the darkness softly clears
 
+#### 第 3 段 · 副歌
+
+我们爱得沉醉，等着一个奇迹
+想在冬雪里找到自己
+爱得如此独处，仿佛世界消失了
+哦，我不会沉默，也不会放手
+我会抓得更紧，直到余晖时分
+我们会烧得那么亮，直到黑暗轻轻散去
+
 #### Part 4
 
 Oh, I will hold on to the afterglow
 Oh, I will hold on to the afterglow
+
+#### 第 4 段 · 后副歌
+
+哦，我会抓住这余晖
+哦，我会抓住这余晖
 
 #### Part 5
 
@@ -100,6 +128,15 @@ This is a new dimension
 This is a level where we're losing track of time
 I'm holding nothing against it, except you and I
 
+#### 第 5 段 · 主歌 2
+
+外面的天气在变
+树叶埋在六英寸的白雪下
+收音机放着 Iron & Wine
+这是一个新的维度
+这是一个我们忘了时间的层次
+我什么都不记恨，只把你和我抱在怀里
+
 #### Part 6（同 Part 3）
 
 We were love drunk waiting on a miracle
@@ -109,11 +146,26 @@ Oh, I won't be silent and I won't let go
 I will hold on tighter 'til the afterglow
 And we'll burn so bright 'til the darkness softly clears
 
+#### 第 6 段 · 副歌（同第 3 段）
+
+我们爱得沉醉，等着一个奇迹
+想在冬雪里找到自己
+爱得如此独处，仿佛世界消失了
+哦，我不会沉默，也不会放手
+我会抓得更紧，直到余晖时分
+我们会烧得那么亮，直到黑暗轻轻散去
+
 #### Part 7
 
 Oh, I will hold on to the afterglow
 Oh, I will hold on to the afterglow
 Oh, I will hold on to the afterglow
+
+#### 第 7 段 · 后副歌（重复）
+
+哦，我会抓住这余晖
+哦，我会抓住这余晖
+哦，我会抓住这余晖
 
 ---
 
@@ -129,7 +181,7 @@ Oh, I will hold on to the afterglow
 | **I won't be silent and I won't let go** | 我不会沉默，也不会放手 | *let go* 放手 |
 | **I will hold on tighter 'til the afterglow** | 我会抓得更紧，直到余晖时分 | *hold on* 坚持、抓紧；*'til* = until |
 | **losing track of time** | 忘了时间 | *lose track of* 失去对……的掌握；高频口语 |
-| **I'm holding nothing against it** | 我对此毫无怨言 | *hold sth against sb* 因某事记恨 |
+| **I'm holding nothing against it** | 我对此毫无怨言 | *hold sth against sb* 因某事记恨；下一句 *except you and I* 是双关：什么都不记恨，只把你和我抱住 |
 
 ---
 

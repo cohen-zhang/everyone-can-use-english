@@ -61,12 +61,18 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
 Okay, Coconut man, Moonheads and Pea
 You ready?
+
+#### 第 1 段 · 前奏
+
+好了，椰子人、月亮头、豌豆
+准备好了吗？
 
 #### Part 2
 
@@ -79,12 +85,30 @@ Acting so damn mysterious
 Got shades on your eyes
 And your heels so high that you can't even have a good time
 
+#### 第 2 段 · 主歌 1
+
+好像每个人都有个价码
+我好奇他们晚上怎么睡得着
+买卖排第一，真相排第二
+停一分钟，笑一下吧
+为什么大家都这么严肃？
+装得那么神秘
+眼睛上戴着墨镜
+高跟鞋高到连开心都做不到
+
 #### Part 3
 
 Everybody look to their left
 Everybody look to their right
 Can you feel that? Yeah
 We're paying with love tonight
+
+#### 第 3 段 · 预副歌
+
+大家看向左边
+大家看向右边
+感觉到了吗？对
+今晚我们用爱来付账
 
 #### Part 4
 
@@ -96,6 +120,17 @@ Ain't about the, uh, cha-ching cha-ching
 Ain't about the, yeah, ba-bling ba-bling
 Wanna make the world dance
 Forget about the price tag
+
+#### 第 4 段 · 副歌
+
+重点不在钱、钱、钱
+我们不需要你的钱、钱、钱
+我们只想让全世界跳起舞
+忘掉那张价签
+不是为了，呃，收银机叮叮响
+不是为了，对，珠光宝气闪闪亮
+想让全世界跳起舞
+忘掉那张价签
 
 #### Part 5
 
@@ -109,12 +144,31 @@ Money can't buy us happiness
 Can we all slow down and enjoy right now?
 Guarantee we'll be feeling alright
 
+#### 第 5 段 · 主歌 2
+
+好
+我们得把时光倒回去
+那时候音乐让我们聚在一起
+没有阴招，也没有靠镜头卖弄的人
+难道只有我一个人觉得累了？
+为什么大家都这么痴迷？
+钱买不来幸福
+我们能不能放慢脚步，享受当下？
+我保证，我们会感觉很好
+
 #### Part 6
 
 Everybody look to their left (to their left)
 Everybody look to their right (to their right)
 Can you feel that? Yeah
 We're paying with love tonight
+
+#### 第 6 段 · 预副歌（重复）
+
+大家看向左边（看向左边）
+大家看向右边（看向右边）
+感觉到了吗？对
+今晚我们用爱来付账
 
 #### Part 7（同 Part 4）
 
@@ -127,6 +181,17 @@ Ain't about the, yeah, ba-bling ba-bling
 Wanna make the world dance
 Forget about the price tag
 
+#### 第 7 段 · 副歌（同第 4 段）
+
+重点不在钱、钱、钱
+我们不需要你的钱、钱、钱
+我们只想让全世界跳起舞
+忘掉那张价签
+不是为了，呃，收银机叮叮响
+不是为了，对，珠光宝气闪闪亮
+想让全世界跳起舞
+忘掉那张价签
+
 #### Part 8
 
 Yeah, yeah, well, keep the price tag and take the cash back
@@ -134,6 +199,14 @@ Just give me six strings (six strings) and a half-stack (half stack)
 And you can, can keep the cars, leave me the garage
 And all I, yes, all I need are keys and guitars
 And guess what? In thirty seconds, I'm leaving to Mars (Mars)
+
+#### 第 8 段 · 说唱 1
+
+对，对，价签你留着，现金也拿回去
+只要给我六根弦（六根弦）和半套音箱（半套音箱）
+车你可以留着，车库留给我
+我要的，对，我只要琴键和吉他
+你猜怎么着？三十秒后，我就飞去火星（火星）
 
 #### Part 9
 
@@ -144,6 +217,16 @@ So we ain't gon' stumble and fall, never (nah)
 Waiting to see this in the sign of defeat, uh-uh
 So we gon' keep everyone moving their feet
 So bring back the beat and then everyone sing
+
+#### 第 9 段 · 说唱 2
+
+对，我们正跃过这些打不倒的难关（难关）
+就是这样，兄弟，生命没法标价（不啊）
+我们为爱做这件事，所以每晚都拼、都牺牲
+所以我们不会绊倒、不会倒下，绝不（不）
+别等着看我们露出败相，呃呃
+我们要让所有人的脚继续动起来
+所以把节拍带回来，然后大家一起唱
 
 #### Part 10
 
@@ -156,6 +239,17 @@ Ain't about the, yeah, ba-bling, ba-bling
 Wanna make the world dance
 Forget about the price tag (hey, hey)
 
+#### 第 10 段 · 副歌（重复）
+
+重点不在钱、钱、钱
+我们不需要你的钱、钱、钱
+我们只想让全世界跳起舞
+忘掉那张价签
+不是为了，呃，收银机叮叮响
+不是为了，对，珠光宝气闪闪亮
+想让全世界跳起舞
+忘掉那张价签（嘿，嘿）
+
 #### Part 11
 
 It's not about the money, money, money (we don't need it)
@@ -167,12 +261,30 @@ Ain't about the (it ain't about), yeah, ba-bling ba-bling
 Wanna make the world dance (yeah, yeah)
 Forget about the price tag (forget about the price tag)
 
+#### 第 11 段 · 副歌（加衬词）
+
+重点不在钱、钱、钱（我们不需要）
+我们不需要你的钱、钱、钱（不，不）
+（我们不需要）我们只想让全世界跳起舞（跳舞）
+忘掉那张价签（跳舞，跳舞，跳舞）
+不是为了，呃，收银机叮叮响
+不是为了（不是为了），对，珠光宝气闪闪亮
+想让全世界跳起舞（对，对）
+忘掉那张价签（忘掉那张价签）
+
 #### Part 12
 
 (Ahh, ahh, ahh, ahh)
 Yeah, yeah (ahh)
 Ooh, ooh, ooh (ahh)
 Forget about the price tag, yeah (ahh, ahh)
+
+#### 第 12 段 · 尾奏
+
+（啊，啊，啊，啊）
+对，对（啊）
+呜，呜，呜（啊）
+忘掉那张价签，对（啊，啊）
 
 ---
 

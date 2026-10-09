@@ -62,7 +62,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -70,22 +71,45 @@ Hey, slow it down
 Whataya want from me?
 Whataya want from me?
 
+#### 第 1 段 · 前奏
+
+嘿，慢一点
+你到底想要我怎样？
+你到底想要我怎样？
+
 #### Part 2
 
 Yeah, I'm afraid
 Whataya want from me?
 Whataya want from me?
 
+#### 第 2 段
+
+对，我害怕
+你到底想要我怎样？
+你到底想要我怎样？
+
 #### Part 3
 
 There might've been a time when I would give myself away
 Oh, once upon a time, I didn't give a damn
+
+#### 第 3 段 · 主歌 1
+
+也许曾经有一段时间，我会把自己全交出去
+哦，从前，我根本不在乎
 
 #### Part 4
 
 But now, here we are
 So whataya want from me?
 Whataya want from me?
+
+#### 第 4 段 · 预副歌
+
+可现在，我们在这里
+所以你到底想要我怎样？
+你到底想要我怎样？
 
 #### Part 5
 
@@ -94,11 +118,24 @@ Please don't give in, I won't let you down
 It messed me up, need a second to breathe
 Just keep comin' around
 
+#### 第 5 段 · 副歌
+
+别放弃，我正在想办法
+请别妥协，我不会让你失望
+这让我一团糟，需要喘口气
+只要你继续回到我身边
+
 #### Part 6
 
 Hey, whataya want from me?
 Whataya want from me?
 Whataya want from me?
+
+#### 第 6 段
+
+嘿，你到底想要我怎样？
+你到底想要我怎样？
+你到底想要我怎样？
 
 #### Part 7
 
@@ -107,16 +144,34 @@ It's plain to see (it's plain to see)
 That, baby, you're beautiful
 And there's nothin' wrong with you (nothin' wrong with you)
 
+#### 第 7 段 · 主歌 2
+
+对（对）
+显而易见（显而易见）
+宝贝，你很美
+你没有任何问题（没有任何问题）
+
 #### Part 8
 
 It's me, I'm a freak (yeah)
 But thanks for lovin' me
 'Cause you're doing it perfectly (perfectly)
 
+#### 第 8 段
+
+是我，我是个怪人（对）
+但谢谢你爱我
+因为你做得完美极了（完美极了）
+
 #### Part 9
 
 Yeah, there might've been a time when I would let you slip away
 I wouldn't even try, but I think you could save my life
+
+#### 第 9 段 · 主歌 3
+
+对，也许曾经有一段时间，我会让你溜走
+我甚至不会去试，可我觉得你能拯救我
 
 #### Part 10（同 Part 5）
 
@@ -125,27 +180,56 @@ Please don't give in, I won't let you down
 It messed me up, need a second to breathe
 Just keep comin' around
 
+#### 第 10 段 · 副歌（同第 5 段）
+
+别放弃，我正在想办法
+请别妥协，我不会让你失望
+这让我一团糟，需要喘口气
+只要你继续回到我身边
+
 #### Part 11
 
 Hey, whataya want from me? (Whataya want from me?)
 Whataya want from me?
 Whataya want from me? (Whataya want from me?)
 
+#### 第 11 段
+
+嘿，你到底想要我怎样？（你到底想要我怎样？）
+你到底想要我怎样？
+你到底想要我怎样？（你到底想要我怎样？）
+
 #### Part 12
 
 Just don't give up on me
+
+#### 第 12 段
+
+只是别放弃我
 
 #### Part 13
 
 I won't let you down
 
+#### 第 13 段
+
+我不会让你失望
+
 #### Part 14
 
 No, I won't let you down
 
+#### 第 14 段
+
+不，我不会让你失望
+
 #### Part 15
 
 So what?
+
+#### 第 15 段
+
+那又怎样？
 
 #### Part 16
 
@@ -155,6 +239,14 @@ It messed me up (it messed me up), need a second to breathe
 Just keep comin' around
 Hey, whataya want from me?
 
+#### 第 16 段 · 副歌（加衬词）
+
+别放弃，我正在想办法
+请别妥协，我不会让你失望
+这让我一团糟（这让我一团糟），需要喘口气
+只要你继续回到我身边
+嘿，你到底想要我怎样？
+
 #### Part 17（同 Part 5）
 
 Just don't give up, I am working it out
@@ -162,11 +254,24 @@ Please don't give in, I won't let you down
 It messed me up, need a second to breathe
 Just keep comin' around
 
+#### 第 17 段 · 副歌（同第 5 段）
+
+别放弃，我正在想办法
+请别妥协，我不会让你失望
+这让我一团糟，需要喘口气
+只要你继续回到我身边
+
 #### Part 18
 
 Hey, whataya want from me? (Whataya want from me?)
 Whataya want from me? (Whataya want from me?)
 Whataya want from me? (Whataya want from me?)
+
+#### 第 18 段 · 尾奏
+
+嘿，你到底想要我怎样？（你到底想要我怎样？）
+你到底想要我怎样？（你到底想要我怎样？）
+你到底想要我怎样？（你到底想要我怎样？）
 
 ---
 

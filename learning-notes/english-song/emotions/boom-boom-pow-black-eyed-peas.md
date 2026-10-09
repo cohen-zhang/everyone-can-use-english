@@ -58,7 +58,9 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 原文含粗口，为歌曲原词；学习时注意语境与场合。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -66,6 +68,13 @@ Gotta get that
 Gotta get that
 Gotta get that
 Gotta get that, that, that, that, that
+
+#### 第 1 段 · 前奏
+
+得拿到那个
+得拿到那个
+得拿到那个
+得拿到那个、那个、那个、那个、那个
 
 #### Part 2
 
@@ -78,6 +87,17 @@ Boom, boom, boom (that)
 Boom, boom, boom
 Boom, boom, boom
 
+#### 第 2 段 · 钩子
+
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（那个）
+砰，砰，砰（那个）
+砰，砰，砰
+砰，砰，砰
+
 #### Part 3
 
 Yo, I got that hit to beat the block
@@ -86,6 +106,15 @@ I got that rock 'n' roll, that future flow
 That digital spit, next level visual shit
 I got that (boom, boom, boom)
 How the beat bang? (Boom boom boom)
+
+#### 第 3 段 · 主歌 1
+
+哟，我有能炸翻街区的热单
+你可以听到底下那层贝斯
+我有摇滚，有未来的流动
+数字说唱，下一级的画面
+我有那个（砰，砰，砰）
+这节拍怎么炸？（砰砰砰）
 
 #### Part 4
 
@@ -99,6 +128,18 @@ I got that boom, boom, boom
 That future boom, boom, boom
 Let me get it now
 
+#### 第 4 段 · 副歌
+
+我就喜欢那 boom boom pow
+那些跟风的在偷我的风格
+他们想模仿我的派头
+我已经玩下一代的东西了
+我超前到 3008
+你还停在 2000，太晚了
+我有那砰、砰、砰
+那未来的砰、砰、砰
+现在就让我来
+
 #### Part 5（同 Part 2）
 
 Boom, boom, boom (gotta get that)
@@ -109,6 +150,17 @@ Boom, boom, boom (that)
 Boom, boom, boom (that)
 Boom, boom, boom
 Boom, boom, boom
+
+#### 第 5 段 · 钩子（同第 2 段）
+
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（那个）
+砰，砰，砰（那个）
+砰，砰，砰
+砰，砰，砰
 
 #### Part 6
 
@@ -121,6 +173,17 @@ That lo-fi stupid 8-bit
 I'm on that HD flat
 This beat go boom, boom, bap
 
+#### 第 6 段 · 主歌 2
+
+我在那超音速的砰上
+你们听到那飞船了吗？嗖
+当、当我走进这房间
+那些女孩就疯了，嗯
+你们还卡在超八胶片那一套
+那低保真、蠢兮兮的 8-bit
+我在高清屏幕上
+这节拍走砰、砰、啪
+
 #### Part 7
 
 I'm a beast when you turn me on
@@ -131,6 +194,17 @@ Sexy ladies, extra longer
 We got the beat that pound
 We got the beat, that 808
 That boom boom in your town
+
+#### 第 7 段 · 主歌 3
+
+你一打开我，我就是头野兽
+进入未来，赛博坦
+更狠、更快、更好、更强
+性感的女士们，再久一点
+因为我们有弹跳的节拍
+我们有砸下来的节拍
+我们有那 808 的节拍
+那砰砰响彻你的城市
 
 #### Part 8
 
@@ -144,6 +218,18 @@ Yup, yup
 I be rockin' them beats
 Y-yup, yup, yup, ha, ha, ha
 
+#### 第 8 段 · 喊麦
+
+在场的各位
+若你们想嗨起来
+把手举起来
+will.i.am，现在放下节拍
+对，对
+我在摇这些节拍
+对，对
+我在摇这些节拍
+对、对、对，哈，哈，哈
+
 #### Part 9
 
 Here we go, here we go, satellite radio
@@ -155,6 +241,17 @@ Shittin' on y'all wit' the
 This beat be bumpin', bumpin'
 This beat go boom, boom
 
+#### 第 9 段 · 说唱
+
+开始了，开始了，卫星电台
+你们被这（砰，砰！）击中了
+节拍大到我踩在小矮妖身上
+用这（砰，砰！）把你们比下去
+用这（砰，砰！）把你们比下去
+用这把你们比下去
+这节拍在震、在震
+这节拍走砰、砰
+
 #### Part 10
 
 Let the beat rock
@@ -162,6 +259,14 @@ L-L-L-L-Let the beat r-rock
 Let the beat r-
 This beat be bumpin', bumpin'
 This beat go boom, boom
+
+#### 第 10 段
+
+让节拍燥起来
+让、让、让、让节拍燥起来
+让节拍燥——
+这节拍在震、在震
+这节拍走砰、砰
 
 #### Part 11（同 Part 4）
 
@@ -175,6 +280,18 @@ I got that boom, boom, boom
 That future boom, boom, boom
 Let me get it now
 
+#### 第 11 段 · 副歌（同第 4 段）
+
+我就喜欢那 boom boom pow
+那些跟风的在偷我的风格
+他们想模仿我的派头
+我已经玩下一代的东西了
+我超前到 3008
+你还停在 2000，太晚了
+我有那砰、砰、砰
+那未来的砰、砰、砰
+现在就让我来
+
 #### Part 12（同 Part 2）
 
 Boom, boom, boom (gotta get that)
@@ -186,11 +303,28 @@ Boom, boom, boom (that)
 Boom, boom, boom
 Boom, boom, boom
 
+#### 第 12 段 · 钩子（同第 2 段）
+
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（得拿到那个）
+砰，砰，砰（那个）
+砰，砰，砰（那个）
+砰，砰，砰
+砰，砰，砰
+
 #### Part 13
 
 Let the beat rock (let the beat rock)
 Let the beat rock (let the beat-)
 Let the beat rock (let the beat rock, rock, rock-)
+
+#### 第 13 段 · 尾奏
+
+让节拍燥起来（让节拍燥起来）
+让节拍燥起来（让节拍——）
+让节拍燥起来（让节拍燥、燥、燥——）
 
 ---
 

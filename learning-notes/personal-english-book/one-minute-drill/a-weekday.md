@@ -21,7 +21,7 @@ aliases:
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e05-commute-to-work-notes.md|Jeff E05 上班通勤]] — 通勤词汇对照（开车 vs 本篇地铁 / 共享单车）
 - [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动车接送学]] — **e-bike**、送孩子上学 `亲子`
 - [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases.md|地铁场景]] — 搭地铁、站内与车上用语
-- [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理]] — 蛋白质、少碳水等饮食说法
+- [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理]] — 蛋白质、少碳水、**blood sugar spike**；晚饭 **eating order** 见该页「进食顺序」
 - [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] — 把 **Daily lens** 落到明天 2–3 个 timeblock（对照本篇工作日动作链）
 
 **风格约束：** `english-learning-markdown-docs`（地道美式口语、短句 ≤20 词、优先短语动词）。
@@ -60,7 +60,11 @@ aliases:
 
 - **At noon, I have lunch on campus.** — 中午在园区吃午饭。  
 - **I cut back on carbs so I don't crash in the afternoon.** — 少吃点碳水，下午才不困。  
+- **It also keeps my blood sugar from spiking so hard after lunch.** — 少吃也是为了餐后血糖别升那么猛。  
+- **So my nap doesn't have to run so long.** — 午睡也就不用那么久。  
 - **Then at 3, I take an afternoon break.** — 然后下午 3 点，休息一下。  
+- **If I nap, I keep it under twenty minutes.** — 若午睡，不超过 20 分钟。  
+- **That way I don't slip into deep sleep.** — 这样才不会进入深层睡眠。  
 - **I either refill my bottle at the pantry, or grab a coffee downstairs.** — 要么去茶水间接水，要么下楼买杯咖啡。  
 - **After that, I hang out in the campus lounge and look out into the distance.** — 之后在园区休息区远眺一会儿。  
 - **I also stretch a bit — especially my neck.** — 再伸展一下身体，尤其是脖子。
@@ -68,6 +72,10 @@ aliases:
 ### 5. 晚饭 · 加班 · 回家
 
 - **By 6, I eat a bit more.** — 到了 6 点，会多吃一点。  
+- **I also watch the eating order.** — 我也会注意进食顺序。  
+- **I start with veggies, then meat for protein.** — 先蔬菜，再肉类蛋白质。  
+- **I save the carbs for last, so I don't overdo the staple.** — 主食放最后，这样才不会吃太多。  
+- **My blood sugar stays steadier after dinner.** — 餐后血糖也更稳定。  
 - **Then I take a lap around campus.** — 饭后围着园区散步一圈。  
 - **If I work late, after I wrap up I pack my laptop into my backpack.** — 晚上若加班，加完班后再把笔记本电脑收进背包。  
 - **Finally, I leave at 9 and get home a little after 10.** — 最后 9 点离开公司，十点多到家。
@@ -116,11 +124,17 @@ aliases:
 | **pack … into** | /pæk ˈɪntuː/ | 把…收进 | After I wrap up, I **pack** my laptop **into** my backpack. |
 | **cut back on** | /kʌt bæk ɑːn/ | 少吃 / 减少 | **Cut back on** carbs. |
 | **crash** | /kræʃ/ | （午后）犯困、垮掉 | so I don't **crash** in the afternoon |
+| **spike** | /spaɪk/ | （血糖）猛升 | blood sugar doesn't **spike** so hard |
+| **nap** | /næp/ | 午睡 | keep the **nap** under twenty minutes |
+| **slip into** | /slɪp ˈɪntuː/ | 不知不觉进入 | don't **slip into** deep sleep |
 | **refill** | /ˌriːˈfɪl/ | 再装满（水杯） | **refill** my bottle |
 | **head downstairs** | /hed ˌdaʊnˈsterz/ | 下楼（去） | **Head downstairs** and grab a coffee. |
 | **hang out** | /hæŋ aʊt/ | 待一会儿 | **Hang out** in the campus lounge. |
 | **look out into the distance** | /lʊk aʊt/ · /ˈdɪstəns/ | 远眺 | **Look out into the distance** and stretch. |
 | **stretch** | /stretʃ/ | 伸展 | **stretch** — especially my neck |
+| **start with** | /stɑːrt wɪð/ | 先吃… | **Start with** veggies. |
+| **save … for last** | /seɪv/ | 把…留到最后 | **Save** the carbs **for last**. |
+| **overdo** | /ˌoʊvərˈduː/ | 吃太多 | don't **overdo** the staple |
 | **take a lap** | /læp/ | 绕一圈 | **Take a lap** around campus. |
 | **work late** | /wɜːrk leɪt/ | 加班 | If I **work late**… |
 | **get home** | /ɡet hoʊm/ | 到家 | I **get home** after 10. |
@@ -137,11 +151,16 @@ aliases:
 | **subway** | /ˈsʌbweɪ/ | 地铁（美） | near the **subway**；英式常说 *underground / tube* |
 | **shared bike** | /ʃɛrd baɪk/ | 共享单车 | grab a **shared bike** |
 | **campus** | /ˈkæmpəs/ | （公司）园区；校园 | breakfast on **campus** |
-| **protein** | /ˈproʊtiːn/ | 蛋白质 | get more **protein** |
+| **protein** | /ˈproʊtiːn/ | 蛋白质 | get more **protein**；meat for **protein** |
+| **veggies** | /ˈvɛdʒiz/ | 蔬菜（口语） | **veggies** first |
+| **eating order** | /ˈiːtɪŋ ˈɔːrdər/ | 进食顺序 | watch the **eating order** |
+| **staple** | /ˈsteɪpl/ | 主食 | don't overdo the **staple** |
 | **egg pancake** | /eɡ ˈpænkeɪk/ | 鸡蛋饼 | two eggs and an **egg pancake** |
 | **rice noodles** | /raɪs ˈnuːdlz/ | 米粉 / 粉 | a bowl of **rice noodles** |
 | **standing desk** | /ˈstændɪŋ desk/ | 升降桌；站立办公桌 | raise my **standing desk** |
 | **carb(s)** | /kɑːrb(z)/ | 碳水（口语） | cut back on **carbs** |
+| **blood sugar** | /blʌd ˈʃʊɡər/ | 血糖 | **blood sugar** after lunch |
+| **deep sleep** | /diːp sliːp/ | 深层睡眠 | slip into **deep sleep** |
 | **carbohydrate** | /ˌkɑːrboʊˈhaɪdreɪt/ | 碳水化合物（全称） | 口语多用 **carbs** |
 | **pantry** | /ˈpæntri/ | 茶水间；食品储藏间 | in the **pantry** |
 | **water dispenser** | /ˈwɔːtər dɪˈspensər/ | 饮水机 | pantry **water dispenser** |
@@ -159,12 +178,14 @@ aliases:
 3. **Stop / Snooze** — 闹钟标准选项；口语常说 **hit Stop / hit Snooze**。  
 4. **e-bike / electric bike** — 国内「电动车」口语；比 *scooter* 更少歧义。详见 [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|电动车接送学]]。  
 5. **shared bike** — 共享单车；也可说 *shared bicycle*。  
-6. **afternoon break** — 对应「下午茶 / 休息」；美式职场也常说 **coffee break**（哪怕只喝水）。  
+6. **afternoon break** — 对应「下午茶 / 休息」；美式职场也常说 **coffee break**（哪怕只喝水）。若午睡，控制在 **under twenty minutes**，免得 **slip into deep sleep**（进入深层睡眠，醒来更昏）。  
 7. **egg pancake** — 鸡蛋饼的口语近似说法；点餐时可再描述形状 / 馅料。  
 8. **rice noodles** — 「粉」的常用说法（米粉等）。  
 9. **standing desk** — 升降桌 / 站立办公桌；升起说 **raise**，降下说 **lower**。  
 10. **pack … into a backpack** — 把…收进背包；也可说 **slip / stash the laptop in my bag**。  
-11. **hydrate** — 补水；清晨「补充」喝水优先用 **hydrate**，比单纯 *drink water* 更强调 replenish。衔接起床可用 **After I get up, …**；也可说 **top myself up with water**。
+11. **hydrate** — 补水；清晨「补充」喝水优先用 **hydrate**，比单纯 *drink water* 更强调 replenish。衔接起床可用 **After I get up, …**；也可说 **top myself up with water**。  
+12. **blood sugar spike** — 餐后血糖猛升。少碳水也是为了别升那么猛。同一说法见 [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理]]（**blunt blood-sugar spikes**）。  
+13. **eating order** — 进食顺序：**start with veggies**，再肉类蛋白质，**save the carbs for last**。主食留到最后，就不容易 **overdo the staple**，餐后血糖更稳。详见饮食笔记「进食顺序」。
 
 ---
 

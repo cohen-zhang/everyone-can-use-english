@@ -60,7 +60,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -68,6 +69,13 @@ Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da (Jason Derulo)
+
+#### 第 1 段 · 前奏
+
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒（Jason Derulo）
 
 #### Part 2
 
@@ -80,6 +88,17 @@ If you keepin' up you's a keeper
 Tequila and vodka
 Girl, you might be a problem
 
+#### 第 2 段 · 主歌 1
+
+开过来，在你身上来个急刹
+表现得就像我的法拉利
+你太好看，得买票才能看
+我打赌你尝起来很贵
+一杯一杯按升倒
+你若跟得上，就值得留
+龙舌兰和伏特加
+女孩，你可能是个麻烦
+
 #### Part 3
 
 Run away, run away, run away, run away
@@ -87,6 +106,14 @@ I know that I should
 But my heart wanna stay, wanna stay, wanna stay, wanna stay now
 You can see it in my eyes that I wanna take you down right now if I could
 So I hope you know what I mean when I say
+
+#### 第 3 段 · 预副歌
+
+快跑，快跑，快跑，快跑
+我知道我应该
+可我的心想留下，想留下，想留下，现在就想留下
+你从我眼里就能看出来，要是可以，我现在就想把你拿下
+所以我希望你明白我说这句话的意思
 
 #### Part 4
 
@@ -100,6 +127,18 @@ No need to imagine
 Baby, all I'm asking
 Is let me take you dancing
 
+#### 第 4 段 · 副歌
+
+让我带你去跳舞
+两步舞跳进卧室
+我们不需要舞池
+让我看看你最拿手的舞步
+什么都可能发生
+自从遇见你
+不必再想象
+宝贝，我只求一件事
+就是让我带你去跳舞
+
 #### Part 5
 
 Like da-da-da-da-da-da
@@ -107,12 +146,26 @@ Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da
 
+#### 第 5 段 · 哼唱
+
+就像哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+
 #### Part 6
 
 Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da
+
+#### 第 6 段 · 哼唱（重复）
+
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒
 
 #### Part 7
 
@@ -124,6 +177,16 @@ Know we not in love so let's make it
 Tequila and vodka
 Girl, you might be a problem
 
+#### 第 7 段 · 主歌 2
+
+开过来，在你身上来个急刹
+这场派对里只有我们两个
+那件路易、那件普拉达，脱下来更好看
+把我调高、调高、调高，做我的服务员
+我们知道还没相爱，那就来制造一点
+龙舌兰和伏特加
+女孩，你可能是个麻烦
+
 #### Part 8
 
 Run away, run away, run away, run away
@@ -131,6 +194,14 @@ I know that I should (know that I should)
 But my heart wanna stay, wanna stay, wanna stay, wanna stay now
 You can see it in my eyes that I wanna take you down right now if I could
 So I hope you know what I mean when I say
+
+#### 第 8 段 · 预副歌（重复）
+
+快跑，快跑，快跑，快跑
+我知道我应该（我知道我应该）
+可我的心想留下，想留下，想留下，现在就想留下
+你从我眼里就能看出来，要是可以，我现在就想把你拿下
+所以我希望你明白我说这句话的意思
 
 #### Part 9（同 Part 4）
 
@@ -144,6 +215,18 @@ No need to imagine
 Baby, all I'm asking
 Is let me take you dancing
 
+#### 第 9 段 · 副歌（同第 4 段）
+
+让我带你去跳舞
+两步舞跳进卧室
+我们不需要舞池
+让我看看你最拿手的舞步
+什么都可能发生
+自从遇见你
+不必再想象
+宝贝，我只求一件事
+就是让我带你去跳舞
+
 #### Part 10
 
 Like da-da-da-da-da-da
@@ -151,12 +234,26 @@ Da-da-da-da-da-da (oh)
 Da-da-da-da-da-da
 Da-da-da-da-da-da (if you know what I mean)
 
+#### 第 10 段 · 哼唱
+
+就像哒哒哒哒哒哒
+哒哒哒哒哒哒（哦）
+哒哒哒哒哒哒
+哒哒哒哒哒哒（你懂我的意思吧）
+
 #### Part 11
 
 Da-da-da-da-da-da
 Da-da-da-da-da-da
 Da-da-da-da-da-da (girl)
 Da-da-da-da-da-da (dancing)
+
+#### 第 11 段 · 哼唱
+
+哒哒哒哒哒哒
+哒哒哒哒哒哒
+哒哒哒哒哒哒（女孩）
+哒哒哒哒哒哒（跳舞）
 
 #### Part 12（同 Part 4）
 
@@ -170,6 +267,18 @@ No need to imagine
 Baby, all I'm asking
 Is let me take you dancing
 
+#### 第 12 段 · 副歌（同第 4 段）
+
+让我带你去跳舞
+两步舞跳进卧室
+我们不需要舞池
+让我看看你最拿手的舞步
+什么都可能发生
+自从遇见你
+不必再想象
+宝贝，我只求一件事
+就是让我带你去跳舞
+
 #### Part 13
 
 Da-da-da-da-da-da (oh, baby)
@@ -179,6 +288,16 @@ Da-da-da-da-da-da
 Da-da-da-da-da-da (yeah, all night)
 Da-da-da-da-da-da
 Da-da-da-da-da-da (dancin')
+
+#### 第 13 段 · 尾奏
+
+哒哒哒哒哒哒（哦，宝贝）
+哒哒哒哒哒哒（哦，宝贝）
+哒哒哒哒哒哒（你懂我的意思吧）
+哒哒哒哒哒哒
+哒哒哒哒哒哒（对，整夜）
+哒哒哒哒哒哒
+哒哒哒哒哒哒（跳舞）
 
 ---
 

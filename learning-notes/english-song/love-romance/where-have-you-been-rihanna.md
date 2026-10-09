@@ -62,7 +62,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -73,6 +74,15 @@ I've been everywhere, man, looking for you, babe
 Looking for you, babe
 Searching for you, babe
 
+#### 第 1 段 · 主歌
+
+伙计，我哪儿都找遍了，在找某个人
+一个能让我满意的人
+整夜爱我
+伙计，我哪儿都找遍了，在找你，宝贝
+在找你，宝贝
+搜寻你，宝贝
+
 #### Part 2
 
 Where have you been?
@@ -80,12 +90,26 @@ Where have you been?
 Are you hiding from me, yeah?
 Somewhere in the crowd
 
+#### 第 2 段 · 预副歌
+
+你去哪了？
+因为我从没在外面见过你
+你在躲着我吗，嗯？
+在人群中某处
+
 #### Part 3
 
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
+
+#### 第 3 段 · 过门
+
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
 
 #### Part 4
 
@@ -96,6 +120,15 @@ Where have you been all my life?
 Where have you been all my life?
 Where have you been all my li-
 
+#### 第 4 段 · 副歌
+
+你去哪了？
+我的一生，我的一生
+我这一生你都去哪了？
+我这一生你都去哪了？
+我这一生你都去哪了？
+我这一生你都去哪——
+
 #### Part 5（同 Part 1）
 
 I've been everywhere, man, looking for someone
@@ -105,6 +138,15 @@ I've been everywhere, man, looking for you, babe
 Looking for you, babe
 Searching for you, babe
 
+#### 第 5 段 · 主歌（同第 1 段）
+
+伙计，我哪儿都找遍了，在找某个人
+一个能让我满意的人
+整夜爱我
+伙计，我哪儿都找遍了，在找你，宝贝
+在找你，宝贝
+搜寻你，宝贝
+
 #### Part 6
 
 Where have you been?
@@ -112,12 +154,26 @@ Where have you been?
 Are you hiding from me, yeah?
 Somewhere in the crowd?
 
+#### 第 6 段 · 预副歌（重复）
+
+你去哪了？
+因为我从没在外面见过你
+你在躲着我吗，嗯？
+在人群中某处？
+
 #### Part 7（同 Part 3）
 
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
+
+#### 第 7 段 · 过门（同第 3 段）
+
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
 
 #### Part 8
 
@@ -128,9 +184,22 @@ Where have you been all my life?
 Where have you been all my life?
 Where have you been all my li-i-i-ife?
 
+#### 第 8 段 · 副歌（拉长尾音）
+
+你去哪了？
+我的一生，我的一生
+我这一生你都去哪了？
+我这一生你都去哪了？
+我这一生你都去哪了？
+我这一生你都去——哪——了？
+
 #### Part 9
 
 Where have you been all my li-i-i-
+
+#### 第 9 段
+
+我这一生你都去——
 
 #### Part 10
 
@@ -138,12 +207,25 @@ You can have me all you want
 Any way, any day
 Just show me where you are tonight
 
+#### 第 10 段 · 桥段
+
+你想怎样拥有我都行
+任何方式，任何一天
+只要让我知道你今晚在哪
+
 #### Part 11（同 Part 3）
 
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
+
+#### 第 11 段 · 过门（同第 3 段）
+
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
+耶，耶，耶，耶，耶
 
 #### Part 12（同 Part 1）
 
@@ -153,6 +235,15 @@ Love me all night long
 I've been everywhere, man, looking for you, babe
 Looking for you, babe
 Searching for you, babe
+
+#### 第 12 段 · 主歌（同第 1 段）
+
+伙计，我哪儿都找遍了，在找某个人
+一个能让我满意的人
+整夜爱我
+伙计，我哪儿都找遍了，在找你，宝贝
+在找你，宝贝
+搜寻你，宝贝
 
 ---
 

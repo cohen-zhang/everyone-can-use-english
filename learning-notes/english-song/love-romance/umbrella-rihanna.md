@@ -63,7 +63,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -71,6 +72,13 @@ Uh-huh, uh-huh (yeah, Rihanna)
 Uh-huh, uh-huh (good girl, gone bad)
 Uh-huh, uh-huh (take three, action)
 Uh-huh, uh-huh (Hov)
+
+#### 第 1 段 · 前奏
+
+呃哼，呃哼（对，Rihanna）
+呃哼，呃哼（好女孩，变坏了）
+呃哼，呃哼（第三条，开拍）
+呃哼，呃哼（Hov）
 
 #### Part 2
 
@@ -84,6 +92,18 @@ In anticipation for precipitation, stack chips for the rainy day
 Jay, Rain Man is back
 With Little Miss Sunshine, Rihanna, where you at?
 
+#### 第 2 段 · 说唱
+
+我的钻石里没有瑕疵
+让雨下吧，我在银行里都能打水漂
+道指一下跌，我也跟着「病倒」
+乌云一来我们就走，我们是 Roc-A-Fella
+我们飞得比天气更高，坐 G5 或更好的
+你认识我（你认识我）
+预料到要下雨，先为雨天把筹码堆好
+Jay，雨人回来了
+带着小阳光小姐 Rihanna，你在哪？
+
 #### Part 3
 
 You have my heart
@@ -96,6 +116,18 @@ And that's when you need me there
 With you, I'll always share
 Because
 
+#### 第 3 段 · 主歌 1
+
+你拥有我的心
+我们永远不会相隔万里
+也许杂志上会
+但你仍是我的星
+宝贝，因为在黑暗里
+你看不见闪亮的车
+那时候你就需要我在
+有你在，我总会分享
+因为
+
 #### Part 4
 
 When the sun shine, we shine together
@@ -106,12 +138,29 @@ Now that it's raining more than ever
 Know that we'll still have each other
 You can stand under my umbrella
 
+#### 第 4 段 · 预副歌
+
+阳光灿烂时，我们一起闪耀
+说过我会永远在这里
+说过我会永远是你的朋友
+发过誓，我会坚持到底
+现在雨下得比以往更猛
+要知道我们仍拥有彼此
+你可以站在我的伞下
+
 #### Part 5
 
 You can stand under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh, eh, eh-eh
+
+#### 第 5 段 · 副歌
+
+你可以站在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶，诶，诶诶
 
 #### Part 6
 
@@ -125,6 +174,18 @@ If the hand is hard
 Together we'll mend your heart
 Because
 
+#### 第 6 段 · 主歌 2
+
+这些浮华的东西
+永远插不进我们之间
+你是我自身的一部分
+直到永远
+当战争拿走它该拿的
+当世界把牌发完
+如果这手牌很难打
+我们会一起缝好你的心
+因为
+
 #### Part 7（同 Part 4）
 
 When the sun shine, we shine together
@@ -135,12 +196,29 @@ Now that it's raining more than ever
 Know that we'll still have each other
 You can stand under my umbrella
 
+#### 第 7 段 · 预副歌（同第 4 段）
+
+阳光灿烂时，我们一起闪耀
+说过我会永远在这里
+说过我会永远是你的朋友
+发过誓，我会坚持到底
+现在雨下得比以往更猛
+要知道我们仍拥有彼此
+你可以站在我的伞下
+
 #### Part 8（同 Part 5）
 
 You can stand under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh, eh, eh-eh
+
+#### 第 8 段 · 副歌（同第 5 段）
+
+你可以站在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶，诶，诶诶
 
 #### Part 9
 
@@ -152,6 +230,16 @@ So gonna let the rain pour
 I'll be all you need and more
 Because
 
+#### 第 9 段 · 桥段
+
+你可以跑进我怀里
+没关系，别惊慌
+到我这里来
+我们的爱之间没有距离
+所以就让雨倾盆而下
+我会是你需要的一切，而且还更多
+因为
+
 #### Part 10（同 Part 4）
 
 When the sun shine, we shine together
@@ -162,12 +250,29 @@ Now that it's raining more than ever
 Know that we'll still have each other
 You can stand under my umbrella
 
+#### 第 10 段 · 预副歌（同第 4 段）
+
+阳光灿烂时，我们一起闪耀
+说过我会永远在这里
+说过我会永远是你的朋友
+发过誓，我会坚持到底
+现在雨下得比以往更猛
+要知道我们仍拥有彼此
+你可以站在我的伞下
+
 #### Part 11（同 Part 5）
 
 You can stand under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh
 Under my umbrella, -ella, -ella, eh, eh, eh, eh, eh-eh
+
+#### 第 11 段 · 副歌（同第 5 段）
+
+你可以站在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶
+在我的伞下，-ella，-ella，诶，诶，诶，诶，诶诶
 
 #### Part 12
 
@@ -181,6 +286,19 @@ It's pouring rain, it's pouring rain
 Come into me, come into me
 It's pouring rain, it's pouring rain
 Come into me, come into me
+
+#### 第 12 段 · 尾奏
+
+在下雨，在下雨
+哦宝贝，在下雨，在下雨
+宝贝，到我这里来，到我这里来
+在下雨，在下雨
+哦宝贝，在下雨，在下雨
+你随时可以到我这里来，到我这里来
+雨在倾盆，雨在倾盆
+到我这里来，到我这里来
+雨在倾盆，雨在倾盆
+到我这里来，到我这里来
 
 ---
 

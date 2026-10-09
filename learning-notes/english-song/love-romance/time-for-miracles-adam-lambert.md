@@ -62,7 +62,8 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
@@ -73,10 +74,24 @@ Every kiss I can't forget
 This aching heart ain't broken yet
 Oh, God, I wish I could make you see
 
+#### 第 1 段 · 主歌 1
+
+夜深了，我睡不着
+对你的思念太深
+哦，一想到你的笑，我就无法呼吸
+每一次吻我都忘不了
+这颗隐隐作痛的心还没碎
+哦，上帝，我真希望能让你看见
+
 #### Part 2
 
 'Cause I know this flame isn't dying
 So nothing can stop me from trying
+
+#### 第 2 段 · 预副歌
+
+因为我知道这团火焰没有熄灭
+所以什么都阻止不了我去尝试
 
 #### Part 3
 
@@ -85,6 +100,14 @@ Baby, you know that maybe it's time for miracles
 You know that maybe it's time for miracles
 'Cause I ain't giving up on love
 No, I ain't giving up on us
+
+#### 第 3 段 · 副歌
+
+宝贝，你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+不，我不会放弃我们
 
 #### Part 4
 
@@ -95,10 +118,24 @@ The future I cannot forget
 This aching heart ain't broken yet
 Oh, God, I wish I could make you see
 
+#### 第 4 段 · 主歌 2
+
+我只想和你在一起
+因为活着太难
+我所知的一切，都困在你眼里
+那段未来，我忘不掉
+这颗隐隐作痛的心还没碎
+哦，上帝，我真希望能让你看见
+
 #### Part 5（同 Part 2）
 
 'Cause I know this flame isn't dying
 So nothing can stop me from trying
+
+#### 第 5 段 · 预副歌（同第 2 段）
+
+因为我知道这团火焰没有熄灭
+所以什么都阻止不了我去尝试
 
 #### Part 6（同 Part 3）
 
@@ -108,12 +145,27 @@ You know that maybe it's time for miracles
 'Cause I ain't giving up on love
 No, I ain't giving up on us
 
+#### 第 6 段 · 副歌（同第 3 段）
+
+宝贝，你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+不，我不会放弃我们
+
 #### Part 7
 
 Baby, can you feel it coming?
 You know I can hear it, hear every soul
 Baby, when you feel me feeling you
 You know it's time
+
+#### 第 7 段 · 桥段
+
+宝贝，你感觉到它要来了吗？
+你知道我听得见，听见每一个灵魂
+宝贝，当你感觉到我在感受你
+你知道时候到了
 
 #### Part 8
 
@@ -126,6 +178,18 @@ You know that maybe it's time for miracles
 No, I ain't giving up on us
 I ain't giving up
 No, I ain't giving up on us
+
+#### 第 8 段 · 副歌（加长）
+
+宝贝，你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+你知道也许是时候迎来奇迹了
+因为我不会放弃爱
+你知道也许是时候迎来奇迹了
+因为我不会，我不会放弃爱
+不，我不会放弃我们
+我不会放弃
+不，我不会放弃我们
 
 ---
 

@@ -63,12 +63,18 @@ aliases:
 ## 歌词 · Lyrics
 
 > 歌词来源：lrclib.net
-> 学习建议：先整段跟唱英文，再用下方「重点表达」核对关键句的意思；逐段中文意译可按需补充。
+> 学习建议：每一段先跟唱 **英文**，再看紧随其后的 **中文意译** 核对情绪与意思。
+> Study tip: Sing the **English** of each section first; use the Chinese that follows only to check meaning and mood.
 
 #### Part 1
 
 Shine bright like a diamond
 Shine bright like a diamond
+
+#### 第 1 段 · 前奏
+
+像钻石一样闪耀
+像钻石一样闪耀
 
 #### Part 2
 
@@ -77,12 +83,26 @@ You and I, you and I, we're like diamonds in the sky
 You're a shooting star I see, a vision of ecstasy
 When you hold me, I'm alive, we're like diamonds in the sky
 
+#### 第 2 段 · 主歌 1
+
+在美丽的海里找到光，我选择快乐
+你和我，你和我，我们像天空中的钻石
+你是我看见的流星，一幅狂喜的景象
+你抱住我时，我活过来，我们像天空中的钻石
+
 #### Part 3
 
 I knew that we'd become one right away
 Oh, right away
 At first sight I felt the energy of sun rays
 I saw the life inside your eyes
+
+#### 第 3 段 · 预副歌
+
+我立刻知道我们会合二为一
+哦，立刻
+第一眼我就感到阳光的能量
+我看见你眼里的生命
 
 #### Part 4
 
@@ -91,12 +111,26 @@ We're beautiful like diamonds in the sky
 Eye to eye, so alive
 We're beautiful like diamonds in the sky
 
+#### 第 4 段 · 副歌
+
+所以今晚闪耀吧，你和我
+我们美丽得像天空中的钻石
+四目相对，如此鲜活
+我们美丽得像天空中的钻石
+
 #### Part 5
 
 Shine bright like a diamond (whoa)
 Shine bright like a diamond (whoa)
 Shining bright like a diamond
 We're beautiful like diamonds in the sky
+
+#### 第 5 段 · 后副歌
+
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+闪耀得像一颗钻石
+我们美丽得像天空中的钻石
 
 #### Part 6（同 Part 5）
 
@@ -105,6 +139,13 @@ Shine bright like a diamond (whoa)
 Shining bright like a diamond
 We're beautiful like diamonds in the sky
 
+#### 第 6 段 · 后副歌（同第 5 段）
+
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+闪耀得像一颗钻石
+我们美丽得像天空中的钻石
+
 #### Part 7
 
 Palms rise to the universe as we moonshine and molly
@@ -112,10 +153,22 @@ Feel the warmth, we'll never die, we're like diamonds in the sky
 You're a shooting star I see, a vision of ecstasy
 When you hold me, I'm alive, we're like diamonds in the sky
 
+#### 第 7 段 · 主歌 2
+
+掌心朝宇宙举起，沉在月光与恍惚里
+感受这温暖，我们永不消逝，我们像天空中的钻石
+你是我看见的流星，一幅狂喜的景象
+你抱住我时，我活过来，我们像天空中的钻石
+
 #### Part 8
 
 At first sight I felt the energy of sun rays
 I saw the life inside your eyes
+
+#### 第 8 段 · 预副歌（节选）
+
+第一眼我就感到阳光的能量
+我看见你眼里的生命
 
 #### Part 9（同 Part 4）
 
@@ -124,12 +177,26 @@ We're beautiful like diamonds in the sky
 Eye to eye, so alive
 We're beautiful like diamonds in the sky
 
+#### 第 9 段 · 副歌（同第 4 段）
+
+所以今晚闪耀吧，你和我
+我们美丽得像天空中的钻石
+四目相对，如此鲜活
+我们美丽得像天空中的钻石
+
 #### Part 10（同 Part 5）
 
 Shine bright like a diamond (whoa)
 Shine bright like a diamond (whoa)
 Shining bright like a diamond
 We're beautiful like diamonds in the sky
+
+#### 第 10 段 · 后副歌（同第 5 段）
+
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+闪耀得像一颗钻石
+我们美丽得像天空中的钻石
 
 #### Part 11（同 Part 5）
 
@@ -138,11 +205,24 @@ Shine bright like a diamond (whoa)
 Shining bright like a diamond
 We're beautiful like diamonds in the sky
 
+#### 第 11 段 · 后副歌（同第 5 段）
+
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+闪耀得像一颗钻石
+我们美丽得像天空中的钻石
+
 #### Part 12
 
 Shine bright like a diamond
 Shine bright like a diamond
 Shine bright like a diamond
+
+#### 第 12 段
+
+像钻石一样闪耀
+像钻石一样闪耀
+像钻石一样闪耀
 
 #### Part 13（同 Part 4）
 
@@ -150,6 +230,13 @@ So shine bright, tonight, you and I
 We're beautiful like diamonds in the sky
 Eye to eye, so alive
 We're beautiful like diamonds in the sky
+
+#### 第 13 段 · 副歌（同第 4 段）
+
+所以今晚闪耀吧，你和我
+我们美丽得像天空中的钻石
+四目相对，如此鲜活
+我们美丽得像天空中的钻石
 
 #### Part 14
 
@@ -160,6 +247,16 @@ Shine bright like a diamond (whoa)
 Shine bright like a diamond (whoa)
 Shine bright like a diamond
 Shine bright like a diamond
+
+#### 第 14 段 · 尾奏
+
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+像钻石一样闪耀，哦哦，对
+像钻石一样闪耀（哇）
+像钻石一样闪耀（哇）
+像钻石一样闪耀
+像钻石一样闪耀
 
 ---
 
@@ -172,6 +269,7 @@ Shine bright like a diamond
 | **we're like diamonds in the sky** | 我们像天空中的钻石 | 明喻 *like* |
 | **You're a shooting star I see** | 你是我看到的流星 | *shooting star* 流星 |
 | **a vision of ecstasy** | 一幅狂喜的景象 | *ecstasy* 极度喜悦（也是毒品名，歌中取本义） |
+| **moonshine and molly** | 月光与恍惚 | *moonshine* 可指月光，也可指私酿酒；*molly* 也是一种毒品的俗称。按意象听即可 |
 | **I knew that we'd become one right away** | 我立刻知道我们会合二为一 | *right away* 马上；*become one* 结合 |
 | **At first sight** | 第一眼 | *love at first sight* 一见钟情 |
 | **Eye to eye, so alive** | 四目相对，如此鲜活 | *eye to eye* 也有「看法一致」之意 |

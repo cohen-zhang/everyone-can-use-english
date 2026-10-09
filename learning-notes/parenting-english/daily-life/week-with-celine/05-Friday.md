@@ -24,7 +24,7 @@ tags:
 | 德育检查 | 重点剪指甲；左胸校徽；扣好扣子、衣服束进裤子 |
 | 当天课 | 早读语文 → 语文 → 体育 → 美术 → 英语 → 数学 → 音乐 → 道法 |
 | 大课间 | 第一节下课后 |
-| 午餐 | 校内午餐 + 每天加餐 |
+| 午餐 | 校内午餐 + 加餐 + 午休 |
 | 放学 | 延时后 17:20，自己走回家 |
 | 谁做晚饭 | 妈妈做面，再炒一个菜：常是西红柿炒鸡蛋；也可以花菜炒肉、香干炒肉 |
 | 几点睡 | 22:00 关灯 |
@@ -85,6 +85,7 @@ tags:
 | **Music is sixth period. Moral education is seventh.** | 第六节音乐，第七节道法。`亲子` |
 | **Eye exercises twice. Do them properly.** | 爱眼操两次，认真做。`亲子` |
 | **Lunch and the extra snack.** | 午餐和加餐。`亲子` |
+| **After lunch, lie down for nap time.** | 吃完午饭，躺下午睡。`亲子` |
 | **Finish leftover homework in after-school class.** | 剩下的作业在延时课收尾。`亲子` |
 
 ---
@@ -99,6 +100,8 @@ tags:
 | **What was your favorite class?** | 最喜欢哪一节？`亲子` |
 | **Anything that felt hard?** | 有什么觉得难的吗？`亲子` |
 | **Did you hand everything in?** | 该交的都交了吗？`亲子` |
+| **Did you fall asleep at nap time today?** | 今天午睡睡得着吗？`亲子` |
+| **About how long did you sleep?** | 大概睡了多久？`亲子` |
 
 ---
 
@@ -155,6 +158,8 @@ tags:
 - **Celine**: After-school class, then home by six.
 - **Daddy**: How was school this week?
 - **Celine**: Music was fun. Math was hard.
+- **Daddy**: Did you fall asleep at nap time? How long?
+- **Celine**: About an hour. I was wiped out.
 - **Daddy**: We'll preview next week's math. Examples only. Fix the red marks.
 - **Celine**: Peppa too?
 - **Daddy**: Two old lines, then a new bit. Then the balcony if your eyes sting.

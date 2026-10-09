@@ -23,7 +23,7 @@ tags:
 | 包里多带 | 红领巾或队徽；跳绳（第三节体育） |
 | 当天课 | 早读语文 → 语文 → 语文 → 体育 → 数学 → 科学 → 英语 → 答疑 |
 | 大课间 | 第一节下课后 |
-| 午餐 | 同学生日餐（**birthday meal**）+ 加餐 |
+| 午餐 | 同学生日餐（**birthday meal**）+ 加餐 + 午休 |
 | 放学 | 延时后值日再留约 25 分钟，仍要 18:00 前到家 |
 | 谁做晚饭 | 外卖 |
 | 几点睡 | 22:00 关灯 |
@@ -74,6 +74,7 @@ tags:
 | **PE is third period. Then math.** | 第三节体育，然后数学。`亲子` |
 | **Eye exercises—do them. Wind is not an excuse.** | 爱眼操要做，刮风不是理由。`亲子` |
 | **Today is the birthday meal for classmates.** | 今天是同学的生日餐。`亲子` |
+| **After the birthday meal, still rest for nap time.** | 生日餐之后，还是要午休。`亲子` |
 | **English is sixth period. Finish the reading there if you can.** | 第六节英语，能读完就在那儿读完。`亲子` |
 | **After-school class, then cleaning duty.** | 延时课之后值日。`亲子` |
 | **Duty runs about twenty-five minutes late.** | 值日大约再晚二十五分钟。`亲子` |
@@ -98,6 +99,8 @@ tags:
 | English | 中文 |
 | --- | --- |
 | **You're late today. Shorten Peppa—one old line is enough.** | 今天晚了，佩奇缩短，一句旧的就行。`亲子` |
+| **Quick check—did you fall asleep at nap time?** | 先问一句：午睡睡得着吗？`亲子` |
+| **About how long?** | 大概多久？`亲子` |
 | **Don't skip math. Fix the wrong ones.** | 数学不能省，订正错题。`亲子` |
 | **Open the English app for one short lesson.** | 英语 App 只练短短一课。`亲子` |
 | **Look far away from the balcony for a minute.** | 去阳台看一分钟远处。`亲子` |
@@ -128,7 +131,9 @@ tags:
 - **Celine**: Duty makes me late.
 - **Daddy**: About twenty-five minutes. Still home by six. We'll see the smart lock.
 - **Celine**: The birthday meal was cake and noodles!
-- **Daddy**: Fun. At home, shorten Peppa. Don't skip math corrections.
+- **Daddy**: Fun. Did you fall asleep after that? How long?
+- **Celine**: Not really—too noisy. I just rested.
+- **Daddy**: That's fine. At home, shorten Peppa. Don't skip math corrections.
 - **Celine**: Can I find my friends?
 - **Daddy**: Only if the bag is down and you're back before dinner.
 - **Celine**: Chapter book?
