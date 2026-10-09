@@ -13,6 +13,7 @@ tags:
 周六户外和周日小区散步见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
 
 **相关（相向互链）：**
+- [[learning-notes/personal-english-book/life/shenzhen-city-intro.md|深圳城市介绍]]（公园城市、儿童友好、公厕；现场游乐词见本页）
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/community-life-outdoor-scenarios.md|小区户外与邻里 — 游乐场、河边散步]]（小区内滑梯秋千沙坑等基础词与此叠用）
 - [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]]（酒店 indoor soft play / kids club 与公园游乐句对照；与此页相向互链）
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]]（去公园防晒、鞋帽）

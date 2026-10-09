@@ -10,7 +10,9 @@ aliases:
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
-**相关（扩展）：** [[learning-notes/personal-english-book/life/家乡|家乡 · 湖北黄冈黄梅]] — ~2 分钟英文家乡介绍，可接在 *I'm from China* 之后展开
+**相关（扩展）：**
+- [[learning-notes/personal-english-book/life/家乡|家乡 · 湖北黄冈黄梅]] — ~2 分钟英文家乡介绍，可接在 *I'm from China* 之后展开
+- [[learning-notes/personal-english-book/life/shenzhen-city-intro|深圳 · 我现在住的城市]] — 大湾区、年轻城市、公园与周末去向；接在「南方大城市」之后
 
 ## 参考资源 Reference
 
