@@ -113,6 +113,19 @@ tags:
 洗衣机在转。地上可能有点水——注意脚下。`亲子`
 - **I’m going to start the spin cycle. It might be noisy for a bit.**  
 我要开脱水。可能会响一会儿。`亲子`
+
+工作日父母忙。不多放学到家先开洗衣机，响了再晾。一周里的说法见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 洗衣]]。晾衣架见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/balcony-common-items-en#晒衣服|阳台 · 晒衣服]]。
+
+- **We're busy on weekdays. Start the washer when you get home.**  
+工作日我们忙。到家就开洗衣机。`亲子`
+- **Press start. Don't open the door while it's running.**  
+按开始。转的时候别开门。`亲子`
+- **Wait until it beeps. Then the wash is done.**  
+等它响。响了就是洗好了。`亲子`
+- **Hang the clothes on the drying rack.**  
+把衣服晾到晾衣架上。`亲子`
+- **Use clothespins if it's windy.**  
+风大就用晾衣夹。`亲子`
 - **I’m going to run the robot vacuum. Pick up the small toys first.**  
 我要开扫地机。先把小玩具收起来。`亲子`
 - **The vacuum is loud, but it’s not scary. It sucks up dust.** / **(UK) The hoover is loud...**  
@@ -174,6 +187,14 @@ tags:
 - **Celine**: Okay!  
 — 告诉孩子洗衣机在转、会晃、有声音都正常，听到提示音前不要靠近。`亲子`
 
+**场景 D：工作日放学开洗衣机**
+
+- **Dad**: We're busy today. Start the washer when you get home.  
+- **Celine**: Do I wait next to it?  
+- **Dad**: No. Do your homework. When it beeps, hang the clothes on the drying rack.  
+- **Celine**: And I don't open the door while it's running.  
+— 工作日父母忙。到家按开始，中途不开门。响了再晾。`亲子`
+
 **场景 C：关电视去睡觉**
 
 - **Dad**: Time to turn the TV off. It’s bedtime.  
@@ -226,6 +247,7 @@ I tell her not to touch hot doors, sharp blades, or moving parts.
 
 When we use the washer, she hears the spin cycle and gets curious.  
 I explain what is happening and remind her not to open the door mid-cycle.  
+On weekdays we're busy, so she starts the washer after school and hangs the clothes when it beeps.  
 For screens, we keep volume low and breaks regular.  
 If the video buffers, we wait and check the Wi-Fi instead of tapping fast.  
 
@@ -244,6 +266,7 @@ This way our home stays safe, calm, and easy to manage.
 厨房电器可以参与，但必须我在旁边。热门、刀片、转动部件都不碰。  
 
 洗衣机脱水时她会好奇，我会解释在做什么，也提醒她中途别开门。  
+工作日我们忙，她放学开洗衣机，响了再把衣服晾上。  
 看屏幕时音量要小，休息要有节奏。视频卡顿就先等、先查网络，不要狂点。  
 
 充电也有流程：插头慢慢插，线摆平，不在床上边充边玩。  

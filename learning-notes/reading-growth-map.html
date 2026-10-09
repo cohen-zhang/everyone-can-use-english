@@ -894,10 +894,11 @@
     const logs = [];
     const pattern = [25, 20, 35, 15, 40, 30, 22];
     const notes = {
-      0: "洞洞书 · Dry Bones、Down by the Station",
+      0: "四上 U3 · How do we use numbers?",
       2: "儿歌 · Twinkle Twinkle Little Star",
       4: "猜词 · 动物猜猜猜",
       5: "四上 U2 · Where do animals live?",
+      7: "洞洞书 · Dry Bones、Down by the Station",
     };
     for (let i = 6; i >= 0; i--) {
       const mins = pattern[6 - i];
@@ -914,7 +915,7 @@
       xp: 420,
       points: 420,
       totalMinutes: 1260,
-      booksFinished: 8,
+      booksFinished: 9,
       streak: 12,
       bestStreak: 12,
       dailyGoal: DAILY_GOAL,
@@ -922,7 +923,7 @@
         // —— 四年级上册（优先级最高）——
         { id: "g4u1", title: "U1 Where do people live?", author: "沪教牛津 · 四上", category: "课本", status: "reading" },
         { id: "g4u2", title: "U2 Where do animals live?", author: "沪教牛津 · 四上", category: "课本", status: "reading" },
-        { id: "g4u3", title: "U3 How do we use numbers?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
+        { id: "g4u3", title: "U3 How do we use numbers?", author: "沪教牛津 · 四上", category: "课本", status: "done" },
         { id: "g4u4", title: "U4 What do we buy?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
         { id: "g4u5", title: "U5 How are the seasons different?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
         { id: "g4u6", title: "U6 What's amazing about plants?", author: "沪教牛津 · 四上", category: "课本", status: "want" },
@@ -952,39 +953,56 @@
     };
   }
 
-  const READ_ON = "2026-10-02";
-  const READ_NOTE = "洞洞书 · Dry Bones、Down by the Station";
-  const READ_BOOKS = [
-    { id: "song6", title: "Dry Bones", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
-    { id: "song7", title: "Down by the Station", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
+  const READ_EVENTS = [
+    {
+      date: "2026-10-02",
+      note: "洞洞书 · Dry Bones、Down by the Station",
+      minutes: 22,
+      books: [
+        { id: "song6", title: "Dry Bones", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
+        { id: "song7", title: "Down by the Station", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
+      ],
+    },
+    {
+      date: "2026-10-09",
+      note: "四上 U3 · How do we use numbers?",
+      minutes: 25,
+      books: [
+        { id: "g4u3", title: "U3 How do we use numbers?", author: "沪教牛津 · 四上", category: "课本", status: "done" },
+      ],
+    },
   ];
 
-  function applyTodayReads() {
-    READ_BOOKS.forEach(item => {
-      const found = state.books.find(b => b.id === item.id);
-      if (!found) state.books.push({ ...item });
-      else if (found.status !== "done") found.status = "done";
+  function applyReadEvents() {
+    READ_EVENTS.forEach(event => {
+      (event.books || []).forEach(item => {
+        const found = state.books.find(b => b.id === item.id);
+        if (!found) state.books.push({ ...item });
+        else if (found.status !== "done") found.status = "done";
+      });
+
+      const dayLogs = state.checkins.filter(c => c.date === event.date);
+      if (!dayLogs.length) {
+        state.checkins.push({
+          id: "c-" + event.date.replace(/-/g, "") + "-" + (event.books[0]?.id || "read"),
+          date: event.date,
+          minutes: event.minutes || 20,
+          note: event.note,
+          pointsAwarded: false,
+        });
+        state.totalMinutes = (state.totalMinutes || 0) + (event.minutes || 20);
+        state.xp = (state.xp || 0) + (event.minutes || 20);
+        if (!state.lastCheckinDate || state.lastCheckinDate < event.date) {
+          state.lastCheckinDate = event.date;
+        }
+        return;
+      }
+      dayLogs.forEach(c => {
+        if (!c.note) c.note = event.note;
+        else if (!c.note.includes(event.note)) c.note = `${c.note}；${event.note}`;
+      });
     });
     state.booksFinished = Math.max(state.booksFinished || 0, countDone(state));
-
-    const dayLogs = state.checkins.filter(c => c.date === READ_ON);
-    if (!dayLogs.length) {
-      state.checkins.push({
-        id: "c-20261002-holes",
-        date: READ_ON,
-        minutes: 22,
-        note: READ_NOTE,
-        pointsAwarded: false,
-      });
-      state.totalMinutes = (state.totalMinutes || 0) + 22;
-      state.xp = (state.xp || 0) + 22;
-      if (!state.lastCheckinDate || state.lastCheckinDate < READ_ON) state.lastCheckinDate = READ_ON;
-      return;
-    }
-    dayLogs.forEach(c => {
-      if (!c.note || c.note === "四上 U1 · Where do people live?") c.note = READ_NOTE;
-      else if (!c.note.includes("Dry Bones")) c.note = `${c.note}；${READ_NOTE}`;
-    });
   }
 
   function load() {
@@ -993,13 +1011,14 @@
       if (raw) {
         state = JSON.parse(raw);
         ensureDerived();
-        applyTodayReads();
+        applyReadEvents();
         syncBadges(false);
         save();
         return;
       }
     } catch (_) {}
     state = demoState();
+    applyReadEvents();
     syncBadges(false);
     save();
   }

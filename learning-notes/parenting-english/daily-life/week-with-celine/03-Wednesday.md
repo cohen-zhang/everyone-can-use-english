@@ -96,6 +96,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **We're busy on weekdays. Start the washer when you get home.** | 工作日我们忙。到家就开洗衣机。`亲子` |
+| **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
 | **How was school? How was the surprise meal?** | 学校怎么样？惊喜餐怎么样？`亲子` |
 | **Did you fall asleep after lunch?** | 午饭后午睡睡得着吗？`亲子` |
 | **About how long did you sleep?** | 大概睡了多久？`亲子` |
@@ -114,6 +116,8 @@ tags:
 | --- | --- |
 | **Dry off, then you can find your friends downstairs.** | 先擦干，再下楼找朋友。`亲子` |
 | **If it's still pouring, play in the lobby, not the road.** | 还在下大雨，就在大堂玩，别上马路。`亲子` |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **Takeout tonight. Soup, please—it's chilly.** | 今晚外卖，要点汤，有点凉。`亲子` |
 | **You got wet on the way home. Shower now.** | 回来淋湿了，现在就洗。`亲子` |
 | **Warm water. Don't turn it into playtime.** | 水温调暖。别把洗澡变成玩耍。`亲子` |
@@ -127,7 +131,7 @@ tags:
 - **Celine**: Can I jump in puddles?
 - **Daddy**: Not with your schoolbag on. After you're home and dry.
 - **Celine**: No after-school class today.
-- **Daddy**: Right. Everyone leaves at four twenty. Walk slow. Look twice.
+- **Daddy**: Right. Everyone leaves at four twenty. Walk slow. Look twice. Start the washer when you're home.
 - **Celine**: The surprise meal had dumplings!
 - **Daddy**: Nice. Did you fall asleep after lunch? How long?
 - **Celine**: Yes—maybe half an hour. I was full.
@@ -137,7 +141,7 @@ tags:
 - **Celine**: Balcony break?
 - **Daddy**: Yes. It's raining, so we don't go downstairs yet.
 - **Celine**: Takeout?
-- **Daddy**: Soup tonight. Then a warm shower—now, not at nine thirty. Chapter book at ten.
+- **Daddy**: Soup tonight. No snacks or fruit before it. Then a warm shower—now, not at nine thirty. Chapter book at ten.
 
 ---
 

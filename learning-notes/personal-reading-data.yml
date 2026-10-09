@@ -32,6 +32,8 @@ items:
         result: good
       - date: 2026-10-08
         result: good
+      - date: 2026-10-09
+        result: good
 
   - id: praise-kids-daily-phrases
     title: 夸奖、赞美小朋友 — 亲子日常英文
@@ -45,6 +47,8 @@ items:
       - date: 2026-10-05
         result: good
       - date: 2026-10-08
+        result: good
+      - date: 2026-10-09
         result: good
 
   - id: china-food-common-vocab
@@ -73,6 +77,42 @@ items:
       - date: 2026-10-06
         result: good
       - date: 2026-10-08
+        result: good
+
+  - id: modern-family-s01e14-transcript
+    title: 【字幕】S01E14 · 旧友瓦莱丽 / 车祸
+    url: tv-series/modern-family/s01/transcript/modern-family-s01e14-transcript/
+    category: 美剧字幕
+    status: active
+    priority: normal
+    added: 2026-10-09
+    note: 《摩登家庭》S01E14 英中字幕跟读。
+    history:
+      - date: 2026-10-09
+        result: good
+
+  - id: song-price-tag-jessie-j
+    title: Price Tag (feat. B.o.B) — Jessie J
+    url: english-song/life-attitude/price-tag-jessie-j/
+    category: 英文歌曲
+    status: active
+    priority: normal
+    added: 2026-10-09
+    note: 生活态度 · 派对·能量；精研 / KTV / 发音。
+    history:
+      - date: 2026-10-09
+        result: good
+
+  - id: song-messy-lola-young
+    title: Messy — Lola Young
+    url: english-song/relationships/messy-lola-young/
+    category: 英文歌曲
+    status: active
+    priority: normal
+    added: 2026-10-09
+    note: 情绪 · 关系 · 自我；精研 / KTV。
+    history:
+      - date: 2026-10-09
         result: good
 
   - id: week-with-celine

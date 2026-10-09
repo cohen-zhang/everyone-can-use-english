@@ -16,6 +16,7 @@ exclude_docs: |
   *.pdf
   *.backup
   *.json
+  !assets/data/personal-reading.json
   *.mp3
   *.vtt
   **/.pages

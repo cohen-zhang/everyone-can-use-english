@@ -80,6 +80,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **Mom's cooking a slightly bigger quick meal.** | 妈妈做一顿稍完整的快手菜。`亲子` |
 | **Tomato and egg, rice, and a plate of greens.** | 番茄炒蛋、米饭、一盘青菜。`亲子` |
 | **Help wash the tomatoes.** | 帮忙洗番茄。`亲子` |
@@ -113,7 +115,7 @@ tags:
 - **Celine**: Red scarf for tomorrow?
 - **Daddy**: On top of the bag. Dictionary, three pens, highlighters, jump rope.
 - **Celine**: Mom's cooking?
-- **Daddy**: Tomato and egg, rice, and greens. No takeout.
+- **Daddy**: Tomato and egg, rice, and greens. No snacks or fruit before the meal.
 - **Celine**: Bedtime is ten, not eleven?
 - **Daddy**: Ten. Bath earlier tonight, or we lose the chapter. School tomorrow.
 - **Celine**: And charge the e-bike?

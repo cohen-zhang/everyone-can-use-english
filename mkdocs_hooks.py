@@ -377,6 +377,66 @@ def _build_recent_additions(repo_root: Path, docs_dir: Path) -> str:
     return "".join(cards)
 
 
+def _personal_reading_payload(docs_dir: Path) -> str | None:
+    """Load personal-reading-data.yml as a JSON string, or None if unavailable."""
+    if yaml is None:
+        return None
+    source = docs_dir / "personal-reading-data.yml"
+    if not source.is_file():
+        return None
+    data = yaml.safe_load(source.read_text(encoding="utf-8")) or {}
+    return json.dumps(
+        data,
+        ensure_ascii=False,
+        indent=2,
+        default=lambda value: value.isoformat(),
+    )
+
+
+def _write_personal_reading_json(
+    docs_dir: Path, site_dir: Path | None = None, payload: str | None = None
+) -> None:
+    """Publish Agent-maintained reading YAML as browser-friendly JSON."""
+    payload = payload if payload is not None else _personal_reading_payload(docs_dir)
+    if payload is None:
+        return
+    targets = [docs_dir / "assets/data/personal-reading.json"]
+    if site_dir is not None:
+        targets.append(Path(site_dir) / "assets/data/personal-reading.json")
+    for target in targets:
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(payload + "\n", encoding="utf-8")
+
+
+_EMBEDDED_DATA_RE = re.compile(
+    r"(const EMBEDDED_DATA = )\{.*?\n\};",
+    re.DOTALL,
+)
+
+
+def _sync_personal_reading_html(docs_dir: Path, payload: str | None = None) -> None:
+    """Keep the offline embed in personal-reading.html aligned with YAML."""
+    payload = payload if payload is not None else _personal_reading_payload(docs_dir)
+    if payload is None:
+        return
+    html_path = docs_dir / "personal-reading.html"
+    if not html_path.is_file():
+        return
+    text = html_path.read_text(encoding="utf-8")
+    replacement = r"\1" + payload + ";"
+    updated, count = _EMBEDDED_DATA_RE.subn(replacement, text, count=1)
+    if count and updated != text:
+        html_path.write_text(updated, encoding="utf-8")
+
+
+def _publish_personal_reading(docs_dir: Path, site_dir: Path | None = None) -> None:
+    payload = _personal_reading_payload(docs_dir)
+    if payload is None:
+        return
+    _sync_personal_reading_html(docs_dir, payload)
+    _write_personal_reading_json(docs_dir, site_dir, payload)
+
+
 def on_config(config, **kwargs):
     global _stem_to_paths, _repo_root, _docs_dir, _episode_titles
     global _recent_additions_markdown
@@ -389,31 +449,15 @@ def on_config(config, **kwargs):
     _episode_titles = _load_episode_titles(_docs_dir)
     _generate_transcript_md_pages(_docs_dir, _episode_titles)
     _recent_additions_markdown = _build_recent_additions(_repo_root, _docs_dir)
+    _publish_personal_reading(_docs_dir)
     return config
 
 
 def on_post_build(config, **kwargs):
-    """Publish Agent-maintained reading YAML as browser-friendly JSON."""
-    if yaml is None:
-        return
     docs_dir = Path(config.docs_dir)
     if not docs_dir.is_absolute():
         docs_dir = Path(config.config_file_path).resolve().parent / docs_dir
-    source = docs_dir / "personal-reading-data.yml"
-    if not source.is_file():
-        return
-    data = yaml.safe_load(source.read_text(encoding="utf-8")) or {}
-    target = Path(config.site_dir) / "assets/data/personal-reading.json"
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(
-        json.dumps(
-            data,
-            ensure_ascii=False,
-            indent=2,
-            default=lambda value: value.isoformat(),
-        ),
-        encoding="utf-8",
-    )
+    _publish_personal_reading(docs_dir, Path(config.site_dir))
 
 
 def on_pre_page(page, config=None, **kwargs):

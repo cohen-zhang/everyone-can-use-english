@@ -276,8 +276,8 @@ tags:
 
 常用句：
 
-- **Snacks are after lunch, not before.**  
-  零食在午饭后吃，不是饭前。`亲子`
+- **No snacks or fruit before the meal. Have them after you finish.**  
+  饭前不要吃零食，也不要吃水果。吃完再吃。`亲子` 见 [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases#2-餐前礼貌|餐桌礼貌 · 餐前]]。
 - **One small snack is enough.**  
   吃一小份就够了。`亲子`
 - **Drink water first, then juice.**  
@@ -544,10 +544,10 @@ tags:
 
 **场景 C：控制零食**
 
-- **Celine**: Can I have chips now?  
-- **Dad**: Not now. Have dinner first. You can have a small snack later.  
+- **Celine**: Can I have chips now? Or an apple?  
+- **Dad**: Not now. No snacks or fruit before dinner. You can have them after you finish.  
 - **Celine**: Okay.  
-  — 先饭后零食，语气坚定但温和。`亲子`
+  — 饭前不吃零食，也不吃水果。吃完再吃。语气坚定但温和。`亲子`
 
 ---
 

@@ -101,6 +101,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **We're busy on weekdays. Start the washer when you get home.** | 工作日我们忙。到家就开洗衣机。`亲子` |
+| **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
 | **Welcome home. How was school?** | 欢迎回家，学校怎么样？`亲子` |
 | **How was art class?** | 美术课怎么样？`亲子` |
 | **Did you finish the reading period?** | 阅读课做完了吗？`亲子` |
@@ -131,6 +133,8 @@ tags:
 | --- | --- |
 | **Bag down first. Then you can find your friends.** | 先放下书包，再去找朋友。`亲子` |
 | **Stay inside the compound.** | 留在小区里。`亲子` |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **We'll order takeout. Mom's not cooking tonight.** | 点外卖，妈妈今晚不做饭。`亲子` |
 | **The delivery is here. Wash your hands.** | 外卖到了，洗手。`亲子` |
 | **Dinner's done. Bath now—don't wait until nine.** | 吃完了，现在洗澡，别拖到九点。`亲子` |
@@ -153,11 +157,11 @@ tags:
 - **Celine**: About forty minutes.
 - **Daddy**: That reading class stays at school. Home English is the iPad app.
 - **Celine**: Mom's at evening class?
-- **Daddy**: Yes. I'm home early. Textbook first, then a few Peppa lines.
+- **Daddy**: Yes. I'm home early. Start the washer first. When it beeps, hang the clothes up. Then the textbook, and a few Peppa lines.
 - **Celine**: My eyes feel tired.
 - **Daddy**: Go downstairs and look far away. Ten minutes, then math corrections.
 - **Celine**: Then friends?
-- **Daddy**: Bag down first. Takeout for dinner. Then bath—don't stall. Lights out at ten.
+- **Daddy**: Bag down first. No snacks or fruit before dinner. Takeout first, then bath. Lights out at ten.
 
 ---
 

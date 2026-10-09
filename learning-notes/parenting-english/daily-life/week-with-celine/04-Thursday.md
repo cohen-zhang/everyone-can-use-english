@@ -98,6 +98,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **You're late, but still start the washer first.** | 今天晚了，还是先开洗衣机。`亲子` |
+| **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
 | **You're late today. Shorten Peppa—one old line is enough.** | 今天晚了，佩奇缩短，一句旧的就行。`亲子` |
 | **Quick check—did you fall asleep at nap time?** | 先问一句：午睡睡得着吗？`亲子` |
 | **About how long?** | 大概多久？`亲子` |
@@ -112,6 +114,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **Takeout is already ordered.** | 外卖已经点了。`亲子` |
 | **Wash up. You were on cleaning duty.** | 洗手，你刚值日。`亲子` |
 | **You're home late. Quick shower, then the book.** | 今天到家晚，快点洗，再读书。`亲子` |
@@ -129,13 +133,13 @@ tags:
 - **Celine**: And cleaning duty.
 - **Daddy**: Sweep and wipe with your group. It's a team job. Then come straight home.
 - **Celine**: Duty makes me late.
-- **Daddy**: About twenty-five minutes. Still home by six. We'll see the smart lock.
+- **Daddy**: About twenty-five minutes. Still home by six. Start the washer first. Hang the clothes when it beeps.
 - **Celine**: The birthday meal was cake and noodles!
 - **Daddy**: Fun. Did you fall asleep after that? How long?
 - **Celine**: Not really—too noisy. I just rested.
 - **Daddy**: That's fine. At home, shorten Peppa. Don't skip math corrections.
 - **Celine**: Can I find my friends?
-- **Daddy**: Only if the bag is down and you're back before dinner.
+- **Daddy**: Only if the bag is down and you're back before dinner. No snacks or fruit before the meal.
 - **Celine**: Chapter book?
 - **Daddy**: Yes. Quick shower first—you're late. Then the book. Lights out at ten.
 

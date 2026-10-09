@@ -90,6 +90,7 @@ tags:
 | --- | --- |
 | **Let's grab lunch near the park.** | 在公园附近吃午饭。`亲子` |
 | **A bowl of noodles sounds good.** | 来碗面吧。`亲子` |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
 | **Wash your hands before you eat.** | 吃前洗手。`亲子` |
 | **Don't spoil your dinner—dance class first, then a big meal.** | 别吃太饱，舞蹈课先上，晚饭再吃好点。`亲子` |
 
@@ -131,6 +132,8 @@ tags:
 | --- | --- |
 | **Mom's out. Let's order takeout tonight.** | 妈妈不在，今晚点外卖。`亲子` |
 | **Pick something you like—within reason.** | 选个你喜欢的，别太离谱。`亲子` |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **The delivery is here. Wash your hands first.** | 外卖到了，先洗手。`亲子` |
 | **Let's eat together at the table.** | 一起在桌上吃。`亲子` |
 
@@ -166,7 +169,7 @@ tags:
 - **Celine**: Street shoes in the tote?
 - **Daddy**: Right, studio floors only. After class, find your friends or head home—be back by dinner.
 - **Celine**: Mom's not back tonight?
-- **Daddy**: No, she's out. We'll order takeout. Pick something you like.
+- **Daddy**: No, she's out. We'll order takeout. No snacks or fruit before it.
 - **Celine**: Can I read on the iPad in bed?
 - **Daddy**: Shower first. You danced all afternoon. Then the chapter book. Lights out at eleven.
 

@@ -109,6 +109,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **We're busy on weekdays. Start the washer when you get home.** | 工作日我们忙。到家就开洗衣机。`亲子` |
+| **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
 | **Open the English app. One lesson to close the week.** | 打开英语 App，用一课收这个星期。`亲子` |
 | **Peppa: review two old lines, then a new bit.** | 佩奇：两句旧的，再加一小段新的。`亲子` |
 | **Preview next week's math. Examples only.** | 预习下周数学，只看例题。`亲子` |
@@ -126,6 +128,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **Mom's home. Noodles, plus one stir-fry.** | 妈妈回来了。面条，再加一个炒菜。`亲子` |
 | **Tonight it's tomato and egg.** | 今晚是西红柿炒鸡蛋。`亲子` |
 | **Or cauliflower with pork.** | 也可以花菜炒肉。`亲子` |
@@ -155,7 +159,8 @@ tags:
 - **Daddy**: Yes. Button up, tuck your shirt in. Red scarf or the badge. PE is second period.
 - **Celine**: It feels muggy.
 - **Daddy**: If it rains, slow down. Message me at the gate.
-- **Celine**: After-school class, then home by six.
+- **Celine**: After-school class, then home by six. I start the washer.
+- **Daddy**: Yes. When it beeps, hang the clothes on the drying rack.
 - **Daddy**: How was school this week?
 - **Celine**: Music was fun. Math was hard.
 - **Daddy**: Did you fall asleep at nap time? How long?
@@ -164,7 +169,7 @@ tags:
 - **Celine**: Peppa too?
 - **Daddy**: Two old lines, then a new bit. Then the balcony if your eyes sting.
 - **Celine**: Mom's cooking?
-- **Daddy**: Noodles, plus tomato and egg. Or cauliflower with pork, or dried tofu with pork. Set out the bowls.
+- **Daddy**: No snacks or fruit first. Noodles, plus tomato and egg. Or cauliflower with pork, or dried tofu with pork. Set out the bowls.
 - **Celine**: Lights out at ten?
 - **Daddy**: Bath first. Mom already called you twice. Then lights out at ten. Saturday you can sleep in.
 

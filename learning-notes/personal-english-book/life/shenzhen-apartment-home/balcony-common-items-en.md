@@ -141,9 +141,14 @@ aliases:
 早上把昨晚洗澡换下来的脏衣服放在洗衣机里洗， 倒上洗衣液； 
 
 
+<a id="晒衣服"></a>
+
 #### 晒衣服
 
-洗完后 Celine 会帮忙一起晒衣服，洗完 **Celine** 用 **遥控器**降 **电动晾衣架**；大风天 **晾衣夹**夹牢袜。她真是一个很好的帮手。
+工作日父母忙。**Celine** 放学到家先开洗衣机，中途不开门。机器响了，她用 **遥控器**降 **电动晾衣架**，把衣服晾上；大风天 **晾衣夹**夹牢袜。说法见 [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases#4-洗衣与清洁|家电日常 · 洗衣]]。
+
+- **Start the washer after school. Hang the clothes when it beeps.**  
+  放学开洗衣机，响了再晾。`亲子`
 
 ### 各个季节、天气
 

@@ -193,6 +193,12 @@ tags:
 | 抢 | **snatch** | /snætʃ/ | 从别人手里一把抢走 | Don't snatch it. Ask first. — 别抢，先问一声。 |
 | 换 | **switch** | /swɪtʃ/ | 交换 / 换一个 | Switch bottles with me. — 跟我换一下瓶子。 |
 
+**打屁股 · spank**（另加，不计入上面 14 个瓶口令）`亲子`
+
+| 中文 | 英文 | IPA（美） | 意思 | 例句 |
+| --- | --- | --- | --- | --- |
+| 打屁股 | **spank** | /spæŋk/ | 用手打屁股 | **You'd better behave, or I'm gonna spank your bottom!** — 乖乖听话哦，不然我可要打你小屁股啦！ |
+
 **易混：**
 
 - **touch → tap → smack → punch** — 碰一下 → 轻敲 → 掌心拍 → 出拳捶（越来越重）。
@@ -200,6 +206,7 @@ tags:
 - **tighten vs screw on vs twist off vs loosen** — screw on / tighten 是拧上、拧紧；twist off 是整颗拧下来；loosen 是拧松，盖子还在。
 - **peel off vs pull off vs rip off** — 都是把标签揭下来。peel / pull 较完整；rip 更猛。相反是 **stick on**（贴回去）或 **leave on**（留着）。
 - **catch vs snatch** — catch 是接住递来或抛来的；snatch 是从别人手里抢走。
+- **smack vs spank** — smack 是掌心拍一下（上面用来练瓶子）；spank 是打屁股。
 
 **和本页「Switch on / Switch off」的区别：** 这里的 **switch** 是「换」；电器开关仍用 **switch on / switch off**。
 

@@ -49,6 +49,12 @@ tags:
 
 - **Wash your hands before eating.**  
 吃饭前先洗手。`亲子`
+- **No snacks or fruit before the meal.**  
+饭前不要吃零食，也不要吃水果。`亲子`
+- **You can have them after you finish.**  
+吃完饭再吃。`亲子`
+
+一周晚饭前的叮嘱见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 饭前]]。
 - **Come to the table, please. Dinner is ready.**  
 请来餐桌，晚饭好了。`亲子`
 - **Wait for everyone before you start.**  

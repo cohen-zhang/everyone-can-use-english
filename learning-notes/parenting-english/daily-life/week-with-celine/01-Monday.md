@@ -118,6 +118,8 @@ tags:
 
 | English | 中文 |
 | --- | --- |
+| **We're busy on weekdays. Start the washer when you get home.** | 工作日我们忙。到家就开洗衣机。`亲子` |
+| **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
 | **Welcome home. How was school today?** | 欢迎回家，今天学校怎么样？`亲子` |
 | **How was the flag-raising? Did you stand tall?** | 升旗怎么样，站直了吗？`亲子` |
 | **What was the best thing today?** | 今天最棒的一件事是什么？`亲子` |
@@ -196,6 +198,8 @@ tags:
 | --- | --- |
 | **Mom's not back yet. Let's order takeout tonight.** | 妈妈还没回，今晚点外卖。`亲子` |
 | **What would you like—rice or noodles?** | 你想吃什么，米饭还是面？`亲子` |
+| **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
+| **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **The delivery is here. Wash your hands first.** | 外卖到了，先洗手。`亲子` |
 | **Less oil, less salt, please—add that in the notes.** | 备注写少油少盐。`技术` `亲子` |
 | **Eat slowly—don't rush through dinner.** | 慢慢吃，别赶。`亲子` |
@@ -238,9 +242,13 @@ tags:
 - **Daddy**: Textbook first, then a few Peppa lines. Ten minutes, then balcony break.
 - **Celine**: OK. Daddy, I'm home by six—right?
 - **Daddy**: Right. Walk straight home. The smart lock tells us you're back.
+- **Celine**: Start the washer when I'm home?
+- **Daddy**: Yes. When it beeps, hang the clothes up. Don't open the door while it's running.
 - **Daddy**: Did you fall asleep at nap time? About how long?
 - **Celine**: Maybe half an hour. I couldn't sleep at first.
 - **Daddy**: That's okay. Quiet rest still helps. Then you can find your friends.
+- **Celine**: Can I eat an apple first?
+- **Daddy**: No snacks or fruit before dinner. After you finish.
 - **Celine**: Five more minutes after dinner?
 - **Daddy**: No. Bath now. Then your chapter book. Lights out at ten.
 
