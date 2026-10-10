@@ -24,6 +24,10 @@
         {
           "date": "2026-10-08",
           "result": "good"
+        },
+        {
+          "date": "2026-10-10",
+          "result": "easy"
         }
       ]
     },
@@ -83,7 +87,7 @@
       "status": "active",
       "priority": "normal",
       "added": "2026-10-05",
-      "note": "日常餐桌与点餐常用中国食物词。",
+      "note": "日常餐桌与点餐常用中国食物词；内容较多，可分段读。",
       "history": [
         {
           "date": "2026-10-05",
@@ -92,6 +96,10 @@
         {
           "date": "2026-10-08",
           "result": "good"
+        },
+        {
+          "date": "2026-10-10",
+          "result": "hard"
         }
       ]
     },
@@ -123,11 +131,15 @@
       "status": "active",
       "priority": "normal",
       "added": "2026-10-09",
-      "note": "《摩登家庭》S01E14 英中字幕跟读。",
+      "note": "《摩登家庭》S01E14 英中字幕跟读；尚未读完。",
       "history": [
         {
           "date": "2026-10-09",
           "result": "good"
+        },
+        {
+          "date": "2026-10-10",
+          "result": "hard"
         }
       ]
     },
@@ -143,6 +155,10 @@
       "history": [
         {
           "date": "2026-10-09",
+          "result": "good"
+        },
+        {
+          "date": "2026-10-10",
           "result": "good"
         }
       ]

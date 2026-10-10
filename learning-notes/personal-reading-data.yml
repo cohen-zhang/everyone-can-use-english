@@ -18,6 +18,8 @@ items:
     history:
       - date: 2026-10-08
         result: good
+      - date: 2026-10-10
+        result: easy
 
   - id: parenting-actions-vocab
     title: 动作 — 日常物品场景
@@ -58,12 +60,14 @@ items:
     status: active
     priority: normal
     added: 2026-10-05
-    note: 日常餐桌与点餐常用中国食物词。
+    note: 日常餐桌与点餐常用中国食物词；内容较多，可分段读。
     history:
       - date: 2026-10-05
         result: good
       - date: 2026-10-08
         result: good
+      - date: 2026-10-10
+        result: hard
 
   - id: modern-family-s02e20-transcript
     title: 【字幕】S02E20 · 母亲节
@@ -86,10 +90,12 @@ items:
     status: active
     priority: normal
     added: 2026-10-09
-    note: 《摩登家庭》S01E14 英中字幕跟读。
+    note: 《摩登家庭》S01E14 英中字幕跟读；尚未读完。
     history:
       - date: 2026-10-09
         result: good
+      - date: 2026-10-10
+        result: hard
 
   - id: song-price-tag-jessie-j
     title: Price Tag (feat. B.o.B) — Jessie J
@@ -101,6 +107,8 @@ items:
     note: 生活态度 · 派对·能量；精研 / KTV / 发音。
     history:
       - date: 2026-10-09
+        result: good
+      - date: 2026-10-10
         result: good
 
   - id: song-messy-lola-young
