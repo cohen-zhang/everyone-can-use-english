@@ -20,7 +20,7 @@ tags:
 | --- | --- |
 | 天气 | 晴，适合出门 `亲子` |
 | 早上怎么去 | 不上学，睡懒觉 |
-| 上午 | 学习三件套 + 户外用眼 |
+| 上午 | 学习三件套 + 户外用眼；零花钱要分开花 |
 | 下午 | 14:00–17:00 舞蹈培训班（**dance class**） |
 | 谁做晚饭 | 外卖（**takeout**） |
 | 几点睡 | 23:00 关灯 |
@@ -46,6 +46,9 @@ tags:
 | **Pancakes or congee—your call.** | 煎饼还是粥，你定。`亲子` |
 | **Sit down and eat slowly. No rush on weekends.** | 坐下来慢慢吃，周末不赶。`亲子` |
 | **Help me wipe the table after.** | 吃完帮我擦下桌子。`亲子` |
+| **Your allowance is thirty-five yuan a month.** | 你每月零花钱三十五元。`亲子` |
+| **Spend it wisely. Don't use it all today.** | 要合理花，别今天就用光。`亲子` |
+| **Save a little. Then pick one small thing.** | 留一点，再选一件小的。`亲子` |
 
 ---
 
@@ -168,6 +171,8 @@ tags:
 - **Daddy**: Two to five. Pack your dance bag—tights, leotard, dance shoes.
 - **Celine**: Street shoes in the tote?
 - **Daddy**: Right, studio floors only. After class, find your friends or head home—be back by dinner.
+- **Celine**: Can I buy a snack with my allowance?
+- **Daddy**: You get thirty-five yuan for the whole month. Don't spend it all today.
 - **Celine**: Mom's not back tonight?
 - **Daddy**: No, she's out. We'll order takeout. No snacks or fruit before it.
 - **Celine**: Can I read on the iPad in bed?

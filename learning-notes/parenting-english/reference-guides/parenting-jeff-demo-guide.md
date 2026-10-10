@@ -15,7 +15,247 @@ tags:
 
 ---
 
-## 1. 物品解释 — 华夫饼 Waffle
+## 1. 亲子应用示例
+
+用 Jeff 博士的方式向不多解释日常物品：
+
+### 1.1 示例：解释筷子（反例对比）
+
+> Chopsticks are what we use to eat food in China. The opposite of chopsticks would be a fork and knife. Chopsticks are two long thin sticks—you hold them in one hand and use them to pick up food. A fork has small sharp points—you use it to stick the food and pick it up.
+
+### 1.2 示例：解释牙刷
+
+> A toothbrush is something you use to clean your teeth. It has a handle that you hold in your hand, and on the top it has soft bristles—that's the hair-like part. You put some toothpaste on the bristles and then you move it back and forth on your teeth.
+
+### 1.3 示例：解释冰箱
+
+> A refrigerator, or fridge, is like a big box that keeps food cold. It's usually in the kitchen. You open the door and inside you have different shelves where you put milk, eggs, vegetables and so forth. It has a special machine inside that makes cold air so the food stays fresh.
+
+### 1.4 示例：解释保温杯
+
+> A thermos is like a special bottle that keeps hot drinks hot and cold drinks cold. It has two walls inside with empty space between them, so the heat can't get out or in. You put tea or water in it, close the lid tight, and your drink stays the same temperature for a long time.
+
+---
+
+## 2. 讲解辅助句式 — Parenting Helper Phrases `亲子`
+
+"我讲她听"阶段常用的引导语、互动语和确认语，帮助家长自然流畅地带领孩子理解内容。
+
+---
+
+### 2.1 开场与引入 — Opening & Introduction
+
+
+| 句式                                         | 使用场景   | 中文对照             |
+| ------------------------------------------ | ------ | ---------------- |
+| **Today, let's talk about [topic].**       | 开始新主题  | 今天，我们来聊聊[某个主题]。  |
+| **Let's learn a new word today.**          | 引入新单词  | 今天我们来学一个新词。      |
+| **Do you know what [item] is?**            | 引发好奇心  | 你知道[某个东西]是什么吗？   |
+| **Have you ever seen a [item]?**           | 联系生活经验 | 你见过[某个东西]吗？      |
+| **Look at this picture.**                  | 视觉引入   | 看这张图片。           |
+| **Let me show you something interesting.** | 制造期待   | 我给你看点有趣的东西。      |
+| **This is something we use every day.**    | 强调日常性  | 这是我们每天都用的东西。     |
+| **I want to tell you about [topic].**      | 直接引入   | 我想跟你说说[某个主题]。    |
+| **Remember when we [did something]?**      | 关联过往经历 | 还记得我们[做过某事]的时候吗？ |
+
+
+---
+
+### 2.2 单词教学 — Vocabulary Teaching
+
+
+| 句式                                        | 使用场景 | 中文对照            |
+| ----------------------------------------- | ---- | --------------- |
+| **Do you know this word?**                | 是否认识 | 你知道这个词吗？        |
+| **Do you know the word [word]?**          | 点名某词 | 你知道[单词]这个词吗？    |
+| **Have you heard this word before?**      | 联系既往 | 你以前听过这个词吗？      |
+| **Do you know what [word] means?**        | 是否懂义 | 你知道[单词]是什么意思吗？ |
+| **Repeat after me: [word].**              | 跟读练习 | 跟我念：[单词]。       |
+| **Say it with me: [word].**               | 一起朗读 | 跟我一起说：[单词]。     |
+| **This word is [word].**                  | 单词介绍 | 这个词是[单词]。       |
+| **Listen carefully: [word].**             | 强调聆听 | 仔细听：[单词]。       |
+| **Can you say [word]?**                   | 邀请尝试 | 你能说出[单词]吗？      |
+| **One more time: [word].**                | 再次重复 | 再来一遍：[单词]。      |
+| **Louder, please: [word].**               | 鼓励大声 | 请大声一点：[单词]。     |
+| **Try again: [word].**                    | 鼓励再试 | 再试一次：[单词]。      |
+| **The word [A] sounds like [B].**         | 发音类比 | [单词A]听起来像[单词B]。 |
+| **This is how you pronounce it: [word].** | 发音示范 | 它的发音是这样的：[单词]。  |
+
+
+---
+
+### 2.3 确认理解 — Checking Understanding
+
+
+| 句式                                  | 使用场景   | 中文对照          |
+| ----------------------------------- | ------ | ------------- |
+| **Do you get it?**                  | 简单确认   | 你明白了吗？        |
+| **Can you get it?**                 | 询问理解   | 你能理解吗？        |
+| **Do you understand?**              | 正式确认   | 你理解了吗？        |
+| **Is that clear?**                  | 确认清晰度  | 清楚了吗？         |
+| **Are you with me?**                | 跟进式确认  | 跟上了吗？         |
+| **Do you follow?**                  | 确认跟上思路 | 你跟上了吗？        |
+| **Any questions?**                  | 开放提问   | 有什么问题吗？       |
+| **What do you think [word] means?** | 猜测含义   | 你觉得[单词]是什么意思？ |
+| **Can you guess?**                  | 鼓励猜测   | 你能猜一猜吗？       |
+| **Does that make sense?**           | 确认合理性  | 这样讲得通吗？       |
+
+
+---
+
+### 2.4 互动提问 — Interactive Questions
+
+
+| 句式                               | 使用场景  | 中文对照         |
+| -------------------------------- | ----- | ------------ |
+| **What is this?**                | 指向询问  | 这是什么？        |
+| **What do we call this?**        | 名称询问  | 我们管这个叫什么？    |
+| **Where do we put [item]?**      | 位置询问  | 我们把[东西]放在哪里？ |
+| **When do we use [item]?**       | 时间询问  | 我们什么时候用[东西]？ |
+| **Why do we need [item]?**       | 原因询问  | 我们为什么需要[东西]？ |
+| **How does [item] work?**        | 原理询问  | [东西]是怎么工作的？  |
+| **Can you point to the [item]?** | 指令互动  | 你能指着[东西]吗？   |
+| **What color is it?**            | 特征询问  | 它是什么颜色的？     |
+| **What shape is it?**            | 形状询问  | 它是什么形状的？     |
+| **Is it big or small?**          | 二选一询问 | 它是大的还是小的？    |
+| **Is it hot or cold?**           | 属性对比  | 它是热的还是冷的？    |
+
+
+---
+
+### 2.5 鼓励与反馈 — Encouragement & Feedback
+
+
+| 句式                    | 使用场景  | 中文对照   |
+| --------------------- | ----- | ------ |
+| **Good job!**         | 简单表扬  | 做得好！   |
+| **Well done!**        | 正式表扬  | 干得好！   |
+| **That's right!**     | 确认正确  | 对了！    |
+| **Exactly!**          | 强调准确  | 完全正确！  |
+| **You got it!**       | 理解到位  | 你懂了！   |
+| **Perfect!**          | 完美评价  | 完美！    |
+| **Very good!**        | 鼓励性评价 | 非常好！   |
+| **Nice try!**         | 鼓励尝试  | 尝试得不错！ |
+| **Almost!**           | 接近正确  | 差不多了！  |
+| **Close!**            | 接近答案  | 很接近了！  |
+| **That's okay.**      | 安慰容错  | 没关系。   |
+| **Don't worry.**      | 消除焦虑  | 别担心。   |
+| **You can do it!**    | 加油鼓励  | 你能行的！  |
+| **I'm proud of you.** | 表达骄傲  | 我为你骄傲。 |
+| **Give me five!**     | 击掌庆祝  | 击个掌！   |
+
+
+---
+
+### 2.6 过渡与衔接 — Transitions & Connections
+
+
+| 句式                                    | 使用场景  | 中文对照          |
+| ------------------------------------- | ----- | ------------- |
+| **Now, let's look at...**             | 转入新内容 | 现在，我们来看看……    |
+| **Next, I want to tell you about...** | 顺序过渡  | 接下来，我想告诉你关于…… |
+| **After that...**                     | 时间顺序  | 在那之后……        |
+| **Also...**                           | 补充信息  | 还有……          |
+| **Another thing...**                  | 追加说明  | 另一件事……        |
+| **By the way...**                     | 顺便提及  | 顺便说一下……       |
+| **Remember...**                       | 唤起记忆  | 记住……          |
+| **Don't forget...**                   | 强调要点  | 别忘了……         |
+| **So...**                             | 总结承接  | 所以……          |
+| **That means...**                     | 解释含义  | 这意味着……        |
+| **In other words...**                 | 换种说法  | 换句话说……        |
+| **For example...**                    | 举例说明  | 比如……          |
+| **Let's take a break.**               | 建议休息  | 我们休息一下吧。      |
+| **That's all for today.**             | 结束讲解  | 今天就讲到这里。      |
+
+
+---
+
+### 2.7 重点强调 — Emphasis & Focus
+
+
+| 句式                                    | 使用场景  | 中文对照         |
+| ------------------------------------- | ----- | ------------ |
+| **Pay attention to [word].**          | 提示重点  | 注意[这个词]。     |
+| **This is important.**                | 强调重要性 | 这很重要。        |
+| **Listen carefully.**                 | 要求专注  | 仔细听好。        |
+| **Look at this.**                     | 视觉聚焦  | 看这个。         |
+| **The important thing is...**         | 核心要点  | 重要的是……       |
+| **What I want you to remember is...** | 记忆提示  | 我希望你记住的是……   |
+| **The key word here is [word].**      | 关键词提示 | 这里的关键词是[单词]。 |
+| **Notice that...**                    | 引导注意  | 注意到……        |
+| **Keep in mind...**                   | 提醒牢记  | 记住……         |
+
+
+---
+
+### 2.8 场景对话示例 — Sample Dialogues
+
+#### 2.8.1 场景：讲解鞋子（互动提问 + type / kind）
+
+**家长：** I want to tell you about different shoes. Look at this picture. What is this?  
+**孩子：** Shoes!  
+**家长：** Yes, but **what kind** are they? **What type of** shoe is this? These are sneakers. **Sneakers are a type of shoe** for running and playing. Repeat after me: "sneakers".  
+**孩子：** Sneakers!  
+**家长：** Good! We **wear** sneakers when we **run** or **play** sports. Now, **boots** are **another type of** shoe. When do we **wear** boots?  
+**孩子：** When it's raining?  
+**家长：** That's right! Or when it **snows**. You **walk** in boots so your feet stay dry. You got it! What color are these sneakers?  
+**孩子：** White!  
+**家长：** Perfect! You are doing great!
+
+---
+
+#### 2.8.2 场景：讲解雨伞（对比教学）
+
+**家长：** Let's learn a new word today. This is an umbrella. Say it with me: "umbrella".  
+**孩子：** Umbrella!  
+**家长：** Very good! An umbrella is something we use when it rains. The opposite of an umbrella would be... what do you think?  
+**孩子：** When it's sunny?  
+**家长：** Nice try! When it's sunny, we might use a sun hat or sunglasses. But the opposite of an umbrella—a thing that keeps rain off—would be something that keeps sun off. We call that a parasol. Can you say "parasol"?  
+**孩子：** Parasol!  
+**家长：** Well done! So, umbrella for rain, parasol for sun. Is that clear?  
+**孩子：** Yes!
+
+---
+
+#### 2.8.3 场景：讲解微波炉
+
+**家长：** Today, let's talk about the microwave. Do you know what a microwave is?  
+**孩子：** Is it the thing that makes food hot?  
+**家长：** Exactly! That's right! A microwave is a machine that heats up food quickly. Look at this picture. You put the food inside, press the buttons, and it gets warm. Do you get it?  
+**孩子：** Yes!  
+**家长：** Good job! Now, repeat after me: "microwave".  
+**孩子：** Microwave!  
+**家长：** Perfect! Give me five!
+
+---
+
+### 2.9 核心句式速查表 — Quick Reference
+
+**最常用 15 句（建议优先掌握）：**
+
+
+| No. | 英文                         | 中文         | 使用频率 |
+| --- | -------------------------- | ---------- | ---- |
+| 1   | Today, let's talk about... | 今天，我们来聊聊…… | ⭐⭐⭐  |
+| 2   | Repeat after me...         | 跟我念……      | ⭐⭐⭐  |
+| 3   | Do you get it?             | 你明白了吗？     | ⭐⭐⭐  |
+| 4   | Good job!                  | 做得好！       | ⭐⭐⭐  |
+| 5   | What is this?              | 这是什么？      | ⭐⭐⭐  |
+| 6   | That's right!              | 对了！        | ⭐⭐⭐  |
+| 7   | Say it with me...          | 跟我一起说……    | ⭐⭐⭐  |
+| 8   | Well done!                 | 干得好！       | ⭐⭐⭐  |
+| 9   | Do you understand?         | 你理解了吗？     | ⭐⭐   |
+| 10  | You got it!                | 你懂了！       | ⭐⭐   |
+| 11  | Look at this...            | 看这个……      | ⭐⭐   |
+| 12  | Any questions?             | 有什么问题吗？    | ⭐⭐   |
+| 13  | Perfect!                   | 完美！        | ⭐⭐   |
+| 14  | Give me five!              | 击个掌！       | ⭐⭐   |
+| 15  | That's all for today.      | 今天就讲到这里。   | ⭐⭐   |
+
+
+---
+
+## 3. 物品解释 — 华夫饼 Waffle
 
 ### 原文示范
 
@@ -35,7 +275,7 @@ tags:
 
 ---
 
-## 2. 地方解释 — 药柜 Medicine Cabinet
+## 4. 地方解释 — 药柜 Medicine Cabinet
 
 ### 原文示范
 
@@ -57,7 +297,7 @@ tags:
 
 ---
 
-## 3. 地方解释 — 橱柜 Cupboard
+## 5. 地方解释 — 橱柜 Cupboard
 
 ### 原文示范
 
@@ -77,7 +317,7 @@ tags:
 
 ---
 
-## 4. 物品作用解释 — 糖浆 Syrup
+## 6. 物品作用解释 — 糖浆 Syrup
 
 ### 原文示范
 
@@ -96,7 +336,7 @@ tags:
 
 ---
 
-## 5. 种类表达 — Type of / Kind of（鞋子与动作）
+## 7. 种类表达 — Type of / Kind of（鞋子与动作）
 
 用 **type of** / **kind of** 说明「某一种」物品，常用于：**这是哪一种鞋？做哪一种动作时穿？** 和孩子讲解时，可先点出 **category（哪一类）**，再连到 **action（什么时候穿、用来干什么）**。
 
@@ -122,13 +362,13 @@ tags:
 - **What type of shoes do you wear when you dance?** — 你跳舞的时候穿哪种鞋？
 - **This is the right type of shoe for hiking.** — 这种鞋适合徒步（hiking）。
 
-### 与「场景 1：鞋子」呼应
+### 与「2.8.1 场景：鞋子」呼应
 
 家长可用 **what kind?** / **what type?** 追问具体种类，再连动作：*We wear sneakers when we **run**; we wear boots when we **walk** in the snow.*
 
 ---
 
-## 6. 讲解模板总结
+## 8. 讲解模板总结
 
 ### 解释一个物品时，可以按以下顺序：
 
@@ -170,7 +410,7 @@ tags:
 
 ---
 
-## 7. 反例说明 — The Opposite Of
+## 9. 反例说明 — The Opposite Of
 
 Jeff 博士常用反例来帮助理解，通过对比加深印象。
 
@@ -202,7 +442,7 @@ Jeff 博士常用反例来帮助理解，通过对比加深印象。
 
 ---
 
-## 8. 词源与发音解释
+## 10. 词源与发音解释
 
 Jeff 博士经常解释单词的来源或发音特点。
 
@@ -224,7 +464,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 9. 功能与用途说明
+## 11. 功能与用途说明
 
 解释物品的具体用途和使用方式。
 
@@ -242,7 +482,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 10. 类比说明 — Is Like
+## 12. 类比说明 — Is Like
 
 用熟悉的事物来类比解释新物品。
 
@@ -260,7 +500,7 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 11. 过程步骤说明
+## 13. 过程步骤说明
 
 解释如何做某事的具体步骤。
 
@@ -278,244 +518,5 @@ Jeff 博士经常解释单词的来源或发音特点。
 
 ---
 
-## 12. 亲子应用示例
-
-用 Jeff 博士的方式向不多解释日常物品：
-
-### 示例：解释筷子（反例对比）
-
-> Chopsticks are what we use to eat food in China. The opposite of chopsticks would be a fork and knife. Chopsticks are two long thin sticks—you hold them in one hand and use them to pick up food. A fork has small sharp points—you use it to stick the food and pick it up.
-
-### 示例：解释牙刷
-
-> A toothbrush is something you use to clean your teeth. It has a handle that you hold in your hand, and on the top it has soft bristles—that's the hair-like part. You put some toothpaste on the bristles and then you move it back and forth on your teeth.
-
-### 示例：解释冰箱
-
-> A refrigerator, or fridge, is like a big box that keeps food cold. It's usually in the kitchen. You open the door and inside you have different shelves where you put milk, eggs, vegetables and so forth. It has a special machine inside that makes cold air so the food stays fresh.
-
-### 示例：解释保温杯
-
-> A thermos is like a special bottle that keeps hot drinks hot and cold drinks cold. It has two walls inside with empty space between them, so the heat can't get out or in. You put tea or water in it, close the lid tight, and your drink stays the same temperature for a long time.
-
----
-
-## 13. 讲解辅助句式 — Parenting Helper Phrases `亲子`
-
-"我讲她听"阶段常用的引导语、互动语和确认语，帮助家长自然流畅地带领孩子理解内容。
-
----
-
-### 13.1 开场与引入 — Opening & Introduction
-
-
-| 句式                                         | 使用场景   | 中文对照             |
-| ------------------------------------------ | ------ | ---------------- |
-| **Today, let's talk about [topic].**       | 开始新主题  | 今天，我们来聊聊[某个主题]。  |
-| **Let's learn a new word today.**          | 引入新单词  | 今天我们来学一个新词。      |
-| **Do you know what [item] is?**            | 引发好奇心  | 你知道[某个东西]是什么吗？   |
-| **Have you ever seen a [item]?**           | 联系生活经验 | 你见过[某个东西]吗？      |
-| **Look at this picture.**                  | 视觉引入   | 看这张图片。           |
-| **Let me show you something interesting.** | 制造期待   | 我给你看点有趣的东西。      |
-| **This is something we use every day.**    | 强调日常性  | 这是我们每天都用的东西。     |
-| **I want to tell you about [topic].**      | 直接引入   | 我想跟你说说[某个主题]。    |
-| **Remember when we [did something]?**      | 关联过往经历 | 还记得我们[做过某事]的时候吗？ |
-
-
----
-
-### 13.2 单词教学 — Vocabulary Teaching
-
-
-| 句式                                        | 使用场景 | 中文对照            |
-| ----------------------------------------- | ---- | --------------- |
-| **Do you know this word?**                | 是否认识 | 你知道这个词吗？        |
-| **Do you know the word [word]?**          | 点名某词 | 你知道[单词]这个词吗？    |
-| **Have you heard this word before?**      | 联系既往 | 你以前听过这个词吗？      |
-| **Do you know what [word] means?**        | 是否懂义 | 你知道[单词]是什么意思吗？ |
-| **Repeat after me: [word].**              | 跟读练习 | 跟我念：[单词]。       |
-| **Say it with me: [word].**               | 一起朗读 | 跟我一起说：[单词]。     |
-| **This word is [word].**                  | 单词介绍 | 这个词是[单词]。       |
-| **Listen carefully: [word].**             | 强调聆听 | 仔细听：[单词]。       |
-| **Can you say [word]?**                   | 邀请尝试 | 你能说出[单词]吗？      |
-| **One more time: [word].**                | 再次重复 | 再来一遍：[单词]。      |
-| **Louder, please: [word].**               | 鼓励大声 | 请大声一点：[单词]。     |
-| **Try again: [word].**                    | 鼓励再试 | 再试一次：[单词]。      |
-| **The word [A] sounds like [B].**         | 发音类比 | [单词A]听起来像[单词B]。 |
-| **This is how you pronounce it: [word].** | 发音示范 | 它的发音是这样的：[单词]。  |
-
-
----
-
-### 13.3 确认理解 — Checking Understanding
-
-
-| 句式                                  | 使用场景   | 中文对照          |
-| ----------------------------------- | ------ | ------------- |
-| **Do you get it?**                  | 简单确认   | 你明白了吗？        |
-| **Can you get it?**                 | 询问理解   | 你能理解吗？        |
-| **Do you understand?**              | 正式确认   | 你理解了吗？        |
-| **Is that clear?**                  | 确认清晰度  | 清楚了吗？         |
-| **Are you with me?**                | 跟进式确认  | 跟上了吗？         |
-| **Do you follow?**                  | 确认跟上思路 | 你跟上了吗？        |
-| **Any questions?**                  | 开放提问   | 有什么问题吗？       |
-| **What do you think [word] means?** | 猜测含义   | 你觉得[单词]是什么意思？ |
-| **Can you guess?**                  | 鼓励猜测   | 你能猜一猜吗？       |
-| **Does that make sense?**           | 确认合理性  | 这样讲得通吗？       |
-
-
----
-
-### 13.4 互动提问 — Interactive Questions
-
-
-| 句式                               | 使用场景  | 中文对照         |
-| -------------------------------- | ----- | ------------ |
-| **What is this?**                | 指向询问  | 这是什么？        |
-| **What do we call this?**        | 名称询问  | 我们管这个叫什么？    |
-| **Where do we put [item]?**      | 位置询问  | 我们把[东西]放在哪里？ |
-| **When do we use [item]?**       | 时间询问  | 我们什么时候用[东西]？ |
-| **Why do we need [item]?**       | 原因询问  | 我们为什么需要[东西]？ |
-| **How does [item] work?**        | 原理询问  | [东西]是怎么工作的？  |
-| **Can you point to the [item]?** | 指令互动  | 你能指着[东西]吗？   |
-| **What color is it?**            | 特征询问  | 它是什么颜色的？     |
-| **What shape is it?**            | 形状询问  | 它是什么形状的？     |
-| **Is it big or small?**          | 二选一询问 | 它是大的还是小的？    |
-| **Is it hot or cold?**           | 属性对比  | 它是热的还是冷的？    |
-
-
----
-
-### 13.5 鼓励与反馈 — Encouragement & Feedback
-
-
-| 句式                    | 使用场景  | 中文对照   |
-| --------------------- | ----- | ------ |
-| **Good job!**         | 简单表扬  | 做得好！   |
-| **Well done!**        | 正式表扬  | 干得好！   |
-| **That's right!**     | 确认正确  | 对了！    |
-| **Exactly!**          | 强调准确  | 完全正确！  |
-| **You got it!**       | 理解到位  | 你懂了！   |
-| **Perfect!**          | 完美评价  | 完美！    |
-| **Very good!**        | 鼓励性评价 | 非常好！   |
-| **Nice try!**         | 鼓励尝试  | 尝试得不错！ |
-| **Almost!**           | 接近正确  | 差不多了！  |
-| **Close!**            | 接近答案  | 很接近了！  |
-| **That's okay.**      | 安慰容错  | 没关系。   |
-| **Don't worry.**      | 消除焦虑  | 别担心。   |
-| **You can do it!**    | 加油鼓励  | 你能行的！  |
-| **I'm proud of you.** | 表达骄傲  | 我为你骄傲。 |
-| **Give me five!**     | 击掌庆祝  | 击个掌！   |
-
-
----
-
-### 13.6 过渡与衔接 — Transitions & Connections
-
-
-| 句式                                    | 使用场景  | 中文对照          |
-| ------------------------------------- | ----- | ------------- |
-| **Now, let's look at...**             | 转入新内容 | 现在，我们来看看……    |
-| **Next, I want to tell you about...** | 顺序过渡  | 接下来，我想告诉你关于…… |
-| **After that...**                     | 时间顺序  | 在那之后……        |
-| **Also...**                           | 补充信息  | 还有……          |
-| **Another thing...**                  | 追加说明  | 另一件事……        |
-| **By the way...**                     | 顺便提及  | 顺便说一下……       |
-| **Remember...**                       | 唤起记忆  | 记住……          |
-| **Don't forget...**                   | 强调要点  | 别忘了……         |
-| **So...**                             | 总结承接  | 所以……          |
-| **That means...**                     | 解释含义  | 这意味着……        |
-| **In other words...**                 | 换种说法  | 换句话说……        |
-| **For example...**                    | 举例说明  | 比如……          |
-| **Let's take a break.**               | 建议休息  | 我们休息一下吧。      |
-| **That's all for today.**             | 结束讲解  | 今天就讲到这里。      |
-
-
----
-
-### 13.7 重点强调 — Emphasis & Focus
-
-
-| 句式                                    | 使用场景  | 中文对照         |
-| ------------------------------------- | ----- | ------------ |
-| **Pay attention to [word].**          | 提示重点  | 注意[这个词]。     |
-| **This is important.**                | 强调重要性 | 这很重要。        |
-| **Listen carefully.**                 | 要求专注  | 仔细听好。        |
-| **Look at this.**                     | 视觉聚焦  | 看这个。         |
-| **The important thing is...**         | 核心要点  | 重要的是……       |
-| **What I want you to remember is...** | 记忆提示  | 我希望你记住的是……   |
-| **The key word here is [word].**      | 关键词提示 | 这里的关键词是[单词]。 |
-| **Notice that...**                    | 引导注意  | 注意到……        |
-| **Keep in mind...**                   | 提醒牢记  | 记住……         |
-
-
----
-
-### 13.8 场景对话示例 — Sample Dialogues
-
-#### 场景 1：讲解鞋子（互动提问 + type / kind）
-
-**家长：** I want to tell you about different shoes. Look at this picture. What is this?  
-**孩子：** Shoes!  
-**家长：** Yes, but **what kind** are they? **What type of** shoe is this? These are sneakers. **Sneakers are a type of shoe** for running and playing. Repeat after me: "sneakers".  
-**孩子：** Sneakers!  
-**家长：** Good! We **wear** sneakers when we **run** or **play** sports. Now, **boots** are **another type of** shoe. When do we **wear** boots?  
-**孩子：** When it's raining?  
-**家长：** That's right! Or when it **snows**. You **walk** in boots so your feet stay dry. You got it! What color are these sneakers?  
-**孩子：** White!  
-**家长：** Perfect! You are doing great!
-
----
-
-#### 场景 2：讲解雨伞（对比教学）
-
-**家长：** Let's learn a new word today. This is an umbrella. Say it with me: "umbrella".  
-**孩子：** Umbrella!  
-**家长：** Very good! An umbrella is something we use when it rains. The opposite of an umbrella would be... what do you think?  
-**孩子：** When it's sunny?  
-**家长：** Nice try! When it's sunny, we might use a sun hat or sunglasses. But the opposite of an umbrella—a thing that keeps rain off—would be something that keeps sun off. We call that a parasol. Can you say "parasol"?  
-**孩子：** Parasol!  
-**家长：** Well done! So, umbrella for rain, parasol for sun. Is that clear?  
-**孩子：** Yes!
-
----
-
-#### 场景 3：讲解微波炉
-
-**家长：** Today, let's talk about the microwave. Do you know what a microwave is?  
-**孩子：** Is it the thing that makes food hot?  
-**家长：** Exactly! That's right! A microwave is a machine that heats up food quickly. Look at this picture. You put the food inside, press the buttons, and it gets warm. Do you get it?  
-**孩子：** Yes!  
-**家长：** Good job! Now, repeat after me: "microwave".  
-**孩子：** Microwave!  
-**家长：** Perfect! Give me five!
-
----
-
-### 13.9 核心句式速查表 — Quick Reference
-
-**最常用 15 句（建议优先掌握）：**
-
-
-| No. | 英文                         | 中文         | 使用频率 |
-| --- | -------------------------- | ---------- | ---- |
-| 1   | Today, let's talk about... | 今天，我们来聊聊…… | ⭐⭐⭐  |
-| 2   | Repeat after me...         | 跟我念……      | ⭐⭐⭐  |
-| 3   | Do you get it?             | 你明白了吗？     | ⭐⭐⭐  |
-| 4   | Good job!                  | 做得好！       | ⭐⭐⭐  |
-| 5   | What is this?              | 这是什么？      | ⭐⭐⭐  |
-| 6   | That's right!              | 对了！        | ⭐⭐⭐  |
-| 7   | Say it with me...          | 跟我一起说……    | ⭐⭐⭐  |
-| 8   | Well done!                 | 干得好！       | ⭐⭐⭐  |
-| 9   | Do you understand?         | 你理解了吗？     | ⭐⭐   |
-| 10  | You got it!                | 你懂了！       | ⭐⭐   |
-| 11  | Look at this...            | 看这个……      | ⭐⭐   |
-| 12  | Any questions?             | 有什么问题吗？    | ⭐⭐   |
-| 13  | Perfect!                   | 完美！        | ⭐⭐   |
-| 14  | Give me five!              | 击个掌！       | ⭐⭐   |
-| 15  | That's all for today.      | 今天就讲到这里。   | ⭐⭐   |
-
-
----
-
 *Happy teaching!* — 教学愉快！
+

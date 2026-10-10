@@ -21,7 +21,7 @@ tags:
 | 天气 | 转凉，多云 `亲子` |
 | 早上 | 睡懒觉，不上学 |
 | 上午 | 同步学英语、佩奇、预习周一数学 |
-| 下午 | 小区散步；收拾书包；给电动车充电 |
+| 下午 | 有时下楼买酱油、葱、姜、蒜；收拾书包；给电动车充电 |
 | 谁做晚饭 | 妈妈做一顿稍完整的快手菜 |
 | 几点睡 | 22:00。睡前书提早开始 |
 
@@ -78,8 +78,17 @@ tags:
 
 ## 5. 妈妈的快手菜 — Mom Cooks
 
+有时她先下楼当小帮手。买菜的钱是家里的，不算那 35 元零花钱。有时给现金，有时用电话手表付，回来再转账报销。
+
 | English | 中文 |
 | --- | --- |
+| **Can you be our helper and run downstairs?** | 能当个小帮手，下楼跑一趟吗？`亲子` |
+| **We need soy sauce, scallions, ginger, and garlic.** | 要酱油、葱、姜、蒜头。`亲子` |
+| **A head of garlic, not just one clove.** | 要一头蒜，不是一瓣。`亲子` |
+| **Sometimes we give you cash. Bring back the change.** | 有时给你现金，找回的零钱带回来。`亲子` |
+| **Sometimes pay with your phone watch.** | 有时用你的电话手表付。`亲子` |
+| **We'll transfer the money back. That's a reimbursement.** | 我们再转账给你，这是报销。`亲子` |
+| **It still isn't your allowance. Come straight back up.** | 这仍然不是你的零花钱。买完直接上来。`亲子` |
 | **No snacks or fruit before the meal.** | 饭前不要吃零食，也不要吃水果。`亲子` |
 | **You can have them after you finish.** | 吃完饭再吃。`亲子` |
 | **Mom's cooking a slightly bigger quick meal.** | 妈妈做一顿稍完整的快手菜。`亲子` |
@@ -115,7 +124,11 @@ tags:
 - **Celine**: Red scarf for tomorrow?
 - **Daddy**: On top of the bag. Dictionary, three pens, highlighters, jump rope.
 - **Celine**: Mom's cooking?
-- **Daddy**: Tomato and egg, rice, and greens. No snacks or fruit before the meal.
+- **Daddy**: Yes. First, run downstairs for soy sauce, scallions, ginger, and a head of garlic.
+- **Celine**: Is that from my thirty-five yuan?
+- **Daddy**: No. Cash today—bring back the change. Or pay with your phone watch, and we'll transfer it back.
+- **Celine**: So that's a reimbursement?
+- **Daddy**: Yes. Not your allowance. Come straight up. Then tomato and egg, rice, and greens. No snacks before the meal.
 - **Celine**: Bedtime is ten, not eleven?
 - **Daddy**: Ten. Bath earlier tonight, or we lose the chapter. School tomorrow.
 - **Celine**: And charge the e-bike?
@@ -128,5 +141,5 @@ tags:
 - 本周约定：[[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
 - 明天：[[learning-notes/parenting-english/daily-life/week-with-celine/01-Monday|周一]]
 - 收拾书包：[[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]]
-- 食物：[[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]
+- 食物：[[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#葱姜蒜与去腥|中国常见食物 · 葱姜蒜]]
 - 户外：[[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园]]

@@ -99,11 +99,16 @@ tags:
 
 ## 6. 学校怎么样 — How Was School
 
+放学时我们还没下班。打电话问她到家没有，再问学校。
+
 | English | 中文 |
 | --- | --- |
-| **We're busy on weekdays. Start the washer when you get home.** | 工作日我们忙。到家就开洗衣机。`亲子` |
+| **Are you home yet?** | 你到家了吗？`亲子` |
+| **We're still at work.** | 我们还在上班。`亲子` |
+| **Did the smart lock click?** | 智能门锁响了吗？`亲子` |
+| **Start the washer now that you're in.** | 进门就开洗衣机。`亲子` |
 | **When it beeps, hang the clothes on the drying rack.** | 它响了，就把衣服晾到晾衣架上。`亲子` |
-| **Welcome home. How was school?** | 欢迎回家，学校怎么样？`亲子` |
+| **How was school?** | 学校怎么样？`亲子` |
 | **How was art class?** | 美术课怎么样？`亲子` |
 | **Did you finish the reading period?** | 阅读课做完了吗？`亲子` |
 | **Did you fall asleep at nap time?** | 午睡睡得着吗？`亲子` |
@@ -147,21 +152,49 @@ tags:
 
 ## 跟读对话 · Daddy & Celine
 
+按时间段跟读。她放学到家时，我们还在上班，所以是打电话问。
+
+### 早上 · 出门
+
 - **Daddy**: You walk today. Sidewalk only. Message me at the gate.
 - **Celine**: Red scarf or the badge?
 - **Daddy**: Either one. Jump rope too—PE is fifth period this week.
-- **Celine**: How was school? Wait, that's your line.
-- **Daddy**: Right. How was school? How was art?
+- **Celine**: Be home by six?
+- **Daddy**: Yes. Come straight home. We'll call. We're still at work then.
+
+### 放学 · 打电话
+
+- **Daddy**: Hi, Celine. Are you home yet?
+- **Celine**: Yes. I just got in.
+- **Daddy**: Good. We're still at work. Did the smart lock click?
+- **Celine**: Yes.
+- **Daddy**: Start the washer. When it beeps, hang the clothes up.
+- **Celine**: Can I go find my friends?
+- **Daddy**: Not yet. Leave the bag inside. How was school? How was art?
 - **Celine**: Fine. Reading class was long.
 - **Daddy**: Did you fall asleep at nap time? How long?
 - **Celine**: About forty minutes.
-- **Daddy**: That reading class stays at school. Home English is the iPad app.
-- **Celine**: Mom's at evening class?
-- **Daddy**: Yes. I'm home early. Start the washer first. When it beeps, hang the clothes up. Then the textbook, and a few Peppa lines.
+- **Daddy**: I'll be home early. Mom has evening class. Stay in until I get there.
+
+### 傍晚 · 爸爸到家
+
+- **Daddy**: I'm home. Did the washer beep?
+- **Celine**: Yes. The clothes are on the rack.
+- **Daddy**: Good. That reading class stays at school. Home English is the iPad app.
+- **Celine**: Textbook first?
+- **Daddy**: Yes. Then a few Peppa lines. After that, tomorrow's math, and fix the wrong ones.
 - **Celine**: My eyes feel tired.
-- **Daddy**: Go downstairs and look far away. Ten minutes, then math corrections.
+- **Daddy**: Go downstairs and look far away. Ten minutes, then come back up.
+
+### 晚饭 · 洗澡睡觉
+
 - **Celine**: Then friends?
-- **Daddy**: Bag down first. No snacks or fruit before dinner. Takeout first, then bath. Lights out at ten.
+- **Daddy**: You can find them now. Stay inside the compound. No snacks or fruit before dinner.
+- **Celine**: Takeout?
+- **Daddy**: Yes. Mom's not cooking tonight. Wash your hands when it gets here.
+- **Daddy**: Dinner's done. Bath now—don't wait until nine. I've asked you twice already.
+- **Celine**: Quick shower, then pajamas?
+- **Daddy**: Yes. Chapter book, then lights out at ten. No iPad in bed.
 
 ---
 
