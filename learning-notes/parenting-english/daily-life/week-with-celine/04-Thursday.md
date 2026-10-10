@@ -51,7 +51,8 @@ tags:
 | **Dictionary and the homework notebook.** | 字典和作业登记本。`亲子` |
 | **Black, blue, and red pens. Highlighters too.** | 黑笔、蓝笔、红笔，还有荧光笔。`亲子` |
 | **You'll stay late for duty. Pack a water bottle.** | 值日会晚，水壶装满。`亲子` |
-| **On the way out, take the trash by the door to the public bin on the first floor.** | 出门把门口的垃圾带到一楼公共垃圾箱丢掉。`亲子` |
+| **On the way out, If there's trash by the door, we take the stairs down.** | 要丢垃圾，就走楼梯下去。`亲子` |
+| **The stairs go straight to the public bins on the first floor in the compound.** | 楼梯直达小区的垃圾桶。`亲子` |
 
 ---
 
@@ -129,7 +130,7 @@ tags:
 
 - **Daddy**: Windy today. Zip up. Jump rope—PE is third period.
 - **Celine**: The trash by the door?
-- **Daddy**: Yes. Drop it in the public bin on the first floor.
+- **Daddy**: Yes. Take the stairs. They go straight to the bins. Drop it in the public bin on the first floor.
 - **Celine**: And cleaning duty.
 - **Daddy**: Sweep and wipe with your group. It's a team job. Then come straight home.
 - **Celine**: Duty makes me late.
