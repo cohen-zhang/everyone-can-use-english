@@ -2298,13 +2298,17 @@
       if (!session.length) { toast("这个分类暂时没有可用图片"); return; }
       learnIndex=0; matched=0; firstCard=null; lockBoard=false; results={};
       session.forEach(a=>results[a.id]={wrong:0,repeated:false});
+      preloadImages(session);
       renderLearn(); show("learn");
+    }
+    function preloadImages(animals) {
+      animals.forEach(a => { const img=new Image(); img.decoding="async"; img.src=a.image; });
     }
     function renderLearn() {
       const a=session[learnIndex];
       $("learnCount").textContent=`${learnIndex+1} / ${session.length}`;
       $("learnProgress").style.width=`${((learnIndex+1)/session.length)*100}%`;
-      $("learnCard").innerHTML=`<img class="animal-photo" src="${esc(a.image)}" alt="${esc(a.zh)}"><div><div class="eyebrow">${esc(a.categoryZh)} · ${esc(a.difficulty)}</div><h2 class="word">${esc(a.en)}</h2><div class="zh">${esc(a.zh)}</div><div class="ipa">${esc(a.ipa)}</div><button class="speak" id="speakLearn" type="button">听一听 · Listen</button><p class="clue">${esc(a.hint)}</p><div class="learn-actions"><button class="primary" id="learnNext" type="button">${learnIndex===session.length-1?"开始配对":"认识下一个"}</button><button class="secondary" id="learnDetails" type="button">打开小档案</button></div></div>`;
+      $("learnCard").innerHTML=`<img class="animal-photo" src="${esc(a.image)}" alt="${esc(a.zh)}" decoding="async" fetchpriority="high"><div><div class="eyebrow">${esc(a.categoryZh)} · ${esc(a.difficulty)}</div><h2 class="word">${esc(a.en)}</h2><div class="zh">${esc(a.zh)}</div><div class="ipa">${esc(a.ipa)}</div><button class="speak" id="speakLearn" type="button">听一听 · Listen</button><p class="clue">${esc(a.hint)}</p><div class="learn-actions"><button class="primary" id="learnNext" type="button">${learnIndex===session.length-1?"开始配对":"认识下一个"}</button><button class="secondary" id="learnDetails" type="button">打开小档案</button></div></div>`;
       $("speakLearn").onclick=()=>speak(a.en); $("learnDetails").onclick=()=>openDetails(a);
       $("learnNext").onclick=()=>{ if (++learnIndex<session.length) renderLearn(); else startMatch(); };
     }
@@ -2312,7 +2316,7 @@
       const cards=shuffle(session.flatMap(a=>[
         {key:a.id,type:"image",animal:a},{key:a.id,type:"word",animal:a}
       ]));
-      $("matchBoard").innerHTML=cards.map((c,i)=>`<button class="memory-card" data-i="${i}" data-key="${esc(c.key)}" data-type="${c.type}" type="button" aria-label="未翻开的动物卡"><span class="memory-inner"><span class="face back">🐾</span><span class="face front ${c.type==="image"?"image":"word-face"}">${c.type==="image"?`<img src="${esc(c.animal.image)}" alt="${esc(c.animal.zh)}">`:`<span>${esc(c.animal.en)}<small>English word</small></span>`}</span></span></button>`).join("");
+      $("matchBoard").innerHTML=cards.map((c,i)=>`<button class="memory-card" data-i="${i}" data-key="${esc(c.key)}" data-type="${c.type}" type="button" aria-label="未翻开的动物卡"><span class="memory-inner"><span class="face back">🐾</span><span class="face front ${c.type==="image"?"image":"word-face"}">${c.type==="image"?`<img src="${esc(c.animal.image)}" alt="${esc(c.animal.zh)}" decoding="async">`:`<span>${esc(c.animal.en)}<small>English word</small></span>`}</span></span></button>`).join("");
       $("matchBoard").querySelectorAll(".memory-card").forEach(card=>card.onclick=()=>flipCard(card));
       $("matchFeedback").textContent="每次翻两张：一张图片，一张英文";
       updateMatchProgress(); show("match");

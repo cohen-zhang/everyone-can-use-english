@@ -46,8 +46,8 @@ USER_AGENT = (
 )
 
 OK_LICENSES = {"cc0", "pd", "cc-by", "cc-by-sa"}
-MAX_EDGE = 800
-WEBP_QUALITY = 82
+MAX_EDGE = 480
+WEBP_QUALITY = 60
 
 # Non-creature / abstract / adult-slang rows that may appear inside A–I tables.
 SKIP_WORDS = frozenset(
