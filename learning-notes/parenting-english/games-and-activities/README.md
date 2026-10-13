@@ -4,6 +4,7 @@
 
 ## 本夹文件
 
+- [[learning-notes/parenting-english/games-and-activities/animal-puzzle|动物记忆探险]] — 看图学习、翻牌配对和英文线索回忆
 - [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|parenting-animal-guessing-game-log]]
 - [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game|parenting-category-classification-game]]
 - [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|parenting-eggy-party-game-phrases]]

@@ -17,6 +17,7 @@ exclude_docs: |
   *.backup
   *.json
   !assets/data/personal-reading.json
+  !assets/data/animal-puzzle.json
   *.mp3
   *.vtt
   **/.pages

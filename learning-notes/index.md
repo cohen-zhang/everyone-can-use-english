@@ -23,6 +23,7 @@ hide:
 [开始亲子英语 :material-arrow-right:](parenting-english/README.md){ .md-button .md-button--primary }
 [个人阅读计划](personal-reading.md){ .md-button }
 [阅读成长地图](reading-growth-map.md){ .md-button }
+[动物记忆探险](parenting-english/games-and-activities/animal-puzzle.md){ .md-button }
 [每日语音文本](每日语音文本/README.md){ .md-button }
 
 </div>
@@ -98,6 +99,14 @@ hide:
     Celine 的互动阅读打卡与成长路线。
 
     [:octicons-arrow-right-24: 站内打开](reading-growth-map.md) · [全屏](reading-growth-map.html){ target="_blank" rel="noopener" }
+
+-   :material-paw:{ .lg .middle } **动物记忆探险**
+
+    ---
+
+    亲子动物词卡：看图认识、翻牌配对、听线索回忆，错词自动重现。
+
+    [:octicons-arrow-right-24: 站内打开](parenting-english/games-and-activities/animal-puzzle.md) · [全屏](parenting-english/games-and-activities/animal-puzzle.html){ target="_blank" rel="noopener" }
 
 -   :material-book-clock-outline:{ .lg .middle } **个人阅读计划**
 

@@ -7,6 +7,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 from pathlib import Path, PurePosixPath
 
 try:
@@ -147,10 +148,12 @@ def _episode_label_from_name(name: str) -> str:
     return Path(name).stem
 
 
-def _cleanup_generated_transcript_pages(transcript_dir: Path) -> None:
-    for pattern in ("*-transcript.md", "*-scenes.md"):
-        for path in transcript_dir.glob(pattern):
-            path.unlink()
+def _write_if_changed(path: Path, text: str) -> None:
+    # mkdocs serve watches docs_dir; rewriting identical files triggers an endless rebuild loop.
+    if path.is_file() and path.read_text(encoding="utf-8", errors="replace") == text:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text, encoding="utf-8")
 
 
 def _generate_transcript_md_pages(
@@ -160,7 +163,7 @@ def _generate_transcript_md_pages(
     for transcript_dir in docs_dir.rglob("transcript"):
         if not transcript_dir.is_dir():
             continue
-        _cleanup_generated_transcript_pages(transcript_dir)
+        expected: set[Path] = set()
 
         for txt_path in sorted(transcript_dir.glob("*-transcript.txt")):
             body = txt_path.read_text(encoding="utf-8", errors="replace")
@@ -175,25 +178,32 @@ def _generate_transcript_md_pages(
             else:
                 page_title = f"【字幕】{label}"
             md_path = txt_path.with_suffix(".md")
-            md_path.write_text(
+            expected.add(md_path)
+            _write_if_changed(
+                md_path,
                 f"---\ntitle: {page_title}\n---\n\n"
                 f"# {page_title}\n\n"
                 f"**导航：** [字幕目录](README.md)\n\n"
                 f"原文（`{txt_path.name}`）：\n\n"
                 f"{_fence_code(body)}",
-                encoding="utf-8",
             )
 
         for yaml_path in sorted(transcript_dir.glob("*-scenes.yaml")):
             body = yaml_path.read_text(encoding="utf-8", errors="replace")
             md_path = yaml_path.with_suffix(".md")
-            md_path.write_text(
+            expected.add(md_path)
+            _write_if_changed(
+                md_path,
                 f"# {_episode_label_from_name(yaml_path.name)} 场景分段配置\n\n"
                 f"**导航：** [字幕目录](README.md)\n\n"
                 f"源文件（`{yaml_path.name}`）：\n\n"
                 f"{_fence_code(body, 'yaml')}",
-                encoding="utf-8",
             )
+
+        for pattern in ("*-transcript.md", "*-scenes.md"):
+            for path in transcript_dir.glob(pattern):
+                if path not in expected:
+                    path.unlink()
 
 
 SPEECH_DIR_NAME = "每日语音文本"
@@ -204,50 +214,60 @@ def _sync_daily_speech_docs(repo_root: Path, docs_dir: Path) -> None:
     """Mirror repo-root speech texts into docs_dir so they get a top nav tab."""
     src = repo_root / SPEECH_DIR_NAME
     dest = docs_dir / SPEECH_DIR_NAME
-    if dest.exists() or dest.is_symlink():
-        if dest.is_symlink() or dest.is_file():
-            dest.unlink()
-        else:
-            shutil.rmtree(dest)
+    if dest.is_symlink() or dest.is_file():
+        dest.unlink()
     if not src.is_dir():
+        if dest.exists():
+            shutil.rmtree(dest)
         return
-    dest.mkdir(parents=True, exist_ok=True)
-    skip_suffixes = {".mp3", ".vtt"}
+
+    expected: dict[Path, str] = {}
     for path in src.rglob("*"):
-        if not path.is_file() or path.suffix.lower() in skip_suffixes:
+        if not path.is_file() or path.suffix.lower() not in {".md", ".txt"}:
             continue
-        if path.suffix.lower() not in {".md", ".txt"}:
-            continue
-        target = dest / path.relative_to(src)
-        target.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(path, target)
-    _write_speech_section_indexes(dest, repo_root)
+        expected[dest / path.relative_to(src)] = path.read_text(
+            encoding="utf-8", errors="replace"
+        )
+    expected.update(_speech_section_indexes(src, dest, repo_root))
+
+    for target, text in expected.items():
+        _write_if_changed(target, text)
+    if dest.is_dir():
+        for path in sorted(dest.rglob("*"), reverse=True):
+            if path.is_file() and path not in expected:
+                path.unlink()
+            elif path.is_dir() and not any(path.iterdir()):
+                path.rmdir()
 
 
-def _write_speech_section_indexes(dest: Path, repo_root: Path) -> None:
-    """Add README hubs under copied speech folders (not in the TTS source tree)."""
-    for dirpath in sorted({dest} | {p for p in dest.rglob("*") if p.is_dir()}):
-        if dirpath == dest:
+def _speech_section_indexes(src: Path, dest: Path, repo_root: Path) -> dict[Path, str]:
+    """README hubs for mirrored speech folders that lack one in the TTS source tree."""
+    def has_text(folder: Path) -> bool:
+        return any(
+            p.is_file() and p.suffix.lower() in {".md", ".txt"} for p in folder.rglob("*")
+        )
+
+    out: dict[Path, str] = {}
+    for src_dir in sorted(p for p in src.rglob("*") if p.is_dir() and has_text(p)):
+        if (src_dir / "README.md").exists():
             continue
-        readme = dirpath / "README.md"
-        if readme.exists():
-            continue
-        child_dirs = sorted(p for p in dirpath.iterdir() if p.is_dir())
+        child_dirs = sorted(p for p in src_dir.iterdir() if p.is_dir() and has_text(p))
         pages = sorted(
-            p for p in dirpath.glob("*.md") if p.name.lower() != "readme.md"
+            p for p in src_dir.glob("*.md") if p.name.lower() != "readme.md"
         )
         if not child_dirs and not pages:
             continue
-        title = _NAV_FOLDER_DISPLAY.get(dirpath.name, dirpath.name)
+        title = _NAV_FOLDER_DISPLAY.get(src_dir.name, src_dir.name)
         lines = [f"# {title}\n", "\n"]
         for child in child_dirs:
             label = _NAV_FOLDER_DISPLAY.get(child.name, child.name)
             lines.append(f"- [{label}]({child.name}/README.md)\n")
         for page in pages:
-            rel = f"{SPEECH_DIR_NAME}/{page.relative_to(dest).as_posix()}"
+            rel = f"{SPEECH_DIR_NAME}/{page.relative_to(src).as_posix()}"
             label = _speech_display_title(rel, repo_root) or page.stem
             lines.append(f"- [{label}]({page.name})\n")
-        readme.write_text("".join(lines), encoding="utf-8")
+        out[dest / src_dir.relative_to(src) / "README.md"] = "".join(lines)
+    return out
 
 
 def _shorten_h1(h1: str) -> str:
@@ -404,8 +424,7 @@ def _write_personal_reading_json(
     if site_dir is not None:
         targets.append(Path(site_dir) / "assets/data/personal-reading.json")
     for target in targets:
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(payload + "\n", encoding="utf-8")
+        _write_if_changed(target, payload + "\n")
 
 
 _EMBEDDED_DATA_RE = re.compile(
@@ -437,6 +456,20 @@ def _publish_personal_reading(docs_dir: Path, site_dir: Path | None = None) -> N
     _write_personal_reading_json(docs_dir, site_dir, payload)
 
 
+def _build_animal_puzzle(repo_root: Path) -> None:
+    """Keep animal game JSON and its offline HTML embed aligned with the vocab."""
+    script = repo_root / "scripts/build_animal_puzzle_data.py"
+    if not script.is_file():
+        return
+    subprocess.run(
+        [sys.executable, str(script)],
+        cwd=repo_root,
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+
+
 def on_config(config, **kwargs):
     global _stem_to_paths, _repo_root, _docs_dir, _episode_titles
     global _recent_additions_markdown
@@ -450,6 +483,7 @@ def on_config(config, **kwargs):
     _generate_transcript_md_pages(_docs_dir, _episode_titles)
     _recent_additions_markdown = _build_recent_additions(_repo_root, _docs_dir)
     _publish_personal_reading(_docs_dir)
+    _build_animal_puzzle(_repo_root)
     return config
 
 

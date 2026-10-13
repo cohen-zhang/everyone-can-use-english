@@ -1,0 +1,2430 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <title>动物记忆探险</title>
+  <style>
+    :root {
+      --sky:#dff5ff; --sky-deep:#91d8f7; --grass:#a9dc87; --leaf:#3d8b5b;
+      --leaf-dark:#276744; --sun:#ffd66b; --orange:#ff9867; --coral:#f56f6f;
+      --water:#53b9d1; --ink:#263d3a; --muted:#647b76; --cream:#fffaf0;
+      --card:#fff; --line:rgba(39,103,68,.15); --shadow:0 14px 36px rgba(39,103,68,.15);
+      --radius:24px; --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    }
+    * { box-sizing:border-box; }
+    html { min-height:100%; background:#cceeff; }
+    body {
+      min-height:100vh; margin:0; color:var(--ink); font:16px/1.5 var(--font);
+      background:
+        radial-gradient(circle at 12% 8%,rgba(255,255,255,.9) 0 42px,transparent 44px),
+        radial-gradient(circle at 92% 15%,rgba(255,255,255,.75) 0 54px,transparent 56px),
+        linear-gradient(180deg,var(--sky) 0 63%,#d9efad 63% 72%,var(--grass) 72%);
+      background-attachment:fixed;
+    }
+    button { font:inherit; color:inherit; }
+    button:focus-visible { outline:4px solid rgba(83,185,209,.38); outline-offset:3px; }
+    .app { width:min(1080px,100%); min-height:100vh; margin:auto; padding:20px 18px 40px; position:relative; }
+    .topbar { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:16px; }
+    .brand { display:flex; align-items:center; gap:12px; }
+    .brand-mark {
+      width:52px; height:52px; display:grid; place-items:center; border-radius:18px;
+      background:var(--sun); font-size:29px; box-shadow:0 8px 18px rgba(180,130,35,.2);
+    }
+    h1,h2,h3,p { margin-top:0; }
+    h1 { margin-bottom:1px; font-size:clamp(21px,4vw,31px); }
+    .brand p { margin:0; color:var(--muted); font-size:13px; }
+    .icon-btn,.small-btn {
+      border:1px solid var(--line); background:rgba(255,255,255,.8); cursor:pointer;
+      border-radius:14px; padding:9px 13px; box-shadow:0 5px 14px rgba(39,103,68,.08);
+    }
+    .screen { display:none; animation:rise .3s ease both; }
+    .screen.active { display:block; }
+    @keyframes rise { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:none; } }
+    .panel {
+      background:rgba(255,255,255,.92); border:1px solid rgba(255,255,255,.9);
+      border-radius:var(--radius); box-shadow:var(--shadow); padding:clamp(18px,4vw,30px);
+    }
+    .hero {
+      position:relative; overflow:hidden; min-height:230px; display:grid; align-items:center;
+      grid-template-columns:1.2fr .8fr; background:linear-gradient(145deg,#fffdf3,#e8f8dc);
+    }
+    .hero::after {
+      content:"🦒  🐘  🦜"; position:absolute; right:4%; bottom:9%; font-size:clamp(38px,8vw,74px);
+      letter-spacing:.08em; filter:drop-shadow(0 9px 6px rgba(39,103,68,.13));
+    }
+    .hero-copy { position:relative; z-index:1; max-width:560px; }
+    .eyebrow { color:var(--leaf); font-size:13px; font-weight:800; letter-spacing:.08em; }
+    .hero h2 { margin:6px 0 10px; font-size:clamp(27px,5vw,47px); line-height:1.12; }
+    .hero p { max-width:520px; color:var(--muted); }
+    .steps { display:flex; flex-wrap:wrap; gap:8px; margin:18px 0 0; }
+    .steps span { padding:7px 11px; border-radius:999px; background:#eef8e8; color:var(--leaf-dark); font-weight:700; font-size:13px; }
+    .home-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:16px; }
+    .panel h3 { margin-bottom:13px; font-size:18px; }
+    .category-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; }
+    .category {
+      min-height:74px; border:2px solid transparent; border-radius:17px; padding:10px 8px;
+      background:#f2f9ec; cursor:pointer; text-align:center; transition:.15s ease;
+    }
+    .category:hover,.category.selected { border-color:var(--leaf); transform:translateY(-1px); }
+    .category strong,.category small { display:block; }
+    .category small { color:var(--muted); margin-top:2px; font-size:11px; }
+    .review-card { display:flex; flex-direction:column; justify-content:center; }
+    .review-stats { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin-bottom:15px; }
+    .review-stats div { background:#f7fbfd; border-radius:15px; padding:12px 8px; text-align:center; }
+    .review-stats b { display:block; font-size:25px; color:var(--leaf); }
+    .review-stats span { color:var(--muted); font-size:12px; }
+    .primary,.secondary {
+      border:0; border-radius:17px; min-height:52px; padding:13px 19px; cursor:pointer; font-weight:800;
+    }
+    .primary { color:#fff; background:linear-gradient(135deg,var(--leaf),#55aa69); box-shadow:0 9px 20px rgba(61,139,91,.25); }
+    .secondary { color:var(--leaf-dark); background:#eef8e8; border:1px solid var(--line); }
+    .primary:active,.secondary:active,.category:active,.memory-card:active,.choice:active { transform:scale(.98); }
+    .stage-head { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:12px; }
+    .stage-title span { display:block; color:var(--muted); font-size:13px; }
+    .stage-title h2 { margin:2px 0 0; font-size:clamp(22px,4vw,30px); }
+    .progress { height:10px; overflow:hidden; border-radius:999px; background:rgba(39,103,68,.1); margin-bottom:16px; }
+    .progress i { display:block; height:100%; border-radius:inherit; background:linear-gradient(90deg,var(--water),var(--leaf)); transition:width .35s ease; }
+    .learn-card { max-width:680px; margin:auto; display:grid; grid-template-columns:1fr 1fr; gap:22px; align-items:center; }
+    .animal-photo { width:100%; aspect-ratio:4/3; object-fit:cover; border-radius:22px; background:#eaf2ed; }
+    .word { margin:0; font-size:clamp(35px,7vw,64px); line-height:1.05; overflow-wrap:anywhere; }
+    .zh { margin:7px 0; color:var(--leaf-dark); font-size:25px; font-weight:800; }
+    .ipa { color:var(--muted); font-size:17px; }
+    .learn-actions,.summary-actions { display:flex; gap:10px; flex-wrap:wrap; margin-top:20px; }
+    .speak {
+      border:0; border-radius:999px; padding:9px 14px; color:#17657a; background:#e2f7fb; cursor:pointer; font-weight:750;
+    }
+    .clue { margin:16px 0 0; padding:13px 15px; border-left:4px solid var(--sun); border-radius:12px; background:#fff9e8; color:#53645f; }
+    .board { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; max-width:860px; margin:auto; }
+    .memory-card { position:relative; aspect-ratio:4/3; border:0; background:transparent; perspective:800px; cursor:pointer; padding:0; }
+    .memory-inner { position:absolute; inset:0; transition:transform .42s ease; transform-style:preserve-3d; }
+    .memory-card.flipped .memory-inner,.memory-card.matched .memory-inner { transform:rotateY(180deg); }
+    .face {
+      position:absolute; inset:0; border-radius:18px; overflow:hidden;
+      backface-visibility:hidden; -webkit-backface-visibility:hidden;
+      display:grid; place-items:center; box-shadow:0 8px 18px rgba(39,103,68,.14); border:2px solid rgba(255,255,255,.9);
+    }
+    .back {
+      transform:rotateY(0deg); color:#fff; font-size:38px;
+      background-image:
+        radial-gradient(circle at 20% 20%,rgba(255,255,255,.13) 0 9px,transparent 10px),
+        linear-gradient(145deg,#74bf75,#3d8b5b);
+      background-size:35px 35px,auto;
+    }
+    .front { transform:rotateY(180deg); background:#fff; padding:10px; }
+    .front.image { padding:0; }
+    .front img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; }
+    .front.word-face { font-size:clamp(17px,3.5vw,29px); font-weight:850; overflow-wrap:anywhere; }
+    .front.word-face small { display:block; color:var(--leaf); font-size:12px; margin-top:5px; }
+    .memory-card.matched { opacity:.48; pointer-events:none; }
+    .match-feedback { min-height:30px; margin:13px 0 0; text-align:center; font-weight:750; color:var(--leaf-dark); }
+    .recall-card { max-width:820px; margin:auto; }
+    .role-row { display:flex; justify-content:space-between; gap:10px; align-items:center; margin-bottom:12px; }
+    .question { border-radius:20px; padding:20px; background:#fff9e8; border:2px dashed #edc65f; text-align:center; }
+    .question .q-label { color:#8c701c; font-size:12px; font-weight:800; letter-spacing:.08em; }
+    .question blockquote { margin:8px auto 0; max-width:680px; font-size:clamp(18px,3vw,24px); font-weight:700; }
+    .choices { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-top:15px; }
+    .choice {
+      border:3px solid transparent; border-radius:18px; background:#fff; padding:0 0 10px;
+      overflow:hidden; cursor:pointer; box-shadow:0 8px 18px rgba(39,103,68,.13); font-weight:800;
+    }
+    .choice img { width:100%; aspect-ratio:4/3; object-fit:cover; display:block; margin-bottom:8px; }
+    .choice.wrong { border-color:var(--coral); animation:shake .3s ease; }
+    .choice.correct { border-color:var(--leaf); }
+    @keyframes shake { 25% { transform:translateX(-5px); } 75% { transform:translateX(5px); } }
+    .recall-hint { min-height:29px; margin:12px 0 0; color:#a14c3e; text-align:center; font-weight:750; }
+    .summary-list { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin:18px 0; }
+    .summary-item { display:flex; align-items:center; gap:12px; padding:11px; border-radius:16px; background:#f6fbf2; }
+    .summary-item img { width:64px; height:52px; object-fit:cover; border-radius:12px; }
+    .summary-item b,.summary-item span { display:block; }
+    .summary-item span { color:var(--muted); font-size:13px; }
+    .status-good { color:var(--leaf-dark)!important; } .status-mid { color:#b27014!important; } .status-bad { color:#b44848!important; }
+    .overlay { position:fixed; inset:0; z-index:10; display:none; align-items:center; justify-content:center; padding:18px; background:rgba(25,55,48,.48); }
+    .overlay.open { display:flex; }
+    .details { width:min(720px,100%); max-height:88vh; overflow:auto; background:var(--cream); border-radius:26px; padding:22px; box-shadow:0 30px 70px rgba(20,50,43,.35); }
+    .details-top { display:flex; justify-content:space-between; gap:12px; }
+    .details img { width:100%; max-height:300px; object-fit:cover; border-radius:18px; margin:12px 0; }
+    .detail-grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    .detail-grid div { padding:13px; border-radius:14px; background:#fff; }
+    .detail-grid b { display:block; color:var(--leaf-dark); margin-bottom:4px; }
+    .toast {
+      position:fixed; z-index:20; left:50%; bottom:24px; transform:translate(-50%,20px);
+      opacity:0; pointer-events:none; padding:10px 17px; border-radius:999px; background:var(--ink); color:#fff; transition:.2s;
+    }
+    .toast.show { opacity:1; transform:translate(-50%,0); }
+    @media (max-width:720px) {
+      .app { padding:12px 12px 28px; }
+      .hero { grid-template-columns:1fr; padding-bottom:120px; }
+      .home-grid { grid-template-columns:1fr; }
+      .learn-card { grid-template-columns:1fr; gap:14px; }
+      .learn-card .animal-photo { max-height:300px; }
+      .board,.choices { grid-template-columns:repeat(2,1fr); gap:9px; }
+      .category-grid { grid-template-columns:repeat(2,1fr); }
+      .detail-grid { grid-template-columns:1fr; }
+      .brand p { display:none; }
+    }
+    @media (prefers-reduced-motion:reduce) {
+      *,*::before,*::after { animation:none!important; transition:none!important; scroll-behavior:auto!important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div class="brand"><div class="brand-mark">🐾</div><div><h1>动物记忆探险</h1><p>Animal Memory Adventure · 亲子一起玩</p></div></div>
+      <button class="icon-btn" id="homeBtn" type="button" hidden>返回首页</button>
+    </header>
+
+    <section class="screen active" id="homeScreen">
+      <div class="panel hero">
+        <div class="hero-copy">
+          <div class="eyebrow">LEARN TOGETHER · 一起记</div>
+          <h2>今天认识<br><span id="homeSessionSize">4</span> 个动物朋友</h2>
+          <p>先看、再配对、最后听线索回忆。不是比手速，而是让单词在脑海里多出现几次。</p>
+          <div class="steps"><span>1 认识</span><span>2 配对</span><span>3 回忆</span></div>
+        </div>
+      </div>
+      <div class="home-grid">
+        <div class="panel">
+          <h3>选择动物区域</h3>
+          <div class="category-grid" id="categoryGrid"></div>
+        </div>
+        <div class="panel review-card">
+          <h3>今天的记忆足迹</h3>
+          <div class="review-stats">
+            <div><b id="learnedStat">0</b><span>见过</span></div>
+            <div><b id="dueStat">0</b><span>待复习</span></div>
+            <div><b id="steadyStat">0</b><span>记得牢</span></div>
+          </div>
+          <button class="primary" id="startBtn" type="button">开始动物探险</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="screen" id="learnScreen">
+      <div class="stage-head"><div class="stage-title"><span>第 1 步 · Look and learn</span><h2>先认识它</h2></div><b id="learnCount"></b></div>
+      <div class="progress"><i id="learnProgress"></i></div>
+      <div class="panel learn-card" id="learnCard"></div>
+    </section>
+
+    <section class="screen" id="matchScreen">
+      <div class="stage-head"><div class="stage-title"><span>第 2 步 · Find the pair</span><h2>图片和英文配成一对</h2></div><b id="matchCount"></b></div>
+      <div class="progress"><i id="matchProgress"></i></div>
+      <div class="board" id="matchBoard"></div>
+      <div class="match-feedback" id="matchFeedback" aria-live="polite"></div>
+    </section>
+
+    <section class="screen" id="recallScreen">
+      <div class="stage-head"><div class="stage-title"><span>第 3 步 · Listen and recall</span><h2>听线索，想一想</h2></div><b id="recallCount"></b></div>
+      <div class="progress"><i id="recallProgress"></i></div>
+      <div class="panel recall-card">
+        <div class="role-row"><span id="rolePrompt">家长读线索，孩子来选</span><button class="small-btn" id="roleBtn" type="button">交换角色</button></div>
+        <div class="question"><div class="q-label">WHO AM I? · 我是谁？</div><blockquote id="questionText"></blockquote></div>
+        <div class="choices" id="choices"></div>
+        <div class="recall-hint" id="recallHint" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="screen" id="summaryScreen">
+      <div class="panel">
+        <div class="eyebrow">ADVENTURE COMPLETE · 本轮完成</div>
+        <h2 id="summaryTitle">这些动物，你记得怎么样？</h2>
+        <p>答错并不可怕；需要费力想起来的词，才更值得再见一次。</p>
+        <div class="summary-list" id="summaryList"></div>
+        <div class="summary-actions">
+          <button class="primary" id="retryBtn" type="button">再练不稳的词</button>
+          <button class="secondary" id="nextBtn" type="button">换一组动物</button>
+          <button class="secondary" id="summaryHomeBtn" type="button">返回分类</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="overlay" id="detailsOverlay" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <article class="details">
+      <div class="details-top"><div><div class="eyebrow">ANIMAL CARD · 动物小档案</div><h2 id="detailTitle"></h2></div><button class="icon-btn" id="closeDetails" type="button" aria-label="关闭">关闭</button></div>
+      <img id="detailImage" alt="">
+      <div class="detail-grid" id="detailGrid"></div>
+    </article>
+  </div>
+  <div class="toast" id="toast" aria-live="polite"></div>
+
+  <script>
+  (() => {
+    "use strict";
+    const EMBEDDED_DATA = {
+  "version": 1,
+  "categories": [
+    {
+      "id": "A",
+      "zh": "宠物",
+      "en": "Pets",
+      "count": 13
+    },
+    {
+      "id": "B",
+      "zh": "农场",
+      "en": "Farm",
+      "count": 17
+    },
+    {
+      "id": "C",
+      "zh": "鸟类",
+      "en": "Birds",
+      "count": 17
+    },
+    {
+      "id": "D",
+      "zh": "昆虫",
+      "en": "Bugs",
+      "count": 18
+    },
+    {
+      "id": "E",
+      "zh": "爬行与两栖",
+      "en": "Reptiles & amphibians",
+      "count": 10
+    },
+    {
+      "id": "F",
+      "zh": "海洋",
+      "en": "Marine animals",
+      "count": 17
+    },
+    {
+      "id": "G",
+      "zh": "陆地野生",
+      "en": "Wild land animals",
+      "count": 38
+    },
+    {
+      "id": "H",
+      "zh": "史前动物",
+      "en": "Prehistoric animals",
+      "count": 1
+    },
+    {
+      "id": "I",
+      "zh": "神话动物",
+      "en": "Mythical animals",
+      "count": 5
+    }
+  ],
+  "animals": [
+    {
+      "id": "a-dog",
+      "en": "dog",
+      "zh": "狗",
+      "ipa": "/dɔːɡ/",
+      "meaning": "n. 狗;[美俚]丑女人;卑鄙的人;(俚)朋友 vt. 跟踪;尾 随",
+      "hint": "It is a loyal friend. It wags its tail when it is happy. It loves to play fetch.",
+      "idiom": "lucky dog 走运的人;underdog 弱势方;let sleeping dogs lie 别惹事",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/dog.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-cat",
+      "en": "cat",
+      "zh": "猫",
+      "ipa": "/kæt/",
+      "meaning": "n. 猫;猫科动物",
+      "hint": "It has soft paws. It likes to nap in warm places.",
+      "idiom": "curiosity killed the cat 别多管闲事;copycat 模仿者;*raining cats and dogs* 倾盆大雨",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/cat.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-puppy",
+      "en": "puppy",
+      "zh": "小狗",
+      "ipa": "/'pʌpi/",
+      "meaning": "n. 小狗,幼犬",
+      "hint": "It is a baby dog. It has tiny paws.",
+      "idiom": "puppy love 少男少女初恋;puppy dog eyes 可怜巴巴的眼神",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/puppy.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-kitty",
+      "en": "kitty",
+      "zh": "小猫",
+      "ipa": "/'kɪti/",
+      "meaning": "n. 小猫,猫咪",
+      "hint": "It is a cute word for a small cat.",
+      "idiom": "亲昵称呼小猫;金融俚语 *kitty* = 凑份子的小金库",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/kitten.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-hamster",
+      "en": "hamster",
+      "zh": "仓鼠",
+      "ipa": "/'hæmstər/",
+      "meaning": "n. 仓鼠;仓鼠毛皮",
+      "hint": "It has puffy cheeks that store food. It runs in a wheel at night.",
+      "idiom": "hamster wheel 原地空转的忙碌(职场隐喻)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/hamster.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-rabbit",
+      "en": "rabbit",
+      "zh": "兔子",
+      "ipa": "/'ræbɪt/",
+      "meaning": "n. 兔子,野兔 vt. 让...⻅⻤去吧",
+      "hint": "It has long ears. It hops fast. It loves carrots.",
+      "idiom": "rabbit hole 越陷越深的岔路;pull a rabbit out of a hat 出奇招",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/rabbit.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-bunny",
+      "en": "bunny",
+      "zh": "兔子",
+      "ipa": "/'bʌni/",
+      "meaning": "n. 兔子(特别是小兔子);可爱女郎",
+      "hint": "It is a soft word for a baby rabbit. It hops. It loves carrots in cartoons.",
+      "idiom": "复活节 Easter Bunny 美国童书文化;dumb bunny 傻乎乎(略贬)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/rabbit.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-canary",
+      "en": "canary",
+      "zh": "金丝雀",
+      "ipa": "/kə'neri/",
+      "meaning": "n. 金丝雀;金丝雀色",
+      "hint": "It is a small yellow bird. People keep it in a cage at home. It can sing beautiful songs.",
+      "idiom": "canary in a coal mine 最早的预警信号",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/canary.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "a-chihuahua",
+      "en": "Chihuahua",
+      "zh": "吉娃娃",
+      "ipa": "/tʃɪ'wɑwɑ/",
+      "meaning": "n. 吉娃娃(一种产于墨⻄哥的狗);奇瓦瓦(墨⻄哥北部 的州及其首府名称)",
+      "hint": "It is a tiny dog—it fits in a purse. It has big eyes. It comes from Mexico.",
+      "idiom": "—(品种名为主;*ankle biter* 旧俚指小狗)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/chihuahua.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "a-labrador",
+      "en": "Labrador",
+      "zh": "拉布拉多",
+      "ipa": "/'læbrədɔːr/",
+      "meaning": "n. 拉布拉多(加拿大东部一地区);一种纽芬兰猎犬",
+      "hint": "It is a friendly big dog. It loves water. It is often yellow, black, or chocolate brown.",
+      "idiom": "—(常作导盲犬、家庭犬的美国形象)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/labrador-retriever.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "a-bulldog",
+      "en": "bulldog",
+      "zh": "牛头犬",
+      "ipa": "/'bʊldɔːɡ/",
+      "meaning": "n. 牛头犬,恶犬;短枪管大型手枪",
+      "hint": "It has a wrinkly face and a wide chest. It looks tough but it can be sweet.",
+      "idiom": "bulldog spirit 顽强斗志;大学 mascots 常见",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/bulldog.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "a-terrier",
+      "en": "terrier",
+      "zh": "一种活泼的小狗",
+      "ipa": "/'teriər/",
+      "meaning": "n. 一种活泼的小狗;地籍册;国防自卫队",
+      "hint": "It is a small lively dog. It loves to dig and chase.",
+      "idiom": "—(*terrier-like* 形容咬住不放)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/terrier.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "a-poodle",
+      "en": "poodle",
+      "zh": "狮子狗",
+      "ipa": "/'puːdl/",
+      "meaning": "n. 狮子狗 vt. 剪毛",
+      "hint": "It has curly fancy fur. Sometimes it has a silly haircut. It is a very smart dog.",
+      "idiom": "poodle 有时喻指唯命是从的随从(政治俚语,成人向)",
+      "category": "A",
+      "categoryZh": "宠物",
+      "categoryEn": "Pets",
+      "image": "../assets/animals/poodle.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-chicken",
+      "en": "chicken",
+      "zh": "小鸡",
+      "ipa": "/'tʃɪkɪn/",
+      "meaning": "n. 小鸡;鸡肉;胆小⻤,懦夫 adj. 鸡肉的;幼小的;胆怯 的",
+      "hint": "It is a farm bird. We eat its eggs. It has a red comb /kɑːm/ on its head.",
+      "idiom": "chicken out 临阵退缩;don't count your chickens 别过早乐观",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/chicken.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-hen",
+      "en": "hen",
+      "zh": "母鸡",
+      "ipa": "/hen/",
+      "meaning": "n. 母鸡;雌禽",
+      "hint": "It is the mom chicken. It is the lady bird that lays eggs.",
+      "idiom": "mother hen 过度操心、护犊的家长",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/hen.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-rooster",
+      "en": "rooster",
+      "zh": "公鸡",
+      "ipa": "/'ruːstər/",
+      "meaning": "n. 公鸡;狂妄自负的人",
+      "hint": "It is the dad chicken. It has a big comb /kɑːm/ on its head. It often stands tall on the farm fence.",
+      "idiom": "cock of the walk 自以为是的老大;*strut like a rooster* 趾高气扬",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/rooster.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-cow",
+      "en": "cow",
+      "zh": "奶牛",
+      "ipa": "/kaʊ/",
+      "meaning": "n. 奶牛,母牛;母兽 vt. 威胁,恐吓",
+      "hint": "It has black and white spots. It gives us milk. It eats grass all day.",
+      "idiom": "have a cow 大发雷霆(美俚);sacred cow 不可批评的禁忌",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/cow.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-duck",
+      "en": "duck",
+      "zh": "鸭子",
+      "ipa": "/dʌk/",
+      "meaning": "n. 鸭子;鸭肉;(英)宝⻉儿;[版]零分 vi. 闪避;没入水 中",
+      "hint": "It has webbed /webd/ feet. Yellow babies follow mom in a line.",
+      "idiom": "sitting duck 活靶子;like water off a duck's back 毫不在意;*ugly duckling* 丑小鸭变天鹅",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/duck.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-horse",
+      "en": "horse",
+      "zh": "⻢",
+      "ipa": "/hɔːrs/",
+      "meaning": "n. ⻢;骑兵;脚架;[俚]海洛因 vt. 使骑⻢;系⻢于;[口] 捉弄",
+      "hint": "You can ride it. It runs fast. It is a cowboy’s /ˈkaʊbɔɪz/ best friend.",
+      "idiom": "hold your horses 别急;dark horse 黑马;horse around 瞎闹",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/horse.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-goat",
+      "en": "goat",
+      "zh": "山羊",
+      "ipa": "/ɡoʊt/",
+      "meaning": "n. 山羊;替罪羊(美俚);色⻤(美俚)",
+      "hint": "It has a beard on its chin. It climbs rocks. It eats leaves and grass.",
+      "idiom": "scapegoat 替罪羊;get someone's goat 惹毛某人",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/goat.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-pig",
+      "en": "pig",
+      "zh": "猪",
+      "ipa": "/pɪɡ/",
+      "meaning": "n. 猪;猪肉;贪吃的人;难伺候的事(习语) vi. 贪婪地吃",
+      "hint": "It is a pink farm animal. It says oink /ɔɪŋk/. It has a curly tail and a flat nose. It loves mud.",
+      "idiom": "when pigs fly 绝不可能;pig out 大吃大喝;Peppa Pig 文化符号",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/pig.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-sheep",
+      "en": "sheep",
+      "zh": "羊",
+      "ipa": "/ʃiːp/",
+      "meaning": "n. 羊,绵羊;胆小⻤",
+      "hint": "It looks like a fluffy cloud on legs. It gives us wool /wʊl/ for sweaters.",
+      "idiom": "black sheep 家族害群之马;count sheep 数羊助眠",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/sheep.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "b-bull",
+      "en": "bull",
+      "zh": "公牛",
+      "ipa": "/bʊl/",
+      "meaning": "n. 公牛;看好股市者;粗壮如牛的人;[俚]胡说八道;印玺 adj. 公牛似的;雄性的;大型的",
+      "hint": "It is the dad cow. It has strong horns /hɔːrnz/. A red cape /keɪp/ shows up in cartoons(bullfight).",
+      "idiom": "bull in a china shop 笨手笨脚;take the bull by the horns 迎难而上;*bull market* 牛市",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/bull.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-buffalo",
+      "en": "buffalo",
+      "zh": "水牛",
+      "ipa": "/'bʌfəloʊ/",
+      "meaning": "n. 水牛;野牛(产于北美);水陆两用坦克",
+      "hint": "It is a big shaggy ox. Or it is the American bison /ˈbaɪsn/ with a huge head.",
+      "idiom": "buffaloed 旧俚:被唬住、搞懵",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/buffalo.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-boar",
+      "en": "boar",
+      "zh": "野猪",
+      "ipa": "/bɔːr/",
+      "meaning": "n. 野猪;(未阉的)公猪",
+      "hint": "It is a wild pig with tusks /tʌsks/. It is strong and hairy.",
+      "idiom": "—(*boar* 文学里偶喻粗野)",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/boar.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-mule",
+      "en": "mule",
+      "zh": "骡子",
+      "ipa": "/mjuːl/",
+      "meaning": "n. 骡子;固执的人;走私毒品者 n. 拖鞋",
+      "hint": "Its mom is a horse and its dad is a donkey. It is strong and stubborn /ˈstʌbərn/.",
+      "idiom": "stubborn as a mule 倔得像骡子",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/mule.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-donkey",
+      "en": "donkey",
+      "zh": "驴子",
+      "ipa": "/'dɑːŋki/",
+      "meaning": "n. 驴子;傻瓜;顽固的人",
+      "hint": "It has long ears. It is stubborn /ˈstʌbərn/ but helpful. Eeyore is one in Winnie-the-Pooh.",
+      "idiom": "stubborn as a mule/donkey;Eeyore 忧郁驴(迪士尼文化)",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/donkey.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-lamb",
+      "en": "lamb",
+      "zh": "羔羊",
+      "ipa": "/læm/",
+      "meaning": "n. 羔羊,小羊;羔羊肉 vt. 生小羊,产羔羊",
+      "hint": "It is a baby sheep. It is soft and white. It stays close to its mom.",
+      "idiom": "gentle as a lamb;like a lamb to the slaughter 任人宰割",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/lamb.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-turkey",
+      "en": "turkey",
+      "zh": "火鸡",
+      "ipa": "/'tɜːrki/",
+      "meaning": "n. 火鸡;失败之作;笨蛋",
+      "hint": "It is a big bird for Thanksgiving /ˌθæŋksˈɡɪvɪŋ/. It has a fan tail and a silly walk.",
+      "idiom": "Thanksgiving 国宴象征;talk turkey 谈正经事;cold turkey 戒断式突然停用",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/turkey.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "b-goose",
+      "en": "goose",
+      "zh": "鹅",
+      "ipa": "/ɡuːs/",
+      "meaning": "n. 鹅;雌鹅;鹅肉;傻瓜 vt. 突然加大油⻔;嘘骂",
+      "hint": "It has a long neck. It curves toward the sky to sing. White feathers float on green water. Red feet paddle /ˈpædl/ the waves. (See 《咏鹅》 in notes.)",
+      "idiom": "silly goose 傻乎乎(亲昵,常对孩子说);wild goose chase 白费力气;*cook someone's goose* 毁了对方计划",
+      "category": "B",
+      "categoryZh": "农场",
+      "categoryEn": "Farm",
+      "image": "../assets/animals/goose.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-bird",
+      "en": "bird",
+      "zh": "⻦",
+      "ipa": "/bɜːrd/",
+      "meaning": "n. ⻦;家伙;羽毛球 vt. 向...喝倒彩;起哄",
+      "hint": "It has feathers and wings. Most birds can fly. It lays eggs in a nest.",
+      "idiom": "early bird gets the worm 早起的鸟儿有虫吃;free as a bird 自由自在",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/bird.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-owl",
+      "en": "owl",
+      "zh": "[动]猫头鹰",
+      "ipa": "/aʊl/",
+      "meaning": "n. [动]猫头鹰;枭;惯于晚上活动的人",
+      "hint": "It has big eyes. It turns its head all around. It is active at night.",
+      "idiom": "wise as an owl;night owl 夜猫子",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/owl.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-dove",
+      "en": "dove",
+      "zh": "鸽子",
+      "ipa": "/dʌv/",
+      "meaning": "n. 鸽子;鸽派人士 v. 潜水(dive的过去式)",
+      "hint": "It is a white peaceful bird. It is a symbol /ˈsɪmbl/ of love.",
+      "idiom": "和平象征(*dove of peace*);鸽派 vs 鹰派政治隐喻",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/dove.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-penguin",
+      "en": "penguin",
+      "zh": "企鹅",
+      "ipa": "/'peŋɡwɪn/",
+      "meaning": "n. 企鹅;[美俚]空军地勤人员",
+      "hint": "It lives in Antarctica /ænˈtɑːrktɪkə/. Its body is round and plump. It has short legs and stands up straight. It is black and white. It cannot fly. It waddles /ˈwɑːdlz/ on ice.",
+      "idiom": "—(*penguin suit* 俚语指男士礼服)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/penguin.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-parrot",
+      "en": "parrot",
+      "zh": "鹦鹉",
+      "ipa": "/'pærət/",
+      "meaning": "n. 鹦鹉;学舌者,应声虫;机械模仿别人的人 vt. 机械地模 仿",
+      "hint": "It is a colorful bird that can copy your words. You can say, \"I am a clever/stupid parrot.\"",
+      "idiom": "parrot 动词:鹦鹉学舌、人云亦云",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/parrot.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-pigeon",
+      "en": "pigeon",
+      "zh": "鸽子",
+      "ipa": "/'pɪdʒɪn/",
+      "meaning": "n. 鸽子",
+      "hint": "It is a gray city bird. It bobbles its head when it walks. It eats crumbs.",
+      "idiom": "stool pigeon 眼线、告密者(犯罪俚语)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/pigeon.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-eagle",
+      "en": "eagle",
+      "zh": "鹰",
+      "ipa": "/'iːɡl/",
+      "meaning": "n. 鹰;鹰状标饰",
+      "hint": "It has huge sharp eyes. It is the national bird of the USA. It flies very high.",
+      "idiom": "bald eagle 美国国鸟;eagle eye 目光锐利",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/eagle.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-swan",
+      "en": "swan",
+      "zh": "天鹅",
+      "ipa": "/swɑːn/",
+      "meaning": "n. 天鹅;天鹅星座 vi. 游荡,闲荡",
+      "hint": "It is an elegant white bird. It has a long neck and a curved beak /biːk/. You see it in a ballet /ˈbæleɪ/ story.",
+      "idiom": "swan song 绝唱、谢幕之作;*black swan* 黑天鹅(突发巨变)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/swan.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-flamingo",
+      "en": "flamingo",
+      "zh": "火烈鸟",
+      "ipa": "/fləˈmɪŋɡoʊ/",
+      "meaning": "n. 火烈鸟",
+      "hint": "It is a tall pink bird. It has long thin legs. It stands on one leg in shallow water. Its beak is bent.",
+      "idiom": "美式草坪 plastic pink flamingo 装饰;*flamingo pose* 单腿站立(瑜伽/拍照梗)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/flamingo.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "c-seagull",
+      "en": "seagull",
+      "zh": "海鸥",
+      "ipa": "/'siːɡʌl/",
+      "meaning": "n. 海鸥",
+      "hint": "It lives by the sea. It flies over beaches and looks for food.",
+      "idiom": "—(海边度假意象;*seagull manager* 管理俚语:瞎插手)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/seagull.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-swallow",
+      "en": "swallow",
+      "zh": "燕子",
+      "ipa": "/'swɑːloʊ/",
+      "meaning": "n. 燕子;吞咽;一次吞咽的量 v. 忍受;吞下;咽下;轻 信;不流露感情;收回",
+      "hint": "Think BIRD: it is small and fast in the sky. (Also a verb: food goes down your throat /θroʊt/.)",
+      "idiom": "动词 *swallow* 吞下;*one swallow doesn't make a summer* 一例不足为凭",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/swallow.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-crow",
+      "en": "crow",
+      "zh": "乌鸦",
+      "ipa": "/kroʊ/",
+      "meaning": "n. 乌鸦;啼叫;欢叫 v. 报晓;啼叫;欢叫;夸口;洋洋自 得",
+      "hint": "It is a black bird. It is very smart. Sometimes it steals shiny things.",
+      "idiom": "eat crow 公开认错;as the crow flies 直线距离",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/crow.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-robin",
+      "en": "robin",
+      "zh": "知更⻦",
+      "ipa": "/'rɑːbɪn/",
+      "meaning": "n. 知更⻦",
+      "hint": "It has a red breast. It is a cute songbird /ˈsɔŋbɜːrd/. You often see it on Christmas cards.",
+      "idiom": "圣诞贺卡常客;*robin redbreast* 英式文学意象",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/robin.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-jay",
+      "en": "jay",
+      "zh": "⻦",
+      "ipa": "/dʒeɪ/",
+      "meaning": "n. ⻦;松鸡;喋喋不休的人",
+      "hint": "It is a blue noisy bird. It hides acorns /ˈeɪkɔːrnz/ for winter.",
+      "idiom": "jaywalking 乱穿马路(源自 *jay* 俚语:乡巴佬)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/blue-jay.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-peacock",
+      "en": "peacock",
+      "zh": "孔雀",
+      "ipa": "/'piːkɑːk/",
+      "meaning": "n. 孔雀;爱虚荣的人;雄孔雀 vi. 炫耀;神气活现地走",
+      "hint": "It is the boy bird with a huge colorful tail. It opens like a fan.",
+      "idiom": "proud as a peacock 骄傲得开屏",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/peacock.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-sparrow",
+      "en": "sparrow",
+      "zh": "麻雀",
+      "ipa": "/'spæroʊ/",
+      "meaning": "n. 麻雀;矮小的人",
+      "hint": "It is a little brown city bird. It pecks crumbs on the sidewalk /ˈsaɪdwɔːk/.",
+      "idiom": "—(*sparrow* 圣经/民谣里喻卑微)",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/sparrow.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "c-martin",
+      "en": "martin",
+      "zh": "[⻦]紫崖燕",
+      "ipa": "/ˈmɑrtn../",
+      "meaning": "n. [⻦]紫崖燕",
+      "hint": "It is a small fast bird in the swallow family. It is dark blue and white.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "C",
+      "categoryZh": "鸟类",
+      "categoryEn": "Birds",
+      "image": "../assets/animals/purple-martin.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "d-bee",
+      "en": "bee",
+      "zh": "蜜蜂",
+      "ipa": "/biː/",
+      "meaning": "n. 蜜蜂,蜂;勤劳的人",
+      "hint": "It is yellow and black. It makes honey. It flies from flower to flower.",
+      "idiom": "busy as a bee 忙得团团转",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/bee.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "d-ant",
+      "en": "ant",
+      "zh": "蚂蚁",
+      "ipa": "/ænt/",
+      "meaning": "n. 蚂蚁",
+      "hint": "It is super strong for its size. It lives in a hill with thousands of friends.",
+      "idiom": "ants in your pants 坐立不安(儿歌常见)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/ant.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "d-butterfly",
+      "en": "butterfly",
+      "zh": "蝴蝶 蝶式游泳 游手好闲的人",
+      "ipa": "/'bʌtərflaɪ/",
+      "meaning": "n. 蝴蝶 蝶式游泳 游手好闲的人, 轻浮的人",
+      "hint": "It has colorful wings. It used to be a caterpillar /ˈkætərpɪlər/. It flutters by flowers.",
+      "idiom": "social butterfly 社交达人;*butterflies in your stomach* 紧张心慌",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/butterfly.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "d-ladybird",
+      "en": "ladybird",
+      "zh": "瓢虫",
+      "ipa": "/'leɪdibɜːrd/",
+      "meaning": "n. 瓢虫",
+      "hint": "It is a UK word for a little red bug with black spots. Americans say ladybug /ˈleɪdibʌɡ/.",
+      "idiom": "—(美式常说 *ladybug*,*ladybug, ladybug, fly away home* 童谣)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/ladybug.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "d-spider",
+      "en": "spider",
+      "zh": "蜘蛛",
+      "ipa": "/'spaɪdər/",
+      "meaning": "n. 蜘蛛;设圈套者;三脚架",
+      "hint": "It has eight legs. It makes webs. It is not an insect /ˈɪnsekt/.",
+      "idiom": "*spider sense*(蜘蛛侠文化);*Charlotte's Web* 美国童书经典",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/spider.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-scorpion",
+      "en": "scorpion",
+      "zh": "蝎子",
+      "ipa": "/ˈskɔːrpiən/",
+      "meaning": "n. 蝎子",
+      "hint": "It has eight legs like a spider. Its tail curls up with a stinger /ˈstɪŋər/. It lives in hot dry places. Stay back—tell a grown-up.",
+      "idiom": "—(星座 Scorpio /ˈskɔːrpioʊ/;沙漠/动物园常见)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/scorpion.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "d-caterpillar",
+      "en": "caterpillar",
+      "zh": "毛虫 履带",
+      "ipa": "/'kætərpɪlər/",
+      "meaning": "n. 毛虫 履带",
+      "hint": "It is a baby butterfly. It has many legs. It eats leaves, then makes a cocoon /kəˈkuːn/.",
+      "idiom": "蜕变隐喻(*caterpillar to butterfly*)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/caterpillar.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-moth",
+      "en": "moth",
+      "zh": "蛾",
+      "ipa": "/mɔːθ/",
+      "meaning": "n. 蛾;蛀虫",
+      "hint": "It is like a butterfly but it comes out at night. It flies toward lights.",
+      "idiom": "like a moth to a flame 飞蛾扑火",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/moth.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-wasp",
+      "en": "wasp",
+      "zh": "⻩蜂",
+      "ipa": "/wɑːsp/",
+      "meaning": "n. ⻩蜂;胡蜂;易怒的人 vi. ⻩蜂似的直扑",
+      "hint": "It has a thin waist. It is yellow and black. Be careful—it can sting /stɪŋ/.",
+      "idiom": "—(*WASP* = White Anglo-Saxon Protestant,社会学术语)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/wasp.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-worm",
+      "en": "worm",
+      "zh": "虫",
+      "ipa": "/wɜːrm/",
+      "meaning": "n. 虫,蠕虫;蜗杆;螺纹;小人物 vt. 给除虫;使缓慢前 进;使蠕动",
+      "hint": "It is a long pink squiggle underground. Birds love to eat them.",
+      "idiom": "worm your way in 钻营;*bookworm* 书虫",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/worm.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-beetle",
+      "en": "beetle",
+      "zh": "甲虫",
+      "ipa": "/'biːtl/",
+      "meaning": "n. 甲虫",
+      "hint": "It has a hard shell on its back. It has six legs. A ladybug is one kind.",
+      "idiom": "—(*Beatles* 披头士谐音梗)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/beetle.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-hornet",
+      "en": "hornet",
+      "zh": "大⻩蜂",
+      "ipa": "/'hɔːrnɪt/",
+      "meaning": "n. 大⻩蜂",
+      "hint": "It is a big angry wasp. Do not poke its nest.",
+      "idiom": "stir up a hornet's nest 捅了马蜂窝",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/hornet.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-dragonfly",
+      "en": "dragonfly",
+      "zh": "蜻蜓",
+      "ipa": "/'dræɡənflaɪ/",
+      "meaning": "n. 蜻蜓",
+      "hint": "It has big eyes and two pairs of wings. It hovers /ˈhʌvərz/ over ponds.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/dragonfly.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-cricket",
+      "en": "cricket",
+      "zh": "蟋蟀",
+      "ipa": "/'krɪkɪt/",
+      "meaning": "n. 蟋蟀;板球,板球运动",
+      "hint": "It chirps /tʃɜːrps/ at night—or it is the sport with bats in England.",
+      "idiom": "—(*crickets* 表尴尬沉默;英式 *cricket* 为板球)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/cricket.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-grasshopper",
+      "en": "grasshopper",
+      "zh": "蚱蜢",
+      "ipa": "/'ɡræshɑːpər/",
+      "meaning": "n. 蚱蜢;蝗虫;轻型⻜机;蚱蜢鸡尾酒",
+      "hint": "It has big back legs—boing boing! It is a green jumper in grass.",
+      "idiom": "功夫片 *Grasshopper* 徒弟称呼(流行文化)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/grasshopper.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-cicada",
+      "en": "cicada",
+      "zh": "[动]蝉",
+      "ipa": "/sɪ'keɪdə/",
+      "meaning": "n. [动]蝉",
+      "hint": "It is a summer tree insect. It sheds a shell on the bark /bɑːrk/.",
+      "idiom": "—(美国南方夏天标志性声音)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/cicada.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-mosquito",
+      "en": "mosquito",
+      "zh": "蚊子",
+      "ipa": "/mə'skiːtoʊ/",
+      "meaning": "n. 蚊子",
+      "hint": "It is a tiny bug with a long mouth. Its bite is itchy /ˈɪtʃi/.",
+      "idiom": "—(*mosquito bite* 喻小却烦人的麻烦)",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/mosquito.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "d-centipede",
+      "en": "centipede",
+      "zh": "蜈蚣",
+      "ipa": "/'sentɪpiːd/",
+      "meaning": "n. 蜈蚣",
+      "hint": "It has so many legs! It looks like a train with legs—creepy crawlies.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "D",
+      "categoryZh": "昆虫",
+      "categoryEn": "Bugs",
+      "image": "../assets/animals/centipede.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "e-frog",
+      "en": "frog",
+      "zh": "⻘蛙",
+      "ipa": "/frɑːɡ/",
+      "meaning": "n. ⻘蛙;饰扣;辙叉 vi. 捕蛙",
+      "hint": "It goes hop hop! It has wet skin. It starts life as a tadpole /ˈtædpoʊl/.",
+      "idiom": "frog in your throat 嗓子哑/卡痰",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/frog.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "e-snake",
+      "en": "snake",
+      "zh": "蛇",
+      "ipa": "/sneɪk/",
+      "meaning": "n. 蛇;阴险的人 vi. 迂回前进",
+      "hint": "It has no legs. It slithers. It has a forked /fɔːrkt/ tongue. Some are dangerous.",
+      "idiom": "snake in the grass 阴险小人",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/snake.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "e-turtle",
+      "en": "turtle",
+      "zh": "海龟",
+      "ipa": "/'tɜːrtl/",
+      "meaning": "n. 海龟;龟,甲⻥",
+      "hint": "It has a hard shell home. It is slow. In the sea or a pond, it hides its head inside.",
+      "idiom": "—(*turtle* 股市俚语:慢涨)",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/turtle.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "e-lizard",
+      "en": "lizard",
+      "zh": "蜥蜴",
+      "ipa": "/'lɪzərd/",
+      "meaning": "n. 蜥蜴;类蜥蜴爬行动物",
+      "hint": "It has dry scaly /ˈskeɪli/ skin. It has four legs. It might lose its tail and grow a new one.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/lizard.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-toad",
+      "en": "toad",
+      "zh": "蟾蜍",
+      "ipa": "/toʊd/",
+      "meaning": "n. 蟾蜍;癞蛤蟆;讨厌的家伙",
+      "hint": "It is like a frog but it has bumpier skin. It goes hop hop on land.",
+      "idiom": "toady 马屁精(源自 toad)",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/toad.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-tortoise",
+      "en": "tortoise",
+      "zh": "迟缓的人",
+      "ipa": "/'tɔːrtəs/",
+      "meaning": "n. 迟缓的人;龟,乌龟(等于testudo)",
+      "hint": "It is a land turtle. It is very slow. It wins races in fables /ˈfeɪblz/.",
+      "idiom": "*slow and steady wins the race* 龟兔赛跑美国启蒙寓言",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/tortoise.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-iguana",
+      "en": "iguana",
+      "zh": "[动]鬣蜥蜴",
+      "ipa": "/ɪ'ɡwɑːnə/",
+      "meaning": "n. [动]鬣蜥蜴",
+      "hint": "It is a big green lizard. It has a spiky back. It sunbathes /ˈsʌnbeɪðz/ on rocks.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/iguana.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-crocodile",
+      "en": "crocodile",
+      "zh": "鳄⻥",
+      "ipa": "/'krɑːkədaɪl/",
+      "meaning": "n. 鳄⻥",
+      "hint": "It has a long mouth and many teeth. It lives in rivers. It smiles—do not get close!",
+      "idiom": "crocodile tears 鳄鱼眼泪、假慈悲",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/crocodile.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-alligator",
+      "en": "alligator",
+      "zh": "短吻鳄",
+      "ipa": "/'ælɪɡeɪtər/",
+      "meaning": "n. 短吻鳄",
+      "hint": "It is like a crocodile but it has a wider U-shaped snout /snaʊt/. It lives in USA swamps /swɑːmps/.",
+      "idiom": "See you later, alligator! 五十年代流行儿歌告别语",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/alligator.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "e-python",
+      "en": "python",
+      "zh": "大蟒",
+      "ipa": "/ˈpaɪθɑːn/",
+      "meaning": "n. 大蟒;巨蟒;丹舌",
+      "hint": "It is a huge snake. It is not venomous /ˈvenəməs/. It squeezes its food.",
+      "idiom": "—(编程语言 Python 借名,非动物隐喻)",
+      "category": "E",
+      "categoryZh": "爬行与两栖",
+      "categoryEn": "Reptiles & amphibians",
+      "image": "../assets/animals/python.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "f-dolphin",
+      "en": "dolphin",
+      "zh": "海豚",
+      "ipa": "/'dɑːlfɪn/",
+      "meaning": "n. 海豚",
+      "hint": "It is a smart sea mammal /ˈmæml/. It jumps high. It lives in groups.",
+      "idiom": "—(*Flipper* 六十年代电视明星海豚)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/dolphin.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "f-crab",
+      "en": "crab",
+      "zh": "螃蟹",
+      "ipa": "/kræb/",
+      "meaning": "n. 螃蟹;蟹肉;脾气乖戾的人;起重机 vt. 抱怨;破坏;使 偏航",
+      "hint": "It walks sideways. It has pinchy claws /klɔːz/. It turns red when cooked.",
+      "idiom": "crabby 脾气坏;*crab mentality* 螃蟹心态(扯后腿)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/crab.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "f-whale",
+      "en": "whale",
+      "zh": "鲸",
+      "ipa": "/weɪl/",
+      "meaning": "n. 鲸 vi. 捕鲸 v. 打击",
+      "hint": "It is the biggest animal ever. It lives in the ocean. It spouts /spaʊts/ water from its head.",
+      "idiom": "a whale of a time 玩得超开心",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/whale.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "f-seal",
+      "en": "seal",
+      "zh": "密封",
+      "ipa": "/siːl/",
+      "meaning": "n. 密封;封条;印章;海豹;标志 vt. 密封;盖章",
+      "hint": "Animal: it is blubbery /ˈblʌbəri/. It claps a ball at the zoo. Or: it closes a door tight.",
+      "idiom": "—(与 *seal*「盖章」同形异义)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/seal.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "f-crayfish",
+      "en": "crayfish",
+      "zh": "小⻰虾",
+      "ipa": "/'kreɪfɪʃ/",
+      "meaning": "n. 小⻰虾",
+      "hint": "It looks like a tiny lobster. It lives in fresh water. It has pinchy claws.",
+      "idiom": "美国南方 crawfish boil 社交聚餐文化",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/crayfish.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-blowfish",
+      "en": "blowfish",
+      "zh": "[⻥]河豚",
+      "ipa": "/ˈbloˌfɪʃ/",
+      "meaning": "n. [⻥]河豚;⻩麻鲈",
+      "hint": "It is a puffy fish. It can blow up like a balloon /bəˈluːn/ when scared.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/pufferfish.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-clownfish",
+      "en": "clownfish",
+      "zh": "小丑鱼",
+      "ipa": "/ˈklaʊnfɪʃ/",
+      "meaning": "n. 小丑鱼(与海葵共生)",
+      "hint": "It has orange-and-white stripes. Think Nemo! It hides in sea anemones /əˈneməniz/.",
+      "idiom": "Finding Nemo 美国动画文化符号",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/clownfish.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-clam",
+      "en": "clam",
+      "zh": "蚌",
+      "ipa": "/klæm/",
+      "meaning": "n. 蚌, 蛤 vi. (在沙滩上)挖蛤",
+      "hint": "It lives in sand. Two shells clamp /klæmp/ tight. Pearls /pɜːrlz/ are inside sometimes.",
+      "idiom": "happy as a clam 开心极了;*clam up* 闭嘴不言",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/clam.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-scallop",
+      "en": "scallop",
+      "zh": "扇⻉",
+      "ipa": "/'skæləp/",
+      "meaning": "n. 扇⻉,干⻉ vt. 使成扇形",
+      "hint": "It is shellfish with a fan-shaped shell. It is yummy and pretty.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/scallop.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-tuna",
+      "en": "tuna",
+      "zh": "[动]金枪⻥",
+      "ipa": "/'tuːnə/",
+      "meaning": "n. [动]金枪⻥,鲔⻥",
+      "hint": "It is a huge fast fish. Pink meat comes in cans. It swims in big schools.",
+      "idiom": "—(*tuna melt* 美式三明治;*tuna* 邮件俚语:大块正文)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/tuna.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-oysters",
+      "en": "oysters",
+      "zh": "牡蛎",
+      "ipa": "/'ɔɪstɚ/",
+      "meaning": "n. 牡蛎,蚝(oyster的复数形式)",
+      "hint": "They have rock shells in the sea. Pearls are sometimes inside. They are slurpy /ˈslɜːrpi/ food.",
+      "idiom": "the world is your oyster 前途无量",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/oysters.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-shrimp",
+      "en": "shrimp",
+      "zh": "虾",
+      "ipa": "/ʃrɪmp/",
+      "meaning": "n. 虾;小虾;矮小的人 vi. 捕虾",
+      "hint": "It is curved pink seafood. It has tiny arms. You can eat popcorn shrimp.",
+      "idiom": "shrimp 俚语:个子矮的人(略冒犯,成人向)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/shrimp.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-squid",
+      "en": "squid",
+      "zh": "鱿⻥",
+      "ipa": "/skwɪd/",
+      "meaning": "n. 鱿⻥;枪乌贼;乌贼",
+      "hint": "It has a soft body and many arms. It jets through water. It squirts /skwɜːrts/ ink.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/squid.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-jellyfish",
+      "en": "jellyfish",
+      "zh": "水母",
+      "ipa": "/'dʒelifɪʃ/",
+      "meaning": "n. 水母;海蜇;意志薄弱的人",
+      "hint": "It looks like a soft umbrella in the sea. It can sting. It has no brain and no bones.",
+      "idiom": "jellyfish 喻意志薄弱、没主见的人",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/jellyfish.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-octopus",
+      "en": "octopus",
+      "zh": "章⻥",
+      "ipa": "/'ɑːktəpʊs/",
+      "meaning": "n. 章⻥",
+      "hint": "It has eight arms. It is smart. It hides in rocks. It changes color.",
+      "idiom": "—(*octopus* 喻多头官僚机构)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/octopus.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-lobster",
+      "en": "lobster",
+      "zh": "⻰虾",
+      "ipa": "/'lɑːbstər/",
+      "meaning": "n. ⻰虾",
+      "hint": "It is a big red sea bug with huge claws. People eat it for a fancy dinner.",
+      "idiom": "新英格兰 lobster roll 地域美食符号",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/lobster.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "f-otter",
+      "en": "otter",
+      "zh": "水獭",
+      "ipa": "/'ɑːtər/",
+      "meaning": "n. 水獭;水獭皮",
+      "hint": "It floats on its back. It holds hands with its family. It eats fish. It is so cute.",
+      "idiom": "—(*otter-level cute* 网络萌文化)",
+      "category": "F",
+      "categoryZh": "海洋",
+      "categoryEn": "Marine animals",
+      "image": "../assets/animals/otter.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-lion",
+      "en": "lion",
+      "zh": "狮子",
+      "ipa": "/'laɪən/",
+      "meaning": "n. 狮子;名人;勇猛的人;社交场合的名流",
+      "hint": "It is a big cat with a mane /meɪn/. In stories it is king of the jungle.",
+      "idiom": "lion's share 最大一份;*king of the jungle* 童话王者",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/lion.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-mouse",
+      "en": "mouse",
+      "zh": "鼠标",
+      "ipa": "/maʊs/",
+      "meaning": "n. 鼠标;老鼠;胆小羞怯的人 vt. 探出",
+      "hint": "It is a tiny animal. A cat chases it. In stories it loves cheese.",
+      "idiom": "quiet as a mouse 静悄悄;Mickey Mouse 美国流行文化",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/mouse.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-fox",
+      "en": "fox",
+      "zh": "[口]欺骗",
+      "ipa": "/fɑːks/",
+      "meaning": "vt. [口]欺骗;使变酸 n. 狐狸;狡猾的人",
+      "hint": "It has orange fur and a fluffy tail. It is clever in many stories.",
+      "idiom": "sly as a fox 狡猾;*foxy* 性感(俚语)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/fox.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-wolf",
+      "en": "wolf",
+      "zh": "狼",
+      "ipa": "/wʊlf/",
+      "meaning": "n. 狼;残忍贪婪之人;色狼 vt. 大吃;狼吞⻁咽地吃",
+      "hint": "It is like a wild dog. It lives in a pack. It hunts together.",
+      "idiom": "wolf in sheep's clothing 披着羊皮的狼;cry wolf 狼来了",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/wolf.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-deer",
+      "en": "deer",
+      "zh": "鹿",
+      "ipa": "/dɪr/",
+      "meaning": "n. 鹿,梅花鹿",
+      "hint": "It is graceful. The boy has antlers /ˈæntlərz/. It eats plants in the forest.",
+      "idiom": "like a deer in the headlights 吓呆了(愣住)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/deer.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-panda",
+      "en": "panda",
+      "zh": "熊猫",
+      "ipa": "/'pændə/",
+      "meaning": "n. 熊猫;猫熊",
+      "hint": "It is black and white. It eats bamboo /ˌbæmˈbuː/ all day. It lives in China.",
+      "idiom": "—(外交 panda diplomacy 新闻常用)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/panda.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-zebra",
+      "en": "zebra",
+      "zh": "斑⻢",
+      "ipa": "/'ziːbrə/",
+      "meaning": "n. 斑⻢ adj. 有斑纹的",
+      "hint": "It looks like a horse in pajamas /pəˈdʒɑːməz/. It has black and white stripes. It lives in Africa.",
+      "idiom": "—(*zebra crossing* 英式人行横道)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/zebra.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-squirrel",
+      "en": "squirrel",
+      "zh": "松鼠",
+      "ipa": "/'skwɜːrəl/",
+      "meaning": "n. 松鼠;松鼠毛皮 vt. 贮藏",
+      "hint": "It is brown with a bushy tail. It hides nuts in the tree. It runs up trees super fast.",
+      "idiom": "squirrel away 偷偷囤积",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/squirrel.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-giraffe",
+      "en": "giraffe",
+      "zh": "⻓颈鹿",
+      "ipa": "/dʒə'ræf/",
+      "meaning": "n. ⻓颈鹿",
+      "hint": "Its neck is so long. It eats leaves from the tops of trees.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/giraffe.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-bear",
+      "en": "bear",
+      "zh": "熊",
+      "ipa": "/ber/",
+      "meaning": "n. 熊;(在证券市场等)卖空的人 v. 有(某个名称);支 撑;承受;显示;忍受;开(花);携带;承担责任;生 育,生(孩子);转向(左或北等);举止;心怀;不适 于某事(或做某事)",
+      "hint": "It is a big furry hugger. It eats honey. It might sleep all winter.",
+      "idiom": "bear market 熊市;bear hug 热情熊抱;grin and bear it 咬牙忍",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/bear.webp",
+      "difficulty": "⭐ 启蒙"
+    },
+    {
+      "id": "g-sloth",
+      "en": "sloth",
+      "zh": "怠惰",
+      "ipa": "/sloʊθ/",
+      "meaning": "n. 怠惰,懒惰;[动]树懒",
+      "hint": "It is super slow. It hangs upside down in trees. It takes naps all day.",
+      "idiom": "—(*sloth* 七宗罪之懒惰)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/sloth.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-hedgehog",
+      "en": "hedgehog",
+      "zh": "刺猬",
+      "ipa": "/'hedʒhɔːɡ/",
+      "meaning": "n. 刺猬",
+      "hint": "It turns into a tiny spiky ball when scared. It is like a cute pin cushion /ˈkʊʃn/ with legs.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/hedgehog.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-cougar",
+      "en": "cougar",
+      "zh": "美洲狮",
+      "ipa": "/'kuːɡər/",
+      "meaning": "n. 美洲狮,美洲豹(特指Felis concolor)",
+      "hint": "It is a big wild cat in the Americas. People also call it a mountain lion.",
+      "idiom": "cougar 俚语:恋上年轻男子的年长女性",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/cougar.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-grizzly",
+      "en": "grizzly",
+      "zh": "灰色的",
+      "ipa": "/'grɪzli/",
+      "meaning": "adj. 灰色的 n. 灰熊",
+      "hint": "It is a huge brown bear with a hump /hʌmp/. It roams forests.",
+      "idiom": "—(西部荒野意象)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/grizzly-bear.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-vole",
+      "en": "vole",
+      "zh": "大满贯",
+      "ipa": "/voʊl/",
+      "meaning": "n. 大满贯;野鼠 vi. 赢得大满贯",
+      "hint": "It is a tiny mouse-like animal. It lives in grass tunnels.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/vole.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-chimp",
+      "en": "chimp",
+      "zh": "黑猩猩",
+      "ipa": "/tʃɪmp/",
+      "meaning": "n. (非洲的)黑猩猩(同 chimpanzee)",
+      "hint": "It is a smart ape. It climbs trees and uses tools. It is almost like a hairy cousin.",
+      "idiom": "—(*chimp* 偶喻胡闹)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/chimpanzee.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-badger",
+      "en": "badger",
+      "zh": "獾",
+      "ipa": "/'bædʒər/",
+      "meaning": "n. 獾;獾皮毛",
+      "hint": "It has a black-and-white striped face. It digs tunnels. It is fierce /fɪrs/ when angry.",
+      "idiom": "badger someone 缠问个没完",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/badger.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-skunk",
+      "en": "skunk",
+      "zh": "臭鼬",
+      "ipa": "/skʌŋk/",
+      "meaning": "n. 臭鼬;臭鼬毛皮;[俚]讨厌⻤;[俚]卑鄙的人 vt. 使惨 败;欺骗",
+      "hint": "It is black with a white stripe. It sprays a terrible smell if scared.",
+      "idiom": "stink like a skunk;*skunk* 喻讨厌鬼",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/skunk.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-moose",
+      "en": "moose",
+      "zh": "[动]驼鹿",
+      "ipa": "/muːs/",
+      "meaning": "n. [动]驼鹿",
+      "hint": "It is a huge deer with wide flat antlers. It lives in cold forests.",
+      "idiom": "—(北部荒野、*Bullwinkle* 卡通)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/moose.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-camel",
+      "en": "camel",
+      "zh": "骆驼",
+      "ipa": "/'kæml/",
+      "meaning": "n. 骆驼;打捞浮筒;工作作⻛官僚 adj. 驼色的;暗棕色的",
+      "hint": "It has two humps /hʌmps/ or one. It lives in deserts. It rides across sand.",
+      "idiom": "见笔记 *camel in the room*;*the straw that broke the camel's back* 最后一根稻草",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/camel.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-racoon",
+      "en": "racoon",
+      "zh": "浣熊",
+      "ipa": "/ræ'kuːn/",
+      "meaning": "n. 浣熊",
+      "hint": "It has a mask on its face. It washes food. It opens trash cans at night.",
+      "idiom": "网络梗 trash panda(翻垃圾桶的浣熊)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/raccoon.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-bat",
+      "en": "bat",
+      "zh": "球棒",
+      "ipa": "/bæt/",
+      "meaning": "n. 球棒;球拍;球板;蝙蝠 v. 用球板击球,用球棒击球 (尤指板球或棒球运动)",
+      "hint": "It is the only mammal that truly flies. It hangs upside down in the day. It uses echolocation /ˌekəʊloʊˈkeɪʃn/.",
+      "idiom": "blind as a bat 眼瞎;bat an eye 眨一下眼(常用于否定)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/bat.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-ape",
+      "en": "ape",
+      "zh": "猿",
+      "ipa": "/eɪp/",
+      "meaning": "n. 猿;傻瓜;模仿者 vt. 模仿;抢台词",
+      "hint": "It has no tail and big arms. Gorillas and chimps are apes—like Tarzan’s friends.",
+      "idiom": "go ape 暴怒/狂喜;*ape* 动词:拙劣模仿",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/ape.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-gorilla",
+      "en": "gorilla",
+      "zh": "[动]大猩猩",
+      "ipa": "/ɡə'rɪlə/",
+      "meaning": "n. [动]大猩猩",
+      "hint": "It is a huge gentle ape. It beats its chest. It eats leaves. Think King Kong!",
+      "idiom": "800-pound gorilla 惹不起的大佬",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/gorilla.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-mole",
+      "en": "mole",
+      "zh": "鼹鼠",
+      "ipa": "/moʊl/",
+      "meaning": "n. 鼹鼠(体小,视力极差,居住在挖掘的地道);色素 痣;间谍;内奸;【化】摩尔(计量物质的数量单位)",
+      "hint": "It digs underground. It has tiny eyes and velvety /ˈvelvəti/ fur. It makes molehills /ˈmoʊlhɪlz/.",
+      "idiom": "mole 间谍(潜伏者);见 molehills",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/mole.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-rat",
+      "en": "rat",
+      "zh": "鼠",
+      "ipa": "/ræt/",
+      "meaning": "n. 鼠;卑鄙小人,叛徒 vi. 捕鼠;背叛,告密",
+      "hint": "It is bigger than a mouse. It has a long tail. It loves cities at night.",
+      "idiom": "rat race 内卷赛跑;smell a rat 觉得有诈;rats! 叹词:该死",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/rat.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-beaver",
+      "en": "beaver",
+      "zh": "海狸",
+      "ipa": "/'biːvər/",
+      "meaning": "n. 海狸;海狸皮毛",
+      "hint": "It builds dams /dæmz/ with trees. It has a flat tail. It is a busy worker.",
+      "idiom": "busy as a beaver;eager beaver 积极分子",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/beaver.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-rhino",
+      "en": "rhino",
+      "zh": "[俚]钱",
+      "ipa": "/'raɪnoʊ/",
+      "meaning": "n. [俚]钱;现金;犀牛(等于rhinoceros)",
+      "hint": "It has thick gray skin. It has a horn on its nose. It charges like a tank.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/rhinoceros.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-leopard",
+      "en": "leopard",
+      "zh": "豹",
+      "ipa": "/'lepərd/",
+      "meaning": "n. 豹;美洲豹",
+      "hint": "It is a spotted big cat. It climbs trees with prey /preɪ/ in its mouth.",
+      "idiom": "a leopard can't change its spots 本性难移",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/leopard.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "g-ocelot",
+      "en": "ocelot",
+      "zh": "[动]豹猫",
+      "ipa": "/'ɑːsəlɑːt/",
+      "meaning": "n. [动]豹猫",
+      "hint": "It is a wild cat with spots. It is like a small leopard in the Americas.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/ocelot.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-tigress",
+      "en": "tigress",
+      "zh": "雌⻁",
+      "ipa": "/'taɪɡrəs/",
+      "meaning": "n. 雌⻁;凶悍的女人",
+      "hint": "It is the mom tiger—the girl tiger.",
+      "idiom": "tigress 喻凶悍女性(略过时)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/tiger.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-weasel",
+      "en": "weasel",
+      "zh": "逃避",
+      "ipa": "/'wiːzl/",
+      "meaning": "vi. 逃避;含糊其辞 n. 鼬鼠;狡猾的人",
+      "hint": "It has a long thin body. It is a sneaky hunter. People say it \"weasels out\" of trouble.",
+      "idiom": "weasel out 耍滑逃脱;weasel words 含糊其辞",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/weasel.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-platypus",
+      "en": "platypus",
+      "zh": "鸭嘴兽",
+      "ipa": "/'plætɪpʊs/",
+      "meaning": "n. 鸭嘴兽",
+      "hint": "It has a duck bill and a beaver tail. It lays eggs. It only lives in Australia. It is weird and cute.",
+      "idiom": "—(*platypus* 喻四不像)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/platypus.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-anteater",
+      "en": "anteater",
+      "zh": "[动]⻝蚁兽",
+      "ipa": "/'æntiːtər/",
+      "meaning": "n. [动]⻝蚁兽",
+      "hint": "It has a super long nose and tongue. It only eats ants and termites /ˈtɜːrmaɪts/.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/anteater.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-capybara",
+      "en": "capybara",
+      "zh": "[动]水豚",
+      "ipa": "/ˌkæpi'bɑːrə/",
+      "meaning": "n. [动]水豚(南美无尾大水鼠)",
+      "hint": "It is the world’s biggest rodent /ˈroʊdnt/. It looks like a giant guinea pig. It chills in hot springs.",
+      "idiom": "—(近年网络 chill capybara 梗)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/capybara.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-armadillo",
+      "en": "armadillo",
+      "zh": "犰狳",
+      "ipa": "/ˌɑːrmə'dɪloʊ/",
+      "meaning": "n. 犰狳",
+      "hint": "It has armor /ˈɑːrmər/ plates. It rolls into a ball when scared.",
+      "idiom": "—(德州 armadillo 路边常见)",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/armadillo.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-hyena",
+      "en": "hyena",
+      "zh": "鬣狗",
+      "ipa": "/haɪ'iːnə/",
+      "meaning": "n. 鬣狗,土狼",
+      "hint": "It laughs like a villain /ˈvɪlən/ in movies. It is a scavenger /ˈskævɪndʒər/ in Africa.",
+      "idiom": "迪士尼 laughing hyena 反派笑声",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/hyena.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "g-pangolin",
+      "en": "pangolin",
+      "zh": "穿山甲",
+      "ipa": "/'pæŋɡəlɪn/",
+      "meaning": "n. 穿山甲;鲮鲤",
+      "hint": "It has scales all over. It looks like a walking pinecone /ˈpaɪnkəʊn/. It eats ants.",
+      "idiom": "暂无常见的亲子友好表达",
+      "category": "G",
+      "categoryZh": "陆地野生",
+      "categoryEn": "Wild land animals",
+      "image": "../assets/animals/pangolin.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "h-mammoth",
+      "en": "mammoth",
+      "zh": "⻓毛象",
+      "ipa": "/ˈmæməθ/",
+      "meaning": "n. ⻓毛象;猛犸象;庞然大物 adj. 猛犸似的;巨大的,庞 大的",
+      "hint": "It is a hairy elephant from long ago. You see it in Ice Age movies.",
+      "idiom": "mammoth 形容词:巨大的(*mammoth task*)",
+      "category": "H",
+      "categoryZh": "史前动物",
+      "categoryEn": "Prehistoric animals",
+      "image": "../assets/animals/mammoth.webp",
+      "difficulty": "⭐⭐⭐ 进阶"
+    },
+    {
+      "id": "i-phoenix",
+      "en": "phoenix",
+      "zh": "凤凰",
+      "ipa": "/'fiːnɪks/",
+      "meaning": "n. 凤凰;死而复生的人",
+      "hint": "It is a myth bird. It burns to ash and is born again from fire.",
+      "idiom": "rise like a phoenix 浴火重生",
+      "category": "I",
+      "categoryZh": "神话动物",
+      "categoryEn": "Mythical animals",
+      "image": "../assets/animals/phoenix.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "i-unicorn",
+      "en": "unicorn",
+      "zh": "独⻆兽",
+      "ipa": "/'juːnɪkɔːrn/",
+      "meaning": "n. 独⻆兽;麒麟",
+      "hint": "It looks like a horse with one horn on its forehead. You see it in magic stories.",
+      "idiom": "硅谷 unicorn 估值超十亿美金的初创公司",
+      "category": "I",
+      "categoryZh": "神话动物",
+      "categoryEn": "Mythical animals",
+      "image": "../assets/animals/unicorn.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "i-dragon",
+      "en": "dragon",
+      "zh": "⻰",
+      "ipa": "/'dræɡən/",
+      "meaning": "n. ⻰;凶暴的人,凶恶的人;严厉而有警觉性的女人",
+      "hint": "It is a huge fire-breathing lizard in fairy tales /ˈferi teɪlz/. It guards gold.",
+      "idiom": "—(奇幻 RPG 文化;*dragon lady* 旧俚:强势亚裔女性,冒犯)",
+      "category": "I",
+      "categoryZh": "神话动物",
+      "categoryEn": "Mythical animals",
+      "image": "../assets/animals/dragon.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "i-mermaid",
+      "en": "mermaid",
+      "zh": "美人⻥",
+      "ipa": "/'mɜːrmeɪd/",
+      "meaning": "n. 美人⻥(传说中的);女子游泳健将",
+      "hint": "It is half girl and half fish. It swims in fairy-tale seas.",
+      "idiom": "迪士尼 The Little Mermaid 美国童书/影视经典",
+      "category": "I",
+      "categoryZh": "神话动物",
+      "categoryEn": "Mythical animals",
+      "image": "../assets/animals/mermaid.webp",
+      "difficulty": "⭐⭐ 常见"
+    },
+    {
+      "id": "i-fairy",
+      "en": "fairy",
+      "zh": "仙女",
+      "ipa": "/'feri/",
+      "meaning": "n. 仙女,小精灵;[美俚]漂亮姑娘 adj. 仙女的",
+      "hint": "It is a tiny magic person with wings. It is not a real animal.",
+      "idiom": "fairy tale 童话;*fairy godmother* 仙女教母",
+      "category": "I",
+      "categoryZh": "神话动物",
+      "categoryEn": "Mythical animals",
+      "image": "../assets/animals/fairy.webp",
+      "difficulty": "⭐⭐ 常见"
+    }
+  ]
+};
+    const STORAGE_KEY = "animal-memory-adventure-v1";
+    const DAY = 86400000;
+    const $ = id => document.getElementById(id);
+    const screens = ["home","learn","match","recall","summary"];
+    let data = EMBEDDED_DATA;
+    let progress = loadProgress();
+    let category = "all";
+    let session = [];
+    let learnIndex = 0;
+    let matched = 0;
+    let firstCard = null;
+    let lockBoard = false;
+    let recallQueue = [];
+    let recallIndex = 0;
+    let currentMistakes = 0;
+    let results = {};
+    let childLeads = false;
+
+    function esc(value) {
+      return String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    }
+    function shuffle(items) {
+      const out = [...items];
+      for (let i=out.length-1;i>0;i--) { const j=Math.floor(Math.random()*(i+1)); [out[i],out[j]]=[out[j],out[i]]; }
+      return out;
+    }
+    function loadProgress() {
+      try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; } catch (_) { return {}; }
+    }
+    function saveProgress() { localStorage.setItem(STORAGE_KEY,JSON.stringify(progress)); }
+    function show(name) {
+      screens.forEach(id => $(id+"Screen").classList.toggle("active",id===name));
+      $("homeBtn").hidden = name==="home";
+      window.scrollTo({top:0,behavior:"smooth"});
+    }
+    function toast(message) {
+      $("toast").textContent=message; $("toast").classList.add("show");
+      clearTimeout(toast.timer); toast.timer=setTimeout(()=>$("toast").classList.remove("show"),1800);
+    }
+    function speak(word) {
+      if (!("speechSynthesis" in window)) { toast("当前浏览器不支持朗读"); return; }
+      speechSynthesis.cancel();
+      const utterance=new SpeechSynthesisUtterance(word); utterance.lang="en-US"; utterance.rate=.82;
+      speechSynthesis.speak(utterance);
+    }
+    function statsFor(animal) {
+      return progress[animal.id] || {seen:0,correct:0,wrong:0,streak:0,lastSeen:0,dueAt:0};
+    }
+    function dueCount() {
+      const now=Date.now();
+      return data.animals.filter(a => { const p=statsFor(a); return p.seen && p.dueAt<=now; }).length;
+    }
+    function renderHome() {
+      const learned=data.animals.filter(a=>statsFor(a).seen).length;
+      const steady=data.animals.filter(a=>statsFor(a).streak>=3).length;
+      const selectedCount=category==="all" ? data.animals.length : (data.categories.find(c=>c.id===category)?.count || 0);
+      $("homeSessionSize").textContent=Math.min(4,selectedCount || 4);
+      $("learnedStat").textContent=learned; $("dueStat").textContent=dueCount(); $("steadyStat").textContent=steady;
+      const items=[{id:"all",zh:"混合复习",en:"Mixed review",count:data.animals.length},...data.categories];
+      $("categoryGrid").innerHTML=items.map(c=>`<button class="category ${c.id===category?"selected":""}" data-cat="${c.id}" type="button"><strong>${esc(c.zh)}</strong><small>${esc(c.en)} · ${c.count}</small></button>`).join("");
+      $("categoryGrid").querySelectorAll("[data-cat]").forEach(btn=>btn.onclick=()=>{ category=btn.dataset.cat; renderHome(); });
+      $("startBtn").textContent=dueCount() ? `先复习 ${Math.min(4,dueCount())} 个到期词` : "开始动物探险";
+    }
+    function pickAnimals(forcedIds=[]) {
+      const pool=data.animals.filter(a=>category==="all" || a.category===category);
+      const forced=forcedIds.map(id=>pool.find(a=>a.id===id) || data.animals.find(a=>a.id===id)).filter(Boolean);
+      const now=Date.now();
+      const ranked=shuffle(pool.filter(a=>!forced.some(f=>f.id===a.id))).sort((a,b)=>{
+        const pa=statsFor(a),pb=statsFor(b);
+        const sa=pa.seen===0?2:pa.dueAt<=now?0:pa.streak<3?1:3;
+        const sb=pb.seen===0?2:pb.dueAt<=now?0:pb.streak<3?1:3;
+        return sa-sb || (pa.streak-pb.streak);
+      });
+      return [...forced,...ranked].slice(0,4);
+    }
+    function startGame(forcedIds=[]) {
+      session=pickAnimals(forcedIds);
+      if (!session.length) { toast("这个分类暂时没有可用图片"); return; }
+      learnIndex=0; matched=0; firstCard=null; lockBoard=false; results={};
+      session.forEach(a=>results[a.id]={wrong:0,repeated:false});
+      renderLearn(); show("learn");
+    }
+    function renderLearn() {
+      const a=session[learnIndex];
+      $("learnCount").textContent=`${learnIndex+1} / ${session.length}`;
+      $("learnProgress").style.width=`${((learnIndex+1)/session.length)*100}%`;
+      $("learnCard").innerHTML=`<img class="animal-photo" src="${esc(a.image)}" alt="${esc(a.zh)}"><div><div class="eyebrow">${esc(a.categoryZh)} · ${esc(a.difficulty)}</div><h2 class="word">${esc(a.en)}</h2><div class="zh">${esc(a.zh)}</div><div class="ipa">${esc(a.ipa)}</div><button class="speak" id="speakLearn" type="button">听一听 · Listen</button><p class="clue">${esc(a.hint)}</p><div class="learn-actions"><button class="primary" id="learnNext" type="button">${learnIndex===session.length-1?"开始配对":"认识下一个"}</button><button class="secondary" id="learnDetails" type="button">打开小档案</button></div></div>`;
+      $("speakLearn").onclick=()=>speak(a.en); $("learnDetails").onclick=()=>openDetails(a);
+      $("learnNext").onclick=()=>{ if (++learnIndex<session.length) renderLearn(); else startMatch(); };
+    }
+    function startMatch() {
+      const cards=shuffle(session.flatMap(a=>[
+        {key:a.id,type:"image",animal:a},{key:a.id,type:"word",animal:a}
+      ]));
+      $("matchBoard").innerHTML=cards.map((c,i)=>`<button class="memory-card" data-i="${i}" data-key="${esc(c.key)}" data-type="${c.type}" type="button" aria-label="未翻开的动物卡"><span class="memory-inner"><span class="face back">🐾</span><span class="face front ${c.type==="image"?"image":"word-face"}">${c.type==="image"?`<img src="${esc(c.animal.image)}" alt="${esc(c.animal.zh)}">`:`<span>${esc(c.animal.en)}<small>English word</small></span>`}</span></span></button>`).join("");
+      $("matchBoard").querySelectorAll(".memory-card").forEach(card=>card.onclick=()=>flipCard(card));
+      $("matchFeedback").textContent="每次翻两张：一张图片，一张英文";
+      updateMatchProgress(); show("match");
+    }
+    function updateMatchProgress() {
+      $("matchCount").textContent=`${matched} / ${session.length} 对`;
+      $("matchProgress").style.width=`${(matched/session.length)*100}%`;
+    }
+    function flipCard(card) {
+      if (lockBoard || card.classList.contains("flipped") || card.classList.contains("matched")) return;
+      card.classList.add("flipped");
+      if (!firstCard) { firstCard=card; return; }
+      lockBoard=true;
+      const ok=firstCard.dataset.key===card.dataset.key && firstCard.dataset.type!==card.dataset.type;
+      if (ok) {
+        const pair=[firstCard,card]; pair.forEach(x=>x.classList.add("matched"));
+        const a=session.find(x=>x.id===card.dataset.key);
+        $("matchFeedback").textContent=`找到了：${a.en} — ${a.zh}`;
+        speak(a.en); matched++; firstCard=null; lockBoard=false; updateMatchProgress();
+        if (matched===session.length) setTimeout(startRecall,700);
+      } else {
+        $("matchFeedback").textContent="不是同一个动物，再看一眼";
+        const old=firstCard; setTimeout(()=>{ old.classList.remove("flipped"); card.classList.remove("flipped"); firstCard=null; lockBoard=false; },850);
+      }
+    }
+    function startRecall() {
+      recallQueue=shuffle([...session]); recallIndex=0; currentMistakes=0; childLeads=false;
+      renderRecall(); show("recall");
+    }
+    function renderRecall() {
+      if (recallIndex>=recallQueue.length) { finishGame(); return; }
+      const target=recallQueue[recallIndex];
+      const options=shuffle([target,...shuffle(session.filter(a=>a.id!==target.id)).slice(0,3)]);
+      $("recallCount").textContent=`${Math.min(recallIndex+1,session.length)} / ${session.length}`;
+      $("recallProgress").style.width=`${Math.min(100,(recallIndex/session.length)*100)}%`;
+      $("questionText").textContent=childLeads ? `看图后，用英文描述 ${target.zh}，让家长猜。` : target.hint;
+      $("rolePrompt").textContent=childLeads ? "孩子描述，家长来猜" : "家长读线索，孩子来选";
+      $("roleBtn").textContent=childLeads ? "家长来出题" : "交换角色";
+      $("choices").innerHTML=options.map(a=>`<button class="choice" data-id="${esc(a.id)}" type="button"><img src="${esc(a.image)}" alt="${esc(a.zh)}"><span>${childLeads?esc(a.zh):"选择它"}</span></button>`).join("");
+      $("choices").querySelectorAll(".choice").forEach(btn=>btn.onclick=()=>answerRecall(btn,target));
+      $("recallHint").textContent=""; currentMistakes=0;
+    }
+    function answerRecall(button,target) {
+      if (button.dataset.id===target.id) {
+        button.classList.add("correct"); button.querySelector("span").textContent=`${target.en} · ${target.zh}`;
+        speak(target.en);
+        setTimeout(()=>{ recallIndex++; renderRecall(); },650);
+        return;
+      }
+      button.classList.add("wrong"); setTimeout(()=>button.classList.remove("wrong"),400);
+      currentMistakes++; results[target.id].wrong++;
+      if (currentMistakes===1) $("recallHint").textContent=`提示：它属于${target.categoryZh}。`;
+      else if (currentMistakes===2) $("recallHint").textContent=`再提示：英文以 “${target.en[0].toUpperCase()}” 开头。`;
+      else {
+        $("recallHint").textContent=`答案是 ${target.en} — ${target.zh}，稍后再见它一次。`;
+        $("choices").querySelector(`[data-id="${CSS.escape(target.id)}"]`)?.classList.add("correct");
+        if (!results[target.id].repeated) {
+          recallQueue.splice(Math.min(recallQueue.length,recallIndex+3),0,target);
+          results[target.id].repeated=true;
+        }
+        setTimeout(()=>{ recallIndex++; renderRecall(); },1100);
+      }
+    }
+    function finishGame() {
+      const now=Date.now(), intervals=[1,3,7,14,30];
+      session.forEach(a=>{
+        const old=statsFor(a), wrong=results[a.id].wrong;
+        const streak=wrong ? 0 : old.streak+1;
+        progress[a.id]={
+          seen:old.seen+1, correct:old.correct+(wrong?0:1), wrong:old.wrong+wrong,
+          streak, lastSeen:now, dueAt:now+(wrong?DAY:intervals[Math.min(streak-1,intervals.length-1)]*DAY)
+        };
+      });
+      saveProgress();
+      $("summaryTitle").textContent=`这 ${session.length} 个动物，你记得怎么样？`;
+      $("summaryList").innerHTML=session.map(a=>{
+        const wrong=results[a.id].wrong;
+        const label=wrong===0?"记住了":wrong<=2?"还不稳":"需复习";
+        const cls=wrong===0?"status-good":wrong<=2?"status-mid":"status-bad";
+        return `<button class="summary-item" data-detail="${esc(a.id)}" type="button"><img src="${esc(a.image)}" alt=""><span><b>${esc(a.en)} · ${esc(a.zh)}</b><span class="${cls}">${label}${wrong?` · 错 ${wrong} 次`:""}</span></span></button>`;
+      }).join("");
+      $("summaryList").querySelectorAll("[data-detail]").forEach(btn=>btn.onclick=()=>openDetails(session.find(a=>a.id===btn.dataset.detail)));
+      const weak=session.filter(a=>results[a.id].wrong).map(a=>a.id);
+      $("retryBtn").hidden=!weak.length; $("retryBtn").onclick=()=>startGame(weak);
+      renderHome(); show("summary");
+    }
+    function openDetails(a) {
+      $("detailTitle").textContent=`${a.en} · ${a.zh}`; $("detailImage").src=a.image; $("detailImage").alt=a.zh;
+      $("detailGrid").innerHTML=`<div><b>发音 · Pronunciation</b>${esc(a.ipa)} <button class="speak" id="detailSpeak" type="button">听一听</button></div><div><b>释义 · Meaning</b>${esc(a.meaning)}</div><div><b>猜谜线索 · Clue</b>${esc(a.hint)}</div><div><b>文化表达 · US expression</b>${esc(a.idiom)}</div>`;
+      $("detailSpeak").onclick=()=>speak(a.en); $("detailsOverlay").classList.add("open");
+    }
+    function closeDetails() { $("detailsOverlay").classList.remove("open"); }
+    async function loadData() {
+      try {
+        const response=await fetch("../../assets/data/animal-puzzle.json",{cache:"no-store"});
+        if (response.ok) {
+          const remote=await response.json();
+          if ((remote.animals||[]).length >= (EMBEDDED_DATA.animals||[]).length) return remote;
+        }
+      } catch (_) {}
+      return EMBEDDED_DATA;
+    }
+    $("startBtn").onclick=()=>startGame();
+    $("homeBtn").onclick=()=>{ renderHome(); show("home"); };
+    $("summaryHomeBtn").onclick=()=>{ renderHome(); show("home"); };
+    $("nextBtn").onclick=()=>startGame();
+    $("roleBtn").onclick=()=>{ childLeads=!childLeads; renderRecall(); };
+    $("closeDetails").onclick=closeDetails;
+    $("detailsOverlay").onclick=e=>{ if (e.target===$("detailsOverlay")) closeDetails(); };
+    document.addEventListener("keydown",e=>{ if (e.key==="Escape") closeDetails(); });
+    loadData().then(loaded=>{ data=loaded; renderHome(); }).catch(()=>toast("动物数据加载失败"));
+  })();
+  </script>
+</body>
+</html>

@@ -19,6 +19,24 @@
 2. 将 **`main` 或 `master`**（或你在 [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml) 的 `on.push.branches` 里列出的分支）推送到 GitHub，或手动运行该 workflow；之后只要改动 `learning-notes/`、`mkdocs.yml`、`mkdocs_hooks.py` 或 `requirements-docs.txt` 即会重新构建。
 3. 本地预览：`pip install -r requirements-docs.txt && mkdocs serve`，浏览器打开 `http://127.0.0.1:8000/`。
 
+### 本地快速阅读（桌面图标）
+
+```bash
+zsh scripts/install_desktop_app.sh   # 只需一次，生成 ~/Desktop/英语学习笔记.app
+```
+
+之后双击桌面「英语学习笔记」图标：后台启动服务并打开 <http://127.0.0.1:8766/>，已在运行时直接打开浏览器。第一次启动会自动创建环境 `~/.venvs/english-notes`（需要 [uv](https://docs.astral.sh/uv/)），全站首次构建约 20 秒。
+
+```bash
+zsh scripts/serve_notes.sh             # 命令行启动并打开浏览器
+zsh scripts/serve_notes.sh --no-open   # 只启动
+zsh scripts/stop_notes.sh              # 停止
+```
+
+- 端口默认 8766，可用环境变量 `NOTES_PORT` 修改；日志在 `logs/notes-site.log`（已忽略）。
+- 在 Obsidian / Cursor 里保存笔记后刷新网页即可看到更新。
+- 图标由 `uv run --no-project --with pillow python scripts/make_notes_icon.py` 生成，改完后重新运行 `install_desktop_app.sh`。
+
 ## 与上游开源项目的关系（链接映射）
 
 本仓库已从上游开源代码树独立；上游内容**不在本仓库分发**。本地若需查阅完整上游树，见本机 `backup/upstream/`（已加入 `.gitignore`，不随仓库推送）。
