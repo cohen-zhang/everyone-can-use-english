@@ -8,7 +8,7 @@ tags:
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-每天用 iPad 打开同步学英语，见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。
+每天用 iPad 打开同步学英语，见 [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]]。上学戴的电话手表见 [[learning-notes/parenting-english/daily-life/week-with-celine/01-Monday#phone-watch|周一 · 放学自己回家]]。
 
 亲子与手机、平板类设备相关的日常英文表达：拿来放下、开关机与重启、屏幕手势与 App 操作、接打电话、消息、拍照、屏幕与规则、网络与充电、安全边界。`亲子`
 
@@ -230,6 +230,12 @@ app 要相机 / 麦克风 / 定位权限。我来选允许或拒绝。`技术` `
 出去导航用才开定位。/（英：为导航开定位.）`技术`
 - **The map says we’re five minutes away. Traffic looks heavy.** / **(UK) The sat nav says we’re…** / **(US) The GPS / nav app says…**  
 地图说还有五分钟。路况有点堵。/（英：卫星导航 sat nav.）/（美：GPS.）`技术`
+- **Celine wears a phone watch to school. We check her location in the app.**  
+Celine 上学戴电话手表。我们在手机 App 里看她的位置。`亲子` `技术`
+- **She can leave a message on the watch. We read it on our phones.**  
+她可以在手表上留言。我们在手机上看。`亲子`
+- **If something's wrong, she calls us from the watch. She doesn't wait.**  
+有问题她用手表打电话，不等。`亲子`
 
 ---
 
@@ -301,6 +307,7 @@ app 要相机 / 麦克风 / 定位权限。我来选允许或拒绝。`技术` `
 | English                                             | 简中                   | 备注                                      |
 | --------------------------------------------------- | -------------------- | --------------------------------------- |
 | **phone** / **cell (phone)** / (UK) **mobile**      | 手机                   | 美 cell，英 / 国际常 mobile `技术`              |
+| **phone watch**                                     | 电话手表                 | 上学戴着；家长用 App 看位置和留言 `亲子` `技术`          |
 | **to answer / to pick up**                          | 接（电话）                | 口语可混用；miss a call 没接到 `亲子`              |
 | **text (message) / to text**                        | 短信 / 发短信             | 美 text 作动词很常用                           |
 | **missed call / call back**                         | 未接 / 回拨              | 日常 `亲子`                                 |

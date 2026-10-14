@@ -52,6 +52,9 @@ tags:
 | **takeout** | /ˈteɪkaʊt/ | 外卖 | 亲子 |
 | **drying rack** | /ˈdraɪɪŋ ræk/ | 晾衣架 | 亲子 |
 | **smart lock** | /smɑrt lɑk/ | 智能门锁 | 亲子、技术 |
+| **phone watch** | /foʊn wɑtʃ/ | 电话手表。上学戴着，用来定位、留言、打电话 | 亲子、技术 |
+| **location** | /loʊˈkeɪʃn/ | 位置。家长在手机 App 里看 | 亲子、技术 |
+| **leave a message** | /liv ə ˈmesɪdʒ/ | 留言。孩子留在手表上，家长在手机上看 | 亲子 |
 | **stall** | /stɔl/ | 磨蹭。**You're stalling.** | 多义、有难度 |
 | **chapter book** | /ˈtʃæptər bʊk/ | 章节书、课外书 | 亲子 |
 
@@ -84,6 +87,7 @@ tags:
 | **Black pen for writing, blue for corrections, red for circling.** | 黑笔写字，蓝笔订正，红笔圈画。`亲子` |
 | **Two highlighters in the front pocket.** | 两支荧光笔放前面口袋。`亲子` |
 | **Jump rope in the side pocket—PE is the fourth period.** | 跳绳放侧袋，第四节体育。`亲子` |
+| **Phone watch on your wrist. Don't take it off.** | 电话手表戴手腕上，别摘。`亲子` |
 
 *问句库原句见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句 · 出门前]]。*
 
@@ -127,12 +131,19 @@ tags:
 
 ---
 
+<a id="phone-watch"></a>
+
 ## 5. 放学自己回家 — Walk Home Alone
+
+上学戴电话手表。家长用手机 App 看位置和留言。她有问题，就用手表打电话。
 
 | English | 中文 |
 | --- | --- |
 | **After-school class ends at five twenty.** | 延时课五点二十结束。`亲子` |
 | **Walk home today—don't take a ride with strangers.** | 今天自己走回家，别上陌生人的车。`亲子` |
+| **We can see your location in the app.** | 我们在手机 App 里能看到你的位置。`亲子` `技术` |
+| **Leave us a message on your watch. We'll read it.** | 在手表上留言，我们会看。`亲子` |
+| **If something's wrong, call us. Don't wait.** | 有问题就打电话，别等。`亲子` |
 | **Cross at the zebra crossing. Look both ways.** | 走人行横道过街，看左右。`亲子` |
 | **Come straight home. Don't play outside with your bag on.** | 直接回家，别背着书包在外面玩。`亲子` |
 | **Be home by six. We'll be worried otherwise.** | 六点前到家，不然我们会很担心。`亲子` |
@@ -268,7 +279,9 @@ tags:
 - **Celine**: Can I do Peppa first?
 - **Daddy**: Textbook first, then a few Peppa lines. Ten minutes, then balcony break.
 - **Celine**: OK. Daddy, I'm home by six—right?
-- **Daddy**: Right. Walk straight home. The smart lock tells us you're back.
+- **Daddy**: Right. Walk straight home. Keep your phone watch on. We can see your location in the app.
+- **Celine**: If I get lost, I call you?
+- **Daddy**: Yes. Call us. Or leave a message. We'll read it on our phones. The smart lock tells us you're back.
 - **Celine**: Start the washer when I'm home?
 - **Daddy**: Yes. When it beeps, hang the clothes up. Don't open the door while it's running.
 - **Daddy**: Did you fall asleep at nap time? About how long?

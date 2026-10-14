@@ -110,7 +110,9 @@ tags:
 | **Sweep your area. Wipe the desks.** | 扫你那一块，擦桌子。`亲子` |
 | **Cleaning duty is a team job. Work together.** | 值日搞卫生要团队协作，一起做。`亲子` |
 | **That was responsible. Thank you.** | 这很负责任，谢谢你。`亲子` |
-| **Still come home by six. We'll be watching.** | 还是六点前到家，我们会看。`亲子` |
+| **Still come home by six. We'll watch the app.** | 还是六点前到家，我们会看 App。`亲子` |
+| **If duty runs long, call us from your watch.** | 值日拖久了，用手表打电话。`亲子` |
+| **You can leave a message. We'll read it.** | 可以留言，我们会看。`亲子` |
 | **The camera and the smart lock tell us.** | 监控和智能门锁会告诉我们。`亲子` |
 
 ---
@@ -154,7 +156,7 @@ tags:
 - **Celine**: And cleaning duty.
 - **Daddy**: Sweep and wipe with your group. It's a team job. Then come straight home.
 - **Celine**: Duty makes me late.
-- **Daddy**: About twenty-five minutes. Still home by six. Start the washer first. Hang the clothes when it beeps.
+- **Daddy**: About twenty-five minutes. Still home by six. If it runs long, call us. We'll see you in the app. Start the washer first. Hang the clothes when it beeps.
 - **Celine**: The birthday meal was cake and noodles!
 - **Daddy**: Fun. Did you fall asleep after that? How long?
 - **Celine**: Not really—too noisy. I just rested.

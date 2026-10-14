@@ -68,6 +68,8 @@ items:
         result: good
       - date: 2026-10-10
         result: hard
+      - date: 2026-10-13
+        result: good
 
   - id: modern-family-s02e20-transcript
     title: 【字幕】S02E20 · 母亲节
@@ -123,6 +125,30 @@ items:
       - date: 2026-10-09
         result: good
 
+  - id: parenting-animals-vocab
+    title: 动物单词
+    url: parenting-english/vocabulary/parenting-animals-vocab/
+    category: 亲子词汇
+    status: active
+    priority: normal
+    added: 2026-10-13
+    note: 日常好认的动物词、音标和猜谜提示；篇幅长，可分段读。
+    history:
+      - date: 2026-10-13
+        result: good
+
+  - id: week-with-celine-monday
+    title: 一周综合 · 周一
+    url: parenting-english/daily-life/week-with-celine/01-Monday/
+    category: 亲子英语
+    status: active
+    priority: high
+    added: 2026-10-14
+    note: 升旗、用眼诊断、放学自己回家和电话手表。
+    history:
+      - date: 2026-10-14
+        result: good
+
   - id: week-with-celine
     title: 一周综合 · 不多的上学周
     url: parenting-english/daily-life/week-with-celine/
@@ -130,5 +156,5 @@ items:
     status: want
     priority: high
     added: 2026-10-08
-    note: 四年级上学周七天跟读；课表见 00-timetable，周一至周日分篇。
+    note: 四年级上学周跟读。周一已于 2026-10-14 单独记入；本条仍待读周二至周日。课表见 00-timetable。
     history: []

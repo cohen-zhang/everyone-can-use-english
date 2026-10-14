@@ -110,6 +110,8 @@ tags:
 | **Cross at the light. Look both ways twice.** | 红绿灯过街，左右各看两遍。`亲子` |
 | **Come straight home. No puddle jumping with your bag on.** | 直接回家，别背着书包踩水。`亲子` |
 | **Be home by six. Earlier is better today.** | 六点前到家，今天早点更好。`亲子` |
+| **Keep your phone watch on. We can see your location.** | 电话手表别摘，我们能看到你的位置。`亲子` |
+| **If the rain is too heavy, call us. Don't just stand there.** | 雨太大就打电话，别干站着。`亲子` |
 
 ---
 
@@ -152,7 +154,7 @@ tags:
 - **Celine**: Can I jump in puddles?
 - **Daddy**: Not with your schoolbag on. After you're home and dry.
 - **Celine**: No after-school class today.
-- **Daddy**: Right. Everyone leaves at four twenty. Walk slow. Look twice. Start the washer when you're home.
+- **Daddy**: Right. Everyone leaves at four twenty. Walk slow. Look twice. Phone watch stays on. If it's pouring, call us. Start the washer when you're home.
 - **Celine**: The surprise meal had dumplings!
 - **Daddy**: Nice. Did you fall asleep after lunch? How long?
 - **Celine**: Yes—maybe half an hour. I was full.

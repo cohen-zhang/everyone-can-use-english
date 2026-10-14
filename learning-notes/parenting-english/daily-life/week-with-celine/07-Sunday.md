@@ -42,7 +42,7 @@ tags:
 | **clove** | /kloʊv/ | 一瓣（蒜）。不要理解成丁香味的 clove | 低频、多义 |
 | **cash** | /kæʃ/ | 现金 | 亲子 |
 | **change** | /tʃeɪndʒ/ | 找回的零钱 | 多义 |
-| **phone watch** | /foʊn wɑtʃ/ | 电话手表 | 亲子 |
+| **phone watch** | /foʊn wɑtʃ/ | 电话手表。上学用来定位、留言和打电话；有时也用来付钱 | 亲子、技术 |
 | **reimbursement** | /ˌriɪmˈbɜrsmənt/ | 报销 | 低频、拼写 |
 | **transfer** | /trænsˈfɜr/ | 转账（动词）。名词常把重音放前面：/ˈtrænsfər/ | 易读错 |
 | **greens** | /ɡrinz/ | 青菜 | 亲子 |
@@ -97,6 +97,7 @@ tags:
 | **Two or three highlighters.** | 两三支荧光笔。`亲子` |
 | **Jump rope—Monday PE is fourth period.** | 跳绳，周一第四节体育。`亲子` |
 | **Water bottle empty for now. Fill it in the morning.** | 水壶先空着，早上再灌。`亲子` |
+| **Phone watch on your wrist tomorrow. Don't leave it home.** | 明天电话手表戴手腕上，别落在家里。`亲子` |
 | **Charge the e-bike after dinner.** | 晚饭后给电动车充电。`亲子` |
 
 ---
@@ -147,7 +148,7 @@ tags:
 - **Celine**: Can we walk outside?
 - **Daddy**: Yes. Around the compound. Look at the far trees.
 - **Celine**: Red scarf for tomorrow?
-- **Daddy**: On top of the bag. Dictionary, three pens, highlighters, jump rope.
+- **Daddy**: On top of the bag. Dictionary, three pens, highlighters, jump rope. Phone watch on your wrist—don't leave it home.
 - **Celine**: Mom's cooking?
 - **Daddy**: Yes. First, run downstairs for soy sauce, scallions, ginger, and a head of garlic.
 - **Celine**: Is that from my thirty-five yuan?

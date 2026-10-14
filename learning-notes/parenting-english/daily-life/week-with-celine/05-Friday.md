@@ -94,7 +94,7 @@ tags:
 | **Buy breakfast on the way. Don't eat while you cross.** | 路上买早餐，过马路时别吃。`亲子` |
 | **Sidewalk. Zebra crossing. Look both ways.** | 人行道，斑马线，看左右。`亲子` |
 | **If it starts raining, open the umbrella and slow down.** | 开始下雨就打伞，走慢。`亲子` |
-| **Message me at the gate.** | 到校门跟我说一声。`亲子` |
+| **Phone watch on. Message me from it at the gate.** | 戴好电话手表，到校门用它跟我说一声。`亲子` |
 
 ---
 
@@ -119,6 +119,8 @@ tags:
 | --- | --- |
 | **Straight home. No playing with the bag on.** | 直接回家，别背着书包玩。`亲子` |
 | **Home by six.** | 六点前到家。`亲子` |
+| **We can see your location in the app.** | 我们在手机 App 里能看到你的位置。`亲子` `技术` |
+| **If something's wrong, call us. Don't wait.** | 有问题就打电话，别等。`亲子` |
 | **How was school this week?** | 这一周学校怎么样？`亲子` |
 | **What was your favorite class?** | 最喜欢哪一节？`亲子` |
 | **Anything that felt hard?** | 有什么觉得难的吗？`亲子` |
@@ -181,7 +183,7 @@ tags:
 - **Celine**: School badge on the left?
 - **Daddy**: Yes. Button up, tuck your shirt in. Red scarf or the badge. PE is second period.
 - **Celine**: It feels muggy.
-- **Daddy**: If it rains, slow down. Message me at the gate.
+- **Daddy**: If it rains, slow down. Phone watch on. Message me from it at the gate. If you need help, call.
 - **Celine**: After-school class, then home by six. I start the washer.
 - **Daddy**: Yes. When it beeps, hang the clothes on the drying rack.
 - **Daddy**: How was school this week?

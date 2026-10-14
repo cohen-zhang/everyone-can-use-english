@@ -80,7 +80,7 @@ tags:
 | **Eat before you cross the big road.** | 过那条大马路之前先吃完。`亲子` |
 | **Walk on the sidewalk. Don't cut across.** | 走人行道，别斜穿。`亲子` |
 | **Cross at the zebra crossing. Look both ways.** | 走人行横道，看左右。`亲子` |
-| **Message me when you reach the gate.** | 到校门跟我说一声。`亲子` |
+| **Phone watch on. Message me from it when you reach the gate.** | 戴好电话手表，到校门用它跟我说一声。`亲子` |
 | **Don't talk to strangers on the way.** | 路上别跟陌生人说话。`亲子` |
 
 ---
@@ -109,6 +109,8 @@ tags:
 | **Come straight home. Bag stays on your back.** | 直接回家，书包背好。`亲子` |
 | **Don't play outside with your schoolbag on.** | 别背着书包在外面玩。`亲子` |
 | **Be home by six.** | 六点前到家。`亲子` |
+| **We can see your location in the app.** | 我们在手机 App 里能看到你的位置。`亲子` `技术` |
+| **If something's wrong, call us from your watch.** | 有问题就用手表给我们打电话。`亲子` |
 | **If the smart lock doesn't click, we worry.** | 智能门锁没响，我们会担心。`亲子` |
 
 ---
@@ -172,11 +174,11 @@ tags:
 
 ### 早上 · 出门
 
-- **Daddy**: You walk today. Sidewalk only. Message me at the gate.
+- **Daddy**: You walk today. Sidewalk only. Phone watch on. Message me from it at the gate.
 - **Celine**: Red scarf or the badge?
 - **Daddy**: Either one. Jump rope too—PE is fifth period this week.
 - **Celine**: Be home by six?
-- **Daddy**: Yes. Come straight home. We'll call. We're still at work then.
+- **Daddy**: Yes. Come straight home. We'll see you in the app. If something's wrong, call us. We're still at work then.
 
 ### 放学 · 打电话
 
