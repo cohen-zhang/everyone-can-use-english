@@ -33,6 +33,29 @@ tags:
 
 ---
 
+## 今日单词
+
+*这一天场景里值得收的词。第七节 **moral education**（道法）见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。下面的 **conduct check** 是德育检查，不是那一节课。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **muggy** | /ˈmʌɡi/ | 闷热潮湿 | 低频 |
+| **fold-up umbrella** | /ˌfoʊld ʌp ʌmˈbrelə/ | 折叠伞 | 亲子 |
+| **conduct check** | /ˈkɑndʌkt tʃek/ | 德育常规检查。**conduct** 作名词时重音在前，不要读成动词 /kənˈdʌkt/ | 术语、易读错 |
+| **clip** | /klɪp/ | 剪。**clip your nails** = 剪指甲 | 亲子 |
+| **school badge** | /skul bædʒ/ | 校徽。戴在左胸 | 亲子 |
+| **button up** | /ˈbʌtn ʌp/ | 扣好扣子 | 亲子 |
+| **tuck in** | /tʌk ɪn/ | 把衣服束进裤子 | 有难度 |
+| **hand in** | /hænd ɪn/ | 上交 | 亲子 |
+| **stir-fry** | /ˈstɜr fraɪ/ | 炒菜 | 亲子 |
+| **cauliflower** | /ˈkɑlɪˌflaʊər/ | 花菜。也常读 /ˈkɔlɪˌflaʊər/ | 拼写、易读错 |
+| **dried tofu** | /draɪd ˈtoʊfu/ | 香干 | 亲子 |
+| **sting** | /stɪŋ/ | 眼睛发酸、刺痛 | 多义 |
+| **wiped out** | /waɪpt aʊt/ | 累垮了 | 有难度 |
+| **sleep in** | /slip ɪn/ | 睡懒觉。周六早上可以说 | 有难度 |
+
+---
+
 ## 1. 起床 — Morning
 
 | English | 中文 |

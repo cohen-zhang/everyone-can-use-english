@@ -27,6 +27,31 @@ tags:
 
 ---
 
+## 今日单词
+
+*周末不上课。上学日的节次词仍在 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **sleep in** | /slip ɪn/ | 睡懒觉 | 有难度 |
+| **congee** | /ˈkɑndʒi/ | 粥 | 低频 |
+| **allowance** | /əˈlaʊəns/ | 零花钱。每月三十五元 | 亲子、易读错 |
+| **sun hat** | /sʌn hæt/ | 遮阳帽 | 亲子 |
+| **spoil** | /spɔɪl/ | 把正餐吃坏。**Don't spoil your dinner.** | 多义、有难度 |
+| **tights** | /taɪts/ | 裤袜、练功袜 | 亲子 |
+| **leotard** | /ˈliəˌtɑrd/ | 连体舞服 | 低频、易读错 |
+| **dance shoes** | /dæns ʃuz/ | 练功鞋 | 亲子 |
+| **tote** | /toʊt/ | 袋子。外穿的鞋放这里 | 低频 |
+| **studio** | /ˈstudioʊ/ | 舞蹈教室 | 亲子 |
+| **demo** | /ˈdemoʊ/ | 示范 | 亲子 |
+| **combination** | /ˌkɑmbəˈneɪʃn/ | 舞蹈组合 | 有难度 |
+| **stretch** | /strɛtʃ/ | 拉伸 | 亲子 |
+| **wrinkle** | /ˈrɪŋkəl/ | 起皱 | 亲子 |
+| **wander off** | /ˈwɑndər ɔf/ | 乱跑、走散 | 有难度 |
+| **within reason** | /wɪðˈɪn ˈrizn/ | 别太离谱、适可而止 | 有难度 |
+
+---
+
 ## 1. 睡懒觉 — Sleeping In
 
 | English | 中文 |

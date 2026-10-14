@@ -32,6 +32,22 @@ tags:
 
 ---
 
+## 今日单词
+
+*这一天场景里值得收的词。节次和科目（含 **psychology**、**reading class**、单双周）见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **Young Pioneer badge** | /jʌŋ ˌpaɪəˈnɪr bædʒ/ | 少先队队徽。今天红领巾或队徽都可以 | 术语、亲子 |
+| **sidewalk** | /ˈsaɪdˌwɔk/ | 人行道 | 亲子 |
+| **cut across** | /kʌt əˈkrɔs/ | 斜穿。**Don't cut across.** | 有难度 |
+| **evening class** | /ˈivnɪŋ klæs/ | 晚自习、晚上的课。妈妈今晚有课 | 亲子 |
+| **compound** | /ˈkɑmpaʊnd/ | 小区（围起来的住区）。不要理解成化学里的化合物 | 多义 |
+| **pajamas** | /pəˈdʒɑməz/ | 睡衣 | 拼写 |
+| **click** | /klɪk/ | 门锁咔哒锁上。**Did the smart lock click?** | 有难度 |
+
+---
+
 ## 1. 起床与穿衣 — Morning
 
 | English | 中文 |

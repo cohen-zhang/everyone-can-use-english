@@ -32,6 +32,26 @@ tags:
 
 ---
 
+## 今日单词
+
+*这一天场景里值得收的词。节次和科目见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **windy** | /ˈwɪndi/ | 有风 | 亲子 |
+| **gusty** | /ˈɡʌsti/ | 阵风大 | 低频 |
+| **cleaning duty** | /ˈklinɪŋ ˈduti/ | 值日 | 亲子 |
+| **grab bar** | /ɡræb bɑr/ | 扶手 | 亲子 |
+| **lean** | /lin/ | 歪、靠。**Don't lean with the wind.** | 多义 |
+| **birthday meal** | /ˈbɜrθdeɪ mil/ | 同学生日餐 | 亲子 |
+| **sweep** | /swip/ | 扫地 | 亲子 |
+| **wipe** | /waɪp/ | 擦。**Wipe the desks.** | 亲子 |
+| **responsible** | /rɪˈspɑnsəbl/ | 负责任的 | 易读错 |
+| **stairs** | /sterz/ | 楼梯。**take the stairs** = 走楼梯 | 亲子 |
+| **public bin** | /ˈpʌblɪk bɪn/ | 公共垃圾桶。美式也常说 **trash can** /træʃ kæn/ | 亲子 |
+
+---
+
 ## 1. 起床与穿衣 — Morning
 
 | English | 中文 |

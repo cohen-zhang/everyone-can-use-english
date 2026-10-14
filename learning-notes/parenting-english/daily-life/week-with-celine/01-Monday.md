@@ -30,6 +30,33 @@ tags:
 
 ---
 
+## 今日单词
+
+*这一天场景里值得收的词。节次和科目见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **mandatory** | /ˈmændəˌtɔri/ | 必须的。升旗必须戴红领巾 | 有难度、易读错 |
+| **red scarf** | /red skɑrf/ | 红领巾 | 亲子 |
+| **uniform** | /ˈjunəˌfɔrm/ | 校服。**full uniform** = 穿齐校服 | 亲子、易读错 |
+| **humid** | /ˈhjumɪd/ | 潮湿 | 易读错 |
+| **highlighter** | /ˈhaɪˌlaɪtər/ | 荧光笔 | 拼写 |
+| **jump rope** | /dʒʌmp roʊp/ | 跳绳 | 亲子 |
+| **e-bike** | /ˈi baɪk/ | 电动自行车 | 亲子 |
+| **helmet** | /ˈhelmɪt/ | 头盔 | 亲子 |
+| **chin strap** | /tʃɪn stræp/ | 头盔下巴扣 | 亲子 |
+| **footrest** | /ˈfʊtˌrest/ | 踏脚 | 亲子 |
+| **zebra crossing** | /ˈzibrə ˈkrɔsɪŋ/ | 人行横道。美式日常更常说 **crosswalk** /ˈkrɔsˌwɔk/ | 亲子 |
+| **nearsightedness** | /ˌnɪrˈsaɪtɪdnəs/ | 近视 | 低频、拼写 |
+| **hyperopia** | /ˌhaɪpərˈoʊpiə/ | 远视。**hyperopia reserve** = 远视储备 | 低频、易读错 |
+| **takeout** | /ˈteɪkaʊt/ | 外卖 | 亲子 |
+| **drying rack** | /ˈdraɪɪŋ ræk/ | 晾衣架 | 亲子 |
+| **smart lock** | /smɑrt lɑk/ | 智能门锁 | 亲子、技术 |
+| **stall** | /stɔl/ | 磨蹭。**You're stalling.** | 多义、有难度 |
+| **chapter book** | /ˈtʃæptər bʊk/ | 章节书、课外书 | 亲子 |
+
+---
+
 ## 1. 起床与穿衣 — Morning & Getting Dressed
 
 | English | 中文 |

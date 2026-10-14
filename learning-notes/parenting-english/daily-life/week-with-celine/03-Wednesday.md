@@ -32,6 +32,27 @@ tags:
 
 ---
 
+## 今日单词
+
+*这一天场景里值得收的词。节次和科目见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **drizzle** | /ˈdrɪzl/ | 毛毛雨。**It's drizzling.** | 亲子 |
+| **rain poncho** | /reɪn ˈpɑntʃoʊ/ | 雨披 | 亲子、易读错 |
+| **awning** | /ˈɔnɪŋ/ | 屋檐、雨篷 | 低频 |
+| **slick** | /slɪk/ | 路滑。**The road is slick.** | 有难度 |
+| **pouring** | /ˈpɔrɪŋ/ | 下大雨。**It's pouring.** | 亲子 |
+| **workbook** | /ˈwɜrkˌbʊk/ | 练习册 | 亲子 |
+| **surprise meal** | /sərˈpraɪz mil/ | 惊喜餐 | 亲子 |
+| **tray** | /treɪ/ | 餐盘 | 亲子 |
+| **puddle** | /ˈpʌdl/ | 水坑 | 亲子 |
+| **quiz** | /kwɪz/ | 小测 | 亲子 |
+| **lobby** | /ˈlɑbi/ | 大堂 | 亲子 |
+| **chilly** | /ˈtʃɪli/ | 有点凉 | 亲子 |
+
+---
+
 ## 1. 起床与雨具 — Morning in the Rain
 
 | English | 中文 |

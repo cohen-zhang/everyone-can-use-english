@@ -27,6 +27,31 @@ tags:
 
 ---
 
+## 今日单词
+
+*周末不上课。明天升旗要用的科目和节次见 [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable#英文课表|英文课表]]。零花钱 **allowance** 的读音在 [[learning-notes/parenting-english/daily-life/week-with-celine/06-Saturday#今日单词|周六 · 今日单词]]。*
+
+| Word | IPA (GA) | 简中义项 | 标签 |
+| --- | --- | --- | --- |
+| **long-sleeve** | /ˈlɔŋ sliv/ | 长袖 | 亲子 |
+| **compound** | /ˈkɑmpaʊnd/ | 小区（围起来的住区） | 多义 |
+| **scallion** | /ˈskæljən/ | 葱。美式也说 **green onion** | 亲子、易读错 |
+| **ginger** | /ˈdʒɪndʒər/ | 姜 | 亲子 |
+| **garlic** | /ˈɡɑrlɪk/ | 蒜 | 亲子 |
+| **a head of garlic** | /ə hed əv ˈɡɑrlɪk/ | 一头蒜 | 亲子 |
+| **clove** | /kloʊv/ | 一瓣（蒜）。不要理解成丁香味的 clove | 低频、多义 |
+| **cash** | /kæʃ/ | 现金 | 亲子 |
+| **change** | /tʃeɪndʒ/ | 找回的零钱 | 多义 |
+| **phone watch** | /foʊn wɑtʃ/ | 电话手表 | 亲子 |
+| **reimbursement** | /ˌriɪmˈbɜrsmənt/ | 报销 | 低频、拼写 |
+| **transfer** | /trænsˈfɜr/ | 转账（动词）。名词常把重音放前面：/ˈtrænsfər/ | 易读错 |
+| **greens** | /ɡrinz/ | 青菜 | 亲子 |
+| **charger** | /ˈtʃɑrdʒər/ | 充电器 | 亲子 |
+| **plug in** | /plʌɡ ɪn/ | 插上充电 | 亲子 |
+| **stall** | /stɔl/ | 磨蹭。再磨蹭，课外书就没时间了 | 多义、有难度 |
+
+---
+
 ## 1. 睡懒觉 — Sleeping In
 
 | English | 中文 |
