@@ -17,6 +17,16 @@ aliases:
 
 **Apple Music 播放列表：** [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)（122 首 · 约 7 小时 36 分钟）
 
+## 中年歌单 · 英文三首
+
+这三首不在下方 122 首播放列表里。按中年课题排列，笔记在 [[learning-notes/english-song/life-attitude/README|生活态度]]。
+
+| 顺序 | 歌名 | 歌手 | 中年课题 | 笔记 |
+| --- | --- | --- | --- | --- |
+| 8 | Don't Stop Believin' | Journey | 希望 | [[learning-notes/english-song/life-attitude/dont-stop-believin-journey|Don't Stop Believin']] |
+| 9 | Vienna | Billy Joel | 焦虑与自我和解 | [[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna]] |
+| 10 | My Way | Frank Sinatra | 人生总结 | [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way]] |
+
 ## 播放列表总表
 
 | # | 歌名 | 歌手 | 精编 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |

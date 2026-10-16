@@ -24,7 +24,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/english-song/love-romance/fly-me-to-the-moon-小野丽莎|Fly Me to the Moon — 小野丽莎]]（同一标准曲，bossa / 轻爵士版） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
+**相关：** [[learning-notes/english-song/love-romance/fly-me-to-the-moon-小野丽莎|Fly Me to the Moon — 小野丽莎]]（同一标准曲，bossa / 轻爵士版） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way — Frank Sinatra]]（同一位歌手，回看一生的谢幕曲）
 
 ---
 

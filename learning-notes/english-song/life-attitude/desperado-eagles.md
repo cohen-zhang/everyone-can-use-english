@@ -24,7 +24,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（孤独、封闭与 *let somebody love you*） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/english-song/breakup-loss/dreamer-europe|Dreamer — Europe]]（独自行走、不愿停下） · [[learning-notes/english-song/breakup-loss/hey-jude-the-beatles|Hey Jude — The Beatles]]（劝人走出封闭、让爱进入）
+**相关：** [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（孤独、封闭与 *let somebody love you*） · [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/english-song/breakup-loss/dreamer-europe|Dreamer — Europe]]（独自行走、不愿停下） · [[learning-notes/english-song/breakup-loss/hey-jude-the-beatles|Hey Jude — The Beatles]]（劝人走出封闭、让爱进入） · [[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna — Billy Joel]]（同是对一个急着赶路的人说话：*slow down*）
 
 ---
 

@@ -17,6 +17,8 @@ But you had a big idea:
 
 Write Once, Run Anywhere.
 
+---
+
 You gave developers something powerful —
 a language that could run across different platforms,
 with the JVM standing between our code and the machine.
@@ -24,6 +26,8 @@ with the JVM standing between our code and the machine.
 You were simple enough to learn,
 powerful enough to build huge systems,
 and stable enough to run them for years.
+
+---
 
 You grew with the world.
 
@@ -41,6 +45,8 @@ You kept evolving.
 And that’s probably one of the reasons
 you’ve stayed with us for so long.
 
+---
+
 Java didn’t just give us a language.
 
 It gave us an ecosystem.
@@ -51,6 +57,8 @@ Tools.
 Communities.
 And millions of developers
 building things together.
+
+---
 
 And for me,
 Java is more than a programming language.
@@ -66,6 +74,8 @@ debugged production problems,
 and stayed up late
 trying to figure out
 why something was suddenly broken.
+
+---
 
 I’ve seen Java change.
 
@@ -88,6 +98,8 @@ Java was there.
 And eventually,
 I realized something.
 
+---
+
 Java didn’t just help me write software.
 
 It helped me build a career.
@@ -100,6 +112,8 @@ And more importantly,
 it helped me provide
 a more secure life
 for myself and my family.
+
+---
 
 So when I look back
 at all those years of code,
