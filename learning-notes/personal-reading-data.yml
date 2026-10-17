@@ -160,6 +160,8 @@ items:
     history:
       - date: 2026-10-14
         result: good
+      - date: 2026-10-17
+        result: good
 
   - id: week-with-celine
     title: 一周综合 · 不多的上学周

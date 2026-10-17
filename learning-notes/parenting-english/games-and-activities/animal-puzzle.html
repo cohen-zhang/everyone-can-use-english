@@ -2281,20 +2281,25 @@
       $("categoryGrid").querySelectorAll("[data-cat]").forEach(btn=>btn.onclick=()=>{ category=btn.dataset.cat; renderHome(); });
       $("startBtn").textContent=dueCount() ? `先复习 ${Math.min(4,dueCount())} 个到期词` : "开始动物探险";
     }
-    function pickAnimals(forcedIds=[]) {
+    function pickAnimals(forcedIds=[], excludeIds=[]) {
       const pool=data.animals.filter(a=>category==="all" || a.category===category);
       const forced=forcedIds.map(id=>pool.find(a=>a.id===id) || data.animals.find(a=>a.id===id)).filter(Boolean);
+      const exclude=new Set([...excludeIds,...forced.map(a=>a.id)]);
+      const need=Math.max(0,4-forced.length);
+      let candidates=pool.filter(a=>!exclude.has(a.id));
+      if (candidates.length<need) candidates=pool.filter(a=>!forced.some(f=>f.id===a.id));
       const now=Date.now();
-      const ranked=shuffle(pool.filter(a=>!forced.some(f=>f.id===a.id))).sort((a,b)=>{
-        const pa=statsFor(a),pb=statsFor(b);
-        const sa=pa.seen===0?2:pa.dueAt<=now?0:pa.streak<3?1:3;
-        const sb=pb.seen===0?2:pb.dueAt<=now?0:pb.streak<3?1:3;
-        return sa-sb || (pa.streak-pb.streak);
+      const due=[], fresh=[], waiting=[];
+      shuffle(candidates).forEach(a=>{
+        const stats=statsFor(a);
+        if (stats.seen && stats.dueAt<=now) due.push(a);
+        else if (!stats.seen) fresh.push(a);
+        else waiting.push(a);
       });
-      return [...forced,...ranked].slice(0,4);
+      return [...forced,...due,...fresh,...waiting].slice(0,4);
     }
-    function startGame(forcedIds=[]) {
-      session=pickAnimals(forcedIds);
+    function startGame(forcedIds=[], excludeIds=[]) {
+      session=pickAnimals(forcedIds, excludeIds);
       if (!session.length) { toast("这个分类暂时没有可用图片"); return; }
       learnIndex=0; matched=0; firstCard=null; lockBoard=false; results={};
       session.forEach(a=>results[a.id]={wrong:0,repeated:false});
@@ -2422,7 +2427,7 @@
     $("startBtn").onclick=()=>startGame();
     $("homeBtn").onclick=()=>{ renderHome(); show("home"); };
     $("summaryHomeBtn").onclick=()=>{ renderHome(); show("home"); };
-    $("nextBtn").onclick=()=>startGame();
+    $("nextBtn").onclick=()=>startGame([], session.map(a=>a.id));
     $("roleBtn").onclick=()=>{ childLeads=!childLeads; renderRecall(); };
     $("closeDetails").onclick=closeDetails;
     $("detailsOverlay").onclick=e=>{ if (e.target===$("detailsOverlay")) closeDetails(); };

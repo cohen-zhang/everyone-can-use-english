@@ -821,6 +821,7 @@
     "课本": "#3daa6a",
     "儿歌": "#ff7b6b",
     "猜词": "#5b8def",
+    "词汇": "#3d8b9a",
     "日常": "#e8a317",
   };
 
@@ -939,6 +940,7 @@
         { id: "song7", title: "Down by the Station", author: "Celine Kids · 洞洞书", category: "儿歌", status: "done" },
         // —— 猜词 / 亲子游戏 ——
         { id: "game1", title: "动物猜猜猜", author: "Parenting · 猜词游戏", category: "猜词", status: "done" },
+        { id: "animals-vocab", title: "动物单词", author: "动物记忆探险", category: "词汇", status: "reading" },
         { id: "game2", title: "表情猜猜猜", author: "Parenting · 猜词游戏", category: "猜词", status: "want" },
         { id: "game3", title: "正反义词游戏 Opposites", author: "Parenting · 亲子游戏", category: "猜词", status: "done" },
         { id: "game4", title: "分类归类游戏", author: "Parenting · 亲子游戏", category: "猜词", status: "want" },
@@ -971,6 +973,14 @@
         { id: "g4u3", title: "U3 How do we use numbers?", author: "沪教牛津 · 四上", category: "课本", status: "done" },
       ],
     },
+    {
+      date: "2026-10-17",
+      note: "动物单词 · 动物记忆探险",
+      minutes: 20,
+      books: [
+        { id: "animals-vocab", title: "动物单词", author: "动物记忆探险", category: "词汇", status: "reading" },
+      ],
+    },
   ];
 
   function applyReadEvents() {
@@ -978,7 +988,8 @@
       (event.books || []).forEach(item => {
         const found = state.books.find(b => b.id === item.id);
         if (!found) state.books.push({ ...item });
-        else if (found.status !== "done") found.status = "done";
+        else if (item.status === "done") found.status = "done";
+        else if (found.status === "want" && item.status === "reading") found.status = "reading";
       });
 
       const dayLogs = state.checkins.filter(c => c.date === event.date);
@@ -998,6 +1009,11 @@
         return;
       }
       dayLogs.forEach(c => {
+        // Rolling demo rows use ids like "c0". A dated reading replaces that placeholder.
+        if (/^c\d+$/.test(c.id)) {
+          c.note = event.note;
+          return;
+        }
         if (!c.note) c.note = event.note;
         else if (!c.note.includes(event.note)) c.note = `${c.note}；${event.note}`;
       });
