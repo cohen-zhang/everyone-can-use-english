@@ -849,6 +849,32 @@ def _nav_title_for_folder(folder: str, dir_path: list[str] | None) -> str:
     return f"{_SEASON_FOLDER_LABEL[season]} · {base}"
 
 
+def _usable_nav_title(title) -> bool:
+    return isinstance(title, str) and bool(title.strip()) and title.strip().lower() != "none"
+
+
+def _title_from_page_source(node) -> str | None:
+    """Title for nav when ``mkdocs serve --dirty`` skipped reading the page.
+
+    Unread pages have no Markdown yet, so MkDocs reports the title as None.
+    """
+    file = getattr(node, "file", None)
+    if file is None or _docs_dir is None:
+        return None
+    src = (
+        getattr(file, "src_uri", None) or getattr(file, "src_path", None) or ""
+    ).replace("\\", "/")
+    if not src:
+        return None
+    speech = _speech_display_title(src)
+    if speech:
+        return speech
+    path = _docs_dir / src
+    if not path.is_file():
+        return None
+    return _document_title(path)
+
+
 def _rename_nav_sections(items) -> None:
     for item in items or []:
         children = getattr(item, "children", None)
@@ -862,8 +888,12 @@ def _rename_nav_sections(items) -> None:
             _rename_nav_sections(children)
         else:
             title = getattr(item, "title", None)
+            if not _usable_nav_title(title):
+                title = _title_from_page_source(item)
             if title in _NAV_SECTION_TITLES:
-                item.title = _NAV_SECTION_TITLES[title]
+                title = _NAV_SECTION_TITLES[title]
+            if _usable_nav_title(title) and getattr(item, "title", None) != title:
+                item.title = title
 
 
 # Folder slug (from URL) → left-nav display title (Chinese-first).
