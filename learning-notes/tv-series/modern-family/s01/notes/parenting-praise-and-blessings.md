@@ -75,9 +75,7 @@
 
 ### 节日祝福
 - **Happy Valentine's Day.** — 情人节快乐。
-- **Oh, happy Valentine's Day.** — 情人节快乐。
 - **Happy Valentine's Day, gorgeous.** — 情人节快乐，美女。
-- **Happy Valentine's Day, Daddy.** — 情人节快乐，爹地。
 - **Happy birthday!** — 生日快乐！
 - **Happy anniversary.** — 结婚纪念日快乐。
 - **Merry Christmas Eve!** — 平安夜快乐！

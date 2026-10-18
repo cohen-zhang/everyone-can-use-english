@@ -137,7 +137,9 @@ learning-notes/
 | --- | --- |
 | `vocabulary/parenting-actions-vocab.md` | 亲子动作类词汇 |
 | `vocabulary/parenting-animals-vocab.md` | 动物词汇表 |
-| `vocabulary/parenting-china-food-common-vocab.md` | 中国常见食物词汇 |
+| `vocabulary/parenting-china-food-common-vocab.md` | 中国常见食物词汇（主食/蔬菜/肉蛋海鲜/调料/口味） |
+| `vocabulary/parenting-china-fruits-common-vocab.md` | 中国常见水果词汇 |
+| `vocabulary/parenting-china-snacks-drinks-vocab.md` | 中国常见零食与饮品词汇 |
 | `vocabulary/parenting-emoji-bilingual-vocab.md` | Emoji 表情中英对照词汇 |
 | `vocabulary/parenting-symbols-common-vocab.md` | 常见符号词汇 |
 

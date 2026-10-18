@@ -9,6 +9,8 @@
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|parenting-actions-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|parenting-animals-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|parenting-china-food-common-vocab]]
+- [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab|parenting-china-fruits-common-vocab]]
+- [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab|parenting-china-snacks-drinks-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab|parenting-countries-continents-oceans-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab|parenting-emoji-bilingual-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|parenting-jobs-roles-vocab]]

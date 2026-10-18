@@ -10,7 +10,7 @@ tags:
 **索引：** [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合 · 索引]]
 **课表：** [[learning-notes/parenting-english/daily-life/week-with-celine/00-timetable|本学期课表]]（周末不上学）
 
-**相关：** 舞蹈班用语 → [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|兴趣爱好]]；户外与用眼 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园]]；iPad 操作 → [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases|手机日常]]；Peppa → [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|Peppa 精选台词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa 手记]]；外卖 → [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#9-买菜点餐外卖常用句|中国常见食物 · 外卖]]；作息 → [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]。
+**相关：** 舞蹈班用语 → [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|兴趣爱好]]；户外与用眼 → [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园]]；iPad 操作 → [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases|手机日常]]；Peppa → [[learning-notes/parenting-english/learning-management/summer-60d-print/peppa-s01-e01-e45-print-lines|Peppa 精选台词]] · [[learning-notes/parenting-english/games-and-activities/parenting-peppa-pig-notes|Peppa 手记]]；外卖 → [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#7-买菜点餐外卖常用句|中国常见食物 · 外卖]]；作息 → [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases|家庭守则与作息]]。
 
 ---
 
@@ -165,7 +165,7 @@ tags:
 | **The delivery is here. Wash your hands first.** | 外卖到了，先洗手。`亲子` |
 | **Let's eat together at the table.** | 一起在桌上吃。`亲子` |
 
-*外卖句见 [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#9-买菜点餐外卖常用句|中国常见食物 · 外卖段]]。*
+*外卖句见 [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab#7-买菜点餐外卖常用句|中国常见食物 · 外卖段]]。*
 
 ---
 

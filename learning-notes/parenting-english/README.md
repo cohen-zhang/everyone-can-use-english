@@ -31,7 +31,8 @@ aliases:
 - [[learning-notes/parenting-english/daily-life/week-with-celine/README|一周综合]] — 不多现在的上学周（周一到周日）
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine.md|不多的一天（上）]] — 一日流记录
 - [[learning-notes/parenting-english/daily-life/parenting-one-day-of-celine-part-2.md|不多的一天（下）]] — 一日流记录续
-- [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心；含班主任李老师感谢信（§8）
+- [[learning-notes/parenting-english/daily-life/celine-10th-birthday.md|Celine 十岁生日致辞]] — 十岁生日当面背诵稿：12 段记忆钩 + 文末连读稿
+- [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases.md|夸奖、赞美小朋友]] — 行为、学习、礼貌、衣着、内心；含班主任杨老师（Ms. Yang）感谢信（§8）
 - [[learning-notes/parenting-english/daily-life/parenting-phone-daily-phrases.md|手机日常]] — 手机、专注相关
 - [[learning-notes/parenting-english/daily-life/parenting-family-rules-routine-daily-phrases.md|家庭守则与作息]] — 作息、家规、诚实与说到做到
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases.md|穿衣日常 — Shenzhen]] — 穿衣、天气
@@ -48,7 +49,9 @@ aliases:
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab.md|动作 — 日常物品场景]] — 拿起、穿上、提手旁矿泉水瓶动作等
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines.md|动作动词 — 分类总表]] — 手脚、表情、动物、运动、骑行、攀爬、梳洗、家庭与作业指令等分主题动词表
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab.md|动物单词]] — 动物 + 猜谜提示
-- [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 蔬果肉主食零食
+- [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab.md|中国常见食物]] — 主食/蔬菜/肉蛋海鲜/调料/口味
+- [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab.md|中国常见水果]] — 超市买水果、洗切水果、水果口味
+- [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab.md|中国常见零食与饮品]] — 零食、面包蛋糕、咖啡奶茶中国茶、控制零食
 - [[learning-notes/parenting-english/vocabulary/color.md|颜色]] — 基础／进阶色、深浅、亲子认色句与习语
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法

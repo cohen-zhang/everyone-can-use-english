@@ -46,7 +46,7 @@ aliases:
 | Rooms & home | 房间与居家 | [§3 房间](#3-房间与居家区域--rooms--home) | [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en\|儿童房]] 等分房间笔记 |
 | Emotions | 情绪 | [§4 情绪](#4-情绪--emotions) | [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition\|情绪 · 亲子]] ↔ [[learning-notes/personal-english-book/life/emotions-adult-edition\|情绪 · 成人版]] |
 | School subjects | 学科 | [§5 学科](#5-学科与在校--school-subjects)（小学→自然科学与专业门类） | [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab\|深圳小学课程]] |
-| Food | 食物 | [§6 食物](#6-食物--food) | [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab\|中国常见食物]] |
+| Food | 食物 | [§6 食物](#6-食物--food) | [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab\|中国常见食物]] · [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab\|水果]] · [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab\|零食饮品]] |
 | Materials & shapes | 材质与形状 | [§7 材质形状](#7-材质与形状--materials--shapes) | [[learning-notes/parenting-english/vocabulary/parenting-materials-shapes-dimensions-vocab\|材质 · 形状 · 维度]] |
 | Jobs & roles | 职业与角色 | [§8 职业](#8-职业与角色--jobs--roles)（含总统、CEO/CTO、金融、自由职业等） | [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab\|职业与角色]] |
 | Actions | 动作 | [§9 动作](#9-动作--actions) | [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab\|动作词汇]] |

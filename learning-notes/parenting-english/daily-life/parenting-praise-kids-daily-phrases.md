@@ -17,7 +17,7 @@ aliases:
 
 周四值日说 **responsible**，见 [[learning-notes/parenting-english/daily-life/week-with-celine/04-Thursday|一周综合 · 周四]]。
 
-**相关（剧摘对照）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 台词原句、祝福与回应；本篇是 **跨场景日常句库**，可与该剧摘 **相向互链**、对照练习。校园科目与课堂用语见 [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|小学科目词汇]]。
+**相关（剧摘对照）：** [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings|夸奖、祝福 — 《摩登家庭》S01 摘录]] — 台词原句、祝福与回应；本篇是 **跨场景日常句库**，可与该剧摘 **相向互链**、对照练习。校园科目与课堂用语见 [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|小学科目词汇]]。十岁生日当面致辞见 [[learning-notes/parenting-english/daily-life/celine-10th-birthday|Celine 十岁生日致辞]]。
 
 ---
 
@@ -125,15 +125,15 @@ aliases:
 
 ---
 
-## 8. 班主任感谢信 · Teacher Li `亲子`
+## 8. 班主任感谢信 · Ms. Yang `亲子`
 
-开学报到后，班主任 **李老师** 写给 **不多 / Celine** 的感谢与表扬（原文略有标点整理）。下面给出**可朗读的美式改写**，并拆出**可复用的夸奖句**，方便家长对照本页 §2 / §5 / §6 一起练。
+开学报到后，班主任 **杨老师**（女士；英文 **Ms. Yang**）写给 **不多 / Celine** 的感谢与表扬（原文略有标点整理）。下面给出**可朗读的美式改写**，并拆出**可复用的夸奖句**，方便家长对照本页 §2 / §5 / §6 一起练。
 
 ### 中文原文
 
 开学以来，你总能专注听讲，积极思考，大方分享自己的想法。作为老师的小助手，你热心负责，做事井井有条。值得称赞，老师替你感到骄傲！  
 加油，继续努力。  
-—— 杨老师 · **2026 年 9 月 29 日**
+—— 杨老师（女士） · **2026 年 9 月 29 日**
 
 ### English rewrite（美式口语 · 短句）
 
@@ -146,7 +146,7 @@ That deserves real praise.
 I'm so proud of you!  
 Keep it up—and keep working hard.  
 
-— Teacher Yang · **September 29, 2026**
+— Ms. Yang · **September 29, 2026**
 
 ### 可复用句（英 + 简中）
 

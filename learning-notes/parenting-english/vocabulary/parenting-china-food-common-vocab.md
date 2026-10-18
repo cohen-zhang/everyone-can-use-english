@@ -4,9 +4,11 @@ tags:
   - parenting/vocabulary
 ---
 
-# 中国常见食物（蔬菜/肉类/水果/零食）— 亲子英文
+# 中国常见食物（主食/蔬菜/肉蛋海鲜/调料/口味）— 亲子英文
 
 按中国家庭高频食材整理，兼顾买菜、做饭、点外卖、孩子表达口味。`亲子`
+
+**拆分说明：** 水果与零食饮品已各自独立成篇：水果 → [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab|中国常见水果]]；零食与饮品（含咖啡／奶茶／中国茶）→ [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab|中国常见零食与饮品]]。
 
 **索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
@@ -44,8 +46,8 @@ tags:
 - **steamed corn (corn on the cob)** /stiːmd kɔːrn; ˌkɔːrn ɑːn ðə ˈkɑːb/ 蒸玉米、玉米棒（同词见 §2 蔬菜）  
 - **boiled egg (hard-boiled / soft-boiled)** /bɔɪld eɡ; ˌhɑːrd ˈbɔɪld, ˌsɔːft ˈbɔɪld/ 水煮蛋（全熟 / 溏心；鸡蛋本词见 §3）  
 - **tea egg (tea-boiled egg)** /ˈtiː eɡ; ˈtiː bɔɪld eɡ/ 茶叶蛋（茶叶、酱油、香料卤煮，蛋壳敲出裂纹）  
-- **soy milk (sweet / no sugar)** /sɔɪ mɪlk/ 豆浆 — 加糖 / 无糖；热饮常与油条、包子同点（同档 **饮品**见 §5）  
-- **yogurt / drinkable yogurt** /ˈjoʊɡərt; ˈdrɪŋkəbl ˈjoʊɡərt/ 酸奶 — 瓶装可吸的常标 **drinkable yogurt / drinking yogurt**（同档零食架见 §5）  
+- **soy milk (sweet / no sugar)** /sɔɪ mɪlk/ 豆浆 — 加糖 / 无糖；热饮常与油条、包子同点（**饮品**词 → [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab#饮品|零食与饮品 · 饮品]]）  
+- **yogurt / drinkable yogurt** /ˈjoʊɡərt; ˈdrɪŋkəbl ˈjoʊɡərt/ 酸奶 — 瓶装可吸的常标 **drinkable yogurt / drinking yogurt**（零食词 → [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab#零食|零食与饮品 · 零食]]）  
 
 #### 早点常用句
 
@@ -151,153 +153,7 @@ tags:
 
 ---
 
-## 4. 中国常见水果 — Common Fruits
-
-- **apple** /ˈæpəl/ 苹果  
-- **banana** /bəˈnænə/ 香蕉  
-- **pear** /per/ 梨  
-- **orange** /ˈɔːrɪndʒ/ 橙子  
-- **mandarin** /ˈmændərən/ 柑橘  
-- **grape** /ɡreɪp/ 葡萄  
-- **watermelon** /ˈwɔːtərˌmelən/ 西瓜  
-- **cantaloupe** /ˈkæntlˌoʊp/ 哈密瓜  
-- **peach** /piːtʃ/ 桃子  
-- **plum** /plʌm/ 李子  
-- **lychee** /ˈliːˌtʃiː/ 荔枝  
-- **longan** /ˈlɔːŋɡæn, ˈlɑːŋ-/ 龙眼  
-- **mango** /ˈmæŋɡoʊ/ 芒果  
-- **dragon fruit** /ˈdræɡən fruːt/ 火龙果  
-- **kiwi (fruit)** /ˈkiːwiː fruːt/ 猕猴桃  
-- **strawberry** /ˈstrɔːˌberi/ 草莓  
-- **cherry** /ˈtʃeri/ 樱桃  
-- **cherry tomato** /ˈtʃeri təˈmeɪtoʊ/ 圣女果、小番茄  
-- **tomato** /təˈmeɪtoʊ/ 西红柿、番茄（水果/蔬菜场景都常见）  
-- **persimmon** /pərˈsɪmən/ 柿子  
-- **pomelo** /ˈpɑːməloʊ, ˈpɛm-/ 柚子  
-- **pineapple** /ˈpaɪnæpəl/ 菠萝  
-- **durian** /ˈdʊriən, ˈdjʊ-/ 榴莲  
-
-常用句：
-
-- **Wash the grapes first.**  
-  先把葡萄洗一洗。`亲子`
-- **Do you want your apple sliced?**  
-  苹果要切片吗？`亲子`
-- **Too much lychee can make you feel hot. Let’s have just a few.**  
-  荔枝吃多了容易上火，我们少吃一点。`亲子`
-- **Durian smells strong. Try a tiny bite if you’re curious.**  
-  榴莲气味很重，好奇的话只试一小口。`亲子`
-
----
-
-## 5. 零食与饮品（中国家庭常见）— Snacks & Drinks
-
-### 零食
-
-- **biscuits / cookies** /ˈbɪsɪts; ˈkʊkiːz/ 饼干  
-- **potato chips / crisps (UK)** /pəˈteɪtoʊ tʃɪps; krɪsps/ 薯片  
-- **seaweed snack** /ˈsiːwiːd snæk/ 海苔  
-- **sunflower seeds (original flavor)** /ˈsʌnˌflaʊər siːdz, əˈrɪdʒənəl ˈfleɪvər/ 原味瓜子  
-- **caramel sunflower seeds** /ˈkærəməl ˈsʌnˌflaʊər siːdz/ 焦糖瓜子  
-- **walnut kernels** /ˈwɔːlnət ˈkɜːrnəlz/ 核桃仁  
-- **mixed nuts** /mɪkst nʌts/ 混合坚果  
-- **peanuts** /ˈpiːˌnʌts/ 花生  
-- **dried fruit** /draɪd fruːt/ 果干  
-- **yogurt** /ˈjoʊɡərt/ 酸奶  
-- **jelly cup** /ˈdʒeli kʌp/ 果冻  
-- **rice crackers** /raɪs ˈkrækərz/ 米饼  
-- **mooncake** /ˈmuːnkeɪk/ 月饼  
-- **egg tart** /ˈeɡ tɑːrt/ 蛋挞  
-- **sweet bun** /ˈswiːt bʌn/ 甜面包  
-
-### 面包与蛋糕
-
-- **toast** /ˈtoʊst/ 吐司  
-- **whole wheat bread** /hoʊl wiːt bred/ 全麦面包  
-- **milk bread** /ˈmɪlk bred/ 牛奶面包  
-- **red bean bun** /ˈred bin bʌn/ 红豆面包  
-- **pineapple bun** /ˈpaɪnæpəl bʌn/ 菠萝包  
-- **croissant** /kwəˈsɑːnt, krɔɪˈsɑːnt/（借词读法多听当地）可颂、牛角包  
-- **bagel** /ˈbeɪɡəl/ 贝果  
-- **sponge cake** /ˈspʌndʒ keɪk/ 海绵蛋糕  
-- **chiffon cake** /ˈʃɪfən keɪk/（*chiffon* /ˈʃɪfɑːn, ˈʃ-/）戚风蛋糕  
-- **cheesecake** /ˈtʃiːzkeɪk/ 芝士蛋糕  
-- **chocolate cake** /ˈtʃɔːklət keɪk/ 巧克力蛋糕  
-- **fruit cake** /ˈfruːt keɪk/ 水果蛋糕  
-- **mousse cake** /muːs keɪk/ 慕斯蛋糕  
-- **Swiss roll / cake roll** /ˈswɪs roʊl; keɪk roʊl/ 瑞士卷、蛋糕卷  
-- **cupcake** /ˈkʌpkeɪk/ 纸杯蛋糕
-
-### 饮品
-
-- **water** /ˈwɔːtər, ˈwɑːtɚ/ 水  
-- **soy milk** /sɔɪ mɪlk/ 豆浆  
-- **milk** /mɪlk/ 牛奶  
-- **fresh juice** /ˈfreʃ dʒuːs/ 鲜榨果汁  
-- **sugar-free drink** /ˈʃʊɡər friː drɪŋk/ 无糖饮料  
-
-#### 咖啡（Coffee）
-
-- **black coffee** /blæk ˈkɑːfi/ 黑咖啡  
-- **Americano** /əˌmerɪˈkɑːnoʊ/ 美式咖啡  
-- **espresso** /ˈesˈpresoʊ/（美式亦常见 /ˈes-, eˈ-/ 起首；多听）意式浓缩  
-- **latte** /ˈlɑːteɪ, ˈlæ-/ 拿铁  
-- **cappuccino** /ˌkæpuˈtʃiːnoʊ/ 卡布奇诺  
-- **flat white** /flæt ˈwaɪt/ 澳白  
-- **mocha** /ˈmoʊkə, ˈmɔː-/ 摩卡  
-- **caramel macchiato** /ˈkærəməl mɑːˈkjɑːtoʊ/ 焦糖玛奇朵  
-- **cold brew** /ˈkoʊld bruː/ 冷萃  
-- **iced coffee** /ˈaɪst ˈkɑːfi/ 冰咖啡  
-- **decaf coffee** /ˈdiːkæf ˈkɑːfi/ …低咖啡因、脱因咖啡  
-
-#### 奶茶（Milk Tea）
-
-- **milk tea** /ˈmɪlk tiː/ 奶茶（泛称）  
-- **bubble tea / boba tea** /ˈbʌbəl tiː; ˈboʊbə tiː/ 珍珠奶茶  
-- **brown sugar boba milk tea** /braʊn ˈʃʊɡər ˈboʊbə mɪlk tiː/ 黑糖珍珠奶茶  
-- **taro milk tea** /ˈtɑːroʊ mɪlk tiː/ 芋泥奶茶  
-- **jasmine milk tea** /ˈdʒæzmɪn mɪlk tiː/ 茉莉奶茶  
-- **fruit tea** /ˈfruːt tiː/ 水果茶  
-- **cheese foam tea** /tʃiːz foʊm tiː/ 奶盖茶  
-
-#### 中国茶（Chinese Tea）
-
-- **green tea** /ˈɡriːn tiː/ 绿茶  
-- **black tea** /ˈblæk tiː/ 红茶  
-- **oolong tea** /ˈuːlɔːŋ tiː; ˈuːlʊŋ-/ 乌龙茶  
-- **white tea** /ˈwaɪt tiː/ 白茶  
-- **dark tea** /ˈdɑːrk tiː/ 黑茶  
-- **pu-erh tea** /ˈpuː ˌɛər tiː/ 普洱茶  
-- **jasmine tea** /ˈdʒæzmɪn tiː/ 茉莉花茶  
-- **tieguanyin** /ˌtjeɪˈɡwɑːnˈjɪn/（借名）铁观音  
-- **longjing (Dragon Well) tea** /ˈlɔːŋˈdʒɪŋ tiː/（英文名 *Dragon Well* /ˈdræɡən wel/）龙井茶  
-- **chrysanthemum tea** /krɪˈsænθəməm tiː/ 菊花茶  
-- **barley tea** /ˈbɑːrli tiː/ 大麦茶  
-
-常用句：
-
-- **No snacks or fruit before the meal. Have them after you finish.**  
-  饭前不要吃零食，也不要吃水果。吃完再吃。`亲子` 见 [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases#2-餐前礼貌|餐桌礼貌 · 餐前]]。
-- **One small snack is enough.**  
-  吃一小份就够了。`亲子`
-- **Drink water first, then juice.**  
-  先喝水，再喝果汁。`亲子`
-- **One small handful of sunflower seeds is enough.**  
-  瓜子吃一小把就够了。`亲子`
-- **Do you want original or caramel sunflower seeds?**  
-  你想要原味还是焦糖瓜子？`亲子`
-- **Bread is for breakfast; cake is for sharing, not for every day.**  
-  面包当早餐，蛋糕是分享吃的，不是天天吃。`亲子`
-- **I’ll have an Americano with no sugar.**  
-  我要一杯不加糖的美式。`亲子`
-- **For Celine, make it less ice and less sugar, please.**  
-  给不多这杯少冰少糖。`亲子`
-- **Would you like jasmine tea or pu-erh tea after dinner?**  
-  饭后想喝茉莉花茶还是普洱？`亲子`
-
----
-
-## 6. 口味与做法表达 — Taste & Cooking Words
+## 4. 口味与做法表达 — Taste & Cooking Words
 
 ### 口味
 
@@ -328,7 +184,7 @@ tags:
 
 ---
 
-## 7. 常见调料（尽量全）— Common Seasonings & Condiments
+## 5. 常见调料（尽量全）— Common Seasonings & Condiments
 
 ### 基础调味
 
@@ -404,9 +260,9 @@ tags:
 
 ---
 
-## 8. 色、香、味高频表达 + 交流句子
+## 6. 色、香、味高频表达 + 交流句子
 
-### 8.1 色（Color / Appearance）
+### 6.1 色（Color / Appearance）
 
 - **golden** /ˈɡoʊldən/ 金黄的  
 - **crispy-looking** /ˈkrɪspi ˈlʊkɪŋ/ 看起来酥脆的  
@@ -425,7 +281,7 @@ tags:
 - **This one looks a bit overcooked.**  
   这道看起来有点老了。`亲子`
 
-### 8.2 香（Smell / Aroma）
+### 6.2 香（Smell / Aroma）
 
 - **smells good** /ˈsmɛlz ˈɡʊd/ 闻起来香  
 - **fragrant** /ˈfreɪɡrənt/ 很香（偏正式）  
@@ -447,7 +303,7 @@ tags:
 - **The soup is really aromatic.**  
   这汤香味很足。`亲子`
 
-### 8.3 味（Taste / Texture）
+### 6.3 味（Taste / Texture）
 
 #### 味道
 
@@ -484,7 +340,7 @@ tags:
 - **Can we make it less spicy next time?**  
   下次可以做得不那么辣吗？`亲子`
 
-### 8.4 吃饭时的高频交流句（可直接复读）
+### 6.4 吃饭时的高频交流句（可直接复读）
 
 - **How does it taste?**  
   味道怎么样？`亲子`
@@ -509,7 +365,7 @@ tags:
 
 ---
 
-## 9. 买菜、点餐、外卖常用句
+## 7. 买菜、点餐、外卖常用句
 
 - **Let’s buy fresh vegetables at the market.**  
   我们去菜市场买新鲜菜。`亲子`
@@ -526,32 +382,20 @@ tags:
 
 ---
 
-## 10. 短对话（阿泽、不多、Celine）
+## 8. 短对话（阿泽、不多、Celine）
 
-**场景 A：家里吃晚饭**
+**场景：家里吃晚饭**
 
 - **Dad (阿泽)**: We have rice, stir-fried broccoli, and steamed fish tonight.  
 - **Celine (不多)**: I want fish and rice!  
 - **Dad**: Great. Watch out for fish bones.  
   — 把“菜名 + 做法 + 安全提醒”放在一句里。`亲子`
 
-**场景 B：超市买水果**
-
-- **Dad**: Pick two apples and one pomelo, please.  
-- **Celine**: Can I also get strawberries?  
-- **Dad**: Yes, but we wash all fruit first at home.  
-  — 练数量词与购物动作。`亲子`
-
-**场景 C：控制零食**
-
-- **Celine**: Can I have chips now? Or an apple?  
-- **Dad**: Not now. No snacks or fruit before dinner. You can have them after you finish.  
-- **Celine**: Okay.  
-  — 饭前不吃零食，也不吃水果。吃完再吃。语气坚定但温和。`亲子`
+*更多短对话：超市买水果 → [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab|水果 · 短对话]]；控制零食 → [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab|零食与饮品 · 短对话]]。*
 
 ---
 
-## 11. 小词表（高频）
+## 9. 小词表（高频）
 
 | English | IPA（美式） | 简中 | 备注 |
 |--------|-------------|------|------|
@@ -562,20 +406,12 @@ tags:
 | **allergy** | /ˈælərʤi/ | 过敏 | 点餐关键 `亲子` |
 | **stir-fry / steam / braise** | /ˈstɜːr fraɪ; stiːm; breɪz/ | 炒 / 蒸 / 红烧 | 做法高频 |
 | **less oil, less salt** | /les ˈɔɪl, les ˈsɔːlt/ | 少油少盐 | 短语；外卖点餐高频 |
-| **portion** | /ˈpɔːrʃn/ | 份量 | 控制零食可用 |
 | **balanced diet** | /ˈbælənst ˈdaɪət/ | 均衡饮食 | |
-| **snack time** | /snæk taɪm/ | 零食时间 | 规则表达 |
 | **condiment / seasoning** | /ˈkɑːndɪmənt; ˈsiːzənɪŋ/ | 调料 / 调味 | 点餐、做饭高频 |
 | **light soy sauce / dark soy sauce** | /laɪt sɔɪ sɔːs; dɑːrk sɔɪ sɔːs/ | 生抽 / 老抽 | 中餐高频 |
 | **oyster sauce / vinegar / sesame oil** | /ˈɔɪstər sɔːs; ˈvɪnɪɡər; ˈsesəmi ɔɪl/ | 蚝油 / 醋 / 香油 | |
 | **savory / umami / aromatic** | /ˈseɪvəri; uˈmɑːmi; ˌærəˈmætɪk/ | 咸鲜 / 鲜味 / 香气足 | 描述菜品常用 |
 | **tender / juicy / crispy / chewy** | /ˈtendər; ˈdʒuːsi; ˈkrɪspi; ˈtʃuːi/ | 嫩 / 多汁 / 脆 / 有嚼劲 | 口感高频 |
-| **sunflower seeds (original / caramel)** | /ˈsʌn flaʊər siːdz, əˈrɪdʒənl; ˈkærəməl/ | 瓜子（原味 / 焦糖） | 零食高频 `亲子` |
-| **walnut kernels / mixed nuts** | /ˈwɔːlnət ˈkɜːrnəlz; mɪkst nʌts/ | 核桃仁 / 混合坚果 | |
-| **cherry tomato** | /ˈtʃeri təˈmeɪtoʊ/ | 圣女果、小番茄 | |
-| **Americano / latte / cappuccino / cold brew** | /əˌmerɪˈkɑːnoʊ; ˈlɑːteɪ; ˌkæpuˈtʃiːnoʊ; koʊld bruː/ | 美式 / 拿铁 / 卡布 / 冷萃 | 咖啡常见点单 |
-| **milk tea / boba / less sugar, less ice** | /ˈmɪlk tiː; ˈboʊbə; les ˈʃʊɡər, les aɪs/ | 奶茶 / 珍珠 / 少糖少冰 | 饮品高频句型 |
-| **green tea / oolong / pu-erh / longjing** | /ɡriːn tiː; ˈuːlɔːŋ; ˈpuː ˈɛər tiː; ˈlɔːŋˈdʒɪŋ tiː/ | 绿茶 / 乌龙 / 普洱 / 龙井 | 中国茶常见 |
 
 ---
 
