@@ -12,6 +12,7 @@ on:
       - "mkdocs_hooks.py"
       - "jieba_user_dict.txt"
       - "requirements-docs.txt"
+      - "scripts/check_nav_titles.py"
       - ".github/workflows/github-pages.yml"
   workflow_dispatch:
 
@@ -44,6 +45,9 @@ jobs:
         env:
           GITHUB_PAGES_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: mkdocs build
+
+      - name: Check sidebar titles
+        run: python3 scripts/check_nav_titles.py site
 
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -10,7 +10,7 @@ aliases:
 # 研发流程 · 工作英语
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关：** [[learning-notes/personal-english-book/work/work-english-instant-messaging|工作 IM 沟通]] · [[learning-notes/personal-english-book/work/高性能高可用|高性能 · 高可用]] · [[learning-notes/personal-english-book/work/专业术语|工作专业术语]] · [[learning-notes/personal-english-book/work/financial-system-issue-analysis|金融系统问题梳理]]
+**相关：** [[learning-notes/personal-english-book/work/work-english-instant-messaging|工作 IM 沟通]] · [[learning-notes/personal-english-book/work/高性能高可用|高性能 · 高可用]] · [[learning-notes/personal-english-book/work/专业术语|工作专业术语]] · [[learning-notes/personal-english-book/work/financial-system-issue-analysis|金融系统问题梳理]] · [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子]] — 模型接入、评测、降级口语句
 
 > **分工说明：** 版本周期、延期提醒、冒烟等通用 IM 句式见 [[learning-notes/personal-english-book/work/work-english-instant-messaging#研发流程周期|工作 IM · 研发流程周期]]；本页侧重**立项、演示日检查清单、开发同步、缺陷与客户沟通、发布评审**。
 

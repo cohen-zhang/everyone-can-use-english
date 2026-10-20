@@ -46,6 +46,10 @@ MkDocs 侧栏展开路径：`personal-english-book` → **study · 学习** → 
 - [[learning-notes/personal-english-book/study/idea-editor-intro-video-script|IDEA 介绍脚本]]
 - [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner|MacBook Pro · Java 工作伙伴]]
 
+## AI
+
+- [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子表达]] — 大模型研发口语：提示、检索、工具、评测、推理
+
 ## 轻松阅读
 
 - [[learning-notes/personal-english-book/study/java-joke-Jeff-Dean|Java Facts · Jeff Dean 风格]] — 100 条 JVM / GC / 并发梗

@@ -9,7 +9,9 @@ aliases:
 # 有趣的计算机专业单词 Interesting Computer Science Vocabulary
 
 **索引：** [[learning-notes/personal-english-book/README|个人英文材料书索引]]
-**相关：** [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] — 分类词表 + 研发场景示例句
+**相关：**
+- [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] — 分类词表 + 研发场景示例句
+- [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子表达]] — 大模型研发口语（提示、RAG、工具、评测）
 
 ## 基础工具篇 Basic Tools
 

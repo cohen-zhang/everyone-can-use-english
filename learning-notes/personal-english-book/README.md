@@ -50,6 +50,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]] — 预订入住、客房、泳池、酒店游乐场 / Kids Club、中英短文
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语
+- [[learning-notes/personal-english-book/life/olympic-sports-vocabulary|奥运项目英语]] — 球类、水上、田径、格斗等项目名（英 + 简中 + 美式音标）
 - [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] — 流鼻血、上火、口腔溃疡、咳嗽、鼻炎、打呼噜；饭前 / 饭中 / 饭后 / 随意；鱼油、D3+K2、蛋白粉、氨糖罐子
 - [[learning-notes/personal-english-book/life/iphone-common-apps-daily-intro.md|iPhone 常用 APP 介绍]] — 原生应用高频词与介绍句
 - [[learning-notes/personal-english-book/life/focus-notes.md|专注/注意力]] — 专注力主题
@@ -125,6 +126,7 @@ cssclasses:
 
 - [[learning-notes/grammar-lab/sentence-expansion-and-component-order|句子扩写与成分换序示范]] — 主谓宾状补、扩写阶梯、同一画面换序（已迁至 grammar-lab）
 - [[learning-notes/pronunciation/README|发音资料索引]] — 音标、音节划分、易读错词汇 149（已从 study/ 迁出）
+- [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子表达]] — 大模型研发口语：提示、检索、工具、评测、推理
 - [[learning-notes/personal-english-book/study/computer-science-vocab-interesting.md|有趣计科词汇]]
 - [[learning-notes/personal-english-book/study/java-collections-framework.md|Java Collections Framework]]
 - [[learning-notes/personal-english-book/study/sorting-algorithms.md|Sorting Algorithms · 排序算法]]
@@ -183,11 +185,13 @@ cssclasses:
 - **Java 知识点 ↔ Jeff Dean 风格梗：** [[learning-notes/personal-english-book/study/jvm-internals|JVM]] ↔ [[learning-notes/personal-english-book/study/java-concurrency|并发]] ↔ [[learning-notes/personal-english-book/study/spring-framework-notes|Spring]] ↔ [[learning-notes/personal-english-book/study/java-joke-Jeff-Dean|Java Facts · Jeff Dean 风格]]。
 - **口头禅 ↔ 美剧口语梗：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e01-daily-lines|摩登家庭 S01E01]]（俚语/口头禅/口头梗分表）。
 - **口头禅 ↔ 骂人专辑：** [[learning-notes/personal-english-book/life/spoken-catchphrases-reduplicatives-adverbs.md|口头禅 / 叠词 / 口语副词]] ↔ [[learning-notes/personal-english-book/life/spoken-insults-name-calling-phrases.md|骂人专辑 / 口头禅]]。
+- **奥运项目 ↔ 亲子体育课 ↔ 动作动词：** [[learning-notes/personal-english-book/life/olympic-sports-vocabulary|奥运项目英语]] ↔ [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动与体育课]] ↔ [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines#5-运动与体育--sports--pe|动作动词 · 运动与体育]]。
 - **身心健康 ↔ 脑科学：** [[learning-notes/personal-english-book/mind-body-brain-health/README|身心健康与脑科学索引]] — 营养 ↔ 健身场景 ↔ 快乐激素。
 - **小病与补剂 ↔ 身体词表 ↔ 营养：** [[learning-notes/personal-english-book/life/everyday-ailments-and-supplements|各种疾病]] ↔ [[learning-notes/personal-english-book/life/body part👀_20260514_2050|Body Part 词表]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]]。
 - **情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 - **投资者必备 ↔ 经纪访谈 ↔ 金融词表：** [[learning-notes/personal-english-book/investing/stock-trading-investor-essentials.md|股票交易 — 投资者必备]] ↔ [[learning-notes/personal-english-book/investing/stock-and-commodity-broker-notes.md|证券与商品经纪访谈]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]]。
 - **比特币白皮书 ↔ 交易所 App：** [[learning-notes/personal-english-book/investing/bitcoin-whitepaper.md|比特币白皮书 — BTC]] ↔ [[learning-notes/personal-english-book/investing/crypto-exchange-app-scenarios.md|交易所 APP 常用场景]]（原理词 ↔ 充提币 / 链上确认）。
+- **AI 口语 ↔ 计科 AI 词表 ↔ 研发流程：** [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子]] ↔ [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] ↔ [[learning-notes/personal-english-book/work/r-and-d-workflow|研发流程]]。
 - **词根词缀 ↔ 计科 AI ↔ 金融词表 ↔ 1000h：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 词根词缀|词根词缀]] ↔ [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037.md|金融和商务词表]] ↔ [1000h · 6.4 常见词根词缀](https://1000h.org/sounds-of-american-english/6.4-parts-of-words.html) · [6.1 有效记忆](https://1000h.org/sounds-of-american-english/6.1-effectiveness.html)。
 - **Psychology Health ↔ 情绪成人版 ↔ 快乐激素：** [[learning-notes/personal-english-book/vocab-story/2026.07.28 Psychology Health|Psychology & Health]] ↔ [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones.md|大脑快乐激素]]。
 - **一天重置 ↔ 专注 ↔ 工作日 ↔ 自我对话：** [[learning-notes/personal-english-book/life/how-to-fix-your-entire-life-in-1-day|一天重置人生]] ↔ [[learning-notes/personal-english-book/life/focus-notes|专注/注意力]] ↔ [[learning-notes/personal-english-book/one-minute-drill/a-weekday|工作日的一天]] ↔ [[learning-notes/personal-english-book/parenting-self-talk-phrases|家长自说自话]]（身份透镜 / 每日杠杆 / *I am the type of person who...*）。

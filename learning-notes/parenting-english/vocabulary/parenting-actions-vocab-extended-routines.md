@@ -238,7 +238,7 @@ tags:
 
 ## 5. 运动与体育 — Sports & PE `亲子`
 
-体育课项目、拉伸口令与亲子鼓励句见 [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]；公园户外健身器材动词见 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]]。
+体育课项目、拉伸口令与亲子鼓励句见 [[learning-notes/parenting-english/games-and-activities/parenting-exercise-practice|运动练习]]；奥运项目名见 [[learning-notes/personal-english-book/life/olympic-sports-vocabulary|奥运项目英语]]；公园户外健身器材动词见 [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]]。
 
 ### 5.1 跑跳与体能 — Run, jump & fitness
 

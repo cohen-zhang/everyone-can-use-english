@@ -26,10 +26,10 @@ aliases:
 
 1. 先记住下面 **12 个小标题** 的顺序，不要一上来背整段。
 2. 每个小标题下，先看一行 **记忆钩**，再朗读英文。
-3. 老师评语整段用引号语气读，读完接「我也骄傲」。
+3. 表扬信整段用引号语气读，读完接「我也骄傲」。
 4. 最后用文末「连读稿」从头到尾过一遍。
 
-**顺序口诀：** 十岁 → 老师的话 → 比分数开心 → 四年级 → 礼貌 → 好奇 → 上台 → 小习惯 → 朋友 → 家里帮手 → 一起玩 → 希望与生日快乐
+**顺序口诀：** 十岁 → 表扬信 → 比分数开心 → 四年级 → 礼貌 → 好奇 → 上台 → 小习惯 → 朋友 → 家里帮手 → 一起玩 → 希望与生日快乐
 
 ---
 
@@ -39,11 +39,11 @@ aliases:
 
 Celine, today is your tenth birthday.
 
-## 2. 老师的话
+## 2. 老师的表扬信
 
-*记忆钩：先读女老师 Ms. Yang 的评语；她骄傲，我也骄傲。*
+*记忆钩：先读老师写的表扬信；她骄傲，我也骄傲。*
 
-First, I want to read a note your teacher, Ms. Yang, wrote about you.
+First, I want to read a **praise letter** your teacher wrote about you.
 
 > Since school started, you’ve stayed focused in class. You listen carefully and think things through. You also speak up and share your ideas. As my little helper, you jump in with a warm heart. You’re responsible, and you keep things organized. That deserves real praise. I’m so proud of you! Keep it up—and keep working hard.
 
@@ -51,17 +51,17 @@ Your teacher wrote that she’s proud of you. I am too.
 
 ## 3. 比分数更开心
 
-*记忆钩：这张评语，比一个更好的分数更让我高兴。*
+*记忆钩：这封表扬信，比一个更好的分数更让我高兴。*
 
-Getting this note from your teacher makes me happier than seeing a better grade.
+Getting this praise letter from your teacher makes me happier than seeing a better grade.
 
 ## 4. 四年级，长大了
 
-*记忆钩：四年级，长得好快；大姑娘这个称呼你不喜欢。*
+*记忆钩：四年级，长得好快；先问能不能叫 little kid sister（小孩姐）；你不喜欢这个称呼。*
 
 You’re in fourth grade now. You’re growing up so fast.
 
-A big girl? Okay, I know you don’t like being called that.
+Can I call you my **little kid sister**? Okay, I know you don’t like being called that.
 
 ## 5. 进小区就打招呼
 
@@ -77,9 +77,9 @@ You’re curious, and you love asking all kinds of funny, unexpected questions. 
 
 ## 7. 上台跳舞
 
-*记忆钩：一群人里上台跳，老师和镜头面前都敢。*
+*记忆钩：有一次带你去舞蹈比赛；一群人里上台跳，老师和镜头面前都敢。*
 
-I really admire how brave you are. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
+I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
 
 ## 8. 爱美、赖床、鬼脸、作业快
 
@@ -141,23 +141,23 @@ Happy birthday. I love you.
 
 Celine, today is your tenth birthday.
 
-First, I want to read a note your teacher, Ms. Yang, wrote about you.
+First, I want to read a praise letter your teacher wrote about you.
 
 Since school started, you’ve stayed focused in class. You listen carefully and think things through. You also speak up and share your ideas. As my little helper, you jump in with a warm heart. You’re responsible, and you keep things organized. That deserves real praise. I’m so proud of you! Keep it up—and keep working hard.
 
 Your teacher wrote that she’s proud of you. I am too.
 
-Getting this note from your teacher makes me happier than seeing a better grade.
+Getting this praise letter from your teacher makes me happier than seeing a better grade.
 
 You’re in fourth grade now. You’re growing up so fast.
 
-A big girl? Okay, I know you don’t like being called that.
+Can I call you my little kid sister? Okay, I know you don’t like being called that.
 
 You’re so polite to people. Whenever we come into our community, you say hi to the security guards. You’re friendlier than I am!
 
 You’re curious, and you love asking all kinds of funny, unexpected questions. I love your curiosity. Keep wondering, “Why?”
 
-I really admire how brave you are. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
+I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
 
 You like looking pretty, and you love sleeping in.
 
