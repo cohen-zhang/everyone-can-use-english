@@ -77,9 +77,9 @@ You’re curious, and you love asking all kinds of funny, unexpected questions. 
 
 ## 7. 上台跳舞
 
-*记忆钩：有一次带你去舞蹈比赛；一群人里上台跳，老师和镜头面前都敢。*
+*记忆钩：有一次带你去舞蹈比赛；一群人里上台跳，评委老师和镜头面前都敢。*
 
-I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
+I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the **judges** and the cameras. That was so cool!
 
 ## 8. 爱美、赖床、鬼脸、作业快
 
@@ -109,11 +109,11 @@ Thank you for helping us with all those things. You make our family feel like we
 
 ## 11. 一起玩，送你也送我
 
-*记忆钩：游戏、投篮、爬山、河边、骑车；电动车抱紧腰；出差送到小区门口。*
+*记忆钩：游戏、投篮、爬山、河边、骑车；电动车送学、送舞蹈培训课，抱紧腰；出差送到小区门口。*
 
 I love playing games with you and shooting hoops at your school. We go hiking together, walk by the river in the morning, and ride our bikes up the nearby hills.
 
-When I take you to school or to your classes on my electric scooter, you wrap your arms tightly around my waist.
+When I take you to school or to your **dance training classes** on my electric scooter, you wrap your arms tightly around my waist.
 
 When I go away on a business trip, you always walk me to the gate of our community and watch me get into the car.
 
@@ -157,7 +157,7 @@ You’re so polite to people. Whenever we come into our community, you say hi to
 
 You’re curious, and you love asking all kinds of funny, unexpected questions. I love your curiosity. Keep wondering, “Why?”
 
-I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the dance teachers and the cameras. That was so cool!
+I really admire how brave you are. Once I took you to a dance competition. You got up on stage and danced alongside a whole group of people. You showed what you could do in front of the judges and the cameras. That was so cool!
 
 You like looking pretty, and you love sleeping in.
 
@@ -175,7 +175,7 @@ Thank you for helping us with all those things. You make our family feel like we
 
 I love playing games with you and shooting hoops at your school. We go hiking together, walk by the river in the morning, and ride our bikes up the nearby hills.
 
-When I take you to school or to your classes on my electric scooter, you wrap your arms tightly around my waist.
+When I take you to school or to your dance training classes on my electric scooter, you wrap your arms tightly around my waist.
 
 When I go away on a business trip, you always walk me to the gate of our community and watch me get into the car.
 
