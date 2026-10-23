@@ -8,7 +8,7 @@ hide:
 
 <div class="home-hero" markdown>
 
-![Everyone Can Use English — 亲子一起学英语](assets/images/home-hero.jpg){ .home-hero__img .no-glightbox loading="eager" }
+![Everyone Can Use English](assets/images/home-hero.jpg){ .home-hero__img .no-glightbox loading="eager" }
 
 </div>
 
@@ -149,3 +149,4 @@ hide:
 
 - 部分 Obsidian 语法在网页中可能与桌面端不一致；以仓库内 Markdown 为准。
 - 新增笔记：按内容放入对应分区；`tv-series/**/transcript/**` 与歌曲主题下单曲默认不进侧栏（见 `mkdocs.yml` 的 `not_in_nav`）。
+- 统计（截至 2026-10-23）：阿泽自 2026-04-05 起 **297** 次提交、**82** 个活跃日；笔记约 **706** 篇（亲子英语 **104**）。更早提交来自上游开源历史。
