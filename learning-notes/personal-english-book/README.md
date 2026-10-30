@@ -71,6 +71,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/living-room-common-items-en.md|客厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/dining-room-common-items-en.md|餐厅常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kitchen-common-items-en.md|厨房常见物品]]
+- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/water-dispenser-instructions.md|饮水机使用说明]] — 面板中英对照、童锁 / 三档水温 / 续流 / 再加热，以及烫伤提示
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/bathroom-common-items-en.md|卫浴常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/balcony-common-items-en.md|阳台常见物品]]
 - [[learning-notes/personal-english-book/life/shenzhen-apartment-home/kids-room-common-items-en.md|儿童房常见物品]]

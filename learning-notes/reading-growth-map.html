@@ -998,6 +998,31 @@
         { id: "peppa-s01e23", title: "S01E23 New Shoes", author: "Peppa Pig · 小猪佩奇", category: "佩奇", status: "done" },
       ],
     },
+    {
+      date: "2026-10-24",
+      note: "佩奇 · S01E28 Windy Castle",
+      minutes: 20,
+      books: [
+        { id: "peppa-s01e28", title: "S01E28 Windy Castle", author: "Peppa Pig · 小猪佩奇", category: "佩奇", status: "done" },
+      ],
+    },
+    {
+      date: "2026-10-25",
+      note: "佩奇 · S01E27 Not Very Well",
+      minutes: 20,
+      books: [
+        { id: "peppa-s01e27", title: "S01E27 Not Very Well", author: "Peppa Pig · 小猪佩奇", category: "佩奇", status: "done" },
+      ],
+    },
+    {
+      date: "2026-10-29",
+      note: "佩奇 · S01E18 Mummy Pig's Birthday；复习 · S01E32 Thunderstorm",
+      minutes: 20,
+      books: [
+        { id: "peppa-s01e18", title: "S01E18 Mummy Pig's Birthday", author: "Peppa Pig · 小猪佩奇", category: "佩奇", status: "done" },
+        { id: "peppa-s01e32", title: "S01E32 Thunderstorm", author: "Peppa Pig · 小猪佩奇", category: "佩奇", status: "done" },
+      ],
+    },
   ];
 
   function applyReadEvents() {
@@ -1031,7 +1056,7 @@
           c.note = event.note;
           return;
         }
-        if (!c.note) c.note = event.note;
+        if (!c.note || event.note.includes(c.note)) c.note = event.note;
         else if (!c.note.includes(event.note)) c.note = `${c.note}；${event.note}`;
       });
     });

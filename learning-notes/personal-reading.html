@@ -55,6 +55,7 @@
       transition: transform .15s ease,border-color .15s ease,box-shadow .15s ease;
     }
     .item:hover { transform: translateY(-1px); border-color: #b9c2ea; box-shadow: 0 8px 18px rgba(55,70,130,.08); }
+    .item--nolink { cursor: default; color: inherit; }
     .item h3 { margin: 0 0 5px; font-size: 15px; }
     .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; color: var(--muted); font-size: 12px; }
     .note { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
@@ -121,11 +122,15 @@
     const itemCard = (entry, label, cls) => {
       const {item, info} = entry;
       const readCount = info.history.length;
-      return `<a class="item" href="${esc(item.url)}" target="_top">
-        <div><h3>${esc(item.title)}</h3>
+      const body = `<div><h3>${esc(item.title)}</h3>
           <div class="meta"><span>${esc(item.category || "未分类")}</span><span>${readCount ? `已读 / 复习 ${readCount} 次` : "尚未首读"}</span></div>
           ${item.note ? `<p class="note">${esc(item.note)}</p>` : ""}
-        </div><span class="pill ${cls}">${esc(label)}</span></a>`;
+        </div><span class="pill ${cls}">${esc(label)}</span>`;
+      const url = (item.url || "").trim();
+      if (!url || url === "#") {
+        return `<div class="item item--nolink">${body}</div>`;
+      }
+      return `<a class="item" href="${esc(url)}" target="_top">${body}</a>`;
     };
 
     function consecutiveStreak(dates) {
@@ -425,10 +430,10 @@
       "title": "Thank You, Java",
       "url": "personal-english-book/study/Java,ThankYou/",
       "category": "学习跟读",
-      "status": "active",
+      "status": "mastered",
       "priority": "normal",
       "added": "2026-10-14",
-      "note": "程序员写给 Java 的感谢信，约 90–120 秒口语。",
+      "note": "程序员写给 Java 的感谢信，约 90–120 秒口语。2026-10-29 已熟练，移出遗忘曲线。",
       "history": [
         {
           "date": "2026-10-14",
@@ -437,6 +442,10 @@
         {
           "date": "2026-10-17",
           "result": "good"
+        },
+        {
+          "date": "2026-10-29",
+          "result": "easy"
         }
       ]
     },
@@ -470,6 +479,38 @@
       "added": "2026-10-08",
       "note": "四年级上学周跟读。周一已于 2026-10-14 单独记入；本条仍待读周二至周日。课表见 00-timetable。",
       "history": []
+    },
+    {
+      "id": "beyond-feeling",
+      "title": "Beyond Feeling",
+      "url": "",
+      "category": "外部书籍",
+      "status": "active",
+      "priority": "normal",
+      "added": "2026-10-25",
+      "note": "未在本工程中；纸书 / 外部阅读。",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "a-weekday-one-minute-drill",
+      "title": "A Weekday · 工作日的一天（1 分钟练习）",
+      "url": "personal-english-book/one-minute-drill/a-weekday/",
+      "category": "一分钟练习",
+      "status": "active",
+      "priority": "high",
+      "added": "2026-10-26",
+      "note": "工作日起床通勤、园区三餐、加班回家的短口语。",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "result": "good"
+        }
+      ]
     }
   ]
 };

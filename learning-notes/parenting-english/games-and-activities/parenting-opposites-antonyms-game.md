@@ -451,6 +451,8 @@ tags:
 **Celine：** 常温？  
 **家长：** Yes. **Normal** is room-temperature water. Not cold, not hot.
 
+本场景是 **cold / normal / hot**。另一台机器的面板步骤（热水要先点 **Hot Lock**，另外还有温水和冰水）见 [[learning-notes/personal-english-book/life/shenzhen-apartment-home/water-dispenser-instructions|饮水机使用说明]]。
+
 ---
 
 ## 反义词对汇总表

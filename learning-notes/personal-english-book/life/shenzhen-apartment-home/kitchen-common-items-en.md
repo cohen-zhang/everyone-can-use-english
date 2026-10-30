@@ -16,6 +16,7 @@ aliases:
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e03-eating-breakfast-notes.md|Jeff E03 早餐]]
 - [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e08-dinner-and-washing-up-notes.md|Jeff E08 晚餐与收拾]]
 - **量词** — [[learning-notes/grammar-lab/量词|量词实验室]]（**one cup** 量米、**a box of** baking soda、**a pinch / splash of** 等）
+- [[learning-notes/personal-english-book/life/shenzhen-apartment-home/water-dispenser-instructions|饮水机使用说明]] — 面板取热水 / 温水 / 冰水、童锁（**Hot Lock**）、续流、再加热与烫伤提示；本表 **instant hot water dispenser** 是管线机词条
 
 ## 本页在做什么
 

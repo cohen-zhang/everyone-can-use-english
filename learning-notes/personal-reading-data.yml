@@ -153,15 +153,17 @@ items:
     title: Thank You, Java
     url: "personal-english-book/study/Java,ThankYou/"
     category: 学习跟读
-    status: active
+    status: mastered
     priority: normal
     added: 2026-10-14
-    note: 程序员写给 Java 的感谢信，约 90–120 秒口语。
+    note: 程序员写给 Java 的感谢信，约 90–120 秒口语。2026-10-29 已熟练，移出遗忘曲线。
     history:
       - date: 2026-10-14
         result: good
       - date: 2026-10-17
         result: good
+      - date: 2026-10-29
+        result: easy
 
   - id: celine-10th-birthday
     title: Celine 十岁生日致辞
@@ -186,3 +188,27 @@ items:
     added: 2026-10-08
     note: 四年级上学周跟读。周一已于 2026-10-14 单独记入；本条仍待读周二至周日。课表见 00-timetable。
     history: []
+
+  - id: beyond-feeling
+    title: Beyond Feeling
+    url: ""
+    category: 外部书籍
+    status: active
+    priority: normal
+    added: 2026-10-25
+    note: 未在本工程中；纸书 / 外部阅读。
+    history:
+      - date: 2026-10-25
+        result: good
+
+  - id: a-weekday-one-minute-drill
+    title: A Weekday · 工作日的一天（1 分钟练习）
+    url: personal-english-book/one-minute-drill/a-weekday/
+    category: 一分钟练习
+    status: active
+    priority: high
+    added: 2026-10-26
+    note: 工作日起床通勤、园区三餐、加班回家的短口语。
+    history:
+      - date: 2026-10-26
+        result: good
