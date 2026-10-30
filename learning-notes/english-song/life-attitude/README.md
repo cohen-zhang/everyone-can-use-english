@@ -24,3 +24,4 @@
 - [[learning-notes/english-song/life-attitude/the-old-man-yom|the-old-man-yom]]
 - [[learning-notes/english-song/life-attitude/the-old-man-菲尔科尔特|the-old-man-菲尔科尔特]]
 - [[learning-notes/english-song/life-attitude/vienna-billy-joel|vienna-billy-joel]]
+- [[learning-notes/english-song/life-attitude/you-and-me-2008-olympics|You and Me / 我和你 — 2008 奥运会]]

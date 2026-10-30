@@ -20,7 +20,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（陪伴、承诺类表达可对照副歌） · [[learning-notes/english-song/love-romance/umbrella-rihanna|Umbrella — Rihanna]]（同为「风雨里守在你身边」）
+**相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（陪伴、承诺类表达可对照副歌） · [[learning-notes/english-song/love-romance/umbrella-rihanna|Umbrella — Rihanna]]（同为「风雨里守在你身边」） · [[learning-notes/english-song/life-attitude/you-and-me-2008-olympics|You and Me / 我和你]]（把「你和我」唱成同一个世界）
 
 ---
 

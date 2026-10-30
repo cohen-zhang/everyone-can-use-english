@@ -27,6 +27,14 @@ aliases:
 | 9 | Vienna | Billy Joel | 焦虑与自我和解 | [[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna]] |
 | 10 | My Way | Frank Sinatra | 人生总结 | [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way]] |
 
+## 奥运主题曲
+
+这一首不在下方 122 首播放列表里。笔记在 [[learning-notes/english-song/life-attitude/README|生活态度]]。
+
+| 歌名 | 歌手 | 场景 | 笔记 |
+| --- | --- | --- | --- |
+| You and Me / 我和你 | Liu Huan & Sarah Brightman | 2008 北京奥运会开幕式 | [[learning-notes/english-song/life-attitude/you-and-me-2008-olympics|You and Me]] |
+
 ## 播放列表总表
 
 | # | 歌名 | 歌手 | 精编 | 主题 | 曲风 | 难度 | 年代 | 场景 | 笔记 |
