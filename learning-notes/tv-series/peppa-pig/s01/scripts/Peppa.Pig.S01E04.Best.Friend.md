@@ -2,7 +2,7 @@
 
 **相关：** *Just for a little while*（一会儿）与时长对比 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#一会儿--a-little-while--for-a-bit|时间表达汇总 · 一会儿]]
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 三节是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -177,13 +177,13 @@ This is my little brother, George.
 | **fairy** | /ˈfɛri/ | 仙女 | *fairy princess* | *You can be a fairy.* — 你可以扮仙女。 | 亲子 |
 | **wand** | /wɑnd/ | 魔杖 | *magic wand* | *Wave your wand.* — 挥一下魔杖。 | 亲子 |
 | **frog** | /frɑɡ/ | 青蛙 | *turn you into a frog* | *The story has a frog.* — 故事里有一只青蛙。 | 亲子 |
-| **lonely** | /ˈloʊnli/ | 孤单 | *feels a bit lonely* | *He feels lonely.* — 他觉得孤单。 | 亲子 |
+| **lonely** | /ˈloʊnli/ | 孤单 | *feels a bit lonely* | *When you and Mummy aren't home, Daddy feels lonely.* — 你和妈妈不在家时，爸爸感到孤单。 | 亲子 |
 
 ### 扮医生
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **lick** | /lɪk/ | 舔 | *lick out the bowl* | *You may lick the spoon.* — 你可以舔这个勺子。 | 亲子 |
+| **lick** | /lɪk/ | 舔 | *lick out the bowl* | *You may lick the yogurt lid.* — 你可以舔酸奶盖。 | 亲子 |
 | **bowl** | /boʊl/ | 碗 | *lick out the bowl* | *The bowl is empty.* — 碗空了。 | 亲子 |
 | **sick** | /sɪk/ | 生病的 | *the sick person* | *Who is the sick one?* — 谁来演病人？ | 亲子 |
 | **breath** | /brɛθ/ | 一口气 | *take a big breath* | *Take a big breath.* — 深吸一口气。 | 亲子 |
@@ -239,3 +239,12 @@ This is my little brother, George.
 - **Go and play with your own toys.** — 去玩你自己的玩具。
 - **Take a big breath.** — 深吸一口气。
 - **Open wide.** — 把嘴张大。
+
+## 比较 · Best and more
+
+这一集真正用来比较的，是 **best**（最好，最高级）和 **more**（更，比较级）。每一行：本集一句，加一句家里能换的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **最高级 · best** | *They are best friends.* | *Mummy is my best friend. You are my second-best friend.* — 妈妈是我最好的朋友。你是我第二好的朋友。 |
+| **比较级 · more** | *He likes playing with Peppa more.* | *I like playing with you more.* — 我更喜欢和你玩。 |

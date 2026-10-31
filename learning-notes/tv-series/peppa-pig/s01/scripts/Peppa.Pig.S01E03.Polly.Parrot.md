@@ -157,9 +157,9 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **visit** | /ˈvɪzɪt/ | 去看望 | *visiting Granny and Grandpa* | *We are visiting Grandma.* — 我们去看奶奶。 | 亲子 |
+| **visit** | /ˈvɪzɪt/ | 去看望 | *visiting Granny and Grandpa* | *This summer, on Grandma and Grandpa's birthdays, we go back home to visit Grandma.* — 暑假爷爷奶奶生日的时候，我们回老家看奶奶。 | 亲子 |
 | **surprise** | /sərˈpraɪz/ | 惊喜 | *We have a surprise* | *We have a surprise for you.* — 我们有个惊喜给你。 | 亲子 |
-| **pet** | /pɛt/ | 宠物 | *a new pet* | *Do you want a pet?* — 你想养宠物吗？ | 亲子 |
+| **pet** | /pɛt/ | 宠物 | *a new pet* | *If you want a pet, do you want a dog or a cat?* — 如果你想养宠物，是想养一只狗还是猫？ | 亲子 |
 | **parrot** | /ˈpɛrət/ | 鹦鹉 | *a pet parrot* | *A parrot can talk.* — 鹦鹉会学说话。 | 亲子 |
 | **clever** | /ˈklɛvər/ | 聪明 | *a clever parrot* | *You are clever.* — 你真聪明。 | 亲子 |
 | **copy** | /ˈkɑpi/ | 学舌；模仿 | *copy everything* | *Don't copy every word.* — 别把每句话都学一遍。 | 亲子 |

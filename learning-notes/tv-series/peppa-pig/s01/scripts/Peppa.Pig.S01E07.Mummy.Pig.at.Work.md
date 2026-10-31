@@ -131,10 +131,10 @@ I'm Peppa Pig. This is my little brother, George.
 | --- | --- | --- | --- | --- | --- |
 | **computer** | /kəmˈpjutər/ | 电脑 | *working on her computer* | *Mummy is on the computer.* — 妈妈在用电脑。 | 亲子 |
 | **soup** | /sup/ | 汤 | *making soup* | *The soup is hot.* — 汤是热的。 | 亲子 |
-| **disturb** | /dɪˈstɜrb/ | 打扰 | *don't disturb her* | *Please don't disturb Daddy.* — 请别打扰爸爸。 | 亲子 |
+| **disturb** | /dɪˈstɜrb/ | 打扰 | *don't disturb her* | *When Daddy is in a work meeting, please don't disturb him.* — 爸爸在开工作会议时，请别打扰爸爸。 | 亲子 |
 | **quietly** | /ˈkwaɪətli/ | 安静地 | *sit quietly* | *Read quietly.* — 安静地看书。 | 亲子 |
 | **lap** | /læp/ | 膝上 | *sit on your lap* | *You can sit on my lap.* — 你可以坐在我腿上。 | 亲子 |
-| **later** | /ˈleɪtər/ | 稍后 | *play it later* | *We can play later.* — 我们过一会儿再玩。 | 亲子 |
+| **later** | /ˈleɪtər/ | 稍后 | *play it later* | *We can listen to the story on your watch later.* — 过一会儿再听手表故事。 | 亲子 |
 | **as long as** | /əz ˈlɔŋ əz/ | 只要 | *as long as you don't disturb her* | *You can watch, as long as you are quiet.* — 你可以看，只要安静。 | 亲子 |
 
 ### 别碰
