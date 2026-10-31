@@ -1,3 +1,5 @@
+**相关：** [[learning-notes/english-song/my-own-song/java-my-buddy|Java, My Buddy]] — 把 Java 唱成哥们儿的原创歌。本篇是感谢信。
+
 下面我按 “程序员写给 Java 的感谢信” 来写，整体约 90–120 秒。语气不是技术演讲，而是有一点纪录片、人生感悟和程序员情怀。
 
 🎬 Thank You, Java — A Programmer’s Gratitude

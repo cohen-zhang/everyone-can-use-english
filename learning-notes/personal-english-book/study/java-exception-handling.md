@@ -18,6 +18,8 @@ Exceptions are Java's way to signal that something went wrong **outside the norm
 
 **Demo bridge:** [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]
 
+**相关：** [[learning-notes/english-song/my-own-song/java-my-buddy|Java, My Buddy]] — 歌里把 **null** 和 **stack overflow** 唱成对手。本篇讲异常怎么接住。
+
 **Demo repo:** https://github.com/zhangze2/awesome-demo/tree/master/exception · **Local sibling:** `../awesome-java-demo/exception/`
 
 ---

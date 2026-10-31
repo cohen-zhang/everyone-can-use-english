@@ -12,6 +12,7 @@ aliases:
 **相关：**
 - [[learning-notes/personal-english-book/vocab-story/2026.03.18 计算机专业AI|计算机专业 AI 词汇（322）]] — 分类词表 + 研发场景示例句
 - [[learning-notes/personal-english-book/study/ai-domain-words-and-sentences|AI 领域 · 单词与句子表达]] — 大模型研发口语（提示、RAG、工具、评测）
+- [[learning-notes/english-song/my-own-song/java-my-buddy|Java, My Buddy]] — 把 **stack overflow**、**refactor**、**debug**、**null** 唱进副歌和桥段；词义仍以本表为准
 
 ## 基础工具篇 Basic Tools
 

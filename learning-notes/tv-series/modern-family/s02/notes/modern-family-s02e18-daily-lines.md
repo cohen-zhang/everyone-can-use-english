@@ -19,152 +19,85 @@
 - **test the rules** — 试探规矩
 - **couple time** — 夫妻时间
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。主题：男孩之夜。
+本页从字幕句库中精选 **12 句**用于开口练习，按生活情境排列。优先练完整、常见、能迁移到自己生活的表达；剧情笑点、双关和被拆成两行的半句留在字幕全文中，不作为脱离语境的背诵材料。
+
+> **怎么用这页：** 这里是检索句库，不是需要从头背到尾的课文。优先挑完整、听得清、能联系自己生活的句子；英文或中文看起来不完整时，先打开字幕全文核对前后文。
 
 ---
 
-## 家事与居家
+## 亲子与家庭
 
-- **Saturday night, we're having dinner** — 星期六晚上我们要和
-- **while I'm stuck at home playing jenga with my dad.** — 我却只能呆在家里和老爹玩搭积木
-- **We have that in our house,** — 我们房子里也有
-- **Oliver who almost burned down our garage?** — 是那个差点把我们车库烧没的人吗
+- **It's good for you to try new things.** — 尝试新事物对你有好处。
+- **You can't just spring this on me.** — 你不能突然把这事丢给我。
+- **Buddy, don't close yourself off from new things.** — 伙计，别拒绝新事物。
+- **Maybe you should stay in and babysit.** — 也许你该待在家里照看孩子。
+- **I promise I'll take super good care of her.** — 我保证会好好照顾她。
 
-## 亲子与学校
+## 请求与回应
 
-- **Could you ask her if she could possibly babysit** — 问她星期六晚上能不能帮忙
-- **You know what? Maybe you should stay in and babysit.** — 或许你留下来照看莉莉会更好
-- **Yeah, our babysitter bailed,** — 我们的保姆不能来
-- **I'm really good. I'm babysitting Luke right now.** — 我很在行的  我现在就在照看卢克呢
-- **You want -- you want to babysit lily?** — 你想照看莉莉
-- **You mean in school? Well, I do okay.** — 你是说在学校吗  还行
-- **My teacher says I get distracted.** — 老师说我容易走神
-- **and little kids can be friends with old people, right?** — 小孩能和老人成为朋友  对吧
+- **Could you ask her if she could possibly babysit Lily on Saturday night?** — 你能问问她周六晚上能不能帮忙照看莉莉吗？
+- **We'd really, really appreciate it.** — 我们会非常感激。
+- **I can do it. I can watch Lily.** — 我可以，我能照看莉莉。
+- **I say we give her a shot.** — 我觉得我们可以给她一次机会。
+- **She's family.** — 她是家人。
 
-## 电话与信息
+## 安慰与沟通
 
-- **So, should I give her a message? - Yes, yes.** — 要给她带个话吗  -对对
-- **Okay, so, the numbers are by the phone.** — 好的  号码就在电话旁边
-
-## 约会与恋爱
-
-- **Easy, honey.** — 亲爱的  淡定点
-- **Oh, well, that's very sweet, honey,** — 亲爱的  真的很感谢
-- **Honey, don't jump to conclusions.** — 亲爱的  别那么武断
-
-## 情绪与道歉
-
-- **The game's over just because you're afraid** — 游戏就这么结束了  就因为你怕
-- **he would be afraid of our next-door neighbor.** — 他也会害怕我们的隔壁邻居
-- **Luke, I'm sorry, but your mother and I** — 卢克  对不起  但是你妈妈和我
-- **'cause you're two afraid to talk to him.** — 因为你们害怕跟他说话
-
-## 社交与礼貌
-
-- **Hey, mom, can I go to the movies with robin?** — 妈  我能不能和罗宾去看电影
-- **Hey, Haley. - Oh, hey, uncle Mitchell.** — 海莉  -米奇尔叔叔
-- **Hey, is your mom home? - No.** — 你妈在吗  -不在
-- **Okay, well, that would be great. Thank you.** — 好吧  如此甚好  谢谢了
-- **Thanks. So, okay, come on. Let's go.** — 谢谢  好的  快点  我们走
-
-## 请求与建议
-
-- **Let's not make this a thing.** — 我们不要把这点看得过重
-- **You don't even have to pay me.** — 你甚至可以不给我钱
-- **I just changed her diaper, so all you need to do** — 我刚给她换了尿布  你要做的就是
-- **So I have to try new things,** — 这么说来  我就要尝试新花样
-- **Like scrambled eggs, but you don't have to?** — 就像炒鸡蛋  可你却不用
-- **Let's take it down a notch. You two go in.** — 别说这个了  你们进去
-
-## 其它实用表达
-
-- **Good morning, mom** — 妈咪  早安
-- **Good morning, puppy** — 早安  小宝贝
-- **Hump day, am I right, Jay?** — 今天才周三  对吧  杰
-- **Your day ends at 2:30** — 你2点半之后就自由了
-- **Can't come fast enough.** — 早死早超生
-- **Quitting time. Am I right, jay?** — 我指的是退休  杰  你说是不是
-- **Whoa, whoa, whoa. What is this?** — 嘿  嘿  嘿  这是啥玩意儿
-- **Where's my soft-boiled egg?** — 我的水煮蛋呢
-- **I scrambled it.** — 我把它炒了
-- **It's good for you to try new things.** — 尝试一下新鲜事物对你有好处
-- **I don't want to try new things.** — 我才不要尝试新鲜事物呢
-- **You can't just spring this on me.** — 你不能突然对我这样
-- **I have bad news, manny.** — 曼尼  告诉你个坏消息
-- **This is not the biggest curve ball** — 生活最刁难你的时候
-- **that life is going to throw you.** — 还没到呢
-- **Buddy, don't close yourself off from new things.** — 哥们儿  不要拒绝新鲜事物
-- **I ever tell you the story about me and crab cakes?** — 我有没有跟你说过我对蟹肉饼的心路历程
-- **Thought I didn't like them, tried them, love them.** — 恨之  试之  爱之
-- **Are the movie rights available for that one?** — 那电影版权也能这样吗
-- **Dunphy spring classic.** — 邓菲家族春季例赛
-- **Who's gonna do the dishes for the next week?** — 看下周谁来洗碗
-- **Boys versus girls.** — 男孩大战女孩
-- **Testosterone versus estrogen.** — 雄性激素大战雌性激素
-- **Standing up to pee versus the squat.** — 站着嘘嘘大战蹲着嘘嘘
-- **Phil, come on! -Dad!** — 菲尔  快开始  -老爸
-- **Swing and a miss.** — 击球失误
-- **He's in her head, Luke.** — 我摸清了她的路线  卢克
-- **And boys rule and girls drool.** — 男孩大获全胜  女生只有流口水的份
-- **You drool all the time.** — 你才随时流口水
-- **Mom had to take you to a specialist.** — 弄得老妈得带你去看专家
-- **I'm still growing into my tongue.** — 我还适应我的舌头呢
-- **No, you may not, 'cause you are still grounded.** — 不行  你还在关禁闭
-- **Then can I be sent to my room?** — 那你能送我回房间吗
-- **No, 'cause we're having some fun family time.** — 不行  我们在享受家庭的欢乐时光
-- **We're gonna spend this beautiful afternoon** — 我们整个美丽的下午都呆着外面
-- **outside in the fresh air, getting some exercise, okay?** — 享受新鲜空气  做点运动  好吧
-- **Pitch it, Phil.** — 快投  菲尔
-- **Oh, well.** — 我勒个去
-- **That's the game.** — 游戏结束
-- **What do you mean? We just started.** — 什么意思  我们才刚刚开始
-- **That was our only ball.** — 那个是我们唯一的球
-- **So what?** — 所以呢
-- **of stupid Mr. Kleezak?** — 隔壁的傻蛋克里扎克先生吗
-- **Yep. I'm not going over there.** — 对  我才不去他那里
-- **That was fun.** — 这比赛真有意思
-- **If Hannibal Lecter and Freddy Krueger had a love child,** — 如果汉尼拔或者弗雷德有孩子
-- **I don't have a mean thing to say about anyone,** — 我通常不对别人做负面评价
-- **but Mr. Kleezak is...** — 但是克里扎克先生的确
-- **not a nice person.** — 不是个好人
-- **She had to take Alex to the oncologist.** — 她要带艾丽克斯去看肿瘤医生[谐音口误]
-- **Oh, my god, what's wrong?** — 天啊  怎么回事
-- **She needed new glasses.** — 她要配一副新眼镜
-- **Oh. Did you mean optometrist? - Whatever.** — 你是说验光师吧  -随便啦
-- **Lily on Saturday night?** — 照看一下莉莉
-- **We'd really, really appreciate it.** — 我们感激不尽
-- **with pepper, longinus, and crispin.** — 胡焦  朗吉奴斯以及克里斯宾吃饭
-- **They're our gay friends.** — 他们都是同志
-- **I think that was clear.** — 我觉得大家都知道
-- **I've been spending a lot of time** — 我最近大部分时间都跟
-- **with a lot of straight people lately.** — 异性恋的人呆在一起
-- **And, darling, I need a night with my homies.** — 亲爱的  我需要跟我的伙计们好好玩一晚
-- **You mean homos. - Okay. Yeah.** — 你是说你的同性闺蜜吧  -对
-- **and we're kind of in a bind, so** — 我们有点小麻烦
-- **I can do it. I can watch lily.** — 我能行  我能照看莉莉
-- **Oh, yeah?** — 是吗
-- **but you're -- you're a very popular girl.** — 但是你是个很受欢迎的女孩子
-- **I'm sure you have better things to do, so** — 我想你有更好的事情做
-- **Oh, seriously, I'm totally free.** — 真的  我现在很闲
-- **Being grounded is so much worse than it was in the olden days.** — 现代被关禁闭可比古时候糟糕多了
-- **My friends text and facebook** — 我朋友不断给我发短信  更新facebook
-- **all the fun stuff they're doing** — 谈论他们各种有意思的事情
-- **Are you serious?** — 你说真的吗
-- **I promise I'll take super good care of her.** — 我发誓把她照顾得妥妥的
-- **Yes, well, we'll see you on Saturday night.** — 好的  星期六见
-- **Bye, sweetie. - Bye.** — 拜拜  亲爱的  -拜
-- **What are you thinking?!** — 你在想些什么
-- **Haley is a very sweet and fashionable girl,** — 海莉是一个甜美时尚的女孩
-- **but seems hardly a responsible caregiver!** — 但显然不是一个合格的保姆
-- **Well, you know what? We needed a sitter.** — 我们需要一名临时看孩子的人
-- **She's family.** — 她是我们的家人
+- **Easy, honey.** — 别急，亲爱的。
+- **Let's not make this a thing.** — 咱们别把这事闹大/纠结下去了。
+- **We need to talk.** — 我们得谈谈。
 
 ---
+
+## 精选台词
+
+| 场景 | 英文 | 参考意思 |
+| --- | --- | --- |
+| 尝试新事物 | **It's good for you to try new things.** | 尝试新事物对你有好处。 |
+| 表达不情愿 | **You can't just spring this on me.** | 你不能这样突然把事情丢给我。 |
+| 鼓励尝试 | **Buddy, don't close yourself off from new things.** | 伙计，别把自己挡在新事物之外。 |
+| 邀请帮忙 | **Could you ask her if she could possibly babysit Lily on Saturday night?** | 你能问问她周六晚上能不能帮忙照看莉莉吗？ |
+| 表示感谢 | **We'd really, really appreciate it.** | 我们会非常感激。 |
+| 接受任务 | **I can do it. I can watch Lily.** | 我可以，我能照看莉莉。 |
+| 安慰/劝慢一点 | **Easy, honey.** | 别急，亲爱的。 |
+| 提出建议 | **Maybe you should stay in and babysit.** | 也许你该待在家里照看孩子。 |
+| 提议给机会 | **I say we give her a shot.** | 我觉得我们可以给她一次机会。 |
+| 建立信任 | **I promise I'll take super good care of her.** | 我保证会好好照顾她。 |
+| 缓和争论 | **Let's not make this a thing.** | 咱们别把这事闹大/纠结下去了。 |
+| 开始严肃谈话 | **We need to talk.** | 我们得谈谈。 |
 
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
+- **个人学习（每天 15 分钟）**：选 3–5 句。先不看中文听原片两遍，写下听到的内容；对照字幕确认连读、弱读和没听出的词；查清句意与语气后，跟读模仿语调 3 遍；最后遮住英文，按中文或场景回忆，再把其中一个表达换成自己的信息说一句。**示例**：`It's good for you to try new things.`（尝试新事物对你有好处。）→ `It's good for me to take a short walk after lunch.`（午饭后散会儿步对我有好处。）句型保留 `It's good for ... to ...`，把对象和行动换成自己的生活。
+- **亲子共学（每天 10 分钟）**：家长先挑 2–3 句短而完整的台词，先一起看场景、猜意思，再听原声、分角色模仿。把句型改成孩子熟悉的生活内容；以敢开口、能表达为目标，不要求逐字复刻口音，也不把生词检查变成测验。孩子不感兴趣或台词不合年龄时，跳过即可。**示例**：`You can't just spring this on me.`（你不能突然把这事丢给我。）→ `You can't just spring a spelling test on me!`（你不能突然就让我考拼写呀！）可以和孩子轮流替换 `a spelling test`，如 `a quiz` 或 `a surprise visitor`，再说说哪些事情会让自己觉得“太突然”。
+- **一周复习**：新句当天练，隔天不看原文回忆一次，3–4 天后再用角色扮演或生活对话复现。记住能主动说出的句子即可，不必追求背完整集。
+- **选句标准**：选 1) 意思完整、发音能听清；2) 生活中用得上的表达；3) 带有值得模仿语气的句子。像 `Saturday night, we're having dinner`、`Honey, don't jump to conclusions.`、`You can't just spring this on me.` 和 `I promise I'll take super good care of her.` 可作为本集练习候选；练前请在字幕中核对前后文和说话人。
+- **核对提醒**：字幕对话常按说话轮次拆成半句，翻译也可能为了剧情效果而意译。比如本页的 `You mean homos.`、`oncologist / optometrist` 和 `Hannibal Lecter / Freddy Krueger` 都依赖上下文、玩笑或口误，不宜脱离场景当作日常表达套用；英文原声与完整字幕优先于孤立的中译。
 - 重跑本页：`s02/notes/scripts/build-modern-family-s02.py --notes`。
 - 第一季对照：[[learning-notes/tv-series/modern-family/s01/notes/README|S01 notes 索引]]。
+
+## 感悟
+
+- **尝试新事物不必一开始就喜欢。** Manny 不愿意尝试炒蛋，Jay 用自己从不喜欢蟹肉饼到喜欢它的经历鼓励他。先愿意试一小口，就能给自己多一个选择。**本集表达：** `It's good for you to try new things.` / `Don't close yourself off from new things.`
+- **第一印象不一定是全部。** Luke 因为害怕 Walt 而不敢去拿球，后来发现 Walt 并非想象中那么可怕；Walt 也主动示好，展现出温和的一面。多一点了解，可能会修正原先的判断。**本集表达：** `People can surprise you.` / `They do something that shows you there's all this depth and dimension that you never knew existed.`
+- **信任需要机会，也需要沟通。** Mitch 相信 Haley 能照顾 Lily，后来又因担心而查看情况；Haley 则希望叔叔们把她当作朋友、相信她。关心对方时，也要留意对方的感受与边界。**本集表达：** `I say we give her a shot.` / `I'm sick and tired of people not trusting me.` / `If your friends don't believe in you, then what else do you have?`
+- **陪伴和关系不必总按计划进行。** Jay 原本不情愿和 Pepper 出门，最后还是有了一段意外的相处。留一点弹性，有时会遇见计划之外的乐趣。**本集表达：** `I had such a good time with you last night.` / `You two have a great time together.`
+
+## 本集角色与评价
+
+| 角色 | 本集经历 | 观察与评价（英文表达） |
+| --- | --- | --- |
+| Jay | 劝 Manny 尝试新食物；和 Mitchell 外出后喝醉，答应与 Pepper 去棕榈泉；起初想临时取消，最后在 Gloria 鼓励下赴约。 | 嘴硬、爱掌控节奏，但愿意听家人的劝，也能在意外中放松下来。**概括：** `He is reluctant at first, but he eventually goes along with the plan.` |
+| Manny | 不想吃被改做的炒蛋；听 Jay 讲蟹肉饼的经历。 | 对改变比较谨慎。Jay 的故事给了他一个温和尝试的理由。**原句：** `I don't want to try new things.` **概括：** `He is cautious about trying something new.` |
+| Gloria | 把 Jay 的水煮蛋炒了；后来配合 Jay 假装头痛，最终又鼓励他和 Pepper 出门。 | 既会开玩笑，也看得出 Jay 需要什么；最后选择支持他走出舒适圈。**原句：** `You two have a great time together.` **概括：** `She encourages Jay to go and enjoy the day with Pepper.` |
+| Phil | 组织家庭球赛，球飞进邻居院子后鼓励 Luke 去取；之后和 Claire 接纳 Walt 的善意。 | 乐观、爱把事情变成游戏，也愿意给邻居重新认识家人的机会。**概括：** `He tries to turn family time into fun and encourages Luke to face his fear.` |
+| Claire | 参与家庭球赛，并和 Phil 一起处理孩子与邻居的状况。 | 面对孩子的担忧时保持务实，也愿意观察事情后续发展。**概括：** `She stays practical while helping the family deal with the situation.` |
+| Haley | 被关禁闭时主动提出照看 Lily；后来发现 Mitch 和 Cam 在观察她，因不被信任而受伤。 | 想证明自己已经长大，也很看重叔叔们的信任；责任感值得肯定，照看婴儿仍需成人明确安排与支持。**原句：** `I'm sick and tired of people not trusting me.` **概括：** `She wants her uncles to trust her and treat her like a friend.` |
+| Mitchell | 让 Haley 有机会照看 Lily；与 Jay 外出，后来打电话感谢他；之后和 Cameron 观察 Haley。 | 相信家人、愿意表达感谢，但担心时采取监视的方式，伤到了 Haley。**原句：** `I had such a good time with you last night.` **概括：** `He wants to give Haley a chance, but his worry gets in the way of her trust.` |
+| Cameron | 担心 Haley 不够可靠，和 Mitchell 一起留意她照看 Lily 的情况。 | 保护欲强，谨慎有其原因；本集也提醒他，保护和信任需要平衡。**概括：** `He is protective of Lily and cautious about leaving her with Haley.` |
+| Luke | 因球落在 Walt 家而上门，和 Walt 交谈；夜里又因害怕而不敢回去，后来逐渐接受 Walt。 | 好奇心让他迈出第一步，恐惧则让他退缩；实际接触帮助他更新了对邻居的看法。**原句：** `I want to get our ball from your yard.` **概括：** `He is curious about Walt, even though he is also afraid of him.` |
+| Alex | 因看到奶牛离奇死亡的新闻而担心末日，不愿出门。 | 爱查信息，但有时会被可怕消息带着走；家人的陪伴帮助她回到当下。**原句：** `This is the end.` **概括：** `She is alarmed by the news and thinks the world is ending.` |
+| Walt | 一开始拒绝 Luke 在院子里乱动，后来送来自己种的洋葱，并邀请 Luke 看电视。 | 外表严厉、说话直接，实际愿意示好，也关心孩子。**原句：** `These are onions from my garden.` / `I don't hurt kids.` **概括：** `He seems gruff at first, but he makes a kind gesture toward Luke.` |
+| Pepper | 赴约接 Jay 去棕榈泉买唱片。 | 热情、行动力强，让 Jay 有机会体验计划外的一天。**原句：** `I'm five away.` / `You two have a great time together.` **概括：** `He is enthusiastic about the outing and eager to spend time with Jay.` |
 
 *自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*

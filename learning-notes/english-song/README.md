@@ -11,7 +11,7 @@ aliases:
 
 **先读：** [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]] — 歌曲段落（Verse / Chorus）、曲风与主题、歌名里 **feat.** / Remix / Cover 等。
 
-**目录结构：** 按主主题分文件夹（`breakup-loss` 分手·思念、`love-romance` 恋爱、`emotions` 情绪、`life-attitude` 生活态度、`relationships` 关系等）；儿歌在 `celine-kids/`。多标签歌曲按优先级归入一个主文件夹。GitHub Pages 侧栏只显示各主题 README；单曲从本表或主题 README 进入。
+**目录结构：** 按主主题分文件夹（`breakup-loss` 分手·思念、`love-romance` 恋爱、`emotions` 情绪、`life-attitude` 生活态度、`relationships` 关系等）；儿歌在 `celine-kids/`；原创在 `my-own-song/`。多标签歌曲按优先级归入一个主文件夹。GitHub Pages 侧栏只显示各主题 README；单曲从本表或主题 README 进入。
 
 **歌词学习方式：** 每首笔记的「歌词」区按段交错：**英文段落** 之后紧跟 **中文意译**。每一段先跟唱英文，再用紧随其后的中文核对情绪与意思。
 
@@ -34,6 +34,14 @@ aliases:
 | 歌名 | 歌手 | 场景 | 笔记 |
 | --- | --- | --- | --- |
 | You and Me / 我和你 | Liu Huan & Sarah Brightman | 2008 北京奥运会开幕式 | [[learning-notes/english-song/life-attitude/you-and-me-2008-olympics|You and Me]] |
+
+## 原创
+
+这一首不在下方 122 首播放列表里。笔记在 [[learning-notes/english-song/my-own-song/README|原创]]。
+
+| 歌名 | 来源 | 场景 | 笔记 |
+| --- | --- | --- | --- |
+| Java, My Buddy | Suno 生成的原创歌词 | 写代码的晚上 | [[learning-notes/english-song/my-own-song/java-my-buddy|Java, My Buddy]] |
 
 ## 播放列表总表
 

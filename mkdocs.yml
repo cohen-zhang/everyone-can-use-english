@@ -41,6 +41,8 @@ not_in_nav: |
   !english-song/life-attitude/README.md
   english-song/relationships/*
   !english-song/relationships/README.md
+  english-song/my-own-song/*
+  !english-song/my-own-song/README.md
   english-song/celine-kids/children-song/*
   !english-song/celine-kids/children-song/README.md
   english-song/celine-kids/classic-books-with-holes/*

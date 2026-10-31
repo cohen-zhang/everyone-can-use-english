@@ -18,6 +18,7 @@ aliases:
 **相关：**
 
 - 本库笔记范例（含 Verse / Chorus 标注）：[[learning-notes/english-song/breakup-loss/love-the-way-you-lie-eminem|Love the Way You Lie (feat. Rihanna)]]
+- 原创歌的段落标签从 Intro 到 Outro，桥段标成 **Rap Bridge**：[[learning-notes/english-song/my-own-song/java-my-buddy|Java, My Buddy]]
 - 情歌口语：[[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]]
 
 ---
