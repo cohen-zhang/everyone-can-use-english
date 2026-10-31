@@ -19,6 +19,7 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Shenzhen]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — 本集 *a pair of shoes* 标了「教材已见」。
 
 ---
 
