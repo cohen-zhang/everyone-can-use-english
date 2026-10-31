@@ -284,3 +284,4 @@ tags:
 - [[learning-notes/parenting-english/shanghai-english-textbook/README|沪教牛津版英语目录]] — 本页 **§11 沪教教材问句**
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md|Jeff 演示风格指南]]
 - [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（同款分类，取自动画台词）]]
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E18.Mummy.Pigs.Birthday|佩奇 S01E18 · 猪妈妈的生日]] — 本页 **§1 时态** 的本集问句与时态跟读

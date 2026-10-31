@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes|节日活动与祝福]]
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-praise-kids-daily-phrases|夸奖赞美]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E18.Mummy.Pigs.Birthday|佩奇 S01E18 · 猪妈妈的生日]] — 本集词汇里标了「教材已见」的生日词
 
 ---
 
