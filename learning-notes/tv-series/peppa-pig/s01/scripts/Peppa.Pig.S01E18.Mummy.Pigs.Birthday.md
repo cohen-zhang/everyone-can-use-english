@@ -215,11 +215,11 @@ And the most beautiful!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **breakfast** | /ˈbrɛkfəst/ | 早餐 | *breakfast in bed* | *Breakfast is on the table.* — 早餐在桌上。 | 亲子 |
+| **breakfast** | /ˈbrɛkfəst/ | 早餐 | *breakfast in bed* | *Breakfast is on the table.* — 早餐在桌上。 | 亲子、本季已见 |
 | **sitting room** | /ˈsɪtɪŋ rum/ | 客厅。英式说法，同 *living room* | *relax in the sitting room* | *Please wait in the sitting room.* — 请在客厅等一下。 | 亲子 |
 | **magazine** | /ˈmæɡəˌzin/ | 杂志 | *a nice magazine* | *This magazine has nice pictures.* — 这本杂志里有好看的画。 | 亲子 |
 | **secret** | /ˈsikrət/ | 秘密 | *something secret* | *It's a secret. Don't tell.* — 这是秘密，先别说。 | 亲子 |
-| **safe** | /seɪf/ | 安全的；可以了 | *safe to come back in* | *You can come in. It's safe.* — 可以进来了，没事了。 | 亲子 |
+| **safe** | /seɪf/ | 安全的；可以了 | *safe to come back in* | *You can come in. It's safe.* — 可以进来了，没事了。 | 亲子、本季已见 |
 
 ### 动作
 
@@ -236,10 +236,10 @@ And the most beautiful!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **surprise** | /sərˈpraɪz/ | 惊喜 | *a birthday surprise* | *I have a surprise for you.* — 我有个惊喜给你。 | 亲子 |
+| **surprise** | /sərˈpraɪz/ | 惊喜 | *a birthday surprise* | *I have a surprise for you.* — 我有个惊喜给你。 | 亲子、本季已见 |
 | **bored** | /bɔrd/ | 无聊 | *a little bored* | *I am a little bored.* — 我有点无聊。 | 亲子 |
 | **choice** | /tʃɔɪs/ | 选择 | *Do I have any choice?* | *Apple or milk? You have a choice.* — 苹果还是牛奶？你自己选。 | 亲子 |
-| **hurray** | /həˈreɪ/ | 好哇。读 /həˈreɪ/，勿读成 /ˈhʌreɪ/ | *Hurray!* | *Hurray! We are ready.* — 好哇！我们准备好了。 | 低频、易读错 |
+| **hurray** | /həˈreɪ/ | 好哇。读 /həˈreɪ/，勿读成 /ˈhʌreɪ/ | *Hurray!* | *Hurray! We are ready.* — 好哇！我们准备好了。 | 低频、易读错、本季已见 |
 | **nearly** | /ˈnɪrli/ | 几乎。*haven't got nearly enough* 是差得远、根本不够 | *nearly enough candles* | *We haven't got nearly enough cups.* — 杯子差得远，根本不够。 | 亲子、有难度 |
 
 ## 亲子问句 · Questions you can ask

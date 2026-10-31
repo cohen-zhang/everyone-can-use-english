@@ -170,10 +170,10 @@ And so are the big piggies!
 | **darling** | /ˈdɑrlɪŋ/ | 亲爱的 | *What little darlings!* | *Goodnight, darling.* — 晚安，亲爱的。 | 亲子 |
 | **asleep** | /əˈslip/ | 睡着了 | *fast asleep* | *Celine is fast asleep.* — Celine 已经睡熟了。 | 亲子 |
 | **awake** | /əˈweɪk/ | 醒着 | *Are you awake?* | *Are you still awake?* — 你还醒着吗？ | 亲子 |
-| **sleepy** | /ˈslipi/ | 困 | *not sleepy at all* | *I am sleepy.* — 我困了。 | 亲子、易读错 |
-| **noise** | /nɔɪz/ | 响声 | *all that noise* | *What was that noise?* — 那是什么声音？ | 亲子 |
-| **upstairs** | /ˌʌpˈstɛrz/ | 楼上 | *check upstairs* | *Your bed is upstairs.* — 你的床在楼上。 | 亲子 |
-| **strange** | /streɪndʒ/ | 奇怪的 | *strange noises* | *That sound is strange.* — 那个声音真奇怪。 | 亲子 |
+| **sleepy** | /ˈslipi/ | 困 | *not sleepy at all* | *I am sleepy.* — 我困了。 | 亲子、易读错、本季已见 |
+| **noise** | /nɔɪz/ | 响声 | *all that noise* | *What was that noise?* — 那是什么声音？ | 亲子、本季已见 |
+| **upstairs** | /ˌʌpˈstɛrz/ | 楼上 | *check upstairs* | *Your bed is upstairs.* — 你的床在楼上。 | 亲子、本季已见 |
+| **strange** | /streɪndʒ/ | 奇怪的 | *strange noises* | *That sound is strange.* — 那个声音真奇怪。 | 亲子、本季已见 |
 
 ### 看电视
 
@@ -181,7 +181,7 @@ And so are the big piggies!
 | --- | --- | --- | --- | --- | --- |
 | **program** | /ˈproʊɡræm/ | 电视节目 | *gardening programs* | *This program is about animals.* — 这个节目是讲动物的。 | 亲子 |
 | **boring** | /ˈbɔrɪŋ/ | 无聊的 | *very boring* | *This show is boring.* — 这个节目真无聊。 | 亲子 |
-| **suppose** | /səˈpoʊz/ | 那好吧；想来 | *I suppose* | *I suppose we can read one more.* — 那好吧，我们再读一本。 | 亲子、有难度 |
+| **suppose** | /səˈpoʊz/ | 那好吧；想来 | *I suppose* | *I suppose we can read one more.* — 那好吧，我们再读一本。 | 亲子、有难度、本季已见 |
 | **rose** | /roʊz/ | 玫瑰 | *a thorny rose* | *This rose is red.* — 这朵玫瑰是红的。 | 亲子 |
 | **thorny** | /ˈθɔrni/ | 多刺的 | *a particularly thorny rose* | *Roses can be thorny.* — 玫瑰会扎手。 | 亲子 |
 | **prune** | /prun/ | 修剪 | *To prune it* | *We prune the plant in spring.* — 我们春天给这棵植物修剪。 | 低频、亲子 |
@@ -192,10 +192,10 @@ And so are the big piggies!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **throw** | /θroʊ/ | 抛；扔 | *throw us up* | *Throw the ball to me.* — 把球抛给我。 | 亲子 |
-| **catch** | /kætʃ/ | 接住 | *catch us* | *Catch the ball.* — 把球接住。 | 亲子 |
+| **throw** | /θroʊ/ | 抛；扔 | *throw us up* | *Throw the ball to me.* — 把球抛给我。 | 亲子、本季已见 |
+| **catch** | /kætʃ/ | 接住 | *catch us* | *Catch the ball.* — 把球接住。 | 亲子、本季已见 |
 | **heavier** | /ˈhɛviər/ | 更重 | *heavier than before* | *This bag is heavier.* — 这个袋子更重。 | 亲子 |
-| **turn** | /tɜrn/ | 轮到一次 | *one turn each* | *One turn each.* — 每人一次。 | 亲子、多义 |
+| **turn** | /tɜrn/ | 轮到一次 | *one turn each* | *One turn each.* — 每人一次。 | 亲子、多义、本季已见 |
 | **tired** | /ˈtaɪərd/ | 累了 | *a bit tired* | *I am a bit tired.* — 我有点累。 | 亲子 |
 | **hope** | /hoʊp/ | 希望 | *I hope our little piggies are asleep* | *I hope you sleep well.* — 希望你睡得好。 | 亲子 |
 

@@ -1,5 +1,7 @@
 **S1-08 camping**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -203,11 +205,77 @@ I love camping!
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 搭帐篷
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **camping** | /ˈkæmpɪŋ/ | 露营 | *going camping* | *Camping is this weekend.* — 这周末去露营。 | 亲子 |
+| **tent** | /tɛnt/ | 帐篷 | *make that into a tent* | *The tent is small.* — 帐篷很小。 | 亲子 |
+| **pole** | /poʊl/ | 撑杆 | *put the tent on the poles* | *Put it on the poles.* — 把它套到撑杆上。 | 亲子 |
+| **peg** | /pɛɡ/ | 地钉 | *these pegs* | *The pegs hold the tent.* — 地钉把帐篷固定住。 | 亲子 |
+| **grown** | /ɡroʊn/ | 长大了 | *you've grown a bit* | *You have grown.* — 你长大了。 | 亲子 |
+| **expert** | /ˈɛkspərt/ | 很在行的人 | *an expert at camping* | *Dad says he is an expert.* — 爸爸说他很在行。 | 亲子、本季已见 |
+
+### 生火
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **collect** | /kəˈlɛkt/ | 捡；收集 | *collect sticks* | *We collected ten sticks.* — 我们捡了十根树枝。 | 亲子 |
+| **stick** | /stɪk/ | 树枝 | *collect sticks* | *This stick is dry.* — 这根树枝是干的。 | 亲子 |
+| **campfire** | /ˈkæmpˌfaɪər/ | 营火 | *a splendid campfire* | *Sit by the campfire.* — 坐在营火旁边。 | 亲子 |
+| **match** | /mæʧ/ | 火柴 | *We don't need matches* | *Where are the matches?* — 火柴在哪儿？ | 亲子、多义 |
+| **rub** | /rʌb/ | 摩擦 | *rubbing these two sticks* | *Rub your hands.* — 搓搓手。 | 亲子 |
+| **easy as pie** | /ˈizi æz ˈpaɪ/ | 小菜一碟 | *Easy as pie* | *Making the bed is easy as pie.* — 铺床很容易。 | 亲子、有难度 |
+
+### 夜里
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **cricket** | /ˈkrɪkət/ | 蟋蟀。这里不是板球 | *crickets chirping* | *I can hear a cricket.* — 我听见蟋蟀。 | 亲子、多义 |
+| **chirp** | /ʧɜrp/ | 唧唧叫 | *crickets chirping* | *The bird is chirping.* — 鸟在叫。 | 亲子 |
+| **owl** | /aʊl/ | 猫头鹰 | *That's an owl* | *An owl calls at night.* — 猫头鹰夜里叫。 | 亲子 |
+| **fit** | /fɪt/ | 挤得下 | *We won't all fit in* | *We won't all fit.* — 我们挤不下。 | 亲子、多义 |
+| **rather** | /ˈræðər/ | 宁可 | *I'd rather sleep outside* | *I'd rather sit here.* — 我宁可坐在这里。 | 亲子 |
+| **snore** | /snɔr/ | 打鼾 | *sounds like snoring* | *Someone is snoring.* — 有人在打鼾。 | 亲子 |
+| **cozy** | /ˈkoʊzi/ | 暖和舒服 | *lovely and cozy* | *The tent is cozy.* — 帐篷里又暖又舒服。 | 亲子 |
+| **wet** | /wɛt/ | 湿的 | *cold and wet* | *Your coat is wet.* — 你的外套湿了。 | 亲子 |
+| **star** | /stɑr/ | 星星 | *under the stars* | *We can see the stars.* — 我们能看见星星。 | 亲子 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 帐篷和火
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **rumbling** | /ˈrəmbəlɪŋ/ | 隆隆响 | 低频 |
-| **snore** | /snɔr/ | 打鼾 | 低频 |
-| **chirp** | /ʧərp/ | （鸟）啁啾；叽喳叫 | 低频 |
-| **peg** | /pɛg/ | 木栓；钉；（帐篷）地钉 | 低频、多义 |
+| **How are you going to make that into a tent?** | 你打算怎么把那个弄成帐篷？ | **How are you going to do that?** | 东西还是一堆 |
+| **Do these pegs do anything?** | 这些地钉有用吗？ | **What are these for?** | 看见不认识的零件 |
+| **How can you light it without matches?** | 没有火柴你怎么点着？ | **How can you light it?** | 她看见没有火柴 |
+
+### 夜里的声音
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What is that sound?** | 那是什么声音？ | **What is that sound?** | 外面有响声 |
+| **Where's Daddy?** | 爸爸在哪儿？ | **Where are you?** | 早上人不见了 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **be going to** | *Peppa and her family are going camping.* | *We are going camping.* |
+| **一般过去时** | *This is the tent I had when I was a little boy.* | *I had this when I was little.* |
+| **现在完成时** | *That's because you've grown a bit.* | *You have grown.* |
+| **be going to** | *I'm going to make fire the old way.* | *I'm going to light it.* |
+| **must have** | *He must have been cold and wet.* | *You must have been cold.* |
+
+跟读命令句，不另算一种时态：
+
+- **Put the tent on the poles.** — 把帐篷套到撑杆上。
+- **Into the tent.** — 进帐篷。
+- **Move further in.** — 再往里挪一点。

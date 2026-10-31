@@ -260,7 +260,7 @@ Look! I just got a parcei in the post!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **choose** | /tʃuz/ | 选 | *secretly choose one* | *Choose a color.* — 选一个颜色。 | 亲子 |
+| **choose** | /tʃuz/ | 选 | *secretly choose one* | *Choose a color.* — 选一个颜色。 | 亲子、本季已见 |
 | **secretly** | /ˈsikrətli/ | 偷偷地 | *secretly choose one* | *Pick one secretly.* — 偷偷选一个。 | 亲子、本季已见 |
 | **candle** | /ˈkændl/ | 蜡烛 | *Blow the candles out* | *Count the candles.* — 数一数蜡烛。 | 亲子、教材已见、本季已见 |
 | **blow** | /bloʊ/ | 吹 | *Blow the candles out* | *Blow, then make a wish.* — 先吹，再许愿。 | 亲子、本季已见 |

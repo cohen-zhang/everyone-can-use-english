@@ -1,5 +1,7 @@
 **S1-19 dressing up**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -155,16 +157,75 @@ You really had us fooied!
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 穿爸爸妈妈的衣服
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **dress up** | /drɛs ʌp/ | 装扮 | *Let's dress up* | *We can dress up after dinner.* — 晚饭后我们可以装扮。 | 亲子 |
+| **pretend** | /prɪˈtɛnd/ | 假装 | *pretend to be Mummy and Daddy* | *Let's pretend we are at work.* — 我们假装在上班。 | 亲子、本季已见 |
+| **coat** | /koʊt/ | 外套 | *Daddy's coat* | *That coat is too long.* — 那件外套太长了。 | 亲子 |
+| **beautiful** | /ˈbjutəfəl/ | 好看 | *look beautiful* | *The garden looks beautiful.* — 花园看起来真好看。 | 亲子 |
+| **makeup** | /ˈmeɪkˌʌp/ | 化妆品 | *Mummy's make-up box* | *The makeup is in the box.* — 化妆品在盒子里。 | 亲子 |
+| **powder** | /ˈpaʊdər/ | 粉 | *some powder* | *Don't spill the powder.* — 别把粉撒出来。 | 亲子 |
+| **lipstick** | /ˈlɪpˌstɪk/ | 口红。台词写成 *Iipstick* | *some lipstick* | *The lipstick is red.* — 这支口红是红色的。 | 亲子、拼写 |
+| **pretty** | /ˈprɪti/ | 漂亮 | *a pretty Mummy Pig* | *That hat is pretty.* — 那顶帽子很漂亮。 | 亲子 |
+
+### 去上班，去挖土
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **pardon** | /ˈpɑrdn/ | 你说什么 | *I beg your pardon* | *Pardon, I didn't hear.* — 再说一遍，我没听见。 | 亲子、本季已见 |
+| **bored** | /bɔrd/ | 无聊 | *getting a bit bored* | *He gets bored quickly.* — 他很快就无聊了。 | 亲子、本季已见 |
+| **nearly** | /ˈnɪrli/ | 快要。上一集「差得远」是另一个意思 | *nearly finished* | *I am nearly finished.* — 我快做完了。 | 亲子、多义、本季已见 |
+| **kind** | /kaɪnd/ | 好心的 | *very kind of you* | *That was kind.* — 那样做真好心。 | 亲子、多义 |
+| **deep** | /dip/ | 深的 | *a very deep hole* | *The hole is deep.* — 这个坑很深。 | 亲子 |
+| **snort** | /snɔrt/ | 哼哼（猪叫） | *make big snorts* | *Pigs snort.* — 猪会哼哼。 | 亲子 |
+
+### 冰淇淋
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **ice cream** | /ˈaɪs ˌkrim/ | 冰淇淋 | *their favorite ice cream* | *Strawberry ice cream is cold.* — 草莓冰淇淋是凉的。 | 亲子 |
+| **take off** | /teɪk ɔf/ | 脱掉 | *take off those muddy clothes* | *Take off your boots at the door.* — 在门口把靴子脱掉。 | 亲子 |
+| **shame** | /ʃeɪm/ | 可惜 | *that's a shame* | *Missing the ice cream would be a shame.* — 错过冰淇淋就太可惜了。 | 亲子 |
+| **fool** | /ful/ | 骗过。台词写成 *fooied* | *had us fooled* | *You fooled me.* — 你把我骗过了。 | 亲子、拼写 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 你们是谁
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **lipstick** | /ˈlɪpˌstɪk/ | 口红 | 低频 |
-| **fooled** | /fuld/ | 骗了；上当 | 低频 |
-| **snort** | /snɔrt/ | （猪等）鼻息声；鼻哼一声 | 低频、多义 |
+| **What's this?** | 这是什么？ | **What's this?** | 她翻出一个盒子 |
+| **Where are your shoes?** | 你的鞋呢？ | **Where are your shoes?** | 装扮缺一件 |
+| **I beg your pardon?** | 你说什么？ | **Pardon?** | 她不承认自己的名字 |
+| **Are you sure?** | 你确定吗？ | **Are you sure?** | 她坚持自己是别人 |
 
----
+### 冰淇淋给谁
 
-## Related（Obsidian · 亲子扩展）
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **So, where are Peppa and George?** | 那佩奇和乔治在哪儿？ | **Where are the children?** | 她还在演戏 |
+| **You must take off those muddy clothes before you eat.** | 吃之前必须把沾泥的衣服脱掉。 | **Will you take them off first?** | 手上、衣服上是泥 |
 
-- **职业、角色与扮装游戏用语**（含本集「扮爸／扮妈」对照表）：[[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]] — 与此页 **相向互链**。
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **一般现在时** | *I'm not Peppa Pig. I'm Mummy Pig.* | *I am not Peppa.* |
+| **过去进行时** | *I was just saying hello.* | *I was just saying hello.* |
+| **must** | *You must take off those muddy clothes.* | *You must take them off.* |
+| **过去进行时** | *We were just pretending to be you and Daddy.* | *We were just pretending.* |
+| **一般过去时** | *You really had us fooled.* | *You fooled us.* |
+
+跟读命令句，不另算一种时态：
+
+- **Come along.** — 跟我来。
+- **Be careful.** — 小心。
+- **Take off those clothes.** — 把那些衣服脱掉。

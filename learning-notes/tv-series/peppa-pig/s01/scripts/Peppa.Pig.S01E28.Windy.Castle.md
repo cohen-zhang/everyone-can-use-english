@@ -220,14 +220,14 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **castle** | /ˈkæsəl/ | 城堡 | *a castle on a very high hill* | *We can see a castle.* — 我们能看见一座城堡。 | 亲子 |
-| **windy** | /ˈwɪndi/ | 风大的。这里也是城堡的名字 | *Windy Castle* | *It is windy today.* — 今天风很大。 | 亲子 |
+| **castle** | /ˈkæsəl/ | 城堡 | *a castle on a very high hill* | *We can see a castle.* — 我们能看见一座城堡。 | 亲子、本季已见 |
+| **windy** | /ˈwɪndi/ | 风大的。这里也是城堡的名字 | *Windy Castle* | *It is windy today.* — 今天风很大。 | 亲子、本季已见 |
 | **hill** | /hɪl/ | 小山 | *a very high hill* | *The house is on a hill.* — 房子在小山上。 | 亲子 |
 | **view** | /vju/ | 风景；视野 | *a great view* | *The view is great.* — 风景很好。 | 亲子 |
 | **tall** | /tɔl/ | 高的 | *so tall* | *That building is tall.* — 那栋楼很高。 | 亲子 |
 | **telescope** | /ˈtɛləˌskoʊp/ | 望远镜 | *through the telescope* | *Look through the telescope.* — 用望远镜看。 | 亲子 |
 | **far** | /fɑr/ | 远 | *so far away* | *It is far away.* — 离得很远。 | 亲子 |
-| **wave** | /weɪv/ | 挥手。这里不是海浪 | *waving at us* | *Wave at me.* — 向我挥手。 | 亲子、多义 |
+| **wave** | /weɪv/ | 挥手。这里不是海浪 | *waving at us* | *Wave at me.* — 向我挥手。 | 亲子、多义、本季已见 |
 | **fantastic** | /fænˈtæstɪk/ | 好极了 | *the view is fantastic* | *This park is fantastic.* — 这个公园好极了。 | 亲子 |
 
 ### 看地图
@@ -235,9 +235,9 @@ This is my little brother, George.
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
 | **map** | /mæp/ | 地图 | *I'll map-read* | *Look at the map.* — 看地图。 | 亲子 |
-| **grumpy** | /ˈɡrʌmpi/ | 脾气坏的 | *you get grumpy* | *Don't get grumpy.* — 别发脾气。 | 亲子 |
+| **grumpy** | /ˈɡrʌmpi/ | 脾气坏的 | *you get grumpy* | *Don't get grumpy.* — 别发脾气。 | 亲子、本季已见 |
 | **lost** | /lɔst/ | 迷路 | *We've got a bit lost* | *We are lost.* — 我们迷路了。 | 亲子、本季已见 |
-| **exactly** | /ɪɡˈzæktli/ | 确切地 | *exactly where we are* | *I know exactly where it is.* — 我清楚它在哪儿。 | 亲子 |
+| **exactly** | /ɪɡˈzæktli/ | 确切地 | *exactly where we are* | *I know exactly where it is.* — 我清楚它在哪儿。 | 亲子、本季已见 |
 | **although** | /ɔlˈðoʊ/ | 虽然 | *Although this road doesn't look the same* | *Although it is late, we can look.* — 虽然晚了，我们还能看一眼。 | 亲子 |
 | **route** | /raʊt/ | 路线。也可读 /rut/ | *the best route* | *This is the best route.* — 这条路最好走。 | 亲子、易读错 |
 | **main** | /meɪn/ | 主要的 | *the main road* | *Stay on the main road.* — 走大路。 | 亲子 |

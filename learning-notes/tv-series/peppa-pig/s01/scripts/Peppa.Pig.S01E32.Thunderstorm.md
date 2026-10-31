@@ -182,8 +182,8 @@ SpIish, splash, spiosh, spiish!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **picnic** | /ˈpɪknɪk/ | 野餐 | *having a picnic* | *Let's have a picnic.* — 我们去野餐吧。 | 亲子 |
-| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | *Mr. Dinosaur* | *This toy is a dinosaur.* — 这个玩具是恐龙。 | 亲子 |
+| **picnic** | /ˈpɪknɪk/ | 野餐 | *having a picnic* | *Let's have a picnic.* — 我们去野餐吧。 | 亲子、本季已见 |
+| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | *Mr. Dinosaur* | *This toy is a dinosaur.* — 这个玩具是恐龙。 | 亲子、本季已见 |
 | **strange** | /streɪndʒ/ | 奇怪的 | *that strange noise* | *I heard a strange noise.* — 我听见一个奇怪的声音。 | 亲子、本季已见 |
 
 ### 雷雨
@@ -195,8 +195,8 @@ SpIish, splash, spiosh, spiish!
 | **bang** | /bæŋ/ | 砰的一声 | *a loud bang* | *We heard a loud bang.* — 我们听见砰的一声。 | 亲子 |
 | **loud** | /laʊd/ | 响的 | *very loud* | *The thunder is loud.* — 雷声很大。 | 亲子 |
 | **dark** | /dɑrk/ | 暗 | *getting darker and darker* | *The sky is getting dark.* — 天暗下来了。 | 亲子 |
-| **rain** | /reɪn/ | 雨 | *before the rain starts* | *The rain is starting.* — 雨开始下了。 | 亲子、教材已见 |
-| **panic** | /ˈpænɪk/ | 慌 | *No need to panic* | *We have time. Don't panic.* — 还有时间，别慌。 | 亲子 |
+| **rain** | /reɪn/ | 雨 | *before the rain starts* | *The rain is starting.* — 雨开始下了。 | 亲子、教材已见、本季已见 |
+| **panic** | /ˈpænɪk/ | 慌 | *No need to panic* | *We have time. Don't panic.* — 还有时间，别慌。 | 亲子、本季已见 |
 | **flash** | /flæʃ/ | 闪电那一下 | *each flash and bang* | *Count after the flash.* — 闪电之后再数。 | 亲子 |
 | **frightened** | /ˈfraɪtənd/ | 害怕 | *don't be frightened* | *The bang frightened me.* — 那一声把我吓了一跳。 | 亲子 |
 
@@ -205,16 +205,16 @@ SpIish, splash, spiosh, spiish!
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
 | **rescue** | /ˈrɛskju/ | 救出；拿回来 | *will rescue Teddy* | *I will rescue your toy.* — 我去把你的玩具拿回来。 | 亲子 |
-| **hurry** | /ˈhɜri/ | 赶快 | *You'd better hurry* | *Hurry. The rain is starting.* — 赶快，雨要下了。 | 亲子 |
+| **hurry** | /ˈhɜri/ | 赶快 | *You'd better hurry* | *Hurry. The rain is starting.* — 赶快，雨要下了。 | 亲子、本季已见 |
 | **soaking** | /ˈsoʊkɪŋ/ | 湿透 | *soaking wet* | *Your coat is soaking wet.* — 你的外套湿透了。 | 亲子 |
 | **dry** | /draɪ/ | 弄干；干的 | *Let's get him dry* | *Let's get you dry.* — 我们把你弄干。 | 亲子 |
 | **bucket** | /ˈbʌkɪt/ | 水桶 | *using a bucket* | *Put a bucket there.* — 在那儿放一个桶。 | 亲子 |
 | **drip** | /drɪp/ | 滴下来的水 | *catch the drips* | *Catch the drips with a bowl.* — 用碗接滴下来的水。 | 亲子 |
 | **puddle** | /ˈpʌdəl/ | 水坑 | *muddy puddles* | *The rain made a puddle.* — 雨积成了一个水坑。 | 亲子、本季已见 |
-| **further** | /ˈfɜrðər/ | 更远 | *the further away* | *The storm is further away now.* — 雷雨现在更远了。 | 亲子 |
+| **further** | /ˈfɜrðər/ | 更远 | *the further away* | *The storm is further away now.* — 雷雨现在更远了。 | 亲子、本季已见 |
 | **count** | /kaʊnt/ | 数 | *Let's count* | *Count to five.* — 数到五。 | 亲子 |
-| **well done** | /ˌwɛl ˈdən/ | 做得好。这里不是牛排全熟 | *Well done, Daddy Pig* | *Well done.* — 做得好。 | 亲子、多义 |
-| **easy as pie** | /ˈizi æz ˈpaɪ/ | 小菜一碟 | *Easy as pie* | *That job is easy as pie.* — 那件事很容易。 | 亲子、有难度 |
+| **well done** | /ˌwɛl ˈdən/ | 做得好。这里不是牛排全熟 | *Well done, Daddy Pig* | *Well done.* — 做得好。 | 亲子、多义、本季已见 |
+| **easy as pie** | /ˈizi æz ˈpaɪ/ | 小菜一碟 | *Easy as pie* | *That job is easy as pie.* — 那件事很容易。 | 亲子、有难度、本季已见 |
 
 ## 亲子问句 · Questions you can ask
 

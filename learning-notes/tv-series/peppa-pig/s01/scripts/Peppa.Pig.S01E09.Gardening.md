@@ -1,5 +1,7 @@
 **S1-09 gardening**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig. This is my little brother, George.
 
@@ -179,9 +181,72 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 种子
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **gardening** | /ˈɡɑrdənɪŋ/ | 种菜；打理花园 | *Gardening* | *Grandpa is gardening.* — 爷爷在打理花园。 | 亲子 |
+| **plant** | /plænt/ | 种植；植物 | *planting these seeds* | *We can plant it here.* — 我们可以种在这里。 | 亲子、多义 |
+| **seed** | /sid/ | 种子 | *What do seeds do?* | *Put the seed in the hole.* — 把种子放进小坑。 | 亲子 |
+| **grow** | /ɡroʊ/ | 生长 | *seeds grow into plants* | *It will grow.* — 它会长大。 | 亲子 |
+| **hole** | /hoʊl/ | 小坑 | *make a little hole* | *The hole is too small.* — 这个坑太小了。 | 亲子 |
+| **earth** | /ɜrθ/ | 土。上一集 *what on earth* 是「究竟」 | *cover it with earth* | *The earth is dry.* — 土是干的。 | 亲子、多义、本季已见 |
+| **cover** | /ˈkʌvər/ | 盖上 | *cover it with earth* | *Cover the pot.* — 把盆盖上。 | 亲子 |
+| **water** | /ˈwɔtər/ | 浇水 | *Shall I water it* | *I will water it.* — 我来浇水。 | 亲子、多义 |
+
+### 等它长
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **apple** | /ˈæpəl/ | 苹果 | *the big apple tree* | *The apple has seeds.* — 苹果里面有种子。 | 亲子 |
+| **strawberry** | /ˈstrɔˌbɛri/ | 草莓 | *a strawberry seed* | *We can grow strawberries.* — 我们可以种草莓。 | 亲子 |
+| **patient** | /ˈpeɪʃənt/ | 有耐心。上一集是「病人」 | *you will have to be patient* | *Be patient. It takes time.* — 耐心点，要花时间。 | 亲子、多义、本季已见 |
+| **exactly** | /ɪɡˈzæktli/ | 对，就是这样 | *Exactly!* | *Exactly. That is right.* — 对，就是这样。 | 亲子 |
+| **special** | /ˈspɛʃəl/ | 特别的 | *something very special* | *This one is special.* — 这个特别。 | 亲子 |
+
+### 还要种什么
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **carrot** | /ˈkɛrət/ | 胡萝卜 | *grow a carrot* | *A carrot grows under the earth.* — 胡萝卜长在土里。 | 亲子 |
+| **choose** | /tʃuz/ | 选 | *George's turn to choose* | *You choose.* — 你来选。 | 亲子 |
+| **day by day** | /ˌdeɪ baɪ ˈdeɪ/ | 一天天 | *day by day* | *It grows day by day.* — 它一天天长大。 | 亲子 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 种子做什么
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
-| **gardening** | /ˈgɑrdənɪŋ/ | 园艺；打理花园 | 低频 |
+| **What are you doing?** | 你在干什么？ | **What are you doing?** | 看见有人在挖土 |
+| **What do seeds do?** | 种子是干什么的？ | **What does a seed do?** | 她拿着种子问 |
+| **Would you like to plant a strawberry seed?** | 你想种一颗草莓种子吗？ | **Would you like to plant one?** | 让她自己种 |
+
+### 长出来了吗
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Shall I water it for you?** | 要不要我帮你浇水？ | **Shall I water it?** | 她想自己浇，先问一句 |
+| **Did my plant grow?** | 我的植物长出来了吗？ | **Did it grow?** | 过了几天再来看 |
+| **What would you like to grow?** | 你想种什么？ | **What would you like to grow?** | 换下一个人选 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *I'm planting these seeds.* | *I am planting a seed.* |
+| **will** | *This seed will grow into a plant.* | *It will grow.* |
+| **have to** | *You will have to be patient.* | *You have to be patient.* |
+| **将来完成时** | *The seed will have grown into a plant.* | *It will have grown by next week.* |
+| **一般过去时** | *I wanted strawberries for tea.* | *I wanted strawberries.* |
+
+跟读命令句，不另算一种时态：
+
+- **Make a little hole.** — 挖一个小坑。
+- **Look.** — 看。

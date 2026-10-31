@@ -172,9 +172,9 @@ If you jump in muddy puddles, you must wear your boots!
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **lost** | /lɔst/ | 丢了 | *I've lost them* | *I lost my shoes.* — 我的鞋丢了。 | 亲子 |
-| **everywhere** | /ˈɛvriˌwɛr/ | 到处 | *looked everywhere* | *I looked everywhere for my book.* — 我到处找我的书。 | 亲子 |
-| **either** | /ˈiðər/ | 也（不） | *not there, either* | *It is not in the bag, either.* — 包里也没有。 | 亲子 |
+| **lost** | /lɔst/ | 丢了 | *I've lost them* | *I lost my shoes.* — 我的鞋丢了。 | 亲子、本季已见 |
+| **everywhere** | /ˈɛvriˌwɛr/ | 到处 | *looked everywhere* | *I looked everywhere for my book.* — 我到处找我的书。 | 亲子、本季已见 |
+| **either** | /ˈiðər/ | 也（不） | *not there, either* | *It is not in the bag, either.* — 包里也没有。 | 亲子、本季已见 |
 | **poor** | /pʊr/ | 可怜的。这里不是「穷」 | *Poor Peppa* | *Poor Celine, you lost your shoe.* — 可怜的 Celine，鞋丢了。 | 亲子、多义 |
 | **flower bed** | /ˈflaʊər ˌbɛd/ | 花坛 | *looking in the flower bed* | *The ball is in the flower bed.* — 球在花坛里。 | 亲子 |
 | **flowerpot** | /ˈflaʊərˌpɑt/ | 花盆 | *look in the flowerpots* | *The flowerpot is by the door.* — 花盆在门边。 | 亲子 |
@@ -185,23 +185,23 @@ If you jump in muddy puddles, you must wear your boots!
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
 | **pair** | /pɛr/ | 一双 | *a new pair* | *I need a new pair of shoes.* — 我需要一双新鞋。 | 亲子、教材已见 |
-| **draughts** | /dræfts/ | 国际跳棋（英式）。这集是在下棋，不是穿堂风 | *playing draughts* | *Let's play draughts.* — 我们来下跳棋。 | 亲子、多义 |
+| **draughts** | /dræfts/ | 国际跳棋（英式）。这集是在下棋，不是穿堂风 | *playing draughts* | *Let's play draughts.* — 我们来下跳棋。 | 亲子、多义、本季已见 |
 | **smart** | /smɑrt/ | 整齐、精神。这里不是「聪明」 | *look very smart* | *You look smart in those shoes.* — 你穿这双鞋很精神。 | 亲子、多义 |
 | **pajamas** | /pəˈdʒɑməz/ | 睡衣 | *in her pajamas* | *Put on your pajamas.* — 把睡衣穿上。 | 亲子、拼写 |
-| **bath** | /bæθ/ | 洗澡 | *bath time* | *It is bath time.* — 该洗澡了。 | 亲子 |
-| **take off** | /teɪk ɔf/ | 脱掉 | *take your shoes off* | *Take off your shoes.* — 把鞋脱掉。 | 亲子 |
+| **bath** | /bæθ/ | 洗澡 | *bath time* | *It is bath time.* — 该洗澡了。 | 亲子、本季已见 |
+| **take off** | /teɪk ɔf/ | 脱掉 | *take your shoes off* | *Take off your shoes.* — 把鞋脱掉。 | 亲子、本季已见 |
 | **of course** | /əv kɔrs/ | 当然 | *Of course, they can* | *Of course you can.* — 当然可以。 | 亲子 |
 
 ### 下雨和泥坑
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **rain** | /reɪn/ | 雨 | *raining all night* | *It is raining.* — 下雨了。 | 亲子、教材已见 |
-| **wet** | /wɛt/ | 湿的 | *very wet* | *The grass is wet.* — 草地是湿的。 | 亲子 |
+| **rain** | /reɪn/ | 雨 | *raining all night* | *It is raining.* — 下雨了。 | 亲子、教材已见、本季已见 |
+| **wet** | /wɛt/ | 湿的 | *very wet* | *The grass is wet.* — 草地是湿的。 | 亲子、本季已见 |
 | **grass** | /ɡræs/ | 草地 | *wet grass* | *Don't sit on the wet grass.* — 别坐在湿草地上。 | 亲子 |
-| **boots** | /buts/ | 靴子 | *wearing her boots* | *Wear your boots.* — 穿上靴子。 | 亲子 |
-| **muddy** | /ˈmʌdi/ | 沾满泥的 | *muddy puddles* | *Your boots are muddy.* — 你的靴子上全是泥。 | 亲子 |
-| **puddle** | /ˈpʌdəl/ | 水坑 | *muddy puddles* | *Jump over the puddle.* — 从水坑上跳过去。 | 亲子 |
+| **boots** | /buts/ | 靴子 | *wearing her boots* | *Wear your boots.* — 穿上靴子。 | 亲子、教材已见、本季已见 |
+| **muddy** | /ˈmʌdi/ | 沾满泥的 | *muddy puddles* | *Your boots are muddy.* — 你的靴子上全是泥。 | 亲子、本季已见 |
+| **puddle** | /ˈpʌdəl/ | 水坑 | *muddy puddles* | *Jump over the puddle.* — 从水坑上跳过去。 | 亲子、本季已见 |
 
 ## 亲子问句 · Questions you can ask
 

@@ -1,5 +1,7 @@
 **S1-17 picnic**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -180,12 +182,80 @@ This is my little brother, George.
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 出发野餐
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **picnic** | /ˈpɪknɪk/ | 野餐 | *going for a picnic* | *Pack the food for a picnic.* — 把野餐的吃的装好。 | 亲子 |
+| **tease** | /tiz/ | 逗。*just teasing* 只是逗你 | *I was just teasing* | *Don't tease your brother.* — 别逗弟弟。 | 亲子 |
+| **homemade** | /ˌhoʊmˈmeɪd/ | 自己做的 | *home-made strawberry cake* | *This bread is homemade.* — 这个面包是自己做的。 | 亲子 |
+| **spot** | /spɑt/ | 地方。这里不是「斑点」 | *just the spot* | *This is a good spot.* — 这里是个好地方。 | 亲子、多义 |
+| **outdoors** | /ˌaʊtˈdɔrz/ | 在户外 | *great to be outdoors* | *Let's eat outdoors.* — 我们到外面吃。 | 亲子 |
+| **exercise** | /ˈɛksərˌsaɪz/ | 活动身体 | *get some exercise* | *A walk is good exercise.* — 走走是很好的活动。 | 亲子 |
+| **nap** | /næp/ | 打个盹 | *have a nap* | *You can have a nap after lunch.* — 午饭后你可以打个盹。 | 亲子 |
+| **certainly** | /ˈsɜrtənli/ | 当然；绝对 | *I certainly don't* | *I certainly want to come.* — 我当然想去。 | 亲子 |
+
+### 喂鸭子
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **delicious** | /dɪˈlɪʃəs/ | 好吃 | *delicious* | *The soup is delicious.* — 这汤很好吃。 | 亲子 |
+| **sleepy** | /ˈslipi/ | 困。台词写成 *sIeepy* | *I feel quite sleepy* | *A nap helps when you are sleepy.* — 困了就打个盹。 | 亲子、拼写 |
+| **duck** | /dʌk/ | 鸭子 | *feed the ducks* | *The ducks are on the water.* — 鸭子在水上。 | 亲子 |
+| **pond** | /pɑnd/ | 池塘 | *a little duck pond* | *There is a pond in the park.* — 公园里有一个池塘。 | 亲子 |
+| **feed** | /fid/ | 喂 | *feed the ducks* | *We can feed the birds.* — 我们可以喂鸟。 | 亲子 |
+| **rest** | /rɛst/ | 剩下的 | *the rest of the bread* | *You can have the rest.* — 剩下的归你。 | 亲子、多义 |
+| **enough** | /ɪˈnʌf/ | 够了 | *had enough* | *The ducks have had enough bread.* — 鸭子的面包已经够了。 | 亲子、本季已见 |
+
+### 黄蜂
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **wasp** | /wɑsp/ | 黄蜂 | *It's only a little wasp* | *A wasp is not a bee.* — 黄蜂不是蜜蜂。 | 亲子 |
+| **fuss** | /fʌs/ | 大惊小怪 | *What a fuss* | *Don't make a fuss.* — 别大惊小怪。 | 亲子 |
+| **sting** | /stɪŋ/ | 蛰 | *doesn't sting* | *A wasp can sting.* — 黄蜂会蛰人。 | 亲子 |
+| **pest** | /pɛst/ | 讨厌的小东西 | *you little pest* | *That fly is a pest.* — 那只苍蝇真讨厌。 | 亲子 |
+| **slice** | /slaɪs/ | 一片 | *my slice of cake* | *I want a small slice.* — 我要一小片。 | 亲子 |
+| **believe** | /bɪˈliv/ | 相信 | *I didn't believe you'd do it* | *I believe you.* — 我相信你。 | 亲子 |
+| **promise** | /ˈprɑməs/ | 答应 | *We promised the rest* | *We promised the ducks.* — 我们答应过鸭子。 | 亲子、本季已见 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 吃还是先跑一跑
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **picnic blanket** | /ˈpɪkˌnɪk ˈblæŋkɪt/ | 野餐垫 | 低频、拼写 |
-| **lemonade** | /ˈlɛməˈneɪd/ | 柠檬水 | 低频 |
-| **sleepy** | /sˈlipi/ | 困的 | 低频 |
-| **scram** | /skræm/ | 滚开 | 低频 |
-| **picnic** | /ˈpɪkˌnɪk/ | 野餐 | 低频 |
+| **Is there anything we've forgotten?** | 我们有没有落下什么？ | **Did we forget anything?** | 出门前对一下东西 |
+| **Is everybody ready?** | 大家都准备好了吗？ | **Are you ready?** | 要走了 |
+| **Can we feed the ducks?** | 我们可以喂鸭子吗？ | **Can we feed them?** | 她看见池塘 |
+
+### 蛋糕还剩吗
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **I think they want some more.** | 我觉得它们还想要。 | **Do they want more?** | 鸭子还围着不走 |
+| **I'm sure they've had enough.** | 我肯定它们已经够了。 | **Have they had enough?** | 她还想再给 |
+| **We promised the rest of the cake for the ducks.** | 我们答应剩下的蛋糕给鸭子。 | **Who did we promise it to?** | 有人想自己吃掉剩下的 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *They are going for a picnic.* | *We are going for a picnic.* |
+| **will** | *Later, I will get some exercise.* | *I will run later.* |
+| **现在完成时** | *I'm sure they've had enough.* | *You have had enough.* |
+| **hope** | *I hope the wasp doesn't sting Daddy.* | *I hope it doesn't sting you.* |
+| **一般过去时** | *I didn't believe you'd do it.* | *I didn't believe you would run.* |
+
+跟读命令句，不另算一种时态：
+
+- **Let's go.** — 我们走吧。
+- **Stay still.** — 别动。
+- **Go away.** — 走开。
+- **Stop.** — 停下。

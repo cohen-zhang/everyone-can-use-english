@@ -1,5 +1,7 @@
 **S1-20 the school fete**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -198,13 +200,75 @@ This is the best school fete, ever!
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 游园会
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **fete** | /feɪt/ | 学校游园会（英式） | *the school fete* | *The fete is on Saturday.* — 游园会在星期六。 | 亲子 |
+| **balloon** | /bəˈlun/ | 气球 | *a dinosaur balloon* | *Hold the balloon.* — 拿好气球。 | 亲子 |
+| **bouncy** | /ˈbaʊnsi/ | 会弹的 | *the bouncy castle* | *The castle is bouncy.* — 这个城堡会把人弹起来。 | 亲子 |
+| **castle** | /ˈkæsəl/ | 城堡。这里是充气城堡 | *the bouncy castle* | *We can bounce on the castle.* — 我们可以在城堡上跳。 | 亲子 |
+| **certain** | /ˈsɜrtən/ | 肯定 | *I'm certain of it* | *I am certain they have one.* — 我肯定他们有。 | 亲子 |
+| **instead** | /ɪnˈstɛd/ | 改成 | *a tiger instead* | *Have an apple instead.* — 改成吃一个苹果吧。 | 亲子 |
+| **ever** | /ˈɛvər/ | 从来。*the best ever* | *the best school fete, ever* | *This is the best day ever.* — 这是有史以来最好的一天。 | 亲子、本季已见 |
+
+### 画成老虎
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **tiger** | /ˈtaɪɡər/ | 老虎 | *you look like a tiger* | *A tiger is a big cat.* — 老虎是一种大猫。 | 亲子 |
+| **elephant** | /ˈɛləfənt/ | 大象 | *be an elephant* | *An elephant is big.* — 大象很大。 | 亲子 |
+| **purr** | /pɜr/ | （猫高兴时）呼噜 | *they purr* | *A happy cat will purr.* — 高兴的猫会打呼噜。 | 亲子 |
+| **creep** | /krip/ | 慢慢靠近 | *creep very slowly* | *The cat creeps, then jumps.* — 猫先慢慢靠近，再跳。 | 亲子、本季已见 |
+| **lick** | /lɪk/ | 舔 | *lick themselves clean* | *The cat licks its paw.* — 猫舔自己的爪子。 | 亲子、本季已见 |
+
+### 动物气球
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **kangaroo** | /ˌkæŋɡəˈru/ | 袋鼠 | *Is it a kangaroo?* | *A kangaroo can jump.* — 袋鼠会跳。 | 亲子 |
+| **lion** | /ˈlaɪən/ | 狮子 | *A lion, please* | *A lion has a loud voice.* — 狮子的声音很大。 | 亲子 |
+| **monkey** | /ˈmʌŋki/ | 猴子 | *A monkey, please* | *The monkey has a long tail.* — 猴子有一条长尾巴。 | 亲子 |
+| **bounce** | /baʊns/ | 蹦 | *bouncing on the bouncy castle* | *Don't bounce on the bed.* — 别在床上蹦。 | 亲子 |
+| **guess** | /ɡɛs/ | 猜 | *Can anyone guess* | *Guess what this is.* — 猜这是什么。 | 亲子 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 你最喜欢哪样
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
-| **pussycat** | /ˈpʊsiˌkæt/ | 小猫咪（昵称） | 低频 |
-| **fete** | /feɪt/ | （户外）游园会；义卖会 | 低频 |
-| **gazelle** | /gəˈzɛl/ | 羚羊（瞪羚一类） | 低频 |
-| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
-| **bouncy** | /ˈbaʊnsi/ | 有弹性；蹦跳的 | 低频 |
+| **What do you like best?** | 你最喜欢哪样？ | **What do you like best?** | 游园会有很多摊 |
+| **Are you sure they have dinosaur balloons?** | 你确定他们有恐龙气球吗？ | **Are you sure they have it?** | 她不敢保证 |
+| **Can we get our faces painted first?** | 我们可以先去脸部彩绘吗？ | **Can we do that first?** | 她想先做一件 |
+| **Would you like your face painted?** | 你想画脸吗？ | **Would you like a tiger?** | 排到她了 |
+
+### 画成什么
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can I be an elephant?** | 我可以画成大象吗？ | **Can I be an elephant?** | 她不想要老虎 |
+| **What would you like to be?** | 你想变成什么？ | **What would you like to be?** | 问下一个人 |
+| **Can you teach us how to be tigers?** | 你能教我们怎么当老虎吗？ | **Can you teach us?** | 她想学动作 |
+| **Can anyone guess what it is?** | 有人猜得出这是什么吗？ | **Can you guess what it is?** | 气球扭好了，先别说 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **一般现在时** | *Today is the day of the school fete.* | *Today is the fete.* |
+| **would like** | *Would you like your face painted?* | *Would you like a balloon?* |
+| **have to** | *We have to find George a dinosaur balloon.* | *We have to find one.* |
+| **现在完成时** | *Daddy Pig has made a balloon dinosaur.* | *He has made one.* |
+| **一般现在时** | *This is the best school fete, ever.* | *This is the best one ever.* |
+
+跟读命令句，不另算一种时态：
+
+- **Watch this.** — 看这个。
+- **Don't worry.** — 别担心。

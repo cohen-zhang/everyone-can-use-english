@@ -1,5 +1,7 @@
 **S1-06 the playground**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -153,13 +155,75 @@ Bri-y-ant!
 
 ## Episode vocabulary（本集词汇）
 
-*成人向精简：读者默认 **简中母语、成人**，目标含工作/亲子口语。**「低频」**兼指「通用英语里仍少遇」或「**对中国成人学习者仍值得本集收束**」—后者**不等于**台词里出现次数少，也**勿唯英美 zipf / 儿童剧里常见**就删。收录笔误对照、拼写/读音/搭配难点、术语；剔除无教学价值的超高频碎片、纯拟声、迟疑音。*
+给 9 岁跟读。收的是这一集里不认识就会听不懂剧情的词。标「本季已见」的，前面的集里已经收过。「示例句」是家里能说的完整句，不重复本集原句。
 
-| Word | IPA (GA) | 简中义项 | 标签 |
+### 第一天上游戏小组
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **playgroup** | /ˈpleɪˌɡrup/ | 幼儿游戏小组 | *going to the playgroup* | *Today is playgroup.* — 今天去游戏小组。 | 亲子 |
+| **forward** | /ˈfɔrwərd/ | 盼着。*look forward to* | *looking forward to the playgroup* | *I am looking forward to Saturday.* — 我盼着星期六。 | 亲子 |
+| **company** | /ˈkʌmpəni/ | 陪伴。*keep him company* 陪着他 | *keep him company* | *Stay and keep her company.* — 留下来陪陪她。 | 亲子 |
+| **wish** | /wɪʃ/ | 希望 | *I wish I had a little brother* | *I wish I had a pet.* — 我希望我有一只宠物。 | 亲子 |
+| **proud** | /praʊd/ | 为……骄傲 | *proud of her little brother* | *I am proud of you.* — 我为你骄傲。 | 亲子 |
+| **enough** | /ɪˈnʌf/ | 足够 | *big enough* | *Are you big enough?* — 你够大了吗？ | 亲子 |
+
+### 画画
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **paint** | /peɪnt/ | 画 | *paint a flower* | *Paint a house.* — 画一座房子。 | 亲子 |
+| **circle** | /ˈsɜrkəl/ | 圆圈 | *paint a big circle* | *Draw a big circle.* — 画一个大圆。 | 亲子 |
+| **wrong** | /rɔŋ/ | 错的 | *the wrong color* | *That is the wrong color.* — 那个颜色不对。 | 亲子 |
+| **color** | /ˈkʌlər/ | 颜色 | *the wrong color* | *Pick another color.* — 再选一个颜色。 | 亲子 |
+| **petal** | /ˈpɛtəl/ | 花瓣。台词写成 *petais* | *the flower's petals* | *A flower has petals.* — 花有花瓣。 | 亲子、拼写 |
+| **shape** | /ʃeɪp/ | 形状 | *the wrong shape* | *That shape is wrong.* — 那个形状不对。 | 亲子 |
+| **stalk** | /stɔk/ | 茎。台词写成 *staik* | *paint the stalk* | *Paint the stalk green.* — 把茎涂成绿色。 | 亲子、拼写 |
+| **leaf** | /lif/ | 叶子。复数 *leaves* /livz/ | *the leaves* | *This plant has two leaves.* — 这棵植物有两片叶子。 | 亲子 |
+| **perfect** | /ˈpɜrfɪkt/ | 很好；正合适 | *Perfect!* | *That circle is perfect.* — 那个圆刚刚好。 | 亲子 |
+
+### 贴到墙上
+
+| Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
+| --- | --- | --- | --- | --- | --- |
+| **brilliant** | /ˈbrɪljənt/ | 太棒了 | *That's brilliant* | *Your picture is brilliant.* — 你的画太棒了。 | 亲子 |
+| **wall** | /wɔl/ | 墙 | *go on the wall* | *We can put it on the wall.* — 我们可以把它贴到墙上。 | 亲子 |
+| **pick up** | /pɪk ʌp/ | 接走 | *parents are here to pick them up* | *I will pick you up later.* — 我过一会儿来接你。 | 亲子 |
+| **lovely** | /ˈlʌvli/ | 好看的 | *another lovely picture* | *That is a lovely picture.* — 那张画真好看。 | 亲子 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 弟弟能不能去
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **playgroup** | /ˈpleɪˌɡruːp/ | 幼儿园游戏小组（幼儿集体游戏班） | 低频 |
-| **brilliant** | /ˈbrɪljənt/ | 太棒了；出色的 | 低频 |
-| **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
-| **stalk** | /stɔk/ | （花草的）茎；柄 | 低频 |
-| **gazelle** | /gəˈzɛl/ | 羚羊（瞪羚一类） | 低频 |
-| **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
+| **Are you looking forward to the playgroup?** | 你盼着去游戏小组吗？ | **Are you looking forward to it?** | 出门前 |
+| **Are you sure George is big enough?** | 你确定乔治够大了吗？ | **Are you big enough?** | 她担心太小 |
+| **Can George come next time?** | 乔治下次还能来吗？ | **Can you come next time?** | 结束时问还能不能再来 |
+
+### 怎么画
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Shall we show George how we paint pictures?** | 我们要不要给乔治看怎么画画？ | **Shall I show you?** | 她想教弟弟 |
+| **What will you paint next time?** | 你下次画什么？ | **What will you paint next time?** | 收画的时候 |
+| **Maybe you could help him?** | 也许你可以帮帮他？ | **Can you help him?** | 弟弟画不好 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **be going to** | *Peppa and George are going to the playgroup.* | *We are going to the playgroup.* |
+| **will** | *He'll be fine.* | *You will be fine.* |
+| **wish + 过去式** | *I wish I had a little brother like George.* | *I wish I had a brother.* |
+| **be going to** | *I'm going to teach you how to paint a flower.* | *I'm going to show you.* |
+| **现在完成时** | *George, you've done it all wrong!* | *You have done it.* |
+| **must** | *You must be very proud of your little brother.* | *You must be proud of him.* |
+
+跟读命令句，不另算一种时态：
+
+- **First, you paint a big circle.** — 先画一个大圆。

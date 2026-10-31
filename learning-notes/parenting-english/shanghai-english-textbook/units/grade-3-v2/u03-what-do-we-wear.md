@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Shenzhen]]
 **扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — 本集 *a pair of shoes* 标了「教材已见」。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — 本集 *wear*、*boots* 标了「教材已见」。
 
 ---
 
