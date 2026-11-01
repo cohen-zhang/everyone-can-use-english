@@ -1,6 +1,7 @@
 **S1-20 the school fete**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Would you like** 是这一集的跟读版。
+**相关：** *would like* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u04-what-do-we-buy|四上 U4 · 买什么]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -272,3 +273,18 @@ This is the best school fete, ever!
 
 - **Watch this.** — 看这个。
 - **Don't worry.** — 别担心。
+
+## 特色 · Would you like
+
+这一集在游园会上挑喜欢的东西。问的是 **What do you like** 和 **Would you like**。**Do you like** 本集没说。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **What do you like best** 最喜欢什么 | *What do you like best?* | *What do you like best at a party?* — 派对上你最喜欢什么？ |
+| **I like** 我喜欢 | *I like the balloons!* | *I like the red balloons.* — 我喜欢红气球。 |
+| **the best** 最喜欢 | *I like the bouncy castle the best!* | *I like the slide the best.* — 我最喜欢滑梯。 |
+| **everything** 全都喜欢 | *I like everything!* | *I like everything at the park.* — 我喜欢公园里的每一样。 |
+| **Would you like** 你想不想 | *Would you like your face painted?* | *Would you like a tiger face?* — 你想画一张老虎脸吗？ |
+| **What would you like to be** 想扮成什么 | *What would you like to be?* | *What would you like to be today?* — 你今天想扮成什么？ |
+| **We'd like** 我们想要 | *We'd like some balloons, please.* | *We would like two balloons, please.* — 我们想要两个气球。 |
+| **Do you like** 你喜欢吗 | 本集没说。这一集问的是 *What do you like* | *Do you like balloons?* — 你喜欢气球吗？ |

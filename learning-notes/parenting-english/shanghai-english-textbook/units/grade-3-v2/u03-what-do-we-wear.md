@@ -19,8 +19,9 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常 — Shenzhen]]
-**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — 本集 *a pair of shoes* 标了「教材已见」。
-**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — 本集 *wear*、*boots* 标了「教材已见」。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — *a pair of* / *take off*，打开 **本集词汇 · 新鞋子**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — *wear* / *boots*，打开 **本集词汇 · 下雨出门**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E39.The.Tree.House|佩奇 S01E39 · 树屋]] — *take off*，打开 **特色 · Can he come in**。
 
 ---
 

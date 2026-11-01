@@ -1,6 +1,6 @@
 **Tooth Fairy**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**under the pillow** 是这一集的跟读版。
 
 P:I’m Peppa Pig, this is my little brother George, this is Mummy Pig, this is Daddy Pig, Peppa Pig!
 
@@ -145,3 +145,16 @@ P: Maybe I fell asleep just for a little bit, next time I will stay awake, and I
 - **Look in the mirror.** — 照照镜子。
 - **Don't worry.** — 别担心。
 - **Wake up.** — 醒醒。
+
+## 特色 · Under the pillow
+
+这一集牙要放在枕头下面。佩奇还说自己不打算睡，要醒着等。两件事放在同一节。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **under** 放在下面 | *If you put your tooth under your pillow tonight, the Tooth Fairy will come.* | *Your tooth goes under the pillow tonight.* — 你的牙今晚放在枕头下面。 |
+| **under** 正在放 | *Peppa is putting her tooth under the pillow.* | *Celine puts the lost tooth under her pillow.* — 不多把掉了的牙放到枕头下面。 |
+| **under** 看看下面 | *Let's take a look under your pillow.* | *We can look under the pillow in the morning.* — 早上我们可以看看枕头下面。 |
+| **in its place** 换在原处 | *In its place she will leave a shining coin.* | *A coin will be there in its place.* — 原来的地方会有一枚硬币。 |
+| **not going to** 不打算 | *I'm not going to sleep.* | *I am not going to sleep yet.* — 我还不打算睡。 |
+| **going to** 打算 | *I'm going to stay awake to see the Tooth Fairy.* | *I am going to stay awake and listen.* — 我打算一直醒着听。 |

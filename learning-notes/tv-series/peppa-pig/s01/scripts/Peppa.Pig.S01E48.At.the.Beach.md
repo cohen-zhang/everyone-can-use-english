@@ -1,5 +1,7 @@
 **S1-48 At the Beach**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -208,3 +210,68 @@ You can be the children.
 | **towels** | /taʊəlz/ | 毛巾（复数） | 低频 |
 | **paddling** | /ˈpædəlɪŋ/ | （在浅水）蹬水玩；划水 | 低频 |
 | **sunshade** | /ˈsʌnˌʃeɪd/ | 遮阳伞；遮篷 | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 下海吗
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Is the water cold?** | 水冷吗？ | **Is the bath water cold?** — 洗澡水冷吗？ | 她伸脚试水 |
+| **Would you and Peppa like to have a paddle in the sea?** | 你和 Peppa 想去海里玩玩水吗？ | **Would you like to paddle in the water?** — 你想下去玩玩水吗？ | 她站在水边 |
+| **Would you like to play with your buckets and spades?** | 你们想玩桶和铲子吗？ | **Would you like to make a sandcastle?** — 你想堆一个沙堡吗？ | 从水里上来 |
+
+### 埋进沙子里
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can we bury you in sand?** | 我们可以把你埋进沙子里吗？ | **Can I bury your feet in the sand?** — 我可以把你的脚埋进沙子里吗？ | 她拍着沙子 |
+| **Please, can I have my straw hat?** | 请把我的草帽给我，好吗？ | **Please, can I have my hat back?** — 请把我的帽子还给我，好吗？ | 东西被拿走了 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **be going to** | *Peppa and her family are going to the beach.* | *We are going to the beach today.* — 我们今天要去海边。 |
+| **must** | *We must be careful not to forget anything.* | *We must not forget the towels.* — 我们一定不能忘了毛巾。 |
+| **have to** | *Peppa and George have to have sun cream on.* | *You have to have sun cream on your arms.* — 你胳膊上必须涂防晒。 |
+| **would like** | *Would you like to play with your buckets and spades?* | *Would you like to fill this bucket?* — 你想把这个桶装满吗？ |
+| **can** | *Now we can play in the water.* | *Now you can step into the water.* — 你现在可以下水了。 |
+| **一般过去时** | *We forgot Daddy.* | *We forgot the hat.* — 我们忘了帽子。 |
+
+跟读命令句，不另算一种时态：
+
+- **Let's try out this spotty ball.** — 我们试试这个斑点球。
+- **Let's put your water wings on.** — 我们给你戴上臂圈。
+- **Steady on.** — 慢一点。
+- **Don't leave any stuff behind.** — 别落下东西。
+- **Let's make sandcastles.** — 我们来堆沙堡。
+- **Let's check that we haven't forgotten anything.** — 我们检查一下有没有落下东西。
+
+<a id="place-prepositions-e48"></a>
+
+## 位置介词 · In the sea and in the sand
+
+这一集在海边。先记画面，再跟一句家里的话。at / on / in 的更全说明见 [[learning-notes/grammar-lab/介词#anchor-at-on-in|介词实验室 · 地点]]。
+
+| 介词 | 画面 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| **to** | 去海边 | *Peppa and her family are going to the beach.* | *We are going to the beach after lunch.* — 午饭后我们去海边。 |
+| **at** | 待在海边 | *I love being at the beach.* | *We can stay at the beach until lunch.* — 我们可以在海边待到午饭。 |
+| **in** | 在海里 | *Would you and Peppa like to have a paddle in the sea?* | *Do you want to paddle in the sea?* — 你想在海里玩玩水吗？ |
+| **in** | 埋在沙子里 | *Peppa and George are burying Daddy Pig in the sand.* | *Your feet are in the sand.* — 你的脚在沙子里。 |
+| **in** | 装进桶里 | *First, we put sand in the buckets.* | *Put the sand in this bucket.* — 把沙子装进这个桶。 |
+| **on** | 涂在身上 | *Before you start playing, you need some sun cream on.* | *You need sun cream on your face.* — 你脸上要涂防晒。 |
+
+这一集里，地点是这样说的：
+
+- going **to** the beach — 去海边
+- being **at** the beach — 待在海边
+- a paddle **in** the sea — 在海里玩水
+- bury Daddy **in** the sand — 埋在沙子里
+- sand **in** the buckets — 沙子在桶里
+- sun cream **on** — 防晒涂在身上

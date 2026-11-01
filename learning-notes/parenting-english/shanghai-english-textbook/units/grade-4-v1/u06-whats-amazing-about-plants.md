@@ -19,6 +19,7 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E09.Gardening|佩奇 S01E09 · 种菜]] — *seed* / *water*，打开 **特色 · First, then**。
 
 ---
 

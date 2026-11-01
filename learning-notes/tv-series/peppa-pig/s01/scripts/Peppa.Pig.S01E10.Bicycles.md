@@ -1,6 +1,7 @@
 **S1-10 bicycles**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**without / anymore** 是这一集的跟读版。
+**相关：** *I can ride* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -267,3 +268,17 @@ Hurray!
 - **Don't let go.** — 别松手。
 - **Keep pedaling.** — 继续蹬。
 - **Look where you are going.** — 看清楚往哪儿走。
+
+## 特色 · Without and anymore
+
+这一集拆辅助轮，反复用 **without**（没有）和 **anymore**（不再）。台词里的 *stabilizers* 是英式，家里说美式 *training wheels*（辅助轮）。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **without** 没有辅助轮也能骑 | *I can ride without my stabilizers.* | *I can ride my bike without training wheels.* — 我可以不带辅助轮骑自行车。 |
+| **without them** 没有它们 | *Do you think you can ride without them?* | *Can you try it without training wheels?* — 你能不带辅助轮试试吗？ |
+| **without** 确定要这样骑 | *Are you sure you want to ride without stabilizers?* | *Are you sure you can do it without help?* — 你确定没人帮也能行吗？ |
+| **without** 这样骑不容易 | *Riding without stabilizers is not easy.* | *Riding without help is not easy.* — 没人扶着骑不容易。 |
+| **without** 自己骑，没有辅助轮 | *Peppa is riding on her own, without stabilizers.* | *You are doing it on your own, without training wheels.* — 你自己在骑，没有辅助轮。 |
+| **anymore** 不再想要 | *I don't want stabilizers anymore.* | *I don't want the baby seat anymore.* — 我不再想要那个儿童座椅了。 |
+| **anymore** 不再需要 | *I don't need my stabilizers anymore.* | *I don't need help anymore.* — 我不再需要人帮了。 |

@@ -1,6 +1,7 @@
 **S1-32 Thunderstorm**
 
 **相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** *loud* / *rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.

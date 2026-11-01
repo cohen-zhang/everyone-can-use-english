@@ -1,5 +1,7 @@
 **S1-42 Chloe's Puppet Show**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -240,3 +242,43 @@ and one and two
 | **snore** | /snɔr/ | 打鼾 | 低频 |
 | **Chloe's** | /kloʊiz/ | 克洛伊的（所有格） | 低频 |
 | **puppet** | /ˈpəpɪt/ | 木偶 | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 做木偶
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can me and George make puppets, too?** | 我和 George 也可以做木偶吗？ | **Can we make a puppet, too?** — 我们也可以做一个木偶吗？ | 她看见别人在做 |
+| **Can I do the mouth?** | 我可以画嘴巴吗？ | **Can I paint the eyes?** — 我可以画眼睛吗？ | 她想接手下一步 |
+| **What puppet would you like to make?** | 你想做什么木偶？ | **What animal would you like to make?** — 你想做什么动物？ | 轮到她选 |
+
+### 戏开始了吗
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Could I have some more, too?** | 我也可以再来一点吗？ | **Could I have a little more, too?** — 我也可以再来一点吗？ | 饭还没吃完，戏要开始 |
+| **Are you going to fall asleep?** | 你要睡着了吗？ | **Are you going to stay awake?** — 你会一直醒着吗？ | 午饭后她打哈欠 |
+| **Has the puppet show started yet?** | 木偶戏开始了吗？ | **Has our show started yet?** — 我们的戏开始了吗？ | 观众还在等 |
+| **What happened?** | 怎么了？ | **What happened? I missed it.** — 怎么了？我错过了。 | 她中途醒来 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **will** | *We'll do a puppet show.* | *We will do a little show after lunch.* — 午饭后我们演一出小戏。 |
+| **shouldn't** | *You shouldn't say such things.* | *You shouldn't say that about people.* — 你不该那样说别人。 |
+| **shouldn't have** | *You shouldn't have said those things.* | *You shouldn't have said that out loud.* — 你不该把那句话说出来。 |
+| **be going to** | *We are going to do a puppet show.* | *We are going to put on a short play.* — 我们要演一出短剧。 |
+| **现在完成时** | *Has the puppet show started yet?* | *Has the story started yet?* — 故事开始了吗？ |
+| **would like** | *What puppet would you like to make?* | *What puppet would you like to hold?* — 你想拿哪只木偶？ |
+
+跟读命令句，不另算一种时态：
+
+- **Wait for us.** — 等我们一下。
+- **Forget what I just said.** — 忘掉我刚才说的。
+- **Call us when you're ready.** — 你们准备好了就叫我们。

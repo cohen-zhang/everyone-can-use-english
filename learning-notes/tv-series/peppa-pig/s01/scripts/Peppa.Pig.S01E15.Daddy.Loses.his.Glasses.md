@@ -1,6 +1,7 @@
 **S1-15 daddy loses his glasses**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**some / any / every**、**位置介词** 是这一集的跟读版。
+**相关：** *in / on / under* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig This is my little brother, George.
@@ -222,3 +223,61 @@ I'm Peppa Pig. This is my little brother, George.
 
 - **Be careful not to knock anything over.** — 小心，别碰倒东西。
 - **Move slowly.** — 慢慢走。
+
+## 特色 · Some, any, and every
+
+这一集找眼镜，反复用这几对词。**some** 是「某个，还不知道是哪一个」。这一集的 **any** 都在否定句里，表示「任何一个都没有」。**every** 是「所有」。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **somewhere** 某个地方 | *Somebody must have put my glasses somewhere.* | *I put my glasses somewhere.* — 我把眼镜放在某个地方了。 |
+| **anywhere** 任何一个地方都没有 | *He can't find them anywhere.* | *I can't find my shoes anywhere.* — 我的鞋哪儿都找不到。 |
+| **anything** 任何东西都没有 | *I can't see anything.* | *It's too dark. I can't see anything.* — 太黑了，我什么都看不见。 |
+| **everything** 看见的所有东西 | *When Daddy Pig wears his glasses, everything looks fine.* | *With your glasses on, everything looks clear.* — 戴上眼镜，看到的都清楚。 |
+| **sometimes** 有时候 | *Sometimes Daddy Pig loses his glasses.* | *Sometimes you can't find your shoes.* — 你有时候找不到鞋。 |
+| **all the time** 这段时间里一直 | *You were sitting on them all the time.* | *You were sitting on your book all the time.* — 你一直坐在书上。 |
+| **somebody** 某个人 | *Somebody must have put my glasses somewhere.* | *Somebody moved my cup.* — 有人动了我的杯子。 |
+| **everybody** 每个人 | 本集没说。和 *somebody* 对着记 | *Everybody can help look.* — 每个人都可以帮忙找。 |
+
+这一集还说了 *We've looked everywhere.* — 每个地方都找过了。**everywhere** 是「每个地方」，和 *anywhere* 不同：*anywhere* 在这里是「哪儿都没有」。
+
+*all the time* 在这句里是「我们找的这段时间里，一直坐在上面」，不是「每次都这样」。
+
+<a id="place-prepositions"></a>
+
+## 位置介词 · In, under, and on
+
+Peppa 和 George 是按位置找的。先记画面，再跟一句家里的话。at / on / in 的更全说明见 [[learning-notes/grammar-lab/介词#anchor-at-on-in|介词实验室 · 地点]]。
+
+| 介词 | 画面 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| **in** | 在里面 | *I always put them in my pocket.* | *Look in your pocket.* — 看看口袋里面。 |
+| **under** | 在下面 | *Peppa looks under the newspaper.* | *Look under the book.* — 看看书下面。 |
+| **on top of** | 在顶上。当成一块记 | *George looks on top of the television.* | *Look on top of the fridge.* — 看看冰箱顶上。 |
+| **on** | 压在表面上 | *You were sitting on them all the time.* | *You are sitting on your book.* — 你坐在书上了。 |
+
+这一集里，**in** 和 **under** 出现得最多：
+
+- **in** my pocket — 口袋里
+- **under** the newspaper — 报纸下面
+- **on top of** the television — 电视顶上
+- **in** the bedroom — 卧室里
+- **under** the pillows — 枕头下面
+- **in** the slippers — 拖鞋里面
+- **in** the bath — 浴缸里
+- **in** the toilet — 马桶里
+- sitting **on** them — 坐在上面
+
+*I won't bump into things.* 里的 **into** 是「撞上去」，不是东西停着的位置。
+
+## 歌 · I wonder how, I wonder why
+
+台词 *I wonder how!* 是在问：眼镜怎么会跑到爸爸身下。
+
+同一串词是 Westlife 的 **My Love**（2000，专辑 *Coast to Coast*）主歌开头：
+
+*I wonder how*  
+*I wonder why*  
+*I wonder where they are*
+
+歌里不是在找东西。他在想：以前一起度过的日子、一起唱过的歌，都去哪儿了。整段跟读见 [[learning-notes/english-song/love-romance/my-love-westlife|My Love · Westlife]]。

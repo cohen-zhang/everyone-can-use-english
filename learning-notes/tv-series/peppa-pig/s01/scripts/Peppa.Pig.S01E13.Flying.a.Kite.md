@@ -1,6 +1,7 @@
 **S1-13 flying a kite**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**quite / very / too** 是这一集的跟读版。
+**相关：** *fly a kite* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。*windy* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -240,3 +241,16 @@ This is my little brother, George.
 - **Watch out for the trees.** — 小心那些树。
 - **Stand back.** — 往后站。
 - **Please be careful.** — 请小心。
+
+## 特色 · Quite, very, and too
+
+这一集在说程度：跑得够不够快，风是 **quite** 还是 **very**，树枝是不是太重。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **as fast as** 能多快就多快 | *George runs as fast as he can.* | *You can run as fast as you want.* — 你想跑多快就跑多快。 |
+| **enough** 够 | *You didn't run fast enough.* | *That was not fast enough.* — 那样还不够快。 |
+| **quite** 相当 | *The wind is quite strong now.* | *The wind outside is quite strong.* — 外面的风相当大。 |
+| **very** 非常 | *The wind is very strong now!* | *The wind outside is very strong.* — 外面的风非常大。 |
+| **too** 太 | *You are much too heavy for that branch!* | *You are too heavy for that little chair.* — 你坐那把小椅子太重了。 |
+| **as much ... as** 一样 | *Jumping up and down in muddy puddles is just as much fun as flying the kite.* | *Puddles are as much fun as a kite.* — 水坑和风筝一样好玩。 |

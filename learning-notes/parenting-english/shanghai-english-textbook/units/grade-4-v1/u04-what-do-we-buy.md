@@ -19,6 +19,8 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E20.The.School.Fete|佩奇 S01E20 · 游园会]] — *would like*，打开 **特色 · Would you like**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E41.Shopping|佩奇 S01E41 · 买东西]] — *shopping list* / *we need*，打开 **亲子问句 · 清单上是什么**。
 
 ---
 

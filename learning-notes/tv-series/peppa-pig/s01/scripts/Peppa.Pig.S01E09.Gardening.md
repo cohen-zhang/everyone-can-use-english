@@ -1,6 +1,7 @@
 **S1-09 gardening**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**First / Then** 是这一集的跟读版。
+**相关：** *seed* / *water* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u06-whats-amazing-about-plants|四上 U6 · 植物]]。*first / then* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u07-how-do-we-keep-safe-on-the-road|四上 U7 · 路上安全]]。*gardening* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u08-what-do-our-grandparents-do|四上 U8 · 祖辈]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig. This is my little brother, George.
@@ -250,3 +251,15 @@ This is my little brother, George.
 
 - **Make a little hole.** — 挖一个小坑。
 - **Look.** — 看。
+
+## 特色 · First, then
+
+这一集种草莓，是按顺序说的：**First** 先挖坑，**Then** 再放种子、盖土、浇水。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **First** 先 | *First, make a little hole.* | *First, wash your hands.* — 先洗手。 |
+| **Then** 然后放进去 | *Then I put the seed in and cover it with earth.* | *Then drop one seed into the soil.* — 然后把一颗种子放进土里。 |
+| **Then** 然后浇水 | *Then I cover it with earth and water it.* | *Then water the little hole.* — 然后给小坑浇水。 |
+| **Then one day** 后来有一天 | *Then one day, Grandpa Pig finds something very special.* | *Then one day, a little plant will show.* — 然后有一天，会冒出一棵小苗。 |
+| **Next time** 下次 | *Next time you come, the seed will have grown into a plant.* | *Next time you come, it will be bigger.* — 你下次来，它会长大一点。 |

@@ -22,6 +22,8 @@ aliases:
 
 **相关：** [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] · 远距离与思念 — *holding on forever*、*see you once again* 一类 longing 表达可对照本歌副歌。
 
+**相关：** 主歌 *I wonder how / I wonder why* 和 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E15.Daddy.Loses.his.Glasses|S1-15 找眼镜]] 里的 *I wonder how!* 是同一串词。台词是在问眼镜怎么会在那儿，歌里是在想逝去的日子。
+
 ---
 
 ## 歌手简介 · About Westlife

@@ -1,5 +1,7 @@
 **S1-44 The Playground**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -217,3 +219,38 @@ I am the DIY expert of the house.
 | Word | IPA (GA) | 简中义项 | 标签 |
 | --- | --- | --- | --- |
 | **playground** | /ˈpleɪˌgraʊnd/ | 游乐场；操场 | 低频、拼写 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 玩哪一个
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Are you ready?** | 你准备好了吗？ | **Are you ready for a push?** — 准备好让我推了吗？ | 她坐上秋千 |
+| **Do you want to play on the climbing frame?** | 你想玩攀爬架吗？ | **Do you want to climb this one?** — 你想爬这一个吗？ | 换一个器械 |
+| **Are you sure, George?** | 你确定吗，George？ | **Are you sure it is not too high?** — 你确定这不算太高吗？ | 她想玩高的，又有点怕 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *Peppa is playing on the swing.* | *You are sitting on the swing.* — 你坐在秋千上。 |
+| **can't** | *I can't get out.* | *I can't get my foot out.* — 我的脚出不来。 |
+| **have to** | *We'll have to pull you out.* | *We will have to pull you free.* — 我们得把你拉出来。 |
+| **will** | *I'll help you up the steps.* | *I will help you up the first step.* — 我帮你上第一级。 |
+| **一般现在时** | *George does not like being up high.* | *Being up high feels scary.* — 待在高处会害怕。 |
+
+跟读命令句，不另算一种时态：
+
+- **Push me, please.** — 请推我。
+- **Hold tight.** — 抓紧。
+- **Push gently.** — 轻轻推。
+- **Stand back.** — 往后站。
+- **Ready, steady, go.** — 预备，开始。
+- **Let's play on the slide.** — 我们去玩滑梯。
+- **Don't cry.** — 别哭。
+- **Don't be silly.** — 别傻了。

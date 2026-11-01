@@ -1,5 +1,8 @@
 **S1-41 going shopping**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** *shopping list* / *we need* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u04-what-do-we-buy|四上 U4 · 买什么]]。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -232,3 +235,44 @@ I'm going to have a party!
 | **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
 | **crisp** | /krɪsp/ | （英式）炸薯片；脆的 | 低频、多义 |
 | **goody** | /ˈgʊdi/ | 糖果；好东西（儿语） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 清单上是什么
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can I sit in the trolley, too?** | 我也可以坐进购物车吗？ | **Can you hold the basket for me?** — 你能帮我拿着篮子吗？ | 她也想坐进去 |
+| **What's next on the list?** | 清单上下一件是什么？ | **What do we still need?** — 我们还缺什么？ | 她找下一样 |
+| **Can you remember?** | 你记得吗？ | **Can you remember the next one?** — 你记得下一件吗？ | 她想不起来 |
+| **Is that on the list?** | 那个在清单上吗？ | **Is chocolate on the list?** — 巧克力在清单上吗？ | 购物车里多了东西 |
+
+### 谁放进去的
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What fruit shall we have?** | 我们要哪种水果？ | **Which fruit shall we take home?** — 我们带哪种水果回家？ | 水果有好几种 |
+| **Did you put the chocolate cake in the trolley?** | 巧克力蛋糕是你放进去的吗？ | **Did you put this cookie in the bag?** — 这块饼干是你放进袋子的吗？ | 结账时多了一件 |
+| **Then who did?** | 那是谁放的？ | **Then who put it there?** — 那是谁放进去的？ | 她说不是自己 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **be going to** | *Peppa and George are going shopping.* | *We are going to the shop.* — 我们要去商店。 |
+| **can** | *I can see them.* | *I can see the apples.* — 我看见苹果了。 |
+| **can't** | *I just can't remember.* | *I can't remember the last thing.* — 最后那样我想不起来了。 |
+| **一般现在时** | *George loves sitting in the trolley.* | *You love pushing the basket.* — 你喜欢推篮子。 |
+| **一般过去时** | *Did you put the chocolate cake in the trolley?* | *Did you put the biscuits in the bag?* — 饼干是你放进袋子的吗？ |
+| **there aren't** | *There aren't any dinosaurs in the supermarket.* | *There aren't any dinosaurs in this shop.* — 这家店里没有恐龙。 |
+
+跟读命令句，不另算一种时态：
+
+- **Put them in the trolley.** — 把它们放进购物车。
+- **Have another guess.** — 再猜一次。
+- **Let's put this spaghetti in the trolley.** — 我们把这包意大利面放进车里。
+- **Let's pretend it was on the list.** — 我们就当它原来在清单上。

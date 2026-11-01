@@ -1,6 +1,7 @@
 **S1-18 Mummy Pig's birthday**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**surprise** 是这一集的跟读版。
+**相关：** *Happy birthday* / *How old* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u08-why-do-we-like-birthdays|三上 U8 · 生日]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -289,3 +290,17 @@ And the most beautiful!
 - **Close your eyes!** — 闭上眼睛。
 - **Keep your eyes closed.** — 眼睛先别睁开。
 - **Blow the candles out and make a wish.** — 吹蜡烛，许个愿。
+
+## 特色 · Surprise
+
+这一集过生日，一直在藏惊喜。说了 **surprise** 和 **secret**。**Don't tell** 本集没说。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **surprise** 惊喜 | *What a lovely birthday surprise!* | *This card is a lovely surprise.* — 这张卡片是个好惊喜。 |
+| **more surprises** 还有惊喜 | *And there are more surprises to come!* | *There are more surprises after lunch.* — 午饭后还有更多惊喜。 |
+| **secret** 有秘密 | *Is there something secret going on?* | *Is there something secret in the box?* — 盒子里是不是有个秘密？ |
+| **nothing** 没什么 | *No, nothing's going on.* | *Nothing is going on in the kitchen.* — 厨房里什么事都没有。 |
+| **can't come in** 还不能进 | *But you can't come in.* | *You cannot come in yet.* — 你还不能进来。 |
+| **secret things** 在准备秘密 | *Daddy Pig, Peppa and George are doing secret things for my birthday.* | *We are doing secret things for your birthday.* — 我们在为你的生日准备秘密。 |
+| **surprise** 开门看见 | *What a lovely surprise!* | *Opening the door is a lovely surprise.* — 一开门就是个好惊喜。 |

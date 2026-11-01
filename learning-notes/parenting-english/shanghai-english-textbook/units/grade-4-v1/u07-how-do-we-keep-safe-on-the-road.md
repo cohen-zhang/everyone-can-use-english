@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases|电动车接送]]
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-metro-scenario-phrases|地铁场景]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E09.Gardening|佩奇 S01E09 · 种菜]] — *first / then*，打开 **特色 · First, then**。
 
 ---
 

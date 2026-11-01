@@ -1,5 +1,7 @@
 **S1-51 Daddy's Movie Camera**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -196,3 +198,45 @@ And this is the real Daddy Pig.
 | **parcel** | /ˈpɑrsəl/ | 包裹 | 低频 |
 | **frighten** | /ˈfraɪtən/ | 使害怕；吓到 | 低频 |
 | **daddy's** | /ˈdædiz/ | 爸爸的（所有格） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 盒子里是什么
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can anyone guess what's inside?** | 有人猜得出里面是什么吗？ | **Can you guess what's in the box?** — 你猜得出盒子里是什么吗？ | 包裹刚到 |
+| **Can I use it first?** | 我可以先用吗？ | **Can I press the button first?** — 我可以先按按钮吗？ | 她伸手要拿 |
+| **Is there a way to turn that voice off?** | 有办法把那个声音关掉吗？ | **Is there a way to make it quiet?** — 有办法让它安静吗？ | 机器一直响 |
+
+### 先拍哪一段
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What shall I film first?** | 我先拍什么？ | **What shall we film first?** — 我们先拍什么？ | 相机打开了 |
+| **Do you want to go first?** | 你想先来吗？ | **Do you want the first turn?** — 你想第一个来吗？ | 两个人都要演 |
+| **Are you ready?** | 你准备好了吗？ | **Are you ready for the camera?** — 你准备好面对镜头了吗？ | 要开始录 |
+| **Can I come in and see the movie?** | 我可以进来看电影吗？ | **Can I come in and watch it?** — 我可以进来看吗？ | 她把人关在门外 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **can** | *We can make movies with it.* | *We can make a short movie at home.* — 我们可以在家里拍一段短片。 |
+| **must** | *Daddy Pig must leave the room.* | *You must wait outside the door.* — 你必须在门外等。 |
+| **have to** | *Daddy Pig has to wait in the kitchen.* | *You have to wait until we say come in.* — 你得等到我们说进来。 |
+| **will** | *We'll make a movie to show him.* | *We will make a movie for you.* — 我们会拍一段给你看。 |
+| **won't** | *Now it won't talk anymore.* | *Now it will not beep anymore.* — 它现在不会再响了。 |
+| **一般现在时** | *It is true that I like cookies.* | *It is true that you like cookies.* — 你喜欢饼干，这是真的。 |
+
+跟读命令句，不另算一种时态：
+
+- **Film me.** — 拍我。
+- **Come on, everyone.** — 大家都来。
+- **No peeking.** — 不许偷看。
+- **Don't be frightened.** — 别害怕。
+- **Let's see George's movie first.** — 我们先看 George 的片子。

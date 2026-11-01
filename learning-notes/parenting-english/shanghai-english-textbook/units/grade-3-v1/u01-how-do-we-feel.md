@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition|情绪亲子表达]]
 **扩展：** [[learning-notes/parenting-english/games-and-activities/parenting-expression-guessing-game|表情猜猜猜]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E27.Not.Very.Well|佩奇 S01E27 · 不太舒服]] — *How do you feel?*，打开 **亲子问句 · 还要躺着吗**。
 
 ---
 

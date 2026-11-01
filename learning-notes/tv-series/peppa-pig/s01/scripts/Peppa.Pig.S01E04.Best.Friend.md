@@ -2,7 +2,7 @@
 
 **相关：** *Just for a little while*（一会儿）与时长对比 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#一会儿--a-little-while--for-a-bit|时间表达汇总 · 一会儿]]
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 三节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**特色** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -248,3 +248,40 @@ This is my little brother, George.
 | --- | --- | --- |
 | **最高级 · best** | *They are best friends.* | *Mummy is my best friend. You are my second-best friend.* — 妈妈是我最好的朋友。你是我第二好的朋友。 |
 | **比较级 · more** | *He likes playing with Peppa more.* | *I like playing with you more.* — 我更喜欢和你玩。 |
+
+## 特色 · So does, else, and own
+
+这一集 George 也想玩、被支开、又想自己加入。三块都在台词里。每一行先跟本集原句，再换一句家里的话。
+
+### So does George
+
+前面一句是 *love*，George 也一样，就接 *So does George.* **does** 代替 *love*，不用把动词再说一遍。主语换成 *I* 或 *you* 时，家里说 *So do I* / *So do you*。本集没有这两句。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **So does** + 人名 | *Peppa and Suzy love playing in Peppa's bedroom. So does George.* | *Mummy likes this game. So does Daddy.* — 妈妈喜欢这个游戏。爸爸也喜欢。 |
+| **So does** + 人名 | *Peppa and Suzy love playing doctors and nurses. So does George.* | *She wants to be the doctor. So does he.* — 她想当医生。他也想。 |
+| **So do I** | 本集没说。主语是 *I* 时用 *do* | *You like cookies. So do I.* — 你喜欢饼干。我也喜欢。 |
+| **too** 也是「也」 | *George wants to play, too.* | *I want to play, too.* — 我也想玩。 |
+
+*So does* 接在一整句后面。*too* 放在句尾。这一集两种都有。
+
+### else · somewhere else
+
+*somewhere else* 是「别的某个地方」，不是眼前这个地方。**else** 放在 *somewhere* / *someone* / *what* 后面，不放在前面。本集只说了 *somewhere else*。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **somewhere else** | *You'll have to play somewhere else.* | *You can read somewhere else.* — 你可以到别的地方看书。 |
+| **someone else** | 本集没说 | *Someone else can be the patient.* — 换别人来当病人。 |
+| **what else** | 本集没说 | *What else do you want?* — 你还要什么？ |
+
+### own
+
+*your own toys* 是「你自己的玩具」。*on their own* / *on his own* 是「自己玩，不和别人一起」。*own* 前面都有 *my* / *your* / *his* / *their*。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **one's own** + 名词 | *Go and play with your own toys.* | *Read your own book.* — 看你自己的书。 |
+| **on one's own** | *Peppa and Suzy want to play on their own.* | *You can draw on your own.* — 你可以自己画。 |
+| **on one's own** | *George doesn't like playing on his own.* | *I don't like eating on my own.* — 我不喜欢一个人吃饭。 |

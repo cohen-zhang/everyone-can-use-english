@@ -1,6 +1,6 @@
 **S1-07 mummy pig at work**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**mustn't / either** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -193,3 +193,14 @@ I'm Peppa Pig. This is my little brother, George.
 - **Sit quietly.** — 安静地坐着。
 - **Stop.** — 停下。
 - **Don't touch the computer.** — 别碰电脑。
+
+## 特色 · Mustn't and either
+
+这一集不许碰电脑，说的是 **mustn't**。对 George 再说一遍时，句尾用 **either**，表示「也不」。肯定句里的「也」是 *too*，这一集没说。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **mustn't** 不许 | *You mustn't touch the computer.* | *You mustn't touch the stove.* — 你不许碰炉子。 |
+| **either** 也不。放在否定句末尾 | *You mustn't touch the computer, either.* | *You mustn't open that drawer, either.* — 你也不许开那个抽屉。 |
+| **mustn't** 不许这样做 | *You mustn't do this.* | *You mustn't press those buttons.* — 你不许按那些按钮。 |
+| **too** 也。用在肯定句 | 本集没说。否定句里的「也」用 *either* | *You can sit and watch, too.* — 你也可以坐着看。 |

@@ -1,5 +1,8 @@
 **S1-35 very hot day**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** *very hot* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -223,3 +226,45 @@ But it's true!
 | **oily** | /ˈɔɪli/ | 油乎乎的 | 低频 |
 | **puddle** | /ˈpədəl/ | 水坑；泥坑 | 低频、多义 |
 | **yucky** | /ˈjəki/ | 难吃；恶心（儿语） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 要不要冰淇淋
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can George and I have an ice cream, please?** | George 和我可以吃冰淇淋吗？ | **Can we get an ice cream on the way home?** — 我们回家路上可以买冰淇淋吗？ | 她看见冷饮 |
+| **Please, can I have one as well?** | 我也要一个，好吗？ | **Can I have one as well?** — 我也要一个，好吗？ | 她已经拿到，家长也想要 |
+| **What ice creams would you like?** | 你们想要哪种冰淇淋？ | **What would you like?** — 你想要哪种？ | 让她选 |
+| **Can I have a cone, please?** | 我可以要一个甜筒吗？ | **Can I have the pink one, please?** — 我可以要粉色那个吗？ | 她指着其中一种 |
+| **What would young Mr. George like?** | 小 George 想要什么？ | **What would you like, Celine?** — 不多，你想要什么？ | 她不说话，只指 |
+
+### 水去哪了
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Where's the water?** | 水在哪儿？ | **Where did the water go?** — 水跑哪儿去了？ | 水管还没出水 |
+| **What happened?** | 怎么了？ | **What happened to your ice lolly?** — 你的冰棍怎么了？ | 东西化了或洒了 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **一般现在时** | *It is a very hot day.* | *It is very hot today.* — 今天很热。 |
+| **现在完成时** | *The puddles have dried up.* | *The puddle has dried up.* — 水坑干了。 |
+| **be going to** | *They are going to jump in muddy puddles.* | *We are going to play in the water.* — 我们要去玩水。 |
+| **have to** | *First, you have to change into your swimming costumes.* | *First, you have to put your hat on.* — 你得先戴上帽子。 |
+| **can** | *You can play in the paddling pool instead.* | *You can play in the bath instead.* — 你可以改在浴缸里玩。 |
+| **should** | *You should eat your ice lolly before it melts.* | *You should eat it before it melts.* — 你该在它化掉之前吃完。 |
+
+跟读命令句，不另算一种时态：
+
+- **Never mind.** — 没关系。
+- **Come on, George.** — 来吧。
+- **Let's get some air into this paddling pool.** — 我们给这个泳池打点气。
+- **Let's tip water on Daddy to cool him down.** — 我们泼点水，给爸爸降降温。
+- **Let's get our boots.** — 我们去拿靴子。 |

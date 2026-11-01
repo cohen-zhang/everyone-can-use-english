@@ -1,6 +1,7 @@
 **S1-43 My Birthday Party**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everyone** 是这一集的跟读版。
+**相关：** *Happy birthday* / *candle* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u08-why-do-we-like-birthdays|三上 U8 · 生日]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -303,3 +304,15 @@ Look! I just got a parcei in the post!
 - **Close your eyes.** — 闭上眼睛。
 - **Say abracadabra.** — 念咒语。
 - **Blow the candles out.** — 把蜡烛吹灭。
+
+## 特色 · Everyone
+
+这一集生日会上反复说 **everyone**。也说了 **anyone** 和 **no one**。**everybody** 本集没说。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **everyone** 谢谢大家 | *Thank you, everyone!* | *Thank you, everyone, for coming.* — 谢谢大家来。 |
+| **everyone** 大家好 | *Hello, everyone!* | *Please say hello to everyone.* — 请跟每个人问好。 |
+| **anyone** 任何人 | *Don't tell anyone!* | *Do not tell anyone about the cake.* — 别跟任何人说蛋糕的事。 |
+| **no one** 没有人 | *No one will know the magician is your daddy.* | *No one will know it is a trick.* — 没人会知道这是个戏法。 |
+| **everybody** 每个人 | 本集没说。和 *everyone* 对着记 | *Everybody can have a piece of cake.* — 每个人都可以吃一块蛋糕。 |

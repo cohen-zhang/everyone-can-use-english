@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-seasons-months-zodiac-planets-space-vocab|季节月份]]
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣日常]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E12.Snow|佩奇 S01E12 · 下雪]] — *snow* / *cold*，打开 **本集词汇 · 穿暖和**。
 
 ---
 

@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|动物单词]]
 **扩展：** [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|动物猜猜猜]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E46.Frogs.and.Worms.and.Butterflies|佩奇 S01E46 · 青蛙]] — *I like frogs*，打开 **时态**。
 
 ---
 

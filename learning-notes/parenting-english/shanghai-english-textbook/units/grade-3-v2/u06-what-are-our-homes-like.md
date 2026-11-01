@@ -19,6 +19,9 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理]] · [[learning-notes/parenting-english/daily-life/parenting-home-appliance-daily-phrases|家电日常]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E15.Daddy.Loses.his.Glasses|佩奇 S01E15 · 找眼镜]] — *in / on / under*，打开 **位置介词**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E39.The.Tree.House|佩奇 S01E39 · 树屋]] — *tree house*，打开 **时态**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E45.Tidying.Up|佩奇 S01E45 · 收拾房间]] — *tidy up*，打开 **亲子问句 · 怎么这么乱**。
 
 ---
 

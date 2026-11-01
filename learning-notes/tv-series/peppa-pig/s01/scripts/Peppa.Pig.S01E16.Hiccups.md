@@ -1,6 +1,6 @@
 **S1-16 hiccups**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**too quickly / again** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -195,3 +195,15 @@ This is my little brother, George.
 - **Rub your tummy.** — 搓搓肚子。
 - **Stick your tongue out.** — 把舌头伸出来。
 - **Close your eyes.** — 闭上眼。
+
+## 特色 · Too quickly and again
+
+这一集乔治喝太快，打了嗝。后面又说，喝太快会 **again**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **too quickly** 喝得太快 | *George drank his juice too quickly, and now he has hiccups.* | *You drank your milk too quickly.* — 你牛奶喝得太快了。 |
+| **too quickly** 别喝太快 | *Don't drink your juice too quickly!* | *Do not drink your milk too quickly.* — 别把牛奶喝得太快。 |
+| **again** 会再来 | *If you drink too quickly, you will get hiccups again.* | *If you gulp it, the hiccups come again.* — 你要是大口灌，打嗝还会再来。 |
+| **as quickly as** 想多快就多快 | *I can drink juice as quickly as I want to.* | *You may walk as quickly as you want.* — 你想走多快就走多快。 |
+| **quickly** 快点转 | *Close your eyes, and turn around quickly, three times!* | *Turn around quickly, then sit down.* — 快点转身，然后坐下。 |

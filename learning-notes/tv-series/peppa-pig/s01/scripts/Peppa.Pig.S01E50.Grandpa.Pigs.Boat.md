@@ -1,5 +1,7 @@
 **S1-50 Grandpa Pig's Boat**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**faster / as old as** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -211,3 +213,55 @@ George loves sitting in the trolley.
 | **life jackets** | /laɪf ˈʤækɪts/ | 救生衣 | 低频、拼写 |
 | **hearties** | /ˈhɑrtiz/ | （海盗口吻）兄弟们；伙计们 | 低频 |
 | **ahoy** | /əˈhɔɪ/ | 喂！（船上招呼） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 比谁快
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Is that as fast as you can go?** | 你就只能这么快吗？ | **Is that as fast as you can run?** — 你就只能跑这么快吗？ | 她在前面跑 |
+| **How will we get home?** | 我们怎么回家？ | **How will we get back?** — 我们怎么回去？ | 走不动了 |
+
+### 肯不肯帮忙
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Will you two ever grow up?** | 你们两个什么时候才长大？ | **Will you two stop racing?** — 你们两个能不能别比了？ | 越比越闹 |
+| **Would you be so kind as to tow us home?** | 能不能请你把我们拖回家？ | **Would you help us carry this home?** — 你能帮我们把这个拿回家吗？ | 需要别人拉一把 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **must** | *When Peppa and George are on Grandpa Pig's boat, they must wear life jackets.* | *When you are near the water, you must hold my hand.* — 你靠近水的时候，必须拉着我的手。 |
+| **will** | *We'll go fast later.* | *We will go fast on the way back.* — 回去的时候我们再加快。 |
+| **can** | *This old boat can go faster than your rusty bucket.* | *This little car can go faster than that one.* — 这辆小车能比那辆快。 |
+| **一般过去时** | *I liked it when we went fast.* | *I liked it when we went slowly.* — 我喜欢刚才慢慢走的那段。 |
+| **现在完成时** | *Grandpa Pig's boat has run out of petrol.* | *The car has run out of power.* — 车没电了。 |
+
+跟读命令句，不另算一种时态：
+
+- **Let's put your life jackets on.** — 我们把救生衣穿上。
+- **Raise the flag.** — 升旗。
+- **Ring the bell.** — 敲铃。
+- **Take the wheel.** — 掌舵。
+- **Let's race to the next bridge.** — 我们比赛到下一座桥。
+- **Say "sorry".** — 说对不起。
+
+## 比较 · Faster and as old as
+
+这一集两艘船比快慢，也比哪艘更旧。每一行先跟本集原句，再换一句家里的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **slower** 更慢 | *Maybe you should go a little slower.* | *Please walk a little slower.* — 请走慢一点。 |
+| **fast** 快 | *We'll go fast later.* | *We can go fast on the path.* — 在这条小路上我们可以走快一点。 |
+| **as old as** 一样久 | *It must be almost as old as you are.* | *This cup is almost as old as you are.* — 这个杯子差不多和你一样久了。 |
+| **faster than** 比……快 | *This old boat can go faster than your rusty bucket.* | *I can hop faster than you today.* — 我今天能跳得比你快。 |
+| **as fast as** 和……一样快 | *Is that as fast as you can go?* | *Is that as fast as you can hop?* — 你就只能跳这么快吗？ |
+| **too fast** 太快 | *Maybe I did go a bit too fast.* | *That was a bit too fast.* — 刚才有一点太快了。 |

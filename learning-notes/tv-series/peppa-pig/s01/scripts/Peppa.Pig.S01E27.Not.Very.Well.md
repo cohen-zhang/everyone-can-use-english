@@ -1,6 +1,7 @@
 **S1-27 not very Well**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**not very / a little** 是这一集的跟读版。
+**相关：** *How do you feel?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u01-how-do-we-feel|三上 U1 · 感觉]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -280,3 +281,17 @@ This is my little brother, George.
 - **Stick your tongue out, please.** — 请把舌头伸出来。
 - **Open wide, please.** — 把嘴张大。
 - **Don't worry.** — 别担心。
+
+## 特色 · Not very and a little
+
+这一集说不舒服，用 **not very**（不太）和 **a little**（一点点）。*a little bit* 是「一小会儿」或「好了一点点」，*a little bit more* 是「再多一会儿」。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **don't feel very** 觉得不太 | *I don't feel very well.* | *I don't feel very hungry.* — 我不太饿。 |
+| **don't look very** 看起来不太 | *You don't look very well.* | *You don't look very sleepy.* — 你看起来不太困。 |
+| **not very nice** 味道不太好 | *I'm afraid it doesn't taste very nice.* | *This soup doesn't taste very good.* — 这汤味道不太好。 |
+| **a little** 一点点 | *If you like, I can give you just a little medicine.* | *I will give you just a little water.* — 我给你一点点水。 |
+| **a little bit** 一小会儿 | *You must stay in bed for a little bit.* | *Rest on the sofa for a little bit.* — 在沙发上歇一小会儿。 |
+| **a little bit** 回答「好一点了吗」 | *A little bit.* | *I feel a little bit better.* — 我好了一点点。 |
+| **a little bit more** 再多一会儿 | *I think I should stay in bed a little bit more.* | *I should rest a little bit more.* — 我该再歇一小会儿。 |

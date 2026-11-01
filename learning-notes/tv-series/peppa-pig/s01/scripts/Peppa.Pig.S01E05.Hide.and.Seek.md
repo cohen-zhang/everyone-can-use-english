@@ -1,6 +1,6 @@
 **S1-05 hide and seek**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**wonder / anywhere** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -228,3 +228,16 @@ This is my little brother, George.
 - **Open your eyes.** — 睁开眼。
 - **Close your eyes and start counting.** — 闭上眼，开始数。
 - **Come over here.** — 到这边来。
+
+## 特色 · Wonder and anywhere
+
+这一集在捉迷藏。找人的时候说 **somewhere**、**anywhere** 和 **wonder**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **somewhere** 找个地方躲 | *He must quickly find somewhere to hide.* | *You need a quiet corner to hide.* — 你需要一个安静的角落躲起来。 |
+| **where** 躲在哪儿 | *Peppa has to find where George is hiding.* | *We still have to find where you are.* — 我们还得找出你在哪儿。 |
+| **anywhere** 哪儿都找不到 | *I can't find George anywhere.* | *I cannot find Celine anywhere upstairs.* — 我在楼上哪儿都找不到 Celine。 |
+| **wonder** 会在哪儿 | *I wonder where he can be.* | *I wonder where Celine can be.* — 我想知道 Celine 能在哪儿。 |
+| **where can** 能在哪儿 | *Where can he be?* | *Where can the red ball be?* — 红球能在哪儿？ |
+| **all the time** 一直 | *George was hiding behind Daddy Pig's newspaper all the time.* | *You were behind the sofa all the time.* — 你一直在沙发后面。 |

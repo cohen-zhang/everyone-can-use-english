@@ -1,6 +1,6 @@
 **S1-02 Dinosaur is lost**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**anywhere** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -240,3 +240,16 @@ Dinedine Sawsaw.
 
 - **Don't worry.** — 别担心。
 - **Goodnight.** — 晚安。
+
+## 特色 · Anywhere
+
+这一集在找恐龙先生。**anywhere** 是「哪儿都没有」。**somewhere** 本集没说，和它对着记。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **where** 在哪儿 | *Where is Mr. Dinosaur?* | *Where is your dinosaur?* — 你的恐龙在哪儿？ |
+| **where** 不知道在哪儿 | *George does not know where Mr. Dinosaur is.* | *I do not know where it is.* — 我不知道它在哪儿。 |
+| **anywhere** 哪儿都没有 | *Mr. Dinosaur isn't anywhere.* | *Your toy is not anywhere in this room.* — 这个房间里哪儿都没有你的玩具。 |
+| **hard to find** 很难找 | *Mr. Dinosaur is very hard to find.* | *The lost sock is very hard to find.* — 那只丢了的袜子很难找。 |
+| **wonder if** 会不会是 | *I wonder if this time you threw Mr. Dinosaur just a bit too high.* | *I wonder if you threw it too high.* — 我想知道你是不是抛得太高了。 |
+| **somewhere** 某个地方 | 本集没说。和 *anywhere* 对着记 | *I put my book somewhere.* — 我把书放在某个地方了。 |

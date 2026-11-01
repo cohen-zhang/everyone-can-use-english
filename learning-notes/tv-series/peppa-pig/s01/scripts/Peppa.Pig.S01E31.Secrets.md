@@ -1,6 +1,6 @@
 **S1-31 secrets**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not / won't** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -269,3 +269,15 @@ This is my little brother, George.
 - **Don't tell me.** — 别告诉我。
 - **Wait outside.** — 在外面等。
 - **Tuck in.** — 开动吃。
+
+## 特色 · Must not and won't tell
+
+这一集守秘密，Peppa 说 **must not**（不许看）和 **won't tell**（不会告诉你）。旁边几句 **must** 也是「必须」。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **won't tell** 不会告诉 | *I won't tell you or George or Daddy.* | *I won't tell anyone your secret.* — 你的秘密我谁都不告诉。 |
+| **must not** 不许 | *You must not look inside.* | *You must not peek in there.* — 你不许往里面偷看。 |
+| **must** 必须。只有我可以知道 | *Only I must know what's in the box.* | *Only you must know the hiding place.* — 只有你可以知道藏的地方。 |
+| **must** 必须好好猜 | *You must have a proper guess.* | *You must guess for real.* — 你必须认真猜。 |
+| **must** 必须同时做 | *We must do it at the same time.* | *We must start together.* — 我们必须一起开始。 |

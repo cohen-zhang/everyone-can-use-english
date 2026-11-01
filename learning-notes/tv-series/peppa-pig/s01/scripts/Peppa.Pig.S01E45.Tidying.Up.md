@@ -1,5 +1,8 @@
 **S1-45 Tidying Up**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** *tidy up* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -240,3 +243,45 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 | **tyrannosaurus** | /tɪrænəˈsɔrəs/ | 霸王龙 | 低频、拼写 |
 | **untidy** | /ənˈtaɪdi/ | 不整洁 | 低频 |
 | **tidying** | — | 收拾；整理 | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 怎么这么乱
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What is that?** | 那是什么？ | **What is that under the bed?** — 床底下那是什么？ | 地上多了一堆 |
+| **What's going on?** | 怎么回事？ | **What's going on in there?** — 里面怎么回事？ | 房间里突然大叫 |
+| **What's all this noise?** | 这是什么声音？ | **What's all this shouting?** — 这是在喊什么？ | 游戏太吵 |
+| **What on earth is going on?** | 究竟怎么回事？ | **What on earth is going on in your room?** — 你房间里究竟怎么了？ | 声音停不下来 |
+
+### 收拾完再玩
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What's this?** | 这是什么？ | **What's this book?** — 这是什么书？ | 收拾时翻出来 |
+| **Where are my dolls?** | 我的娃娃在哪儿？ | **Where are your dolls?** — 你的娃娃在哪儿？ | 刚收拾完又要玩 |
+| **Can we play dollies and dinosaurs again?** | 我们可以再玩娃娃和恐龙吗？ | **Can we play again now?** — 我们现在可以再玩吗？ | 房间已经整齐 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *Peppa and George are playing with their toys.* | *You are playing on the floor.* — 你在地板上玩。 |
+| **现在完成进行时** | *I've been looking for you.* | *I have been looking for this bear.* — 我一直在找这只小熊。 |
+| **can** | *You can play again when you've tidied up.* | *You can play again when the books are back.* — 书放回去就可以再玩。 |
+| **be going to** | *Mummy and I are going to win.* | *We are going to finish first.* — 我们会先收拾完。 |
+| **一般过去时** | *At least it was tidy for a bit.* | *The room was tidy for a little while.* — 房间整齐了一小会儿。 |
+| **must** | *So this must be one of George's lovely dresses.* | *This must be your doll's dress.* — 这一定是你娃娃的裙子。 |
+
+跟读命令句，不另算一种时态：
+
+- **Let's play dollies and dinosaurs.** — 我们来玩娃娃和恐龙。
+- **Let's do a bit of tidying up.** — 我们收拾一下。
+- **Put Teddy in your toy basket.** — 把泰迪放进玩具筐。
+- **Put this back on the bookshelf.** — 把这个放回书架。
+- **Ready, steady, go.** — 预备，开始。

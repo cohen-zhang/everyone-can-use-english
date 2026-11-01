@@ -20,6 +20,7 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|中国常见食物]]
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases|餐桌礼仪]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E37.Lunch|佩奇 S01E37 · 午饭]] — *don't like*，打开 **特色 · don't like / enough**。
 
 ---
 

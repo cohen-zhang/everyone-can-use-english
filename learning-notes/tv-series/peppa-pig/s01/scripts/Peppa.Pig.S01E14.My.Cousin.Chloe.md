@@ -1,6 +1,6 @@
 **My cousin Chloe**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
 
 N: Peppa and George are playing in the garden.
 
@@ -189,3 +189,15 @@ N: Peppa and Chloe love jumping up and down in muddy puddles. Everyone loves jum
 - **Back to the start.** — 回到起点。
 - **Stay still.** — 别动。
 - **Catch me if you can.** — 来抓我啊。
+
+## 比较 · Older than and a bit
+
+这一集在比谁大。**a bit older than** 只说了一次，后面用 **too little**、**big** 和 **too grown-up** 接着说。每一行先跟本集原句，再换一句家里的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **a bit older than** 大一点点 | *Chloe is a bit older than Peppa and George.* | *She is a bit older than you.* — 她比你大一点点。 |
+| **too little** 太小 | *Don't be sad if she finds you too little to play with.* | *You are not too little to play.* — 你没有小到不能一起玩。 |
+| **so little** 这么小 | *You're so little!* | *This coat is so little.* — 这件外套太小了。 |
+| **big** 大孩子 | *I'm a big girl like you.* | *I am a big kid like you.* — 我和你一样是大孩子。 |
+| **too grown-up** 大得不能 | *I'm too grown-up to jump in muddy puddles.* | *I am not too grown-up to jump.* — 我没有大到不能跳。 |

@@ -19,6 +19,9 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-shenzhen-dressing-daily-phrases|穿衣与天气]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E35.Very.Hot.Day|佩奇 S01E35 · 大热天]] — *very hot*，打开 **时态**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E13.Flying.a.Kite|佩奇 S01E13 · 放风筝]] — *windy*，打开 **特色 · Quite, very, and too**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — *It is raining*，打开 **本集词汇 · 下雨出门**。
 
 ---
 

@@ -1,6 +1,6 @@
 **S1-30 the museum**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -280,3 +280,14 @@ I love muddy puddles.
 
 - **Don't worry.** — 别担心。
 - **Come on, tuck in.** — 来，开动吧。
+
+## 比较 · Older than
+
+这一集在比谁更老。**older than** 对了「你」和「我」两句。*very old* 和 *really old* 是旁边的话。每一行先跟本集原句，再换一句家里的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **very old** 很古老 | *It's a place full of interesting things that are very old.* | *Museums keep things that are very old.* — 博物馆留着很古老的东西。 |
+| **older than** 比你老 | *Older than you?* | *Is this book older than you?* — 这本书比你还老吗？ |
+| **even older than** 比我还老 | *Yes, even older than me.* | *It is even older than Daddy.* — 它甚至比爸爸还老。 |
+| **really old** 真的很老 | *Really old.* | *That wooden chair is really old.* — 那把木椅子真的很老。 |

@@ -2,6 +2,8 @@
 
 **School Play**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not** 是这一集的跟读版。
+
 **Peppa——P**
 
 **George——G**
@@ -106,3 +108,58 @@ Grandma is at home. (Dingdong, the doorbell rings.) But who is it visit her?** *
 | **Peppa** | /ˈpɛpə/ | 佩奇（角色名） | 低频 |
 | **photos** | /ˈfoʊˌtoʊz/ | 照片（复数） | 低频 |
 | **gonna** | /ˈgɑnə/ | 将要（口语，= going to） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 你要说哪一句
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What do you say?** | 你要说什么？ | **What do you say next?** — 你下一句说什么？ | 她忘词了 |
+| **Then what?** | 然后呢？ | **Then what do you say?** — 然后你说什么？ | 第一句说完了 |
+| **What do I say?** | 我该说什么？ | **What do I say at the end?** — 结尾我该说什么？ | 她问自己的台词 |
+
+### 台上那几句
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What big eyes you have!** | 你的眼睛好大呀！ | **What big eyes you have, wolf!** — 狼，你的眼睛好大呀！ | 她演到对台词 |
+| **What big teeth you have!** | 你的牙齿好大呀！ | **What big teeth you have, wolf!** — 狼，你的牙齿好大呀！ | 下一句也是感叹 |
+| **Would you like me to come along with you?** | 你要我陪你一起上去吗？ | **Would you like me to stand with you?** — 你要我站在你旁边吗？ | 她不敢自己走上去 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **be going to** | *Peppa is going to be Little Red Riding Hood.* | *Celine is going to be the wolf.* — 不多来演狼。 |
+| **have to** | *They have to practice it at home.* | *You have to practice your line at home.* — 你得在家里练这句台词。 |
+| **will** | *He will rescue Grandma from the Big Bad Wolf.* | *You will rescue the grandma in our play.* — 在我们的戏里，你来救奶奶。 |
+| **must** | *Grandma, you must go in the cupboard.* | *You must stand behind the door.* — 你必须站到门后面。 |
+| **must not** | *Daddy, you must not take photos.* | *You must not take photos while we are playing.* — 我们玩的时候你不许拍照。 |
+| **一般现在时** | *You don't look like my grandma.* | *You do not look like a wolf.* — 你看起来不像狼。 |
+
+跟读命令句，不另算一种时态：
+
+- **Try not to laugh.** — 尽量别笑。
+- **Go in the cupboard.** — 进柜子里。
+- **Carry on.** — 继续。
+- **Help!** — 救命！
+- **No photography, please.** — 请不要拍照。
+
+## 特色 · Must not
+
+这一集上台不许拍照，彩排里 Peppa 要演一个角色，用的是 **going to**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **must not** 不许拍照 | *Daddy, you must not take photos.* | *You must not lift the camera now.* — 你现在不许举起相机。 |
+| **no photography** 不要拍照 | *No photography, please.* | *No photos during the play, please.* — 演戏的时候请不要拍照。 |
+| **must** 必须 | *Grandma, you must go in the cupboard.* | *You must wait behind the curtain.* — 你必须在帘子后面等。 |
+| **going to be** 将要演 | *Peppa is going to be Little Red Riding Hood.* | *You are going to be the grandma.* — 你来演奶奶。 |
+| **going to** 将要去 | *I am going to visit my grandma.* | *I am going to knock on the door.* — 我要去敲门。 |
+| **going to play** 将要扮演 | *Danny Dog is going to play the Big Bad Wolf.* | *Celine is going to play the wolf.* — 不多来演狼。 |
+| **going to be** 将要当 | *Rebecca Rabbit is going to be the grandma.* | *You are going to say thank you at the end.* — 结尾你要说谢谢。 |

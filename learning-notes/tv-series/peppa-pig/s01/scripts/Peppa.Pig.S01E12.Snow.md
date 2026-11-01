@@ -1,6 +1,7 @@
 **S1-12 snow**
 
 **相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** *snow* / *cold* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u05-how-are-the-seasons-different|四上 U5 · 四季]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.

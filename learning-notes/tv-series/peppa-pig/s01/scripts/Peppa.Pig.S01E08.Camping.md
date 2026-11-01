@@ -1,6 +1,7 @@
 **S1-08 camping**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词** 是这一集的跟读版。
+**相关：** *What's that sound?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -279,3 +280,20 @@ I love camping!
 - **Put the tent on the poles.** — 把帐篷套到撑杆上。
 - **Into the tent.** — 进帐篷。
 - **Move further in.** — 再往里挪一点。
+
+<a id="place-prepositions"></a>
+
+## 位置介词 · In, outside, and under
+
+这一集睡觉分在两个地方：帐篷里面，还有外面的星星下面。每一行先跟本集原句，再换一句家里的话。at / on / in 的更全说明见 [[learning-notes/grammar-lab/介词#anchor-at-on-in|介词实验室 · 地点]]。
+
+| 介词 | 画面 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| **in** | 睡在帐篷里 | *Mummy Pig, Peppa and George are sleeping in the tent.* | *We are sleeping in the tent tonight.* — 我们今晚睡在帐篷里。 |
+| **in** | 睡在车里 | *I slept in the car.* | *Daddy slept in the car.* — 爸爸睡在车里。 |
+| **outside** | 宁愿睡在外面 | *I'd rather sleep outside anyway.* | *I would rather read outside.* — 我宁愿在外面看书。 |
+| **under** | 在星星下面 | *Daddy Pig is sleeping outside, under the stars.* | *We can lie under the stars.* — 我们可以躺在星星下面。 |
+| **above** | 星星在头顶 | *Sleeping in the open air with the stars above me.* | *The stars are above us.* — 星星在我们头顶。 |
+| **in** | 挤不进里面 | *We won't all fit in.* | *We will not all fit in one small tent.* — 我们没法都挤进一个小帐篷。 |
+
+*Into the tent.* 和 *Move further in.* 是往里面走，跟读在上面的命令句里。*on the poles* 是把帐篷套到撑杆上，也在命令句里。

@@ -1,6 +1,6 @@
 **S1-03Polly Parrot**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What a** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -215,3 +215,15 @@ This is my little brother, George.
 - **Come and see.** — 过来看。
 - **Off you go.** — 去吧。
 - **Say something.** — 说一句。
+
+## 特色 · What a
+
+这一集奶奶看见鹦鹉，说 *What a sweet little parrot*，鹦鹉又把这句话学了一遍。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **What is** 是什么 | *What is it?* | *What is in the box?* — 盒子里是什么？ |
+| **what it is** 猜是什么 | *Can you guess what it is?* | *Can you guess what is in the box?* — 你猜盒子里是什么？ |
+| **What a** 真可爱 | *What a sweet little parrot!* | *What a sweet little cat!* — 好可爱的小猫！ |
+| **What** 真吵 | *What noisy little ones you are!* | *What noisy children you are!* — 你们这些孩子真吵！ |
+| **such a** 如此可爱 | *Polly is such a sweet parrot.* | *This is such a sweet pet.* — 这只宠物真可爱。 |

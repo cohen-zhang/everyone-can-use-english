@@ -1,6 +1,7 @@
 **01 muddy puddles**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**if / must** 是这一集的跟读版。
+**相关：** *wear* / *boots* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 · 穿什么]]。*It is raining* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。*rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -197,3 +198,14 @@ This is Mummy Pig.
 - **Run along.** — 去玩吧。
 - **Stop.** — 停下。
 - **Let's clean up quickly.** — 我们快点收拾。
+
+## 特色 · If you jump, you must
+
+这一集跳泥坑，主句是 **if** 加 **must**：要是跳，就必须穿靴子。George 也喜欢跳，所以同一句又对他说了一遍。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **if** 要是 | *If you jump in muddy puddles, you must wear your boots.* | *If you play in the rain, you must wear a coat.* — 你要是在雨里玩，就必须穿外套。 |
+| **must** 必须 | *If you jump in muddy puddles, you must wear your boots.* | *You must wear a coat in the rain.* — 下雨你必须穿外套。 |
+| **too** 也 | *George likes to jump in muddy puddles, too.* | *You like puddles, too.* — 你也喜欢水坑。 |
+| **if ... must** 对 George 再说一遍 | *George. If you jump in muddy puddles, you must wear your boots.* | *If Celine jumps, she must wear boots.* — 不多要是跳，就必须穿靴子。 |

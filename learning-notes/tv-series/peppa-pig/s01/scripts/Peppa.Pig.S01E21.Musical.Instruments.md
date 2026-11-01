@@ -1,6 +1,7 @@
 **S1-21 Musical Instruments**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**can / can't** 是这一集的跟读版。
+**相关：** *can / can't* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -234,3 +235,16 @@ This is my little brother, George.
 
 - **Hold it like this.** — 这样拿。
 - **Stick to the accordion.** — 还是拉手风琴吧。
+
+## 特色 · Can and can't
+
+这一集在试乐器，说的是会不会：**can**、**couldn't**、**impossible**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **Can you** 你会吗 | *Can you play your violin?* | *Can you play this little song?* — 你会弹这首小曲子吗？ |
+| **Can I** 我可以试试吗 | *Can I play the violin?* | *Can I try the drum?* — 我可以试试鼓吗？ |
+| **used to be able** 以前会 | *I think I used to be able to play it.* | *I used to be able to whistle.* — 我以前会吹口哨。 |
+| **impossible** 不可能 | *It is impossible to play.* | *This little whistle is impossible to play.* — 这支小口哨没法吹。 |
+| **couldn't** 不会 | *And even I couldn't play it.* | *Even Daddy could not play that song.* — 连爸爸也不会弹那首歌。 |
+| **can** 会 | *But George can play it.* | *Celine can play the drum.* — Celine 会敲鼓。 |

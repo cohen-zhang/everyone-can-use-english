@@ -1,5 +1,7 @@
 **S1-33 Piggy in the Middle**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**in the middle** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig. This is my little brother, George.
 
@@ -156,3 +158,55 @@ I'm Peppa Pig This is my little brother, George.
 | **tease** | /tiz/ | 逗弄；取笑；招惹 | 低频、多义 |
 | **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
 | **piggy** | /ˈpɪgi/ | 小猪（昵称） | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 有没有在逗人
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Have you been teasing George?** | 你是不是一直在逗 George？ | **Have you been teasing me?** — 你是不是在逗我？ | 她把人惹哭了 |
+| **Really?** | 真的吗？ | **Really? Say it once more.** — 真的吗？再说一遍。 | 她的解释听着不像 |
+
+### 能不能帮一把
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What's all the noise?** | 这是什么声音？ | **What's all that noise in your room?** — 你房间里什么声音？ | 屋里突然很吵 |
+| **Can I have a helping hand?** | 能帮我一下吗？ | **Can you give me a helping hand?** — 你能帮我一下吗？ | 东西够不着 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *George is playing with his ball in the garden.* | *You are playing with your ball.* — 你在玩球。 |
+| **现在完成进行时** | *Have you been teasing George?* | *Have you been hiding my cup?* — 你是不是把我的杯子藏起来了？ |
+| **have to** | *You have to throw the ball to each other.* | *You have to throw it to me.* — 你得扔给我。 |
+| **can** | *Can I have a helping hand?* | *Can you reach that for me?* — 你能帮我够到那个吗？ |
+| **一般现在时** | *Peppa loves catching the ball.* | *Catching the ball makes you laugh.* — 接球会让你笑。 |
+
+跟读命令句，不另算一种时态：
+
+- **Come back.** — 回来。
+- **Catch the ball.** — 接球。
+- **Try again.** — 再试一次。
+- **Give the ball to me.** — 把球给我。
+- **Watch.** — 看。
+
+## 特色 · In the middle
+
+这一集在玩「中间的小猪」。球要从中间那个人身边扔过去。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **in the middle** 在中间 | *I'm the piggy in the middle.* | *I am standing in the middle.* — 我站在中间。 |
+| **in the middle** 换人站中间 | *Mummy is the piggy in the middle.* | *You stand in the middle this time.* — 这次你站中间。 |
+| **your turn** 轮到你 | *Now it's your turn to be piggy.* | *Now it is your turn in the middle.* — 现在轮到你在中间。 |
+| **the piggy** 你是中间那个 | *George, you're the piggy!* | *You are the one in the middle.* — 你是中间那一个。 |
+| **throw** 扔过去 | *You have to throw the ball to each other, and I have to try and catch it.* | *Throw the ball past me if you can.* — 你要是能，就把球从我这边扔过去。 |
+| **big enough** 够大了 | *I'm sure he's big enough.* | *You are big enough to catch it.* — 你已经够大，接得住。 |
+| **too little** 太小 | *George is too little to play.* | *You are too little to ride this bike.* — 你还太小，骑不了这辆车。 |

@@ -20,6 +20,9 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/daily-life/parenting-hobby-china-common-phrases|爱好场景]]
 **扩展：** [[learning-notes/parenting-english/games-and-activities/README|游戏与活动]]
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E21.Musical.Instruments|佩奇 S01E21 · 乐器]] — *can / can't*，打开 **特色 · Can and can't**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E10.Bicycles|佩奇 S01E10 · 自行车]] — *I can ride*，打开 **特色 · Without and anymore**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E13.Flying.a.Kite|佩奇 S01E13 · 放风筝]] — *fly a kite*，打开 **本集词汇 · 放风筝**。
 
 ---
 

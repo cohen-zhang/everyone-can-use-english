@@ -1,4 +1,5 @@
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everywhere / any** 是这一集的跟读版。
+**相关：** *a pair of* / *take off* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 · 穿什么]]。*rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig. This is my little brother, George.
@@ -239,3 +240,16 @@ If you jump in muddy puddles, you must wear your boots!
 
 - **Take your shoes off.** — 把鞋脱掉。
 - **Wear your boots.** — 穿上靴子。
+
+## 特色 · Everywhere and any
+
+这一集鞋不见了。先 **everywhere** 找一遍，再发现 **any** 鞋子都没有。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **where** 在哪儿 | *Peppa, where are your shoes?* | *Where are your red shoes?* — 你的红鞋在哪儿？ |
+| **everywhere** 到处 | *We've looked everywhere, but we can't find Peppa's shoes!* | *We looked everywhere, and they are still gone.* — 我们到处找了，还是没有。 |
+| **any** 任何一双都没有 | *Now I haven't got any shoes to wear.* | *I have not got any clean shoes.* — 我没有干净的鞋。 |
+| **not there** 不在那儿 | *Peppa's shoes are not there.* | *Your shoes are not in the hall.* — 你的鞋不在门厅。 |
+| **either** 也不在 | *Peppa's shoes are not there, either.* | *They are not by the door, either.* — 门边也没有。 |
+| **some** 一些新的 | *I'm sure we can find you some lovely new shoes.* | *We can find you some new shoes.* — 我们能给你找到新鞋。 |

@@ -1,6 +1,6 @@
 **THE New CAR**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
 
 Today,Peppa and her family are going for a drive in their red car.
 
@@ -217,3 +217,15 @@ And I think our old car likes us,too.Don’t you?
 
 - **Let's go.** — 我们走吧。
 - **Keep the change.** — 不用找零了。
+
+## 比较 · Like … better
+
+这一集真正用来比较的，是 *like ... better*：新车喜欢过，旧车更喜欢。旁边几句是在说喜欢哪一辆。每一行先跟本集原句，再换一句家里的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **like ... better** 更喜欢 | *I liked the new car but I like our old car better.* | *I like our red bike better.* — 我更喜欢我们的红自行车。 |
+| **like** 喜欢这辆 | *Peppa and her family like the new blue car.* | *We like the blue car for today.* — 我们今天喜欢这辆蓝车。 |
+| **love** 很喜欢 | *I love our car.* | *I love riding in our old car.* — 我喜欢坐我们的旧车。 |
+| **likes me** 它喜欢我 | *I don't think this car likes me.* | *I do not think this button likes me.* — 我觉得这个按钮不喜欢我。 |
+| **likes us** 它也喜欢我们 | *I think our old car likes us, too.* | *I think this old chair likes us, too.* — 我觉得这把旧椅子也喜欢我们。 |

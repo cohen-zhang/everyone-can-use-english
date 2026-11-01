@@ -1,6 +1,6 @@
 **Treasure Hunt**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**look for** 是这一集的跟读版。
 
 **Daddy -----D**
 
@@ -211,3 +211,16 @@ P: Granny, Grandp, this is the best treasure hunt ever.
 
 - **Follow the arrows.** — 跟着箭头走。
 - **Take another look at the map.** — 再看看地图。
+
+## 特色 · Look for
+
+这一集在寻宝。要 **look for**，线索用完了就说 **any more**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **somewhere** 某个地方 | *Somewhere in the garden is the buried treasure.* | *The crayon is somewhere in the bedroom.* — 蜡笔在卧室的某个地方。 |
+| **look for** 去找 | *You have to look for it.* | *We have to look for the missing sock.* — 我们得去找那只不见的袜子。 |
+| **where** 在哪儿 | *The red cross shows where the treasure is.* | *The picture shows where the toy is.* — 这张图标明玩具在哪儿。 |
+| **first clue** 第一条线索 | *The first clue is in a bottle.* | *The first clue is in the kitchen.* — 第一条线索在厨房。 |
+| **any more** 没有更多 | *But there aren't any more clues.* | *We do not need any more clues.* — 我们不需要更多线索了。 |
+| **anything** 什么都没有 | *There doesn't seem to be anything here.* | *I cannot see anything in the drawer.* — 抽屉里我什么都看不见。 |

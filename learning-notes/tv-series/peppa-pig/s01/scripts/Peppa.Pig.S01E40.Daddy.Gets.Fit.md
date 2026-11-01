@@ -1,5 +1,7 @@
 **S1-40 Daddy Gets Fit**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
 
@@ -253,3 +255,43 @@ What is that? It Looks Like a horrible monster!
 | **press-ups** | — | 俯卧撑（英式） | 低频 |
 | **pedals** | /ˈpɛdəlz/ | 脚踏板（复数） | 低频 |
 | **pedal** | /ˈpɛdəl/ | 脚踏板 | 低频 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 先练什么
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What's this?** | 这是什么？ | **What's this on the floor?** — 地板上这是什么？ | 她看见健身的东西 |
+| **What shall I do first?** | 我先做什么？ | **What shall we do first?** — 我们先做什么？ | 她想开始，还没顺序 |
+| **What should I do first?** | 我应该先做什么？ | **What should you do first?** — 你应该先做什么？ | 把选择交回给她 |
+
+### 人去哪了
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Where can Daddy be?** | 爸爸会在哪儿？ | **Where can your shoe be?** — 你的鞋会在哪儿？ | 人还没回来，先找东西 |
+| **Where have you been?** | 你去哪儿了？ | **Where did you go just now?** — 你刚才去哪儿了？ | 她跑了一圈才回来 |
+| **What do you mean?** | 你是什么意思？ | **What do you mean by tomorrow?** — 你说的明天是什么意思？ | 她把事情推到以后 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *Mummy Pig is watching a keep-fit program.* | *I am watching a short video.* — 我在看一段短视频。 |
+| **have to** | *To get fit, you have to exercise every day.* | *You have to stretch every morning.* — 你每天早上都得伸展一下。 |
+| **must** | *First, you must do some press-ups.* | *First, you must touch your toes.* — 你必须先摸摸脚趾。 |
+| **be going to** | *Daddy Pig is going to ride on Peppa's little bicycle.* | *You are going to ride your little bike.* — 你要去骑你的小自行车。 |
+| **现在完成时** | *Where have you been?* | *Where has your ball been?* — 你的球跑哪儿去了？ |
+| **can't** | *Daddy Pig really cannot touch his toes.* | *I cannot touch my toes today.* — 我今天摸不到脚趾。 |
+
+跟读命令句，不另算一种时态：
+
+- **Touch your toes.** — 摸摸你的脚趾。
+- **Stop pretending.** — 别装了。
+- **Don't worry.** — 别担心。
+- **Come on.** — 来吧。

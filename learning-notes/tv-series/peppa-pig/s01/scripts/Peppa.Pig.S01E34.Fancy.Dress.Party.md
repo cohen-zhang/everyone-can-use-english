@@ -1,5 +1,7 @@
 **Fancy Dress Party**
 
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What are you / I'm a** 是这一集的跟读版。
+
 **Mummy Pig -MP**
 
 **Daddy Pig -DP**
@@ -162,3 +164,56 @@ Peppa loves fancy dress parties. Everyone loves fancy dress parties.
 | **goodie** | /ˈgʊdi/ | 好东西；奖品（儿语） | 低频 |
 | **hurray** | /həˈreɪ/ | 好哇；万岁（读 /həˈreɪ/，勿读成 /ˈhʌreɪ/） | 低频 |
 | **reflection** | /rɪˈflɛkʃən/ | 倒影；反射 | 多义、拼写 |
+
+## 亲子问句 · Questions you can ask
+
+这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
+
+### 你扮的是谁
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **What have we here?** | 这是什么呀？ | **What is this outfit?** — 这一身是什么？ | 她从门后走出来 |
+| **What are you?** | 你扮的是什么？ | **What are you today?** — 你今天扮的是什么？ | 她穿上了衣服或披风 |
+| **Why are you dressed as a carrot?** | 你为什么打扮成胡萝卜？ | **Why are you dressed as a cat?** — 你为什么打扮成猫？ | 她的打扮很好认 |
+| **What is a judge?** | 裁判是干什么的？ | **What does a judge do?** — 裁判要做什么？ | 她问一个新词 |
+
+### 谁最好
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **Can I see your costume, please?** | 我可以看看你的衣服吗？ | **Can I see your hat, please?** — 我可以看看你的帽子吗？ | 她想展示 |
+| **Who is next?** | 下一个是谁？ | **Who wants a turn?** — 谁想下一个来？ | 轮着看 |
+| **Who is the fairest of them all?** | 谁是最好看的？ | **Who looks the best today?** — 今天谁最好看？ | 她对着镜子玩 |
+
+## 时态 · Tenses in this episode
+
+只收这一集真正用到的框架。每一行：本集一句，加一句家里能换的话。更全的提问框架见 [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态]]。
+
+| 时态 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **现在进行时** | *Suzy is wearing her nurse's costume.* | *You are wearing your red cape.* — 你穿着红披风。 |
+| **现在完成时** | *Have you just come from the hospital?* | *Have you just come from the kitchen?* — 你刚从厨房过来吗？ |
+| **be going to** | *Peppa is going to choose who has the best costume.* | *You are going to choose the best hat.* — 你来选最好看的帽子。 |
+| **have to** | *You have to pick another winner.* | *You have to pick someone else.* — 你得另选一个人。 |
+| **can't** | *You can't pick yourself.* | *You can't pick your own picture.* — 你不能选自己的那张。 |
+
+跟读命令句，不另算一种时态：
+
+- **Come in.** — 进来。
+- **Open wide and say "aha".** — 张大嘴，说 aha。
+- **Do something funny.** — 做个好笑的动作。
+
+## 特色 · What are you / I'm a
+
+这一集每个人报自己扮的是谁。问句是 **What are you?**，回答是 **I'm a …**。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **What are you** 你是什么 | *What are you, Rebecca?* | *What are you today?* — 你今天是什么？ |
+| **I'm a** 我是海盗 | *I'm a pirate.* | *I'm a cook today.* — 我今天是厨师。 |
+| **I'm a** 我是女巫 | *I'm a witch.* | *I'm a cat.* — 我是一只猫。 |
+| **I'm a** 我是胡萝卜 | *I'm a carrot.* | *I'm a banana.* — 我是一根香蕉。 |
+| **I'm not** 我不是真的 | *I'm not a real nurse. I just pretend.* | *I'm not a real doctor. I am just pretending.* — 我不是真医生，我在假装。 |
+| **I am a** 我是小公主 | *I am a little fairy princess.* | *I am a little star.* — 我是一颗小星星。 |
+| **I'm the** 我是裁判 | *I'm the judge.* | *You are the judge today.* — 今天你来当裁判。 |

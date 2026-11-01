@@ -19,9 +19,10 @@ aliases:
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
 **扩展：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类]]
-**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E32.Thunderstorm|佩奇 S01E32 · 雷雨]] — 本集词汇里标了「教材已见」的 *rain*。
-**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — 本集 *rain* 也标了「教材已见」。
-**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — 本集 *rain* 也标了「教材已见」。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E32.Thunderstorm|佩奇 S01E32 · 雷雨]] — *loud* / *rain*，打开 **本集词汇 · 雷雨**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E08.Camping|佩奇 S01E08 · 露营]] — *What's that sound?*，打开 **亲子问句 · 夜里的声音**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E23.New.Shoes|佩奇 S01E23 · 新鞋子]] — *rain*，打开 **本集词汇 · 下雨和泥坑**。
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E01.Muddy.Puddles|佩奇 S01E01 · 泥坑]] — *rain*，打开 **本集词汇 · 下雨出门**。
 
 ---
 

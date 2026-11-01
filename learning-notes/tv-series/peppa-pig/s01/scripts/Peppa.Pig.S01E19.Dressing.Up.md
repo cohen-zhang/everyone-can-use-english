@@ -1,6 +1,6 @@
 **S1-19 dressing up**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**I'm Mummy Pig** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -229,3 +229,15 @@ You really had us fooied!
 - **Come along.** — 跟我来。
 - **Be careful.** — 小心。
 - **Take off those clothes.** — 把那些衣服脱掉。
+
+## 特色 · I'm Mummy Pig
+
+这一集在装扮。佩奇反复说自己不是 Peppa，是 Mummy Pig。每一行先跟本集原句，再换一句家里的话。
+
+| 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **I'm not ... I'm** 我不是……我是 | *I'm not Peppa Pig. I'm Mummy Pig.* | *I am not Celine. I am Mummy.* — 我不是 Celine。我是妈妈。 |
+| **this is** 这是 | *And this is Daddy Pig.* | *And this is Daddy.* — 而这是爸爸。 |
+| **pretending** 正在假装 | *Peppa is enjoying pretending to be Mummy Pig.* | *You are pretending to be a doctor.* — 你在假装当医生。 |
+| **I'm ... and this is** 我是，这是 | *I'm not Peppa! I'm Mummy Pig and this is Daddy Pig!* | *I am the teacher, and this is the student.* — 我是老师，这是学生。 |
+| **were pretending** 刚才在假装 | *We were just pretending to be you and Daddy.* | *We were just pretending to be the teacher.* — 我们只是在假装当老师。 |

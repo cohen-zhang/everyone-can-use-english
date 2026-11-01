@@ -1,6 +1,6 @@
 **S1-06 the playground**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -227,3 +227,14 @@ Bri-y-ant!
 跟读命令句，不另算一种时态：
 
 - **First, you paint a big circle.** — 先画一个大圆。
+
+## 比较 · Too small and big enough
+
+这一集比的是够不够大。Peppa 说 George **too small**，又问他是不是 **big enough**。每一行先跟本集原句，再换一句家里的话。
+
+| 形式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **too + 形容词** | *Maybe George is too small to go to my playgroup?* | *This jacket is too small.* — 这件外套太小了。 |
+| **too ... to** 太……所以不能 | *Maybe George is too small to go to my playgroup?* | *You are too small to go alone.* — 你太小了，还不能一个人去。 |
+| **形容词 + enough** | *Are you sure George is big enough?* | *Are you sure this jacket is big enough?* — 你确定这件外套够大吗？ |
+| **not + 形容词 + enough** | 本集没说。她说的是 *too small*，问的是 *big enough* | *This jacket is not big enough.* — 这件外套不够大。 |
