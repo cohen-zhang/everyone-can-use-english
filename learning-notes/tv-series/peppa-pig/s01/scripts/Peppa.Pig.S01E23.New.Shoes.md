@@ -1,4 +1,5 @@
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everywhere / any** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everywhere / any**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *a pair of* / *take off* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 · 穿什么]]。*rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -253,3 +254,49 @@ If you jump in muddy puddles, you must wear your boots!
 | **not there** 不在那儿 | *Peppa's shoes are not there.* | *Your shoes are not in the hall.* — 你的鞋不在门厅。 |
 | **either** 也不在 | *Peppa's shoes are not there, either.* | *They are not by the door, either.* — 门边也没有。 |
 | **some** 一些新的 | *I'm sure we can find you some lovely new shoes.* | *We can find you some new shoes.* — 我们能给你找到新鞋。 |
+
+## 亲子讲解 · smart、poor、pair
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### smart
+
+*Do you know the word smart?* — 你知道 smart 这个词吗？
+
+*Say it with me: smart.* — 跟我说：smart。
+
+*Here, smart means neat and tidy.* — 这里的 smart 是整齐精神，不是聪明。
+
+*There's a difference between smart shoes and a smart idea.* — 精神的鞋子和聪明的主意不是一个 smart。
+
+*For example, you look smart in those shoes.* — 比方说，你穿这双鞋很精神。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### poor
+
+*Do you know the word poor?* — 你知道 poor 这个词吗？
+
+*Say it with me: poor.* — 跟我说：poor。
+
+*Here, poor means we feel sorry for her.* — 这里的 poor 是可怜，不是没钱。
+
+*We say poor Peppa when something sad happened.* — 出事了才说 poor Peppa。
+
+*For example, you lost your shoe.* — 比方说，鞋丢了，所以觉得可怜。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### pair
+
+*Do you know the word pair?* — 你知道 pair 这个词吗？
+
+*Say it with me: pair.* — 跟我说：pair。
+
+*A pair means two shoes that go together.* — pair 是凑成一双的两只。
+
+*Notice that we say a pair of shoes.* — 说 a pair of shoes。
+
+*For example, I need a new pair of shoes.* — 比方说，我需要一双新鞋。
+
+*Does that make sense?* — 这样讲得通吗？

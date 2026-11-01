@@ -1,6 +1,7 @@
 **S1-42 Chloe's Puppet Show**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -282,3 +283,51 @@ and one and two
 - **Wait for us.** — 等我们一下。
 - **Forget what I just said.** — 忘掉我刚才说的。
 - **Call us when you're ready.** — 你们准备好了就叫我们。
+
+## 亲子讲解 · puppet、snore、every way
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### puppet
+
+*Do you know the word puppet?* — 你知道 puppet 这个词吗？
+
+*Say it with me: puppet.* — 跟我说：puppet。
+
+*A puppet is a toy person you move with your hand.* — puppet 是用手摆弄的木偶。
+
+*We say put on a puppet show.* — 我们说 put on a puppet show。
+
+*The puppet is not a real child.* — 木偶不是真的小孩。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### snore
+
+*Do you know the word snore?* — 你知道 snore 这个词吗？
+
+*Say it with me: snore.* — 跟我说：snore。
+
+*Snore means the sound people make when they sleep.* — snore 是睡觉时的鼾声。
+
+*We say he snores.* — 我们说 he snores。
+
+*For example, Daddy snores.* — 比方说，爸爸打呼噜。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### every way
+
+*You two are alike in every way.* — 你们两个各方面都像。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "every way" means?* — 你知道 every way 是什么意思吗？
+
+*Alike in every way means the same in all the parts.* — alike in every way 是各方面都一样。
+
+*Notice that the line writes everyway as one word.* — 台词写成了一个词 everyway。
+
+*We say every way, two words.* — 我们说 every way，两个词。
+
+*Does that make sense?* — 这样讲得通吗？

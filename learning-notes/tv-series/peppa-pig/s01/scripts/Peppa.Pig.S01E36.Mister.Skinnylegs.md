@@ -1,6 +1,8 @@
 **S1-36 Mister Skinnylegs**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**isn't he** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**isn't he**、**亲子讲解** 是这一集的跟读版。  
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *in the sink* / *in my bedroom* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u02-where-do-animals-live|四上 U2 · 动物住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -272,3 +274,51 @@ On this boat, I'm the captain.
 | **are you** 你是不是 | *You're not scared, are you, Daddy?* | *You are not scared of it, are you?* — 你不怕它，对不对？ |
 | **too scary** 太吓人 | *It's too scary. Take it away.* | *This picture is too scary. Turn it over.* — 这张画太吓人了，翻过去。 |
 | **little** 一只小的 | *I hear you've found a little spider.* | *You found a little bug.* — 你发现了一只小虫子。 |
+
+## 亲子讲解 · skinny legs、teapot、braver
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### skinny legs
+
+*The spider is Mr. Skinnylegs.* — 这只蜘蛛叫瘦腿先生。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "skinny legs" means?* — 你知道 skinny legs 是什么意思吗？
+
+*Skinny means very thin.* — skinny 是非常细。
+
+*We call the spider Mr. Skinnylegs.* — 我们叫这只蜘蛛 Mr. Skinnylegs。
+
+*It is a story name, not a name for a person.* — 这是故事里的称呼，不是叫人瘦腿。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### teapot
+
+*Do you know the word teapot?* — 你知道 teapot 这个词吗？
+
+*Say it with me: teapot.* — 跟我说：teapot。
+
+*A teapot is the pot you pour tea from.* — teapot 是用来倒茶的壶。
+
+*We say the tea is in the teapot.* — 我们说 tea is in the teapot。
+
+*It is not a cup.* — 它不是杯子。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### braver
+
+*Do you know the word braver?* — 你知道 braver 这个词吗？
+
+*Say it with me: braver.* — 跟我说：braver。
+
+*Braver means more brave than before.* — braver 是比以前更勇敢。
+
+*We say you are braver now.* — 我们说 you are braver now。
+
+*Brave is the first word. Braver compares two times.* — brave 是原来的词。braver 是拿来比。
+
+*Does that make sense?* — 这样讲得通吗？

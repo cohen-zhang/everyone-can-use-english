@@ -1,6 +1,7 @@
 **Treasure Hunt**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**look for** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**look for**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 **Daddy -----D**
 
@@ -224,3 +225,51 @@ P: Granny, Grandp, this is the best treasure hunt ever.
 | **first clue** 第一条线索 | *The first clue is in a bottle.* | *The first clue is in the kitchen.* — 第一条线索在厨房。 |
 | **any more** 没有更多 | *But there aren't any more clues.* | *We do not need any more clues.* — 我们不需要更多线索了。 |
 | **anything** 什么都没有 | *There doesn't seem to be anything here.* | *I cannot see anything in the drawer.* — 抽屉里我什么都看不见。 |
+
+## 亲子讲解 · chest、clue、upside down
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### chest
+
+*Do you know the word chest?* — 你知道 chest 这个词吗？
+
+*Say it with me: chest.* — 跟我说：chest。
+
+*Here, a chest is a box for treasure.* — 这里的 chest 是宝箱，不是胸口。
+
+*There's a difference between a treasure chest and your chest.* — 宝箱和胸口不是一个 chest。
+
+*For example, the chest needs a key.* — 比方说，这个箱子要钥匙。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### clue
+
+*Do you know the word clue?* — 你知道 clue 这个词吗？
+
+*Say it with me: clue.* — 跟我说：clue。
+
+*A clue is a hint that helps you find the next place.* — clue 是帮你找下一处的线索。
+
+*We say one clue is enough.* — 我们说 one clue is enough。
+
+*For example, the note is a clue.* — 比方说，纸条就是一条线索。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### upside down
+
+*The picture is upside down.* — 这张画上下颠倒了。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "upside down" means?* — 你知道 upside down 是什么意思吗？
+
+*Upside down means the top is at the bottom.* — upside down 是上下颠倒。
+
+*We say hold the map upside down.* — 我们说 hold the map upside down。
+
+*Then you cannot read it the right way.* — 那样就没法按正确方向看。
+
+*Does that make sense?* — 这样讲得通吗？

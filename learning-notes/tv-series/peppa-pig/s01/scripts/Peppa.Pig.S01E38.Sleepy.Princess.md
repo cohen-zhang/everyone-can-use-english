@@ -1,6 +1,7 @@
 **S1-38 SIeepy Princess**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Once upon a time** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Once upon a time**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -227,3 +228,39 @@ And our Little prince and princess enjoyed it, too!
 | **were** 他们都在 | *They were all living there as well.* | *They were all in the little house.* — 他们都在那间小屋里。 |
 | **wasn't / was** 不是龙 | *It wasn't a dragon. It was a dinosaur.* | *It was not a tiger. It was a cat.* — 那不是老虎，是一只猫。 |
 | **was so** 困得睡着了 | *The Sleepy Princess was so sleepy, she had fallen fast asleep.* | *You were so sleepy, you fell asleep.* — 你太困了，已经睡着了。 |
+
+## 亲子讲解 · sleepy、once upon a time
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### sleepy
+
+*Do you know the word sleepy?* — 你知道 sleepy 这个词吗？
+
+*Say it with me: sleepy.* — 跟我说：sleepy。
+
+*Sleepy means you want to sleep.* — sleepy 是困了，想睡。
+
+*There's a difference between sleepy and asleep.* — sleepy 和 asleep 不一样。
+
+*Asleep means you are already sleeping.* — asleep 是已经睡着。
+
+*For example, the princess is sleepy.* — 比方说，公主困了。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### once upon a time
+
+*Once upon a time, there was a princess.* — 从前有一位公主。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "once upon a time" means?* — 你知道 once upon a time 是什么意思吗？
+
+*Once upon a time is how a fairy story starts.* — once upon a time 是童话的开头。
+
+*We use that expression only at the start.* — 只用在故事最前面。
+
+*Then the story uses was and were.* — 后面的故事用 was 和 were。
+
+*Does that make sense?* — 这样讲得通吗？

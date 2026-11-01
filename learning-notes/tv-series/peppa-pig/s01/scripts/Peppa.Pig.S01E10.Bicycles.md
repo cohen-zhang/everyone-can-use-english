@@ -1,6 +1,7 @@
 **S1-10 bicycles**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**without / anymore** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**without / anymore**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *I can ride* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -282,3 +283,51 @@ Hurray!
 | **without** 自己骑，没有辅助轮 | *Peppa is riding on her own, without stabilizers.* | *You are doing it on your own, without training wheels.* — 你自己在骑，没有辅助轮。 |
 | **anymore** 不再想要 | *I don't want stabilizers anymore.* | *I don't want the baby seat anymore.* — 我不再想要那个儿童座椅了。 |
 | **anymore** 不再需要 | *I don't need my stabilizers anymore.* | *I don't need help anymore.* — 我不再需要人帮了。 |
+
+## 亲子讲解 · stabilizer、anymore、promise
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### stabilizer
+
+*Do you know the word stabilizer?* — 你知道 stabilizer 这个词吗？
+
+*Say it with me: stabilizer.* — 跟我说：stabilizer。
+
+*A stabilizer is a little wheel on a child's bike.* — stabilizer 是童车侧面的辅助轮。
+
+*In American English we also say training wheels.* — 美式也说 training wheels。
+
+*They mean the same thing here.* — 在这里是同一个东西。
+
+*For example, your bike still has stabilizers.* — 比方说，你的车还有辅助轮。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### anymore
+
+*Do you know the word anymore?* — 你知道 anymore 这个词吗？
+
+*Say it with me: anymore.* — 跟我说：anymore。
+
+*Anymore means not from now on.* — anymore 是从现在起不再。
+
+*Notice that we say I don't want them anymore.* — 说 I don't want them anymore。
+
+*We use anymore in a sentence with not.* — 句子里通常已经有 not。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### promise
+
+*Do you know the word promise?* — 你知道 promise 这个词吗？
+
+*Say it with me: promise.* — 跟我说：promise。
+
+*Promise means you say you really will do it.* — promise 是你保证会做到。
+
+*We say I promise I will be careful.* — 我们说 I promise I will be careful。
+
+*For example, I promise I will look.* — 比方说，我保证我会看清楚。
+
+*Does that make sense?* — 这样讲得通吗？

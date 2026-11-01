@@ -1,6 +1,7 @@
 **S1-33 Piggy in the Middle**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**in the middle** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**in the middle**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig. This is my little brother, George.
@@ -210,3 +211,53 @@ I'm Peppa Pig This is my little brother, George.
 | **throw** 扔过去 | *You have to throw the ball to each other, and I have to try and catch it.* | *Throw the ball past me if you can.* — 你要是能，就把球从我这边扔过去。 |
 | **big enough** 够大了 | *I'm sure he's big enough.* | *You are big enough to catch it.* — 你已经够大，接得住。 |
 | **too little** 太小 | *George is too little to play.* | *You are too little to ride this bike.* — 你还太小，骑不了这辆车。 |
+
+## 亲子讲解 · piggy in the middle、tease、a helping hand
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### piggy in the middle
+
+*Let's play piggy in the middle.* — 我们来玩中间人。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "piggy in the middle" means?* — 你知道 piggy in the middle 是什么意思吗？
+
+*Piggy in the middle is the name of the game.* — piggy in the middle 是这个游戏的名字。
+
+*The middle person tries to catch the ball.* — 中间的人要去接球。
+
+*We call that person the piggy.* — 中间那个人就叫 piggy。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### tease
+
+*Do you know the word tease?* — 你知道 tease 这个词吗？
+
+*Say it with me: tease.* — 跟我说：tease。
+
+*Tease means to bother someone for fun.* — tease 是逗弄，不一定是好意。
+
+*Have you been teasing me? means you kept doing it.* — have you been teasing me 是你是不是一直在逗。
+
+*For example, don't tease until someone cries.* — 比方说，别逗到别人哭。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### a helping hand
+
+*Can you give me a helping hand?* — 你能帮我一下吗？
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "a helping hand" means?* — 你知道 a helping hand 是什么意思吗？
+
+*A helping hand means some help, not a real extra hand.* — a helping hand 是帮一下，不是多出一只手。
+
+*We use that expression when a job is hard alone.* — 一个人做不动的时候用这句。
+
+*Notice that we say give me a helping hand.* — 说 give me a helping hand。
+
+*Does that make sense?* — 这样讲得通吗？

@@ -1,6 +1,7 @@
 **S1-20 the school fete**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Would you like** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Would you like**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *would like* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u04-what-do-we-buy|四上 U4 · 买什么]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -288,3 +289,51 @@ This is the best school fete, ever!
 | **What would you like to be** 想扮成什么 | *What would you like to be?* | *What would you like to be today?* — 你今天想扮成什么？ |
 | **We'd like** 我们想要 | *We'd like some balloons, please.* | *We would like two balloons, please.* — 我们想要两个气球。 |
 | **Do you like** 你喜欢吗 | 本集没说。这一集问的是 *What do you like* | *Do you like balloons?* — 你喜欢气球吗？ |
+
+## 亲子讲解 · fete、bouncy castle、instead
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### fete
+
+*Do you know the word fete?* — 你知道 fete 这个词吗？
+
+*Say it with me: fete.* — 跟我说：fete。
+
+*A fete is a school fair with games and stalls.* — fete 是学校的游园会。
+
+*We say the school fete.* — 我们说 the school fete。
+
+*For example, the fete is on Saturday.* — 比方说，游园会在星期六。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### bouncy castle
+
+*The castle is bouncy.* — 这个城堡会把人弹起来。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "bouncy castle" means?* — 你知道 bouncy castle 是什么意思吗？
+
+*A bouncy castle is a big air castle you jump on.* — bouncy castle 是可以在上面跳的充气城堡。
+
+*Bouncy means it springs.* — bouncy 是会弹。
+
+*It is not a stone castle.* — 不是石头城堡。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### instead
+
+*Do you know the word instead?* — 你知道 instead 这个词吗？
+
+*Say it with me: instead.* — 跟我说：instead。
+
+*Instead means choose this one, not that one.* — instead 是改成这个，不要那个。
+
+*We say have an apple instead.* — 我们说 have an apple instead。
+
+*For example, have an apple instead.* — 比方说，改成吃一个苹果吧。
+
+*Does that make sense?* — 这样讲得通吗？

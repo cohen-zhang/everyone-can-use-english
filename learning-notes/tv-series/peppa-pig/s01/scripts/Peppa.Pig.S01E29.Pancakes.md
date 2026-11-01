@@ -1,6 +1,7 @@
 **S1-29 pancakes**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -243,3 +244,51 @@ This is my little brother, George.
 - **Leave that to me.** — 交给我。
 - **Sit at the table.** — 坐到桌边。
 - **On the count of three, jump.** — 数到三就跳。
+
+## 亲子讲解 · batter、flip、flour
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### batter
+
+*Do you know the word batter?* — 你知道 batter 这个词吗？
+
+*Say it with me: batter.* — 跟我说：batter。
+
+*Batter is the wet mix you cook into a pancake.* — batter 是做薄饼的面糊。
+
+*There's a difference between batter and a baseball bat.* — 面糊和棒球棒不是一个 batter。
+
+*For example, the batter is in the bowl.* — 比方说，面糊在碗里。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### flip
+
+*Do you know the word flip?* — 你知道 flip 这个词吗？
+
+*Say it with me: flip.* — 跟我说：flip。
+
+*Flip means turn the pancake over.* — flip 是把薄饼翻面。
+
+*We say flip it when the edge is dry.* — 边上干了就说 flip it。
+
+*For example, flip it once.* — 比方说，翻一次。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### flour
+
+*Do you know the word flour?* — 你知道 flour 这个词吗？
+
+*Say it with me: flour.* — 跟我说：flour。
+
+*Flour is the white powder for batter.* — flour 是做面糊的面粉。
+
+*There's a difference between flour and flower.* — flour 是面粉，flower 是花。
+
+*They sound the same. The spelling is different.* — 读音一样，拼写不同。
+
+*For example, we need more flour.* — 比方说，我们还要些面粉。
+
+*Does that make sense?* — 这样讲得通吗？

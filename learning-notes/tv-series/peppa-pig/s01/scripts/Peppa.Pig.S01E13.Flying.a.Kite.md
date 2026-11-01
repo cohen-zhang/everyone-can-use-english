@@ -1,6 +1,7 @@
 **S1-13 flying a kite**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**quite / very / too** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**quite / very / too**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *fly a kite* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。*windy* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -254,3 +255,51 @@ This is my little brother, George.
 | **very** 非常 | *The wind is very strong now!* | *The wind outside is very strong.* — 外面的风非常大。 |
 | **too** 太 | *You are much too heavy for that branch!* | *You are too heavy for that little chair.* — 你坐那把小椅子太重了。 |
 | **as much ... as** 一样 | *Jumping up and down in muddy puddles is just as much fun as flying the kite.* | *Puddles are as much fun as a kite.* — 水坑和风筝一样好玩。 |
+
+## 亲子讲解 · stuck、nonsense、windy
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### stuck
+
+*Do you know the word stuck?* — 你知道 stuck 这个词吗？
+
+*Say it with me: stuck.* — 跟我说：stuck。
+
+*Stuck means it cannot move.* — stuck 是卡住了，动不了。
+
+*There's a difference between stuck and caught.* — stuck 和 caught 很近，不完全一样。
+
+*Caught in a tree means the kite is hanging there.* — caught in a tree 是挂在树上。
+
+*For example, the ball is stuck.* — 比方说，球卡住了。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### nonsense
+
+*Do you know the word nonsense?* — 你知道 nonsense 这个词吗？
+
+*Say it with me: nonsense.* — 跟我说：nonsense。
+
+*Nonsense means that idea is silly and not true.* — nonsense 是这话不靠谱。
+
+*We say that is nonsense.* — 我们说 that is nonsense。
+
+*It is a strong way to say no.* — 这是比较重的一句否定。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### windy
+
+*Do you know the word windy?* — 你知道 windy 这个词吗？
+
+*Say it with me: windy.* — 跟我说：windy。
+
+*Windy means there is a lot of wind.* — windy 是风很大。
+
+*There's a difference between wind and windy.* — wind 是风，windy 是有风的。
+
+*For example, a windy day is good for kites.* — 比方说，有风的天适合放风筝。
+
+*Does that make sense?* — 这样讲得通吗？

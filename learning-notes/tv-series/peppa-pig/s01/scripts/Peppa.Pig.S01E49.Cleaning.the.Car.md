@@ -1,6 +1,7 @@
 **S1-49 Cleaning the Car**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.This is my little brother, George.
@@ -212,3 +213,49 @@ Naughty, messy Mummy.
 - **Stop.** — 停下。
 - **Turn off the water.** — 把水关掉。
 - **Let's go.** — 我们走吧。
+
+## 亲子讲解 · polish、soapy、puddle
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### polish
+
+*Do you know the word polish?* — 你知道 polish 这个词吗？
+
+*Say it with me: polish.* — 跟我说：polish。
+
+*Polish means rub something until it shines.* — polish 是擦到发亮。
+
+*We say polish the car.* — 我们说 polish the car。
+
+*Polishing is the same job while you are doing it.* — 正在擦，就说 polishing。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### soapy
+
+*Do you know the word soapy?* — 你知道 soapy 这个词吗？
+
+*Say it with me: soapy.* — 跟我说：soapy。
+
+*Soapy means full of soap bubbles.* — soapy 是有很多肥皂泡。
+
+*We say soapy water.* — 我们说 soapy water。
+
+*There's a difference between soap and soapy.* — soap 是肥皂。soapy 是沾了肥皂的。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### puddle
+
+*Do you know the word puddle?* — 你知道 puddle 这个词吗？
+
+*Say it with me: puddle.* — 跟我说：puddle。
+
+*A puddle is a little pool on the ground.* — puddle 是地上的一小滩水。
+
+*The car wash can leave a puddle.* — 洗车会留下一滩水。
+
+*For example, don't step in the puddle.* — 比方说，别踩进那滩水。
+
+*Does that make sense?* — 这样讲得通吗？

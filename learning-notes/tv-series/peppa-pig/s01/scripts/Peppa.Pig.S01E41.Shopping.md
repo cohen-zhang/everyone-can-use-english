@@ -1,6 +1,7 @@
 **S1-41 going shopping**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *shopping list* / *we need* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u04-what-do-we-buy|四上 U4 · 买什么]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -276,3 +277,51 @@ I'm going to have a party!
 - **Have another guess.** — 再猜一次。
 - **Let's put this spaghetti in the trolley.** — 我们把这包意大利面放进车里。
 - **Let's pretend it was on the list.** — 我们就当它原来在清单上。
+
+## 亲子讲解 · crisp、melon、goody
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### crisp
+
+*Do you know the word crisp?* — 你知道 crisp 这个词吗？
+
+*Say it with me: crisp.* — 跟我说：crisp。
+
+*Here, a crisp is a thin fried potato snack.* — 这里的 crisp 是炸薯片，英式说法。
+
+*In American English we say chip for the same snack.* — 美式把同一包零食叫 chip。
+
+*There's a difference between a crisp and crisp apples.* — 薯片和脆苹果不是同一个意思。
+
+*Crisp apples means the fruit is firm.* — crisp apples 是苹果又脆又新鲜。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### melon
+
+*Do you know the word melon?* — 你知道 melon 这个词吗？
+
+*Say it with me: melon.* — 跟我说：melon。
+
+*A melon is a big sweet fruit.* — melon 是又大又甜的瓜。
+
+*We say a slice of melon.* — 我们说 a slice of melon。
+
+*For example, the melon is in the bag.* — 比方说，瓜在袋子里。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### goody
+
+*Do you know the word goody?* — 你知道 goody 这个词吗？
+
+*Say it with me: goody.* — 跟我说：goody。
+
+*A goody is a little sweet or treat.* — goody 是一块糖或一份小零食。
+
+*We call the sweets goodies.* — 那些零食就叫 goodies。
+
+*It is a child's word.* — 这是对孩子说的词。
+
+*Does that make sense?* — 这样讲得通吗？

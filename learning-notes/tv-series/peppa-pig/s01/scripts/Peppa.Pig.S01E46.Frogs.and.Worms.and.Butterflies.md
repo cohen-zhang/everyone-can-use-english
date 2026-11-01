@@ -1,7 +1,9 @@
 **S1-46 Frogs and Worms and Butterflies**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
-**相关：** *I like frogs* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u06-what-do-we-like-about-small-animals|三上 U6 · 小动物]]。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *I like frogs* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u06-what-do-we-like-about-small-animals|三上 U6 · 小动物]]。  
+**相关：** 青蛙在 *muddy puddle* 里，见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u02-where-do-animals-live|四上 U2 · 动物住在哪里]]。课文说的是 *in the water*。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -215,3 +217,49 @@ This is my little brother, George.
 E46 user said if let's is the pattern keep it in tense bullets. I put Let's both in the tense table AND commands. E01 puts Let's only in command bullets, not as a tense row. "Let's" isn't a tense. I should remove the Let's row from the tense table and keep it in the command list. The user said "Only tenses actually used." Let's is not a tense. I'll remove that row in cleanup.
 
 Also "Lie down on the ground" - the script says "First, you have to lie down on the ground" which is have to, not a bare imperative. "Then, you wriggle around" is descriptive. "Look!" is imperative. "Let's play frogs" is imperative. I should not invent "Lie down" as a command if the line is "you have to lie down". I'll change the command list to only Look and Let's play frogs. Or quote "First, you have to lie down" is already in have to tense. Remove the lie down command.
+
+## 亲子讲解 · wriggly、froggy、puddle
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### wriggly
+
+*Do you know the word wriggly?* — 你知道 wriggly 这个词吗？
+
+*Say it with me: wriggly.* — 跟我说：wriggly。
+
+*Wriggly means it twists and moves.* — wriggly 是扭来扭去的。
+
+*We say a wriggly worm.* — 我们说 a wriggly worm。
+
+*The worm wriggles. Wriggly describes it.* — 虫子在扭，wriggly 是形容它。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### froggy
+
+*Do you know the word froggy?* — 你知道 froggy 这个词吗？
+
+*Say it with me: froggy.* — 跟我说：froggy。
+
+*Froggy is a pet name for a little frog.* — froggy 是小青蛙的昵称。
+
+*We also say froggies for more than one.* — 好几只说 froggies。
+
+*It is the same animal as a frog.* — 它还是青蛙，只是叫法更小。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### puddle
+
+*Do you know the word puddle?* — 你知道 puddle 这个词吗？
+
+*Say it with me: puddle.* — 跟我说：puddle。
+
+*A puddle is a little pool of water or mud.* — puddle 是一小滩水或泥。
+
+*We say jump in a muddy puddle.* — 我们说 jump in a muddy puddle。
+
+*The frogs in this episode play in the puddle.* — 这一集的青蛙在泥坑里玩。
+
+*Does that make sense?* — 这样讲得通吗？

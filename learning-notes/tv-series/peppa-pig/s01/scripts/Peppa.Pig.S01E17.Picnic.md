@@ -1,6 +1,7 @@
 **S1-17 picnic**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -259,3 +260,49 @@ This is my little brother, George.
 - **Stay still.** — 别动。
 - **Go away.** — 走开。
 - **Stop.** — 停下。
+
+## 亲子讲解 · spot、tease、wasp
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### spot
+
+*Do you know the word spot?* — 你知道 spot 这个词吗？
+
+*Say it with me: spot.* — 跟我说：spot。
+
+*Here, a spot is a place.* — 这里的 spot 是一个地点，不是斑点。
+
+*Just the spot means this place is right.* — just the spot 是这地方正合适。
+
+*For example, this is a good spot.* — 比方说，这里是个好地方。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### tease
+
+*Do you know the word tease?* — 你知道 tease 这个词吗？
+
+*Say it with me: tease.* — 跟我说：tease。
+
+*Tease means you joke in a way that can upset someone.* — tease 是逗人，有时会让人不高兴。
+
+*I was just teasing means it was a joke.* — I was just teasing 是我只是逗你。
+
+*For example, don't tease your brother.* — 比方说，别逗弟弟。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### wasp
+
+*Do you know the word wasp?* — 你知道 wasp 这个词吗？
+
+*Say it with me: wasp.* — 跟我说：wasp。
+
+*A wasp is a flying insect that can sting.* — wasp 是会蛰人的黄蜂。
+
+*There's a difference between a wasp and a bee.* — wasp 和 bee 不是同一种。
+
+*For example, a wasp can sting.* — 比方说，黄蜂会蛰人。
+
+*Does that make sense?* — 这样讲得通吗？

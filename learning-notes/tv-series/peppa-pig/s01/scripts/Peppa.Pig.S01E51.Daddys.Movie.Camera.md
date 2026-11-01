@@ -1,6 +1,8 @@
 **S1-51 Daddy's Movie Camera**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。  
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *in the kitchen* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u01-where-do-people-live|四上 U1 · 人们住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -240,3 +242,37 @@ And this is the real Daddy Pig.
 - **No peeking.** — 不许偷看。
 - **Don't be frightened.** — 别害怕。
 - **Let's see George's movie first.** — 我们先看 George 的片子。
+
+## 亲子讲解 · parcel、frighten
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### parcel
+
+*Do you know the word parcel?* — 你知道 parcel 这个词吗？
+
+*Say it with me: parcel.* — 跟我说：parcel。
+
+*A parcel is a box or packet that arrives.* — parcel 是寄来或送到的包裹。
+
+*In American English we also say package.* — 美式也说 package。
+
+*They mean the same thing here.* — 在这里是同一个东西。
+
+*For example, a parcel came today.* — 比方说，今天来了一个包裹。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### frighten
+
+*Do you know the word frighten?* — 你知道 frighten 这个词吗？
+
+*Say it with me: frighten.* — 跟我说：frighten。
+
+*Frighten means to make someone scared.* — frighten 是把人吓到。
+
+*We say don't frighten her.* — 我们说 don't frighten her。
+
+*Frightened is how she feels after that.* — 吓到之后，她的感觉是 frightened。
+
+*Does that make sense?* — 这样讲得通吗？

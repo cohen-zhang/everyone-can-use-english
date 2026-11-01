@@ -20,6 +20,11 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/school-life/parenting-primary-school-subjects-vocab|深圳小学课程与在校日常]]
 
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E15.Daddy.Loses.his.Glasses|佩奇 S01E15 · 找眼镜]] — *bedroom* / *bathroom*，打开 **位置介词**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E18.Mummy.Pigs.Birthday|佩奇 S01E18 · 猪妈妈的生日]] — *sitting room*（同 *living room*），打开 **亲子问句 · 邀请、选择**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E45.Tidying.Up|佩奇 S01E45 · 收拾房间]] — *bedroom* / *sitting room*，打开 **亲子问句 · 怎么这么乱**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E51.Daddys.Movie.Camera|佩奇 S01E51 · 摄像机]] — *kitchen*，打开 **时态** 里的 *wait in the kitchen*。
+
 ---
 
 ## 1. 核心句型 — Key patterns

@@ -1,6 +1,9 @@
 **S1-30 the museum**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**亲子讲解** 是这一集的跟读版。  
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *How many tickets?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u03-how-do-we-use-numbers|四上 U3 · 数字]]。  
+**相关：** *Where is the dinosaur?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u02-where-do-animals-live|四上 U2 · 动物住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -291,3 +294,51 @@ I love muddy puddles.
 | **older than** 比你老 | *Older than you?* | *Is this book older than you?* — 这本书比你还老吗？ |
 | **even older than** 比我还老 | *Yes, even older than me.* | *It is even older than Daddy.* — 它甚至比爸爸还老。 |
 | **really old** 真的很老 | *Really old.* | *That wooden chair is really old.* — 那把木椅子真的很老。 |
+
+## 亲子讲解 · bow、throne、tuck in
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### bow
+
+*Do you know the word bow?* — 你知道 bow 这个词吗？
+
+*Say it with me: bow.* — 跟我说：bow。
+
+*Here, bow means bend your body to say hello.* — 这里的 bow 是鞠躬，不是蝴蝶结。
+
+*Notice that this bow sounds like cow, not like a hair bow.* — 这个 bow 读得像 cow，不是发夹那个音。
+
+*For example, bow when you say hello.* — 比方说，问好时鞠个躬。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### throne
+
+*Do you know the word throne?* — 你知道 throne 这个词吗？
+
+*Say it with me: throne.* — 跟我说：throne。
+
+*A throne is the special chair for a king or queen.* — throne 是国王或女王的椅子。
+
+*We call that chair a throne.* — 那把椅子就叫 throne。
+
+*For example, a throne is a king's chair.* — 比方说，王座是国王的椅子。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### tuck in
+
+*Tuck in. The cake is here.* — 开动吧，蛋糕在这儿。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "tuck in" means?* — 你知道 tuck in 是什么意思吗？
+
+*Tuck in means start eating.* — tuck in 是开动吃。
+
+*There's a difference between tuck in and tuck up.* — tuck in 和 tuck up 不一样。
+
+*Tuck up means pull the blanket up in bed.* — tuck up 是在床上盖好被子。
+
+*Does that make sense?* — 这样讲得通吗？

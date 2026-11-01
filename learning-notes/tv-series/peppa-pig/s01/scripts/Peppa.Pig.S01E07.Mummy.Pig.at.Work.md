@@ -1,6 +1,7 @@
 **S1-07 mummy pig at work**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**mustn't / either** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**mustn't / either**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -204,3 +205,53 @@ I'm Peppa Pig. This is my little brother, George.
 | **either** 也不。放在否定句末尾 | *You mustn't touch the computer, either.* | *You mustn't open that drawer, either.* — 你也不许开那个抽屉。 |
 | **mustn't** 不许这样做 | *You mustn't do this.* | *You mustn't press those buttons.* — 你不许按那些按钮。 |
 | **too** 也。用在肯定句 | 本集没说。否定句里的「也」用 *either* | *You can sit and watch, too.* — 你也可以坐着看。 |
+
+## 亲子讲解 · disturb、lap、as long as
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### disturb
+
+*Please don't disturb Daddy.* — 请别打扰爸爸。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "disturb" means?* — 你知道 disturb 是什么意思吗？
+
+*Disturb means to stop someone who is working.* — disturb 是打断正在做事的人。
+
+*We use that word when the room should stay quiet.* — 房间需要安静的时候用这个词。
+
+*For example, when Daddy is in a meeting, don't disturb him.* — 比方说，爸爸开会时别打扰他。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### lap
+
+*Do you know the word lap?* — 你知道 lap 这个词吗？
+
+*Say it with me: lap.* — 跟我说：lap。
+
+*Your lap is the top of your legs when you sit.* — lap 是坐下时腿的上面。
+
+*We say sit on my lap.* — 我们说 sit on my lap。
+
+*Notice that we say on my lap, not in my lap.* — 说 on my lap，不说 in my lap。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### as long as
+
+*You can watch, as long as you are quiet.* — 你可以看，只要安静。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "as long as" means?* — 你知道 as long as 是什么意思吗？
+
+*As long as means you may do it only if you follow the rule.* — as long as 是只要做到后面那件事。
+
+*The quiet part is the rule.* — 安静就是那个条件。
+
+*We use that expression before the rule.* — 条件放在 as long as 后面。
+
+*Does that make sense?* — 这样讲得通吗？

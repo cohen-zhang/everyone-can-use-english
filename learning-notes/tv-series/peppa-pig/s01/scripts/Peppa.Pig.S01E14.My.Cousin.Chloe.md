@@ -1,6 +1,7 @@
 **My cousin Chloe**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 N: Peppa and George are playing in the garden.
 
@@ -201,3 +202,51 @@ N: Peppa and Chloe love jumping up and down in muddy puddles. Everyone loves jum
 | **so little** 这么小 | *You're so little!* | *This coat is so little.* — 这件外套太小了。 |
 | **big** 大孩子 | *I'm a big girl like you.* | *I am a big kid like you.* — 我和你一样是大孩子。 |
 | **too grown-up** 大得不能 | *I'm too grown-up to jump in muddy puddles.* | *I am not too grown-up to jump.* — 我没有大到不能跳。 |
+
+## 亲子讲解 · fair、you're it、cousin
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### fair
+
+*Do you know the word fair?* — 你知道 fair 这个词吗？
+
+*Say it with me: fair.* — 跟我说：fair。
+
+*Here, fair means everyone gets the same chance.* — 这里的 fair 是公平，不是集市。
+
+*Not fair means someone skipped the rule.* — not fair 是有人没按规则来。
+
+*For example, skipping the line is not fair.* — 比方说，插队不公平。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### you're it
+
+*Now you are it.* — 现在换你抓。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "you're it" means?* — 你知道 you're it 是什么意思吗？
+
+*In this game, it means the person who chases.* — 在这个游戏里，it 是负责抓人的那一个。
+
+*There's a difference between it and a toy.* — 这里的 it 不是「它」。
+
+*We say you're it when it is your turn to chase.* — 轮到你抓的时候说 you're it。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### cousin
+
+*Do you know the word cousin?* — 你知道 cousin 这个词吗？
+
+*Say it with me: cousin.* — 跟我说：cousin。
+
+*A cousin is the child of your aunt or uncle.* — cousin 是姑表或堂兄弟姐妹。
+
+*We say your big cousin when she is older.* — 比你大，就说 big cousin。
+
+*For example, your cousin is coming.* — 比方说，你表姐要来了。
+
+*Does that make sense?* — 这样讲得通吗？

@@ -1,7 +1,9 @@
 **S1-18 Mummy Pig's birthday**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**surprise** 是这一集的跟读版。
-**相关：** *Happy birthday* / *How old* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u08-why-do-we-like-birthdays|三上 U8 · 生日]]。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**surprise**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *Happy birthday* / *How old* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u08-why-do-we-like-birthdays|三上 U8 · 生日]]。  
+**相关：** *sitting room*（同 *living room*）见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u01-where-do-people-live|四上 U1 · 人们住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -304,3 +306,53 @@ And the most beautiful!
 | **can't come in** 还不能进 | *But you can't come in.* | *You cannot come in yet.* — 你还不能进来。 |
 | **secret things** 在准备秘密 | *Daddy Pig, Peppa and George are doing secret things for my birthday.* | *We are doing secret things for your birthday.* — 我们在为你的生日准备秘密。 |
 | **surprise** 开门看见 | *What a lovely surprise!* | *Opening the door is a lovely surprise.* — 一开门就是个好惊喜。 |
+
+## 亲子讲解 · present、wish、nearly enough
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### present
+
+*Do you know the word present?* — 你知道 present 这个词吗？
+
+*Say it with me: present.* — 跟我说：present。
+
+*Here, a present is a gift.* — 这里的 present 是礼物。
+
+*Notice that we say PRE-sent, with the stress on the first part.* — 重音在前面，读 PRE-sent。
+
+*The other present means to show something, and the stress moves.* — 另一个 present 是展示，重音在后面。
+
+*For example, this present is for you.* — 比方说，这份礼物是给你的。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### wish
+
+*Do you know the word wish?* — 你知道 wish 这个词吗？
+
+*Say it with me: wish.* — 跟我说：wish。
+
+*A wish is the hope you make before you open your eyes.* — wish 是睁眼之前许的那个愿望。
+
+*We say make a wish.* — 我们说 make a wish。
+
+*For example, make a wish, then open your eyes.* — 比方说，先许愿，再睁眼。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### nearly enough
+
+*We haven't got nearly enough cups.* — 杯子差得远，根本不够。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "nearly enough" means?* — 你知道 nearly enough 是什么意思吗？
+
+*Nearly enough does not mean almost enough, in this line.* — 这句里的 nearly enough 不是「差不多够了」。
+
+*Haven't got nearly enough means you are far short.* — haven't got nearly enough 是差得远。
+
+*Notice the not. That changes nearly.* — 有了 not，nearly 的意思就变了。
+
+*Does that make sense?* — 这样讲得通吗？

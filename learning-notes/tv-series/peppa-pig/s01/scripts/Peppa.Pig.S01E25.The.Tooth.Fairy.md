@@ -1,6 +1,7 @@
 **Tooth Fairy**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**under the pillow** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**under the pillow**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 P:I’m Peppa Pig, this is my little brother George, this is Mummy Pig, this is Daddy Pig, Peppa Pig!
 
@@ -158,3 +159,53 @@ P: Maybe I fell asleep just for a little bit, next time I will stay awake, and I
 | **in its place** 换在原处 | *In its place she will leave a shining coin.* | *A coin will be there in its place.* — 原来的地方会有一枚硬币。 |
 | **not going to** 不打算 | *I'm not going to sleep.* | *I am not going to sleep yet.* — 我还不打算睡。 |
 | **going to** 打算 | *I'm going to stay awake to see the Tooth Fairy.* | *I am going to stay awake and listen.* — 我打算一直醒着听。 |
+
+## 亲子讲解 · milk tooth、in return for、fairy
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### milk tooth
+
+*A milk tooth falls out.* — 乳牙会掉。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "milk tooth" means?* — 你知道 milk tooth 是什么意思吗？
+
+*A milk tooth is a child's first tooth.* — milk tooth 是小孩子的乳牙。
+
+*We say it falls out when it comes loose.* — 松了掉下来，说 fall out。
+
+*It is not a tooth made of milk.* — 不是牛奶做的牙。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### in return for
+
+*A sticker in return for the tooth.* — 用一张贴纸换这颗牙。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "in return for" means?* — 你知道 in return for 是什么意思吗？
+
+*In return for means you give this because you got that.* — in return for 是用这个来交换那个。
+
+*The fairy gives a coin in return for the tooth.* — 仙女用硬币换那颗牙。
+
+*Notice that for stays in the phrase.* — for 要留在词组里。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### fairy
+
+*Do you know the word fairy?* — 你知道 fairy 这个词吗？
+
+*Say it with me: fairy.* — 跟我说：fairy。
+
+*Here, the fairy is the Tooth Fairy.* — 这里的 fairy 是牙仙。
+
+*There's a difference between the Tooth Fairy and a fairy princess.* — 牙仙和仙女公主不是同一个角色。
+
+*The princess one is in Best Friend.* — 装扮仙女在好朋友那一集。
+
+*Does that make sense?* — 这样讲得通吗？

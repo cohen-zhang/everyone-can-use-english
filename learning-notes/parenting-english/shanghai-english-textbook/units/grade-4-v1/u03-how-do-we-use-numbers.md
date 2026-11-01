@@ -20,6 +20,8 @@ aliases:
 
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]
 
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E30.The.Museum|佩奇 S01E30 · 博物馆]] — *How many tickets, please?*，打开 **亲子问句 · 博物馆是什么**。
+
 ---
 
 ## 1. 核心句型 — Key patterns

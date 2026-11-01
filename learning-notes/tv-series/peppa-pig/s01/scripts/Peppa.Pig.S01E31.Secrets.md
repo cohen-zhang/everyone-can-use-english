@@ -1,6 +1,7 @@
 **S1-31 secrets**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not / won't** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not / won't**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -281,3 +282,51 @@ This is my little brother, George.
 | **must** 必须。只有我可以知道 | *Only I must know what's in the box.* | *Only you must know the hiding place.* — 只有你可以知道藏的地方。 |
 | **must** 必须好好猜 | *You must have a proper guess.* | *You must guess for real.* — 你必须认真猜。 |
 | **must** 必须同时做 | *We must do it at the same time.* | *We must start together.* — 我们必须一起开始。 |
+
+## 亲子讲解 · fit、used up、secret
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### fit
+
+*Do you know the word fit?* — 你知道 fit 这个词吗？
+
+*Say it with me: fit.* — 跟我说：fit。
+
+*Here, fit means there is room for it.* — 这里的 fit 是放得下。
+
+*Too big to fit means it will not go in.* — too big to fit 是太大，进不去。
+
+*There's a difference between fit and exercise.* — 这里不是锻炼身体。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### used up
+
+*Your three guesses are used up.* — 你的三次机会用完了。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "used up" means?* — 你知道 used up 是什么意思吗？
+
+*Used up means nothing is left.* — used up 是用完了，没有了。
+
+*We say your guesses are used up.* — 我们说 your guesses are used up。
+
+*Then you cannot guess again.* — 就不能再猜了。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### secret
+
+*Do you know the word secret?* — 你知道 secret 这个词吗？
+
+*Say it with me: secret.* — 跟我说：secret。
+
+*A secret is something you do not tell.* — secret 是不告诉别人的事。
+
+*We say can you keep a secret?* — 我们说 can you keep a secret?
+
+*Keep a secret means you do not say it.* — keep a secret 是你不说出去。
+
+*Does that make sense?* — 这样讲得通吗？

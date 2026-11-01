@@ -2,7 +2,8 @@
 
 **Lunch**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**don't like / enough** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**don't like / enough**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *don't like* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u05-what-do-we-eat|三上 U5 · 吃什么]]。
 
 **Peppa——P**
@@ -95,3 +96,37 @@ Peppa, would you like tomatoes?** **P: Yes, Grandpa Pig.** **GPP: George, do you
 | **enough** 够了 | *Maybe that's enough washing.* | *That is enough washing.* — 洗得够了。 |
 | **too full** 太饱 | *George is too full to eat any more.* | *You are too full to eat another bite.* — 你太饱了，一口都吃不下了。 |
 | **won't want** 那就不要了 | *Then you won't want any of this chocolate cake.* | *Then you will not want this cookie.* — 那你就不要这块饼干了。 |
+
+## 亲子讲解 · tuck in、enough
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### tuck in
+
+*Tuck in. Lunch is ready.* — 开动吧，午饭好了。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "tuck in" means?* — 你知道 tuck in 是什么意思吗？
+
+*Tuck in means start eating.* — tuck in 是开始吃。
+
+*We use that expression when the food is on the table.* — 饭已经放上桌时用这句。
+
+*It is not tuck up, which means pull up the blanket.* — 不是 tuck up。tuck up 是盖被子。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### enough
+
+*Do you know the word enough?* — 你知道 enough 这个词吗？
+
+*Say it with me: enough.* — 跟我说：enough。
+
+*Enough means you have had as much as you need.* — enough 是已经够了。
+
+*We say that's enough.* — 我们说 that's enough。
+
+*For example, that's enough washing.* — 比方说，洗得够了。
+
+*Does that make sense?* — 这样讲得通吗？

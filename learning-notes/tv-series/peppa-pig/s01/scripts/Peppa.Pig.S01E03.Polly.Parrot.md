@@ -1,6 +1,7 @@
 **S1-03Polly Parrot**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What a** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What a**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -227,3 +228,51 @@ This is my little brother, George.
 | **What a** 真可爱 | *What a sweet little parrot!* | *What a sweet little cat!* — 好可爱的小猫！ |
 | **What** 真吵 | *What noisy little ones you are!* | *What noisy children you are!* — 你们这些孩子真吵！ |
 | **such a** 如此可爱 | *Polly is such a sweet parrot.* | *This is such a sweet pet.* — 这只宠物真可爱。 |
+
+## 亲子讲解 · sweet、copy、pretend
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### sweet
+
+*Do you know the word sweet?* — 你知道 sweet 这个词吗？
+
+*Say it with me: sweet.* — 跟我说：sweet。
+
+*Here, sweet means cute, not sugary.* — 这里的 sweet 是可爱，不是甜。
+
+*There's a difference between a sweet pet and sweet cake.* — sweet pet 和甜蛋糕不是同一个 sweet。
+
+*When we say a sweet little parrot, we mean it is cute.* — 说 a sweet little parrot，是说它可爱。
+
+*For example, what a sweet pet.* — 比方说，好可爱的宠物。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### copy
+
+*Do you know the word copy?* — 你知道 copy 这个词吗？
+
+*Say it with me: copy.* — 跟我说：copy。
+
+*Copy means to say the same words again.* — copy 在这里是把话再学一遍。
+
+*Notice that we say don't copy every word.* — 注意说 don't copy every word。
+
+*A parrot copies people. That is the same idea.* — 鹦鹉学人说话，就是这个意思。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### pretend
+
+*Do you know the word pretend?* — 你知道 pretend 这个词吗？
+
+*Say it with me: pretend.* — 跟我说：pretend。
+
+*Pretend means you act like something you are not.* — pretend 是假装，并不是真的。
+
+*We say let's pretend we are parrots.* — 我们说 let's pretend we are parrots。
+
+*For example, you can pretend to fly.* — 比方说，你可以假装在飞。
+
+*Does that make sense?* — 这样讲得通吗？

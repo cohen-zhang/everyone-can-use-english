@@ -1,6 +1,7 @@
 **THE New CAR**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 Today,Peppa and her family are going for a drive in their red car.
 
@@ -229,3 +230,51 @@ And I think our old car likes us,too.Don’t you?
 | **love** 很喜欢 | *I love our car.* | *I love riding in our old car.* — 我喜欢坐我们的旧车。 |
 | **likes me** 它喜欢我 | *I don't think this car likes me.* | *I do not think this button likes me.* — 我觉得这个按钮不喜欢我。 |
 | **likes us** 它也喜欢我们 | *I think our old car likes us, too.* | *I think this old chair likes us, too.* — 我觉得这把旧椅子也喜欢我们。 |
+
+## 亲子讲解 · keep the change、borrow、roof
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### keep the change
+
+*Keep the change.* — 不用找零了。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "keep the change" means?* — 你知道 keep the change 是什么意思吗？
+
+*Keep the change means you do not give the extra money back.* — keep the change 是多出来的钱不用找。
+
+*Change here means the coins you get back.* — 这里的 change 是找回的零钱，不是改变。
+
+*We use that expression after you pay.* — 付完钱的时候用这句。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### borrow
+
+*Do you know the word borrow?* — 你知道 borrow 这个词吗？
+
+*Say it with me: borrow.* — 跟我说：borrow。
+
+*Borrow means you use someone's thing, then give it back.* — borrow 是先借用，之后要还。
+
+*Notice that we say borrow from someone.* — 说 borrow from someone。
+
+*For example, may I borrow your pen?* — 比方说，我可以借你的笔吗？
+
+*Does that make sense?* — 这样讲得通吗？
+
+### roof
+
+*Do you know the word roof?* — 你知道 roof 这个词吗？
+
+*Say it with me: roof.* — 跟我说：roof。
+
+*The roof is the top of the car.* — roof 是车顶。
+
+*Roof down means the top is open.* — roof down 是把车顶打开。
+
+*Roof up means the top is closed.* — roof up 是把车顶关上。
+
+*Does that make sense?* — 这样讲得通吗？

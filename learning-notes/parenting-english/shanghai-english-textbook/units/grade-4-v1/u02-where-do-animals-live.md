@@ -21,6 +21,11 @@ aliases:
 **扩展：** [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|动物单词]]
 **扩展：** [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|动物猜猜猜]]
 
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E30.The.Museum|佩奇 S01E30 · 博物馆]] — *Where is the dinosaur?*，打开 **亲子问句 · 博物馆是什么**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E36.Mister.Skinnylegs|佩奇 S01E36 · 瘦腿蜘蛛]] — *in the sink* / *in my bedroom*，打开 **亲子问句 · 这只蜘蛛**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E46.Frogs.and.Worms.and.Butterflies|佩奇 S01E46 · 青蛙]] — 青蛙在 *muddy puddle* 里，打开 **亲子问句 · 在地上玩**。  
+**扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E48.At.the.Beach|佩奇 S01E48 · 海边]] — *in the water* / *in the sea*，打开 **位置介词**。
+
 ---
 
 ## 1. 核心句型 — Key patterns

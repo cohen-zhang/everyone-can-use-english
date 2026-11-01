@@ -1,6 +1,7 @@
 **S1-32 Thunderstorm**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *loud* / *rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -254,3 +255,51 @@ SpIish, splash, spiosh, spiish!
 - **Don't worry.** — 别担心。
 - **Don't be frightened.** — 别害怕。
 - **Let's count.** — 我们一起来数。
+
+## 亲子讲解 · thunder、frightened、soaking
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### thunder
+
+*Do you know the word thunder?* — 你知道 thunder 这个词吗？
+
+*Say it with me: thunder.* — 跟我说：thunder。
+
+*Thunder is the loud sound in a storm.* — thunder 是雷雨里的那一声。
+
+*A thunderstorm is the whole storm, with rain and thunder.* — thunderstorm 是整场雷雨。
+
+*There's a difference between one bang and the storm.* — 一声雷和整场雷雨不一样。
+
+*For example, that bang is thunder.* — 比方说，那一声是雷。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### frightened
+
+*Do you know the word frightened?* — 你知道 frightened 这个词吗？
+
+*Say it with me: frightened.* — 跟我说：frightened。
+
+*Frightened means you feel scared.* — frightened 是感到害怕。
+
+*We say don't be frightened.* — 我们说 don't be frightened。
+
+*For example, the bang frightened me.* — 比方说，那一声把我吓了一跳。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### soaking
+
+*Do you know the word soaking?* — 你知道 soaking 这个词吗？
+
+*Say it with me: soaking.* — 跟我说：soaking。
+
+*Soaking wet means water went all the way through.* — soaking wet 是湿透了。
+
+*Notice that we say soaking wet, not only wet.* — 说 soaking wet，比 wet 更湿。
+
+*For example, your coat is soaking wet.* — 比方说，你的外套湿透了。
+
+*Does that make sense?* — 这样讲得通吗？

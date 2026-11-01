@@ -11,6 +11,8 @@ tags:
 **学习计划（相向互链）：** [[learning-notes/parenting-english/learning-management/learning-plan-90d-parenting-english|学习计划（90天）— 亲子英文]]
 **相关（相向互链）：** [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/README|Jeff 剧集笔记索引]]（可直接跳到各集 `Explanation` 章节做讲解模仿）
 
+**相关：** 同一套套式用来讲 *tiny* / *fairy* / *lonely* / *lick out the bowl* → [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E04.Best.Friend|S1-04 · 亲子讲解]]。
+
 《A Day in the Life of Jeff》中解释物品、地方和物品作用的示范模式总结。
 
 ---

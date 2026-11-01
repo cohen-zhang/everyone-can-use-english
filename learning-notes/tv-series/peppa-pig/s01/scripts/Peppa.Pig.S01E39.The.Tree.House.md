@@ -1,6 +1,7 @@
 **S1-39 The Tree House**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Can he come in / have to ask** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**Can he come in / have to ask**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *tree house* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。*take off* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 · 穿什么]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -244,3 +245,37 @@ Well, I still think that those are very silly secret Words.
 | **as long as** 只要 | *As long as he takes off his muddy boots.* | *You can come in, as long as you take your shoes off.* — 你可以进来，只要先脱鞋。 |
 | **must** 必须脱 | *Before you come in the house, you must take off your muddy boots.* | *You must wipe your feet first.* — 你必须先蹭蹭脚。 |
 | **if** 想进来就得 | *If you want to come in, you have to say the secret words.* | *If you want to come in, you have to knock.* — 你要是想进来，就得先敲门。 |
+
+## 亲子讲解 · come in、hurray
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### come in
+
+*Would you like to come in?* — 你想进来吗？
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "come in" means?* — 你知道 come in 是什么意思吗？
+
+*Come in means step into the room or the house.* — come in 是走进来。
+
+*We say come in when someone is at the door.* — 人在门口时说 come in。
+
+*Notice that we say come in, not come inside only.* — 口语里常说 come in。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### hurray
+
+*Do you know the word hurray?* — 你知道 hurray 这个词吗？
+
+*Say it with me: hurray.* — 跟我说：hurray。
+
+*Hurray means you are glad.* — hurray 是高兴时喊的好哇。
+
+*Notice that we say huh-RAY, not HUH-ray.* — 重音在后面，读 huh-RAY。
+
+*We say hurray when the game can start.* — 游戏可以开始时喊这一声。
+
+*Does that make sense?* — 这样讲得通吗？

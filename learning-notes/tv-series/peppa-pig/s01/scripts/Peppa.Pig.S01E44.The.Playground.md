@@ -1,6 +1,7 @@
 **S1-44 The Playground**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -254,3 +255,37 @@ I am the DIY expert of the house.
 - **Let's play on the slide.** — 我们去玩滑梯。
 - **Don't cry.** — 别哭。
 - **Don't be silly.** — 别傻了。
+
+## 亲子讲解 · playground、your turn
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### playground
+
+*Do you know the word playground?* — 你知道 playground 这个词吗？
+
+*Say it with me: playground.* — 跟我说：playground。
+
+*A playground is the place with swings and slides.* — playground 是有秋千和滑梯的地方。
+
+*We say let's go to the playground.* — 我们说 let's go to the playground。
+
+*It can be at school or in a park.* — 学校里或公园里都可以有。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### your turn
+
+*Now it's your turn.* — 现在轮到你了。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "your turn" means?* — 你知道 your turn 是什么意思吗？
+
+*Your turn means it is your time, not someone else's.* — your turn 是轮到你，不是别人。
+
+*We say wait for your turn.* — 我们说 wait for your turn。
+
+*Then you can go on the swing.* — 然后你才上去玩。
+
+*Does that make sense?* — 这样讲得通吗？

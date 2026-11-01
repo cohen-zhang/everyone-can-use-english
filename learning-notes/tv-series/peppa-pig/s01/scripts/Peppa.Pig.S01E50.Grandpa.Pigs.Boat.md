@@ -1,6 +1,7 @@
 **S1-50 Grandpa Pig's Boat**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**faster / as old as** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**faster / as old as**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -265,3 +266,53 @@ George loves sitting in the trolley.
 | **faster than** 比……快 | *This old boat can go faster than your rusty bucket.* | *I can hop faster than you today.* — 我今天能跳得比你快。 |
 | **as fast as** 和……一样快 | *Is that as fast as you can go?* | *Is that as fast as you can hop?* — 你就只能跳这么快吗？ |
 | **too fast** 太快 | *Maybe I did go a bit too fast.* | *That was a bit too fast.* — 刚才有一点太快了。 |
+
+## 亲子讲解 · afloat、aye-aye、ahoy
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### afloat
+
+*Do you know the word afloat?* — 你知道 afloat 这个词吗？
+
+*Say it with me: afloat.* — 跟我说：afloat。
+
+*Afloat means it is on the water, not under it.* — afloat 是浮在水上，没有沉下去。
+
+*We say the boat stays afloat.* — 我们说 the boat stays afloat。
+
+*If it sinks, it is not afloat.* — 沉了就不是 afloat。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### aye-aye
+
+*Aye-aye, captain.* — 遵命，船长。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "aye-aye" means?* — 你知道 aye-aye 是什么意思吗？
+
+*Aye-aye means yes, I will do it.* — aye-aye 是船上说的遵命。
+
+*We use that expression on a boat.* — 在船上用这句。
+
+*It is not the same as eye.* — 和眼睛的 eye 不是一个词。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### ahoy
+
+*Ahoy, captain.* — 嗨，船长。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "ahoy" means?* — 你知道 ahoy 是什么意思吗？
+
+*Ahoy is how people call each other on a boat.* — ahoy 是船上打招呼。
+
+*We say ahoy there.* — 也可以说 ahoy there。
+
+*It is not hello at home.* — 在家里不这么打招呼。
+
+*Does that make sense?* — 这样讲得通吗？

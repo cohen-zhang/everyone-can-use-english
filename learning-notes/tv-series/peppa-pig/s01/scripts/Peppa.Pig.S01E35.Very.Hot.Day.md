@@ -1,6 +1,7 @@
 **S1-35 very hot day**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *very hot* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -268,3 +269,51 @@ But it's true!
 - **Let's get some air into this paddling pool.** — 我们给这个泳池打点气。
 - **Let's tip water on Daddy to cool him down.** — 我们泼点水，给爸爸降降温。
 - **Let's get our boots.** — 我们去拿靴子。 |
+
+## 亲子讲解 · ice lolly、melt、yucky
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### ice lolly
+
+*An ice lolly is cold.* — 冰棍是凉的。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "ice lolly" means?* — 你知道 ice lolly 是什么意思吗？
+
+*An ice lolly is a frozen sweet on a stick.* — ice lolly 是棍上的冰棍。
+
+*In American English we also say popsicle.* — 美式也说 popsicle。
+
+*They mean the same thing here.* — 在这里是同一个东西。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### melt
+
+*Do you know the word melt?* — 你知道 melt 这个词吗？
+
+*Say it with me: melt.* — 跟我说：melt。
+
+*Melt means the ice turns into water.* — melt 是冰化成水。
+
+*We say it melts in the sun.* — 我们说 it melts in the sun。
+
+*The word melts is for he, she, or it.* — 主语是它的时候说 melts。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### yucky
+
+*Do you know the word yucky?* — 你知道 yucky 这个词吗？
+
+*Say it with me: yucky.* — 跟我说：yucky。
+
+*Yucky means it tastes bad.* — yucky 是难吃、让人不想吃。
+
+*It is a child's word for disgusting.* — 这是孩子说 disgusting 的说法。
+
+*For example, that tastes yucky.* — 比方说，那个味道真难吃。
+
+*Does that make sense?* — 这样讲得通吗？

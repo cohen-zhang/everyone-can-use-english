@@ -1,6 +1,7 @@
 **S1-12 snow**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *snow* / *cold* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u05-how-are-the-seasons-different|四上 U5 · 四季]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -199,3 +200,51 @@ This is my little brother, George.
 - **Wrap up warm.** — 穿暖和。
 - **Come back.** — 回来。
 - **Come and look.** — 过来看。
+
+## 亲子讲解 · wrap up、rough、footprint
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### wrap up
+
+*Wrap up. It is cold.* — 穿暖和，天冷。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "wrap up" means?* — 你知道 wrap up 是什么意思吗？
+
+*Wrap up means put on warm clothes.* — wrap up 是把暖和的衣服穿上。
+
+*Notice that we say wrap up warm.* — 可以说 wrap up warm。
+
+*We use that expression when you go out in the snow.* — 下雪出门时用这句。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### rough
+
+*Do you know the word rough?* — 你知道 rough 这个词吗？
+
+*Say it with me: rough.* — 跟我说：rough。
+
+*Here, rough means the game is too wild.* — 这里的 rough 是玩得太冲，不是表面粗糙。
+
+*A little too rough means please play more gently.* — a little too rough 是请玩得轻一点。
+
+*For example, that game is too rough.* — 比方说，这个游戏太冲了。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### footprint
+
+*Do you know the word footprint?* — 你知道 footprint 这个词吗？
+
+*Say it with me: footprint.* — 跟我说：footprint。
+
+*A footprint is the mark your boot leaves in the snow.* — footprint 是靴子留在雪上的印。
+
+*We say make footprints.* — 我们说 make footprints。
+
+*For example, I can see footprints.* — 比方说，我看见脚印。
+
+*Does that make sense?* — 这样讲得通吗？

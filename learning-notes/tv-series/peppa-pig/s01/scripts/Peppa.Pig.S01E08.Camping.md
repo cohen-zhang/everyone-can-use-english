@@ -1,6 +1,7 @@
 **S1-08 camping**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *What's that sound?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -297,3 +298,51 @@ I love camping!
 | **in** | 挤不进里面 | *We won't all fit in.* | *We will not all fit in one small tent.* — 我们没法都挤进一个小帐篷。 |
 
 *Into the tent.* 和 *Move further in.* 是往里面走，跟读在上面的命令句里。*on the poles* 是把帐篷套到撑杆上，也在命令句里。
+
+## 亲子讲解 · easy as pie、tent、rather
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### easy as pie
+
+*Making the bed is easy as pie.* — 铺床很容易。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "easy as pie" means?* — 你知道 easy as pie 是什么意思吗？
+
+*Easy as pie is an expression.* — easy as pie 是一句固定说法。
+
+*It means the job is very easy.* — 意思是这件事非常容易。
+
+*We don't say the pie is easy. We say the job is easy as pie.* — 不是说派很容易，是说这件事像吃派一样容易。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### tent
+
+*Do you know the word tent?* — 你知道 tent 这个词吗？
+
+*Say it with me: tent.* — 跟我说：tent。
+
+*A tent is a little cloth house for camping.* — tent 是露营用的布房子。
+
+*We sleep in a tent.* — 我们睡在 tent 里面。
+
+*For example, the tent is small.* — 比方说，帐篷很小。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### rather
+
+*Do you know the word rather?* — 你知道 rather 这个词吗？
+
+*Say it with me: rather.* — 跟我说：rather。
+
+*I'd rather means you want this choice, not the other one.* — I'd rather 是宁可选这个。
+
+*Notice that we say I'd rather, not I rather.* — 要说 I'd rather，不能少了 'd。
+
+*For example, I'd rather sit here.* — 比方说，我宁可坐在这里。
+
+*Does that make sense?* — 这样讲得通吗？

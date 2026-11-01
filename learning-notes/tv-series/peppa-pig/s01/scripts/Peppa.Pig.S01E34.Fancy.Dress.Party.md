@@ -1,6 +1,7 @@
 **Fancy Dress Party**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What are you / I'm a** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**What are you / I'm a**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 **Mummy Pig -MP**
 
@@ -217,3 +218,49 @@ Peppa loves fancy dress parties. Everyone loves fancy dress parties.
 | **I'm not** 我不是真的 | *I'm not a real nurse. I just pretend.* | *I'm not a real doctor. I am just pretending.* — 我不是真医生，我在假装。 |
 | **I am a** 我是小公主 | *I am a little fairy princess.* | *I am a little star.* — 我是一颗小星星。 |
 | **I'm the** 我是裁判 | *I'm the judge.* | *You are the judge today.* — 今天你来当裁判。 |
+
+## 亲子讲解 · shiver、goodie、reflection
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### shiver
+
+*Do you know the word shiver?* — 你知道 shiver 这个词吗？
+
+*Say it with me: shiver.* — 跟我说：shiver。
+
+*Shiver means your body shakes because you are cold or scared.* — shiver 是冷或害怕时发抖。
+
+*We say she shivers.* — 我们说 she shivers。
+
+*It is a small shake, not a big jump.* — 是轻轻发抖，不是大跳。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### goodie
+
+*Do you know the word goodie?* — 你知道 goodie 这个词吗？
+
+*Say it with me: goodie.* — 跟我说：goodie。
+
+*A goodie is a little treat or prize.* — goodie 是小奖品或好吃的。
+
+*We call the party treats goodies.* — 聚会的小礼物就叫 goodies。
+
+*It is a child's word.* — 这是对孩子说的词。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### reflection
+
+*Do you know the word reflection?* — 你知道 reflection 这个词吗？
+
+*Say it with me: reflection.* — 跟我说：reflection。
+
+*A reflection is the picture you see in a mirror or in water.* — reflection 是镜子或水里的倒影。
+
+*We say look at your reflection.* — 我们说 look at your reflection。
+
+*It is not a new person. It is you.* — 不是另一个人，是你自己的影子。
+
+*Does that make sense?* — 这样讲得通吗？

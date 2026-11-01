@@ -2,7 +2,9 @@
 
 **相关：** *Just for a little while*（一会儿）与时长对比 → [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases#一会儿--a-little-while--for-a-bit|时间表达汇总 · 一会儿]]
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**特色** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**特色**、**亲子讲解** 是这一集的跟读版。
+
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]，开场和确认听懂见 [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide|Jeff 讲解示范]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -285,3 +287,83 @@ This is my little brother, George.
 | **one's own** + 名词 | *Go and play with your own toys.* | *Read your own book.* — 看你自己的书。 |
 | **on one's own** | *Peppa and Suzy want to play on their own.* | *You can draw on your own.* — 你可以自己画。 |
 | **on one's own** | *George doesn't like playing on his own.* | *I don't like eating on my own.* — 我不喜欢一个人吃饭。 |
+
+## 亲子讲解 · Tiny, fairy, lonely, lick out
+
+家长对着 Celine 说英文，她听套式，不先听中文。套式来自 Jeff 的 *means the same as*、*Notice that we say*、*There's a difference between*、*We call that*、*is when*。每段先问懂不懂，再解释。
+
+### tiny
+
+*Do you know the word tiny?* — 你知道 tiny 这个词吗？
+
+*Say it with me: tiny.* — 跟我说：tiny。
+
+*Tiny means the same as very small.* — tiny 就是非常小。
+
+*Notice that we say "a tiny little fairy."* — 注意台词说 a tiny little fairy。
+
+*Tiny and little together still mean very small.* — 两个词叠在一起，还是非常小。
+
+*The opposite of tiny is large.* — tiny 的反面是 large。见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏 · tiny / large]]。
+
+*For example, the doll is tiny.* — 比方说，这个玩偶很小。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### fairy
+
+*Do you know the word fairy?* — 你知道 fairy 这个词吗？
+
+*A fairy is someone in a story.* — fairy 是故事里的一种人。
+
+*We call her a fairy princess.* — 我们叫她仙女公主。
+
+*We don't say she is a real girl.* — 不要说她是真的小女孩。
+
+*We say she is pretending.* — 要说她在装扮。
+
+*The Tooth Fairy is a different fairy.* — 牙仙是另一种仙女。见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E25.The.Tooth.Fairy|S01E25 · 牙仙]]。
+
+*She says the same line at the fancy-dress party.* — 化装舞会上她又说了这句。见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E34.Fancy.Dress.Party|S01E34 · 化装舞会]]。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### lonely
+
+*Do you know the word lonely?* — 你知道 lonely 这个词吗？
+
+*Lonely is when you feel sad because you are by yourself.* — lonely 就是一个人、心里难过的时候。
+
+*There's a difference between lonely and on your own.* — lonely 和 on your own 不一样。上面 **own** 那一节是「自己玩」。
+
+*On your own means you play alone.* — on your own 是自己玩。
+
+*Lonely means that feels sad.* — lonely 是因此觉得难过。
+
+*When we say "He feels a bit lonely," we mean George wants to play, too.* — 说他有点 lonely，是指 George 也想一起玩。
+
+*When you and Mummy aren't home, Daddy feels lonely.* — 你和妈妈不在家时，爸爸感到孤单。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### lick out the bowl
+
+台词是 *Someone needs to lick out the bowl.* — 得有人把碗舔干净。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "lick out the bowl" means?* — 你知道 lick out the bowl 是什么意思吗？
+
+*Lick out the bowl means to lick the inside clean.* — 意思是把碗里面舔干净。
+
+*We use that expression when a little food is left.* — 碗里还剩一点的时候用这句。
+
+*There's a difference between "lick" and "lick out."* — lick 和 lick out 不一样。
+
+*Lick means your tongue touches it.* — lick 是舌头碰一下。
+
+*Lick out means you clean the inside.* — lick out 是把里面舔干净。
+
+*For example, you may lick the yogurt lid.* — 比方说，你可以舔酸奶盖。
+
+*Does that make sense?* — 这样讲得通吗？

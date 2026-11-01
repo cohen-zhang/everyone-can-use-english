@@ -1,6 +1,7 @@
 **S1-09 gardening**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**First / Then** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**First / Then**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *seed* / *water* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u06-whats-amazing-about-plants|四上 U6 · 植物]]。*first / then* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u07-how-do-we-keep-safe-on-the-road|四上 U7 · 路上安全]]。*gardening* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u08-what-do-our-grandparents-do|四上 U8 · 祖辈]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -263,3 +264,49 @@ This is my little brother, George.
 | **Then** 然后浇水 | *Then I cover it with earth and water it.* | *Then water the little hole.* — 然后给小坑浇水。 |
 | **Then one day** 后来有一天 | *Then one day, Grandpa Pig finds something very special.* | *Then one day, a little plant will show.* — 然后有一天，会冒出一棵小苗。 |
 | **Next time** 下次 | *Next time you come, the seed will have grown into a plant.* | *Next time you come, it will be bigger.* — 你下次来，它会长大一点。 |
+
+## 亲子讲解 · earth、patient、seed
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### earth
+
+*Do you know the word earth?* — 你知道 earth 这个词吗？
+
+*Say it with me: earth.* — 跟我说：earth。
+
+*Here, earth means soil, the brown stuff plants grow in.* — 这里的 earth 是土，不是地球。
+
+*There's a difference between earth and what on earth.* — 和 what on earth（究竟）不是一个意思。
+
+*For example, the earth is dry.* — 比方说，土是干的。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### patient
+
+*Do you know the word patient?* — 你知道 patient 这个词吗？
+
+*Say it with me: patient.* — 跟我说：patient。
+
+*Here, patient means you can wait.* — 这里的 patient 是有耐心，不是病人。
+
+*There's a difference between be patient and a sick patient.* — be patient 和生病的 patient 不一样。
+
+*For example, be patient. It takes time.* — 比方说，耐心点，要花时间。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### seed
+
+*Do you know the word seed?* — 你知道 seed 这个词吗？
+
+*Say it with me: seed.* — 跟我说：seed。
+
+*A seed is the little thing that grows into a plant.* — seed 是会长成植物的小种子。
+
+*We put a seed in a hole.* — 我们把 seed 放进小坑。
+
+*For example, put the seed in the hole.* — 比方说，把种子放进小坑。
+
+*Does that make sense?* — 这样讲得通吗？

@@ -1,6 +1,7 @@
 **S1-27 not very Well**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**not very / a little** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**not very / a little**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *How do you feel?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u01-how-do-we-feel|三上 U1 · 感觉]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -295,3 +296,49 @@ This is my little brother, George.
 | **a little bit** 一小会儿 | *You must stay in bed for a little bit.* | *Rest on the sofa for a little bit.* — 在沙发上歇一小会儿。 |
 | **a little bit** 回答「好一点了吗」 | *A little bit.* | *I feel a little bit better.* — 我好了一点点。 |
 | **a little bit more** 再多一会儿 | *I think I should stay in bed a little bit more.* | *I should rest a little bit more.* — 我该再歇一小会儿。 |
+
+## 亲子讲解 · rash、catching、fancy
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### rash
+
+*Do you know the word rash?* — 你知道 rash 这个词吗？
+
+*Say it with me: rash.* — 跟我说：rash。
+
+*A rash is red spots on the skin.* — rash 是皮肤上的一片红疹。
+
+*There's a difference between one spot and a rash.* — 一个点是 spot，一片才叫 rash。
+
+*For example, it is only a rash.* — 比方说，只是疹子。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### catching
+
+*Do you know the word catching?* — 你知道 catching 这个词吗？
+
+*Say it with me: catching.* — 跟我说：catching。
+
+*Catching means other people can get it from you.* — catching 是会传染。
+
+*We say a cold can be catching.* — 我们说 a cold can be catching。
+
+*Isn't catching means you will not give it to others.* — isn't catching 是不会传给别人。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### fancy
+
+*Do you know the word fancy?* — 你知道 fancy 这个词吗？
+
+*Say it with me: fancy.* — 跟我说：fancy。
+
+*Here, fancy means you want something.* — 这里的 fancy 是想要，不是花哨。
+
+*There's a difference between I fancy an apple and a fancy dress.* — I fancy an apple 和化装服不是一个 fancy。
+
+*For example, I fancy an apple.* — 比方说，我想吃个苹果。
+
+*Does that make sense?* — 这样讲得通吗？

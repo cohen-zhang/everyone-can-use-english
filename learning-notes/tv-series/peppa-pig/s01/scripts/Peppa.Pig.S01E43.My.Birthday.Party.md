@@ -1,6 +1,7 @@
 **S1-43 My Birthday Party**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everyone** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**everyone**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *Happy birthday* / *candle* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u08-why-do-we-like-birthdays|三上 U8 · 生日]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -316,3 +317,51 @@ Look! I just got a parcei in the post!
 | **anyone** 任何人 | *Don't tell anyone!* | *Do not tell anyone about the cake.* — 别跟任何人说蛋糕的事。 |
 | **no one** 没有人 | *No one will know the magician is your daddy.* | *No one will know it is a trick.* — 没人会知道这是个戏法。 |
 | **everybody** 每个人 | 本集没说。和 *everyone* 对着记 | *Everybody can have a piece of cake.* — 每个人都可以吃一块蛋糕。 |
+
+## 亲子讲解 · magician、trick、abracadabra
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### magician
+
+*Do you know the word magician?* — 你知道 magician 这个词吗？
+
+*Say it with me: magician.* — 跟我说：magician。
+
+*A magician is a person who does tricks.* — magician 是变戏法的人。
+
+*We call the show a magic show.* — 那场表演叫 magic show。
+
+*For example, the magician needs a helper.* — 比方说，魔术师需要一个帮手。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### trick
+
+*Do you know the word trick?* — 你知道 trick 这个词吗？
+
+*Say it with me: trick.* — 跟我说：trick。
+
+*Here, a trick is a magic act.* — 这里的 trick 是一个魔术，不是捉弄人。
+
+*There's a difference between a magic trick and tricking a friend.* — 变戏法和骗朋友不是一个 trick。
+
+*For example, show us one trick.* — 比方说，给我们变一个戏法。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### abracadabra
+
+*Say abracadabra.* — 念咒语。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "abracadabra" means?* — 你知道 abracadabra 是什么意思吗？
+
+*Abracadabra is a magic word.* — abracadabra 是一句咒语。
+
+*We say it when the trick is supposed to happen.* — 戏法要变出来的时候说。
+
+*It is not an ordinary English word.* — 它不是日常英语单词。
+
+*Does that make sense?* — 这样讲得通吗？

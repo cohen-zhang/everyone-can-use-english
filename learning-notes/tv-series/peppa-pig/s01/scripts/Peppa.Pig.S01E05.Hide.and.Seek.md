@@ -1,6 +1,7 @@
 **S1-05 hide and seek**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**wonder / anywhere** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**wonder / anywhere**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -241,3 +242,51 @@ This is my little brother, George.
 | **wonder** 会在哪儿 | *I wonder where he can be.* | *I wonder where Celine can be.* — 我想知道 Celine 能在哪儿。 |
 | **where can** 能在哪儿 | *Where can he be?* | *Where can the red ball be?* — 红球能在哪儿？ |
 | **all the time** 一直 | *George was hiding behind Daddy Pig's newspaper all the time.* | *You were behind the sofa all the time.* — 你一直在沙发后面。 |
+
+## 亲子讲解 · hide and seek、behind、turn
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### hide and seek
+
+*Let's play hide and seek.* — 我们来玩捉迷藏。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "hide and seek" means?* — 你知道 hide and seek 是什么意思吗？
+
+*Hide and seek is a game.* — hide and seek 是捉迷藏这个游戏。
+
+*Hide means you go where people cannot see you.* — hide 是躲起来。
+
+*Seek means the other person looks for you.* — seek 是另一个人来找你。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### behind
+
+*Do you know the word behind?* — 你知道 behind 这个词吗？
+
+*Say it with me: behind.* — 跟我说：behind。
+
+*Behind means at the back of something.* — behind 是在某样东西的后面。
+
+*Notice that we say behind the door, not after the door.* — 说 behind the door，不说 after the door。
+
+*For example, look behind the door.* — 比方说，看看门后面。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### turn
+
+*Do you know the word turn?* — 你知道 turn 这个词吗？
+
+*Say it with me: turn.* — 跟我说：turn。
+
+*Here, turn means it is your time to play.* — 这里的 turn 是轮到你。
+
+*There's a difference between turn and a turn in the road.* — 这里不是马路上的转弯。
+
+*For example, it is your turn.* — 比方说，轮到你了。
+
+*Does that make sense?* — 这样讲得通吗？

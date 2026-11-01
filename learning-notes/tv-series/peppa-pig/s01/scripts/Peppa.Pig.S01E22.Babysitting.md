@@ -1,6 +1,7 @@
 **S1-22 babysitting**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -235,3 +236,51 @@ And so are the big piggies!
 - **Into your beds!** — 上床。
 - **Now go to sleep quickly.** — 快点睡。
 - **Shhh!** — 嘘。
+
+## 亲子讲解 · behave、asleep、prune
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### behave
+
+*Do you know the word behave?* — 你知道 behave 这个词吗？
+
+*Say it with me: behave.* — 跟我说：behave。
+
+*Behave means follow the rules.* — behave 是守规矩。
+
+*Well behaved means the child is being good.* — well behaved 是表现得很好。
+
+*For example, please behave at the table.* — 比方说，吃饭时守一点规矩。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### asleep
+
+*Do you know the word asleep?* — 你知道 asleep 这个词吗？
+
+*Say it with me: asleep.* — 跟我说：asleep。
+
+*Asleep means you are sleeping.* — asleep 是已经睡着了。
+
+*There's a difference between asleep and sleepy.* — asleep 和 sleepy 不一样。
+
+*Sleepy means you want to sleep. Asleep means you already are.* — sleepy 是困。asleep 是已经睡了。
+
+*For example, are you still awake?* — 比方说，你还醒着吗？
+
+*Does that make sense?* — 这样讲得通吗？
+
+### prune
+
+*Do you know the word prune?* — 你知道 prune 这个词吗？
+
+*Say it with me: prune.* — 跟我说：prune。
+
+*Prune means cut a plant so it grows better.* — prune 是给植物修剪。
+
+*We say prune the plant.* — 我们说 prune the plant。
+
+*For example, we prune the plant in spring.* — 比方说，我们春天给这棵植物修剪。
+
+*Does that make sense?* — 这样讲得通吗？

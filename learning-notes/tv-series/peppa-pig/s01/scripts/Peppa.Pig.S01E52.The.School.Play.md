@@ -2,7 +2,8 @@
 
 **School Play**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**must not**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 **Peppa——P**
 
@@ -163,3 +164,49 @@ Grandma is at home. (Dingdong, the doorbell rings.) But who is it visit her?** *
 | **going to** 将要去 | *I am going to visit my grandma.* | *I am going to knock on the door.* — 我要去敲门。 |
 | **going to play** 将要扮演 | *Danny Dog is going to play the Big Bad Wolf.* | *Celine is going to play the wolf.* — 不多来演狼。 |
 | **going to be** 将要当 | *Rebecca Rabbit is going to be the grandma.* | *You are going to say thank you at the end.* — 结尾你要说谢谢。 |
+
+## 亲子讲解 · gonna、scarier、photo
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### gonna
+
+*Do you know the word gonna?* — 你知道 gonna 这个词吗？
+
+*Say it with me: gonna.* — 跟我说：gonna。
+
+*Gonna means going to, in fast speech.* — gonna 是 going to 说快了。
+
+*We say I'm gonna be the wolf.* — 我们说 I'm gonna be the wolf。
+
+*In careful speech, say going to.* — 慢慢说的时候用 going to。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### scarier
+
+*Do you know the word scarier?* — 你知道 scarier 这个词吗？
+
+*Say it with me: scarier.* — 跟我说：scarier。
+
+*Scarier means more scary.* — scarier 是更吓人。
+
+*We say this mask is scarier.* — 我们说 this mask is scarier。
+
+*Scary is the first word. Scarier compares.* — scary 是原来的词。scarier 是拿来比。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### photo
+
+*Do you know the word photo?* — 你知道 photo 这个词吗？
+
+*Say it with me: photo.* — 跟我说：photo。
+
+*A photo is a picture from a camera.* — photo 是相机拍的照片。
+
+*Photos means more than one.* — photos 是好几张。
+
+*For example, don't take photos in the play.* — 比方说，演出时别拍照。
+
+*Does that make sense?* — 这样讲得通吗？

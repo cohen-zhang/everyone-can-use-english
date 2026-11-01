@@ -1,6 +1,7 @@
 **S1-40 Daddy Gets Fit**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -295,3 +296,37 @@ What is that? It Looks Like a horrible monster!
 - **Stop pretending.** — 别装了。
 - **Don't worry.** — 别担心。
 - **Come on.** — 来吧。
+
+## 亲子讲解 · press-up、pedal
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### press-up
+
+*Do you know the word press-up?* — 你知道 press-up 这个词吗？
+
+*Say it with me: press-up.* — 跟我说：press-up。
+
+*A press-up is an exercise on the floor.* — press-up 是趴在地上做的俯卧撑。
+
+*In American English we also say push-up.* — 美式也说 push-up。
+
+*They mean the same exercise.* — 是同一个动作。
+
+*For example, do ten press-ups.* — 比方说，做十个俯卧撑。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### pedal
+
+*Do you know the word pedal?* — 你知道 pedal 这个词吗？
+
+*Say it with me: pedal.* — 跟我说：pedal。
+
+*A pedal is the part you push with your foot.* — pedal 是用脚踩的那个踏板。
+
+*We say push the pedals.* — 我们说 push the pedals。
+
+*On a bike, the pedals make the wheels go.* — 自行车上，踩踏板轮子才转。
+
+*Does that make sense?* — 这样讲得通吗？

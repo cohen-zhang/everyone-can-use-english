@@ -1,6 +1,8 @@
 **S1-48 At the Beach**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**位置介词**、**亲子讲解** 是这一集的跟读版。  
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *in the water* / *in the sea* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u02-where-do-animals-live|四上 U2 · 动物住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -275,3 +277,51 @@ You can be the children.
 - bury Daddy **in** the sand — 埋在沙子里
 - sand **in** the buckets — 沙子在桶里
 - sun cream **on** — 防晒涂在身上
+
+## 亲子讲解 · sandcastle、water wings、paddle
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### sandcastle
+
+*Do you know the word sandcastle?* — 你知道 sandcastle 这个词吗？
+
+*Say it with me: sandcastle.* — 跟我说：sandcastle。
+
+*A sandcastle is a little castle you build with sand.* — sandcastle 是用沙子堆的小城堡。
+
+*We say let's make a sandcastle.* — 我们说 let's make a sandcastle。
+
+*It is not a real castle.* — 它不是真的城堡。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### water wings
+
+*Put your water wings on.* — 把臂圈戴上。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "water wings" means?* — 你知道 water wings 是什么意思吗？
+
+*Water wings are the bands that help you float.* — water wings 是帮助浮起来的臂圈。
+
+*We say put them on your arms.* — 戴在手臂上。
+
+*They are not real wings.* — 不是真的翅膀。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### paddle
+
+*Do you know the word paddle?* — 你知道 paddle 这个词吗？
+
+*Say it with me: paddle.* — 跟我说：paddle。
+
+*Paddle means play in water that is not deep.* — paddle 是在浅水里玩。
+
+*We say paddle in the sea.* — 我们说 paddle in the sea。
+
+*There's a difference between paddle and swim.* — paddle 是玩水，swim 是游泳。
+
+*Does that make sense?* — 这样讲得通吗？

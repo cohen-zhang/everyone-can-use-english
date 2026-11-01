@@ -1,6 +1,7 @@
 **S1-19 dressing up**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**I'm Mummy Pig** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**I'm Mummy Pig**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -241,3 +242,51 @@ You really had us fooied!
 | **pretending** 正在假装 | *Peppa is enjoying pretending to be Mummy Pig.* | *You are pretending to be a doctor.* — 你在假装当医生。 |
 | **I'm ... and this is** 我是，这是 | *I'm not Peppa! I'm Mummy Pig and this is Daddy Pig!* | *I am the teacher, and this is the student.* — 我是老师，这是学生。 |
 | **were pretending** 刚才在假装 | *We were just pretending to be you and Daddy.* | *We were just pretending to be the teacher.* — 我们只是在假装当老师。 |
+
+## 亲子讲解 · dress up、pardon、shame
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### dress up
+
+*We can dress up after dinner.* — 晚饭后我们可以装扮。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "dress up" means?* — 你知道 dress up 是什么意思吗？
+
+*Dress up means put on clothes and pretend.* — dress up 是穿上衣服来装扮。
+
+*It is more than just getting dressed.* — 不只是平常穿衣服。
+
+*We use that expression for costumes.* — 扮演的时候用这句。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### pardon
+
+*Do you know the word pardon?* — 你知道 pardon 这个词吗？
+
+*Say it with me: pardon.* — 跟我说：pardon。
+
+*Pardon means please say that again.* — pardon 是请再说一遍。
+
+*We say I beg your pardon when we did not hear.* — 没听清时说 I beg your pardon。
+
+*For example, pardon, I didn't hear.* — 比方说，再说一遍，我没听见。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### shame
+
+*Do you know the word shame?* — 你知道 shame 这个词吗？
+
+*Say it with me: shame.* — 跟我说：shame。
+
+*Here, a shame means it is a pity.* — 这里的 shame 是可惜，不是丢脸。
+
+*We say that's a shame.* — 我们说 that's a shame。
+
+*For example, missing the ice cream would be a shame.* — 比方说，错过冰淇淋就太可惜了。
+
+*Does that make sense?* — 这样讲得通吗？

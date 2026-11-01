@@ -1,6 +1,7 @@
 **S1-16 hiccups**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**too quickly / again** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**too quickly / again**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -207,3 +208,49 @@ This is my little brother, George.
 | **again** 会再来 | *If you drink too quickly, you will get hiccups again.* | *If you gulp it, the hiccups come again.* — 你要是大口灌，打嗝还会再来。 |
 | **as quickly as** 想多快就多快 | *I can drink juice as quickly as I want to.* | *You may walk as quickly as you want.* — 你想走多快就走多快。 |
 | **quickly** 快点转 | *Close your eyes, and turn around quickly, three times!* | *Turn around quickly, then sit down.* — 快点转身，然后坐下。 |
+
+## 亲子讲解 · hiccup、spoil、wave
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### hiccup
+
+*Do you know the word hiccup?* — 你知道 hiccup 这个词吗？
+
+*Say it with me: hiccup.* — 跟我说：hiccup。
+
+*A hiccup is the little jump in your throat.* — hiccup 是嗓子里那一下嗝。
+
+*We usually say hiccups when they keep coming.* — 一下又一下，常说 hiccups。
+
+*For example, drink slowly if you have hiccups.* — 比方说，打嗝的话就慢慢喝。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### spoil
+
+*Do you know the word spoil?* — 你知道 spoil 这个词吗？
+
+*Say it with me: spoil.* — 跟我说：spoil。
+
+*Spoil means to ruin a game or a plan.* — spoil 是把游戏或计划搅乱。
+
+*We say the rain spoiled the picnic.* — 我们说 the rain spoiled the picnic。
+
+*It does not mean the food went bad, in this line.* — 这一集不是说食物坏了。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### wave
+
+*Do you know the word wave?* — 你知道 wave 这个词吗？
+
+*Say it with me: wave.* — 跟我说：wave。
+
+*Here, wave means move your arms.* — 这里的 wave 是挥手臂，不是海浪。
+
+*There's a difference between wave your arms and a wave in the sea.* — 挥手和海里的浪不是同一个 wave。
+
+*For example, wave your arms slowly.* — 比方说，慢慢挥手臂。
+
+*Does that make sense?* — 这样讲得通吗？

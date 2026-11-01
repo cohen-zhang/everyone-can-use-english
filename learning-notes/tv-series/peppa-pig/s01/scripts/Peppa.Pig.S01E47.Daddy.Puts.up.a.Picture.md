@@ -1,6 +1,7 @@
 **S1-47 Daddy Puts up a Picture**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -224,3 +225,37 @@ Shhhhh! Peppa, don't tell anyone!
 - **Don't be silly.** — 别傻了。
 - **Pretend nothing has happened.** — 装得什么都没发生。
 - **Don't tell anyone.** — 别告诉别人。
+
+## 亲子讲解 · plaster、craftsman
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### plaster
+
+*Do you know the word plaster?* — 你知道 plaster 这个词吗？
+
+*Say it with me: plaster.* — 跟我说：plaster。
+
+*Here, plaster is the stuff on a wall.* — 这里的 plaster 是墙上的灰泥。
+
+*There's a difference between wall plaster and a plaster on your knee.* — 墙上的灰泥和创可贴不是一个 plaster。
+
+*The knee one is in Best Friend.* — 创可贴在好朋友那一集。
+
+*For example, the wall needs plaster.* — 比方说，这面墙需要补灰。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### craftsman
+
+*Do you know the word craftsman?* — 你知道 craftsman 这个词吗？
+
+*Say it with me: craftsman.* — 跟我说：craftsman。
+
+*A craftsman is a person who is good at making or fixing things.* — craftsman 是手艺好、会修会做的人。
+
+*We call Daddy a craftsman in this joke.* — 这一集是用这个词开玩笑。
+
+*It means he thinks he can do the job.* — 意思是他觉得自己能把活干好。
+
+*Does that make sense?* — 这样讲得通吗？

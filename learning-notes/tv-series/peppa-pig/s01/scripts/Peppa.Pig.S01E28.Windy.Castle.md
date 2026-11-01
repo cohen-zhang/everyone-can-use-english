@@ -1,6 +1,7 @@
 **S1-28 Windy Castle**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -290,3 +291,55 @@ This is my little brother, George.
 - **Keep on the main road.** — 一直走大路。
 - **Look out for the castle.** — 留神找城堡。
 - **Let George look next.** — 下一个让别人看。
+
+## 亲子讲解 · windy、nearly there、I spy
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### windy
+
+*Do you know the word windy?* — 你知道 windy 这个词吗？
+
+*Say it with me: windy.* — 跟我说：windy。
+
+*Windy means the air is moving hard.* — windy 是风很大。
+
+*Windy Castle is also the name of the place.* — Windy Castle 也是那个地方的名字。
+
+*The same word does both jobs.* — 同一个词，两种用法。
+
+*For example, it is windy today.* — 比方说，今天风很大。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### nearly there
+
+*Are we nearly there yet?* — 我们快到了吗？
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "nearly there" means?* — 你知道 nearly there 是什么意思吗？
+
+*Nearly there means we are close to the place.* — nearly there 是快到了。
+
+*We say are we nearly there yet? in the car.* — 在车上常说 are we nearly there yet?
+
+*Yet means you are still asking.* — yet 是还在问，还没到。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### I spy
+
+*I spy something red.* — 我看见一个红色的东西。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "I spy" means?* — 你知道 I spy 是什么意思吗？
+
+*I spy is a guessing game in the car.* — I spy 是车上猜东西的游戏。
+
+*Spy here means you secretly look, then others guess.* — spy 是你先看，别人来猜。
+
+*We say I spy with my little eye.* — 完整的一句是 I spy with my little eye。
+
+*Does that make sense?* — 这样讲得通吗？

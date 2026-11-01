@@ -1,6 +1,7 @@
 **ballet lesson**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 两节是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 Peppa is going to her first ballet lesson.
 
@@ -186,3 +187,49 @@ I am a beautiful swan!
 - **Run and join your friends.** — 跑去和朋友们一起。
 - **Raise your arms.** — 举起手臂。
 - **Copy what I do.** — 照我这样做。
+
+## 亲子讲解 · plié、pupil、imagine
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### plié
+
+*Do you know the word plié?* — 你知道 plié 这个词吗？
+
+*Say it with me: plié.* — 跟我说：plié。
+
+*A plié is a ballet bend of the knees.* — plié 是芭蕾里弯膝盖的动作。
+
+*The teacher says demi-plié for a small bend.* — 老师说 demi-plié，是弯一点。
+
+*For example, a plié bends the knees.* — 比方说，这个动作是弯膝盖。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### pupil
+
+*Do you know the word pupil?* — 你知道 pupil 这个词吗？
+
+*Say it with me: pupil.* — 跟我说：pupil。
+
+*A pupil is a student in the class.* — pupil 是班里的学生。
+
+*We say a new pupil.* — 我们说 a new pupil。
+
+*For example, she is a new pupil.* — 比方说，她是新来的学生。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### imagine
+
+*Do you know the word imagine?* — 你知道 imagine 这个词吗？
+
+*Say it with me: imagine.* — 跟我说：imagine。
+
+*Imagine means make a picture in your head.* — imagine 是在脑子里想出画面。
+
+*We say imagine you are a bird.* — 我们说 imagine you are a bird。
+
+*The script writes imaging. The word is imagine.* — 台词写成 imaging，正确是 imagine。
+
+*Does that make sense?* — 这样讲得通吗？

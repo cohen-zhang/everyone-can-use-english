@@ -1,6 +1,7 @@
 **S1-02 Dinosaur is lost**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**anywhere** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**anywhere**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -253,3 +254,53 @@ Dinedine Sawsaw.
 | **hard to find** 很难找 | *Mr. Dinosaur is very hard to find.* | *The lost sock is very hard to find.* — 那只丢了的袜子很难找。 |
 | **wonder if** 会不会是 | *I wonder if this time you threw Mr. Dinosaur just a bit too high.* | *I wonder if you threw it too high.* — 我想知道你是不是抛得太高了。 |
 | **somewhere** 某个地方 | 本集没说。和 *anywhere* 对着记 | *I put my book somewhere.* — 我把书放在某个地方了。 |
+
+## 亲子讲解 · pardon、lost、detective
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### pardon
+
+*Pardon? Say that again.* — 什么？再说一遍。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "pardon" means?* — 你知道 pardon 是什么意思吗？
+
+*Pardon means you did not hear, so you ask again.* — pardon 是没听清，请对方再说一遍。
+
+*We also say, I beg your pardon.* — 也可以说 I beg your pardon。
+
+*Notice that we say pardon here, not sorry.* — 这里的 pardon 不是道歉。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### lost
+
+*Do you know the word lost?* — 你知道 lost 这个词吗？
+
+*Say it with me: lost.* — 跟我说：lost。
+
+*Lost means you cannot find it.* — lost 就是找不到了。
+
+*There's a difference between lose and lost.* — lose 和 lost 不一样。
+
+*Lose is the verb. Lost is what we say after it is gone.* — lose 是动词。已经丢了，说 lost。
+
+*For example, what did you lose?* — 比方说，你丢了什么？
+
+*Does that make sense?* — 这样讲得通吗？
+
+### detective
+
+*Do you know the word detective?* — 你知道 detective 这个词吗？
+
+*Say it with me: detective.* — 跟我说：detective。
+
+*A detective is someone who looks for a lost thing.* — detective 是负责找丢失东西的人。
+
+*We call that job a detective.* — 这个角色我们就叫侦探。
+
+*For example, you can be the detective.* — 比方说，你来当侦探。
+
+*Does that make sense?* — 这样讲得通吗？

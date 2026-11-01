@@ -1,6 +1,7 @@
 **S1-21 Musical Instruments**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**can / can't** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**can / can't**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *can / can't* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -248,3 +249,49 @@ This is my little brother, George.
 | **impossible** 不可能 | *It is impossible to play.* | *This little whistle is impossible to play.* — 这支小口哨没法吹。 |
 | **couldn't** 不会 | *And even I couldn't play it.* | *Even Daddy could not play that song.* — 连爸爸也不会弹那首歌。 |
 | **can** 会 | *But George can play it.* | *Celine can play the drum.* — Celine 会敲鼓。 |
+
+## 亲子讲解 · instrument、meant、attic
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### instrument
+
+*Do you know the word instrument?* — 你知道 instrument 这个词吗？
+
+*Say it with me: instrument.* — 跟我说：instrument。
+
+*An instrument is something you play to make music.* — instrument 是用来奏乐的东西。
+
+*A drum is an instrument.* — 鼓就是一种 instrument。
+
+*We say musical instruments for the whole set.* — 一整套说 musical instruments。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### meant
+
+*Do you know the word meant?* — 你知道 meant 这个词吗？
+
+*Say it with me: meant.* — 跟我说：meant。
+
+*Not meant to means it should not do that.* — not meant to 是它不该变成这样。
+
+*We say it is not meant to squeak.* — 我们说 it is not meant to squeak。
+
+*Meant is the past form of mean.* — meant 是 mean 的过去式。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### attic
+
+*Do you know the word attic?* — 你知道 attic 这个词吗？
+
+*Say it with me: attic.* — 跟我说：attic。
+
+*An attic is the room under the roof.* — attic 是屋顶下面的阁楼。
+
+*We keep old things in the attic.* — 旧东西放在 attic 里。
+
+*For example, the old box is in the attic.* — 比方说，旧盒子在阁楼里。
+
+*Does that make sense?* — 这样讲得通吗？

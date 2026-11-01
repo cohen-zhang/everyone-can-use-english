@@ -1,6 +1,7 @@
 **S1-06 the playground**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**比较**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -238,3 +239,51 @@ Bri-y-ant!
 | **too ... to** 太……所以不能 | *Maybe George is too small to go to my playgroup?* | *You are too small to go alone.* — 你太小了，还不能一个人去。 |
 | **形容词 + enough** | *Are you sure George is big enough?* | *Are you sure this jacket is big enough?* — 你确定这件外套够大吗？ |
 | **not + 形容词 + enough** | 本集没说。她说的是 *too small*，问的是 *big enough* | *This jacket is not big enough.* — 这件外套不够大。 |
+
+## 亲子讲解 · look forward to、company、enough
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### look forward to
+
+*I am looking forward to Saturday.* — 我盼着星期六。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "look forward to" means?* — 你知道 look forward to 是什么意思吗？
+
+*Look forward to means you are happy about something later.* — look forward to 是盼着以后的事。
+
+*Notice that we say looking forward to, and to stays there.* — to 要留着，不能丢掉。
+
+*We use that expression before a day or a party.* — 用在某一天或一次聚会前面。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### company
+
+*Do you know the word company?* — 你知道 company 这个词吗？
+
+*Say it with me: company.* — 跟我说：company。
+
+*Here, company means staying with someone.* — 这里的 company 是陪伴，不是公司。
+
+*Keep her company means sit with her so she is not alone.* — keep her company 是陪着她。
+
+*There's a difference between company and a shop's name.* — 不要理解成公司的名字。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### enough
+
+*Do you know the word enough?* — 你知道 enough 这个词吗？
+
+*Say it with me: enough.* — 跟我说：enough。
+
+*Enough means as much as you need.* — enough 是够了，数量已经到了。
+
+*Big enough means not too small.* — big enough 是够大，不再太小。
+
+*For example, are you big enough?* — 比方说，你够大了吗？
+
+*Does that make sense?* — 这样讲得通吗？

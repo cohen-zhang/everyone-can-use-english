@@ -1,7 +1,9 @@
 **S1-45 Tidying Up**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态** 是这一集的跟读版。
-**相关：** *tidy up* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *tidy up* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。  
+**相关：** *bedroom* / *sitting room* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u01-where-do-people-live|四上 U1 · 人们住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -285,3 +287,51 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 - **Put Teddy in your toy basket.** — 把泰迪放进玩具筐。
 - **Put this back on the bookshelf.** — 把这个放回书架。
 - **Ready, steady, go.** — 预备，开始。
+
+## 亲子讲解 · untidy、bookshelf、tidy up
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### untidy
+
+*Do you know the word untidy?* — 你知道 untidy 这个词吗？
+
+*Say it with me: untidy.* — 跟我说：untidy。
+
+*Untidy means not tidy.* — untidy 是不整齐。
+
+*Notice that un- means not.* — un- 的意思是「不」。
+
+*We say the room is untidy.* — 我们说 the room is untidy。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### bookshelf
+
+*Do you know the word bookshelf?* — 你知道 bookshelf 这个词吗？
+
+*Say it with me: bookshelf.* — 跟我说：bookshelf。
+
+*A bookshelf is the furniture where books stand.* — bookshelf 是放书的架子。
+
+*We say put the book on the bookshelf.* — 我们说 put the book on the bookshelf。
+
+*It is one piece of furniture.* — 它是一件家具。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### tidy up
+
+*Let's tidy up.* — 我们来收拾。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "tidy up" means?* — 你知道 tidy up 是什么意思吗？
+
+*Tidy up means put things back in their places.* — tidy up 是把东西放回原处。
+
+*We use that expression for a messy room.* — 房间乱了就用这句。
+
+*Notice that up stays in the phrase.* — up 要留在词组里。
+
+*Does that make sense?* — 这样讲得通吗？

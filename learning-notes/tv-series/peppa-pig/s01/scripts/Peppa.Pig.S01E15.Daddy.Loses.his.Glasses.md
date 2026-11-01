@@ -1,7 +1,9 @@
 **S1-15 daddy loses his glasses**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**some / any / every**、**位置介词** 是这一集的跟读版。
-**相关：** *in / on / under* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**some / any / every**、**位置介词**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
+**相关：** *in / on / under* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。  
+**相关：** *bedroom* / *bathroom* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u01-where-do-people-live|四上 U1 · 人们住在哪里]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig This is my little brother, George.
@@ -281,3 +283,53 @@ Peppa 和 George 是按位置找的。先记画面，再跟一句家里的话。
 *I wonder where they are*
 
 歌里不是在找东西。他在想：以前一起度过的日子、一起唱过的歌，都去哪儿了。整段跟读见 [[learning-notes/english-song/love-romance/my-love-westlife|My Love · Westlife]]。
+
+## 亲子讲解 · soft、grumpy、knock over
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### soft
+
+*Do you know the word soft?* — 你知道 soft 这个词吗？
+
+*Say it with me: soft.* — 跟我说：soft。
+
+*Here, soft means the picture looks blurry.* — 这里的 soft 是画面发虚，不是柔软。
+
+*There's a difference between a soft toy and a soft picture.* — 软的玩具和发虚的画面不是一个 soft。
+
+*We also say fuzzy for the same look.* — 同一副样子也可以说 fuzzy。
+
+*For example, the picture looks soft.* — 比方说，画面看起来发虚。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### grumpy
+
+*Do you know the word grumpy?* — 你知道 grumpy 这个词吗？
+
+*Say it with me: grumpy.* — 跟我说：grumpy。
+
+*Grumpy means you are in a bad mood.* — grumpy 是脾气不好。
+
+*We say he gets grumpy.* — 我们说 he gets grumpy。
+
+*For example, a hungry person gets grumpy.* — 比方说，肚子饿的人会发脾气。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### knock over
+
+*Don't knock the cup over.* — 别把杯子碰倒。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "knock over" means?* — 你知道 knock over 是什么意思吗？
+
+*Knock over means you hit something and it falls.* — knock over 是碰一下，东西倒了。
+
+*Notice that we say knock the cup over.* — 说 knock the cup over。
+
+*Over means it goes from standing to falling.* — over 是从立着变成倒下。
+
+*Does that make sense?* — 这样讲得通吗？

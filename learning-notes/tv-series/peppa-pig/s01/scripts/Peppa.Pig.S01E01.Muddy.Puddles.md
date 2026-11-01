@@ -1,6 +1,7 @@
 **01 muddy puddles**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**if / must** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**if / must**、**亲子讲解** 是这一集的跟读版。
+**相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *wear* / *boots* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u03-what-do-we-wear|三下 U3 · 穿什么]]。*It is raining* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。*rain* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u04-what-sounds-can-we-hear|三下 U4 · 声音]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -209,3 +210,53 @@ This is Mummy Pig.
 | **must** 必须 | *If you jump in muddy puddles, you must wear your boots.* | *You must wear a coat in the rain.* — 下雨你必须穿外套。 |
 | **too** 也 | *George likes to jump in muddy puddles, too.* | *You like puddles, too.* — 你也喜欢水坑。 |
 | **if ... must** 对 George 再说一遍 | *George. If you jump in muddy puddles, you must wear your boots.* | *If Celine jumps, she must wear boots.* — 不多要是跳，就必须穿靴子。 |
+
+## 亲子讲解 · muddy、look after、puddle
+
+家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
+
+### muddy
+
+*Do you know the word muddy?* — 你知道 muddy 这个词吗？
+
+*Say it with me: muddy.* — 跟我说：muddy。
+
+*Muddy means covered in mud.* — muddy 就是沾满了泥。
+
+*There's a difference between mud and muddy.* — mud 和 muddy 不一样。
+
+*Mud is the dirt. Muddy means it has mud on it.* — mud 是泥。muddy 是上面有泥。
+
+*For example, the path is muddy.* — 比方说，这条小路全是泥。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### look after
+
+*Please look after your brother.* — 请照看一下弟弟。
+
+*Do you understand this sentence?* — 这句话你听懂了吗？
+
+*Do you know what "look after" means?* — 你知道 look after 是什么意思吗？
+
+*Look after means to watch someone and keep them safe.* — look after 是照看，让人安全。
+
+*Notice that we say look after, not look for.* — 注意说 look after，不说 look for。
+
+*Look for means you are trying to find something.* — look for 是在找东西。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### puddle
+
+*Do you know the word puddle?* — 你知道 puddle 这个词吗？
+
+*Say it with me: puddle.* — 跟我说：puddle。
+
+*A puddle is a little pool of water on the ground.* — puddle 是地上的一小滩水。
+
+*We call a muddy one a muddy puddle.* — 沾了泥的，我们叫 muddy puddle。
+
+*For example, don't step in that puddle.* — 比方说，别踩进那个水坑。
+
+*Does that make sense?* — 这样讲得通吗？
