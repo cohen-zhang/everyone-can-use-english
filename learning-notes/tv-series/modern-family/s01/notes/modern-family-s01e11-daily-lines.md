@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末两章是精读，不在上面的场景桶里：**时态 · used to**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -161,6 +163,92 @@
 - **and I got a stolen boat in my driveway.** — 车位上还停了艘偷来的船
 - **If it was for me, he'd be out of my life.** — 如果是为我  早将他踹得一干二净了
 - **But it's good for Manny to be with his father.** — 但是曼尼需要他的父亲
+
+---
+
+## 时态 · used to
+
+这一集真正拿来反复敲的时态是 **used to + 动词原形**：过去的习惯或状态，**现在不再如此**。杰说自己以前骑摩托；击中曲线球，曾经是他的梦想。哈维尔把这两个词听成任何语言里最伤感的话，因为它们等于宣布「那件事已经结束了」。
+
+和另一套说法分开记。**be used to / get used to + 名词或 -ing** 是「习惯于」，不是本集这句。后一种见 [[learning-notes/tv-series/modern-family/s02/notes/modern-family-s02e07-daily-lines|S02E07 · Get used to that jealousy]]。
+
+否定和疑问里动词是 **use**，不加 d：*I didn't use to ride.* — 我以前不骑。*Did you use to ride?* — 你以前骑吗？本集用的是肯定短答，省略了问句里已经出现的动作。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **used to + 动词** 以前会，现在不了 | *You ride? — I used to.* — 你还骑吗？——以前骑。 | *I used to stay up all night.* — 我以前经常通宵。 |
+| **used to** 单独重复 | *Used to? Used to?* — 曾经？曾经？ | *Used to. Not anymore.* — 曾经。现在不了。 |
+| **used to be** 曾经是 | *Used to be.* — 曾经是。 | *That used to be my dream.* — 那曾经是我的梦想。 |
+| **used to like** 以前喜欢 | *You said you used to like riding motorcycles, right?* — 你说你以前喜欢骑摩托，对吧？ | *I used to like long night rides.* — 我以前喜欢夜里骑很久。 |
+
+跟读时把重音放在「现在不再」：
+
+- **I used to.** — 我以前骑。（问句已经给了动词，回答可以只留 used to。）
+- **Used to be.** — 曾经是。（后面的梦想被省掉了：to hit a curveball。）
+
+第二天早上杰还是骑了出去，并且带上曼尼。时态写的是句号；剧情给的是还可以再做一次。
+
+## 特色 · 比较级、祈使句，和这一集想说的话
+
+这一集值得单拿出来的，不是生词，而是三种句子：片头用最高级发问，菲尔用「越……越……」给愧疚计价，家里人一急就改口成祈使句。祈使句的语气定义见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 祈使]]。
+
+### 主题句 · the most
+
+**What's the most irritating thing my parents say to me?** — 父母对我说过最气人的话是什么？
+
+- 结构：**What's the most + 形容词 + 名词**。在一整类里挑「最……的那一个」。比较级是 more irritating；三者以上、或跟「一切」比，用 the most irritating。
+- **irritating** — 反复听会冒火，比 angry 轻一档。
+- 片头用这个问题开场。孩子们报出古龙水、回嘴、老师这些套话；全集真正被追问下去的是其中一句：**Act more like an adult.** — 有点大人样。more like 也是比较级：更像一个大人。
+- 片尾海莉把问题问回去：要学的是世上的大人，还是家里这些大人？
+
+可替换：
+
+- **What's the most irritating thing people say at work?** — 上班时听到的最气人的话是什么？
+- **What's the most tiring part of this week?** — 这周最累的是哪一块？
+
+### 特色句 · the longer, the more
+
+**But the longer you hold on to it, the more the guilt builds, the more you get.** — 但是你抓着不放越久，愧疚积得越多，你能换到的也越多。
+
+- 结构：**the + 比较级，the + 比较级**。可以再接第三段。越 A，就越 B，也就越 C。
+- **the longer you hold on to it** — hold on to 是抓住不松手。it 是克莱尔搞砸之后、菲尔手里那张愧疚金牌。
+- **the more the guilt builds** — 第二个 the more 修饰 builds，主语仍是 the guilt。愧疚自己在涨，不是「更多的愧疚」这个名词短语。
+- **the more you get** — 你兑换到的好处越大。菲尔的价目表：五年换巴黎，十年换敞篷车，二十年换机器人。
+
+可替换：
+
+- **The longer you wait, the harder it gets.** — 拖得越久，越难开口。
+- **The longer I hold on to it, the heavier it gets.** — 我抓着不放越久，它越沉。
+
+这句是菲尔对镜头的算计，不是相处建议。下一秒他得离开，巴黎和机器人都只剩一句 **Good-bye.**
+
+### 祈使句
+
+人一累、一急，就省掉 you，用动词原形直接下命令。否定是 **Don't + 动词原形**。
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Don't be mad.** | 别生气。 | Don't + 动词 |
+| **Honey, breathe.** | 亲爱的，呼吸。 | 称呼 + 动词 |
+| **Okay, kids, gather around.** | 孩子们，围过来。 | 先点名，再命令 |
+| **Don't cry, Luke.** | 卢克，别哭。 | 否定祈使，名字放后面 |
+| **Now, listen to me.** | 现在听我说。 | Now 把命令按在这一秒 |
+| **Be nice.** | 友好点。 | Be + 形容词 |
+| **Do whatever you want.** | 你随意吧。 | 松手；这句话在剧里是气话 |
+| **Put your hand out.** | 把手伸出来。 | 一步一步教人做 |
+
+### 本集人生感悟
+
+三条都从上面的句子长出来。
+
+1. **最气人的那句，常常是大人自己没在过的。** 片头问 what's the most irritating thing，答案落到 *Act more like an adult.* 这一夜里，大人在玩水、记仇、为消防员换衣服、把愧疚当成筹码。海莉在片尾问：学世上的大人，还是学家里这些大人？那句「有点大人样」扎人，是因为它要求孩子做到父母当场没做到的事。
+   **The line that stings is the one the adults are not living.** — 扎人的那句，正是大人自己没在过的。
+
+2. **Used to 之所以伤感，是因为想还在，话已经把它说成结束了。** 杰说 *I used to*、*Used to be*。哈维尔说这是任何语言里最伤感的词。第二天早上他仍然骑了出去，还带上曼尼。过去式可以是句号，也可以是你还没还完的那一笔。
+   **"Used to" hurts when the want is still there.** — 想还在，却用 used to 收尾，这句话就疼。
+
+3. **愧疚抓得越久，脑子里的要价越高，也越容易作废。** *The longer you hold on to it, the more the guilt builds, the more you get.* 菲尔把对方的过失存成金牌，打算以后兑换。人一走，他就只能说 *Good-bye, Paris.* 存着的愧疚会在想象里升值，也会在生活一打断时归零。
+   **Guilt you save to spend later can expire before you spend it.** — 留着以后花的愧疚，常常还没花就过期。
 
 ---
 
