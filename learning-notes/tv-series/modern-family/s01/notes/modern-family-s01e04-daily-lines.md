@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · be going to**、**问句**，以及 **特色**（主题句 *Everybody is going to be there*、*better and better*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -159,6 +161,104 @@
 - **That's a joke.** — 开个玩笑而已
 - **Seriously, I knew they were perfect for each other...** — 说真的  我知道他们是天生一对
 - **when I saw his wallet and her boobs.** — 因为新郎"财大"气粗  而新娘"胸大"乳挺
+
+---
+
+## 时态 · be going to
+
+这一集的计划、威胁和坏消息都走 **be going to**（口语 **gonna**）：事情正在朝那个方向走。否定是 **be not going to**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **be going to** 大家都会去 | *Everybody is going to be there, Mom!* — 妈，所有人都会去！ | *Everybody is going to be at the dinner.* — 晚饭所有人都会到。 |
+| **be not going to** 不会发生 | *He's not going to college.* — 他不会去上大学。 | *We're not going to make it tonight.* — 我们今晚赶不上了。 |
+| **gonna** 即兴打算 | *I'm gonna take a shower.* — 我去洗个澡。 | *I'm gonna head out.* — 我先走了。 |
+| **If I ever** 一旦 | *If I ever say no to that question, I want you to use it on me.* — 要是哪天我拒绝这个问题，你就拿它对付我。 | *If I ever skip breakfast, ask me what's wrong.* — 要是哪天我连早饭都跳过，就问我怎么了。 |
+
+*If I ever say no* 是杰的玩笑：歌洛莉亚问要不要一起洗澡，他说自己要是拒绝，就让她用车库里的枪。夸张，用来把「好」说死。
+
+跟读：
+
+- **Everybody is going to be there.** — 所有人都会去。
+- **He's not going to college.** — 他不会去上大学。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Did** | *Did Manny call?* — 曼尼来过电话吗？ | *Did anyone call?* — 有人来过电话吗？ |
+| **Do you care to** 很正式的邀请 | *Do you care to join me?* — 你愿不愿意一起？ | *Do you care to sit down?* — 你愿不愿意坐下？ |
+| **Why aren't they** 现在进行的否定疑问 | *Why aren't they trying to hurt each other?* — 她们怎么不互相伤害了？ | *Why aren't they talking?* — 他们怎么不说话了？ |
+| **Where is** | *Where is she?* — 她在哪儿？ | *Where is the baby?* — 宝宝在哪儿？ |
+| **What is happening** | *What is happening, Claire?* — 克莱尔，这是怎么了？ | *What is happening here?* — 这儿怎么了？ |
+| **okay?** 建议收尾 | *Let's just go get a little fresh air, okay?* — 我们出去透口气，好吗？ | *Let's step outside, okay?* — 我们出去一下，好吗？ |
+| **What, did you** 先丢一个词再问 | *What, did you take your Claire pill?* — 怎么，你吃了「克莱尔牌」药？ | *What, did you already eat?* — 怎么，你已经吃过了？ |
+
+*Why aren't they -ing* 问的是眼前正在发生的反常：姐妹突然和好，克莱尔反而害怕。
+
+## 特色 · better and better，和这一集想说的话
+
+坏消息一层层加的时候，英语用比较级把自己往下说。原谅说出口之后，身体还可以另外有反应。
+
+### 主题句 · Everybody is going to be there
+
+**Everybody is going to be there, Mom!** — 妈，所有人都会去！
+
+- 海莉要用这句换一张过夜看演唱会的许可。*everybody* 把同伴压力说成事实。
+- **be going to be there** 是「将会在场」，不是「已经在」。父母听见的是一句还没发生的理由。
+
+可替换：
+
+- **Everybody is going to be late.** — 所有人都会迟到。
+- **Not everybody is going to agree.** — 不会所有人都同意。
+
+### 特色句 · better and better
+
+**Oh, this just gets better and better.** — 哦，这事真是越来越「好」了。
+
+- 结构：**get + 比较级 + and + 同一比较级**。一层叠一层。
+- 字面是「越来越好」。海莉的演唱会故事越听越糟时，克莱尔用反话：每多一句，局面就更离谱。
+- 朗读时 better 两遍都重读，才听得出讽刺。
+
+可替换：
+
+- **This week gets busier and busier.** — 这周越来越忙。
+- **The story gets longer and longer.** — 这故事越讲越长。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Don't worry about it.** | 别往心里去。 | Don't worry about + 事物 |
+| **Let's start from the beginning.** | 我们从头说。 | Let's + 动词 |
+| **Let's just go get a little fresh air.** | 我们出去透口气。 | just 把命令放轻 |
+| **Don't get me wrong.** | 别误会我。 | 先挡住听者的推断 |
+
+### 本集人生感悟
+
+1. **「所有人都会去」还不是许可。** *Everybody is going to be there* 描述的是同伴。父母拒绝过夜，演唱会到片尾彻底没戏。
+   **A crowd is not a permission slip.** — 一群人还不是一张许可。
+
+2. **越来越糟的时候，英语会笑着把 better 说两遍。** *This just gets better and better.* 是反话。听到比较级叠用，先看脸色。
+   **Better and better can mean worse.** — better and better 可以是在说更糟。
+
+#### 夫妻
+
+**一句永远的「好」，可以是玩笑，也可以是在场。** 歌洛莉亚问杰要不要一起洗澡。杰说：*If I ever say no to that question, I want you to use it on me.* 枪是夸张。这句话把拒绝说成不可想象。
+**If I ever say no to that question, I want you to use it on me.** — 要是哪天我拒绝这个问题，你就拿它对付我。
+
+**原谅可以先于感觉到达。** 迪迪把婚礼上的事道歉说完，歌洛莉亚嘴上原谅，接着情绪还是崩了，伸手去掐。话和身体可以差一拍。
+**The words can arrive before the feeling does.** — 话可以比感觉先到。
+
+#### 亲子相处
+
+1. **你教的那一课，会由你来收场。** 杰教曼尼「以牙还牙」。曼尼按这个去烧同学的自行车，背锅的是杰。
+   **Don't worry about it.** — 别往心里去。这句如果接在报复后面，就不再是安慰。
+
+2. **突然的和平也会让父母害怕。** *Why aren't they trying to hurt each other?* 海莉和艾丽克斯突然和好，克莱尔不敢动。安静有时比吵架更需要看一眼。
+   **Why aren't they trying to hurt each other?** — 她们怎么不互相伤害了？
 
 ---
 

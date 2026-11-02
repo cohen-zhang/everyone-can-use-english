@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · 最高级 most**、**问句**，以及 **特色**（主题句 *What am I most afraid of*、*two fathers who care*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -174,6 +176,100 @@
 - **Ay, papi, but you're not warm.** — 宝贝  你没有发烧
 - **Uh, probably because you were cooking and your hands are warm.** — 可能是因为你在做饭  手温高
 - **I better skip the party tomorrow just to be safe.** — 我明天还是不去参加派对了  安全起见
+
+---
+
+## 时态 · the most afraid
+
+全家在报自己最怕的事。**most** 是最高级，放在 afraid 前面。路考、房底、过山车，都是把「最怕」做成一件今天要做的事。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **most afraid of** | *What am I most afraid of?* — 我最怕的是什么？ | *What are you most afraid of?* — 你最怕的是什么？ |
+| **too much of** | *That I'm too much of a perfectionist.* — 怕自己太追求完美。 | *I'm too much of a worrier.* — 我太爱担心了。 |
+| **现在进行** 正在崩溃 | *I'm freaking out right now.* — 我这会儿正慌。 | *I'm freaking out about tomorrow.* — 我正为明天慌。 |
+| **would** 过去会听 | *He would actually listen to what I wanted.* — 他真的会听我想要什么。 | *She would actually wait.* — 她真的会等。 |
+
+跟读：
+
+- **What am I most afraid of?** — 我最怕的是什么？
+- **I'm freaking out right now.** — 我这会儿正慌。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What am I most** | *What am I most afraid of?* — 我最怕的是什么？ | *What am I most worried about?* — 我最担心的是什么？ |
+| **What about** | *What about the pigeons?* — 那鸽子呢？ | *What about the keys?* — 那钥匙呢？ |
+| **Did you find** | *Did you find your shoes?* — 你找到鞋了吗？ | *Did you find your phone?* — 你找到手机了吗？ |
+| **Why are you** | *Why are you hounding me?* — 你为什么一直催我？ | *Why are you rushing me?* — 你为什么催我？ |
+| **Why is everyone** | *Why is everyone on me?* — 为什么所有人都盯着我？ | *Why is everyone late?* — 为什么所有人都迟到？ |
+| **Why would you not** | *Why would you not be going to the dance?* — 你怎么会不去舞会？ | *Why would you not ask?* — 你怎么会不问？ |
+| **Ready to** 准备好了吗 | *Ready to go down under, mate?* — 准备钻下去了吗，伙计？ | *Ready to go?* — 准备走了吗？ |
+
+*Yeah, right.* 接在 *Nothing* 后面，表示不信。下一句才是真问题：*What about the pigeons?*
+
+## 特色 · most afraid of，和这一集想说的话
+
+恐惧被一条条报出来，又被一件件做掉：路考、过山车、房底的蜘蛛。娃娃说的 Mommy，是另一场虚惊。
+
+### 主题句 · most afraid of
+
+**What am I most afraid of? Hmm. Let's see.** — 我最怕的是什么？我想想。
+
+- **most afraid of + 名词 / -ing**。of 后面接害怕的对象。
+- 艾丽克斯先报全球变暖和得一个 B。菲尔说这不是面试。*Honey, this isn't a job interview.*
+- Let's see 给自己两秒，再把真怕的事说出来。
+
+可替换：
+
+- **What are you most afraid of saying?** — 你最怕说出的是什么？
+- **Let's see.** — 我想想。
+
+### 特色句 · two fathers who care
+
+**Having two fathers who care as much as you do makes Lily the luckiest little girl in the world.** — 有两个像你们这样在乎她的父亲，莉莉是世界上最幸运的小女孩。
+
+- **having two fathers** — -ing 短语当主语。
+- **who care as much as you do** — who 形容 fathers。as much as 比的是在乎的程度。
+- **makes + 人 + 名词** — 使她成为……。the luckiest 是最高级。
+- 莉莉叫了一声 Mommy，两个爸爸慌了。医生把「母亲」从必需品上拿开，把在乎留下。
+
+可替换：
+
+- **Having one person who listens makes the day easier.** — 有一个肯听的人，这一天会好过些。
+- **She is the luckiest kid in the room.** — 她是这房间里最幸运的孩子。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Let's see.** | 我想想。 | Let's + 动词，给自己两秒 |
+| **Honey, this isn't a job interview.** | 亲爱的，这不是面试。 | 先把场面的名字改掉 |
+| **Ready to go down under, mate?** | 准备钻下去了吗，伙计？ | Ready to 省略 Are you，功能是出发 |
+
+### 本集人生感悟
+
+1. **最怕的事说出来，才调度得了今天。** 海莉怕路考，第三次还是去了。卢克怕房底，菲尔还是钻了进去。
+   **What am I most afraid of?** — 我最怕的是什么？
+
+2. **一声 Mommy 可以是娃娃，也可以是一场虚惊。** *When you squeeze the doll, it says "Mommy."* 两个爸爸慌过之后，才看见机关。
+   **When you squeeze the doll, it says "Mommy."** — 你一捏娃娃，它就说 Mommy。
+
+#### 夫妻
+
+**在乎的程度可以被外人说出来。** 米奇尔和卡姆先慌，医生才说 *two fathers who care as much as you do*。这句话是给他们的，也是给莉莉的。
+**Having two fathers who care as much as you do...** — 有两个这么在乎的父亲……
+
+#### 亲子相处
+
+1. **催，会让已经在慌的人更慌。** *Why are you hounding me? I'm freaking out right now.* 海莉要的是鞋，也是一口空气。克莱尔仍把她送到了路考上。
+   **I'm freaking out right now.** — 我这会儿正慌。
+
+2. **父亲可以先说自己怕，再钻进去。** 卢克问菲尔是不是害怕。菲尔还是进了房底。怕和去，可以在同一个人身上。
+   **Ready to go down under?** — 准备钻下去了吗？
 
 ---
 

@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · 现在进行 / think**、**问句**，以及 **特色**（主题句 *smother*、*Have fun*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -155,6 +157,96 @@
 - **Debbie can't go two minutes** — 要黛比两分钟内
 - **without talking about Columbia University.** — 不谈哥伦比亚大学都不行
 - **And the little guy with the lazy eye from Harvard.** — 还有那个哈佛毕业的弱视小矮子
+
+---
+
+## 时态 · think 引导的看法
+
+管教之争里，**You think** 把一个指责说成对方的看法。**Can you not** 问的是做不到。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **You think** | *You think I smother our child?* — 你觉得我把孩子管得太死？ | *You think I forgot?* — 你觉得我忘了？ |
+| **Can you not** | *Can you seriously not hear me with those things on?* — 你戴着那个，真的听不见我吗？ | *Can you not hear the alarm?* — 你听不见闹钟吗？ |
+| **why are you -ing** | *Why are you freaking out on everyone?* — 你为什么对每个人都在发火？ | *Why are you snapping at everyone?* — 你为什么对每个人都这么冲？ |
+| **okay?** 去玩 | *Have fun with your dad, okay?* — 和你爸玩得开心，好吗？ | *Have fun, okay?* — 玩得开心，好吗？ |
+
+跟读：
+
+- **You think I smother our child?** — 你觉得我把孩子管得太死？
+- **Have fun with your dad, okay?** — 和你爸玩得开心，好吗？
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What's my favorite** | *What's my favorite way to relax?* — 我最喜欢的放松方式是什么？ | *What's your favorite way to start the day?* — 你最喜欢怎么开始一天？ |
+| **Can you not** | *Can you seriously not hear me?* — 你真的听不见我吗？ | *Can you not see the sign?* — 你看不见那块牌子吗？ |
+| **why are you -ing** | *Why are you freaking out on everyone?* — 你为什么见谁都发火？ | *Why are you raising your voice?* — 你为什么提高嗓门？ |
+| **You think** | *You think I smother our child?* — 你觉得我把孩子管太死？ | *You think I'm overreacting?* — 你觉得我反应过度？ |
+| **What is it** | *What is it?* — 怎么了？ | *What is it this time?* — 这回又怎么了？ |
+| **Is this the** 最高级疑问 | *Is this the cutest thing I've ever seen?* — 这是我见过最可爱的吗？ | *Is this the best one yet?* — 这是到目前为止最好的吗？ |
+| **okay?** | *Have fun with your dad, okay?* — 和爸爸玩得开心，好吗？ | *Text me when you get there, okay?* — 到了发消息，好吗？ |
+| **Are you okay** | *Cameron, are you okay? You seem nervous.* — 卡姆，你还好吗？你看起来紧张。 | *Are you okay? You seem quiet.* — 你还好吗？你看起来很静。 |
+
+## 特色 · smother，和这一集想说的话
+
+纸杯蛋糕和梵高课题，是两种管法。smother 是「爱到让人喘不上气」。
+
+### 主题句 · smother
+
+**You think I smother our child?** — 你觉得我把咱们的孩子管得喘不上气？
+
+- **smother** — 原意是闷住。用在父母身上，是照顾密到孩子没有空气。
+- **You think** 把判断推回对方。克莱尔听见的是指控，所以用问句还回去。
+
+可替换：
+
+- **You think I worry too much?** — 你觉得我太担心了？
+- **I don't want to smother the idea.** — 我不想把这个想法闷死。
+
+### 特色句 · Have fun, okay?
+
+**I'm kidding. Have fun with your dad, okay?** — 我开玩笑的。和你爸玩得开心，好吗？
+
+- **I'm kidding** 先把上一句的刺拔掉。
+- **Have fun with + 人** — 和谁一起玩得开心。okay? 把命令收成商量。
+- 这句是放手的声音。烤箱后来把纸杯蛋糕烤成灾难，放手也有代价。
+
+可替换：
+
+- **Have fun with your friends, okay?** — 和朋友玩得开心，好吗？
+- **I'm kidding.** — 我开玩笑的。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Have fun with your dad, okay?** | 和你爸玩得开心，好吗？ | Have fun with + 人 |
+| **I'm kidding.** | 我开玩笑的。 | 先取消上一句的力 |
+
+流星夜全家在看天。命令让位给「去玩」和「别闷住」。
+
+### 本集人生感悟
+
+1. **管和放，可以在同一个晚上互换。** 克莱尔先把任务派完，又对海莉反向放手。*Have fun with your dad* 是放。700 度的烤箱是放之后的账单。
+   **Have fun with your dad, okay?** — 和你爸玩得开心，好吗？
+
+2. **你觉得，是指责里最轻的开头。** *You think I smother our child?* 把「你在闷住他」改成「这是你的看法吗」。看法还可以谈。
+   **You think I smother our child?** — 你觉得我把孩子管太死？
+
+#### 夫妻
+
+**两种管法需要一句你觉得，才不至于变成两场战争。** 菲尔用新方法引导卢克做梵高。克莱尔觉得他失职，自己上。展板后来完成了，土豆耳朵和钞票都在。
+**You think I smother our child?** — 你觉得我把孩子管太死？
+**Can you seriously not hear me with those things on?** — 你戴着耳机，真的听不见我吗？这是同一屋檐下的另一句：人不在对话里。
+
+#### 亲子相处
+
+**怪，可以是还没长大的形状。** 米奇尔和曼尼谈「怪」与成长，兄弟不必全听杰的。黄鼠狼、裙子毯子，都是这一晚的样子。
+**Is this the cutest thing I've ever seen?** — 这是我见过最可爱的吗？可爱和狼狈可以是同一件毯子。
 
 ---
 

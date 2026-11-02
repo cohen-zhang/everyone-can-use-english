@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末两章是精读，不在上面的场景桶里：**时态 · used to**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · used to**、**问句**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、本集想说的话）。
 
 ---
 
@@ -188,6 +188,32 @@
 
 第二天早上杰还是骑了出去，并且带上曼尼。时态写的是句号；剧情给的是还可以再做一次。
 
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类（一般疑问、特殊疑问、反义疑问）见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。有的问句在等答案，有的只是把态度说成问号。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **what** 特殊疑问 | *What's the most irritating thing my parents say to me?* — 父母对我说过最气人的话是什么？ | *What's the most tiring part of today?* — 今天最累的是哪一块？ |
+| **what does … mean** 这句话什么意思 | *What does "Act more like an adult" even mean?* — 「有点大人样」到底是什么意思？ | *What does "be professional" even mean?* — 「专业一点」到底是什么意思？ |
+| **how come** 怎么会，语序不倒装 | *How come I don't buy a word of it?* — 我怎么一个字都不信？ | *How come this still isn't done?* — 这怎么还没做完？ |
+| **Did** 一般疑问 | *Did I wake you up?* — 我把你吵醒了吗？ | *Did I catch you at a bad time?* — 我是不是来得不是时候？ |
+| **陈述句 + 升调** | *You ride?* — 你还骑吗？ | *You drive?* — 你开车吗？ |
+| **回声问句** 把对方的词扔回去 | *Used to? Used to?* — 曾经？曾经？ | *Tonight? Tonight?* — 今晚？今晚？ |
+| **right? / you know?** 句尾求认同 | *You said you used to like riding motorcycles, right?* — 你说你以前喜欢骑摩托，对吧？ | *You used to live near here, right?* — 你以前住这附近，对吧？ |
+| **Why don't you** 样子是问句，功能是建议 | *Why don't you guys wait out in the hallway?* — 你们去走廊等一下好吗？ | *Why don't we talk tomorrow?* — 我们明天再谈好吗？ |
+| **or** 二选一 | *Is that act like adults I see in the world, or the adults in my family?* — 是学世上的大人，还是学家里这些大人？ | *Are we leaving now, or after dinner?* — 我们现在走，还是吃完晚饭再走？ |
+| **反问** 不在等回答 | *How many reasons do I need?* — 我还要几条理由？ | *How many times do I have to say it?* — 我还得说几遍？ |
+
+口语里有两处容易听漏：
+
+- **How come** 后面用陈述语序：*How come I don't buy a word of it?* 这里不说 *How come don't I*。
+- **You ride?** 词序和陈述句一样，靠升调变成问句。回答可以很短：*I used to.*
+- **Why don't you …?** 在这一集里是在请对方去做。
+- 海莉那句 *is that act like* 是赶着说漏了 *to*。意思是：*Is that to act like the adults in the world, or the adults in my family?*
+
+克莱尔还有一句软标签。*I wanted to feel attractive for a second, you know?* — 我只想有一秒觉得自己好看，你懂吗？这里的 **you know?** 是在确认对方接住了。
+
 ## 特色 · 比较级、祈使句，和这一集想说的话
 
 这一集值得单拿出来的，不是生词，而是三种句子：片头用最高级发问，菲尔用「越……越……」给愧疚计价，家里人一急就改口成祈使句。祈使句的语气定义见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 祈使]]。
@@ -249,6 +275,26 @@
 
 3. **愧疚抓得越久，脑子里的要价越高，也越容易作废。** *The longer you hold on to it, the more the guilt builds, the more you get.* 菲尔把对方的过失存成金牌，打算以后兑换。人一走，他就只能说 *Good-bye, Paris.* 存着的愧疚会在想象里升值，也会在生活一打断时归零。
    **Guilt you save to spend later can expire before you spend it.** — 留着以后花的愧疚，常常还没花就过期。
+
+#### 夫妻
+
+1. **同一场架里，可以同时有两件真事。** 菲尔剧痛的时候，克莱尔换衣服、擦口红。她后来说明白了：每天一身面粉和花生酱，只想有一秒觉得自己好看。菲尔回家后说再给一点时间，镜头前却把这件事存成金牌。她那一秒的需要是真的，他当时被晾在一边也是真的。一记账，两件真事就变成一笔债。
+   **Two true things can sit in the same fight.** — 同一场架里，可以同时有两件真事。
+   **I wanted to feel attractive for a second, you know?** — 我只想有一秒觉得自己好看，你懂吗？
+
+2. **难做的那份，得在两个人之间换手。** 米奇尔不想永远当黑脸：一个爸爸负责抱，一个爸爸负责讲规矩，孩子以后会去找那个温暖的人走红毯。他们把吃蔬菜、看牙医、练琴拆开，并说两个人一起走。杰和歌洛莉亚这边，歌洛莉亚说出 *Do whatever you want* 时，架已经停了，两个人还没站到一处。杰把哈维尔留下来，是因为曼尼需要父亲在场。
+   **The hard part has to move between you.** — 难的那份，得在两个人之间换手。
+   **And we're both walking her down the aisle.** — 到时候我们一起陪她走红毯。
+
+#### 亲子相处
+
+1. **孩子肯把难听的实话说出来，常常是因为怕失去你。** 卢克以为爸爸可能出事，才承认玻璃茶几是他打碎的。克莱尔的下一句是 *You will be sorry.* 真话已经出来了。下一句仍是惩罚，这扇门会重新关上。
+   **A child tells the hard truth when they are afraid of losing you.** — 孩子肯说难听的实话，常常是因为怕失去你。
+   **I broke the coffee table!** — 茶几是我打碎的！
+
+2. **孩子用得上的，是到场的父母。** 哈维尔把生活讲成冒险，曼尼在门口哭了十次。杰能给沉稳，哈维尔能给随性，两样都要人真的在。第二天早上杰骑上车，把曼尼带上。海莉在片尾问的是：学世上的大人，还是学家里这些大人？孩子学的是父母当场在做的事。
+   **A child can use the parent who shows up.** — 孩子用得上的，是到场的父母。
+   **But it's good for Manny to be with his father.** — 可曼尼需要和他的父亲在一起。
 
 ---
 

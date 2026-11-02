@@ -9,7 +9,7 @@ aliases:
 
 # tv-series · 影视学英语索引
 
-**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（[《人人都能用英语》ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)）  
+**方法：** [[learning-notes/tv-series/how-to-learn-english-from-movies|看电影学英语 · 方法摘要]]（[《人人都能用英语》ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)） · [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]  
 **个人材料书：** [[learning-notes/personal-english-book/README|personal-english-book]]
 
 ---
@@ -21,7 +21,7 @@ aliases:
 3. 先无字幕试看；吃力再开**英文字幕**（**不开中字**）  
 4. 复习词表 2–3 遍 → 再看一遍  
 
-完整步骤与边界说明见方法页；**不是捷径**，海量阅读通常更有效。
+完整步骤与边界说明见方法页。美剧精看、语块和跟读见 [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。**不是捷径**，海量阅读通常更有效。
 
 ---
 

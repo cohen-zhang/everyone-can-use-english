@@ -23,6 +23,8 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · gonna say**、**问句**，以及 **特色**（主题句 *working hard*、*Am I in trouble*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -164,6 +166,98 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 - **That is exactly what you said about Luke's paper route.** — 当年你让卢克送报纸时也是这么说的
 - **Is anyone in there?** — {\i1}里面有人吗
 - **Red's a good color on you.** — {\i1}你真适合红色
+
+---
+
+## 时态 · be going to say
+
+爷爷的车还没停稳，菲尔就知道下一句是什么。**gonna say** 是「将会说」。麻烦用 **Am I in trouble** 问严重程度。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **gonna say** | *He's gonna say "Hardly working."* — 他一定会说「几乎没在干活」。 | *She's gonna say she's fine.* — 她一定会说她没事。 |
+| **working hard** 问候 | *Hey, Son, working hard?* — 儿子，忙吗？ | *Working hard?* — 忙吗？ |
+| **Am I** | *Am I in trouble?* — 我有麻烦了吗？ | *Am I late?* — 我迟到了吗？ |
+| **How bad** | *Okay, I'm a little scared. How bad is this?* — 我有点怕。这事有多糟？ | *How bad is the traffic?* — 路况有多糟？ |
+
+跟读：
+
+- **He's gonna say it.** — 他一定会这么说。
+- **Am I in trouble?** — 我有麻烦了吗？
+
+*Hardly working* 接 *working hard*，是父子之间的老套近。套话也可以是爱。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What's up** | *Honeydew! What's up?* — 甜瓜！怎么了？ | *What's up?* — 怎么了？ |
+| **working hard?** | *Hey, Son, working hard?* — 儿子，忙吗？ | *Working hard, or hardly working?* — 忙着，还是几乎没忙？ |
+| **Did he** | *Did he say it?* — 他说了吗？ | *Did he call?* — 他打来了吗？ |
+| **Am I in trouble** | *Am I in trouble?* — 我有麻烦了吗？ | *Am I in the way?* — 我挡路了吗？ |
+| **How bad** | *How bad is this?* — 这事有多糟？ | *How bad is it?* — 有多糟？ |
+| **How about you** | *He's a lawyer. How about you?* — 他是律师。你呢？ | *I'm fine. How about you?* — 我没事。你呢？ |
+| **how'd it go** | *Hey, how'd it go in there?* — 里面怎么样？ | *How'd it go?* — 怎么样？ |
+| **you want to** | *Hey, you want to go to the movies?* — 想去看电影吗？ | *You want to sit down?* — 想坐下吗？ |
+
+## 特色 · hardly working，和这一集想说的话
+
+房车、狗、没说出口的到来。菲尔知道父亲的下一句，也差点没问出父亲真正怎么了。
+
+### 主题句 · working hard
+
+**Hey, Son, working hard?** — 嘿，儿子，忙吗？
+
+- 升调把陈述变成问候。
+- 菲尔预先说中答案：*Hardly working.* 老笑话是他们还认识彼此的证据。
+
+可替换：
+
+- **Working hard?** — 忙吗？
+- **Hardly working.** — 几乎没在忙。
+
+### 特色句 · Am I in trouble
+
+**Am I in trouble? — Oh, really, really big.** — 我有麻烦了吗？——哦，非常、非常大。
+
+- **Am I in trouble** — 麻烦是名词。in trouble 是「处于麻烦中」。
+- **really, really** 重叠，把程度顶满。克莱尔已经立了规矩：狗的事，菲尔麻烦大了。
+- 真正的麻烦后来不是狗，是父亲说自己爱上了那条狗，并且不打算回家。玩笑要标成玩笑：爱上的对象是 Scott。
+
+可替换：
+
+- **Am I late?** — 我迟到了吗？
+- **It's really, really small.** — 这非常、非常小。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Guess who's here.** | 猜谁来了。 | Guess who |
+| **You want to go to the movies?** | 想去看电影吗？ | You want to 省略 Do |
+
+爷爷的到来没有先问许可。*I meant to tell you he was driving out.* meant to 是本想说、没说成。
+
+### 本集人生感悟
+
+1. **你背得出的下一句，说明你们还在彼此的语言里。** *He's gonna say "Hardly working."* 菲尔说中了。说中是亲密。
+   **He's gonna say "Hardly working."** — 他一定会说「几乎没在干活」。
+
+2. **本想告诉你，常常已经晚了。** *I meant to tell you he was driving out.* 房车先到，解释后到。
+   **I meant to tell you.** — 我本来想告诉你。
+
+#### 夫妻
+
+**家里的新成员要先说，再说已经晚了的那句。** 狗 Scott 掉毛、咬东西。克莱尔的规矩先于父亲的解释。*Am I in trouble?* 是菲尔知道自己欠一次商量。
+**Am I in trouble?** — 我有麻烦了吗？
+**Oh, really, really big.** — 非常、非常大。
+
+#### 亲子相处
+
+**孩子舍不得的，父母也舍不得。** 卢克不舍 Scott。弗兰克把狗带走。菲尔和父亲在车道上比在笑话里更近。恐怖片把曼尼吓住，杰请人拿假砍刀来脱敏，结果更吓。面对恐惧如果加码，孩子只会更怕。
+**How'd it go in there?** — 里面怎么样？看完牙、看完一场怕，都可以用这句接。
 
 ---
 

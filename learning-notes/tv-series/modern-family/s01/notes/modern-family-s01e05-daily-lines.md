@@ -23,6 +23,8 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · could / should / be going to**、**问句**，以及 **特色**（主题句 *people who don't know the game*、*gold digger*、祈使句、本集想说的话）。
+
 ---
 
 ## 家事与居家
@@ -156,6 +158,101 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 - **I slept on it funny.** — 我只是睡觉把头发睡乱了
 - **Like that never happened to him?** — 就好像他没有过一样
 - **Come on.** — 走吧
+
+---
+
+## 时态 · could / should / be going to
+
+这一集的商量都是未发生的事：**could** 是可以这么做，**should** 是觉得该这么做，**be going to** 是已经偏向下一步。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **could** 可以，尚未做 | *I could just watch the football game or something.* — 我可以就看看球什么的。 | *I could just stay in tonight.* — 我今晚可以就待在家里。 |
+| **should** 觉得该 | *I should try to learn more about football.* — 我该再多懂一点橄榄球。 | *I should try to listen first.* — 我该先听完。 |
+| **be going to** 下一步 | *I think I'm gonna find out what it is.* — 我想我要去问清楚。 | *I think I'm gonna call them.* — 我想我要打给他们。 |
+| **the worst ... could** 最高级 | *That's the worst thing you could do.* — 那是你能做的最糟的一件。 | *That's the worst time you could bring it up.* — 这是你能挑的最糟时机。 |
+
+跟读：
+
+- **I could just watch.** — 我可以就看看。
+- **That's the worst thing you could do.** — 那是你能做的最糟的一件。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What ... for** 为何 | *What are you drinking coffee for anyway?* — 你喝咖啡到底图什么？ | *What did you call for?* — 你打电话图什么？ |
+| **What part of** | *What part of Colombia are those French toaster sticks from?* — 那些法式吐司条是哥伦比亚哪一区的？ | *What part of the plan is this?* — 这是计划的哪一步？ |
+| **Can I have** | *Can I have $40 for lunch?* — 我能要 40 美元当午餐钱吗？ | *Can I have a minute?* — 我能占用你一分钟吗？ |
+| **Do you have any idea** | *Do you have any idea what a bad liar you are?* — 你知道自己撒谎有多糟吗？ | *Do you have any idea how late it is?* — 你知道现在有多晚吗？ |
+| **What's a** 这个词是什么 | *What's a coal digger?* — coal digger 是什么？ | *What's a rain check?* — rain check 是什么？ |
+| **right?** 确认你听见了 | *You heard how she said that, right?* — 你听见她怎么说的了，对吧？ | *You heard the time, right?* — 你听见时间了，对吧？ |
+| **So?** 一句顶一句问 | *So? Everybody can watch.* — 那又怎样？大家都能看。 | *So? We can still go.* — 那又怎样？我们还是能去。 |
+| **Did you really have to** | *Did you really have to call her that?* — 你真的有必要那么叫她吗？ | *Did you really have to say it out loud?* — 你真的有必要说出口吗？ |
+
+孩子把 **gold digger**（攀高枝的人）听成 **coal digger**。问句 *What's a coal digger?* 把成人的刻薄原样交了回来。
+
+## 特色 · 听错的那个词，和这一集想说的话
+
+杰想独自看球。孩子在饭桌上把家里的称呼和讥讽倒了出来。一个听错的词，把两个人的不对付说穿了。
+
+### 主题句 · people who don't know
+
+**I don't like watching the game with people who don't know the game.** — 我不喜欢和看不懂球的人一起看球。
+
+- 结构：**people who + 从句**。who 后面是这群人做不到的事。
+- 杰要的是懂行的安静。歌洛莉亚听成：这一屋的人都不算数。后面的烧烤就从这句缝里裂开。
+
+可替换：
+
+- **I don't like meetings with people who haven't read the note.** — 我不喜欢和没看过纪要的人开会。
+- **People who show up late can sit in the back.** — 迟到的人可以坐后面。
+
+### 特色句 · call her that
+
+**Did you really have to call her that— a gold digger?** — 你真的有必要那么叫她吗，叫她 gold digger？
+
+- **call someone that** — that 指刚才那个称呼。破折号后面把词补上：*a gold digger*。
+- **Did you really have to** — really 把「有必要吗」加重，质问的是说法，不单是事实。
+- 孩子先喊出听错的 *coal digger*。成人再把正确的刻薄词说清楚。两个词都伤人。
+
+可替换：
+
+- **Did you really have to call him that?** — 你真的有必要那么叫他吗？
+- **Don't call her that.** — 别那么叫她。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Let's go, buddy. Schooltime.** | 走吧，上学了。 | Let's go + 称呼 |
+| **Give me a break.** | 饶了我吧。 | 固定祈使，表示「这也太过分」 |
+| **Stop.** | 停下。 | 一个词的命令 |
+| **Let's remember what's important here.** | 先记住眼下什么要紧。 | Let's remember + 从句 |
+
+*Stop. Don't do the "double question to prove a point" thing.* 米奇尔让卡姆停下那种「连问两句来证明自己懂」的说法。引号里是在给一种问法起名。
+
+### 本集人生感悟
+
+1. **看不懂，也可以坐在同一间屋子里。** *people who don't know the game* 把家人分成懂的和不懂的。球赛最后还是大家一起看完。
+   **Not knowing the game is still a seat at the table.** — 看不懂球，仍然有一个座位。
+
+2. **孩子会把成人的词原样带上桌。** *What's a coal digger?* 问出来的时候，金矿和煤矿都已经在饭桌上了。
+   **Kids repeat the label before they know the price.** — 孩子会先重复那个称呼，再知道它的价钱。
+
+#### 夫妻
+
+**有时候一个人先跳进水里，架才停得下来。** 克莱尔和歌洛莉亚互相看不顺眼。歌洛莉亚要克莱尔穿衣跳进泳池，菲尔自己跳了下去。这是玩笑，也是他选择站到两个人中间。
+**Let's remember what's important here.** — 先记住眼下什么要紧。
+**Did you really have to call her that?** — 你真的有必要那么叫她吗？
+
+#### 亲子相处
+
+**孩子打架的第一句，常常是家里的称呼。** 卢克和曼尼在学校打起来，起因是「外甥」这个叫法。菲尔的旁白说：有人问 *Why?* 卢克问的是 *Why not?*
+**Luke asks, "Why not?"** — 卢克问的是「为什么不」。
+**Some people ask, "Why?"** — 有些人问「为什么」。
 
 ---
 

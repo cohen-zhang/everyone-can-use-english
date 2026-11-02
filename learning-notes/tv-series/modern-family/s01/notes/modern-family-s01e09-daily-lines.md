@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · could have / used to**、**问句**，以及 **特色**（主题句 *the best birthday*、*could have been a lot worse*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -167,6 +169,99 @@
 - **Nothing's worked. - Here's the deal.** — 全都不奏效  -事实上
 - **Girls don't go for all that romantic stuff.** — 女孩子不吃浪漫那一套
 - **They go for power and success.** — 她们喜欢有权势的或成功的男人
+
+---
+
+## 时态 · could have / used to
+
+片头在医院，用 **could have + 过去分词**：当时有可能更糟，实际没有。杰谈自己的童年，用 **used to**。生日的「最」用最高级 **the best / the most**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **could have been** 当时可能 | *It could have been a lot worse.* — 当时有可能糟得多。 | *It could have been worse.* — 当时有可能更糟。 |
+| **used to** 以前给 | *My dad used to give me a quarter for every crow I bagged.* — 我每打下一只乌鸦，我爸以前会给我两毛五。 | *My dad used to give me a dollar for washing the car.* — 我洗一次车，我爸以前会给我一块钱。 |
+| **used to have** 以前有 | *And I used to have a machete.* — 而且我以前有一把砍刀。 | *I used to have a bike like that.* — 我以前有一辆那样的自行车。 |
+| **the best ... of all time** | *Throw Luke the best birthday party of all time.* — 给卢克办一场有史以来最棒的生日。 | *That was the best meal of the month.* — 那是这个月最好的一顿。 |
+
+跟读：
+
+- **It could have been a lot worse.** — 当时有可能糟得多。
+- **I used to have one.** — 我以前有一个。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Do we know** | *Do we know anything?* — 我们有消息吗？ | *Do we know the time?* — 我们知道时间吗？ |
+| **How did this** | *My God, how did this even happen?* — 天哪，这到底是怎么发生的？ | *How did this even happen?* — 这到底是怎么发生的？ |
+| **What do you want for** | *What do you want for your birthday?* — 你生日想要什么？ | *What do you want for dinner?* — 晚饭你想吃什么？ |
+| **Are you getting** | *Are you getting a clown for today?* — 你今天是要请小丑吗？ | *Are you getting a cake?* — 你要买蛋糕吗？ |
+| **Has he ever** 现在完成 | *Has he ever seen a good one?* — 他见过一个好的吗？ | *Have you ever tried it?* — 你试过吗？ |
+| **What would you suggest** | *What would you suggest we get him then?* — 那你建议我们给他买什么？ | *What would you suggest we do?* — 你建议我们怎么做？ |
+| **Mind if I** | *Mind if I come in?* — 我进来你介意吗？ | *Mind if I sit here?* — 我坐这儿你介意吗？ |
+| **反问** | *Who throws a party without a clown?* — 谁办派对不请小丑？ | *Who leaves without saying goodbye?* — 谁走了连再见都不说？ |
+
+*Mind if I...* 是 *Do you mind if I...* 的省略。答应就是 *Sure.*
+
+## 特色 · the best / the most，和这一集想说的话
+
+全家要把生日做成「最」。最棒、最无聊、最危险，三个最高级叠在同一个下午。医院里的那句把「最」按了回去。
+
+### 主题句 · the best birthday
+
+**I am so with you. We should blow this out and throw Luke the best birthday party of all time.** — 我完全同意。我们该大办一场，给卢克办一个有史以来最棒的生日。
+
+- **the best + 名词 + of all time** — 有史以来最……。blow this out 是「搞大」。
+- 派对以骨折收场。卢克打着石膏说：*This was the best birthday ever.* ever 和 of all time 是同一类最高级。
+
+可替换：
+
+- **That was the best day of the year.** — 那是今年最好的一天。
+- **Let's throw her a small party.** — 我们给她办个小的。
+
+### 特色句 · could have been a lot worse
+
+**The paramedics said it could have been a lot worse.** — 救护人员说，当时有可能糟得多。
+
+- 结构：**could have + 过去分词**。从现在回头看一个没有发生的更糟结果。
+- **a lot** 放在比较级 worse 前面，表示程度深。
+- 另一组最高级在派对上吵架：*the most boring party ever*，以及 *the most dangerous reptile you've got*。most 接长形容词或多音节词。
+
+可替换：
+
+- **It could have been much worse.** — 当时有可能糟得多。
+- **This is the most boring meeting of the week.** — 这是这周最无聊的会。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Don't bring it back.** | 别把它带回来。 | Don't + 动词 |
+| **Don't blame yourself.** | 别怪自己。 | Don't blame + 人 |
+| **Let it go.** | 放下吧。 | Let + 宾语 + 动词 |
+| **Just be the sweet, wonderful little boy that you are.** | 做你现在这个甜甜的、很好的小男孩就行。 | Just be + 名词 + that you are |
+
+### 本集人生感悟
+
+1. **「最棒」可以和石膏同时成立。** 攀岩、滑索、蝎子、十字弓，把下午做成一场事故。卢克仍说 *This was the best birthday ever.*
+   **The best day can still end in a cast.** — 最棒的一天，仍然可以以打石膏结束。
+
+2. **回头看，句子用 could have。** *It could have been a lot worse.* 这句救的是惊吓，不是把事故说成没事。
+   **It could have been a lot worse.** — 当时有可能糟得多。
+
+#### 夫妻
+
+**一个人的爱的方式，可以是另一个人害怕的东西。** 卡姆坚持让 Fizbo 出场。米奇尔怕小丑。*Who throws a party without a clown?* 是卡姆的反问。两个人对「怎样才算把生日办好」差了一整套衣服。
+**Has he ever seen a good one?** — 他见过一个好的吗？
+**Who throws a party without a clown?** — 谁办派对不请小丑？
+
+#### 亲子相处
+
+**孩子用得上的，是不用套路的那一句。** 曼尼的笑话没打动 Bianca。歌洛莉亚说：*You need no tricks. Just be the sweet, wonderful little boy that you are.*
+**Just be the sweet, wonderful little boy that you are.** — 做你现在这个小男孩就行。
+**The right girl will find you when it's time.** — 对的女孩会在时候到了的时候找到你。
 
 ---
 

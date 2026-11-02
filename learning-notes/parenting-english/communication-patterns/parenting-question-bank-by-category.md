@@ -14,6 +14,50 @@ tags:
 从 `learning-notes/parenting-english/` 现有文档中提取问句并归类，便于按场景复用。  
 本页顺序：**时态框架 → 沟通意图 → 日常场景（时间段／饭桌／和朋友玩／沪教教材）**。优先保留高频、可直接开口的句子。
 
+## 问句思维导图
+
+按一天里开口的时机选一句，直接跟不多说。
+
+```mermaid
+mindmap
+  root((今天跟不多说))
+    早上出门
+      How'd you sleep
+      Are you hungry
+      Did you brush your teeth
+      What's the weather like
+      Did you bring your water bottle
+      Are you ready
+    放学
+      How was school today
+      How do you feel
+      Do you have any homework
+      Who did you play with
+    饭桌
+      What do we eat
+      Do you want rice or noodles
+      Do you want more
+      May I have some water
+    和朋友玩
+      Will you play with me
+      the slide or the swings
+      Can you share
+    作业
+      Which subject first
+      How much homework
+      Why did you choose this
+    情绪和规矩
+      Are you okay
+      Will you stop that
+      Where does this toy go
+    睡前
+      What time is bedtime
+      How long until bedtime
+      Can we play a little longer
+```
+
+同一时机的更多句子和中文，见下面 §8–§10；换一种问法见 §1–§7。
+
 ---
 
 ## 1) 时态分类（按提问时间框架）`亲子`

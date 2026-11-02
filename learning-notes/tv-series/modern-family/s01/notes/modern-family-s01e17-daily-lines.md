@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · could / 过去**、**问句**，以及 **特色**（主题句 *before Mom*、实话与谎、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -166,6 +168,96 @@
 - **"How about we meet at Le Reve at 7:30?"** — "七点半  梦境餐厅见"
 - **That sounds innocent enough- I mean** — 你们的约会真够"单纯"的
 - **but your tone seems mean.** — 但你的语气好刻薄
+
+---
+
+## 时态 · could / 过去的女朋友
+
+这一集在排时间，也在翻旧账。**could** 是还可以选的场次。**before Mom** 把一段过去放在婚姻前面。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **could** 可以选 | *We could see the 4:00 or the 6:20.* — 我们可以看四点那场，或者六点二十。 | *We could leave at four or at six.* — 我们可以四点走，或者六点。 |
+| **before** 在某人之前 | *You had a girlfriend before Mom?* — 你在妈妈之前有过女朋友？ | *You lived here before me?* — 你在我之前住过这儿？ |
+| **Doesn't she** 否定疑问 | *Doesn't she also have no boys at forever?* — 她不是还永远没有男生吗？ | *Doesn't he also have practice?* — 他不是还有训练吗？ |
+| **过去** 你认识吗 | *Denise? Do I know Denise?* — 丹妮丝？我认识丹妮丝吗？ | *Do I know her?* — 我认识她吗？ |
+
+跟读：
+
+- **We could see the 4:00 or the 6:20.** — 四点或六点二十，我们都能看。
+- **You had a girlfriend before Mom?** — 你在妈妈之前有过女朋友？
+
+兄妹那句 *Don't you have an eating disorder...* 是攻击，不是能拿来用的关心。问句章里只标它的骨架，不拿去练。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Doesn't she** | *Doesn't she also have no boys at forever?* — 她不是还永远没男生吗？ | *Doesn't she have a lesson?* — 她不是有课吗？ |
+| **Do I know** | *Do I know Denise?* — 我认识丹妮丝吗？ | *Do I know her name?* — 我知道她的名字吗？ |
+| **before** | *You had a girlfriend before Mom?* — 妈妈之前你有过女朋友？ | *You had a plan before this?* — 这之前你有过计划吗？ |
+| **You mean** 你的意思是 | *You mean she's like a door-to-door salesman?* — 你是说她像上门推销的？ | *You mean we leave now?* — 你是说我们现在走？ |
+| **What's wrong with** | *What's wrong with me today?* — 我今天怎么了？ | *What's wrong with the plan?* — 计划怎么了？ |
+| **Is it** 升调接问候 | *Good morning. — Is it?* — 早安。——算是吗？ | *Busy day. — Is it?* — 忙的一天。——算是吗？ |
+| **or** 两个时间 | *We could see the 4:00 or the 6:20.* — 四点还是六点二十？ | *Now or after lunch?* — 现在还是午饭后？ |
+
+## 特色 · before，和这一集想说的话
+
+真话在这一集里迟到：乌龟、约会、辞职。before 把「妈妈之前」说成孩子第一次看见的一段历史。
+
+### 主题句 · before Mom
+
+**You had a girlfriend before Mom?** — 你在妈妈之前有过女朋友？
+
+- **before + 人** — 在这个人出现之前。
+- 孩子用升调。过去对父母是履历，对孩子是新闻。
+
+可替换：
+
+- **You lived abroad before this job?** — 这份工作之前你住过国外？
+- **Before Mom, I had a very small apartment.** — 在妈妈之前，我住一间很小的公寓。
+
+### 特色句 · or 两个钟点
+
+**We could see the 4:00 or the 6:20.** — 我们可以看四点那场，或者六点二十。
+
+- **could see A or B** — 两场都还开着。
+- 下一句把其中一场关掉：*Actually, that's no good.* 选择句的寿命往往只有一句。
+
+可替换：
+
+- **We could do Monday or Thursday.** — 我们可以周一，或者周四。
+- **Actually, that's no good.** — 其实那个不行。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **I'm in.** | 算我一个。 | 两个词答应 |
+| **Actually, that's no good.** | 其实那个不行。 | 把上一个选择划掉 |
+
+杰编浣熊、歌洛莉亚识破，后面是坦白。命令在这一集让位给「说真话」。*I'm in* 是菲尔对电影计划的第一句答应。
+
+### 本集人生感悟
+
+1. **孩子会用一句升调，打开父母的过去。** *before Mom* 不是指控。它是「原来还有一段我没在场」。
+   **You had a girlfriend before Mom?** — 妈妈之前你有过女朋友？
+
+2. **假现场迟早要办一场追悼会。** 杰用浣熊解释乌龟。曼尼查脚印，又念悼词。谎若要收场，得有一个让孩子站上去的仪式。
+   **What's wrong with me today?** — 我今天怎么了？米奇尔对老板摊牌之前，先问自己这句。
+
+#### 夫妻
+
+**把旧女友请到家里，是用在场证明清白。** 克莱尔吃醋，菲尔邀丹妮丝来喝酒。证明可以反咬一口：丹妮丝把房卡递过来，克莱尔在场。
+**Denise? Do I know Denise?** — 丹妮丝？我认识她吗？
+**We could see the 4:00 or the 6:20.** — 电影的两个钟点，是他们本来的晚上。
+
+#### 亲子相处
+
+**兄妹的嘴可以很毒，父母听见的是竞争。** *Doesn't she also have no boys at forever?* 是艾丽克斯和海莉的互损。损人的问句不要借去对孩子说。听见就够了。
+**Doesn't she also have a lesson at 11:00?** — 她不是十一点还有课吗？日程才是这句的正经用法。剧中原句把 lesson 换成了挖苦。
 
 ---
 

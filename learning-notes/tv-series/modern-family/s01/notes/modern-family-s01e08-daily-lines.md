@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *five free hugs*、*The more, the merrier*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -158,6 +160,99 @@
 - **Oh, that's hi- larious. But I'm talking about me.** — 真有意思  但我指的是我要去
 - **you said you'd go to your grandfather's tonight.** — 你说你今晚要去外公家
 - **See, that's what's so perfect about this.** — 对啊  所以才刚刚好嘛
+
+---
+
+## 时态 · be going to / would
+
+纪念日这天，答应和打算都用 **be going to**。愿意帮忙用 **would love to**。人越多越热闹，用 **the more, the merrier**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **be going to** 大家都会去 | *And everybody's gonna be there.* — 而且所有人都会去。 | *Everybody's gonna ask.* — 所有人都会问。 |
+| **would love to** 很愿意 | *Of course we would love to have the baby.* — 我们当然愿意照看宝宝。 | *We would love to have you over.* — 我们很愿意你来。 |
+| **the more** 越多越好 | *The more, the merrier.* — 人越多越热闹。 | *The more, the better.* — 越多越好。 |
+| **be going to** 你一定会 | *Your real present is coming tonight, and you're gonna love it.* — 你真正的礼物今晚到，你一定会喜欢。 | *You're gonna love this song.* — 你一定会喜欢这首歌。 |
+
+跟读：
+
+- **We would love to have the baby.** — 我们很愿意照看宝宝。
+- **The more, the merrier.** — 人越多越热闹。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What have you done** | *Go ahead. Open it. — What have you done?* — 打开吧。——你又搞了什么？ | *What have you done with the keys?* — 你把钥匙弄哪儿了？ |
+| **Where is** | *My turn? Where is it?* — 轮到我了？在哪儿？ | *Where is my coat?* — 我的外套在哪儿？ |
+| **You don't like it?** 升调 | *You don't like it?* — 你不喜欢吗？ | *You don't want it?* — 你不想要吗？ |
+| **Are you kidding** | *Are you kidding me? I love it.* — 开玩笑吗？我喜欢极了。 | *Are you kidding me? It's perfect.* — 开玩笑吗？这刚好。 |
+| **Is ... still** | *Is Haley still coming?* — 海莉还来吗？ | *Are you still coming?* — 你还来吗？ |
+| **right?** | *Your hair's longer, right?* — 你头发长了，对吧？ | *The meeting's at three, right?* — 会是三点，对吧？ |
+| **反义疑问** | *You really don't understand what just happened there, do you?* — 你真没听懂刚才发生了什么，是吧？ | *You don't remember, do you?* — 你不记得了，是吧？ |
+
+否定陈述加 *do you?*，是在确认对方确实没懂。海莉的小花招被克莱尔看穿时，就是这种问法。
+
+## 特色 · the more, the merrier，和这一集想说的话
+
+礼物、睡衣夜、看孩子，都在数人数和份量。一句比较级把「人多」说成好事。另一句礼物小到只有五张券。
+
+### 主题句 · five free hugs
+
+**Five free hugs.** — 免费拥抱五次。
+
+- 克莱尔的纪念日回礼是五张券。菲尔当时以为这就是全部，旁白里吐槽她不会送礼。
+- 后面还有真礼物。券本身仍然算数：*You don't like it? — Are you kidding me? I love it.*
+- 结构就是 **数字 + 形容词 + 名词**。free 是「不用花钱的」。
+
+可替换：
+
+- **Three free coffees.** — 免费咖啡三杯。
+- **One quiet hour.** — 一小时安静。
+
+### 特色句 · The more, the merrier
+
+**The more, the merrier.** — 人越多越热闹。
+
+- 结构：**the + 比较级，the + 比较级**。这里两边的名词都省了：the more (people), the merrier (it is)。
+- 杰的夜间传统是孙子们都来。海莉想逃去同学的派对。这句话把「都留下」说成热闹，而不是命令。
+- 同一集还有 *It'll make us better parents.* better 是比较级：出去一夜，会让我们变成更好的父母。这是米奇尔和卡姆给自己的理由。
+
+可替换：
+
+- **The sooner, the better.** — 越早越好。
+- **The quieter, the better.** — 越安静越好。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Fix that step.** | 把那级台阶修了。 | 动词开头 |
+| **Go ahead. Open it.** | 来吧，打开。 | 两步：先许可，再动作 |
+| **Let's do it. Let's do it.** | 就这么定了。 | Let's 连说两遍，催促 |
+| **All right. Let's go.** | 好，走吧。 | All right 先答应 |
+
+### 本集人生感悟
+
+1. **小礼物可以是真的，大惊喜也可以晚到。** 五张拥抱券先被嫌弃，又被说喜欢。晚上的定情曲才是菲尔没准备好的那一份。
+   **A small gift can still be a real one.** — 小礼物仍然可以是真的。
+
+2. **人多的夜晚，有人想留，有人想走。** *The more, the merrier.* 是杰的句子。海莉的句子是 *everybody's gonna be there*，指的是另一场派对。
+   **The more, the merrier.** — 人越多越热闹。
+
+#### 夫妻
+
+**真的那首歌，可以是较小的那首。** 菲尔请来歌手，大家以为定情曲是 *True*。他后来坦白是 *If You Leave*。歌手崩溃，又和好。纪念日经得起一句更正。
+**"If You Leave" by Orchestral Manoeuvres in the Dark.** — 那首歌是《If You Leave》。
+**It'll make us better parents.** — 这会让我们变成更好的父母。米奇尔和卡姆用这一句给自己放一夜假。理由是照顾关系，不是抛弃孩子。
+
+#### 亲子相处
+
+**留住一个青少年，可以是一条时间，而不是一只鞋。** 杰先藏起海莉的鞋，后来发现迪兰在树后，还是放她去派对，约好 11 点回来。界限说清楚，人就可以离开一会儿。
+**Is Haley still coming?** — 海莉还来吗？
+**Your real present is coming tonight.** — 你真正的礼物今晚到。这句是菲尔对克莱尔说的，也像家长对孩子常说的空头支票。本集里他最后把空头补上了。
 
 ---
 

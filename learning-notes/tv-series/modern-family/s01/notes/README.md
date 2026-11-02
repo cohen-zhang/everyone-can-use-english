@@ -16,7 +16,7 @@
 | 类型                                                | 说明                                                              |
 | ------------------------------------------------- | --------------------------------------------------------------- |
 | **characters/*.md**                                  | **成人向人物导读**：身份、性格、核心台词、口头禅、名场面与复述练习；索引见 [[learning-notes/tv-series/modern-family/s01/notes/characters/README|Character Guides]]。 |
-| **modern-family-s01exx-daily-lines.md**              | **剧情分段**（plot beats）+ **俚语表（仅本集）** + **难词表**；E01 已按新体例重写。俚语 vs 难词（Glossary）分类定义见 [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]。 |
+| **modern-family-s01exx-daily-lines.md**              | **剧情分段**（E01）或 **生活桶**（E02–E10、E13–E24）之后，文末都有精读三章：**时态**、**问句**、**特色**（主题句 / 特色句 / 祈使句 / 人生感悟，含夫妻与亲子）。[E11](modern-family-s01e11-daily-lines.md) 是样例。E12 等字幕。E01 的三章在 `<!-- MANUAL:STUDY -->` 里，重跑生成脚本不会被盖掉。俚语 vs 难词见 [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]。 |
 | **beats/s01eNN-beats.yaml**                          | 每集剧情分段台词配置（人工精选 8–15 句/段）；生成脚本读取此文件。 |
 | **modern-family-s01e02-key-to-being-a-great-dad.md** | **手工编排**的亲子对话体练习（阿泽 / Celine 设定），与自动抽取版互补。                                       |
 | **scripts/build-modern-family-s01-daily-lines.py**   | **推荐**：从 beats YAML + transcript 生成 daily-lines；保留 `<!-- MANUAL:* -->` 区块。 |
@@ -50,7 +50,7 @@ python3 learning-notes/tv-series/modern-family/s01/notes/scripts/build-modern-fa
 脚本会：
 - 从 YAML 输出 **剧情分段台词**；
 - 扫描 transcript，在 **§A/B/C 俚语表** 中只列 **本集实际出现** 的表达；
-- 保留笔记里 `<!-- MANUAL:HEAD -->` / `VOCAB` / `TIPS` 之间的手工内容。
+- 保留笔记里 `<!-- MANUAL:HEAD -->` / `VOCAB` / `STUDY` / `TIPS` 之间的手工内容。`STUDY` 是文末精读三章。
 
 **旧版关键词桶（legacy）：**
 

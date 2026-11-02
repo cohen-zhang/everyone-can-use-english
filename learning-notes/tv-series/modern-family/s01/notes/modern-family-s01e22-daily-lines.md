@@ -25,6 +25,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 过去**、**问句**，以及 **特色**（主题句 *fell from heaven*、*Help me*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -187,6 +189,97 @@
 - **So he left me here.** — 他就把我扔这儿了
 - **Haley is still asleep, and I have no idea where Luke is.** — 海莉还没起来  卢克人也不知道哪儿去了
 - **And are you even ready?** — 你到底准备好了没啊
+
+---
+
+## 时态 · supposed to / 一般过去
+
+机场这集把「该在」说成 **supposed to**。搭讪用一般过去 **Did it hurt**，问的是一个没发生的坠落。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Did it** | *Did it hurt?* — 疼吗？ | *Did it work?* — 成了吗？ |
+| **过去** 从天上掉下来 | *When you fell from heaven.* — 当你从天上掉下来的时候。 | *When you walked in.* — 当你走进来的时候。 |
+| **supposed to** 该在 | *You're supposed to be here with me.* — 你该在这儿陪着我。 | *You're supposed to be on that flight.* — 你该在那班飞机上。 |
+| **are they gonna** | *Are they all gonna be up with us in first class?* — 他们都会和我们一起坐头等舱吗？ | *Are they gonna wait?* — 他们会等吗？ |
+
+跟读：
+
+- **Did it hurt?** — 疼吗？
+- **You're supposed to be here with me.** — 你该在这儿陪着我。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Did it** | *Oh, I forgot to ask— did it hurt?* — 哦我忘了问，疼吗？ | *Did it hurt when you stood up?* — 你站起来的时候疼吗？ |
+| **What hurt** | *What hurt?* — 什么疼？ | *What broke?* — 什么坏了？ |
+| **Why are you so** | *Why are you so sweet?* — 你怎么这么甜？ | *Why are you so quiet?* — 你怎么这么静？ |
+| **What the heck** | *What the heck?* — 搞什么？ | *What the heck is that?* — 那是什么东西？ |
+| **Really? Everyone's?** | *Really? Everyone's?* — 真的？所有人？ | *Really? All of them?* — 真的？全部？ |
+| **Are they gonna** | *Are they all gonna be up with us in first class?* — 他们都会跟我们坐头等吗？ | *Are the kids gonna sit with us?* — 孩子们会跟我们坐吗？ |
+| **You think** | *You think I'm made of money?* — 你以为我是钱做的？ | *You think I forgot?* — 你以为我忘了？ |
+| **do I have to** | *But do I have to love 'em in Hawaii?* — 可我一定得在夏威夷爱他们吗？ | *Do I have to decide today?* — 我一定得今天决定吗？ |
+
+*I forgot to ask* 把搭讪装成一句忘掉的问话。*Did it hurt when you fell from heaven* 是老套情话，剧里用来开杰的生日。
+
+## 特色 · Help me，和这一集想说的话
+
+钱包、打包、翻窗。克莱尔教卡姆的那两个词，比一整段埋怨短。
+
+### 主题句 · fell from heaven
+
+**Did it hurt when you fell from heaven and landed on earth?** — 你从天上掉到地上的时候，疼吗？
+
+- **Did it hurt when + 过去式** — 疼发生在过去的某一刻。
+- 歌洛莉亚先装听不懂：*I didn't fall from—* 然后接上自己是天使。搭讪要两个人都肯玩。
+
+可替换：
+
+- **Did it hurt when you hit your knee?** — 你撞到膝盖的时候疼吗？
+- **Why are you so sweet?** — 你怎么这么甜？
+
+### 特色句 · Just say Help me
+
+**Here's an idea: Just say "Help me."** — 我有个主意：就说「帮我」。
+
+- **Here's an idea** — 先声明这是建议。
+- **Just say + 原话** — just 把要说的话收成最短。引号里是真正该出口的两个词。
+- 米奇尔怪卡姆没帮自己打包。克莱尔说，与其事后指责，不如当时说 Help me。
+
+可替换：
+
+- **Just say you need a minute.** — 就说你需要一分钟。
+- **Here's an idea.** — 我有个主意。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Just say "Help me."** | 就说「帮我」。 | Just say + 引语 |
+| **Just say it.** | 说出来就行。 | Just + 动词 |
+
+*You're supposed to be here with me* 不是命令，是「按理你该在」。supposed to 和 Help me 是这一集的两面：该在场，以及开口要帮助。
+
+### 本集人生感悟
+
+1. **帮助要在当时说，不要留到事后算账。** *Just say "Help me."* 卡姆和克莱尔互相听懂了「没人帮我打包」的那种委屈。
+   **Just say "Help me."** — 就说「帮我」。
+
+2. **全家跟着去，和二人世界，可以是同一趟机票上的两截。** 歌洛莉亚只买了六天的家人票，后面才是和杰的茂宜。*Do I have to love 'em in Hawaii?* 是杰的抱怨，也是他后来愿意上飞机的前提被说破。
+   **You're supposed to be here with me.** — 你该在这儿陪着我。
+
+#### 夫妻
+
+**生日旅行若全是活动，想读一本书的人会想跳进火山。** 杰想要的是安静。歌洛莉亚宣布每天爬山。两人后来把家人送走，才剩下属于他们的几天。
+**Why are you so sweet?** — 你怎么这么甜？开场的情话，和后面的徒步清单，是同一对夫妻。
+
+#### 亲子相处
+
+**钥匙锁在屋里的时候，孩子和家长一起慌。** 克莱尔重复「我讨厌这种感觉」。菲尔翻窗进去。海莉的素描男孩、迪兰的短信，都挤在同一个候机厅。家长在场，青春期仍在发短信。
+**Are they all gonna be up with us in first class?** — 他们都会跟我们坐头等吗？孩子在不在头等舱，是这一家的座位问题，也是「谁和谁在一起」的问题。
 
 ---
 

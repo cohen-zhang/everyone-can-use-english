@@ -9,6 +9,7 @@ Generate Modern Family S01 daily-lines notes from:
 Preserves manual blocks in existing notes between:
   <!-- MANUAL:HEAD --> ... <!-- /MANUAL:HEAD -->
   <!-- MANUAL:VOCAB --> ... <!-- /MANUAL:VOCAB -->
+  <!-- MANUAL:STUDY --> ... <!-- /MANUAL:STUDY -->
   <!-- MANUAL:TIPS --> ... <!-- /MANUAL:TIPS -->
 
 Usage:
@@ -179,6 +180,7 @@ def build_episode(ep: int, patterns_cfg: dict, dry_run: bool = False) -> None:
     existing = out_path.read_text(encoding="utf-8") if out_path.exists() else ""
     manual_head = extract_manual_block(existing, "HEAD") or default_manual_head(ep)
     manual_vocab = extract_manual_block(existing, "VOCAB")
+    manual_study = extract_manual_block(existing, "STUDY")
     manual_tips = extract_manual_block(existing, "TIPS")
 
     title = f"# 《摩登家庭》S01E{ep:02d} — 生活场景实用英文句"
@@ -219,6 +221,14 @@ def build_episode(ep: int, patterns_cfg: dict, dry_run: bool = False) -> None:
 <!-- /MANUAL:VOCAB -->
 """
 
+    study_section = ""
+    if manual_study:
+        study_section = f"""
+<!-- MANUAL:STUDY -->
+{manual_study}
+<!-- /MANUAL:STUDY -->
+"""
+
     if manual_tips:
         tips = f"""
 ## 使用提示
@@ -238,7 +248,7 @@ def build_episode(ep: int, patterns_cfg: dict, dry_run: bool = False) -> None:
 <!-- /MANUAL:TIPS -->
 """
 
-    full = header + body + vocab_section + tips + "\n"
+    full = header + body + vocab_section + study_section + tips + "\n"
 
     if dry_run:
         print(f"Would write {out_path.name} ({len(full)} chars)")

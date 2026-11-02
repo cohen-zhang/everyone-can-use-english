@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · have to / would rather / used to**、**问句**，以及 **特色**（主题句 *ugly sweaters*、*rather ... than*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -163,6 +165,103 @@
 - **I mean, why is Edna singing the low harmony?** — 为什么让埃德娜唱低声部的合音
 - **It's like people are applauding out of shock.** — 观众像是因为震惊才鼓掌一样
 - **Let it go. - Why would** — 随他们去吧  -为什么
+
+---
+
+## 时态 · have to / would rather / used to
+
+平安夜这集把「不得不」「宁可」和「以前的圣诞」放在一起。**have to** 是被迫，**would rather A than B** 是两害里挑一个，**used to** 是杰想回到的那种圣诞。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **have to** 不得不 | *Do we really have to wear these ugly sweaters?* — 我们真的必须穿这些丑毛衣吗？ | *Do we really have to leave now?* — 我们真的必须现在走吗？ |
+| **would rather ... than** 宁可 | *I'd rather be itchy than chokey.* — 我宁可痒，也不要勒得喘不上气。 | *I'd rather be early than late.* — 我宁可早，也不要晚。 |
+| **used to** 以前那样 | *I can have Christmas the way we used to.* — 我可以过我们以前那样的圣诞。 | *I want dinner the way we used to.* — 我想吃我们以前那样的晚饭。 |
+| **be going to** 我们要等 | *We're gonna wait for the fat Santa.* — 我们要等那个胖圣诞老人。 | *We're gonna wait for the next one.* — 我们等下一班。 |
+
+跟读：
+
+- **Do we really have to?** — 我们真的必须吗？
+- **I'd rather be early than late.** — 我宁可早，也不要晚。
+
+*chokey* 是菲尔现造的词，对着 itchy：勒脖子的那种难受。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Do we really have to** | *Do we really have to wear these ugly sweaters?* — 我们真的必须穿这些丑毛衣吗？ | *Do we really have to decide tonight?* — 我们真的必须今晚决定吗？ |
+| **呼喊** | *Mom? Dad?* — 妈？爸？ | *Hello? Anyone there?* — 有人吗？ |
+| **Was one of you** | *Was one of you smoking a cigarette?* — 你们当中是不是有人抽烟了？ | *Was one of you in the kitchen?* — 你们当中是不是有人进过厨房？ |
+| **Which one of you** | *Which one of you was smoking?* — 抽烟的是你们当中哪一个？ | *Which one of you called?* — 打电话的是你们当中哪一个？ |
+| **Are you** | *Are you crying?* — 你在哭吗？ | *Are you okay?* — 你还好吗？ |
+| **Why don't you** 邀请 | *Why don't you come over to our place for dinner tonight?* — 今晚来我们家吃饭吧？ | *Why don't you stay for dinner?* — 留下来吃饭吧？ |
+| **Why don't you** 带路 | *Why don't you follow us to our house?* — 跟着我们回家吧？ | *Why don't you follow me?* — 跟着我吧？ |
+| **How could** | *How could a newborn baby carry all those presents?* — 一个新生儿怎么搬得动那些礼物？ | *How could that be the rule?* — 那怎么会是规矩？ |
+
+*Was one of you* 问的是「你们当中是否有一个」。*Which one of you* 已经认定有人做了，在问是谁。
+
+## 特色 · rather than，和这一集想说的话
+
+丑毛衣、香烟烫洞、取消圣诞，都是在两件难受的事里挑。菲尔用 rather than 挑了痒。后来全家在「取消」和「顶罪」之间又挑了一次。
+
+### 主题句 · have to wear
+
+**Do we really have to wear these ugly sweaters?** — 我们真的必须穿这些丑毛衣吗？
+
+- **Do we really have to** — really 表示说话的人希望答案是不用。
+- 毛衣是视频里给佛罗里达的祖父母看的。不得不，是为了镜头里的那几秒。
+
+可替换：
+
+- **Do we really have to dress up?** — 我们真的必须盛装吗？
+- **Do I really have to say it again?** — 我真的必须再说一遍吗？
+
+### 特色句 · rather than
+
+**I'd rather be itchy than chokey.** — 我宁可痒，也不要勒得喘不上气。
+
+- 结构：**would rather + 动词原形 + than + 动词原形**。I'd = I would。
+- than 后面可以只留一个词。chokey 不是词典词，听的人靠 itchy 就能懂：两边都是难受，挑轻的那个。
+- 同一集的硬句是 *We cancel Christmas!* 取消是威胁。后面又有人说 *Don't worry. We're going to have Christmas.*
+
+可替换：
+
+- **I'd rather walk than wait.** — 我宁可走，也不要干等。
+- **I'd rather tell you now than later.** — 我宁可现在告诉你，也不要以后再说。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Come on, Phil. Hurry up.** | 菲尔，快点。 | Come on + 名字 |
+| **So do not do that again.** | 所以别再那样做。 | do not 比 don't 重 |
+| **Don't worry. We're going to have Christmas.** | 别担心，圣诞会有的。 | 命令后面接一个将来 |
+| **Let it go.** | 随他们去吧。 | Let it go |
+
+### 本集人生感悟
+
+1. **威胁可以喊出去，圣诞仍会被一个人买回来。** *We cancel Christmas!* 三个孩子打算轮流顶罪。艾丽克斯最后一个人说 *It was me.* 她要的是：*You can take my Christmas away, but don't take it from everyone else.*
+   **You can take mine away, and still leave theirs.** — 你可以拿走我的，把他们的留下。
+
+2. **顶罪很勇敢，烫洞的原因还可以是阳光。** 饰品把阳光聚到沙发上。抽烟的坦白已经发生，物理原因后到。两件事都留在这个晚上。
+   **It was me.** — 是我。
+
+#### 夫妻
+
+**两种圣诞可以争，人还在同一间屋子里。** 杰要 *Christmas the way we used to.* 曼尼要哥伦比亚的传统。歌洛莉亚夹在中间，劝曼尼先理解杰想重现的是旧日。
+**I can have Christmas the way we used to.** — 我可以过我们以前那样的圣诞。
+**Christmas should be Christmas.** — 圣诞就该是圣诞。这句是杰把传统说死。歌洛莉亚听见的是：新的那种不算。
+
+#### 亲子相处
+
+1. **三个孩子一起扛，最小的那个先说实话。** 海莉的计划是轮流认下香烟。卢克先招了。计划散了，圣诞仍被取消，直到艾丽克斯再认一次。
+   **Which one of you was smoking?** — 抽烟的是你们当中哪一个？
+
+2. **为别人留下节日的那句，是这一集最清楚的亲子话。** *You can take my Christmas away, but don't take it from everyone else.*
+   **Don't take it from everyone else.** — 别把它从所有人那里拿走。
 
 ---
 

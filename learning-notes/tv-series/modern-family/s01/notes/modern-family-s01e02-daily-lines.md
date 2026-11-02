@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · be going to / be supposed to**、**问句**，以及 **特色**（主题句 *the key to being a great dad*、*90% is just showin' up*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -163,6 +165,101 @@
 - **In my culture, men take great pride in doing physical labor.** — 在我的家乡  男人以干体力活为荣
 - **I know. That's why I hire people from your culture.** — 我知道  所以我才雇你们那儿的人给我干活
 - **You're too funny.** — 你真搞笑呀
+
+---
+
+## 时态 · be going to / be supposed to
+
+这一集口头计划很多，用的是 **be going to**（口语里常收成 **gonna**）：已经打算好、即将发生。另一套是 **be supposed to + 动词原形**：按角色、约定，某人该做某事。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **be going to** 即将 | *Cam, come on. Hurry up. We're gonna be late.* — 快点，我们要迟到了。 | *We're gonna be late for dinner.* — 晚饭我们要迟到了。 |
+| **be going to** 计划 | *So we're gonna go to the wine country.* — 所以我们要去酒乡。 | *We're gonna eat out tonight.* — 我们今晚出去吃。 |
+| **be supposed to** 该做 | *No! You're supposed to do it with him.* — 不行，你该跟他一起做。 | *You're supposed to do this with me.* — 你该跟我一起做。 |
+| **be going to** 否定 | *I don't wanna be the late ones too.* — 我不想再当迟到的那对。 | *I don't wanna be the last one there.* — 我不想最后一个到。 |
+
+跟读时把重音放在「已经定了」：
+
+- **We're gonna be late.** — 我们要迟到了。
+- **You're supposed to do it with him.** — 你该跟他一起做。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **what** 特殊疑问 | *What's the key to being a great dad?* — 当一个好爸爸的关键是什么？ | *What's the key to a calm morning?* — 一个不慌的早晨，关键是什么？ |
+| **回声** 把答案扔回去 | *That's your answer?* — 这就是你的答案？ | *That's the plan?* — 这就是计划？ |
+| **where** | *Desiree just moved in down the block. — Fun. Where?* — 她刚搬到这条街。——有意思。哪一户？ | *They just moved in. Where?* — 他们刚搬来。住哪儿？ |
+| **Can you please** 请求 | *Can you please just change your shirt?* — 你能不能把上衣换了？ | *Can you please just sit down?* — 你能不能先坐下？ |
+| **What about** 那件事呢 | *No! What about the fan in Manny's room?* — 不行！曼尼房间的风扇呢？ | *What about the dishes?* — 碗呢？ |
+| **right?** 句尾求认同 | *Classic me, right?* — 我的老样子，对吧？ | *Classic me, right?* — 又是我的老样子，对吧？ |
+| **all right?** 确认听进去了 | *Today is about Lily, all right?* — 今天以莉莉为主，听见了吗？ | *Today we leave on time, all right?* — 今天我们准时出门，听见了吗？ |
+| **Was there** 一般疑问 | *Was there something wrong with the fishnet tank top?* — 那件网眼背心有什么问题吗？ | *Was there something wrong with the blue shirt?* — 那件蓝衬衫有什么问题吗？ |
+
+## 特色 · 百分数收束，和这一集想说的话
+
+片头用一个大问题开场，片尾用一个百分数收束。中间夹着一堆命令句：别迟到、换衬衫、别丢人。
+
+### 主题句 · the key to
+
+**What's the key to being a great dad?** — 当一个好爸爸的关键是什么？
+
+- 结构：**What's the key to + 名词 / -ing**。问的是一件事里最要紧的那一把钥匙。
+- 片头每个人都给口号：自由成长、耐心、当哥们儿、别碰毒品。菲尔说自己还在想。
+- 片尾他把同一个问题再说一遍，答案换成了到场。
+
+可替换：
+
+- **What's the key to a good morning?** — 一个好早晨，关键是什么？
+- **What's the key to staying calm?** — 保持冷静，关键是什么？
+
+### 特色句 · 90% of being a dad
+
+**Because when all is said and done, 90% of being a dad is just showin' up.** — 因为当一切说完做完，当爸爸这件事，九成就是人到场。
+
+- **when all is said and done** — 话说完、事做完之后，用来收一个结论。
+- **90% of being a dad** — of being 后面是身份。九成的「当爸爸」这件事。
+- **showin' up** — showing 的口语省略 g。人出现在该在的地方。
+- 假偷车的教训中途失控，车真的丢了。百分数说的是：计划可以砸，人还得在。
+
+可替换：
+
+- **When all is said and done, I just need to show up.** — 说到底，我只要到场。
+- **Half of this job is just showing up.** — 这工作有一半就是人到。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Cam, come on. Hurry up.** | 卡姆，快点。 | 称呼 + 动词 |
+| **And don't do drugs.** | 还有，别碰毒品。 | Don't + 动词；片头口号，不是忠告全貌 |
+| **Don't make us look like jerks here.** | 别让我们在这儿出洋相。 | Don't make + 人 + 动词 |
+| **So let's do this.** | 那就开始吧。 | Let's + 动词 |
+
+### 本集人生感悟
+
+1. **大问题可以问一整集，答案往往是一句很小的话。** 片头问 *What's the key to being a great dad?* 自由、耐心、当朋友都说过了。片尾落到 *90% of being a dad is just showin' up.*
+   **Showing up is the part you can actually do today.** — 到场，是你今天真能做到的那一部分。
+
+2. **该做的事，和当场做的事，经常不是同一件。** *You're supposed to do it with him.* 杰本该和曼尼一起装风扇。约定写在 supposed to 里，人还在客厅。
+   **Supposed to is the plan. Showing up is the afternoon.** — supposed to 是计划，到场才是这个下午。
+
+#### 夫妻
+
+**一场荒唐可以在同一个厨房里收场。** 菲尔把「假偷车」做成了真丢车，克莱尔拆穿之后，两个人还是抱在一起。*Classic me, right?* 是他先承认这又是自己的老样子。
+**A messy plan can still end in the same kitchen.** — 一个一团糟的计划，仍然可以在同一个厨房里结束。
+**Classic me, right?** — 我的老样子，对吧？
+
+#### 亲子相处
+
+1. **教训如果靠演戏，孩子先学会的是慌。** 卢克没锁车，菲尔决定假扮小偷。车后来真的被人骑走。片尾那句百分数把秘诀从口号改成到场。
+   **90% of being a dad is just showin' up.** — 当爸爸，九成就是人到场。
+
+2. **孩子要的是一起做，不单是有人来修。** 歌洛莉亚拦住杰去打球：*You're supposed to do it with him.* 风扇是借口，一起动手才是那句话的份量。
+   **You're supposed to do it with him.** — 你该跟他一起做。
 
 ---
 

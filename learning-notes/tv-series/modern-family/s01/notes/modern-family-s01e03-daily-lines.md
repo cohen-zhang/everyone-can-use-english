@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *look like a girl for one afternoon*、*I like you*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -159,6 +161,98 @@
 - **Jay and I are total buds.** — 我跟杰那可是铁哥们儿
 - **You-You want to just hang out?** — 你只是想找个伴出去玩玩吗
 - **Brought six friends, so that just** — 我带上了6个好哥们儿[啤酒]  所以
+
+---
+
+## 时态 · be going to / would
+
+这一集有两套「当时」：**be going to** 的过去式 **was / were going to**，表示当时打算、后来没做成；**would + 动词原形** 表示过去反复出现的动作。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **was going to** 当时打算 | *I was gonna get it.* — 我本来正要去拿。 | *I was gonna call you.* — 我本来正要打给你。 |
+| **were going to** 你不是说要 | *I thought you were gonna take out the garbage.* — 我以为你要去倒垃圾。 | *I thought you were gonna text me.* — 我以为你会发消息。 |
+| **would** 过去总是 | *He kept rolling his eyes every time I would get a little boisterous.* — 我每回一热闹，他就翻白眼。 | *Every time I would speak up, the room went quiet.* — 我每回一开口，房间就静下来。 |
+| **be going to** 即将 | *We're just gonna buy some diapers.* — 我们就去买包尿布。 | *We're just gonna be a minute.* — 我们就一会儿。 |
+
+跟读：
+
+- **I was gonna get it.** — 我本来正要去拿。
+- **I thought you were gonna take out the garbage.** — 我以为你要去倒垃圾。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Did** 一般疑问 | *Did you ring the bell?* — 你按门铃了吗？ | *Did you get my text?* — 你看到我的消息了吗？ |
+| **How are** 近况 | *How are you and Haley doing?* — 你和海莉怎么样？ | *How are you two doing?* — 你们俩怎么样？ |
+| **Why** 单独成句 | *Today you have to spend time with Luke. — Why?* — 你今天得陪卢克。——为什么？ | *We need to talk. — Why?* — 我们得谈谈。——为什么？ |
+| **if 从句里的请求** | *Hey, if you're on your way out, can you grab the garbage?* — 你要是出门，能把垃圾顺手带上吗？ | *If you're heading out, can you lock the door?* — 你要是出去，能锁一下门吗？ |
+| **What are you doing** | *Wait, wait, wait. What are you doing?* — 等等，你在干什么？ | *What are you doing with that?* — 你拿那个干什么？ |
+| **反问** | *What? It's gonna kill you to look like a girl for one afternoon?* — 怎么，打扮成女孩一下午会要了你的命吗？ | *It's gonna kill you to wear a tie for one dinner?* — 打一条领带吃顿饭会要了你的命吗？ |
+| **How would** 虚拟 | *How would they get the gloves on those little claws?* — 那双小爪子怎么戴手套？ | *How would that even fit?* — 那怎么塞得进去？ |
+
+*if you're on your way out* 先给条件，*can you* 才是请求。两句接在一起，比单独的命令轻。
+
+## 特色 · 把喜欢说出来，和这一集想说的话
+
+航模、裙子、好市多，三条线都在躲一句简单的话。杰到客厅里才把它说完。
+
+### 主题句 · gonna kill you to
+
+**It's gonna kill you to look like a girl for one afternoon?** — 打扮成女孩一下午，会要了你的命吗？
+
+- 结构：**It's gonna kill someone to + 动词**。口语里把一件小事说成要命，用来反问对方在躲什么。
+- 克莱尔要艾丽克斯为婚礼穿裙子。句子把「穿一下午」说成生死。后来她松口，艾丽克斯自己把裙子买回来了。
+
+可替换：
+
+- **It's not gonna kill you to try it once.** — 试一次不会要了你的命。
+- **Is it gonna kill you to ask?** — 开口问一句会要了你的命吗？
+
+### 特色句 · I just want to say that
+
+**I just want to say that I like you.** — 我就是想说，我喜欢你。
+
+- 结构：**I just want to say that + 完整句子**。just 把这句话压小，that 后面才是真内容。
+- 航模撞了菲尔的脸之后，杰在客厅里把这句说出来。前面一整集的铁哥们玩笑，都比这句费劲。
+- 片尾众人喊 *Say it.* 杰才对卡姆说 *I like you too, Cam.* 同一句喜欢，被要求再说一次。
+
+可替换：
+
+- **I just want to say that I was wrong.** — 我就是想说，是我错了。
+- **I just want to say that I'm glad you came.** — 我就是想说，你来了我很高兴。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Come on. I don't bite.** | 来吧，我不咬人。 | Come on + 下一句把紧张松开 |
+| **Don't touch it.** | 别碰。 | Don't + 动词 |
+| **Alex, why don't you come shopping with me?** | 艾丽克斯，跟我去逛街吧？ | Why don't you 是建议，样子像问句 |
+
+### 本集人生感悟
+
+1. **躲了一整集的那句话，往往只有六个词。** 杰用航模、用「铁哥们」绕着菲尔走。最后是 *I just want to say that I like you.*
+   **The short sentence is the one that was hard.** — 难的是那句短的。
+
+2. **把一件小事说成要命，孩子会先听见压力。** *It's gonna kill you to look like a girl for one afternoon?* 裙子后来是艾丽克斯自己买的。
+   **A shouted rule can come back as the child's own choice.** — 喊出来的规矩，可能会以孩子自己的选择回来。
+
+#### 夫妻
+
+**喜欢说出口，房间的空气会变。** 克莱尔揭穿杰是故意用航模撞菲尔。杰否认，然后还是说了 *I like you.* 这句不是情话，是岳父终于把女婿放进「自己人」。
+**I just want to say that I like you.** — 我就是想说，我喜欢你。
+
+#### 亲子相处
+
+1. **被安排的下午，也可以变成真的相处。** *Today you have to spend time with Luke.* 曼尼被派去陪卢克。have to 是任务，下午仍然是两个人的时间。
+   **Today you have to spend time with Luke.** — 你今天得陪卢克。
+
+2. **松口之后，选择回到孩子手里。** 克莱尔同意艾丽克斯不穿裙子，艾丽克斯却把裙子买了回来。大人一停，孩子才听得见自己的想法。
+   **It's gonna kill you to look like a girl for one afternoon?** — 打扮成女孩一下午会要了你的命吗？
 
 ---
 

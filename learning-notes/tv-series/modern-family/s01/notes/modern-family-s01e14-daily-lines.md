@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · would / why'd you**、**问句**，以及 **特色**（主题句 *a school made out of bottles*、*Why'd you quit?*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -167,6 +169,95 @@
 - **I saw it, Barbara.** — 我看见了  芭芭拉
 - **It's a terrific gym, Jay.** — 健身房不错嘛  杰
 - **Very liberal with the towels. I love that.** — 毛巾随便用  我喜欢
+
+---
+
+## 时态 · would / 省略 did 的问句
+
+回收瓶和旧同事，都在用 **would** 谈想象中的事。*Why'd you quit?* 里的 **'d** 是 did：你为什么辞了。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **would** 会是 | *That would certainly be a special school.* — 那确实会是一所特别的学校。 | *That would be a long day.* — 那会是很长的一天。 |
+| **Wouldn't that** 反问式感叹 | *Wouldn't that be so cool to go to a school made out of bottles?* — 去一所用瓶子建成的学校，难道不酷吗？ | *Wouldn't that be easier?* — 那样难道不更省事吗？ |
+| **Why'd you** 你为什么做了 | *Why'd you quit?* — 你为什么辞了？ | *Why'd you leave early?* — 你为什么早走？ |
+| **If we** 条件 | *If we collect enough bottles, they build a school in Africa.* — 如果我们收集够瓶子，他们就在非洲建一所学校。 | *If we leave now, we make it.* — 如果我们现在走，就赶得上。 |
+
+跟读：
+
+- **Wouldn't that be so cool?** — 那难道不酷吗？
+- **Why'd you quit?** — 你为什么辞了？
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What are you doing with** | *What are you doing with those?* — 你拿那些干什么？ | *What are you doing with the boxes?* — 你拿这些箱子干什么？ |
+| **Wouldn't that be** | *Wouldn't that be so cool?* — 那难道不酷吗？ | *Wouldn't that be nice?* — 那难道不好吗？ |
+| **Did you hear** | *Did you hear what I said, parents?* — 爸妈，你们听见我说的了吗？ | *Did you hear the time?* — 你听见时间了吗？ |
+| **回声** | *"Special school"?* — 「特别的学校」？ | *"Later"?* — 「以后再说」？ |
+| **Are you okay** | *Are you okay, honey?* — 亲爱的，你没事吧？ | *Are you okay?* — 你没事吧？ |
+| **Where are you going** | *Where are you going?* — 你去哪儿？ | *Where are you going with that?* — 你拿着那个去哪儿？ |
+| **You worked?** 升调 | *You worked?* — 你工作过？ | *You knew?* — 你早就知道？ |
+| **Why'd you** | *Well, then, why'd you quit?* — 那你为什么辞了？ | *Then why'd you call?* — 那你为什么打来？ |
+
+## 特色 · made out of，和这一集想说的话
+
+卢克要把瓶子变成一所学校。克莱尔遇见旧同事，才看见自己辞掉的那份工作长成了什么样。
+
+### 主题句 · made out of
+
+**Wouldn't that be so cool to go to a school made out of bottles?** — 去一所用瓶子建成的学校，难道不酷吗？
+
+- **made out of + 材料** — 用什么做成的。
+- **Wouldn't that be** — 否定疑问，期待对方说酷。克莱尔听见的是 *special school*，先笑了一下。
+
+可替换：
+
+- **It's made out of glass.** — 它是玻璃做的。
+- **Wouldn't that be worth a try?** — 那难道不值得一试吗？
+
+### 特色句 · Why'd you quit?
+
+**Why'd you quit?** — 你为什么辞了？
+
+- **Why'd** = Why did。过去的决定，用 did 问。
+- 旧同事瓦莱丽升到欧洲。克莱尔这才看清：别人看见的是她离开职场之后的家，她自己看见的是被怜悯。
+- 问句很短。短是因为它戳在一个已经做完的选择上。
+
+可替换：
+
+- **Why'd you change your mind?** — 你为什么改主意了？
+- **Why'd you wait so long?** — 你为什么等这么久？
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Stop talking about it!** | 别再说了！ | Stop + -ing |
+| **Don't talk. Listen.** | 别说。听。 | 两个动词，先停再听 |
+| **Let's go.** | 走吧。 | Let's + 动词 |
+| **Look. I know your mom pretty well.** | 听着。我挺了解你妈的。 | Look 先把人叫住 |
+
+### 本集人生感悟
+
+1. **一个旧决定，会被一句 Why'd you 重新打开。** 克莱尔以为瓦莱丽在嫉妒她的家。总监的职位亮出来之后，怜悯换了方向。
+   **Why'd you quit?** — 你为什么辞了？
+
+2. **孩子的「酷」和大人的「特别」，可以是同一所学校。** *a school made out of bottles* 对卢克是冒险，对克莱尔先是笑话。
+   **Wouldn't that be so cool?** — 那难道不酷吗？
+
+#### 夫妻
+
+**成交和拥抱可以隔着一辆车发生。** 菲尔在树上把房子卖了。克莱尔在车这边看见旧同事眼中的自己，又看见他。隔着车的拥抱，是这一集他们靠得最近的一下。
+**Are you okay, honey?** — 你没事吧？车祸后杰对歌洛莉亚也是这句。两对夫妻，同一句先确认人还在。
+
+#### 亲子相处
+
+**孩子要父母听见的是计划，不只是瓶子。** *Did you hear what I said, parents?* 卢克把回收说成一所学校。大人若只听见瓶子，就错过了那句 *Wouldn't that be so cool*。
+**Did you hear what I said, parents?** — 爸妈，你们听见我说的了吗？
 
 ---
 

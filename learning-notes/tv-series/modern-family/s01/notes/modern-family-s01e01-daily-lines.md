@@ -22,7 +22,7 @@
 - **emotional honesty** — 情感坦诚
 - **connection** — 家庭连接
 
-本页结构：**剧情分段** → **俚语表（仅本集）** → **难词表（词汇）**。重跑脚本：`notes/scripts/build-modern-family-s01-daily-lines.py --episode 1`（保留本 MANUAL 区块）。
+本页结构：**剧情分段** → **俚语表（仅本集）** → **难词表（词汇）** → **文末精读**（时态 / 问句 / 特色）。重跑脚本会保留 `MANUAL` 区块，含 `STUDY`。
 <!-- /MANUAL:HEAD -->
 
 ---
@@ -246,6 +246,110 @@
 | **Excalibur** | /ɛkˈskæləbər/ | 亚瑟王之剑（Luke 拔出栏杆后喊） | 低频 |
 | **wide awake** | /waɪd əˈweɪk/ | 完全醒着的 | 有难度 |
 <!-- /MANUAL:VOCAB -->
+
+<!-- MANUAL:STUDY -->
+
+文末三章是精读，不在上面的剧情分段和俚语表里：**时态 · don't want ... to / have to**、**问句**，以及 **特色**（主题句 *We're very different*、*follow through*、祈使句、本集想说的话）。
+
+## 时态 · don't want ... to / have to
+
+首集把担心说成 **don't want + 人 + to**。把说过的话做成今天的动作，用 **have to follow through**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **don't want ... to** | *I just don't want my kids to make the same bad mistakes I made.* — 我就是不想让孩子去犯我犯过的那些错。 | *I don't want us to leave this till Friday.* — 我不想把这事拖到周五。 |
+| **If ... never** | *If Haley never wakes up on a beach in Florida, half-naked, I've done my job.* — 只要海莉永远不要半裸着在佛罗里达的沙滩上醒来，我的活儿就算干完了。 | *If this never happens again, we're fine.* — 只要这事不再发生，我们就没事。 |
+| **have to** | *And now you have to follow through.* — 所以你现在得说到做到。 | *Now I have to follow through.* — 所以我现在得说到做到。 |
+| **现在进行** 正带回家 | *And we're bringing her home for the first time.* — 我们正第一次把她带回家。 | *We're bringing the cake home.* — 我们正把蛋糕带回家。 |
+
+跟读：
+
+- **I don't want them to.** — 我不想让他们那样。
+- **You have to follow through.** — 你得说到做到。
+
+*I've done my job* 和克莱尔接的 *Our job* 差一个词：这是两个人的事。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **where are you** | *Stop the car. — Oh, where are you going?* — 停车。——你去哪儿？ | *Where are you going with that?* — 你拿着那个去哪儿？ |
+| **Why are you** | *Why are you guys yelling at us when we're way upstairs?* — 我们在楼上老远，你们为什么还冲我们喊？ | *Why are you calling when I'm already here?* — 我已经到了，你为什么还打？ |
+| **do you have anything to say** | *Do you have anything to say to your daughter about her skirt?* — 关于你女儿的裙子，你有什么要说的吗？ | *Do you have anything to say about the plan?* — 关于这个计划，你有什么要说的吗？ |
+| **What's wrong with** | *What's wrong with it?* — 这有什么问题？ | *What's wrong with leaving at six?* — 六点走有什么问题？ |
+| **Who is** | *Who is a good girl? Who's that?* — 谁是乖宝宝？是谁呀？ | *Who is that at the door?* — 门口是谁？ |
+| **huh?** 句尾确认 | *And we're bringing her home for the first time, huh?* — 这是我们第一次把她带回家，对吧？ | *First day, huh?* — 第一天，是吧？ |
+| **You wanna** | *You wanna take him out? How about I take you out?* — 你想让他下场？那我让你下场怎么样？ | *You wanna start over?* — 你想重新开始吗？ |
+| **We were serious** | *We were serious about that?* — 我们当时是认真的？ | *We were serious about Friday?* — 我们周五是认真的？ |
+
+*You wanna take him out* 是双关：换下球员，也可以是「收拾你」。球场上的问句先听场合。
+
+## 特色 · follow through，和这一集想说的话
+
+三个家在第一集把自己介绍完。差异是主题句。说到做到是菲尔家的家法。把孩子带回家是另一对父母的第一句进行时。
+
+### 主题句 · very different
+
+**We're very different.** — 我们很不一样。
+
+- 歌洛莉亚用来介绍自己和杰：城市和村庄。
+- very 把 different 加重。首集后面所有的晚饭、裙子、球场，都是这句话的例子。
+
+可替换：
+
+- **We're very different in the morning.** — 我们早上很不一样。
+- **The two plans are very different.** — 两个计划差很远。
+
+### 特色句 · follow through
+
+**And now you have to follow through.** — 所以你现在得说到做到。
+
+- **have to + 动词** — 推卸不掉的下一步。
+- **follow through** — 把已经答应的事做完。前面的约定是：*The agreement was that if he shoots someone, you shoot him.* 这是家里用玩具枪玩的惩罚游戏，不是建议。语法点是：约定一旦成立，have to 就跟上。
+- 菲尔问 *We were serious about that?* 认真过的话，会在不方便的下午回来找你。
+
+可替换：
+
+- **I have to follow through this time.** — 这一次我得说到做到。
+- **We were serious about that.** — 我们当时是认真的。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Stop the car.** | 停车。 | Stop + 名词 |
+| **Kids, breakfast!** | 孩子们，吃早饭了！ | 称呼 + 名词，动词省了 |
+| **Come on!** | 快点！ | 一个词 |
+| **Find it.** | 找到它。 | 动词 + 宾语 |
+| **Vamos, Manny! Kick it!** | 曼尼，踢啊！ | 名字 + 动词 |
+| **Hear this.** | 听好了。 | 先把房间叫静 |
+
+### 本集人生感悟
+
+1. **不想让孩子重复自己，是爱，也是怕。** *I just don't want my kids to make the same bad mistakes I made.* 克莱尔先承认自己当年失控。底线被她说成一幅画面：不要在佛罗里达的沙滩上那样醒来。
+   **I don't want them to make the same mistakes.** — 我不想让他们犯同样的错。
+
+2. **不一样，仍然可以坐同一张桌子。** *We're very different.* 晚餐把三家人放到一起。领养的孩子被带进门：*we're bringing her home for the first time.*
+   **We're bringing her home for the first time.** — 我们正第一次把她带回家。
+
+#### 夫妻
+
+**一件家务可以是两个人的 job。** 克莱尔说 *I've done my job.* 菲尔接 *Our job.* 一个词把「我的底线」改成「我们的」。
+**I've done my job. — Our job.** — 我的活儿干完了。——我们的。
+**Do you have anything to say to your daughter about her skirt?** — 关于裙子，你有什么要说的吗？这是把另一半叫进同一场谈话。
+
+#### 亲子相处
+
+1. **裙子的第一句往往是 what's wrong with it。** *No. It's way too short.* way 把 too 再加重。孩子听见的是长度，父母听见的是怕。
+   **What's wrong with it?** — 这有什么问题？
+   **It's way too short.** — 这短得过头了。
+
+2. **带回家的那一句，用现在进行。** *Who is a good girl?* 是对婴儿说的玩话。*Love knows no race, creed* 是米奇尔对一桌人说的宣言。两句都在把一个新的人放进家里。
+   **Who is a good girl?** — 谁是乖宝宝？
+
+<!-- /MANUAL:STUDY -->
 
 ## 使用提示
 

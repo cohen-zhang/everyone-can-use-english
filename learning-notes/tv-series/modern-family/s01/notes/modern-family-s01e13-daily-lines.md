@@ -23,6 +23,8 @@ Jay 无意间得知家人可能对 Mitchell 性向“早有察觉”，于是想
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · used to / will**、**问句**，以及 **特色**（主题句 *Can people change?*、*15%*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -170,6 +172,93 @@ Jay 无意间得知家人可能对 Mitchell 性向“早有察觉”，于是想
 - **before he finally acknowledged it.** — 他才终于接受了这个事实
 - **I'm not sure if maybe he was hoping he heard it wrong,** — 我不确定他是不是希望他听错了
 - **like I had said, "Dad, I'm gray."** — 比如他希望我说的是  爸  我是"童心恋"
+
+---
+
+## 时态 · used to / will
+
+片头问人会不会变。**used to be** 把「以前的她」和现在分开。**will** 是菲尔把信念说到死的那天。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **will** 会一直 | *I will till the day I die.* — 我会一直相信到死的那天。 | *I will keep trying.* — 我会继续试。 |
+| **used to be** 以前是 | *She used to be very supportive of me.* — 她以前很支持我。 | *This used to be easy.* — 这以前很容易。 |
+| **can** 能够 | *People can change.* — 人是可以变的。 | *This can change.* — 这件事可以变。 |
+| **现在完成的反面** 你正在证明 | *You're proving the exact opposite of your point.* — 你正在证明和你的观点正好相反的事。 | *You're proving my point.* — 你正在证明我说得对。 |
+
+跟读：
+
+- **People can change.** — 人是可以变的。
+- **She used to be very supportive of me.** — 她以前很支持我。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Can** 一般疑问当主题 | *Can people change?* — 人会变吗？ | *Can this wait?* — 这事能等等吗？ |
+| **You do realize** 你意识到了吧 | *You do realize you're proving the exact opposite of your point?* — 你意识到自己在证明反面吧？ | *You do realize how late it is?* — 你意识到有多晚了吧？ |
+| **Why is it** | *Why is it so loud?* — 怎么这么响？ | *Why is it so cold?* — 怎么这么冷？ |
+| **right?** | *You know I can see you, right?* — 你知道我看得见你，对吧？ | *You know I'm here, right?* — 你知道我在，对吧？ |
+| **Where were you** 过去进行 | *Where were you pointing it?* — 你刚才指着哪儿？ | *Where were you sitting?* — 你刚才坐在哪儿？ |
+| **That's how** 复述别人的介绍 | *"A friend of my son"? That's how you introduce Cam?* — 「我儿子的一个朋友」？你就这么介绍卡姆？ | *That's how you introduce me?* — 你就这么介绍我？ |
+
+## 特色 · 15%，和这一集想说的话
+
+整集在问人能不能变。片尾用一个百分数把答案缩小到「有时够用」。
+
+### 主题句 · Can people change?
+
+**Can people change?** — 人会变吗？
+
+- 片头菲尔说 *yes*，克莱尔立刻用他本人当反例。
+- 片尾他又问一遍：*Can people change? I don't know.* 中间隔着遥控器、海莉和那 15%。
+
+可替换：
+
+- **Can we start over?** — 我们能重新开始吗？
+- **Can this get easier?** — 这事能变容易一点吗？
+
+### 特色句 · 15%
+
+**People are who they are— give or take, yeah, 15%.** — 人就是人。上下浮动，大概 15%。
+
+- **give or take** — 上下差一截，用来给数字留余地。
+- 海莉教会克莱尔用电视之后，克莱尔说：*Sometimes that's just enough.* 15% 有时就够。
+- 这是剧里的玩笑哲学，不是测量方法。
+
+可替换：
+
+- **Give or take ten minutes.** — 上下差十分钟。
+- **Sometimes that's just enough.** — 有时候这就够了。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Come on.** | 拜托。 | 一个词，催或求 |
+| **Make it stop!** | 让它停！ | Make + 宾语 + 动词 |
+| **Haley, sweetie, wake up.** | 海莉，醒醒。 | 称呼 + 动词 |
+
+### 本集人生感悟
+
+1. **变，可以小到学会一个按钮。** *Sometimes that's just enough.* 克莱尔认下自己不会用电视，让海莉教。15% 落在一个按下的键上。
+   **Sometimes that's just enough.** — 有时候这就够了。
+
+2. **介绍语会把一个人放进或推出家里。** 杰把卡姆说成 *a friend of my son*。米奇尔当面问：*That's how you introduce Cam?*
+   **The introduction is the room you give someone.** — 一句介绍，就是你给一个人的那间屋子。
+
+#### 夫妻
+
+**支持会变，嘲讽也会变。** 菲尔说 *She used to be very supportive of me.* 克莱尔用他来证明人不会变。片尾她把遥控器交出去，又把 15% 接住。
+**She used to be very supportive of me.** — 她以前很支持我。
+**Because we're married.** — 因为我们结婚了。她不要菲尔教，要海莉教。婚姻在这句里是理由，也是玩笑。
+
+#### 亲子相处
+
+**孩子可以当老师，父母可以当学生。** *I need you to teach me to use the TV.* 克莱尔把海莉叫醒。学会之后她说 15% 有时就够。
+**I need you to teach me.** — 我需要你教我。
 
 ---
 

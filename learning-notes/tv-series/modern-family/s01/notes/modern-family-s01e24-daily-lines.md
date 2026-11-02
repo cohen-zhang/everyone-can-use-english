@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · if / be not**、**问句**，以及 **特色**（主题句 *free country*、*Life is not perfect*、祈使句、本集想说的话）。
+
 ---
 
 ## 家事与居家
@@ -158,6 +160,97 @@
 - **What's wrong? - That broken step.** — 怎么了  -楼梯坏了
 - **It's gonna ruin our whole family portrait.** — 全家福会因此被毁的
 - **Okay, here's my idea. I'm really excited about it.** — 我是这样想的  我兴奋得不得了
+
+---
+
+## 时态 · if / would be
+
+季终把全家福拍在白裤子上。**if** 说出「要是你不执着于完美」。**Life is not** 用现在时把完美否定掉。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **when** 一到那种时候 | *That's when I get a little nuts.* — 一到那种时候，我就有点疯。 | *That's when I call you.* — 一到那种时候，我就打给你。 |
+| **right?** | *It's a free country, right?* — 这是个自由的国家，对吧？ | *We're still on for tonight, right?* — 今晚还算数，对吧？ |
+| **gonna stand out** | *You're gonna stand out like "Where's Waldo?"* — 你会像「沃尔多在哪儿」那样扎眼。 | *You're gonna stand out in that hat.* — 你戴那顶帽子会很扎眼。 |
+| **would be happier if** | *You would be a lot happier if you weren't so obsessed with everything being perfect.* — 你要是不那么执着于样样完美，会开心得多。 | *I would be happier if we left the dishes.* — 碗要是先放着，我会开心些。 |
+
+跟读：
+
+- **It's a free country, right?** — 这是个自由的国家，对吧？
+- **Life is not perfect.** — 生活并不完美。
+
+*Where's Waldo* 是在人群里找一个扎眼的人。艾丽克斯马上拆台：*Actually, "Where's Waldo?" doesn't stand out.* 比喻若站不住，家里会有人当场指出。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Why are you -ing** | *Why are you crunching?* — 你为什么在嘎吱嘎吱地嚼？ | *Why are you whispering?* — 你为什么在小声说？ |
+| **right?** | *It's a free country, right?* — 这是自由国家，对吧？ | *That's the plan, right?* — 这就是计划，对吧？ |
+| **Okay?** 确认时间 | *We only have the photographer for an hour. Okay?* — 摄影师只有一小时。好吗？ | *We leave in ten. Okay?* — 我们十分钟后走。好吗？ |
+| **what do they look like** | *What do they look like?* — 它们什么样？ | *What does it look like?* — 它什么样？ |
+| **Is there really** | *Is there really a more clear way to describe white pants?* — 白裤子还有更清楚的说法吗？ | *Is there really another option?* — 真的还有别的选择吗？ |
+| **Where's Waldo** 比喻里的问句 | *You're gonna stand out like "Where's Waldo?"* — 你会像找沃尔多那样扎眼。 | *Like "Where's the exit?"* — 像在问出口在哪。 |
+| **why don't you just** | *Why don't you just give it to me right now?* — 为什么不现在就给我？ | *Why don't you just say it?* — 为什么不现在就说？ |
+
+## 特色 · Life is not perfect，和这一集想说的话
+
+白裤子、台阶、亲吻镜头、泥。杰用一句现在时把完美从墙上拿下来。照片还是拍成了。
+
+### 主题句 · a free country
+
+**It's a free country, right?** — 这是个自由的国家，对吧？
+
+- 菲尔用这句为自己往球场偷带零食辩护。规则说不能带，right? 向听者要同意。
+- 自由在这一集里很小：一包零食、一条白裤子、一个想定格的下午。
+
+可替换：
+
+- **It's a free country, right?** — 这是自由国家，对吧？
+- **That's fair, right?** — 这算公平，对吧？
+
+### 特色句 · Life is not perfect
+
+**News flash. Life is not perfect, Claire.** — 新闻快讯。克莱尔，生活并不完美。
+
+- **News flash** — 假装在播报，用来把下一句说成人人都该知道的事。
+- **Life is not perfect** — is not 是否定现在。perfect 是克莱尔这一集追的那个词。
+- 前一句是条件：*You would be a lot happier if you weren't so obsessed with everything being perfect.* if 从句用 weren't，是现在的虚拟。
+- 泥巴大战之后，摄影师问还拍不拍。跳水一扑，把不完美拍进了相框。
+
+可替换：
+
+- **Life is not on time today.** — 今天的生活不准点。
+- **You would be happier if we sat down.** — 我们要是坐下，你会开心些。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Have a great time at the game.** | 看球玩得开心。 | Have a great time |
+| **Now calm the hell down.** | 现在给我冷静下来。 | calm down；hell 把语气加重，公开场合可只说 calm down |
+| **Why don't you just give it to me right now?** | 为什么不现在就给我？ | Why don't you just + 动词 |
+
+### 本集人生感悟
+
+1. **想定格的那一秒，往往是台阶还没修好的那一秒。** 克莱尔修台阶，越修越糟。全家福仍挂上了墙，她还是看见相框上的缺口。
+   **Life is not perfect.** — 生活并不完美。
+
+2. **比喻会被家里人当场改掉。** *Where's Waldo* 被艾丽克斯拆穿：沃尔多其实并不扎眼。家是一个会改你句子的地方。
+   **Actually, "Where's Waldo?" doesn't stand out.** — 其实「沃尔多在哪儿」并不扎眼。
+
+#### 夫妻
+
+**亲吻镜头是误会，泥是把误会浇灭的方式。** 歌洛莉亚以为 kiss cam 亲到了菲尔。杰不接电话。后来他把泥泼出去，全家打成一团。*Now two people are dirty.* 脏是这一集的和解。
+**News flash. Life is not perfect, Claire.** — 生活并不完美，克莱尔。
+**You would be a lot happier if you weren't so obsessed with everything being perfect.** — 你要是不那么执着完美，会开心得多。
+
+#### 亲子相处
+
+**白裤子是妈妈的画面，孩子听见的是「不要动」。** *try on the white pants* 是命令式的安排。海莉不懂为什么要定格。定格若只许完美，孩子会先僵住。泥让所有人一起脏，肖像才拍成。
+**We only have the photographer for an hour. Okay?** — 摄影师只有一小时。好吗？时间是真的。完美是另外加的。
 
 ---
 

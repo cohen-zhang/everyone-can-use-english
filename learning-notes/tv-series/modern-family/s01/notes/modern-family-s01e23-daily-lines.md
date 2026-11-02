@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 否定进行**、**问句**，以及 **特色**（主题句 *not a third time*、蜜月、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -183,6 +185,98 @@
 - **Is it because they're delicious? No.** — 是因为幼崽好吃吗  不是
 - **It's because they want to give their female** — 是因为它们想给雌性伴侣
 - **bear, giraffe, what have you-** — 比如熊啊  长颈鹿啊  随便什么
+
+---
+
+## 时态 · supposed to / be not doing
+
+蜜月没去成，用 **were supposed to**。同一张照片不拍第三次，用 **We're not doing it**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **be not doing** | *We're not doing it a third time.* — 我们不会拍第三次。 | *We're not doing this again.* — 我们不会再来一次。 |
+| **were supposed to** | *Claire and I were supposed to go to Hawaii for our honeymoon.* — 克莱尔和我本来该来夏威夷度蜜月。 | *We were supposed to leave at noon.* — 我们本来该中午走。 |
+| **Let's turn** | *Let's turn this vacation into a honeymoon.* — 我们把这次假期变成蜜月吧。 | *Let's turn this into a short walk.* — 我们把这变成一小段路吧。 |
+| **What was I supposed to** | *What was I supposed to do?* — 那我当时该怎么办？ | *What was I supposed to say?* — 那我当时该说什么？ |
+
+跟读：
+
+- **We're not doing it a third time.** — 第三次我们不拍了。
+- **We were supposed to go.** — 我们本来该去的。
+
+*this isn't a honeymoon* 是克莱尔把菲尔的计划命名回去：带孩子的假，不叫蜜月。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **What are you doing** | *What are you doing?* — 你在干什么？ | *What are you doing with the phone?* — 你拿手机干什么？ |
+| **What do you think** | *What do you think, Manny?* — 曼尼，你觉得呢？ | *What do you think?* — 你觉得呢？ |
+| **Don't you want to** | *Don't you want to keep our room neat?* — 你难道不想让房间整齐吗？ | *Don't you want to sit down?* — 你难道不想坐下吗？ |
+| **Who would we** | *Who would we entertain?* — 我们要招待谁？ | *Who would we call?* — 我们要打给谁？ |
+| **Are you watching** | *Are you watching Gloria in my sunglasses?* — 你是在用我的太阳镜看歌洛莉亚吗？ | *Are you watching the road?* — 你在看路吗？ |
+| **or** 是她还是我的脑子 | *Is she moving in slow motion, or is my brain doing that?* — 是她在慢动作，还是我的脑子在慢动作？ | *Is it the train, or is it me?* — 是车在动，还是我在动？ |
+| **Does anybody want to** | *Does anybody want to come?* — 有人想一起来吗？ | *Does anybody want coffee?* — 有人要咖啡吗？ |
+| **Please?** 请求收尾 | *And put on some sunscreen. Please?* — 涂点防晒。拜托？ | *Close the door. Please?* — 把门带上。拜托？ |
+
+## 特色 · supposed to，和这一集想说的话
+
+本来该有的蜜月，被一次全家旅行重新提起。supposed to 是欠下的那趟。现场的誓言是补上的那趟。
+
+### 主题句 · a third time
+
+**We're not doing it a third time.** — 第三次我们不拍了。
+
+- **be not doing + it** — 正在拒绝重复。a third time 把次数说死。
+- 卡姆要重拍莉莉的 aloha。狗挡住了脸。两次之后，有人把「再来一次」关掉。
+
+可替换：
+
+- **We're not doing a retake.** — 我们不重拍了。
+- **One more time.** — 再来一次。这是相反的那句。
+
+### 特色句 · were supposed to
+
+**Actually, Claire and I were supposed to go to Hawaii for our honeymoon.** — 其实，克莱尔和我本来该来夏威夷度蜜月。
+
+- **were supposed to + 动词** — 按当初的计划该发生，后来没有。
+- 菲尔想把这次假期扭成蜜月：*Let's turn this vacation into a honeymoon.*
+- 克莱尔的那句命名是：*Sweetie, this isn't a honeymoon.* 带娃的日子有另一个名字。片尾他仍拉着她走了一小段红毯。
+
+可替换：
+
+- **We were supposed to meet at six.** — 我们本来该六点见。
+- **Let's turn this into dinner.** — 我们把这变成晚饭吧。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Let's do it one more time.** | 我们再拍一次。 | Let's + one more time |
+| **We're not doing it a third time.** | 第三次不拍了。 | 否定进行，功能是停止 |
+| **Put on some sunscreen. Please?** | 涂防晒。拜托？ | 动词 + Please |
+| **Let's turn this vacation into a honeymoon.** | 把假期变成蜜月吧。 | Let's turn A into B |
+
+### 本集人生感悟
+
+1. **本来该有的那趟，可以在很多年后补一个很小的仪式。** *were supposed to go for our honeymoon* 是旧账。走一段红毯是补上的动作，不是把中间的年数删掉。
+   **We were supposed to go to Hawaii for our honeymoon.** — 我们本来该来夏威夷度蜜月。
+
+2. **再来一次，要有人负责喊停。** 照片、探险、划艇，都有人想加码。*We're not doing it a third time* 是界限。
+   **We're not doing it a third time.** — 第三次我们不拍了。
+
+#### 夫妻
+
+**带孩子的假，可以很甜，仍然不叫蜜月。** *Sweetie, this isn't a honeymoon.* 克莱尔把名字说清。菲尔把手机扔进泳池，是求偶，也是添乱。名字和动作可以各说各的，人还在同一间酒店。
+**Let's turn this vacation into a honeymoon.** — 我们把这次假期变成蜜月吧。
+**Sweetie, this isn't a honeymoon.** — 亲爱的，这不是蜜月。
+
+#### 亲子相处
+
+**放手去刨冰，和醉酒回来，是同一句许可的两头。** 克莱尔让海莉去隔壁。海莉喝多了吐了。克莱尔自责。许可需要一句回来的时间，也需要一句酒的界限。
+**Does anybody want to come?** — 有人想一起来吗？卡姆邀请大家去农场。孩子摇头。邀请被拒绝，仍然是一句完整的邀请。
 
 ---
 

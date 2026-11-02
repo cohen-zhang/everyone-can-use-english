@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · like / 比较**、**问句**，以及 **特色**（主题句 *Valentine's Day*、*Like an Olympic wrestler*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -163,6 +165,99 @@
 - **Did he trump me? D-Money.** — 他比我浪漫吗  迪迪仔
 - **You tell me. He made a painting out of a photograph one time.** — 你说呢  他把一张照片做成了一幅画
 - **I have hand-picked a card,** — 而我只是送一张贺卡
+
+---
+
+## 时态 · like 当介词
+
+情人节这集把夸奖收成 **like + 名词**：像什么。问句里用 **who's / is he / does he** 追一个没听过的名字。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **like** 像 | *Like an Olympic wrestler, but with money.* — 像奥运摔跤手，但是有钱的那种。 | *Like a long meeting, but with cake.* — 像一场很长的会，但是有蛋糕。 |
+| **who's** 是谁 | *And who's David Brenner?* — David Brenner 是谁？ | *Who's the new guy?* — 新来的是谁？ |
+| **Is he** | *Is he a magician?* — 他是魔术师吗？ | *Is he coming?* — 他来吗？ |
+| **gonna** 你要花多久 | *Did you indicate to her how long that you were gonna take?* — 你告诉她你要花多久了吗？ | *Did you say how long you were gonna be?* — 你说了你会去多久吗？ |
+
+跟读：
+
+- **Like an Olympic wrestler, but with money.** — 像摔跤手，但是有钱。
+- **Is he a magician?** — 他是魔术师吗？
+
+*but with money* 先给比喻，再用 but 补上真正想夸的那一点。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **陈述句 + 升调** | *So, Fratelli's tonight?* — 那今晚去 Fratelli's？ | *Dinner at seven?* — 七点吃饭？ |
+| **who's** | *And who's David Brenner?* — 那 David Brenner 是谁？ | *Who's driving?* — 谁开车？ |
+| **Is he** | *Is he a magician?* — 他是魔术师吗？ | *Is he serious?* — 他是认真的吗？ |
+| **'Cause** 追问原因 | *'Cause I love magicians.* — 因为我喜欢魔术师。 | *'Cause I already ate.* — 因为我已经吃过了。 |
+| **Does he have** | *Does he have a mallet?* — 他有木槌吗？ | *Does he have the keys?* — 钥匙在他那儿吗？ |
+| **how does he** | *So then how does he get hit in the head?* — 那他的头是怎么被打到的？ | *How does this open?* — 这东西怎么打开？ |
+| **Who the hell** | *Who the hell is Johnny Carson?* — Johnny Carson 到底是谁？ | *Who the hell called?* — 到底谁打的电话？ |
+| **how long ... gonna** | *How long that you were gonna take?* — 你要花多久？ | *How long are you gonna be?* — 你会去多久？ |
+
+歌洛莉亚按自己的逻辑追问喜剧演员：魔术师才用木槌打头。问句一步步把代沟演出来。
+
+## 特色 · like，和这一集想说的话
+
+情人节每个人都在比一份礼物、一个夜晚够不够。like 用来夸，也用来把对方听成另一个人。
+
+### 主题句 · Valentine's Day
+
+**Happy Valentine's Day.** — 情人节快乐。
+
+- 开场互道这句。杰订的是喜剧，歌洛莉亚想要的是莎莎。同一句祝福，后面的夜晚不是同一场。
+- 她后来说：*A comedian? It's Valentine's Day.* 节日的名字本身被当成理由。
+
+可替换：
+
+- **Happy Valentine's Day.** — 情人节快乐。
+- **It's a weeknight.** — 今天是工作日。用来把一个计划按回日历。
+
+### 特色句 · Like an Olympic wrestler
+
+**Jay, you look so strong and sexy. Like an Olympic wrestler, but with money.** — 杰，你看起来又壮又性感。像奥运摔跤手，但是有钱的那种。
+
+- **You look + 形容词** — 你看起来……。
+- **Like + 名词** — 把人比成一样东西。but with 再改这个比喻。
+- 这是夸，也是玩笑。杰听见的是壮。后面有人把他当成歌洛莉亚的父亲，比喻就翻了面。
+
+可替换：
+
+- **You look tired. Like a long flight, but with snacks.** — 你看起来累。像一趟长途飞行，但是有零食。
+- **She looks calm. Like a Sunday, but with email.** — 她看起来很静。像一个周日，但是有邮件。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Come on.** | 拜托。 | 催对方跟上自己的常识 |
+| **Let's go put this over my bed.** | 我们去把它挂到我床上方。 | Let's go + 动词 |
+| **Let's not talk like that anymore.** | 我们别再那样说话了。 | Let's not + 动词 |
+| **Let's go salsa dancing.** | 我们去跳莎莎。 | Let's go + -ing |
+
+### 本集人生感悟
+
+1. **同一天晚上，两个人可以要两种情人节。** 喜剧对莎莎。杰后来改去跳舞。*A comedian? It's Valentine's Day.* 把日子的名字说成期待。
+   **It's Valentine's Day.** — 今天是情人节。
+
+2. **夸一句，要让对方听得懂比喻。** *Like an Olympic wrestler, but with money.* 歌洛莉亚的夸法很具体。具体才好笑，也才甜。
+   **Like an Olympic wrestler, but with money.** — 像摔跤手，但是有钱。
+
+#### 夫妻
+
+**角色可以玩，人要认得出是谁。** 菲尔和克莱尔玩陌生男女。电梯门一开，同事和老师都在。玩笑停在认得出彼此的那一秒。
+**So, Fratelli's tonight?** — 今晚去那家？这是他们原来的计划，简单，也是一对夫妻的句子。
+
+#### 亲子相处
+
+**孩子的情人节可以比父母的更大。** 迪兰的巨幅画把菲尔比了下去。曼尼失恋，米奇尔带他去把人追回来，又发表「可耻」的演说。大人陪着孩子把一场小失恋走完。
+**And who's David Brenner?** — 那是谁？孩子和伴侣都会用这句，把一个没听过的名字交回来。
 
 ---
 

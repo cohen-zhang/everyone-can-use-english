@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · 祈使 leave / give**、**问句**，以及 **特色**（主题句 *leave him alone*、*a pair of wings*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -170,6 +172,95 @@
 - **but I really, really, really just want him to get a job...** — 但我真的真的真的想他快点再就业
 - **so I can go back to being a stay-at-home dad/trophy wife!** — 这样我又能做回居家奶爸兼贤妻了
 - **Guys, come on!** — 小子  加油
+
+---
+
+## 时态 · leave / give 祈使里的动词
+
+这一集的语法骨架就是命令：**leave him alone**，**give him wings**。问句用来决定要不要打那通电话。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **leave + 人 + alone** | *Jay, leave him alone.* — 杰，别烦他了。 | *Leave her alone for a minute.* — 让她一个人待一分钟。 |
+| **deceptively** 看起来不像 | *They are deceptively hard.* — 它们看着容易，其实难。 | *This is deceptively simple.* — 这看着简单，其实不简单。 |
+| **Should I** | *Should I call him?* — 我该打给他吗？ | *Should I send it?* — 我该发吗？ |
+| **you gonna** 升调 | *So, you gonna call him?* — 所以你会打给他吗？ | *You gonna eat?* — 你吃吗？ |
+
+跟读：
+
+- **Leave him alone.** — 别烦他。
+- **They are deceptively hard.** — 看着容易，其实难。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **How is ... -ing** | *How is spending a ton of money on greeting cards saving us a fortune?* — 在贺卡上花一大笔，怎么就给我们省了钱？ | *How is leaving early saving time?* — 早走怎么就省时间了？ |
+| **Who's** | *Who's he?* — 他是谁？ | *Who's calling?* — 谁打来的？ |
+| **You don't** 升调 | *Really? You don't ski.* — 真的？你不滑雪。 | *You don't eat meat.* — 你不吃肉。 |
+| **you gonna** | *You gonna call him?* — 你会打给他吗？ | *You gonna tell her?* — 你会告诉她吗？ |
+| **Should I** | *Should I call him?* — 我该打给他吗？ | *Should I wait?* — 我该等吗？ |
+| **Could you** 反话 | *Could you run any slower?* — 你还能再跑慢点吗？ | *Could you be any later?* — 你还能再晚点吗？ |
+
+*Could you run any slower?* 字面是请求，功能是讽刺。听到 any + 比较级，先看是不是在损人。
+
+## 特色 · a pair of wings，和这一集想说的话
+
+牛排、上篮、教练。杰想接手。菲尔的旁白把「给翅膀」说成执教哲学，又立刻用没有手眼协调把玩笑接上。
+
+### 主题句 · leave him alone
+
+**Ay, Jay, leave him alone.** — 杰，你让他安静一会儿。
+
+- **leave someone alone** — 别再管、别再改。
+- 牛排还在锅里。歌洛莉亚先于孩子说出这句。后面的球场上，这句会变成：别替他投那一球。
+
+可替换：
+
+- **Leave it alone.** — 别再动它了。
+- **Leave me alone for ten minutes.** — 让我独自待十分钟。
+
+### 特色句 · a pair of wings
+
+**But give him a pair of wings, he can fly.** — 可你要是给他一对翅膀，他就能飞。
+
+- **give someone something** — 双宾。wings 是比喻，不是礼物盒。
+- 上一句是反面教材：给孩子一只鸟，他就变成肩上停着鸟的怪人。菲尔马上又补：*Unless he has absolutely no hand-eye coordination.* 哲学在笑话里落地。
+- 绝杀传给整季没投过篮的曼尼。翅膀是那次传球。
+
+可替换：
+
+- **Give her a minute, she'll get it.** — 给她一分钟，她会明白。
+- **Give me a chance.** — 给我一次机会。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Leave him alone.** | 别烦他。 | leave + 人 + alone |
+| **Hang on.** | 等一下。 | 固定祈使 |
+| **Give him a pair of wings.** | 给他一对翅膀。 | Give + 人 + 物 |
+| **Okay, I support you.** | 好，我支持你。 | I support you 把命令收成站在旁边 |
+
+### 本集人生感悟
+
+1. **别烦他，有时是最好的教练指令。** 牛排、上篮、加油方式，都有人想插手。*Leave him alone* 把空间还回去。
+   **Leave him alone.** — 别烦他。
+
+2. **翅膀是一次传球，不是一句口号。** *give him a pair of wings* 后面菲尔把球交给曼尼。没进也可以是那次被传。
+   **Give him a pair of wings, he can fly.** — 给他一对翅膀，他就能飞。
+
+#### 夫妻
+
+**谁来当主教练，是这一集的夫妻题，也是翁婿题。** 杰把教练气走，自己上。菲尔当助理、拎水。后来杰道歉，还夸了牛排。*I support you* 是菲尔接过战术之前先听到的那种站位。
+**They are deceptively hard.** — 看着容易，其实难。上篮如此，让岳父当助理也如此。
+
+#### 亲子相处
+
+**请父母下一场别来，也是一种长大。** 曼尼嫌歌洛莉亚的加油让他被笑，请她别来。下一场他又邀请她。来与不来，可以由孩子改口。
+**Could you run any slower?** — 你还能再慢点吗？这句若对孩子说，就是损。教练用辱骂，家长用脱鞋。两种都让孩子先听见声音，再听见球。
 
 ---
 

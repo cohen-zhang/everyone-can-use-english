@@ -23,6 +23,8 @@ Jay 迎来重要的生日节点，却在“是否接受年龄变化”上表现�
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · Why don't you let**、**问句**，以及 **特色**（主题句 *let me do it*、生日的 iPad、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -211,6 +213,93 @@ Jay 迎来重要的生日节点，却在“是否接受年龄变化”上表现�
 - **It's kind of a kid's guide to chess.** — 儿童级国际象棋入门
 - **No, Jay. I'm good.** — 不了  杰  我好得很
 - **Nah, it's not all dry like that. They have fun with it.** — 下棋不无聊的  可以很有趣嘛
+
+---
+
+## 时态 · Why don't you let me
+
+生日早晨，菲尔想自己去排队。克莱尔用 **Why don't you let me** 把这件事接过去。let 是允许某人做。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Why don't you let me** | *Why don't you let me do it?* — 为什么不让我来？ | *Why don't you let me drive?* — 为什么不让我开？ |
+| **Are you sure** | *Are you sure there's not an "E-I" in the middle?* — 你确定中间没有 E-I 吗？ | *Are you sure there's not a fee?* — 你确定没有费用吗？ |
+| **was I** 倒装的感叹 | *So, was I bummed to get up at 5:00?* — 所以，我五点起来烦不烦？ | *Was I tired? Yes.* — 我累不累？累。 |
+| **Why** 单独 | *Then I'm out by 10:00. — Why?* — 那我十点前回来。——为什么？ | *I'll call you. — Why?* — 我会打给你。——为什么？ |
+
+跟读：
+
+- **Why don't you let me do it?** — 让我来吧。
+- **Are you sure?** — 你确定？
+
+*believe* 的拼写被问成 *E-I*。歌洛莉亚在帮曼尼拼这个词。问的是字母，也是「你信不信」。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **Really?** | *Really? His eye popped out.* — 真的？眼珠弹出来了？ | *Really? It sold?* — 真的？卖掉了？ |
+| **What is so great about** | *What is so great about that doohickey anyhow?* — 那个小玩意儿到底好在哪？ | *What is so great about leaving early?* — 早走到底好在哪？ |
+| **Why don't you let me** | *Why don't you let me do it?* — 为什么不让我来做？ | *Why don't you let me try?* — 为什么不让我试试？ |
+| **Are you sure there isn't** | *Are you sure there's not an "E-I" in the middle?* — 你确定中间没有 E-I？ | *Are you sure there's not another way?* — 你确定没有别的办法？ |
+| **It's not one of those** | *It's not one of those talking alarm clocks?* — 这不是那种会说话的闹钟吧？ | *It's not one of those surprise parties?* — 这不是那种惊喜派对吧？ |
+| **what say we** 咱们要不要 | *What say we take it for a spin?* — 咱们转一圈怎么样？ | *What say we stop here?* — 咱们到这儿怎么样？ |
+| **Was I** | *Was I bummed to get up at 5:00 and wait in line?* — 我五点起来排队，烦不烦？ | *Was I happy to see you? Yes.* — 见到你我高兴吗？高兴。 |
+
+## 特色 · let me，和这一集想说的话
+
+iPad、象棋、排队。让我来，是爱。替你办成，也是爱。没买到的那个早晨，两句撞在一起。
+
+### 主题句 · let me do it
+
+**Why don't you let me do it?** — 为什么不让我来？
+
+- **let me + 动词** — 允许我做。Why don't you 把允许说成建议。
+- 克莱尔接过凌晨排队。菲尔十点前可以回来。后面她没买到，又办了一场惊喜。
+
+可替换：
+
+- **Let me do the dishes.** — 碗我来洗。
+- **Why don't you let me call?** — 为什么不让我打？
+
+### 特色句 · Are you sure
+
+**Are you sure there's not an "E-I" in the middle?** — 你确定中间没有 E-I 吗？
+
+- **Are you sure (that) there's not...** — 你确定没有……吗？
+- believe 被拆成字母。拼写问句可以是亲子作业，也可以是「你真的相信吗」。
+
+可替换：
+
+- **Are you sure there's not a mistake?** — 你确定没有弄错？
+- **Are you sure?** — 你确定？
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Why don't you let me do it?** | 让我来吧。 | Why don't you let me + 动词 |
+| **What say we take it for a spin?** | 咱们转一圈吧。 | What say we + 动词 |
+
+### 本集人生感悟
+
+1. **替对方做的那份爱，要留一句没买到。** 克莱尔五点去排队，iPad 没有。她后来用派对补。*Why don't you let me do it?* 接下的是辛苦，也接下了可能失败。
+   **Why don't you let me do it?** — 让我来吧。
+
+2. **拼写可以是一份礼物。** 歌洛莉亚陪曼尼拼 believe。问 *E-I* 的人，是在这件事旁边坐着的人。
+   **Are you sure there's not an "E-I" in the middle?** — 你确定中间没有 E-I？
+
+#### 夫妻
+
+**惊喜可以建立在一次没买到上。** 菲尔发现派对，才知道早晨的队白排了，晚上是满的。低预期的旁白还在，蛋糕还是掉了。人仍在。
+**Was I bummed to get up at 5:00?** — 五点起来，我烦不烦？烦。他还是起来了。
+
+#### 亲子相处
+
+**孩子会用一个谎，去完成父母没完成的礼物。** 卢克谎报菲尔垂危，把 iPad 骗了出来。棋桌上曼尼也骗走了杰的手表。谎若用来爱，大人仍要把谎指出来。
+**What is so great about that doohickey anyhow?** — 那个小玩意儿到底好在哪？好在谁愿意为它排队。
 
 ---
 

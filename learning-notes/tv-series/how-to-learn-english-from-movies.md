@@ -12,7 +12,7 @@ aliases:
 # 看电影学英语 · 方法摘要
 
 **出处：** [《人人都能用英语》ch.8 §6](https://github.com/ZuodaoTech/everyone-can-use-english/blob/master/book/chapter8.md)  
-**索引：** [[learning-notes/tv-series/README|tv-series 索引]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
+**索引：** [[learning-notes/tv-series/README|tv-series 索引]] · [[learning-notes/tv-series/美剧学英语|美剧台词学英语]] · [[learning-notes/personal-english-book/README|个人英文材料书索引]]
 
 > 不是捷径；兴趣也没那么重要。真牛的是：**尽管没兴趣，但只要该学就能学会。**  
 > 怕麻烦的人啥都做不好——但三五部之后，多数片子能听懂八九成。

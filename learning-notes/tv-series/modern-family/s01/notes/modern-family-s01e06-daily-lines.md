@@ -23,6 +23,8 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
+文末三章是精读，不在上面的场景桶里：**时态 · used to / should**、**问句**，以及 **特色**（主题句 *He used to hold my finger*、*could use a win*、祈使句、本集想说的话）。
+
 ---
 
 ## 出行与旅行
@@ -179,6 +181,102 @@
 - **Undermining. - Now you're doing it to me too.** — 是打击  -你现在又打击我了
 - **but there's only two places anyone should wear a poncho** — 但人们只在两种情况下穿雨披
 - **Niagara Falls and log rides.** — 去尼亚加拉大瀑布和玩激流勇进
+
+---
+
+## 时态 · used to / should
+
+开学这天，长大用 **used to** 说：以前会，现在不再。该穿什么、该站在哪，用 **should + 动词原形**。
+
+| 时态 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **used to** 以前会 | *He used to hold my finger with his little hand.* — 他以前用小手握住我的手指。 | *She used to fall asleep in the car.* — 她以前在车上就睡着。 |
+| **should** 只该 | *There's only two places anyone should wear a poncho.* — 斗篷这种东西，人只该在两个地方穿。 | *There's only one place this should go.* — 这东西只该放在一个地方。 |
+| **be going to** 选择问句里 | *Am I driving him to school, or is he gonna ride his burro?* — 是我开车送他，还是他骑小毛驴去？ | *Are we walking, or are we gonna drive?* — 我们走路，还是开车？ |
+| **would** 虚拟 | *I think if it was her head, she would be...* — 我觉得要是撞到头，她会…… | *If it was urgent, I would call.* — 要是紧急，我会打。 |
+
+口语里 *there's only two places* 用了 there's 接复数。书面更常说 *there are only two places*。剧里就是这么说的。
+
+跟读：
+
+- **He used to hold my finger.** — 他以前握住我的手指。
+- **I wear them with the confidence.** — 我穿它们的时候带着把握。
+
+## 问句 · Questions in this episode
+
+只收这一集真的说出口的问法。疑问句的三类见 [[learning-notes/grammar-lab/english-language-taxonomy#31-按语气--功能四类|句子语气 · 疑问]]。
+
+| 类型 | 本集原句 | 可替换 |
+| --- | --- | --- |
+| **already** 怎么已经 | *Wow, first day of school and you're already behind?* — 才开学第一天，你就已经落下了？ | *It's Monday and you're already tired?* — 才星期一，你就已经累了？ |
+| **What are you wearing** | *Hold on. What are you wearing there?* — 等一下，你身上穿的是什么？ | *What are you wearing to dinner?* — 晚饭你穿什么？ |
+| **or** 二选一 | *Am I driving him to school, or is he gonna ride his burro?* — 我开车送，还是他骑毛驴？ | *Are we leaving now, or after lunch?* — 现在走，还是午饭后走？ |
+| **Why is** | *Why is our daughter dressed like Donna Summer?* — 我们女儿怎么打扮成唐娜·桑默？ | *Why is the room so loud?* — 房间怎么这么吵？ |
+| **How could I** 我怎么会忘 | *Cher! How could I forget Cher?* — 雪儿！我怎么把雪儿忘了？ | *How could I forget the keys?* — 我怎么把钥匙忘了？ |
+| **陈述句 + 升调** | *That's embarrassing?* — 这很丢人吗？ | *That's a problem?* — 这算问题吗？ |
+| **A little help** 请求 | *A little help here?* — 谁来搭把手？ | *A little help with the door?* — 门谁来搭把手？ |
+
+## 特色 · could use a win，和这一集想说的话
+
+斗篷、写真、赛跑，都是「谁需要今天赢一次」。克莱尔用 *could use* 把「他今天需要一场胜利」说得很轻。
+
+### 主题句 · used to hold
+
+**He used to hold my finger with his little hand and look at me with those big eyes.** — 他以前用小手握住我的手指，用那双大眼睛看着我。
+
+- **used to hold** — 过去的习惯，现在手已经大了。五年级开学的早晨，歌洛莉亚用这两个词量长大。
+- with his little hand / with those big eyes — 两个 with 把动作的样子补上。
+
+可替换：
+
+- **She used to wait by the door.** — 她以前会在门口等。
+- **He used to fit in this chair.** — 他以前坐得进这把椅子。
+
+### 特色句 · could use a win
+
+**But it just seemed like he could use a win today.** — 可我就是觉得，他今天需要赢一次。
+
+- **could use + 名词** — 口语里是「用得上、需要」，不是「能够使用」。*He could use a win* = 他需要一场胜利。
+- **it seemed like** — 看起来是这样。克莱尔把「我故意输掉」放在感觉里，不放在宣布里。
+- 同一段旁白还有：*We do strange things for the people we love.*
+
+可替换：
+
+- **You look like you could use a break.** — 你看起来需要歇一下。
+- **I could use a quiet hour.** — 我需要一小时安静。
+
+### 祈使句
+
+| 本集原句 | 简中 | 骨架 |
+| --- | --- | --- |
+| **Luke, Alex, come on. Let's go.** | 卢克，艾丽克斯，走了。 | 点名 + Let's go |
+| **Come on, Manny. Let's get going.** | 曼尼，动身了。 | Let's get going 比 let's go 多一层「出发」 |
+| **Don't forget, the driving instructor is picking you up.** | 别忘了，教练来接你。 | Don't forget + 完整句子 |
+| **Would you please stop.** | 你能不能停下。 | Would you please 把命令说成请求 |
+
+### 本集人生感悟
+
+1. **used to 是长大的那一下疼。** 歌洛莉亚送曼尼上五年级，先说的是 *He used to hold my finger.* 斗篷、排箫都是还想把那个小孩留住。
+   **Used to is how a parent measures a morning.** — used to 是父母量一个早晨的办法。
+
+2. **为爱的人做的事，可以很奇怪。** *We do strange things for the people we love. We lie to them, we lie for them.* 克莱尔说自己也许是为了让菲尔好过才输掉赛跑。
+   **We do strange things for the people we love.** — 我们会为爱的人做奇怪的事。
+
+#### 夫妻
+
+**今天让他赢一次，可以是照顾。** *Did I lose the race to make him feel better? Maybe.* 下一句才是理由：*he could use a win today.* 这是旁白里的坦白，不是比赛规则。
+**But it just seemed like he could use a win today.** — 可我就是觉得，他今天需要赢一次。
+
+杰觉得斗篷过火，歌洛莉亚要的是自信：*people admire them because I wear them with the confidence.* 两个人后来还是一起把斗篷送到学校。
+**I wear them with the confidence.** — 我穿它们的时候带着把握。
+
+#### 亲子相处
+
+1. **第一天上学，父母先慌的是自己的眼睛。** *Hold on. What are you wearing there?* 杰看见斗篷。歌洛莉亚的回答是穿给别人看之前，先自己站稳。
+   **What are you wearing there?** — 你身上穿的是什么？
+
+2. **新父母的慌，老父母听过。** 莉莉撞了头，米奇尔不肯信「没事」。克莱尔在电话里接住他：撞头这种事常有。到场的那个人可以是姐姐。
+   **Do you think she's all right?** — 你觉得她没事吗？
 
 ---
 
