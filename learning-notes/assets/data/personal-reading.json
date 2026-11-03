@@ -267,7 +267,7 @@
       "status": "want",
       "priority": "high",
       "added": "2026-10-08",
-      "note": "四年级上学周跟读。周一已于 2026-10-14 单独记入；本条仍待读周二至周日。课表见 00-timetable。",
+      "note": "四年级上学周跟读。周一、周二已单独记入；本条仍待读周三至周日。课表见 00-timetable。",
       "history": []
     },
     {
@@ -298,6 +298,54 @@
       "history": [
         {
           "date": "2026-10-26",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "song-my-way-frank-sinatra",
+      "title": "My Way — Frank Sinatra",
+      "url": "english-song/life-attitude/my-way-frank-sinatra/",
+      "category": "英文歌曲",
+      "status": "active",
+      "priority": "normal",
+      "added": "2026-11-01",
+      "note": "生活态度 · 人生总结；精研 / KTV / 发音。",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "song-my-love-westlife",
+      "title": "My Love (Radio Edit) — Westlife",
+      "url": "english-song/love-romance/my-love-westlife/",
+      "category": "英文歌曲",
+      "status": "active",
+      "priority": "normal",
+      "added": "2026-11-03",
+      "note": "恋爱 · 生活态度；精研 / KTV / 发音。",
+      "history": [
+        {
+          "date": "2026-11-03",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "week-with-celine-tuesday",
+      "title": "一周综合 · 周二",
+      "url": "parenting-english/daily-life/week-with-celine/02-Tuesday/",
+      "category": "亲子英语",
+      "status": "active",
+      "priority": "high",
+      "added": "2026-11-03",
+      "note": "自己走去学校；早读英语、在校阅读与延时放学。",
+      "history": [
+        {
+          "date": "2026-11-03",
           "result": "good"
         }
       ]
