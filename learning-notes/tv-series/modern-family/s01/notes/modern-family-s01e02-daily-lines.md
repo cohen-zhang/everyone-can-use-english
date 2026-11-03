@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · be going to / be supposed to**、**问句**，以及 **特色**（主题句 *the key to being a great dad*、*90% is just showin' up*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · be going to / be supposed to**、**问句**，以及 **特色**（主题句 *the key to being a great dad*、*90% is just showin' up*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -31,6 +31,7 @@
 
 - **It's a toddler play class, not a flight to Cabo.** — 只是亲子课而已  又不是要飞到卡波去
 - **Like fog at an airport.** — 就像机场起雾  飞机停飞
+- **Manny's father is taking him for a couple of days to Disneyland, so we're gonna go to the wine country.** — 曼尼的爸爸带他去迪士尼几天，所以我们去酒乡。
 
 ## 家事与居家
 
@@ -44,6 +45,8 @@
 - **My son has been riding his sister's old bike.** — 我儿子一直在骑他姐姐的旧车
 - **We're gonna be judged enough as the only gay parents there.** — 作为唯一的同性恋夫夫  我们已经赚够口水了
 - **No, but, see, a lot of these other kids,** — 不  你看  那么多小孩
+- **Until he's responsible enough to take care of his own bike.** — 等到他能照顾好自己的自行车再说。
+- **We'll add more black tape.** — 我们再贴一点黑胶带。
 
 ## 约会与恋爱
 
@@ -75,6 +78,8 @@
 - **Okay, we're gonna start with the Hello Dance,** — 好  我们以问候舞作为开场舞
 - **She's adorable. - Oh, thank you.** — 她真可爱  -谢谢夸奖
 - **Thank you.** — 谢谢大家
+- **This is my husband, Phil.** — 这是我丈夫，菲尔。
+- **We gotta go, but we'll see you around.** — 我们得走了，回头见。
 
 ## 请求与建议
 
@@ -83,90 +88,6 @@
 - **They're gonna love us. Let's just be ourselves.** — 他们会喜欢我们的  我们就表现真我就行了
 - **Would you mind?** — 能帮我吗
 
-## 其它实用表达
-
-- **What's the key to being a great dad?** — 成为伟大父亲的秘诀是什么
-- **Ah, that's a tough one.** — 有点难回答啊
-- **Giving them the freedom to be whatever they want to be.** — 让孩子们自由成长
-- **Right. Exactly. - Whether that's a painter,** — 对  没错  -不管是画家
-- **a poet, a pilot, a president** — 诗人  飞行员  总统[董事长]
-- **And for us, we're gonna** — 对于我们来说  那就
-- **of a company or of a country.** — 企业领头人  或是一国之君
-- **Patience.** — 耐心是关键
-- **Well, be their buddy.** — 很简单  做他们的好朋友
-- **No. - And don't do drugs.** — 不对  -还有别吸毒
-- **Just give me the answer. - 0h, God.** — 快告诉我正确答案嘛  -我的天呐
-- **Still thinking.** — 我再想想
-- **Hey. - Oh, okay.** — 嘿  -好吧
-- **Hi. Um, this is my husband, Phil.** — 嗨  这位是我老公  菲尔
-- **This is - Desiree.** — 这位是  -德希蕾
-- **Desiree just moved in down the block. - Fun. Where?** — 德希蕾刚搬过来  -赞啊  哪户
-- **314. - Oh!** — 314  -是嘛
-- **Very good. How did you** — 真厉害  你怎么
-- **Bet you're lovin' that steam shower.** — 你肯定很喜欢那个蒸气浴
-- **Phil, that's creepy.** — 菲尔  别吓到人家
-- **"What?" No, I'm a- I am a real estate agent.** — 什么!  不  我是个房产中介
-- **We caravanned that house. Great, uh, deck.** — 我们展览过那个房子  装饰很好
-- **No, who is coconuts enough to divorce you?** — 怎么会  谁傻到想要跟你离婚
-- **We gotta go, but we'll see you around.** — 我们该走了  再见了
-- **I'd love it. - All right.** — 我很愿意  -好啊
-- **Bye. - Bye.** — 拜拜  -拜拜
-- **She's awesome. - No, we are never having her over.** — 她真不错  -滚  我们不可能请她做客
-- **What? - Mm-hmm.** — 什么  -就是
-- **That's horrible.** — 品行不端啊
-- **Dad, watch out! - Whoa! Watch it, buddy!** — 爸爸  小心  -小心点呀  伙计
-- **That still looks like a girl's bike.** — 那车看起来还是像个女孩车
-- **We'll add more black tape.** — 我们再绑点黑胶带
-- **Until he's responsible enough to take care of his own bike.** — 他现在还没能力照料好一辆新车
-- **Look, he spilled a soda on my computer,** — 他把一瓶苏打水倒在我的电脑上
-- **he ruined our digital camera** — 他还把家里的数码相机弄坏了
-- **taking pictures of himself underwater.** — 就因为他要给自己拍水下相片
-- **It's a girl's bike. I'm all for teaching him a lesson.** — 那是辆女车  我也想给他些教训
-- **Come on. He looks like Little Bo Peep on that thing.** — 拜托  他骑女式车  像洋娃娃一样
-- **Actually, not for long. He's getting a new bike this afternoon.** — 不会再这样了  他下午就会有辆新车
-- **I am? - Mm-hmm.** — 真的吗  -没错
-- **He is?** — 是吗
-- **Sometimes a man's gotta put his foot down** — 有时候做男人就应该一往无前
-- **and do what a man's gotta do.** — 勇敢踏出自己的脚步
-- **And if the old lady don't like it** — 如果那个死老太婆不满意
-- **That's too damn bad.** — 让她自己气死算了
-- **Yes. Who's excited, huh?** — 没错  激不激动
-- **Cam, come on. Hurry up. We're gonna be late.** — 小卡  快点  要迟到了
-- **I don't wanna be the late ones too.** — 我不想再给人迟到的坏印象
-- **Wow! Paisley and pink.** — 天呐  又是旋花呢又是粉色
-- **Was there something wrong with the fishnet tank top?** — 网眼套头衫为什么不穿了
-- **Obviously not. I'm wearing it underneath.** — 穿啊  穿在里面了
-- **You wanna fit in and not terrify the villagers?** — 你是想既融入大家又不吓到他们吗
-- **Today is about Lily, all right?** — 今天莉莉才是主角  好不好
-- **Her future best friend might be in that class,** — 那个班上可能就有她以后最要好的朋友
-- **and I don't wanna rub anyone the wrong way.** — 我可不想一开始就惹谁不高兴
-- **Fine. You know what?** — 好吧  你猜怎么着
-- **I'll just go put on a pair of khakis,** — 我这就去换上一条卡其布裤子
-- **maybe a polo shirt, and everybody will think** — 高尔夫衬衫  让每个人都以为
-- **we're a couple straight golfin' buddies...** — 我们只是一对直男高尔夫球友
-- **who just decided to have a kid together.** — 碰巧决定一起养个娃
-- **got us upgraded to a villa with a hot tub.** — 把房间升级成带温泉浴缸的套房
-- **So pack whatever you wear in a hot tub.** — 所以准备点泡温泉的衣服吧
-- **I usually wear nothing when I'm in a hot tub.** — 我通常泡温泉都不穿衣服的
-- **And my college roommate's wife just had to get a new hip.** — 那我同事的老婆就得做个屁股整形了
-- **Sucker.** — 弱死了
-- **Manny's father is taking him for a couple of days to Disneyland,** — 曼尼的爸爸带他去迪斯尼玩了
-- **so we're gonna go to the wine country.** — 所以我们就脱身去葡萄酒园
-- **We're gonna drink some wine, eat some good food.** — 去喝点小酒  吃些美食
-- **You know, we would do something like this** — 原本我们可以经常组织此类小资活动
-- **a lot more often if it wasn't for, you know, Manny.** — 但是  因为曼尼  就少了很多
-- **He's good. He keep us grounded. - Yeah.** — 他很好  他让我们过着朴实的生活  -是啊
-- **Limo gets here at 4:00.** — 豪华轿车4点到
-- **This morning, I thought I'd go to the club, hit a few balls.** — 早上嘛  我想去俱乐部打会球
-- **No! What about the fan in Manny's room?** — 不行  曼尼房间的风扇怎么办
-- **0h, yeah. Call a guy.** — 那个  叫个人修吧
-- **No! You're supposed to do it with him.** — 不行  你该跟他一起修
-- **It's important that we teach him how to do things for himself.** — 我们得学着教他做些事情
-- **In my culture, men take great pride in doing physical labor.** — 在我的家乡  男人以干体力活为荣
-- **I know. That's why I hire people from your culture.** — 我知道  所以我才雇你们那儿的人给我干活
-- **You're too funny.** — 你真搞笑呀
-
----
 
 ## 时态 · be going to / be supposed to
 
@@ -238,6 +159,24 @@
 | **And don't do drugs.** | 还有，别碰毒品。 | Don't + 动词；片头口号，不是忠告全貌 |
 | **Don't make us look like jerks here.** | 别让我们在这儿出洋相。 | Don't make + 人 + 动词 |
 | **So let's do this.** | 那就开始吧。 | Let's + 动词 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。外形和出身那两句是剧里的挖苦，不是能照做的话。
+
+**克莱尔对新邻居的评价。** 菲尔觉得对方挺好，克莱尔当场否掉。
+**She's awesome. — No, we are never having her over.** — 她挺好的。——不，我们绝不请她来。
+
+**克莱尔对卢克那辆车的评价。** 她说的是车子的样子，不是卢克这个人。
+**That still looks like a girl's bike.** — 那辆车看起来还是像女孩的自行车。
+**He looks like Little Bo Peep on that thing.** — 他骑在那上面，像个牧羊女。这是外形玩笑。
+
+**米奇尔对卡姆衣服的评价。** 亲子课当天，他要的是别吓到别人。
+**Wow! Paisley and pink.** — 哇，佩斯利花纹，还是粉色。
+**You wanna fit in and not terrify the villagers?** — 你是想融入大家，又别把人吓到吧？
+
+**杰对歌洛莉亚那句话的回评。** 她说家乡的男人以干体力活为荣。杰的下一句是雇人，不是夸奖。这是挖苦。
+**In my culture, men take great pride in doing physical labor. — I know. That's why I hire people from your culture.** — 在我的文化里，男人以干体力活为荣。——我知道，所以我才雇你们那儿的人。
 
 ### 本集人生感悟
 

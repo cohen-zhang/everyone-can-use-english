@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · would / why'd you**、**问句**，以及 **特色**（主题句 *a school made out of bottles*、*Why'd you quit?*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · would / why'd you**、**问句**，以及 **特色**（主题句 *a school made out of bottles*、*Why'd you quit?*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -38,6 +38,7 @@
 
 - **who bangs his head every time he rides his bike out of his garage** — 每次把车骑出车库时都要撞到头
 - **lame trash talk to get me out of my** — 我一点没感觉
+- **I love the sauna. That's the dry heat.** — 我喜欢桑拿。那是干热。
 
 ## 亲子与学校
 
@@ -58,6 +59,7 @@
 - **I need to date someone who has a clue,** — 我得找个聪明灵活点的男朋友
 - **I'm sorry, honey.** — 真为你难过  宝贝
 - **So I married your dad.** — 所以我嫁给了你老爸
+- **I'm going to meet my friend Valerie.** — 我去见我的朋友瓦莱丽。
 
 ## 情绪与道歉
 
@@ -76,6 +78,7 @@
 - **Thank you.** — 谢谢
 - **Thanks. Hey. -Yeah.** — 谢了  那个  -什么
 - **Thank you. Well, and you too.** — 谢谢  你也是
+- **I'll handle it. I'm not losing this sale.** — 我来处理。这单我不能丢。
 
 ## 请求与建议
 
@@ -87,90 +90,6 @@
 - **I mean, your life is -No, no, no-Let's talk about you.** — 你的人生真是  -别别  接着说你
 - **Uh, just a minute, Mom. I need to tie my shoe. -Okay.** — 稍等  老妈  我鞋带散了  -好的
 
-## 其它实用表达
-
-- **Those pancakes smell great.** — 嗯  薄饼闻起来不错哟
-- **What are you doing with those?** — 你穿那些是要上哪儿啊
-- **If we collect enough bottles** — 如果能收到够多的瓶子
-- **Wouldn't that be so cool** — 要是能读一所
-- **Okay, nobody make a big deal about it,** — 好吧  大家先别太大反应
-- **but I just broke up with Dylan.** — 我和迪兰分了
-- **Yeah, I'm fine. I just** — 嗯  没事  我只是
-- **instead of an idiot** — 而迪兰就是个傻瓜
-- **Every time!** — 每次都是
-- **Mmm. I gotta jump in the shower. I'm gonna be late.** — 嗯  我得去洗澡了  要迟了
-- **Where are you going?** — 要去哪儿啊
-- **I'm going to meet my friend Valerie.** — 去见我的好朋友  瓦莱丽
-- **I haven't seen her in 15 years.** — 我们15年没见了
-- **We used to work together.** — 我们之前是同事来着
-- **You worked? -Mm-hmm.** — 你上过班?  -嗯哼
-- **Can't imagine you working.** — 想不出来你上班是什么样子
-- **Luke, let me tell you something.** — 卢克  我跟你说
-- **That is very offensive to women.** — 这样对女性说话很不礼貌
-- **Your mom works very hard.** — 你老妈工作时很卖力
-- **It's just now she works for us.** — 只是她现在选择照顾我们
-- **I will have you know that I had quite the little career going.** — 跟你们说  当年我可是前途大好
-- **I had a little cubicle,** — 我有自己的小单间
-- **and-and I wore my tennis shoes to work...** — 我先穿运动鞋去上班
-- **and changed into my work pumps.** — 然后换成工作装
-- **It was very Working Girl.** — 跟电影《上班女郎》一样
-- **That movie's so clutch  - Mm-hmm.** — 那部电影真赞  -嗯哼
-- **I don't mind saying I was making quite a splash.** — 可以说  我当年那叫一个宏图大展啊
-- **Well, then, why'd you quit?** — 那你为什么不干了呢
-- **Well, Haley, call me old-fashioned,** — 海莉  你可以说我守旧
-- **but I wanted to focus on raising a family.** — 但我想全心顾家
-- **Five months later, we... were...** — 过了五个月以后  我们就  就
-- **four months away from having this little bundle of joy.** — 又过了四个月  有了这个小美人
-- **Mm-hmm.** — 嗯嗯
-- **There's my lawyer.** — 我家大律师驾到
-- **so my dad asked me to help her out.** — 我爸让我帮她处理下
-- **And, uh, this is the first** — 这是第一次
-- **time that my dad's asked me for legal advice,** — 我爸向我请求法律援助
-- **and it's-it's nice.** — 感觉很不错
-- **It's nice to know that he respects me in that way.** — 那让我觉得他还是很尊重我的工作的
-- **Well, Mitchell is an amazing lawyer.** — 米奇尔是个超棒的律师
-- **My dream for him is that one day he'll be on the Supreme Court.** — 我梦想他能进最高法院
-- **Why, Cam?** — 为啥  小卡
-- **So at parties** — 那样参加派对时
-- **I can tell everyone my partner is one of the Supremes.** — 我就可以向大家卖弄我男友"法力高强"
-- **There he is-the steely, grizzled veteran...** — 瞧瞧  精壮如钢铁的灰发老朽
-- **ready to do battle with the plucky upstart.** — 要和勇猛小胖星大干一场
-- **Speed versus grace.** — 速度对战优雅
-- **Jay and I are both gym rats.** — 杰和我都喜欢健身
-- **I love the sauna. That's the dry heat.** — 我爱桑拿那种干热的感觉
-- **And the steam, wet.** — 还有湿热的蒸汽
-- **And, of course, I am just a kook for racquetball.** — 我也超迷手球式墙球的
-- **Club champ two years in a row,** — 连续两年拿俱乐部冠军
-- **Tonganoxie, Missouri Rec Center.** — 在密苏里州通加诺克西的健康中心
-- **So, naturally, Jay and I have been trying for months...** — 所以杰和我这几个月都在计划
-- **to get together to bang the old hollow rubber ball around.** — 一起去打一场球赛
-- **I have been avoiding this day like the plague.** — 我真是竭尽全力在躲那场比赛
-- **I mean, part of going to the gym is the lockerroom atmosphere.** — 去健身  一方面是冲着那种气氛
-- **And if I'm there with a gay guy,** — 但如果身边有一个基佬
-- **it's-it's just not gonna be the same.** — 气氛就完全毁了
-- **I mean, for me, it's a locker room.** — 对我来说  更衣室就是更衣室
-- **For him, it's a showroom.** — 但对他  就是脱衣舞厅
-- **She doesn't get it.** — 她不懂的
-- ***I'll let you see my scar*** — *给你看我的伤疤*
-- **What the hell?** — 搞毛啊
-- **Some people call me a salesman.** — 有人说我是销售员
-- **I call myself a sales friend.** — 我觉得自己是"销售之友"
-- **So obviously, I need strangers to trust me.** — 显然  我需要陌生人能够信任我
-- **I don't take kindly to it** — 因此我觉得很不爽
-- **when someone Tom Sellecks my bus bench.** — 因为有人给我画上汤姆·希莱克斯那样的胡子
-- **Phil Dunphy.** — 我是菲尔·邓菲
-- **Phil, it's Barbara.** — 菲尔  我是芭芭拉
-- **The Pattersons wanna back out of the deal.** — 帕特森一家不想买了
-- **Why? What happened?** — 为什么  出什么事了
-- **The wife's getting cold feet.** — 他家老婆犹豫了
-- **I'll handle it. I'm not losing this sale.** — 我来处理吧  我绝不能丢掉这一单
-- **By the way  -I've spent way too much time on it.** — 另外  -我可是花了大量心血啊
-- **Phil, do you take Elm when you come to work?** — 菲尔  你上班经过榆树街吗
-- **I saw it, Barbara.** — 我看见了  芭芭拉
-- **It's a terrific gym, Jay.** — 健身房不错嘛  杰
-- **Very liberal with the towels. I love that.** — 毛巾随便用  我喜欢
-
----
 
 ## 时态 · would / 省略 did 的问句
 
@@ -240,6 +159,20 @@
 | **Don't talk. Listen.** | 别说。听。 | 两个动词，先停再听 |
 | **Let's go.** | 走吧。 | Let's + 动词 |
 | **Look. I know your mom pretty well.** | 听着。我挺了解你妈的。 | Look 先把人叫住 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。最高法院那句后面的文字游戏是玩笑。
+
+**克莱尔对自己离开工作的评价。** 她先说当年已经做出样子，再说选择是顾家。
+**I will have you know that I had quite the little career going.** — 告诉你们，我当年的事业已经起来了。
+**but I wanted to focus on raising a family.** — 但我想把重心放在带孩子上。
+
+**杰对米奇尔职业的评价。** 他的梦想是儿子进最高法院。卡姆把 Supremes 听成组合名，是玩笑。
+**My dream for him is that one day he'll be on the Supreme Court.** — 我对他的梦想是，有一天他能进最高法院。
+
+**米奇尔对更衣室的评价。** 杰要的是更衣室气氛。米奇尔说，对他来说那只是更衣室。
+**I mean, for me, it's a locker room.** — 对我来说，那就是更衣室。
 
 ### 本集人生感悟
 

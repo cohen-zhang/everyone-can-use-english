@@ -214,7 +214,7 @@ This is my little brother, George.
 | **doctor** | /ˈdɑktər/ | 医生 | *Has the doctor been?* | *The doctor will come.* — 医生会来。 | 亲子 |
 | **tongue** | /tʌŋ/ | 舌头 | *Stick your tongue out* | *Show me your tongue.* — 让我看看你的舌头。 | 亲子、本季已见 |
 | **serious** | /ˈsɪriəs/ | 严重的 | *not anything serious* | *It is not serious.* — 不严重。 | 亲子 |
-| **medicine** | /ˈmɛdəsən/ | 药 | *a little medicine* | *Take your medicine.* — 把药吃了。 | 亲子 |
+| **medicine** | /ˈmɛdəsən/ | 药。眼药水是 **eye drops** | *a little medicine* | *Take your medicine.* — 把药吃了。 *Time for your eye drops.* — 该滴眼药水了。 | 亲子 |
 | **taste** | /teɪst/ | 味道 | *doesn't taste very nice* | *This medicine tastes bad.* — 这药很难吃。 | 亲子 |
 | **disgusting** | /dɪsˈɡʌstɪŋ/ | 难吃；恶心 | *Disgusting!* | *This tastes disgusting.* — 这个味道真难吃。 | 亲子 |
 | **straight** | /streɪt/ | 马上；直接 | *come straight round* | *Come straight home.* — 直接回家。 | 亲子、多义 |
@@ -223,7 +223,7 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **clear up** | /klɪr ʌp/ | 消退；好起来 | *The rash will clear up* | *The spots will clear up.* — 这些斑点会消退。 | 亲子 |
+| **clear up** | /klɪr ʌp/ | 消退；好起来。收拾玩具说 **clean up** | *The rash will clear up* | *The spots will clear up.* — 这些斑点会消退。 *Time to clean up the toys.* — 该收拾玩具了。 | 亲子 |
 | **brave** | /breɪv/ | 勇敢 | *a brave little one* | *You were brave.* — 你很勇敢。 | 亲子 |
 | **visitor** | /ˈvɪzɪtər/ | 来看望的人 | *have visitors* | *You can have one visitor.* — 你可以有一个来看你的人。 | 亲子、本季已见 |
 | **catching** | /ˈkætʃɪŋ/ | 会传染 | *isn't catching* | *A cold can be catching.* — 感冒会传染。 | 亲子、多义 |
@@ -237,9 +237,9 @@ This is my little brother, George.
 | --- | --- | --- | --- | --- | --- |
 | **pretend** | /prɪˈtɛnd/ | 假装 | *It's not pretend* | *Let's pretend you are a nurse.* — 我们假装你是护士。 | 亲子、本季已见 |
 | **horrible** | /ˈhɔrəbəl/ | 很糟糕；很难吃 | *tasted really horrible* | *The medicine was horrible.* — 那药很难吃。 | 亲子 |
-| **nurse** | /nɜrs/ | 护士 | *my nurse's outfit* | *The nurse will see you.* — 护士会来看你。 | 亲子 |
-| **costume** | /ˈkɑstum/ | 扮演用的衣服 | *nurse's costume* | *This is a nurse costume.* — 这是护士扮演服。 | 亲子 |
-| **patient** | /ˈpeɪʃənt/ | 病人。另一个意思是「有耐心」 | *How is the patient?* | *The patient must rest.* — 病人得休息。 | 亲子、多义、本季已见 |
+| **nurse** | /nɜrs/ | 护士 | *my nurse's outfit* | *Your aunt is a nurse.* — 你姑姑是护士。 | 亲子 |
+| **costume** | /ˈkɑstum/ | 扮演用的衣服 | *nurse's costume* | *Your aunt is a nurse. This is her costume.* — 你姑姑是护士。这是她的扮演服。 | 亲子 |
+| **patient** | /ˈpeɪʃənt/ | 病人。另一个意思是「有耐心」 | *How is the patient?* | *The patient must rest.* — 病人得休息。 *Be patient. It takes time.* — 耐心点，要花时间。 | 亲子、多义、本季已见 |
 | **fancy** | /ˈfænsi/ | 想要。这里不是「花哨」 | *I fancy a game* | *I fancy an apple.* — 我想吃个苹果。 | 亲子、多义 |
 | **recovery** | /rɪˈkʌvəri/ | 康复 | *a complete recovery* | *You made a complete recovery.* — 你完全好了。 | 低频、亲子 |
 

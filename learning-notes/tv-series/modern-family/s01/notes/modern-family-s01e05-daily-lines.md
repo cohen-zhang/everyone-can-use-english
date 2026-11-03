@@ -23,13 +23,14 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · could / should / be going to**、**问句**，以及 **特色**（主题句 *people who don't know the game*、*gold digger*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · could / should / be going to**、**问句**，以及 **特色**（主题句 *people who don't know the game*、*gold digger*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
 ## 家事与居家
 
 - **So it's probably best if you work this out at home...** — 所以  也许你们最好能回家自己解决
+- **The whole family's coming over for the barbecue.** — 全家都要过来烧烤。
 
 ## 亲子与学校
 
@@ -47,6 +48,8 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 - **She's my daughter. You're my wife.** — 她是我的女儿  你是我的妻子
 - **I'm taking baby steps here, all right?** — 我才刚刚起步  好不
 - **Now in light of what happened at school today,** — 鉴于今天在学校里发生的事情
+- **Can I have $40 for lunch? — I want a dress.** — 午饭能给我 40 块吗？——我想买条裙子。
+- **Where are you? — I'm showing a house. — I'm golfing.** — 你在哪儿？——我在带人看房。——我在打高尔夫。
 
 ## 约会与恋爱
 
@@ -65,7 +68,6 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 - **Hey, Gramps. - Hi, beautiful.** — 外公好  -小美女好
 - **Hi, Phil. Good to see ya.** — 你好  菲尔  见到你真好
 - **Okay. Thank you.** — 好的  谢谢你
-
 ## 请求与建议
 
 - **Give me a break. I have to climb a rope today.** — 饶了我吧  我今天得去攀绳呢
@@ -76,90 +78,6 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 - **You can never have too many pies, right?** — 派再多也不嫌多  对吧
 - **Let's think about getting real.** — 我们面对现实吧
 
-## 其它实用表达
-
-- **Oh, and Gloria, if you want to get together with the girls later,** — 歌洛莉亚  如果你待会和你闺蜜有约
-- **I could just, you know, watch the football game or something.** — 我可以自己看看橄榄球赛什么的
-- **That means he wants to watch a football game.** — 其实他就是想看橄榄球赛
-- **I'm not talking to you.** — 我不是和你说话
-- **What are you drinking coffee for anyway?** — 你为什么要喝咖啡
-- **It's my culture. I'm Colombian.** — 这是我的文化习俗  我是哥伦比亚人
-- **Oh, yeah? What part of Colombia** — 是吗  这些法式吐司
-- **are those French toaster sticks from?** — 也是哥伦比亚的吗
-- **Babe, I'm not sure about the game.** — 亲爱的  我不太确定你今天能看比赛
-- **The whole family's coming over for the barbecue.** — 因为全家人都要过来烧烤
-- **That's today? - See.** — 是今天吗  -没错
-- **It's the Ohio State game.** — 今天可是俄亥俄州赛
-- **So? Everybody can watch.** — 那又怎样  每个人都能看
-- **I don't like watching the game with people who don't know the game.** — 我不喜欢和不懂球的人一起看比赛
-- **People talk.** — 七嘴八舌乱指点
-- **You talk at my football games.** — 你也会乱指点我的橄榄球比赛
-- **For one thing, it's called soccer.** — 首先  你那个是足球
-- **Your team scored two goals all season.** — 而且你们队整个赛季只得了两分
-- **I'm not taking a big risk.** — 我随便说也不会冒风险
-- **How much of this did you drink?** — 你到底喝了多少啊
-- **Can I have $40 for lunch?** — 能给我40块钱吃午饭吗
-- **Forty dollars?** — 40块
-- **I want a dress.** — 我想买条裙子
-- **Do you have any idea what a bad liar you are?** — 你知道你撒谎撒得多失败吗
-- **I'd be more worried that** — 我更担心的是
-- **she couldn't come up with a single book title.** — 她连一本书的名字都想不出来
-- **Luke, come on. We're late.** — 卢克  快点  我们要迟到了
-- **Mmm, there's a first- inside out and backwards.** — 这是第一次里外前后全都穿反了
-- **At least it isn't zipped into his...** — 至少他没把衣服塞进...
-- **Oh. There it is.** — 好吧  真塞进去了
-- **Well, there's book smart, and then there's street smart.** — 有人是"读书大智慧"  也有人是"市井小聪明"
-- **Yeah, and then there's Luke.** — 没错  卢克属于第三类怪胎
-- **Oh, he's just... He's just curious. That's all.** — 他只是  他只是好奇心重  仅此而已
-- **He's got this almost scientific mind...** — 他有着科学家的头脑
-- **with a thirst for knowledge.** — 以及对知识的渴望
-- **He's like this little Einstein.** — 他像小爱因斯坦一样
-- **Some people ask, "Why?"** — 有些人会问"为什么"
-- **Luke asks, "Why not?"** — 但卢克会问"为什么不呢"
-- **I ask "Why?" a lot.** — 我经常问"为什么"
-- **We're at the ten. We're at the five.** — 我们在十码区  现在是五码区
-- **We're at the one. Daddy, we're scoring a touchdown!** — 到达一码  爸爸  我们触地得分啦
-- **Why is she dressed like the Hamburglar?** — 为什么她穿得像汉堡神偷公仔
-- **She's a referee.** — 她是裁判
-- **Are you kidding me? We're playing Ohio State.** — 你在开玩笑吗  今晚是俄亥俄州赛
-- **I collect antique fountain pens.** — 我收集古董钢笔
-- **I'm quite adept at Japanese flower arrangement** — 我很擅长日式插花技术
-- **ikebana** — "花道"
-- **and I was a starting offensive lineman at the University of Illinois.** — 而且我曾是伊利诺伊大学的首发进攻内锋
-- **Surprise.** — 惊讶吧
-- **I don't like football. - You know what?** — 我不喜欢橄榄球  -你知道吗
-- **I thought part of being in a relationship...** — 我认为维持恋情的一方面
-- **was pretending to enjoy your partner's interests.** — 就是要爱屋及乌
-- **Do you think I really loved home pickle-making?** — 你以为我真的喜欢做腌菜吗
-- **Yeah, 'cause you did.** — 是的  因为你确实喜欢
-- **For a week,** — 就喜欢一周
-- **until we became the weird guys who gave everybody pickles.** — 到后来别人都以为我们是到处送腌菜的怪胎
-- **It was charming.** — 你真可爱
-- **We were picklers, Mitchell.** — 我们是腌菜工  米奇尔
-- **Okay, you know what? Fine.** — 好吧  那就算了
-- **Stay home with your little jagged scissors.** — 和你的小剪刀待在家里吧
-- **Maybe catch up on your scrapbooking.** — 你可以继续弄你的剪贴簿
-- **Come... You loved scrapbooking.** — 拜托  你也喜欢剪贴簿啊
-- **Did I, Mitchell? Did I?** — 我有吗  米奇尔  我有吗
-- **Stop. Don't do the "Double question to prove a point" thing.** — 够了  别以为搞个双重反问就是真的了
-- **I hate it when people do that.** — 我讨厌别人那么做
-- **Do you, Mitchell? Do you?** — 是吗  米奇尔  是吗
-- **Stop, Lily.** — 别闹了  莉莉
-- **Oh, geez. Is he okay?** — 天呐  他还好吗
-- **Yeah, he's fine, but they want us to come down there.** — 他没事  但老师想要我们去一趟
-- **Where are you? - I'm showing a house.** — 你在哪里  -我在带人看房子
-- **What house?** — 什么房子
-- **I'm golfing.** — 我在打高尔夫球
-- **I bet it was that Durkas kid.** — 我猜是那个叫德卡斯的小孩
-- **I hate that kid.** — 我讨厌那个小孩
-- **He probably jumped on Luke** — 也许是他突然挑衅卢克
-- **and Luke just fought back.** — 而卢克只是反抗而已
-- **Kid's a menace. - He made fun of my hair once.** — 那小孩真讨厌  -他曾经取笑我的头发
-- **I slept on it funny.** — 我只是睡觉把头发睡乱了
-- **Like that never happened to him?** — 就好像他没有过一样
-- **Come on.** — 走吧
-
----
 
 ## 时态 · could / should / be going to
 
@@ -233,6 +151,22 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 | **Let's remember what's important here.** | 先记住眼下什么要紧。 | Let's remember + 从句 |
 
 *Stop. Don't do the "double question to prove a point" thing.* 米奇尔让卡姆停下那种「连问两句来证明自己懂」的说法。引号里是在给一种问法起名。
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。把孩子说成「第三类」是剧里的玩笑。
+
+**杰对「不懂球的人」的评价，歌洛莉亚回评他的足球。** 他不要外行一起看。她指出他自己也在指点。
+**I don't like watching the game with people who don't know the game.** — 我不喜欢和不懂这场比赛的人一起看。
+**For one thing, it's called soccer.** — 首先，你那个叫 soccer。
+
+**菲尔对卢克的评价，克莱尔另给一个。** 菲尔先把人分成书本聪明和街头聪明，再把儿子放进第三格。克莱尔说的是好奇。第三格是玩笑。
+**Well, there's book smart, and then there's street smart. — Yeah, and then there's Luke.** — 有读书聪明的，有街头聪明的。——对，然后还有卢克。
+**He's like this little Einstein.** — 他像个小爱因斯坦。
+
+**米奇尔对这段关系的评价。** 他以为相爱就要装出喜欢对方的爱好。卡姆把腌菜周说成他们真的变成了那种人。
+**I thought part of being in a relationship was pretending to enjoy your partner's interests.** — 我以为在一段关系里，就得装出喜欢对方的爱好。
+**We were picklers, Mitchell.** — 我们当时就是做腌菜的人，米奇尔。
 
 ### 本集人生感悟
 

@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · could / 过去**、**问句**，以及 **特色**（主题句 *before Mom*、实话与谎、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · could / 过去**、**问句**，以及 **特色**（主题句 *before Mom*、实话与谎、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -31,6 +31,8 @@
 
 - **Now he needs to drive one of those little, like** — 走到哪都得推着一台
 - **There was traffic. I almost had to shout.** — 当时路上都是车  几乎得用喊的
+- **Yeah, anyway, we could see the 4:00 or the 6:20.** — 总之，我们可以看 4 点那场，或者 6 点 20。
+- **Did you pack the bread for the ducks? — Not the whole-wheat kind. The ducks don't like that.** — 喂鸭子的面包带了吗？——别带全麦的。鸭子不喜欢。
 
 ## 亲子与学校
 
@@ -86,90 +88,6 @@
 - **It's something I have to do.** — 再痛苦我也必须面对
 - **You have to tell him.** — 去跟他说实话
 
-## 其它实用表达
-
-- **I'm in.** — 算我一个
-- **Okay, well, Alex has a cello lesson at 11:00...** — 好的  艾丽克斯11点有大提琴课
-- **and Junior Congress at noon.** — 中午要参加象棋课
-- **Doesn't she also have no boys at forever?** — 她不是还要上一辈子的光棍课吗
-- **Yeah, anyway, uh, we could see the 4:00 or the 6:20.** — 不管怎么说  可以看4点或6:20的场
-- **Oh, actually, that's no good.** — 实际上  那两场我都去不了
-- **Denise? Do I know Denise?** — 丹妮丝  我认识吗
-- **Oh, my God. Gross. I can't even picture you with a woman.** — 老天  想到你和一个女人在一起就恶心
-- **Try two.** — 而且是两个
-- **Trust me. I had plenty of fun in my time.** — 我之前一直过得很快活
-- **And then I met your mom.** — 直到遇见了你妈
-- **So I guess she travels** — 她应该是四处奔波
-- **around selling makeup for a cosmetics company.** — 为某个化妆品公司做推销
-- **She's in town for a week.** — 会在城里待一周
-- **You mean she's like a door-to-door salesman?** — 你是说  她是个挨家挨户的推销员
-- **If you were doing it, they'd call it a dork-to-dork salesman.** — 换成是你  就是个呆家呆户的推销员
-- **My boy strikes like a rattlesnake!** — 一记漂亮的突袭
-- **Oh, yeah? W-Well, you** — 是吗  那  那你就是
-- **Wow. All right, well, we can see the movie tomorrow.** — 好了  电影明天再去看
-- **Come on. It's time for your lesson.** — 跟我走  该去上课了
-- **What's wrong with me today?** — 我今天是怎么了
-- **Shake it off, champ. It's not your day.** — 算了  宝贝  今天你的水平发挥不出来
-- **Ay, good morning, papi. -Is it?** — 早上好  小家伙  -是吗
-- **That part was mine. I was born to play Tevye.** — 那角色是我的  我生来就该演特维
-- **Instead they give it to Rod Jackson?** — 他们竟然让罗德·杰克逊来演
-- **What does he know from suffering?** — 他哪里懂什么叫受苦受难
-- **How are we doing? - A little better.** — 情况如何  -略有起色
-- **But we're gonna go and throw ice cream at the problem.** — 不过这问题得用冰激凌解决
-- **Well, if that doesn't work, this should do the trick.** — 要是冰激凌都没用  就试试这个
-- **"What doesn't kill us makes us stronger."** — "大难不死  人自更强"
-- **We can hang this in your room.** — 把这个挂在你房间
-- **You can see it every morning, start to internalize it.** — 每天早晨看一眼  用心去体会
-- **Pretty soon nothing will keep you down.** — 以后什么都打不倒你
-- **But it's not true.** — 但那话不对
-- **What are you talking about?** — 你说什么
-- **Lots of stuff that doesn't kill you makes you weaker.** — 很多大难只会让人更脆弱
-- **My friend's grandfather had a heart attack.** — 我朋友的爷爷只是患了心脏病
-- **Now he needs a machine to breathe.** — 现在连喘气都要靠一台机器支撑
-- **I've seen him- at the supermarket.** — 我见过他  就在超市里
-- **That's right. Be negative.** — 好了  你继续悲观教育吧
-- **It's just not a good poster, Jay.** — 那幅画确实不怎么样  杰
-- **You're only making me stronger.** — 你的打击只会让我变得更坚强
-- **Did you pack the bread for the ducks? - Yes.** — 喂鸭子的面包带了吗  -带了
-- **Not the whole-wheat kind. The ducks don't like that.** — 不要全麦的  鸭子不吃
-- **They're ducks, Mitchell. They don't care.** — 米奇尔  鸭子是不会介意的
-- **We both believe that** — 我们都觉得
-- **animals should play a big part in Lily's life.** — 动物在莉莉成长过程中是不可或缺的
-- **Having grown up on a farm, I was surrounded by them.** — 我在农场上长大  接触过很多动物
-- **They were more like brothers** — 它们更像是我的兄弟姐妹
-- **and sisters than just, you know, livestock.** — 而不仅仅是牲畜家禽
-- **Delicious brothers and sisters.** — 多美味的兄弟姐妹
-- **Life on a farm- they know what they're getting into.** — 生在农场  它们深知以后的命运
-- **Oh, wait.** — 等等
-- **It's like this every Saturday. Just ignore it.** — 每周六都来这一套  别接了
-- **That's nice.** — 真不错
-- **Holy- Shel? You all right, buddy?** — 我靠..小壳  你还好吗  哥们
-- **Oh, hell.** — 该死
-- **Oh, there's four of 'em, Mitchell.** — 一共4只小鸭子呢  米奇尔
-- **They're giving her little duck kisses.** — 它们在亲莉莉
-- **Oh, she's laughing. I can't believe you're missing this.** — 她笑得很开心  真遗憾你看不到
-- **Well, why not, Cam? I've missed everything else.** — 那又怎样  小卡  我错过的还少吗
-- **She rolled over when I was in Phoenix.** — 她第一次翻身  我在凤凰城
-- **She started scooting when I was in court.** — 她学会爬行时  我却在法庭上
-- **Well, just tell 'em you're not coming in. You do enough for 'em.** — 告诉他们你不去加班  你做的够多的了
-- **Well, you know that. I know that. You know?** — 关于这一点  你知道  我也知道
-- **He's the suckiest suck of all time.** — 他是有史以来最混蛋的混蛋
-- **may have heard everything I just said.** — 好像听到了我刚才说的话
-- **When are you getting together with your gal pal?** — 什么时候去见你的女性朋友
-- **Actually, I was just checking on that.** — 事实上  我正在等消息呢
-- **Oh, you're Facebook friends.** — 原来你加了她的Facebook
-- **Sure am. She's one of my 447 friends.** — 当然  她只是447个好友之一
-- **Everybody wants a slice.** — 大家都对我想入"菲菲"呢
-- **How long have you two been in touch with each other?** — 你们恢复联系有多久了
-- **Uh, she tracked me down about a year ago.** — 她差不多一年前联系到的我
-- **What? What's- What's that sound?** — 怎么了  你什么意思
-- **Mmm. Nothing.** — 没什么
-- **Oh. Here she is right now.** — 站内信终于来了
-- **"How about we meet at Le Reve at 7:30?"** — "七点半  梦境餐厅见"
-- **That sounds innocent enough- I mean** — 你们的约会真够"单纯"的
-- **but your tone seems mean.** — 但你的语气好刻薄
-
----
 
 ## 时态 · could / 过去的女朋友
 
@@ -239,6 +157,19 @@
 | **Actually, that's no good.** | 其实那个不行。 | 把上一个选择划掉 |
 
 杰编浣熊、歌洛莉亚识破，后面是坦白。命令在这一集让位给「说真话」。*I'm in* 是菲尔对电影计划的第一句答应。
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。兄妹把对方的工作说成上门推销，是攻击，不是能练的句子。
+
+**艾丽克斯对那句励志的评价。** 海报说杀不死你的会让你更强。她举出反例。
+**"What doesn't kill us makes us stronger." — Lots of stuff that doesn't kill you makes you weaker.** — 「杀不死我们的让我们更强。」——很多杀不死你的事会让你更弱。
+
+**米奇尔对自己缺席的评价。** 莉莉翻身时他在外地，学爬时他在法庭。
+**She rolled over when I was in Phoenix. She started scooting when I was in court.** — 她翻身的时候我在凤凰城。她开始挪的时候我在法庭。
+
+**海莉对艾丽克斯的评价。** 推销工作被她改成上门对上门。这是挖苦。
+**If you were doing it, they'd call it a dork-to-dork salesman.** — 要是你干这行，他们会叫你呆对呆推销员。
 
 ### 本集人生感悟
 

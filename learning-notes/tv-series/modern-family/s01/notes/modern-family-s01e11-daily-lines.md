@@ -23,13 +23,14 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · used to**、**问句**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · used to**、**问句**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
 ## 出行与旅行
 
 - **We'll go in a race car with my friend,** — 我带你去坐我朋友的赛车
+- **I picked up one of those Water Weasels.** — 我买了个接在水管上的水鼬。
 
 ## 家事与居家
 
@@ -37,6 +38,7 @@
 - **I brought dinner- lobsters!** — 我带晚餐了  龙虾
 - **I, uh- Manny, why don't you show your father to the kitchen?** — 曼尼  带你父亲去厨房参观下吧
 - **Instead, I got Rico Suave in my kitchen,** — 现在却看着里克·苏艾文在我厨房瞎晃
+- **You bring that with you when you come visit me this summer.** — 今年夏天你来看我，把它带上。
 
 ## 亲子与学校
 
@@ -48,6 +50,7 @@
 - **For the baby?** — 给孩子看合适吗
 - **Son of a bitch. - What's the matter?** — 混蛋  -怎么了
 - **Okay, kids, gather around.** — 孩子们  围过来
+- **I got us into that new Benihana.** — 我在那家新开的铁板烧订到了位子。
 
 ## 电话与信息
 
@@ -75,96 +78,13 @@
 - **Hey, Manny knows me. I live in the now.** — 曼尼了解我  我是活在当下的人
 - **and she stole a turkey at Thanksgiving for her family** — 害的她在感恩节偷了只火鸡给家里
 - **Hey, you changed your clothes.** — 你换衣服了
+- **But it's good for Manny to be with his father.** — 不过曼尼和他父亲在一起是好的。
 
 ## 请求与建议
 
 - **Come on! Let's go! Let's go!** — 快点  走了
 - **Okay, you need to go to the hospital. - Yeah.** — 你得去医院  -没错
 
-## 其它实用表达
-
-- **"That's too much cologne."** — "你喷太多古龙水了"
-- **"That's how girls end up dead."** — "女孩子就是那样丧命的"
-- **"Don't talk black to me."** — "别给我黑嘴"
-- **How do you even talk black?** — 什么叫黑嘴
-- **End words with "Izzle"?** — 每句话都加个"嘿"吗
-- **It's "Talk back," You idiot.** — 是"回嘴"  笨蛋
-- **"Act more like an adult."** — "有点大人样好不好"
-- **What does "Act more like an adult" even mean?** — 什么叫有点大人样  大人该是什么样
-- **Look at you, you're soaked! That is so lame.** — 看看你  都湿透了  逊死了
-- **You're the one who wanted to do it!** — 是你先开始的
-- **What are you two doing?** — 你们父子俩干啥呢
-- **Oh, I picked up one of those Water Weasels.** — 我捡了个水鼬鼠
-- **You hook it on the end** — 你把它接到水管的一头
-- **of the hose and it flies around in the air.** — 它会在空中乱飞
-- **Just like a weasel.** — 就像鼬鼠一样
-- **Yeah. Look at how awesome. He's so wet.** — 看看有多酷  他湿透了
-- **I put the weasel in my pants.** — 我把鼬鼠放我裤子里了
-- **He totally did. - Dork!** — 绝对是真的  -傻蛋
-- **Is there a reason why my window's wet?** — 为什么我的窗子都湿了
-- **Hmm. Very difficult to say. - I don't know.** — 很难说  -不知道
-- **Up top- Ow! Ow! - What's wrong?** — 击掌  -怎么了
-- **Little- - Sweetie, you okay?** — 小  -亲爱的  你没事吧
-- **Little twinge. Yeah.** — 小抽了一下  没事
-- **I'll call 911.** — 我去打911
-- **Maybe the firemen will come.** — 也许消防员会来
-- **No, no! No, no! - Give me it!** — 不要不要  -电话给我
-- **The firemen in our town have a reputation for being hot.** — 我们镇上的消防员出了名的性感火辣
-- **Do I resent that?** — 我不爽他们吗
-- **Of course not. These guys are my friends.** — 当然不会  他们都是我的朋友
-- **I play basketball with them. I bake for 'em.** — 我跟他们一起打球  烤蛋糕给他们
-- **My question is: What's hot?** — 我的问题是  什么叫火辣
-- **Coming.** — 来了
-- **What's the big deal anyway?** — 有什么大不了的
-- **It's a surprise. You'll see.** — 是个惊喜  你们会知道的
-- **Oh, my God!** — 天啊
-- **Ay, Jay, you didn't? - Yes, I did.** — 杰  不是吧你  -就是我
-- **I got us into that new Benihana.** — 我在那家新开的红花餐厅订上位了
-- **They got a chef there that can flip a shrimp into his own hat.** — 那有个厨师可以把虾翻进自己的帽子里
-- **What the hell?** — 搞什么鬼
-- **Dad! - There's my boy!** — 爸爸  -乖儿子
-- **The hell is he doing here? - Jay.** — 他来这干什么  -杰
-- **No. He was supposed to pick up manny yesterday** — 不  他昨天就该来接曼尼的
-- **and disappointed him again, as usual.** — 结果又一如既往地让他失望了
-- **Now he just sails in here out of the blue?** — 现在又突然冒出来就可以了吗
-- **I don't like the guy. Do I have reasons? Yeah.** — 我不喜欢那家伙  理由嘛  当然有
-- **Good reasons? Yeah.** — 正当理由?  当然有
-- **How many reasons do I need?** — 我需要理由吗
-- **None. I don't like the guy.** — 不需要  我就是不喜欢那家伙
-- **So I would have called,** — 我本来要给你们打电话的
-- **but while I was buying this boat for a friend,** — 但我帮朋友买船的时候
-- **I got chased out to sea by another boat "Tiqui tiqui".** — 被另外一艘船追出海去了
-- **Were they pirates?** — 他们是海盗吗
-- **I didn't stop to ask. - Well, it's not hard to tell.** — 我没问  -其实很容易分辨的
-- **Did they have curvy swords and** — 他们有没有拿着弯刀
-- **sing songs about how fun it is to be a pirate?** — 唱着海盗生活真快乐
-- **Jay. Such a beautiful house, huh?** — 杰  房子真漂亮
-- **What, you think I show up empty-handed?** — 你以为我空手来的
-- **Did you catch them with your bare hands? - No.** — 是你亲手抓的吗  -不是
-- **But I bought them with my bare hands.** — 但是是我亲手买的
-- **And I have some nice wine, a good Cuban cigar for Jay.** — 还带了瓶好酒  给杰的一盒上等雪茄
-- **Awesome!** — 太棒了
-- **All of this excitement, my heart is just going.** — 刺激一波接一波  我心脏都快受不了了
-- **Now, listen to me.** — 儿子  听着
-- **You bring that with you when you come visit me this summer.** — 今年暑假你来看我的时候记得带上它
-- **and after that, maybe a bullfight.** — 然后看场斗牛什么的
-- **I know all these guys.** — 他们我都熟
-- **The matadors, they're like artists.** — 斗牛士  他们简直就是艺术家
-- **You're quite the bullfight artist yourself.** — 你自己就跟个斗牛艺术家一样
-- **Por favor. Dios mo. Someone put on some music.** — 谢了  天啊  来点音乐吧
-- **Tonight, we dance!** — 今晚我们要热舞一宿
-- **Oh, we're gonna dance.** — 我们会热舞的
-- **Oye, mi amor, est bien que me quede aqu esta noche?** — 亲爱的  今晚我住这没问题吧
-- **Ay, Javier, yo no s. Esprate para ver qu puedo hacer.** — 哈维尔  我不知道  我看看吧
-- **What did he say? Does he need money for the lobsters?** — 他说什么  是不是要龙虾钱
-- **Jay, be nice. - "Be nice."** — 杰  友好点  -"友好"
-- **I could be sitting grill-side,** — 我本来应该坐在铁板烧旁
-- **watching a guy build an onion volcano.** — 看着厨师堆洋葱山的
-- **and I got a stolen boat in my driveway.** — 车位上还停了艘偷来的船
-- **If it was for me, he'd be out of my life.** — 如果是为我  早将他踹得一干二净了
-- **But it's good for Manny to be with his father.** — 但是曼尼需要他的父亲
-
----
 
 ## 时态 · used to
 
@@ -262,6 +182,20 @@
 | **Be nice.** | 友好点。 | Be + 形容词 |
 | **Do whatever you want.** | 你随意吧。 | 松手；这句话在剧里是气话 |
 | **Put your hand out.** | 把手伸出来。 | 一步一步教人做 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。消防员那句是克莱尔的玩笑。杰对哈维尔的不喜欢，他说自己不需要理由。
+
+**杰对哈维尔的评价。** 船开进车道时，他把喜欢和不喜欢分开：不喜欢可以没有理由。
+**I don't like the guy. Do I have reasons? Yeah. — None. I don't like the guy.** — 我不喜欢这人。我有理由吗？有。——不需要。我就是不喜欢这人。
+
+**歌洛莉亚对「父亲在场」的评价。** 她承认杰不舒服，仍把曼尼需要父亲放在前面。
+**If it was for me, he'd be out of my life. But it's good for Manny to be with his father.** — 如果是为我，他早就不在我生活里了。不过曼尼和他父亲在一起是好的。
+
+**克莱尔对镇上消防员的评价。** 她说他们出名地好看，接着又说自己不嫉妒。后半句是她在圆场，整段是玩笑。
+**The firemen in our town have a reputation for being hot.** — 我们镇上的消防员出名地好看。
+**Do I resent that? Of course not.** — 我不爽吗？当然不。
 
 ### 本集人生感悟
 

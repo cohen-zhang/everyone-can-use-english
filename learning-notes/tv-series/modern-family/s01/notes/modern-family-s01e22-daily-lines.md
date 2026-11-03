@@ -25,7 +25,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 过去**、**问句**，以及 **特色**（主题句 *fell from heaven*、*Help me*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 过去**、**问句**，以及 **特色**（主题句 *fell from heaven*、*Help me*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -61,16 +61,17 @@
 - **as we get closer to the flight.** — 我就会变得越抓狂
 - **Honestly, could you drive any slower?** — 你敢开得再慢一点吗
 - **I'm thinking about using it in my song about Hawaii.** — 我考虑把它加进我的夏威夷之歌里
-
 ## 家事与居家
 
 - **I love 'em at dinners, I love 'em at barbecues,** — 共进晚餐啦  吃吃烧烤啦都不错
 - **My bag's in the living room. Everything's gonna be okay.** — 我的包都放在客厅了  一切都会没事的啦
+- **Wait. What are you doing? I just packed those.** — 等等，你在干什么？我刚收好的。
 
 ## 亲子与学校
 
 - **He's a legacy at Happy Time Preschool.** — 他可是快乐时光幼儿园里的大明星
 - **No. No. I wanna be alert if the kids need me.** — 不行  孩子们还指着我呢  我要清醒
+- **Jasper and his mother are coming over for a playdate.** — 贾斯珀和他妈妈要来玩。
 
 ## 约会与恋爱
 
@@ -88,7 +89,6 @@
 - **Relax, punkin. I got this.** — 放轻松  交给我了
 - **I told you, I get more and more freaked out** — 告诉过你的  越是接近起飞
 - **Jay? - Oh, I'm sorry.** — 杰  -抱歉
-
 ## 社交与礼貌
 
 - **thank you.** — 谢谢你
@@ -107,90 +107,6 @@
 - **Very nice!  -Alright. Let's go. Let's go.** — 太棒了  -很好  快走  快走
 - **Uh, let's see. Oh, shoot! I just missed my turn.** — 我看看  靠  转弯口我给错过了
 
-## 其它实用表达
-
-- **Oh, I forgot to ask- Did it hurt?** — 忘了问了  当时疼吗
-- **What hurt?** — 什么疼吗
-- **When you fell from heaven and landed on earth.** — 你从天堂坠落凡间  接触地面的那一刻
-- **I didn't fall from- Ah.** — 我才没从天堂...
-- **Because I'm an angel.** — 你是说我像个天使
-- **Why are you so sweet?** — 你嘴巴怎么这么甜
-- **Today's Ja y's birthday,** — 今天是杰的生日
-- **Got Manny tied up in the backyard. Big bowl of kibble.** — 把曼尼拴在后院  留一大碗狗食给他
-- **I'm kidding. He's staying with Claire and Phil.** — 开个玩笑  交给克莱尔和菲尔了
-- **This whole thing was a big surprise.** — 此次旅行他完全不知情
-- **Cost me a fortune, but it was worth it.** — 虽说花了我不少钱  不过绝对值
-- **In case I forget to say it a few hundred times this week,** — 尽管说了千万遍  不过还是要再说一遍
-- **Wh- What the heck?** — 这  这是搞什么
-- **Surprise, Dad. - The whole family's coming with us!** — 惊喜  爸爸  -全家都会跟我们一起去
-- **They are? - Uh-huh.** — 真的吗  -没错
-- **Yes, and Mitch and Cameron and Lily too.** — 没错  米奇尔  卡梅隆和莉莉也来
-- **Yeah, and Phil- he's just checking the bags. Wow!** — 是啊  菲尔正在托运行李呢
-- **That's, uh- Wow.** — 可真是...
-- **It was all Gloria's idea.** — 都是歌洛莉亚的主意
-- **She bought all of our tickets and everything.** — 她把我们机票什么的都包了
-- **Really? Everyone's? - Yeah.** — 是吗  所有人的  -没错
-- **It's your birthday. I didn't spare any expense.** — 你过生日嘛  该花就得花
-- **Ay, no, silly. Coach. You think I'm made of money?** — 傻啊老公  经济舱啦  你当我是摇钱树啊
-- **Of course not.** — 当然不是
-- **We're gonna go to a luau,** — 我们要吃夏威夷野猪宴
-- **swim with the Miami Dolphins,** — 跟迈阿密海豚一起游泳
-- **take a tour in one of those, the** — 坐着那啥啥环游
-- **Helicopter. Helicopter. - Mm-hmm. Yes!** — 直升飞机  -没错
-- **I don't like activities.** — 我不爱参加活动
-- **I wanted to hang out with Gloria** — 我就想跟歌洛莉亚到处转转
-- **and read my Robert Ludlum novels.** — 读一读罗伯特·勒德拉姆的小说
-- **I got eight of 'em loaded up on my book reader thing here.** — 我这电子书里存了整整八本
-- **I mean, I love my family.** — 别误会  我爱我的家人
-- **I know I got a lot of baggage,** — 我知道自己行李[心理]负担不少
-- **Just kidding. I'm fine.** — 开个玩笑  我没事
-- **Daryl, I know these guys.** — 达里尔  我认识这帮人
-- **Can I borrow your hat? This will be hilarious.** — 帽子能借我演个戏吗  肯定会很搞笑
-- **No. - Okay.** — 不行  -好吧
-- **Aloha, Uncle Phil!** — 你好啊  菲尔姑父
-- **Oh, we're so excited. You know, this is my first time.** — 激动死了  你知道吗  这是我的第一次
-- **Really? Yeah, I know it's surprising.** — 真的吗  -是啊  我知道很不可思议
-- **Who says that?** — 谁说的
-- **People. - What people?** — 一些人  -哪些人
-- **You don't know them.** — 说了你也不认识
-- **I forgot my wallet.** — 我忘带钱包了
-- **Oh, that's all right. I have cash.** — 没事  我有现金
-- **Because if you had done what I asked you to do this morning,** — 因为早上你要是按我说的做了
-- **then I wouldn't have been overwhelmed** — 我就不会忙得团团转
-- **and I would have remembered my wallet.** — 也不会把钱包落家里了
-- **Oh, stop the newspaper.** — 暂停报纸的递送
-- **Wait. What are you doing? I just packed those.** — 等等  你在做什么  我刚打包好的
-- **She just looks so cute in this outfit.** — 她穿这身衣裳太可爱了
-- **I want her looking her best for Jasper.** — 我想要她以最佳状态去见贾斯珀
-- **Nothing you just said made any sense to me.** — 你刚说的我一句听不懂
-- **Jasper and his mother are coming over for a playdate.** — 贾斯珀和他妈妈要来跟莉莉玩
-- **We scheduled it weeks ago.** — 我们几周前定好的
-- **And this is the only time Jasper could do it.** — 贾斯珀只有这时候有空
-- **How full is Jasper's calendar?** — 贾斯珀是有多忙啊
-- **This is a coup. When you get in with Jasper,** — 此乃妙计  只要跟贾斯珀套上近乎
-- **doors open.** — 万事都轻松
-- **We're kissing up to a 10-month-old?** — 我们连10个月大小孩的马屁都要拍吗
-- **I just want him to like us.** — 我只是希望留个好印象嘛
-- **Okay, that's them.** — 好了  他们来了
-- **But just in and out.** — 进来坐会儿就得了
-- **We still have a million things to do.** — 还有一堆事要忙活呢
-- **Oh, and we're Methodists, so** — 对了  记住  我们是循道宗信徒
-- **Uh-uh. I can get you home** — 我开车送你回去
-- **That's- I will get to you later.** — 这个...我待会儿再付给你
-- **I really- I really don't think there's enough time.** — 我真觉得  真觉得肯定赶不上
-- **Just go!** — 你就去吧
-- **Nope. Gotta get that one.** — 不行  后面也得关上
-- **Okay. I can't** — 不行  我关不上
-- **He's out of your league. He's reading a book.** — 他跟你可不是一路人  他在读书呢
-- **I know.** — 我知道
-- **Oh, he drove Mitchell back to get his wallet. - What?** — 他载米奇尔回家去拿钱包了  -什么
-- **Yeah. He said he's gonna make it back in time,** — 是啊  他说一定能及时赶回来
-- **but I think it's gonna be close.** — 要我看悬啊
-- **So he left me here.** — 他就把我扔这儿了
-- **Haley is still asleep, and I have no idea where Luke is.** — 海莉还没起来  卢克人也不知道哪儿去了
-- **And are you even ready?** — 你到底准备好了没啊
-
----
 
 ## 时态 · supposed to / 一般过去
 
@@ -262,6 +178,19 @@
 | **Just say it.** | 说出来就行。 | Just + 动词 |
 
 *You're supposed to be here with me* 不是命令，是「按理你该在」。supposed to 和 Help me 是这一集的两面：该在场，以及开口要帮助。
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。把曼尼说成拴在后院是玩笑，下一句就收回。
+
+**杰对「曼尼留在家里」的说法。** 他先说拴在后院、给一碗狗粮。马上改口。这是玩笑。
+**Got Manny tied up in the backyard. Big bowl of kibble. — I'm kidding. He's staying with Claire and Phil.** — 把曼尼拴在后院，给一大碗狗粮。——开玩笑。他住在克莱尔和菲尔那儿。
+
+**歌洛莉亚对机票的评价。** 菲尔以为是头等。她说经济舱，并问他是不是以为自己在印钱。
+**Coach. You think I'm made of money?** — 经济舱。你以为我是印钞的？
+
+**克莱尔对早上出门的评价。** 海莉还没起，卢克不在视线里。
+**Haley is still asleep, and I have no idea where Luke is.** — 海莉还在睡，卢克我也不知道在哪。
 
 ### 本集人生感悟
 

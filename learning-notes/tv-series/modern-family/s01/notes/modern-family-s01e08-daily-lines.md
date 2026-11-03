@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *five free hugs*、*The more, the merrier*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *five free hugs*、*The more, the merrier*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -31,10 +31,12 @@
 
 - **Balloons? - They're attached to your car.** — 还有气球  -栓在你的汽车上
 - **That song "True" was playing in the car the first time we kissed.** — 我们第一次接吻  车上放的歌就是《真实》
+- **It's beautiful. Oh, sweetie, I love it.** — 太漂亮了。亲爱的，我喜欢。
 
 ## 家事与居家
 
 - **because I love coming to your house,** — 因为我喜欢来你这儿
+- **I can't tell if she needs a diaper change. — No, with these diapers, it's hard to tell.** — 我看不出她要不要换尿布。——不，这种尿布很难看出来。
 
 ## 亲子与学校
 
@@ -45,6 +47,7 @@
 - **Oh, my baby cub!** — 小崽崽
 - **You should kill that baby.** — 你们应该"弄死"宝宝
 - **What? - You should call the baby.** — 什么  -你们应该"联系"宝宝
+- **All the other cousins are sleeping over tonight.** — 其他表亲今晚都来过夜。
 
 ## 电话与信息
 
@@ -70,6 +73,7 @@
 - **Thank you.** — 谢谢
 - **Howdy. - Hi, Grandpa.** — 嗨  -外公好
 - **Well, hello there, Haley.** — 你好呀  海莉
+- **Sal is our very best friend in the whole wide world.** — 萨尔是我们全世界最好的朋友。
 
 ## 请求与建议
 
@@ -78,90 +82,6 @@
 - **All right. Let's go.** — 好吧  我们去
 - **Yeah, but we need to find someone for Lily.** — 但是我们得找人照看下莉莉
 
-## 其它实用表达
-
-- **Ah- Fix that step.** — 噢  要修下楼梯
-- **Morning! - I'm still sleeping.** — 早上好  -人家还在睡觉呢
-- **And they said we wouldn't last. - Yeah.** — 他们还说我们不能长久  -对呀
-- **Who said that? - Oh, look at you. You're cute.** — 谁说的  -你看你  太萌了你
-- **Go ahead. Open it. - What have you done?** — 快点  打开看看  -你又搞啥了
-- **Nothing. Something. Nothing.** — 没什么  没什么  没什么
-- **It's a View- Master. - Look inside.** — 立体镜哇  -看看吧
-- **Oh, it's us.** — 是我们的相片
-- **Look at how young we are.** — 看我们多年轻
-- **Oh, God, that perm.** — 天啊  你那时候烫的头
-- **Yeah, it really framed my face.** — 对啊  那发型衬托出了我的脸型
-- **Why is there a picture of a bracelet?** — 怎么有个手镯的照片
-- **Huh. Must be some kind of a mistake.** — 哈  有可能搞错了
-- **What the heck is that? - Phil, you didn't.** — 是什么玩意儿啊  -菲尔  不会吧
-- **What did - Did he, did he?** — 你该不会  -有吗  有吗
-- **Oh, my God.** — 噢  天啊
-- **It's beautiful. Oh, sweetie, I love it.** — 太漂亮了  亲爱的  我太喜欢了
-- **Okay, your turn. - My turn? Where is it?** — 好了  该看给你的礼物了  -该我啦  哪里
-- **It's on the bureau. - Oh.** — 梳妆柜上面  -哦
-- **I'm surprised I didn't see it.** — 我居然没看到
-- **Where? - It's there. The red envelope.** — 在哪  -就那儿  红色信封
-- **Oh. So - - card?** — 哦  就  贺卡吗
-- **No. That's where you're wrong.** — 不  你猜错了
-- **I am so excited.** — 我开始亢奋了
-- **Hey. Coupons for...** — 嘿  优惠券
-- **five free hugs.** — 免费5次拥抱
-- **You don't like it? - Are you kidding me? I love it.** — 不喜欢吗  -开玩笑  喜欢死了
-- **It's so creative. Coupons for hugs,** — 太有创意了  拥抱优惠券
-- **which are usually free.** — 其实本来就不要钱
-- **But this makes it official, which is so great.** — 但是这样就看起来很正式  真心不错
-- **I was so proud of myself when I thought of it...** — 我很骄傲能想到如此绝妙的点子
-- **because you're impossible to buy for.** — 因为完全不知道给你买什么
-- **You never want anything.** — 你从来就没有想要的东西
-- **Um, things I want:** — 那个...我想要的东西嘛
-- **Robot dog, night- vision goggles, bug vacuum,** — 机器狗  夜视镜  吸虫器
-- **G.P.S. Watch, speakers that look like rocks.** — GPS手表  石头样子的音箱
-- **I love my wife, but she sucks at giving gifts.** — 我爱我老婆  但她送礼物太他妈没谱了
-- **but- Oh, yogurt maker.** — 但是  哦  酸奶机
-- **I can't not think of things I want.** — 一想到我喜欢的那些东西就抓狂
-- **I can't tell if she needs a diaper change.** — 我都不知道她什么时候需要换尿布
-- **I'd think we'd be able to tell.** — 湿了就该换了呀
-- **No, with these diapers, it's hard to tell.** — 不  穿上这种尿布不好分辨
-- **Triple leakage protection. - LeakLock.** — 三重防漏  -专业防漏
-- **Contours to protect her little body.** — 特殊设计  呵护宝宝
-- **No gapping or chapping.** — 严丝合缝  绝无渗漏
-- **Cam, do you think that maybe we need a-** — 小卡  你觉得我们是不是需要一晚
-- **Night out. Yeah.** — 精彩夜生活  对
-- **Yeah. Yes. Just a few hours with a couple of adults,** — 对  就是和一群成年人混几个小时
-- **Stop drilling. You've struck oil.** — 别诱惑我了  你的目的达到了
-- **You got some spittle.** — 你沾了点口水
-- **Do I? You know who'd be fun to call?** — 有吗  你觉得我们叫谁比较好
-- **Sal. - Sal.** — 萨尔  -萨尔
-- **Ooh, raise the roof, Lily. Yeah.** — 来跳舞狂欢吧  莉莉  好耶
-- **We're calling Sal.** — 我们要叫上萨尔
-- **Sal is our very best friend in the whole wide world.** — 萨尔绝对是我们在世上最好的朋友
-- **The reason we love her so much...** — 我们那么爱她的原因嘛...
-- **is she has absolutely no inhibitions. - No.** — 就是她绝对放得开  -绝对的
-- **And that's before she starts drinking.** — 那还是在她喝酒之前
-- **Hanging out with her...** — 和她一起玩
-- **is like an Amsterdam Saturday night every day of the week.** — 就像每天都是阿姆斯特丹周六狂欢夜
-- **And, ironically,** — 讽刺的是
-- **Sal's not allowed back into Amsterdam.** — 萨尔被禁止进入阿姆斯特丹酒吧
-- **Any day of the week.** — 哪天都不行
-- **All the other cousins are sleeping over tonight.** — 她的表哥表姐们今天晚上都要来过夜
-- **The more, the merrier.** — 人多才热闹
-- **Okay, see you tonight. Bye- bye.** — 好的  晚上见  拜拜
-- **Is Haley still coming?** — 海莉还来不
-- **You're related. I will spray you with the hose.** — 你们是亲戚  再打她主意  我用水管喷你
-- **All the grandkids are** — 所有的孙儿门都
-- **coming over for Jay's Night. Family tradition.** — 要来杰的夜间派对  算是家庭传统吧
-- **Everybody wears P.J.'s, which they love.** — 每个人都得穿睡衣  那是他们的最爱
-- **I make my famous sloppy Jays, which are really sloppy joes...** — 我做的炒牛肉"杰"  其实就是炒牛肉酱
-- **but made by Jay, which they love.** — 但是是我杰做的  他们也喜欢
-- **And then we all watch a Western together,** — 然后我们一起看一个西部电影
-- **So, Mom, there's a party tonight at Andrew Adler's,** — 妈  安德鲁·艾德勒家里晚上有派对
-- **and everybody's gonna be there.** — 大家都要去
-- **Ooh, that sounds like so much fun, but I have other plans.** — 听起来不错  但是我有其他安排
-- **Oh, that's hi- larious. But I'm talking about me.** — 真有意思  但我指的是我要去
-- **you said you'd go to your grandfather's tonight.** — 你说你今晚要去外公家
-- **See, that's what's so perfect about this.** — 对啊  所以才刚刚好嘛
-
----
 
 ## 时态 · be going to / would
 
@@ -233,6 +153,23 @@
 | **Go ahead. Open it.** | 来吧，打开。 | 两步：先许可，再动作 |
 | **Let's do it. Let's do it.** | 就这么定了。 | Let's 连说两遍，催促 |
 | **All right. Let's go.** | 好，走吧。 | All right 先答应 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。菲尔嫌礼物、克莱尔要拿水管喷人，都是剧里的话。
+
+**菲尔对克莱尔送礼的评价。** 他爱她，同时嫌她不会挑礼物。这是他的旁白，不是相处说明书。
+**I love my wife, but she sucks at giving gifts.** — 我爱我妻子，但她送礼真的很糟。
+
+**克莱尔对那张拥抱券的评价。** 她说有创意，也点出拥抱本来就不用买。
+**It's so creative. Coupons for hugs, which are usually free.** — 太有创意了。拥抱券，可拥抱通常是免费的。
+
+**米奇尔和卡姆对萨尔的评价。** 他们喜欢她，是因为她毫不拘束。后一句把阿姆斯特丹说成进不去，是夸张的玩笑。
+**The reason we love her so much is she has absolutely no inhibitions.** — 我们这么喜欢她，是因为她完全放得开。
+**Sal's not allowed back into Amsterdam.** — 萨尔不被允许再回阿姆斯特丹。
+
+**克莱尔对打亲戚主意的评价。** 海莉的聚会被家里人惦记。克莱尔用水管收场。这是玩笑式的警告。
+**You're related. I will spray you with the hose.** — 你们是亲戚。我用水管喷你。
 
 ### 本集人生感悟
 

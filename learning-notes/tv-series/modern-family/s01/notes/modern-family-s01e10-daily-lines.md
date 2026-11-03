@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · have to / would rather / used to**、**问句**，以及 **特色**（主题句 *ugly sweaters*、*rather ... than*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · have to / would rather / used to**、**问句**，以及 **特色**（主题句 *ugly sweaters*、*rather ... than*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -35,6 +35,7 @@
 - **Take it from someone who lives in his car.** — 我作为住在车里的人  给你们的箴言
 - **Gosh. Really? Okay. -Do you really live in your car?** — 天啊  真的吗  -你真住在车里吗
 - **Y-You can't spend it in your car.** — 你总不能在你的车里过吧
+- **My neck hole is too small.** — 我的领口太小了。
 
 ## 家事与居家
 
@@ -44,6 +45,7 @@
 - **So, uh, why don't you follow us to our house?** — 那  你可以跟在我们车后面去我们家
 - **Okay. In your house.** — 好的  开着你的"家"
 - **Are you sure one of your friends didn't burn the couch?** — 你确定不是你的某个朋友烧了沙发
+- **In Colombia, practical jokes are a Christmas tradition.** — 在哥伦比亚，恶作剧是圣诞传统。
 
 ## 亲子与学校
 
@@ -55,6 +57,7 @@
 - **How could a newborn baby carry all those presents?** — 一个新生儿怎么能拿得动所有的礼物
 - **At least a baby can fit through a chimney.** — 至少婴儿能穿过烟囱啊
 - **How would you sit on the baby Jesus' lap?** — 那你怎么坐在婴儿耶稣的膝盖上
+- **Merry Christmas Eve!** — 平安夜快乐！
 
 ## 约会与恋爱
 
@@ -64,6 +67,7 @@
 ## 情绪与道歉
 
 - **Whoa! I'm- I'm sorry. Can I- Could you** — 抱歉  我能  你能
+- **Are you crying? — What are you, a robot?** — 你哭了？——你是机器人吗？
 
 ## 社交与礼貌
 
@@ -83,90 +87,6 @@
 - **Do we really have to wear these ugly sweaters?** — 我们真的非得穿这些难看的毛衣吗
 - **your father and I are just gonna have to punish all three of you.** — 我们会将你们三个统统作为惩罚对象
 
-## 其它实用表达
-
-- **It's just until Grandma can see them.** — 让奶奶看到就好了
-- **My neck hole is too small.** — 我的领口太小
-- **Mine's itchy.** — 我的弄得人浑身发痒
-- **You know what? I'd rather be itchy than chokey.** — 其实  我宁愿痒死也不愿意窒息死
-- **Come on, Phil. Hurry up.** — 快来  菲尔  快点
-- **Okay, here we go.** — 好了  我们开始吧
-- **Connecting.** — 视频连接中
-- **Come in, Florida. Over.** — 登陆  佛罗里达  完毕
-- **Mom? Dad?** — 老妈  老爸
-- **Merry Christmas Eve!** — 平安夜快乐
-- **A little- little lower, Dad.** — 稍微低一点点  老爸
-- **You look beautiful in them, darling.** — 你们穿这些毛衣好看极了  亲爱的
-- **Where's Mom? - Mom is sinking fast.** — 老妈呢  -她正在快速下沉
-- **Uh-oh. She's in the bathtub.** — 她在浴缸里泡澡
-- **Get it?** — 听懂了吗
-- **They have that claw-foot.** — 他们有那种老式四脚浴缸
-- **And, uh, there-there's the, uh- there's the ornament you sent us.** — 那些是你送给我们的装饰物
-- **Right here. Right here. Oh.** — 就在这儿  看到了没
-- **There are the stockings,** — 那是圣诞长袜
-- **hung by the chimney by Claire.** — 克莱尔把它们吊[死]在烟囱上的
-- **What the hell is that? - Still funny.** — 那是什么  -还那么搞笑
-- **What is that? That looks like a cigarette burn.** — 那是什么  看上去像是被香烟烫的洞
-- **Was one of you smoking a cigarette? - What?** — 你们有人抽烟了吗  -什么
-- **No. - Which one of you was smoking?** — 没有  -你们谁在偷着抽烟吗
-- **Not me. I have a respiratory problem.** — 不是我  我呼吸系统有问题
-- **Obviously it wasn't you.** — 显然不是你
-- **You gotta see this.** — 你得来看看这出
-- **Did you shoplift your Christmas presents too?** — 你们的圣诞礼物是不是也是从商场偷来的
-- **Philip? - Haley, keep that ugly sweater on.** — 菲利普  -海莉  不许脱那丑毛衣
-- **Anyway, merry Christmas!** — 总之  圣诞快乐
-- **No, no, it isn't that kind of a trial.** — 不  不  不是那种审判
-- **It's just because he says he's Santa Claus.** — 就因为他说他是圣诞老人
-- **But I've got a feeling he is Santa Claus, Mother.** — 但直觉告诉我他就是圣诞老人  妈妈
-- **Some people don't believe that. That's why-** — 有人不相信圣诞老人真的存在  所以...
-- **Are you crying?** — 你哭了吗
-- **What are you, a robot? It's a deeply emotional movie.** — 你是机器人吗  多么感人的电影啊
-- **We gotta finish this first, Gloria.** — 先让我们看完这部电影  歌洛莉亚
-- **The kid's never seen Miracle on 34th Street.** — 这孩子从没看过《34街奇迹》
-- **That's because he always** — 那是因为他一直和我家人
-- **spends Christmas in Colombia with my family.** — 一起在哥伦比亚过圣诞节
-- **And all we see there is Salazar and El Oso Save Christmas.** — 我们看的是《萨拉萨尔和大熊拯救圣诞》
-- **Sounds like a classic. - It is.** — 听上去很经典啊 -确实
-- **Mom, can we finish the movie?** — 老妈  能让我们看完电影吗
-- **He's not like anyone else.** — 他和别人那么不同
-- **He must be Santa.** — 他一定是圣诞老人
-- **I think perhaps you're right, Susie.** — 我想你可能是对的  苏西
-- **What the hell is that?** — 那是什么玩意啊
-- **Inocente! - What the hell?** — 傻冒  -什么玩意
-- **When you told me we were going to watch this movie,** — 当你说我们要一起看这部电影时
-- **I got a joke copy from the Internet.** — 我就从网上下了这个恶作剧版的
-- **You are the inocente!** — 你就是傻冒
-- **Well, maybe I'm a little confused right now.** — 我好像有点弄不明白状况了
-- **What is this "Inocente" Stuff?** — 什么是傻冒
-- **In Colombia, practical jokes are a Christmas tradition.** — 在哥伦比亚  恶作剧是圣诞传统
-- **The one that is fooled is the inocente!** — 被愚弄的人就是傻冒
-- **We tell practical jokes on April Fool's Day,** — 我们在愚人节时才会恶作剧
-- **So do not do that again.** — 千万别再搞这一套了
-- **"Inocente."** — 傻冒
-- **Does it do it again? Ah, it's ruined.** — 还会出现吗  搞得我兴致全无
-- **Are you kidding me with this line?** — 开什么玩笑  要排这么长的队
-- **I'm gonna ask Santa for the last 45 minutes of my life back.** — 我要找圣诞老人要回我刚浪费的45分钟
-- **Where were we a year ago?** — 一年前我们在哪呢
-- **We were at the beginning of this line.** — 在这个长队的最前面
-- **Maybe it's not them.** — 也许不是他们呢
-- **Oh, it's them.** — 就是他们
-- **It's them.** — 就是他们
-- **Three years ago, I formed a caroling group.** — 3年前  我组织了一个唱诗班
-- **We were known as The Greensleevers.** — 名字是"绿袖子颂歌班"
-- **We would perform at charity events, hospitals** — 我们会在慈善活动现场和医院演奏
-- **They were very, very popular.** — 当时可是红遍大江南北
-- **Uh, last year, one of my carolers** — 去年  我的一名成员
-- **Andrew- staged a little coup.** — 安德鲁  他发动了一场小小的政变
-- **And he, um** — 他
-- **They kicked Cameron out of the group.** — 他们把卡梅隆踢出了唱诗班
-- **We're the New Greensleevers.** — 我们是"新"绿袖子颂歌班
-- **The New Greensleevers?** — 新绿袖子
-- **Is there a slap mark on my face?** — 简直是狠狠抽了我一巴掌嘛
-- **I mean, why is Edna singing the low harmony?** — 为什么让埃德娜唱低声部的合音
-- **It's like people are applauding out of shock.** — 观众像是因为震惊才鼓掌一样
-- **Let it go. - Why would** — 随他们去吧  -为什么
-
----
 
 ## 时态 · have to / would rather / used to
 
@@ -240,6 +160,21 @@
 | **So do not do that again.** | 所以别再那样做。 | do not 比 don't 重 |
 | **Don't worry. We're going to have Christmas.** | 别担心，圣诞会有的。 | 命令后面接一个将来 |
 | **Let it go.** | 随他们去吧。 | Let it go |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。丑毛衣和「傻冒」是剧里的玩笑。
+
+**长辈对孩子们穿毛衣的评价，海莉被要求继续穿。** 视频那头说好看。家里把毛衣叫丑，仍不让脱。
+**You look beautiful in them, darling.** — 你们穿着这些很好看，亲爱的。
+**Haley, keep that ugly sweater on.** — 海莉，把那件丑毛衣穿着。
+
+**歌洛莉亚对「谁是傻冒」的评价。** 哥伦比亚圣诞恶作剧里，被骗到的人就是 inocente。她把这顶帽子扣回杰头上。
+**The one that is fooled is the inocente. — You are the inocente!** — 被骗到的人就是傻冒。——你才是傻冒！
+
+**米奇尔对新唱诗班的评价。** 卡姆被原来的组踢出去。米奇尔把新组的掌声说成吓到了才鼓掌。
+**They kicked Cameron out of the group.** — 他们把卡梅隆踢出了那个组。
+**It's like people are applauding out of shock.** — 像是大家因为吓到了才鼓掌。
 
 ### 本集人生感悟
 

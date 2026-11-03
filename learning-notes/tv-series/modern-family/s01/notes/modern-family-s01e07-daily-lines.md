@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · used to / be going to**、**问句**，以及 **特色**（主题句 *find his own way*、*the best at something*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · used to / be going to**、**问句**，以及 **特色**（主题句 *find his own way*、*the best at something*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -31,6 +31,7 @@
 
 - **but it's kind of cool to have a kid in your house** — 但是家里有个有特长的孩子
 - **great home ideas just keep lurking, mostly nearby.** — 好的房屋卖点就藏在你身边
+- **Just rub it on your hair.** — 在头发上蹭一蹭就行。这是剧里的玩笑修法。
 
 ## 亲子与学校
 
@@ -44,7 +45,6 @@
 - **Come on, baby. Show them.** — 来吧  宝贝  给他们瞧瞧
 - **A few years back, my granddaughter Haley ran a 5K,** — 几年前  我孙女海莉跑五千米
 - **Seeing him out there slicing those kids to pieces,** — 看见他把那些小孩打得落花流水
-
 ## 电话与信息
 
 - **No. No, no, no, no! My phone died.** — 不不不不  我手机没电了
@@ -69,6 +69,7 @@
 - **He shouldn't be doing anything that makes him nervous.** — 他觉得太紧张  就别逼他做
 - **I'm not nervous. I just don't want to fight a girl.** — 我不是紧张  我只是不想和一个女孩对决
 - **I'm sorry.** — 对不起
+- **Did I say something wrong?** — 我说错什么了吗？
 
 ## 社交与礼貌
 
@@ -84,93 +85,6 @@
 - **Let's burn one in here.** — 投一个过来
 - **Okay, let's keep all the batters right here.** — 尽量往这个方向投球
 
-## 其它实用表达
-
-- **Bravo! Bravo!** — 太棒啦  太厉害啦
-- **Bravo, Manny! Bravo!** — 太厉害了  曼尼  厉害
-
-- **Well, when I heard Manny wanted to fence, I was, like,** — 当我听说曼尼想学击剑时  我心想
-- **"Sure. Uncoordinated kid, lethal weapon.** — 笨手笨脚的孩子  配上致命的利器
-- **How can this go wrong?"** — 能有比这还糟的吗
-- **What do you think now?** — 现在你的看法又如何呢
-- **I'm proud of our little Zorro.** — 我们的小佐罗真让我骄傲
-- **I mean I worked with him a little, but the kid's got skills.** — 虽说我也教过他几招  但他的确有天赋
-- **It's in his blood. His father was a master swordsman.** — 那是与生俱来的  他爹就是个剑术大师
-- **He was an artist with his sword.** — 堪称剑道里的艺术家
-- **I mean, the way he throws the sword.** — 他英姿焕发  挥剑抬足的样子
-- **I mean, he was legendary.** — 他就是传奇
-
-- **Did you know that fencing goes back to the 12th century?** — 你们知道剑术起源于12世纪吗
-- **You know what's even nerdier than fencing?** — 你知道什么比击剑还呆吗
-- **Knowing when it began.** — 了解它的起源
-- **I don't think you're a nerd, Alex.** — 我可不认为你是呆子  艾丽克斯
-- **Shut up, dork.** — 闭嘴吧  呆子
-- **All right. That's my boy!** — 就是这样  乖儿子
-- **Would this be easier...** — 我们不如用起重机帮你
-- **if we suspended you from a crane?** — 把这玩意吊起来吧
-- **Any monkey can shoot a home movie.** — 家庭录像谁都会拍
-- **I pride myself on shooting home films.** — 但只有我能拍出家庭电影的感觉
-- **But, Cameron, you always just take things a little too far.** — 但是小卡  你做事总是做得太过了
-- **No, I don't.** — 我才没有
-- **Okay, your nephew's first birthday. - That's not fair.** — 你侄子的周岁生日  -说那事儿不公平
-- **You brought a wind machine.** — 你带了台鼓风机去
-- **To be fair, - Cameron,** — 老实说  -卡梅隆
-- **my vision was-  - you brought a wind machine.** — 我本来是要  -那可是鼓风机呀
-
-- **No biggie. Your battery probably just statically defracticated.** — 没什么  大概是你手机电池没静电了
-- **It means you can recharge it with static electricity.** — 你给它充点静电就行了
-- **Just rub it on your hair.** — 在你头发上蹭蹭就好了
-
-- **You know, I used to go to the houses of my friends,** — 我以前去朋友家
-- **and it used to bug me, you know,** — 心里都特别不舒服
-- **because there was never a trophy in my house.** — 因为我家从来没得过奖杯
-- **Not until this one.** — 直到她的出现
-
-- **Can we switch seats?** — 和我换换位置吧
-- **Cam, people are staring.** — 小卡  别人在看你呢
-- **I know you're not supposed to care,** — 我知道父母不该在意这些事
-- **who's the best at something.** — 感觉挺不错的
-- **You know what I mean?** — 你懂我的意思吧
-- **Gosh, we're blessed. - We are. But, um,** — 我们真幸运  -没错  不过呢
-- **are they the best at something?** — 要说他们有什么特长吗
-- **Well, Alex is great at every single thing she tries,** — 只要艾丽克斯想做的  她都能做到最好
-- **so, you know, she'll find her specialty. - She will.** — 所以她总会找到自己的特长  -是的
-- **And Haley is** — 至于海莉嘛
-- **Haley is so pretty.** — 海莉长得多漂亮啊
-- **Gorgeous, gorgeous girl. - Oh, gosh.** — 美若天仙  我女儿美若天仙  -没错
-- **So she can meet someone who's the best at something.** — 所以她可以嫁个有特长的男人
-- **That's right.** — 说的对
-- **And then, uh, I guess that leaves Luke.** — 然后  还剩下卢克
-- **We dropped the ball a little bit on that one.** — 他是有点输在起跑线上了
-- **Yeah, a little bit.** — 的确  有那么一点
-
-- **How about a nice round of applause for our winner, Manny Delgado.** — 请为我们的胜利者曼尼·迪尔加多鼓掌
-- **Manny now moves on to the championship,** — 曼尼晋级了总冠军争夺赛
-- **where he'll be competing against Caroline Markum.** — 他将对阵卡罗琳·马可
-- **We'll see you all back here at 4:30.** — 请在四点半准时到场观看比赛
-- **All right. - Bravo.** — 太好了  -儿子你真棒
-- **What she said.** — 我想说的和她一样
-- **Wow. This means more to Dad than it does to Manny.** — 老爸比曼尼还激动啊
-- **Yeah, it's his chance to be father of a champion.** — 是啊  这可是他成为冠军之父的机会
-- **Well, second chance.** — 其实  以前也有过机会
-- **We all know how the first time went.** — 我们都知道那次是怎么错过了
-- **Did I say something wrong?** — 我说错什么了吗
-- **Everything's always about Claire. Geez.** — 什么事都能扯到她身上  神啊
-- **You guys are the best!** — 你们是最棒的家人
-- **Why, Claire?** — 为什么受伤的总是我  克莱尔
-- **Really?** — 不是吧你
-- **That took a while.** — 你怎么去了那么久
-- **She's been asleep for 20 minutes.** — 她20分钟前就睡着了
-- **It just took me some time to sneak out without waking her up.** — 为了不弄醒她  我不得不悄悄溜走
-- **Kind of like the first time you slept over here.** — 就像你第一次在这里过夜那样
-
-- **What's up with you and your sister?** — 你和你姐之间到底怎么了
-- **Nothing is up. - Mm-hmm.** — 什么都没有  -是吗
-- **Or could this have something to do with... ice skating?** — 是不是和滑冰那事有关呀
-- **This is interesting to no one.** — 没人想听这个故事
-- **When Mitchell was 10 - Eleven.** — 在米奇尔10岁时  -11岁
-
----
 
 ## 时态 · used to / be going to
 
@@ -241,6 +155,24 @@
 | **Alex, don't be mean.** | 艾丽克斯，别刻薄。 | Don't be + 形容词 |
 | **Come on. You're gonna be fine.** | 来吧，你会没事的。 | 命令后面接一句将来 |
 | **Let's talk about why you got your panties in a bunch.** | 我们说说你为什么急成这样。 | Let's talk about + 从句；后半是口语，公开场合可改成 *why you're upset* |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。把海莉说成「漂亮就够了」、把卢克说成起跑落后，是剧里父母的话，不是能照做的评价。
+
+**杰对曼尼学击剑的评价，后来改口。** 他先把孩子和武器放在一起开玩笑，看完比赛才说骄傲。
+**Sure. Uncoordinated kid, lethal weapon. How can this go wrong?** — 当然。不协调的孩子，再加上致命武器。这能出什么错？
+**I'm proud of our little Zorro.** — 我们的小佐罗，我为他骄傲。
+
+**克莱尔和菲尔对三个孩子的评价。** 艾丽克斯什么都好。海莉被说成漂亮。卢克被说成起跑就落后。后两句是他们的看法，不是事实。
+**Haley is so pretty.** — 海莉很漂亮。
+**We dropped the ball a little bit on that one.** — 这个我们有点没接住。说的是卢克。
+
+**克莱尔对卡姆的评价。** 她说他总是做过了。证据是一台鼓风机。
+**Cameron, you always just take things a little too far. — You brought a wind machine.** — 卡梅隆，你总是做过了头。——你带了一台鼓风机。
+
+**艾丽克斯对「更书呆」的评价。** 她把知道击剑起源说成比击剑本身更呆。这是玩笑。
+**You know what's even nerdier than fencing? Knowing when it began.** — 你知道什么比击剑更书呆吗？知道它从什么时候开始。
 
 ### 本集人生感悟
 

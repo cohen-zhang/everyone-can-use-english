@@ -62,7 +62,7 @@ aliases:
 - **I cut back on carbs so I don't crash in the afternoon.** — 少吃点碳水，下午才不困。  
 - **It also keeps my blood sugar from spiking so hard after lunch.** — 少吃也是为了餐后血糖别升那么猛。  
 - **So my nap doesn't have to run so long.** — 午睡也就不用那么久。  
-- **Then at 3, I take an afternoon break.** — 然后下午 3 点，休息一下。  
+- **Then at 1, I take an afternoon break.** — 然后下午 3 点，休息一下。  
 - **If I nap, I keep it under twenty minutes.** — 若午睡，不超过 20 分钟。  
 - **That way I don't slip into deep sleep.** — 这样才不会进入深层睡眠。  
 - **I either refill my bottle at the pantry, or grab a coffee downstairs.** — 要么去茶水间接水，要么下楼买杯咖啡。  

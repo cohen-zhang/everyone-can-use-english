@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · if / be not**、**问句**，以及 **特色**（主题句 *free country*、*Life is not perfect*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · if / be not**、**问句**，以及 **特色**（主题句 *free country*、*Life is not perfect*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -31,6 +31,7 @@
 
 - **There is a pigeon in our house.** — 家里进来一只鸽子
 - **and my mom wrung its neck, and we had it for dinner.** — 我妈把它脖子拧了  然后晚上就吃鸡
+- **We only have the photographer for an hour.** — 摄影师只有一个小时。
 
 ## 亲子与学校
 
@@ -40,6 +41,7 @@
 ## 电话与信息
 
 - **I'm gonna call your dad, and he's gonna tell me how to fix this.** — 我打电话给你爸  问他怎么修
+- **I have been hired to sing at a wedding this weekend.** — 有人请我这周末在婚礼上唱歌。
 
 ## 工作与职场
 
@@ -69,6 +71,7 @@
 - **Hey, you're okay with me not going with you today, right?** — 今天不和你去没关系吧
 - **Hey, it's Phil. You know what to do.** — 你好  我是菲尔  有事请留言
 - **Hello?** — 喂
+- **I choked. I didn't think you'd look up here at me.** — 我卡壳了。我没想到你会往这边看我。
 
 ## 请求与建议
 
@@ -78,90 +81,6 @@
 - **I just need to...** — 我只需要
 - **So you don't have to talk to your wife.** — 于是你不想接你老婆电话就可以挂掉
 
-## 其它实用表达
-
-- **Oh. Why are you crunching?** — 什么在响
-- **Ordinarily, I'm a rule follower,** — 通常  我是守规矩的人
-- **but when someone tells me I can't bring** — 但是如果有人不准我
-- **my own snacks into their stadium,** — 自带零食进体育馆
-- **that's when I get a little nuts.** — 我就要生气[坚果]了
-- **It's a free country, right?** — 这是个自由的国家不是吗
-- **when some goobers tell me...** — 某些蠢货[花生]叫我
-- **on their hot dogs.** — 在他们的热狗上
-- **We only have the photographer for an hour. Okay? - Okay.** — 摄影师只有一个小时时间  -好吧
-- **And, sweetie, did you have a chance to** — 亲爱的  要不要去试试
-- **try on the white pants I put in your closet?** — 我放在你衣橱里面的白裤子
-- **Oh, what do they look like?** — 哦  长什么样的
-- **Is there really a more clear way to describe white pants?** — 白裤子还能长什么样
-- **Sweetie, if they don't fit you,** — 亲爱的  如果不合适
-- **you're going to be the only one not wearing white,** — 你就是全家唯一没穿白裤子的人了
-- **and then you're gonna stand out like "Where's Waldo?"** — 然后你就像"沃尔多在哪里"一样明显扎眼
-- **Actually, "Where's Waldo?" doesn't stand out.** — 实际上  沃尔多在哪里不会明显扎眼
-- **He's super hard to find. That's the challenge.** — 你很难找到他  那正是游戏乐趣所在
-- **This portrait is incredibly important to me.** — 此次全家福对我来说很重要
-- **Also, his name is just "Waldo."** — 而且  他就叫沃尔多  没有"在哪里"
-- **I spent weeks trying to find** — 我花了好几周时间才选到
-- **and finding the right photographer.** — 还有合适的摄影师
-- **So if you could just promise me that you'll cooperate, okay?** — 你向我保证会乖乖合作  好吗
-- **I promise. -Okay.** — 我保证  -好吧
-- **Get in here** — 过来
-- **Oh, no can do. - Oh.** — 哎呀使不得  -哦
-- **Where's my good underwear?** — 我的好内裤哪去了
-- **The question is,** — 问题应该是
-- **why isn't all your underwear good, Jay?** — 为什么你还有烂内裤  杰
-- **You make a nice living.** — 你赚钱那么多
-- **The new maid keeps mixing up my underwear with Manny's.** — 新来的佣人老是把我的内裤和曼尼的弄混
-- **Put on the first thing I grabbed.** — 有一次我随便抓了一条
-- **It was like a crotch tourniquet.** — 紧得跟止血带一样
-- **You gotta talk to her. - Why me?** — 你得跟她说啊  -为什么让我说
-- **Hola. You both speak the same language.** — 喂  你们说一样的语言
-- **She's Portuguese. Do you know how offensive it is...** — 她是葡萄牙人  你知不知道
-- **that you put all of us in the same mixing pot?** — 把我们混为一类人是很不礼貌的
-- **put my underwear- - I can't talk to her!** — 不要把我的内裤  -我们语言不通
-- **Where's Luke? - I'm going instead.** — 卢克呢  -我代替他去
-- **Oh, that's tough.** — 噢  太不幸了
-- **But it's a good lesson for the kid.** — 但是这对他可能是不错的一课
-- **You know, you make a commitment,** — 你作了承诺
-- **you gotta follow through. - Yeah.** — 你得要兑现  -对
-- **What is the project?** — 是什么作业
-- **He has to interview somebody who lived through the 1960s.** — 他要采访一个曾经生活在60年代的人
-- **Oh, no.** — 不会吧
-- **Yeah, Luke.** — 是啊  卢克
-- **Oh, sure. I remember what I said.** — 当然  我记得我承诺过什么
-- **Yeah, come on over. All right.** — 过来吧  好
-- **Yay. Manny, vamos!** — 好耶  曼尼  快点
-- **I'm still getting dressed.** — 我还在穿衣服呢
-- **My underwear won't stay up.** — 我内裤都松了
-- **Oh, so delicious. Yes.** — 好吃  来
-- **I have been hired to sing at a wedding this weekend.** — 有人请我周末去婚礼献唱
-- **I was plucked from obscurity** — 我在一次精彩的卡拉OK
-- **after a particularly stirring karaoke performance.** — 演出后被别人选中了
-- **So I guess you could say I'm a professional singer now.** — 所以说呢  我也算是专业歌手了
-- **Well, they're paying you in flowers, so** — 他们是以花代钱付给你的  所以呢
-- **Well, I would've blown the money on flowers anyway.** — 反正就算他们给钱  我也会拿去买花的
-- **They're saving me a step.** — 他们倒是省了我的麻烦
-- **Plus all the great divas are rewarded in flowers.** — 再说所有的歌后都有人献花
-- **They're also given paychecks.** — 然后还有支票
-- **And I'm really bad at small talk, so** — 我不大擅长闲聊  所以呢
-- **I get it. It's not a problem.** — 我懂了  没什么问题
-- **Are you sure? 'Cause you've been quiet all morning.** — 是吗  我看你一早上没说话
-- **It's because I'm resting my instrument.** — 因为我得酝酿一下我的嗓子
-- **I feel tension.** — 我看他是压力巨大
-- **Kobe! Kobe, over here!** — 科比  科比  这边
-- **Kobe! Kobe! Over here!** — 科比  科比  这边
-- **What can I do for you?** — 需要帮忙吗
-- **Do you like being a basketball player?** — 你喜欢当篮球运动员吗
-- **Serious?** — 不是吧你
-- **I choked. I didn't think you'd look up here at me.** — 我紧张了  我没想到你会往这边看
-- **Little preparation next time.** — 那下次准备下
-- **It's a mental game.** — 用用脑子好好想哦
-- **Duly noted.** — 懂了
-- **All right. - Your Los Angeles Lakers!** — 好  -湖人队入场
-- **What's wrong? - That broken step.** — 怎么了  -楼梯坏了
-- **It's gonna ruin our whole family portrait.** — 全家福会因此被毁的
-- **Okay, here's my idea. I'm really excited about it.** — 我是这样想的  我兴奋得不得了
-
----
 
 ## 时态 · if / would be
 
@@ -232,6 +151,19 @@
 | **Have a great time at the game.** | 看球玩得开心。 | Have a great time |
 | **Now calm the hell down.** | 现在给我冷静下来。 | calm down；hell 把语气加重，公开场合可只说 calm down |
 | **Why don't you just give it to me right now?** | 为什么不现在就给我？ | Why don't you just + 动词 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。白裤子和沃尔多是克莱尔的比喻，艾丽克斯把比喻拆开。
+
+**克莱尔对不穿白裤子的人的评价。** 她说那个人会像沃尔多一样扎眼。
+**you're going to be the only one not wearing white, and then you're gonna stand out like "Where's Waldo?"** — 你将是唯一不穿白裤子的，然后你会像《沃尔多在哪里》一样扎眼。
+
+**艾丽克斯对这个比喻的评价。** 她说沃尔多的要点是不好找，不是扎眼。
+**Actually, "Where's Waldo?" doesn't stand out. He's super hard to find.** — 其实沃尔多并不扎眼。他非常难找。
+
+**卡姆对自己新工作的评价。** 一场婚礼的演唱，他就把自己说成职业歌手。
+**So I guess you could say I'm a professional singer now.** — 所以你可以说，我现在是职业歌手了。
 
 ### 本集人生感悟
 

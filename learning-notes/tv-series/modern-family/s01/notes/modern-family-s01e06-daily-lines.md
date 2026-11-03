@@ -23,7 +23,7 @@
 
 本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
 
-文末三章是精读，不在上面的场景桶里：**时态 · used to / should**、**问句**，以及 **特色**（主题句 *He used to hold my finger*、*could use a win*、祈使句、本集想说的话）。
+文末三章是精读，不在上面的场景桶里：**时态 · used to / should**、**问句**，以及 **特色**（主题句 *He used to hold my finger*、*could use a win*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
@@ -33,11 +33,14 @@
 - **We gotta take her to the doctor. Load up the car.** — 我们得带她去看医生  把车开出来
 - **Like the other day, Claire was, like, "You have to move your car.** — 有一天  克莱尔说"把你的车挪开点"
 - **you know, I should probably get a sports car.** — 也许我该换一辆跑车
+- **Haley just got her learner's permit. We've been taking turns driving with her.** — 海莉刚拿到学习驾照。我们轮流陪她开。
+- **This navigation system is all messed up. It thinks we're in a park.** — 这导航乱了。它以为我们在公园里。
 
 ## 家事与居家
 
 - **Remember, uh, breakfast for dinner last week?** — 还记得  上周用早餐当晚餐吗
 - **There's no space in the garage for both of our cars."** — "车库里装不下我们俩的车"
+- **I get up at 6:00. — That's you? I thought we had a raccoon.** — 我 6 点起床。——是你？我还以为家里进了浣熊。这是玩笑。
 
 ## 亲子与学校
 
@@ -59,6 +62,7 @@
 - **I just dropped Manny off at school.** — 我刚把曼尼送到学校了
 - **Well, the first day of school can be tough** — 对家庭主妇们来说
 - **the kids are gone, the nest is empty.** — 孩子们也走了  巢也空了
+- **I was supposed to keep a journal all summer. It's due today.** — 我本该记一暑假日记。今天要交。
 
 ## 电话与信息
 
@@ -99,90 +103,6 @@
 - **Now, you have to understand,** — 因为你不得不适应
 - **You don't have to do that.** — 你不必陪我的
 
-## 其它实用表达
-
-- **Okay, your brother's lunch is packed.** — 你弟弟的午餐装好了
-- **You're buying your own lunch.** — 你的午餐自己买
-- **There he is. Last chance for the summer handshake.** — 他来了  最后一次夏日握手
-- **Come on. We're only halfway done.** — 继续啊  我们只做了一半
-- **I need help.** — 我需要帮忙
-- **I was supposed to keep a journal all summer. It's due today.** — 我本来该写暑假日记的  今天就得交了
-- **I'm dead.** — 我死定了
-- **All right. Tell me how far you've gotten.** — 好吧  说说看你还差多少
-- **"June 21. Found a stick."** — "6月21日  找到一根棍子"
-- **"June 22." That's it.** — "6月22日"  没了
-- **That's it? - It was a really cool stick.** — 没了  -那棍子真的很赞
-- **He's right. It looked like a snake.** — 他说的没错  长得就跟蛇一样
-- **Getting everybody out of the house in the morning** — 每天早上送大家出门
-- **can be really tough,** — 可不是件省心的事
-- **From the minute we get up at 7:00** — 从我俩7点起床的那一刻开始
-- **I get up at 6:00.** — 我6点就起来了
-- **I get up at 5:00.** — 我还5点起床呢
-- **Seriously. I get up at 6:00.** — 说真的  我6点就起了
-- **That's you? I thought we had a raccoon.** — 原来是你啊  我还以为是浣熊进来了呢
-- **I can't believe my little boy is going into the fifth grade.** — 真不敢相信我的宝贝都上5年级了
-- **He used to hold my finger with his little hand** — 我还记得他用小手紧握着我手指
-- **and look at me with those big eyes.** — 一双大眼望着我的样子呢
-- **Mi nio pequeo, Jay.** — 那是我的小宝贝啊  杰
-- **Yup, they grow up.** — 是啊  孩子总会长大
-- **How's my hair?** — 我的发型如何
-- **Hold on. What are you wearing there?** — 等等  你穿的是个什么玩意儿
-- **That looks like an old Christmas tree skirt.** — 跟圣诞树罩子一样
-- **It's a traditional Colombian poncho.** — 这是一件传统的哥伦比亚斗篷
-- **I want my new classmates to know** — 我想让新同学知道
-- **I'm proud of my heritage.** — 我对我的老祖先有多么自豪
-- **I think you look very handsome. Lindo.** — 我觉得你帅呆了  小宝贝
-- **or is he gonna ride his burro?** — 还是他自己骑驴去
-- ***You are a cutie pie, yes, you are*** — *你是个可爱派  没错  就是你*
-- ***You are a cutie pie*** — *你是个可爱派*
-- **Everything we own is pointy.** — 我们家到处都是尖角
-- **She is not Donna Summer.** — 她才不是唐娜·莎曼
-- **Clearly she's Diana Ross from the R.C.A. Years.** — 明明是黄金岁月时期的戴安娜·罗斯
-- **How is daddy not seeing that?** — 你说爹地怎么没看出来呢
-- **I really thought you were done with this.** — 我还以为你已经玩腻了呢
-- **I made no such promises.** — 我可没这么说
-- **I guess I'm somewhat of a shutterbug. - Yes.** — 我算得上是个摄影爱好者  -对
-- **And my new favorite model, of course, is Lily.** — 我的模特新宠嘛  当然就是莉莉了
-- **I just completed a series of photographs** — 我刚刚替莉莉拍完一整套
-- **of her dressed as various pop icons.** — 流行偶像模仿写真照
-- **I've done Olivia Newton-John.** — 我们拍模仿过奧莉维亚·纽顿·约翰
-- **I've done Madonna, the early years,** — 和出道早期的麦当娜
-- **Stevie Wonder** — 史提夫·汪达
-- **Yeah, there are days when Lily has more costume changes than Cher.** — 对  有时候莉莉换衣服比雪儿还勤
-- **Cher! How could I forget Cher?** — 雪儿  我怎么把她给忘了
-- **That's embarrassing.** — 真是羞愧啊
-- **That's embarrassing?** — 你只为这个羞愧吗
-- **Five more years.** — 再忍5年就搬
-- **A little help here?** — 能帮点儿忙吗
-- **This is why we suggested the violin.** — 所以我们才建议你学小提琴
-- **A cello is more in demand in university orchestras.** — 大提琴手比较讨大学管弦乐队喜欢
-- **You know what's not in demand? - Oh, what?** — 你知道什么不讨人喜欢吗  -什么
-- **Girls who play in university orchestras.** — 参加管弦乐团的姑娘
-- **Here, I'll help you carry it out to the curb. - Okay. Here.** — 来  我帮你提到路边去吧  -给
-- **Phil, put on some pants.** — 菲尔  把裤子穿上
-- **Come on! This covers up more than my bathing suit.** — 拜托  这裤子比我的泳裤长多了
-- **And don't remind me.** — 别提你的泳裤了
-- **Can't he pick me up someplace else?** — 他就不能换个地儿接我吗
-- **a 40-year-old driving instructor who's not even cute.** — 40岁又不帅的驾校教练约会
-- **Haley just got her learner's permit.** — 海莉刚拿到驾驶实习证
-- **We've been taking turns driving with her.** — 我们轮流陪她开车
-- **One of the really standard rules of the road...** — 最基本的驾驶规则之一
-- **is we want to keep a safe distance** — 就是要和前面的车
-- **And that is not safe right there. Not safe. - Right.** — 这距离不安全  不安全啊  -对
-- **Okay, merge. - I** — 好  并道  -我
-- **Merge. Merge! Merge! Merge! Merge!** — 并道  并道  并道并道快并道
-- **Stop it! You're freaking me out!** — 闭嘴  你再叫我都崩溃了
-- **This navigation system is all messed up.** — 这导航系统乱七八糟的
-- **It thinks we're in a park.** — 上面说我们开进了一个公园里
-- **Oh, my God! It is a park!** — 我的天  还真是一个公园
-- **Aim for the lake! - I wanted** — 朝湖里开  -我该
-- **Makes you realize we're all just hanging by a thread.** — 我们夫妻俩真是命悬一线啊
-- **is you "undermelting" his confidence.** — 就是你"打计"他的自信心了
-- **Undermining. - Now you're doing it to me too.** — 是打击  -你现在又打击我了
-- **but there's only two places anyone should wear a poncho** — 但人们只在两种情况下穿雨披
-- **Niagara Falls and log rides.** — 去尼亚加拉大瀑布和玩激流勇进
-
----
 
 ## 时态 · used to / should
 
@@ -253,6 +173,23 @@
 | **Come on, Manny. Let's get going.** | 曼尼，动身了。 | Let's get going 比 let's go 多一层「出发」 |
 | **Don't forget, the driving instructor is picking you up.** | 别忘了，教练来接你。 | Don't forget + 完整句子 |
 | **Would you please stop.** | 你能不能停下。 | Would you please 把命令说成请求 |
+
+### 角色之间的评价
+
+这里收的是评价：一个角色把另一个人说成什么样。斗篷和短裤那两句是外形玩笑。
+
+**杰对曼尼斗篷的评价，歌洛莉亚反过来夸。** 杰说像圣诞树裙。歌洛莉亚说好看。
+**That looks like an old Christmas tree skirt. — It's a traditional Colombian poncho.** — 那看着像一块旧的圣诞树裙。——这是传统的哥伦比亚斗篷。
+**I think you look very handsome.** — 我觉得你很好看。
+
+**克莱尔对菲尔穿着的评价。** 她要的是裤子。菲尔拿泳裤比较，是玩笑。
+**Phil, put on some pants. — This covers up more than my bathing suit.** — 菲尔，把裤子穿上。——这比我的泳裤遮得多。
+
+**艾丽克斯对「大学管弦乐女孩」的评价。** 她把大提琴建议说成不受欢迎。这是兄妹式的挖苦。
+**You know what's not in demand? Girls who play in university orchestras.** — 你知道什么不吃香吗？在大学管弦乐团里演奏的女孩。
+
+**克莱尔对海莉开车的评价。** 并道时她先崩了。
+**Stop it! You're freaking me out!** — 停下！你吓到我了。
 
 ### 本集人生感悟
 
