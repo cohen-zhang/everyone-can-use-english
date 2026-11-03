@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e21-transcript.txt|S01E21 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在执行中不断翻车；Claire 则在“放手”与“担心”之间来回拉扯。Jay 和 Gloria 线也延续了代际教育观的冲突。最终每个人都发现，陪伴质量往往比安排本身更重要。
@@ -21,70 +23,125 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 - **presence over planning** — 陪伴重于安排
 - **family learning** — 家庭共同学习
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · gonna say**、**问句**，以及 **特色**（主题句 *working hard*、*Am I in trouble*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · gonna say**、**问句**、**特色**（主题句 *working hard*、*Am I in trouble*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Maple Drive. Just came out.** — 《枫叶大道》  刚上映的
-- **Yeah, and they never take separate vacations, so** — 他们从没分开旅行过  所以
-- **Because I could identify every commie plane.** — 因为我能认出苏共的每一架飞机
-- **He drove his R.V. all the way up from Cocoa Beach.** — 他从可可海滩一路开着房车过来。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 忙吗
 
-- **Oh, well we have a new rule- no sleeping in the bedroom.** — 我们家立了新规矩  不许进卧室
-- **maybe it pays off in the bedroom.** — 也许会在卧室好好犒赏我
-- **Oh, well, at home, I smoke sausages.** — 好吧  我自家熏制了香肠
-- **But we have talked about getting a dog for years.** — 可我们谈养狗已经谈了好几年。
+**Hey, Son, working hard?** — 儿子，在忙吗？
 
-## 亲子与学校
+- **场景：** 进门或路过时，用升调把「在干活」变成问候。本集后面接老笑话，这里只跟到问句。
+- **发音：** 重音在 *hard*。升调表示在问。
+- **语域：** 家人。对同事可只说 *Working hard?*
+- **迁移：** **Working hard?** — 忙吗？
 
-- **Hey, Son, working hard?** — 儿子啊  在努力工作吗
-- **I went to high school with Mitch.** — 我是米奇的高中同学
-- **But I'm supposed to be in school.** — 可我该去上学了
-- **was when my old man sprung me from school** — 就是我老爹带我逃课
-- **Oh, that reminds me. She sent some gifts for the kids.** — 那倒提醒了我  她给孩子们带了礼物
-- **This is a great chance to teach the kids responsibility.** — 这也是教导孩子责任感的大好机会
-- **His parents got back together.** — 他父母复合了
-- **I used to be a music teacher,** — 我以前是音乐老师
+### 2. 我有麻烦了吗
 
-## 工作与职场
+**Am I in trouble?** — 我有麻烦了吗？
 
-- **He crank calls me at work, like, three times a week.** — 我上班时他一周打三次骚扰电话来
+- **场景：** 知道自己可能闯祸，先问严重程度。
+- **发音：** 重音在 *trouble*。
+- **语域：** 家人、熟人。正式场合换成 *Did I do something wrong?*
+- **迁移：** **Am I late?** — 我迟到了吗？
 
-## 约会与恋爱
+### 3. 有多糟
 
-- **Honeydew! What's up?** — 宝贝儿  找我什么事
-- **She's on a cruise with her girlfriends,** — 她和她的闺蜜们乘游轮旅游去了
-## 情绪与道歉
+**How bad is this?** — 这事有多糟？
 
-- **He's awesome. He's always up. He's always happy.** — 他特别好  永远积极向上  笑口常开
-- **And I'm sorry.** — 对不起
-- **All right, relax.** — 放轻松
+- **场景：** 有点怕，想知道局面有多严重。本集前面还有 *I'm a little scared*，这里从问句起。
+- **发音：** 重音在 *bad*。
+- **语域：** 家人、熟人。
+- **迁移：** **How bad is it?** — 有多糟？
 
-## 社交与礼貌
+### 4. 放轻松
 
-- **Hey, how'd it go in there? - No cavities.** — 医生怎么说  -没有蛀牙
-- **Hey, you want to go to the movies?** — 嘿  你想去看电影吗
-- **Hello?** — {\i1}有人吗
-- **I always wanted a dog. Thanks, Grandpa.** — 我一直想养狗来着  谢谢爷爷
-- **Hey, look who's here. Uncle Cam.** — 看看谁来了  小卡舅夫
-- **Hey, we heard about the new addition** — 嘿  我们听说来了新成员
-- **Oh, well, thank you, Frank. I get 'em online.** — 谢了  弗兰克  我网购的
+**All right, relax.** — 好了，放轻松。
 
-## 请求与建议
+- **场景：** 对方紧张或激动，先把气氛降下来。
+- **发音：** 重音在 *relax*。
+- **语域：** 家人、熟人。对不熟的人语气可能显得命令。
+- **迁移：** **All right, take a breath.** — 好了，先喘口气。
 
-- **Yes, I should have told Claire about the dog,** — 没错  我早该把狗的事告诉克莱尔
-- **Come on. Let's go.** — 来  走吧
-- **Now we're gonna have to cancel the gig tomorrow.** — 我们明天的演出得取消了
-- **Okay. Let's do it.** — 好吧  我们试一试
-- **No, honestly, I think that you should** — 说真的  我想你应该
-- **Dude, you should label those sticks.** — 老兄  你该给鼓槌贴好左右标签
+### 5. 对不起
 
+**And I'm sorry.** — 对不起。
+
+- **场景：** 承认自己有错，接在解释后面。
+- **发音：** 重音在 *sorry*。
+- **语域：** 可以对家人、也可以对熟人。
+- **迁移：** **I'm sorry I didn't tell you sooner.** — 对不起，我没早点告诉你。
+
+### 6. 里面怎么样
+
+**Hey, how'd it go in there?** — 嘿，里面怎么样？
+
+- **场景：** 有人从房间、诊所或里面出来，你在外面等，顺口问结果。
+- **发音：** *how'd* 是 *how did* 的弱读。重音在 *go*。
+- **语域：** 家人、熟人。
+- **迁移：** **How'd it go?** — 怎么样？
+
+### 7. 想去看电影吗
+
+**Hey, you want to go to the movies?** — 嘿，想去看电影吗？
+
+- **场景：** 随口邀请一起出门。口语里常省略句首 *Do*。
+- **发音：** *want to* 常弱读成 *wanna*。重音在 *movies*。
+- **语域：** 家人、朋友。
+- **迁移：** **You want to sit down?** — 想坐下吗？
+
+### 8. 来吧走吧
+
+**Come on. Let's go.** — 来吧，我们走。
+
+- **场景：** 事情说定了，催大家动身。
+- **发音：** *Let's* 是 *let us* 连在一起。重音在 *go*。
+- **语域：** 家人、熟人。
+- **迁移：** **Come on. Let's get going.** — 来吧，我们出发。
+
+### 9. 我们试试吧
+
+**Okay. Let's do it.** — 好吧，我们试试吧。
+
+- **场景：** 商量之后，决定动手试一次。
+- **发音：** 重音在 *do*。
+- **语域：** 家人、熟人。
+- **迁移：** **Okay. Let's try it.** — 好吧，我们试试看。
+
+### 10. 早该告诉你
+
+**Yes, I should have told you about the dog.** — 没错，我早该把狗的事告诉你。
+
+- **场景：** 承认大事应该先商量。本集原句里是克莱尔的名字，家里换成 *you*。
+- **发音：** *should have* 口语里常弱读成 *should've*。重音在 *told*。
+- **语域：** 只对伴侣或家人说这种认错句。
+- **迁移：** **I should have told you first.** — 我本该先告诉你。
+
+### 11. 他一定会那么说
+
+**He's gonna say it.** — 他一定会那么说。
+
+- **场景：** 太熟悉对方的习惯，下一句台词都能猜到。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *say*。
+- **语域：** 家人、熟人之间讲习惯。
+- **迁移：** **She's gonna say she's fine.** — 她一定会说她没事。
+
+### 12. 我本来想告诉你
+
+**I meant to tell you.** — 我本来想告诉你。
+
+- **场景：** 解释为什么没提前说——不是不想说，是还没说出口事情就发生了。
+- **发音：** *meant to* 连读。重音在 *tell*。
+- **语域：** 家人、熟人。
+- **迁移：** **I meant to call you.** — 我本来想给你打电话。
+
+**听懂即可，不跟读：** *Hardly working.* — 几乎没在忙。接在 *working hard?* 后面的父子老笑话。语域是剧里的套话，家里不必照背。
+
+---
 
 ## 时态 · be going to say
 
@@ -97,10 +154,7 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 | **Am I** | *Am I in trouble?* — 我有麻烦了吗？ | *Am I late?* — 我迟到了吗？ |
 | **How bad** | *Okay, I'm a little scared. How bad is this?* — 我有点怕。这事有多糟？ | *How bad is the traffic?* — 路况有多糟？ |
 
-跟读：
-
-- **He's gonna say it.** — 他一定会这么说。
-- **Am I in trouble?** — 我有麻烦了吗？
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。
 
 *Hardly working* 接 *working hard*，是父子之间的老套近。套话也可以是爱。
 
@@ -118,6 +172,8 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 | **How about you** | *He's a lawyer. How about you?* — 他是律师。你呢？ | *I'm fine. How about you?* — 我没事。你呢？ |
 | **how'd it go** | *Hey, how'd it go in there?* — 里面怎么样？ | *How'd it go?* — 怎么样？ |
 | **you want to** | *Hey, you want to go to the movies?* — 想去看电影吗？ | *You want to sit down?* — 想坐下吗？ |
+
+*Am I in trouble?* 和 *really, really big* 叠在一起，是玩笑里把麻烦说满。家里认真认错时用陈述句，不用这种叠词顶回去。
 
 ## 特色 · hardly working，和这一集想说的话
 
@@ -180,23 +236,46 @@ Phil 试图通过亲子活动证明自己是“懂孩子的好爸爸”，却在
 2. **本想告诉你，常常已经晚了。** *I meant to tell you he was driving out.* 房车先到，解释后到。
    **I meant to tell you.** — 我本来想告诉你。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**家里的新成员要先说，再说已经晚了的那句。** 狗 Scott 掉毛、咬东西。克莱尔的规矩先于父亲的解释。*Am I in trouble?* 是菲尔知道自己欠一次商量。
-**Am I in trouble?** — 我有麻烦了吗？
-**Oh, really, really big.** — 非常、非常大。
+1. **大事先商量，再认错。**
+   - **骨架：** *I cannot believe you got a dog without consulting me.*
+   - **家里说：** **I should have told you about it first.** — 我本该先跟你商量。
+   - **语域：** 只对伴侣说。发音见语块 10。
 
-#### 亲子相处
+2. **用问句量麻烦有多大。**
+   - **骨架：** *Am I in trouble? — Oh, really, really big.*
+   - **家里说：** **Am I in trouble?** — 我有麻烦了吗？
+   - **语域：** 只对伴侣，带一点玩笑。认真吵架时不叠 *really, really*。发音见语块 2。
 
-**孩子舍不得的，父母也舍不得。** 卢克不舍 Scott。弗兰克把狗带走。菲尔和父亲在车道上比在笑话里更近。恐怖片把曼尼吓住，杰请人拿假砍刀来脱敏，结果更吓。面对恐惧如果加码，孩子只会更怕。
-**How'd it go in there?** — 里面怎么样？看完牙、看完一场怕，都可以用这句接。
+### 亲子 · 今天能对 Celine 说
+
+1. **里面出来，问一句怎么样。**
+   - **骨架：** *Hey, how'd it go in there?*
+   - **家里说：** **Celine, how'd it go in there?** — Celine，里面怎么样？
+   - **语域：** 家长对孩子。看牙、看医生、试完课都能用。发音见语块 6。
+
+2. **用邀请，不用压力问句。**
+   - **骨架：** *Hey, you want to go to the movies?*
+   - **家里说：** **Celine, you want to go for a walk?** — Celine，想去散个步吗？
+   - **语域：** 家长对孩子。发音见语块 7。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 伴侣领回家一件大事没跟你商量，你想认错。
+2. 知道自己可能闯祸，你想先问有多严重。
+3. 有人从里面出来，你想问进行得怎么样。
+4. 你想对伴侣说：我本该先告诉你。
+5. 请 Celine 一起出门，用邀请句。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*Hardly working* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

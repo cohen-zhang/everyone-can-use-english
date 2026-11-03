@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e04-transcript.txt|S01E04 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 过去的一次家庭冲突被重新提起，所有人都想弄清当年“谁冒犯了谁”。在不同视角的回忆里，每个人都觉得自己有理，最终才意识到真正的问题是长期积累的误解与面子。全家在争执后重新校准边界，也更懂得给彼此留台阶。
@@ -21,68 +23,121 @@
 - **emotional repair** — 情绪修复
 - **mutual respect** — 相互尊重
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · be going to**、**问句**，以及 **特色**（主题句 *Everybody is going to be there*、*better and better*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · be going to**、**问句**、**特色**（*Everybody is going to be there*、*better and better*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **What can I say? I drive women crazy.** — 说什么好呢  我就是能让女人如痴如"狂"
-- **drive two hours to go to a concert...** — 开两小时的车去看一个演唱会
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 所有人都会去
 
-- **You know, honey, there's a gun in the footlocker in the garage.** — 宝贝  车库的小提箱里有一杆枪
-- **we are actually all supposed to have Sunday dinner tonight,** — 其实我们今晚要搞周日聚餐
-- **Now, that is a scone.** — 这才是一块司康。
-- **Sounds like a bird hit the window.** — 听着像鸟撞上了窗户。
+**Everybody is going to be there.** — 所有人都会去。
 
-## 亲子与学校
+- **场景：** 用「别人都去」换一个许可。听的人先分清：这是事实，还是压力。
+- **发音：** *going to* 可以收成 *gonna*。重音在 *there*。
+- **语域：** 家人。它还不是许可。
+- **迁移：** **Everybody is going to be at the dinner.** — 晚饭所有人都会到。
 
-- **Well, I couldn't wait to see your new baby. Where is she?** — 我等不及要见我的小孙女了  她在哪儿
-- **whom apparently the drink was named after.** — 那酒名显然说的就是那帮家伙
-- **Ay, baby! Did you have fun at the slumber party?** — 宝贝  睡衣派对好玩吗
-- **Act like a parent, talk like a peer.** — 父亲般的威严  朋友般的关爱
-- **I just want him to fit in.** — 我只是想让他融进去。
+### 2. 我去洗个澡
 
-## 工作与职场
+**I'm gonna take a shower.** — 我去洗个澡。
 
-- **in a tiny little office of a judge in Colombia.** — 哥伦比亚一间很小的法官办公室里举办的
+- **场景：** 告诉家里人自己下一步要做什么。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *shower*。
+- **语域：** 家人。
+- **迁移：** **I'm gonna head out.** — 我先走了。
 
-## 约会与恋爱
+### 3. 我很爱你
 
-- **Hi, honey. Mmm! - Hi. I, uh** — 你好  宝贝  -你好  我...
-- **because my ex-husband and I got married...** — 因为我和我前夫的婚礼是在
-- **I was supposed to come with a date,** — 我本来要带男朋友来的
-- **I love you so much.** — 我爱死你了
-- **Honey, I would love to let you go to the concert.** — 宝贝  我很愿意让你去看演唱会
-- **I'm gonna take a shower. Do you care to join me?** — 我去冲个澡。你要一起来吗？
+**I love you so much.** — 我很爱你。
 
-## 情绪与道歉
+- **场景：** 把喜欢直接说出来。*so much* 把这句话加重。
+- **发音：** 重音在 *love*。
+- **语域：** 亲近的人。
+- **迁移：** **I love you.** — 我爱你。
 
-- **I don't know, but I'm afraid to move.** — 我也不知道  我震惊得都不敢动
-- **Now I'm sad.** — 现在我郁闷了
-- **I'm very happy for them.** — 我为他们感到高兴
-- **Mom. Mom. - Oh, relax, Mitchell.** — 妈  妈  -米奇尔  放松
-- **Don't worry about it.** — 没什么好担心的
-- **Well, everyone's mad at me.** — 大家都生我的气
+### 4. 我很想答应
 
-## 社交与礼貌
+**I would love to let you go.** — 我很想让你去。
 
-- **You're really good at this. - Thanks.** — 你玩得真好  -谢谢
-- **Kiss me! Oh, hey, kiss me!** — 吻我吧  吻我吧
-- **Cam, please.** — 小卡  别这样
-- **Hello? I was a Hall-Raiser.** — 我当年可是个"霍粉"呢
-- **I would like to make a toast.** — 我想敬一杯。
+- **场景：** 想答应，话先停在 *would love*。本集后面还接着演唱会，那半句不跟读。
+- **发音：** *would* 弱读。重音在 *love*。
+- **语域：** 家长对孩子，或伴侣之间。*would love* 还不是 *yes*。
+- **迁移：** **I would love to say yes.** — 我很想答应。
 
-## 请求与建议
+### 5. 我现在难过
 
-- **Cameron, you should try it.** — 卡梅隆  你也该试试
-- **No, no. - Let's just go get a little fresh air, okay?** — 别别  -我们去呼吸一下新鲜空气  好吗
-- **Because you need to understand... - Okay. Everybody, calm down!** — 因为你必须明白  -好啦  大家冷静一下
-- **Let's start from the beginning.** — 我们从头来说一说
+**Now I'm sad.** — 我现在难过了。
+
+- **场景：** 情绪变了，当场说出来。
+- **发音：** 重音在 *sad*。
+- **语域：** 家人、朋友。
+- **迁移：** **Now I'm tired.** — 我现在累了。
+
+### 6. 别往心里去
+
+**Don't worry about it.** — 别往心里去。
+
+- **场景：** 把对方从一件小事里拉出来。
+- **发音：** *about it* 轻。重音在 *worry*。
+- **语域：** 家人。接在报复、闯祸后面，这句就不再是安慰。
+- **迁移：** **Don't worry about the dishes.** — 碗的事别往心里去。
+
+### 7. 大家都在生我的气
+
+**Everyone's mad at me.** — 大家都在生我的气。
+
+- **场景：** 自己先承认屋子里的气氛。
+- **发音：** *Everyone's* 是 *everyone is*。重音在 *mad*。
+- **语域：** 家人。
+- **迁移：** **I think they're upset.** — 我觉得他们不高兴。
+
+### 8. 你这个做得真好
+
+**You're really good at this.** — 你这个做得真好。
+
+- **场景：** 看见对方做成一件事，当场夸。下一句常常是 *Thanks.*
+- **发音：** 重音在 *good*。
+- **语域：** 可以对客人说。
+- **迁移：** **Thanks.** — 谢谢。用来接住夸奖。
+
+### 9. 我想说两句
+
+**I would like to make a toast.** — 我想敬一杯。
+
+- **场景：** 饭桌上请大家停一下，听你说一句。
+- **发音：** *would like* 比 *want* 轻。重音在 *toast*。
+- **语域：** 可以对客人说。家里没有酒，也可以说 *I want to say something.*
+- **迁移：** **I want to say something.** — 我想说两句。
+
+### 10. 出去透口气
+
+**Let's just go get a little fresh air, okay?** — 我们出去透口气，好吗？
+
+- **场景：** 屋里快吵起来，你提议先出去。*okay* 是在问对方愿不愿意。
+- **发音：** *just* 轻。重音在 *air*。
+- **语域：** 家人、朋友。
+- **迁移：** **Let's step outside, okay?** — 我们出去一下，好吗？
+
+### 11. 从头说
+
+**Let's start from the beginning.** — 我们从头说。
+
+- **场景：** 各说各的，你把故事拉回第一句。
+- **发音：** 重音在 *beginning*。
+- **语域：** 家人。也可以用在把一件事讲清楚的时候。
+- **迁移：** **Start from the beginning.** — 从头说。
+
+### 12. 我想让他融进去
+
+**I just want him to fit in.** — 我只是想让他融进去。
+
+- **场景：** 家长解释自己为什么推了一把。*just* 把动机说小。
+- **发音：** *just* 轻。重音在 *fit*。
+- **语域：** 家长之间。对孩子说，改成下面的迁移，不把「融进去」当成任务。
+- **迁移：** **I just want you to feel okay there.** — 我只是想让你在那儿自在。
 
 
 ## 时态 · be going to
@@ -96,12 +151,9 @@
 | **gonna** 即兴打算 | *I'm gonna take a shower.* — 我去洗个澡。 | *I'm gonna head out.* — 我先走了。 |
 | **If I ever** 一旦 | *If I ever say no to that question, I want you to use it on me.* — 要是哪天我拒绝这个问题，你就拿它对付我。 | *If I ever skip breakfast, ask me what's wrong.* — 要是哪天我连早饭都跳过，就问我怎么了。 |
 
-*If I ever say no* 是杰的玩笑：歌洛莉亚问要不要一起洗澡，他说自己要是拒绝，就让她用车库里的枪。夸张，用来把「好」说死。
+*If I ever say no* 是杰的玩笑：他把拒绝说成不可想象。夸张，用来把「好」说死。家里不跟着说后半句。
 
-跟读：
-
-- **Everybody is going to be there.** — 所有人都会去。
-- **He's not going to college.** — 他不会去上大学。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -117,7 +169,7 @@
 | **okay?** 建议收尾 | *Let's just go get a little fresh air, okay?* — 我们出去透口气，好吗？ | *Let's step outside, okay?* — 我们出去一下，好吗？ |
 | **What, did you** 先丢一个词再问 | *What, did you take your Claire pill?* — 怎么，你吃了「克莱尔牌」药？ | *What, did you already eat?* — 怎么，你已经吃过了？ |
 
-*Why aren't they -ing* 问的是眼前正在发生的反常：姐妹突然和好，克莱尔反而害怕。
+*Why aren't they -ing* 问的是眼前正在发生的反常。对孩子说之前，先换成 *Want to tell me what happened?*
 
 ## 特色 · better and better，和这一集想说的话
 
@@ -181,28 +233,49 @@
 2. **越来越糟的时候，英语会笑着把 better 说两遍。** *This just gets better and better.* 是反话。听到比较级叠用，先看脸色。
    **Better and better can mean worse.** — better and better 可以是在说更糟。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**一句永远的「好」，可以是玩笑，也可以是在场。** 歌洛莉亚问杰要不要一起洗澡。杰说：*If I ever say no to that question, I want you to use it on me.* 枪是夸张。这句话把拒绝说成不可想象。
-**If I ever say no to that question, I want you to use it on me.** — 要是哪天我拒绝这个问题，你就拿它对付我。
+和精学语块重复的句子，这里只写家里怎么说。
 
-**原谅可以先于感觉到达。** 迪迪把婚礼上的事道歉说完，歌洛莉亚嘴上原谅，接着情绪还是崩了，伸手去掐。话和身体可以差一拍。
-**The words can arrive before the feeling does.** — 话可以比感觉先到。
+1. **把喜欢说短。**
+   - **骨架：** *I love you so much.*
+   - **家里说：** **I love you.** — 我爱你。
+   - **语域：** 只对伴侣说。重音在 *love*。
 
-#### 亲子相处
+2. **想答应，先把这句话说出来。**
+   - **骨架：** *I would love to let you go.*
+   - **家里说：** **I would love to say yes.** — 我很想答应。
+   - **语域：** 伴侣之间。*would love* 还不是已经答应。
 
-1. **你教的那一课，会由你来收场。** 杰教曼尼「以牙还牙」。曼尼按这个去烧同学的自行车，背锅的是杰。
-   **Don't worry about it.** — 别往心里去。这句如果接在报复后面，就不再是安慰。
+### 亲子 · 今天能对 Celine 说
 
-2. **突然的和平也会让父母害怕。** *Why aren't they trying to hurt each other?* 海莉和艾丽克斯突然和好，克莱尔不敢动。安静有时比吵架更需要看一眼。
-   **Why aren't they trying to hurt each other?** — 她们怎么不互相伤害了？
+1. **安慰接在小事后面。**
+   - **骨架：** *Don't worry about it.*
+   - **家里说：** **Celine, don't worry about it.** — Celine，别往心里去。
+   - **语域：** 家长对孩子。接在「去报复」后面，这句就不再是安慰。
+
+2. **安静了，先问一句。**
+   - **骨架：** *Why aren't they trying to hurt each other?*
+   - **家里说：** **Celine, want to tell me what happened?** — Celine，愿意告诉我发生了什么吗？
+   - **语域：** 家长对孩子。不拿「你们怎么不打了」去问。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 有人用「所有人都会去」来换许可。
+2. 屋里快吵起来，你提议出去透口气。
+3. 你想把一件事从头说清楚。
+4. 你想对伴侣说爱。
+5. 请 Celine 别为一件小事往心里去。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
 

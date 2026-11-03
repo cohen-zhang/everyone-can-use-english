@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e05-transcript.txt|S01E05 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育”带来反效果；与此同时，Claire 和 Phil 也在子女教育中不断碰撞价值观。几条故事线共同讨论了“身份标签、偏见与自我认同”，最后回到家庭支持比刻板印象更重要。
@@ -21,62 +23,121 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 - **family support** — 家庭支持
 - **acceptance** — 接纳
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · could / should / be going to**、**问句**，以及 **特色**（主题句 *people who don't know the game*、*gold digger*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · could / should / be going to**、**问句**、**特色**（*people who don't know the game*、*gold digger*）。
 
 ---
 
-## 家事与居家
+## 精学语块
 
-- **So it's probably best if you work this out at home...** — 所以  也许你们最好能回家自己解决
-- **The whole family's coming over for the barbecue.** — 全家都要过来烧烤。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 亲子与学校
+### 1. 该上学了
 
-- **Let's go, buddy. Schooltime.** — 走吧  伙计  该上学了
-- **I also need a book for school. - What book?** — 学校还让我们买本书  -什么书
-- **No, please... please don't spike our baby.** — 别  小心别弄伤孩子了
-- **The school just called. Luke got in a fight.** — 学校刚刚来电话了  卢克打架了
-- **Shh. The parents are probably in there.** — 嘘  他的家长可能在里面
-- **Well, apparently there was some name-calling** — 很明显  在操场上发生了骂人
-- **By the time a teacher separated them,** — 老师把他们分开的时候
-- **Okay, you're... - He's our son.** — 好吧  你是  -他是我们的儿子
-- **And my grandson. - I'm his daughter.** — 我的外孙  -我是他女儿
-- **Look, I wouldn't worry. They're good kids.** — 我并不担心  他们都是好孩子
-- **Our son is not weird.** — 我们的孩子并不怪异
-- **She's my daughter. You're my wife.** — 她是我的女儿  你是我的妻子
-- **I'm taking baby steps here, all right?** — 我才刚刚起步  好不
-- **Now in light of what happened at school today,** — 鉴于今天在学校里发生的事情
-- **Can I have $40 for lunch? — I want a dress.** — 午饭能给我 40 块吗？——我想买条裙子。
-- **Where are you? — I'm showing a house. — I'm golfing.** — 你在哪儿？——我在带人看房。——我在打高尔夫。
+**Let's go, buddy. Schooltime.** — 走吧，该上学了。
 
-## 约会与恋爱
+- **场景：** 早晨催出门。称呼可以换成孩子的名字。
+- **发音：** 重音在 *go* 和 *school*。
+- **语域：** 家长对孩子。
+- **迁移：** **Let's go. It's time for school.** — 走吧，该上学了。
 
-- **Hey, honey. What's up?** — 亲爱的  怎么了
-- **What did my boyfriend just say?** — 我男友刚刚说了什么呀
+### 2. 全家要过来
 
-## 情绪与道歉
+**The whole family's coming over.** — 全家都要过来。
 
-- **But we're not happy about this, boys.** — 但是我们很生气你们这样  小伙子们
+- **场景：** 告诉家里人今天有人来。本集后面是烧烤，那半句不跟读。
+- **发音：** *family's* 是 *family is*。重音在 *coming*。
+- **语域：** 家人。
+- **迁移：** **They're coming over tonight.** — 他们今晚过来。
 
-## 社交与礼貌
+### 3. 他们是好孩子
 
-- **Hey, Mom. - Yeah?** — 妈妈  -怎么了
-- **Oh, thank you, Marvin, for inviting us into your lovely home.** — 马文  谢谢邀请我们到你温馨的家来
-- **No problem. We'll be right down. Thanks.** — 没问题  我们马上过来  谢谢
-- **Hey, Gramps. - Hi, beautiful.** — 外公好  -小美女好
-- **Hi, Phil. Good to see ya.** — 你好  菲尔  见到你真好
-- **Okay. Thank you.** — 好的  谢谢你
-## 请求与建议
+**I wouldn't worry. They're good kids.** — 我并不担心，他们是好孩子。
 
-- **Give me a break. I have to climb a rope today.** — 饶了我吧  我今天得去攀绳呢
-- **Do... Do we even have to go to my dad's tonight?** — 我们今晚一定要去我爸那里吗
-- **Here. Would you care for a sack of pickles?** — 给你  请收下这包腌菜
-- **I think you two need to talk it out.** — 我觉得你们俩得谈谈这件事
-- **Let's remember what's important here.** — 让我们先理清重点
-- **You can never have too many pies, right?** — 派再多也不嫌多  对吧
-- **Let's think about getting real.** — 我们面对现实吧
+- **场景：** 有人来告状，你先把孩子接住。
+- **发音：** *wouldn't* 弱读。重音在 *good*。
+- **语域：** 家长之间，或对老师说。
+- **迁移：** **I wouldn't worry.** — 我并不担心。
+
+### 4. 我才刚刚起步
+
+**I'm taking baby steps here, all right?** — 我这是一小步一小步来，好吗？
+
+- **场景：** 你还没准备好一次做到位，请对方别催。
+- **发音：** *all right* 轻。重音在 *baby*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Can we take this one step at a time?** — 我们能一步一步来吗？
+
+### 5. 我们马上下来
+
+**We'll be right down. Thanks.** — 我们马上下来，谢谢。
+
+- **场景：** 有人在楼下等，你先答应，再道谢。
+- **发音：** *we'll* 弱读。重音在 *down*。
+- **语域：** 可以对客人说。
+- **迁移：** **I'll be right there. Thanks.** — 我马上到，谢谢。
+
+### 6. 见到你真好
+
+**Good to see you.** — 见到你真好。
+
+- **场景：** 进门打招呼。本集原句前面有名字。
+- **发音：** 重音在 *see*。
+- **语域：** 可以对客人说。
+- **迁移：** **Good to see you too.** — 我也很高兴见到你。
+
+### 7. 你们得谈谈
+
+**I think you two need to talk it out.** — 我觉得你们俩得把这件事谈开。
+
+- **场景：** 两个人僵着，你不替他们下结论。
+- **发音：** 重音在 *talk*。
+- **语域：** 家人。对正在气头上的人，先问他们愿不愿意谈。
+- **迁移：** **Can you two talk it out?** — 你们俩能把这件事谈开吗？
+
+### 8. 先记住要紧的
+
+**Let's remember what's important here.** — 先记住眼下什么要紧。
+
+- **场景：** 争吵偏了，你把话题拉回来。
+- **发音：** 重音在 *important*。
+- **语域：** 家人、朋友。
+- **迁移：** **Let's remember why we're here.** — 先记住我们为什么在这儿。
+
+### 9. 今晚一定要去吗
+
+**Do we even have to go tonight?** — 我们今晚一定要去吗？
+
+- **场景：** 你不想去，先问是不是必须。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *go*。
+- **语域：** 家人。*even* 带一点不情愿。
+- **迁移：** **Do we have to go tonight?** — 我们今晚得去吗？
+
+### 10. 饶了我吧
+
+**Give me a break.** — 饶了我吧。
+
+- **场景：** 对方要求太满，你喊停。本集后面接着攀绳，那半句不跟读。
+- **发音：** 重音在 *break*。
+- **语域：** 熟人，有点不耐烦。对客人不说。
+- **迁移：** **Can we take a break?** — 我们能歇一下吗？
+
+### 11. 怎么了
+
+**Hey, honey. What's up?** — 亲爱的，怎么了？
+
+- **场景：** 对方找你，你先接住。
+- **发音：** 重音在 *up*。
+- **语域：** 伴侣、家里人。
+- **迁移：** **What's up?** — 怎么了？
+
+### 12. 这是最糟的做法
+
+**That's the worst thing you could do.** — 那是你能做的最糟的一件。
+
+- **场景：** 拦住一个正在发生的做法。
+- **发音：** 重音在 *worst*。
+- **语域：** 家人。对孩子说之前，先说该做什么，不先把人说成最糟。
+- **迁移：** **That's the worst time you could bring it up.** — 这是你能挑的最糟时机。
 
 
 ## 时态 · could / should / be going to
@@ -90,10 +151,7 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 | **be going to** 下一步 | *I think I'm gonna find out what it is.* — 我想我要去问清楚。 | *I think I'm gonna call them.* — 我想我要打给他们。 |
 | **the worst ... could** 最高级 | *That's the worst thing you could do.* — 那是你能做的最糟的一件。 | *That's the worst time you could bring it up.* — 这是你能挑的最糟时机。 |
 
-跟读：
-
-- **I could just watch.** — 我可以就看看。
-- **That's the worst thing you could do.** — 那是你能做的最糟的一件。
+*could* 是可以这么做，还没做。*should* 是觉得该这么做。书面里把 *gonna* 写成 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -110,7 +168,9 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 | **So?** 一句顶一句问 | *So? Everybody can watch.* — 那又怎样？大家都能看。 | *So? We can still go.* — 那又怎样？我们还是能去。 |
 | **Did you really have to** | *Did you really have to call her that?* — 你真的有必要那么叫她吗？ | *Did you really have to say it out loud?* — 你真的有必要说出口吗？ |
 
-孩子把 **gold digger**（攀高枝的人）听成 **coal digger**。问句 *What's a coal digger?* 把成人的刻薄原样交了回来。
+孩子把 **gold digger**（攀高枝的人）听成 **coal digger**。问句 *What's a coal digger?* 把成人的刻薄原样交了回来。这个称呼不跟读。
+
+*Did you really have to* 是在质问说法。对孩子先说 *Don't call her that.*
 
 ## 特色 · 听错的那个词，和这一集想说的话
 
@@ -176,24 +236,49 @@ Jay 得知 Manny 在学校和同学发生冲突后，担心自己“硬汉教育
 2. **孩子会把成人的词原样带上桌。** *What's a coal digger?* 问出来的时候，金矿和煤矿都已经在饭桌上了。
    **Kids repeat the label before they know the price.** — 孩子会先重复那个称呼，再知道它的价钱。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**有时候一个人先跳进水里，架才停得下来。** 克莱尔和歌洛莉亚互相看不顺眼。歌洛莉亚要克莱尔穿衣跳进泳池，菲尔自己跳了下去。这是玩笑，也是他选择站到两个人中间。
-**Let's remember what's important here.** — 先记住眼下什么要紧。
-**Did you really have to call her that?** — 你真的有必要那么叫她吗？
+和精学语块重复的句子，这里只写家里怎么说。
 
-#### 亲子相处
+1. **先把要紧的说回来。**
+   - **骨架：** *Let's remember what's important here.*
+   - **家里说：** **Let's remember why we're here.** — 先记住我们为什么在这儿。
+   - **语域：** 只对伴侣说的时候，重音在 *why*。
 
-**孩子打架的第一句，常常是家里的称呼。** 卢克和曼尼在学校打起来，起因是「外甥」这个叫法。菲尔的旁白说：有人问 *Why?* 卢克问的是 *Why not?*
-**Luke asks, "Why not?"** — 卢克问的是「为什么不」。
-**Some people ask, "Why?"** — 有些人问「为什么」。
+2. **质问的是说法。**
+   - **骨架：** *Did you really have to call her that?*
+   - **家里说：** **Did you really have to say it that way?** — 你真的有必要那样说吗？
+   - **语域：** 伴侣之间。不把那个伤人的称呼再重复一遍。
+
+### 亲子 · 今天能对 Celine 说
+
+1. **先把孩子接住。**
+   - **骨架：** *I wouldn't worry. They're good kids.*
+   - **家里说：** **Celine, I wouldn't worry. You're a good kid.** — Celine，我并不担心。你是个好孩子。
+   - **语域：** 家长对孩子。说完就停，不加标签。
+
+2. **一步一步来。**
+   - **骨架：** *I'm taking baby steps here, all right?*
+   - **家里说：** **Celine, we can take this one step at a time.** — Celine，我们可以一步一步来。
+   - **语域：** 家长对孩子。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 早晨你催孩子出门上学。
+2. 两个人僵着，你请他们把事情谈开。
+3. 你拦住一个最糟的做法。
+4. 你问伴侣有没有必要那样说。
+5. 请 Celine 跟你一步一步来。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
 

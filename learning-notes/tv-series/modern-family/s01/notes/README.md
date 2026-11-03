@@ -16,11 +16,11 @@
 | 类型                                                | 说明                                                              |
 | ------------------------------------------------- | --------------------------------------------------------------- |
 | **characters/*.md**                                  | **成人向人物导读**：身份、性格、核心台词、口头禅、名场面与复述练习；索引见 [[learning-notes/tv-series/modern-family/s01/notes/characters/README|Character Guides]]。 |
-| **modern-family-s01exx-daily-lines.md**              | **剧情分段**（E01）或 **生活桶**（E02–E10、E13–E24）之后，文末都有精读三章：**时态**、**问句**、**特色**（主题句 / 特色句 / 祈使句 / 人生感悟，含夫妻与亲子）。[E11](modern-family-s01e11-daily-lines.md) 是样例。E12 等字幕。E01 的三章在 `<!-- MANUAL:STUDY -->` 里，重跑生成脚本不会被盖掉。俚语 vs 难词见 [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]。 |
+| **modern-family-s01exx-daily-lines.md**              | **剧情分段**（E01）或 **精学语块**（E02–E11、E13–E24，与 [E03](modern-family-s01e03-daily-lines.md) 同结构：约 12 条语块，文末仍是 **时态**、**问句**、**特色**，另有夫妻和亲子的家里说法）。E12 等字幕。E01 的三章在 `<!-- MANUAL:STUDY -->` 里，重跑生成脚本不会被盖掉。俚语 vs 难词见 [[learning-notes/grammar-lab/english-language-taxonomy|英语语言单位分类]]。 |
 | **beats/s01eNN-beats.yaml**                          | 每集剧情分段台词配置（人工精选 8–15 句/段）；生成脚本读取此文件。 |
 | **modern-family-s01e02-key-to-being-a-great-dad.md** | **手工编排**的亲子对话体练习（阿泽 / Celine 设定），与自动抽取版互补。                                       |
 | **scripts/build-modern-family-s01-daily-lines.py**   | **推荐**：从 beats YAML + transcript 生成 daily-lines；保留 `<!-- MANUAL:* -->` 区块。 |
-| **scripts/build-modern-family-s01-md.py**            | **旧版**：按关键词生活桶（出行、居家等）从 `book/摩登家庭` 抽取；E02–E24 仍可能由此生成。 |
+| **scripts/build-modern-family-s01-md.py**            | **旧版**：按关键词生活桶（出行、居家等）抽取。E02–E11、E13–E24 已改成精学语块，重跑这份旧脚本会盖掉。 |
 
 
 ## 剧集列表

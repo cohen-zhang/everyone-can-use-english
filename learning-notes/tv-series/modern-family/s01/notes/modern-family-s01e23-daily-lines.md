@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e23-transcript.txt|S01E23 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 夏威夷行程进入情绪高点：Jay 计划中的关键仪式遭遇连续意外，Claire 与 Phil 也在家庭与伴侣身份之间左右为难。与此同时，孩子们在“被安排”与“自主选择”间不断试探。故事在风景与闹剧并行中推进，最终让各组关系都更靠近一步。
@@ -21,89 +23,123 @@
 - **relationship progress** — 关系推进
 - **shared experience** — 共同经历
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 否定进行**、**问句**，以及 **特色**（主题句 *not a third time*、蜜月、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · supposed to / 否定进行**、**问句**、**特色**（*not a third time*、蜜月）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **There she is- the prettiest white woman on Maui. Milady.** — 瞧瞧谁来了  茂伊岛上最美的人儿  夫人
-- **go to Hawaii for our honeymoon. - Mm-hmm.** — 是要来夏威夷来度蜜月的  -没错
-- **Let's turn this vacation into a honeymoon.** — 让我们把这次假期当成在度蜜月吧
-- **For me, this is not a vacation.** — 对我来说  这不是度假
-- **It's a business trip. Let's go.** — 是出差  跟我走
-- **Hi! Welcome to the Four Seasons Maui.** — 欢迎入住四季酒店茂伊店
-- **I can't believe we have our own hotel room.** — 我们居然还有自己的房间
-- **Not the hotel. Just us.** — 不是整个酒店  就我俩
-- **I'm gonna go get some shaved ice at the hotel** — 我去和隔壁的一些孩子
-- **Turning a family vacation into a honeymoon takes commitment.** — 把家庭度假变成度蜜月  要坚持做到哦
-- **but don't get in anybody's car...** — 但可不能上陌生人的车
-- **We're on our way to see the world's largest banyan tree.** — 我们正要去看世界上最大的榕树。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 第三次不拍了
 
-- **and be back in time for your grandfather's birthday dinner, okay?** — 准时回来参加你外公的生日  知道了吗
+**We're not doing it a third time.** — 第三次我们不拍了。
 
-## 亲子与学校
+- **场景：** 同一件事已经重来两次，你明确喊停。
+- **发音：** 重音在 *third*、*time*。
+- **语域：** 家人。拍照、重录、再来一遍都适用。
+- **迁移：** **We're not doing this again.** — 我们不会再来一次。
 
-- **Sweet pea, I'm a mom traveling with my kids.** — 亲爱的  我可是带着孩子来旅行的
-- **I noticed some lovely tweens down by the kids' club.** — 我看到儿童俱乐部里有好多可爱的小姑娘
-- **We have got to stay on these kids all day,** — 我们得时刻盯着这些孩子
-- **Happy birthday, you dumb son of a bitch.** — 生日快乐  你个二逼
-- **Just to be clear, I'm not condoning eating your kids,** — 事先声明  我不是说吃孩子是可以原谅的
-- **I'll bet the kids want to go with you.** — 我敢打赌孩子们肯定都想和你们去
-- **Hear that, kids? Forty-five different varieties.** — 听到没  孩子们  45种不同的薰衣草哦
-- **next door with some kids.** — 一起去吃点刨冰
-- **What kids? - Just some kids I met at the pool.** — 什么孩子  -就是在泳池边的那些
+### 2. 把假期当蜜月
 
-## 电话与信息
+**Let's turn this vacation into a honeymoon.** — 我们把这次假期当成蜜月吧。
 
-- **Haley, sweetie, put the phone down** — 海莉  亲爱的  别玩手机了
-- **Haley, that's enough. Get off the phone.** — 海莉  够了  快挂电话
-- **Thanks, sweetie. Haley, come on. Off the phone.** — 谢谢夸奖  海莉  别打了  快
-- **That is an expensive cell phone.** — 那手机可贵呢
-- **All my music is on my phone. What else am I supposed to do?** — 我的歌都在手机上  你让我怎么办
+- **场景：** 提议把一家人都在的行程，挤出一点只属于两个人的时间。
+- **发音：** 重音在 *turn*、*honeymoon*。
+- **语域：** 只对伴侣说这种话；孩子在场时换成更具体的安排。
+- **迁移：** **Let's turn this into a date night.** — 我们把今晚当成约会夜吧。
 
-## 约会与恋爱
+### 3. 学会放手
 
-- **Honey, come on.** — 亲爱的  别这样
-- **the honeymoon they never had.** — 一个甜蜜的蜜月
-- **Come on, honey! Get out of bed!** — 快起床  宝贝  别赖床了
-- **You look prettier now than the day we got married.** — 你比我们结婚时更漂亮了
-- **Oh, honey. And you are even more handsome.** — 亲爱的  你也更帅了
-- **Yes, Haley, honey? What is it?** — 海莉  亲爱的  怎么了
-- **All right, Haley, honey, go and have fun,** — 好吧  海莉  亲爱的  玩的开心点
-- **Okay! All right! - Bye, honey!** — 好吧  快去快回  -再见  亲爱的
-- **So, I was thinking we book a couples' massage.** — 我在想我们订一对夫妻按摩。
+**You have to learn to let go.** — 你得学会放手。
 
-## 情绪与道歉
+- **场景：** 孩子大了，你还在抓细节，伴侣或朋友提醒你松手。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *let*。
+- **语域：** 家人、伴侣。语气重时像教训。
+- **迁移：** **I have to learn to let go.** — 我得学会放手。
 
-- **Ah, don't worry. He never took care of himself.** — 别担心  是他不懂得好好保养身体
-- **They seemed really relaxed until they noticed me.** — 他们没看到我之前可放松呢
-- **Aloha. Hi. Sorry, folks.** — 你们好  对不起
-- **Don't worry. We'll still have time for the whaling village.** — 别担心  我们还有时间参观捕鲸村落
-- **was that I was going to be able to relax.** — 生活能过的轻松点
+### 4. 你自己去行吗
 
-## 社交与礼貌
+**Can you just go by yourself?** — 你能自己一个人去吗？
 
-- **and put on some sunscreen. Please?** — 快涂点防晒霜
-- **Hey, everybody.** — 嘿  大家好啊
-- **So, 63, right? - Hey, you can count!** — 63岁了对吧  -没想到你还会数数
-- **Hello? - Thanks for reminding me.** — 喂  - 多谢提醒
-- **Hey, Gloria, wait up. I'm coming.** — 等等我  歌洛莉亚  我来了
-- **Hi, guys. - Hey.** — 你们好啊  -你们好
-- **Hey, you little monkey!** — 嘿  小兔崽子们
-- **Hey, Jay! Be careful!** — 杰  当心点
-- **Hello!** — 怎么说
-- **Thank you!** — 谢谢
-## 请求与建议
+- **场景：** 你想留在这边，请对方单独跑一趟。本集后面还有 *for a little while*，这里收短句。
+- **发音：** *just* 轻。重音在 *yourself*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Can you go ahead without me?** — 你能先走不等我吗？
 
-- **Oh, wait. Let's do it one more time.** — 不行  得再来一次
-- **Can you just go by yourself?** — 你能自己一个人去吗
-- **You have to learn to let go.** — 你得学会放手
+### 5. 涂防晒
 
+**Put on some sunscreen. Please?** — 涂点防晒。拜托？
+
+- **场景：** 出门晒太阳前，催一句防护。句尾 *Please?* 升调，比命令软。
+- **发音：** 重音在 *sunscreen*。
+- **语域：** 家长对孩子、伴侣之间都可以。
+- **迁移：** **Put on your hat. Please?** — 戴上帽子。拜托？
+
+### 6. 你在干什么
+
+**What are you doing?** — 你在干什么？
+
+- **场景：** 看见孩子在玩手机或乱动东西，先问一句。
+- **发音：** *What are you* 连读。重音在 *doing*。
+- **语域：** 家长对孩子、家人之间。
+- **迁移：** **What are you doing with the phone?** — 你拿手机干什么？
+
+### 7. 放下手机
+
+**Sweetie, put the phone down.** — 亲爱的，把手机放下。
+
+- **场景：** 吃饭、聊天或该出门时，请孩子别盯着屏幕。本集是海莉，家里换称呼。
+- **发音：** 重音在 *phone*、*down*。
+- **语域：** 家长对孩子。
+- **迁移：** **Put the phone down, please.** — 把手机放下，好吗？
+
+### 8. 起床吧
+
+**Come on, honey! Get out of bed!** — 快起床，宝贝！别赖床了！
+
+- **场景：** 度假或周末，催伴侣或孩子起来出发。
+- **发音：** 重音在 *bed*。
+- **语域：** 家人。对伴侣 *honey* 自然；对孩子可换名字。
+- **迁移：** **Come on! Get out of bed!** — 快点！起床！
+
+### 9. 比结婚那天还好看
+
+**You look prettier now than the day we got married.** — 你比我们结婚那天还漂亮。
+
+- **场景：** 老夫老妻在度假，直接夸外表。句子里有 *we*，适合对自己伴侣说。
+- **发音：** 重音在 *prettier*、*married*。
+- **语域：** 只对伴侣说。
+- **迁移：** **You look great today.** — 你今天很好看。
+
+### 10. 有人一起来吗
+
+**Does anybody want to come?** — 有人想一起来吗？
+
+- **场景：** 你要出门，开放邀请，不强迫。
+- **发音：** 重音在 *come*。
+- **语域：** 家人。孩子拒绝也正常。
+- **迁移：** **Does anybody want coffee?** — 有人要咖啡吗？
+
+### 11. 别担心还来得及
+
+**Don't worry. We'll still have time.** — 别担心，我们还来得及。
+
+- **场景：** 行程被打乱，先稳住情绪。本集后面还有具体地点，这里收安慰句。
+- **发音：** *We'll* 是 *we will* 弱读。重音在 *time*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Don't worry. We still have time.** — 别担心，我们还有时间。
+
+### 12. 夫妻按摩
+
+**So, I was thinking we book a couples' massage.** — 我在想，我们订一次夫妻按摩吧。
+
+- **场景：** 提议两个人一起做一件事，用 *I was thinking* 开头，不像命令。
+- **发音：** 重音在 *thinking*、*massage*。
+- **语域：** 只对伴侣说。
+- **迁移：** **I was thinking we go for a walk, just us.** — 我在想，就我们俩去散个步。
+
+---
 
 ## 时态 · supposed to / be not doing
 
@@ -116,10 +152,7 @@
 | **Let's turn** | *Let's turn this vacation into a honeymoon.* — 我们把这次假期变成蜜月吧。 | *Let's turn this into a short walk.* — 我们把这变成一小段路吧。 |
 | **What was I supposed to** | *What was I supposed to do?* — 那我当时该怎么办？ | *What was I supposed to say?* — 那我当时该说什么？ |
 
-跟读：
-
-- **We're not doing it a third time.** — 第三次我们不拍了。
-- **We were supposed to go.** — 我们本来该去的。
+*gonna* 若在口语里出现，是 *going to* 的弱读。书面和正式邮件写 *going to*。
 
 *this isn't a honeymoon* 是克莱尔把菲尔的计划命名回去：带孩子的假，不叫蜜月。
 
@@ -137,6 +170,8 @@
 | **or** 是她还是我的脑子 | *Is she moving in slow motion, or is my brain doing that?* — 是她在慢动作，还是我的脑子在慢动作？ | *Is it the train, or is it me?* — 是车在动，还是我在动？ |
 | **Does anybody want to** | *Does anybody want to come?* — 有人想一起来吗？ | *Does anybody want coffee?* — 有人要咖啡吗？ |
 | **Please?** 请求收尾 | *And put on some sunscreen. Please?* — 涂点防晒。拜托？ | *Close the door. Please?* — 把门带上。拜托？ |
+
+*Don't you want to…* 把愿望说成反问，带压力。对孩子用陈述句或邀请句，例如语块 7、10，不照说这种顶回去的问法。
 
 ## 特色 · supposed to，和这一集想说的话
 
@@ -199,23 +234,46 @@
 2. **再来一次，要有人负责喊停。** 照片、探险、划艇，都有人想加码。*We're not doing it a third time* 是界限。
    **We're not doing it a third time.** — 第三次我们不拍了。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**带孩子的假，可以很甜，仍然不叫蜜月。** *Sweetie, this isn't a honeymoon.* 克莱尔把名字说清。菲尔把手机扔进泳池，是求偶，也是添乱。名字和动作可以各说各的，人还在同一间酒店。
-**Let's turn this vacation into a honeymoon.** — 我们把这次假期变成蜜月吧。
-**Sweetie, this isn't a honeymoon.** — 亲爱的，这不是蜜月。
+1. **名字说清：带娃的假不叫蜜月。**
+   - **骨架：** *Sweetie, this isn't a honeymoon.*
+   - **家里说：** **This isn't a honeymoon, but I'm glad you're here.** — 这不是蜜月，但我很高兴你在这儿。
+   - **语域：** 只对伴侣说。
 
-#### 亲子相处
+2. **仍想挤出只属于两个人的时间。**
+   - **骨架：** *Let's turn this vacation into a honeymoon.*
+   - **家里说：** **Let's turn tonight into a date night.** — 我们把今晚当成约会夜吧。
+   - **语域：** 只对伴侣说。发音见语块 2。
 
-**放手去刨冰，和醉酒回来，是同一句许可的两头。** 克莱尔让海莉去隔壁。海莉喝多了吐了。克莱尔自责。许可需要一句回来的时间，也需要一句酒的界限。
-**Does anybody want to come?** — 有人想一起来吗？卡姆邀请大家去农场。孩子摇头。邀请被拒绝，仍然是一句完整的邀请。
+### 亲子 · 今天能对 Celine 说
+
+1. **请放下手机，用陈述句。**
+   - **骨架：** *Haley, sweetie, put the phone down.*
+   - **家里说：** **Celine, put the phone down.** — Celine，把手机放下。
+   - **语域：** 家长对孩子。发音见语块 7。
+
+2. **开放邀请，不强迫。**
+   - **骨架：** *Does anybody want to come?*
+   - **家里说：** **Celine, we're going for a walk. You can come if you want.** — Celine，我们要去散步。你想来可以一起。
+   - **语域：** 家长对孩子。不用 *Don't you want to* 式反问。语块 10 是更短的问法。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 同一件事已经重来两次，你想喊停。
+2. 出门晒太阳，你想请对方涂防晒。
+3. 你想对伴侣说：我们把今晚当成约会夜。
+4. 孩子盯着手机，你想请她放下。
+5. 你要出门，请 Celine 自愿跟上，不施压。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

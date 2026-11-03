@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e14-transcript.txt|S01E14 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 “登月”这一共同记忆触发了三组家庭的怀旧与现实对照：有人想重温浪漫，有人想证明自己仍有勇气，也有人想在孩子面前维持权威。随着计划不断偏航，角色们逐渐承认自己对衰老、失败和被忽视的焦虑。最后大家在不完美里重新找到彼此的连接感。
@@ -21,75 +23,122 @@
 - **reconnection** — 重新连接
 - **imperfect growth** — 不完美成长
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · would / why'd you**、**问句**，以及 **特色**（主题句 *a school made out of bottles*、*Why'd you quit?*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · would / why'd you**、**问句**、**特色**（*a school made out of bottles*、*Why'd you quit?*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Luke and I are doing a recycling drive.** — 卢克和我准备开车去收旧东西
-- **I was an account manager at Starcrest Hotels.** — 我那时可是星冠酒店的客户经理
-- **Gloria got into a little car accident,** — 歌洛莉亚出了场小车祸
-- ***Driving in my car*** — *开着我的小车呀*
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 你没事吧
 
-- **who bangs his head every time he rides his bike out of his garage** — 每次把车骑出车库时都要撞到头
-- **lame trash talk to get me out of my** — 我一点没感觉
-- **I love the sauna. That's the dry heat.** — 我喜欢桑拿。那是干热。
+**Are you okay, honey?** — 亲爱的，你没事吧？
 
-## 亲子与学校
+- **场景：** 小事故或对方看起来难受，先确认人有没有事。
+- **发音：** 重音在 *okay*。
+- **语域：** 只对伴侣或家人。*honey* 别对不熟的人用。
+- **迁移：** **Are you okay?** — 你没事吧？
 
-- **they build a school in Africa.** — 就可以在非洲建一所学校了
-- **to go to a school made out of bottles?** — 用瓶子堆起来的学校就太给力了
-- **That would certainly be a special school.** — 那铁定是所特殊学校
-- **Did you hear what I said, parents?** — 你们有听到我说什么没  爹妈
-- **"Special school"?** — "特殊学校"
-- **And that's my baby, Luke. He's 11.** — 然后是我的小儿子  卢克  才11岁
+### 2. 真为你难过
 
-## 电话与信息
+**I'm sorry, honey.** — 真为你难过，宝贝。
 
-- **I told her to call you. -Okay, fine.** — 我让她打给你了  -好吧
+- **场景：** 对方遇到糟心的事，你先表达同情。
+- **发音：** 重音在 *sorry*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I'm sorry you're going through this.** — 对不起，你正在经历这些。
 
-## 约会与恋爱
+### 3. 谢谢提醒
 
-- **No  - Oh, my gosh. Are you okay, honey?** — 别啊  -老天  你没事吧  宝贝
-- **I need to date someone who has a clue,** — 我得找个聪明灵活点的男朋友
-- **I'm sorry, honey.** — 真为你难过  宝贝
-- **So I married your dad.** — 所以我嫁给了你老爸
-- **I'm going to meet my friend Valerie.** — 我去见我的朋友瓦莱丽。
+**I wasn't, but thanks for the heads-up.** — 我没往那儿想，不过谢谢提醒。
 
-## 情绪与道歉
+- **场景：** 别人先你一步想到风险，你接住好意。
+- **发音：** *wasn't* 重读。重音在 *thanks* 和 *heads-up*。
+- **语域：** 熟人、同事也可以。
+- **迁移：** **Good to know. Thanks for telling me.** — 知道了，谢谢你告诉我。
 
-- **I'm sorry for both of you.** — 我为你俩感到难过
-- **Well, don't you worry. The only thing I'm picturing...** — 别担心  我想象也只是会想
-- **Sorry to bother you, sir.** — 抱歉打扰了  先生
-- **I'm so happy for you. Really.** — 我真为你开心  真的
-- **I'm so-I'm so happy that you're happy.** — 我真  我很开心你过得那么幸福
-- **A little. -I'm so sorry.** — 有点  -不好意思啊
-- **I'm sorry. What? -Don't look at me.** — 什么  我没听清  -别看着我
+### 4. 稍等我系鞋带
 
-## 社交与礼貌
+**Uh, just a minute, Mom. I need to tie my shoe.** — 稍等，妈，我鞋带散了。
 
-- **I wasn't, but thanks for the heads-up.** — 我没想那个  不过谢谢你的提醒
-- **That's it. I'm changing in the stall. Excuse me!** — 够了  我去外面换  借过
-- **Thank you.** — 谢谢
-- **Thanks. Hey. -Yeah.** — 谢了  那个  -什么
-- **Thank you. Well, and you too.** — 谢谢  你也是
-- **I'll handle it. I'm not losing this sale.** — 我来处理。这单我不能丢。
+- **场景：** 大人催出门，孩子需要停一下做小事。
+- **发音：** *just* 轻。重音在 *minute* 和 *shoe*。
+- **语域：** 孩子对家长说。
+- **迁移：** **Just a minute. I need to grab my bag.** — 稍等，我得拿包。
 
-## 请求与建议
+### 5. 骑车出去转转
 
-- **I'll have to text him later.** — 我一会儿发短信安慰一下他
-- **Brute force versus  -Let's just do this.** — 野性战...  -直接办正事儿吧
-- **Why don't you go out for a nice bike ride?** — 你可以骑车出去转转
-- **so we're gonna have to shut down your water.** — 所以得把你家水停了
-- **Can you believe it? -Oh, my God, they're gorgeous.** — 不敢相信吧  -哇  他们真水灵
-- **I mean, your life is -No, no, no-Let's talk about you.** — 你的人生真是  -别别  接着说你
-- **Uh, just a minute, Mom. I need to tie my shoe. -Okay.** — 稍等  老妈  我鞋带散了  -好的
+**Why don't you go out for a nice bike ride?** — 骑车出去转转吧？
 
+- **场景：** 建议对方出门散心，语气像问句，其实是邀请。
+- **发音：** *don't you* 连读。重音在 *bike*。
+- **语域：** 家人。
+- **迁移：** **Why don't you go out for a walk?** — 出去走走吧？
+
+### 6. 直接办吧
+
+**Let's just do this.** — 咱们直接办吧。
+
+- **场景：** 拖太久，决定动手做。
+- **发音：** *just* 轻。重音在 *do*。
+- **语域：** 家人、熟人。
+- **迁移：** **Let's just get started.** — 咱们先开始吧。
+
+### 7. 你拿那些干什么
+
+**What are you doing with those?** — 你拿那些干什么？
+
+- **场景：** 看见对方摆弄一堆东西，先问清楚。
+- **发音：** *What are you* 常弱读连读。重音在 *doing*。
+- **语域：** 家人。
+- **迁移：** **What are you doing with the boxes?** — 你拿这些箱子干什么？
+
+### 8. 去哪儿
+
+**Where are you going?** — 你去哪儿？
+
+- **场景：** 对方拿着东西往外走，你想确认去向。
+- **发音：** *Where are you* 连读。重音在 *going*。
+- **语域：** 家人。
+- **迁移：** **Where are you going with that?** — 你拿着那个去哪儿？
+
+### 9. 会是特别的
+
+**That would certainly be a special school.** — 那确实会是一所特别的学校。
+
+- **场景：** 回应孩子天马行空的计划，先认真接一句。
+- **发音：** *would* 弱读。重音在 *special*。
+- **语域：** 家长对孩子。别用讽刺腔。
+- **迁移：** **That would be a fun project.** — 那会是个有意思的项目。
+
+### 10. 难道不酷吗
+
+**Wouldn't that be so cool?** — 那难道不酷吗？
+
+- **场景：** 兴奋地把想法抛给对方，期待对方点头。
+- **发音：** 重音在 *cool*。
+- **语域：** 家人、朋友。大人对孩子别用压力腔。
+- **迁移：** **Wouldn't that be nice?** — 那难道不好吗？
+
+### 11. 走吧
+
+**Let's go.** — 走吧。
+
+- **场景：** 事情谈妥，该出发了。
+- **语域：** 家人、熟人。
+- **迁移：** **Let's go now.** — 我们现在走吧。
+
+### 12. 打扰一下
+
+**Sorry to bother you, sir.** — 抱歉打扰了，先生。
+
+- **场景：** 对不熟的人开口前先礼貌垫一句。
+- **发音：** 重音在 *sorry* 和 *bother*。
+- **语域：** 对陌生人、服务人员。
+- **迁移：** **Sorry to bother you.** — 抱歉打扰一下。
+
+---
 
 ## 时态 · would / 省略 did 的问句
 
@@ -102,10 +151,7 @@
 | **Why'd you** 你为什么做了 | *Why'd you quit?* — 你为什么辞了？ | *Why'd you leave early?* — 你为什么早走？ |
 | **If we** 条件 | *If we collect enough bottles, they build a school in Africa.* — 如果我们收集够瓶子，他们就在非洲建一所学校。 | *If we leave now, we make it.* — 如果我们现在走，就赶得上。 |
 
-跟读：
-
-- **Wouldn't that be so cool?** — 那难道不酷吗？
-- **Why'd you quit?** — 你为什么辞了？
+口语里的 *gonna* 是 *going to* 的弱读；书面和正式场合写 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -121,6 +167,8 @@
 | **Where are you going** | *Where are you going?* — 你去哪儿？ | *Where are you going with that?* — 你拿着那个去哪儿？ |
 | **You worked?** 升调 | *You worked?* — 你工作过？ | *You knew?* — 你早就知道？ |
 | **Why'd you** | *Well, then, why'd you quit?* — 那你为什么辞了？ | *Then why'd you call?* — 那你为什么打来？ |
+
+*Why'd you quit?* 是在翻旧账。家里若要聊选择，先问对方愿不愿意谈，别用短问句顶上去。
 
 ## 特色 · made out of，和这一集想说的话
 
@@ -182,22 +230,46 @@
 2. **孩子的「酷」和大人的「特别」，可以是同一所学校。** *a school made out of bottles* 对卢克是冒险，对克莱尔先是笑话。
    **Wouldn't that be so cool?** — 那难道不酷吗？
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**成交和拥抱可以隔着一辆车发生。** 菲尔在树上把房子卖了。克莱尔在车这边看见旧同事眼中的自己，又看见他。隔着车的拥抱，是这一集他们靠得最近的一下。
-**Are you okay, honey?** — 你没事吧？车祸后杰对歌洛莉亚也是这句。两对夫妻，同一句先确认人还在。
+1. **先问人有没有事。**
+   - **骨架：** *Are you okay, honey?*
+   - **家里说：** **Are you okay?** — 你没事吧？
+   - **语域：** 只对伴侣说。语块 1 已写场景和发音。
 
-#### 亲子相处
+2. **同情一句。**
+   - **骨架：** *I'm sorry, honey.*
+   - **家里说：** **I'm sorry you're having a rough day.** — 对不起，你今天挺难熬的。
+   - **语域：** 只对伴侣说。
 
-**孩子要父母听见的是计划，不只是瓶子。** *Did you hear what I said, parents?* 卢克把回收说成一所学校。大人若只听见瓶子，就错过了那句 *Wouldn't that be so cool*。
-**Did you hear what I said, parents?** — 爸妈，你们听见我说的了吗？
+### 亲子 · 今天能对 Celine 说
+
+1. **认真接孩子的想法。**
+   - **骨架：** *Wouldn't that be so cool to go to a school made out of bottles?*
+   - **家里说：** **Celine, that would be a fun project.** — Celine，那会是个有意思的项目。
+   - **语域：** 家长对孩子。用陈述句，不用「难道不酷吗」压她。
+
+2. **请孩子再说一遍计划。**
+   - **骨架：** *Did you hear what I said, parents?*
+   - **家里说：** **Celine, tell me your plan again. I'm listening.** — Celine，再跟我说一遍你的计划。我在听。
+   - **语域：** 家长对孩子。不照说原句里的逼问。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 伴侣看起来难受，你先问有没有事。
+2. 别人提醒了你一件事，你没往那儿想，但要谢谢对方。
+3. 看见孩子在摆弄一堆东西，你问他在干什么。
+4. 伴侣今天很难熬，你想表达同情。
+5. 请 Celine 再讲一遍她的计划，表示你在听。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

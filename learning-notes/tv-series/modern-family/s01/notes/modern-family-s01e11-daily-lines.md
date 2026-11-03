@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e11-transcript.txt|S01E11 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 熬夜照顾婴儿让 Cameron 与 Mitchell 身心俱疲，小事也会迅速升级成争吵；Claire 和 Phil 这边也在深夜育儿中体验“谁更辛苦”的拉锯。与此同时，Jay 与 Gloria 在精力与节奏差异中不断磨合。全集用疲惫状态下的失控，呈现亲密关系里“理解比输赢更重要”。
@@ -21,70 +23,125 @@
 - **understanding over winning** — 理解大于输赢
 - **domestic reality** — 育儿现实
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · used to**、**问句**，以及 **特色**（最高级主题句、`the longer … the more …`、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · used to**、**问句**、**特色**（最高级主题句、`the longer … the more …`）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **We'll go in a race car with my friend,** — 我带你去坐我朋友的赛车
-- **I picked up one of those Water Weasels.** — 我买了个接在水管上的水鼬。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 别生气
 
-- **So, we were just headed out to dinner.** — 我们正打算出去吃晚餐
-- **I brought dinner- lobsters!** — 我带晚餐了  龙虾
-- **I, uh- Manny, why don't you show your father to the kitchen?** — 曼尼  带你父亲去厨房参观下吧
-- **Instead, I got Rico Suave in my kitchen,** — 现在却看着里克·苏艾文在我厨房瞎晃
-- **You bring that with you when you come visit me this summer.** — 今年夏天你来看我，把它带上。
+**Don't be mad.** — 别生气。
 
-## 亲子与学校
+- **场景：** 你刚起来做事，怕对方误会你在赌气。
+- **发音：** 重音在 *mad*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Don't be mad. I just got up to help.** — 别生气，我只是起来帮忙。
 
-- **What's the most irritating thing my parents say to me?** — 父母对我说过最气人的话?
-- **"It's inappropriate because she's your teacher."** — "那样不合适  因为她是你老师"
-- **Manny, it's inappropriate because it's your teacher.** — 曼尼  她是你老师所以不合适
-- **Well, Mitchell really wanted to Ferberize the baby.** — 米奇尔想用费伯睡眠法训练宝宝
-- **getting the baby to sleep through the night...** — 让婴儿晚上...
-- **For the baby?** — 给孩子看合适吗
-- **Son of a bitch. - What's the matter?** — 混蛋  -怎么了
-- **Okay, kids, gather around.** — 孩子们  围过来
-- **I got us into that new Benihana.** — 我在那家新开的铁板烧订到了位子。
+### 2. 深呼吸
 
-## 电话与信息
+**Honey, breathe.** — 亲爱的，深呼吸。
 
-- **Hey, why don't you take a picture of him with your new camera phone.** — 嘿  用你的新手机帮他照张相吧
-- **I don't have a camera phone. - You do now.** — 我没有新手机  -你现在有了
+- **场景：** 对方慌或痛，你先让 TA 喘一口气。
+- **发音：** 重音在 *breathe*。
+- **语域：** 只对伴侣或极亲近的人。
+- **迁移：** **Just breathe. I'm here.** — 深呼吸，我在这儿。
 
-## 约会与恋爱
+### 3. 抱歉吓到大家
 
-- **Oh, honey. - I'm fine. No, I'm fine.** — 亲爱的  -我没事  真没事
-- **Honey, breathe. Just-Just breathe.** — 亲爱的  深呼吸  深呼吸就行了
-- **Thanks, Dad. - I love you.** — 爸爸  谢谢你  -我爱你
+**I am sorry to alarm everyone.** — 很抱歉吓到大家了。
 
-## 情绪与道歉
+- **场景：** 突然一声响或误会，你先道歉稳住场面。
+- **发音：** 重音在 *sorry*、*alarm*。
+- **语域：** 可以对在场的人说。
+- **迁移：** **I'm sorry I scared everyone.** — 抱歉吓到大家了。
 
-- **Don't be mad. I just got up to change her.** — 别生气  我只是起来帮她换个尿布
-- **I am sorry to alarm everyone.** — 很抱歉吓着大家了
-- **Hey, Jay. Listen, I'm sorry. Did I wake you up?** — 杰  对不起  吵醒你了吗
-- **the saddest words in any language, my friend.** — 全世界语言中最伤感的词莫过于此了  朋友
-- **I'm sorry. - You will be sorry!** — 我很抱歉  -你会受到惩罚的
+### 4. 吵醒你了吗
 
-## 社交与礼貌
+**Did I wake you up?** — 我把你吵醒了吗？
 
-- **Hey, there.** — 嘿  老弟
-- **Hey, help me out here.** — 嘿  你给我说说
-- **Hey, Manny knows me. I live in the now.** — 曼尼了解我  我是活在当下的人
-- **and she stole a turkey at Thanksgiving for her family** — 害的她在感恩节偷了只火鸡给家里
-- **Hey, you changed your clothes.** — 你换衣服了
-- **But it's good for Manny to be with his father.** — 不过曼尼和他父亲在一起是好的。
+- **场景：** 深夜走动或打电话，担心打扰对方睡觉。
+- **发音：** *did I* 连读。重音在 *wake*。
+- **语域：** 家人、熟人。
+- **迁移：** **Did I catch you at a bad time?** — 我是不是来得不是时候？
 
-## 请求与建议
+### 5. 正打算出去吃
 
-- **Come on! Let's go! Let's go!** — 快点  走了
-- **Okay, you need to go to the hospital. - Yeah.** — 你得去医院  -没错
+**So, we were just headed out to dinner.** — 我们正打算出去吃晚饭。
 
+- **场景：** 门口撞见访客，解释你们正要出门。
+- **发音：** *were just* 连读。重音在 *dinner*。
+- **语域：** 对客人、熟人。
+- **迁移：** **We were just headed out.** — 我们正打算出门。
+
+### 6. 走廊等一下
+
+**Why don't you guys wait out in the hallway?** — 你们去走廊等一下好吗？
+
+- **场景：** 屋里忙不开，请人在外面稍等。
+- **发音：** *don't you* 连读。重音在 *hallway*。
+- **语域：** 熟人。样子像问句，功能是建议。
+- **迁移：** **Why don't you wait outside for a minute?** — 你们在外面等一下好吗？
+
+### 7. 以前骑
+
+**I used to.** — 我以前骑。
+
+- **场景：** 对方问你还做不做某事，回答「以前会，现在不了」。问句里动词已出现，答句可只留 *used to*。
+- **发音：** 重音在 *used*。
+- **语域：** 家人、熟人。
+- **迁移：** **I used to, not anymore.** — 以前会，现在不了。
+
+### 8. 曾经是
+
+**Used to be.** — 曾经是。
+
+- **场景：** 接在梦想或习惯后面，表示「以前是，现在不是了」。本集后面省掉了具体名词。
+- **发音：** 重音在 *used*。
+- **语域：** 家人、熟人。
+- **迁移：** **That used to be my dream.** — 那曾经是我的梦想。
+
+### 9. 得去医院
+
+**Okay, you need to go to the hospital.** — 好，你得去医院。
+
+- **场景：** 伤或痛看起来不轻，直接说下一步。
+- **发音：** *need to* 常弱读。重音在 *hospital*。
+- **语域：** 家人。对不熟的人加 *I think* 更软。
+- **迁移：** **I think you need to go to the hospital.** — 我觉得你得去医院。
+
+### 10. 友好一点
+
+**Be nice.** — 友好一点。
+
+- **场景：** 两个孩子或大人拌嘴，你压一句态度。
+- **发音：** 重音在 *nice*。
+- **语域：** 家人。对孩子可以说，但别在气头上当唯一一句。
+- **迁移：** **Be nice to each other.** — 对彼此友好一点。
+
+### 11. 孩子们围过来
+
+**Okay, kids, gather around.** — 好，孩子们，围过来。
+
+- **场景：** 要宣布或讲一件事，先把人聚拢。
+- **发音：** 重音在 *gather*。
+- **语域：** 家长对孩子。
+- **迁移：** **Okay, everyone, gather around.** — 好，大家围过来。
+
+### 12. 用手机拍一张
+
+**Why don't you take a picture of him with your new camera phone.** — 你用新手机给他拍张照吧？
+
+- **场景：** 想留下瞬间，顺口请人拍照。本集有 *him*，家里换成 *this* 或 *that*。
+- **发音：** *camera phone* 四个音节连说。重音在 *picture*。
+- **语域：** 家人、熟人。
+- **迁移：** **Why don't you take a picture with your phone?** — 你用手机拍一张吧？
+
+**听懂即可，不跟读：** **Do whatever you want.** — 你随意吧。剧里气话，不照说。
+
+---
 
 ## 时态 · used to
 
@@ -101,10 +158,7 @@
 | **used to be** 曾经是 | *Used to be.* — 曾经是。 | *That used to be my dream.* — 那曾经是我的梦想。 |
 | **used to like** 以前喜欢 | *You said you used to like riding motorcycles, right?* — 你说你以前喜欢骑摩托，对吧？ | *I used to like long night rides.* — 我以前喜欢夜里骑很久。 |
 
-跟读时把重音放在「现在不再」：
-
-- **I used to.** — 我以前骑。（问句已经给了动词，回答可以只留 used to。）
-- **Used to be.** — 曾经是。（后面的梦想被省掉了：to hit a curveball。）
+口语里的缩读留在说话里；书面和正式场合写完整形式（*going to*，不用 *gonna*）。
 
 第二天早上杰还是骑了出去，并且带上曼尼。时态写的是句号；剧情给的是还可以再做一次。
 
@@ -133,6 +187,8 @@
 - 海莉那句 *is that act like* 是赶着说漏了 *to*。意思是：*Is that to act like the adults in the world, or the adults in my family?*
 
 克莱尔还有一句软标签。*I wanted to feel attractive for a second, you know?* — 我只想有一秒觉得自己好看，你懂吗？这里的 **you know?** 是在确认对方接住了。
+
+*How many reasons do I need?* 这类反问是在堵嘴，不是真要数字；对孩子和伴侣争执时换成陈述句。
 
 ## 特色 · 比较级、祈使句，和这一集想说的话
 
@@ -210,32 +266,46 @@
 3. **愧疚抓得越久，脑子里的要价越高，也越容易作废。** *The longer you hold on to it, the more the guilt builds, the more you get.* 菲尔把对方的过失存成金牌，打算以后兑换。人一走，他就只能说 *Good-bye, Paris.* 存着的愧疚会在想象里升值，也会在生活一打断时归零。
    **Guilt you save to spend later can expire before you spend it.** — 留着以后花的愧疚，常常还没花就过期。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-1. **同一场架里，可以同时有两件真事。** 菲尔剧痛的时候，克莱尔换衣服、擦口红。她后来说明白了：每天一身面粉和花生酱，只想有一秒觉得自己好看。菲尔回家后说再给一点时间，镜头前却把这件事存成金牌。她那一秒的需要是真的，他当时被晾在一边也是真的。一记账，两件真事就变成一笔债。
-   **Two true things can sit in the same fight.** — 同一场架里，可以同时有两件真事。
-   **I wanted to feel attractive for a second, you know?** — 我只想有一秒觉得自己好看，你懂吗？
+1. **同一场架里，可以同时有两件真事。**
+   - **骨架：** *I wanted to feel attractive for a second, you know?*
+   - **家里说：** **I wanted to feel like myself for a second, you know?** — 我只想有一秒觉得自己还是我自己，你懂吗？
+   - **语域：** 只对伴侣。*you know?* 是在确认对方接住了。
 
-2. **难做的那份，得在两个人之间换手。** 米奇尔不想永远当黑脸：一个爸爸负责抱，一个爸爸负责讲规矩，孩子以后会去找那个温暖的人走红毯。他们把吃蔬菜、看牙医、练琴拆开，并说两个人一起走。杰和歌洛莉亚这边，歌洛莉亚说出 *Do whatever you want* 时，架已经停了，两个人还没站到一处。杰把哈维尔留下来，是因为曼尼需要父亲在场。
-   **The hard part has to move between you.** — 难的那份，得在两个人之间换手。
-   **And we're both walking her down the aisle.** — 到时候我们一起陪她走红毯。
+2. **难做的那份，得在两个人之间换手。**
+   - **骨架：** *And we're both walking her down the aisle.*
+   - **家里说：** **We'll both walk her down the aisle.** — 到时候我们一起陪她走红毯。
+   - **语域：** 只对伴侣。把分工说成一起在场。
 
-#### 亲子相处
+### 亲子 · 今天能对 Celine 说
 
-1. **孩子肯把难听的实话说出来，常常是因为怕失去你。** 卢克以为爸爸可能出事，才承认玻璃茶几是他打碎的。克莱尔的下一句是 *You will be sorry.* 真话已经出来了。下一句仍是惩罚，这扇门会重新关上。
-   **A child tells the hard truth when they are afraid of losing you.** — 孩子肯说难听的实话，常常是因为怕失去你。
-   **I broke the coffee table!** — 茶几是我打碎的！
+1. **孩子说难听的实话，先接住再谈后果。**
+   - **骨架：** *I broke the coffee table!* / *You will be sorry!*
+   - **家里说：** **Celine, thank you for telling me the truth. We'll figure out what happens next.** — Celine，谢谢你跟我说实话。接下来我们再一起想办法。
+   - **语域：** 家长对孩子。不用 *You will be sorry* 堵回去。
 
-2. **孩子用得上的，是到场的父母。** 哈维尔把生活讲成冒险，曼尼在门口哭了十次。杰能给沉稳，哈维尔能给随性，两样都要人真的在。第二天早上杰骑上车，把曼尼带上。海莉在片尾问的是：学世上的大人，还是学家里这些大人？孩子学的是父母当场在做的事。
-   **A child can use the parent who shows up.** — 孩子用得上的，是到场的父母。
-   **But it's good for Manny to be with his father.** — 可曼尼需要和他的父亲在一起。
+2. **孩子学的是到场的大人。**
+   - **骨架：** *But it's good for Manny to be with his father.*
+   - **家里说：** **Celine, I'm here with you today.** — Celine，今天我陪着你。
+   - **语域：** 家长对孩子。陈述在场，不用 *Act more like an adult* 压孩子。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 你刚起来帮忙，怕伴侣生气，你想先稳住。
+2. 深夜担心吵醒对方，你想问有没有打扰。
+3. 大家太吵，你想请人在外面等一下。
+4. 和伴侣说：你只想有一秒觉得自己还是你自己。
+5. Celine 说了实话，你想先谢她再一起想办法。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

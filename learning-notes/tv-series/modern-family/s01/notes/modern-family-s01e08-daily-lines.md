@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e08-transcript.txt|S01E08 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 全家迎来孩子的重要日子，父母们都想把“仪式感”做到完美，却把压力传到了孩子身上。Jay、Claire、Phil 等人各自带着期待与焦虑介入，反而制造更多混乱。最终大家意识到，比起结果是否体面，孩子被理解和被支持才是关键。
@@ -21,66 +23,123 @@
 - **emotional validation** — 情绪被理解
 - **imperfect but loving** — 不完美但有爱
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *five free hugs*、*The more, the merrier*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · be going to / would**、**问句**、**特色**（*five free hugs*、*The more, the merrier*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Balloons? - They're attached to your car.** — 还有气球  -栓在你的汽车上
-- **That song "True" was playing in the car the first time we kissed.** — 我们第一次接吻  车上放的歌就是《真实》
-- **It's beautiful. Oh, sweetie, I love it.** — 太漂亮了。亲爱的，我喜欢。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 我喜欢
 
-- **because I love coming to your house,** — 因为我喜欢来你这儿
-- **I can't tell if she needs a diaper change. — No, with these diapers, it's hard to tell.** — 我看不出她要不要换尿布。——不，这种尿布很难看出来。
+**I love it.** — 我喜欢。
 
-## 亲子与学校
+- **场景：** 收到一份礼物，你把喜欢说出来。本集前面还有「太漂亮了」。
+- **发音：** 重音在 *love*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I love it. Thank you.** — 我喜欢，谢谢。
 
-- **few drinks, no baby talk.** — 喝点酒  不谈宝宝
-- **It'll make us better parents.** — 那会让我们成为更称职的家长
-- **We'll get Gloria to babysit. We're going out.** — 我们把孩子交给歌洛莉亚照看  然后出去玩
-- **Of course we would love to have the baby.** — 我们当然愿意照看宝宝
-- **Oh, my baby cub!** — 小崽崽
-- **You should kill that baby.** — 你们应该"弄死"宝宝
-- **What? - You should call the baby.** — 什么  -你们应该"联系"宝宝
-- **All the other cousins are sleeping over tonight.** — 其他表亲今晚都来过夜。
+### 2. 我喜欢来你这儿
 
-## 电话与信息
+**I love coming to your house.** — 我喜欢来你这儿。
 
-- **He was in the phone book.** — 电话簿里就有他电话
+- **场景：** 进门时告诉主人你乐意来。
+- **发音：** 重音在 *love*。
+- **语域：** 可以对客人说。
+- **迁移：** **I love coming here.** — 我喜欢来这儿。
 
-## 约会与恋爱
+### 3. 我们出去
 
-- **That's unusual. - Honey,** — 真是"反常"啊  -亲爱的
-- **I love you, grandpa, and I'm never gonna forget you.** — 我爱你  外公  你永远活在我的心中
-- **I love you guys so much.** — 我爱死你们了
+**We're going out.** — 我们出去。
 
-## 情绪与道歉
+- **场景：** 告诉家里人今晚不在家。照看孩子的安排另外说。
+- **发音：** *we're* 是 *we are*。重音在 *out*。
+- **语域：** 家人。
+- **迁移：** **We're going out tonight.** — 我们今晚出去。
 
-- **Happy anniversary. - Hmm.** — 结婚纪念日快乐  -嗯
-- **I'm sorry for the pay- channel language,** — 不好意思我爆粗口了
-- **Flowers too? - I'm sorry.** — 还送花呀  -对不起嘛
-- **Yes. It relaxes her. - Oh, okay.** — 是的  那能让她放松  -好吧
-- **Um, I would be happy to let her change in my room.** — 我自愿提供我的卧室让她换衣服
+### 4. 我们很愿意你来
 
-## 社交与礼貌
+**We would love to have you over.** — 我们很愿意你来。
 
-- **which they don't really care for, but hey, it's Jay's Night.** — 他们不喜欢没关系  因为今夜以杰为中心
-- **Thank you.** — 谢谢
-- **Howdy. - Hi, Grandpa.** — 嗨  -外公好
-- **Well, hello there, Haley.** — 你好呀  海莉
-- **Sal is our very best friend in the whole wide world.** — 萨尔是我们全世界最好的朋友。
+- **场景：** 把邀请说实。本集原句是愿意照看宝宝，家里换成请人来。
+- **发音：** *would* 弱读。重音在 *love*。
+- **语域：** 可以对客人说。
+- **迁移：** **We would love to have you stay.** — 我们很愿意你留下。
 
-## 请求与建议
+### 5. 我很爱你们
 
-- **Yeah, they're in my bag. I need to talk to you about something.** — 在我包里面  我得跟你说件事
-- **We're doing it. We're going to Cabo. Let's do it. Let's do it.** — 说定了  我们要去卡波  快点快点
-- **All right. Let's go.** — 好吧  我们去
-- **Yeah, but we need to find someone for Lily.** — 但是我们得找人照看下莉莉
+**I love you guys so much.** — 我很爱你们。
+
+- **场景：** 对一屋子自己人把喜欢说重。
+- **发音：** 重音在 *love*。*so much* 再加重。
+- **语域：** 家人。对一个人说，去掉 *guys*。
+- **迁移：** **I love you.** — 我爱你。
+
+### 6. 结婚纪念日快乐
+
+**Happy anniversary.** — 结婚纪念日快乐。
+
+- **场景：** 这一天先把这句话说出来。
+- **发音：** 重音在 *anniversary* 的第三个音节。
+- **语域：** 只对伴侣说。
+- **迁移：** **Happy anniversary. I love you.** — 结婚纪念日快乐。我爱你。
+
+### 7. 对不起
+
+**I'm sorry.** — 对不起。
+
+- **场景：** 礼物或话说重了，先道歉。
+- **发音：** 重音在 *sorry*。
+- **语域：** 可以对客人说。
+- **迁移：** **I'm sorry. I didn't mean that.** — 对不起，我不是那个意思。
+
+### 8. 谢谢
+
+**Thank you.** — 谢谢。
+
+- **场景：** 接住一份礼物或一句帮忙。
+- **发音：** 重音在 *thank*。
+- **语域：** 可以对客人说。
+- **迁移：** **Thank you for this.** — 谢谢你这个。
+
+### 9. 我得跟你说件事
+
+**I need to talk to you about something.** — 我得跟你说件事。
+
+- **场景：** 有话还没说，先把时间要下来。
+- **发音：** 重音在 *talk*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I need to talk to you tonight.** — 我今晚得跟你说件事。
+
+### 10. 就这么定了
+
+**Let's do it.** — 就这么定了。
+
+- **场景：** 商量完了，你把决定说死。本集连说了两遍。
+- **发音：** 重音在 *do*。
+- **语域：** 家人、朋友。
+- **迁移：** **All right. Let's go.** — 好，走吧。
+
+### 11. 人越多越热闹
+
+**The more, the merrier.** — 人越多越热闹。
+
+- **场景：** 还有人要来，你把「都留下」说成热闹，不是命令。
+- **发音：** 两个 *the* 都轻。重音在 *more* 和 *merrier*。
+- **语域：** 家人、客人。有人想走的时候，先问他们还留不留。
+- **迁移：** **The more, the better.** — 越多越好。
+
+### 12. 你一定会喜欢
+
+**You're gonna love it.** — 你一定会喜欢。
+
+- **场景：** 礼物还没打开，你先把期待说出来。期待还不是礼物本身。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *love*。
+- **语域：** 家人。没准备好的时候，不先把这句话说满。
+- **迁移：** **You're gonna love this song.** — 你一定会喜欢这首歌。
+
+---
 
 
 ## 时态 · be going to / would
@@ -94,10 +153,7 @@
 | **the more** 越多越好 | *The more, the merrier.* — 人越多越热闹。 | *The more, the better.* — 越多越好。 |
 | **be going to** 你一定会 | *Your real present is coming tonight, and you're gonna love it.* — 你真正的礼物今晚到，你一定会喜欢。 | *You're gonna love this song.* — 你一定会喜欢这首歌。 |
 
-跟读：
-
-- **We would love to have the baby.** — 我们很愿意照看宝宝。
-- **The more, the merrier.** — 人越多越热闹。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。*would love to* 口语和书面都可以用。
 
 ## 问句 · Questions in this episode
 
@@ -113,7 +169,7 @@
 | **right?** | *Your hair's longer, right?* — 你头发长了，对吧？ | *The meeting's at three, right?* — 会是三点，对吧？ |
 | **反义疑问** | *You really don't understand what just happened there, do you?* — 你真没听懂刚才发生了什么，是吧？ | *You don't remember, do you?* — 你不记得了，是吧？ |
 
-否定陈述加 *do you?*，是在确认对方确实没懂。海莉的小花招被克莱尔看穿时，就是这种问法。
+否定陈述加 *do you?*，是在确认对方确实没懂。对孩子先把你看见的事说出来，不用这句压人。
 
 ## 特色 · the more, the merrier，和这一集想说的话
 
@@ -179,24 +235,49 @@
 2. **人多的夜晚，有人想留，有人想走。** *The more, the merrier.* 是杰的句子。海莉的句子是 *everybody's gonna be there*，指的是另一场派对。
    **The more, the merrier.** — 人越多越热闹。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**真的那首歌，可以是较小的那首。** 菲尔请来歌手，大家以为定情曲是 *True*。他后来坦白是 *If You Leave*。歌手崩溃，又和好。纪念日经得起一句更正。
-**"If You Leave" by Orchestral Manoeuvres in the Dark.** — 那首歌是《If You Leave》。
-**It'll make us better parents.** — 这会让我们变成更好的父母。米奇尔和卡姆用这一句给自己放一夜假。理由是照顾关系，不是抛弃孩子。
+和精学语块重复的句子，这里只写家里怎么说。
 
-#### 亲子相处
+1. **小礼物也可以是真的。**
+   - **骨架：** *Are you kidding me? I love it.*
+   - **家里说：** **I love it.** — 我喜欢。
+   - **语域：** 只对伴侣说。重音在 *love*。
 
-**留住一个青少年，可以是一条时间，而不是一只鞋。** 杰先藏起海莉的鞋，后来发现迪兰在树后，还是放她去派对，约好 11 点回来。界限说清楚，人就可以离开一会儿。
-**Is Haley still coming?** — 海莉还来吗？
-**Your real present is coming tonight.** — 你真正的礼物今晚到。这句是菲尔对克莱尔说的，也像家长对孩子常说的空头支票。本集里他最后把空头补上了。
+2. **今晚有话要说，先约一下。**
+   - **骨架：** *I need to talk to you about something.*
+   - **家里说：** **I need to talk to you tonight.** — 我今晚得跟你说件事。
+   - **语域：** 伴侣之间。不把还没准备好的惊喜说成已经在路上。
+
+### 亲子 · 今天能对 Celine 说
+
+1. **问她还来不来。**
+   - **骨架：** *Is Haley still coming?*
+   - **家里说：** **Celine, are you still coming?** — Celine，你还来吗？
+   - **语域：** 家长对孩子。她可以回答不来。
+
+2. **人多也可以，界限先说清。**
+   - **骨架：** *The more, the merrier.*
+   - **家里说：** **Celine, you can stay. Be home by eight.** — Celine，你可以留下。八点回家。
+   - **语域：** 家长对孩子。热闹不是命令。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 你收到一份小礼物，想说喜欢。
+2. 你邀请对方有空过来。
+3. 人越多你觉得越热闹。
+4. 你告诉伴侣今晚有话要说。
+5. 请 Celine 确认她还来不来。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
 

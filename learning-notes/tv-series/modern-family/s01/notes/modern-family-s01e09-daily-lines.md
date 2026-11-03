@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e09-transcript.txt|S01E09 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 万圣节让 Cameron 进入“导演模式”，他把家庭活动做成了大型沉浸式现场，也把 Mitchell 和大家逼到崩溃边缘。另一边，Claire 与邻里关系、Jay 与 Gloria 的日常摩擦都在节日氛围里被放大。最后大家在混乱与笑场中达成默契：允许彼此“夸张”，也要记得照顾边界。
@@ -21,73 +23,125 @@
 - **comic breakdown** — 喜剧性崩盘
 - **mutual compromise** — 彼此让步
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · could have / used to**、**问句**，以及 **特色**（主题句 *the best birthday*、*could have been a lot worse*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · could have / used to**、**问句**、**特色**（主题句 *the best birthday*、*could have been a lot worse*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **He's an innocent whose only drive...** — 他是个纯情大男孩  唯一的目标
-- **They're not used to seeing one clown in a car.** — 他们很少见一个小丑在车里的情况
-- **What do you want for your birthday? — Well, I guess I could use a belt.** — 你生日想要什么？——我想一条皮带就行。
-## 亲子与学校
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-- **He's one of those kids,** — 他是那种古怪孩子
-- **But there's a girl in my school, and I want her to like me.** — 学校里有个妹子挺好  我想让她喜欢我
-- **It's like he's feeding a baby bird.** — 就像他在喂幼鸟一样
-- **Kids bored? - I'm teasing. I'm teasing.** — 让孩子们无聊吗  -我开玩笑的  玩笑
-- **You combined the two things that kids love the most** — 你把孩子们最爱的两样东西结合到了一起
-- **if I wasn't in school or fishin', I was clownin'.** — 只要我不是在上学或钓鱼  就是在扮小丑
-- **I'm surprised you had time for the schoolin'.** — 我真奇怪你竟然还有时间上学
+### 1. 生日想要什么
 
-## 工作与职场
+**What do you want for your birthday?** — 你生日想要什么？
 
-- **We have to stop meeting like this.** — 我们不能再这么见面了
-- **Am I charming? — Of course you're charming.** — 我有魅力吗？——你当然有魅力。
+- **场景：** 给对方过生日前，直接问愿望。语气平常，不是施压。
+- **发音：** *want for* 连读。重音在 *birthday*。
+- **语域：** 家人、熟人。
+- **迁移：** **What do you want for dinner?** — 晚饭你想吃什么？
 
-## 约会与恋爱
+### 2. 一条皮带就行
 
-- **Oh, my God. - Honey, relax.** — 老天啊  -亲爱的  放心
-- **minutes without her boyfriend's tongue in her mouth.** — 没有她男友的舌头在她嘴里搅
-- **Okay, honey. It's your day.** — 好吧宝贝  你的生日你做主
-- **Honey, let me know if you get low on supplies.** — 亲爱的  如果你材料不够了  记得通知我
+**Well, I guess I could use a belt.** — 嗯，我想一条皮带就行。
 
-## 情绪与道歉
+- **场景：** 回答上一句。把要求说小，*guess* 留余地。
+- **发音：** *could* 弱读。重音在 *belt*。
+- **语域：** 家人。
+- **迁移：** **Well, I guess I could use a break.** — 嗯，我想歇一会儿就行。
 
-- **Sorry. I fell asleep** — 抱歉  我睡着了
-- **That did not make me feel better. - Don't worry.** — 那只会让我更加担心  -别担心
-- **So just relax. Grab a snow cone.** — 所以你就放轻松  去吃个冰霜卷吧
-- **Don't be mad.** — 别生气
-- **Aw, and there's the fifth type- the sad clown.** — 还有第5种类型的  悲伤小丑
-- **Sad clown is a tramp. So there's still only four types.** — 悲伤小丑也属于乞丐小丑  所以仍然只有4种
-- **I know. I'm sorry. - I'll pump.** — 我知道  我很抱歉  -我来加油吧
-- **Relax. - Oh. I get it.** — 放轻松  -哦  我懂了
+### 3. 亲爱的，放松
 
-## 社交与礼貌
+**Honey, relax.** — 亲爱的，放松。
 
-- **Every year, Luke's birthday falls right around Thanksgiving,** — 每年卢克的生日都在感恩节附近
-- **You know, the family is gonna be together for Thanksgiving...** — 话说  家人们准备趁感恩节来个
-- **Thanks again for the karaoke machine.** — 再次谢谢你们借我卡拉OK唱机
-- **Please don't. I beg you.** — 千万不要  求你了
-- **Hey, Phil. Are, uh, you getting a clown for today?** — 嘿  菲尔  你今天的派对有请小丑吗
-- **Really. So anyway, thanks again.** — 真的  总之  谢谢你们了
-- **Hey, Gloria,** — 嘿  歌洛莉亚
-- **Hey, pal, how's it going?** — 嘿  老弟  过得怎么样
-- **Hello, old friend.** — 你好啊  老朋友
-- **Hey, has anyone ever gotten hurt on one of these things?** — 嘿  有人因为这东西受过伤吗
-- **this is how we humans celebrated birthdays. - Hey, Dad!** — 这就是我们人类庆祝生日的方式  -老爸
-- **Excellent. Thank you.** — 很好  谢谢你们
-- **Hey, buddy, you having fun?** — 嘿  小老弟  玩得开心吗
-- **Hey, Luke. Look.** — 嘿  卢克  瞧啊
+- **场景：** 对方紧张，先用称呼把气氛按住。
+- **发音：** 重音在 *relax*。
+- **语域：** 只对伴侣或极亲近的人。
+- **迁移：** **Hey, relax.** — 嘿，放松。
 
-## 请求与建议
+### 4. 今天听你的
 
-- **What would you suggest we get him then, hmm?** — 那你说我们送他什么礼物好
-- **How could you not?** — 怎么可能不愉快呢
-- **Let's go ahead and rope this area off.** — 把这一块儿用绳子圈起来禁止入内
+**Okay, honey. It's your day.** — 好吧，宝贝。今天听你的。
 
+- **场景：** 让步：今天按对方的安排来。
+- **发音：** *it's* 弱读。重音在 *day*。
+- **语域：** 伴侣、家人。
+- **迁移：** **Okay. It's your call today.** — 好吧，今天你来定。
+
+### 5. 我进来可以吗
+
+**Mind if I come in?** — 我进来你介意吗？
+
+- **场景：** 站在门口，先问一声再进。
+- **发音：** *mind if I* 连读。重音在 *in*。
+- **语域：** 熟人、客人。答应常说 *Sure.*
+- **迁移：** **Mind if I sit here?** — 我坐这儿你介意吗？
+
+### 6. 别担心
+
+**Don't worry.** — 别担心。
+
+- **场景：** 对方慌了，先稳住情绪。
+- **发音：** 重音在 *worry*。
+- **语域：** 家人、熟人。
+- **迁移：** **Don't worry. I've got it.** — 别担心，我来。
+
+### 7. 别怪自己
+
+**Don't blame yourself.** — 别怪自己。
+
+- **场景：** 出了岔子，对方在自责。
+- **发音：** 重音在 *blame*。
+- **语域：** 亲近的人。
+- **迁移：** **Don't blame yourself. It was an accident.** — 别怪自己，是意外。
+
+### 8. 放下吧
+
+**Let it go.** — 放下吧。
+
+- **场景：** 争下去没好处，劝对方松手。
+- **发音：** *let it* 连读。重音在 *go*。
+- **语域：** 家人、熟人。
+- **迁移：** **Let it go for now.** — 先放一放吧。
+
+### 9. 材料不够告诉我
+
+**Honey, let me know if you get low on supplies.** — 亲爱的，材料不够了告诉我一声。
+
+- **场景：** 对方在忙派对或手工，你顺口交代一句。
+- **发音：** *let me* 连读。重音在 *supplies*。
+- **语域：** 伴侣、家人。
+- **迁移：** **Let me know if you need anything.** — 缺什么告诉我。
+
+### 10. 去吃个冰霜卷
+
+**So just relax. Grab a snow cone.** — 那就放松，去吃个冰霜卷吧。
+
+- **场景：** 劝人别绷着，给一件具体的小事做。
+- **发音：** *just* 轻。重音在 *relax*、*grab*。
+- **语域：** 熟人。家里可换成下面的迁移句。
+- **迁移：** **So just relax. Grab a snack.** — 那就放松，去吃点东西吧。
+
+### 11. 抱歉，睡着了
+
+**Sorry. I fell asleep.** — 抱歉，我睡着了。
+
+- **场景：** 解释为什么没回应、没帮忙。
+- **发音：** 重音在 *asleep*。
+- **语域：** 家人、熟人。
+- **迁移：** **Sorry. I dozed off.** — 抱歉，我打盹了。
+
+### 12. 礼物不如盒子
+
+**You get him a gift and all he wants to do is play with the box.** — 你送他礼物，他只想玩盒子。
+
+- **场景：** 吐槽孩子（或大人）对礼物不买账。语气像抱怨，不是骂孩子。
+- **发音：** *wants to* 常弱读成 /wɑnə/。重音在 *gift*、*box*。
+- **语域：** 家人之间。不对孩子当面照搬整句嘲讽。
+- **迁移：** **I got you a gift and all you want is the box.** — 我给你买了礼物，你却只想玩盒子。
+
+**听懂即可，不跟读：** **Who throws a party without a clown?** — 谁办派对不请小丑？反问带压力，见问句表；家里不照说。
+
+---
 
 ## 时态 · could have / used to
 
@@ -100,10 +154,7 @@
 | **used to have** 以前有 | *And I used to have a machete.* — 而且我以前有一把砍刀。 | *I used to have a bike like that.* — 我以前有一辆那样的自行车。 |
 | **the best ... of all time** | *Throw Luke the best birthday party of all time.* — 给卢克办一场有史以来最棒的生日。 | *That was the best meal of the month.* — 那是这个月最好的一顿。 |
 
-跟读：
-
-- **It could have been a lot worse.** — 当时有可能糟得多。
-- **I used to have one.** — 我以前有一个。
+口语里的缩读留在说话里；书面和正式场合写完整形式（*going to*，不用 *gonna*）。
 
 ## 问句 · Questions in this episode
 
@@ -120,7 +171,7 @@
 | **Mind if I** | *Mind if I come in?* — 我进来你介意吗？ | *Mind if I sit here?* — 我坐这儿你介意吗？ |
 | **反问** | *Who throws a party without a clown?* — 谁办派对不请小丑？ | *Who leaves without saying goodbye?* — 谁走了连再见都不说？ |
 
-*Mind if I...* 是 *Do you mind if I...* 的省略。答应就是 *Sure.*
+*Mind if I...* 是 *Do you mind if I...* 的省略。答应就是 *Sure.* 反问 *Who throws...* 把对方的选择说成荒谬，是口语压力；对孩子和正式场合换陈述句或请求句。
 
 ## 特色 · the best / the most，和这一集想说的话
 
@@ -182,24 +233,46 @@
 2. **回头看，句子用 could have。** *It could have been a lot worse.* 这句救的是惊吓，不是把事故说成没事。
    **It could have been a lot worse.** — 当时有可能糟得多。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**一个人的爱的方式，可以是另一个人害怕的东西。** 卡姆坚持让 Fizbo 出场。米奇尔怕小丑。*Who throws a party without a clown?* 是卡姆的反问。两个人对「怎样才算把生日办好」差了一整套衣服。
-**Has he ever seen a good one?** — 他见过一个好的吗？
-**Who throws a party without a clown?** — 谁办派对不请小丑？
+1. **把「大办」说小一点。**
+   - **骨架：** *We should blow this out and throw Luke the best birthday party of all time.*
+   - **家里说：** **Let's keep it small and make it fun for you.** — 我们办小一点，让你开心就好。
+   - **语域：** 只对伴侣商量派对规模。
 
-#### 亲子相处
+2. **两种「办好生日」可以不一样。**
+   - **骨架：** *Has he ever seen a good one?* / *Who throws a party without a clown?*
+   - **家里说：** **I know you love going big. Can we talk about what scares me first?** — 我知道你喜欢大办。我们先说说我怕什么好吗？
+   - **语域：** 只对伴侣。反问留在剧里，家里用陈述和邀请。
 
-**孩子用得上的，是不用套路的那一句。** 曼尼的笑话没打动 Bianca。歌洛莉亚说：*You need no tricks. Just be the sweet, wonderful little boy that you are.*
-**Just be the sweet, wonderful little boy that you are.** — 做你现在这个小男孩就行。
-**The right girl will find you when it's time.** — 对的女孩会在时候到了的时候找到你。
+### 亲子 · 今天能对 Celine 说
+
+1. **不用套路，做你自己。**
+   - **骨架：** *Just be the sweet, wonderful little boy that you are.*
+   - **家里说：** **Celine, just be yourself. You don't need tricks.** — Celine，做你自己就行，不用耍花样。
+   - **语域：** 家长对孩子。
+
+2. **对的时机会在。**
+   - **骨架：** *The right girl will find you when it's time.*
+   - **家里说：** **The right friends will find you when it's time.** — 对的朋友，时候到了自然会遇到。
+   - **语域：** 家长对孩子。用陈述句，不用反问逼孩子。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 对方生日快到了，你想问 TA 想要什么礼物。
+2. TA 紧张，你想让 TA 先放松。
+3. 站在门口，你想问能不能进去。
+4. 和伴侣商量：你想把派对办小一点、但开心就好。
+5. 告诉 Celine：做她自己就行，不用耍花样。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

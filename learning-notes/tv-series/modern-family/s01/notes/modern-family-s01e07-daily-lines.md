@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e07-transcript.txt|S01E07 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 本集围绕“父母对孩子成就的期待”展开：Jay 因 Manny 击剑表现出色而格外兴奋，甚至把自己的荣誉感投射到比赛结果上；Manny 一度因为“不能和女生对决”的偏见想退赛，最后在 Gloria 的引导下学会真正尊重对手。另一边，Mitchell 对童年花滑搭档 Claire 的旧怨被重新点燃，两人终于说开当年退赛的真相，也修复了手足关系。与此同时，Phil 和 Claire 为了给 Luke 找“天赋赛道”折腾一圈，最终意识到比起强推“冠军路线”，更重要的是接纳孩子的节奏与特质。
@@ -21,70 +23,123 @@
 - **finding one's talent** — 寻找天赋
 - **respect and pride** — 尊重与自豪
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · used to / be going to**、**问句**，以及 **特色**（主题句 *find his own way*、*the best at something*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · used to / be going to**、**问句**、**特色**（*find his own way*、*the best at something*）。
 
 ---
 
-## 家事与居家
+## 精学语块
 
-- **but it's kind of cool to have a kid in your house** — 但是家里有个有特长的孩子
-- **great home ideas just keep lurking, mostly nearby.** — 好的房屋卖点就藏在你身边
-- **Just rub it on your hair.** — 在头发上蹭一蹭就行。这是剧里的玩笑修法。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 亲子与学校
+### 1. 我们的孩子很好
 
-- **You know this nice moment I'm having with your son?** — 你知道我在享受和你儿子的父子时刻吗
-- **I'd see their kids' trophies,** — 看见他们小孩得的奖杯
-- **Yeah, our kids are great. - They're the greatest.** — 我家小孩都很棒  -他们是最棒的
-- **When Mitchell and Claire were kids.** — 米奇尔和克莱尔小时候
+**Our kids are great.** — 我们的孩子很好。
 
-- **But I don't think that a parent can just force that.** — 可我不喜欢揠苗助长
-- **Besides, Luke already is the best at something- being my son.** — 再说  能成为我儿子  已经够卢克骄傲了
-- **Come on, baby. Show them.** — 来吧  宝贝  给他们瞧瞧
-- **A few years back, my granddaughter Haley ran a 5K,** — 几年前  我孙女海莉跑五千米
-- **Seeing him out there slicing those kids to pieces,** — 看见他把那些小孩打得落花流水
-## 电话与信息
+- **场景：** 有人问起孩子，你先接住。下一句可以是 *They're the greatest.*
+- **发音：** 重音在 *great*。
+- **语域：** 可以对客人说。不接着比较别人家的奖杯。
+- **迁移：** **She's doing great.** — 她做得很好。
 
-- **No. No, no, no, no! My phone died.** — 不不不不  我手机没电了
-- **There must be something wrong with this phone.** — 这手机肯定出了什么毛病
-- **Manny, you always call yourself the lover of women,** — 曼尼  你常称自己为女人的贴心小情人
+### 2. 不能硬逼
 
-## 工作与职场
+**I don't think a parent can just force that.** — 我不觉得家长能把这件事硬逼出来。
 
-- **I had a meeting.** — 我那是要溜出去开会
-- **I knew you didn't have a meeting, Cam. I knew it.** — 我就知道你不是开会  小卡  我就知道
-- **Often people question realtors' sincerity.** — 人们通常会质疑房产经纪人的诚实度
+- **场景：** 你想让孩子在某件事上出色，又知道逼不出来。
+- **发音：** *just* 轻。重音在 *force*。
+- **语域：** 家长之间。
+- **迁移：** **You can't force it.** — 这事逼不出来。
 
-## 情绪与道歉
+### 3. 他已经是最好的
 
-- **You're kind of wrecking it. - Sorry.** — 你有点破坏气氛了  -对不起
-- **Ay! Sorry. Sorry.** — 抱歉  抱歉
-- **No, no. I'm- I'm very happy for Manny.That's all.** — 没  才没呢  我只是太为曼尼高兴了
-- **And Mitchell is still upset** — 米奇尔到现在还耿耿于怀
-- **So that wasn't angry talk?** — 你不是在吵架啊
-- **No, silly. That was happy talk.** — 才不是  傻瓜  我聊得开心呢
-- **Gracias, mi amor. - I'm sorry to interrupt.** — 多谢你  宝贝  -很抱歉打断你们
-- **He shouldn't be doing anything that makes him nervous.** — 他觉得太紧张  就别逼他做
-- **I'm not nervous. I just don't want to fight a girl.** — 我不是紧张  我只是不想和一个女孩对决
-- **I'm sorry.** — 对不起
-- **Did I say something wrong?** — 我说错什么了吗？
+**Luke already is the best at something— being my son.** — 卢克已经在一件事上是最好的：做我的儿子。
 
-## 社交与礼貌
+- **场景：** 把「最好」从奖牌上拿开，放到这个人身上。
+- **发音：** 破折号后面停一下。重音在 *son*。
+- **语域：** 家长对自己人说。
+- **迁移：** **You're already the best at being you.** — 做你自己，你已经是最好的。
 
-- **I wanna thank you guys for coming by and supporting the kid.** — 谢谢你们过来支持我儿子
-- **Excuse, please. Let me finish. Thank you.** — 拜托  让我讲完  谢谢
-- **It's okay, papi. - Hey, champ! I got a little something for you.** — 没事  -小冠军  给你点小东西
+### 4. 手机没电了
 
-## 请求与建议
+**My phone died.** — 我手机没电了。
 
-- **I'd have to think about that.** — 我得好好想想
-- **All right. Let's talk about why you got your panties in a bunch.** — 好吧  我们来谈谈让你心烦意乱的原因
-- **I think you just have to have** — 我觉得你只要有信心
-- **Let's burn one in here.** — 投一个过来
-- **Okay, let's keep all the batters right here.** — 尽量往这个方向投球
+- **场景：** 解释为什么没接到、没回。
+- **发音：** 重音在 *died*。
+- **语域：** 可以对客人说。
+- **迁移：** **My phone died. I'll call you back.** — 手机没电了。我回头打给你。
 
+### 5. 对不起
+
+**I'm sorry.** — 对不起。
+
+- **场景：** 打断了别人，或说重了，先道歉。
+- **发音：** 重音在 *sorry*。
+- **语域：** 可以对客人说。
+- **迁移：** **I'm sorry to interrupt.** — 抱歉打断你们。
+
+### 6. 我是不是说错了
+
+**Did I say something wrong?** — 我是不是说错什么了？
+
+- **场景：** 对方突然变了脸色，你先问是不是自己的话。
+- **发音：** 重音在 *wrong*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Did I miss something?** — 我是不是漏了什么？
+
+### 7. 别逼他做紧张的事
+
+**He shouldn't be doing anything that makes him nervous.** — 让他紧张的事，就别逼他做。
+
+- **场景：** 孩子已经慌了，你把活动停下来。
+- **发音：** *shouldn't* 重音在 *should*。后面的 *nervous* 也重。
+- **语域：** 家长之间。对孩子改成下面的迁移。
+- **迁移：** **You don't have to do it if you're nervous.** — 你要是紧张，就不必做。
+
+### 8. 谢谢你们来
+
+**I wanna thank you for coming.** — 谢谢你们来。
+
+- **场景：** 活动结束，对来的人说一句。本集原句还接着「支持我儿子」。
+- **发音：** *wanna* 是 *want to* 的弱读。重音在 *thank*。
+- **语域：** 可以对客人说。
+- **迁移：** **Thank you for coming.** — 谢谢你们来。
+
+### 9. 让我说完
+
+**Let me finish.** — 让我说完。
+
+- **场景：** 被人打断，你把话要回来。后面常常加 *Thank you.*
+- **发音：** 重音在 *finish*。
+- **语域：** 家人、会上。对孩子说的时候，语气放轻。
+- **迁移：** **Let me finish, please.** — 请让我说完。
+
+### 10. 我得想想
+
+**I'd have to think about that.** — 我得想想。
+
+- **场景：** 对方要一个当场的答案，你先不答应。
+- **发音：** *I'd* 是 *I would*。重音在 *think*。
+- **语域：** 可以对客人说。比直接 *no* 轻。
+- **迁移：** **Let me think about it.** — 让我想想。
+
+### 11. 他会找到自己的路
+
+**The kid's gonna find his own way.** — 孩子会找到自己的路。
+
+- **场景：** 你不再替他选项目。*gonna* 是已经往那个方向走。
+- **发音：** *gonna* 弱读。重音在 *way*。
+- **语域：** 家长之间。
+- **迁移：** **She's gonna find her own way.** — 她会找到自己的路。
+
+### 12. 那以前让我不舒服
+
+**It used to bug me.** — 那以前让我不舒服。
+
+- **场景：** 说一件过去会烦、现在还记得的事。
+- **发音：** *used to* 的 *s* 读 /s/，不要加成 /z/ 后再加一个 /t/。重音在 *bug*。
+- **语域：** 家人、朋友。*bug* 是口语「烦到」。
+- **迁移：** **It used to bug me when I was left out.** — 被落下的时候，我以前会不舒服。
+
+---
 
 ## 时态 · used to / be going to
 
@@ -97,10 +152,7 @@
 | **be going to** 会找到 | *The kid's gonna find his own way.* — 孩子会找到自己的路。 | *She's gonna find her own way.* — 她会找到自己的路。 |
 | **have to** 只好 | *I think you just have to have faith.* — 我觉得你只好持有那点信心。 | *You just have to wait.* — 你只好等。 |
 
-跟读：
-
-- **It used to bug me.** — 那以前让我不舒服。
-- **The kid's gonna find his own way.** — 孩子会找到自己的路。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。*used to* 口语和书面都可以用。
 
 ## 问句 · Questions in this episode
 
@@ -116,7 +168,7 @@
 | **Did I** | *Did I say something wrong?* — 我是不是说错话了？ | *Did I miss something?* — 我是不是漏了什么？ |
 | **You know this ... ?** 你正享受的这一刻 | *You know this nice moment I'm having with your son?* — 你看见我正跟你儿子好好待着的这一刻吗？ | *You know this quiet hour I'm having?* — 你看见我这安静的一小时吗？ |
 
-*Or could this have something to do with...* 不是真的在要许可。卡姆把米奇尔的火气引到旧事上。
+*Who puts...* 是反问，不是在找那个人。对孩子先说你看见了什么。
 
 ## 特色 · the best at，和这一集想说的话
 
@@ -182,28 +234,49 @@
 2. **以前让你不舒服的那间屋子，会跟着你进自己的家。** 米奇尔说 *I used to go to the houses of my friends*，看见别人孩子的奖杯，*and it used to bug me*，因为自己家里没有。击剑赛这天，家里终于有了一个。
    **It used to bug me.** — 那以前让我不舒服。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-这一集的「夫妻」更近于一对兄妹把旧账说完。米奇尔怨克莱尔当年退出花样滑冰。更衣室里她说，退赛是为了护住他，她自己从未爱过滑冰。
-**Or could this have something to do with ice skating?** — 或者这事跟滑冰有关？
-**A quit can be an act of care.** — 一次退出，可以是一次照护。
+和精学语块重复的句子，这里只写家里怎么说。
 
-卡姆把两个人关在一起谈。和解是他推的，话是他们自己的。
+1. **先问是不是自己说错了。**
+   - **骨架：** *Did I say something wrong?*
+   - **家里说：** **Did I say something wrong?** — 我是不是说错什么了？
+   - **语域：** 只对伴侣说。重音在 *wrong*。
 
-#### 亲子相处
+2. **把旧事递过去，不在门口吵。**
+   - **骨架：** *Or could this have something to do with yesterday?*
+   - **家里说：** **Can we talk about what this is really about?** — 我们能谈谈这到底是因为什么吗？
+   - **语域：** 伴侣之间。本集原句把火气引到滑冰上，家里不提那件事。
 
-1. **强加的项目，孩子会用腿投反对票。** 曼尼宣布退役，因为他不想和女孩对打。歌洛莉亚要他把剑拿回来：尊重一个人，包括站上场。
-   **You're gonna be fine.** — 你会没事的。
+### 亲子 · 今天能对 Celine 说
 
-2. **信心是家长在「不能强迫」之后剩下的句子。** *you just have to have faith that the kid's gonna find his own way.*
-   **The kid's gonna find his own way.** — 孩子会找到自己的路。
+1. **先说会没事。**
+   - **骨架：** *You're gonna be fine.*
+   - **家里说：** **Celine, you're gonna be fine.** — Celine，你会没事的。
+   - **语域：** 家长对孩子。*gonna* 弱读，重音在 *fine*。说完不追加项目。
+
+2. **路留给她自己找。**
+   - **骨架：** *The kid's gonna find his own way.*
+   - **家里说：** **Celine, you're gonna find your own way.** — Celine，你会找到自己的路。
+   - **语域：** 家长对孩子。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 你觉得这件事逼不出来。
+2. 手机没电了，你说回头再打。
+3. 你想谢谢对方来了。
+4. 你问伴侣是不是自己说错了。
+5. 请 Celine 相信她会找到自己的路。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
 

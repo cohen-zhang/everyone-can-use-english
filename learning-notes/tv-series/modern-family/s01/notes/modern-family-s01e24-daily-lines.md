@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e24-transcript.txt|S01E24 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 季终集以一张全家福为主线：看似简单的拍照任务因为时间、情绪和性格差异彻底失控。每个人都在争取自己的位置，也在不经意间伤害彼此。最终全家在一连串狼狈之后重新站到一起，收束了本季“混乱但彼此相爱”的核心气质。
@@ -21,66 +23,125 @@
 - **messy reconciliation** — 狼狈和解
 - **chaotic love** — 混乱中的爱
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · if / be not**、**问句**，以及 **特色**（主题句 *free country*、*Life is not perfect*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · if / be not**、**问句**、**特色**（*free country*、*Life is not perfect*）。
 
 ---
 
-## 家事与居家
+## 精学语块
 
-- **There is a pigeon in our house.** — 家里进来一只鸽子
-- **and my mom wrung its neck, and we had it for dinner.** — 我妈把它脖子拧了  然后晚上就吃鸡
-- **We only have the photographer for an hour.** — 摄影师只有一个小时。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 亲子与学校
+### 1. 摄影师只有一小时
 
-- **Luke suddenly remembered a school project due tomorrow.** — 卢克有个家庭作业明天就要交了
-- **Neither does Luke's teacher.** — 卢克的老师怕是也不知道
+**We only have the photographer for an hour. Okay?** — 摄影师只有一个小时。好吗？
 
-## 电话与信息
+- **场景：** 把真实的时间限制说清楚，句尾 *Okay?* 要对方点头。
+- **发音：** 重音在 *hour*。句尾 *Okay?* 升调。
+- **语域：** 家人一起办事时。
+- **迁移：** **We leave in ten. Okay?** — 我们十分钟后走。好吗？
 
-- **I'm gonna call your dad, and he's gonna tell me how to fix this.** — 我打电话给你爸  问他怎么修
-- **I have been hired to sing at a wedding this weekend.** — 有人请我这周末在婚礼上唱歌。
+### 2. 生活并不完美
 
-## 工作与职场
+**Life is not perfect.** — 生活并不完美。
 
-- **a time that works for everybody...** — 一个每个人都有空的时间
-- **should be their own business.** — 是他们的自由
-- **So in '66, I worked in my grandfather's office supply business** — 66年的时候我在我爷爷的办公品公司打工
+- **场景：** 计划又乱了，用一句现在时把「完美」放下。本集前面有 *News flash*，家里跟核心句即可。
+- **发音：** 重音在 *perfect*。
+- **语域：** 家人、伴侣。对别人太说教。
+- **迁移：** **Today is not perfect.** — 今天并不完美。
 
-## 约会与恋爱
+### 3. 玩得开心
 
-- **Oh, hey, honey. Have a great time at the game. - Thanks.** — 亲爱的  好好享受比赛哦  -谢谢
-- **I love you. - Bye.** — 我爱你  -拜拜
-- **Honey, you know what,** — 亲爱的  我跟你说
+**Have a great time at the game.** — 看球玩得开心。
 
-## 情绪与道歉
+- **场景：** 家人要出门，你在门口送一句。
+- **发音：** 重音在 *great*、*time*。
+- **语域：** 家人、朋友。
+- **迁移：** **Have a great time.** — 玩得开心。
 
-- **Sorry. Please apologize to her when you tell her not to** — 抱歉  请代我给她道个歉  还告诉她
-- **It's much better. Excuse me. Sorry.** — 好多了  失陪一下
-- **It's more afraid of you than you are of it.** — 其实它更怕你
+### 4. 它更怕你
 
-## 社交与礼貌
+**It's more afraid of you than you are of it.** — 其实它更怕你。
 
-- **Please, just remember the family portrait.** — 记得回来照全家福
-- **This is amazing that you're doing this. - Mmm, thank you.** — 你想得真周到  -谢谢
-- **You're wonderful. - Thank you.** — 你太棒了  -谢谢
-- **Hello.** — 喂
-- **Hey, Mom, I think my diet's working.** — 妈  我觉得我减肥有效果了
-- **Hey, you're okay with me not going with you today, right?** — 今天不和你去没关系吧
-- **Hey, it's Phil. You know what to do.** — 你好  我是菲尔  有事请留言
-- **Hello?** — 喂
-- **I choked. I didn't think you'd look up here at me.** — 我卡壳了。我没想到你会往这边看我。
+- **场景：** 家里进了小动物，孩子怕，你用比较级反过来安慰。
+- **发音：** 重音在 *afraid*。
+- **语域：** 家长对孩子。
+- **迁移：** **It's more scared of you than you are of it.** — 它比你更怕它。
 
-## 请求与建议
+### 5. 记得回来拍照
 
-- **Let's just say it ruffles me...** — 这么说吧  让我不爽[薯片]的是
-- **I have to spend half my payday...** — 在发薪日[糖]花上半天
-- **Gloria, you're gonna have to take Manny to the game.** — 歌洛莉亚  你得带曼尼去看比赛
-- **I just need to...** — 我只需要
-- **So you don't have to talk to your wife.** — 于是你不想接你老婆电话就可以挂掉
+**Please, just remember the family portrait.** — 拜托，记得回来照全家福。
 
+- **场景：** 有人要出门，你提醒还有一件全家的事没做。
+- **发音：** *just* 轻。重音在 *remember*、*portrait*。
+- **语域：** 家人。
+- **迁移：** **Please remember we need a photo before dinner.** — 拜托，晚饭前我们还得拍一张。
+
+### 6. 你太棒了
+
+**You're wonderful.** — 你太棒了。
+
+- **场景：** 对方帮了忙，短句感谢加夸。
+- **发音：** 重音在 *wonderful*。
+- **语域：** 家人、朋友。对不熟的人可能显得太满。
+- **迁移：** **You're amazing. Thank you.** — 你太厉害了。谢谢。
+
+### 7. 今天不一起去可以吗
+
+**Hey, you're okay with me not going with you today, right?** — 嘿，今天不跟你去，你可以吧？
+
+- **场景：** 你要留在家或去别处，先问伴侣是否介意。
+- **发音：** 句尾 *right?* 升调要同意。重音在 *okay*。
+- **语域：** 只对伴侣或很熟的家人。
+- **迁移：** **You're okay if I stay home today, right?** — 我今天留在家，你可以吧？
+
+### 8. 为什么在嘎吱响
+
+**Why are you crunching?** — 你为什么在嘎吱嘎吱地嚼？
+
+- **场景：** 听见让人分心的咀嚼声，直接问。本集是薯片，家里换任何脆的东西。
+- **发音：** 重音在 *crunching*。
+- **语域：** 家人。带点烦，但对不熟的人不礼貌。
+- **迁移：** **Why are you whispering?** — 你为什么在小声说？
+
+### 9. 自由国家对吧
+
+**It's a free country, right?** — 这是个自由的国家，对吧？
+
+- **场景：** 半开玩笑地为自己小违规找理由，并向对方要同意。
+- **发音：** 句尾 *right?* 升调。重音在 *free*。
+- **语域：** 家人、熟人玩笑。正式场合不用。
+- **迁移：** **That's fair, right?** — 这算公平，对吧？
+
+### 10. 为什么不现在给我
+
+**Why don't you just give it to me right now?** — 为什么不现在就给我？
+
+- **场景：** 催对方把东西交出来。带一点急。
+- **发音：** *don't you* 连读。重音在 *give*、*now*。
+- **语域：** 家人。对不熟的人像命令。
+- **迁移：** **Why don't you just hand it over?** — 为什么不干脆给我？
+
+### 11. 我爱你
+
+**I love you.** — 我爱你。
+
+- **场景：** 出门前的短告别。本集后面还有 *Bye*，这里只跟核心句。
+- **发音：** 重音在 *love*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Love you. Bye.** — 爱你。拜拜。
+
+### 12. 少纠结会更开心
+
+**You would be a lot happier if you weren't so obsessed with everything being perfect.** — 你要是不那么执着于样样完美，会开心得多。
+
+- **场景：** 伴侣为细节抓狂，你用 *if* 从句说后果。句长，先读熟后半 *if* 部分。
+- **发音：** *would be* 弱读。重音在 *happier*、*perfect*。
+- **语域：** 只对伴侣说。对孩子改成更短的陈述句。
+- **迁移：** **I would be happier if we sat down for a minute.** — 我们要是坐一分钟，我会开心些。
+
+**听懂即可，不跟读：** *You're gonna stand out like "Where's Waldo?"* — 你会像找沃尔多那样扎眼。克莱尔的白裤子比喻；艾丽克斯在剧里拆台。语域是 **剧里的玩笑，不照说**。
+
+---
 
 ## 时态 · if / would be
 
@@ -93,10 +154,7 @@
 | **gonna stand out** | *You're gonna stand out like "Where's Waldo?"* — 你会像「沃尔多在哪儿」那样扎眼。 | *You're gonna stand out in that hat.* — 你戴那顶帽子会很扎眼。 |
 | **would be happier if** | *You would be a lot happier if you weren't so obsessed with everything being perfect.* — 你要是不那么执着于样样完美，会开心得多。 | *I would be happier if we left the dishes.* — 碗要是先放着，我会开心些。 |
 
-跟读：
-
-- **It's a free country, right?** — 这是个自由的国家，对吧？
-- **Life is not perfect.** — 生活并不完美。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。
 
 *Where's Waldo* 是在人群里找一个扎眼的人。艾丽克斯马上拆台：*Actually, "Where's Waldo?" doesn't stand out.* 比喻若站不住，家里会有人当场指出。
 
@@ -113,6 +171,8 @@
 | **Is there really** | *Is there really a more clear way to describe white pants?* — 白裤子还有更清楚的说法吗？ | *Is there really another option?* — 真的还有别的选择吗？ |
 | **Where's Waldo** 比喻里的问句 | *You're gonna stand out like "Where's Waldo?"* — 你会像找沃尔多那样扎眼。 | *Like "Where's the exit?"* — 像在问出口在哪。 |
 | **why don't you just** | *Why don't you just give it to me right now?* — 为什么不现在就给我？ | *Why don't you just say it?* — 为什么不现在就说？ |
+
+*Why don't you just…* 把催促说成问句。家里需要孩子配合时，用陈述句或 *Please*，不用这种顶回去的反问。
 
 ## 特色 · Life is not perfect，和这一集想说的话
 
@@ -173,23 +233,46 @@
 2. **比喻会被家里人当场改掉。** *Where's Waldo* 被艾丽克斯拆穿：沃尔多其实并不扎眼。家是一个会改你句子的地方。
    **Actually, "Where's Waldo?" doesn't stand out.** — 其实「沃尔多在哪儿」并不扎眼。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**亲吻镜头是误会，泥是把误会浇灭的方式。** 歌洛莉亚以为 kiss cam 亲到了菲尔。杰不接电话。后来他把泥泼出去，全家打成一团。*Now two people are dirty.* 脏是这一集的和解。
-**News flash. Life is not perfect, Claire.** — 生活并不完美，克莱尔。
-**You would be a lot happier if you weren't so obsessed with everything being perfect.** — 你要是不那么执着完美，会开心得多。
+1. **把完美放下，用现在时。**
+   - **骨架：** *News flash. Life is not perfect, Claire.*
+   - **家里说：** **Life is not perfect.** — 生活并不完美。
+   - **语域：** 只对伴侣说。想软一点可以加 *Today*。发音见语块 2。
 
-#### 亲子相处
+2. **用 if 从句说后果，不抢命令。**
+   - **骨架：** *You would be a lot happier if you weren't so obsessed with everything being perfect.*
+   - **家里说：** **I would be happier if we sat down for a minute.** — 我们要是坐一分钟，我会开心些。
+   - **语域：** 只对伴侣说。发音见语块 12。
 
-**白裤子是妈妈的画面，孩子听见的是「不要动」。** *try on the white pants* 是命令式的安排。海莉不懂为什么要定格。定格若只许完美，孩子会先僵住。泥让所有人一起脏，肖像才拍成。
-**We only have the photographer for an hour. Okay?** — 摄影师只有一小时。好吗？时间是真的。完美是另外加的。
+### 亲子 · 今天能对 Celine 说
+
+1. **用真实时间，不加完美。**
+   - **骨架：** *We only have the photographer for an hour. Okay?*
+   - **家里说：** **Celine, we only have an hour before we leave. Okay?** — Celine，我们出发前只有一个小时。好吗？
+   - **语域：** 家长对孩子。发音见语块 1。
+
+2. **家里进了小动物，用陈述句安慰。**
+   - **骨架：** *It's more afraid of you than you are of it.*
+   - **家里说：** **Celine, it's more afraid of you than you are of it.** — Celine，它其实更怕你。
+   - **语域：** 家长对孩子。发音见语块 4。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 全家要拍照，你想把「只有一个小时」说清楚。
+2. 计划又乱了，你想对伴侣说：生活并不完美。
+3. 家人要出门，你想祝玩得开心。
+4. 伴侣为细节抓狂，你想说：坐一分钟你会开心些。
+5. Celine 怕家里的小动物，你想安慰她。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*Where's Waldo* 比喻听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

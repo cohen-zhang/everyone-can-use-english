@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e20-transcript.txt|S01E20 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 这一集围绕“被冷落感”展开：有人成了替补、有人失去舞台中心，连日常互动都变得敏感。家人们一边争取存在感，一边又不得不承认彼此依赖。闹腾之后大家逐渐学会在团队里重新定位自己，而不是把注意力当作唯一价值证明。
@@ -21,78 +23,125 @@
 - **self-worth** — 自我价值
 - **team mindset** — 团队心态
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · 祈使 leave / give**、**问句**，以及 **特色**（主题句 *leave him alone*、*a pair of wings*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · 祈使 leave / give**、**问句**、**特色**（主题句 *leave him alone*、*a pair of wings*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **You have a car turntable and you're wearing rubber.** — 你有车用转盘  穿着胶皮衣
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 晚饭马上好
 
-- **Hang on. Dinner's ready in five minutes.** — 别玩了  晚饭马上就好
-- **interacting with other grown-ups while I get to stay at home...** — 跟其他成年人打交道  而我待在家里
-- **I hate our house.  - I know.** — 我们家简直就像贫民窟  -就是
-- **No. Those steaks have been done for five minutes.** — 不。那些牛排五分钟前就好了。
+**Hang on. Dinner's ready in five minutes.** — 等一下。晚饭五分钟就好。
 
-## 亲子与学校
+- **场景：** 孩子在玩或大人要出门，先拦住，说饭快好了。
+- **发音：** 重音在 *Hang*、*Dinner's*、*minutes*。
+- **语域：** 家人。
+- **迁移：** **Hang on. Food's ready in five minutes.** — 等一下。饭五分钟就好。
 
-- **He seems to have the kids motivated.** — 他激发了俩小子的积极性
-- **He taunts the kids. He's abusive.** — 他对小家伙们又是讽又是骂
-- **one of the kids would have taken that guy out and** — 队里孩子就会把他拉出去  咔嚓
-- **A coach is supposed to ride the kids hard.** — 教练本就该严格要求他们
-- **'Cause if I hear you call one of these kids stupid again,** — 因为我要是再听见你叫他们笨蛋
-- **Which, by the way, I can do, because I went to trapeze school.** — 顺便提一下  我能走  因为我练过
-- **encourage the other kids to make fun of me.** — 鼓励了其他队员开我玩笑
+### 2. 别烦他
 
-## 工作与职场
+**Jay, leave him alone.** — 杰，别烦他了。
 
-- **Sorry we're late. I was at work.** — 不好意思  迟了  我工作缠身
-- **I've taken a part-time job at a greeting card store.** — 我在贺卡店找了份兼职。
+- **场景：** 有人想插手、纠正，你先让对方停手。
+- **发音：** 重音在 *leave*、*alone*。
+- **语域：** 家人。本集前面有名字，家里换成 *Leave him alone.*
+- **迁移：** **Leave her alone for a minute.** — 让她一个人待一分钟。
 
-## 约会与恋爱
+### 3. 我支持你
 
-- **Because you love your brother.** — 因为你爱你弟弟
-- **Because we love your brother. Good job, Luke.** — 因为我们爱你弟  好样的卢克
-- **I love you, Manny, no matter what!** — 不管怎样我都爱你  曼尼
-- **Honey, I'm gonna take off.** — 亲爱的  我要走了
-- **Mom, I love you,** — 妈  我爱你
+**Okay, I support you.** — 好，我支持你。
 
-## 情绪与道歉
+- **场景：** 伴侣做了决定，你先站位，再谈细节。
+- **发音：** 重音在 *support*。
+- **语域：** 只对伴侣或家人。
+- **迁移：** **I support you on this.** — 这件事我支持你。
 
-- **Ay, Jay, leave him alone.  - No, I'm sorry,** — 杰  少点意见  -恕难从命
-- **You're making it lame again. - Sorry.** — 你这又把档次拉低了  -抱歉
-- **Oh, he loves to say that. - And happy barbecue.** — 他最近爱念工作  -烧烤快乐
-- **I am sorry, but I** — 对不起  但是我
-- **I'm sorry. I know how it feels** — 不好意思  你的心情我懂
-- **And don't worry. You know, I'm not gonna take any job.** — 别过虑了  我不会再就业的
-- **Relax. You've already got the assistant job.** — 别急  让你当助理
-- **I'm sorry.** — 对不起
+### 4. 临时麻烦你
 
-## 社交与礼貌
+**Thank you again for taking care of Lily. I know it's last-minute.** — 再次谢谢你帮忙带莉莉。我知道有点临时。
 
-- **Oh, thanks, Dad, but I'm** — 谢了  爸  但是我
-- **Hey, Coach. - Yeah?** — 教练  -什么
-- **Hey, Phil.  - Hey.** — 菲尔  -来了
-- **Thank you again for taking care of Lily. I know it's last-minute.** — 谢谢你帮我们带莉莉  我知道有点急
-- **Hey, Mitchell!  - Yes.** — 米奇尔  -是的
-- **Great guy. Super successful. You two should talk.** — 人不错。很成功。你们该谈谈。
+- **场景：** 托人临时带娃，道谢并承认对方帮忙急。
+- **发音：** *last-minute* 重读。重音在 *Thank*、*care*。
+- **语域：** 可以对朋友、邻居说。家里把名字换成 *her* 或 *Celine*。
+- **迁移：** **Thanks again for helping. I know it's last-minute.** — 再次谢谢帮忙。我知道很临时。
 
-## 请求与建议
+### 5. 我该打给他吗
 
-- **Mitchell doesn't have to rush into anything.** — 米奇尔不急着找工作
-- **Could you run any slower?** — 你还能跑得再慢一点吗
-- **Why do I always have to come to these things?** — 为什么老是要我来看这玩意儿
-- **Why don't you make him come to my orchestra concerts?** — 那为什么你不让他来我的管弦音乐会
-- **Doesn't matter who. What you need to start doing...** — 我是谁不重要  你要做的是
-- **Everybody dies, boys. Let's focus on what's important.** — 人皆有一死  孩子们  现在关注当下
-- **and you also have to show them respect.** — 同时又要对他表示尊重
-- **We need to talk.  - Okay. What happened?** — 我们得谈谈  -好  怎么了
-- **It's a turntable, so you don't have to back out.** — 那是转盘  这样你就不用倒车了
+**Should I call him?** — 我该打给他吗？
 
+- **场景：** 犹豫要不要打那通电话，问伴侣或朋友意见。
+- **发音：** 重音在 *call*。
+- **语域：** 家人、密友。
+- **迁移：** **Should I text her?** — 我该发消息给她吗？
+
+### 6. 你会打给他吗
+
+**So, you gonna call him?** — 所以，你会打给他吗？
+
+- **场景：** 对方说了很多，你追一句：到底打不打。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *call*。
+- **语域：** 家人、熟人。非正式。
+- **迁移：** **So, you gonna tell her?** — 所以，你会告诉她吗？
+
+### 7. 我要走了
+
+**Honey, I'm gonna take off.** — 亲爱的，我要走了。
+
+- **场景：** 出门上班或赴约，跟伴侣说一声。
+- **发音：** *gonna* 弱读。重音在 *take off*。
+- **语域：** 只对伴侣。
+- **迁移：** **I'm gonna head out.** — 我要走了。
+
+### 8. 我们得谈谈
+
+**We need to talk. — Okay. What happened?** — 我们得谈谈。——好。怎么了？
+
+- **场景：** 气氛不对，先把谈话定下来；对方接话问发生什么事。
+- **发音：** 重音在 *need*、*talk*、*happened*。
+- **语域：** 家人、伴侣。语气严肃时放慢。
+- **迁移：** **We need to talk when you get home.** — 你回来我们得谈谈。
+
+### 9. 不用急着决定
+
+**Mitchell doesn't have to rush into anything.** — 不用急着做任何决定。
+
+- **场景：** 帮家人缓一缓压力，说可以慢慢来。
+- **发音：** *doesn't have to* 弱读。重音在 *rush*。
+- **语域：** 家人之间。本集有名字，家里改成 *You don't have to rush.*
+- **迁移：** **You don't have to rush into anything.** — 你不用急着做任何决定。
+
+### 10. 别急，职位定了
+
+**Relax. You've already got the assistant job.** — 别急。助理那份你已经有了。
+
+- **场景：** 对方还在焦虑，你告诉他结果已定。
+- **发音：** 重音在 *Relax*、*already*。
+- **语域：** 家人、朋友。
+- **迁移：** **Relax. You're already in.** — 别急。你已经进去了。
+
+### 11. 我懂那种感觉
+
+**I'm sorry. I know how it feels.** — 对不起。我懂那种感觉。
+
+- **场景：** 对方被冷落或替补，先道歉式共情。
+- **发音：** 重音在 *sorry*、*feels*。
+- **语域：** 家人、密友。
+- **迁移：** **I know how that feels.** — 我懂那种感觉。
+
+### 12. 牛排好了有一会儿了
+
+**No. Those steaks have been done for five minutes.** — 不。那些牛排五分钟前就好了。
+
+- **场景：** 对方还要再烤，你说已经熟了。
+- **发音：** 重音在 *steaks*、*minutes*。
+- **语域：** 家人。
+- **迁移：** **The rice has been ready for ten minutes.** — 饭十分钟前就好了。
+
+**听懂即可，不跟读：** **Could you run any slower?** — 你还能再跑慢点吗？*any + 比较级* 在这里是反话，不是真请求。对孩子不照说。
+
+---
 
 ## 时态 · leave / give 祈使里的动词
 
@@ -105,10 +154,7 @@
 | **Should I** | *Should I call him?* — 我该打给他吗？ | *Should I send it?* — 我该发吗？ |
 | **you gonna** 升调 | *So, you gonna call him?* — 所以你会打给他吗？ | *You gonna eat?* — 你吃吗？ |
 
-跟读：
-
-- **Leave him alone.** — 别烦他。
-- **They are deceptively hard.** — 看着容易，其实难。
+口语里的弱读（如 *gonna*）留在说话里；书面和正式场合用完整形式（*going to*，不用 *gonna*）。
 
 ## 问句 · Questions in this episode
 
@@ -123,7 +169,7 @@
 | **Should I** | *Should I call him?* — 我该打给他吗？ | *Should I wait?* — 我该等吗？ |
 | **Could you** 反话 | *Could you run any slower?* — 你还能再跑慢点吗？ | *Could you be any later?* — 你还能再晚点吗？ |
 
-*Could you run any slower?* 字面是请求，功能是讽刺。听到 any + 比较级，先看是不是在损人。
+*Could you run any slower?* 字面是请求，功能是讽刺。听到 *any* + 比较级，先看是不是在损人；对孩子和客人不用这套。
 
 ## 特色 · a pair of wings，和这一集想说的话
 
@@ -184,22 +230,46 @@
 2. **翅膀是一次传球，不是一句口号。** *give him a pair of wings* 后面菲尔把球交给曼尼。没进也可以是那次被传。
    **Give him a pair of wings, he can fly.** — 给他一对翅膀，他就能飞。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**谁来当主教练，是这一集的夫妻题，也是翁婿题。** 杰把教练气走，自己上。菲尔当助理、拎水。后来杰道歉，还夸了牛排。*I support you* 是菲尔接过战术之前先听到的那种站位。
-**They are deceptively hard.** — 看着容易，其实难。上篮如此，让岳父当助理也如此。
+1. **先表态支持，再一起扛。**
+   - **骨架：** *Okay, I support you.*
+   - **家里说：** **I support you on this. We'll figure it out.** — 这件事我支持你。我们一起想办法。
+   - **语域：** 只对伴侣。发音见语块 3。
 
-#### 亲子相处
+2. **看着容易，其实难。**
+   - **骨架：** *They are deceptively hard.*
+   - **家里说：** **This looks easy, but it's deceptively hard.** — 这看着简单，其实挺难。
+   - **语域：** 只对伴侣聊家务或任务。
 
-**请父母下一场别来，也是一种长大。** 曼尼嫌歌洛莉亚的加油让他被笑，请她别来。下一场他又邀请她。来与不来，可以由孩子改口。
-**Could you run any slower?** — 你还能再慢点吗？这句若对孩子说，就是损。教练用辱骂，家长用脱鞋。两种都让孩子先听见声音，再听见球。
+### 亲子 · 今天能对 Celine 说
+
+1. **别插手，让孩子自己来。**
+   - **骨架：** *Jay, leave him alone.*
+   - **家里说：** **Celine, I'll leave you alone. Call me if you need help.** — Celine，我不打扰你了。需要帮忙叫我。
+   - **语域：** 家长对孩子。用陈述给空间，不用 *Leave him alone* 吼人。
+
+2. **给一分钟，她会明白。**
+   - **骨架：** *Give him a pair of wings, he can fly.* 比喻在 **特色** 里听。
+   - **家里说：** **Celine, give it a minute. You'll get it.** — Celine，再等一分钟。你会明白的。
+   - **语域：** 家长对孩子。不用反话 *Could you run any slower?*
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 饭快好了，你想让家人等一下。
+2. 有人老插手，你想说别烦他。
+3. 你在犹豫要不要打电话，想问伴侣意见。
+4. 伴侣做了决定，你想先说支持。
+5. Celine 在做作业，你想说需要帮忙再叫你。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*a pair of wings* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

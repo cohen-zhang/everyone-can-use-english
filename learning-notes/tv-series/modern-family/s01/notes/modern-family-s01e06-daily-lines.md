@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e06-transcript.txt|S01E06 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 本集聚焦“婚姻里的信任测试”：Jay 和 Gloria 分别用不同方式试探对方是否忠诚，Claire 和 Phil 也因生活细节触发连锁误会。Mitchell 与 Cameron 在家庭角色里互相较劲又互相兜底，最终三对伴侣都在闹剧中重新确认彼此的安全感。
@@ -21,87 +23,121 @@
 - **loyalty** — 忠诚感
 - **relationship repair** — 关系修复
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · used to / should**、**问句**，以及 **特色**（主题句 *He used to hold my finger*、*could use a win*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · used to / should**、**问句**、**特色**（*He used to hold my finger*、*could use a win*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **between us and the car in front.** — 保持安全距离
-- **We gotta take her to the doctor. Load up the car.** — 我们得带她去看医生  把车开出来
-- **Like the other day, Claire was, like, "You have to move your car.** — 有一天  克莱尔说"把你的车挪开点"
-- **you know, I should probably get a sports car.** — 也许我该换一辆跑车
-- **Haley just got her learner's permit. We've been taking turns driving with her.** — 海莉刚拿到学习驾照。我们轮流陪她开。
-- **This navigation system is all messed up. It thinks we're in a park.** — 这导航乱了。它以为我们在公园里。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 走了
 
-- **Remember, uh, breakfast for dinner last week?** — 还记得  上周用早餐当晚餐吗
-- **There's no space in the garage for both of our cars."** — "车库里装不下我们俩的车"
-- **I get up at 6:00. — That's you? I thought we had a raccoon.** — 我 6 点起床。——是你？我还以为家里进了浣熊。这是玩笑。
+**Come on. Let's go.** — 快点，走了。
 
-## 亲子与学校
+- **场景：** 早晨点名之后催出门。本集原句前面有名字。
+- **发音：** 重音在 *go*。
+- **语域：** 家长对孩子。
+- **迁移：** **Come on. Let's get going.** — 快点，动身了。
 
-- **Wow, first day of school and you're already behind?** — 开学第一天就落后了
-- **especially the first day of school.** — 尤其是开学第一天
-- **till we drop 'em off at school, it is go, go, go.** — 到把他们送进学校  就没一刻休息过
-- **Oh, really? Am I driving him to school** — 真的吗  是我载他去学校呢
-- **Are you still baby-proofing?** — 你还在装那些幼儿防护设备吗
-- **Why is our daughter dressed like Donna Summer?** — 我女儿怎么一身唐娜·莎曼的打扮
-- **Don't forget, the driving instructor is picking you up from school.** — 别忘了  驾校教练会去接你下课
-- **I don't want kids at school thinking I'm dating...** — 我可不想让同学以为我在跟一个
-- **Away from the kids! - Oh, my God!** — 躲开那群孩子  -噢  天啊
-- **The last thing Manny needs on his first day of school...** — 开学第一天  曼尼最不需要的
-- **All you do is put child locks on things, read parenting books.** — 你到处都上了儿童锁  还尽读些育儿书籍
-- **Would you please stop and- Here, just hold your daughter.** — 你就不能消停一下吗  来抱抱你女儿
-- **I don't know how to take care of a baby?** — 而我根本是育儿白痴
-- **When your kids were small, did you ever** — 你家孩子小时候  有没有被你们
-- **I, uh, just dropped Manny off at school, and I realized...** — 我刚把曼尼送到学校  突然发现
-- **I just dropped Manny off at school.** — 我刚把曼尼送到学校了
-- **Well, the first day of school can be tough** — 对家庭主妇们来说
-- **the kids are gone, the nest is empty.** — 孩子们也走了  巢也空了
-- **I was supposed to keep a journal all summer. It's due today.** — 我本该记一暑假日记。今天要交。
+### 2. 得带她去看医生
 
-## 电话与信息
+**We gotta take her to the doctor.** — 我们得带她去看医生。
 
-- **Can we please just call your sister?** — 我们直接打给你姐吧
+- **场景：** 孩子不舒服，你把下一步说清楚。
+- **发音：** *gotta* 是 *got to* 的弱读。重音在 *doctor*。
+- **语域：** 家人。
+- **迁移：** **We gotta go.** — 我们得走了。
 
-## 工作与职场
+### 3. 我刚送到
 
-- **What about work? - I'm the boss.** — 你的工作呢  -我是老板啊
+**I just dropped Manny off at school.** — 我刚把曼尼送到学校。
 
-## 约会与恋爱
+- **场景：** 送完孩子，跟家里人报一声。
+- **发音：** *just* 轻。重音在 *dropped*。
+- **语域：** 家人。
+- **迁移：** **I just dropped her off.** — 我刚把她送到。
 
-- **Honey, you moving out?** — 宝贝  你是要搬出去吗
-- **Haley, honey** — 海莉  亲爱的
-- **All right, sweetheart, come on. - Just relax.** — 好吧  甜心  来吧  -放轻松
-- **Aw, sweetheart.** — 小甜心
-- **Since I married you, people are surprised I come in at all.** — 自从娶了你  人家都好奇我居然还去上班
+### 4. 第一天会难
 
-## 情绪与道歉
+**The first day of school can be tough.** — 上学第一天会很难。
 
-- **I'm sorry,** — 我很抱歉
-- **Hold her and relax.** — 抱抱她  放松点
-- **but I just worry** — 但我还是担心
-- **Relax. It happens.** — 放松  常有的事啦
+- **场景：** 开学早晨，先承认这一天不容易。
+- **发音：** 重音在 *tough*。
+- **语域：** 家长之间，也可以对孩子说。
+- **迁移：** **The first day can be tough.** — 第一天会很难。
 
-## 社交与礼貌
+### 5. 我们打个电话吧
 
-- **Hello?** — 喂
-- **Hey, hi, um- Not a big deal. Just wondering.** — 嗨  没什么大事儿  就是想问问
-- **Okay, all right, thank you. Thanks. That helps. Okay, okay.** — 好吧  谢谢你  真心感激  好的
+**Can we please just call?** — 我们直接打个电话吧？
 
-## 请求与建议
+- **场景：** 事情拖着，你想现在联系。本集原句是打给姐姐。
+- **发音：** *just* 轻。重音在 *call*。
+- **语域：** 家人。
+- **迁移：** **Can we please just call them?** — 我们直接打给他们吧？
 
-- **Luke, Alex, come on. Let's go.** — 卢克  艾丽克斯  快点  出发了
-- **Come on, Manny. Let's get going.** — 快点  曼尼  出发了
-- **Let's see.** — 比如说
-- **You know what? You need to loosen up and have fun.** — 知道吗  你该放松点儿  开心点儿
-- **No, Cam, I have to go to work.** — 不  小卡  我还要去上班
-- **Now, you have to understand,** — 因为你不得不适应
-- **You don't have to do that.** — 你不必陪我的
+### 6. 放松一点
+
+**You need to loosen up and have fun.** — 你该放松一点，开心一点。
+
+- **场景：** 对方绷着，你劝他松开。
+- **发音：** 重音在 *loosen*。
+- **语域：** 熟人。对方正在难过时，这句会像在否定他的感觉。
+- **迁移：** **You can loosen up.** — 你可以放松一点。
+
+### 7. 我得去上班
+
+**I have to go to work.** — 我得去上班。
+
+- **场景：** 对方还想留你，你把时间说清楚。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *work*。
+- **语域：** 家人。
+- **迁移：** **I have to leave now.** — 我现在得走了。
+
+### 8. 你不必这么做
+
+**You don't have to do that.** — 你不必这么做。
+
+- **场景：** 对方在硬撑一件不是必须的事。
+- **发音：** *have to* 弱读。重音在 *don't*。
+- **语域：** 家人、伴侣。
+- **迁移：** **You don't have to do that for me.** — 你不必为了我这么做。
+
+### 9. 常有的事
+
+**Relax. It happens.** — 放松，这种事常有。
+
+- **场景：** 出了小意外，你把对方从慌里拉出来。
+- **发音：** 重音在 *happens*。
+- **语域：** 家人。伤到人的时候，先问人怎么样，不先说常有。
+- **迁移：** **It happens. She's okay.** — 这种事常有。她没事。
+
+### 10. 没什么大事
+
+**Not a big deal. Just wondering.** — 没什么大事，就是想问问。
+
+- **场景：** 打电话或开口前，先把对方的警戒放低。
+- **发音：** *just* 轻。重音在 *wondering*。
+- **语域：** 可以对客人说。
+- **迁移：** **Not a big deal. I was just wondering.** — 没什么大事，我就是想问问。
+
+### 11. 你能不能停下
+
+**Would you please stop?** — 你能不能停下？
+
+- **场景：** 对方还在做，你把命令说成请求。
+- **发音：** *would you* 连读。重音在 *stop*。
+- **语域：** 家人。比单独的 *Stop* 轻。
+- **迁移：** **Would you please wait?** — 你能不能等一下？
+
+### 12. 他今天需要赢一次
+
+**He could use a win today.** — 他今天需要赢一次。
+
+- **场景：** 你觉得对方今天需要一件顺利的事。*could use* 是「用得上」，不是「能够使用」。
+- **发音：** *could* 弱读。重音在 *win*。
+- **语域：** 家人之间谈第三人。对本人说，改成下面的迁移。
+- **迁移：** **You look like you could use a break.** — 你看起来需要歇一下。
 
 
 ## 时态 · used to / should
@@ -117,10 +153,7 @@
 
 口语里 *there's only two places* 用了 there's 接复数。书面更常说 *there are only two places*。剧里就是这么说的。
 
-跟读：
-
-- **He used to hold my finger.** — 他以前握住我的手指。
-- **I wear them with the confidence.** — 我穿它们的时候带着把握。
+*used to* 是以前会、现在不再。书面和口语都可以用 *used to*。*gonna* 留在口语里。
 
 ## 问句 · Questions in this episode
 
@@ -135,6 +168,8 @@
 | **How could I** 我怎么会忘 | *Cher! How could I forget Cher?* — 雪儿！我怎么把雪儿忘了？ | *How could I forget the keys?* — 我怎么把钥匙忘了？ |
 | **陈述句 + 升调** | *That's embarrassing?* — 这很丢人吗？ | *That's a problem?* — 这算问题吗？ |
 | **A little help** 请求 | *A little help here?* — 谁来搭把手？ | *A little help with the door?* — 门谁来搭把手？ |
+
+升调可以把一句陈述变成质问。对孩子先说你看见了什么。
 
 ## 特色 · could use a win，和这一集想说的话
 
@@ -199,28 +234,49 @@
 2. **为爱的人做的事，可以很奇怪。** *We do strange things for the people we love. We lie to them, we lie for them.* 克莱尔说自己也许是为了让菲尔好过才输掉赛跑。
    **We do strange things for the people we love.** — 我们会为爱的人做奇怪的事。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**今天让他赢一次，可以是照顾。** *Did I lose the race to make him feel better? Maybe.* 下一句才是理由：*he could use a win today.* 这是旁白里的坦白，不是比赛规则。
-**But it just seemed like he could use a win today.** — 可我就是觉得，他今天需要赢一次。
+和精学语块重复的句子，这里只写家里怎么说。
 
-杰觉得斗篷过火，歌洛莉亚要的是自信：*people admire them because I wear them with the confidence.* 两个人后来还是一起把斗篷送到学校。
-**I wear them with the confidence.** — 我穿它们的时候带着把握。
+1. **今天让对方赢一次。**
+   - **骨架：** *He could use a win today.*
+   - **家里说：** **You look like you could use a break.** — 你看起来需要歇一下。
+   - **语域：** 只对伴侣说。*could use* 是「用得上」，不是「能够使用」。
 
-#### 亲子相处
+2. **你不必为了我硬撑。**
+   - **骨架：** *You don't have to do that.*
+   - **家里说：** **You don't have to do that for me.** — 你不必为了我这么做。
+   - **语域：** 伴侣之间。
 
-1. **第一天上学，父母先慌的是自己的眼睛。** *Hold on. What are you wearing there?* 杰看见斗篷。歌洛莉亚的回答是穿给别人看之前，先自己站稳。
-   **What are you wearing there?** — 你身上穿的是什么？
+### 亲子 · 今天能对 Celine 说
 
-2. **新父母的慌，老父母听过。** 莉莉撞了头，米奇尔不肯信「没事」。克莱尔在电话里接住他：撞头这种事常有。到场的那个人可以是姐姐。
-   **Do you think she's all right?** — 你觉得她没事吗？
+1. **先问身上穿的是什么。**
+   - **骨架：** *What are you wearing there?*
+   - **家里说：** **Celine, what are you wearing?** — Celine，你穿的是什么？
+   - **语域：** 家长对孩子。先问，再决定要不要换。
+
+2. **先问人怎么样。**
+   - **骨架：** *Do you think she's all right?*
+   - **家里说：** **Celine, are you all right?** — Celine，你没事吧？
+   - **语域：** 家长对孩子。人没事，再说「这种事常有」。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 早晨你催大家出门。
+2. 你刚把孩子送到，跟家里人报一声。
+3. 对方硬撑着，你说不必这么做。
+4. 你觉得伴侣今天需要歇一下。
+5. 请 Celine 告诉你，她没事吧。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
 

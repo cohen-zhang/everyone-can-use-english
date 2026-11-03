@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e16-transcript.txt|S01E16 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 本集把角色们的“小恐惧”集中爆发：有人怕公开演讲，有人怕失败出丑，也有人怕在家人面前失去面子。三条线并行展示“硬撑”如何让问题变大，直到每个人都不得不承认自己的脆弱。结尾在互相打气中落地，强调了家人提供安全感的价值。
@@ -21,82 +23,123 @@
 - **family encouragement** — 家人打气
 - **emotional safety** — 情绪安全感
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · 最高级 most**、**问句**，以及 **特色**（主题句 *What am I most afraid of*、*two fathers who care*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · 最高级 most**、**问句**、**特色**（*What am I most afraid of*、*two fathers who care*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Hotel bedspreads. - Ooh.** — 酒店床单  -呃
-- **You're gonna get in that car, put on your seat belt...** — 你进到车里  系好安全带
-- **It's my third driver's test, and if I fail again, that's six more months of you driving me everywhere.** — 这是我第三次路考。再不过，还得坐你的车半年。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 我最怕什么
 
-- **But go to dinner with him and wait for the check to come.** — 但是跟他一起去吃饭  等结账的时候
-- **Oh, Haley, sweetie, did you find your shoes?** — 海莉，亲爱的，鞋子找到了吗？
+**What am I most afraid of? Hmm. Let's see.** — 我最怕的是什么？我想想。
 
-## 亲子与学校
+- **场景：** 家人玩「最怕什么」的游戏，你先抛问题，再给自己两秒。
+- **发音：** 重音在 *afraid* 和 *see*。
+- **语域：** 家人聊天。
+- **迁移：** **What are you most afraid of?** — 你最怕的是什么？
 
-- **Because school dances are lame.** — 因为学校的舞会很没劲
-- **We're like Ponce de Leon and his son, Little Ponce.** — 我们就像庞塞·德莱昂和他儿子小庞塞
-- **His name was Ponce? He'd get made fun of at my school.** — 他叫庞塞  他在我们学校会被嘲笑的
-- **You never want your kids to see you scared.** — 当父亲的永远都不想在孩子面前露怯
-- **I see these kids running around at the park,** — 我看公园里跑来跑去的孩子们
-- **This guy sees hundreds of kids every day.** — 那家伙每天见几百个小孩
+### 2. 这不是面试
 
-## 电话与信息
+**Honey, this isn't a job interview.** — 亲爱的，这不是应聘面试。
 
-- **The phone ringing in the middle of the night.** — 午夜凶铃
+- **场景：** 对方答得太正经，你把场面改回家里。
+- **发音：** 重音在 *isn't* 和 *interview*。
+- **语域：** 只对伴侣或家人说。
+- **迁移：** **Honey, this isn't a test.** — 亲爱的，这不是考试。
 
-## 约会与恋爱
+### 3. 放松，只是路考
 
-- **Honey, this isn't a job interview.** — 亲爱的  这不是应聘面试
-- **And then I was, like, "That's fine by me." - Honey, like.** — 然后我就说"我无所谓"  -亲爱的  就
-- **That's more than three breaths, honey.** — 这不止三下深呼吸了  亲爱的
+**You need to relax. It's just a driver's test.** — 放松，不过是路考而已。
 
-## 情绪与道歉
+- **场景：** 对方紧张过头，你把事情按小。
+- **发音：** 重音在 *relax* 和 *test*。
+- **语域：** 家长对孩子、伴侣之间。
+- **迁移：** **You need to relax. It's just a test.** — 放松，不过是考试而已。
 
-- **What am I most afraid of? Hmm. Let's see.** — 我最怕什么  让我想想
-- **You need to relax. It's just a driver's test.** — 放松  不过是路考而已
-- **Yeah, I suppose. I'm sorry.** — 是啊  抱歉
-- **I'm sorry. Uh, bold?** — 抱歉  你说冒昧
-- **and Manny's afraid of roller coasters. - Poor kid.** — 曼尼怕坐过山车  -可怜的孩子
-- **because his father's not afraid of anything.** — 他的爸爸什么都不怕
-- **Don't worry. She's perfect. Aren't you, Lily?** — 不用担心  她很好  是不是呀莉莉
-- **but I know that Manny's sad because he's missing the party.** — 但是我知道曼尼因为错过派对而伤心
-- **Are you nervous? - Shut up, Alex.** — 你紧张吗  -闭嘴艾丽克斯
-- **I was just asking. I'd be nervous if I were you.** — 我只是问问  换做我肯定会紧张
-- **and take three deep breaths and relax.** — 深呼吸三下  放松
-- **Truce? - Yeah. Sorry.** — 休战  -好的  抱歉
+### 4. 找到鞋了吗
 
-## 社交与礼貌
+**Oh, Haley, sweetie, did you find your shoes?** — 海莉，亲爱的，鞋子找到了吗？
 
-- **Mom, please, not today.** — 妈  拜托今天别烦我
-- **Hey, Cam. Cam, where did we get this dolly from?** — 小卡  这个娃娃从哪来的
-- **Oh, hey, did they bring back our coffee maker?** — 她们把咖啡机还回来了吗
-- **Oh. Thank you.** — 谢谢
-- **Oh, no. It's him. Please don't be for me. Please don't be for me.** — 天啊  是他  别叫我  别叫我
-- **Please don't be for me. Please don't be me. Hi.** — 别叫我  别叫我  你好
-- **Hey, Dad?  - Yeah?** — 爸爸  -恩
-- **So I took the bold step of inviting her over for brunch.** — 于是我大胆请她来吃早午餐。
+- **场景：** 出门前找东西，家长问一句具体的。
+- **发音：** *did you* 连读。重音在 *find* 和 *shoes*。
+- **语域：** 家长对孩子。家里把称呼换成 Celine 见亲子节。
+- **迁移：** **Did you find your phone?** — 你找到手机了吗？
 
-## 请求与建议
+### 5. 我这会儿正慌
 
-- **I have to wait six months to retake it.** — 要等六个月才能再考
-- **Sweetie, we need to get you some shoes for the dance tonight.** — 宝贝  我们得去给你买今晚穿的舞鞋
-- **Why would you not be going to the dance?** — 你为什么不去跳舞
-- **For God sakes, why don't you go under the house and look?** — 神啊  你们为什么不直接去下面看看
-- **Let's do this.** — 我们开始吧
-- **Let's start over. It's windy, and you've got a lot of papers.** — 重新说一遍  风很大  你有很多张纸在手
-- **Okay. Let's do this, buddy.** — 好了  我们开始吧
-- **Yeah. Let's do that. - All right.** — 就这么干  -好的
-- **Why don't we take him somewhere to take his mind off it, hmm?** — 我们带他出去散散心吧
-- **Yo. Let's move it, two strikes.** — 开始了  两次不过的
-- **Why would you say that?** — 怎么这么说
+**I'm freaking out right now.** — 我这会儿正慌。
 
+- **场景：** 承认此刻很紧张，别硬撑。
+- **发音：** 重音在 *freaking* 和 *right*。
+- **语域：** 家人、伴侣。不对不熟的人夸张。
+- **迁移：** **I'm freaking out about tomorrow.** — 我正为明天慌。
+
+### 6. 深呼吸放松
+
+**Take three deep breaths and relax.** — 深呼吸三下，放松。
+
+- **场景：** 对方 panic，你给具体动作。
+- **发音：** 重音在 *three*、*deep* 和 *relax*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Take a breath. You're okay.** — 吸口气。你没事。
+
+### 7. 开始吧
+
+**Let's do this.** — 我们开始吧。
+
+- **场景：** 准备好了，互相打气再动手。
+- **发音：** 重音在 *do*。
+- **语域：** 家人、熟人。
+- **迁移：** **Okay. Let's do this, buddy.** — 好了，我们开始吧。
+
+### 8. 重来一遍
+
+**Let's start over. It's windy, and you've got a lot of papers.** — 重新说一遍。风很大，你手里一堆纸。
+
+- **场景：** 第一次搞砸了，原因说清楚再重来。
+- **发音：** *you've got* 连读。重音在 *start* 和 *papers*。
+- **语域：** 家人帮忙练习演讲、汇报。
+- **迁移：** **Let's start over. Take your time.** — 我们重来。慢慢来。
+
+### 9. 带她散散心
+
+**Why don't we take him somewhere to take his mind off it, hmm?** — 我们带他出去散散心吧？
+
+- **场景：** 孩子难过，提议换环境。
+- **发音：** *don't we* 连读。重音在 *somewhere*。
+- **语域：** 家长之间商量。迁移里用 you/I，不用新名字。
+- **迁移：** **Why don't we take you somewhere fun?** — 我带你去个好玩的地方吧？
+
+### 10. 休战
+
+**Truce? — Yeah. Sorry.** — 休战？——好。对不起。
+
+- **场景：** 姐弟拌嘴后，一方举手言和。
+- **发音：** 重音在 *Truce* 和 *Sorry*。
+- **语域：** 兄弟姐妹、家人。
+- **迁移：** **Truce? — Yeah. My bad.** — 休战？——好。我的错。
+
+### 11. 别担心，她很好
+
+**Don't worry. She's perfect.** — 不用担心，她很好。
+
+- **场景：** 别人担心小孩，你替孩子报平安。
+- **发音：** 重音在 *worry* 和 *perfect*。
+- **语域：** 家人、对来客。迁移用 you/I 场景。
+- **迁移：** **Don't worry. You're doing fine.** — 别担心。你做得很好。
+
+### 12. 系好安全带
+
+**You're gonna get in that car, put on your seat belt...** — 你进车里，系好安全带……
+
+- **场景：** 路考前家长最后叮嘱，后面半句本集更长，跟读到安全带即可。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *car* 和 *belt*。
+- **语域：** 家长对孩子。
+- **迁移：** **You're gonna get in the car and put on your seat belt.** — 你进车里，系好安全带。
+
+---
 
 ## 时态 · the most afraid
 
@@ -109,10 +152,7 @@
 | **现在进行** 正在崩溃 | *I'm freaking out right now.* — 我这会儿正慌。 | *I'm freaking out about tomorrow.* — 我正为明天慌。 |
 | **would** 过去会听 | *He would actually listen to what I wanted.* — 他真的会听我想要什么。 | *She would actually wait.* — 她真的会等。 |
 
-跟读：
-
-- **What am I most afraid of?** — 我最怕的是什么？
-- **I'm freaking out right now.** — 我这会儿正慌。
+口语里的 *gonna* 是 *going to* 的弱读；书面和正式场合写 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -129,6 +169,8 @@
 | **Ready to** 准备好了吗 | *Ready to go down under, mate?* — 准备钻下去了吗，伙计？ | *Ready to go?* — 准备走了吗？ |
 
 *Yeah, right.* 接在 *Nothing* 后面，表示不信。下一句才是真问题：*What about the pigeons?*
+
+*Why would you not be going to the dance?* 是在逼孩子解释。家里改用邀请或陈述，别照抄这种问法。
 
 ## 特色 · most afraid of，和这一集想说的话
 
@@ -191,25 +233,46 @@
 2. **一声 Mommy 可以是娃娃，也可以是一场虚惊。** *When you squeeze the doll, it says "Mommy."* 两个爸爸慌过之后，才看见机关。
    **When you squeeze the doll, it says "Mommy."** — 你一捏娃娃，它就说 Mommy。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**在乎的程度可以被外人说出来。** 米奇尔和卡姆先慌，医生才说 *two fathers who care as much as you do*。这句话是给他们的，也是给莉莉的。
-**Having two fathers who care as much as you do...** — 有两个这么在乎的父亲……
+1. **把紧张说成「不是面试」。**
+   - **骨架：** *Honey, this isn't a job interview.*
+   - **家里说：** **Honey, this isn't a test.** — 亲爱的，这不是考试。
+   - **语域：** 只对伴侣说。见语块 2。
 
-#### 亲子相处
+2. **对方 panic，给具体动作。**
+   - **骨架：** *Take three deep breaths and relax.*
+   - **家里说：** **Take a breath. You're okay.** — 吸口气。你没事。
+   - **语域：** 只对伴侣说。
 
-1. **催，会让已经在慌的人更慌。** *Why are you hounding me? I'm freaking out right now.* 海莉要的是鞋，也是一口空气。克莱尔仍把她送到了路考上。
-   **I'm freaking out right now.** — 我这会儿正慌。
+### 亲子 · 今天能对 Celine 说
 
-2. **父亲可以先说自己怕，再钻进去。** 卢克问菲尔是不是害怕。菲尔还是进了房底。怕和去，可以在同一个人身上。
-   **Ready to go down under?** — 准备钻下去了吗？
+1. **出门前问具体的一件东西。**
+   - **骨架：** *Did you find your shoes?*
+   - **家里说：** **Celine, did you find your shoes?** — Celine，鞋子找到了吗？
+   - **语域：** 家长对孩子。见语块 4。
+
+2. **她紧张，先承认再减压。**
+   - **骨架：** *I'm freaking out right now.*
+   - **家里说：** **Celine, if you're freaking out, take a breath. It's just a test.** — Celine，要是你慌了，吸口气。不过是考试而已。
+   - **语域：** 家长对孩子。不照说 *Why are you hounding me?*
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 家人聊天，你先问：我最怕的是什么？再说：我想想。
+2. 伴侣答得太正经，你说这不是考试。
+3. 对方 panic，你说深呼吸，放松。
+4. 对伴侣说：吸口气，你没事。
+5. 出门前问 Celine：鞋子找到了吗？
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

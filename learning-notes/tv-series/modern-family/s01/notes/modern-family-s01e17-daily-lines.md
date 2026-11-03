@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e17-transcript.txt|S01E17 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 几位大人尝试用“善意谎言”维持家庭和谐，却让误会像滚雪球一样越滚越大。随着真相逐步揭开，大家意识到“好听的话”不等于有效沟通。整集在连环补锅中强调：坦诚虽然难堪，但比拐弯抹角更能保护关系。
@@ -21,73 +23,124 @@
 - **honesty** — 坦诚
 - **relationship protection** — 关系保护
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · could / 过去**、**问句**，以及 **特色**（主题句 *before Mom*、实话与谎、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · could / 过去**、**问句**、**特色**（主题句 *before Mom*、实话与谎、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Now he needs to drive one of those little, like** — 走到哪都得推着一台
-- **There was traffic. I almost had to shout.** — 当时路上都是车  几乎得用喊的
-- **Yeah, anyway, we could see the 4:00 or the 6:20.** — 总之，我们可以看 4 点那场，或者 6 点 20。
-- **Did you pack the bread for the ducks? — Not the whole-wheat kind. The ducks don't like that.** — 喂鸭子的面包带了吗？——别带全麦的。鸭子不喜欢。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 亲子与学校
+### 1. 两个场次
 
-- **You mean her second lesson, because she just got schooled.** — 是第二堂课  她刚刚可是被我教育了一课
-- **He's a miserable son of a bitch who...** — 他个可怜的贱人
-- **Baby, are you sure that's a good idea?** — 宝贝  你真的要看吗
-- **But in school, we learn raccoons are nocturnal.** — 老师说  浣熊只在夜间行动
+**Yeah, anyway, we could see the 4:00 or the 6:20.** — 总之，我们可以看四点那场，或者六点二十。
 
-## 电话与信息
+- **场景：** 排晚上的活动，两个时间都还可以。
+- **发音：** *could* 弱读。重音在 *4:00* 和 *6:20*。
+- **语域：** 家人、熟人。
+- **迁移：** **We could leave at four or at six.** — 我们可以四点走，或者六点走。
 
-- **She's supposed to send me a message.** — 她还没给我发站内信
-- **Here. Read some of her messages.** — 你看  这都是她给我发的站内信
-- **Just turn off the phone,** — 关掉手机
+### 2. 那个不行
 
-## 工作与职场
+**Actually, that's no good.** — 其实那个不行。
 
-- **I'm meeting my friend Denise for a drink.** — 我要和丹妮丝去喝点东西
-- **Oh, it's the office. -Don't answer it.** — 公司打来的  -别接
-- **The only one who doesn't know that is my sucky boss.** — 只有我那个混蛋老板不知道
-- **Really, Cam? My job is at stake here, and** — 别闹了  小卡  我的工作要保不住了
+- **场景：** 刚提过的选择要划掉，换下一个。
+- **发音：** 重音在 *good*。
+- **语域：** 家人、熟人。
+- **迁移：** **Actually, that time doesn't work.** — 其实那个时间不行。
 
-## 约会与恋爱
+### 3. 算我一个
 
-- **Hey, honey, Hugh Grant has a** — 亲爱的  有一部休·格兰特...
-- **Yeah. You know, my old girlfriend.** — 是啊  就是我前女友
-- **Thank you. - You had a girlfriend before Mom?** — 谢谢  -你还有前女友
-- **Hi, honey. -Hey.** — 嗨  亲爱的  -嗨
-- **drinks with an ex-girlfriend at an intimate French restaurant.** — 和前女友在一家适合幽会的法国餐厅喝酒
-- **Honey, you're doing that thing when you say what I want you to say** — 亲爱的  你说的话正是我期盼从你口中听到的
-- **Let me guess. Denise isn't married.** — 让我猜猜啊  丹妮丝还没结婚
-- **But that's the real reason Dad's old girlfriend's coming over.** — 但是爸爸的前女友就是为这事来的
+**I'm in.** — 算我一个。
 
-## 情绪与道歉
+- **场景：** 别人在定计划，你简短答应加入。
+- **语域：** 家人、朋友。非正式。
+- **迁移：** **Count me in.** — 算我一个。
 
-- **Ay, you're still sad because of that audition.** — 还在为试镜结果难过吗
-- **That's him. - Sorry, pal.** — 确实是它  -对不起  哥们
+### 4. 喂鸭子的面包
 
-## 社交与礼貌
+**Did you pack the bread for the ducks?** — 喂鸭子的面包带了吗？
 
-- **And thank you.** — 谢谢"恭维"
-- **Well, maybe it's not that this time. Hello?** — 也许这次不是呢  喂
-- **"Hey, Phil. How's it going?"** — "嗨  菲尔  最近怎么样啊"
-- **"Hi, Phil. How's it going?"** — "嗨  菲尔  过得怎么样"
-- **Hello, handsome.** — 你好  帅哥
-- **Thank you.** — 谢谢
-- **Hey, Luke.** — 嗨  卢克
+- **场景：** 出门去公园前，确认有没有带喂鸟的东西。
+- **发音：** *did you* 常连读。重音在 *bread*。
+- **语域：** 家人。
+- **迁移：** **Did you pack the snacks?** — 零食带了吗？
 
-## 请求与建议
+### 5. 全麦不行
 
-- **Don't you have an eating disorder you need to attend to?** — 你还是关心一下自己的饮食失调问题吧
-- **I have to.** — 我必须得接
-- **Okay. Can you hear me now?** — 好了  能听见我说话吗
-- **It's something I have to do.** — 再痛苦我也必须面对
-- **You have to tell him.** — 去跟他说实话
+**Not the whole-wheat kind. The ducks don't like that.** — 别带全麦的。鸭子不喜欢那种。
 
+- **场景：** 接上句，说明要带哪一种。语气是提醒，不是命令。
+- **发音：** 重音在 *whole-wheat* 和 *like*。
+- **语域：** 家人。
+- **迁移：** **Not that kind. She doesn't like that.** — 别带那种。她不喜欢。
+
+### 6. 确定要看吗
+
+**Baby, are you sure that's a good idea?** — 宝贝，你真的确定这是个好主意吗？
+
+- **场景：** 伴侣或家人要做一件你有点担心的事，先 gently 问一句。
+- **发音：** *are you* 弱读。重音在 *sure* 和 *idea*。
+- **语域：** 只对伴侣或亲近的人。*baby* 只对伴侣说。
+- **迁移：** **Are you sure that's a good idea?** — 你确定这是个好主意吗？
+
+### 7. 别接电话
+
+**Oh, it's the office. Don't answer it.** — 是公司打来的。别接。
+
+- **场景：** 下班或周末，不想把工作电话接进来。
+- **发音：** *don't* 重读。重音在 *office*。
+- **语域：** 家人之间。不对老板当面说 *Don't answer*。
+- **迁移：** **It's work. Don't answer it.** — 是工作的。别接。
+
+### 8. 关掉手机
+
+**Just turn off the phone.** — 把手机关掉吧。
+
+- **场景：** 想专心陪家人，或不想被打扰。
+- **发音：** *just* 轻。重音在 *turn*。
+- **语域：** 家人。对客人改成请求句。
+- **迁移：** **Can you turn off your phone for a bit?** — 你能先把手机关一会儿吗？
+
+### 9. 你得告诉他
+
+**You have to tell him.** — 你得跟他说实话。
+
+- **场景：** 瞒不住了，催对方去坦白。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *tell*。
+- **语域：** 家人、密友。
+- **迁移：** **You have to tell her the truth.** — 你得跟她说实话。
+
+### 10. 我必须接
+
+**It's something I have to do.** — 这是我必须面对的事。
+
+- **场景：** 解释为什么要接那通电话、赴那场约。
+- **发音：** *have to* 弱读。重音在 *do*。
+- **语域：** 对家人解释。语气偏认真。
+- **迁移：** **It's something I have to finish today.** — 这是我今天必须做完的事。
+
+### 11. 最近怎么样
+
+**"Hi, Phil. How's it going?"** — 「嗨，菲尔。最近怎么样？」
+
+- **场景：** 熟人碰面，开场问候。
+- **发音：** *How's it* 连读。重音在 *going*。
+- **语域：** 可以对邻居、朋友用。
+- **迁移：** **Hey, how's it going?** — 嘿，最近怎么样？
+
+### 12. 路上很堵
+
+**There was traffic. I almost had to shout.** — 路上很堵，我差点得用喊的。
+
+- **场景：** 解释为什么迟到或为什么听不清。
+- **发音：** 重音在 *traffic* 和 *shout*。
+- **语域：** 家人、熟人。
+- **迁移：** **There was traffic. I'm sorry I'm late.** — 路上很堵。抱歉我迟到了。
+
+**听懂即可，不跟读：** **You had a girlfriend before Mom?** — 你在妈妈之前有过女朋友？升调问的是父母的过去，放在下面 **特色** 和问句表里听。不对孩子照说。
+
+---
 
 ## 时态 · could / 过去的女朋友
 
@@ -100,12 +153,7 @@
 | **Doesn't she** 否定疑问 | *Doesn't she also have no boys at forever?* — 她不是还永远没有男生吗？ | *Doesn't he also have practice?* — 他不是还有训练吗？ |
 | **过去** 你认识吗 | *Denise? Do I know Denise?* — 丹妮丝？我认识丹妮丝吗？ | *Do I know her?* — 我认识她吗？ |
 
-跟读：
-
-- **We could see the 4:00 or the 6:20.** — 四点或六点二十，我们都能看。
-- **You had a girlfriend before Mom?** — 你在妈妈之前有过女朋友？
-
-兄妹那句 *Don't you have an eating disorder...* 是攻击，不是能拿来用的关心。问句章里只标它的骨架，不拿去练。
+口语里的弱读（如 *gonna*）留在说话里；书面和正式场合用完整形式（*going to*，不用 *gonna*）。
 
 ## 问句 · Questions in this episode
 
@@ -120,6 +168,8 @@
 | **What's wrong with** | *What's wrong with me today?* — 我今天怎么了？ | *What's wrong with the plan?* — 计划怎么了？ |
 | **Is it** 升调接问候 | *Good morning. — Is it?* — 早安。——算是吗？ | *Busy day. — Is it?* — 忙的一天。——算是吗？ |
 | **or** 两个时间 | *We could see the 4:00 or the 6:20.* — 四点还是六点二十？ | *Now or after lunch?* — 现在还是午饭后？ |
+
+兄妹互损里的 *Doesn't she also have no boys…* 是挖苦，不是关心。听见升调在损人时，别借去对孩子说；家里只留问句表里「有课吗」那种正经用法。
 
 ## 特色 · before，和这一集想说的话
 
@@ -179,23 +229,46 @@
 2. **假现场迟早要办一场追悼会。** 杰用浣熊解释乌龟。曼尼查脚印，又念悼词。谎若要收场，得有一个让孩子站上去的仪式。
    **What's wrong with me today?** — 我今天怎么了？米奇尔对老板摊牌之前，先问自己这句。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**把旧女友请到家里，是用在场证明清白。** 克莱尔吃醋，菲尔邀丹妮丝来喝酒。证明可以反咬一口：丹妮丝把房卡递过来，克莱尔在场。
-**Denise? Do I know Denise?** — 丹妮丝？我认识她吗？
-**We could see the 4:00 or the 6:20.** — 电影的两个钟点，是他们本来的晚上。
+1. **两个钟点，先把晚上定下来。**
+   - **骨架：** *We could see the 4:00 or the 6:20.*
+   - **家里说：** **We could eat at six or at seven.** — 我们可以六点吃，或者七点吃。
+   - **语域：** 只对伴侣商量晚上安排。发音见语块 1。
 
-#### 亲子相处
+2. **不认识的名字，先问清楚。**
+   - **骨架：** *Denise? Do I know Denise?*
+   - **家里说：** **Do I know her?** — 我认识她吗？
+   - **语域：** 只对伴侣。语气是问，不是审问。
 
-**兄妹的嘴可以很毒，父母听见的是竞争。** *Doesn't she also have no boys at forever?* 是艾丽克斯和海莉的互损。损人的问句不要借去对孩子说。听见就够了。
-**Doesn't she also have a lesson at 11:00?** — 她不是十一点还有课吗？日程才是这句的正经用法。剧中原句把 lesson 换成了挖苦。
+### 亲子 · 今天能对 Celine 说
+
+1. **出门前确认带没带。**
+   - **骨架：** *Did you pack the bread for the ducks?*
+   - **家里说：** **Celine, did you pack your water bottle?** — Celine，水壶带了吗？
+   - **语域：** 家长对孩子。发音见语块 4。
+
+2. **日程用陈述句，不用互损问句。**
+   - **骨架：** *Doesn't she also have no boys at forever?* 是兄妹挖苦，家里不照说。
+   - **家里说：** **You have a lesson at four. Let's get ready.** — 你四点有课。我们准备一下吧。
+   - **语域：** 家长对孩子。用时间事实，不用升调损人。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 你和伴侣在定晚上，两个时间都还可以。
+2. 刚说的那个时间不行，你要把选择划掉。
+3. 公司电话来了，你想让伴侣别接。
+4. 伴侣提到一个你不认识的名字，你想问清楚。
+5. 出门前，请 Celine 确认水壶带没带。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*before Mom* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

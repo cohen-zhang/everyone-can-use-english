@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e03-transcript.txt|S01E03 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 这一集的核心是“放手与成长”：Jay 想让 Manny 更像传统男孩，安排了许多“男子气概”活动；Claire 和 Phil 在是否让 Haley 开始约会上摇摆不定。与此同时，Mitchell 与 Cameron 也在家庭边界和角色分工上不断磨合，大家都在学习“爱不等于控制”。
@@ -21,69 +23,123 @@
 - **parenting anxiety** — 育儿焦虑
 - **mutual adjustment** — 相互磨合
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · be going to / would**、**问句**，以及 **特色**（主题句 *look like a girl for one afternoon*、*I like you*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · be going to / would**、**问句**、**特色**（*look like a girl for one afternoon*、*I like you*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **I wish I could stay home with you and fly toy airplanes.** — 我真希望能跟你一起宅在家玩玩具飞机
-- **These aren't toy airplanes, Manny.** — 这可不是玩具飞机  曼尼
-- **I think I'm gonna go wait in the car. - Okay.** — 我还是去车里等吧  -好的
-- **Once he ran over my foot with his car.** — 有一次他开车碾过我的脚
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 去车里等
 
-- **Honey, I thought you were gonna take out the garbage. - I am.** — 亲爱的  你不是要倒垃圾嘛  -是的
-- **Hey, if you're on your way out, can you grab the garbage?** — 你出去时能顺手把垃圾给倒了吗
-- **This is Costco. — Yeah, which is where we buy diapers.** — 这是好市多。——对，我们就是在这儿买尿布。
+**I think I'm gonna go wait in the car.** — 我还是去车里等吧。
 
-## 亲子与学校
+- **场景：** 待不下去了，跟身边的人说自己去车里等。语气是躲开，不是吵架。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *wait*。
+- **语域：** 非正式，家人或熟人。
+- **迁移：** **I think I'm gonna go wait outside.** — 我还是去外面等吧。
 
-- **Do you remember when we adopted that baby a few months back?** — 你还记得几个月前我们收养了个孩子吗
-- **You don't have to tell me. My school is full of them.** — 别跟我提孩子  我学校里一堆小屁孩
-- **The box says "12 and up."** — 盒子上写着「12 岁及以上」。
-- **You can fly toy planes with Jay next time.** — 下次再跟杰玩飞机。
-- **Because his mother invited you, so you go.** — 因为他妈妈请了你，所以你就去。
+### 2. 出门顺手
 
-## 电话与信息
+**If you're on your way out, can you grab the garbage?** — 你要是出门，能把垃圾顺手带上吗？
 
-- **Did you ring the bell? - I texted.** — 你按门铃了吗  -我给她发短信了
-- **That sends an ugly message- that I'm Haley.** — 那会让人错以为  我是不争气的海莉
+- **场景：** 对方正要出门，顺口把一件事托给他。*if* 先给条件，*can you* 才是请求。
+- **发音：** *you're* 弱读。重音在 *grab*。
+- **语域：** 家人。比直接命令轻。
+- **迁移：** **If you're on your way out, can you grab the bag?** — 你要是出门，能把包顺手带上吗？
 
-## 约会与恋爱
+### 3. 你不是说要倒
 
-- **a teenage boy doesn't want to hang out with his girlfriend's dad.** — 哪个小男生想跟女朋友老爹一块玩儿
-- **We've been married for 16 years,** — 我们都结婚16年了
-- **Anyways, today, think of me as a girlfriend.** — 不管怎么说  今天就把我当成你的闺蜜
-- **What do you usually do with your girlfriends?** — 你一般跟你的闺蜜们干什么呢
-- **I'm just waiting for Haley. She said she'd be down in just a minute.** — 我在等海莉。她说马上就下来。
+**I thought you were gonna take out the garbage.** — 我以为你要去倒垃圾。
 
-## 情绪与道歉
+- **场景：** 家里人提醒：你刚才说了要做。带着一点催。
+- **发音：** *gonna* 弱读，连在 *were* 后面。重音在 *garbage*。
+- **语域：** 家人之间的催促。对客人不拿来查岗。
+- **迁移：** **I thought you were gonna start dinner.** — 我以为你要去做饭。
 
-- **why don't you worry about getting Luke to wear some pants?** — 你是不是更该操心怎么让卢克穿裤子
-- **What? - You seem sad.** — 什么  -你看起来不大高兴啊
+### 4. 客气拒绝
 
-## 社交与礼貌
+**That's such a nice offer, but I think we're good. Thanks.** — 多谢好意，不过我们够了，谢谢。
 
-- **Dylan. - Hey, Mrs. Dunphy.** — 迪兰  -你好  邓菲太太
-- **"D" To the "Y" To the- - Hey, Mr. Dunphy.** — 小迪的迪  迪兰的兰  -邓菲先生
-- **That's such a nice offer, but I think we're good. Thanks.** — 多谢好意了  不过用不着  多谢
-- **You don't even say "Hello" To Gloria and Manny?** — 你都不跟歌洛莉亚和曼尼打招呼的吗
-- **Hi, Gloria and Manny. Okay, Mom, what about this?** — 嗨  歌洛莉亚和曼尼  妈  到底怎么样
-- **Oh. Hey, I got the toothpaste and the soap.** — 我拿了牙膏和香皂
-- **Can we just please get the diapers and get out of here?** — 我们能不能只拿尿布  买单闪人
-- **Hey, what would happen if you turned the remote off** — 如果把遥控开关关了
-- **I was just being facetious.** — 我刚才是在说笑。
+- **场景：** 有人问要不要顺便带东西，你把好意接住，再拒绝。
+- **发音：** *we're* 是 *we are* 连在一起。重音在 *good*。
+- **语域：** 可以对客人说。
+- **迁移：** **That's such a nice offer, but I think we're all set. Thanks.** — 多谢好意，不过我们已经齐了，谢谢。
 
-## 请求与建议
+### 5. 快点走
 
-- **Today you have to spend time with Luke. - Why?** — 今天你得跟卢克待在一起  -为啥啊
-- **Do you have to just stand there?** — 你非得在那傻站着吗
-- **Alex, why don't you come shopping with me?** — 艾丽克斯  何不跟我购物去呢
-- **So, can you do a- Can you do a loop-de-loop?** — 那个  你能来个空中大回旋吗
+**Can we just please get the diapers and get out of here?** — 我们能不能只拿尿布，然后走？
+
+- **场景：** 购物拖太久，想快点结账离开。
+- **发音：** *just* 和 *please* 都轻。重音在 *diapers*。
+- **语域：** 熟人，有点不耐烦。对店员或不熟的人改成下面的迁移句。
+- **迁移：** **Can we just get this and go?** — 我们就拿这个走吧？
+
+### 6. 按门铃了吗
+
+**Did you ring the bell?** — 你按门铃了吗？
+
+- **场景：** 门口等人，先问对方有没有按铃。
+- **发音：** *did you* 常连成一个音。重音在 *bell*。
+- **语域：** 家人、熟人。
+- **迁移：** **Did you lock the door?** — 你锁门了吗？
+
+### 7. 我发了短信
+
+**I texted.** — 我发短信了。
+
+- **场景：** 回答上一句：没按门铃，发了短信。
+- **发音：** 重音在 *text*。词尾 *-ed* 读 /t/。
+- **语域：** 熟人之间的短答。
+- **迁移：** **I sent a text.** — 我发了一条短信。
+
+### 8. 马上就下来
+
+**She said she'd be down in just a minute.** — 她说马上就下来。
+
+- **场景：** 有人在门口等，你解释人马上到。
+- **发音：** *she'd* 是 *she would* 的弱读。*just* 轻，重音在 *minute*。
+- **语域：** 可以对客人说。
+- **迁移：** **He said he'd be here in just a minute.** — 他说马上就到。
+
+### 9. 你看起来难过
+
+**You seem sad.** — 你看起来不大高兴。
+
+- **场景：** 看出对方情绪不对，直接说出来。
+- **发音：** 重音在 *sad*。
+- **语域：** 亲近的人。对不太熟的人太直接。
+- **迁移：** **You seem tired.** — 你看起来累了。
+
+### 10. 今天得陪着
+
+**Today you have to spend time with Luke.** — 你今天得陪卢克。
+
+- **场景：** 家长把下午布置成任务。*have to* 是必须，下午仍然是两个人的时间。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *spend*。
+- **语域：** 家长对孩子。
+- **迁移：** **Today you have to spend the afternoon with him.** — 你今天下午得陪着他。
+
+### 11. 一起去逛街
+
+**Why don't you come shopping with me?** — 跟我去逛街吧？
+
+- **场景：** 邀请一起出门。本集原句前面有名字，语块从 *why don't you* 起。
+- **发音：** *don't you* 连读。重音在 *shopping*。
+- **语域：** 家人、朋友。样子像问句，其实是建议。
+- **迁移：** **Why don't you come with me?** — 跟我一起去吧？
+
+### 12. 想留在家里
+
+**I wish I could stay home with you.** — 我真希望能跟你留在家里。
+
+- **场景：** 不想出门，想留在家里。本集后面还接了玩飞机，那半句不跟读。
+- **发音：** *could* 弱读。重音在 *stay*。
+- **语域：** 家人。*wish* 是眼下做不到的愿望，不是在提要求。
+- **迁移：** **I wish I could stay home today.** — 我真希望今天能留在家里。
+
+**听懂即可，不跟读：** **I was just being facetious.** — 我刚才是在说笑。重音在第二音节（/fəˈsiːʃəs/）。用来补一句刚说过的玩笑。对方没听出玩笑时才需要这句。
 
 ---
 
@@ -98,10 +154,7 @@
 | **would** 过去总是 | *He kept rolling his eyes every time I would get a little boisterous.* — 我每回一热闹，他就翻白眼。 | *Every time I would speak up, the room went quiet.* — 我每回一开口，房间就静下来。 |
 | **be going to** 即将 | *We're just gonna buy some diapers.* — 我们就去买包尿布。 | *We're just gonna be a minute.* — 我们就一会儿。 |
 
-跟读：
-
-- **I was gonna get it.** — 我本来正要去拿。
-- **I thought you were gonna take out the garbage.** — 我以为你要去倒垃圾。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -117,7 +170,7 @@
 | **反问** | *What? It's gonna kill you to look like a girl for one afternoon?* — 怎么，打扮成女孩一下午会要了你的命吗？ | *It's gonna kill you to wear a tie for one dinner?* — 打一条领带吃顿饭会要了你的命吗？ |
 | **How would** 虚拟 | *How would they get the gloves on those little claws?* — 那双小爪子怎么戴手套？ | *How would that even fit?* — 那怎么塞得进去？ |
 
-*if you're on your way out* 先给条件，*can you* 才是请求。两句接在一起，比单独的命令轻。
+*if you're on your way out* 先给条件，*can you* 才是请求。两句接在一起，比单独的命令轻。反问把小事说成要命，是口语压力，书面和正式邮件不用这套。
 
 ## 特色 · 把喜欢说出来，和这一集想说的话
 
@@ -128,7 +181,9 @@
 **It's gonna kill you to look like a girl for one afternoon?** — 打扮成女孩一下午，会要了你的命吗？
 
 - 结构：**It's gonna kill someone to + 动词**。口语里把一件小事说成要命，用来反问对方在躲什么。
-- 克莱尔要艾丽克斯为婚礼穿裙子。句子把「穿一下午」说成生死。后来她松口，艾丽克斯自己把裙子买回来了。
+- 场景：克莱尔要艾丽克斯为婚礼穿裙子。句子把「穿一下午」说成生死。后来她松口，艾丽克斯自己把裙子买回来了。孩子先听见的是压力。
+- 发音：*gonna* 弱读。重音在 *kill*。
+- 语域：家里的反问，带压力。对孩子说之前，先换一句下面的迁移。
 
 可替换：
 
@@ -139,9 +194,10 @@
 
 **I just want to say that I like you.** — 我就是想说，我喜欢你。
 
-- 结构：**I just want to say that + 完整句子**。just 把这句话压小，that 后面才是真内容。
-- 航模撞了菲尔的脸之后，杰在客厅里把这句说出来。前面一整集的铁哥们玩笑，都比这句费劲。
-- 片尾众人喊 *Say it.* 杰才对卡姆说 *I like you too, Cam.* 同一句喜欢，被要求再说一次。
+- 结构：**I just want to say that + 完整句子**。*just* 把这句话压小，*that* 后面才是真内容。
+- 场景：航模撞了菲尔的脸之后，杰在客厅里把这句说出来。这句不是情话，是岳父终于把女婿放进「自己人」。前面一整集的铁哥们玩笑，都比这句费劲。片尾众人喊 *Say it.* 杰才对卡姆说 *I like you too, Cam.*
+- 发音：*just* 轻。重音在 *like*。
+- 语域：亲近的人。正式场合把 *like you* 换成具体的那句话。
 
 可替换：
 
@@ -154,7 +210,7 @@
 | --- | --- | --- |
 | **Come on. I don't bite.** | 来吧，我不咬人。 | Come on + 下一句把紧张松开 |
 | **Don't touch it.** | 别碰。 | Don't + 动词 |
-| **Alex, why don't you come shopping with me?** | 艾丽克斯，跟我去逛街吧？ | Why don't you 是建议，样子像问句 |
+| **Why don't you come shopping with me?** | 跟我去逛街吧？ | Why don't you 是建议，样子像问句 |
 
 ### 角色之间的评价
 
@@ -169,7 +225,7 @@
 **Men need their hobbies.** — 男人得有自己的爱好。
 **You can't box with alligators.** — 你没法跟鳄鱼打拳击。
 
-**卡姆对米奇尔的评价，米奇尔回嘴。** 一句评价，一句改口，一句把改口再判回去。
+**卡姆对米奇尔的评价，米奇尔回嘴。** 一句评价，一句改口，一句把改口再判回去。说别人势利，只适合剧里的熟人玩笑，对外伤人。
 **Mitchell is a snob. — No. I'm discerning. — Official slogan for snobs.** — 米奇尔是势利眼。——不，我这叫有眼光。——势利眼的标准台词。
 
 ### 本集人生感悟
@@ -180,23 +236,48 @@
 2. **把一件小事说成要命，孩子会先听见压力。** *It's gonna kill you to look like a girl for one afternoon?* 裙子后来是艾丽克斯自己买的。
    **A shouted rule can come back as the child's own choice.** — 喊出来的规矩，可能会以孩子自己的选择回来。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**喜欢说出口，房间的空气会变。** 克莱尔揭穿杰是故意用航模撞菲尔。杰否认，然后还是说了 *I like you.* 这句不是情话，是岳父终于把女婿放进「自己人」。
-**I just want to say that I like you.** — 我就是想说，我喜欢你。
+和精学语块重复的句子，这里只写家里怎么说。
 
-#### 亲子相处
+1. **把喜欢说小。**
+   - **骨架：** *I just want to say that I like you.*
+   - **家里说：** **I just want to say that I'm glad you're home.** — 我就是想说，你回来我很高兴。
+   - **语域：** 只对伴侣说。*just* 轻，重音在 *glad*。
 
-1. **被安排的下午，也可以变成真的相处。** *Today you have to spend time with Luke.* 曼尼被派去陪卢克。have to 是任务，下午仍然是两个人的时间。
-   **Today you have to spend time with Luke.** — 你今天得陪卢克。
+2. **先接住对方说过的话，再催一件家事。**
+   - **骨架：** *I thought you were gonna take out the garbage.*
+   - **家里说：** **I thought you were gonna start dinner.** — 我以为你要去做饭。
+   - **语域：** 家人之间的催促。不对客人说。发音见语块 3。
 
-2. **松口之后，选择回到孩子手里。** 克莱尔同意艾丽克斯不穿裙子，艾丽克斯却把裙子买了回来。大人一停，孩子才听得见自己的想法。
-   **It's gonna kill you to look like a girl for one afternoon?** — 打扮成女孩一下午会要了你的命吗？
+### 亲子 · 今天能对 Celine 说
+
+1. **把「必须」说成一起待一会儿。**
+   - **骨架：** *Today you have to spend time with Luke.*
+   - **家里说：** **Celine, today you have to spend some time with me.** — Celine，你今天得陪我一会儿。
+   - **语域：** 家长对孩子。*have to* 弱读成 /ˈhæftə/。后面接一件具体的事。
+
+2. **小事用陈述句。**
+   - **骨架：** *It's gonna kill you to…* 留在上面的特色里。家里不照说这句反问。
+   - **家里说：** **It's not gonna kill you to try it once.** — 试一次不会怎样。
+   - **语域：** 对孩子说这一句。*gonna* 弱读，重音在 *try*。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 对方正要出门，你想请他把垃圾顺手带上。
+2. 有人提议帮忙，你想客气地拒绝。
+3. 你以为对方要去做饭，结果还没做。
+4. 伴侣回到家，你想把喜欢说小。
+5. 请 Celine 试一次，不用反问。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*facetious* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
+
+语域看的是这一集里的用法。换场合先看每条下面的边界。

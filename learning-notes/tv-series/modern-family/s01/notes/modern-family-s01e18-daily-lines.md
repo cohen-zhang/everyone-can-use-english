@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e18-transcript.txt|S01E18 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 一次观星之夜把三组家庭都拉进了“理想计划 vs 现实落差”的拉扯：有人想证明自己仍有掌控力，有人想在孩子面前树立榜样，也有人只想被理解。夜色中的对话让角色们暂时放下逞强，重新看到彼此真实的需求与脆弱。
@@ -21,63 +23,125 @@
 - **vulnerability** — 脆弱表达
 - **emotional reconnection** — 情感重连
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · 现在进行 / think**、**问句**，以及 **特色**（主题句 *smother*、*Have fun*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · 现在进行 / think**、**问句**、**特色**（主题句 *smother*、*Have fun*、祈使句、角色之间的评价、本集想说的话）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **But I want mi car to be su car.** — 但我希望我的车就是你的车
-- **I completed all my assignments on my own and on time.** — 我的作业都是自己按时做完的。
-- **Tonight is the magnificent Lyrid meteor shower.** — 今晚是壮观的天琴座流星雨。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 亲子与学校
+### 1. 作业按时交
 
-- **Luke has a giant project due tomorrow for school** — 卢克有个大型的课题研究要做  明天就得交
-- **she needs 40 cupcakes for her school fund-raiser,** — 她要为学校的募捐会准备40个纸杯蛋糕
-- **Apparently, the pencil's in two pieces,** — 显然  铅笔杆一开始是分开的
+**I completed all my assignments on my own and on time.** — 我的作业都是自己按时做完的。
 
-## 电话与信息
+- **场景：** 向家长或老师说明：没抄、没拖。
+- **发音：** 重音在 *completed*、*own*、*time*。
+- **语域：** 可以对孩子复述成目标句；对别人自夸时语气轻一点。
+- **迁移：** **I finished it on my own and on time.** — 我自己按时做完了。
 
-- **Throw on my wireless headphones** — 戴上我的无线耳机
-- **so just one phone call.** — 所以只要打个电话就行了
+### 2. 不是你的错
 
-## 约会与恋爱
+**It's not your fault, honey.** — 那不是你的错，亲爱的。
 
-- **Listen, honey.** — 听着  亲爱的
-- **It's not your fault, honey.** — 那不是你的错  亲爱的
-- **so it's our little date.** — 算是我们的小约会吧
-- **Join the club. I'm kidding. I love your mom.** — 彼此彼此  我开玩笑的  我爱你妈
+- **场景：** 孩子或伴侣自责，你先接住。
+- **发音：** 重音在 *fault*。*honey* 只对伴侣或家里用。
+- **语域：** 只对伴侣或孩子。
+- **迁移：** **It's not your fault.** — 不是你的错。
 
-## 情绪与道歉
+### 3. 听着
 
-- **What's my favorite way to relax?** — 我最喜欢的放松方式是什么
-- **And I'm sorry, but I'm not a micromanager.** — 我很抱歉  但我不喜欢事必躬亲
-- **Don't worry about me. - I'm not.** — 别担心我  -我才不担心
-- **Cameron, are you okay? You seem nervous.** — 卡梅隆  你还好吧  你似乎很紧张
-- **Uh, nervous? No. I'm not nervous.** — 紧张  怎么可能  我才不紧张呢
-- **I was nervous.** — 我确实很紧张
-- **Cam, you need to relax. You explained.** — 小卡  你得放松  你已经解释过了
-- **Is it bad that I feel sorry for her?** — 我为她感到悲哀是不是不该啊
-- **I... was... nervous.** — 我  很  紧张
-- **I've always wanted to be good friends with her.** — 我一直想和她成为好朋友。
+**Listen, honey.** — 听着，亲爱的。
 
-## 社交与礼貌
+- **场景：** 下面要说一件认真的事，先叫一声对方。
+- **发音：** 重音在 *Listen*。
+- **语域：** 只对伴侣。
+- **迁移：** **Listen, I need to tell you something.** — 听着，我得跟你说件事。
 
-- **Hey, Jay. Look who thinks** — 嘿  杰  瞧瞧谁认为
-- **Hey, Dad. He kind of looks like Uncle Mitchell,** — 嘿  爸  他长得有点像米奇尔舅舅
-- **These are not for you. - Excuse me?** — 你扛不住的  -你说什么
+### 4. 你还好吗
 
-## 请求与建议
+**Cameron, are you okay? You seem nervous.** — 你还好吗？你看起来有点紧张。
 
-- **Can you seriously not hear me with those things on?** — 你带着这玩意儿真的听不到我说话吗
-- **You have to very carefully put the cheese in the trap.** — 你一定要摆好龙门阵  坐等她上钩
-- **Ok, Let's try to stay on topic.** — 好了  别跑题
-- **This is all you need to know right here.** — 你想知道的信息都在上面
-- **No, no, no. You should have the chicken enchiladas.** — 不不不  你该点鸡肉玉米卷
+- **场景：** 看出对方不对，先问状况，再说你看到的。
+- **发音：** *Are you* 弱读。重音在 *okay*、*nervous*。
+- **语域：** 家人、密友。
+- **迁移：** **Are you okay? You seem quiet.** — 你还好吗？你看起来很安静。
 
+### 5. 你得放松
+
+**Cam, you need to relax. You explained.** — 你得放松一点。你已经解释过了。
+
+- **场景：** 对方还在反复纠结，你让他停一下。
+- **发音：** 重音在 *relax*、*explained*。
+- **语域：** 家人、密友。不对上司说 *you need to relax*。
+- **迁移：** **You need to relax. We're good.** — 你得放松一点。没问题的。
+
+### 6. 我开玩笑的
+
+**I'm kidding.** — 我开玩笑的。
+
+- **场景：** 上一句说得重了，先把刺拔掉。
+- **发音：** 重音在 *kidding*。
+- **语域：** 家人、熟人。
+- **迁移：** **I was just kidding.** — 我刚才开玩笑呢。
+
+### 7. 和你爸玩得开心
+
+**Have fun with your dad, okay?** — 和你爸玩得开心，好吗？
+
+- **场景：** 放手让孩子跟另一方出门，结尾用 *okay?* 收成商量。
+- **发音：** 重音在 *fun*、*dad*。
+- **语域：** 家长对孩子。本集原句前面还有 *I'm kidding*，家里可以只说后半句。
+- **迁移：** **Have fun with your friends, okay?** — 和朋友玩得开心，好吗？
+
+### 8. 戴着耳机听不见
+
+**Can you seriously not hear me with those things on?** — 你戴着那个，真的听不见我说话吗？
+
+- **场景：** 同一屋檐下，对方戴着耳机，你在跟他说话。
+- **发音：** *Can you* 弱读。重音在 *seriously*、*hear*。
+- **语域：** 家人，有点不耐烦。对不熟的人改成下面的迁移句。
+- **迁移：** **Can you take those off for a minute?** — 你能先摘一下吗？
+
+### 9. 别跑题
+
+**Okay. Let's try to stay on topic.** — 好了。我们尽量别跑题。
+
+- **场景：** 讨论吵散了，想把话拉回来。
+- **发音：** 重音在 *stay*、*topic*。
+- **语域：** 家人、同事讨论。语气别太硬。
+- **迁移：** **Let's stay on topic.** — 我们别跑题。
+
+### 10. 就看这里
+
+**This is all you need to know right here.** — 你想知道的，都在这儿了。
+
+- **场景：** 指着一处说明，不想长篇解释。
+- **发音：** 重音在 *all*、*here*。
+- **语域：** 家人、熟人。
+- **迁移：** **This is all you need to know for now.** — 眼下你需要知道的，就这些。
+
+### 11. 最喜欢的放松方式
+
+**What's my favorite way to relax?** — 我最喜欢的放松方式是什么？
+
+- **场景：** 自问自答的开场，或考对方有多了解你。
+- **发音：** 重音在 *favorite*、*relax*。
+- **语域：** 家人、朋友。像问句，也可以是游戏。
+- **迁移：** **What's your favorite way to relax?** — 你最喜欢的放松方式是什么？
+
+### 12. 多给他一点信心
+
+**I will, but you might have a little more confidence in him.** — 我会的，不过你也可以对他多一点信心。
+
+- **场景：** 你答应盯着，同时请伴侣少焦虑一点。
+- **发音：** *might have* 连读。重音在 *confidence*。
+- **语域：** 夫妻之间的商量。
+- **迁移：** **I will, but you might trust her a little more.** — 我会的，不过你也可以多信她一点。
+
+**听懂即可，不跟读：** **You think I smother our child?** — 你觉得我把孩子管得太死？放在 **特色** 里听 *You think* 的指责语气。家里换成陈述或商量，不照说这句问法。
+
+---
 
 ## 时态 · think 引导的看法
 
@@ -90,10 +154,7 @@
 | **why are you -ing** | *Why are you freaking out on everyone?* — 你为什么对每个人都在发火？ | *Why are you snapping at everyone?* — 你为什么对每个人都这么冲？ |
 | **okay?** 去玩 | *Have fun with your dad, okay?* — 和你爸玩得开心，好吗？ | *Have fun, okay?* — 玩得开心，好吗？ |
 
-跟读：
-
-- **You think I smother our child?** — 你觉得我把孩子管得太死？
-- **Have fun with your dad, okay?** — 和你爸玩得开心，好吗？
+口语里的弱读（如 *gonna*）留在说话里；书面和正式场合用完整形式（*going to*，不用 *gonna*）。
 
 ## 问句 · Questions in this episode
 
@@ -109,6 +170,8 @@
 | **Is this the** 最高级疑问 | *Is this the cutest thing I've ever seen?* — 这是我见过最可爱的吗？ | *Is this the best one yet?* — 这是到目前为止最好的吗？ |
 | **okay?** | *Have fun with your dad, okay?* — 和爸爸玩得开心，好吗？ | *Text me when you get there, okay?* — 到了发消息，好吗？ |
 | **Are you okay** | *Cameron, are you okay? You seem nervous.* — 卡姆，你还好吗？你看起来紧张。 | *Are you okay? You seem quiet.* — 你还好吗？你看起来很静。 |
+
+*You think I smother…* 把指责推回去，是夫妻吵架里的压力问句。家里先换成「我觉得我们管得不一样」这类陈述，再谈做法。
 
 ## 特色 · smother，和这一集想说的话
 
@@ -169,23 +232,46 @@
 2. **你觉得，是指责里最轻的开头。** *You think I smother our child?* 把「你在闷住他」改成「这是你的看法吗」。看法还可以谈。
    **You think I smother our child?** — 你觉得我把孩子管太死？
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**两种管法需要一句你觉得，才不至于变成两场战争。** 菲尔用新方法引导卢克做梵高。克莱尔觉得他失职，自己上。展板后来完成了，土豆耳朵和钞票都在。
-**You think I smother our child?** — 你觉得我把孩子管太死？
-**Can you seriously not hear me with those things on?** — 你戴着耳机，真的听不见我吗？这是同一屋檐下的另一句：人不在对话里。
+1. **管得不一样，用陈述开头。**
+   - **骨架：** *You think I smother our child?*
+   - **家里说：** **I think we worry in different ways.** — 我觉得我们担心的方式不一样。
+   - **语域：** 只对伴侣。不用 *You think* 反问。
 
-#### 亲子相处
+2. **耳机挡着对话。**
+   - **骨架：** *Can you seriously not hear me with those things on?*
+   - **家里说：** **Can you take those off for a minute? I need to talk to you.** — 你能先摘一下吗？我得跟你说句话。
+   - **语域：** 只对伴侣。比原句轻。发音见语块 8 的迁移。
 
-**怪，可以是还没长大的形状。** 米奇尔和曼尼谈「怪」与成长，兄弟不必全听杰的。黄鼠狼、裙子毯子，都是这一晚的样子。
-**Is this the cutest thing I've ever seen?** — 这是我见过最可爱的吗？可爱和狼狈可以是同一件毯子。
+### 亲子 · 今天能对 Celine 说
+
+1. **放手出门，用邀请句。**
+   - **骨架：** *Have fun with your dad, okay?*
+   - **家里说：** **Celine, have fun with your dad, okay?** — Celine，和你爸玩得开心，好吗？
+   - **语域：** 家长对孩子。发音见语块 7。
+
+2. **可爱可以直说，不用最高级问句。**
+   - **骨架：** *Is this the cutest thing I've ever seen?* 是夸张问句。
+   - **家里说：** **This is so cute.** — 这个好可爱。
+   - **语域：** 家长对孩子。用陈述，不用 *Is this the cutest…*
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 伴侣自责，你想说不是他的错。
+2. 对方戴着耳机，你想请他摘一下好说话。
+3. 讨论跑题了，你想把话拉回来。
+4. 你答应盯着孩子，也想请伴侣多信一点。
+5. Celine 跟爸爸出门，你想祝她玩得开心。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。*smother* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

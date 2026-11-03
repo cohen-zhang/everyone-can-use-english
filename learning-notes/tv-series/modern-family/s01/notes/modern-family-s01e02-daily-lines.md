@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e02-transcript.txt|S01E02 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 本集围绕“逞强与误会”展开：Phil 想向邻居证明自己，结果卷入“被偷自行车”的风波；Jay 试图和 Manny 建立男性同盟，却总在方式上用力过猛。另一边，Mitchell 和 Cameron 因育儿分工产生摩擦，最后都在尴尬中学会更诚实地沟通。
@@ -21,73 +23,123 @@
 - **family conflict** — 家庭冲突
 - **repairing relationships** — 修复关系
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · be going to / be supposed to**、**问句**，以及 **特色**（主题句 *the key to being a great dad*、*90% is just showin' up*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · be going to / be supposed to**、**问句**、**特色**（*the key to being a great dad*、*90% is just showin' up*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **It's a toddler play class, not a flight to Cabo.** — 只是亲子课而已  又不是要飞到卡波去
-- **Like fog at an airport.** — 就像机场起雾  飞机停飞
-- **Manny's father is taking him for a couple of days to Disneyland, so we're gonna go to the wine country.** — 曼尼的爸爸带他去迪士尼几天，所以我们去酒乡。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 要迟到了
 
-- **The two-bedroom cottage with the indoor-outdoor family room.** — 就那栋双卧室别墅  室内外兼配家庭活动室
+**We're gonna be late.** — 我们要迟到了。
 
-## 亲子与学校
+- **场景：** 出门前催身边的人。语气是赶时间，不是指责。
+- **发音：** *gonna* 是 *going to* 的弱读。重音在 *late*。
+- **语域：** 家人、熟人。
+- **迁移：** **We're gonna be late for dinner.** — 晚饭我们要迟到了。
 
-- **That's your answer? - And stay in school.** — 你的答案就是这个吗  -还有认真学习
-- **Hi. - And, uh, that's my son, Luke, right there.** — 嗨  -那是我儿子  卢克  就那个
-- **Heard she already slept with two dads from the school.** — 听说她已经勾引过两个孩子的爸爸了
-- **My son has been riding his sister's old bike.** — 我儿子一直在骑他姐姐的旧车
-- **We're gonna be judged enough as the only gay parents there.** — 作为唯一的同性恋夫夫  我们已经赚够口水了
-- **No, but, see, a lot of these other kids,** — 不  你看  那么多小孩
-- **Until he's responsible enough to take care of his own bike.** — 等到他能照顾好自己的自行车再说。
-- **We'll add more black tape.** — 我们再贴一点黑胶带。
+### 2. 不想当最后一个
 
-## 约会与恋爱
+**I don't wanna be the late ones too.** — 我不想再当迟到的那对。
 
-- **Honey?** — 亲爱的
+- **场景：** 你已经迟到过，这回不想再晚。
+- **发音：** *wanna* 是 *want to* 的弱读。重音在 *late*。
+- **语域：** 非正式，对一起出门的人说。
+- **迁移：** **I don't wanna be the last one there.** — 我不想最后一个到。
 
-## 情绪与道歉
+### 3. 先把衣服换了
 
-- **Desiree, right. Sorry. - Oh, hi.** — 德希蕾  对  抱歉  -你好啊
-- **0h, sorry. I'm a- I'm a real estate mogul.** — 哦  抱歉  我是  我是个房产大亨
-- **Grandma. - I'm sorry.** — 老太太  -抱歉
-- **But I worry about the ridicule he might get from some loudmouth bully.** — 可我担心大嘴巴的小混混们因此嘲笑他
-- **I'm sorry. I just wanna make a good first impression.** — 抱歉  我只是想留下良好的第一印象
-- **You know, you worry too much. You know that.** — 你总是瞎担心  你自己知道
-- **I can't believe I'm so nervous.** — 我怎么这么紧张呀
+**Can you please just change your shirt?** — 你能不能把上衣换了？
 
-## 社交与礼貌
+- **场景：** 出门前觉得这件不合适，请对方换。*please* 和 *just* 把命令压轻。
+- **发音：** *just* 轻。重音在 *change*。
+- **语域：** 家人。对客人不拿来管穿着。
+- **迁移：** **Can you please just sit down?** — 你能不能先坐下？
 
-- **Hi, Claire. - Hey.** — 嗨  克莱尔  -嘿
-- **Thanks. I'm just there till my divorce is final.** — 谢谢  我离婚手续办好就搬走了
-- **Hey, hey, hey. Nice bike, Sally.** — 嘿嘿嘿  车很漂亮啊  小姑娘
-- **Kidding. Just chill, please. Here.** — 开玩笑的  放松  给你
-- **Hey, come on.** — 嘿  别闹了
-- **Can you please just change your shirt?** — 能换件衬衫吗
-- **Hey, I called that place in Napa and** — 我给纳巴那边打电话了
-- **Thanks, Dad.** — 谢谢爸爸
-- **Hey, if we're not done by 3:00,** — 如果3点还搞不定
-- **And this here is Lily. - Hello.** — 还有我们的女儿莉莉  -你好
-- **Excuse me! Thank you.** — 不好意思  谢谢
-- **Okay, we're gonna start with the Hello Dance,** — 好  我们以问候舞作为开场舞
-- **She's adorable. - Oh, thank you.** — 她真可爱  -谢谢夸奖
-- **Thank you.** — 谢谢大家
-- **This is my husband, Phil.** — 这是我丈夫，菲尔。
-- **We gotta go, but we'll see you around.** — 我们得走了，回头见。
+### 4. 想留个好印象
 
-## 请求与建议
+**I'm sorry. I just wanna make a good first impression.** — 抱歉，我只是想留下好的第一印象。
 
-- **We'll have to have you over sometime.** — 有时间请你过来玩
-- **So let's do this. - 0kay, but I need to be done by 3:00.** — 我们开始吧  -先说好3点前要弄完
-- **They're gonna love us. Let's just be ourselves.** — 他们会喜欢我们的  我们就表现真我就行了
-- **Would you mind?** — 能帮我吗
+- **场景：** 自己太紧张，先道歉，再说明原因。
+- **发音：** *wanna* 弱读。*just* 轻，重音在 *good*。
+- **语域：** 家人、熟人。对陌生人整句太长，只说 *I'm sorry*。
+- **迁移：** **I'm sorry. I just wanna get this right.** — 抱歉，我只是想把这件事做好。
 
+### 5. 你担心太多
+
+**You worry too much.** — 你担心得太多了。
+
+- **场景：** 对方已经在慌，你把话放轻。
+- **发音：** 重音在 *worry*。
+- **语域：** 亲近的人。对方正在难过时，这句会像在否定他的感觉。
+- **迁移：** **You don't have to worry.** — 你不用担心。
+
+### 6. 我好紧张
+
+**I can't believe I'm so nervous.** — 我怎么这么紧张。
+
+- **场景：** 自己先把紧张说出来。
+- **发音：** 重音在 *nervous*。
+- **语域：** 家人、朋友。
+- **迁移：** **I can't believe I'm this nervous.** — 我没想到自己会这么紧张。
+
+### 7. 有空请你来
+
+**We'll have to have you over sometime.** — 有空请你过来坐坐。
+
+- **场景：** 见面收尾，把邀请说出口。有时只是客气，并不马上定日子。
+- **发音：** 第一个 *have* 在 *have to* 里常弱读成 /ˈhæftə/。重音在 *over*。
+- **语域：** 可以对客人说。真想约，后面补上哪一天。
+- **迁移：** **We'll have you over next week.** — 下周请你过来。
+
+### 8. 做我们自己
+
+**They're gonna love us. Let's just be ourselves.** — 他们会喜欢我们的。我们就做自己。
+
+- **场景：** 进门前给自己人打气。
+- **发音：** *gonna* 弱读。*just* 轻，重音在 *ourselves*。
+- **语域：** 家人之间。不对要见的那个人说。
+- **迁移：** **Let's just be ourselves.** — 我们就做自己。
+
+### 9. 能帮我一下吗
+
+**Would you mind?** — 能帮我一下吗？
+
+- **场景：** 手里的事需要人接一下。后面通常还要补上帮什么。
+- **发音：** *would you* 连读。重音在 *mind*。
+- **语域：** 可以对客人说。比 *Can you* 更轻。
+- **迁移：** **Would you mind helping me?** — 能帮我一下吗？
+
+### 10. 我们得走了
+
+**We gotta go, but we'll see you around.** — 我们得走了，回头见。
+
+- **场景：** 做客结束，先说要走，再约下次。
+- **发音：** *gotta* 是 *got to* 的弱读。重音在 *go*。
+- **语域：** 熟人。对不太熟的人改成 *We should get going.*
+- **迁移：** **We gotta go, but we'll see you later.** — 我们得走了，回头见。
+
+### 11. 她真可爱
+
+**She's adorable.** — 她真可爱。
+
+- **场景：** 夸一个小孩。下一句常常是 *Thank you.*
+- **发音：** 重音在 *adorable* 的第二个音节。
+- **语域：** 可以对客人说。
+- **迁移：** **Thank you.** — 谢谢。用来接住别人的夸奖。
+
+### 12. 今天以她为主
+
+**Today is about Lily, all right?** — 今天以莉莉为主，听见了吗？
+
+- **场景：** 出门前把这一天的重点说死。*all right* 是在确认对方听见了。
+- **发音：** *all right* 收成两个轻音节。重音在 *Lily*。
+- **语域：** 家人。
+- **迁移：** **Today we leave on time, all right?** — 今天我们准时出门，听见了吗？
+
+---
 
 ## 时态 · be going to / be supposed to
 
@@ -100,10 +152,7 @@
 | **be supposed to** 该做 | *No! You're supposed to do it with him.* — 不行，你该跟他一起做。 | *You're supposed to do this with me.* — 你该跟我一起做。 |
 | **be going to** 否定 | *I don't wanna be the late ones too.* — 我不想再当迟到的那对。 | *I don't wanna be the last one there.* — 我不想最后一个到。 |
 
-跟读时把重音放在「已经定了」：
-
-- **We're gonna be late.** — 我们要迟到了。
-- **You're supposed to do it with him.** — 你该跟他一起做。
+*gonna*、*wanna* 是口语弱读。书面和正式邮件写 *going to*、*want to*。
 
 ## 问句 · Questions in this episode
 
@@ -119,6 +168,8 @@
 | **right?** 句尾求认同 | *Classic me, right?* — 我的老样子，对吧？ | *Classic me, right?* — 又是我的老样子，对吧？ |
 | **all right?** 确认听进去了 | *Today is about Lily, all right?* — 今天以莉莉为主，听见了吗？ | *Today we leave on time, all right?* — 今天我们准时出门，听见了吗？ |
 | **Was there** 一般疑问 | *Was there something wrong with the fishnet tank top?* — 那件网眼背心有什么问题吗？ | *Was there something wrong with the blue shirt?* — 那件蓝衬衫有什么问题吗？ |
+
+*That's your answer?* 是把对方的话扔回去，带不耐烦。对孩子说之前，先换成 *Is that the plan?*
 
 ## 特色 · 百分数收束，和这一集想说的话
 
@@ -186,26 +237,49 @@
 2. **该做的事，和当场做的事，经常不是同一件。** *You're supposed to do it with him.* 杰本该和曼尼一起装风扇。约定写在 supposed to 里，人还在客厅。
    **Supposed to is the plan. Showing up is the afternoon.** — supposed to 是计划，到场才是这个下午。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**一场荒唐可以在同一个厨房里收场。** 菲尔把「假偷车」做成了真丢车，克莱尔拆穿之后，两个人还是抱在一起。*Classic me, right?* 是他先承认这又是自己的老样子。
-**A messy plan can still end in the same kitchen.** — 一个一团糟的计划，仍然可以在同一个厨房里结束。
-**Classic me, right?** — 我的老样子，对吧？
+和精学语块重复的句子，这里只写家里怎么说。
 
-#### 亲子相处
+1. **先承认这又是自己的老样子。**
+   - **骨架：** *Classic me, right?*
+   - **家里说：** **Classic me, right?** — 又是我的老样子，对吧？
+   - **语域：** 只对伴侣说。*right* 升调，是在请对方接住，不是在求表扬。
 
-1. **教训如果靠演戏，孩子先学会的是慌。** 卢克没锁车，菲尔决定假扮小偷。车后来真的被人骑走。片尾那句百分数把秘诀从口号改成到场。
-   **90% of being a dad is just showin' up.** — 当爸爸，九成就是人到场。
+2. **一起把这场收住。**
+   - **骨架：** *We gotta go, but we'll see you around.*
+   - **家里说：** **We gotta go, but I'll stay with you.** — 我们该走了，但我留在你这儿。
+   - **语域：** 家人。*gotta* 是口语。书面写 *have got to* 或 *have to*。
 
-2. **孩子要的是一起做，不单是有人来修。** 歌洛莉亚拦住杰去打球：*You're supposed to do it with him.* 风扇是借口，一起动手才是那句话的份量。
-   **You're supposed to do it with him.** — 你该跟他一起做。
+### 亲子 · 今天能对 Celine 说
+
+1. **该做的事，是一起做。**
+   - **骨架：** *You're supposed to do it with him.*
+   - **家里说：** **Celine, you're supposed to do this with me.** — Celine，你该跟我一起做。
+   - **语域：** 家长对孩子。*supposed to* 是约定，后面接这一件具体的事。
+
+2. **今天的重点说清楚。**
+   - **骨架：** *Today is about Lily, all right?*
+   - **家里说：** **Celine, today is about you.** — Celine，今天以你为主。
+   - **语域：** 家长对孩子。说完就做那一件事，不接着加规矩。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 出门前，你想说我们要迟到了。
+2. 你请对方先把上衣换了。
+3. 做客结束，你说得走了，回头见。
+4. 你又做成了老样子，想请伴侣接住这句话。
+5. 请 Celine 跟你一起做这一件。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 - **台词里 *painter / poet / pilot / president* 的职业扩展与 *a / an* 用法：** [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（与此页相向互链）。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。

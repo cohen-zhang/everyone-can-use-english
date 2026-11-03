@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e15-transcript.txt|S01E15 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 情人节当天，三对伴侣都试图制造惊喜，却因期待错位把浪漫搞成灾难。Claire 与 Phil 的角色扮演翻车，Jay 与 Gloria 在代际表达差异里互相误解，Mitchell 和 Cameron 也在“谁更用心”上较劲。最终大家发现，关系中的真诚修复比“完美仪式”更打动人。
@@ -21,70 +23,123 @@
 - **sincerity** — 真诚
 - **imperfect romance** — 不完美浪漫
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · like / 比较**、**问句**，以及 **特色**（主题句 *Valentine's Day*、*Like an Olympic wrestler*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · like / 比较**、**问句**、**特色**（*Valentine's Day*、*Like an Olympic wrestler*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Well, I thought you might enjoy a night at a hotel.** — 我嘛  觉得你可以去酒店开房爽一晚
-- **No, no. Why don't you meet me in the hotel bar** — 不不  要不你到酒店的酒吧去找我呗
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 情人节快乐
 
-- **You don't need to be in the bedroom at all.** — 那东西不能进你闺房
+**Happy Valentine's Day.** — 情人节快乐。
 
-## 亲子与学校
+- **场景：** 节日当天见面或打电话，先互道一句。
+- **发音：** 重音在 *Valentine's* 和 *Day*。
+- **语域：** 家人、伴侣、朋友。
+- **迁移：** **Happy Valentine's Day, gorgeous.** — 情人节快乐，美女。
 
-- **Hey, baby.** — 嘿  宝贝儿
-- **I would, but would you and the kids be okay?** — 好啊  不过你在家带孩子行吗
-- **I'll set up sleepovers for the kids.** — 我去安排孩子们今晚住别人家
+### 2. 我见过最美的
 
-## 工作与职场
+**I love it. It's the most beautiful thing I've ever seen.** — 我喜欢。这是我见过最美的东西。
 
-- **so you might want to take a nap at work today.** — 所以你今天上班时好好歇着吧
-- **Or...Honorable businessman from Hong Kong.** — 要不  一位来自香港的优雅商人
-- **and then my client gets scared and settles.** — 可我的委托人临阵退缩  和解了
-- **Beautiful. — You can wear 'em tonight.** — 真好看。——你今晚就戴着。
+- **场景：** 收到礼物，真心夸一句。
+- **发音：** 重音在 *love* 和 *beautiful*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I love it. It's perfect.** — 我喜欢。太完美了。
 
-## 约会与恋爱
+### 3. 你真贴心
 
-- **Bye, honey. - See you later.** — 再见  宝贝  -待会儿见
-- **And she's on a date with him at my favorite restaurant,** — 而且他俩要去我最喜欢的餐厅约会
-- **I love it. It's the most beautiful thing I've ever seen.** — 我喜欢。这是我见过最美的东西。
+**Thank you. That is so sweet.** — 谢谢。你真贴心。
 
-## 情绪与道歉
+- **场景：** 对方做了小事，你道谢并夸用心。
+- **发音：** 重音在 *sweet*。
+- **语域：** 家人、朋友。
+- **迁移：** **Thanks. That was really thoughtful.** — 谢谢。你真想得周到。
 
-- **Happy Valentine's Day.** — 情人节快乐
-- **Oh, happy Valentine's Day.** — 情人节快乐
-- **Happy Valentine's Day, gorgeous.** — 情人节快乐  美女
-- **Happy Valentine's Day. - Happy Valentine's Day.** — 情人节快乐  -情人节快乐
-- **Happy Valentine's Day, Daddy. - Happy Valentine's Day, Lily.** — 情人节快乐  爹地  -情人节快乐  莉莉
-- **No, I'm-I'm sorry.** — 不不  对不起
-- **I'm really nervous about my closing argument.** — 我真的很担心我的结案陈词
-- **Happy Valentine's Day, Mrs. Dunphy.** — 邓菲太太  情人节快乐
-- **I'm sorry. Maybe you'd like a chocolate.** — 真遗憾  来颗巧克力吧
+### 4. 对不起
 
-## 社交与礼貌
+**No, I'm sorry.** — 不不，对不起。
 
-- **Hello, cannoli canoe.** — 我来了  奶油糕饼
-- **Hey, and I was wondering** — 对了  我在想
-- **Hi, Dylan.** — 你好  迪兰
-- **Oh. Dylan, thank you. That is so sweet.** — 迪兰  谢谢啊  你真贴心
-- **Hi, Manny.** — 嗨  曼尼
-- **Hey, Manny, it's Valentine's Day.** — 曼尼  今天是情人节
-- **Thank you. Thank you.** — 谢谢  谢谢
+- **场景：** 误会或扫了对方的兴，赶紧道歉。
+- **发音：** 重音在 *sorry*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I'm sorry. That came out wrong.** — 对不起，我说错了。
 
-## 请求与建议
+### 5. 来颗巧克力吧
 
-- **Let's hope so.** — 但愿如此吧
-- **Let's go put this over my bed.** — 我们把它挂在我床头吧
-- **You know, we don't have to go to Fratelli's tonight.** — 我们今晚也不是非要去弗里特利餐厅啦
-- **what would you say to a little role-playing?** — 你觉得来点儿角色扮演怎样
-- **Tell me, would you be interested in** — 我问你  今晚你有没兴趣
+**I'm sorry. Maybe you'd like a chocolate.** — 真遗憾。来颗巧克力吧？
 
+- **场景：** 计划黄了，用一点小东西缓和气氛。
+- **发音：** 重音在 *sorry* 和 *chocolate*。
+- **语域：** 家人、熟人。
+- **迁移：** **I'm sorry. Want some tea?** — 对不起。要不要喝点茶？
+
+### 6. 今晚不必出门
+
+**You know, we don't have to go out tonight.** — 我们今晚也不是非要去外面。
+
+- **场景：** 原计划太大，你想改成在家过。
+- **发音：** *don't have to* 重音在 *have*。重音在 *tonight*。
+- **语域：** 只对伴侣说。
+- **迁移：** **We don't have to go anywhere tonight.** — 我们今晚哪儿都不用去。
+
+### 7. 你在家行吗
+
+**I would, but would you and the kids be okay?** — 好啊，不过你在家带孩子行吗？
+
+- **场景：** 自己有事要出门，先确认家里撑得住。
+- **发音：** *would you* 弱读。重音在 *okay*。
+- **语域：** 夫妻商量。
+- **迁移：** **Would you be okay if I stepped out for an hour?** — 我出去一小时，你行吗？
+
+### 8. 安排孩子过夜
+
+**I'll set up sleepovers for the kids.** — 我去安排孩子们今晚住别人家。
+
+- **场景：** 夫妻要单独出去，先把孩子安顿好。
+- **发音：** 重音在 *set* 和 *sleepovers*。
+- **语域：** 夫妻、家长之间。
+- **迁移：** **I'll figure out something for the kids tonight.** — 今晚孩子的事我来想办法。
+
+### 9. 今晚吃饭？
+
+**So, Fratelli's tonight?** — 那今晚去那家？
+
+- **场景：** 确认晚上的安排，陈述加升调，等对方点头。
+- **发音：** 重音在 *tonight*。
+- **语域：** 夫妻、熟人。
+- **迁移：** **So, dinner tonight?** — 那今晚吃饭？
+
+### 10. 别再那样说
+
+**Let's not talk like that anymore.** — 我们别再那样说话了。
+
+- **场景：** 刚才的话伤人了，你想把规则改回来。
+- **发音：** 重音在 *talk* 和 *anymore*。
+- **语域：** 伴侣、家人。
+- **迁移：** **Let's not do that again.** — 我们别再那样了。
+
+### 11. 像摔跤手但有钱
+
+**Like an Olympic wrestler, but with money.** — 像奥运摔跤手，但是有钱的那种。
+
+- **场景：** 夸伴侣又壮又有派头，后半句是玩笑。
+- **发音：** 重音在 *wrestler* 和 *money*。
+- **语域：** 只对伴侣说。别对不熟的人用。
+- **迁移：** **Like a long flight, but with snacks.** — 像长途飞行，但是有零食的那种。
+
+### 12. 我以为去跳舞
+
+**I thought we were going salsa dancing, not to watch a comedian.** — 我以为我们去跳莎莎，不是去看喜剧。
+
+- **场景：** 计划和期待不一致，你把心里的版本说出来。
+- **发音：** *were going* 连读。重音在 *dancing*。
+- **语域：** 只对伴侣说。家里可改成下面的迁移句，别带整段剧情。
+- **迁移：** **I thought we were going dancing tonight.** — 我以为我们今晚去跳舞。
+
+---
 
 ## 时态 · like 当介词
 
@@ -97,10 +152,7 @@
 | **Is he** | *Is he a magician?* — 他是魔术师吗？ | *Is he coming?* — 他来吗？ |
 | **gonna** 你要花多久 | *Did you indicate to her how long that you were gonna take?* — 你告诉她你要花多久了吗？ | *Did you say how long you were gonna be?* — 你说了你会去多久吗？ |
 
-跟读：
-
-- **Like an Olympic wrestler, but with money.** — 像摔跤手，但是有钱。
-- **Is he a magician?** — 他是魔术师吗？
+口语里的 *gonna* 是 *going to* 的弱读；书面和正式场合写 *going to*。
 
 *but with money* 先给比喻，再用 but 补上真正想夸的那一点。
 
@@ -119,7 +171,7 @@
 | **Who the hell** | *Who the hell is Johnny Carson?* — Johnny Carson 到底是谁？ | *Who the hell called?* — 到底谁打的电话？ |
 | **how long ... gonna** | *How long that you were gonna take?* — 你要花多久？ | *How long are you gonna be?* — 你会去多久？ |
 
-歌洛莉亚按自己的逻辑追问喜剧演员：魔术师才用木槌打头。问句一步步把代沟演出来。
+*Who the hell* 是带火的追问。家里和对孩子别用 hell；换成 *Who is that?* 或先说明你在问什么。
 
 ## 特色 · like，和这一集想说的话
 
@@ -182,22 +234,46 @@
 2. **夸一句，要让对方听得懂比喻。** *Like an Olympic wrestler, but with money.* 歌洛莉亚的夸法很具体。具体才好笑，也才甜。
    **Like an Olympic wrestler, but with money.** — 像摔跤手，但是有钱。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**角色可以玩，人要认得出是谁。** 菲尔和克莱尔玩陌生男女。电梯门一开，同事和老师都在。玩笑停在认得出彼此的那一秒。
-**So, Fratelli's tonight?** — 今晚去那家？这是他们原来的计划，简单，也是一对夫妻的句子。
+1. **节日先道喜。**
+   - **骨架：** *Happy Valentine's Day.*
+   - **家里说：** **Happy Valentine's Day. I'm glad we're home tonight.** — 情人节快乐。我很高兴今晚我们在家。
+   - **语域：** 只对伴侣说。
 
-#### 亲子相处
+2. **计划不一致，说清你以为的版本。**
+   - **骨架：** *I thought we were going salsa dancing…*
+   - **家里说：** **I thought we were going dancing tonight.** — 我以为我们今晚去跳舞。
+   - **语域：** 只对伴侣说。见语块 12。
 
-**孩子的情人节可以比父母的更大。** 迪兰的巨幅画把菲尔比了下去。曼尼失恋，米奇尔带他去把人追回来，又发表「可耻」的演说。大人陪着孩子把一场小失恋走完。
-**And who's David Brenner?** — 那是谁？孩子和伴侣都会用这句，把一个没听过的名字交回来。
+### 亲子 · 今天能对 Celine 说
+
+1. **也祝孩子节日快乐。**
+   - **骨架：** *Happy Valentine's Day, Lily.*
+   - **家里说：** **Happy Valentine's Day, Celine.** — 情人节快乐，Celine。
+   - **语域：** 家长对孩子。
+
+2. **没听过的名字，平静问一句。**
+   - **骨架：** *And who's David Brenner?*
+   - **家里说：** **Celine, who is that?** — Celine，那是谁？
+   - **语域：** 家长对孩子。不用 *Who the hell*。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 情人节见面，你先道喜。
+2. 收到礼物，你说这是你见过最美的之一。
+3. 你想改计划：今晚不必出门。
+4. 对伴侣说：我以为我们今晚去跳舞。
+5. 祝 Celine 情人节快乐。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

@@ -4,6 +4,8 @@
 
 **Obsidian（全台词 · 相向）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e10-transcript.txt|S01E10 字幕全文]] · [[learning-notes/tv-series/modern-family/s01/transcript/README.md|S01 字幕目录]]
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 圣诞节前夜，全家一边准备节日一边处理突发事故：Phil 想守住“完美家庭形象”，Claire 在混乱中疲于收拾，Jay 与 Manny 也在礼物和期待上产生拉扯。几条线最终都指向同一个主题：家庭节日不可能完美，但彼此愿意回头道歉和补位，就是最真实的团圆感。
@@ -21,72 +23,125 @@
 - **showing up** — 及时补位
 - **reunion** — 团圆感
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · have to / would rather / used to**、**问句**，以及 **特色**（主题句 *ugly sweaters*、*rather ... than*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · have to / would rather / used to**、**问句**、**特色**（主题句 *ugly sweaters*、*rather ... than*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **Haley, I guess you're not getting that car.** — 海莉  我估计你拿不到新车做礼物了
-- **I was getting a car? - Nope.** — 我能得到新车作为礼物吗  -不会了
-- **How am I supposed to get all this in the car?** — 我怎样才能把这些东西都放进车里啊
-- **Take it from someone who lives in his car.** — 我作为住在车里的人  给你们的箴言
-- **Gosh. Really? Okay. -Do you really live in your car?** — 天啊  真的吗  -你真住在车里吗
-- **Y-You can't spend it in your car.** — 你总不能在你的车里过吧
-- **My neck hole is too small.** — 我的领口太小了。
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-## 家事与居家
+### 1. 必须穿丑毛衣吗
 
-- **Manny, miamor, I need you to help me in the kitchen.** — 曼尼  亲爱的  你到厨房来帮我下
-- **I guess the couch did it to itself.** — 我猜是沙发自己把自己烫了个小洞
-- **Why don't you come over to our place for dinner tonight?** — 不如你今晚到我们家来共进晚餐吧
-- **So, uh, why don't you follow us to our house?** — 那  你可以跟在我们车后面去我们家
-- **Okay. In your house.** — 好的  开着你的"家"
-- **Are you sure one of your friends didn't burn the couch?** — 你确定不是你的某个朋友烧了沙发
-- **In Colombia, practical jokes are a Christmas tradition.** — 在哥伦比亚，恶作剧是圣诞传统。
+**Do we really have to wear these ugly sweaters?** — 我们真的必须穿这些丑毛衣吗？
 
-## 亲子与学校
+- **场景：** 被要求做一件你不情愿的事。*really* 是在求答案「不用」。
+- **发音：** *have to* 常弱读成 /ˈhæftə/。重音在 *really*、*wear*。
+- **语域：** 家人。对不熟的人改成更轻的问法。
+- **迁移：** **Do we really have to leave now?** — 我们真的必须现在走吗？
 
-- **Ah! Still funny, Son.** — 你还是那么搞笑啊  儿子
-- **Would you cheer up? We're in Santa's Village with our daughter.** — 开心点  我们带着女儿在圣诞老人村呢
-- **You know what? Somebody needs to get in the holiday- son of a bitch.** — 知道吗  某人需要融入这个节日  妈的
-- **Phil has a habit of making big pronouncements to the kids.** — 菲尔喜欢在孩子面前夸海口
-- **the baby Jesus is the one... that brings the gifts,** — 送圣诞礼物的  是婴儿耶稣
-- **How could a newborn baby carry all those presents?** — 一个新生儿怎么能拿得动所有的礼物
-- **At least a baby can fit through a chimney.** — 至少婴儿能穿过烟囱啊
-- **How would you sit on the baby Jesus' lap?** — 那你怎么坐在婴儿耶稣的膝盖上
-- **Merry Christmas Eve!** — 平安夜快乐！
+### 2. 宁可痒也不要勒
 
-## 约会与恋爱
+**I'd rather be itchy than chokey.** — 我宁可痒，也不要勒得喘不上气。
 
-- **Honey, come on.** — 亲爱的  快来
-- **Now I've got a family of liars and smokers. -Honey, come here.** — 难道某人又吸烟又说谎吗  -亲爱的  快来
+- **场景：** 两件难受里挑轻的那个。*chokey* 是剧里对着 *itchy* 现造的词，听懂了 itchy 就懂对比。
+- **发音：** *I'd* 是 *I would*。重音在 *itchy*。
+- **语域：** 剧里的玩笑。家里用下面的迁移句，不用 *chokey*。
+- **迁移：** **I'd rather be early than late.** — 我宁可早，也不要晚。
 
-## 情绪与道歉
+### 3. 今晚来我家吃饭
 
-- **Whoa! I'm- I'm sorry. Can I- Could you** — 抱歉  我能  你能
-- **Are you crying? — What are you, a robot?** — 你哭了？——你是机器人吗？
+**Why don't you come over to our place for dinner tonight?** — 今晚来我们家吃饭吧？
 
-## 社交与礼貌
+- **场景：** 节日里邀请对方来家里吃顿饭。
+- **发音：** *don't you* 连读。重音在 *dinner*。
+- **语域：** 可以对客人说。
+- **迁移：** **Why don't you come over for dinner tonight?** — 今晚来我家吃饭吧？
 
-- **Hello, Philip.** — 你好啊  菲利普
-- **Thank you.** — 谢谢
-- **Thanks for the sweaters. - I-I- Oh, you're welcome.** — 谢谢你们送来的毛衣  -不客气
-- **Hey, pops, here's the tree.** — 瞧  老爸  看我们家的圣诞树
-- **See? Even his elves agree with me. Thank you.** — 瞧  连他的精灵都同意我的话  谢谢
-- **Let me give you a hand with that. - Uh, thanks.** — 我来帮帮你们吧  -谢谢
-- **Thanks. Thanks, Santa. - Can't call me that anymore.** — 谢谢  圣诞老人  -别再那么叫了
-- **Oh, well, thank you so much.** — 那个  非常感谢你
-- **Um, wait, wait. Um, please,** — 等等  麻烦您
-- **Hey, don't look at me.** — 不要看我
+### 4. 跟着我们回家
 
-## 请求与建议
+**Why don't you follow us to our house?** — 跟着我们车回家吧？
 
-- **Do we really have to wear these ugly sweaters?** — 我们真的非得穿这些难看的毛衣吗
-- **your father and I are just gonna have to punish all three of you.** — 我们会将你们三个统统作为惩罚对象
+- **场景：** 对方不认识路，你带路回家。
+- **发音：** *follow us* 连读。重音在 *house*。
+- **语域：** 熟人、客人。
+- **迁移：** **Why don't you follow me?** — 跟着我吧？
 
+### 5. 圣诞会有的
+
+**Don't worry. We're going to have Christmas.** — 别担心，圣诞会有的。
+
+- **场景：** 孩子以为节日被取消，你先稳住再给承诺。
+- **发音：** *we're* 弱读。重音在 *Christmas*。
+- **语域：** 家人。
+- **迁移：** **Don't worry. We're still going to celebrate.** — 别担心，我们还是会庆祝的。
+
+### 6. 随他们去吧
+
+**Let it go.** — 随他们去吧。
+
+- **场景：** 别跟某件事较劲了。
+- **发音：** *let it* 连读。重音在 *go*。
+- **语域：** 家人、熟人。
+- **迁移：** **Let it go for tonight.** — 今晚先别管了。
+
+### 7. 平安夜快乐
+
+**Merry Christmas Eve!** — 平安夜快乐！
+
+- **场景：** 节日前夜见面或进门时的招呼。
+- **发音：** 重音在 *Christmas*、*Eve*。
+- **语域：** 家人、客人、邻居。
+- **迁移：** **Merry Christmas!** — 圣诞快乐！
+
+### 8. 开心一点
+
+**Would you cheer up?** — 开心一点好吗？
+
+- **场景：** 一家人在外面，对方一直丧脸，你轻轻推一把。
+- **发音：** *would you* 弱读。重音在 *cheer*。
+- **语域：** 家人。带点不耐烦时对伴侣仍可说，对孩子改用更软的迁移句。
+- **迁移：** **Come on, cheer up a little.** — 来吧，开心一点。
+
+### 9. 我来帮一把
+
+**Let me give you a hand with that.** — 我来帮帮你。
+
+- **场景：** 看见对方搬东西或忙不过来，主动伸手。
+- **发音：** *let me* 连读。重音在 *hand*。
+- **语域：** 家人、客人、熟人。
+- **迁移：** **Let me give you a hand.** — 我来帮一把。
+
+### 10. 亲爱的，快来
+
+**Honey, come on.** — 亲爱的，快来。
+
+- **场景：** 叫人过来，语气短，不是吵架。
+- **发音：** *come on* 连读。重音在 *on*。
+- **语域：** 只对伴侣或极亲近的人。
+- **迁移：** **Come on, I'm waiting for you.** — 快来，我等你呢。
+
+### 11. 到厨房帮我
+
+**I need you to help me in the kitchen.** — 我需要你到厨房帮我一下。
+
+- **场景：** 做饭忙不过来，叫人来帮忙。本集原句前面有名字，语块从 *I need you* 起。
+- **发音：** *need you to* 常弱读。重音在 *kitchen*。
+- **语域：** 家人。
+- **迁移：** **I need you to help me in the kitchen.** — 我需要你到厨房帮我一下。
+
+### 12. 你在哭吗
+
+**Are you crying?** — 你在哭吗？
+
+- **场景：** 看出对方在哭，直接问。
+- **发音：** 重音在 *crying*。
+- **语域：** 亲近的人。
+- **迁移：** **Are you okay?** — 你还好吗？
+
+**听懂即可，不跟读：** **You are the inocente!** — 你才是傻冒！剧里哥伦比亚恶作剧玩笑，语域：剧里的玩笑，不照说。
+
+---
 
 ## 时态 · have to / would rather / used to
 
@@ -99,10 +154,7 @@
 | **used to** 以前那样 | *I can have Christmas the way we used to.* — 我可以过我们以前那样的圣诞。 | *I want dinner the way we used to.* — 我想吃我们以前那样的晚饭。 |
 | **be going to** 我们要等 | *We're gonna wait for the fat Santa.* — 我们要等那个胖圣诞老人。 | *We're gonna wait for the next one.* — 我们等下一班。 |
 
-跟读：
-
-- **Do we really have to?** — 我们真的必须吗？
-- **I'd rather be early than late.** — 我宁可早，也不要晚。
+口语里的缩读留在说话里；书面和正式场合写完整形式（*going to*，不用 *gonna*）。
 
 *chokey* 是菲尔现造的词，对着 itchy：勒脖子的那种难受。
 
@@ -121,7 +173,7 @@
 | **Why don't you** 带路 | *Why don't you follow us to our house?* — 跟着我们回家吧？ | *Why don't you follow me?* — 跟着我吧？ |
 | **How could** | *How could a newborn baby carry all those presents?* — 一个新生儿怎么搬得动那些礼物？ | *How could that be the rule?* — 那怎么会是规矩？ |
 
-*Was one of you* 问的是「你们当中是否有一个」。*Which one of you* 已经认定有人做了，在问是谁。
+*Was one of you* 问的是「你们当中是否有一个」。*Which one of you* 已经认定有人做了，在问是谁。审问式问句适合查清事实，不对孩子用施压口气；家里换成陈述或一起想办法的句子。
 
 ## 特色 · rather than，和这一集想说的话
 
@@ -184,26 +236,46 @@
 2. **顶罪很勇敢，烫洞的原因还可以是阳光。** 饰品把阳光聚到沙发上。抽烟的坦白已经发生，物理原因后到。两件事都留在这个晚上。
    **It was me.** — 是我。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**两种圣诞可以争，人还在同一间屋子里。** 杰要 *Christmas the way we used to.* 曼尼要哥伦比亚的传统。歌洛莉亚夹在中间，劝曼尼先理解杰想重现的是旧日。
-**I can have Christmas the way we used to.** — 我可以过我们以前那样的圣诞。
-**Christmas should be Christmas.** — 圣诞就该是圣诞。这句是杰把传统说死。歌洛莉亚听见的是：新的那种不算。
+1. **两种圣诞可以争，人还在同一间屋子里。**
+   - **骨架：** *I can have Christmas the way we used to.*
+   - **家里说：** **I miss the Christmas we used to have. Can we mix in one thing from your side?** — 我想念我们以前的圣诞。能不能加一样你那边的东西？
+   - **语域：** 只对伴侣。
 
-#### 亲子相处
+2. **别把传统说死。**
+   - **骨架：** *Christmas should be Christmas.*
+   - **家里说：** **Christmas can look different and still feel like ours.** — 圣诞可以不一样，但还是我们的。
+   - **语域：** 只对伴侣。不用 *should be* 把对方顶回去。
 
-1. **三个孩子一起扛，最小的那个先说实话。** 海莉的计划是轮流认下香烟。卢克先招了。计划散了，圣诞仍被取消，直到艾丽克斯再认一次。
-   **Which one of you was smoking?** — 抽烟的是你们当中哪一个？
+### 亲子 · 今天能对 Celine 说
 
-2. **为别人留下节日的那句，是这一集最清楚的亲子话。** *You can take my Christmas away, but don't take it from everyone else.*
-   **Don't take it from everyone else.** — 别把它从所有人那里拿走。
+1. **查清事实，不用审讯口气。**
+   - **骨架：** *Which one of you was smoking?*
+   - **家里说：** **Celine, if something happened, we can talk. I'm not here to trap you.** — Celine，要是出了什么事，我们可以谈。我不是来套话的。
+   - **语域：** 家长对孩子。不用 *Which one of you* 施压。
+
+2. **为别人留下节日。**
+   - **骨架：** *You can take my Christmas away, but don't take it from everyone else.*
+   - **家里说：** **You can be upset with me, but let's keep the celebration for everyone else.** — 你可以生我的气，但别让大家都没法庆祝。
+   - **语域：** 家长对孩子。陈述句，见语块 5 的 *Don't worry. We're going to have Christmas.*
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 被要求穿你不喜欢的衣服，你想问是不是真的必须穿。
+2. 你想邀请朋友今晚来家里吃饭。
+3. 孩子以为节日没了，你想说别担心、还会庆祝。
+4. 和伴侣说：你想念以前的圣诞，能不能加一样 TA 的习惯。
+5. 告诉 Celine：出了事可以谈，你不是来套话的。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。
+- 时态和问句用来换词，不另背一整表。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
-
+语域看的是这一集里的用法。换场合先看每条下面的边界。

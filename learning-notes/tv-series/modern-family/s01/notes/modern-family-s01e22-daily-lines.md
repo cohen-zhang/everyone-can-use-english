@@ -6,6 +6,8 @@
 
 **同集手工精编（夏威夷／机场线）：** [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-daily-lines.md|S01E22 生活场景实用英文句（精编）]] — 与本页 **相向互链**。
 
+**做法：** [[learning-notes/tv-series/美剧学英语|美剧台词学英语]]。这一页只收家里能复用的短句。
+
 ## 本集剧情简介
 
 全家踏上夏威夷之旅后，表面上是度假放松，实际每个人都带着各自的小算盘：有人想求婚、有人想重燃浪漫、有人想摆脱家庭角色压力。机场与酒店场景里误会频发，旅行计划不断跑偏。笑闹之外，这一集重点展现了“同一段旅程，不同情感任务”。
@@ -23,90 +25,125 @@
 - **airport and hotel drama** — 机场酒店戏剧
 - **different emotional missions** — 不同情感任务
 
-本页由脚本从字幕**抽取可朗读的英文句**并保留对应**简中**；已去重、略去过短行。**语境**（讽刺、玩笑、双关）未逐条标注，朗读前可快速扫一眼中文。
-
-文末三章是精读，不在上面的场景桶里：**时态 · supposed to / 过去**、**问句**，以及 **特色**（主题句 *fell from heaven*、*Help me*、祈使句、角色之间的评价、本集想说的话）。
+精学语块跟读 12 条，每条有场景、发音、语域、迁移。文末 **夫妻**、**亲子** 跟读「家里说」。仍有精读：**时态 · supposed to / 过去**、**问句**、**特色**（*fell from heaven*、*Help me*）。
 
 ---
 
-## 出行与旅行
+## 精学语块
 
-- **so I'm taking him to Hawaii for a whole week.** — 所以我要带他去夏威夷呆上一整个星期
-- **Big suite in Maui. Just the two of us.** — 茂伊岛的豪华套房  两人的私密空间
-- **I did it all myself- the flight, the hotels.** — 我一手包办  订机票  订酒店
-- **but do I have to love 'em in Hawaii?** — 但干嘛非要到夏威夷去啊
-- **You guys excited about the trip?** — 要去旅行了激动吗
-- **People always say I scream "Hawaii."** — 大家总说我弥漫着"夏威夷"的气息
-- **No, no. I can't get on the plane without my I.D.** — 不是  我没带身份证不能登机
-- **print the boarding passes.** — 打印登机牌
-- **We're about to leave for the airport. - Not for an hour.** — 我们要去机场了  -还有一小时呢
-- **Uh, who am I kidding? I'm not making this flight.** — 骗谁呢我  这肯定是赶不上飞机了
-- **and back before the plane takes off. Let's go.** — 然后飞机起飞前赶回来  走吧
-- **Daryl- See if you can stall the plane.** — 达里尔  想个法子让飞机晚点起飞
-- **Go. I'll meet you at the gate. Go.** — 去吧  在登机口见  去吧
-- **But you won't get on the plane without me, right? - Oh. Well** — 你不会丢我一人自己去玩吧  -这个
-- **Seriously? You were gonna get on the plane? Cam!** — 真的假的  你打算自己去吗  小卡
-- **Oh! That's as fast as she goes. - Just drive.** — 噢  真是慢得要死  -赶紧开
-- **Just drive. - I'll get the luggage!** — 赶紧开  -行李交给我吧
-- **Here today, gone to Maui! - Hey. You seen Phil?** — 就是今天  奔赴茂伊  -看见菲尔没
-- **And it's just gonna get worse and worse until the flight.** — 越是快上飞机这感觉就会越强烈
-- **Straight to the car. Slow is smooth, and smooth is fast.** — 直奔小车  欲速则不达  慢慢来
-- **If the plane flew into a storm** — 就是飞机直插入暴风雨
-- **so she'll sleep on the plane.** — 这样上了飞机她就能睡着了
-- **Nobody likes a crying baby on a flight.** — 没人会喜欢乘飞机碰上个大哭的婴儿
-- **next to a baby who was very upset the entire flight,** — 旁边就有个婴儿吵了一整路
-- **I was on that flight with you, and I don't recall** — 我不是跟你一班飞机嘛  我怎么不记得...
-- **Tell you, the plane was rocking up and down, back and forth.** — 跟你说那飞机可是  忽上忽下  忽左忽右
-- **I-Is this the best way to go? What about the freeway?** — 这是最快的路线吗  怎么不上高速
-- **as we get closer to the flight.** — 我就会变得越抓狂
-- **Honestly, could you drive any slower?** — 你敢开得再慢一点吗
-- **I'm thinking about using it in my song about Hawaii.** — 我考虑把它加进我的夏威夷之歌里
-## 家事与居家
+这 12 句跟读。先对齐重音和弱读，再整句说。情节句、笑话和半句不在这里。
 
-- **I love 'em at dinners, I love 'em at barbecues,** — 共进晚餐啦  吃吃烧烤啦都不错
-- **My bag's in the living room. Everything's gonna be okay.** — 我的包都放在客厅了  一切都会没事的啦
-- **Wait. What are you doing? I just packed those.** — 等等，你在干什么？我刚收好的。
+### 1. 别瞎操心
 
-## 亲子与学校
+**Would you relax? You always worry. It always gets done.** — 能放松点吗？你总爱瞎操心，最后都会弄好的。
 
-- **He's a legacy at Happy Time Preschool.** — 他可是快乐时光幼儿园里的大明星
-- **No. No. I wanna be alert if the kids need me.** — 不行  孩子们还指着我呢  我要清醒
-- **Jasper and his mother are coming over for a playdate.** — 贾斯珀和他妈妈要来玩。
+- **场景：** 对方为出门、打包或赶时间焦虑，你接话把「总会搞定」说清楚。
+- **发音：** *always* 两回都轻一点。重音在 *relax* 和 *done*。
+- **语域：** 家人、伴侣。语气急时像责备，只对熟人用。
+- **迁移：** **Relax. It always gets done.** — 放松。最后都会弄好的。
 
-## 约会与恋爱
+### 2. 我有点紧张
 
-- **Oh, gee! Thank you, honey.** — 天啊  谢谢你了  亲爱的
-- **Hi, sweetheart!** — 小甜心好啊
+**Okay. Fine. I'm sorry. I'm a little tense.** — 好吧。抱歉，我有点小紧张。
 
-## 情绪与道歉
+- **场景：** 被说太焦虑之后，承认自己的状态并道歉。
+- **发音：** 重音在 *sorry*、*tense*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I'm sorry. I'm a little stressed.** — 对不起，我有点压力。
 
-- **Maybe just 'cause I'm so damn happy.** — 或许只是因为我心情太好吧
-- **Happy birthday!** — 生日快乐
-- **but don't worry, I'm seeing a therapist.** — 不过别担心  我在看心理医生
-- **Would you relax? You always worry. It always gets done.** — 能放松点吗  你总爱瞎操心  没事的
-- **Okay. Fine. I'm sorry. I'm a little tense.** — 好吧  抱歉  我有点小紧张
-- **Oh, so this was your idea? - Happy birthday, Jay.** — 原来是你的鬼主意啊  -生日快乐  杰
-- **Relax, punkin. I got this.** — 放轻松  交给我了
-- **I told you, I get more and more freaked out** — 告诉过你的  越是接近起飞
-- **Jay? - Oh, I'm sorry.** — 杰  -抱歉
-## 社交与礼貌
+### 3. 就说帮我
 
-- **thank you.** — 谢谢你
-- **Are they, uh, all gonna be up with us in first class?** — 那他们  都跟我们一起坐头等舱吗
-- **Thanks, Daryl.** — 谢了  达里尔
-- **Hey, Lily! Hi. - Oh, no! Oh, n** — 嘿  莉莉  嗨 -噢不
-- **Thanks a lot, Cam. - How is this my fault?** — 多亏了你  小卡  -怎么能赖我
-- **Hey, check out that cute guy.** — 快瞧瞧那帅哥
-- **Ah, thanks, buddy. Ow.** — 谢谢啊  老兄
-- **I was counting on you to be here, so thanks a lot.** — 我本来还指望你能陪陪我  真是谢谢你了
+**Here's an idea: Just say "Help me."** — 我有个主意：就说「帮我」。
 
-## 请求与建议
+- **场景：** 与其事后埋怨没人帮，不如当时开口要帮助。
+- **发音：** *just* 轻。重音在 *Help*。
+- **语域：** 家人、伴侣。对不熟的人直接说 *Help me* 也可以，但这里整句是建议口吻。
+- **迁移：** **Just say you need a minute.** — 就说你需要一分钟。
 
-- **All right. We still need to pack Lily's toys,** — 好了  还得把莉莉的玩具打包
-- **Haley and Alex, let's go!** — 海莉  艾丽克斯  要走了
-- **Very nice!  -Alright. Let's go. Let's go.** — 太棒了  -很好  快走  快走
-- **Uh, let's see. Oh, shoot! I just missed my turn.** — 我看看  靠  转弯口我给错过了
+### 4. 你该在这儿
 
+**You're supposed to be here with me.** — 你该在这儿陪着我。
+
+- **场景：** 按理应在一起，人却不在。带一点委屈，不是下命令。
+- **发音：** *supposed to* 常弱读。重音在 *here*。
+- **语域：** 伴侣、家人。
+- **迁移：** **You're supposed to be on that flight with me.** — 你该跟我坐同一班飞机。
+
+### 5. 你在干什么
+
+**Wait. What are you doing? I just packed those.** — 等等，你在干什么？我刚收好的。
+
+- **场景：** 看见对方动刚打包好的东西，先停住再问。
+- **发音：** *What are you* 连读。重音在 *doing*、*packed*。
+- **语域：** 家人。有点急。
+- **迁移：** **Wait. What are you doing with that bag?** — 等等，你拿那个包干什么？
+
+### 6. 要去机场了
+
+**We're about to leave for the airport.** — 我们要去机场了。
+
+- **场景：** 宣布动身时间到了，催大家准备。
+- **发音：** *about to* 连读。重音在 *leave*、*airport*。
+- **语域：** 家人。
+- **迁移：** **We're about to leave in ten minutes.** — 我们十分钟后就要走。
+
+### 7. 交给我
+
+**Relax. I got this.** — 放轻松，交给我了。
+
+- **场景：** 对方慌，你接手一件事。本集里有昵称，家里跟 *Relax* 起。
+- **发音：** *got this* 连读。重音在 *got*。
+- **语域：** 家人、伴侣。
+- **迁移：** **Relax. I've got this.** — 放松，我来。
+
+### 8. 会没事的
+
+**My bag's in the living room. Everything's gonna be okay.** — 我的包在客厅。一切都会没事的。
+
+- **场景：** 出门前的混乱里，先交代东西在哪，再安慰一句。
+- **发音：** *gonna* 弱读。重音在 *okay*。
+- **语域：** 家人。
+- **迁移：** **Everything's gonna be okay.** — 一切都会没事的。
+
+### 9. 生日快乐
+
+**Happy birthday!** — 生日快乐！
+
+- **场景：** 当面祝贺生日，短句就够。
+- **发音：** 重音在 *birthday*。
+- **语域：** 家人、朋友、客人都可以。
+- **迁移：** **Happy birthday to you!** — 祝你生日快乐！
+
+### 10. 你怎么这么甜
+
+**Why are you so sweet?** — 你怎么这么甜？
+
+- **场景：** 对方做了贴心的事，用问句夸人。不是真的在追问原因。
+- **发音：** 重音在 *sweet*。
+- **语域：** 伴侣、家人。
+- **迁移：** **Why are you so nice to me?** — 你怎么对我这么好？
+
+### 11. 头等舱吗
+
+**Are they all gonna be up with us in first class?** — 他们都会跟我们一起坐头等舱吗？
+
+- **场景：** 确认座位安排，尤其是孩子要不要一起坐。
+- **发音：** *gonna* 弱读。重音在 *first*。
+- **语域：** 家人之间商量行程。
+- **迁移：** **Are the kids gonna sit with us?** — 孩子们会跟我们坐吗？
+
+### 12. 抱歉小紧张
+
+**I'm sorry. I'm a little tense.** — 对不起，我有点小紧张。
+
+- **场景：** 赶飞机、打包乱套时，向身边的人道歉并说明状态。比语块 2 少前面的 *Okay. Fine.*
+- **发音：** 重音在 *sorry*、*tense*。
+- **语域：** 家人、伴侣。
+- **迁移：** **I'm sorry I'm snapping.** — 对不起，我刚才语气不好。
+
+**听懂即可，不跟读：** *Did it hurt when you fell from heaven?* — 你从天上掉下来的时候疼吗？老套搭讪。语域是 **剧里的玩笑，不照说**。
+
+---
 
 ## 时态 · supposed to / 一般过去
 
@@ -119,10 +156,7 @@
 | **supposed to** 该在 | *You're supposed to be here with me.* — 你该在这儿陪着我。 | *You're supposed to be on that flight.* — 你该在那班飞机上。 |
 | **are they gonna** | *Are they all gonna be up with us in first class?* — 他们都会和我们一起坐头等舱吗？ | *Are they gonna wait?* — 他们会等吗？ |
 
-跟读：
-
-- **Did it hurt?** — 疼吗？
-- **You're supposed to be here with me.** — 你该在这儿陪着我。
+*gonna* 是 *going to* 的口语弱读。书面和正式邮件写 *going to*。
 
 ## 问句 · Questions in this episode
 
@@ -139,7 +173,7 @@
 | **You think** | *You think I'm made of money?* — 你以为我是钱做的？ | *You think I forgot?* — 你以为我忘了？ |
 | **do I have to** | *But do I have to love 'em in Hawaii?* — 可我一定得在夏威夷爱他们吗？ | *Do I have to decide today?* — 我一定得今天决定吗？ |
 
-*I forgot to ask* 把搭讪装成一句忘掉的问话。*Did it hurt when you fell from heaven* 是老套情话，剧里用来开杰的生日。
+*You think I'm made of money?* 和 *do I have to love 'em* 是把抱怨说成问句。家里认真谈钱或谈安排时，用陈述句说清楚，不用这种顶回去的反问。
 
 ## 特色 · Help me，和这一集想说的话
 
@@ -200,21 +234,47 @@
 2. **全家跟着去，和二人世界，可以是同一趟机票上的两截。** 歌洛莉亚只买了六天的家人票，后面才是和杰的茂宜。*Do I have to love 'em in Hawaii?* 是杰的抱怨，也是他后来愿意上飞机的前提被说破。
    **You're supposed to be here with me.** — 你该在这儿陪着我。
 
-#### 夫妻
+### 夫妻 · 今天能说
 
-**生日旅行若全是活动，想读一本书的人会想跳进火山。** 杰想要的是安静。歌洛莉亚宣布每天爬山。两人后来把家人送走，才剩下属于他们的几天。
-**Why are you so sweet?** — 你怎么这么甜？开场的情话，和后面的徒步清单，是同一对夫妻。
+1. **需要帮，当时就说两个字。**
+   - **骨架：** *Here's an idea: Just say "Help me."*
+   - **家里说：** **Just say "Help me."** — 就说「帮我」。
+   - **语域：** 只对伴侣说整句建议；两个字本身对谁都可以。发音见语块 3。
 
-#### 亲子相处
+2. **夸对方贴心。**
+   - **骨架：** *Why are you so sweet?*
+   - **家里说：** **Why are you so sweet?** — 你怎么这么甜？
+   - **语域：** 只对伴侣。发音见语块 10。
 
-**钥匙锁在屋里的时候，孩子和家长一起慌。** 克莱尔重复「我讨厌这种感觉」。菲尔翻窗进去。海莉的素描男孩、迪兰的短信，都挤在同一个候机厅。家长在场，青春期仍在发短信。
-**Are they all gonna be up with us in first class?** — 他们都会跟我们坐头等吗？孩子在不在头等舱，是这一家的座位问题，也是「谁和谁在一起」的问题。
+### 亲子 · 今天能对 Celine 说
+
+1. **出门乱时，交给你能办的事。**
+   - **骨架：** *Relax. I got this.*
+   - **家里说：** **Celine, relax. I've got this.** — Celine，放松，我来。
+   - **语域：** 家长对孩子。发音见语块 7。
+
+2. **用陈述句说会没事，不用抱怨式反问。**
+   - **骨架：** *But do I have to love 'em in Hawaii?* 是杰的抱怨，不照说。
+   - **家里说：** **Everything's gonna be okay.** — 一切都会没事的。
+   - **语域：** 家长对孩子。发音见语块 8。
 
 ---
 
+## 回忆五句
+
+看中文场景，说出英文。对完再翻回上面的迁移句和「家里说」。
+
+1. 打包乱套，你想叫伴侣别瞎操心，说最后会弄好。
+2. 你需要帮忙却开不了口，你想提醒对方就说「帮我」。
+3. 对方做了贴心的事，你想夸一句。
+4. 你想对伴侣说：你该跟我在一起。
+5. 出门前台乱，请 Celine 放松，说你会搞定。
+
 ## 使用提示
 
-- 每集条目较多时，按场景选 **10–15 句** 精读即可，不必一次背完。
-- 想对照 **亲子对话体** 练习，见同目录 `S01E02-What's the key to being a great dad.md`（手工编排示例）。
+- 跟读 **精学语块** 那 12 句，加上夫妻、亲子两节的「家里说」。搭讪 *fell from heaven* 听懂即可。
+- 时态和问句用来换词，不另背一整表。
+- 机场与夏威夷手工精编见 [[learning-notes/tv-series/modern-family/s01/transcript/modern-family-s01e22-daily-lines.md|S01E22 生活场景实用英文句（精编）]]。
+- 想对照亲子对话体，见 [[learning-notes/tv-series/modern-family/s01/notes/modern-family-s01e02-key-to-being-a-great-dad|S01E02 怎样才算好爸爸]]。
 
-*自动生成：对双关、反话需结合剧集理解；重要场合请再查词典或语料库确认语气。*
+语域看的是这一集里的用法。换场合先看每条下面的边界。
