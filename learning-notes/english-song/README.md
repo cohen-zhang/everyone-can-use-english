@@ -17,15 +17,18 @@ aliases:
 
 **Apple Music 播放列表：** [English song](https://music.apple.com/cn/playlist/english-song/pl.u-JPAZEGNTD9ABPd1)（122 首 · 约 7 小时 36 分钟）
 
-## 中年歌单 · 英文三首
+## 中年歌单
 
-这三首不在下方 122 首播放列表里。按中年课题排列，笔记在 [[learning-notes/english-song/life-attitude/README|生活态度]]。
+这六首不在下方 122 首播放列表里。按中年课题排列，笔记在 [[learning-notes/english-song/life-attitude/README|生活态度]]。
 
 | 顺序 | 歌名 | 歌手 | 中年课题 | 笔记 |
 | --- | --- | --- | --- | --- |
 | 8 | Don't Stop Believin' | Journey | 希望 | [[learning-notes/english-song/life-attitude/dont-stop-believin-journey|Don't Stop Believin']] |
 | 9 | Vienna | Billy Joel | 焦虑与自我和解 | [[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna]] |
 | 10 | My Way | Frank Sinatra | 人生总结 | [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way]] |
+|  | The Living Years | Mike + The Mechanics | 代际沟通与遗憾（与《当你老了》同一主题） | [[learning-notes/english-song/life-attitude/the-living-years-mike-and-the-mechanics|The Living Years]] |
+|  | Fix You | Coldplay | 低谷中的陪伴 | [[learning-notes/english-song/life-attitude/fix-you-coldplay|Fix You]] |
+|  | Here Comes the Sun | The Beatles | 轻盈地重新开始（比热血歌更轻，从低谷回到日常） | [[learning-notes/english-song/life-attitude/here-comes-the-sun-the-beatles|Here Comes the Sun]] |
 
 ## 奥运主题曲
 

@@ -18,7 +18,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]]
 
-**相关：** [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（失去亲人、怀念与 *memories linger on*） · [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man — Yom & Aurélien Naffrichoux]]（同名不同曲，可对照）
+**相关：** [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（失去亲人、怀念与 *memories linger on*） · [[learning-notes/english-song/life-attitude/the-old-man-yom|The Old Man — Yom & Aurélien Naffrichoux]]（同名不同曲，可对照） · [[learning-notes/english-song/life-attitude/the-living-years-mike-and-the-mechanics|The Living Years — Mike + The Mechanics]]（父辈还在时没把话说完）
 
 ---
 

@@ -45,8 +45,10 @@ tags:
 长按电源键 / 侧边键直到出现商标。`技术` `亲子`
 - **The phone is booting up. Wait a second.** / **(UK) It’s starting up.**  
 手机正在启动。等一下。/（英：starting up.）`技术`
-- **Tap the screen or press the side button to wake it.** / **Swipe up to unlock.**  
-点一下屏幕或按侧边键唤醒。/ 上滑解锁。`技术` `亲子`
+- **Tap the screen or press the side button to wake it.**  
+点一下屏幕或按侧边键唤醒。`技术` `亲子`
+- **(iPhone) Swipe up to unlock.** / **(older iPhone) Slide to unlock.** / **(Home-button iPhone) Press home to unlock.**  
+（iPhone）上滑解锁。/（旧版 iPhone）滑动解锁。/（带 Home 键的 iPhone）按 Home 键解锁。`技术` `亲子`
 - **Enter your passcode.** / **Use Face ID / Touch ID.**  
 输密码。/ 用人脸 / 指纹解锁。`技术`
 - **The screen went to sleep. / The screen locked itself.**  
@@ -323,6 +325,7 @@ Celine 上学戴电话手表。我们在手机 App 里看她的位置。`亲子`
 | **power (button) / turn on, turn off**              | 电源键 / 开、关机           | 与 section 2 呼应 `技术`                     |
 | **reboot / restart / force restart**                | 重启 / 强制重启            | 死机、卡顿时常说 `技术`                           |
 | **tap / double-tap / swipe / long press**           | 点 / 双击 / 滑 / 长按      | 基础手势；英 **press and hold** 也常说 `技术` `亲子` |
+| **(iPhone) Swipe up to unlock**                     | 上滑解锁                 | iPhone 锁屏提示；旧版常说 **Slide to unlock** `技术` `亲子` |
 | **pinch (to zoom)**                                 | 双指捏合缩放               | 看图、地图 `技术`                              |
 | **go back** / **home screen** / **app switcher**    | 返回 / 主屏 / 应用切换器      | 多任务各系统叫法略异 `技术`                         |
 | **install / update / uninstall / delete the app**   | 安装 / 更新 / 卸载 / 删 app | 应用商店、腾空间 `技术`                           |

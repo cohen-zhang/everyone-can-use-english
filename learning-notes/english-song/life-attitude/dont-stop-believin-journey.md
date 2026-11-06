@@ -20,7 +20,7 @@ aliases:
 
 **索引：** [[learning-notes/english-song/README|英文歌曲索引]] · [[learning-notes/english-song/life-attitude/README|本主题]]
 
-**相关：** 中年歌单英文三首的第 8 关「希望」。[[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna — Billy Joel]]（别赶完人生） · [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way — Frank Sinatra]]（按自己的方式走完） · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*hopeful*）
+**相关：** 中年歌单英文三首的第 8 关「希望」。[[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna — Billy Joel]]（别赶完人生） · [[learning-notes/english-song/life-attitude/my-way-frank-sinatra|My Way — Frank Sinatra]]（按自己的方式走完） · [[learning-notes/english-song/life-attitude/here-comes-the-sun-the-beatles|Here Comes the Sun — The Beatles]]（更轻的重新开始：不是打气，是天晴了） · [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]]（*hopeful*）
 
 > 中年一句：别因为到了中年，就认为故事已经结束。*Don't stop believin'.*
 
@@ -215,3 +215,4 @@ Streetlight people
 - 注意 **-in'** 缩读：*livin'*、*goin'*、*payin'*、*believin'*、*feelin'*。书面写作仍用 *-ing*。
 - *Streetlight people* 和 *the movie never ends* 是中年听法的两句：你还是街上那个普通人，故事也还没被写完。
 - 可与 [[learning-notes/english-song/life-attitude/vienna-billy-joel|Vienna]] 对照：一首说「别提前结束」，一首说「也别急着赶完」。
+- 若只要更轻的「重新开始」，听 [[learning-notes/english-song/life-attitude/here-comes-the-sun-the-beatles|Here Comes the Sun]]：那首不打气，只说太阳出来了。

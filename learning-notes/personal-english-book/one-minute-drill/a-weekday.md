@@ -169,6 +169,9 @@ aliases:
 | **backpack** | /ˈbækpæk/ | 背包 | into my **backpack** |
 | **overtime** *(n.)* | /ˈoʊvərtaɪm/ | 加班（名词） | 正文口语多用 **work late**；也可说 *do overtime* |
 
+A: Do you often work overtime?（会被安排加班吗？）
+B: Not really, but sometimes I work late to wrap things up.
+
 ---
 
 ## 术语小注
