@@ -134,6 +134,21 @@ Mid-album pause before *Those Who Stayed Behind*
 
 ---
 
+## 重点单词表 · Key words
+
+本曲没有演唱歌词。这里只留「重点表达」没列过的词。*guitarist* 见基础知识。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **clarinet** | /ˌklærəˈnet/ | n. | 单簧管 | a virtuoso **clarinetist** | The **clarinet** sings where there are no words. |
+| **virtuoso** | /ˌvɜːrtʃuˈoʊsoʊ/ | n. | 演奏高手 | a **virtuoso** clarinetist | A **virtuoso** can carry a tune with no lyric. |
+| **refugee** | /ˌrefjuˈdʒiː/ | n. | 难民 | **refugees** | It is dedicated to **refugees**. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 本曲**无歌词**，精研重点在：**听情绪**（clarinet 主旋律的起伏）与**记专辑英文标题**的发音。

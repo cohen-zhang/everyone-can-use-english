@@ -226,6 +226,19 @@ Yes, it was my way
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **phrasing** | /ˈfreɪzɪŋ/ | n. | 咬字；乐句处理 | His **phrasing** | His **phrasing** sounds like a conversation. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 副歌只练四行就够开口：*I've lived a life that's full / I've traveled each and every highway / And more, much more than this / I did it my way.*

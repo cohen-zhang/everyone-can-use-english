@@ -113,7 +113,27 @@ aliases:
 
 ---
 
-## 4. 主题分类 — Theme（本库文件夹）
+## 4. 乐队与角色 — Band & roles
+
+这些词会在多篇歌手简介里重复，单曲笔记的重点单词表不再单列。
+
+| English | IPA（美） | 简中 | 一句说明 |
+| --- | --- | --- | --- |
+| **band** | /bænd/ | 乐队 | 一组一起演奏、演唱的人。*rock band* = 摇滚乐队 |
+| **lineup** | /ˈlaɪnʌp/ | 阵容 | 某一时期的成员组合。*the classic lineup* = 经典阵容 |
+| **lead singer** | /ˌliːd ˈsɪŋər/ | 主唱 | 主要唱歌的那一位。一首歌也可以有两位主唱 |
+| **lead vocal** | /ˌliːd ˈvoʊkl/ | 主唱（歌声） | 指主唱的声音，不是人的职位名。*sings lead* = 唱主声部 |
+| **guitarist** | /ɡɪˈtɑːrɪst/ | 吉他手 | 弹吉他的人 |
+| **bassist** | /ˈbeɪsɪst/ | 贝斯手 | 弹贝斯的人。乐器名是 *bass* |
+| **drummer** | /ˈdrʌmər/ | 鼓手 | 打鼓的人 |
+| **keyboardist** | /ˈkiːbɔːrdɪst/ | 键盘手 | 弹键盘的人 |
+| **pianist** | /ˈpiænɪst/ | 钢琴家；钢琴手 | 弹钢琴的人。歌手简介里常和 *singer-songwriter* 连用 |
+| **songwriter** | /ˈsɔːŋˌraɪtər/ | 词曲作者 | 写歌的人，词、曲或两者都写 |
+| **singer-songwriter** | /ˌsɪŋər ˈsɔːŋˌraɪtər/ | 唱作人 | 自己写、自己唱 |
+
+---
+
+## 5. 主题分类 — Theme（本库文件夹）
 
 按**歌词主题**归文件夹（一首歌只进一个主文件夹）：
 
@@ -130,7 +150,7 @@ aliases:
 
 ---
 
-## 5. 发行与形态 — Releases（够用即可）
+## 6. 发行与形态 — Releases（够用即可）
 
 | English | 简中 | 最小理解 |
 | --- | --- | --- |
@@ -146,7 +166,7 @@ aliases:
 
 ---
 
-## 6. 听歌学英语：最小工作流
+## 7. 听歌学英语：最小工作流
 
 1. **先听结构：** 找出哪段在重复 → 那多半是 **chorus / hook**。  
 2. **再看歌名括号：** 有 **feat.** 就留意客串段落从哪里开始。  
@@ -155,7 +175,7 @@ aliases:
 
 ---
 
-## 7. 英文短文 · 阿泽自述（听歌术语）
+## 8. 英文短文 · 阿泽自述（听歌术语）
 
 *约 1 分钟 · 把上面术语串成口语*
 
@@ -181,7 +201,7 @@ Remix 改编曲，Cover 是翻唱，Remaster 多半只是音质升级。
 
 ---
 
-## 8. 一句话复习
+## 9. 一句话复习
 
 **Verse tells the story; chorus sells the hook; feat. means a guest joins the ride.**  
 主歌讲故事，副歌卖钩子；feat. 就是请来客串一起唱。

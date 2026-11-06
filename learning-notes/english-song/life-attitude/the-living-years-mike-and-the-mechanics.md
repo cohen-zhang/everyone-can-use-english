@@ -128,6 +128,23 @@ It's too late when we die to admit we don't see eye to eye
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **project** | /ˈprɑːdʒekt/ | n. | 项目；乐队之外另起的计划 | as a **project** beside that band | How do you feel about the new **project**? |
+| **choir** | /ˈkwaɪər/ | n. | 合唱团 | A children's **choir** | Do you sing in the **choir** or just for yourself? |
+| **funeral** | /ˈfjuːnərəl/ | n. | 葬礼 | only after the **funeral** | The song follows a son mourning after the **funeral**. |
+| **idiom** | /ˈɪdiəm/ | n. | 习语 | not a common **idiom** | An **idiom** cannot be translated word for word. |
+| **pattern** | /ˈpætərn/ | n. | 模式；循环 | a family **pattern** | This **pattern** repeats in three services. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 先把副歌的 *Say it loud, say it clear* 跟稳，再回头听主歌里的 *Every generation blames the one before*。

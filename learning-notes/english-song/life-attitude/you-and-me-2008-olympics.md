@@ -157,6 +157,20 @@ The Chinese block returns once. The duet ends on three lines: *You and me / From
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **bilingual** | /baɪˈlɪŋɡwəl/ | adj. | 双语的 | a **bilingual** pop ballad | The song is **bilingual**: English and Chinese share one tune. |
+| **ceremony** | /ˈserəmoʊni/ | n. | 仪式 | the opening **ceremony** | It was written for an opening **ceremony**. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 先把英文副歌三句唱稳：*You and me / From one world / We are family*。再加 *Come together / Put your hand in mine*。

@@ -68,6 +68,21 @@ aliases:
 
 ---
 
+## 重点单词表 · Key words
+
+歌词还没收入本篇，重点表达也还空着，所以这里只收简介里这首歌特有的词。*singer-songwriter* 见基础知识。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **independent** | /ˌɪndɪˈpendənt/ | adj. | 独立的 | an **independent** American singer | He releases the songs himself. The word is **independent**. |
+| **acoustic** | /əˈkuːstɪk/ | adj. | 原声的 | **acoustic**, story-driven songs | The basics page uses **acoustic** for a version. Here it is the sound. |
+| **story-driven** | /ˈstɔːri ˌdrɪvən/ | adj. | 靠故事推进的 | **story-driven** songs | The song is **story-driven**, so dictation works well. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 歌词暂缺：可在 Apple Music 播放时打开「歌词」视图，或听写后补入本页。

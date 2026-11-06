@@ -209,6 +209,19 @@ Streetlight people
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **sing-along** | /ˈsɪŋ əˌlɔːŋ/ | n. | 跟唱；合唱曲 | returned as a **sing-along** | The last line is easy to turn into a **sing-along**. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 跟唱先抓尾奏 **Don't stop believin' / Hold on to that feelin'**，再回头串主歌里的 *midnight train*。

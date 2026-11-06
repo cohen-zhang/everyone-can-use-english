@@ -159,6 +159,19 @@ Once you go black, you never go back
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **raspy** | /ˈræspi/ | adj. | 沙哑的 | her **raspy**, blues-soaked voice | After a long call, his voice goes **raspy**. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 副歌 *I'm a black sheep* 节奏稳定、重复多，适合 **KTV 跟唱**；先练清 *bad woman to keep* 的重音。

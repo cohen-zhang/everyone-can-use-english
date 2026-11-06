@@ -181,6 +181,20 @@ For everything he's done
 
 ---
 
+## 重点单词表 · Key words
+
+只收「重点表达」里没有、又不属于音乐公共词的词。**文中例句**取自本篇。**其它示例**尽量贴近本库已有句子。
+
+段落、曲风、发行和乐队角色等公共词见 [[learning-notes/english-song/music-english-song-basics|音乐 · 英文歌曲 · 最小必要知识]]。
+
+| English | IPA（美） | 词性 | 简中 | 文中例句 | 其它示例 |
+| --- | --- | --- | --- | --- | --- |
+| **fiddle** | /ˈfɪdl/ | n. | 小提琴（口语） | his father played **fiddle** | A **fiddle** is the spoken name for that violin. |
+| **anthem** | /ˈænθəm/ | n. | 颂歌；代表曲 | the Irish rugby **anthem** | A song can become an **anthem** people share. |
+
+
+---
+
 ## 听歌提示 · Listening Notes
 
 - 歌曲节奏舒缓、咬字清楚，适合**精研发音**与跟读；注意爱尔兰英语里部分元音与美式略有不同，但以清晰辅音为主。
