@@ -20,6 +20,7 @@ aliases:
 - **成对词（不只反义）** — [[learning-notes/parenting-english/games-and-activities/parenting-pairs-beyond-antonyms-game|广义对举词游戏 — Pairs Beyond Opposites]]
 - **猜动物** — [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|动物单词]] ↔ [[learning-notes/parenting-english/games-and-activities/parenting-animal-guessing-game-log|动物猜猜猜记录]]
 - **手游蛋仔派对** — [[learning-notes/parenting-english/games-and-activities/parenting-eggy-party-game-phrases|蛋仔派对 — Eggy Party]]（平板游戏、屏幕时间；与此页相向互链）
+- **讲解口令（词性 / 词组 / 句子）** — [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide#22-单词教学--vocabulary-teaching|Jeff 讲解示范 · §2.2]]（与此页相向互链）
 
 ---
 

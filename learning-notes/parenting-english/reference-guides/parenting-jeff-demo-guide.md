@@ -84,6 +84,84 @@ tags:
 | **This is how you pronounce it: [word].** | 发音示范 | 它的发音是这样的：[单词]。  |
 
 
+单词站稳之后，接着点词性、收成词组，再放进句子。
+
+#### 2.2.1 词性 — Parts of Speech
+
+
+| 句式                                                 | 使用场景  | 中文对照            |
+| -------------------------------------------------- | ----- | --------------- |
+| **Do you know this part of speech?**               | 是否知道  | 你知道这个词性吗？       |
+| **Do you know what a [part] is?**                  | 点名是否知道 | 你知道[词性]是什么吗？    |
+| **What's the name of this part of speech?**        | 提问名称  | 这个词性叫什么名字？      |
+| **Do you know what [part] means?**                 | 是否懂义  | 你知道[词性]是什么意思吗？  |
+| **Do you understand this part of speech?**         | 确认理解  | 你理解这个词性吗？       |
+| **What part of speech is this?**                   | 询问词性  | 这是什么词性？         |
+| **[Word] is a noun.**                              | 点明名词  | [单词]是名词。        |
+| **A noun names a person, a place, or a thing.**    | 解释名词  | 名词用来叫人、地方或东西。   |
+| **[Word] is a verb.**                              | 点明动词  | [单词]是动词。        |
+| **A verb tells us what we do.**                    | 解释动词  | 动词告诉我们做什么。      |
+| **[Word] is an adjective.**                        | 点明形容词 | [单词]是形容词。       |
+| **An adjective tells us what something is like.**  | 解释形容词 | 形容词告诉我们东西什么样。   |
+| **[Word] is an adverb.**                           | 点明副词  | [单词]是副词。        |
+| **An adverb tells us how, when, or where.**        | 解释副词  | 副词告诉我们怎样、何时或何地。 |
+| **[Word] is a pronoun.**                           | 点明代词  | [单词]是代词。        |
+| **A pronoun stands in for a noun.**                | 解释代词  | 代词用来代替名词。       |
+| **[Word] is a preposition.**                       | 点明介词  | [单词]是介词。        |
+| **A preposition shows how things are related.**    | 解释介词  | 介词表示事物之间的关系。    |
+| **Is [word] a noun or a verb?**                    | 二选一   | [单词]是名词还是动词？    |
+| **Here, we use [word] as a verb.**                 | 同词换性  | 这里我们把[单词]当动词用。  |
+
+
+#### 2.2.2 词组 — Phrases
+
+
+| 句式                                      | 使用场景  | 中文对照           |
+| --------------------------------------- | ----- | -------------- |
+| **Do you know this phrase?**            | 是否知道  | 你知道这个词组吗？      |
+| **Do you know the phrase [phrase]?**    | 点名某组  | 你知道[词组]这个词组吗？  |
+| **What do we call this phrase?**        | 提问名称  | 我们管这个词组叫什么？    |
+| **Do you know what this phrase means?** | 是否懂义  | 你知道这个词组是什么意思吗？ |
+| **Do you understand this phrase?**      | 确认理解  | 你理解这个词组吗？      |
+| **Let's learn a phrase.**               | 引入词组  | 我们来学一个词组。      |
+| **This phrase is [phrase].**            | 词组介绍  | 这个词组是[词组]。     |
+| **These words go together: [phrase].**  | 绑定搭配  | 这几个词要放在一起：[词组]。 |
+| **[A] goes with [B].**                  | 搭配关系  | [甲]和[乙]搭配。     |
+| **Say the whole phrase: [phrase].**     | 整组跟读  | 把整个词组说出来：[词组]。  |
+| **One more time, the whole phrase.**    | 再次整组  | 再来一遍，说整个词组。    |
+| **Keep the words together.**            | 不要拆开  | 这几个词不要拆开。      |
+| **This phrase means [meaning].**        | 整体词义  | 这个词组的意思是[意思]。  |
+| **Can you say this phrase?**            | 邀请尝试  | 你能说出这个词组吗？     |
+| **Now use the phrase: [phrase].**       | 用出来   | 现在用这个词组：[词组]。  |
+
+
+#### 2.2.3 句子 — Sentences
+
+
+| 句式                                              | 使用场景  | 中文对照           |
+| ----------------------------------------------- | ----- | -------------- |
+| **Do you know this sentence?**                  | 是否知道  | 你知道这个句子吗？      |
+| **Do you know the sentence [sentence]?**        | 点名某句  | 你知道[句子]这个句子吗？  |
+| **What kind of sentence is this?**              | 提问名称  | 这是哪种句子？        |
+| **Do you know what this sentence means?**       | 是否懂义  | 你知道这个句子是什么意思吗？ |
+| **Do you understand this sentence?**            | 确认理解  | 你理解这个句子吗？      |
+| **Now let's make a sentence.**                  | 转入造句  | 现在我们来造一个句子。    |
+| **A sentence tells one whole idea.**            | 解释句子  | 一个句子讲一件完整的事。   |
+| **Listen to this sentence: [sentence].**        | 整句输入  | 听这个句子：[句子]。    |
+| **Repeat the whole sentence.**                  | 整句跟读  | 把整句重复一遍。       |
+| **Can you say a sentence with [word]?**         | 用词造句  | 你能用[单词]说一个句子吗？ |
+| **Let's put [phrase] in a sentence.**           | 词组入句  | 我们把[词组]放进句子里。  |
+| **Who does what?**                              | 抓主干   | 谁做了什么？         |
+| **This sentence tells us something.**           | 陈述句   | 这个句子是在讲一件事。    |
+| **This sentence asks a question.**              | 疑问句   | 这个句子是在问问题。     |
+| **This sentence tells you to do something.**    | 祈使句   | 这个句子是在让你做事。    |
+| **Start with a capital letter.**                | 句首大写  | 句子开头要大写。       |
+| **End with a period.**                          | 句号收尾  | 句子结尾用句号。       |
+
+
+**相关：** 八大词类与句子语气的分篮见 [[learning-notes/grammar-lab/english-language-taxonomy#1-单词-word|英语语言单位分类 · 单词]]、[[learning-notes/grammar-lab/english-language-taxonomy#3-句子-sentence|句子]]；口头把词扔进篮子见 [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#21-词类--parts-of-speech|分类归类游戏 · 词类]]。
+
+
 ---
 
 ### 2.3 确认理解 — Checking Understanding
@@ -167,6 +245,7 @@ tags:
 | **In other words...**                 | 换种说法  | 换句话说……        |
 | **For example...**                    | 举例说明  | 比如……          |
 | **Let's take a break.**               | 建议休息  | 我们休息一下吧。      |
+| **Let's continue.**                   | 休息后继续 | 让我们继续。        |
 | **That's all for today.**             | 结束讲解  | 今天就讲到这里。      |
 
 

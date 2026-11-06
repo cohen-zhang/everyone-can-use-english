@@ -146,6 +146,7 @@ aliases:
 1. **§21 词类篮** — *What part of speech is this?*
 2. **§22 成分篮** — *Who does what to whom?*
 3. **本页语气篮** — *Declarative or question?* — 指着台词问：这是**陈述**还是**疑问**？
+4. **讲解口令** — 跟孩子说词性、词组、句子：[[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide#22-单词教学--vocabulary-teaching|Jeff 讲解示范 · §2.2]]
 
 ### 专题实验室
 
