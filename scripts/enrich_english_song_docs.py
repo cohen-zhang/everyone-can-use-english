@@ -723,43 +723,6 @@ def build_readme(catalog: list[dict]) -> str:
         return "\n".join(lines)
 
     topic_table = group_table("topics", TOPIC_LABELS)
-    genre_table = group_table("genres", GENRE_LABELS)
-    level_lines = ["| 难度 | # | 歌名 | 歌手 | 笔记 |", "| --- | --- | --- | --- | --- |"]
-    by_level: dict[str, list] = defaultdict(list)
-    for c in catalog:
-        by_level[c["level"]].append(c)
-    for lv in ["level/easy", "level/medium", "level/hard"]:
-        for c in sorted(by_level.get(lv, []), key=lambda x: x["track"]):
-            link = c["file"].removesuffix(".md")
-            level_lines.append(
-                f"| {LEVEL_LABELS[lv]} | {c['track']} | {c['title']} | {c['artist']} | "
-                f"[[learning-notes/english-song/{link}|笔记]] |"
-            )
-
-    era_lines = ["| 年代 | # | 歌名 | 歌手 | 笔记 |", "| --- | --- | --- | --- | --- |"]
-    by_era: dict[str, list] = defaultdict(list)
-    for c in catalog:
-        by_era[c["era"]].append(c)
-    for era in ["era/classic", "era/2000s", "era/2010s", "era/2020s"]:
-        for c in sorted(by_era.get(era, []), key=lambda x: x["track"]):
-            link = c["file"].removesuffix(".md")
-            era_lines.append(
-                f"| {ERA_LABELS[era]} | {c['track']} | {c['title']} | {c['artist']} | "
-                f"[[learning-notes/english-song/{link}|笔记]] |"
-            )
-
-    use_lines = ["| 场景 | # | 歌名 | 歌手 | 笔记 |", "| --- | --- | --- | --- | --- |"]
-    by_use: dict[str, list] = defaultdict(list)
-    for c in catalog:
-        for u in c["uses"]:
-            by_use[u].append(c)
-    for u in sorted(by_use, key=lambda t: USE_LABELS.get(t, t)):
-        for c in sorted(by_use[u], key=lambda x: x["track"]):
-            link = c["file"].removesuffix(".md")
-            use_lines.append(
-                f"| {USE_LABELS.get(u, u)} | {c['track']} | {c['title']} | {c['artist']} | "
-                f"[[learning-notes/english-song/{link}|笔记]] |"
-            )
 
     todo = [c for c in catalog if c.get("lyrics_missing")]
     curated_rows = [c for c in catalog if c.get("curated")]
@@ -799,22 +762,6 @@ aliases:
 ## 按主题 · Topic
 
 {topic_table}
-
-## 按曲风 · Genre
-
-{genre_table}
-
-## 按难度 · Level
-
-{chr(10).join(level_lines)}
-
-## 按年代 · Era
-
-{chr(10).join(era_lines)}
-
-## 按场景 · Use
-
-{chr(10).join(use_lines)}
 
 ## 完整笔记（手工精编）
 
