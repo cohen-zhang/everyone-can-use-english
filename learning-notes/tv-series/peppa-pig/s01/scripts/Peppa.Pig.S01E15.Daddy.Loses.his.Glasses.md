@@ -197,7 +197,7 @@ I'm Peppa Pig. This is my little brother, George.
 
 | 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
 | --- | --- | --- | --- |
-| **Have you seen Daddy Pig's glasses?** | 你们看见爸爸的眼镜了吗？ | **Have you seen my glasses?** | 东西不见了，先问她 |
+| **Have you seen Daddy Pig's glasses?** | 你们看见爸爸的眼镜了吗？ | **Have you seen my iPhone?** | 东西不见了，先问她 |
 | **Do you remember where you last put them?** | 你记得最后放在哪儿了吗？ | **Where did you last put them?** | 她说没看见 |
 | **Can we help find your glasses?** | 我们可以帮你找眼镜吗？ | **Can I help you look?** | 她想一起找 |
 

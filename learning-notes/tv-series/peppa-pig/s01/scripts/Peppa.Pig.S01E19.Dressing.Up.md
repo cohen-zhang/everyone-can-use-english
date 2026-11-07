@@ -1,6 +1,6 @@
 **S1-19 dressing up**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**I'm Mummy Pig**、**亲子讲解** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**语法**、**I'm Mummy Pig**、**亲子讲解** 是这一集的跟读版。
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 ### Cold open · Intro（片头自我介绍）
@@ -231,13 +231,38 @@ You really had us fooied!
 - **Be careful.** — 小心。
 - **Take off those clothes.** — 把那些衣服脱掉。
 
+*it's time you did some work* 里的 **did** 不是一般过去时，见下面语法节。
+
+## 语法 · it's time you did
+
+*it's time you did some work.* — 你该干活了。
+
+这一节只拆这一小句。对 Celine 只说「你该干活了」。
+
+| 成分 | 词 | 说明 |
+| --- | --- | --- |
+| 虚义主语 | **it** | 不指具体的人或东西 |
+| 系动词 | **is**（写成 **'s**） | 现在 |
+| 表语 | **time** | 时候 |
+| 从句 | **(that) you did some work** | **that** 省掉了。干活的人是 **you** |
+
+*it's time* 是固定说法。从句不能挪到句首去替换 **it**，不能说 *That you did some work is time.*
+
+**do some work** 是一套说法：干点活。这里的 **work** 不可数，不说 *a work*。放进 *it's time* 之后，**do** 改成 **did**。
+
+**did** 是过去式，时间却是现在：你现在就该干，还带一点「怎么还没干」。不是「你刚才干过了」。不要收进上面的一般过去时。
+
+教材里这叫 **unreal past**（虚拟过去）：用过去式谈现在。这句跟 **did**，不要改成 *it's time you do*。
+
+**相关：** [[learning-notes/parenting-english/daily-life/parenting-time-expressions-daily-phrases|时间表达汇总]] · [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色]]。
+
 ## 特色 · I'm Mummy Pig
 
 这一集在装扮。佩奇反复说自己不是 Peppa，是 Mummy Pig。每一行先跟本集原句，再换一句家里的话。
 
 | 词 | 本集原句 | 家里可替换 |
 | --- | --- | --- |
-| **I'm not ... I'm** 我不是……我是 | *I'm not Peppa Pig. I'm Mummy Pig.* | *I am not Celine. I am Mummy.* — 我不是 Celine。我是妈妈。 |
+| **I'm not ... I'm** 我不是……我是 | *I'm not Peppa Pig. I'm Mummy Pig.* | *I am not your dady. I am your math and english teacher.* — 我不是你爸爸，我是你的数学和英语老师 |
 | **this is** 这是 | *And this is Daddy Pig.* | *And this is Daddy.* — 而这是爸爸。 |
 | **pretending** 正在假装 | *Peppa is enjoying pretending to be Mummy Pig.* | *You are pretending to be a doctor.* — 你在假装当医生。 |
 | **I'm ... and this is** 我是，这是 | *I'm not Peppa! I'm Mummy Pig and this is Daddy Pig!* | *I am the teacher, and this is the student.* — 我是老师，这是学生。 |

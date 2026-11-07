@@ -77,8 +77,11 @@ aliases:
 | **What time is dinner / bath / bedtime?** | 晚饭／洗澡／睡觉几点？ |
 | **Is it time for …?** | 到……的时间了吗？ |
 | **It's time for … / It's time to …** | 该……了 |
+| **It's time** + 人 + 过去式 | 某人现在就该做。过去式不表示过去 |
 
 **动画例：** *What time is it? — It's five o'clock in the morning.*（见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E43.My.Birthday.Party|Peppa S01E43]]）
+
+**催人动手：** *It's time you did some work.* — 你该干活了。*did* 的拆法见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E19.Dressing.Up#语法--its-time-you-did|Peppa S01E19 · 语法]]。
 
 ### 整点与半点（先练）
 
