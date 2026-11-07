@@ -18,6 +18,7 @@ aliases:
 - [[learning-notes/personal-english-book/life/introduce-myself|自我介绍]] — 「南方大城市」接到本篇
 - [[learning-notes/parenting-english/daily-life/parenting-shenzhen-park-daily-phrases|深圳公园场景]] — 进园、游乐设施、公厕现场说法
 - [[learning-notes/personal-english-book/life/weather-daily-expressions|天气日常]] — 湿热、台风等天气口语
+- [[learning-notes/personal-english-book/life/APEC|APEC · 深圳]] — 亲子共读与成人口播；「来了就是深圳人」
 
 **本文以可朗读的英文为主**；**阿泽** 介绍现在住的城市时用。短句口语，正常语速跟读约 3 分钟。
 

@@ -47,6 +47,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
 - [[learning-notes/personal-english-book/life/家乡.md|家乡 · 湖北黄冈黄梅]] — ~2 分钟英文家乡介绍（黄梅戏、五祖寺、鄂东）
 - [[learning-notes/personal-english-book/life/shenzhen-city-intro.md|深圳城市介绍]] — 大湾区、年轻人口、来了就是深圳人、公园城市、小区党群中心自习、气候，以及广州吃饭、惠州周末、游客去处
+- [[learning-notes/personal-english-book/life/APEC|APEC · 深圳]] — 亲子共读（A2）与成人口播（B2）
 - [[learning-notes/personal-english-book/life/hotel.md|酒店英语 · 带孩子旅行]] — 预订入住、客房、泳池、酒店游乐场 / Kids Club、中英短文
 - [[learning-notes/personal-english-book/life/personal-matters.md|个人事务]] — 私人事务相关表达
 - [[learning-notes/personal-english-book/life/weather-daily-expressions.md|天气日常]] — 天气口语

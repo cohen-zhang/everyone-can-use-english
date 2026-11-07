@@ -165,6 +165,8 @@ aliases:
 > May you enjoy life to the fullest and achieve every success! May all your dreams come true!  
 > APEC 2026 — 相约深圳，见证奇迹。心有所悦，业有所成，万事皆可期。
 
+**口语稿：** [[learning-notes/personal-english-book/life/APEC|APEC · 深圳]] — 亲子共读与成人口播。
+
 
 ---
 
