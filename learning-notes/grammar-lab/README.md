@@ -33,6 +33,7 @@ aliases:
 
 - [[learning-notes/grammar-lab/介词|介词实验室]] — at / on / in 与依附介词
 - [[learning-notes/grammar-lab/量词|量词实验室]] — 可数/不可数、量词短语
+- [[learning-notes/grammar-lab/比较句|书面比较句]] — than / as 并列、more of、that of
 - [[learning-notes/grammar-lab/主系表句型|主系表句型]] — *待写*
 - [[learning-notes/grammar-lab/kids-comic-grammar-foundations|儿童漫画语法基础]]
 - [[learning-notes/grammar-lab/grammar-kingdom-notes|《语法王国》笔记]] — *待整理*
