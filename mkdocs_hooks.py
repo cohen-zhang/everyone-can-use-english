@@ -302,6 +302,8 @@ _FRONTMATTER_TITLE_RE = re.compile(
     re.MULTILINE | re.DOTALL,
 )
 _RECENT_EXCLUDED_NAMES = {"README.md", "index.md", "reading-growth-map.md"}
+# Stems that stay off the home-page "最近添加" cards (adult / private notes).
+_RECENT_EXCLUDED_STEMS = {"adult-intimacy-oral"}
 _RECENT_CATEGORY_LABELS = {
     "tv-series": "美剧与影视",
     "english-song": "英文歌曲",
@@ -364,6 +366,7 @@ def _recent_markdown_files(repo_root: Path, docs_dir: Path, limit: int = 6):
         if (
             not path.is_file()
             or path.name in _RECENT_EXCLUDED_NAMES
+            or path.stem in _RECENT_EXCLUDED_STEMS
             or "transcript" in parts
             or rel.startswith(f"{SPEECH_DIR_NAME}/")
         ):
