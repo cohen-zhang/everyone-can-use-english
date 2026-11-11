@@ -42,6 +42,7 @@ cssclasses:
 - [[learning-notes/personal-english-book/life/romantic-love-song-phrases|浪漫情歌与恋爱口语]] — KTV 情歌、恋爱叙事、**kiss** 用法
 - [[learning-notes/personal-english-book/life/classic-film-love-and-like-quotes|经典电影 · 爱与喜欢台词]] — 泰坦尼克号、怦然心动、杀手不太冷等奥斯卡级对白
 - [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] — 成人情绪表达（与亲子版对照）
+- [[learning-notes/personal-english-book/life/adult-intimacy-oral|亲密 · 成人口播]] — 成人跟读；高潮、往外挤、常见误区（不和孩子一起读）
 - [[learning-notes/personal-english-book/life/body part👀_20260514_2050.md|Body Part 词表（197，含笔记）]] — 身体部位/内脏/症状词汇分类复习
 - [[learning-notes/personal-english-book/life/body-part-stories.md|Body Part 主题故事集]] — 按分类词表生成的主题故事（英 + 简中）
 - [[learning-notes/personal-english-book/life/introduce-myself.md|自我介绍]] — 自我介绍结构与例句
@@ -180,6 +181,7 @@ cssclasses:
 - **节日（活动 + 祝福 + 名言 ↔ 剧摘祝福 ↔ 主题名言）：** [[learning-notes/personal-english-book/life/holiday-activities-blessings-and-quotes.md|节日活动、祝福语与名言]] ↔ [[learning-notes/tv-series/modern-family/s01/notes/parenting-praise-and-blessings.md|摩登家庭 · 夸奖与祝福]] ↔ [[learning-notes/parenting-english/reference-guides/classic-quotes-love-reading-inspiration-health|爱情 / 阅读 / 励志 / 健康名言]]。
 - **财富祝福 ↔ 金融词表：** [[learning-notes/personal-english-book/work/wealth-rise-blessing-captions|财富上涨祝福字幕]] ↔ [[learning-notes/personal-english-book/work/金融和商务💰_20260514_2037|金融和商务词表]]（11 句原版 ↔ 30 词扩充）。
 - **情绪 成人版 ↔ 亲子版：** [[learning-notes/personal-english-book/life/emotions-adult-edition.md|情绪 — 成人版]] ↔ [[learning-notes/parenting-english/daily-life/parenting-emotions-kids-edition.md|情绪 — 亲子版]]。
+- **亲密口播 ↔ 快乐激素：** [[learning-notes/personal-english-book/life/adult-intimacy-oral|亲密 · 成人口播]] ↔ [[learning-notes/personal-english-book/mind-body-brain-health/brain-happy-hormones|大脑快乐激素]]（高潮在大脑 ↔ 催产素与亲密）。
 - **语音教程 ↔ 速查 ↔ 音节重音：** [[learning-notes/pronunciation/english-phonetics-textbook|英文语音完整教程]] · [[learning-notes/pronunciation/phonetics-input-guide|音标输入指南]] ↔ [[learning-notes/pronunciation/engineer-phonetics-reference|工程师音标速查]] ↔ [[learning-notes/pronunciation/syllable-division-ipa-based|音节划分与重音 · IPA]]（见 [[learning-notes/pronunciation/README|发音资料索引]]）。
 - **Java 日记 ↔ 工作笔记本：** [[learning-notes/personal-english-book/study/java-developer-work-diary.md|Java 开发者日记]] ↔ [[learning-notes/personal-english-book/study/macbook-pro-m4-java-developer-work-partner.md|MacBook Pro · Java 工作伙伴]]。
 - **集合框架 ↔ 排序算法 ↔ demo 桥接：** [[learning-notes/personal-english-book/study/java-collections-framework|Collections Framework]] ↔ [[learning-notes/personal-english-book/study/sorting-algorithms|Sorting Algorithms]] ↔ [[learning-notes/personal-english-book/study/awesome-java-demo-bridge|awesome-java-demo bridge]]。

@@ -93,6 +93,7 @@ mindmap
 | **May I have some water, please?** | 我可以喝点水吗？ | [[learning-notes/parenting-english/daily-life/parenting-table-manners-daily-phrases.md\|餐桌礼仪]] |
 | **Can you point to the [item]?** | 你能指一下这个东西吗？ | [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md\|Jeff 演示风格指南]] |
 | **Can you try again?** | 你能再试一次吗？ | [[learning-notes/parenting-english/communication-patterns/parenting-can-you-prompts.md\|Can you 提示句]] |
+| **Ask Daddy if I can have some ice cream.** | 问问爸爸我能不能吃冰淇淋。请别人去问用 **Ask … if**；自己问用 **Can I …?** | [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E27.Not.Very.Well|佩奇 S01E27 · Ask … if]] |
 
 ---
 
@@ -306,7 +307,7 @@ mindmap
 
 ## 快速复用模板
 
-- **能力/请求：** Can you ___? / May I ___?
+- **能力/请求：** Can you ___? / May I ___? / Ask ___ if I can ___.
 - **状态/感受：** Are you ___? / How are you feeling?
 - **选择题：** Do you want A or B? / Which ___ do you want?
 - **追问思路：** What happened? / Why did you choose that?
@@ -329,3 +330,4 @@ mindmap
 - [[learning-notes/parenting-english/reference-guides/parenting-jeff-demo-guide.md|Jeff 演示风格指南]]
 - [[learning-notes/tv-series/peppa-pig/s01/scripts/peppa-pig-s01-question-bank-by-category|Peppa Pig S01 问句清单（同款分类，取自动画台词）]]
 - [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E18.Mummy.Pigs.Birthday|佩奇 S01E18 · 猪妈妈的生日]] — 本页 **§1 时态** 的本集问句与时态跟读
+- [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E27.Not.Very.Well|佩奇 S01E27 · 不太舒服]] — **says that** 转述，以及 **Ask … if** 请人去问

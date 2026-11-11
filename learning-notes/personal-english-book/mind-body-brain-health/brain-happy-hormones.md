@@ -17,6 +17,7 @@ aliases:
 
 **相关（扩展）：**
 - [[learning-notes/personal-english-book/life/emotions-adult-edition|情绪 — 成人版]] — 情绪档位与场景表达（与本页「稳定情绪 / 奖赏感」对照）
+- [[learning-notes/personal-english-book/life/adult-intimacy-oral|亲密 · 成人口播]] — 成人跟读；高潮起于大脑（与本页催产素、亲密对照）
 - [[learning-notes/personal-english-book/mind-body-brain-health/fitness-daily-expressions|健身日常]] — 晒太阳、维生素 D、运动跟读句
 - [[learning-notes/personal-english-book/mind-body-brain-health/nutrition-weight-management-basics|饮食与体重管理基础]] — 健康饮食、营养素与餐盘习惯
 - [[learning-notes/personal-english-book/parenting-self-talk-phrases|家长自说自话用语]] — 脑科学证据（神经可塑性、皮质醇）

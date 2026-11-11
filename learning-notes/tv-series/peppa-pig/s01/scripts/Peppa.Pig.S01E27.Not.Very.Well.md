@@ -1,6 +1,6 @@
 **S1-27 not very Well**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**not very / a little**、**亲子讲解** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**not very / a little**、**says that / Ask … if**、**亲子讲解** 是这一集的跟读版。
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *How do you feel?* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u01-how-do-we-feel|三上 U1 · 感觉]]。
 
@@ -213,7 +213,7 @@ This is my little brother, George.
 | **rash** | /ræʃ/ | 疹子 | *got a rash* | *It is only a rash.* — 只是疹子。 | 亲子 |
 | **doctor** | /ˈdɑktər/ | 医生 | *Has the doctor been?* | *The doctor will come.* — 医生会来。 | 亲子 |
 | **tongue** | /tʌŋ/ | 舌头 | *Stick your tongue out* | *Show me your tongue.* — 让我看看你的舌头。 | 亲子、本季已见 |
-| **serious** | /ˈsɪriəs/ | 严重的 | *not anything serious* | *It is not serious.* — 不严重。 | 亲子 |
+| **serious** | /ˈsɪriəs/ | 严重的 | *not anything serious* | *It is not serious.* — 不严重。 What are you talking about? Are you serious? 开什么国际玩笑？你当真的吗？ | 亲子 |
 | **medicine** | /ˈmɛdəsən/ | 药。眼药水是 **eye drops** | *a little medicine* | *Take your medicine.* — 把药吃了。 *Time for your eye drops.* — 该滴眼药水了。 | 亲子 |
 | **taste** | /teɪst/ | 味道 | *doesn't taste very nice* | *This medicine tastes bad.* — 这药很难吃。 | 亲子 |
 | **disgusting** | /dɪsˈɡʌstɪŋ/ | 难吃；恶心 | *Disgusting!* | *This tastes disgusting.* — 这个味道真难吃。 | 亲子 |
@@ -296,6 +296,33 @@ This is my little brother, George.
 | **a little bit** 一小会儿 | *You must stay in bed for a little bit.* | *Rest on the sofa for a little bit.* — 在沙发上歇一小会儿。 |
 | **a little bit** 回答「好一点了吗」 | *A little bit.* | *I feel a little bit better.* — 我好了一点点。 |
 | **a little bit more** 再多一会儿 | *I think I should stay in bed a little bit more.* | *I should rest a little bit more.* — 我该再歇一小会儿。 |
+
+## 亲子句式 · says that 与 Ask … if
+
+这一集有两套家里天天用的句式。先跟本集原句，再换一句家里的话。
+
+### says that · 转述别人的话
+
+**says that** 是现在还这么规定。**said … and that …** 是已经说过，而且说了两件事。第二个 **that** 别省，不然听起来像后半句是自己补的。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **says that** 现在还这么说 | *Dr. Brown Bear says that you must stay in bed for a little bit.* | *Daddy says that you must finish your soup.* — 爸爸说你得把汤喝完。 |
+| **says that** 许可 | *Dr. Brown Bear did say you could have visitors.* | *Mummy says that you can have one visitor.* — 妈妈说你可以有一个来看你的人。 |
+| **said … and that** 两件事 | *He said I was not very well and that I was very brave.* | *The doctor said I was not very well and that I was very brave.* — 医生说我不太舒服，还说我很勇敢。 |
+| **said … and that** 换场景 | 同上 | *Grandma said the soup was hot and that I should wait.* — 奶奶说汤很烫，还说我该等一等。 |
+
+**said** 后面用 **was**，因为是在转述已经说过的话。对着 Celine 复述医生的话，就说 *The doctor said you were very brave.*
+
+### Ask … if · 请别人去问
+
+自己问，直接说 **Can I …?** 请旁边的人去问另一个人，用 **Ask + 人 + if**。本集的 **could** 是请朋友传话时的客气说法；家里直接传话，用 **can** 就够。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **Ask … if** 请人去问 | *Ask my mummy if I could have some ice cream.* | *Ask Daddy if I can have some ice cream.* — 问问爸爸我能不能吃冰淇淋。 |
+| **Ask … if** 再待一会儿 | 同上 | *Ask Grandma if we can stay a little bit more.* — 问问奶奶我们能不能再待一小会儿。 |
+| **Can I** 自己问 | 本集没有这句 | *Can I have some ice cream?* — 我能吃冰淇淋吗？ |
 
 ## 亲子讲解 · rash、catching、fancy
 
