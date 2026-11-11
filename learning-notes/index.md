@@ -21,6 +21,8 @@ hide:
 <div class="home-actions" markdown>
 
 [开始亲子英语 :material-arrow-right:](parenting-english/README.md){ .md-button .md-button--primary }
+[Peppa Pig S01 :material-arrow-right:](tv-series/peppa-pig/s01/README.md){ .md-button .md-button--primary }
+[Modern Family :material-arrow-right:](tv-series/modern-family/README.md){ .md-button .md-button--primary }
 [个人阅读计划](personal-reading.md){ .md-button }
 [阅读成长地图](reading-growth-map.md){ .md-button }
 [动物记忆探险](parenting-english/games-and-activities/animal-puzzle.md){ .md-button }
@@ -125,7 +127,7 @@ hide:
 | 发音 | [完整教程](pronunciation/english-phonetics-textbook.md) · [句子节奏](pronunciation/sentence-rhythm-by-type.md) · [工程师音标速查](pronunciation/engineer-phonetics-reference.md) · [音标输入](pronunciation/phonetics-input-guide.md) |
 | 语法 | [语言单位分类](grammar-lab/english-language-taxonomy.md) · [语法体系总览](grammar-lab/english-grammar-system-overview-yingyutu.md) |
 | 歌曲 | [音乐基础](english-song/music-english-song-basics.md) · [儿歌 · 亲子](english-song/celine-kids/README.md) |
-| 影视 | [看电影学英语](tv-series/how-to-learn-english-from-movies.md) · [美剧台词学英语](tv-series/美剧学英语.md) · [Peppa](tv-series/peppa-pig/README.md) · [摩登家庭](tv-series/modern-family/README.md) |
+| 影视 | [Peppa Pig S01](tv-series/peppa-pig/s01/README.md) · [Modern Family](tv-series/modern-family/README.md) · [看电影学英语](tv-series/how-to-learn-english-from-movies.md) · [美剧台词学英语](tv-series/美剧学英语.md) |
 
 ## 外部资源
 

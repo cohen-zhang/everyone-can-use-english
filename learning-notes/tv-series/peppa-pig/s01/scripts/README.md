@@ -104,73 +104,9 @@ python3 scripts/peppa_adult_vocab_curate.py --lemma-zh
 
 ---
 
-## 剧集索引（MOC · 链接到本目录内文件）
+## 剧集索引
 
-以下为 Obsidian 兼容的 `[[wikilink]]`（库根包含本目录且笔记名唯一时生效）；否则请改用相对路径 `[[./Peppa.Pig.S01E01.Muddy.Puddles|Peppa.Pig.S01E01.Muddy.Puddles]]` 等。
-
-### S01E01–E13
-
-- [[Peppa.Pig.S01E01.Muddy.Puddles]]
-- [[Peppa.Pig.S01E02.Mr.Dinosaur.is.Lost]]
-- [[Peppa.Pig.S01E03.Polly.Parrot]]
-- [[Peppa.Pig.S01E04.Best.Friend]]
-- [[Peppa.Pig.S01E05.Hide.and.Seek]]
-- [[Peppa.Pig.S01E06.The.Playgroup]]
-- [[Peppa.Pig.S01E07.Mummy.Pig.at.Work]]
-- [[Peppa.Pig.S01E08.Camping]]
-- [[Peppa.Pig.S01E09.Gardening]]
-- [[Peppa.Pig.S01E10.Bicycles]]
-- [[Peppa.Pig.S01E11.The.New.Car]]
-- [[Peppa.Pig.S01E12.Snow]]
-- [[Peppa.Pig.S01E13.Flying.a.Kite]]
-
-### S01E14–E26
-
-- [[Peppa.Pig.S01E14.My.Cousin.Chloe]]
-- [[Peppa.Pig.S01E15.Daddy.Loses.his.Glasses]]
-- [[Peppa.Pig.S01E16.Hiccups]]
-- [[Peppa.Pig.S01E17.Picnic]]
-- [[Peppa.Pig.S01E18.Mummy.Pigs.Birthday]]
-- [[Peppa.Pig.S01E19.Dressing.Up]]
-- [[Peppa.Pig.S01E20.The.School.Fete]]
-- [[Peppa.Pig.S01E21.Musical.Instruments]]
-- [[Peppa.Pig.S01E22.Babysitting]]
-- [[Peppa.Pig.S01E23.New.Shoes]]
-- [[Peppa.Pig.S01E24.Ballet.Lesson]]
-- [[Peppa.Pig.S01E25.The.Tooth.Fairy]]
-- [[Peppa.Pig.S01E26.Treasure.Hunt]]
-
-### S01E27–E39
-
-- [[Peppa.Pig.S01E27.Not.Very.Well]]
-- [[Peppa.Pig.S01E28.Windy.Castle]]
-- [[Peppa.Pig.S01E29.Pancakes]]
-- [[Peppa.Pig.S01E30.The.Museum]]
-- [[Peppa.Pig.S01E31.Secrets]]
-- [[Peppa.Pig.S01E32.Thunderstorm]]
-- [[Peppa.Pig.S01E33.Piggy.in.the.Middle]]
-- [[Peppa.Pig.S01E34.Fancy.Dress.Party]]
-- [[Peppa.Pig.S01E35.Very.Hot.Day]]
-- [[Peppa.Pig.S01E36.Mister.Skinnylegs]]
-- [[Peppa.Pig.S01E37.Lunch]]
-- [[Peppa.Pig.S01E38.Sleepy.Princess]]
-- [[Peppa.Pig.S01E39.The.Tree.House]]
-
-### S01E40–E52
-
-- [[Peppa.Pig.S01E40.Daddy.Gets.Fit]]
-- [[Peppa.Pig.S01E41.Shopping]]
-- [[Peppa.Pig.S01E42.Chloes.puppet.show]]
-- [[Peppa.Pig.S01E43.My.Birthday.Party]]
-- [[Peppa.Pig.S01E44.The.Playground]]
-- [[Peppa.Pig.S01E45.Tidying.Up]]
-- [[Peppa.Pig.S01E46.Frogs.and.Worms.and.Butterflies]]
-- [[Peppa.Pig.S01E47.Daddy.Puts.up.a.Picture]]
-- [[Peppa.Pig.S01E48.At.the.Beach]]
-- [[Peppa.Pig.S01E49.Cleaning.the.Car]]
-- [[Peppa.Pig.S01E50.Grandpa.Pigs.Boat]]
-- [[Peppa.Pig.S01E51.Daddys.Movie.Camera]]
-- [[Peppa.Pig.S01E52.The.School.Play]]
+52 集名单在 [[learning-notes/tv-series/peppa-pig/s01/README|第一季剧集列表]]。本页只保留剧本目录的维护说明。
 
 ---
 

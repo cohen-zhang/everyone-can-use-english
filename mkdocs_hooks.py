@@ -990,6 +990,57 @@ _NAV_SECTION_TITLES = {
 }
 
 
+# Visible order under 美剧与影视. Everything else keeps MkDocs' own order.
+_TV_SERIES_FRONT = (
+    "peppa-pig",
+    "modern-family",
+    "a-day-in-the-life-of-jeff",
+)
+
+
+def _nav_child_folder(item) -> str | None:
+    """Folder slug for a nav section, or None for a loose page."""
+    if not getattr(item, "children", None):
+        return None
+    path = _section_dir_path_from_children(item)
+    return path[-1] if path else None
+
+
+def _reorder_section_children(children, front_slugs: tuple[str, ...]) -> None:
+    """Keep the section index first, then the named folders, then the rest."""
+    indexes = []
+    front = {slug: [] for slug in front_slugs}
+    rest = []
+    for child in list(children):
+        if not getattr(child, "children", None) and (
+            getattr(child, "is_index", False) or _is_section_index_page(child)
+        ):
+            indexes.append(child)
+            continue
+        slug = _nav_child_folder(child)
+        if slug in front:
+            front[slug].append(child)
+        else:
+            rest.append(child)
+    ordered = indexes
+    for slug in front_slugs:
+        ordered.extend(front[slug])
+    ordered.extend(rest)
+    children[:] = ordered
+
+
+def _reorder_tv_series_nav(items) -> None:
+    for item in items or []:
+        children = getattr(item, "children", None)
+        if not children:
+            continue
+        if _section_dir_path_from_children(item) == ["tv-series"]:
+            _reorder_section_children(children, _TV_SERIES_FRONT)
+        _reorder_tv_series_nav(children)
+
+
 def on_nav(nav, config, files, **kwargs):
-    _rename_nav_sections(getattr(nav, "items", None) or nav)
+    items = getattr(nav, "items", None) or nav
+    _reorder_tv_series_nav(items)
+    _rename_nav_sections(items)
     return nav

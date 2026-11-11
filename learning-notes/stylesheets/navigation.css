@@ -57,3 +57,47 @@
 .md-tabs__link--active {
   font-weight: 700;
 }
+
+/* Peppa S01 episode index: four columns, two on a phone. */
+.md-typeset .episode-index > ul {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.55rem;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.md-typeset .episode-index > ul > li {
+  margin: 0;
+  min-width: 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  padding: 0.55rem 0.7rem 0.5rem;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .episode-index > ul > li a {
+  overflow-wrap: anywhere;
+}
+
+.md-typeset .episode-index > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .episode-index > ul > li p {
+  margin: 0.12rem 0 0;
+}
+
+.md-typeset .episode-index > ul > li p + p,
+.md-typeset .episode-index > ul > li em {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  font-style: normal;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .episode-index > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
