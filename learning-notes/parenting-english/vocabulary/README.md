@@ -5,6 +5,7 @@
 ## 本夹文件
 
 - [[learning-notes/parenting-english/vocabulary/color|color]]
+- [[learning-notes/parenting-english/vocabulary/math|math]] — 小学生数学词；含计算器 **CE / AC**
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab-extended-routines|parenting-actions-vocab-extended-routines]]
 - [[learning-notes/parenting-english/vocabulary/parenting-actions-vocab|parenting-actions-vocab]]
 - [[learning-notes/parenting-english/vocabulary/parenting-animals-vocab|parenting-animals-vocab]]

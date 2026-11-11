@@ -16,6 +16,8 @@ tags:
 
 **相关：** 泛化的**职业与角色**、扮装游戏用词 → [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab|职业与角色 — Jobs, Roles & Pretend Play]]（与此页相向互链；此处侧重**在校与老师**，彼处侧重**职位与过家家**）。
 
+**相关：** 数学课里加减乘除、分数、计算器 **CE / AC** → [[learning-notes/parenting-english/vocabulary/math|数学词汇]]（与此页相向互链；此处讲科目名，彼处讲做题口语）。
+
 **相关：** 电动两轮车**接送学与校门口停泊**：[[learning-notes/parenting-english/daily-life/parenting-china-ebike-school-run-phrases.md|中国电动自行车接送小孩（校门通勤）]]。（与此页相向互链：课表与时间用语见本节，路口安全与停泊寒暄见其「骑行 / 校门」段落。）
 
 **相关：** **学科分篮归类**（含小学科目、自然科学 physics/chemistry/biology、人文社科 philosophy/economics/psychology、大学门类）— [[learning-notes/parenting-english/games-and-activities/parenting-category-classification-game#5-学科与在校--school-subjects|分类归类游戏 · 学科]]（与此页相向互链）。

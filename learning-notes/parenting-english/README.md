@@ -53,6 +53,7 @@ aliases:
 - [[learning-notes/parenting-english/vocabulary/parenting-china-fruits-common-vocab.md|中国常见水果]] — 超市买水果、洗切水果、水果口味
 - [[learning-notes/parenting-english/vocabulary/parenting-china-snacks-drinks-vocab.md|中国常见零食与饮品]] — 零食、面包蛋糕、咖啡奶茶中国茶、控制零食
 - [[learning-notes/parenting-english/vocabulary/color.md|颜色]] — 基础／进阶色、深浅、亲子认色句与习语
+- [[learning-notes/parenting-english/vocabulary/math.md|数学]] — 四则、数位、分数小数、测量；计算器 **CE / AC**
 - [[learning-notes/parenting-english/vocabulary/parenting-countries-continents-oceans-vocab.md|国家与大洋]] — 地理名词
 - [[learning-notes/parenting-english/vocabulary/parenting-emoji-bilingual-vocab.md|表情符号双语]] — emoji 说法
 - [[learning-notes/parenting-english/vocabulary/parenting-jobs-roles-vocab.md|职业与角色]] — 工作、扮装

@@ -18,7 +18,7 @@ aliases:
 **册目录：** [[learning-notes/parenting-english/shanghai-english-textbook/grade-4-volume-1-toc|四年级上册目录]]  
 **总索引：** [[learning-notes/parenting-english/README|亲子英文材料索引]]
 
-**扩展：** [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]]
+**扩展：** [[learning-notes/parenting-english/vocabulary/parenting-symbols-common-vocab|常见符号]] · [[learning-notes/parenting-english/vocabulary/math|数学词汇（含 CE / AC）]]
 
 **扩展：** [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E30.The.Museum|佩奇 S01E30 · 博物馆]] — *How many tickets, please?*，打开 **亲子问句 · 博物馆是什么**。
 
