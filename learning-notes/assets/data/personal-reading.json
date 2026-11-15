@@ -256,6 +256,10 @@
         {
           "date": "2026-10-21",
           "result": "good"
+        },
+        {
+          "date": "2026-11-12",
+          "result": "good"
         }
       ]
     },
@@ -346,6 +350,38 @@
       "history": [
         {
           "date": "2026-11-03",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "peppa-s01e12-snow",
+      "title": "Peppa Pig S01E12 · Snow",
+      "url": "tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E12.Snow/",
+      "category": "亲子英语",
+      "status": "active",
+      "priority": "normal",
+      "added": "2026-11-11",
+      "note": "亲子阅读复习；下雪、穿暖和、雪地脚印与堆雪人。",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "result": "good"
+        }
+      ]
+    },
+    {
+      "id": "peppa-s01e27-not-very-well",
+      "title": "Peppa Pig S01E27 · Not Very Well",
+      "url": "tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E27.Not.Very.Well/",
+      "category": "亲子英语",
+      "status": "active",
+      "priority": "normal",
+      "added": "2026-11-11",
+      "note": "亲子阅读复习；描述身体不适、联系医生与休息。",
+      "history": [
+        {
+          "date": "2026-11-11",
           "result": "good"
         }
       ]

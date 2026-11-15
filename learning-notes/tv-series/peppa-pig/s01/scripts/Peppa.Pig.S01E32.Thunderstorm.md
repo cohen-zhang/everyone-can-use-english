@@ -256,6 +256,75 @@ SpIish, splash, spiosh, spiish!
 - **Don't be frightened.** — 别害怕。
 - **Let's count.** — 我们一起来数。
 
+## 亲子句式 · before、It means、What do you say、had better、the 比较级
+
+这一集有五套家里天天用的句式，正好都在雷雨最急的那几句里。每一行先跟本集原句，再换一句家里的话。
+
+### before · 赶在什么之前
+
+**before** 后面接一整句（*before the rain starts*），讲的是还没发生的事，所以用**一般现在时**，不用 **will**。前面可以跟命令句连用（*Quick! Into the house …*），不加主语。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **命令句 + before + 一般现在时** | *Quick! Into the house before the rain starts!* | *Come in before it rains.* — 下雨前进屋。 |
+| **before + 一般现在时** 表将来 | 同上 | *Wash your hands before you eat.* — 吃饭前洗手。 |
+| **before** 催一句 | 同上 | *Put on your shoes before we go out.* — 出门前把鞋穿上。 |
+| **before + 名词** 剩多少时间 | *plenty of time before it rains* | *We have ten minutes before the bell.* — 上课铃响前我们还有十分钟。 |
+
+对着 Celine 最容易说错的是 **before the rain will start**。她想的是「将来的雨」，但 before 后面一律拉回现在时：*before it rains*、*before the film starts*、*before Daddy comes home*。
+
+### It means · 解释这意味着什么
+
+**It means** 用来解释刚听见的那件事意味着什么，**it** 指的就是上一句说的东西（这里是那声 *bang*）。后面接完整的一句，**that** 可省。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **It means + 从句** | *It means there will be a thunderstorm with lots of rain.* | *It means we can't go out.* — 意思是我们不能出去了。 |
+| **It means + 名词** | 同上 | *It means no swimming today.* — 意思是今天不能游泳。 |
+| **What does it mean?** 回问 | 本集没有这句 | *What does that word mean?* — 那个词什么意思？ |
+| **Does that mean …?** 确认 | 本集没有这句 | *Does that mean we stay at home?* — 那是说我们待家里吗？ |
+
+这个词正好接上前面的「亲子讲解」——你解释词汇时说的 *Frightened means you feel scared*，和 Peppa 这里的 *It means there will be a thunderstorm*，是同一条路子：先把不懂的那个点拎出来，再拿一句完整的话顶上。
+
+### What do you say? · 提词说谢谢
+
+别人递东西过来，家长不直接命令 *Say thank you*，而是抛一句 **What do you say?**，让孩子自己把话接上。孩子答 **Thank you very much**，递东西的人回 **You're welcome**。这一集 Peppa 拿 Teddy 和 Mr. Dinosaur 演了两遍。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **What do you say?** 提词 | *Here's some orange juice for you, Teddy. What do you say?* | *Here's your snack. What do you say?* — 给你点心，该说什么？ |
+| **Thank you very much.** 回应 | *Thank you very much, Peppa!* | *Thank you very much, Mummy.* — 非常感谢。 |
+| **You're welcome.** 回礼 | *You are very welcome, Teddy.* | *You're welcome.* — 不客气。 |
+| **What did you say?** 没听清 | 本集没有这句 | *What did you say?* — 你说什么？ |
+
+**What do you say?** 和 **What did you say?** 只差一个时态，意思完全不同：前者是「这时候该说什么」，后者是「刚才那句我没听清」。Celine 要是把这两句混了，就说 *What do you say means tell me your thank you. What did you say means I didn't hear you.*
+
+### had better · 最好怎样，不然来不及
+
+**You'd better** 是 **you had better** 的缩写，不是 would。后面直接跟**动词原形**，不带 to。意思是「最好这么做」，语气比 **should** 硬，暗含「不这么做就有麻烦」。时态表里已经有这一行，这里收的是它怎么换场景用。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **You'd better + 动词原形** | *You'd better hurry, Daddy Pig. It's just about to rain!* | *You'd better hurry up.* — 你最好快一点。 |
+| **We'd better + 动词原形** 一起动身 | 同上 | *We'd better go now.* — 我们最好现在就走吧。 |
+| **had better not** 否定 | 本集没有这句 | *You'd better not go out.* — 你最好别出去。 |
+| **should** 对照（只是建议） | 本集没有这句 | *You should take an umbrella.* — 你带把伞吧。 |
+
+两处别说错：*You'd better to hurry* —— had better 后面不加 to；*You'd better hurry* 里的 **'d** 是 **had**，不是 *you would better*。要给孩子讲 should 和 had better 的差别，就说 *Should is a good idea. Had better means something bad happens if you don't.* —— should 是个好主意，had better 是不做就会出事。
+
+### the 比较级 …, the 比较级 … · 越怎样，就越怎样
+
+这一集 Mummy Pig 教孩子数数等雷：数得越高，说明雷雨越远。句子的骨架是**两个 the + 各自一个比较级**，前后都是完整的一句，两个 the 都不能省。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **the + 比较级 + 主谓, the + 比较级 + 主谓** | *The higher we can count, the further away the thunderstorm is.* | *The more you practise, the better you get.* — 练得越多，进步越大。 |
+| 口头省略主语 | 同上 | *The sooner, the better.* — 越快越好。 |
+| 换场景 | 同上 | *The darker it gets, the cooler it feels.* — 天越黑，越凉快。 |
+| 再接本集的 darker and darker | *The sky is getting darker and darker.* | *The more we read, the more we know.* — 读得越多，懂的越多。 |
+
+Celine 常丢掉第一个 the，说成 *More you practise, better you get*；两个 the 都要有。比较级本身也要对：*higher*、*further*（*farther* 也能用，意思一样）。这句话还顺带能讲点科学：先看见闪电再听见雷，中间隔几秒，就差不多是雷雨离你几英里远——数得越高，雷雨越远，数到十几就不用怕了。
+
 ## 亲子讲解 · thunder、frightened、soaking
 
 家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
