@@ -1,8 +1,8 @@
 **S1-13 flying a kite**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**quite / very / too**、**亲子讲解** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**quite / very / too / until**、**亲子讲解** 是这一集的跟读版。
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
-**相关：** *fly a kite* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。*windy* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。
+**相关：** *fly a kite* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u04-how-do-we-have-fun|三上 U4 · 怎么玩]]。*windy* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u07-what-do-we-know-about-weather|三上 U7 · 天气]]。本集词的反面（*strong* ↔ *weak*、*heavy* ↔ *light*、*fast* ↔ *slow*）见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏 · Opposites]]。
 
 ### Cold open · Intro（片头自我介绍）
 I'm Peppa Pig.
@@ -203,6 +203,21 @@ This is my little brother, George.
 | **suppose** | /səˈpoʊz/ | 那好吧 | *I suppose so* | *I suppose we can.* — 那好吧，可以。 | 亲子、有难度 |
 | **washing** | /ˈwɑʃɪŋ/ | 洗衣服 | *doing the washing* | *Who is doing the washing?* — 谁来洗衣服？ | 亲子 |
 
+### 反义对照 · 本集词的反面
+
+只收本集真用得上的对子，跟读时一句正、一句反。玩法见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏 · Opposites]]。
+
+| 本集词 | 反义 | 对照说一遍 |
+| --- | --- | --- |
+| **bright** 明亮的 | **dark** 暗的 | *The sky is bright. It's dark now.* — 天很亮／现在天黑了。 |
+| **fast** 快 | **slow** 慢 | *Run fast. Walk slow.* — 跑快点／走慢点。 |
+| **windy** 有风的 | **calm** 没风的 | *It's calm today, so the kite won't fly.* — 今天没风，风筝飞不起来。 |
+| **strong** 猛、大 | **weak** 弱 | *The wind is strong. That little fan is weak.* — 风很大／小风扇风很弱。 |
+| **higher** 更高 | **lower** 更低 | *Higher! Not lower.* — 高一点！别往下。 |
+| **heavy** 重 | **light** 轻 | *The rock is heavy. The kite is light.* — 石头重／风筝轻。 |
+| **further** 再过去一点 | **closer** 更近 | *The shop is further down the road. Come closer.* — 商店还得往前走／走近点。 |
+| **nonsense** 胡说 | **sense** 讲得通 | *That's nonsense. This makes sense.* — 那是胡说／这个讲得通。 |
+
 ## 亲子问句 · Questions you can ask
 
 这一集里，家长可以对 Celine 直接说的问句。先跟原句，再用「家里怎么换」换场景。
@@ -236,6 +251,13 @@ This is my little brother, George.
 | **might** | *You might get the kite stuck.* | *It might get stuck.* |
 | **现在完成时** | *Daddy Pig has got the kite caught in a tree.* | *It is caught in the tree.* |
 | **将来进行时** | *Daddy Pig is going to be doing the washing.* | *You are going to be doing the washing.* |
+| **until 时间状语从句** | *We'll just have to wait, until the wind picks up a bit.* | *We'll have to wait until the rain stops.* |
+
+**until 这一行的看点：** 主句是将来（**We'll** have to wait），从句里不用 will，直接用一般现在时 **the wind picks up**——「主将从现」。家里练的时候拿两件事对着说：
+
+- *We'll wait until Daddy comes home.* — 我们等到爸爸回家。（不说 *until Daddy will come home*）
+- *You can't go out until you finish your homework.* — 作业没写完不能出去。
+- *It won't start until you sit down.* — 你坐下才开始。
 
 跟读命令句，不另算一种时态：
 
@@ -256,7 +278,20 @@ This is my little brother, George.
 | **too** 太 | *You are much too heavy for that branch!* | *You are too heavy for that little chair.* — 你坐那把小椅子太重了。 |
 | **as much ... as** 一样 | *Jumping up and down in muddy puddles is just as much fun as flying the kite.* | *Puddles are as much fun as a kite.* — 水坑和风筝一样好玩。 |
 
-## 亲子讲解 · stuck、nonsense、windy
+### until · 先等着，直到……
+
+没风就只能干等。**until** 后面跟一个时间点或一个条件，意思是「一直等到……才」。这一集最值得跟读的一句就是风来之前的这句。
+
+| 句式 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **until** 直到……才 | *We'll just have to wait, until the wind picks up a bit.* | *We'll just have to wait until the rain stops.* — 我们只好等到雨停。 |
+| **have to wait** 只好等 | *We'll just have to wait.* | *You'll have to wait until I finish my call.* — 你得等我打完电话。 |
+| **pick up** （风）变大 | *until the wind picks up a bit* | *Wait until the wind picks up.* — 等到起风了再说。 |
+| **a bit** 一点点 | *the wind picks up a bit* | *Just a bit more.* — 再来一点点。 |
+
+**顺带：** 否定加 until 是「到……才」。本集是 if 条件句 *The kite won't fly if there isn't any wind*，换成 until 也说得通：*The kite won't fly until the wind comes.* — 风不来，风筝就飞不起来。
+
+## 亲子讲解 · stuck、nonsense、strong
 
 家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
 
@@ -290,16 +325,20 @@ This is my little brother, George.
 
 *Does that make sense?* — 这样讲得通吗？
 
-### windy
+### strong
 
-*Do you know the word windy?* — 你知道 windy 这个词吗？
+*Do you know the word strong?* — 你知道 strong 这个词吗？
 
-*Say it with me: windy.* — 跟我说：windy。
+*Say it with me: strong.* — 跟我说：strong。
 
-*Windy means there is a lot of wind.* — windy 是风很大。
+*Strong means it has a lot of power.* — strong 是劲儿大、力很大。
 
-*There's a difference between wind and windy.* — wind 是风，windy 是有风的。
+*We say the wind is strong.* — 我们说 the wind is strong，就是风很大。
 
-*For example, a windy day is good for kites.* — 比方说，有风的天适合放风筝。
+*There's a difference between strong and heavy.* — strong 说的是力气大，heavy 说的是分量重。
+
+*The opposite of strong is weak.* — strong 的反面是 weak。见 [[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|反义词游戏 · strong / weak]]。
+
+*For example, the wind is strong today.* — 比方说，今天风很大。
 
 *Does that make sense?* — 这样讲得通吗？
