@@ -1,6 +1,6 @@
 **ballet lesson**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**词性**、**比较**、**词义**、**用法**、**亲子讲解** 是这一集的跟读版。
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 
 Peppa is going to her first ballet lesson.
@@ -22,6 +22,8 @@ I’ll pick you up later.
 Bye,bye!
 
 Enjoy yourself!
+
+---
 
 Here are Peppa’s friends.
 
@@ -58,6 +60,8 @@ Peppa loves dancing!
 
 Everyone loves daning!
 
+---
+
 Mummy!Mummy!We all danced as swans!
 
 Peppa did very well!
@@ -73,6 +77,8 @@ Let’s get home first.
 Then you can show Daddy Pig,and George,and me.
 
 Byebye!
+
+---
 
 Peppa and Mummy Pig are home!
 
@@ -141,7 +147,7 @@ I am a beautiful swan!
 | **gracefully** | /ˈɡreɪsfəli/ | 优美地 | *dance beautifully and gracefully* | *She walks gracefully.* — 她走路很优美。 | 亲子 |
 | **bend** | /bɛnd/ | 弯曲 | *bending your knees* | *Don't bend the book.* — 别把书折弯。 | 亲子 |
 | **knee** | /ni/ | 膝盖 | *bending your knees* | *Your knees are muddy.* — 你的膝盖上有泥。 | 亲子 |
-| **copy** | /ˈkɑpi/ | 照着做 | *copy what I do* | *Copy the first step.* — 照着做第一步。 | 亲子、本季已见 |
+| **copy** | /ˈkɑpi/ | 照着做。S01E03 鹦鹉学舌也是这个词，见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E03.Polly.Parrot\|S01E03 · 波莉鹦鹉]] | *copy what I do* | *Copy the first step.* — 照着做第一步。 | 亲子、本季已见 |
 
 ### 回到家
 
@@ -149,6 +155,7 @@ I am a beautiful swan!
 | --- | --- | --- | --- | --- | --- |
 | **pas de deux** | /ˌpɑ də ˈdɜ/ | 双人舞（法语） | *Our favorite was the pas de deux* | *A pas de deux needs two people.* — 双人舞要两个人。 | 亲子、低频 |
 | **pick up** | /pɪk ʌp/ | 接走 | *I'll pick you up later* | *I will pick you up at four.* — 我四点来接你。 | 亲子、本季已见 |
+| **difficult** | /ˈdɪfɪkəlt/ | 难的。等于 *very hard* | *Is it difficult?* | *Is it difficult for you?* — 这对你难吗？ | 亲子、同义 |
 
 ## 亲子问句 · Questions you can ask
 
@@ -188,7 +195,66 @@ I am a beautiful swan!
 - **Raise your arms.** — 举起手臂。
 - **Copy what I do.** — 照我这样做。
 
-## 亲子讲解 · plié、pupil、imagine
+## 词性 · beautifully、gracefully 与 grace、beauty
+
+老师说 *Grace and beauty!*，Peppa 回家说 *I had to dance beautifully and gracefully!* 两句里是同一组词的两种词性：*grace*、*beauty* 是名词，*beautifully*、*gracefully* 是副词。副词说「怎么跳」，修饰动词 *dance*。
+
+| 词性 | 词 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| 名词 · noun | **grace**、**beauty** | *Grace and beauty!* | *Dance with grace and beauty.* — 跳得又优美又好看。 |
+| 形容词 · adjective | **beautiful**、**graceful** | *I am a beautiful swan!* | *You are a graceful dancer.* — 你是个优美的舞者。 |
+| 副词 · adverb | **beautifully**、**gracefully** | *I had to dance beautifully and gracefully!* | *Walk quietly and slowly.* — 轻轻地、慢慢地走。 |
+
+形容词加 **-ly** 变副词：*beautiful* → *beautifully*，*graceful* → *gracefully*。名词 *grace*、*beauty* 不加 *-ly*。
+
+- *dance*（动词）+ *beautifully and gracefully*（副词）— 优美地、优雅地跳。
+- *with* + *grace and beauty*（名词）— 带着优美和美感。
+
+## 比较 · good / better / best
+
+Peppa 跳完说 *I am the best at it!*。*best* 是 *good* 的最高级。三级放一起记：*good*（好）、*better*（更好）、*best*（最好）。
+
+| 形式 | 用法 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| 原级 **good** | 好 | *Mummy Pig and I used to be quite good at ballet.* | *You are good at drawing.* — 你画画很好。 |
+| 比较级 **better** | 更好，两者比 | 本集没说 | *You are better at running than me.* — 你跑步比我好。 |
+| 最高级 **best** | 最好，三者以上，前面加 *the* | *Yes, I am the best at it!* | *You are the best at singing.* — 你唱歌最棒。 |
+
+*be good at* 是「擅长」。比较级 *better* 常和 *than* 一起用；最高级 *best* 前面通常加 *the*。另一集也收了比较，见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E04.Best.Friend|S01E04 · best 和 more]]。
+
+## 词义 · fun 和 funny
+
+老师说 *The ballet lesson is a lot of fun!*，Peppa 说 *Madame Gazelle used funny words.* 两个词都带「好玩」的意思，但不是一回事：*fun* 是名词，「乐趣」；*funny* 是形容词，「好笑的」。
+
+| 词 | 词性 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| **fun** | 名词 · noun | *The ballet lesson is a lot of fun!* | *This game is a lot of fun.* — 这个游戏很好玩。 |
+| **funny** | 形容词 · adjective | *Madame Gazelle used funny words.* | *That is a funny story.* — 那是个好笑的故事。 |
+
+- *a lot of fun* — *fun* 前面常有 *a lot of* / *lots of*。
+- *funny words* — *funny* 放在名词前面，说这些词让人发笑。
+- *fun* 是「有乐趣」，*funny* 是「让人笑」，别混用。
+
+## 用法 · as（扮成）与 as swan 笔误
+
+Peppa 说 *We all danced as swans!*，这里的 **as** 是「扮成、作为」，后面直接接名词，意思是「扮成天鹅来跳」。台词里另一句 *as swan* 不是这个 as，是 **a swan** 的笔误（见下面）。
+
+| 用法 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **as** + 名词 · 扮成 | *We all danced as swans!* | *You can dance as a butterfly.* — 你可以扮成蝴蝶跳舞。 |
+| **as** + 名词 · 当……角色 | 本集没说 | *I act as the doctor.* — 我来当医生。 |
+
+*as swans* 是复数，前面不加 *a*；单数要说 *as a swan*。*as* 强调「扮成这个角色」，和 *like*（像）不完全一样：*dance as swans* 是扮成天鹅跳，*dance like swans* 是跳得像天鹅。
+
+### 笔误：as swan = a swan
+
+台词写成 *And what noise do you think as swan might make?* 这里 *as swan* 读不通，正确是 **a swan**（一只天鹅），整句是问「你觉得天鹅会发出什么声音」。前面 *Imagine that you are beautiful swans* 也是扮天鹅，能对上。
+
+*The script writes as swan. The words are a swan.* — 台词写成 as swan，正确是 a swan。
+*Notice that we say a swan, not as swan.* — 注意我们说 a swan，不是 as swan。
+*For example, what noise might a swan make?* — 比方说，天鹅会发出什么声音？
+
+## 亲子讲解 · plié、pupil、imagine、difficult
 
 家长对着 Celine 说英文。先问懂不懂，再用 *means*、*Notice that we say*、*There's a difference between* 解释。词组先问这句话听懂了吗。
 
@@ -231,5 +297,21 @@ I am a beautiful swan!
 *We say imagine you are a bird.* — 我们说 imagine you are a bird。
 
 *The script writes imaging. The word is imagine.* — 台词写成 imaging，正确是 imagine。
+
+*Does that make sense?* — 这样讲得通吗？
+
+### difficult
+
+*Do you know the word difficult?* — 你知道 difficult 这个词吗？
+
+*Say it with me: difficult.* — 跟我说：difficult。
+
+*Difficult means the same as very hard.* — difficult 就是很难，等于 very hard。
+
+*Daddy said it was very hard. That means difficult.* — 爸爸说 it was very hard，意思就是 difficult。
+
+*Notice that we say Is it difficult?* — 注意说 Is it difficult?（难吗？）
+
+*For example, is it difficult for you?* — 比方说，这对你难吗？
 
 *Does that make sense?* — 这样讲得通吗？
