@@ -221,7 +221,7 @@ This is my little brother, George.
 
 | Word | IPA (GA) | 简中 | 本集里的话 | 示例句 | 标签 |
 | --- | --- | --- | --- | --- | --- |
-| **castle** | /ˈkæsəl/ | 城堡 | *a castle on a very high hill* | *We can see a castle.* — 我们能看见一座城堡。 | 亲子、本季已见 |
+| **castle** | /ˈkæsəl/ | 城堡。也见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E38.Sleepy.Princess\|S01E38 · 贪睡公主]] 里的故事城堡 | *a castle on a very high hill* | *We can see a castle.* — 我们能看见一座城堡。 | 亲子、本季已见 |
 | **windy** | /ˈwɪndi/ | 风大的。这里也是城堡的名字 | *Windy Castle* | *It is windy today.* — 今天风很大。 | 亲子、本季已见 |
 | **hill** | /hɪl/ | 小山 | *a very high hill* | *The house is on a hill.* — 房子在小山上。 | 亲子 |
 | **view** | /vju/ | 风景；视野 | *a great view* | *The view is great.* — 风景很好。 | 亲子 |

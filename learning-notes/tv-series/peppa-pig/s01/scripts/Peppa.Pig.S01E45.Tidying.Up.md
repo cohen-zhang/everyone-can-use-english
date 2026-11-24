@@ -1,6 +1,6 @@
 **S1-45 Tidying Up**
 
-**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**亲子讲解** 是这一集的跟读版。
+**相关：** [[learning-notes/parenting-english/communication-patterns/parenting-question-bank-by-category|亲子问句分类清单 · 时态框架]]。下面 **亲子问句**、**时态**、**常用亲子句**、**量词**、**感叹句**、**亲子讲解** 是这一集的跟读版。
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *tidy up* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v2/u06-what-are-our-homes-like|三下 U6 · 家]]。  
 **相关：** *bedroom* / *sitting room* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-4-v1/u01-where-do-people-live|四上 U1 · 人们住在哪里]]。
@@ -224,13 +224,6 @@ And this is Daddy Pig.
 
 Peppa pig.
 
-The Playground!
-
-Peppa and George are at the Playground with their friends.
-
-Candy Cat and Pedro Pony are on the climbing frame.
-
-Suzy Sheep, Danny Dog, and Rebecca Rabbit
 
 ## Episode vocabulary（本集词汇）
 
@@ -243,8 +236,12 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 | **dinosaur** | /ˈdaɪnəˌsɔr/ | 恐龙 | 低频 |
 | **brontosaurus** | /ˌbrɔnəˈsɔrəs/ | 雷龙（蜥脚类恐龙） | 低频、拼写 |
 | **tyrannosaurus** | /tɪrænəˈsɔrəs/ | 霸王龙 | 低频、拼写 |
-| **untidy** | /ənˈtaɪdi/ | 不整洁 | 低频 |
+| **untidy** | /ənˈtaɪdi/ | 不整洁（*un-* = not，反义 **tidy**；详见 亲子讲解） | 低频 |
 | **tidying** | — | 收拾；整理 | 低频 |
+| **race** | /reɪs/ | 比赛；赛跑 | 亲子 |
+| **steady** | /ˈstɛdi/ | 稳的；*Ready, steady, go!* 是「预备——开始」 | 亲子 |
+| **on earth** | /ɑn ɜrθ/ | 究竟（放在疑问词后加强语气，如 *What on earth…?*） | 亲子、搭配 |
+| **carry on** | /ˈkæri ɑn/ | 继续（*carry on with your game*） | 亲子、词组 |
 
 ## 亲子问句 · Questions you can ask
 
@@ -279,6 +276,8 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 | **be going to** | *Mummy and I are going to win.* | *We are going to finish first.* — 我们会先收拾完。 |
 | **一般过去时** | *At least it was tidy for a bit.* | *The room was tidy for a little while.* — 房间整齐了一小会儿。 |
 | **must** | *So this must be one of George's lovely dresses.* | *This must be your doll's dress.* — 这一定是你娃娃的裙子。 |
+| **could** | *Someone could trip over and hurt themselves.* | *You could slip on the wet floor.* — 你可能会在湿地上滑倒。 |
+| **did**（强调） | *Someone did trip over and hurt themselves!* | *You did leave your shoes here.* — 你确实把鞋丢在这儿了。 |
 
 跟读命令句，不另算一种时态：
 
@@ -287,6 +286,65 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 - **Put Teddy in your toy basket.** — 把泰迪放进玩具筐。
 - **Put this back on the bookshelf.** — 把这个放回书架。
 - **Ready, steady, go.** — 预备，开始。
+
+### could 与 did：一个「可能」，一个「真的」
+
+这两句只差一个词，说的却是两件事：
+
+- *Someone **could** trip over and hurt themselves.* — 有人**可能**绊倒、伤到自己。（提醒风险，还没发生）
+- *Someone **did** trip over and hurt themselves!* — 有人**真的**绊倒、伤到自己了！（话音刚落，Daddy 自己就摔了）
+
+**could** 表推测、可能性，事情还没发生。**did** 是助动词 *do* 的过去式，放在动词前表示**强调「确实发生了」**，它后面的动词要用原形：*did trip*、*did hurt*，不是 *did tripped*。
+
+**themselves** 是反身代词，指 *someone*（某人自己）；换成具体的人就用 *himself* / *herself*。
+
+| 说法 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **could** 可能 | *Someone could trip over and hurt themselves.* | *You could slip on the wet floor.* — 你可能会在湿地上滑倒。 |
+| **did** 确实·强调 | *Someone did trip over and hurt themselves!* | *You did leave your shoes here.* — 你确实把鞋丢在这儿了。 |
+
+## 常用亲子句 · We can have a race / Is it really?
+
+两句都是家长可以直接拿来用的。**We can have a race** 把无聊的家务变成比赛；**Is it really?** 用反问表示「我有点不信」，常用来让孩子自己承认。
+
+| 本集原句 | 简中 | 家里怎么换 | 用在什么时候 |
+| --- | --- | --- | --- |
+| **We can have a race.** | 我们可以比一比。 | **We can have a race to the door.** — 我们比谁先到门口。 | 想让她快点收拾或穿鞋 |
+| **Is it really?** | 真的吗？ | **Is it really all your brother's mess?** — 这真是你弟弟弄乱的吗？ | 孩子把责任推给别人 |
+| **Let's see who can tidy up first.** | 看谁先收拾好。 | **Let's see who can put on shoes first.** — 看谁先穿好鞋。 | 配合比赛句一起用 |
+
+## 量词 · a bit of 与 a lot of
+
+Mummy 说 *Let's do a bit of tidying up.*，Daddy 说 *What a lot of noise!*。**a bit of** 是「一点儿」，**a lot of** 是「很多」。
+
+| 量词 | 接什么 | 本集原句 | 家里可替换 |
+| --- | --- | --- | --- |
+| **a bit of** 一点儿 | 不可数名词（tidying up、water、help） | *Let's do a bit of tidying up.* | *Just a bit of milk, please.* — 就来一点点牛奶。 |
+| **a bit** 有点儿 | 形容词 | 本集没说 | *I am a bit tired.* — 我有点儿累。 |
+| **a lot of** 很多 | 可数复数 / 不可数都行 | *What a lot of noise!* | *You have a lot of toys.* — 你有很多玩具。 |
+| **lots of** 很多 | 比 a lot of 更口语 | 本集没说 | *There are lots of books.* — 有很多书。 |
+
+- *a bit of* 后面一定跟名词；只说「有点儿累」用 *a bit tired*，不加 *of*。
+- *a lot of* 可数、不可数都能接；*lots of* 意思一样，更口语。
+- 同类词还有 *a few*（几个，可数）、*a little*（一点，不可数），见 [[learning-notes/grammar-lab/量词#anchor-fuzzy|量词实验室 · 模糊数量词]]。
+
+相关：[[learning-notes/grammar-lab/量词|量词实验室 · Quantifiers & Partitives]]、[[learning-notes/parenting-english/vocabulary/parenting-china-food-common-vocab|亲子食物词表]]（*a bit of rice* / *milk* 这类说法）。
+
+## 感叹句 · What a …!
+
+本集有两句感叹：*What a lot of noise!* 和 *What a tidy room!* 基本结构是 **What a +（形容词）+ 名词 +（主语 + be）!**，后半句常省掉。
+
+| 句型 | 本集原句 | 家里可替换 |
+| --- | --- | --- |
+| **What a** + 形容词 + 名词 | *What a tidy room!* | *What a clean table!* — 好干净的桌子！ |
+| **What a lot of** + 名词 | *What a lot of noise!* | *What a lot of toys!* — 好多玩具！ |
+| **What a** + 形容词 + 名词 + 主谓 | 本集没说 | *What a big mess you made!* — 你弄得好乱！ |
+
+- 只有「可数单数」名词前才加 *a*：*What a tidy room!*
+- 复数或不可数不加 *a*，直接用 *What + 形容词 + 名词!*：*What lovely weather!*、*What noisy children!*
+- *What a lot of…* 里的 *a* 属于 *a lot of*，不是给后面名词加的。
+
+S01E03 也讲了这个句式，见 [[learning-notes/tv-series/peppa-pig/s01/scripts/Peppa.Pig.S01E03.Polly.Parrot|S01E03 · What a]]。
 
 ## 亲子讲解 · untidy、bookshelf、tidy up
 
@@ -305,6 +363,46 @@ Suzy Sheep, Danny Dog, and Rebecca Rabbit
 *We say the room is untidy.* — 我们说 the room is untidy。
 
 *Does that make sense?* — 这样讲得通吗？
+
+#### 同一类反义：un- 家族
+
+*un-* 加在形容词前面就变成相反的意思，词性不变：*tidy* 是形容词，*untidy* 还是形容词。下面这些 un- 词在本仓库其它笔记里都出现过，可以拿来和 Celine 对着练一句话反义。
+
+| 反义对 | 简中 | 出处 | 家里可替换 |
+| --- | --- | --- | --- |
+| **tidy** ↔ **untidy** | 整齐 ↔ 不整齐 | 本集 *the room is untidy* | *Your desk is untidy. Let's tidy it up.* — 你的书桌不整齐，我们收拾一下。 |
+| **happy** ↔ **unhappy** | 开心 ↔ 不开心 | Modern Family S02E06 *She was so unhappy.* | *You look unhappy. What's wrong?* — 你看起来不开心，怎么了？ |
+| **fair** ↔ **unfair** | 公平 ↔ 不公平 | Modern Family S02E15 *It's so unfair.* | *It's unfair to blame your brother.* — 怪弟弟不公平。 |
+| **friendly** ↔ **unfriendly** | 友好 ↔ 不友好 | Zootopia *He's unfriendly.* | *That dog looks unfriendly. Let's stay back.* — 那只狗看起来不友好，我们离远点。 |
+| **true** ↔ **untrue** | 真的 ↔ 不实 | Modern Family S02E02 *That is so untrue.* | *That is untrue. Tell me what really happened.* — 那不是真的，告诉我到底怎么了。 |
+
+#### 同一个语义场：整齐 ↔ 乱 ↔ 脏
+
+*tidy* 的近义反义不止 *untidy*。按「没放回原位 → 乱成一团 → 脏」这三层，家里最常用的是这几对：
+
+| 反义对 | 简中 | 出处 | 家里可替换 |
+| --- | --- | --- | --- |
+| **tidy** ↔ **messy** | 整齐 ↔ 乱 | 正反义词游戏 · 状态与描述类 | *The room is messy. Let's tidy up.* — 房间很乱，我们收拾一下。 |
+| **clean** ↔ **dirty** | 干净 ↔ 脏 | 正反义词游戏 · 状态与描述类 | *Your hands are dirty. Wash them.* — 你的手脏了，去洗一下。 |
+| **clean** ↔ **messy** | 整洁 ↔ 乱 | 正反义词游戏 · 状态与描述类 | *The room is clean now. It was messy before.* — 房间现在很整洁，之前很乱。 |
+| **quiet** ↔ **noisy** | 安静 ↔ 吵闹 | 正反义词游戏 · 情绪类 | *Too noisy! Let's be quiet.* — 太吵了，我们安静点。 |
+
+- 三个词各管一层：**untidy** 是「没放回原位」，**messy** 是「乱成一团」，**dirty** 是「脏」。可以顺着说成一条链：*untidy → messy → dirty*。
+- *un-* 不是万能的：*big* 的反义是 *small*，不说 *unbig*；有的词用别的否定前缀，*patient → impatient*（im-）、*irregular*（ir-）、*dishonest*（dis-）。
+
+讲解这几句可以接着用：
+
+*Untidy, unhappy, unfair — they all start with un-.* — untidy、unhappy、unfair 都以 un- 开头。
+
+*Un- means not, so untidy means not tidy.* — un- 是「不」，所以 untidy 就是不整齐。
+
+*Happy and unhappy are opposites. Fair and unfair are opposites too.* — happy 和 unhappy 是反义，fair 和 unfair 也是。
+
+*Notice that we do not say unbig. We say small.* — 注意不说 unbig，要说 small。
+
+*Does that make sense?* — 这样讲得通吗？
+
+相关：[[learning-notes/parenting-english/games-and-activities/parenting-opposites-antonyms-game|正反义词游戏 — Opposites Game]]（状态与描述类、情绪类）· [[learning-notes/parenting-english/daily-life/parenting-tidy-up-daily-phrases|收拾整理日常 — Clean Up & Organize]]。
 
 ### bookshelf
 

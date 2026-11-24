@@ -6,29 +6,129 @@
 **相关：** 讲解套式见 [[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e01-getting-up-notes|Jeff E01 · 讲解用语]]、[[learning-notes/tv-series/a-day-in-the-life-of-jeff/episode-notes/jeff-e02-cleaning-up-notes|Jeff E02 · 讲解用语]]。
 **相关：** *don't like* 见 [[learning-notes/parenting-english/shanghai-english-textbook/units/grade-3-v1/u05-what-do-we-eat|三上 U5 · 吃什么]]。
 
-**Peppa——P**
+**角色缩写：** P = Peppa · G = George · MP = Mummy Pig · DP = Daddy Pig · GNP = Granny Pig · GPP = Grandpa Pig
 
-**George——G**
+### Scene · At Grandpa Pig's Garden（菜园选菜 · 段1/3）
 
-**Mummy Pig——MP**
+Peppa and George have come to Grandma Pig and Grandpa Pig’s house for lunch.
 
-**Daddy Pig——DP**
+P: Granny Pig.
 
-**Granny Pig——GNP**
+G: Granny Pig.
 
-**Grandpa Pig——GPP**
+GNP: Hello, my little ones! Would you like to pick some vegetables from the garden for lunch?
 
-**Peppa and George have come to Grandma Pig and Grandpa Pig’s house for lunch.**
+P: Yes, please. Grandpa Pig!
 
-**P: Granny Pig.**
+G: Grandpa Pig!
 
-**G: Granny Pig.**
+GPP: Hello, Peppa, George!
 
-**GNP: Hello, my little ones! Would you like to pick some vegetables from the garden for lunch?**
+This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.
 
-**P: Yes, please.
-Garandpa Pig!** **G: Grandpa Pig!** **GPP: Hello, Peppa, George!** **This is Grandpa Pig’s vegetable garden. He has grown all these vegetables himself.** **G: Grrrrr.** **GPP: What’s this?** **G: Dine-saw.** **GPP: A dinosaur, hahhah! Let’s choose some vegetables for lunch.
-Peppa, would you like tomatoes?** **P: Yes, Grandpa Pig.** **GPP: George, do you like tomatoes?** **G: No.** **P: George does not like tomatoes.** **GPP: Oh, dear! Do you both like lettuce?** **P: Yes, Granpa Pig.** **G: No.** **P: George does not like lettuce.** **GPP: Oh dear! I must have something that George likes. Do you like cucumber?** **G: Yuck!** **George does not like cucumbers. And he does not like lettuce. And he does not like tomatoes.** **GPP: Well, George, what vegetable do you like?** **G: Chocolate cake!** **P: Silly George. Chocolate cake isn’t vegetable.** **CPP: Maybe George will like the vegetables when they are made into a lovely salad.** **GNP: Oh, lovely fresh tomatoes, lettuce and cucumber. First, we have to wash them.** **Peppa and George help Granny Pig wash the vegetables.** **GNP: Maybe that’s enough washing.** **Granny Pig has made the tomatoes, lettuce and cucumber into a salad.** **GNP: Grandpa Pig, can you call everyone to lunch?** **GPP: Lunch!** **Granny Pig has made pizza for lunch.** **GNP: And here's some salad made with Grandpa’s tomatoes, lettuce and cucumber.** **GPP: Tuck-in, everyone!** **George has eaten his pizza. But George does not like tomatoes, all the lettuce or the cucumber.** **GNP: Oh dear, George. Don’t you like the salad?** **G: No!** **MP: George, just try a little bit of this lovely tomatoes.** **G: Yuck!** **GNP: george, this is cucumber. Grandpa Pig grew it in his garden.** **G: Errrr.** **DP: Try a piece of lettuce, George, it’s yummy.** **(Weeeee, George crying.)** **GPP: Oh, no, no, George. Look what I am doing. Now it’s a dinosaur.** **G: Dine-saw. Grrrrr.** **George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.** **MP: Well done, George.** **GNP: Would you like some more, George?** **G: Full.** **GPP: George, are you too full to eat any more tomatoes, lettuce or cucumber?** **George is too full to eat any more.** **MP: George, are you too full to eat anything more?** **George is too full to eat anything more.** **GNP: Oh, well , then you won't want any of this chocolate cake.** **G: Chocolate cake!** **GPP: My word! George has got his appetite back.**
+G: Grrrrr.
+
+GPP: What’s this?
+
+G: Dine-saw.
+
+GPP: A dinosaur, hahhah! Let’s choose some vegetables for lunch. Peppa, would you like tomatoes?
+
+P: Yes, Grandpa Pig.
+
+GPP: George, do you like tomatoes?
+
+G: No.
+
+P: George does not like tomatoes.
+
+GPP: Oh, dear! Do you both like lettuce?
+
+P: Yes, Grandpa Pig.
+
+G: No.
+
+P: George does not like lettuce.
+
+GPP: Oh dear! I must have something that George likes. Do you like cucumber?
+
+G: Yuck!
+
+George does not like cucumbers. And he does not like lettuce. And he does not like tomatoes.
+
+GPP: Well, George, what vegetable do you like?
+
+G: Chocolate cake!
+
+P: Silly George. Chocolate cake isn’t a vegetable.
+
+GNP: Maybe George will like the vegetables when they are made into a lovely salad.
+
+### Scene · Wash the Vegetables（洗菜做沙拉 · 段2/3）
+
+GNP: Oh, lovely fresh tomatoes, lettuce and cucumber. First, we have to wash them.
+
+Peppa and George help Granny Pig wash the vegetables.
+
+GNP: Maybe that’s enough washing.
+
+Granny Pig has made the tomatoes, lettuce and cucumber into a salad.
+
+GNP: Grandpa Pig, can you call everyone to lunch?
+
+GPP: Lunch!
+
+### Scene · Lunch Is Ready（开饭 · 段3/3）
+
+Granny Pig has made pizza for lunch.
+
+GNP: And here's some salad made with Grandpa’s tomatoes, lettuce and cucumber.
+
+GPP: Tuck in, everyone!
+
+George has eaten his pizza. But George does not like tomatoes, all the lettuce or the cucumber.
+
+GNP: Oh dear, George. Don’t you like the salad?
+
+G: No!
+
+MP: George, just try a little bit of this lovely tomatoes.
+
+G: Yuck!
+
+GNP: George, this is cucumber. Grandpa Pig grew it in his garden.
+
+G: Errrr.
+
+DP: Try a piece of lettuce, George, it’s yummy.
+
+(Weeeee, George crying.)
+
+GPP: Oh, no, no, George. Look what I am doing. Now it’s a dinosaur.
+
+G: Dine-saw. Grrrrr.
+
+George loves dinosaurs. George is eating the tomatoes, lettuce and cucumber.
+
+MP: Well done, George.
+
+GNP: Would you like some more, George?
+
+G: Full.
+
+GPP: George, are you too full to eat any more tomatoes, lettuce or cucumber?
+
+George is too full to eat any more.
+
+MP: George, are you too full to eat anything more?
+
+George is too full to eat anything more.
+
+GNP: Oh, well, then you won't want any of this chocolate cake.
+
+G: Chocolate cake!
+
+GPP: My word! George has got his appetite back.
 
 ## Episode vocabulary（本集词汇）
 
